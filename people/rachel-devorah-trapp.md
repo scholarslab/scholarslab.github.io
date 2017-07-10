@@ -1,0 +1,20 @@
+---
+author: rdt2nf
+comments: false
+date: 2015-09-10 11:19:15+00:00
+excerpt: Rachel Devorah Trapp is a composer and digital art archivist.
+layout: people
+slug: rachel-devorah-trapp
+title: Rachel Devorah Trapp
+people-category:
+- 2015-2016
+- Praxis Fellow
+---
+
+Rachel Devorah Trapp is a composer and digital art archivist. Her context-specific works for performance and installation crystallize in sound the habits of being: the daily patterns of ineffable exchange that bind our individual lives together.
+
+Pieces by Trapp have been performed by artists such as orkest de ereprijs, loadbang, Meehan/Perkins Duo, and Fred Frith at places such as the National Opera Center (NY), Pioneer Works (NY), the OPENSIGNAL Festival at Brown University (RI), Røst AiR (Norway), the International SuperCollider Symposium (CO), the Music for People and Thingamajigs Festival (CA), and Art in Odd Places (NC). Her projects have been supported by grants and residencies from New Music USA and Studio for Electro-Instrumental Music (STEIM).
+
+Trapp has contributed to the digital art archives of New Museum Digital Archive, New York Public Library Performing Arts Center, and Mills College Center for Computer Music. The 2015-2016 academic year is her second year of doctoral studies at the University of Virginia where she is also a Jefferson Fellow. She has previously studied music and other forms of information at Mills College, San José State University, and the City University of New York.
+
+[racheldevorahtrapp.com](http://Rachel Devorah Trapp is a composer and digital art archivist.)
