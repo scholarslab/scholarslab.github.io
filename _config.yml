@@ -17,3 +17,19 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+collections:
+  people:
+    output: true
+    permalink: /:collection/:name/
+  research:
+    output: true
+    permalink: /:collection/:name/
+
+header_pages:
+  - about.md
+  - research.md
+  - graduate-fellowships.md
+  - makerspace/makerspace.md
+  - events.md
+  - blog.md
+  - people.md

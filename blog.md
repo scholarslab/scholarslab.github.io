@@ -4,7 +4,6 @@ layout: page
 link: http://scholarslab.org/blog/
 slug: blog
 title: Blog
-wordpress_id: 77
 ---
 
 {% for post in site.posts %}
