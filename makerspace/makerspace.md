@@ -52,7 +52,7 @@ Learning _how_ to do something with humanities technology gives us a more inform
 **Ammon Shepherd:** 3D Printing, Electronics, Programming, Digital Humanities
 
 
-## 
+##
 
 
 
@@ -71,70 +71,70 @@ Interested in exploring the Makerspace?  Have an idea to use microcontrollers o
 
 
 
- 	
+
   * FDM 3D Printers: MakerBot Replicator 2, Ultimaker 2, Lulzbot TAZ 5
 
- 	
+
   * Assortment of FDM 3D printer filaments
 
- 	
+
   * [Sparkfun Arduino kits](https://www.sparkfun.com/products/12001), with Arduino UNO boards and an assortment of Arduino shields.
 
- 	
+
   * [Raspberry Pi](http://www.raspberrypi.org/)
 
- 	
+
   * Basic supplies for wearables and tactile computing
 
- 	
+
     * Conductive thread
 
- 	
+
     * Conductive fabric
 
- 	
+
     * Felt
 
- 	
+
     * Sewing needles and thread
 
- 	
+
     * Quilting/cross-stitch frames
 
 
 
 
- 	
+
   * 55" LCD television with touch screen
 
- 	
+
   * iMac with software installed
 
- 	
+
   * Wacom Cintiq 22HD graphics tablet
 
- 	
+
   * Camera equipment:
 
- 	
+
     * Canon EOS 6D DSLR camera with 24mm f/2.8 and 35mm f/2.0 lenses
 
- 	
+
     * Samsung NX1000 MILC camera with kit lens
 
 
 
 
- 	
+
   * Tool box with basic hand tools (wrenches, screwdrivers. etc.)
 
- 	
+
   * Soldering irons, solder, helping hands
 
- 	
+
   * Digital multimeters
 
- 	
+
   * Spare parts for basic electronics tinkering (breadboards, wire, switches, sensors)
 
 
