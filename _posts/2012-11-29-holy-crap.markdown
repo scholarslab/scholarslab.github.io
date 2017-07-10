@@ -1,0 +1,17 @@
+---
+author: ssl2ab
+comments: true
+date: 2012-11-29 21:52:17+00:00
+layout: post
+link: http://scholarslab.org/grad-student-research/holy-crap/
+slug: holy-crap
+title: Holy crap
+wordpress_id: 6911
+categories:
+- Grad Student Research
+tags:
+- praxis program
+- rails
+---
+
+You can dynamically add methods to built-in classes in Ruby without re-instantiating them?

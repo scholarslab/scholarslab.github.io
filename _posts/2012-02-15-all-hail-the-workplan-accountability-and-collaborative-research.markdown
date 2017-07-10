@@ -1,0 +1,26 @@
+---
+author: bnl2ja
+comments: true
+date: 2012-02-15 13:22:59+00:00
+layout: post
+link: http://scholarslab.org/digital-humanities/all-hail-the-workplan-accountability-and-collaborative-research/
+slug: all-hail-the-workplan-accountability-and-collaborative-research
+title: 'All Hail the Workplan!: Accountability and Collaborative Research'
+wordpress_id: 3670
+categories:
+- Digital Humanities
+- Grad Student Research
+tags:
+- Digital Humanities
+- praxis program
+- Prism
+- project-management
+---
+
+In our first official meeting as Project Managers, Sarah and I drew a line on the whiteboard that had two distinct endpoints - a start and a finish. The start point was that day's date, January 17th, and the endpoint would be whatever date we could get the group to agree on for Prism's launch. After briefing the group in [our project management crash course](http://praxis.scholarslab.org/topics/project-management/) on the elements of a good workplan, I grabbed a marker, Sarah opened a Google doc, and the great experiment began. We worked backwards from the official release of Prism into the world, setting hard dates for the feature freeze and soft launch, and then drew in key points for each aspect of the project (when the highlighting function will be coded, when the pages will be designed, etc.). And so the workplan was born. The process took something like 90 minutes, but it might have been the most productive 90 minutes I've experienced in Praxis so far.
+
+Though Sarah and I have both freely admitted to our fetishization of deadlines, hard-and-fast deadlines seem to be rare in graduate school. It is not uncommon to ask for, and usually receive, extensions on research papers, even theses (though that involves quite a bit more hoop-jumping), and everyone knows at least one perpetually-dissertating Ph.D. I also don't know many graduate students who can set rigid deadlines for themselves and adhere to them without fail.  I don't mean to speak judgmentally of my own ilk, but as a species, humanities graduate students seem to be more comfortable with deadlines of a very flexible nature, and for good reason. Our research is often difficult to demarcate into stages, and hours of work are not easy to estimate because the material we examine is rarely quantitative.
+
+I say all this to preface my surprise at the ease in which the Praxis team was collectively able to create and agree on a workplan, as well as at the relief most team members expressed once tasks were clearly assigned to dates on the whiteboard and to people in GitHub, which is what we'll be using for workflow management. The readings on project management repeatedly emphasized the value of allowing those responsible for certain aspects of the project to set their own deadlines, and so far Sarah and I have been the only ones to push back a deadline we've set (for writing the About page prose, no less, which you would think would be easy for English grad students). The team has consistently met their deadlines and each specialized group has met to set even more specific goals for their work. Prism is coming along, at warp speed!
+
+I'm beginning to see the efficacy of group workplans outside of Praxis, too, and this coincides with [my earlier post](http://www.scholarslab.org/digital-humanities/project-management-and-graduate-training/) about the possibilities for collaborative work available to graduate students who seek them. I am currently one of two representatives for Master's students on the Graduate English Students Association board, and we've organized a thesis work group in response to a request at last semester's department town hall meeting. I expected the group to be very lax, meeting biweekly to check in and sound off, but the group quickly decided to meet weekly, share work frequently, and set rigid deadlines; our task for this week's meeting is to devise a thesis syllabus, a workplan for thesis research for the semester. I was not expecting this level of enthusiasm for deadlines and accountability from a room full of second-year MAs -  many of whom are distracted by job-hunting or, like me, the medieval torture chamber that is Ph.D. program admissions -  but even outside of DH projects, it seems that graduate students _want_  to work collaboratively because being accountable to a group, the joys and shames of having to report your successes and your failures to peers, can be a very powerful motivator.

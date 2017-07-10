@@ -1,0 +1,88 @@
+---
+author: ammon
+comments: true
+date: 2016-07-22 16:02:04+00:00
+layout: post
+link: http://scholarslab.org/research-and-development/robocamp-2016/
+slug: robocamp-2016
+title: Robocamp 2016
+wordpress_id: 12820
+categories:
+- Research and Development
+tags:
+- light writing
+- robots
+---
+
+I had the pleasure of spending a week with the folks in the Architecture School learning and playing with their Kuka robot (named Karl, [http://www.robotsinarchitecture.org/](http://www.robotsinarchitecture.org/)). This was the first run of a hopefully recurring camp to introduce faculty and staff to the robot arm in the Fab-lab in the A-school. Most of the participants were A-school faculty, but there was also me from the Library, someone from the Music school's Maker space, and someone from the Bio-engineering school (they just purchased a Kuka KL 3000, a much bigger bot).
+
+![IMG_20160722_140917](http://scholarslab.org/wp-content/uploads/2016/07/IMG_20160722_140917-949x1024.jpg)
+
+Over four days we learned how to make the robot do marvelous and wonderful tricks.
+
+
+### Day 1: Push some clay around.
+
+
+The object of this day was to learn the basics of the software that runs the Kuka robot.
+
+We picked a tool that we would have the robot push into the clay at a certain number of intervals. The idea being to pour plaster onto the clay to create a permanent design:
+
+[gallery link="file" size="medium" columns="2" ids="12823,12824"]
+
+This was the most basic tool, just an extension of the arm itself, with different shapes on the end.
+
+
+### Day 2: Cut a foam block
+
+
+This day we used the robot to cut a foam block with a hot wire. We drew a line in the software that would correspond to a long vertical cut in the block. What we didn't know at the beginning, was that after the first cut the block is rotated 90 degrees, and the cut is made again.
+
+This produced four long pieces that could be rotated to form a column with a unique profile on each side.
+
+![IMG_20160720_154748](http://scholarslab.org/wp-content/uploads/2016/07/IMG_20160720_154748-758x1024.jpg)
+
+I wrote my name with the line, which produced this:
+
+![IMG_20160720_154713](http://scholarslab.org/wp-content/uploads/2016/07/IMG_20160720_154713-1024x758.jpg)
+
+The focus of this day was to help us think spatially. We could add twists to the curves which led to columns that were hard to mentally visualize how they would turn out. Here is a sample of the columns our group generated:
+
+[gallery columns="2" size="medium" ids="12835,12836,12834,12833"]
+
+
+### Day 3: Light writing
+
+
+We used a little bit more sophisticated tool end this day. It was an LED light that could switch colors. We designed a shape and assigned a color to each line or curve or segment.
+
+I didn't get very creative on this one, but others had great ideas:
+
+[gallery size="medium" ids="12839,12837,12838,12840,12841,12842,12843"]
+
+
+### Day 4: 3D extruding
+
+
+This day was a more demonstrative than hands-on. We went through the basics of how to get the robot to use a 3D pen to print filament in 3D space. Rather than limiting printing to a series of layers on top of each other, the printing can happen in true 3D space.
+
+Finally, we sat together and discussed how robotics can and should impact our fields, and how the robo-camp went in general.
+
+The discussion was light, and basically just touched on the following topics, or simply asked these questions. No deep discussion or trying to answer, just a quick question- and thought-dump session.
+
+
+
+ 	
+  * What can robots do that humans can't, besides going faster and more accurate?
+
+ 	
+  * What can robots do for humanities research? How can they improve and help data visualization?
+
+ 	
+  * What are the components necessary for the robot to function? The robot has motion, but it needs sensory input, data, in order to act on it.
+
+ 	
+  * One of the former students presented an example from their year of working with the robot and noted a frustration that perhaps Libraries can and should be able to help with. This group wanted to use the robot to print cement in true 3D (not like traditional 3D printers that basically print 2D layers, and then print layer upon layer). In order to accomplish this, they had to design and build their own tool. The idea was to have a nozzle that changed shape while extruding the cement, thereby adding another layer of control and design to the printed object. The group was frustrated in the many hours spent in figuring out how to get motors to operate, when there are people out there (and probably students on campus) who know how to do this in their sleep. They spent time developing the tool instead of refining the product. Sometimes creating the tool is a beneficial and important step in creating a product. Other times it detracts from the end goal. Libraries could/should be a great resource for connecting two groups that can benefit from each others collaboration. The Scholars' Lab can/should be such a hub of networking and connection.
+
+
+All in all it was a great experience. Mind opening and enlightening.

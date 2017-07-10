@@ -1,0 +1,26 @@
+---
+author: klr3p
+comments: true
+date: 2012-04-17 09:52:52+00:00
+layout: post
+link: http://scholarslab.org/announcements/an-intro-to-my-work-with-sci/
+slug: an-intro-to-my-work-with-sci
+title: An intro to my work with the Scholarly Communication Institute (SCI)
+wordpress_id: 4193
+categories:
+- Announcements
+tags:
+- alt-ac
+- altac
+- survey
+---
+
+Hi, readers! It's such a pleasure to be writing in this space. [As you may know](http://www.scholarslab.org/announcements/welcoming-katina-rogers/), I came onboard as Senior Research Specialist for the [Scholarly Communication Institute](http://uvasci.org/current-work/) just a couple of weeks ago. SCI is housed within the Scholars' Lab (which means I get to be a part of this stellar group that, if you're reading here, you already know well), and over the past nine years has convened discussion-based summer institutes on topics related to all aspects of scholarly communication. I'm still green as can be, but the shapes of my projects are becoming clearer, and as I plan them out I'm getting a sense of just how quickly these eighteen months will go.
+
+So, what is it exactly that I'll be doing? At this point I'm thinking of my role as having two main streams. The first stream focuses on understanding and reforming **methodological training in humanities graduate programs**, and consists of two related projects: a census and a survey. Through the census, which will become a part of the [#Alt-Academy ](http://mediacommons.futureofthebook.org/alt-ac/)website, I will seek out humanities-trained scholars who self-identify as working in alt-ac roles; the results will be displayed as a dynamic and searchable directory on #Alt-Academy. It's important to me that the census cast a wide net in order to get as complete a picture as possible of the constellations of people working in alt-ac positions.
+
+The census, useful in its own right, will also be a stepping stone leading towards another goal: working from the census, I will be administering a survey of alt-academics in order to determine opportunities for improved career preparation and refined methodological training in humanities programs. The survey responses, which will be strictly confidential, will help us to move beyond the anecdotal and gain concrete understanding of the skills that advanced humanities programs currently provide relative to the needs that graduates of the programs experience in their careers. Once it's complete, a report on the survey results will be published by [CLIR](http://www.clir.org/).
+
+The second work stream involves supporting and sharing outcomes from a series of meetings that SCI will be convening on **reforming humanities graduate education** and on the **continued development of new models of scholarly publishing and authoring**. The meetings focusing on graduate education reform will be held in partnership with [CHCI](http://chcinetwork.org/) and [centerNet](http://digitalhumanities.org/centernet), and will probe more deeply into questions raised by the results of the survey mentioned above, as well as many other issues surrounding graduate education. The meetings on scholarly publishing and authoring are in partnership with three outstanding projects from the [Alliance for Networking Visual Culture](http://scalar.usc.edu/anvc/), [PressForward](http://pressforward.org/), and the Modern Language Association’s [program in scholarly communication](http://www.mla.org/news_from_mla/news_topic&topic=303). For each of these meetings (the first of which takes place in early May), I'll be providing research support and documenting the substance of the conversations. Needless to say, I'm very much looking forward to taking part in both sets of meetings, which include extraordinary people.
+
+I'll post updates here from time to time, so watch for more as the weeks go by! I'll also continue posting to my [personal blog](http://blackinkwhitepage.wordpress.com/) and my [Twitter feed](https://twitter.com/#!/katinalynn), so if you're interested in the topics I'll be working on, you may enjoy keeping an eye on those unofficial channels as well. Finally, I'll be seeking input for the census and survey over the coming weeks (both in terms of who to include and what questions to ask), so if you have thoughts or questions, please feel free to connect with me directly.

@@ -1,0 +1,79 @@
+---
+author: dm4fn
+comments: true
+date: 2013-07-09 14:59:18+00:00
+layout: post
+link: http://scholarslab.org/announcements/neatline-2-0/
+slug: neatline-2-0
+title: Announcing Neatline 2.0.0! A stable, production-ready release
+wordpress_id: 8473
+categories:
+- Announcements
+- Geospatial and Temporal
+tags:
+- neatline
+---
+
+_[Cross-posted from [dclure.org](http://dclure.org/?p=2577)]_
+
+[![neatline-2](http://dclure.org/wp-content/uploads/2013/06/neatline-21-1024x293.png)](http://dclure.org/wp-content/uploads/2013/06/neatline-21.png)
+
+It's finished! Today we're excited to announce [Neatline 2.0.0](http://omeka.org/add-ons/plugins/neatline/), a stable, production-ready release of the new codebase that can be used to upgrade existing installations. If you’re starting fresh with a new project, just download the new version and install it like any other Omeka plugin. If you're upgrading from Neatline 1.x, be sure to read through the [2.0 migration guide](http://docs.neatline.org/upgrading-to-v2.html) before getting started (**most important - the 2.0 migration runs as a "background process," which means that there could be a 10-20 second lag before your old exhibits are visible under the "Neatline" tab**). Then, if you want to use the SIMILE Timeline widget and item-browser panel that were built into the first version of Neatline, download [NeatlineSimile](http://omeka.org/add-ons/plugins/neatlinesimile/) and [NeatlineWaypoints](http://omeka.org/add-ons/plugins/neatlinewaypoints/), the two new sub-plugins that integrate those features seamlessly into the Neatline core. For more information, check out the (all new!) [documentation](https://github.com/scholarslab/Neatline/wiki), which walks through the installation process in detail.
+
+Download the plugins: **[Neatline](http://omeka.org/add-ons/plugins/neatline/)** | **[NeatlineWaypoints](http://omeka.org/add-ons/plugins/neatlinewaypoints/)** | **[NeatlineSimile](http://omeka.org/add-ons/plugins/neatlinesimile/)**
+
+Neatline 2.0 is a major update that significantly expands the scope of the project. Building on the core set of geospatial annotation tools from the first version, we've turned Neatline into a general-purpose visual annotation framework that can be used to create interactive displays of almost any type of two-dimensional material - maps, paintings, drawings, photographs, documents, and anything else that can be captured as an image. We've also made a series of changes to the user interface and code architecture that are designed to make Neatline more accessible for new users (college undergraduates working on class assignments) and, at the same time, more flexible for advanced users (professional scholars, journalists, and digital artists who want to use Neatline  for complex projects).
+
+Some of the highlights:
+
+
+
+
+
+
+  * **[Improved performance and scalability](http://dclure.org/logs/neatline-one-million-records/)**, powered by a real-time spatial querying system that makes it possible to work with really large collections of records - as many as about 1,000,000 in a single exhibit;
+
+
+	
+
+  * **[A more sophisticated set of drawing tools](http://dclure.org/logs/neatline-drawing-svg-on-maps/)**, including the ability to  import high-fidelity SVG documents created in programs like Adobe Illustrator or Inkscape and interactively drag them into position as geometry in Neatline exhibits;
+
+
+	
+
+  * **[An interactive, CSS-like stylesheet system](http://dclure.org/logs/interactive-css-in-neatline-2-0/)**, build directly into the editing environment, that makes it possible to quickly perform bulk updates on large collections of records using a simplified dialect of CSS;
+
+
+	
+
+  * **[A flexible user-permissions system](http://dclure.org/logs/announcing-neatline-2-0-alpha2/)**, designed to make it easier to use Neatline for class assignments and workshops, that makes it possible to prevent users from modifying or deleting content they didn't create;
+
+
+
+
+  * **Expanded support for non-spatial base layers** that makes it possible to build exhibits on top of any web-accessible static image or non-spatial WMS layer - paintings, drawings, photographs, documents, etc.
+
+
+	
+
+  * **A more powerful theming system**, which makes it possible for designers to completely customize the appearance and interactivity of each individual Neatline exhibit. This makes it possible to host completely independent and thematically-distinct projects inside a single installation of Omeka.
+
+
+	
+
+  * **A total rewrite of the front-end JavaScript applications** (both the editing environment and the public-facing exhibit views) that provides a more minimalistic and responsive environment for creating and viewing exhibits;
+
+
+	
+
+  * **A new programming API and "sub-plugin" system** that makes it possible for developers to add custom functionality for specific projects - everything from simple user-interface widgets (sliders, legends, scrollers, forward-and-backward buttons, etc.) up to really extensive modifications that expand the core data model and add totally new interactions.
+
+
+
+
+
+And much more! Over the course of the next week, leading up to our panel about Neatline at the [DH 2013](http://dh2013.unl.edu/) conference in Lincoln, Nebraska ("Circular Development: Neatline and the User/Developer Feedback Loop," Wednesday at 10:30), we're going to be fleshing out the new documentation and building a set of Neatline-2.0-powered projects designed to put the new feature set through its paces.
+
+Also, watch this space later in the week for another code release - we've built an extension called NeatlineTexts that connects Neatline exhibits with word-level annotations in long-format documents, which makes it possible to use Neatline as a publication platform for essays, blog posts, scholarly articles, monographs, etc., and built a special Omeka that's specifically designed to frame these interactive editions.
+
+Until then - grab the new code, give it spin, and let us know what you think!

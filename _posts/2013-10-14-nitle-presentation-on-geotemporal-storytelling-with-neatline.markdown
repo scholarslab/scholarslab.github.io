@@ -1,0 +1,19 @@
+---
+author: jeremy
+comments: true
+date: 2013-10-14 10:20:58+00:00
+layout: post
+link: http://scholarslab.org/digital-humanities/nitle-presentation-on-geotemporal-storytelling-with-neatline/
+slug: nitle-presentation-on-geotemporal-storytelling-with-neatline
+title: NITLE Presentation on Geotemporal Storytelling with Neatline
+wordpress_id: 8945
+categories:
+- Digital Humanities
+- Geospatial and Temporal
+tags:
+- neatline
+---
+
+About this time last year, [David McClure](http://www.scholarslab.org/people/david-mcclure/) and I had a great conversation with the folks from the [National Institute for Technology in Liberal Education (NITLE)](http://www.nitle.org/) about geotemporal storytelling with [Neatline](http://neatline.org). We had lots of great questions and comments from the audience, too. Video for the talk is now available on NITLE's YouTube channel:
+
+

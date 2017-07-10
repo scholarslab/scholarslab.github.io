@@ -1,0 +1,18 @@
+---
+author: ssl2ab
+comments: true
+date: 2012-11-30 11:22:27+00:00
+layout: post
+link: http://scholarslab.org/grad-student-research/literals/
+slug: literals
+title: Literals
+wordpress_id: 6952
+categories:
+- Grad Student Research
+tags:
+- praxis program
+- Programming
+- rails
+---
+
+It turns out that Fixnums are special and are represented as "immediate values", which from what I understand is just Ruby for "literals". This kind of lets the air out of the whole "everything in Ruby is an Object" when they are really no such thing.

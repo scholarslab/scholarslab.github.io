@@ -1,0 +1,23 @@
+---
+author: ericdmj
+comments: true
+date: 2013-03-29 14:17:58+00:00
+layout: post
+link: http://scholarslab.org/announcements/2013-14-dh-fellowship/
+slug: 2013-14-dh-fellowship
+title: 'Call for Applicants: UVa Graduate Fellowship in DH'
+wordpress_id: 7793
+categories:
+- Announcements
+- Grad Student Research
+---
+
+[![fellows](http://www.scholarslab.org/wp-content/uploads/2009/10/fellows1.png)](http://www.scholarslab.org/wp-content/uploads/2009/10/fellows1.png)The Scholars’ Lab is proud to host prestigious [fellowship program](http://www.scholarslab.org/graduate-fellowships/) for ABD graduate students doing significant and innovative work in the digital humanities at the University of Virginia.
+
+Supported by the Jeffrey C. Walker Library Fund for Technology in the Humanities, the Matthew & Nancy Walker Library Fund, and a challenge grant from the National Endowment for the Humanities, the Graduate Fellowship in DH is designed to advance the humanities and provide emerging digital scholars with an opportunity for growth.
+
+In collaboration with other Library departments, the Scholars' Lab offers Grad Fellows consulting services and assistance with the creation and analysis of digital content, as well as advice on intellectual property issues and best practices in digital scholarship and DH software development. Fellows join our vibrant community, have a voice in intellectual programming for the Scholars' Lab, make use of a dedicated grad lounge, and participate in one formal colloquium at the Library per semester.
+
+**Applications for the 2013-14 fellowship year are now being accepted.**  Please see the [DH Fellowship page](http://www.scholarslab.org/graduate-fellowship-in-digital-humanities/) for more information about the program, eligibility requirements, and application information. **Deadline: April 15th!**
+
+Please contact [Eric Johnson](mailto:ej9k@virginia.edu), Head of Outreach & Public Services at the Scholars' Lab, with any questions.

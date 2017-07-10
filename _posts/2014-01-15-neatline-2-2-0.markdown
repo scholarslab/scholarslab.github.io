@@ -1,0 +1,59 @@
+---
+author: dm4fn
+comments: true
+date: 2014-01-15 12:28:07+00:00
+layout: post
+link: http://scholarslab.org/announcements/neatline-2-2-0/
+slug: neatline-2-2-0
+title: 'Neatline release-apalooza: Neatline 2.2.0, Neatscape, Astrolabe'
+wordpress_id: 9070
+categories:
+- Announcements
+tags:
+- neatline
+---
+
+Today we're excited to announce the release of Neatline 2.2.0! This is a big update that ships out a cluster of features and fixes that address a couple of rough spots identified by users over the course of the last couple months. 2.2.0 focuses on improvements in two areas - first, we've overhauled the workflows that connect Neatline records with Omeka items to make them more intuitive, flexible, and feature-rich, with the goal of making the overall integration between the two environments feel more seamless and low-friction. Second, we've added a system of interactive documentation to the editor that builds reference materials and tutorials directly into the interface, which should make it easier for new users to find their way around.
+
+We're also pushing out maintenance releases of the two extensions, NeatlineSimile and NeatlineWaypoints, which add compatibility for Neatline 2.2 and deal with a couple of minor bugs. As always, grab the code from the Omeka addons repository:
+
+**[Neatline 2.2.0](http://omeka.org/add-ons/plugins/neatline/)** | **[NeatlineSimile 2.0.1](http://omeka.org/add-ons/plugins/neatlinesimile/)** | **[NeatlineWaypoints 2.0.2](http://omeka.org/add-ons/plugins/neatlinewaypoints/)**
+
+What's more, we're also making release candidates available for two new Omeka themes designed to showcase Neatline exhibits: [Astrolabe](http://omeka.org/add-ons/themes/astrolabe/) and [Neatscape](http://omeka.org/add-ons/themes/neatscape/). Loyal readers may recall that a while back, we [ran a theme naming contest](http://www.scholarslab.org/announcements/neatline-omeka-theme-name-winners/), and we're finally making good on our word! These are just release candidates, but we wanted to get them out in the open for testing and feedback before cutting off stable releases. Give them a spin, and be sure to file a ticket on the respective issue trackers ([Astrolabe](https://github.com/scholarslab/astrolabe/issues) and [Neatscape](https://github.com/scholarslab/neatscape/issues)) if you find quirks or need new features.
+
+Some highlights in Neatline 2.2:
+
+
+
+
+
+
+  * **Adds a new interface for linking Neatline records to Omeka items** that makes it possible to browse the entire collection of items, run full-text searches, and instantaneously preview the Omeka content (metadata, images, etc.) as it will appear in the public Neatline exhibit.
+
+[![item-binding](http://dclure.org/wp-content/uploads/2014/01/item-binding.gif)](http://dclure.org/wp-content/uploads/2014/01/item-binding.gif)
+
+
+
+
+
+  * **Frees up the "Title" and "Body" fields for modification on Neatline records linked to Omeka items**. Previously, these fields were automatically populated with the item content imported from Omeka, making it impossible to add custom information not contained in the Omeka metadata. Now, Neatline leaves these fields open for editing and displays them above the content synced in from Omeka, making it possible (though not required) to add exhibit-specific headings and text descriptions for imported items.
+
+
+
+  * **Makes it possible to import raw data from the Dublin Core "Coverage" field**. When Omeka items are imported into Neatline exhibits, existing values in the Dublin Core "Coverage" field (either KML or WKT strings) are now automatically imported into Neatline and displayed on the map. Previously, this only worked if the coverage on the item was created with the Neatline Features plugin. With this functionality in place, it's much easier to bulk-import existing spatial data sets - use the [CSV Import](http://omeka.org/add-ons/plugins/csv-import/) plugin to populate a collection of items, and then push the new items to a Neatline exhibit.
+
+
+
+
+  * **Adds interactive documentation to the editor** that builds reference materials for each individual control directly into the interface. Now, the heading for each input is followed by a little "**?**" button that, when clicked, overlays a document with information about what the control does, how to use it, and how it interacts with other functionality. The goal is to make the editor effectively self-documenting, so that it's unnecessary to find separate documentation and toggle back and forth between different tabs as you work.
+
+[![interactive-docs](http://dclure.org/wp-content/uploads/2014/01/interactive-docs.gif)](http://dclure.org/wp-content/uploads/2014/01/interactive-docs.gif)
+
+
+
+
+
+
+Last semester was a busy one for Neatline - we were supporting twelve classes here at UVa that are using Neatline for research assignments, and had the good fortune to collaborate with a number of folks at Harvard, Stanford, Northeastern, Duke, Indiana, and elsewhere who were using Neatline or gearing up for upcoming projects in the new year. We've also got a couple of exciting ideas brewing here in the lab for new, Neatline-powered projects - keep an eye on this space over the course of the next couple months.
+
+As always, don't hesitate to file bug reports on the [issue tracker](https://github.com/scholarslab/Neatline/issues), post questions to the [forums](http://omeka.org/forums/forum/plugins), or [contact us directly](mailto:neatline@collab.itc.virginia.edu). Happy new year!
