@@ -1,9 +1,9 @@
 # bundle exec jekyll serve --watch
 
 # Site settings
-title: Your awesome title
+title: "Scholars' Lab"
 email: scholarslab@virginia.edu
-description: The Scholars' Lab
+description: "The Scholars' Lab"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scholarslab
