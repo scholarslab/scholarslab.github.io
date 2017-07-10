@@ -2,6 +2,7 @@
 
 # Site settings
 title: "Scholars' Lab"
+name: "Scholars' Lab"
 email: scholarslab@virginia.edu
 description: "The Scholars' Lab"
 baseurl: "" # the subpath of your site, e.g. /blog
