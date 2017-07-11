@@ -16,21 +16,19 @@ html, body {
 }
 
 html {
-  background: #f0f0f0;
+  background: hsla(40,40%,95%,1);
 }
+
 body {
   font: 18px/1.5 "Source Sans Pro", sans-serif;
   color: #404040;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 1rem 6rem;
-  background: white;
+  color: hsla(0,0,0,.8);
 }
 
 a {
   &:link,
   &:visited {
-    color: hsla(0, 0%, 0%, .9);
+    color: hsla(0, 0%, 0%, .8);
   }
   &:hover,
   &:focus {
@@ -46,6 +44,47 @@ h1 {
   line-height: 1.125;
 }
 
+img,svg {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+
+#homelink {
+  width: 120px;
+  padding-right: 1rem;
+  margin-right: 1rem;
+  border-right: 1px solid hsla(0,0,0,.125);
+  svg {
+    fill: hsla(0,0,0,.675);
+  }
+}
+
+#globalnav {
+  background: white;
+  background: rgba(255,255,255,.625);
+  background: hsla(40,40%,99%,1);
+  
+  display: flex;
+  align-items: center;
+  min-height: 3rem;
+  height: 15vh;
+  padding: 0 1.5rem;
+  line-height: 1;
+  text-transform: lowercase;
+  font-size: 1rem;
+  a,:link {
+    text-decoration:none;
+  }
+  a,svg,div {
+    line-height:0;
+  }
+
+  a + a:before {
+    content: " · ";
+    color: rgba(0,0,0,.125);
+  }
+}
 
 .audible {
     border: 0;
@@ -56,5 +95,10 @@ h1 {
     padding: 0;
     position: absolute;
     width: 1px;
+}
+
+main {
+  padding: 0 1.5rem;
+  max-width: 900px;
 }
 
