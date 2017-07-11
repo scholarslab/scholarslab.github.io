@@ -1,0 +1,60 @@
+---
+---
+
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
+
+* {
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin:0;
+  padding:0;
+}
+
+html {
+  background: #f0f0f0;
+}
+body {
+  font: 18px/1.5 "Source Sans Pro", sans-serif;
+  color: #404040;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem 6rem;
+  background: white;
+}
+
+a {
+  &:link,
+  &:visited {
+    color: hsla(0, 0%, 0%, .9);
+  }
+  &:hover,
+  &:focus {
+    color: hsla(0, 0%, 0%, .75);
+  }
+  &:active {
+    color: hsla(0, 0%,0%, .5);
+  }
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.125;
+}
+
+
+.audible {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+

@@ -11,6 +11,9 @@ twitter_username: scholarslab
 permalink: /:categories/:title/
 
 # Build settings
+sass:
+  sass_dir: _sass
+  style: compressed
 markdown: kramdown
 gems:
   - jekyll-feed
