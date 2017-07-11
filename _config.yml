@@ -11,7 +11,6 @@ twitter_username: scholarslab
 
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
 exclude:
@@ -24,12 +23,3 @@ collections:
   research:
     output: true
     permalink: /:collection/:name/
-
-header_pages:
-  - about.md
-  - research.md
-  - graduate-fellowships.md
-  - makerspace/makerspace.md
-  - events.md
-  - blog.md
-  - people.md
