@@ -11,6 +11,7 @@ twitter_username: scholarslab
 permalink: /:categories/:title/
 
 # Build settings
+incremental: true
 sass:
   sass_dir: _sass
   style: compressed
@@ -27,3 +28,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:name/
+
+header_pages:
+  - about.md
+  - people.md
+  - research.md
+  - blog.md
