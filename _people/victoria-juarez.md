@@ -1,10 +1,13 @@
 ---
-author: bmw9t
-comments: false
-date: 2017-06-15 14:46:39+00:00
+department: None
+email: None
 layout: people
+name: Victoria Juarez
+short_bio: ''
 slug: victoria-juarez
-title: Victoria Juarez
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2017'
 - LAMI Fellow

@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2013-09-10 14:45:10+00:00
+department: Music
+email: None
 layout: people
+name: Erik DeLuca
+short_bio: ''
 slug: erik-deluca
-title: Erik DeLuca
+status: not_current
+twitter: None
+website: http://erikdeluca.com/
 people-category:
 - 2013–2014
 - Graduate Fellow

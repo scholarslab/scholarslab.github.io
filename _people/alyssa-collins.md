@@ -1,10 +1,13 @@
 ---
-author: csb5t
-comments: false
-date: 2016-10-17 08:40:06+00:00
+department: English
+email: adc2dc@virginia.edu
 layout: people
+name: Alyssa Collins
+short_bio: ''
 slug: alyssa-collins
-title: Alyssa Collins
+status: not_current
+twitter: '@LyssaDee'
+website: None
 people-category:
 - 2016-2017
 - Praxis Fellow

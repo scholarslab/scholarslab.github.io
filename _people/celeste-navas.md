@@ -1,10 +1,13 @@
 ---
-author: ammon
-comments: false
-date: 2016-08-22 14:51:24+00:00
+department: None
+email: None
 layout: people
+name: Celeste Navas
+short_bio: ''
 slug: celeste-navas
-title: Celeste Navas
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2016'
 - LAMI Fellow

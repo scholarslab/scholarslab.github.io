@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-01-06 09:29:40+00:00
+department: None
+email: None
 layout: people
+name: Olivia Morgan
+short_bio: ''
 slug: olivia-morgan
-title: Olivia Morgan
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

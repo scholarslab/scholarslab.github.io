@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: reseach_and_development
+email: None
 layout: people
+name: David McClure
+short_bio: ''
 slug: david-mcclure
-title: David McClure
+status: not_current
+twitter: clured
+website: None
 people-category:
 - Staff
 ---

@@ -1,10 +1,13 @@
 ---
-author: csb5t
-comments: false
-date: 2016-10-17 08:38:17+00:00
+department: Art History
+email: jgg3mb@virginia.edu
 layout: people
+name: Justin Greenlee
+short_bio: ''
 slug: justin-greenlee
-title: Justin Greenlee
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2016-2017
 - Praxis Fellow

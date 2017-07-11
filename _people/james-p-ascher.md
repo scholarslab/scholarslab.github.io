@@ -1,10 +1,13 @@
 ---
-author: jpa4q
-comments: false
-date: 2015-09-03 15:06:30+00:00
+department: English
+email: jpa4q@virginia.edu
 layout: people
+name: James P. Ascher
+short_bio: ''
 slug: james-p-ascher
-title: James P. Ascher
+status: not_current
+twitter: '@jpsa'
+website: http://virginia.academia.edu/JamesPAscher
 people-category:
 - 2015-2016
 - Praxis Fellow

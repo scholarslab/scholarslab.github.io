@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: None
+email: ajs6f@virginia.edu
 layout: people
+name: Adam Soroka
+short_bio: ''
 slug: adam-soroka
-title: Adam Soroka
+status: not_current
+twitter: None
+website: None
 people-category:
 - Staff
 ---

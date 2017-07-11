@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 12:24:15+00:00
+department: Music
+email: bidgood@etsu.edu
 layout: people
+name: Lee Bidgood
+short_bio: ''
 slug: lee-bidgood
-title: Lee Bidgood
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2007-2008
 - Graduate Fellow

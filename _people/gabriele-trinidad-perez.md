@@ -1,10 +1,13 @@
 ---
-author: bmw9t
-comments: false
-date: 2017-06-15 14:52:15+00:00
+department: None
+email: None
 layout: people
+name: Gabriela Trinidad Pérez
+short_bio: ''
 slug: gabriele-trinidad-perez
-title: Gabriela Trinidad Pérez
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2017'
 - LAMI Fellow

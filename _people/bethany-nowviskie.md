@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: administration
+email: bethany@virginia.edu
 layout: people
+name: Bethany Nowviskie
+short_bio: ''
 slug: bethany-nowviskie
-title: Bethany Nowviskie
+status: not_current
+twitter: nowviskie
+website: http://nowviskie.org/
 people-category:
 - Staff
 ---

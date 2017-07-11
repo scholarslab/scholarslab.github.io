@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-10-04 14:22:03+00:00
+department: Slavic Languages and Literatures
+email: None
 layout: people
+name: Oguljan Reyimbaeva
+short_bio: ''
 slug: oguljan-reyimbaeva
-title: Oguljan Reyimbaeva
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

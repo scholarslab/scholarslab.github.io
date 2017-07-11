@@ -1,11 +1,14 @@
 ---
-author: rdt2nf
-comments: false
-date: 2015-09-10 11:19:15+00:00
+department: Music
+email: rdt2nf@virginia.edu
 excerpt: Rachel Devorah Trapp is a composer and digital art archivist.
 layout: people
+name: Rachel Devorah Trapp
+short_bio: ''
 slug: rachel-devorah-trapp
-title: Rachel Devorah Trapp
+status: not_current
+twitter: None
+website: racheldevorahtrapp.com
 people-category:
 - 2015-2016
 - Praxis Fellow

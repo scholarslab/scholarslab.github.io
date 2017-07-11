@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: English
+email: jes8zv@virginia.edu
 layout: people
+name: Annie Swafford
+short_bio: ''
 slug: annie-swafford
-title: Annie Swafford
+status: not_current
+twitter: annieswafford
+website: None
 people-category:
 - 2011–2012
 - 2012–2013

@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-01-06 08:56:21+00:00
+department: None
+email: purdom@virginia.edu
 layout: people
+name: Purdom Lindblad
+short_bio: ''
 slug: purdom-lindblad
-title: Purdom Lindblad
+status: not_current
+twitter: Purdom_L
+website: None
 people-category:
 - Staff
 ---

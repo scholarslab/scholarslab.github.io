@@ -1,10 +1,13 @@
 ---
-author: ericdmj
-comments: false
-date: 2012-10-04 14:19:55+00:00
+department: None
+email: yh3fd@virginia.edu
 layout: people
+name: Mandy Han
+short_bio: ''
 slug: mandy-han
-title: Mandy Han
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

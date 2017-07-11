@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: None
+email: dlr2n@virginia.edu
 layout: people
+name: Dave Richardson
+short_bio: ''
 slug: dave-richardson
-title: Dave Richardson
+status: not_current
+twitter: None
+website: None
 ---
 
 Dave is a former GIS assistant in the Scholars' Lab and a graduate of the Environmental Sciences program.

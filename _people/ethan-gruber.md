@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: None
+email: None
 layout: people
+name: Ethan Gruber
+short_bio: ''
 slug: ethan-gruber
-title: Ethan Gruber
+status: not_current
+twitter: ewg118
+website: None
 people-category:
 - Staff
 ---

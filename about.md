@@ -5,7 +5,7 @@ date: 2008-08-05 19:30:50+00:00
 layout: page
 link: http://scholarslab.org/about/
 slug: about
-title: About the Scholars' Lab
+title: About
 wordpress_id: 77
 ---
 

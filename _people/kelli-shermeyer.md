@@ -1,10 +1,13 @@
 ---
-author: purdom
-comments: false
-date: 2016-06-08 10:26:09+00:00
+department: English
+email: None
 layout: people
+name: Kelli Shermeyer
+short_bio: ''
 slug: kelli-shermeyer
-title: Kelli Shermeyer
+status: current
+twitter: None
+website: None
 ---
 
 No Content Found

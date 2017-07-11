@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-01-06 09:30:18+00:00
+department: None
+email: mrw2ks@virginia.edu
 layout: people
+name: Matt West
+short_bio: ''
 slug: matt-west
-title: Matt West
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 12:25:34+00:00
+department: Anthropology
+email: None
 layout: people
+name: Elizabeth Bollwerk
+short_bio: ''
 slug: elizabeth-bollwerk
-title: Elizabeth Bollwerk
+status: not_current
+twitter: '@eboolwer'
+website: None
 people-category:
 - 2009–2010
 - Graduate Fellow

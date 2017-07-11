@@ -1,10 +1,13 @@
 ---
-author: ericdmj
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: public_service
+email: None
 layout: people
+name: Eric Johnson
+short_bio: ''
 slug: eric-johnson
-title: Eric Johnson
+status: not_current
+twitter: ericdmj
+website: None
 people-category:
 - Staff
 ---

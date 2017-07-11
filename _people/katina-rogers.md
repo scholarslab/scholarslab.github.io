@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: None
+email: None
 layout: people
+name: Katina Rogers
+short_bio: ''
 slug: katina-rogers
-title: Katina Rogers
+status: not_current
+twitter: katinalynn
+website: http://katinarogers.com
 people-category:
 - Staff
 ---

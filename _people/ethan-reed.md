@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:28:40+00:00
+department: English
+email: None
 layout: people
+name: Ethan Reed
+short_bio: ''
 slug: ethan-reed
-title: Ethan Reed
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2015-2016
 - Praxis Fellow

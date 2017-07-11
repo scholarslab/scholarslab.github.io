@@ -1,10 +1,13 @@
 ---
-author: purdom
-comments: false
-date: 2015-07-01 15:33:17+00:00
+department: None
+email: None
 layout: people
+name: Kerwin Holmes, Jr.
+short_bio: ''
 slug: kerwin-holmes-jr
-title: Kerwin Holmes, Jr.
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2015'
 - LAMI Fellow

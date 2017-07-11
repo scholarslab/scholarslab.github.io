@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 13:57:08+00:00
+department: Spanish, Portuguese, and Italian
+email: None
 layout: people
+name: Ryan Johnson
+short_bio: ''
 slug: ryan-johnson
-title: Ryan Johnson
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

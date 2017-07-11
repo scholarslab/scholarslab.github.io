@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: None
+email: jeremy@virginia.edu
 layout: people
+name: Jeremy Boggs
+short_bio: ''
 slug: jeremy-boggs
-title: Jeremy Boggs
+status: current
+twitter: None
+website: None
 people-category:
 - Staff
 ---

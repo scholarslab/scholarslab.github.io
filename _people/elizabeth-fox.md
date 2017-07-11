@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2013-09-10 14:46:08+00:00
+department: English
+email: None
 layout: people
+name: Elizabeth Fox
+short_bio: ''
 slug: elizabeth-fox
-title: Elizabeth Fox
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2013–2014
 - Praxis Fellow

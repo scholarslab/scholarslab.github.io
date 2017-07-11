@@ -1,10 +1,13 @@
 ---
-author: bmw9t
-comments: false
-date: 2017-06-15 14:46:07+00:00
+department: None
+email: None
 layout: people
+name: Matt Ford
+short_bio: ''
 slug: matt-ford
-title: Matt Ford
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2017'
 - LAMI Fellow

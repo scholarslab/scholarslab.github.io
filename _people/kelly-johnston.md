@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: gis_data
+email: None
 layout: people
+name: Kelly Johnston
+short_bio: ''
 slug: kelly-johnston
-title: Kelly Johnston
+status: not_current
+twitter: KellyGJohnston
+website: None
 people-category:
 - Staff
 ---

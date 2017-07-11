@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:36:11+00:00
+department: Art and Architecture
+email: jng3au@virginia.edu
 layout: people
+name: Jennifer Grayburn
+short_bio: ''
 slug: jennifer-grayburn
-title: Jennifer Grayburn
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2014–2015
 - Alumni

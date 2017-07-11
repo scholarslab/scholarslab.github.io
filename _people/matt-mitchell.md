@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: None
+email: mwmitchell73@gmail.com
 layout: people
+name: Matt Mitchell
+short_bio: ''
 slug: matt-mitchell
-title: Matt Mitchell
+status: not_current
+twitter: None
+website: None
 people-category:
 - Staff
 ---

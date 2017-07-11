@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2013-09-10 14:47:56+00:00
+department: Classical Art & Archaeology
+email: None
 layout: people
+name: Veronica Ikeshoji-Orlati
+short_bio: ''
 slug: veronica-ikeshoji-orlati
-title: Veronica Ikeshoji-Orlati
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2013–2014
 - 2015-2016

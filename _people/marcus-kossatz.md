@@ -1,10 +1,13 @@
 ---
-author: ammon
-comments: false
-date: 2016-08-22 14:52:52+00:00
+department: None
+email: None
 layout: people
+name: Marcus Kossatz
+short_bio: ''
 slug: marcus-kossatz
-title: Marcus Kossatz
+status: not_current
+twitter: None
+website: None
 people-category:
 - Alumni
 - Visiting Scholar

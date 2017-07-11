@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 12:28:23+00:00
+department: Economics
+email: cmc8dp@virginia.edu
 layout: people
+name: Chris Clapp
+short_bio: ''
 slug: chris-clapp
-title: Chris Clapp
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2010–2011
 - Graduate Fellow

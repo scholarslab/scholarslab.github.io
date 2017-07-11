@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-01-06 09:32:49+00:00
+department: None
+email: None
 layout: people
+name: Tina Cheng
+short_bio: ''
 slug: tina-cheng
-title: Tina Cheng
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

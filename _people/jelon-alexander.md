@@ -1,10 +1,13 @@
 ---
-author: bmw9t
-comments: false
-date: 2017-06-15 14:42:41+00:00
+department: None
+email: None
 layout: people
+name: Je'lon Alexander
+short_bio: ''
 slug: jelon-alexander
-title: Je'lon Alexander
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2017'
 - LAMI Fellow

@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-10-04 14:08:40+00:00
+department: History
+email: ssl2ab@virginia.edu
 layout: people
+name: Shane Lin
+short_bio: ''
 slug: shane-lin
-title: Shane Lin
+status: current
+twitter: None
+website: None
 people-category:
 - 2012–2013
 - 2016-2017

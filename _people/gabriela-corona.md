@@ -1,10 +1,13 @@
 ---
-author: ammon
-comments: false
-date: 2016-09-08 13:05:23+00:00
+department: None
+email: None
 layout: people
+name: Gabriela Corona
+short_bio: ''
 slug: gabriela-corona
-title: Gabriela Corona
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2016'
 - LAMI Fellow

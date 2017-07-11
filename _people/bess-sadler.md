@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: None
+email: bess.sadler@gmail.com
 layout: people
+name: Bess Sadler
+short_bio: ''
 slug: bess-sadler
-title: Bess Sadler
+status: not_current
+twitter: eosadler
+website: None
 people-category:
 - Staff
 ---

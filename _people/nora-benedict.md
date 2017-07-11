@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2016-10-29 07:03:47+00:00
+department: Spanish
+email: None
 layout: people
+name: Nora Benedict
+short_bio: ''
 slug: nora-benedict
-title: Nora Benedict
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2016-2017
 - Graduate Fellow

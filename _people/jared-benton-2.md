@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 12:22:33+00:00
+department: Art & Architecture
+email: jtb5q@virginia.edu
 layout: people
+name: Jared Benton
+short_bio: ''
 slug: jared-benton-2
-title: Jared Benton
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2010–2011
 - Graduate Fellow

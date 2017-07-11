@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2013-09-10 14:50:42+00:00
+department: English
+email: sak2rh@virginia.edu
 layout: people
+name: Stephanie Kingsley
+short_bio: ''
 slug: stephanie-kingsley
-title: Stephanie Kingsley
+status: not_current
+twitter: KingsleySteph
+website: http://stephanie-kingsley.github.io/index.html
 people-category:
 - 2013–2014
 - Praxis Fellow

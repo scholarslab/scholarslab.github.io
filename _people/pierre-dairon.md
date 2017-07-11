@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 12:39:23+00:00
+department: French
+email: pmd2f@virginia.edu
 layout: people
+name: Pierre Dairon
+short_bio: ''
 slug: pierre-dairon
-title: Pierre Dairon
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2008–2009
 - Graduate Fellow

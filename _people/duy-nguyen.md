@@ -1,10 +1,13 @@
 ---
-author: ssl2ab
-comments: false
-date: 2016-12-11 12:57:20+00:00
+department: None
+email: None
 layout: people
+name: Duy Nguyen
+short_bio: ''
 slug: duy-nguyen
-title: Duy Nguyen
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

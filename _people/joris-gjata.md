@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:35:18+00:00
+department: Sociology
+email: jg2nk@virginia.edu
 layout: people
+name: Joris Gjata
+short_bio: ''
 slug: joris-gjata
-title: Joris Gjata
+status: not_current
+twitter: '@jorisgjata'
+website: None
 people-category:
 - 2014–2015
 - Praxis Fellow

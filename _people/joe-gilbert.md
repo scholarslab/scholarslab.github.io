@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: None
+email: None
 layout: people
+name: Joe Gilbert
+short_bio: ''
 slug: joe-gilbert
-title: Joe Gilbert
+status: not_current
+twitter: joegilbert
+website: None
 people-category:
 - Staff
 ---

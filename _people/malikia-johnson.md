@@ -1,10 +1,13 @@
 ---
-author: purdom
-comments: false
-date: 2015-07-01 15:08:55+00:00
+department: None
+email: None
 layout: people
+name: Malikia Johnson
+short_bio: ''
 slug: malikia-johnson
-title: Malikia Johnson
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2015'
 - LAMI Fellow

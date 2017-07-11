@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 14:01:47+00:00
+department: History
+email: rnl4c@virginia.edu
 layout: people
+name: Randi Lewis
+short_bio: ''
 slug: randi-lewis
-title: Randi Lewis
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2011–2012
 - Graduate Fellow

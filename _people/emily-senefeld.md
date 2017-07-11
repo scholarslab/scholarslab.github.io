@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:38:43+00:00
+department: History
+email: esenefeld@gmail.com
 layout: people
+name: Emily Senefeld
+short_bio: ''
 slug: emily-senefeld
-title: Emily Senefeld
+status: not_current
+twitter: '@EmilySenefeld'
+website: http://emilysenefeld.wordpress.com
 people-category:
 - 2014–2015
 - Graduate Fellow

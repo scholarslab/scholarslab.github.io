@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-01-06 09:31:23+00:00
+department: None
+email: bz5jc@virginia.edu
 layout: people
+name: Biyuan Zhao
+short_bio: ''
 slug: biyuan-zhao
-title: Biyuan Zhao
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

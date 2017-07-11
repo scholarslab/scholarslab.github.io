@@ -1,10 +1,13 @@
 ---
-author: ammon
-comments: false
-date: 2016-08-22 14:44:01+00:00
+department: None
+email: None
 layout: people
+name: Matthew Gibson
+short_bio: ''
 slug: matthew-gibson
-title: Matthew Gibson
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2016'
 - LAMI Fellow

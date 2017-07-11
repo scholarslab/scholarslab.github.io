@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:33:40+00:00
+department: English
+email: arb5fc@virginia.edu
 layout: people
+name: Amy Boyd
+short_bio: ''
 slug: amy-boyd
-title: Amy Boyd
+status: not_current
+twitter: '@MsABoyd'
+website: None
 people-category:
 - 2014–2015
 - Praxis Fellow

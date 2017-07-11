@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2013-09-10 14:46:56+00:00
+department: Religious Studies
+email: csb5t@virginia.edu
 layout: people
+name: Scott Bailey
+short_bio: ''
 slug: scott-bailey
-title: Scott Bailey
+status: not_current
+twitter: csbailey5t
+website: csbailey.org
 people-category:
 - 2013–2014
 - Praxis Fellow

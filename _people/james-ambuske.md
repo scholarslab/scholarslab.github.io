@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:37:23+00:00
+department: History
+email: jimambuske@gmail.com
 layout: people
+name: James Ambuske
+short_bio: ''
 slug: james-ambuske
-title: James Ambuske
+status: not_current
+twitter: '@JamesPAmbuske'
+website: http://www.jamespambuske.com
 people-category:
 - 2014–2015
 - Graduate Fellow

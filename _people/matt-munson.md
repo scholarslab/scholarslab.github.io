@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: Religious Studies
+email: mam3tc@virginia.edu
 layout: people
+name: Matt Munson
+short_bio: ''
 slug: matt-munson
-title: Matt Munson
+status: not_current
+twitter: sonofmun
+website: None
 people-category:
 - 2009–2010
 - Graduate Fellow

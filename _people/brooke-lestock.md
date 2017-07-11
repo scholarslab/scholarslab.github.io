@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: English
+email: bnl2ja@virginia.edu
 layout: people
+name: Brooke Lestock
+short_bio: ''
 slug: brooke-lestock
-title: Brooke Lestock
+status: not_current
+twitter: '@BrookeLestock'
+website: None
 people-category:
 - 2011–2012
 - Praxis Fellow

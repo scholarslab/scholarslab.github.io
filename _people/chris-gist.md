@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: gis_data
+email: dcg6b@virginia.edu
 layout: people
+name: Chris Gist
+short_bio: ''
 slug: chris-gist
-title: Chris Gist
+status: not_current
+twitter: adarwinian
+website: None
 people-category:
 - Staff
 ---

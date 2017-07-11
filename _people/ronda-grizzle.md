@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: None
+email: rag9b@virginia.edu
 layout: people
+name: Ronda Grizzle
+short_bio: ''
 slug: ronda-grizzle
-title: Ronda Grizzle
+status: current
+twitter: rondauva
+website: None
 people-category:
 - Staff
 ---

@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: Spanish, Italian, and Portuguese
+email: gbp2q@virginia.edu
 layout: people
+name: Gillian Price
+short_bio: ''
 slug: gillian-price
-title: Gillian Price
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

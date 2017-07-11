@@ -1,10 +1,13 @@
 ---
-author: ssl2ab
-comments: false
-date: 2017-02-09 15:20:48+00:00
+department: None
+email: None
 layout: people
+name: Christian Howard
+short_bio: ''
 slug: christian-howard
-title: Christian Howard
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-10-04 13:54:11+00:00
+department: Anthropology
+email: lr9u@virginia.edu
 layout: people
+name: Lydia Rodriguez
+short_bio: ''
 slug: lydia-rodriguez
-title: Lydia Rodriguez
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2012–2013
 - Graduate Fellow

@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: reseach_and_development
+email: wsg4w@virginia.edu
 layout: people
+name: Wayne Graham
+short_bio: ''
 slug: wayne-graham
-title: Wayne Graham
+status: not_current
+twitter: wayne_graham
+website: http://waynegraham.github.io
 people-category:
 - Staff
 ---

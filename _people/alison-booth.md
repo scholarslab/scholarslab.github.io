@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2016-02-18 15:52:59+00:00
+department: None
+email: ab6j@virginia.edu
 layout: people
+name: Alison Booth
+short_bio: ''
 slug: alison-booth
-title: Alison Booth
+status: not_current
+twitter: None
+website: None
 people-category:
 - Staff
 ---

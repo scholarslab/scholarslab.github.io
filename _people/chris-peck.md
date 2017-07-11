@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-10-04 14:00:30+00:00
+department: Music
+email: cp3ee@virginia.edu
 layout: people
+name: Chris Peck
+short_bio: ''
 slug: chris-peck
-title: Chris Peck
+status: not_current
+twitter: None
+website: http://www.intermittentmusic.com/
 people-category:
 - 2012–2013
 - Praxis Fellow

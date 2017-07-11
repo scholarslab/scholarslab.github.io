@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 12:29:42+00:00
+department: English
+email: jcocola@wpi.edu
 layout: people
+name: Jim Cocola
+short_bio: ''
 slug: jim-cocola
-title: Jim Cocola
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2007-2008
 - Graduate Fellow

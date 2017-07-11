@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:33:04+00:00
+department: None
+email: aes9h@virginia.edu
 layout: people
+name: Ammon Shepherd
+short_bio: ''
 slug: ammon-shepherd
-title: Ammon Shepherd
+status: not_current
+twitter: '@mossiso'
+website: http://mossiso.com
 people-category:
 - Staff
 ---

@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2017-03-22 13:17:29+00:00
+department: None
+email: arin@virginia.edu
 layout: people
+name: Arin Bennett
+short_bio: ''
 slug: arin-bennett
-title: Arin Bennett
+status: not_current
+twitter: None
+website: http://bit.ly/3DUVA
 people-category:
 - Staff
 ---

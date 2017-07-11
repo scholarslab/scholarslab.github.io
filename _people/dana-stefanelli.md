@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 14:07:49+00:00
+department: History
+email: djs7g@virginia.edu
 layout: people
+name: Dana Stefanelli
+short_bio: ''
 slug: dana-stefanelli
-title: Dana Stefanelli
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2007-2008
 - Graduate Fellow

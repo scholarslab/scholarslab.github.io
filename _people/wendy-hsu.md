@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: Music
+email: hsuw@oxy.edu
 layout: people
+name: Wendy Hsu
+short_bio: ''
 slug: wendy-hsu
-title: Wendy Hsu
+status: not_current
+twitter: wendyfhsu
+website: http://beingwendyhsu.info
 people-category:
 - 2009–2010
 - Graduate Fellow

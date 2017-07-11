@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: None
+email: alh3f@virginia.edu
 layout: people
+name: Abby Holeman
+short_bio: ''
 slug: abby-holeman
-title: Abby Holeman
+status: not_current
+twitter: ALHoleman
+website: None
 people-category:
 - 2008–2009
 - Graduate Fellow

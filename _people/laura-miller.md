@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-01-06 09:00:31+00:00
+department: None
+email: lam2c@virginia.edu
 layout: people
+name: Laura Miller
+short_bio: ''
 slug: laura-miller
-title: Laura Miller
+status: not_current
+twitter: martofmiller
+website: None
 people-category:
 - Staff
 ---

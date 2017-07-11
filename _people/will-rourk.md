@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2017-03-22 13:11:40+00:00
+department: Library, ARH
+email: wmr5a@eservices.virginia.edu
 layout: people
+name: Will Rourk
+short_bio: ''
 slug: will-rourk
-title: Will Rourk
+status: not_current
+twitter: '@rezn8r'
+website: None
 people-category:
 - Staff
 ---

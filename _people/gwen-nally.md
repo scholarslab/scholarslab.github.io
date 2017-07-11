@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-10-04 14:06:29+00:00
+department: Philosophy
+email: egn9b@virginia.edu
 layout: people
+name: Gwen Nally
+short_bio: ''
 slug: gwen-nally
-title: Gwen Nally
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2012–2013
 - 2013–2014

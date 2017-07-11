@@ -1,10 +1,13 @@
 ---
-author: csb5t
-comments: false
-date: 2016-10-17 08:39:18+00:00
+department: Art History
+email: None
 layout: people
+name: Alicia Caticha
+short_bio: ''
 slug: alicia-caticha
-title: Alicia Caticha
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2016-2017
 - Praxis Fellow

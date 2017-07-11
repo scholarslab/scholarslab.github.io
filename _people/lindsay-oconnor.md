@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: English
+email: lo3m@virginia.edu
 layout: people
+name: Lindsay O’Connor
+short_bio: ''
 slug: lindsay-oconnor
-title: Lindsay O’Connor
+status: not_current
+twitter: Lindsay0h
+website: None
 people-category:
 - 2011–2012
 - Praxis Fellow

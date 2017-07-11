@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: English
+email: cforster@virginia.edu
 layout: people
+name: Chris Forster
+short_bio: ''
 slug: chris-forster
-title: Chris Forster
+status: not_current
+twitter: cforster
+website: http://www.cforster.com/
 people-category:
 - 2007-2008
 - Graduate Fellow

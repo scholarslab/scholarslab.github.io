@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:29:09+00:00
+department: None
+email: None
 layout: people
+name: Julia Schrank
+short_bio: ''
 slug: julia-schrank
-title: Julia Schrank
+status: not_current
+twitter: None
+website: None
 people-category:
 - Student Assistant
 ---

@@ -1,10 +1,13 @@
 ---
-author: bmw9t
-comments: false
-date: 2017-06-16 12:42:08+00:00
+department: None
+email: None
 layout: people
+name: Kaitlin Mitchell
+short_bio: ''
 slug: kaitlin-mitchell
-title: Kaitlin Mitchell
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2017'
 - LAMI Fellow

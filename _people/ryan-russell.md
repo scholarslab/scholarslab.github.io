@@ -1,10 +1,13 @@
 ---
-author: bmw9t
-comments: false
-date: 2017-06-15 14:50:30+00:00
+department: None
+email: None
 layout: people
+name: Ryan Russell
+short_bio: ''
 slug: ryan-russell
-title: Ryan Russell
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2017'
 - LAMI Fellow

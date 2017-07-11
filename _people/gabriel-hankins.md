@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 13:56:07+00:00
+department: English
+email: hankins@virginia.edu
 layout: people
+name: Gabriel Hankins
+short_bio: ''
 slug: gabriel-hankins
-title: Gabriel Hankins
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2011–2012
 - Graduate Fellow

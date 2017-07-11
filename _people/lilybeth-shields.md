@@ -1,10 +1,13 @@
 ---
-author: purdom
-comments: false
-date: 2015-07-01 15:04:28+00:00
+department: None
+email: None
 layout: people
+name: Lilybeth Shields
+short_bio: ''
 slug: lilybeth-shields
-title: Lilybeth Shields
+status: not_current
+twitter: lilyonalillypad
+website: None
 people-category:
 - '2015'
 - LAMI Fellow

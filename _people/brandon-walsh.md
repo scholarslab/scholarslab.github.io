@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-10-04 14:10:01+00:00
+department: English
+email: bmw9t@virginia.edu
 layout: people
+name: Brandon Walsh
+short_bio: ''
 slug: brandon-walsh
-title: Brandon Walsh
+status: current
+twitter: None
+website: http://walshbr.com
 people-category:
 - 2012–2013
 - 2015-2016

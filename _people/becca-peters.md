@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 14:05:26+00:00
+department: None
+email: rpt3e@virginia.edu
 layout: people
+name: Becca Peters
+short_bio: ''
 slug: becca-peters
-title: Becca Peters
+status: not_current
+twitter: None
+website: None
 people-category:
 - Staff
 ---

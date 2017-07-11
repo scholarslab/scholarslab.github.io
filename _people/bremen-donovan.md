@@ -1,10 +1,13 @@
 ---
-author: bkd3p
-comments: false
-date: 2015-09-11 15:10:58+00:00
+department: None
+email: bkd3p@virginia.edu
 layout: people
+name: Bremen Donovan
+short_bio: ''
 slug: bremen-donovan
-title: Bremen Donovan
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2015-2016
 - Praxis Fellow

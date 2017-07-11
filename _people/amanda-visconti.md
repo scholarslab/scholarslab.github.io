@@ -1,10 +1,13 @@
 ---
-author: amanda
-comments: false
-date: 2017-05-01 11:48:29+00:00
+department: None
+email: abv6x@virginia.edu
 layout: people
+name: Amanda Visconti
+short_bio: ''
 slug: amanda-visconti
-title: Amanda Visconti
+status: not_current
+twitter: literature_geek
+website: http://www.AmandaVisconti.com
 people-category:
 - Staff
 ---

@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 12:41:00+00:00
+department: English
+email: tdf2b@virginia.edu
 layout: people
+name: Tom Finger
+short_bio: ''
 slug: tom-finger
-title: Tom Finger
+status: not_current
+twitter: Thomas_D_Finger
+website: None
 people-category:
 - 2010–2011
 - Graduate Fellow

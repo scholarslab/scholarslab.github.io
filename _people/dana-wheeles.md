@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 14:08:36+00:00
+department: Art History
+email: dw6h@virginia.edu
 layout: people
+name: Dana Wheeles
+short_bio: ''
 slug: dana-wheeles
-title: Dana Wheeles
+status: not_current
+twitter: bluesape
+website: None
 people-category:
 - 2007-2008
 - Graduate Fellow

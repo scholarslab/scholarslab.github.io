@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: English
+email: colibri.alex@gmail.com
 layout: people
+name: Alex Gil
+short_bio: ''
 slug: alex-gil
-title: Alex Gil
+status: not_current
+twitter: elotroalex
+website: http://www.elotroalex.com
 people-category:
 - 2010–2011
 - 2011–2012

@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:38:09+00:00
+department: English
+email: jaf6fm@virginia.edu
 layout: people
+name: Jennifer Foy
+short_bio: ''
 slug: jennifer-foy
-title: Jennifer Foy
+status: not_current
+twitter: '@JennyAFoy'
+website: None
 people-category:
 - 2014–2015
 - Graduate Fellow

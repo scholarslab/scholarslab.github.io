@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 14:04:36+00:00
+department: History
+email: None
 layout: people
+name: Mark Nevin
+short_bio: ''
 slug: mark-nevin
-title: Mark Nevin
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2007-2008
 - Graduate Fellow

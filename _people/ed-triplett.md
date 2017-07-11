@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: None
+email: edward.triplett@gmail.com
 layout: people
+name: Ed Triplett
+short_bio: ''
 slug: ed-triplett
-title: Ed Triplett
+status: not_current
+twitter: EdTriplett
+website: None
 people-category:
 - 2011–2012
 - Graduate Fellow

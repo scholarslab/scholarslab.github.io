@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:49+00:00
+department: reseach_and_development
+email: None
 layout: people
+name: Eric Rochester
+short_bio: ''
 slug: eric-rochester
-title: Eric Rochester
+status: not_current
+twitter: erochest
+website: http://www.ericrochester.com/
 people-category:
 - Staff
 ---

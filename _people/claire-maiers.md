@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-10-04 14:03:21+00:00
+department: Sociology
+email: cdm6zf@virginia.edu
 layout: people
+name: Claire Maiers
+short_bio: ''
 slug: claire-maiers
-title: Claire Maiers
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2012–2013
 - Praxis Fellow

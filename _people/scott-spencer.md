@@ -1,10 +1,13 @@
 ---
-author: ronda
-comments: false
-date: 2012-08-21 14:06:42+00:00
+department: History
+email: scs4v@virginia.edu
 layout: people
+name: Scott Spencer
+short_bio: ''
 slug: scott-spencer
-title: Scott Spencer
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2009–2010
 - Graduate Fellow

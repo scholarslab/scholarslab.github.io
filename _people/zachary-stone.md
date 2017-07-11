@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2013-09-10 14:51:07+00:00
+department: None
+email: None
 layout: people
+name: Zachary Stone
+short_bio: ''
 slug: zachary-stone
-title: Zachary Stone
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2013–2014
 - Praxis Fellow

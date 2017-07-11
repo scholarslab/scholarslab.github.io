@@ -1,10 +1,13 @@
 ---
-author: ammon
-comments: false
-date: 2016-09-08 13:06:09+00:00
+department: None
+email: None
 layout: people
+name: Joy Ikekhua
+short_bio: ''
 slug: joy-ikekhua
-title: Joy Ikekhua
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2016'
 - LAMI Fellow

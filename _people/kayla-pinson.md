@@ -1,10 +1,13 @@
 ---
-author: purdom
-comments: false
-date: 2015-07-01 15:20:51+00:00
+department: None
+email: None
 layout: people
+name: Kayla Pinson
+short_bio: ''
 slug: kayla-pinson
-title: Kayla Pinson
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2015'
 - LAMI Fellow

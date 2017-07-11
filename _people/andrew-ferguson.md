@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:34:41+00:00
+department: English
+email: af3pj@virginia.edu
 layout: people
+name: Andrew Ferguson
+short_bio: ''
 slug: andrew-ferguson
-title: Andrew Ferguson
+status: not_current
+twitter: '@epiktistes'
+website: None
 people-category:
 - 2014–2015
 - Praxis Fellow

@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2014-08-18 14:34:13+00:00
+department: None
+email: None
 layout: people
+name: Swati Chawla
+short_bio: ''
 slug: swati-chawla
-title: Swati Chawla
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2014–2015
 - Praxis Fellow

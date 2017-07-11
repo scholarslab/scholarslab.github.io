@@ -1,10 +1,13 @@
 ---
-author: ggr4tj
-comments: false
-date: 2015-09-03 15:07:32+00:00
+department: History
+email: ggr4tj@virginia.edu
 layout: people
+name: Gillet Rosenblith
+short_bio: ''
 slug: gillet-rosenblith
-title: Gillet Rosenblith
+status: not_current
+twitter: gilletgr
+website: None
 people-category:
 - 2015-2016
 - Praxis Fellow

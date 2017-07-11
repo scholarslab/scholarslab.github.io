@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2017-03-23 08:38:51+00:00
+department: None
+email: aam6g@virginia.edu
 layout: people
+name: Drew Macqueen
+short_bio: ''
 slug: drew-macqueen
-title: Drew Macqueen
+status: not_current
+twitter: None
+website: None
 people-category:
 - Staff
 ---

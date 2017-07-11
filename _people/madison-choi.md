@@ -1,10 +1,13 @@
 ---
-author: bmw9t
-comments: false
-date: 2017-06-15 14:45:36+00:00
+department: None
+email: None
 layout: people
+name: Madison Choi
+short_bio: ''
 slug: madison-choi
-title: Madison Choi
+status: not_current
+twitter: None
+website: None
 people-category:
 - '2017'
 - LAMI Fellow

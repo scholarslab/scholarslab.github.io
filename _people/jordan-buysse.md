@@ -1,10 +1,13 @@
 ---
-author: csb5t
-comments: false
-date: 2016-12-16 09:50:48+00:00
+department: English
+email: jdbuysse@gmail.com
 layout: people
+name: Jordan Buysse
+short_bio: ''
 slug: jordan-buysse
-title: Jordan Buysse
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2016-2017
 - Praxis Fellow

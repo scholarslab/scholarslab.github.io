@@ -5,11 +5,10 @@ link: /people
 slug: People
 title: People
 ---
-{% for person in site.data.people %}
-{% assign this_person = person[1] %}
-{{ this_person.name }}
+{% for person in site.people %}
+<a href="{{ site.url }}/people/{{ person.slug }}">{{ person.name }}</a>
 
-{{ this_person.bio }}
+{{ person.bio }}
 
 ===
 

@@ -1,10 +1,13 @@
 ---
-author: lkw2eq
-comments: false
-date: 2015-09-10 11:13:54+00:00
+department: None
+email: lkw2eq@virginia.edu
 layout: people
+name: Lydia Warren
+short_bio: ''
 slug: lydia-warren
-title: Lydia Warren
+status: not_current
+twitter: lydiaisrad
+website: www.LydiaWarren.com
 people-category:
 - 2015-2016
 - Praxis Fellow

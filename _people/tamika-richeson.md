@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2013-09-10 14:44:33+00:00
+department: History
+email: None
 layout: people
+name: Tamika Richeson
+short_bio: ''
 slug: tamika-richeson
-title: Tamika Richeson
+status: not_current
+twitter: None
+website: http://history.virginia.edu/user/348
 people-category:
 - 2013–2014
 - Graduate Fellow

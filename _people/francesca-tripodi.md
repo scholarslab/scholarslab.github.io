@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2013-09-04 13:11:09+00:00
+department: Sociology
+email: None
 layout: people
+name: Francesca Tripodi
+short_bio: ''
 slug: francesca-tripodi
-title: Francesca Tripodi
+status: not_current
+twitter: None
+website: None
 people-category:
 - 2013–2014
 - Praxis Fellow

@@ -1,10 +1,13 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-07 09:47:50+00:00
+department: English
+email: sas3ca@virginia.edu
 layout: people
+name: Sarah Storti
+short_bio: ''
 slug: sarah-storti
-title: Sarah Storti
+status: not_current
+twitter: sarahannestorti
+website: None
 people-category:
 - 2011–2012
 - Praxis Fellow
