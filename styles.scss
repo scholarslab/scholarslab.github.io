@@ -117,14 +117,12 @@ main {
 
   a {
     width: 32%;
-    margin-bottom: 3%;
+    margin-bottom: 2rem;
     text-decoration:none;
     line-height:1;
   }
 
-  a div {
-    height: 150px;
-    background: rgba(0,0,0,0.2);
+  .image {
     margin-bottom: .5rem;
   }
 
@@ -161,3 +159,4 @@ section {
   padding: 1rem;
   width: 100%;
   background: #efefef;
+}
