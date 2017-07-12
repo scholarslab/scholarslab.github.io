@@ -1,5 +1,5 @@
 ---
-collaborators: []
+collaborators: ''
 current: false
 layout: research
 link: ''
