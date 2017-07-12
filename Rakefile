@@ -1,9 +1,14 @@
 require 'date'
 require 'time'
 
-desc "Make a test"
-task :test, [:first_name, :last_name] do |t, args|
-  puts args.first_name
+desc "Make a research project"
+task :new_project, [] do |t, args|
+
+end
+
+desc "Make a new event"
+task :new_event, [] do |t, args|
+
 end
 
 desc "Make a new person"
