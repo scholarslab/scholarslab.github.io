@@ -4,7 +4,9 @@ email: ggr4tj@virginia.edu
 first_name: Gillet
 last_name: Rosenblith
 layout: people
+location: ''
 name: Gillet Rosenblith
+position: None
 short_bio: ''
 slug: gillet-rosenblith
 status: not_current

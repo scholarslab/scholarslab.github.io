@@ -4,7 +4,9 @@ email: None
 first_name: Joseph
 last_name: Thompson
 layout: people
+location: ''
 name: Joseph Thompson
+position: None
 short_bio: ''
 slug: joseph-thompson
 status: not_current

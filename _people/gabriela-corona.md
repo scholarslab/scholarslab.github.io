@@ -4,7 +4,9 @@ email: None
 first_name: Gabriela
 last_name: Corona
 layout: people
+location: ''
 name: Gabriela Corona
+position: None
 short_bio: ''
 slug: gabriela-corona
 status: not_current

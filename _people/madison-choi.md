@@ -4,7 +4,9 @@ email: None
 first_name: None
 last_name: None
 layout: people
+location: ''
 name: Madison Choi
+position: None
 short_bio: ''
 slug: madison-choi
 status: not_current

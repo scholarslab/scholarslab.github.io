@@ -4,7 +4,9 @@ email: bethany@virginia.edu
 first_name: Bethany
 last_name: Nowviskie
 layout: people
+location: ''
 name: Bethany Nowviskie
+position: Director Emerita
 short_bio: ''
 slug: bethany-nowviskie
 status: not_current

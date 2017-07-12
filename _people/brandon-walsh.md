@@ -4,7 +4,9 @@ email: bmw9t@virginia.edu
 first_name: Brandon
 last_name: Walsh
 layout: people
+location: ''
 name: Brandon Walsh
+position: Head of Graduate Programs
 short_bio: ''
 slug: brandon-walsh
 status: current

@@ -4,7 +4,9 @@ email: jpa4q@virginia.edu
 first_name: James
 last_name: Ascher
 layout: people
+location: ''
 name: James P. Ascher
+position: None
 short_bio: ''
 slug: james-p-ascher
 status: not_current

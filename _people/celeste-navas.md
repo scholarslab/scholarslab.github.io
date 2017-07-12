@@ -4,7 +4,9 @@ email: None
 first_name: Celeste
 last_name: Navas
 layout: people
+location: ''
 name: Celeste Navas
+position: None
 short_bio: ''
 slug: celeste-navas
 status: not_current

@@ -4,7 +4,9 @@ email: None
 first_name: None
 last_name: None
 layout: people
+location: ''
 name: Victoria Juarez
+position: None
 short_bio: ''
 slug: victoria-juarez
 status: not_current

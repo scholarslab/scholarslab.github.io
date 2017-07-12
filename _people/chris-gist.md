@@ -4,7 +4,9 @@ email: dcg6b@virginia.edu
 first_name: Chris
 last_name: Gist
 layout: people
+location: ''
 name: Chris Gist
+position: GIS Specialist
 short_bio: ''
 slug: chris-gist
 status: current

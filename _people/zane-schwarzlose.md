@@ -4,7 +4,9 @@ email: zaneryans@gmail.com
 first_name: Zane
 last_name: Schwarzlose
 layout: people
+location: ''
 name: Zane Schwarzlose
+position: None
 short_bio: ''
 slug: zane-schwarzlose
 status: not_current

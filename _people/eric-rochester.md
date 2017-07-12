@@ -4,7 +4,9 @@ email: None
 first_name: Eric
 last_name: Rochester
 layout: people
+location: ''
 name: Eric Rochester
+position: Senior Developer
 short_bio: ''
 slug: eric-rochester
 status: not_current

@@ -5,7 +5,9 @@ excerpt: Rachel Devorah Trapp is a composer and digital art archivist.
 first_name: Rachel Devorah
 last_name: Trapp
 layout: people
+location: ''
 name: Rachel Devorah Trapp
+position: Rachel Devorah Trapp
 short_bio: ''
 slug: rachel-devorah-trapp
 status: not_current

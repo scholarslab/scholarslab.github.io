@@ -4,7 +4,9 @@ email: aes9h@virginia.edu
 first_name: Ammon
 last_name: Shepherd
 layout: people
+location: ''
 name: Ammon Shepherd
+position: Digital Humanities Developer
 short_bio: ''
 slug: ammon-shepherd
 status: current

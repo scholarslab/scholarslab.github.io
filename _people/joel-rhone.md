@@ -4,7 +4,9 @@ email: None
 first_name: Joel
 last_name: Rhone
 layout: people
+location: ''
 name: Joel Rhone
+position: None
 short_bio: ''
 slug: joel-rhone
 status: not_current

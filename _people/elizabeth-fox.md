@@ -4,7 +4,9 @@ email: None
 first_name: Elizabeth
 last_name: Fox
 layout: people
+location: ''
 name: Elizabeth Fox
+position: None
 short_bio: ''
 slug: elizabeth-fox
 status: not_current

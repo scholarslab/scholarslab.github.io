@@ -4,7 +4,9 @@ email: ab6j@virginia.edu
 first_name: Alison
 last_name: Booth
 layout: people
+location: ''
 name: Alison Booth
+position: Academic Director
 short_bio: ''
 slug: alison-booth
 status: current

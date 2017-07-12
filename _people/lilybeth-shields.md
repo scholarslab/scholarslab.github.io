@@ -4,7 +4,9 @@ email: None
 first_name: Lilybeth
 last_name: Shields
 layout: people
+location: ''
 name: Lilybeth Shields
+position: None
 short_bio: ''
 slug: lilybeth-shields
 status: not_current

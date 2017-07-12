@@ -4,7 +4,9 @@ email: None
 first_name: Ethan
 last_name: Gruber
 layout: people
+location: ''
 name: Ethan Gruber
+position: None
 short_bio: ''
 slug: ethan-gruber
 status: not_current

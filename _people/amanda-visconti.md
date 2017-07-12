@@ -4,7 +4,9 @@ email: abv6x@virginia.edu
 first_name: Amanda
 last_name: Visconti
 layout: people
+location: ''
 name: Amanda Visconti
+position: Managing Director
 short_bio: ''
 slug: amanda-visconti
 status: current

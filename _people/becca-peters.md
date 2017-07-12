@@ -4,7 +4,9 @@ email: rpt3e@virginia.edu
 first_name: Becca
 last_name: Peters
 layout: people
+location: ''
 name: Becca Peters
+position: Administrative Assistant
 short_bio: ''
 slug: becca-peters
 status: not_current

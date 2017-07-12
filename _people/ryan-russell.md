@@ -4,7 +4,9 @@ email: None
 first_name: None
 last_name: None
 layout: people
+location: ''
 name: Ryan Russell
+position: None
 short_bio: ''
 slug: ryan-russell
 status: not_current

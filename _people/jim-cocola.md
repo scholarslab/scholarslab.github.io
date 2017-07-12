@@ -4,7 +4,9 @@ email: jcocola@wpi.edu
 first_name: Jim
 last_name: Cocola
 layout: people
+location: ''
 name: Jim Cocola
+position: Digital Humanities Fellow 2007-2008
 short_bio: ''
 slug: jim-cocola
 status: not_current

@@ -4,7 +4,9 @@ email: lam2c@virginia.edu
 first_name: Laura
 last_name: Miller
 layout: people
+location: ''
 name: Laura Miller
+position: Head of Public Programs
 short_bio: ''
 slug: laura-miller
 status: current

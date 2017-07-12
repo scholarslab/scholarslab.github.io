@@ -4,7 +4,9 @@ email: None
 first_name: None
 last_name: None
 layout: people
+location: ''
 name: Je'lon Alexander
+position: None
 short_bio: ''
 slug: jelon-alexander
 status: not_current

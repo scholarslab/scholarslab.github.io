@@ -4,7 +4,10 @@ email: tdf2b@virginia.edu
 first_name: Thomas
 last_name: Finger
 layout: people
+location: ''
 name: Tom Finger
+position: PhD Candidate, Corcoran Department of History | Digital Humanities Fellow
+  2010-2011
 short_bio: ''
 slug: tom-finger
 status: not_current

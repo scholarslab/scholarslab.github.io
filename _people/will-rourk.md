@@ -4,7 +4,9 @@ email: wmr5a@eservices.virginia.edu
 first_name: Will
 last_name: Rourk
 layout: people
+location: ''
 name: Will Rourk
+position: 3D Techologies and Architectural Specialist
 short_bio: ''
 slug: will-rourk
 status: current

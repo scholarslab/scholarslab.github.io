@@ -4,7 +4,9 @@ email: arin@virginia.edu
 first_name: Arin
 last_name: Bennett
 layout: people
+location: ''
 name: Arin Bennett
+position: 3D Visualization Specialist
 short_bio: ''
 slug: arin-bennett
 status: current

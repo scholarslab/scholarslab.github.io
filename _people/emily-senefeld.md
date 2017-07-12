@@ -4,7 +4,9 @@ email: esenefeld@gmail.com
 first_name: Emily
 last_name: Senefeld
 layout: people
+location: ''
 name: Emily Senefeld
+position: None
 short_bio: ''
 slug: emily-senefeld
 status: not_current

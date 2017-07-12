@@ -4,7 +4,9 @@ email: bess.sadler@gmail.com
 first_name: Bess
 last_name: Sadler
 layout: people
+location: ''
 name: Bess Sadler
+position: None
 short_bio: ''
 slug: bess-sadler
 status: not_current

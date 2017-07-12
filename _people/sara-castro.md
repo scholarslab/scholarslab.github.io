@@ -4,7 +4,9 @@ email: None
 first_name: None
 last_name: None
 layout: people
+location: ''
 name: Sara Castro
+position: None
 short_bio: ''
 slug: sara-castro
 status: not_current

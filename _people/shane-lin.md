@@ -4,7 +4,9 @@ email: ssl2ab@virginia.edu
 first_name: Shane
 last_name: Lin
 layout: people
+location: ''
 name: Shane Lin
+position: None
 short_bio: ''
 slug: shane-lin
 status: current

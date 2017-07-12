@@ -4,7 +4,9 @@ email: rag9b@virginia.edu
 first_name: Ronda
 last_name: Grizzle
 layout: people
+location: ''
 name: Ronda Grizzle
+position: Project Management & Training Specialist
 short_bio: ''
 slug: ronda-grizzle
 status: current

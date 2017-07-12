@@ -4,7 +4,9 @@ email: wsg4w@virginia.edu
 first_name: Wayne
 last_name: Graham
 layout: people
+location: ''
 name: Wayne Graham
+position: Head, Research & Development
 short_bio: ''
 slug: wayne-graham
 status: not_current
