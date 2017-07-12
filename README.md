@@ -18,3 +18,8 @@ rake new_post["Title here", "First Last"]
 ex.
 rake new_post["Brandon's best blog post ever", "Brandon Walsh"]
 ```
+
+Make a new research project given a title
+```bash
+rake new_post["The name of your project goes here"]
+```

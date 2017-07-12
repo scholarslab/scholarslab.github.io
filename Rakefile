@@ -1,9 +1,35 @@
 require 'date'
 require 'time'
 
-desc "Make a research project"
-task :new_project, [] do |t, args|
+class String
+  def titlecase
+    split(/([[:alpha:]]+)/).map(&:capitalize).join
+  end
+end
 
+desc "Make a research project"
+task :new_project, [:title] do |t, args|
+  title_slug = args.title.downcase.gsub(' ', '-')
+  fn = '_research/' + title_slug + '.md'
+  titlecase_title = args.title.titlecase
+  File.open(fn, 'w'){|f|
+    f.puts("---")
+    f.puts("collaborators: ")
+    f.puts("  - name: ")
+    f.puts("  - slug: ")
+    f.puts("  - role: ")
+    f.puts("current: false")
+    f.puts("layout: research")
+    f.puts("link: ''")
+    f.puts("slug: #{title_slug}")
+    f.puts("title: #{titlecase_title}")
+    f.puts("research-category:")
+    f.puts("  - ")
+    f.puts("  - ")
+    f.puts("---")
+    f.puts("Description of the project goes here")
+  }
+  puts "New research project created at #{fn}"
 end
 
 desc "Make a new event"
@@ -31,7 +57,7 @@ task :new_person, [:first_name, :last_name] do |t, args|
     f.puts("twitter: None")
     f.puts("website: None")
     f.puts("people-category:")
-    f.puts("- Example category")
+    f.puts("  - Example category")
     f.puts("---")
     f.puts("A flashy bio goes here")
   }
@@ -51,9 +77,9 @@ task :new_post, [:title, :author] do |t, args|
       f.puts("date: #{current_time}")
       f.puts("layout: post")
       f.puts("slug: #{title_slug}")
-      f.puts("title: #{args.title}")
+      f.puts("title: #{args.title.titlecase}")
       f.puts("categories:")
-      f.puts("- Example category")
+      f.puts("  - Example category")
     f.puts("---")
     f.puts("content of your post here")
   }
