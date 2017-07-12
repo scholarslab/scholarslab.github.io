@@ -116,14 +116,25 @@ main {
   justify-content: space-between;
 
   a {
-    width: 30%;
+    width: 32%;
     margin-bottom: 3%;
-    text-decoraton:none;
+    text-decoration:none;
+    line-height:1;
   }
-  
+
   a div {
     height: 150px;
     background: rgba(0,0,0,0.2);
+    margin-bottom: .5rem;
+  }
+
+  .name {
+    display:block;
+    font-weight:bold;
+  }
+
+  .title {
+    font-size: .875rem;
   }
 }
 

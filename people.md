@@ -12,7 +12,9 @@ title: People
 {% for person in staff %}
   <a href="{{ site.url }}/people/{{ person.slug }}">
   <div class="image"></div>
-  {{ person.name }}</a>
+  <span class="fn name">{{ person.name }}</span>
+  <span class="title">{{ person.position }}</span>
+  </a>
 {% endfor %}
 </nav>
 
