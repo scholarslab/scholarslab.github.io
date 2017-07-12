@@ -146,4 +146,33 @@ li p + p {
   margin-top: 1em;
 }
 
+/* Labs page masonry */
+
+#lab-grid {
+  -moz-column-width: 13em;
+  -webkit-column-width: 13em;
+  -moz-column-gap: 1em;
+  -webkit-column-gap: 1em;
+}
+
+section {
+  display: inline-block;
+  margin: 0.25rem;
+  padding: 1rem;
+  width: 100%;
+  background: #efefef;
+=======
+>>>>>>> Stashed changes
+li p {
+  margin:0;
+}
+
+li p + p {
+  margin-top: 1em;
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
+}
+
 
