@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2013-06-06 11:27:44+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: salem-witch-trials
 title: Salem Witch Trials
 research-category:

@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-22 12:22:04+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: spatial-search-and-delivery
 title: Spatial Humanities
 research-category:

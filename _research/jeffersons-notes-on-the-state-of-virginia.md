@@ -1,8 +1,8 @@
 ---
-author: wsg4w
-comments: false
-date: 2014-08-28 09:24:59+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: jeffersons-notes-on-the-state-of-virginia
 title: Jefferson's Notes on the State of Virginia
 research-category:

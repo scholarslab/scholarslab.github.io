@@ -1,8 +1,8 @@
 ---
-author: wsg4w
-comments: false
-date: 2014-08-28 09:16:06+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: bibliographic-society-of-virginia
 title: Bibliographic Society of Virginia
 research-category:

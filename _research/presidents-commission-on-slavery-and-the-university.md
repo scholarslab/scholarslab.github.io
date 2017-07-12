@@ -1,8 +1,8 @@
 ---
-author: wsg4w
-comments: false
-date: 2014-08-28 09:15:12+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: presidents-commission-on-slavery-and-the-university
 title: President's Commission on Slavery and the University
 research-category:

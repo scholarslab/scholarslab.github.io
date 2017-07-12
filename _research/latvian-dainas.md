@@ -1,8 +1,8 @@
 ---
-author: wsg4w
-comments: false
-date: 2014-08-28 09:05:18+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: latvian-dainas
 title: Latvian Dainas
 research-category:

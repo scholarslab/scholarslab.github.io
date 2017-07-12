@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2013-06-06 11:28:37+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: the-university-of-virginia-art-museum-numismatic-collection
 title: The University of Virginia Art Museum Numismatic Collection
 research-category:

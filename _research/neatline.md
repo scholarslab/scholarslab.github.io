@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-22 12:18:01+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: neatline
 title: Neatline
 research-category:

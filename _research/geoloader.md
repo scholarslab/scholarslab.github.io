@@ -1,8 +1,8 @@
 ---
-author: wsg4w
-comments: false
-date: 2014-08-28 09:12:36+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: geoloader
 title: Geoloader
 research-category:

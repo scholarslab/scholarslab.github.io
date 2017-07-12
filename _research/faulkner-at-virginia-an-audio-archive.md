@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2013-06-06 11:22:41+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: faulkner-at-virginia-an-audio-archive
 title: 'Faulkner at Virginia: An Audio Archive'
 research-category:

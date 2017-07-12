@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2012-08-22 12:21:19+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: omeka-plugins
 title: Omeka Plugins
 research-category:

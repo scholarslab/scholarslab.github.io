@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2013-06-06 11:24:10+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: project-blacklight
 title: Project Blacklight
 research-category:

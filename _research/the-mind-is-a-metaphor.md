@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2013-06-06 11:28:59+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: the-mind-is-a-metaphor
 title: The Mind is a Metaphor
 research-category:

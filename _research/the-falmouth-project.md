@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2013-06-06 11:28:10+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: the-falmouth-project
 title: The Falmouth Project
 research-category:

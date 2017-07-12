@@ -1,8 +1,8 @@
 ---
-author: wsg4w
-comments: false
-date: 2014-08-28 09:16:59+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: speaking-in-code
 title: Speaking In Code
 research-category:

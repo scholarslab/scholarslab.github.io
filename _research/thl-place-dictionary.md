@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2013-06-06 11:20:49+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: thl-place-dictionary
 title: THL Place Dictionary
 research-category:

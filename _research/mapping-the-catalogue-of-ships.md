@@ -1,8 +1,8 @@
 ---
-author: jeremy
-comments: false
-date: 2012-09-04 09:25:34+00:00
+collaborators: []
+current: false
 layout: research
+link: ''
 slug: mapping-the-catalogue-of-ships
 title: Mapping the Catalogue of Ships
 research-category:
