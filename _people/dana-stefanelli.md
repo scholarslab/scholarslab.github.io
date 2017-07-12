@@ -1,6 +1,8 @@
 ---
 department: History
 email: djs7g@virginia.edu
+first_name: Dana
+last_name: Stefanelli
 layout: people
 name: Dana Stefanelli
 short_bio: ''

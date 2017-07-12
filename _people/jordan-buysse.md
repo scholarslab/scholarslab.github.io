@@ -1,6 +1,8 @@
 ---
 department: English
 email: jdbuysse@gmail.com
+first_name: None
+last_name: None
 layout: people
 name: Jordan Buysse
 short_bio: ''

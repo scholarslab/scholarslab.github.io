@@ -1,6 +1,8 @@
 ---
 department: None
 email: ab6j@virginia.edu
+first_name: Alison
+last_name: Booth
 layout: people
 name: Alison Booth
 short_bio: ''

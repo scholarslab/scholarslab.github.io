@@ -1,6 +1,8 @@
 ---
 department: reseach_and_development
 email: None
+first_name: Eric
+last_name: Rochester
 layout: people
 name: Eric Rochester
 short_bio: ''

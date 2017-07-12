@@ -1,6 +1,8 @@
 ---
 department: None
 email: lkw2eq@virginia.edu
+first_name: Lydia
+last_name: Warren
 layout: people
 name: Lydia Warren
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: gis_data
 email: dcg6b@virginia.edu
+first_name: Chris
+last_name: Gist
 layout: people
 name: Chris Gist
 short_bio: ''

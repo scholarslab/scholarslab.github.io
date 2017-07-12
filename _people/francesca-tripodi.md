@@ -1,6 +1,8 @@
 ---
 department: Sociology
 email: None
+first_name: Francesca
+last_name: Tripodi
 layout: people
 name: Francesca Tripodi
 short_bio: ''

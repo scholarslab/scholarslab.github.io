@@ -1,6 +1,8 @@
 ---
 department: Music
 email: swl5nw@virginia.edu
+first_name: Steven
+last_name: Lewis
 layout: people
 name: Steven Lewis
 short_bio: ''

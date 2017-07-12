@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Joe
+last_name: Gilbert
 layout: people
 name: Joe Gilbert
 short_bio: ''

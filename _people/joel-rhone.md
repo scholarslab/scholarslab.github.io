@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Joel
+last_name: Rhone
 layout: people
 name: Joel Rhone
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: Music
 email: hsuw@oxy.edu
+first_name: Wendy
+last_name: Hsu
 layout: people
 name: Wendy Hsu
 short_bio: ''

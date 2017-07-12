@@ -1,6 +1,8 @@
 ---
 department: Spanish, Portuguese, and Italian
 email: None
+first_name: Ryan
+last_name: Johnson
 layout: people
 name: Ryan Johnson
 short_bio: ''

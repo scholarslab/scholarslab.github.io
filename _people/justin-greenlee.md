@@ -1,6 +1,8 @@
 ---
 department: Art History
 email: jgg3mb@virginia.edu
+first_name: Justin
+last_name: Greenlee
 layout: people
 name: Justin Greenlee
 short_bio: ''

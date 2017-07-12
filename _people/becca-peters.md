@@ -1,6 +1,8 @@
 ---
 department: None
 email: rpt3e@virginia.edu
+first_name: Becca
+last_name: Peters
 layout: people
 name: Becca Peters
 short_bio: ''

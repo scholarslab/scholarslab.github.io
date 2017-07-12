@@ -1,6 +1,8 @@
 ---
 department: Economics
 email: cmc8dp@virginia.edu
+first_name: Chris
+last_name: Clapp
 layout: people
 name: Chris Clapp
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: None
 email: ajs6f@virginia.edu
+first_name: Adam
+last_name: Soroka
 layout: people
 name: Adam Soroka
 short_bio: ''

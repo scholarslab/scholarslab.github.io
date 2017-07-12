@@ -1,6 +1,8 @@
 ---
 department: Art & Architecture
 email: jtb5q@virginia.edu
+first_name: Jared
+last_name: Benton
 layout: people
 name: Jared Benton
 short_bio: ''

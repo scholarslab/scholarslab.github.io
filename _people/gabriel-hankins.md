@@ -1,6 +1,8 @@
 ---
 department: English
 email: hankins@virginia.edu
+first_name: Gabriel
+last_name: Hankins
 layout: people
 name: Gabriel Hankins
 short_bio: ''

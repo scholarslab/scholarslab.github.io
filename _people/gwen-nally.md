@@ -1,6 +1,8 @@
 ---
 department: Philosophy
 email: egn9b@virginia.edu
+first_name: Gwen
+last_name: Nally
 layout: people
 name: Gwen Nally
 short_bio: ''

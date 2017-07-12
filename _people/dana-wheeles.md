@@ -1,6 +1,8 @@
 ---
 department: Art History
 email: dw6h@virginia.edu
+first_name: Dana
+last_name: Wheeles
 layout: people
 name: Dana Wheeles
 short_bio: ''

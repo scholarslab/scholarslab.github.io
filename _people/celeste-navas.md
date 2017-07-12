@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Celeste
+last_name: Navas
 layout: people
 name: Celeste Navas
 short_bio: ''

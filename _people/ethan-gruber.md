@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Ethan
+last_name: Gruber
 layout: people
 name: Ethan Gruber
 short_bio: ''

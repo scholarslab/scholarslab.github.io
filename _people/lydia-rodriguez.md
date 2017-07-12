@@ -1,6 +1,8 @@
 ---
 department: Anthropology
 email: lr9u@virginia.edu
+first_name: Lydia
+last_name: Rodriguez
 layout: people
 name: Lydia Rodriguez
 short_bio: ''

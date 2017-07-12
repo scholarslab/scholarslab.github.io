@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Kayla
+last_name: Pinson
 layout: people
 name: Kayla Pinson
 short_bio: ''

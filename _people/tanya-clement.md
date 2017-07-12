@@ -1,6 +1,8 @@
 ---
 department: None
 email: tclement@ischool.utexas.edu
+first_name: Tanya
+last_name: Clement
 layout: people
 name: Tanya Clement
 short_bio: ''

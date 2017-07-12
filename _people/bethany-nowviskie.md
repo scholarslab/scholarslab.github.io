@@ -1,6 +1,8 @@
 ---
 department: administration
 email: bethany@virginia.edu
+first_name: Bethany
+last_name: Nowviskie
 layout: people
 name: Bethany Nowviskie
 short_bio: ''

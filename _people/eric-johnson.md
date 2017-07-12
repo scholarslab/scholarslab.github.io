@@ -1,6 +1,8 @@
 ---
 department: public_service
 email: None
+first_name: Eric
+last_name: Johnson
 layout: people
 name: Eric Johnson
 short_bio: ''

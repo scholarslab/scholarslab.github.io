@@ -1,6 +1,8 @@
 ---
 department: English
 email: jcocola@wpi.edu
+first_name: Jim
+last_name: Cocola
 layout: people
 name: Jim Cocola
 short_bio: ''

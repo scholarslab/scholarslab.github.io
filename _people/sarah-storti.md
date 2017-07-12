@@ -1,6 +1,8 @@
 ---
 department: English
 email: sas3ca@virginia.edu
+first_name: Sarah
+last_name: Storti
 layout: people
 name: Sarah Storti
 short_bio: ''

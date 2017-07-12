@@ -1,6 +1,8 @@
 ---
 department: None
 email: edward.triplett@gmail.com
+first_name: Ed
+last_name: Triplett
 layout: people
 name: Ed Triplett
 short_bio: ''

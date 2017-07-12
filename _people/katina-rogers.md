@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Katina
+last_name: Rogers
 layout: people
 name: Katina Rogers
 short_bio: ''

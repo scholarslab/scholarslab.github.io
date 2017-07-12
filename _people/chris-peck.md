@@ -1,6 +1,8 @@
 ---
 department: Music
 email: cp3ee@virginia.edu
+first_name: Chris
+last_name: Peck
 layout: people
 name: Chris Peck
 short_bio: ''

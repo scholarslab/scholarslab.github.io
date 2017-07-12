@@ -1,6 +1,8 @@
 ---
 department: History
 email: ggr4tj@virginia.edu
+first_name: Gillet
+last_name: Rosenblith
 layout: people
 name: Gillet Rosenblith
 short_bio: ''

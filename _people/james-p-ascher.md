@@ -1,12 +1,14 @@
 ---
 department: English
 email: jpa4q@virginia.edu
+first_name: James
+last_name: Ascher
 layout: people
 name: James P. Ascher
 short_bio: ''
 slug: james-p-ascher
 status: not_current
-twitter: '@jpsa'
+twitter: jpsa
 website: http://virginia.academia.edu/JamesPAscher
 people-category:
 - 2015-2016

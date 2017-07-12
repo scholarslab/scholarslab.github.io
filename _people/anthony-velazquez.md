@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Anthony
+last_name: Velázquez
 layout: people
 name: Anthony Velázquez
 short_bio: ''

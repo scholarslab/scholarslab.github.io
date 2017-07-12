@@ -1,6 +1,8 @@
 ---
 department: None
 email: henarysm@wfu.edu
+first_name: Sara
+last_name: Henary
 layout: people
 name: Sara Henary
 short_bio: ''

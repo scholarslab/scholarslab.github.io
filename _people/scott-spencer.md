@@ -1,6 +1,8 @@
 ---
 department: History
 email: scs4v@virginia.edu
+first_name: Scott
+last_name: Spencer
 layout: people
 name: Scott Spencer
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: Music
 email: None
+first_name: Erik
+last_name: DeLuca
 layout: people
 name: Erik DeLuca
 short_bio: ''

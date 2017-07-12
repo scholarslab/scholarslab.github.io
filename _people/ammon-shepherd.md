@@ -1,12 +1,14 @@
 ---
 department: None
 email: aes9h@virginia.edu
+first_name: Ammon
+last_name: Shepherd
 layout: people
 name: Ammon Shepherd
 short_bio: ''
 slug: ammon-shepherd
 status: current
-twitter: '@mossiso'
+twitter: mossiso
 website: http://mossiso.com
 people-category:
 - Staff

@@ -1,6 +1,8 @@
 ---
 department: None
 email: purdom@virginia.edu
+first_name: Purdom
+last_name: Lindblad
 layout: people
 name: Purdom Lindblad
 short_bio: ''

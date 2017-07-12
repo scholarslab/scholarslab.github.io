@@ -1,12 +1,14 @@
 ---
 department: History
 email: jimambuske@gmail.com
+first_name: James
+last_name: Ambuske
 layout: people
 name: James Ambuske
 short_bio: ''
 slug: james-ambuske
 status: not_current
-twitter: '@JamesPAmbuske'
+twitter: JamesPAmbuske
 website: http://www.jamespambuske.com
 people-category:
 - 2014–2015

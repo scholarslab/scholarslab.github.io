@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Joy
+last_name: Ikekhua
 layout: people
 name: Joy Ikekhua
 short_bio: ''

@@ -1,12 +1,14 @@
 ---
 department: English
 email: bnl2ja@virginia.edu
+first_name: Brooke
+last_name: Lestock
 layout: people
 name: Brooke Lestock
 short_bio: ''
 slug: brooke-lestock
 status: not_current
-twitter: '@BrookeLestock'
+twitter: BrookeLestock
 website: None
 people-category:
 - 2011–2012

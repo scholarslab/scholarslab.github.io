@@ -1,6 +1,8 @@
 ---
 department: Religious Studies
 email: csb5t@virginia.edu
+first_name: Scott
+last_name: Bailey
 layout: people
 name: Scott Bailey
 short_bio: ''

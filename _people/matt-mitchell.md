@@ -1,6 +1,8 @@
 ---
 department: None
 email: mwmitchell73@gmail.com
+first_name: Matt
+last_name: Mitchell
 layout: people
 name: Matt Mitchell
 short_bio: ''

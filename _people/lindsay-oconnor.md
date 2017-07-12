@@ -1,6 +1,8 @@
 ---
 department: English
 email: lo3m@virginia.edu
+first_name: Lindsay
+last_name: O’Connor
 layout: people
 name: Lindsay O’Connor
 short_bio: ''

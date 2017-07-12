@@ -1,6 +1,8 @@
 ---
 department: History
 email: None
+first_name: Tamika
+last_name: Richeson
 layout: people
 name: Tamika Richeson
 short_bio: ''

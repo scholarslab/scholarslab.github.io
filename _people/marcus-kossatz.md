@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Marcus
+last_name: Kossatz
 layout: people
 name: Marcus Kossatz
 short_bio: ''

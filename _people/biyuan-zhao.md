@@ -1,6 +1,8 @@
 ---
 department: None
 email: bz5jc@virginia.edu
+first_name: Biyuan
+last_name: Zhao
 layout: people
 name: Biyuan Zhao
 short_bio: ''

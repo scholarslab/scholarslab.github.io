@@ -1,6 +1,8 @@
 ---
 department: English
 email: tdf2b@virginia.edu
+first_name: Thomas
+last_name: Finger
 layout: people
 name: Tom Finger
 short_bio: ''

@@ -1,12 +1,14 @@
 ---
 department: History
 email: esenefeld@gmail.com
+first_name: Emily
+last_name: Senefeld
 layout: people
 name: Emily Senefeld
 short_bio: ''
 slug: emily-senefeld
 status: not_current
-twitter: '@EmilySenefeld'
+twitter: EmilySenefeld
 website: http://emilysenefeld.wordpress.com
 people-category:
 - 2014–2015

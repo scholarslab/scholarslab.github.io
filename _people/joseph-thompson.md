@@ -1,6 +1,8 @@
 ---
 department: History
 email: None
+first_name: Joseph
+last_name: Thompson
 layout: people
 name: Joseph Thompson
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: English
 email: None
+first_name: Kelli
+last_name: Shermeyer
 layout: people
 name: Kelli Shermeyer
 short_bio: ''

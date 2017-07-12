@@ -1,6 +1,8 @@
 ---
 department: History
 email: None
+first_name: Mark
+last_name: Nevin
 layout: people
 name: Mark Nevin
 short_bio: ''

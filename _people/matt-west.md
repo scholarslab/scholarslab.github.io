@@ -1,6 +1,8 @@
 ---
 department: None
 email: mrw2ks@virginia.edu
+first_name: Matt
+last_name: West
 layout: people
 name: Matt West
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: English
 email: jes8zv@virginia.edu
+first_name: Annie
+last_name: Swafford
 layout: people
 name: Annie Swafford
 short_bio: ''

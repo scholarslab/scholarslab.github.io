@@ -1,6 +1,8 @@
 ---
 department: reseach_and_development
 email: None
+first_name: David
+last_name: McClure
 layout: people
 name: David McClure
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: Music
 email: jbk3y@virginia.edu
+first_name: Jason
+last_name: Kirby
 layout: people
 name: Jason Kirby
 short_bio: ''

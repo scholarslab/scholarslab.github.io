@@ -1,6 +1,8 @@
 ---
 department: reseach_and_development
 email: wsg4w@virginia.edu
+first_name: Wayne
+last_name: Graham
 layout: people
 name: Wayne Graham
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: English
 email: cforster@virginia.edu
+first_name: Chris
+last_name: Forster
 layout: people
 name: Chris Forster
 short_bio: ''

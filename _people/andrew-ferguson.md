@@ -1,12 +1,14 @@
 ---
 department: English
 email: af3pj@virginia.edu
+first_name: Andrew
+last_name: Ferguson
 layout: people
 name: Andrew Ferguson
 short_bio: ''
 slug: andrew-ferguson
 status: not_current
-twitter: '@epiktistes'
+twitter: epiktistes
 website: None
 people-category:
 - 2014–2015

@@ -1,6 +1,8 @@
 ---
 department: None
 email: alh3f@virginia.edu
+first_name: Abby
+last_name: Holeman
 layout: people
 name: Abby Holeman
 short_bio: ''

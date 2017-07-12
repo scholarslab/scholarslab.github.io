@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Zachary
+last_name: Stone
 layout: people
 name: Zachary Stone
 short_bio: ''

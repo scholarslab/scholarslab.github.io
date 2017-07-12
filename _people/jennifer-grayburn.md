@@ -1,6 +1,8 @@
 ---
 department: Art and Architecture
 email: jng3au@virginia.edu
+first_name: Jennifer
+last_name: Grayburn
 layout: people
 name: Jennifer Grayburn
 short_bio: ''

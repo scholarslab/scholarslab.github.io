@@ -1,6 +1,8 @@
 ---
 department: Library, ARH
 email: wmr5a@eservices.virginia.edu
+first_name: Will
+last_name: Rourk
 layout: people
 name: Will Rourk
 short_bio: ''

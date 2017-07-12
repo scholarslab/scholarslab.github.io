@@ -1,6 +1,8 @@
 ---
 department: English
 email: None
+first_name: Elizabeth
+last_name: Fox
 layout: people
 name: Elizabeth Fox
 short_bio: ''

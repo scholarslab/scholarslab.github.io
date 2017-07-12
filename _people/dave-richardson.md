@@ -1,6 +1,8 @@
 ---
 department: None
 email: dlr2n@virginia.edu
+first_name: Dave
+last_name: Richardson
 layout: people
 name: Dave Richardson
 short_bio: ''

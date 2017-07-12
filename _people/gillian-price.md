@@ -1,6 +1,8 @@
 ---
 department: Spanish, Italian, and Portuguese
 email: gbp2q@virginia.edu
+first_name: Gillian
+last_name: Price
 layout: people
 name: Gillian Price
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: English
 email: colibri.alex@gmail.com
+first_name: Alex
+last_name: Gil
 layout: people
 name: Alex Gil
 short_bio: ''

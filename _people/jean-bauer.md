@@ -1,6 +1,8 @@
 ---
 department: History
 email: jabauer@virginia.edu
+first_name: Jean
+last_name: Bauer
 layout: people
 name: Jean Bauer
 short_bio: ''

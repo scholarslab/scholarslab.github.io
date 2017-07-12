@@ -1,6 +1,8 @@
 ---
 department: None
 email: fitz@studycenter.net
+first_name: Fitz
+last_name: Green
 layout: people
 name: Fitz Green
 short_bio: ''

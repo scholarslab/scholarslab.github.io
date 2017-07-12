@@ -1,6 +1,8 @@
 ---
 department: None
 email: bess.sadler@gmail.com
+first_name: Bess
+last_name: Sadler
 layout: people
 name: Bess Sadler
 short_bio: ''

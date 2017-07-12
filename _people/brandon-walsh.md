@@ -1,6 +1,8 @@
 ---
 department: English
 email: bmw9t@virginia.edu
+first_name: Brandon
+last_name: Walsh
 layout: people
 name: Brandon Walsh
 short_bio: ''

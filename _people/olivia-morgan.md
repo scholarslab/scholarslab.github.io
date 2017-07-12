@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Olivia
+last_name: Morgan
 layout: people
 name: Olivia Morgan
 short_bio: ''

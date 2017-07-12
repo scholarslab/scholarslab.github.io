@@ -1,6 +1,8 @@
 ---
 department: English
 email: None
+first_name: Ethan
+last_name: Reed
 layout: people
 name: Ethan Reed
 short_bio: ''

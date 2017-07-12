@@ -1,6 +1,8 @@
 ---
 department: Slavic Languages and Literatures
 email: None
+first_name: Oguljan
+last_name: Reyimbaeva
 layout: people
 name: Oguljan Reyimbaeva
 short_bio: ''

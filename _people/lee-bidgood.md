@@ -1,6 +1,8 @@
 ---
 department: Music
 email: bidgood@etsu.edu
+first_name: Lee
+last_name: Bidgood
 layout: people
 name: Lee Bidgood
 short_bio: ''

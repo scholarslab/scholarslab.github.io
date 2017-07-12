@@ -1,6 +1,8 @@
 ---
 department: Spanish
 email: None
+first_name: Nora
+last_name: Benedict
 layout: people
 name: Nora Benedict
 short_bio: ''

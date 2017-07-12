@@ -1,6 +1,8 @@
 ---
 department: None
 email: zaneryans@gmail.com
+first_name: Zane
+last_name: Schwarzlose
 layout: people
 name: Zane Schwarzlose
 short_bio: ''

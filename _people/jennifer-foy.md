@@ -1,12 +1,14 @@
 ---
 department: English
 email: jaf6fm@virginia.edu
+first_name: Jennifer
+last_name: Foy
 layout: people
 name: Jennifer Foy
 short_bio: ''
 slug: jennifer-foy
 status: not_current
-twitter: '@JennyAFoy'
+twitter: JennyAFoy
 website: None
 people-category:
 - 2014–2015

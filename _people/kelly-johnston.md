@@ -1,6 +1,8 @@
 ---
 department: gis_data
 email: None
+first_name: Kelly
+last_name: Johnston
 layout: people
 name: Kelly Johnston
 short_bio: ''

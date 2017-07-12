@@ -1,12 +1,14 @@
 ---
 department: English
 email: arb5fc@virginia.edu
+first_name: Amy
+last_name: Boyd
 layout: people
 name: Amy Boyd
 short_bio: ''
 slug: amy-boyd
 status: not_current
-twitter: '@MsABoyd'
+twitter: MsABoyd
 website: None
 people-category:
 - 2014–2015

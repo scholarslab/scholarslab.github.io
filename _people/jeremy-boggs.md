@@ -1,6 +1,8 @@
 ---
 department: None
 email: jeremy@virginia.edu
+first_name: Jeremy
+last_name: Boggs
 layout: people
 name: Jeremy Boggs
 short_bio: ''

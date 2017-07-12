@@ -1,6 +1,8 @@
 ---
 department: None
 email: rag9b@virginia.edu
+first_name: Ronda
+last_name: Grizzle
 layout: people
 name: Ronda Grizzle
 short_bio: ''

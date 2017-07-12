@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: None
+last_name: None
 layout: people
 name: Gabriela Trinidad Pérez
 short_bio: ''

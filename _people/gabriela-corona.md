@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Gabriela
+last_name: Corona
 layout: people
 name: Gabriela Corona
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: Religious Studies
 email: mam3tc@virginia.edu
+first_name: Matt
+last_name: Munson
 layout: people
 name: Matt Munson
 short_bio: ''

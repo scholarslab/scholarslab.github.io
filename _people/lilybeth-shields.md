@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Lilybeth
+last_name: Shields
 layout: people
 name: Lilybeth Shields
 short_bio: ''

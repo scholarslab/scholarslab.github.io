@@ -1,6 +1,8 @@
 ---
 department: Art History
 email: None
+first_name: Alicia
+last_name: Caticha
 layout: people
 name: Alicia Caticha
 short_bio: ''

@@ -1,12 +1,14 @@
 ---
 department: English
 email: adc2dc@virginia.edu
+first_name: Alyssa
+last_name: Collins
 layout: people
 name: Alyssa Collins
 short_bio: ''
 slug: alyssa-collins
 status: not_current
-twitter: '@LyssaDee'
+twitter: LyssaDee
 website: None
 people-category:
 - 2016-2017

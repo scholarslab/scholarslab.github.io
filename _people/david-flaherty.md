@@ -1,6 +1,8 @@
 ---
 department: History
 email: david.flaherty@virginia.edu
+first_name: David
+last_name: Flaherty
 layout: people
 name: David Flaherty
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Julia
+last_name: Schrank
 layout: people
 name: Julia Schrank
 short_bio: ''

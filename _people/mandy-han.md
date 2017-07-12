@@ -1,6 +1,8 @@
 ---
 department: None
 email: yh3fd@virginia.edu
+first_name: Mandy
+last_name: Han
 layout: people
 name: Mandy Han
 short_bio: ''

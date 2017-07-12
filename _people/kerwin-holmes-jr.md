@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Kerwin
+last_name: Holmes, Jr.
 layout: people
 name: Kerwin Holmes, Jr.
 short_bio: ''

@@ -1,6 +1,8 @@
 ---
 department: Classical Art & Archaeology
 email: None
+first_name: Veronica
+last_name: Ikeshoji-Orlati
 layout: people
 name: Veronica Ikeshoji-Orlati
 short_bio: ''

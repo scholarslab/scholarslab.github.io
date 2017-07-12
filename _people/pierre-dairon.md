@@ -1,6 +1,8 @@
 ---
 department: French
 email: pmd2f@virginia.edu
+first_name: Pierre
+last_name: Dairon
 layout: people
 name: Pierre Dairon
 short_bio: ''

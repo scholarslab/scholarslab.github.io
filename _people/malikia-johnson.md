@@ -1,6 +1,8 @@
 ---
 department: None
 email: None
+first_name: Malikia
+last_name: Johnson
 layout: people
 name: Malikia Johnson
 short_bio: ''

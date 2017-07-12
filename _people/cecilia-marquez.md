@@ -1,6 +1,8 @@
 ---
 department: History
 email: cm2ug@virginia.edu
+first_name: Cecilia
+last_name: Márquez
 layout: people
 name: Cecilia Márquez
 short_bio: ''

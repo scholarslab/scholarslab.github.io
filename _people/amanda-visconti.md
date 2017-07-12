@@ -1,6 +1,8 @@
 ---
 department: None
 email: abv6x@virginia.edu
+first_name: Amanda
+last_name: Visconti
 layout: people
 name: Amanda Visconti
 short_bio: ''

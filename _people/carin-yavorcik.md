@@ -1,6 +1,8 @@
 ---
 department: None
 email: carin.yavorcik@gmail.com
+first_name: Carin
+last_name: Yavorcik
 layout: people
 name: Carin Yavorcik
 short_bio: ''
