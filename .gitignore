@@ -4,3 +4,4 @@ _site/
 __pycache__/
 munge.py
 .jekyll-metadata
+Gemfile.lock
