@@ -5,12 +5,12 @@ link: /people
 slug: People
 title: People
 ---
-{% for person in site.people %}
-<a href="{{ site.url }}/people/{{ person.slug }}">{{ person.name }}</a>
 
-{{ person.bio }}
-
-===
-
+{% assign staff = (site.people | where:"people-category","Staff" | where:"status","current") %}
+<nav class="people" role="navigation">
+{% for person in staff %}
+  <a href="{{ site.url }}/people/{{ person.slug }}">
+  <div class="image"></div>
+  {{ person.name }}</a>
 {% endfor %}
-asdfadasdf
+</nav>
