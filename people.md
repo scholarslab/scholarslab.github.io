@@ -11,8 +11,11 @@ title: People
 <nav class="people" role="navigation">
 {% for person in staff %}
   <a href="{{ site.url }}/people/{{ person.slug }}">
-  <div class="image"></div>
-  {{ person.name }}</a>
+  <div class="image"><img src="{{ site.baseurl
+  }}/assets/images/people/{{person.slug}}.jpg" alt=""></div>
+  <span class="fn name">{{ person.name }}</span>
+  <span class="title">{{ person.position }}</span>
+  </a>
 {% endfor %}
 </nav>
 

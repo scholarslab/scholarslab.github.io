@@ -116,16 +116,47 @@ main {
   justify-content: space-between;
 
   a {
-    width: 30%;
-    margin-bottom: 3%;
-    text-decoraton:none;
+    width: 32%;
+    margin-bottom: 2rem;
+    text-decoration:none;
+    line-height:1;
   }
-  
-  a div {
-    height: 150px;
-    background: rgba(0,0,0,0.2);
+
+  .image {
+    margin-bottom: .5rem;
+  }
+
+  .name {
+    display:block;
+    font-weight:bold;
+  }
+
+  .title {
+    font-size: .875rem;
   }
 }
 
+li p {
+  margin:0;
+}
 
+li p + p {
+  margin-top: 1em;
+}
 
+/* Labs page masonry */
+
+#lab-grid {
+  -moz-column-width: 13em;
+  -webkit-column-width: 13em;
+  -moz-column-gap: 1em;
+  -webkit-column-gap: 1em;
+}
+
+section {
+  display: inline-block;
+  margin: 0.25rem;
+  padding: 1rem;
+  width: 100%;
+  background: #efefef;
+}

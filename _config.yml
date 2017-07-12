@@ -28,10 +28,13 @@ collections:
   research:
     output: true
     permalink: /:collection/:name/
+  lab:
+    output: true
+    permalink: /:collection/:name/
 
 header_pages:
   - about.md
   - people.md
-  - research.md
   - blog.md
+  - research.md
   - lab.md
