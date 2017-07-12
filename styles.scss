@@ -39,9 +39,22 @@ a {
   }
 }
 
+h1,h2 {
+  font-family: "Source Serif Pro";
+}
+
 h1 {
   font-size: 3rem;
   line-height: 1.125;
+
+  &:after {
+    display:block;
+    content: " ";
+    width: 50px;
+    margin: 2rem 0;
+    height: .25rem;
+    background: hsla(55,90%,50%,.75);
+  }
 }
 
 img,svg {
@@ -61,15 +74,20 @@ img,svg {
 }
 
 #globalnav {
-  background: white;
-  background: rgba(255,255,255,.625);
-  background: hsla(40,40%,99%,1);
-  
+  background-color: hsla(40,40%,99%,1);
+  background-image:
+  linear-gradient(
+      45deg,
+      red,transparent 10%
+    );
+  background-size: 200px;
+  background-position: bottom right;
+  background-repeat:no-repeat;
   display: flex;
   align-items: center;
   min-height: 3rem;
   height: 15vh;
-  padding: 0 1.5rem;
+  padding: 0 3rem;
   line-height: 1;
   text-transform: lowercase;
   font-size: 1rem;
@@ -98,7 +116,26 @@ img,svg {
 }
 
 main {
-  padding: 0 1.5rem;
+  padding: 0 3rem;
   max-width: 900px;
 }
+
+.people {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+
+  a {
+    width: 30%;
+    margin-bottom: 3%;
+    text-decoraton:none;
+  }
+  
+  a div {
+    height: 150px;
+    background: rgba(0,0,0,0.2);
+  }
+}
+
+
 
