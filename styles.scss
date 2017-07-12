@@ -75,19 +75,9 @@ img,svg {
 
 #globalnav {
   background-color: hsla(40,40%,99%,1);
-  background-image:
-  linear-gradient(
-      45deg,
-      red,transparent 10%
-    );
-  background-size: 200px;
-  background-position: bottom right;
-  background-repeat:no-repeat;
   display: flex;
   align-items: center;
-  min-height: 3rem;
-  height: 15vh;
-  padding: 0 3rem;
+  padding: 1.5rem 3rem;
   line-height: 1;
   text-transform: lowercase;
   font-size: 1rem;
