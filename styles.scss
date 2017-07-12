@@ -106,8 +106,50 @@ img,svg {
 }
 
 main {
-  padding: 0 3rem;
+  padding: 0 3rem 6rem;
   max-width: 900px;
+}
+
+.post {
+  header {
+    margin-bottom: 3rem;
+  }
+
+  .author,time {
+    font-size: .9rem;
+    font-weight: bold;
+  }
+
+  .author:after {
+    content: " · ";
+    color: rgba(0,0,0,0.25);
+    margin: 0 .25rem;
+  }
+
+  footer {
+    margin-top: 3rem;
+
+    &:before {
+      display:block;
+      content: " ";
+      width: 50px;
+      margin: 2rem 0;
+      height: .25rem;
+      background-color: hsla(40,40%,70%,1);
+    }
+
+    .person-image {
+      float:left;
+      width: 150px;
+    }
+    p {
+      margin-left: 170px;
+      font-size: .8rem;
+      font-weight:bold;
+    }
+
+  }
+
 }
 
 .people {
