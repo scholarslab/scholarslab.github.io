@@ -1,0 +1,24 @@
+---
+author: sara-henary
+date: 2009-03-30 17:18:34+00:00
+layout: post
+slug: electronic-text-analysis-and-the-wary-humanist
+title: Electronic Text Analysis and the Wary Humanist
+categories:
+- Digital Humanities
+- Visualization and Data Mining
+tags:
+- Digital Humanities
+---
+
+For a long list of complicated reasons, most practitioners of my discipline—political theory—tend to be suspicious of, if not altogether opposed to, the integration of computer technology into their research and teaching. While some scholars cite the superfluity of computer technology to the discipline (excepting, of course, Microsoft Word), others argue that the introduction of certain technologies might somehow actually endanger both thinking and learning (and who wouldn’t find the reduction of Plato to a series of PowerPoint slides, well, a tad reductive?).
+
+
+
+Nevertheless, working at the Scholars’ Lab has afforded me the opportunity to sample a range of digital scholarship tools/resources, some of which might appeal to that most skeptical of techno-skeptics, the political theorist. One such resource is [TAPoR](http://portal.tapor.ca/portal/portal), the Text Analysis Portal for Research, a website that provides access to tools used in the analysis of electronic texts.
+
+Many classic texts are now available in electronic form, and “computer-assisted text analysis” (TAPoR website) enables the researcher to explore a text in ways that are difficult, if not impossible, using only conventional tools for text analysis such as the index or a concordance (though much electronic text analysis is modeled conceptually on both of these). This is generally accomplished by allowing the researcher to search a text for specific words or word patterns or to generate a listing of the most frequently used words. In the case of TAPoR’s word/word pattern search, the results are displayed in the context of the surrounding text—the words sought are in bold, while several additional words on either side give the researcher some sense of how the words are being used. One may employ this kind of analysis with many ends in view, though some common goals include: a) testing to see whether—and if so, how often—an author employs either specific language or a certain kind of language and b) exploring certain words or phrases in context in order to gauge the narrowness or expansiveness of the author’s meaning when such language is used.
+
+In order to explore the features and capacities of TAPoR, I brought to the portal an aspect of a particular research question that I had been thinking about for some time. To write my dissertation, I must provide at least a provisional answer to the following question: Does John Locke articulate a consistent view of the human person throughout his corpus? Although I was very familiar with the way he spoke about the “person” in one text, I was less familiar with his usage in other texts. After sketching a brief definition of the “person” based the first text, I proceeded to investigate whether Locke spoke of the “person” in similar terms in a second text. I pasted the URL of a webpage that contained the second text into TAPoR, which I then asked to search the document for the word “person.” I performed several additional searches, using other key words/phrases from my original definition as well as others that came to mind as I was searching. The results were illuminating. I discovered that although Locke tended to use the word “person” in a more ordinary, less philosophical sense in the second text, all of the basic features of the first text's conception were nevertheless present. While this confirmed the intuition I had about the consistency of Locke’s view of the “person” across his texts (or at least two of them), the specific instances of personhood language that I isolated with the help of TAPoR will allow me to present a much more convincing defense of my position in the dissertation. Additionally, the fact that TAPoR allows the researcher to view all results of a word search simultaneously helped me to formulate more precisely what was going on in the text and to relate it to my more general argument--i.e. a looser, more familiar usage of "person" in certain contexts can co-exist with a unified, consistent account of personhood.
+
+TAPoR enabled me to “see” more than I otherwise would have in a text and could be a valuable resource for scholars in any field concerned with the close and careful reading of texts.
