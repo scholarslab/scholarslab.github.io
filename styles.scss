@@ -138,5 +138,12 @@ main {
   }
 }
 
+li p {
+  margin:0;
+}
+
+li p + p {
+  margin-top: 1em;
+}
 
 
