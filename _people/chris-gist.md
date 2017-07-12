@@ -5,7 +5,7 @@ layout: people
 name: Chris Gist
 short_bio: ''
 slug: chris-gist
-status: not_current
+status: current
 twitter: adarwinian
 website: None
 people-category:

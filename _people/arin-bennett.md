@@ -5,7 +5,7 @@ layout: people
 name: Arin Bennett
 short_bio: ''
 slug: arin-bennett
-status: not_current
+status: current
 twitter: None
 website: http://bit.ly/3DUVA
 people-category:

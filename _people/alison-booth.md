@@ -5,7 +5,7 @@ layout: people
 name: Alison Booth
 short_bio: ''
 slug: alison-booth
-status: not_current
+status: current
 twitter: None
 website: None
 people-category:

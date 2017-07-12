@@ -5,7 +5,7 @@ layout: people
 name: Drew Macqueen
 short_bio: ''
 slug: drew-macqueen
-status: not_current
+status: current
 twitter: None
 website: None
 people-category:

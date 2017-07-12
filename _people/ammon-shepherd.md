@@ -5,7 +5,7 @@ layout: people
 name: Ammon Shepherd
 short_bio: ''
 slug: ammon-shepherd
-status: not_current
+status: current
 twitter: '@mossiso'
 website: http://mossiso.com
 people-category:

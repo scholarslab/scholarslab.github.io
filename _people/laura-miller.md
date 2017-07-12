@@ -5,7 +5,7 @@ layout: people
 name: Laura Miller
 short_bio: ''
 slug: laura-miller
-status: not_current
+status: current
 twitter: martofmiller
 website: None
 people-category:

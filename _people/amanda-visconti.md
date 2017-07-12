@@ -5,7 +5,7 @@ layout: people
 name: Amanda Visconti
 short_bio: ''
 slug: amanda-visconti
-status: not_current
+status: current
 twitter: literature_geek
 website: http://www.AmandaVisconti.com
 people-category:
