@@ -3,8 +3,15 @@ layout: default
 ---
 
 <div class="home">
-
+<main id="main" role="main">
   {{ content }}
+
+<a class="twitter-timeline"
+  href="https://twitter.com/ScholarsLab"
+  data-tweet-limit="1"
+data-chrome="nofooter noborders noscrollbar noheader transparent">
+>
+</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   <h1 class="page-heading">Posts</h1>
 
@@ -22,5 +29,5 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
+</main>
 </div>

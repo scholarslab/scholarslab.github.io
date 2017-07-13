@@ -64,7 +64,11 @@ GEM
       ffi (>= 0.5.0, < 2)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.4.25)
+    sass (3.5.0)
+      sass-listen (~> 3.0.7)
+    sass-listen (3.0.7)
+      rb-fsevent (>= 0.9.3)
+      rb-inotify (>= 0.9.7)
     thread_safe (0.3.6)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
@@ -84,7 +88,7 @@ DEPENDENCIES
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.3.4p301
+   ruby 2.4.1p111
 
 BUNDLED WITH
    1.15.1
