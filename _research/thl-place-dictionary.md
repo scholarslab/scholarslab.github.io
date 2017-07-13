@@ -2,7 +2,7 @@
 collaborators: ''
 current: false
 layout: research
-link: ''
+link: http://thlib.org
 slug: thl-place-dictionary
 title: THL Place Dictionary
 research-category:

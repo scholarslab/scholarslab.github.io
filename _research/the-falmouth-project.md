@@ -1,8 +1,16 @@
 ---
-collaborators: ''
+collaborators: 
+	- name: Louis P. Nelson
+	  role: Project Owner
+	- name: Wayne Graham
+	  slug: wayne-graham
+	  role: Head of Research and Development
+	- name: Eric Rochester
+	  slug: eric-rochester
+	  role: Head of Research and Development
 current: false
 layout: research
-link: ''
+link: http://falmouth.lib.virginia.edu/
 slug: the-falmouth-project
 title: The Falmouth Project
 research-category:

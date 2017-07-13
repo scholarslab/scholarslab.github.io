@@ -1,8 +1,10 @@
 ---
-collaborators: ''
+collaborators: 
+	- name: Manuta Ray
+	  role: Project Owner
 current: false
 layout: research
-link: ''
+link: http://latviandainas.lib.virginia.edu/
 slug: latvian-dainas
 title: Latvian Dainas
 research-category:

@@ -1,8 +1,16 @@
 ---
-collaborators: ''
+collaborators: 
+	- name: John O'Brien
+	  role: Project Owner
+	- name: Wayne Graham
+	  slug: wayne-graham
+	  role: Head of Research and Development
+	- name: Jeremy Boggs
+	  slug: jeremy-boggs
+	  role: Design Architect
 current: false
 layout: research
-link: ''
+link: http://jefferson-notes.org/
 slug: jeffersons-notes-on-the-state-of-virginia
 title: Jefferson's Notes on the State of Virginia
 research-category:

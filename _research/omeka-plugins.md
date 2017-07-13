@@ -1,8 +1,23 @@
 ---
-collaborators: ''
+collaborators:
+	- name: Wayne Graham
+	  slug: wayne-graham
+	  role: Head of Research and Development
+	- name: Adam Soroka
+	  slug: adam-soroka
+	  role: Senior Developer
+	- name: Eric Rochester
+	  slug: eric-rochester
+	  role: Head of Research and Development
+	- name: David McClure
+	  slug: david-mcclure
+	  role: Web Applications Developer
+	- name: Scott Bailey
+	  slug: scott-bailey
+	  role: Humanities Developer
 current: false
 layout: research
-link: ''
+link: http://omeka.org
 slug: omeka-plugins
 title: Omeka Plugins
 research-category:

@@ -1,5 +1,23 @@
 ---
-collaborators: ''
+collaborators: 
+	- name: Bethany Nowviskie
+	  slug: bethany-nowviskie
+	  role: Director, Scholars' Lab
+	- name: Wayne Graham
+	  slug: wayne-graham
+	  role: Head of Research and Development
+	- name: Eric Rochester
+	  slug: eric-rochester
+	  role: Head of Research and Development
+	- name: David McClure
+	  slug: david-mcclure
+	  role: Web Applications Developer
+	- name: Jeremy Boggs
+	  slug: jeremy-boggs
+	  role: Design Architect
+	- name: Scott Bailey
+	  slug: scott-bailey
+	  role: Humanities Developer
 current: false
 layout: research
 link: ''

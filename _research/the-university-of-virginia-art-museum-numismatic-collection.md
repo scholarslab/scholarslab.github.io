@@ -1,8 +1,11 @@
 ---
-collaborators: ''
+collaborators:
+	- name: Ethan Gruber
+	  slug: ethan-gruber
+	  role: Web Applications Developer
 current: false
 layout: research
-link: ''
+link: http://coins.lib.virginia.edu
 slug: the-university-of-virginia-art-museum-numismatic-collection
 title: The University of Virginia Art Museum Numismatic Collection
 research-category:
