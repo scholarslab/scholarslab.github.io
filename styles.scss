@@ -53,7 +53,8 @@ h1 {
     width: 50px;
     margin: 2rem 0;
     height: .25rem;
-    background: hsla(55,90%,50%,.75);
+    background: hsla(5,75%,45%,.75);
+
   }
 }
 
@@ -69,7 +70,8 @@ img,svg {
   margin-right: 1rem;
   border-right: 1px solid hsla(0,0,0,.125);
   svg {
-    fill: hsla(0,0,0,.675);
+    fill: hsla(5,75%,45%,1);
+
   }
 }
 
@@ -81,6 +83,8 @@ img,svg {
   line-height: 1;
   text-transform: lowercase;
   font-size: 1rem;
+  border-bottom: .25rem solid hsla(40,40%,75%,.5);
+
   a,:link {
     text-decoration:none;
   }
