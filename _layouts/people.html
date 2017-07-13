@@ -1,4 +1,18 @@
 ---
 layout: page
 ---
+
 {{ content }}
+{% assign author_posts = site.posts | where: "author",page.slug %}
+
+{% if author_posts %}
+  <h2>Posts by {{ page.title }}</h2>
+  <nav class="posts">
+    <ul>
+    {% for post in author_posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</li>
+    {% endfor %}
+    </ul>
+  </nav>
+{% endif %}
+
