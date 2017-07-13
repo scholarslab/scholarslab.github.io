@@ -44,15 +44,15 @@ h1,h2 {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.125;
 
   &:after {
     display:block;
     content: " ";
     width: 50px;
-    margin: 2rem 0;
-    height: .25rem;
+    margin: 1rem 0;
+    height: .125rem;
     background: hsla(5,75%,45%,.75);
 
   }
@@ -70,8 +70,15 @@ img,svg {
   margin-right: 1rem;
   border-right: 1px solid hsla(0,0,0,.125);
   svg {
-    fill: hsla(5,75%,45%,1);
+    fill: hsla(0,0,0,.675);
+  }
 
+  &:hover,
+  &:focus,
+  &:active {
+    svg {
+      fill: hsla(5,75%,45%,1);
+    }
   }
 }
 
@@ -79,7 +86,7 @@ img,svg {
   background-color: hsla(40,40%,99%,1);
   display: flex;
   align-items: center;
-  padding: 1.5rem 3rem;
+  padding: 1rem 2rem;
   line-height: 1;
   text-transform: lowercase;
   font-size: 1rem;
@@ -110,9 +117,26 @@ img,svg {
 }
 
 main {
-  padding: 0 3rem 6rem;
+  padding: 0 2rem 2rem;
   max-width: 900px;
 }
+
+@media screen and (min-width: 500px) {
+
+  h1 {
+    font-size: 3rem;
+    line-height: 1.125;
+
+    &:after {
+      margin: 2rem 0;
+      height: .25rem;
+    }
+  }
+  #globalnav, main {
+    padding: 2rem 4rem;
+  }
+}
+
 
 .post {
   header {
