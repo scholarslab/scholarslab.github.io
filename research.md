@@ -5,6 +5,7 @@ link: /research
 slug: research
 title: Research
 ---
-{% for project in site.research %}
-  <a href="{{ site.url }}/research/{{ project.slug }}">{{ project.title }}</a>
+
+{% for page in site.research %}
+  <section><a href="{{ site.url }}/research/{{ page.slug }}"><img src="{{ site.url }}/assets/images/{{ page.slug }}.png">{{ page.title }}</a></section>
 {% endfor %}
