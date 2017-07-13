@@ -1,10 +1,16 @@
 require 'date'
 require 'time'
+require 'html-proofer'
 
 class String
   def titlecase
     split(/([[:alpha:]]+)/).map(&:capitalize).join
   end
+end
+
+desc "Run travis tests"
+task :test_travis do
+  HTMLProofer.check_directory("./_site").run
 end
 
 desc "Make a research project"

@@ -38,3 +38,5 @@ header_pages:
   - blog.md
   - research.md
   - lab.md
+
+exclude: [vendor]
