@@ -1,10 +1,12 @@
 ---
-author: amanda
+credit: amanda
 comments: false
 date: 2014-08-28 09:16:06+00:00
-layout: lab
+layout: page
 slug: lab-example1
 title: Example Proof of Concept
+activity: current
+topics: [gis]
 lab-category:
 - Consultation proof of concept
 ---
