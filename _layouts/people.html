@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-
+<main id="main" role="main">
 {{ content }}
 {% assign author_posts = site.posts | where: "author",page.slug %}
 
@@ -15,4 +15,4 @@ layout: page
     </ul>
   </nav>
 {% endif %}
-
+</main>

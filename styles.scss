@@ -116,8 +116,8 @@ img,svg {
     width: 1px;
 }
 
-main {
-  padding: 0 2rem 2rem;
+#main {
+  padding: 0 2rem;
   max-width: 900px;
 }
 
@@ -214,19 +214,29 @@ li p + p {
   margin-top: 1em;
 }
 
-/* Labs page masonry */
-
+/* Labs & Research pages masonry 
+All lab/research images need to be the same size. Need to pull default texture image in for when no photo provided.
+*/
 #lab-grid {
-  -moz-column-width: 13em;
-  -webkit-column-width: 13em;
-  -moz-column-gap: 1em;
-  -webkit-column-gap: 1em;
+display: block;
+}
+.research-intro {
+	padding:0 2rem 2rem;
+	max-width:900px;
 }
 
-section {
-  display: inline-block;
-  margin: 0.25rem;
-  padding: 1rem;
-  width: 100%;
-  background: #efefef;
+.project {
+	width: 300px;
+	height: 300px;
+	position: relative;
+	float: right;
+}
+.research-caption {
+	background:#000019;
+	color:#FFFFFF;
+	padding:5px;
+	opacity:0.6;
+	position: absolute;
+	top: 0;
+	left: 0;
 }
