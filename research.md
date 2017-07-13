@@ -7,9 +7,6 @@ title: Research
 ---
 <div id="lab-grid">
 {% for page in site.research %}
-<<<<<<< Updated upstream
-<section><a href="{{ site.url }}/research/{{ page.slug }}"><img src="{{ site.url }}/assets/images/example.png" alt="{{ page.title }}"><br>{{ page.title }}</a></section>
-=======
 <div class="project">
 <a href="{{ site.url }}/research/{{ page.slug }}">
 <img src="{{ site.url }}/assets/images/example.png">
@@ -18,6 +15,5 @@ title: Research
 </div>
 </a>
 </div>
->>>>>>> Stashed changes
 {% endfor %}
 </div>
