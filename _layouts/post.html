@@ -15,7 +15,7 @@ layout: default
   <footer>
     {% for author in authors %}
       {% assign author_categories = author.people-category | join: "," %}
-      <div class="person-image"><img src="{{ site.baseurl }}/assets/images/people/{{ page.author }}.jpg" alt=""></div>
+      <div class="person-image"><img src="{{ site.baseurl }}/assets/images/people/{{ page.author }}.jpg" alt="{{ author.name }}"></div>
       <p><a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a> is {{ author.position }}{% if author_categories contains 'Staff' %} in the {{ site.title }}{% endif %}.</p>
     {% endfor %}
 
