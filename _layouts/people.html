@@ -10,6 +10,7 @@ layout: page
   <img src="{{ profile_picture.path }}">
 {% endfor %}
 
+{% assign author_posts = site.posts | where: "author", page.slug %}
 {% if author_posts %}
   <h2>Posts by {{ page.title }}</h2>
   <nav class="posts">
