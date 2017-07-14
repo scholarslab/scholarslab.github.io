@@ -24,3 +24,7 @@ title: Lab
 
 <iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" 
 src="http://colmdoyle.github.io/gh-activity/gh-activity.html?user=scholarslab&type=user" width="300" height="300"></iframe>
+
+<iframe width="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?scholarslab" frameborder="0"></iframe>
+
+<img src="http://ghchart.rshah.org/2016rshah" alt="Scholars' Lab Github activity chart" width="600"/>
