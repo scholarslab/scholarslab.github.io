@@ -43,6 +43,6 @@ exclude: [vendor]
 
 defaults:
   - scope:
-      path: "assets/images/people"
+      path: "assets/images"
     values:
       image: true
