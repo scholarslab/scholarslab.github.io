@@ -23,4 +23,4 @@ title: Lab
 </div>
 
 <iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless"
-src="https://colmdoyle.github.io/gh-activity/gh-activity.html?user=scholarslab&type=user" width="300" height="300"></iframe>s
+src="http://colmdoyle.github.io/gh-activity/gh-activity.html?user=scholarslab&type=user" width="300" height="300"></iframe>s
