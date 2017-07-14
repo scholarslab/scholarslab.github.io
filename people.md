@@ -12,7 +12,7 @@ title: People
 {% for person in staff %}
   <a href="{{ site.url }}/people/{{ person.slug }}">
   <div class="image"><img src="{{ site.baseurl
-  }}/assets/images/people/{{person.slug}}.jpg" alt="{{ person.name }}"></div>
+  }}/assets/images/{{person.slug}}.jpg" alt="{{ person.name }}"></div>
   <span class="fn name">{{ person.name }}</span>
   <span class="title">{{ person.position }}</span>
   </a>

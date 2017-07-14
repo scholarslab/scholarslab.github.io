@@ -3,8 +3,19 @@ layout: page
 ---
 <main id="main" role="main">
 {{ content }}
-{% assign author_posts = site.posts | where: "author",page.slug %}
 
+{% assign profile_picture = site.static_files | where: file.basename, page.slug %}
+{% for file in site.static_files %}
+  {% if file.basename == page.slug %}
+    {% assign profile_picture = file.basename %}
+  {% endif %}
+{% endfor %}
+
+{% if profile_picture == empty %}
+  {% assign profile_picture = 'placeholder' %}
+{% endif %}
+
+<img src="{{ site.url }}/assets/images/{{ profile_picture }}.jpg">
 {% if author_posts %}
   <h2>Posts by {{ page.title }}</h2>
   <nav class="posts">

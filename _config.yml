@@ -40,3 +40,9 @@ header_pages:
   - lab.md
 
 exclude: [vendor]
+
+defaults:
+  - scope:
+      path: "assets/images/people"
+    values:
+      image: true
