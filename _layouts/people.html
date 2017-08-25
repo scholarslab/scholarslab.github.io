@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-<main id="main" role="main">
 {{ content }}
 
 {% assign profile_pictures = site.static_files | where: "basename",page.slug | limit: 1 %}
@@ -21,4 +20,3 @@ layout: page
     </ul>
   </nav>
 {% endif %}
-</main>
