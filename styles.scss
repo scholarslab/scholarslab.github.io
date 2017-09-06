@@ -16,7 +16,7 @@ html, body {
 }
 
 html {
-  background: hsla(40,40%,95%,1);
+  background-color: hsla(40,40%,99%,1);
 }
 
 body {
@@ -24,6 +24,7 @@ body {
   color: #404040;
   color: hsla(0,0,0,.8);
 }
+
 
 a {
   &:link,
@@ -68,29 +69,30 @@ img,svg {
   width: 120px;
   padding-right: 1rem;
   margin-right: 1rem;
-  border-right: 1px solid hsla(0,0,0,.125);
+  border-right: 1px solid rgba(255,255,255,.125);
   svg {
-    fill: hsla(0,0,0,.675);
+    fill: rgba(255,255,255,.75);
   }
 
   &:hover,
   &:focus,
   &:active {
     svg {
-      fill: hsla(5,75%,45%,1);
+      fill: rgba(255,255,255,1);
     }
   }
 }
 
 #globalnav {
   background-color: hsla(40,40%,99%,1);
+  background: hsla(60,5%,95%,1);
   display: flex;
   align-items: center;
   padding: 1rem 2rem;
   line-height: 1;
   text-transform: lowercase;
   font-size: 1rem;
-  border-bottom: .25rem solid hsla(40,40%,75%,.5);
+  border-bottom: 2px solid hsla(60,5%,35%,.125);
 
   a,:link {
     text-decoration:none;
@@ -118,7 +120,6 @@ img,svg {
 
 #main {
   padding: 0 2rem;
-  max-width: 900px;
 }
 
 @media screen and (min-width: 500px) {
@@ -133,7 +134,7 @@ img,svg {
     }
   }
   #globalnav, main {
-    padding: 2rem 4rem;
+    padding: 2rem;
   }
 }
 
@@ -214,29 +215,71 @@ li p + p {
   margin-top: 1em;
 }
 
-/* Labs & Research pages masonry 
+/* Labs & Research pages masonry
 All lab/research images need to be the same size. Need to pull default texture image in for when no photo provided.
 */
 #lab-grid {
-display: block;
-}
-.research-intro {
-	padding:0 2rem 2rem;
-	max-width:900px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .project {
-	width: 300px;
+	width: 31%;
 	height: 300px;
-	position: relative;
-	float: left;
 }
+
 .research-caption {
 	background:#000019;
 	color:#FFFFFF;
-	padding:5px;
-	opacity:0.6;
-	position: absolute;
-	top: 0;
-	left: 0;
 }
+
+@media screen and (min-width: 700px) {
+  html {
+    border: 1px solid hsla(40,40%,85%,1);
+    border-width: 0 0 0 10px;
+  }
+
+  body {
+    display:block;
+  }
+
+  #homelink {
+    border:0;
+    padding:0;
+    margin:0;
+  }
+
+  #globalnav {
+    width: 25%;
+    align-items: flex-start;
+    align-content: center;
+    flex-direction: column;
+    border:0;
+    height:100%;
+    position:fixed;
+    top:0;
+    right:0;
+
+    a {
+      display:block;
+      line-height: 1;
+
+      &:before {
+        display:none;
+      }
+    }
+
+  }
+
+  .trigger {
+  }
+
+  #main {
+    margin-right: 28%;
+    display:block;
+    flex-direction: row;
+    flex-wrap:no-wrap;
+    padding: 1rem 4rem;
+  }
+}
+
