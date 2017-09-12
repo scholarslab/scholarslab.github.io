@@ -5,8 +5,8 @@ title: "Scholars’ Lab"
 name: "Scholars’ Lab"
 email: scholarslab@virginia.edu
 description: "The Scholars’ Lab"
-baseurl: "/scholarslab.org" # the subpath of your site, e.g. /blog
-url: "/scholarslab.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://maybe.scholarslab.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scholarslab
 permalink: /:categories/:title/
 
