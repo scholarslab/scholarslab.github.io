@@ -1,5 +1,5 @@
 ---
-author: james-ascher
+author: james-p-ascher
 date: 2017-07-05 18:28:00+00:00
 layout: post
 slug: transcribing-typography-with-markdown
