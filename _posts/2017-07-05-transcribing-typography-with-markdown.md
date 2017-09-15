@@ -590,11 +590,11 @@ text! \[*last word poorly inked, could be "hex"*\] \[*the letter t in
 
 <div class="footnotes">
 
-------------------------------------------------------------------------
+<hr>
 
-1.  <div id="fn1">
+1. <div id="fn1">
 
-    </div>
+1.  </div>
 
     Timothy Morton, *Ecology Without Nature: Rethinking Environmental
     Aesthetics* (Cambridge, Mass.: Harvard University Press,
