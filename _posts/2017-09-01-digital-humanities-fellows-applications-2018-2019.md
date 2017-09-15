@@ -26,7 +26,9 @@ Supported by the Jeffrey C. Walker Library Fund for Technology in the Humanities
 *   Applicants must be enrolled full time in the year for which they are applying.
 *   A faculty advisor must review and approve the scholarly content of the proposal.
 
-**How to Apply** A complete application package will include the following materials:
+**How to Apply**
+
+A complete application package will include the following materials:
 
 *   a cover letter, addressed to the selection committee, containing:
     *   a summary of the applicant’s plan for use of digital technologies in his or her dissertation research;
