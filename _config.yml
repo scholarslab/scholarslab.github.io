@@ -61,5 +61,5 @@ plugins_dir:
 # Lunr https://github.com/slashdotdash/jekyll-lunr-js-search
 #Most of lunr stuff comes from this dude's repo https://github.com/justinrummel/jr.com-mm/commit/d2d0d620c5a5d0ddca283ecfe2eeb3b322f5b3b2
 lunr_search:
-  js_dir                  : "/assets/js/lunr"
+  js_dir                  : "/js/lunr"
   min_length              : 3

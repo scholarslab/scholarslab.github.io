@@ -150,7 +150,7 @@
   };
 
   $.fn.lunrSearch.defaults = {
-    indexUrl  : '/js/index.json',           // url for the .json file containing search index data
+    indexUrl  : '/js/lunr/index.json',           // url for the .json file containing search index data
     results   : '#search-results',          // selector for containing search results element
     template  : '#search-results-template', // selector for Mustache.js template
     titleMsg  : '<h1>Search results<h1>',   // message attached in front of results
