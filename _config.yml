@@ -47,19 +47,3 @@ defaults:
       path: "assets/images"
     values:
       image: true
-
-# Plugins
-plugins_dir:
-  # - jekyll-paginate
-  # - jekyll-sitemap
-  # - jekyll-gist
-  # - jekyll-feed
-  # - jemoji
-  # - liquid-md5
-  - jekyll-lunr-js-search
-
-# Lunr https://github.com/slashdotdash/jekyll-lunr-js-search
-#Most of lunr stuff comes from this dude's repo https://github.com/justinrummel/jr.com-mm/commit/d2d0d620c5a5d0ddca283ecfe2eeb3b322f5b3b2
-lunr_search:
-  js_dir                  : "/js/lunr"
-  min_length              : 3

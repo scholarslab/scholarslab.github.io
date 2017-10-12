@@ -1,6 +1,8 @@
 require 'date'
 require 'time'
 require 'html-proofer'
+require 'rake'
+require 'json'
 
 class String
   def titlecase
@@ -91,3 +93,22 @@ task :new_post, [:title, :author] do |t, args|
   }
   puts "New post created at #{fn}"
 end
+
+directory "js"
+desc "Create corpus for search"
+file 'js/corpus.json' => ['js', *Rake::FileList['_posts/*.md']] do |md_file|
+  corpus = md_file.sources.grep(/\.md$/)
+    .map do |path|
+      {
+        id: path.pathmap('%n'),
+        title: path.pathmap('%n').gsub('_', ' '),
+        content: File.read(path),
+      }
+    end
+
+  File.open(t.name, 'w') do |f|
+    f << JSON.generate(corpus)
+  end
+end
+
+task :default => ['_site/index.html', '_site/js/search.js']
