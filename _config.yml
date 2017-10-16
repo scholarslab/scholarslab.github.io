@@ -16,7 +16,7 @@ sass:
   sass_dir: _sass
   style: compressed
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
