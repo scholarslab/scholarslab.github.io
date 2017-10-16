@@ -1,38 +1,30 @@
 jQuery(function() {
-  // Initialize lunr with the fields to be searched, plus the boost.
-  // Get the generated search_data.json file so lunr.js can search it locally.
-  $.getJSON('/search_data.json', (data, err) => {
-      window.documents = [];
-      window.idx = lunr(builder => {
-          builder.ref('id');
-          builder.field('title');
-          builder.field('content');
-          builder.field('author');
-          builder.field('categories');
-          builder.field('url');
-          builder.metadataWhitelist = ['position'];
-          Object.entries(data).forEach((key, value)=> {
-            var doc = {
-            'title' : key[1].title,
-            'content': key[1].content,
-            'author': key[1].author,
-            'categories': key[1].categories,
-            'url': key[1].url,
-            'id': value,
-            };
-            builder.add(doc);
-            window.documents.push(doc);
-          }, builder);
-      });
+
+  $.getJSON('/search_index.json', (data, err) => {
+    window.idx = data;
   });
 
-
+  $.getJSON('/corpus.json', (data, err) => {
+      window.documents = [];
+      Object.entries(data).forEach((key, value)=> {
+          var doc = {
+              'title' : key[1].title,
+              'content': key[1].content,
+              'author': key[1].author,
+              'categories': key[1].categories,
+              'url': key[1].url,
+              'id': key[1].id,
+              'date': key[1].date,
+          };
+          window.documents.push(doc);
+      });
+  });
   // Event when the form is submitted
   $("#site_search").submit((event) => {
       event.preventDefault();
       var query = $("#search_box").val(); // Get the value for the text field
-      window.index = lunr.Index.load(JSON.parse(JSON.stringify(window.idx)));
-      var results = window.idx.search(query); // Get lunr to perform a search
+      window.index = lunr.Index.load(window.idx);
+      var results = window.index.search(query); // Get lunr to perform a search
       display_search_results(results); // Hand the results off to be displayed
   });
 
@@ -43,24 +35,35 @@ jQuery(function() {
         section = document.createElement('section'),
         h2 = document.createElement('h2'),
         a = document.createElement('a'),
-        p = document.createElement('p')
+        p1 = document.createElement('p'),
+        h4 = document.createElement('h4')
 
     a.dataset.field = 'title';
-    a.href = doc.url;
+    a.href;
+    if (doc.categories !== null){
+        doc.categories.forEach( (cat)=>{
+            a.href += '/'+ cat;
+        });
+    }
+    a.href += '/' + doc.url;
     a.textContent = doc.title;
 
-    p.dataset.field = 'content';
-    p.textContent = doc.content;
-    p.style.textOverflow = 'ellipsis';
-    p.style.overflow = 'hidden';
-    p.style.whiteSpace = 'nowrap';
+    p1.dataset.field = 'date';
+    p1.textContent = 'author: '+ doc.author + ' / categories: ' + doc.categories + ' / published: ' + moment(doc.date, 'YYYY-MM-DD').format("MMMM Do YYYY");
+
+    h4.dataset.field = 'content';
+    h4.textContent = doc.content;
+    h4.style.textOverflow = 'ellipsis';
+    h4.style.overflow = 'hidden';
+    h4.style.whiteSpace = 'nowrap';
 
     li.appendChild(article);
     article.appendChild(header);
     article.appendChild(section);
     header.appendChild(h2);
     h2.appendChild(a);
-    section.appendChild(p);
+    section.appendChild(h4);
+    section.appendChild(p1);
 
     return li;
   }
@@ -71,8 +74,8 @@ jQuery(function() {
           search_results.empty(); // Clear any old results
 
           results.forEach(function(result) {
-              var item = window.documents[result.ref],
-              li = buildSearchResult(item)// Build a snippet of HTML for this result
+              var item = window.documents.filter(doc => doc.id === result.ref);
+              var li = buildSearchResult(item[0])// Build a snippet of HTML for this result
               Object.keys(result.matchData.metadata).forEach(function (term) {
                   Object.keys(result.matchData.metadata[term]).forEach(function (fieldName) {
                       var field = li.querySelector('[data-field=' + fieldName + ']'),
