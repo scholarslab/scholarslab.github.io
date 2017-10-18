@@ -98,7 +98,7 @@ end
 
 
 desc "Create corpus for search"
-file './corpus.json' => ['./', *Rake::FileList['_posts/*.md']] do |md_file|
+file './corpus.json' => ['./', *Rake::FileList['./*.md','_posts/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
     unsafe_loader = ->(string) { YAML.load(string) }
     corpus = md_file.sources.grep(/\.md$/)
       .map do |path|
