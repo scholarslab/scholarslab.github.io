@@ -7,7 +7,7 @@ title: People
 ---
 
 <h2>Staff</h2>
-{% assign staff = (site.people | where:"people-category","Staff" | where:"status","current") %}
+{% assign staff = site.people | where:"people-category","Staff" | where:"status","current" %}
 <nav class="people" role="navigation">
 {% for person in staff %}
   <a href="{{ site.url }}/people/{{ person.slug }}">
