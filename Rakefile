@@ -14,7 +14,15 @@ end
 
 desc "Run travis tests"
 task :test_travis do
-  HTMLProofer.check_directory("./_site").run
+  options = {
+      :assume_extension => true,
+      :empty_alt_ignore => true,
+      :http_status_ignore => [0, 301, 404, 403, 503],
+      :alt_ignore => ['/.*/'],
+      :internal_domains => ['localhost:4000']
+  }
+
+  HTMLProofer.check_directory("./_site", options).run
 end
 
 desc "Make a research project"

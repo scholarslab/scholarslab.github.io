@@ -1,7 +1,16 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-bundle exec jekyll build
-# bundle exec htmlproofer ./_site
-# to exclude external sites
-bundle exec htmlproofer ./_site --disable-external
+# bundle exec jekyll build
+# # bundle exec htmlproofer ./_site
+# # to exclude external sites
+# bundle exec htmlproofer ./_site --disable-external
+bundle exec jekyll build && bundle exec htmlproofer ./_site \
+  --assume-extension \
+  --empty-alt-ignore \
+  --alt-ignore '/.*/' \
+  # --file-ignore '/.+/assets/.*/','/.+/lessons/deprecated/.*/' \
+  --timeframe '30d' \
+  --only-4xx \
+  --http-status-ignore 429,403 \
+  # --url-ignore '/http://www.gutenberg.org/*/','/https://github.com/programminghistorian/jekyll/(commits|blob)/*/','/\#/',"/espanol/","/deprecated/",'/collection.britishmuseum.org/','/analytics.hathitrust.org/'
