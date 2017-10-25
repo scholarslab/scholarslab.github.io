@@ -1,6 +1,3 @@
----
----
-
 function wireButtons(featureList) {
 
   var options = {
