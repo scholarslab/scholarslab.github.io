@@ -12,5 +12,5 @@ bundle exec jekyll build && bundle exec htmlproofer ./_site \
   # --file-ignore '/.+/assets/.*/','/.+/lessons/deprecated/.*/' \
   --timeframe '30d' \
   --only-4xx \
-  --http-status-ignore 429,403 \
+  --http-status-ignore 429,403,404,410 \
   # --url-ignore '/http://www.gutenberg.org/*/','/https://github.com/programminghistorian/jekyll/(commits|blob)/*/','/\#/',"/espanol/","/deprecated/",'/collection.britishmuseum.org/','/analytics.hathitrust.org/'

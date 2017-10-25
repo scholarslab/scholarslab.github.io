@@ -17,7 +17,7 @@ task :test_travis do
   options = {
       :assume_extension => true,
       :empty_alt_ignore => true,
-      :http_status_ignore => [0, 301, 404, 403, 503],
+      :http_status_ignore => [0, 301, 404, 403, 410, 500, 503],
       :alt_ignore => ['/.*/'],
       :internal_domains => ['localhost:4000']
   }
@@ -135,4 +135,4 @@ file './search_index.json' => ['./corpus.json'] do |t|
   end
 end
 
-task :default => ['./corpus.json', './search_index.json']
+task :default => [:test_travis, './corpus.json', './search_index.json']

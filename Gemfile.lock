@@ -86,8 +86,8 @@ DEPENDENCIES
   html-proofer
   jekyll (~> 3.6)
   jekyll-feed (~> 0.9)
-  json
   jekyll-sitemap (~> 1.1)
+  json
   rake
   tzinfo-data
 
