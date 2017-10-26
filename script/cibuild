@@ -9,8 +9,10 @@ bundle exec jekyll build && bundle exec htmlproofer ./_site \
   --assume-extension \
   --empty-alt-ignore \
   --alt-ignore '/.*/' \
-  # --file-ignore '/.+/assets/.*/','/.+/lessons/deprecated/.*/' \
+  --disable-external \
   --timeframe '30d' \
   --only-4xx \
   --http-status-ignore 429,403,404,410 \
+
+
   # --url-ignore '/http://www.gutenberg.org/*/','/https://github.com/programminghistorian/jekyll/(commits|blob)/*/','/\#/',"/espanol/","/deprecated/",'/collection.britishmuseum.org/','/analytics.hathitrust.org/'

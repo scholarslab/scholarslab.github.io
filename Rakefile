@@ -16,8 +16,10 @@ desc "Run travis tests"
 task :test_travis do
   options = {
       :assume_extension => true,
+      :disable_external => true,
       :empty_alt_ignore => true,
-      :http_status_ignore => [0, 301, 404, 403, 410, 500, 503],
+      :only_4xx => true,
+      :http_status_ignore => [404, 403, 410],
       :alt_ignore => ['/.*/'],
       :internal_domains => ['localhost:4000']
   }
