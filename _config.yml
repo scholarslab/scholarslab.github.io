@@ -39,6 +39,7 @@ header_pages:
   - blog.md
   - research.md
   - lab.md
+  - search.html
 
 exclude: [vendor]
 

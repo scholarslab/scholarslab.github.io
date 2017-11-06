@@ -1,6 +1,10 @@
 require 'date'
 require 'time'
 require 'html-proofer'
+require 'rake'
+require 'json'
+require 'front_matter_parser'
+require 'open3'
 
 class String
   def titlecase
@@ -10,7 +14,18 @@ end
 
 desc "Run travis tests"
 task :test_travis do
-  HTMLProofer.check_directory("./_site").run
+  options = {
+      :assume_extension => true,
+      :disable_external => true,
+      :empty_alt_ignore => true,
+      :only_4xx => true,
+      :http_status_ignore => [404, 403, 410],
+      :alt_ignore => ['/.*/'],
+      :file_ignore => [/.*\/node_modules\/.*/],
+      :internal_domains => ['localhost:4000']
+  }
+
+  HTMLProofer.check_directory("./_site", options).run
 end
 
 desc "Make a research project"
@@ -91,3 +106,36 @@ task :new_post, [:title, :author] do |t, args|
   }
   puts "New post created at #{fn}"
 end
+
+
+desc "Create corpus for search"
+file './corpus.json' => ['./', *Rake::FileList['./*.md','_posts/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
+    unsafe_loader = ->(string) { YAML.load(string) }
+    corpus = md_file.sources.grep(/\.md$/)
+      .map do |path|
+        file_path = './' + path
+        parsed = FrontMatterParser::Parser.parse_file(file_path, loader: unsafe_loader)
+        {
+          id: path.pathmap('%n'),
+          title: parsed.front_matter["title"],
+          author: parsed.front_matter["author"],
+          date: parsed.front_matter["date"],
+          categories: parsed.front_matter["categories"],
+          url: parsed.front_matter["slug"],
+          content: parsed.content,
+        }
+      end
+  File.open(md_file.name, 'w') do |f|
+    f << JSON.generate(corpus)
+  end
+end
+
+file './search_index.json' => ['./corpus.json'] do |t|
+  Open3.popen2('script/build-index') do |stdin, stdout, wt|
+    IO.copy_stream(t.source, stdin)
+    stdin.close
+    IO.copy_stream(stdout, t.name)
+  end
+end
+
+task :default => ['./corpus.json', './search_index.json', :test_travis]

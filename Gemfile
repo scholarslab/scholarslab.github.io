@@ -14,3 +14,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rake'
 gem "html-proofer"
+gem 'json'
+gem 'front_matter_parser'
