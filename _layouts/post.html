@@ -2,10 +2,24 @@
 layout: default
 ---
 {% assign authors = site.people | where: "slug", page.author %}
+<!-- {% for author in authors %}
+    {% unless author.slug == page.author %}
+        {% assign authors = page.author %}
+    {% endunless %}
+{% endfor %} -->
 <article class="single post">
   <header>
     <h1>{{ page.title }}</h1>
-    <span class="author">By {% for author in authors %}<a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>{% endfor %}
+    <span class="author">By
+        {% for author in authors %}
+            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
+        {% endfor %}
+        {% if authors == empty %}
+            {% assign author = page.author | split: '-' %}
+                {% for name in author %}
+                    {{ name | capitalize}}
+                {% endfor %}
+        {% endif %}
 </span>
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
   </header>
@@ -15,11 +29,23 @@ layout: default
   <footer>
     {% for author in authors %}
       {% assign author_categories = author.people-category | join: "," %}
-      <div class="person-image"><img src="{{ site.baseurl }}/assets/images/{{ page.author }}.jpg" alt="{{ author.name }}"></div>
+      {% for image in site.static_files %}
+        {% if image.path contains page.author %}
+            <div class="person-image"><img src="{{ site.baseurl }}/assets/images/{{ page.author }}.jpg" alt="{{ author.name }}"></div>
+        {% endif %}
+      {% endfor %}
       <p><a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a> is {{ author.position }}{% if author_categories contains 'Staff' %} in the {{ site.title }}{% endif %}.</p>
 
 <p>Cite this post: {{ author.name }}. "{{ page.title }}". Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</p>
     {% endfor %}
-
+    {% if authors == empty %}
+        <div class="person-image"><img src="{{ site.baseurl }}/assets/images/scholarslab.png" alt="Scholars' Lab Lab"></div>
+        <p>Cite this post:
+            {% assign author = page.author | split: '-' %}
+            {% for name in author %}
+                {{ name | capitalize}}
+            {% endfor %}
+            . "{{ page.title }}". Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</p>
+    {% endif %}
   </footer>
 </article>

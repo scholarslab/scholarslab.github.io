@@ -134,7 +134,7 @@ jQuery(function() {
         range.setStart(node, rangeStart)
         range.setEnd(node, rangeEnd)
         range.surroundContents(tag)
-
+        console.log(range)
         index = match[0] + match[1]
 
         // the next node will now actually be the text we just wrapped, so

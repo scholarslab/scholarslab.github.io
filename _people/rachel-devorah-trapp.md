@@ -24,4 +24,4 @@ Pieces by Trapp have been performed by artists such as orkest de ereprijs, loadb
 
 Trapp has contributed to the digital art archives of New Museum Digital Archive, New York Public Library Performing Arts Center, and Mills College Center for Computer Music. The 2015-2016 academic year is her second year of doctoral studies at the University of Virginia where she is also a Jefferson Fellow. She has previously studied music and other forms of information at Mills College, San José State University, and the City University of New York.
 
-[racheldevorahtrapp.com](http://Rachel Devorah Trapp is a composer and digital art archivist.)
+[racheldevorahtrapp.com](http://racheldevorahtrapp.com)
