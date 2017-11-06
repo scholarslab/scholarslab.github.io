@@ -3,6 +3,7 @@ cache:
   - bundler
   - directories:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+    - node_modules
 rvm:
 - 2.4.1
 
