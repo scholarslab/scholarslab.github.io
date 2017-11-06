@@ -8,6 +8,7 @@ set -e # halt script on error
 bundle exec jekyll build && bundle exec htmlproofer ./_site \
   --assume-extension \
   --empty-alt-ignore \
+  --disable-external \
   --alt-ignore '/.*/' \
   --only-4xx \
   --http-status-ignore 429,403,404,410 \
