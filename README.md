@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/scholarslab/scholarslab.org.svg?branch=master)](https://travis-ci.org/scholarslab/scholarslab.org)
+
 # scholarslab.org
 Repo for stuff related to ScholarsLab.org upgrade &amp; static site
 migration.
