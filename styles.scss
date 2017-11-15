@@ -2,27 +2,41 @@
 ---
 
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
-
-* {
-  -moz-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
+@import "materialize/materialize";
+// * {
+//   -moz-box-sizing: border-box;
+//   -o-box-sizing: border-box;
+//   -webkit-box-sizing: border-box;
+//   box-sizing: border-box;
+// }
+//
+// html, body {
+//   margin:0;
+//   padding:0;
+// }
+//
+// html {
+//   background-color: hsla(40,40%,99%,1);
+// }
+//
+// body {
+//   font: 18px/1.5 "Source Sans Pro", sans-serif;
+//   color: #404040;
+//   color: hsla(0,0,0,.8);
+// }
+header, main, footer {
+      padding-right: 300px;
+    }
+.button-collapse, #slide-nav {
+    display: none;
 }
-
-html, body {
-  margin:0;
-  padding:0;
-}
-
-html {
-  background-color: hsla(40,40%,99%,1);
-}
-
-body {
-  font: 18px/1.5 "Source Sans Pro", sans-serif;
-  color: #404040;
-  color: hsla(0,0,0,.8);
+@media only screen and (max-width : 992px) {
+  header, main, footer {
+    padding-right: 0;
+  }
+  .button-collapse, #slide-nav {
+      display: inherit;
+  }
 }
 
 
@@ -63,12 +77,11 @@ img,svg {
   max-width: 100%;
   width: auto;
   height: auto;
+  padding: 0.8rem;
 }
 
 #homelink {
   width: 120px;
-  padding-right: 1rem;
-  margin-right: 1rem;
   border-right: 1px solid rgba(255,255,255,.125);
   svg {
     fill: rgba(255,255,255,.75);
@@ -282,4 +295,3 @@ All lab/research images need to be the same size. Need to pull default texture i
     padding: 1rem 4rem;
   }
 }
-

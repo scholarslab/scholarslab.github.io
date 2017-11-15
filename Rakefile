@@ -18,10 +18,11 @@ task :test_travis do
       :assume_extension => true,
       :disable_external => true,
       :empty_alt_ignore => true,
+      :allow_hash_href => true,
       :only_4xx => true,
       :http_status_ignore => [404, 403, 410],
       :alt_ignore => ['/.*/'],
-      :file_ignore => [/.*\/node_modules\/.*/],
+      :file_ignore => [/.*\/node_modules\/.*/, /.*\/_sass\/.*/],
       :internal_domains => ['localhost:4000']
   }
 
