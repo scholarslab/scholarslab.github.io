@@ -3,30 +3,20 @@
 
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
 @import "materialize/materialize";
-// * {
-//   -moz-box-sizing: border-box;
-//   -o-box-sizing: border-box;
-//   -webkit-box-sizing: border-box;
-//   box-sizing: border-box;
-// }
-//
-// html, body {
-//   margin:0;
-//   padding:0;
-// }
-//
-// html {
-//   background-color: hsla(40,40%,99%,1);
-// }
-//
-// body {
-//   font: 18px/1.5 "Source Sans Pro", sans-serif;
-//   color: #404040;
-//   color: hsla(0,0,0,.8);
-// }
-header, main, footer {
-      padding-right: 300px;
-    }
+
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+ main {
+     flex: 1 0 auto;
+     padding-right: 300px;
+     padding-left: 10px;
+ }
+header, footer {
+    padding-right: 300px;
+}
 .button-collapse, #slide-nav {
     display: none;
 }
@@ -35,11 +25,17 @@ header, main, footer {
     padding-right: 0;
   }
   .button-collapse, #slide-nav {
-      display: inherit;
+      display: initial;
   }
 }
-
-
+.side-nav {
+    li > a {
+        &:hover {
+            background-color: #f6f5f6;
+            color: #fff;
+        }
+    }
+}
 a {
   &:link,
   &:visited {
@@ -84,9 +80,8 @@ img,svg {
   width: 120px;
   border-right: 1px solid rgba(255,255,255,.125);
   svg {
-    fill: rgba(255,255,255,.75);
+    fill: rgba(255,255,255,.5);
   }
-
   &:hover,
   &:focus,
   &:active {
@@ -131,9 +126,9 @@ img,svg {
     width: 1px;
 }
 
-#main {
-  padding: 0 2rem;
-}
+// #main {
+//   padding: 0 2rem;
+// }
 
 @media screen and (min-width: 500px) {
 
@@ -146,9 +141,9 @@ img,svg {
       height: .25rem;
     }
   }
-  #globalnav, main {
-    padding: 2rem;
-  }
+  // #globalnav, main {
+  //   padding: 2rem;
+  // }
 }
 
 
@@ -262,36 +257,36 @@ All lab/research images need to be the same size. Need to pull default texture i
     margin:0;
   }
 
-  #globalnav {
-    width: 25%;
-    align-items: flex-start;
-    align-content: center;
-    flex-direction: column;
-    border:0;
-    height:100%;
-    position:fixed;
-    top:0;
-    right:0;
-
-    a {
-      display:block;
-      line-height: 1;
-
-      &:before {
-        display:none;
-      }
-    }
-
-  }
+  // #globalnav {
+  //   width: 25%;
+  //   align-items: flex-start;
+  //   align-content: center;
+  //   flex-direction: column;
+  //   border:0;
+  //   height:100%;
+  //   position:fixed;
+  //   top:0;
+  //   right:0;
+  //
+  //   a {
+  //     display:block;
+  //     line-height: 1;
+  //
+  //     &:before {
+  //       display:none;
+  //     }
+  //   }
+  //
+  // }
 
   .trigger {
   }
 
-  #main {
-    margin-right: 28%;
-    display:block;
-    flex-direction: row;
-    flex-wrap:no-wrap;
-    padding: 1rem 4rem;
-  }
+  // #main {
+  //   margin-right: 28%;
+  //   display:block;
+  //   flex-direction: row;
+  //   flex-wrap:no-wrap;
+  //   padding: 1rem 4rem;
+  // }
 }
