@@ -10,6 +10,7 @@ bundle exec jekyll build && bundle exec htmlproofer ./_site \
   --empty-alt-ignore \
   --disable-external \
   --alt-ignore '/.*/' \
+  --allow-hash-href \
   --only-4xx \
   --http-status-ignore 429,403,404,410 \
   --file-ignore /.*\/node_modules\/.*/ \
