@@ -1,6 +1,7 @@
 <div class="navbar-fixed">
 <nav class="grey lighten-4" id="main-nav">
    <div class="nav-wrapper" >
+     <a href="#"  data-activates="slide-nav" class="button-collapse left show-on-meidum-and-down"><i class="material-icons">menu</i></a>
      <a id="homelink" rel="home" href="{{ site.baseurl }}/" class="brand-logo center">{% include logotype.html %}</a>
      <ul  class="right hide-on-med-and-down">
          {% assign page_paths = site.header_pages %}
@@ -30,4 +31,3 @@
           {% endfor %}
     {% endif %}
 </ul>
-<a href="#" data-activates="slide-nav" class="button-collapse"><i class="material-icons">menu</i></a>
