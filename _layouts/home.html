@@ -5,6 +5,13 @@ layout: default
   <p>At the University of Virginia Library Scholars’ Lab, advanced students and researchers across the disciplines partner on digital projects and benefit from expert consultation and teaching. Our highly-trained faculty and staff focus on the digital humanities, geospatial information, and scholarly making and building at the intersection of the digital and physical worlds.</p>
 </section>
 
+<section id="updates">
+Recent Scholars' Lab staff activity: {% for update in site.data.updates limit:3 %}
+  {{ update.staffer }} <a href="{{ update.url }} ">{{ update.sentence }}</a>
+{% endfor %}
+
+</section>
+
 <section id="recent-posts">
 <h1>Recent Posts</h1>
 
