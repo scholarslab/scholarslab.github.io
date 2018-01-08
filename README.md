@@ -26,7 +26,12 @@ To install all the necessary gems specificed in the `Gemfile.lock`, run Bundler:
 bundle install
 ```
 
-Now, to run a local isntance of the site, run Jekyll:
+Run rake
+```bash
+rake
+```
+
+Now, to run a local instance of the site, run Jekyll:
 
 ```bash
 jekyll serve --watch
@@ -61,4 +66,3 @@ rake new_post["The name of your project goes here"]
 We use [Issues](https://github.com/scholarslab/scholarslab.org/issues) for bug reports and feature requests and such. If you find a problem with the site or thing we should add something new, please share it in an issue!
 
 [...]
-
