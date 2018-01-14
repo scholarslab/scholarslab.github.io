@@ -14,7 +14,7 @@ permalink: /:categories/:title/
 incremental: true
 sass:
   sass_dir: _sass
-  style: compressed
+  style: expanded # temporary! change back to compressed later
 markdown: kramdown
 plugins:
   - jekyll-feed
