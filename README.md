@@ -26,15 +26,15 @@ To install all the necessary gems specificed in the `Gemfile.lock`, run Bundler:
 bundle install
 ```
 
-Run rake
+To install all the necessary node packages, run NPM:
+```bash
+npm install
+```
+If you an error message, make sure you have node and npm installed. Check out this guide http://blog.teamtreehouse.com/install-node-js-npm-mac
+
+To build the site and search corpus, run Rake:
 ```bash
 rake
-```
-
-Now, to run a local instance of the site, run Jekyll:
-
-```bash
-jekyll serve --watch
 ```
 
 The site should build, and be locally accessible at [http://localhost:4000](http://localhost:4000).
