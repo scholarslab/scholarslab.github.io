@@ -8,9 +8,26 @@ body {
 	font-family: "Raleway", sans-serif;
 }
 
+/* Background colors: */
+  $purple:	rgba(127, 0, 255, 1);
+ $magenta: 	rgba(255, 0, 255, 1);
+ $purple9: 	rgba(127, 0, 255, .9);
+ $purple7: 	rgba(127, 0, 255, .7);
+ $purple5: 	rgba(127, 0, 255, .5);
+ $purple3: 	rgba(127, 0, 255, .3);
+$magenta9: 	rgba(255, 0, 255, .9);
+$magenta7: 	rgba(255, 0, 255, .7);
+$magenta5: 	rgba(255, 0, 255, .5);
+$magenta3: 	rgba(255, 0, 255, .3);
+
 .home-grid-wrapper {
 	position: relative;
 	display: grid;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100%;
+	background-image: linear-gradient(to bottom, rgb(42, 0, 255), $purple 30%, $magenta);
 }
 
 .home-title-wrapper {
@@ -19,4 +36,32 @@ body {
 
 .home-title__text {
 	position: relative;
+	font-family: "Righteous";
+	font-size: 6em;
+	line-height: 1;
+	text-align: center;
+	text-transform: uppercase;
+//	color: white; /* for testing layers */
+	z-index: 1;
+	span {
+	//	display: none;
+		line-height: 1;
+	}
+}
+
+.home-dots-wrapper {
+	position: absolute;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+	grid-gap: 4px;
+	height: 100vh;
+	width: 100%;
+	overflow: hidden;
+	background-color: rgba(0,0,0,.7);
+}
+
+.home-dots__dot {
+	height: 100%;
+	width: 100%;
+	border: 1px solid red;
 }
