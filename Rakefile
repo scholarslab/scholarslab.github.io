@@ -26,10 +26,11 @@ task :test_travis do
       :alt_ignore => ['/.*/'],
       :file_ignore => [/.*\/node_modules\/.*/, /.*\/_sass\/.*/],
       :internal_domains => ['localhost:4000']
+    #   :url_swap =>
   }
 
   HTMLProofer.check_directory("./_site", options).run
-  sh 'bundle exec jekyll serve'
+  sh 'bundle exec jekyll serve --incremental'
 end
 
 desc "Make a research project"
