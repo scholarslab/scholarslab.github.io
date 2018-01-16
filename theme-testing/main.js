@@ -12,6 +12,6 @@
 	var numDots = cols * rows;
 
 	for (var i=0; i<numDots; i++) {
-		dotsWrapper.appendChild(dot.cloneNode());
+		dotsWrapper.appendChild(dot.cloneNode(true));
 	}
 })();

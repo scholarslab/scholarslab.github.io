@@ -53,15 +53,49 @@ $magenta3: 	rgba(255, 0, 255, .3);
 	position: absolute;
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
-	grid-gap: 4px;
+//	grid-gap: 4px;
 	height: 100vh;
 	width: 100%;
 	overflow: hidden;
-	background-color: rgba(0,0,0,.7);
+	
 }
 
 .home-dots__dot {
+	position: relative;
 	height: 100%;
 	width: 100%;
-	border: 1px solid red;
+	background-color: rgba(0,0,0,.7);
+//	border: 1px solid red;
+	span {
+	//	content: '';
+		position: absolute;
+		right: 50%;
+		bottom: 50%;
+		display: block;
+		height: 8px;
+		width: 8px;
+		transform: translate(50%, 50%);
+		border-radius: 50%;
+	//	background-color: rgba(255,255,255,.7);
+		background-clip: border-box;
+		&::after {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			display: block;
+			height: 100%;
+			width: 100%;
+			border-radius: 50%;
+			background-image: linear-gradient(to bottom, rgb(42, 0, 255), $purple 30%, $magenta);
+			background-size: 100vw 100vh;
+		//	background-position: ** this is where things get tricksy but it's gotta be possible... **
+
+		}
+		
+
+	//	background-clip: border-box;
+		// set bg of pseudo elem to be a gradient of identical size as real bg
+		// can't think of another way to do it
+	}
 }

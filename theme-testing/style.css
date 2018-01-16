@@ -34,13 +34,33 @@ body {
   position: absolute;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
-  grid-gap: 4px;
   height: 100vh;
   width: 100%;
-  overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.7); }
+  overflow: hidden; }
 
 .home-dots__dot {
+  position: relative;
   height: 100%;
   width: 100%;
-  border: 1px solid red; }
+  background-color: rgba(0, 0, 0, 0.7); }
+  .home-dots__dot span {
+    position: absolute;
+    right: 50%;
+    bottom: 50%;
+    display: block;
+    height: 8px;
+    width: 8px;
+    transform: translate(50%, 50%);
+    border-radius: 50%;
+    background-clip: border-box; }
+    .home-dots__dot span::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+      background-image: linear-gradient(to bottom, #2a00ff, #7f00ff 30%, magenta);
+      background-size: 100vw 100vh; }
