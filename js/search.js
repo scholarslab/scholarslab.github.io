@@ -3,7 +3,18 @@ jQuery(function() {
   $.getJSON('/search_index.json', (data, err) => {
     window.idx = data;
   });
-
+  console.log($('#search-link').hasClass('active'));
+  $('#search-link').on('click', (event)=> {
+      if ($('#search-link').hasClass('active')){
+          $('#search-link').removeClass('active');
+          $('#search-bar').addClass('hide');
+          $('#search-results').addClass('hide');
+      } else {
+          $('#search-link').addClass('active');
+          $('#search-bar').removeClass('hide');
+          console.log($('#search-link'));
+      }
+  });
   $.getJSON('/corpus.json', (data, err) => {
       window.documents = [];
       Object.entries(data).forEach((key, value)=> {
@@ -20,9 +31,10 @@ jQuery(function() {
       });
   });
   // Event when the form is submitted
-  $("#site_search").submit((event) => {
+  $("#search-input").on('change', (event) => {
       event.preventDefault();
-      var query = $("#search_box").val(); // Get the value for the text field
+      console.log(event.currentTarget.value);
+      var query = $("#search-input").val(); // Get the value for the text field
       window.index = lunr.Index.load(window.idx);
       var results = window.index.search(query); // Get lunr to perform a search
       display_search_results(results); // Hand the results off to be displayed
@@ -69,7 +81,7 @@ jQuery(function() {
   }
 
   function display_search_results(results) {
-      var search_results = $("#search_results");
+      var search_results = $("#search-results");
       if (results.length) {
           search_results.empty(); // Clear any old results
 
@@ -84,10 +96,12 @@ jQuery(function() {
                   });
               });
               search_results.append(li);
+              search_results.removeClass('hide');
             });
         } else {
             // If there are no results, let the user know.
             search_results.html('<li>No results found.<br/>Please check spelling, spacing, yada...</li>');
+            search_results.removeClass('hide');
         }
     }
 

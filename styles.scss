@@ -36,6 +36,10 @@ header, footer {
         }
     }
 }
+#search-bar {
+    background-color: #002F6C;
+}
+
 a {
   &:link,
   &:visited {
@@ -49,7 +53,9 @@ a {
     color: hsla(0, 0%,0%, .5);
   }
 }
-
+#main-nav {
+    box-shadow: none;
+}
 h1,h2 {
   font-family: "Source Serif Pro";
 }
@@ -70,23 +76,22 @@ h1 {
 }
 
 img,svg {
-  max-width: 100%;
   width: auto;
-  height: auto;
+  height: 64px;
   padding: 0.8rem;
 }
 
 #homelink {
-  width: 120px;
+  height: 64px;
   border-right: 1px solid rgba(255,255,255,.125);
   svg {
-    fill: rgba(255,255,255,.5);
+    fill: #002F6C;
   }
   &:hover,
   &:focus,
   &:active {
     svg {
-      fill: rgba(255,255,255,1);
+      fill: #002f6c70;
     }
   }
 }
@@ -242,10 +247,7 @@ All lab/research images need to be the same size. Need to pull default texture i
 }
 
 @media screen and (min-width: 700px) {
-  html {
-    border: 1px solid hsla(40,40%,85%,1);
-    border-width: 0 0 0 10px;
-  }
+
 
   body {
     display:block;
@@ -257,36 +259,10 @@ All lab/research images need to be the same size. Need to pull default texture i
     margin:0;
   }
 
-  // #globalnav {
-  //   width: 25%;
-  //   align-items: flex-start;
-  //   align-content: center;
-  //   flex-direction: column;
-  //   border:0;
-  //   height:100%;
-  //   position:fixed;
-  //   top:0;
-  //   right:0;
-  //
-  //   a {
-  //     display:block;
-  //     line-height: 1;
-  //
-  //     &:before {
-  //       display:none;
-  //     }
-  //   }
-  //
-  // }
+
 
   .trigger {
   }
 
-  // #main {
-  //   margin-right: 28%;
-  //   display:block;
-  //   flex-direction: row;
-  //   flex-wrap:no-wrap;
-  //   padding: 1rem 4rem;
-  // }
+
 }

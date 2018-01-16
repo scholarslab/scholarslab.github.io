@@ -1,18 +1,38 @@
-<ul id="main-nav" class="side-nav fixed right-aligned grey lighten-4">
-    <a id="homelink" rel="home" href="{{ site.baseurl }}/"><span class="audible">Scholars&#8217; Lab Home Page</span>
-      {% include logotype.html %}
-    </a>
-    {% assign page_paths = site.header_pages %}
-    {% if page_paths %}
-          {% for path in page_paths %}
-            {% assign my_page = site.pages | where: "path", path | first %}
-            {% if my_page.title %}
-            <li><a class="page-link" href="{{ my_page.url | relative_url }}" style="text-transform:lowercase; font-size:18px;">{{ my_page.slug | capitalize }}</a></li>
-            {% endif %}
-          {% endfor %}
-    {% endif %}
-</ul>
+<div class="navbar-fixed">
+    <nav class="grey lighten-4" id="main-nav">
+        <div class="nav-wrapper" >
+            <a href="#"  data-activates="slide-nav" class="button-collapse left show-on-meidum-and-down"><i class="material-icons">menu</i></a>
+            <a id="homelink" rel="home" href="{{ site.baseurl }}/" class="brand-logo center">{% include logotype.html %}</a>
+             <ul  class="right hide-on-med-and-down">
+                 {% assign page_paths = site.header_pages %}
+                 {% if page_paths %}
+                       {% for path in page_paths %}
+                         {% assign my_page = site.pages | where: "path", path | first %}
+                         {% if my_page.title %}
+                         <li><a class="page-link" href="{{ my_page.url | relative_url }}" style="text-transform:lowercase; font-size:18px;">{{ my_page.slug | capitalize }}</a></li>
+                         {% endif %}
+                       {% endfor %}
+                 {% endif %}
+                 <li><a class="page-link" id="search-link" href="#"><i class="material-icons left">search</i></a></li>
+             </ul>
+        </div>
+    </nav>
+</div>
+<nav id="search-bar" class="hide">
+  <div class="nav-wrapper">
+    <form>
+      <div class="input-field">
+        <input id="search-input" type="search" required>
+        <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+        <i class="material-icons">close</i>
+      </div>
+    </form>
 
+  </div>
+</nav>
+<div id="search-results" class="hide">
+
+</div>
 <ul id="slide-nav" class="side-nav grey lighten-4">
     <a id="homelink" rel="home" href="{{ site.baseurl }}/"><span class="audible">Scholars&#8217; Lab Home Page</span>
       {% include logotype.html %}
@@ -27,4 +47,3 @@
           {% endfor %}
     {% endif %}
 </ul>
-<a href="#" data-activates="slide-nav" class="button-collapse"><i class="material-icons">menu</i></a>
