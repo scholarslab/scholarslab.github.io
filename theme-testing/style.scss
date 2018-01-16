@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Raleway", sans-serif;
+}
+
+.home-grid-wrapper {
+	position: relative;
+	display: grid;
+}
+
+.home-title-wrapper {
+	position: relative;
+}
+
+.home-title__text {
+	position: relative;
+}
