@@ -114,9 +114,15 @@ end
 
 desc "Delete corpus files to regenerate"
 task :delete_corpus do
-    File.delete('./corpus.json')
-    File.delete('./search_index.json')
-    rm_rf './_site'
+    if File.file?('./corpus.json')
+        File.delete('./corpus.json')
+    end
+    if File.file?('./search_index.json')
+        File.delete('./search_index.json')
+    end
+    if File.exist?('./_site')
+        rm_rf './_site'
+    end
 end
 
 desc "Create corpus for search"
