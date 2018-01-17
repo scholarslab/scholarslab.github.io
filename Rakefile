@@ -5,6 +5,7 @@ require 'rake'
 require 'json'
 require 'front_matter_parser'
 require 'open3'
+require 'jekyll'
 
 class String
   def titlecase
@@ -14,7 +15,8 @@ end
 
 desc "Run travis tests"
 task :test_travis do
-  options = {
+    sh 'bundle exec jekyll build'
+    options = {
       :assume_extension => true,
       :disable_external => true,
       :empty_alt_ignore => true,
@@ -24,9 +26,11 @@ task :test_travis do
       :alt_ignore => ['/.*/'],
       :file_ignore => [/.*\/node_modules\/.*/, /.*\/_sass\/.*/],
       :internal_domains => ['localhost:4000']
+    #   :url_swap =>
   }
 
   HTMLProofer.check_directory("./_site", options).run
+  sh 'bundle exec jekyll serve --incremental'
 end
 
 desc "Make a research project"
@@ -108,6 +112,18 @@ task :new_post, [:title, :author] do |t, args|
   puts "New post created at #{fn}"
 end
 
+desc "Delete corpus files to regenerate"
+task :delete_corpus do
+    if File.file?('./corpus.json')
+        File.delete('./corpus.json')
+    end
+    if File.file?('./search_index.json')
+        File.delete('./search_index.json')
+    end
+    if File.exist?('./_site')
+        rm_rf './_site'
+    end
+end
 
 desc "Create corpus for search"
 file './corpus.json' => ['./', *Rake::FileList['./*.md','_posts/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
@@ -139,4 +155,4 @@ file './search_index.json' => ['./corpus.json'] do |t|
   end
 end
 
-task :default => ['./corpus.json', './search_index.json', :test_travis]
+task :default => [:delete_corpus, './corpus.json', './search_index.json', :test_travis]

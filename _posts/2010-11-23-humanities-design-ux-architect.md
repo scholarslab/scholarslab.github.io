@@ -10,7 +10,7 @@ tags:
 - career opportunities
 ---
 
-Building on a nearly twenty-year history in digital humanities and spatial and data-driven scholarship at the University of Virginia, the [Scholars' Lab](http://lib.virginia.edu/scholarslab) has developed [great projects](http://www.scholarslab.org/) and hosted [amazing events](http://www2.lib.virginia.edu/scholarslab/about/events.html) at UVa Library over the past three years.  In addition to our current search for a full-time, permanent [Senior Developer](http://www.scholarslab.org/announcements/senior-developer-position/), we now have the opportunity to add some UX love to the work of our R&D; division.
+Building on a nearly twenty-year history in digital humanities and spatial and data-driven scholarship at the University of Virginia, the [Scholars' Lab](http://lib.virginia.edu/scholarslab) has developed [great projects](http://www.scholarslab.org/) and hosted [amazing events](http://www2.lib.virginia.edu/scholarslab/about/events.html) at UVa Library over the past three years.  In addition to our current search for a full-time, permanent [Senior Developer](/2010/11/09/senior-developer-position/), we now have the opportunity to add some UX love to the work of our R&D; division.
 
 We're looking for a Humanities Design (UX) Architect who can create and guide exciting, professional user experiences, is passionate about the quality of his or her HTML and CSS, and wants to be part of a team that does great work in the digital humanities.
 
@@ -33,19 +33,19 @@ This is a two-year, general faculty position, with possibility of renewal.  Sala
 
 
 
-	
+
   * Conduct user research for creating user models
 
-	
+
   * Drive the interaction process, feature discussions, and functional requirements for Scholars' Lab projects
 
-	
+
   * Create wireframes and prototypes
 
-	
+
   * Conduct informal usability tests
 
-	
+
   * Work closely with R&D Team
 
 
@@ -58,58 +58,58 @@ This is a two-year, general faculty position, with possibility of renewal.  Sala
 
 
 
-	
+
   * Passionate about interactive experience across a variety of media (web, mobile) with a strong desire for innovation
 
-	
+
   * Experience as a project manager or technical team leader on scholarly projects
 
-	
+
   * Experience with user-centered design patterns and methodologies
 
-	
+
   * Experience running user testing and conducting accessibility testing
 
-	
+
   * Comfort with complexity and ambiguity, and a passion for the challenges of the humanities and social sciences
 
-	
+
   * Advanced understanding of user interface client technologies such as Javascript, AJAX, HTML, CSS, etc.
 
-	
+
   * Experience creating standard user experience deliverables, including
 
-	
+
     * Site Maps
 
-	
+
     * Process flows
 
-	
+
     * Personas
 
-	
+
     * Use Cases
 
-	
+
     * Concept Models
 
-	
+
     * Wireframes
 
-	
+
     * Interactive prototypes
 
 
 
 
-	
+
   * Strong presentation and communication skills
 
-	
+
   * Expertise in current design tools
 
-        
+
   * and a sophisticated personal research agenda related to the user experience of digital humanities and social science projects.
 
 

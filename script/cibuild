@@ -15,5 +15,4 @@ bundle exec jekyll build && bundle exec htmlproofer ./_site \
   --http-status-ignore 429,403,404,410 \
   --file-ignore /.*\/node_modules\/.*/ \
 
-
   # --url-ignore '/http://www.gutenberg.org/*/','/https://github.com/programminghistorian/jekyll/(commits|blob)/*/','/\#/',"/espanol/","/deprecated/",'/collection.britishmuseum.org/','/analytics.hathitrust.org/'
