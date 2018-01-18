@@ -1,19 +1,19 @@
 ---
 department: English
 email: None
-first_name: Sarah
-last_name: Berkowitz
+first_name: Ankita
+last_name: Chakrabarti
 layout: people
 location: None
-name: Sarah Berkowitz
+name: Ankita Chakrabarti
 position: None
 short_bio: None
-slug: sarah-berkowitz
+slug: ankita-chakrabarti
 status: current
 twitter: None
 website: None
 people-category:
   - 2017-2018
-  - Prototyping Fellow
+  - Praxis Fellow
 ---
-A flashy bio goes here
+Ankita Chakrabarti is a 2017-2018 Praxis Program Fellow.

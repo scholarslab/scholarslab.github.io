@@ -1,14 +1,14 @@
 ---
-department: English
+department: Music
 email: None
-first_name: Sarah
-last_name: Berkowitz
+first_name: Ryan
+last_name: Maguire
 layout: people
 location: None
-name: Sarah Berkowitz
+name: Ryan Maguire
 position: None
 short_bio: None
-slug: sarah-berkowitz
+slug: ryan-maguire
 status: current
 twitter: None
 website: None
@@ -16,4 +16,4 @@ people-category:
   - 2017-2018
   - Prototyping Fellow
 ---
-A flashy bio goes here
+Ryan Maguire is a 2017-2018 DH Prototyping Fellow.
