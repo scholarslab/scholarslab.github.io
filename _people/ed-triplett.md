@@ -1,5 +1,5 @@
 ---
-department: None
+department: Art
 email: edward.triplett@gmail.com
 first_name: Ed
 last_name: Triplett

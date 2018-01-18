@@ -5,9 +5,13 @@ layout: page
 
 {% assign profile_pictures = site.static_files | where: "basename",page.slug | limit: 1 %}
 
-{% for profile_picture in profile_pictures %}
-  <img src="{{ profile_picture.path }}" alt="">
-{% endfor %}
+{% if profile_pictures == empty %}
+    <img src="{{ site.baseurl }}/assets/images/scholarslab.png" alt="Scholars' Lab Lab">
+{% else %}
+    {% for profile_picture in profile_pictures %}
+      <img src="{{ profile_picture.path }}" alt="{{ page.slug }}">
+    {% endfor %}
+{% endif %}
 
 {% assign author_posts = site.posts | where: "author", page.slug %}
 {% if author_posts %}

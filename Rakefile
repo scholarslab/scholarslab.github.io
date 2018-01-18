@@ -65,17 +65,17 @@ end
 
 desc "Make a new person"
 task :new_person, [:first_name, :last_name] do |t, args|
-  slug = args.first_name + '-' + args.last_name
+  slug = args.first_name.downcase + '-' + args.last_name.downcase
   fn = '_people/' + slug + '.md'
   File.open(fn, 'w'){|f|
     f.puts("---")
     f.puts("department: None")
     f.puts("email: None")
-    f.puts("first_name: #{args.first_name}")
-    f.puts("last_name: #{args.last_name}")
+    f.puts("first_name: #{args.first_name.titleize}")
+    f.puts("last_name: #{args.last_name.titleize}")
     f.puts("layout: people")
     f.puts("location: None")
-    f.puts("name: #{args.first_name + ' ' + args.last_name}")
+    f.puts("name: #{args.first_name.titleize + ' ' + args.last_name.titleize}")
     f.puts("position: None")
     f.puts("short_bio: None")
     f.puts("slug: #{slug}")
