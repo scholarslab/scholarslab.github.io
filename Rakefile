@@ -42,7 +42,6 @@ task :new_project, [:title] do |t, args|
     f.puts("---")
     f.puts("collaborators: ")
     f.puts("  - name: ")
-    f.puts("    slug: ")
     f.puts("    role: ")
     f.puts("current: false")
     f.puts("layout: research")
