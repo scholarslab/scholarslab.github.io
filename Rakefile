@@ -65,7 +65,7 @@ end
 
 desc "Make a new person"
 task :new_person, [:first_name, :last_name] do |t, args|
-  slug = args.first_name + '-' + args.last_name
+  slug = args.first_name.split.join('-') + '-' + args.last_name.split.join('-')
   fn = '_people/' + slug + '.md'
   File.open(fn, 'w'){|f|
     f.puts("---")
