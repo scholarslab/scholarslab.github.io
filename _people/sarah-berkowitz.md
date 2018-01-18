@@ -1,20 +1,19 @@
 ---
 department: English
-email: seb3fx@virginia.edu
+email: None
 first_name: Sarah
 last_name: Berkowitz
 layout: people
-location: ''
+location: None
 name: Sarah Berkowitz
 position: None
-short_bio: ''
+short_bio: None
 slug: sarah-berkowitz
-status: not_current
-twitter: portraitofsarah
-website: http://www.engl.virginia.edu/people/seb3fx
+status: current
+twitter: None
+website: None
 people-category:
-- 2017-2018
-- Incubator Fellow
+  - 2017-2018
+  - Prototyping Fellow
 ---
-
-
+A flashy bio goes here
