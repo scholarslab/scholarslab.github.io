@@ -4,8 +4,8 @@ comments: true
 date: 2012-10-11 20:30:11+00:00
 layout: page
 link: http://scholarslab.org/graduate-fellowships/
-slug: graduate-fellowships
-title: Graduate Fellowships
+slug: graduate-fellowships-and-opportunities
+title: Graduate Fellowships and Opportunities
 wordpress_id: 5610
 ---
 
