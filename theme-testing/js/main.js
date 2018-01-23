@@ -1,9 +1,6 @@
 (function() { 
 
-	
-	// Section 1
-	// Component: Homepage
-
+	// Section 1: Homepage
 	(function() {
 		// set dot height = width
 		var dotsWrapper = document.querySelector(".home-dots-wrapper");
@@ -14,7 +11,7 @@
 
 		// calculate # of divs to make (grid matrix dimensions)
 		var cols = Math.floor(dotsWrapper.offsetWidth / width);
-		var rows = Math.floor(dotsWrapper.offsetHeight / width) + 1;
+		var rows = Math.floor(dotsWrapper.offsetHeight / width) + 2;
 		var numDots = cols * rows;
 
 		for (var i=0; i<numDots; i++) {
@@ -22,9 +19,7 @@
 		}
 	})();
 
-	// Section 2
-	// Component: Top nav
-
+	// Section 2: Top nav
 	(function() {
 		// do stuff
 	})();
