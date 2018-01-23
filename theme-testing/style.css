@@ -1,3 +1,37 @@
+.include--topnav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100px;
+  z-index: 1; }
+
+.topnav__content-wrapper {
+  position: relative;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  background-color: red; }
+
+.topnav-item {
+  border: 1px solid black; }
+
+.topnav-item__link {
+  display: block;
+  height: 60px; }
+  .topnav-item__link img {
+    display: block;
+    height: 60px; }
+
+.topnav-dummy-content {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 3em;
+  background-image: linear-gradient(to bottom, lightpink, white); }
+
 * {
   box-sizing: border-box; }
 
