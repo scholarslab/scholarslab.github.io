@@ -42,7 +42,6 @@ task :new_project, [:title] do |t, args|
     f.puts("---")
     f.puts("collaborators: ")
     f.puts("  - name: ")
-    f.puts("    slug: ")
     f.puts("    role: ")
     f.puts("current: false")
     f.puts("layout: research")
@@ -65,7 +64,7 @@ end
 
 desc "Make a new person"
 task :new_person, [:first_name, :last_name] do |t, args|
-  slug = args.first_name.downcase + '-' + args.last_name.downcase
+  slug = args.first_name.downcase.split.join('-') + '-' + args.last_name.downcase.split.join('-')
   fn = '_people/' + slug + '.md'
   File.open(fn, 'w'){|f|
     f.puts("---")

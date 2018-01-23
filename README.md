@@ -45,15 +45,15 @@ The project includes several Rake tasks for creating new content.
 
 ### Make a new person
 ```bash
-rake new_person["First", "Last"]
-rake new_person["Brandon", "Walsh"]
+rake new_person["First","Last"]
+rake new_person["Brandon","Walsh"]
 ```
 
 ### Make a new post given a title and an author name in the form of first_name last_name
 ```bash
-rake new_post["Title here", "First Last"]
+rake new_post["Title here","First Last"]
 ex.
-rake new_post["Brandon's best blog post ever", "Brandon Walsh"]
+rake new_post["Brandon's best blog post ever","Brandon Walsh"]
 ```
 
 ### Make a new research project given a title
