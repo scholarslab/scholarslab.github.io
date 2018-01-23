@@ -5,21 +5,36 @@
   display: block;
   width: 100%;
   height: 100px;
-  z-index: 1; }
+  z-index: 1;
+  opacity: .5;
+  transition: height 1s; }
+
+.topnav-scroll--down {
+  height: 60px; }
+
+.home-wrapper {
+  position: relative; }
 
 .topnav__content-wrapper {
   position: relative;
   display: flex;
+  align-items: center;
+  justify-content: flex-end;
   height: 100%;
   width: 100%;
   background-color: red; }
 
 .topnav-item {
-  border: 1px solid black; }
+  border: 1px solid black;
+  margin: 0 1em; }
+  .topnav-item:first-of-type {
+    margin-right: auto; }
 
 .topnav-item__link {
   display: block;
-  height: 60px; }
+  height: 60px;
+  line-height: 60px;
+  border: 1px solid blue; }
   .topnav-item__link img {
     display: block;
     height: 60px; }
