@@ -18,6 +18,7 @@ The call is issued annually in the spring.
 **Eligibility, Conditions, and Requirements**
 
 * Applicants must be MA or PhD students working in the humanities, social sciences or the arts at the University of Virginia.
+*	Applicants must be enrolled as a UVA student during the 2018-2019 academic year.
 * Some digital humanities experience is encouraged but not required. This background could take a variety of forms. Experience can include formal fellowships like the Praxis Program,but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
 
 **How to Apply**
