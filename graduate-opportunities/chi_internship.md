@@ -1,6 +1,6 @@
 ---
 layout: page
-link: http://scholarslab.org/cultural-heritage-informatics-internship/
+permalink: /cultural-heritage-informatics-internship/
 slug: cultural-heritage-informatics-internship
 title: Cultural Heritage Informatics Internship
 ---

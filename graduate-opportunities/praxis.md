@@ -1,6 +1,6 @@
 ---
 layout: page
-link: http://scholarslab.org/praxis-program-fellowships/
+permalink: /praxis-program-fellowships/
 slug: praxis-program-fellowships
 title: Praxis Program Fellowships
 ---

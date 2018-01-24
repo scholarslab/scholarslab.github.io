@@ -1,6 +1,6 @@
 ---
 layout: page
-link: http://scholarslab.org/scholars-lab-gis-technician/
+permalink: /scholars-lab-gis-technician/
 slug: scholars-lab-gis-technician
 title: Scholars' Lab GIS Technician
 ---

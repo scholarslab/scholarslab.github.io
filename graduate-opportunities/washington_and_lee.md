@@ -1,6 +1,6 @@
 ---
 layout: page
-link: http://scholarslab.org/visiting-workshops-at-washington-and-lee-university/
+permalink: /visiting-workshops-at-washington-and-lee-university/
 slug: visiting-workshops-at-washington-and-lee-university
 title: Guest DH Workshop Teaching at W&L
 ---

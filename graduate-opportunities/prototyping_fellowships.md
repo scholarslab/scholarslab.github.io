@@ -1,6 +1,6 @@
 ---
 layout: page
-link: http://scholarslab.org/digital-humanities-prototyping-fellowships/
+permalink: /digital-humanities-prototyping-fellowships/
 slug: digital-humanities-prototyping-fellowships
 title: Digital Humanities Prototyping Fellowships
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-link: http://scholarslab.org/digital-humanities-fellows/
+permalink: /digital-humanities-fellows/
 slug: digital-humanities-fellows
 title: Digital Humanities Fellows Program
 ---
@@ -17,7 +17,7 @@ Supported by the Jeffrey C. Walker Library Fund for Technology in the Humanities
 
 The award provides living support in the amount of $20,000 for the academic year, as well as full remission of tuition and University fees and the student health insurance premium for single-person coverage. Living support includes wages for a half-time graduate teaching assistantship in each semester.  A graduate instructorship, particularly one with a digital humanities inflection, may be substituted for the GTA appointment based on availability within the fellow’s department. Applicants interested in such an option should indicate as such in their application and discuss the possibility in advance with [Brandon Walsh](mailto:bmw9t@virginia.edu).
 
-See past fellowship winners on our [People](http://scholarslab.org/people/) page. The call for applicants is issued annually in August.
+See past fellowship winners on our [People](/people) page. The call for applicants is issued annually in August.
 
 **Eligibility, Conditions, and Requirements**
 
