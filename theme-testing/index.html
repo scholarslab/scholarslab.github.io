@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<div class="home-grid-wrapper">
+	<div class="home-landing-grid">
 		<div class="home-title-wrapper">
 			<div class="home-title__text"><span>The </span>Scholars' Lab</div>
 		</div>
@@ -20,24 +20,132 @@
 		</div>
 	</div>
 
-	<div class="home__hero-text">hero-text</div>
-	<div class="home__contact-link-1">contact-link-1</div>
-	<div class="home__faq-link">faq-link</div>
-	<div class="home__charter-link">charter-link</div>
-	<div class="home__office-hours">office-hours</div>
-	<div class="home__floor-diagram">floor-diagram</div>
-	<div class="home__gis-corner">gis-corner</div>
-	<div class="home__makerspace-corner">makerspace-corner</div>
-	<div class="home__grads">grads</div>
-	<div class="home__events">events</div>
-	<div class="home__learn">learn</div>
-	<div class="home__blog">blog</div>
-	<div class="home__staffer-projects">staffer-projects</div>
-	<div class="home__contact-link-2">contact-link-2</div>
-	<div class="home__listserv-prompt">listserv-prompt</div>
-	<div class="home__people">people</div>
-	<div class="home__origin-stories">origin-stories</div>
-	
+	<div class="home-main-content"> <!-- 17 divs 
+
+	"hero hero"
+						 "faq contact"
+						 "faq grads"
+						 "floor hours"
+						 "make gis"
+						 "learn learn"
+						 "events events"
+						 "listserv contact2"						 
+						 "people people"
+						 "blog projects"						 
+						 "origins charter";-->
+		<div class="home__hero">
+			<div class="home-hero__text--1" title="And our Soylent is not.">At the Scholars' Lab, digital humanities is people.</div>
+			<div class="home-hero__text--2">Our most important digital humanities project is our community of scholars: mentors, learners, researchers, teachers, crafters and makers, collaborators.</div>
+			<!-- scroll-y prompt: "So let's explore what that means, because we'd love for you to be a part of it." -->
+		</div>
+
+		<div class="home__faq">
+			<div class="home-faq__title">FAQs</div>
+			<div class="home-faq__content">example question, link to landing page, maybe a sentence to explain</div>
+		</div>
+
+		<div class="home__contact--1">
+			<div class="home-contact__cta">Curious about experimental & digital humanities research & teaching? <a href="#">Click here</a> to join our community&mdash;absolutely zero experience needed.</div>
+		</div>
+
+		
+		<div class="home__grads">
+			<div class="home-grads__title">Opportunities for Graduate Students</div>
+			<div class="home-grads__content">links to programs, etc; any explain-y text @Brandon wants, link to grad home page type thing</div>
+		</div>
+		
+
+		<div class="home__office-hours">
+			<div class="home-hours__title">Open Office Hours</div>
+			<div class="home-hours__when">Every Monday, 10am-11:30am.</div>
+			<div class="home-hours__info">Located in the Scholars' Lab Common Room. Description, note of diagram for where that is, come talk about dogs</div>
+		</div>
+
+		<div class="home__floor-diagram">
+			<div class="home-diagram__title">Our Spaces: A Diagram</div>
+			<!--span>Because no one was born knowing where a common room is.</span-->
+			<div class="home-diagram__content">
+				<img src="" alt="Floor diagram of Scholars' Lab spaces" title="By the lovely Beth Mitchell">
+			</div>
+		</div>
+		
+		<div class="home__makerspace-corner">
+			<div class="home-makerspace__title">Makerspace</div>
+			<div class="home-makesrpace__content">
+				<div>Insert short description, a pic, and event preview, or whatever @Shane et al. find useful</div>
+			</div>
+		</div>
+
+		<div class="home__gis-corner">
+			<div class="home-gis__title">Spatial Technologies</div>
+			<div class="home-makesrpace__content">
+				<div>Insert short description, a pic, and event preview, or whatever @Will/Arin/Drew/Chris et al. find useful</div>
+			</div>
+		</div>
+		
+		<div class="home__events">
+			<div class="home-events__title">Events</div>
+			<div class="home-events__description">One-time or standing, hands-on workshops and symposiums, a quick intro or community group&mdash;whatever's your flavor, we probably have an event for it. Upcoming events below, or find the full list <a href="#" aria-label="Events page">here</a>.</div>
+		</div>
+
+		<div class="home__learn">
+			<div class="home-learn__title">Learning Resources: Our Starter Kits</div>
+			<div class="home-learn__content">Insert description of why these exist, and why you might wanna use them. Maybe you don't even know you're interested in DH yet, or want to check out the basics of web design before you come talk to us. Curated by our in-house experts on each topic.</div>
+			<div class="home-learn__links"><a href="#">Links to a couple of topics here</a></div>
+		</div>
+
+		<!-- 
+	"hero hero"
+						 "faq contact"
+						 "faq grads"
+						 "floor hours"
+						 "make gis"
+						 "learn learn"
+						 "events events"
+						 "listserv contact2"						 
+						 "people people"
+						 "blog projects"						 
+						 "origins charter" -->
+		<div class="home__listserv-prompt">
+			<div class="home-listserv__title" title="Also maybe dogs">Keep up with what we're doing. We'll only send you cool stuff.</div>
+			<div class="home-listserv__content">
+				<div class="home-listserv__input">< insert input tag for entering email ></div>
+				<button class="home-listserv__btn">Keep me in the loop</button>
+			</div>
+		</div>
+
+		<div class="home__people">
+			<div class="home-people__title">Our People</div>
+			<div class="home-people__content">Like we said, our digital humanities is people. Meet the ones who give this place its soul&mdash;and its abundance of dog memes.<br/><a href="#" aria-label="Link to 'People' page">Find them here.</a></div>
+		</div>
+
+		<div class="home__origin-stories">
+			<div class="home-origins__title">Origin Stories</div>
+			<div class="home-origins__content"><span>"How did you... end up in digital humanities?" </span>We've found that most of our answers are closer to a spiral than a straight line. Insert words about some of us started in history or English or econ and tumbled from there, and it's relevant because you the user might be nervous that everyone got there in a straight line. Give a couple of <a href="#">funny hints</a> about anecdotes that link to <a href="#">specific people's</a> pages. Check out the full round-up <a href="#">here</a>.</div>
+		</div>
+
+		<div class="home__blog">
+			<div class="home-blog__title">Our Blog</div>
+			<div class="home-blog__content">Preview a few recent posts here. <a href="#" aria-label="Blog home">Check out</a> what we're writing about/thinking/doing.</div>
+		</div>
+
+		<div class="home__staffer-projects">
+			<div class="home-projects__title">Staffer Projects</div>
+			<div class="home-projects__content"><span>See what our staff is passionate about.</span><a href="#" aria-label="Staffer projects home">Insert link words.</a></div>
+		</div>
+
+		<div class="home__contact-link-2" title="SLab casual: just shirt, shoes, & curiosity required">
+			<div class="home-contact2__title">Let's meet up.</div>
+			<div class="home-contact2__content">Come set up a <a href="#">consultation</a> with us. Very casual. Something something if you have a project and wanna fit DH into it, or something something no pressure other reason. <span>Just fill out the form found <a href="#">here</a>.</div>
+		</div>
+		
+		<div class="home__charter-link">Link to charter. Sets out mission and intention explicitly.</div>
+
+		<div class="home__colophon">
+			<div class="home-colophon__title">Colophon</div>
+			<div class="home-colophon__content" title="Ingredients, one might say...">How the <s>sausage</s> website gets made.</div>
+		</div>
+	</div>
 
 	<script src="js/main.js" type="text/javascript" charset="utf-8"></script>
 	<script src="https://hammerjs.github.io/dist/hammer.js" type="text/javascript" charset="utf-8"></script>

@@ -22,7 +22,7 @@ $magenta7: 	rgba(255, 0, 255, .7);
 $magenta5: 	rgba(255, 0, 255, .5);
 $magenta3: 	rgba(255, 0, 255, .3);
 
-.home-grid-wrapper {
+.home-landing-grid {
 	position: relative;
 	display: grid;
 	align-items: center;
@@ -102,4 +102,133 @@ $magenta3: 	rgba(255, 0, 255, .3);
 	}
 }
 
-/* ---------------------------------------------------------------------------- */
+/* Main Content */
+
+.home-main-content {
+	position: relative;
+	display: grid;
+	// do media query testing!!!
+	grid-template-areas: "hero hero"
+						 "faq contact"
+						 "faq grads"
+						 "hours floor"
+						 "make gis"
+						 "learn learn"
+						 "events events"
+						 "listserv contact2"
+						 "blog blog"						 
+						 "people projects"
+						 "origins origins"			 
+						 "charter colophon";
+	grid-auto-rows: minmax(25vh, auto);
+}
+
+/* Hero: */
+
+.home__hero {
+	grid-area: hero;
+	position: relative;
+	height: 50vh;
+}
+
+/* Contact prompt: */
+
+.home__contact--1 {
+	grid-area: contact;
+}
+
+/* FAQ corner/link: */
+
+.home__faq {
+	grid-area: faq;
+}
+
+/* Grad students: */
+
+.home__grads {
+	grid-area: grads;
+}
+
+/* Floor diagram: (esp for office hours) */
+
+.home__floor-diagram {
+	grid-area: floor;
+}
+
+/* Office hours: */
+
+.home__office-hours {
+	grid-area: hours;
+}
+
+/* Makerspace corner: */
+
+.home__makerspace-corner {
+	grid-area: make;
+}
+
+/* GIS corner: */
+
+.home__gis-corner {
+	grid-area: gis;
+}
+
+/* Starter kit corner: */
+
+.home__learn {
+	grid-area: learn;
+}
+
+/* Events & get involved prompt: */
+
+.home__events {
+	grid-area: events;
+}
+
+/* Listserv sign-up: */
+
+.home__listserv-prompt {
+	grid-area: listserv;
+}
+
+/* Second direct contact: */
+
+.home__contact-link-2 {
+	grid-area: contact2;
+}
+
+/* People: */
+
+.home__people {
+	grid-area: people;
+}
+
+/* Blog corner: */
+
+.home__blog {
+	grid-area: blog;
+}
+
+/* Origin stories: */
+
+.home__origin-stories {
+	grid-area: origins;
+}
+
+/* Projects corner: */
+
+.home__staffer-projects {
+	grid-area: projects;
+}
+
+/* Charter: */
+
+.home__charter-link {
+	grid-area: charter;
+}
+
+/* Colophon */
+
+.home__colophon {
+	grid-area: colophon;
+}
