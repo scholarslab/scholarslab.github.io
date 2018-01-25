@@ -28,7 +28,7 @@ for size, letter, num in zip(sizes, sizeinitials, nums):
 # pasted + lightly edited from 'Design Notes' spreadsheet
 contents = '''Hero text
 contact link 1
-FAQ link
+FAQ
 Charter link
 office hours
 floor diagram
@@ -70,8 +70,32 @@ home_classes = makeHomeClasses(classbasis)
 # print(home_classes)
 
 # make 1 div per class created
+# len: 17
 home_divs = makeHomeDivs(home_classes, classbasis)
 
 # print for HTML
 ''' for h in home_divs:
 	print(h) '''
+
+# empty CSS setup for all classes created
+def makeCSSClasses(home_classes):
+	for h in home_classes:
+		print(
+			'''.{0}'''.format(h) + " {\n\n}\n")
+
+# same classes but make grid-area property
+def makeCSSClasses(home_classes):
+	for h in home_classes:
+		print(
+			'''.{0}'''.format(h) + " {\n\tgrid-area: ;\n}\n")
+
+# makeCSSClasses(home_classes)
+
+# CSS grid setup
+def printGridAreas():
+	area_string = "origins people listserv contact2 projects blog learn events grads make gis floor hours charter faq contact hero"
+	grid_areas = area_string.split(' ')[::-1] # reverse order (entered from bottom up)
+	for g in grid_areas:
+		print('"' + g + '"')
+
+printGridAreas()
