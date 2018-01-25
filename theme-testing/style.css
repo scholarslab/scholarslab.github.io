@@ -173,7 +173,7 @@ body {
   grid-area: listserv; }
 
 /* Second direct contact: */
-.home__contact-link-2 {
+.home__contact--2 {
   grid-area: contact2; }
 
 /* People: */
