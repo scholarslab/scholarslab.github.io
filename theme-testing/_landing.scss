@@ -1,0 +1,91 @@
+/* Background colors: */
+  $purple:	rgba(127, 0, 255, 1);
+ $magenta: 	rgba(255, 0, 255, 1);
+ $purple9: 	rgba(127, 0, 255, .9);
+ $purple7: 	rgba(127, 0, 255, .7);
+ $purple5: 	rgba(127, 0, 255, .5);
+ $purple3: 	rgba(127, 0, 255, .3);
+$magenta9: 	rgba(255, 0, 255, .9);
+$magenta7: 	rgba(255, 0, 255, .7);
+$magenta5: 	rgba(255, 0, 255, .5);
+$magenta3: 	rgba(255, 0, 255, .3);
+
+.home-landing-grid {
+	position: relative;
+	display: grid;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100%;
+	background-image: linear-gradient(to bottom, rgb(42, 0, 255), $purple 30%, $magenta);
+}
+
+.home-title-wrapper {
+	position: relative;
+}
+
+.home-title__text {
+	position: relative;
+	font-family: "Righteous";
+	font-size: 6em;
+	line-height: 1;
+	text-align: center;
+	text-transform: uppercase;
+//	color: white; /* for testing layers */
+	z-index: 1;
+//	text-shadow: 0 0 2px $magenta5;
+//	transform: translate(0, 8px);
+	span {
+	//	display: none;
+		line-height: 1;
+	}
+}
+
+.home-dots-wrapper {
+	position: absolute;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+//	grid-gap: 4px;
+	height: 100vh;
+	width: 100%;
+	overflow: hidden;
+	
+}
+
+.home-dots__dot {
+	position: relative;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0,0,0,.7);
+//	border: 1px solid red;
+	span {
+	//	content: '';
+		position: absolute;
+		right: 50%;
+		bottom: 50%;
+		display: block;
+		height: 6px;
+		width: 6px;
+		transform: translate(50%, 50%);
+		border-radius: 50%;
+	//	background-color: rgba(255,255,255,.7);
+		background-clip: border-box;
+		&::after {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			display: block;
+			height: 100%;
+			width: 100%;
+			border-radius: 50%;
+			background-image: linear-gradient(to bottom, rgba(42, 0, 255, 1), $purple 30%, $magenta);
+			background-size: 100vw 100vh;
+		//	background-position: ** this is where things get tricksy but it's gotta be possible... **
+
+		}
+	//	background-clip: border-box;
+		// set bg of pseudo elem to be a gradient of identical size as real bg
+		// can't think of another way to do it
+	}
+}
