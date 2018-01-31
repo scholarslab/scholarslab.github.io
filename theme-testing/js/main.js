@@ -1,7 +1,7 @@
 (function() { 
 
 	// Section 1: Homepage
-	(function() {
+/*	(function() {
 		// set dot height = width
 		var dotsWrapper = document.querySelector(".home-dots-wrapper");
 		var dot = document.querySelector(".home-dots__dot");
@@ -17,7 +17,7 @@
 		for (var i=0; i<numDots; i++) {
 			dotsWrapper.appendChild(dot.cloneNode(true));
 		}
-	})();
+	})(); */
 
 	// Section 2: Top nav
 	(function() {
