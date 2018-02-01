@@ -76,15 +76,6 @@ body {
   font-weight: 700;
   line-height: .8;
   transform: translate(1em, -1em); }
-  .home-title-wrapper::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    transform: translate(0.5em, 0.25em); }
   .home-title-wrapper .home-title__text {
     position: relative; }
 
@@ -103,7 +94,37 @@ body {
 .home__hero {
   grid-area: hero;
   position: relative;
-  height: 50vh; }
+  max-width: 900px;
+  justify-self: end;
+  text-align: center; }
+
+.home-hero__title {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 3em 1fr;
+  grid-template-rows: repeat(4, auto);
+  margin: 1em 0;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1;
+  color: black; }
+  .home-hero__title span:nth-of-type(1) {
+    grid-column: span 4;
+    grid-row: 1; }
+  .home-hero__title span:nth-of-type(2) {
+    grid-column: 1;
+    grid-row: 2;
+    margin-top: 1em;
+    text-align: left; }
+  .home-hero__title span:nth-of-type(3) {
+    grid-column: 2;
+    grid-row: 3;
+    margin: 1em 0;
+    text-align: left; }
+  .home-hero__title span:nth-of-type(4) {
+    grid-column: 3;
+    grid-row: 4;
+    text-align: left; }
 
 /* Contact prompt: */
 .home__contact--1 {
