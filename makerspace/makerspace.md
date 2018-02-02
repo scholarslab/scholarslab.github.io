@@ -3,7 +3,7 @@ author: jeremy
 comments: true
 date: 2014-05-07 14:58:08+00:00
 layout: page
-link: http://scholarslab.org/makerspace/
+permalink: /makerspace
 slug: makerspace
 title: Makerspace
 wordpress_id: 10129
@@ -60,7 +60,7 @@ Learning _how_ to do something with humanities technology gives us a more inform
 ## Using the Makerspace
 
 
-Interested in exploring the Makerspace?  Have an idea to use microcontrollers or 3D modeling and printing technology to enhance your research or differently interrogate your assumptions?  **The Makerspace is open from 1:00-7:00 p.m. Monday through Thursday, and 1:00-5:00 p.m. on Friday**.  Check out our printer availability on our [printer calendar](http://scholarslab.org/makerspace/makerspace-3d-printer-calendar/). Stop by to talk to one of our Technologists, attend our maker [workshops](http://www.scholarslab.org/events/), or contact us at [slabmakerspace@virginia.edu](mailto:slabmakerspace@virginia.edu) to schedule an appointment with a Makerspace Technologist or Scholars' Lab staff to discuss your planned project.
+Interested in exploring the Makerspace?  Have an idea to use microcontrollers or 3D modeling and printing technology to enhance your research or differently interrogate your assumptions?  **The Makerspace is open from 1:00-7:00 p.m. Monday through Thursday, and 1:00-5:00 p.m. on Friday**.  Check out our printer availability on our [printer calendar](/makerspace-3d-printer-calendar/). Stop by to talk to one of our Technologists, attend our maker [workshops](http://www.scholarslab.org/events/), or contact us at [slabmakerspace@virginia.edu](mailto:slabmakerspace@virginia.edu) to schedule an appointment with a Makerspace Technologist or Scholars' Lab staff to discuss your planned project.
 
 [gallery columns="2" size="large" link="none" ids="11037,11038,11039,11040,11042,11047"]
 

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Home
+---
+
+<section id="description">
+    <p>Introductory text goes here.</p>
+</section>
+
+<section id="updates">
+Recent Scholars' Lab staff activity: {% for update in site.data.updates limit:3 %}
+  {{ update.staffer }} <a href="{{ update.url }} ">{{ update.sentence }}</a>
+{% endfor %}

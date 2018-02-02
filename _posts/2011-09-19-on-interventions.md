@@ -11,7 +11,7 @@ tags:
 - requirements-gathering
 ---
 
-I started to write this as a comment on [Lindsay's latest post](http://www.scholarslab.org/praxis-program/imagining-end-users-for-requirements-gathering/), but then thought I should boost it a bit, so that it becomes a part of the overall conversation about next steps for Prism.
+I started to write this as a comment on [Lindsay's latest post](/2011/09/18/imagining-end-users-for-requirements-gathering/), but then thought I should boost it a bit, so that it becomes a part of the overall conversation about next steps for Prism.
 
 I've been out of the mix of the discussions you guys have been having, so it may be that Lindsay is responding more to a building group consensus about how to use textual data than to the model "reference interview" introducing Prism that Jeremy conducted two weeks ago.
 
