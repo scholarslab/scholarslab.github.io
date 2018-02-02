@@ -67,6 +67,7 @@ $magenta3: 	rgba(255, 0, 255, .3);
 	position: relative;
 	display: grid;
 	// do media query testing!!!
+	grid-template-columns: 1fr 1fr;
 	grid-template-areas: "hero hero"
 						 "faq contact"
 						 "faq grads"
