@@ -10,11 +10,11 @@
 ## How to make that happen:
 
 * Write instructions on how to find the document
-* Appropriately mark up (a copy of) the index file and see how that goes
+* Appropriately mark up (a copy of) the ```index.html``` file and see how that goes
 * Possibly mark each section w/ people's names? It just needs to *not* have CSS in it tbh, so we only focus on the content.
 
 ## Also, while we're here:
 
-* Make branch off master to incorporate your formatting changes from very beginning of kbd-theme branch
+* Make branch off ```master``` to incorporate your formatting changes from very beginning of ```kbd-theme``` branch
 	* The formatting differences are what caused the merge conflict today, and it's something you meant to mention to people anyway
 * Ensure is okay to rename files and such and submit for pull request
