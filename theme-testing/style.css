@@ -132,15 +132,8 @@ body {
 .home__hero {
   grid-area: hero;
   position: relative;
-  font-size: 1.75rem;
   margin-bottom: 1em;
   line-height: 1; }
-  @media screen and (min-width: 768px) {
-    .home__hero {
-      font-size: 2rem; } }
-  @media screen and (min-width: 1024px) {
-    .home__hero {
-      font-size: 2.5rem; } }
 
 .home-hero__title {
   position: relative;
@@ -158,9 +151,10 @@ body {
 .home-hero__text {
   margin-left: 4.167%;
   margin-right: 4.167%;
-  font-weight: 200; }
+  font-size: 1.75rem;
+  font-weight: 200;
+  line-height: 1; }
   .home-hero__text span {
-    display: block;
     font-weight: 700; }
   .home-hero__text .if-big {
     display: none !important; }
@@ -168,9 +162,6 @@ body {
     .home-hero__text {
       margin-left: 8.33%;
       margin-right: 8.33%; } }
-  @media screen and (min-width: 1200px) {
-    .home-hero__text .if-big {
-      display: initial !important; } }
 
 /* Contact prompt: */
 .home__contact--1 {

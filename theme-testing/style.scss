@@ -86,8 +86,6 @@ $magenta3: 	rgba(255, 0, 255, .3);
 	}
 }
 
-
-
 /* Main Content */
 
 .home-main-content {
@@ -123,17 +121,17 @@ $magenta3: 	rgba(255, 0, 255, .3);
 //	justify-self: end;
 	position: relative;
 //	max-width: 900px;
-	font-size: 1.75rem;
+//	font-size: 1.75rem;
 	margin-bottom: 1em;
 	line-height: 1;
 	@media screen and (min-width: 600px) {
 	//	font-size: 1.5rem;
 	}
 	@media screen and (min-width: 768px) {
-		font-size: 2rem;
+	//	font-size: 2rem;
 	}
 	@media screen and (min-width: 1024px) {
-		font-size: 2.5rem;
+	//	font-size: 2.5rem;
 	}
 }
 
@@ -156,10 +154,14 @@ $magenta3: 	rgba(255, 0, 255, .3);
 .home-hero__text {
 	margin-left: 4.167%;
 	margin-right: 4.167%;
+	font-size: 1.75rem;
 	font-weight: 200;
+	line-height: 1;
+//	font-family: "Oswald"; // "Inconsolata";
 	span {
-		display: block;
+	//x	display: block;
 		font-weight: 700;
+	//	font-family: "Raleway";
 	}
 	.if-big {
 		display: none !important;
@@ -171,7 +173,7 @@ $magenta3: 	rgba(255, 0, 255, .3);
 	}
 	@media screen and (min-width: 1200px) {
 		.if-big {
-			display: initial !important;
+	//		display: initial !important;
 		}
 	}
 }
