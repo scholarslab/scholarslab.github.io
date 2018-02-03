@@ -38,9 +38,12 @@ Issues: page itself doesn't exist, questions need rewording
 	```
 
 3. Contact
+
 Status: surface = fine; core = bad
+
 Issues: no consensus on what the page links to; if it's not a straightforward contact page we should address where to put one, and if it is, is this wording misleading? Possible solutions include: add another sentence to this that is clearly linking to a straight up contact page, so that "Click here" can reasonably link to a consultation form
 Content needed: contact form. We need to have a meeting about what specific ways we want people to be able to contact us, and then create appropriate form(s) to make that happen. This is urgent and should happen at the beginning of this coming week (2/5).
+
 	<div class="home__contact--1">
 		<div class="home-contact__title">Contact Us</div>
 		<div class="home-contact__cta">Curious about experimental & digital humanities research & teaching? <a href="#">Click here</a> to join our community&mdash;absolutely zero experience needed.</div>
