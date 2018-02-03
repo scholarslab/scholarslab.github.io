@@ -12,14 +12,14 @@ Notes:
 
 ## Without Further Adieu:
 
-1: Hero
+1. Hero
 Status: good
 	```html
 	<div class="home__hero">
 		<div class="home-hero__text">At the Scholars' Lab, our most important digital humanities <span class="if-big"><br/></span>project is our community of scholars: <span>mentors,</span> <span>learners,</span> <span>researchers,</span> <span>teachers,</span> <span>crafters & </span><span>makers,</span> <span>collaborators.</span> This site hopes to explore what that means, because we'd love for you to be a part of it.</div>
 	</div>
 	```
-2: FAQ
+2. FAQ
 Status: fine
 Issues: page itself doesn't exist, questions need rewording
 	```html
@@ -37,7 +37,7 @@ Issues: page itself doesn't exist, questions need rewording
 	</div>
 	```
 
-3: Contact
+3. Contact
 Status: surface = fine; core = bad
 Issues: no consensus on what the page links to; if it's not a straightforward contact page we should address where to put one, and if it is, is this wording misleading? Possible solutions include: add another sentence to this that is clearly linking to a straight up contact page, so that "Click here" can reasonably link to a consultation form
 Content needed: contact form. We need to have a meeting about what specific ways we want people to be able to contact us, and then create appropriate form(s) to make that happen. This is urgent and should happen at the beginning of this coming week (2/5).
@@ -46,7 +46,7 @@ Content needed: contact form. We need to have a meeting about what specific ways
 		<div class="home-contact__cta">Curious about experimental & digital humanities research & teaching? <a href="#">Click here</a> to join our community&mdash;absolutely zero experience needed.</div>
 	</div>
 
-4: Graduate Hub
+4. Graduate Hub
 Status: bad
 Issues: need title of page and written content from Brandon. Should be upgraded from "bad" to "fine/good" by Wednesday (2/7).
 	<div class="home__grads">
@@ -57,7 +57,7 @@ Issues: need title of page and written content from Brandon. Should be upgraded 
 		</div>
 	</div>
 	
-5: Office Hours
+5. Office Hours
 Status: fine
 Issues: vital information is there, but need a sentence describing the purpose of the office hours. Best solution is to ask Amanda or Laura to literally write down a sentence for me, probably just over Slack.
 NB: this is high priority since it's so easy.
@@ -67,7 +67,7 @@ NB: this is high priority since it's so easy.
 		<div class="home-hours__info">Located in the Scholars' Lab Common Room. Description, note of diagram for where that is, come talk about dogs. (See diagram for where we are!)</div>
 	</div>
 
-6: Floor Diagrams
+6. Floor Diagrams
 Status: bad
 Issues: diagrams don't exist. Possible solutions include asking Laura about the next time Beth will be in; if it's not for a while, message her on Slack and work out a deadline within the next 2 weeks for her to send you said diagrams.
 	<div class="home__floor-diagram">
@@ -78,7 +78,7 @@ Issues: diagrams don't exist. Possible solutions include asking Laura about the 
 		</div>
 	</div>
 	
-7: Makerspace
+7. Makerspace
 Status: fine
 Issues: mostly need to ask Shane and Laura to look it over and make changes as they see fit.
 	<div class="home__makerspace-corner">
@@ -91,7 +91,7 @@ Issues: mostly need to ask Shane and Laura to look it over and make changes as t
 		</div>
 	</div>
 
-8: Spatial Tech
+8. Spatial Tech
 Status: bad
 Issues: no idea what to write or where to get the information. Ask Amanda, and outsource this ASAP. It's not fair for this to get sidelined unintentionally, especially when it's such a big part of what we do.
 NB: urgent issue, since is the one you least know how to solve.
@@ -102,7 +102,7 @@ NB: urgent issue, since is the one you least know how to solve.
 		</div>
 	</div>
 	
-9: Events
+9. Events
 Status: (potentially) fine
 Issues: statement likely needs rewording, and need to ask Zoe, Amanda, and/or Laura on how to actually get the events in here. Also: ask Laura about the 3-5 event categories so can get to work on colorizing. Will also need Zoe's help with tagging process at that point.
 	<div class="home__events">
@@ -110,7 +110,7 @@ Issues: statement likely needs rewording, and need to ask Zoe, Amanda, and/or La
 		<div class="home-events__description">One-time or standing, hands-on workshops and symposiums, a quick intro or community group&mdash;whatever's your flavor, we probably have an event for it. Upcoming events below, or find the full list <a href="#" aria-label="Events page">here</a>.</div>
 	</div>
 
-10: Learning Hub
+10. Learning Hub
 Status: fine
 Issues: page itself doesn't exist, you want to be the one to think through how these are presented and haven't gone through the materials yet. Possible solutions include: Ask Amanda to get together some quick sources on the text thing that she was going to do, then use those + Zoe's sources for networks + yours for CSS to shape what the common elements of these sections are. If there aren't that many common elements, just disclaim on the homepage that the learning process for these is different. Each author should also kind of make an estimate on how long it took them to learn something so that people know what they're in for. (Contextualized and disclaimed as individual experience, of course. Makes nice tie-in to link to the author's origin story, actually.)
 	<div class="home__learn">
@@ -124,7 +124,7 @@ Issues: page itself doesn't exist, you want to be the one to think through how t
 		</div>
 	</div>
 
-11: Listserv
+11. Listserv
 Status: fine
 Issues: ask Laura/Amanda for listserv address and/or how to hook that up to email input; Zoe might also know stuff about the email part. Text needs rewording but isn't urgent.
 	<div class="home__listserv-prompt">
@@ -135,7 +135,7 @@ Issues: ask Laura/Amanda for listserv address and/or how to hook that up to emai
 		</div>
 	</div>
 
-12: People
+12. People
 Status: fine
 Issues: page exists but need title here, text needs rewording
 	<div class="home__people">
@@ -143,7 +143,7 @@ Issues: page exists but need title here, text needs rewording
 		<div class="home-people__content">Like we said, our digital humanities is people. Meet the ones who give this place its soul&mdash;and its abundance of dog memes.<br/><a href="#" aria-label="Link to 'People' page">Find them here.</a></div>
 	</div>
 
-13: Origin Stories
+13. Origin Stories
 Status: fine
 Issues: page itself doesn't exist, description needs rewording. Neither is urgent since isn't integral to the structure of the site.
 	<div class="home__origin-stories">
@@ -151,7 +151,7 @@ Issues: page itself doesn't exist, description needs rewording. Neither is urgen
 		<div class="home-origins__content"><span>"How did you... end up in digital humanities?" </span>We've found that most of our answers are closer to a spiral than a straight line. Insert words about some of us started in history or English or econ and tumbled from there, and it's relevant because you the user might be nervous that everyone got there in a straight line. Give a couple of <a href="#">funny hints</a> about anecdotes that link to <a href="#">specific people's</a> pages. Check out the full round-up <a href="#">here</a>.</div>
 	</div>
 
-14: Blog
+14. Blog
 Status: bad
 Issues: see: everything I wrote on the "Events" section (#9), and need to determine appropriate preview for posts. Tagging system also applies here and I can't remember whom I've talked about that with, so clear that up with Amanda and Laura ASAP.
 	<div class="home__blog">
@@ -159,7 +159,7 @@ Issues: see: everything I wrote on the "Events" section (#9), and need to determ
 		<div class="home-blog__content">Preview a few recent posts here. <a href="#" aria-label="Blog home">Check out</a> what we're writing about/thinking/doing.</div>
 	</div>
 
-15: Staff Project
+15. Staff Project
 Status: fine
 Issues: page itself doesn't exist, but isn't urgent and will be one of the last things created for the site. We can go live without this section existing yet. Prioritize finishing integral sections before starting this one, unless something ends up dovetailing.
 	<div class="home__staffer-projects">
@@ -167,7 +167,7 @@ Issues: page itself doesn't exist, but isn't urgent and will be one of the last 
 		<div class="home-projects__content"><span>See what our staff is passionate about.</span><a href="#" aria-label="Staffer projects home">Insert link words.</a></div>
 	</div>
 
-16: Contact Us IRL
+16. Contact Us IRL
 Status: bad
 Issues: should this be different than the first one? In what way? Boils down to same issues as first contact section (#3), in that we don't have established links/forms for given situations, nor have we decided that a one-size-fits-all solution is best. Need to figure out ASAP.
 	<div class="home__contact--2" title="SLab casual: just shirt, shoes, & curiosity required">
@@ -175,7 +175,7 @@ Issues: should this be different than the first one? In what way? Boils down to 
 		<div class="home-contact2__content">Come set up a <a href="#">consultation</a> with us. Very casual. Something something if you have a project and wanna fit DH into it, or something something no pressure other reason. <span>Just fill out the form found <a href="#">here</a>.</div>
 	</div>
 	
-17: Charter
+17. Charter
 Status: fine
 Issues: description needs rewording, but otherwise is good. High priority because fix is so easy. Ask Amanda to do ASAP this week.
 	<div class="home__charter-link">
@@ -183,7 +183,7 @@ Issues: description needs rewording, but otherwise is good. High priority becaus
 		<div class="home-charter__content">Link to <a href="#">charter</a>. Sets out mission and intention explicitly.</div>
 	</div>
 
-18: Colophon
+18. Colophon
 Status: surface = bad; core = fine
 Issues: need to figure out ASAP if this is still what we want this section called, and get history on why it's called that in the first place since this is usually a thing for books. It's important to have a credits section so I want to work out what goes in here and what the title is by the end of next week (2/5-2/9).
 	<div class="home__colophon">
