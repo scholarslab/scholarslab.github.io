@@ -4,6 +4,13 @@
 Repo for stuff related to ScholarsLab.org upgrade &amp; static site
 migration.
 
+# Table of Contents
+
+1. [Requirements](#requirements)
+2. [Getting Started](#getting-started)
+3. [Managing Site Content](#managing-site-content)
+4. [Contributing to the Project](#contributing-to-the-project)
+
 There's [a wiki page](https://github.com/scholarslab/scholarslab.org/wiki/Rando-Ideas) if you have ideas/thoughts that don't fit well as issues.
 
 ## Requirements
