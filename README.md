@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/scholarslab/scholarslab.org.svg?branch=master)](https://travis-ci.org/scholarslab/scholarslab.org)
 
-# scholarslab.org
-Repo for stuff related to ScholarsLab.org upgrade &amp; static site
+Repo for stuff related to **ScholarsLab.org** upgrade &amp; static site
 migration.
 
 # Table of Contents
@@ -10,8 +9,6 @@ migration.
 2. [Getting Started](#getting-started)
 3. [Managing Site Content](#managing-site-content)
 4. [Contributing to the Project](#contributing-to-the-project)
-
-There's [a wiki page](https://github.com/scholarslab/scholarslab.org/wiki/Rando-Ideas) if you have ideas/thoughts that don't fit well as issues.
 
 ## Requirements
 
@@ -70,6 +67,16 @@ rake new_post["The name of your project goes here"]
 
 ## Contributing to the Project
 
-We use [Issues](https://github.com/scholarslab/scholarslab.org/issues) for bug reports and feature requests and such. If you find a problem with the site or thing we should add something new, please share it in an issue!
+### Contribution Guidelines
+
+* See our [Documentation](docs/README.md) section for instructions on contributing, style guides, and other miscellaneous documentation about the project.
+
+### Issues
+
+* We use [Issues](https://github.com/scholarslab/scholarslab.org/issues) for bug reports and feature requests and such. If you find a problem with the site or thing we should add something new, please share it in an issue!
+
+### Wiki
+
+* There's [a wiki page](https://github.com/scholarslab/scholarslab.org/wiki/Rando-Ideas) if you have ideas/thoughts that don't fit well as issues.
 
 [...]
