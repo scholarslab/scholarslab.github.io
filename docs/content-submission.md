@@ -27,4 +27,4 @@
 
 This format means that it's easy to search the HTML file for the word "content" to see if there are any new edits *while* you have the file open (versus only having that ability through Git/Github). [Insert description of how weekly SOTU updates will work in relation to this. Basically this means I can paste updates into the SOTU thing and update any remaining issues with it. Searchability of edits makes sure I don't miss anything. -KBD]
 
-**4.** If editing lots of sections at once, leave at least one comment just so that the word "content" is in the document, and leave a comment anywhere there are remaining issues with a section.
+**4.** If editing lots of sections at once, leave at least one comment just so that the word "content" is in the document. Additionally, leave a separate comment above any section you edited where there are remaining issues.
