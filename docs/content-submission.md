@@ -17,7 +17,6 @@
 **2.** Edit the file or file section you're working on. Go wild. Restructure HTML inside of section if needed, etc.
 
 **3.** Within file, directly above your edits, leave a comment using the following format:
-
 	```html
 	<!-- content
 		 author: <your name>
