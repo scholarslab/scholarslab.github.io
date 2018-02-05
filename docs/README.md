@@ -7,4 +7,4 @@ Should house: style guides, process guides, notes to future selves.
 * [Contributing written content](content-submission.md)
 * [Contributing visual styles](css-submission.md)
 
-If there's something missing that you'd like to see here, please add it to our [Issues][../issues] page.
+If there's something missing that you'd like to see here, please add it to our [Issues](../issues) page.
