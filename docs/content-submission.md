@@ -7,7 +7,7 @@
 
 * This process should be roughly the same for *pre-existing pages* whose content changes significantly (e.g. Home) and *newly-created pages* whose content will be constructed from scratch (e.g. Origin Stories).
 
-* Minor edits on pre-existing pages probably doesn't need to go through this, but that's just spitballing on KBD's part right now.
+* Minor edits on pre-existing pages probably don't need to go through this, but that's just spitballing on KBD's part right now.
 
 
 ## Okay, let's go:
