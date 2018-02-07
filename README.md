@@ -94,7 +94,7 @@ rake new_post["The name of your project goes here"]
 
 * See our [documentation](docs/README.md) section for instructions on contributing, style guides, and other miscellaneous documentation about the project. 
 
-* **NB:** This documentation mostly covers one-time contributions, like language changes on the homepage of the site. Instructions for frequently-repeated actions, like creating new posts, can be found above.
+* *NB: This documentation mostly covers one-time contributions, like language changes on the homepage of the site. Instructions for frequently-repeated actions, like creating new posts, can be found above.*
 
 ### Submitting Issues
 
