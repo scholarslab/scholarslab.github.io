@@ -1,11 +1,10 @@
-## Scholarslab.org Site Migration
+[![Build Status](https://travis-ci.org/scholarslab/scholarslab.org.svg?branch=master)](https://travis-ci.org/scholarslab/scholarslab.org)
+# Scholarslab.org Site Migration
 
 Repo for stuff related to ScholarsLab.org upgrade &amp; static site
 migration.
 
-* Build status: [![Build Status](https://travis-ci.org/scholarslab/scholarslab.org.svg?branch=master)](https://travis-ci.org/scholarslab/scholarslab.org)
-
-* If you find a problem with the site or something new we should add, please share it on our [Issues page](https://github.com/scholarslab/scholarslab.org/issues)!
+* If you find a problem with the site or something new we should add, please add it to our [Issues page](https://github.com/scholarslab/scholarslab.org/issues).
 
 ## Table of Contents
 
@@ -15,11 +14,11 @@ migration.
 	* [Building the Site](#building-the-site)
 2. [Managing Site Content](#managing-site-content)
 3. [Contribution Guidelines](#contribution-guidelines)
-	* [Documentation](#documentation)
+	* [Instructions and Documentation](#instructions-and-documentation)
 	* [Submitting Issues](#submitting-issues)
 	* [Using the Wiki](#using-the-wiki)
 
-## 1. Getting Started
+## Getting Started
 
 How to get the site up and running on your computer.
 
@@ -67,7 +66,7 @@ bundle exec jekyll serve --watch
 
 The site should build, and be locally accessible at [http://localhost:4000](http://localhost:4000).
 
-## 2. Managing Site Content
+## Managing Site Content
 
 The project includes several Rake tasks for creating new content.
 
@@ -89,9 +88,9 @@ rake new_post["Brandon's best blog post ever","Brandon Walsh"]
 rake new_post["The name of your project goes here"]
 ```
 
-## 3. Contribution Guidelines
+## Contribution Guidelines
 
-### Documentation
+### Instructions and Documentation
 
 * See our [documentation](docs/README.md) section for instructions on contributing, style guides, and other miscellaneous documentation about the project. 
 
