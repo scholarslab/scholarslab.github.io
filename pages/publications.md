@@ -4,7 +4,7 @@ comments: false
 date: 2008-08-05 19:30:50+00:00
 layout: page
 link: http://scholarslab.org/publications
-slug: publications
+permalink: /publications/
 title: Publications
 ---
 

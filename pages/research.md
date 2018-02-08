@@ -2,7 +2,7 @@
 comments: false
 layout: research
 link: /research
-slug: research
+permalink: /research/
 title: Research
 ---
 <div id="lab-grid">

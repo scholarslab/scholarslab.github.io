@@ -4,7 +4,7 @@ comments: true
 date: 2014-09-02 13:00:49+00:00
 layout: page
 link: http://scholarslab.org/about/colophon/
-slug: colophon
+permalink: /colophon/
 title: Colophon
 wordpress_id: 9066
 ---

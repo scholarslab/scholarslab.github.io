@@ -4,7 +4,7 @@ comments: true
 date: 2014-09-02 13:13:58+00:00
 layout: page
 link: http://scholarslab.org/about/accessibility/
-slug: accessibility
+permalink: /accessibility/
 title: Accessibility
 wordpress_id: 10863
 ---
