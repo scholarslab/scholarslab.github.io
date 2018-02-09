@@ -4,11 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-
+  
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Open+Sans:200,400,700|Raleway:200,400,700|Inconsolata:400,700" rel="stylesheet">
-  <link rel="stylesheet" href="{{ "styles.css" | relative_url }}">
+  <link href="https://fonts.googleapis.com/icon?family=Raleway:200,400,700,900|Montserrat:200,400,700|Oswald:200,400,600|Inconsolata:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 

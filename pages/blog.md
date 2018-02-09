@@ -2,7 +2,7 @@
 comments: false
 layout: page
 link: http://scholarslab.org/blog/
-slug: blog
+permalink: /blog/
 title: Blog
 ---
 

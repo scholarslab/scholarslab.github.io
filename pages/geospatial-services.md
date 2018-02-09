@@ -4,7 +4,7 @@ comments: true
 date: 2014-09-02 13:53:58+00:00
 layout: page
 link: http://scholarslab.org/geospatial-services/
-slug: geospatial-services
+permalink: /geospatial-services/
 title: Geospatial Services
 wordpress_id: 10917
 ---

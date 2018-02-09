@@ -2,7 +2,7 @@
 comments: false
 layout: page
 link: /people
-slug: People
+permalink: /people/
 title: People
 ---
 

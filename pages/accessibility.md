@@ -4,12 +4,12 @@ comments: true
 date: 2014-09-02 13:13:58+00:00
 layout: page
 link: http://scholarslab.org/about/accessibility/
-slug: accessibility
+permalink: /accessibility/
 title: Accessibility
 wordpress_id: 10863
 ---
 
-As our Scholars' Lab [charter](/about/charter/) indicates, we are committed to making our projects and spaces accessible—in all meanings of that word—for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can—and should—always be improved.
+As our Scholars' Lab [charter](/charter) indicates, we are committed to making our projects and spaces accessible—in all meanings of that word—for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can—and should—always be improved.
 
 We strive to make our the built environment of the Scholars' Lab pleasant, easy to access, and [ADA-compliant](http://www.ada.gov/). Please [write to us](mailto:scholarslab@virginia.edu) with suggestions for improvements.
 

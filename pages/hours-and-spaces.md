@@ -4,7 +4,7 @@ comments: true
 date: 2012-10-04 20:51:00+00:00
 layout: page
 link: http://scholarslab.org/about/hours-and-spaces/
-slug: hours-and-spaces
+permalink: /hours-and-spaces/
 title: Hours and Spaces
 wordpress_id: 6272
 ---

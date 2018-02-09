@@ -3,16 +3,16 @@ author: admin
 comments: false
 date: 2008-08-05 19:30:50+00:00
 layout: page
-link: http://scholarslab.org/publications
-slug: publications
-title: Publications
+link: http://scholarslab.org/events
+permalink: /events/
+title: Events
 ---
 
-For any instances of making scholarship public: print or digital publications, presentations, tweet threads, blog posts, etc.
+Current and past events hosted, sponsored, or partnered on by the Scholars' Lab.
 
 <div id="lab-grid">
-{% for page in site.publications %}
-  <section><a href="{{ site.url }}/publications/{{ page.slug }}"><img src="{{ site.url }}/assets/images/{{ page.slug }}.png">{{ page.title }}</a></section>
+{% for page in site.events %}
+  <section><a href="{{ site.url }}/events/{{ page.slug }}"><img src="{{ site.url }}/assets/images/{{ page.slug }}.png">{{ page.title }}</a></section>
 {% endfor %}
 
  <section>
