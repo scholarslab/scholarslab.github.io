@@ -4,7 +4,7 @@ comments: true
 date: 2014-08-26 19:45:04+00:00
 layout: page
 link: http://scholarslab.org/about/charter/
-slug: charter
+permalink: /charter/
 title: Charter
 wordpress_id: 10571
 ---

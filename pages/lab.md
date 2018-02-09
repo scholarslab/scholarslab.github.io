@@ -4,7 +4,7 @@ comments: false
 date: 2008-08-05 19:30:50+00:00
 layout: research
 link: http://scholarslab.org/lab
-slug: lab
+permalink: /lab/
 title: Lab
 ---
 <div class="research-intro">This is a page for proofs of concept, prototypes, silly work to learn scholarly methods, and other experimental research that doesn't quite fit <a href="{{ site.url }}/research">our formal Research page</a>.</div>

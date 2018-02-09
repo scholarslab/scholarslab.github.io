@@ -3,7 +3,7 @@ author: jeremy
 comments: true
 date: 2014-05-07 14:58:08+00:00
 layout: page
-permalink: /makerspace
+permalink: /makerspace/
 slug: makerspace
 title: Makerspace
 wordpress_id: 10129
