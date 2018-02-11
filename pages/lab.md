@@ -13,7 +13,7 @@ title: Lab
 {% for page in site.lab %}
 <div class="project">
 <a href="{{ site.url }}/lab/{{ page.slug }}">
-<img src="{{ site.url }}/assets/images/example.png">
+<img src="{{ site.url }}/assets/img/example.png">
 <div class="research-caption">
 {{ page.title }}
 </div>
