@@ -45,6 +45,6 @@ exclude: [vendor]
 
 defaults:
   - scope:
-      path: "assets/images"
+      path: "assets/img"
     values:
       image: true

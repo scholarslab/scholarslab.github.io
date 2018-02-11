@@ -12,7 +12,7 @@ For any instances of making scholarship public: print or digital publications, p
 
 <div id="lab-grid">
 {% for page in site.publications %}
-  <section><a href="{{ site.url }}/publications/{{ page.slug }}"><img src="{{ site.url }}/assets/images/{{ page.slug }}.png">{{ page.title }}</a></section>
+  <section><a href="{{ site.url }}/publications/{{ page.slug }}"><img src="{{ site.url }}/assets/img/{{ page.slug }}.png">{{ page.title }}</a></section>
 {% endfor %}
 
  <section>
