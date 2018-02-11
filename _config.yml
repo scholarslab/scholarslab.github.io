@@ -13,7 +13,7 @@ permalink: /:year/:month/:day/:title/
 # Build settings
 incremental: true
 sass:
-  sass_dir: _sass
+  sass_dir: assets/css/_sass
   style: expanded # temporary! change back to compressed later
 markdown: kramdown
 plugins:
