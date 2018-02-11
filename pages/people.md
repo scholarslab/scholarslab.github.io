@@ -15,7 +15,7 @@ title: People
   <a href="{{ site.url }}/people/{{ person.slug }}">
     {% assign profile_pictures = site.static_files | where: "basename",person.slug | limit: 1 %}
     {% if profile_pictures == empty %}
-        <div class="image"><img src="{{ site.baseurl }}/assets/images/scholarslab.png" alt="Scholars' Lab Lab"></div>
+        <div class="image"><img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab"></div>
     {% else %}
         {% for profile_picture in profile_pictures %}
           <div class="image"><img src="{{ profile_picture.path }}" alt="{{ person.name }}"></div>

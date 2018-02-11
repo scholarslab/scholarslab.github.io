@@ -12,7 +12,7 @@ Current and past events hosted, sponsored, or partnered on by the Scholars' Lab.
 
 <div id="lab-grid">
 {% for page in site.events %}
-  <section><a href="{{ site.url }}/events/{{ page.slug }}"><img src="{{ site.url }}/assets/images/{{ page.slug }}.png">{{ page.title }}</a></section>
+  <section><a href="{{ site.url }}/events/{{ page.slug }}"><img src="{{ site.url }}/assets/img/{{ page.slug }}.png">{{ page.title }}</a></section>
 {% endfor %}
 
  <section>
