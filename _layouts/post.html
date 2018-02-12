@@ -31,7 +31,7 @@ layout: default
       {% assign author_categories = author.people-category | join: "," %}
       {% for image in site.static_files %}
         {% if image.path contains page.author %}
-            <div class="person-image"><img src="{{ site.baseurl }}/assets/images/{{ page.author }}.jpg" alt="{{ author.name }}"></div>
+            <div class="person-image"><img src="{{ site.baseurl }}/assets/img/people/{{ page.author }}.jpg" alt="{{ author.name }}"></div>
         {% endif %}
       {% endfor %}
       <p><a href="{{ site.baseurl }}/people/{{page.author}}/">
@@ -43,7 +43,7 @@ layout: default
 <p>Cite this post: {{ author.name }}. "{{ page.title }}". Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</p>
     {% endfor %}
     {% if authors == empty %}
-        <div class="person-image"><img src="{{ site.baseurl }}/assets/images/scholarslab.png" alt="Scholars' Lab Lab"></div>
+        <div class="person-image"><img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab"></div>
         <p>Cite this post:
             {% assign author = page.author | split: '-' %}
             {% for name in author %}
