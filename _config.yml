@@ -32,6 +32,9 @@ collections:
   lab:
     output: true
     permalink: /:collection/:name/
+  starter-kits:
+    output: true
+    permalink: /:collection/:name/
 
 header_pages:
   - about.md
