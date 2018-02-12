@@ -28,6 +28,7 @@ How to get the site up and running on your computer.
 	* OSX: Install/manage using [Ruby Version Manager](https://rvm.io/)
 	* Windows: Install/manage using [Uru](https://bitbucket.org/jonforums/uru/wiki/Downloads)
 - [Bundler](https://bundler.io/)
+- [NPM](https://nodejs.org/en/)
 
 *NB for Windows folks:* Uru is unzipped using 7-Zip, which can be downloaded [here](http://www.7-zip.org/download.html). If you're in a hurry, here's the executable for [version 16.04](http://www.7-zip.org/a/7z1604-x64.exe). Additionally, this [article](https://www.neverletdown.net/2015/08/managing-multiple-ruby-versions-with-uru.html) is a great explainer on how to use Uru effectively, including command line instructions.
 
