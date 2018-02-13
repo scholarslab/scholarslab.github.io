@@ -100,7 +100,3 @@ rake new_post["The name of your project goes here"]
 ### Submitting Issues
 
 * We use [Issues](https://github.com/scholarslab/scholarslab.org/issues) for bug reports and feature requests and such. If you find a problem with the site or thing we should add something new, please share it in an issue!
-
-### Using the Wiki
-
-* There's [a wiki page](https://github.com/scholarslab/scholarslab.org/wiki/Rando-Ideas) if you have ideas/thoughts that don't fit well as issues.
