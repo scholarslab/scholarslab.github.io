@@ -1,7 +1,7 @@
 ---
 collaborators: ''
 layout: research
-permalink: \networks
+# permalink: \networks
 slug: networks
 title: Networks and Network Analysis
 ---
