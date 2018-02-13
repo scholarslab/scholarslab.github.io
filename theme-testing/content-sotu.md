@@ -20,8 +20,7 @@ Notes:
 	</div>
 	```
 2. FAQ
-* Status: fine
-* Issues: page itself doesn't exist, questions need rewording
+* Status: good
 	```html
 	<div class="home__faq">
 		<div class="home-faq__title">Frequently Asked Questions</div>
@@ -49,33 +48,30 @@ Content needed: contact form. We need to have a meeting about what specific ways
 	```
 
 4. Graduate Hub
-* Status: bad
-* Issues: need title of page and written content from Brandon. Should be upgraded from "bad" to "fine/good" by Wednesday (2/7).
+* Status: good
 	```html
 	<div class="home__grads">
-		<div class="home-grads__title">Opportunities for Graduate Students</div>
+		<div class="home-grads__title">Student Opportunities</div>
 		<div class="home-grads__content">
-			<div class="home-grads__subtitle">One of our primary missions is to support the work of emerging scholars and digital humanities practitioners&mdash;particularly UVa graduate students. Something about variety of opportunities, or whatever Brandon ends up writing. This section explores all the opportunities we offer to graduate students, from our fancy <a href="#">Praxis Program</a> to <a href="#">fellowships</a> I don't know all the names of.</div>
-			<div class="home-grads__cta"><a href="#">Grad Opportunities Home</a></div>
+			<div class="home-grads__subtitle">One of our primary missions is to support the work of emerging scholars and digital humanities practitioners&mdash;particularly UVa graduate students. We offer a variety of fellowships and opportunities to this end, which collectively aim to support graduate students during the full measure of their time at UVA. From the innovative <a href="praxis.scholarslab.org">Praxis Program</a> to professionalization training for students on the DH job market, we're here to help whether you're looking to answer a specific call for applications or simply looking to discuss your research.</div>
+			<div class="home-grads__cta"><a href="#">Student Opportunities Home</a></div>
 		</div>
 	</div>
 	```
 	
 5. Office Hours
-* Status: fine
-* Issues: vital information is there, but need a sentence describing the purpose of the office hours. Best solution is to ask Amanda or Laura to literally write down a sentence for me, probably just over Slack.
-NB: this is high priority since it's so easy.
+* Status: good
 	```html
 	<div class="home__office-hours">
 		<div class="home-hours__title">Open Office Hours</div>
-		<div class="home-hours__when">Every Monday, 10am-11:30am.</div>
-		<div class="home-hours__info">Located in the Scholars' Lab Common Room. Description, note of diagram for where that is, come talk about dogs. (See diagram for where we are!)</div>
+		<div class="home-hours__when">Every Monday during fall and spring term, 10am-11:30am.</div>
+		<div class="home-hours__info">Stop by the discussion area just inside the Scholars' Lab Common Room to chat with our DH experts about your ideas, from your earliest questions and broad ideas through formal projects. (See diagram for where we are!)</div>
 	</div>
 	```
 
 6. Floor Diagrams
-* Status: bad
-* Issues: diagrams don't exist. Possible solutions include asking Laura about the next time Beth will be in; if it's not for a while, message her on Slack and work out a deadline within the next 2 weeks for her to send you said diagrams.
+* Status: bad right now, fine once KBD puts Beth's diagram in, good once have final diagram
+* Issues:  basic floor diagram now exists! KBD needs to look it over and get back to Beth about making any additional ones, if we want one to label where office hours are or something.
 	```html
 	<div class="home__floor-diagram">
 		<div class="home-diagram__title">Our Spaces: A Diagram</div>
@@ -93,8 +89,8 @@ NB: this is high priority since it's so easy.
 	<div class="home__makerspace-corner">
 		<div class="home-makerspace__title">Makerspace</div>
 		<div class="home-makerspace__content">
-			<div class="home-makerspace__text"><!--Insert short description, a pic, and event preview, or whatever @Shane et al. find useful-->The Scholars’ Lab Makerspace is a place for tinkering and experimentation with technologies like desktop fabrication, physical computing, and augmented reality. Open to everyone, we specialize in applications and research questions in the humanities and arts.
-			Find things like 3-D printing, wearable technologies, physical computing, & more.</div>
+			<div class="home-makerspace__text"><!-- Insert short description, a pic, and event preview, or whatever @Shane et al. find useful -->The Scholars’ Lab Makerspace is a place for tinkering and experimentation with technologies like desktop fabrication, physical computing, and augmented reality. Open to everyone, we specialize in applications and research questions in the humanities and arts.
+			Find things like 3-D printing, wearable technologies, physical computing, & more at our space <a href="#">in the middle of the Scholars' Lab Common Area</a>.</div>
 			<div class="home-makerspace__hours"><span>Staffed Hours:</span>Mondays: 1-7pm<br/>Tuesdays: 1-9pm<br/>Wednesday: 1-7pm<br/>Thursday: 1-9pm<br/>Friday: 1-5pm</div>
 			<div class="home-makerspace__cta"><a href="#">Makerspace Home</a></div>
 		</div>
@@ -102,50 +98,51 @@ NB: this is high priority since it's so easy.
 	```
 
 8. Spatial Tech
-* Status: bad
-* Issues: no idea what to write or where to get the information. Ask Amanda, and outsource this ASAP. It's not fair for this to get sidelined unintentionally, especially when it's such a big part of what we do.
-NB: urgent issue, since is the one you least know how to solve.
+* Status: here = good, page itself = bad
+* Issues: KBD should change class name, page doesn't exist in final form (merging GIS + AR/VR/etc) yet
 	```html
 	<div class="home__gis-corner">
 		<div class="home-gis__title">Spatial Technologies</div>
 		<div class="home-makesrpace__content">
-			<div><strong>Who should do this part?</strong>Insert short description, a pic, and event preview, or whatever @Will/Arin/Drew/Chris et al. find useful. GIS, VR/AR, 3-D modeling, other things?</div>
+			<div><strong>Experts at thinking about space+time.</strong>We've got experts in GIS and other mapping approaches (including our own Neatline project for telling stories that combine timelines+maps), cultural heritage informatics, augmented reality, virtual reality, 3D modeling, photogrammetry and scanning, aerial footage, and more (e.g. workshops, job opportunities, internships)Insert short description, a pic, and event preview, or whatever @Will/Arin/Drew/Chris et al. find useful here; update list of stuff supported above to be accurate.</div>
 		</div>
 	</div>
 	```
 	
 9. Events
-* Status: (potentially) fine
-* Issues: statement likely needs rewording, and need to ask Zoe, Amanda, and/or Laura on how to actually get the events in here. Also: ask Laura about the 3-5 event categories so can get to work on colorizing. Will also need Zoe's help with tagging process at that point.
+* Status: fine (wording = good, event preview = bad)
+* Issues: need to ask Zoe, Amanda, and/or Laura on how to actually get the events in here. Also: ask Laura about the 3-5 event categories so can get to work on colorizing
 	```html
 	<div class="home__events">
 		<div class="home-events__title">Events</div>
-		<div class="home-events__description">One-time or standing, hands-on workshops and symposiums, a quick intro or community group&mdash;whatever's your flavor, we probably have an event for it. Upcoming events below, or find the full list <a href="#" aria-label="Events page">here</a>.</div>
+		<div class="home-events__description">One-time or regular, hands-on workshops and discussion-rich symposia, a quick intro or community group&mdash;whatever your flavor, we probably have an event for it. Upcoming events below, or find the full list <a href="#" aria-label="Events page">here</a>.</div>
+		<!-- insert div previewing some events -->
 	</div>
 	```
 
 10. Learning Hub
 * Status: fine
-* Issues: page itself doesn't exist, you want to be the one to think through how these are presented and haven't gone through the materials yet. Possible solutions include: Ask Amanda to get together some quick sources on the text thing that she was going to do, then use those + Zoe's sources for networks + yours for CSS to shape what the common elements of these sections are. If there aren't that many common elements, just disclaim on the homepage that the learning process for these is different. Each author should also kind of make an estimate on how long it took them to learn something so that people know what they're in for. (Contextualized and disclaimed as individual experience, of course. Makes nice tie-in to link to the author's origin story, actually.)
+* Issues: page itself doesn't exist, you want to be the one to think through how these are presented and haven't gone through the materials yet. Use Amanda's text analysis + Zoe's network outlines + yours for CSS to shape what the common elements of these sections are. If there aren't that many common elements, just disclaim on the homepage that the learning process for these is different. Each author should also kind of make an estimate on how long it took them to learn something so that people know what they're in for. (Contextualized and disclaimed as individual experience, of course. Makes nice tie-in to link to the author's origin story, actually.)
 	```html
 	<div class="home__learn">
 		<div class="home-learn__title">Learning Resources: Our Starter Kits</div>
-		<div class="home-learn__content">Insert description of why these exist, and why you might wanna use them. Maybe you don't even know you're interested in DH yet, or want to check out the basics of web design before you come talk to us. Curated by our in-house experts on each topic.</div>
+		<div class="home-learn__content">Starter kits contain example projects, novice-friendly explainers and tutorials, and other hints for dipping your toes into a DH method or figuring out what method you want to learn. Maybe you don't even know you're interested in DH yet, or want to check out the basics of mapping or web design before you come talk to us. Curated by our in-house experts on each topic.</div>
 		<div class="home-learn__links">
-			<a href="#">Links to a couple of topics here</a>
-			<div class="home-learn__link--1">topic 1 box</div>
-			<div class="home-learn__link--2">topic 1 box</div>
-			<div class="home-learn__link--3">topic 1 box</div>
+			<a href="#">Peruse all starter kits</a> or check out our most popular resources:
+			<div class="home-learn__link--1">What are networks and why might I care?</div>
+			<div class="home-learn__link--2">Sustainable web projects</div>
+			<div class="home-learn__link--3">Getting the text for your digital text project</div>
+			<div class="home-learn__link--4">You can also <a href="#">request a starter kit</a> around a topic we haven't covered yet.</div>
 		</div>
 	</div>
 	```
 
 11. Listserv
 * Status: fine
-* Issues: ask Laura/Amanda for listserv address and/or how to hook that up to email input; Zoe might also know stuff about the email part. Text needs rewording but isn't urgent.
+* Issues: ask Laura/Amanda for listserv address and/or how to hook that up to email input; Zoe might also know stuff about the email part.
 	```html
 	<div class="home__listserv-prompt">
-		<div class="home-listserv__title" title="Also maybe dogs">Keep up with what we're doing. We'll only send you cool stuff.</div>
+		<div class="home-listserv__title" title="Also maybe dogs">Keep up with what we're doing. We'll only send you cool stuff about upcoming events and workshops, grants, and opportunities for collaboration or paid apprenticeships.</div>
 		<div class="home-listserv__content">
 			<div class="home-listserv__input">< insert input tag for entering email ></div>
 			<button class="home-listserv__btn">Keep me in the loop</button>
@@ -154,22 +151,21 @@ NB: urgent issue, since is the one you least know how to solve.
 	```
 
 12. People
-* Status: fine
-* Issues: page exists but need title here, text needs rewording
+* Status: good
 	```html
 	<div class="home__people">
 		<div class="home-people__title">Our People</div>
-		<div class="home-people__content">Like we said, our digital humanities is people. Meet the ones who give this place its soul&mdash;and its abundance of dog memes.<br/><a href="#" aria-label="Link to 'People' page">Find them here.</a></div>
+		<div class="home-people__content">Like we said, our digital humanities is people. Meet the folks who give this place its soul&mdash;and its abundance of dog memes.<br/><a href="#" aria-label="Link to 'People' page">Find them here.</a></div>
 	</div>
 	```
 
 13. Origin Stories
-* Status: fine
-* Issues: page itself doesn't exist, description needs rewording. Neither is urgent since isn't integral to the structure of the site.
+* Status: here = good, page itself = bad
+* Issues: page itself doesn't exist
 	```html
 	<div class="home__origin-stories">
 		<div class="home-origins__title">Origin Stories</div>
-		<div class="home-origins__content"><span>"How did you... end up in digital humanities?" </span>We've found that most of our answers are closer to a spiral than a straight line. Insert words about some of us started in history or English or econ and tumbled from there, and it's relevant because you the user might be nervous that everyone got there in a straight line. Give a couple of <a href="#">funny hints</a> about anecdotes that link to <a href="#">specific people's</a> pages. Check out the full round-up <a href="#">here</a>.</div>
+		<div class="home-origins__content"><span>"How did you... end up in digital humanities?" </span>Most of our answers are closer to a spiral than a straight line. Insert words about some of us started in history or English or econ and tumbled from there, and it's relevant because you the user might be nervous that everyone got there in a straight line. Give a couple of <a href="#">funny hints</a> about anecdotes that link to <a href="#">specific people's</a> pages. Check out the full round-up <a href="#">here</a>.</div>
 	</div>
 	```
 
@@ -204,12 +200,11 @@ NB: urgent issue, since is the one you least know how to solve.
 	```
 	
 17. Charter
-* Status: fine
-* Issues: description needs rewording, but otherwise is good. High priority because fix is so easy. Ask Amanda to do ASAP this week.
+* Status: good
 	```html
 	<div class="home__charter-link">
 		<div class="home-charter__title">Our Charter</div>
-		<div class="home-charter__content">Link to <a href="#">charter</a>. Sets out mission and intention explicitly.</div>
+		<div class="home-charter__content">We do our best to put action into <a href="#">our values</a>, but we can always do better. Read about our mission and help us shape the digital humanities we want to see.</div>
 	</div>
 	```
 
@@ -219,6 +214,6 @@ NB: urgent issue, since is the one you least know how to solve.
 	```html
 	<div class="home__colophon">
 		<div class="home-colophon__title">Colophon</div>
-		<div class="home-colophon__content" title="Ingredients, one might say...">How the <s>sausage</s>, er, website, gets made. We're pretty proud of the <a href="#" aria-label="Colophon page">ingredients.</a></div>
+		<div class="home-colophon__content" title="Ingredients, one might say...">How the <s>sausage</s>, (er, website) gets made. We're pretty proud of the <a href="#" aria-label="Colophon page">ingredients.</a></div>
 	</div>
 	```
