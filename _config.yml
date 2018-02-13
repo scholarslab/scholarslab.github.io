@@ -23,6 +23,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - docs
 collections:
   people:
     output: true
