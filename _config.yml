@@ -22,6 +22,8 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - docs
 collections:
   people:
     output: true
@@ -32,6 +34,9 @@ collections:
   lab:
     output: true
     permalink: /:collection/:name/
+  starter-kits:
+    output: true
+    permalink: /:collection/:name/
 
 header_pages:
   - about.md
@@ -40,8 +45,6 @@ header_pages:
   - research.md
   - lab.md
   - search.html
-
-exclude: [vendor]
 
 defaults:
   - scope:
