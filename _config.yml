@@ -22,6 +22,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 collections:
   people:
     output: true
@@ -43,8 +44,6 @@ header_pages:
   - research.md
   - lab.md
   - search.html
-
-exclude: [vendor]
 
 defaults:
   - scope:
