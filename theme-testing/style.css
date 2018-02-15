@@ -148,10 +148,6 @@ body {
     font-weight: 700; }
   .home-hero__text .if-big {
     display: none !important; }
-  @media screen and (min-width: 600px) {
-    .home-hero__text {
-      margin-left: 8.33%;
-      margin-right: 8.33%; } }
 
 /* Contact prompt: */
 .home__contact--1 {
