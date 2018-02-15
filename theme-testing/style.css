@@ -60,7 +60,6 @@ body {
   padding: 0;
   font-family: "Raleway", sans-serif; }
 
-/* Background colors: */
 .home-landing-grid {
   position: relative;
   display: grid;
@@ -122,7 +121,11 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-areas: "hero hero" "faq contact" "faq grads" "hours floor" "make gis" "learn learn" "events events" "blog contact2" "blog listserv"						  "people projects" "origins origins"			  "charter colophon";
-  grid-auto-rows: minmax(25vh, auto); }
+  grid-auto-rows: minmax(25vh, auto);
+  padding: 0 4.167%; }
+  @media screen and (min-width: 600px) {
+    .home-main-content {
+      padding: 0 8.33%; } }
 
 /* All section titles: */
 [class*="__title"] {
@@ -135,22 +138,7 @@ body {
   margin-bottom: 1em;
   line-height: 1; }
 
-.home-hero__title {
-  position: relative;
-  font-weight: 200;
-  color: black;
-  /* all titles are red rn */
-  margin-left: 4.167%;
-  margin-right: 4.167%;
-  margin-bottom: 1em; }
-  @media screen and (min-width: 600px) {
-    .home-hero__title {
-      margin-left: 8.33%;
-      margin-right: 8.33%; } }
-
 .home-hero__text {
-  margin-left: 4.167%;
-  margin-right: 4.167%;
   font-size: 1.75rem;
   font-weight: 200;
   line-height: 1; }

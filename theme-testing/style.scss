@@ -11,18 +11,6 @@ body {
 	font-family: "Raleway", sans-serif;
 }
 
-/* Background colors: */
-  $purple:	rgba(127, 0, 255, 1);
- $magenta: 	rgba(255, 0, 255, 1);
- $purple9: 	rgba(127, 0, 255, .9);
- $purple7: 	rgba(127, 0, 255, .7);
- $purple5: 	rgba(127, 0, 255, .5);
- $purple3: 	rgba(127, 0, 255, .3);
-$magenta9: 	rgba(255, 0, 255, .9);
-$magenta7: 	rgba(255, 0, 255, .7);
-$magenta5: 	rgba(255, 0, 255, .5);
-$magenta3: 	rgba(255, 0, 255, .3);
-
 .home-landing-grid {
 	position: relative;
 	display: grid;
@@ -35,7 +23,6 @@ $magenta3: 	rgba(255, 0, 255, .3);
 	@media screen and (min-width: 600px) {
 		padding-left: 8.33%;
 	}
-//	background-image: linear-gradient(to top left, transparent 60%, white 60%, white), url("img/low-poly-white.svg"), linear-gradient(to bottom, rgb(42, 0, 255), $purple 30%, $magenta);
 }
 
 .home-title-wrapper {
@@ -45,9 +32,6 @@ $magenta3: 	rgba(255, 0, 255, .3);
 	font-weight: 600;
 	text-transform: uppercase;
 	line-height: .9;
-//	padding-bottom: .5em;
-	//transform: translate(0, -1em);
-//	color: magenta;
 	.home-title__text {
 		position: relative;
 	}
@@ -107,6 +91,10 @@ $magenta3: 	rgba(255, 0, 255, .3);
 						 "origins origins"			 
 						 "charter colophon";
 	grid-auto-rows: minmax(25vh, auto);
+	padding: 0 4.167%;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+	}
 }
 
 /* All section titles: */
@@ -136,25 +124,9 @@ $magenta3: 	rgba(255, 0, 255, .3);
 	}
 }
 
-.home-hero__title {
-	position: relative;
-//	font-family: "Oswald", sans-serif;
-	font-weight: 200;
-//	text-transform: uppercase;
-	color: black; /* all titles are red rn */
-	margin-left: 4.167%;
-	margin-right: 4.167%;
-	margin-bottom: 1em;
-//	margin-left: 8.33%;
-	@media screen and (min-width: 600px) {
-		margin-left: 8.33%;
-		margin-right: 8.33%;
-	}
-}
-
 .home-hero__text {
-	margin-left: 4.167%;
-	margin-right: 4.167%;
+//	margin-left: 4.167%;
+//	margin-right: 4.167%;
 	font-size: 1.75rem;
 	font-weight: 200;
 	line-height: 1;
