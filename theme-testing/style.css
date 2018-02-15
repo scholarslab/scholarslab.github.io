@@ -217,7 +217,7 @@ body {
     border: 2px solid cyan; }
 
 /* Grad students: */
-.home__grads {
+.home__students {
   grid-area: grads; }
 
 /* Floor diagram: (esp for office hours) */
