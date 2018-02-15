@@ -24,6 +24,6 @@ Mostly Katherine's notes to self.
 - Black
 - Magenta: ```rgba(255,1,254,1)```
 - Cyan: ```rgba(0,255,255,1)```
-- Majorelle Blue: ```rgba(37,34,255,1)```
+- Majorelle Blue: ```rgba(0,47,255,1)```
 
 (Magenta is slightly off because that's apparently what I've been using in Adobe Draw and I'mma be all superstitious about it. Also definitely is not actual Majorelle Blue, but not letting myself get down a rabbit hole of looking up those values and deciding whether it's better than what I'm using!)
