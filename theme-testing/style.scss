@@ -100,30 +100,22 @@ body {
 /* All section titles: */
 
 [class*="__title"] {
+	margin-bottom: .5em;
 	font-family: "Oswald", sans-serif;
-	font-size: 2rem;
+	font-size: 1.75rem;
 	font-weight: 600;
+	line-height: 1;
+	text-transform: uppercase;
+	@media screen and (min-width: 600px) {
+		font-size: 2rem;
+	}
 }
 
 /* Hero: */
 
 .home__hero {
 	grid-area: hero;
-//	justify-self: end;
 	position: relative;
-//	max-width: 900px;
-//	font-size: 1.75rem;
-	margin-bottom: 1em;
-	line-height: 1;
-	@media screen and (min-width: 600px) {
-	//	font-size: 1.5rem;
-	}
-	@media screen and (min-width: 768px) {
-	//	font-size: 2rem;
-	}
-	@media screen and (min-width: 1024px) {
-	//	font-size: 2.5rem;
-	}
 }
 
 .home-hero__text {
@@ -132,24 +124,16 @@ body {
 	font-size: 1.75rem;
 	font-weight: 200;
 	line-height: 1;
-//	font-family: "Oswald"; // "Inconsolata";
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+//	border-bottom: 3px solid magenta;
 	span {
-	//x	display: block;
 		font-weight: 700;
-	//	font-family: "Raleway";
-	}
-	.if-big {
-		display: none !important;
 	}
 	@media screen and (min-width: 600px) {
 //		margin-left: 8.33%;
 //		margin-right: 8.33%;
 		
-	}
-	@media screen and (min-width: 1200px) {
-		.if-big {
-	//		display: initial !important;
-		}
 	}
 }
 
@@ -159,10 +143,82 @@ body {
 	grid-area: contact;
 }
 
+.home-contact__cta {
+	a {
+		text-decoration: none;
+		color: black;
+		border-bottom: 2px solid magenta;
+		background-color: transparent;
+		-webkit-transition: background-color .3s;
+		transition: background-color .3s;
+		&:hover, &:focus {
+			background-color: magenta;
+		}
+	}
+}
+
 /* FAQ corner/link: */
 
 .home__faq {
 	grid-area: faq;
+}
+
+.home-faq__content {
+//	border: 1px solid red;
+}
+
+.home-faq__subtitle {
+	padding-bottom: 1em;
+}
+
+.home-faq__questions {
+	position: relative;
+	div {
+		position: relative;
+		margin-bottom: 1em;
+		&::before {
+			content: '';
+			position: absolute;
+			left: -12px;
+			top: 50%;
+			transform: translate(0, -50%);
+			display: block;
+			height: 6px;
+			width: 6px;
+			background-color: cyan;
+			border-radius: 50%;
+
+		}
+		a {
+			text-decoration: none;
+			color: black;
+			border-bottom: 2px solid cyan;
+			background-color: transparent;
+			-webkit-transition: background-color .3s;
+			transition: background-color .3s;
+			&:hover, &:focus {
+				background-color: cyan;
+			}
+		}
+	}
+}
+
+.home-faq__cta {
+	position: relative;
+	margin-top: 1em;
+	a {
+		display: inline-block;
+		padding: .25em .5em;
+		margin-top: 4px;
+		font-size: 1.5rem;
+		font-family: "Oswald", sans-serif;
+	//	font-weight: 200;
+		line-height: 1;
+		text-decoration: none;
+		text-transform: uppercase;
+		color: cyan;
+		border: 2px solid cyan;
+	}
 }
 
 /* Grad students: */

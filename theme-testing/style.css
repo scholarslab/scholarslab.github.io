@@ -129,33 +129,91 @@ body {
 
 /* All section titles: */
 [class*="__title"] {
+  margin-bottom: .5em;
   font-family: "Oswald", sans-serif;
-  font-size: 2rem;
-  font-weight: 600; }
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase; }
+  @media screen and (min-width: 600px) {
+    [class*="__title"] {
+      font-size: 2rem; } }
 
 /* Hero: */
 .home__hero {
   grid-area: hero;
-  position: relative;
-  margin-bottom: 1em;
-  line-height: 1; }
+  position: relative; }
 
 .home-hero__text {
   font-size: 1.75rem;
   font-weight: 200;
-  line-height: 1; }
+  line-height: 1;
+  margin-bottom: 1em;
+  padding-bottom: 1em; }
   .home-hero__text span {
     font-weight: 700; }
-  .home-hero__text .if-big {
-    display: none !important; }
 
 /* Contact prompt: */
 .home__contact--1 {
   grid-area: contact; }
 
+.home-contact__cta a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 2px solid magenta;
+  background-color: transparent;
+  -webkit-transition: background-color .3s;
+  transition: background-color .3s; }
+  .home-contact__cta a:hover, .home-contact__cta a:focus {
+    background-color: magenta; }
+
 /* FAQ corner/link: */
 .home__faq {
   grid-area: faq; }
+
+.home-faq__subtitle {
+  padding-bottom: 1em; }
+
+.home-faq__questions {
+  position: relative; }
+  .home-faq__questions div {
+    position: relative;
+    margin-bottom: 1em; }
+    .home-faq__questions div::before {
+      content: '';
+      position: absolute;
+      left: -12px;
+      top: 50%;
+      transform: translate(0, -50%);
+      display: block;
+      height: 6px;
+      width: 6px;
+      background-color: cyan;
+      border-radius: 50%; }
+    .home-faq__questions div a {
+      text-decoration: none;
+      color: black;
+      border-bottom: 2px solid cyan;
+      background-color: transparent;
+      -webkit-transition: background-color .3s;
+      transition: background-color .3s; }
+      .home-faq__questions div a:hover, .home-faq__questions div a:focus {
+        background-color: cyan; }
+
+.home-faq__cta {
+  position: relative;
+  margin-top: 1em; }
+  .home-faq__cta a {
+    display: inline-block;
+    padding: .25em .5em;
+    margin-top: 4px;
+    font-size: 1.5rem;
+    font-family: "Oswald", sans-serif;
+    line-height: 1;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: cyan;
+    border: 2px solid cyan; }
 
 /* Grad students: */
 .home__grads {
