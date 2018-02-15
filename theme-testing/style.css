@@ -129,7 +129,9 @@ body {
 
 /* All section titles: */
 [class*="__title"] {
-  color: red; }
+  font-family: "Oswald", sans-serif;
+  font-size: 2rem;
+  font-weight: 600; }
 
 /* Hero: */
 .home__hero {
