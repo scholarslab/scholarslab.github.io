@@ -285,6 +285,19 @@ body {
 
 .home__floor-diagram {
 	grid-area: floor;
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	font-size: 1.75rem;
+	div {
+		img {
+			display: inline-block;
+			margin-top: 1em;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		font-size: 2rem;
+	}
 }
 
 /* Office hours: */
