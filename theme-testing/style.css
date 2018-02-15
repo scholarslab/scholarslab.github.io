@@ -59,7 +59,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Raleway", sans-serif;
-  line-height: 1.375; }
+  line-height: 1.5; }
 
 .home-landing-grid {
   position: relative;
@@ -144,6 +144,7 @@ body {
 
 /* All homepage links: */
 [class*="home-"] a {
+  font-family: "base-mono-narrow", monospace;
   text-decoration: none;
   color: black;
   border-bottom: 2px solid magenta;
@@ -154,19 +155,23 @@ body {
     background-color: magenta; }
 
 /* All call-to-action buttons: */
-[class*="__cta"] a {
-  display: inline-block;
-  padding: .25em .5em;
-  margin-top: 4px;
-  font-size: 1.5rem;
-  font-family: "Oswald", sans-serif;
-  line-height: 1;
-  text-decoration: none;
-  text-transform: uppercase;
-  color: cyan;
-  border: 2px solid cyan; }
-  [class*="__cta"] a:hover, [class*="__cta"] a:focus {
-    background-color: transparent; }
+[class*="__cta"] {
+  position: relative;
+  margin-top: 1em; }
+  [class*="__cta"] a {
+    display: inline-block;
+    padding: .25rem .5em;
+    margin-top: 4px;
+    font-size: 1.5rem;
+    font-family: "base-mono-wide", monospace;
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: cyan;
+    border: 2px solid cyan; }
+    [class*="__cta"] a:hover, [class*="__cta"] a:focus {
+      background-color: transparent; }
 
 /* Hero: */
 .home__hero {
@@ -174,8 +179,8 @@ body {
   position: relative; }
 
 .home-hero__text {
-  font-size: 1.75rem;
-  font-weight: 200;
+  font-size: 1.5rem;
+  font-weight: 300 !important;
   line-height: 1;
   margin-bottom: 1em;
   padding-bottom: 1em; }
@@ -184,27 +189,24 @@ body {
 
 /* Contact prompt: */
 .home__contact--1 {
-  grid-area: contact; }
-
-.home-contact__cta a {
-  text-decoration: none;
-  color: black;
-  border-bottom: 2px solid magenta;
-  background-color: transparent;
-  -webkit-transition: background-color .3s;
-  transition: background-color .3s; }
-  .home-contact__cta a:hover, .home-contact__cta a:focus {
-    background-color: magenta; }
+  grid-area: contact;
+  font-size: 18px;
+  line-height: 24px; }
 
 /* FAQ corner/link: */
 .home__faq {
   grid-area: faq; }
 
 .home-faq__subtitle {
-  padding-bottom: 1em; }
+  padding-bottom: 1em;
+  font-size: 18px;
+  line-height: 24px;
+  padding-right: 8.33%; }
 
 .home-faq__questions {
-  position: relative; }
+  position: relative;
+  font-family: "base-mono-narrow", monospace;
+  font-size: 18px; }
   .home-faq__questions div {
     position: relative;
     margin-bottom: 1em; }
@@ -217,9 +219,9 @@ body {
       display: block;
       height: 6px;
       width: 6px;
-      background-color: cyan;
       border-radius: 50%; }
     .home-faq__questions div a {
+      line-height: 1.5;
       text-decoration: none;
       color: black;
       border-bottom: 2px solid cyan;
@@ -232,29 +234,20 @@ body {
 .home-faq__cta {
   position: relative;
   margin-top: 1em; }
-  .home-faq__cta a {
-    display: inline-block;
-    padding: .25em .5em;
-    margin-top: 4px;
-    font-size: 1.5rem;
-    font-family: "Oswald", sans-serif;
-    line-height: 1;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: cyan;
-    border: 2px solid cyan; }
 
 /* Grad students: */
 .home__students {
-  grid-area: grads; }
+  grid-area: grads;
+  font-size: 18px;
+  line-height: 24px; }
   .home__students a {
-    border-bottom: 2px solid #2522ff; }
+    border-bottom: 2px solid #002fff; }
     .home__students a:hover, .home__students a:focus {
-      background-color: #2522ff; }
+      background-color: #002fff; }
 
 .home-students__cta a {
-  color: #2522ff;
-  border: 2px solid #2522ff; }
+  color: #002fff;
+  border: 2px solid #002fff; }
   .home-students__cta a:hover, .home-students__cta a:focus {
     background-color: transparent; }
 
@@ -264,7 +257,15 @@ body {
 
 /* Office hours: */
 .home__office-hours {
-  grid-area: hours; }
+  grid-area: hours;
+  font-size: 18px;
+  padding-right: 8.33%; }
+
+.home-hours__when {
+  font-family: "base-mono-narrow";
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 24px; }
 
 /* Makerspace corner: */
 .home__makerspace-corner {
