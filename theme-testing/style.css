@@ -121,7 +121,7 @@ body {
   position: relative;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-areas: "hero hero" "faq contact" "faq grads" "hours floor" "make gis" "learn learn" "events events" "blog contact2" "blog listserv"						  "people projects" "origins origins"			  "charter colophon";
+  grid-template-areas: "hero hero" "faq contact" "faq hours" "grads floor" "make gis" "learn learn" "events events" "blog contact2" "blog listserv"						  "people projects" "origins origins"			  "charter colophon";
   grid-auto-rows: minmax(25vh, auto);
   padding: 0 4.167%; }
   @media screen and (min-width: 600px) {
@@ -238,6 +238,7 @@ body {
 /* Grad students: */
 .home__students {
   grid-area: grads;
+  padding-right: 8.33%;
   font-size: 18px;
   line-height: 24px; }
   .home__students a {

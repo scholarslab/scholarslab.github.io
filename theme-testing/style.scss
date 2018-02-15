@@ -81,8 +81,8 @@ body {
 	grid-template-columns: 1fr 1fr;
 	grid-template-areas: "hero hero"
 						 "faq contact"
-						 "faq grads"
-						 "hours floor"
+						 "faq hours"
+						 "grads floor"
 						 "make gis"
 						 "learn learn"
 						 "events events"
@@ -261,6 +261,7 @@ body {
 
 .home__students {
 	grid-area: grads;
+	padding-right: 8.33%;
 	font-size: 18px;
 	line-height: 24px;
 	a {
