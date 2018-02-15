@@ -127,13 +127,14 @@ body {
     .home-main-content {
       padding: 0 8.33%; } }
 
+/****************** 1. Default Styles: *******************/
 /* All section titles: */
 [class*="__title"] {
   margin-bottom: .5em;
   margin-top: 1em;
-  font-family: "Oswald", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1.75rem;
-  font-weight: 600;
+  font-weight: 900;
   line-height: 1;
   text-transform: uppercase; }
   @media screen and (min-width: 600px) {
@@ -150,6 +151,21 @@ body {
   transition: background-color .3s; }
   [class*="home-"] a:hover, [class*="home-"] a:focus {
     background-color: magenta; }
+
+/* All call-to-action buttons: */
+[class*="__cta"] a {
+  display: inline-block;
+  padding: .25em .5em;
+  margin-top: 4px;
+  font-size: 1.5rem;
+  font-family: "Oswald", sans-serif;
+  line-height: 1;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: cyan;
+  border: 2px solid cyan; }
+  [class*="__cta"] a:hover, [class*="__cta"] a:focus {
+    background-color: transparent; }
 
 /* Hero: */
 .home__hero {
@@ -230,6 +246,16 @@ body {
 /* Grad students: */
 .home__students {
   grid-area: grads; }
+  .home__students a {
+    border-bottom: 2px solid #2522ff; }
+    .home__students a:hover, .home__students a:focus {
+      background-color: #2522ff; }
+
+.home-students__cta a {
+  color: #2522ff;
+  border: 2px solid #2522ff; }
+  .home-students__cta a:hover, .home-students__cta a:focus {
+    background-color: transparent; }
 
 /* Floor diagram: (esp for office hours) */
 .home__floor-diagram {
