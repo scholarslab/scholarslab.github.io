@@ -140,6 +140,17 @@ body {
     [class*="__title"] {
       font-size: 2rem; } }
 
+/* All homepage links: */
+[class*="home-"] a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 2px solid magenta;
+  background-color: transparent;
+  -webkit-transition: background-color .3s;
+  transition: background-color .3s; }
+  [class*="home-"] a:hover, [class*="home-"] a:focus {
+    background-color: magenta; }
+
 /* Hero: */
 .home__hero {
   grid-area: hero;
