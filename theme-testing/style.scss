@@ -188,9 +188,6 @@ body {
 .home__contact--1 {
 	grid-area: contact;
 	font-size: 18px;
-//	font-family: "base-mono-narrow", monospace;
-//	font-family: "base-mono-wide", monospace;
-//	font-weight: 300 !important;
 	line-height: 24px;
 }
 
@@ -220,7 +217,7 @@ body {
 	font-family: "base-mono-narrow", monospace;
 	font-size: 18px; //1.25rem
 //	font-weight: 300 !important;
-//	line-height: 24px;
+	line-height: 24px;
 	div {
 		position: relative;
 		margin-bottom: 1em;
@@ -306,6 +303,7 @@ body {
 .home__office-hours {
 	grid-area: hours;
 	font-size: 18px;
+	line-height: 24px;
 	padding-right: 8.33%;
 }
 
@@ -320,12 +318,57 @@ body {
 
 .home__makerspace-corner {
 	grid-area: make;
+	padding-right: 8.33%;
+}
+
+.home-makerspace__hours {
+	position: relative;
+	border: 4px solid magenta;
+	font-family: "base-mono-narrow", monospace;
+	font-size: 20px;
+	text-align: right;
+	margin-top: calc(2em + 4px);
+	padding: .5em 1em;
+	div {
+		position: absolute;
+		font-family: "Oswald", sans-serif;
+		font-size: 1.5rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		text-align: left;
+		line-height: 1;
+		transform: translate(-1em, calc(-1.5em - 4px));
+	}
+	span {
+		float: left;
+		color: magenta;
+	}
+}
+
+.home-makerspace__text {
+	font-size: 18px;
+	line-height: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+.home-makerspace__cta {
+	a {
+		border-color: magenta;
+	//	border-width: 4px;
+	//	font-weight: 300 !important;
+		color: magenta;
+	//	padding-left: 1em;
+	//	padding-right: 1em;
+	}
 }
 
 /* GIS corner: */
 
 .home__gis-corner {
 	grid-area: gis;
+	padding-left: 8.33%;
+	font-size: 18px;
+	line-height: 24px;
 }
 
 /* Starter kit corner: */
