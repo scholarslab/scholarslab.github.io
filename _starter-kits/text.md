@@ -4,6 +4,7 @@ Copyright, non-consumptive use
 Scanning vs. manual input, OCR, OCR correction, formatting/style
 annotation/metadata around physical book+page
 markup of text and physical book+page
+Walk through specific example of Ulysses text assumptions, realizations, extra work, concerns
 
 [toc]
 
