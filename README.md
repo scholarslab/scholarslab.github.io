@@ -24,26 +24,27 @@ migration.
 
 * **Current build:** http://maybe.scholarslab.org/
 	* What this is:
-		* Live preview of the unfinished new site
-		* A way to see our progress without setting up a local development environment
-		* Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
+		1. Live preview of the unfinished new site
+		2. A way to see our progress without setting up a local development environment
+		3. Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
 	* What this is *not*:
-		* A preview of what's *for sure* going into the new site.
-		* The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
+		1. A preview of what's *for sure* going into the new site.
+		2. The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
 * **"Old" site:** http://scholarslab.org
 	* What this is:
-		* The Wordpress site
-		* What students and visitors currently see
+		1. The Wordpress site
+		2. What students and visitors currently see
 	* What this is *not*:
-		* The new site
-		* A dog
+		1. The new site
+		2. A dog
 
 ### Contribute to the New Site
 
-* **#oops.gif**
 * We're sorry, this section is currently...
 
 ![Under construction gif](docs/under-construction.gif)
+
+
 
 ### Add an Issue
 
