@@ -22,20 +22,19 @@ migration.
 
 ### Site Links
 
-* Current build: http://maybe.scholarslab.org/
-	- What this is:
+* **Current build:** http://maybe.scholarslab.org/
+	* What this is:
 		* Live preview of the unfinished new site
 		* A way to see our progress without setting up a local development environment
 		* Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
-	- What this is *not*:
+	* What this is *not*:
 		* A preview of what's *for sure* going into the new site.
 		* The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
-
-* "Old" site: http://scholarslab.org
-	- What this is:
+* **"Old" site:** http://scholarslab.org
+	* What this is:
 		* The Wordpress site
 		* What students and visitors currently see
-	- What this is *not*:
+	* What this is *not*:
 		* The new site
 		* A dog
 
