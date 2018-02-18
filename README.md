@@ -34,9 +34,6 @@ migration.
 	* What this is:
 		1. The Wordpress site
 		2. What students and visitors currently see
-	* What this is *not*:
-		1. The new site
-		2. A dog
 
 ### Contribute to the New Site
 
