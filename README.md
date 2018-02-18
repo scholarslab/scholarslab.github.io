@@ -7,7 +7,8 @@ migration.
 ## Table of Contents
 
 1. [Greatest Hits](#greatest-hits)
-	* [Site Links](#site-links)
+	* [View the New Site](#view-the-new-site)
+	* [Contribute to the New Site](#contribute-to-the-new-site)
 	* [Add an Issue](#add-an-issue)
 2. [Getting Started](#getting-started)
 	* [Prerequisites](#prerequisites)
@@ -20,20 +21,21 @@ migration.
 
 ## Greatest Hits
 
-### Site Links
+### View the New Site
 
-* **Current build:** http://maybe.scholarslab.org/
-	* What this is:
-		1. Live preview of the unfinished new site
-		2. A way to see our progress without setting up a local development environment
-		3. Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
-	* What this is *not*:
-		1. A preview of what's *for sure* going into the new site.
-		2. The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
-* **"Old" site:** http://scholarslab.org
-	* What this is:
-		1. The Wordpress site
-		2. What students and visitors currently see
+Current build: http://maybe.scholarslab.org/
+* What this *is*:
+	* Live preview of the unfinished new site
+	* A way to see our progress without setting up a local development environment
+	* Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
+* What this is *not*:
+	* A preview of what's *for sure* going into the new site.
+	* The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
+
+"Old" site: http://scholarslab.org
+* What this *is*:
+	* The Wordpress site
+	* What students and visitors currently see
 
 ### Contribute to the New Site
 
