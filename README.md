@@ -40,11 +40,14 @@ migration.
 
 ### Contribute to the New Site
 
-* We're sorry, this section is currently...
+This part depends on what you're contributing, so we'll go a little Choose Your Own Adventure here. Are you...
 
-![Under construction gif](docs/under-construction.gif)
+1. Adding or changing language on the homepage? [Try here.](#)
+2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "section homepage", e.g. the Makerspace homepage, the Praxis homepage, etc.). [Try here.](#)
+3. Submitting an image, including both photographs and digital illustrations? [Try here.](#)
+4. Looking for how to submit info to (one or more of) Laura, Katherine, or Ronda? [Try here.](#)
 
-
+If none of the above fit or you're not sure, definitely feel free to hit up Katherine on Slack and we'll figure out what works best for that particular situation. These options are just a starting point.
 
 ### Add an Issue
 
