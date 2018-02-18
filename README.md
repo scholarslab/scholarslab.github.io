@@ -4,19 +4,51 @@
 Repo for stuff related to ScholarsLab.org upgrade &amp; static site
 migration.
 
-* If you find a problem with the site or something new we should add, please add it to our [Issues page](https://github.com/scholarslab/scholarslab.org/issues).
-
 ## Table of Contents
 
-1. [Getting Started](#getting-started)
+1. [Greatest Hits](#greatest-hits)
+	* [Site Links](#site-links)
+	* [Add an Issue](#add-an-issue)
+2. [Getting Started](#getting-started)
 	* [Prerequisites](#prerequisites)
 	* [Installation](#installation)
 	* [Building the Site](#building-the-site)
-2. [Managing Site Content](#managing-site-content)
-3. [Contribution Guidelines](#contribution-guidelines)
+3. [Managing Site Content](#managing-site-content)
+4. [Contribution Guidelines](#contribution-guidelines)
 	* [Instructions and Documentation](#instructions-and-documentation)
 	* [Submitting Issues](#submitting-issues)
-	* [Using the Wiki](#using-the-wiki)
+
+## Greatest Hits
+
+### Site Links
+
+* Current build: maybe.scholarslab.org
+	- What this is:
+		* Live preview of the unfinished new site
+		* A way to see our progress without setting up a local development environment
+		* Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
+	- What this is *not*:
+		* A preview of what's *for sure* going into the new site.
+		* The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
+
+* "Old" site: http://scholarslab.org
+	- What this is:
+		* The Wordpress site
+		* What students and visitors currently see
+	- What this is *not*:
+		* The new site
+		* A dog
+
+### Contribute to the New Site
+
+* **#oops.gif**
+* We're sorry, this section is currently...
+
+![Under construction gif](docs/under-construction.gif)
+
+### Add an Issue
+
+* If you find a problem with the site or something new we should add, please add it to our [Issues page](https://github.com/scholarslab/scholarslab.org/issues).
 
 ## Getting Started
 
