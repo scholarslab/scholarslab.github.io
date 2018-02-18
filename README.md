@@ -22,7 +22,7 @@ migration.
 
 ### Site Links
 
-* Current build: maybe.scholarslab.org
+* Current build: http://maybe.scholarslab.org/
 	- What this is:
 		* Live preview of the unfinished new site
 		* A way to see our progress without setting up a local development environment
