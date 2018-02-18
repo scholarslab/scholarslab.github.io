@@ -1,16 +1,27 @@
-# How To Submit Content
+# How to Contribute
 
-*Are you tryna submit changes you made to the site language so you can get on with your life?* Awesome! You're in the right place.
+## Table of Contents
 
-This guide discusses the submission of language edits or creation on *non-repeating* pages. For routine submission of blog posts and other repeating content, please see "Managing Site Content" in our [main README](https://github.com/scholarslab/scholarslab.org/blob/master/README.md). Non-repeating pages include: Home, Makerspace, Praxis, etc.
+1. [Contribute to homepage](#homepage-contribution)
+2. [Contribute to a topic homepage](#topic-page-contribution)
+3. [Contribute an image](#image-submission)
+4. [Contribute information](#information-submission)
 
-## Okay, let's go:
+*NB: part 4 is intended for raw info, like answers to questions, rather than edits to an HTML or MD document.*
 
-**1.** Check out `kbd-content` branch.
+## Homepage Contribution
 
-**2.** Edit the file or file section you're working on. Go wild. Restructure HTML inside of section if needed, etc.
+How to make and submit changes to the homepage, `index.html`.
 
-**3.** Within file, directly above your edits, leave a comment using the following format:
+### Steps:
+
+1. Check out `kbd-content` branch.
+
+2. Create a feature branch off of it.
+
+3. Open `theme-testing/index.html`. Go wild. Restructure HTML inside of section if needed, etc.
+
+4. Within file, directly above your edits, leave a comment using the following format (or edit preexisting comment, as the case may be):
 ```html
 <!-- content
 		 author: <your name>
@@ -21,11 +32,23 @@ This guide discusses the submission of language edits or creation on *non-repeat
 ...edits, content...
 </div>
 ```
-**IMPORTANT:** *Using this format is integral to the workflow - please do not remove non-optional sections, including the string literal* `content`.
+**IMPORTANT:** *Using this format is integral to the workflow - please do not remove non-optional sections, including the string literal 'content'.*
 
-**4.** After editing file and leaving comment(s), commit as normally would. No pull request needed!
+5. After editing file and leaving comment(s), commit as normally would.
 
-## Notes: 
+6. Create a new pull request to merge your feature branch back into `kbd-content`, and request review from @kbdonnally. *Note:* Your pull request doesn't need a ton of detail since we're using the comment system, but do make sure to describe the gist of your changes in a sentence or two.
+
+7. That's it! You're done.
+
+## Topic Page Contribution
+
+How to make and submit language edits or creation for *non-repeating* pages *other than* the main homepage. For routine submission of blog posts and other repeating content, please see "Managing Site Content" in our [main README](https://github.com/scholarslab/scholarslab.org/blob/master/README.md). Non-repeating pages include: Home, Makerspace, Praxis, etc.
+
+Follow the steps listed in the [Homepage Contribution section](#homepage-contribution), but change Step 3 to:
+
+3. Open and edit the file or file section you're working on (no `theme-testing/` version required if it's not the site homepage). Go wild. Restructure HTML inside of section if needed, etc.
+
+### Notes: 
 
 1. **"Remaining issues"** is defined here as "things that should be changed in the section you edited before it can go live." Includes things like: still need someone with X expertise to write Y part, language you still want changed, etc. Any CSS or structural issues can be taken care of separately; don't worry about noting these.
 
