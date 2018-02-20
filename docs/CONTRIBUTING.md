@@ -6,6 +6,7 @@
 2. [Contribute to a topic homepage](#topic-page-contribution)
 3. [Contribute an image](#image-submission)
 4. [Contribute information](#information-submission)
+5. [Notes & Explanations](#notes-and-explanations)
 
 *NB: part 4 is intended for raw info, like answers to questions, rather than edits to an HTML or MD document.*
 
@@ -48,14 +49,30 @@ Follow the steps listed in the [Homepage Contribution section](#homepage-contrib
 
 3. Open and edit the file or file section you're working on (no `theme-testing/` version required if it's not the site homepage). Go wild. Restructure HTML inside of section if needed, etc.
 
-### Notes: 
+## Image Submission
 
-1. **"Remaining issues"** is defined here as "things that should be changed in the section you edited before it can go live." Includes things like: still need someone with X expertise to write Y part, language you still want changed, etc. Any CSS or structural issues can be taken care of separately; don't worry about noting these.
+Definition of 'image' in this context: any file in a visual medium, whether raster or vector graphic. 
+
+Please provide source attribution for all images. If you made it, just note that and you'll be credited; else, provide the desired attribution text from the source (unless the source specifically notes it's not needed).
+
+This process can be more casual, since it's not directly affecting published documents. As of 2/20: email or Slack the image to Katherine, or to Laura or Ronda if you're already sending them information at that time.
+
+## Information Submission
+
+Definition of 'information' in this context: something you've written (facts, language, opinion, etc.) that helps inform or create the site's HTML content, but isn't an actual edit of an HTML file. Sans many data points as of 2/20, I'm guessing the most common use case will be "answering questions from Laura &/or Ronda about your areas of knowledge in the Lab."
+
+*NB:* If links to external webpages are part of such information, include those as well. 
+
+Same philosophy from [Image Submission](#image-submission) applies here, since, again, the information is not directly affecting published documents. As of 2/20: email or Slack the information to Laura, or to Ronda or Katherine if you're already sending them information/pics at that time.
+
+## Notes and Explanations:
+
+1. **"Remaining issues"** are defined here as "things that should be changed in the section you edited before it can go live." Includes things like: still need someone with X expertise to write Y part, language you still want changed, etc. Any CSS or structural issues can be taken care of separately; don't worry about noting these.
 
 2. Why this comment format? Why leave in-text comments at all when we're using Git?
 
 * This format means that it's easy to search the HTML file for the word "content" to see if there are any new edits *while* the file is open (versus only having that ability through Git/Github). 
-* Basically this means I can paste updates into the State of the Union (SOTU) document and update any remaining issues with it. Searchability of edits makes sure I don't miss anything, and can add my own updates or additions to issues before merging the new content into the `kbd-theme` branch. *-Katherine*
+* Basically this means I can paste updates into the State of the Union (SOTU) document and update any remaining issues with it. Searchability of edits makes sure I don't miss anything, and can add my own updates or additions to issues before merging the new content into the `theme-testing` branch. *-Katherine*
 
 3. If editing lots of sections at once, leave at least one comment just so that the word "content" is in the document. Additionally, leave a separate comment above any section you edited where there are remaining issues.
 
