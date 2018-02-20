@@ -41,12 +41,12 @@ Current build: http://maybe.scholarslab.org/
 
 This part depends on what you're contributing, so we'll go a little Choose Your Own Adventure here. Are you...
 
-1. Adding or changing language on the homepage? [Try here.](#)
-2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "topic homepage", e.g. the Makerspace homepage, the Praxis homepage, etc.). [Try here.](#)
-3. Submitting an image, including both photographs and digital illustrations? [Try here.](#)
-4. Looking for how to submit info to (one or more of) Laura, Katherine, or Ronda? [Try here.](#)
+1. Adding or changing language on the homepage? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#homepage-contribution)
+2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "topic homepage", e.g. the Makerspace homepage, the Praxis homepage, etc.). [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#topic-page-contribution)
+3. Submitting an image, including both photographs and digital illustrations? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#image-submission)
+4. Looking for how to submit info to (one or more of) Laura, Katherine, or Ronda? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#information-submission)
 
-If none of the above fit or you're not sure, definitely feel free to hit up Katherine on Slack and we'll figure out what works best for that particular situation. These options are just a starting point.
+If none of the above fit or you're not sure, definitely feel free to hit up Katherine, Ronda, or Laura on Slack and we'll figure out what works best for that particular situation. These options are just a starting point.
 
 ### Add an Issue
 
