@@ -79,3 +79,5 @@ Same philosophy from [Image Submission](#image-submission) applies here, since, 
 4. This process should be roughly the same for *pre-existing pages* whose content changes significantly (e.g. Home) and *newly-created pages* whose content will be constructed from scratch (e.g. Origin Stories).
 
 5. Minor edits on pre-existing pages probably don't need to go through this, but that's just spitballing on KBD's part right now.
+
+6. For questions or to contact the author: Katherine's email is kbd3ax@virginia.edu, although Slack is probably better for time-sensitive issues.
