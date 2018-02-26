@@ -24,6 +24,7 @@ exclude:
   - Gemfile.lock
   - vendor
   - docs
+  - theme-testing
 collections:
   people:
     output: true
