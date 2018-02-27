@@ -1,0 +1,11 @@
+---
+layout: no-header
+permalink: /logos/
+---
+
+<h1>Test!</h1>
+{% assign logo_pics = site.static_files | where_exp: "item", "item.path contains 'logo-testing'" %}
+
+{% for pic in logo_pics %}
+<img src="{{ pic.path }}" alt="test" style="display:inline-block;height=300px !important;">
+{% endfor %}
