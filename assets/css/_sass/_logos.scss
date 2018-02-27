@@ -1,0 +1,48 @@
+/* For logo-testing gallery */
+
+.logo-testing__title {
+//	font-family: "Oswald", sans-serif;
+	font-size: 2rem;
+	font-weight: 900;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 1em auto;
+	@media screen and (min-width: 900px) {
+		font-size: 3rem;
+	}
+}
+
+.logo-testing__gallery {
+	position: relative;
+	width: 100%;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+.logo-gallery__item {
+	max-width: 500px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 0 auto;
+}
+
+.logo-item__img {
+	max-width: 400px;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.logo-item__title {
+	font-size: 1.75rem;
+	font-weight: 900;
+	line-height: 1;
+	text-transform: uppercase;
+	margin-top: .5em;
+	margin-bottom: 1em;
+	@media screen and (min-width: 600px) {
+		font-size: 2rem;
+	}
+}
+
