@@ -1,0 +1,34 @@
+/**
+ * Explanation:
+ * 1.) Styles all links on a given page. 
+ * 2.) Note that this means you'll need to override any link elements 
+ * that you *don't* want styled this way. (E.g. "buttons")
+ *
+ * View examples at:
+ * 1.) SLab homepage, links in normal paragraph text
+ */
+
+/* Example code: */
+[class*="home-"] {
+	a {
+		font-family: "base-mono-narrow", monospace;
+		text-decoration: none;
+		color: black;
+		border-bottom: 2px solid magenta;
+		background-color: transparent;
+		-webkit-transition: background-color .3s;
+		transition: background-color .3s;
+		&:hover, &:focus {
+			background-color: magenta;
+		}
+	}
+}
+
+/* Corresponding HTML: */
+/* Content link is styled like above. "See All" link overrides this to look like a button.
+<div class="home__students">
+	<div class="home-students__title">Student<br/>Opportunities</div>
+	<div class="home-students__content">...From the innovative <a href="http://praxis.scholarslab.org/">Praxis Program</a> to professionalization training for students on the DH job market, we're here to help whether you're looking to answer a specific call for applications or simply looking to discuss your research.</div>
+	<div class="home-students__cta"><a href="#">See All</a></div>
+</div>
+*/
