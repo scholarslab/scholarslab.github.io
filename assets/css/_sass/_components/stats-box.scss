@@ -1,0 +1,42 @@
+/**
+ * View examples at:
+ * 1.) SLab homepage, Makerspace section
+ * 2.) TBTA collection pages, stats section
+ */
+
+/* Example code: */
+.home-makerspace__hours {
+	position: relative;
+	border: 4px solid magenta;
+	font-family: "base-mono-narrow", monospace;
+	font-size: 20px;
+	text-align: right;
+	margin-top: calc(2em + 4px);
+	padding: .5em 1em;
+	div {
+		position: absolute;
+		font-family: "Oswald", sans-serif;
+		font-size: 1.5rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		text-align: left;
+		line-height: 1;
+		transform: translate(-1em, calc(-1.5em - 4px));
+	}
+	span {
+		float: left;
+		color: magenta;
+	}
+}
+
+/* Corresponding HTML: */
+/*
+<div class="home-makerspace__hours">
+	<div>Staffed Hours</div>
+	<span>Mondays:</span>1-7pm<br/>
+	<span>Tuesdays:</span>1-9pm<br/>
+	<span>Wednesdays:</span>1-7pm<br/>
+	<span>Thursdays:</span>1-9pm<br/>
+	<span>Fridays:</span>1-5pm
+</div>
+*/
