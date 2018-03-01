@@ -1,0 +1,28 @@
+.nav-wrapper {
+	position: fixed;
+	top: 0;
+	left: 0;
+//	display: none;
+	height: 50px;
+	width: 100%;
+	background-image: linear-gradient(to bottom, rgba(0,0,0,.7), rgba(0,0,0,.5));
+	z-index: 5;
+}
+
+.nav__arrow {
+	position: relative;
+	display: inline-block;
+	height: 100%;
+	a {
+		img {
+			position: absolute;
+			height: 30px;
+			margin: 10px 0;
+
+		}
+	}
+}
+
+.nav-wrapper--scroll-up {
+	display: block;
+}
