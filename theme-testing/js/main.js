@@ -46,4 +46,9 @@
 
 		window.addEventListener("scroll", changeNavHeight);
 	})();
+
+	// Section 2.1: Top nav 2, electric boogaloo
+	(function() {
+		var wrapper = document.querySelector(".nav-wrapper");
+	})();
 })();
