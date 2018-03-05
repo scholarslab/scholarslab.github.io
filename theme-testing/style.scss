@@ -103,7 +103,7 @@ body {
 
 /* All section titles: */
 
-[class*="__title"] {
+[class*="__title"][class*="home-"] {
 	margin-bottom: .5em;
 	margin-top: 1em;
 	font-family: "Raleway", sans-serif;
