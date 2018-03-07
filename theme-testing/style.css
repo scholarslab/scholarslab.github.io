@@ -62,14 +62,15 @@
 .makerspace-landing-grid {
   position: relative;
   display: grid;
-  grid-template-areas: "title title" "..... pics";
+  grid-template-areas: "title pics";
   grid-template-columns: 2fr 1fr;
   grid-auto-rows: minmax(100vh, auto);
-  align-items: center;
+  align-items: end;
+  overflow: hidden;
   width: 100%;
   padding-left: 4.167%;
-  margin-bottom: 50px;
-  background-color: black; }
+  background-color: black;
+  background-image: linear-gradient(to bottom, black, black 100vh, white 100vh, white); }
   @media screen and (min-width: 600px) {
     .makerspace-landing-grid {
       padding-left: 8.33%; } }
@@ -79,10 +80,12 @@
 
 .maker-landing__big-title {
   grid-area: title;
-  align-self: center;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 50vh;
+  align-self: start;
+  position: relative;
+  display: grid;
+  align-items: center;
+  justify-content: start;
+  height: 100vh;
   font-family: "Oswald", sans-serif;
   font-size: 4rem;
   font-weight: 600;
@@ -99,6 +102,13 @@
     .maker-landing__big-title {
       font-size: 7rem; } }
 
+.maker-title__text::after {
+  content: '';
+  display: block;
+  height: 4px;
+  width: 200%;
+  background-color: cyan; }
+
 .maker-landing__pics {
   grid-area: pics;
   position: relative;
@@ -106,12 +116,23 @@
   flex-flow: column nowrap;
   justify-content: flex-end;
   align-items: flex-start;
-  transform: translateY(50px); }
+  margin-top: 60px; }
   .maker-landing__pics img {
     display: inline-block;
     max-width: 90%; }
     .maker-landing__pics img:nth-of-type(2) {
       align-self: flex-end; }
+  .maker-landing__pics div {
+    height: 33vh;
+    width: 75%;
+    margin-bottom: 2rem;
+    background-color: black;
+    border: 3px solid magenta; }
+    .maker-landing__pics div:nth-of-type(2) {
+      align-self: flex-end; }
+    .maker-landing__pics div:nth-of-type(3) {
+      transform: translate(-25%, 0);
+      background-color: transparent; }
 
 /* Main Content: */
 /* Ethos: */
