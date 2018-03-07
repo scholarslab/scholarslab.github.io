@@ -34,6 +34,98 @@
   transform: rotate(90deg);
   opacity: .7; }
 
+/**
+ * 					Table of Contents
+ * --------------------------------------------------------------------
+ * #  Section:			Description:
+ * --------------------------------------------------------------------
+ * 1. General styles....Universal styles for repeating elements
+ * 2. Landing page......Styles for title page
+ * 3. Main content......Styles for content sections, e.g. 'Ethos'
+ * 4. Unused styles.....Copied main styles for future customizing
+ * --------------------------------------------------------------------
+ */
+/* 1. General Styles: */
+[class*="__title"][class*="maker-"] {
+  margin-bottom: .5em;
+  margin-top: 1em;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase; }
+  @media screen and (min-width: 600px) {
+    [class*="__title"][class*="maker-"] {
+      font-size: 2rem; } }
+
+/* Landing Page: */
+.makerspace-landing-grid {
+  position: relative;
+  display: grid;
+  grid-template-areas: "title title" "..... pics";
+  grid-template-columns: 2fr 1fr;
+  grid-auto-rows: minmax(100vh, auto);
+  align-items: center;
+  width: 100%;
+  padding-left: 4.167%;
+  margin-bottom: 50px;
+  background-color: black; }
+  @media screen and (min-width: 600px) {
+    .makerspace-landing-grid {
+      padding-left: 8.33%; } }
+  @media screen and (min-width: 1200px) {
+    .makerspace-landing-grid {
+      padding-right: 4.167%; } }
+
+.maker-landing__big-title {
+  grid-area: title;
+  align-self: center;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 50vh;
+  font-family: "Oswald", sans-serif;
+  font-size: 4rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: .9;
+  color: white; }
+  @media screen and (min-width: 600px) {
+    .maker-landing__big-title {
+      font-size: 5rem; } }
+  @media screen and (min-width: 768px) {
+    .maker-landing__big-title {
+      font-size: 6rem; } }
+  @media screen and (min-width: 1024px) {
+    .maker-landing__big-title {
+      font-size: 7rem; } }
+
+.maker-landing__pics {
+  grid-area: pics;
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+  align-items: flex-start;
+  transform: translateY(50px); }
+  .maker-landing__pics img {
+    display: inline-block;
+    max-width: 90%; }
+    .maker-landing__pics img:nth-of-type(2) {
+      align-self: flex-end; }
+
+/* Main Content: */
+/* Ethos: */
+/* Hours: */
+/* People: */
+/* How To Use: */
+/* Inventory: */
+/* Public Spaces: */
+/* Questions: */
+/* Old Images: */
+.makerspace__images {
+  display: none; }
+
+/* 4. Unused Styles */
 /* If make into own for page:
 
 .home-makerspace__hours {
@@ -61,99 +153,6 @@
 }
 
 */
-.makerspace-landing-grid {
-  position: relative;
-  display: grid;
-  grid-template-areas: "title title" "..... pics";
-  grid-template-columns: 2fr 1fr;
-  grid-auto-rows: minmax(100vh, auto);
-  align-items: center;
-  width: 100%;
-  padding-left: 4.167%;
-  margin-bottom: 50px;
-  background-color: black; }
-  @media screen and (min-width: 600px) {
-    .makerspace-landing-grid {
-      padding-left: 8.33%; } }
-  @media screen and (min-width: 1200px) {
-    .makerspace-landing-grid {
-      padding-right: 4.167%; } }
-
-.maker-landing__text {
-  grid-area: title;
-  align-self: center;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 50vh;
-  font-family: "Oswald", sans-serif;
-  font-size: 4rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  line-height: .9;
-  color: white; }
-  @media screen and (min-width: 600px) {
-    .maker-landing__text {
-      font-size: 5rem; } }
-  @media screen and (min-width: 768px) {
-    .maker-landing__text {
-      font-size: 6rem; } }
-  @media screen and (min-width: 1024px) {
-    .maker-landing__text {
-      font-size: 7rem; } }
-
-.maker-landing__pics {
-  grid-area: pics;
-  position: relative;
-  display: flex;
-  flex-flow: column nowrap;
-  justify-content: flex-end;
-  align-items: flex-start;
-  transform: translateY(50px); }
-  .maker-landing__pics img {
-    display: inline-block;
-    max-width: 90%; }
-    .maker-landing__pics img:nth-of-type(2) {
-      align-self: flex-end; }
-
-/* Main Content: */
-[class*="__title"][class*="maker-"] {
-  margin-bottom: .5em;
-  margin-top: 1em;
-  font-family: "Raleway", sans-serif;
-  font-size: 1.75rem;
-  font-weight: 900;
-  line-height: 1;
-  text-transform: uppercase; }
-  @media screen and (min-width: 600px) {
-    [class*="__title"][class*="maker-"] {
-      font-size: 2rem; } }
-
-/* Made with file-text-search.py: */
-.maker-landing__big-title {
-  grid-area: title;
-  align-self: center;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 50vh;
-  font-family: "Oswald", sans-serif;
-  font-size: 4rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  line-height: .9;
-  color: white; }
-  @media screen and (min-width: 600px) {
-    .maker-landing__big-title {
-      font-size: 5rem; } }
-  @media screen and (min-width: 768px) {
-    .maker-landing__big-title {
-      font-size: 6rem; } }
-  @media screen and (min-width: 1024px) {
-    .maker-landing__big-title {
-      font-size: 7rem; } }
-
-.makerspace__images {
-  display: none; }
-
 * {
   box-sizing: border-box; }
 
