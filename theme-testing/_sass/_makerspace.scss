@@ -40,8 +40,8 @@
 .makerspace-landing-grid {
 	position: relative;
 	display: grid;
-	grid-template-areas: "title pics";
-	grid-template-columns: 2fr 1fr;
+	grid-template-areas: "title";
+	grid-template-columns: 1fr;
 	grid-auto-rows: minmax(100vh, auto);
 	align-items: end;
 	overflow: hidden;
@@ -51,6 +51,13 @@
 	background-image: linear-gradient(to bottom, black, black 100vh, white 100vh, white);
 	@media screen and (min-width: 600px) {
 		padding-left: 8.33%;
+	}
+	@media screen and (min-width: 768px) {
+		grid-template-areas: "title pics";
+		grid-template-columns: 2fr 1fr;
+	}
+	@media screen and (min-width: 900px) {
+		padding-left: 4.167%;
 	}
 	@media screen and (min-width: 1200px) {
 		padding-right: 4.167%;
@@ -75,7 +82,7 @@
 	@media screen and (min-width: 600px) {
 		font-size: 5rem;
 	}
-	@media screen and (min-width: 768px) {
+	@media screen and (min-width: 900px) {
 		font-size: 6rem;
 	}
 	@media screen and (min-width: 1024px) {
@@ -97,7 +104,7 @@
 .maker-landing__pics {
 	grid-area: pics;
 	position: relative;
-	display: flex;
+	display: none;
 	flex-flow: column nowrap;
 	justify-content: flex-end;
 	align-items: flex-start;
@@ -123,6 +130,9 @@
 			transform: translate(-25%, 0);
 			background-color: transparent;
 		}
+	}
+	@media screen and (min-width: 768px) {
+		display: flex;
 	}
 }
 
