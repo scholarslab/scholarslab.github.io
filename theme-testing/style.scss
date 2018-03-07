@@ -118,7 +118,7 @@ body {
 
 /* All homepage links: */
 
-[class*="home-"] {
+[class*="home-"], [class*="maker-"] {
 	a {
 		font-family: "base-mono-narrow", monospace;
 		text-decoration: none;
