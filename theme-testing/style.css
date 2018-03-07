@@ -58,6 +58,11 @@
     [class*="__title"][class*="maker-"] {
       font-size: 2rem; } }
 
+[class*="maker-"] ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
 /* Landing Page: */
 .makerspace-landing-grid {
   position: relative;
@@ -106,7 +111,6 @@
   content: '';
   display: block;
   height: 4px;
-  /* NB: this is a magic number!! fix! */
   width: 200%;
   background-color: cyan; }
 
@@ -136,15 +140,78 @@
       background-color: transparent; }
 
 /* Main Content: */
+.makerspace-main-content {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: minmax(25vh, auto);
+  grid-template-areas: "ethos" "hours" "people" "usage" "invent" "public" "diagram" "question";
+  padding: 0 4.167%; }
+  @media screen and (min-width: 600px) {
+    .makerspace-main-content {
+      padding: 0 8.33%; } }
+  @media screen and (min-width: 768px) {
+    .makerspace-main-content {
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas: "ethos hours" "people usage" "invent invent" "public diagram" "question question"; } }
+
 /* Ethos: */
+.makerspace__ethos {
+  grid-area: ethos; }
+
 /* Hours: */
+.makerspace__hours {
+  grid-area: hours; }
+
 /* People: */
+.makerspace__people {
+  grid-area: people; }
+
 /* How To Use: */
+.makerspace__usage {
+  grid-area: usage; }
+
 /* Inventory: */
+.makerspace__inventory {
+  grid-area: invent;
+  position: relative;
+  display: grid;
+  grid-template-areas: "title title" "list list" "notes contact"; }
+
+.maker-inventory__title {
+  grid-area: title; }
+
+.maker-inventory__list {
+  grid-area: list;
+  display: flex;
+  flex-flow: row wrap; }
+  .maker-inventory__list ul {
+    position: relative;
+    max-width: 25%; }
+    .maker-inventory__list ul span {
+      font-weight: 700; }
+
+.maker-inventory__rules {
+  grid-area: notes; }
+
+.maker-inventory__contact {
+  grid-area: contact; }
+
 /* Public Spaces: */
+.makerspace__public-spaces {
+  grid-area: public; }
+
+/* Diagram: */
+.makerspace__diagram {
+  grid-area: diagram; }
+
 /* Questions: */
+.makerspace__questions {
+  grid-area: question; }
+
 /* Old Images: */
 .makerspace__images {
+  grid-area: images;
   display: none; }
 
 /* 4. Unused Styles */
@@ -266,7 +333,7 @@ body {
       font-size: 2rem; } }
 
 /* All homepage links: */
-[class*="home-"] a {
+[class*="home-"] a, [class*="maker-"] a {
   font-family: "base-mono-narrow", monospace;
   text-decoration: none;
   color: black;
@@ -274,7 +341,7 @@ body {
   background-color: transparent;
   -webkit-transition: background-color .3s;
   transition: background-color .3s; }
-  [class*="home-"] a:hover, [class*="home-"] a:focus {
+  [class*="home-"] a:hover, [class*="home-"] a:focus, [class*="maker-"] a:hover, [class*="maker-"] a:focus {
     background-color: magenta; }
 
 /* All call-to-action buttons: */

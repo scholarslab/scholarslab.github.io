@@ -12,7 +12,7 @@
 
 /* 1. General Styles: */
 
-// Section Titles:
+// Section titles
 [class*="__title"][class*="maker-"] {
 	margin-bottom: .5em;
 	margin-top: 1em;
@@ -23,6 +23,15 @@
 	text-transform: uppercase;
 	@media screen and (min-width: 600px) {
 		font-size: 2rem;
+	}
+}
+
+// Inventory lists
+[class*="maker-"] {
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
 	}
 }
 
@@ -79,7 +88,7 @@
 		content: '';
 		display: block;
 		height: 4px;
-		/* NB: this is a magic number!! fix! */
+		// NB: this is a magic number!! fix!
 		width: 200%;
 		background-color: cyan;
 	}
@@ -120,13 +129,36 @@
 /* Main Content: */
 
 .makerspace-main-content {
-
+	position: relative;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-auto-rows: minmax(25vh, auto);
+	grid-template-areas: "ethos"
+						"hours"
+						 "people"
+						 "usage"
+						"invent"
+						"public"
+						"diagram"
+						"question";
+	padding: 0 4.167%;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+	}
+	@media screen and (min-width: 768px) {
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas: "ethos hours"
+							 "people usage"
+							"invent invent"
+							"public diagram"
+							"question question";
+	}
 }
 
 /* Ethos: */
 
 .makerspace__ethos {
-
+	grid-area: ethos;
 }
 
 .maker-ethos__title {
@@ -140,7 +172,7 @@
 /* Hours: */
 
 .makerspace__hours {
-
+	grid-area: hours;
 }
 
 .maker-hours__title {
@@ -158,7 +190,7 @@
 /* People: */
 
 .makerspace__people {
-
+	grid-area: people;
 }
 
 .maker-people__title {
@@ -176,7 +208,7 @@
 /* How To Use: */
 
 .makerspace__usage {
-
+	grid-area: usage;
 }
 
 .maker-usage__title {
@@ -190,29 +222,46 @@
 /* Inventory: */
 
 .makerspace__inventory {
-
+	grid-area: invent;
+	position: relative;
+	display: grid;
+	grid-template-areas: "title title"
+	"list list"
+	"notes contact";
 }
 
 .maker-inventory__title {
-
+	grid-area: title;
 }
 
 .maker-inventory__list {
+	grid-area: list;
+	display: flex;
+	flex-flow: row wrap;
+	ul {
+		position: relative;
+		max-width: 25%;
+		span {
+			font-weight: 700;
+		}
+		li {
 
+		}
+	}
 }
 
 .maker-inventory__rules {
-
+	grid-area: notes;
 }
 
 .maker-inventory__contact {
-
+	grid-area: contact;
 }
 
 /* Public Spaces: */
 
 .makerspace__public-spaces {
-
+	grid-area: public;
 }
 
 .maker-public__title {
@@ -223,10 +272,19 @@
 
 }
 
+/* Diagram: */
+
+.makerspace__diagram {
+	grid-area: diagram;
+	div {
+
+	}
+}
+
 /* Questions: */
 
 .makerspace__questions {
-
+	grid-area: question;
 }
 
 .maker-questions__text {
@@ -236,6 +294,7 @@
 /* Old Images: */
 
 .makerspace__images {
+	grid-area: images;
 	display: none;
 }
 
