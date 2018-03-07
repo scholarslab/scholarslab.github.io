@@ -102,11 +102,19 @@ body {
 .home-main-content {
   position: relative;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-areas: "hero hero" "faq contact" "faq hours" "grads floor" "make gis" "learn learn" "events events" "blog contact2" "blog listserv"						  "people projects" "origins origins"			  "charter colophon";
+  grid-template-columns: 1fr;
   grid-auto-rows: minmax(25vh, auto);
+  grid-template-areas: "hero" "faq" "contact" "hours" "grads" "floor" "make" "gis" "learn" "events" "blog" "contact2" "listserv" "people" "projects" "origins" "charter" "colophon";
   padding: 0 4.167%; }
   @media screen and (min-width: 600px) {
+    .home-main-content {
+      padding: 0 8.33%; } }
+  @media screen and (min-width: 768px) {
+    .home-main-content {
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas: "hero hero" "faq contact" "faq hours" "grads floor" "make gis" "learn learn" "events events" "blog contact2" "blog listserv" "people projects" "origins origins" "charter colophon";
+      padding: 0 4.167%; } }
+  @media screen and (min-width: 1200px) {
     .home-main-content {
       padding: 0 8.33%; } }
 
@@ -300,9 +308,11 @@ body {
 /* GIS corner: */
 .home__gis-corner {
   grid-area: gis;
-  padding-left: 8.33%;
   font-size: 18px;
   line-height: 24px; }
+  @media screen and (min-width: 768px) {
+    .home__gis-corner {
+      padding-left: 8.33%; } }
 
 /* Starter kit corner: */
 .home__learn {
