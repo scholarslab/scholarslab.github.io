@@ -106,6 +106,7 @@
   content: '';
   display: block;
   height: 4px;
+  /* NB: this is a magic number!! fix! */
   width: 200%;
   background-color: cyan; }
 
