@@ -241,7 +241,13 @@
 
 /* Diagram: */
 .makerspace__diagram {
-  grid-area: diagram; }
+  grid-area: diagram;
+  position: relative; }
+
+.maker-diagram__img {
+  position: relative; }
+  .maker-diagram__img img {
+    max-height: 75vh; }
 
 /* Questions: */
 .makerspace__questions {

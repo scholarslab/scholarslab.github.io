@@ -267,7 +267,6 @@
 			font-family: "base-mono-narrow", monospace;
 			position: relative;
 			margin-bottom: .25em;
-		//	margin-left: .25em;
 			line-height: 1.25;
 			&::before {
 				content: '';
@@ -325,8 +324,13 @@
 
 .makerspace__diagram {
 	grid-area: diagram;
-	div {
+	position: relative;
+}
 
+.maker-diagram__img {
+	position: relative;
+	img {
+		max-height: 75vh;
 	}
 }
 
