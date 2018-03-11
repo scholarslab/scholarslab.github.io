@@ -193,15 +193,19 @@
 
 .maker-inventory__list {
   grid-area: list;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
+  -moz-columns: 250px;
+  -webkit-columns: 250px;
+  columns: 250px; }
   .maker-inventory__list ul {
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
     position: relative;
     padding: 1em;
     padding-right: .75em;
     padding-left: 1.25em;
     margin-bottom: 1em;
-    margin-right: 1em;
+    margin-right: .5em;
     border: 4px solid black; }
     .maker-inventory__list ul span {
       display: inline-block;
