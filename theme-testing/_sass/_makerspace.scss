@@ -252,6 +252,8 @@
 	ul {
 		position: relative;
 		padding: 1em;
+		padding-right: .75em;
+		padding-left: 1.25em;
 		margin-bottom: 1em;
 		margin-right: 1em;
 		border: 4px solid black;
@@ -276,7 +278,7 @@
 				display: block;
 				height: 6px;
 				width: 6px;
-				transform: translate(-175%, -50%);
+				transform: translate(-200%, -50%);
 				background-color: magenta;
 				border-radius: 50%;
 			}
