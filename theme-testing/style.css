@@ -186,6 +186,23 @@
     .makerspace__people {
       padding-right: 8.33%; } }
 
+.maker-people__students, .maker-people__staff {
+  position: relative;
+  font-family: "base-mono-narrow", monospace;
+  font-weight: 200;
+  text-align: right; }
+  .maker-people__students span, .maker-people__staff span {
+    float: left;
+    font-weight: initial; }
+
+.maker-students__label, .maker-staff__label {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  text-align: left;
+  line-height: 1;
+  margin-bottom: 1em;
+  margin-top: 1em; }
+
 /* How To Use: */
 .makerspace__usage {
   grid-area: usage; }

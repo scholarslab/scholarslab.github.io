@@ -216,11 +216,27 @@
 
 }
 
-.maker-people__students {
-
+.maker-people__students, .maker-people__staff {
+	position: relative;
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
+	text-align: right;
+	span {
+		float: left;
+		font-weight: initial;
+	}
 }
 
-.maker-people__staff {
+.maker-students__label, .maker-staff__label {
+	font-family: "Oswald", sans-serif;
+	font-weight: 600;
+	text-align: left;
+	line-height: 1;
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+.maker-students__list, .maker-staff__list {
 
 }
 
