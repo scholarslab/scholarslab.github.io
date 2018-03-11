@@ -168,25 +168,40 @@
 /* Ethos: */
 .makerspace__ethos {
   grid-area: ethos; }
+  @media screen and (min-width: 768px) {
+    .makerspace__ethos {
+      padding-right: 8.33%; } }
 
 /* Hours: */
 .makerspace__hours {
   grid-area: hours; }
+  @media screen and (min-width: 768px) {
+    .makerspace__hours {
+      padding-left: 8.33%; } }
 
 /* People: */
 .makerspace__people {
   grid-area: people; }
+  @media screen and (min-width: 768px) {
+    .makerspace__people {
+      padding-right: 8.33%; } }
 
 /* How To Use: */
 .makerspace__usage {
   grid-area: usage; }
+  @media screen and (min-width: 768px) {
+    .makerspace__usage {
+      padding-left: 8.33%; } }
 
 /* Inventory: */
 .makerspace__inventory {
   grid-area: invent;
   position: relative;
   display: grid;
-  grid-template-areas: "title title" "list list" "notes contact"; }
+  grid-template-areas: "title" "list" "notes" "contact"; }
+  @media screen and (min-width: 768px) {
+    .makerspace__inventory {
+      grid-template-areas: "title title" "list list" "notes contact"; } }
 
 .maker-inventory__title {
   grid-area: title; }
@@ -195,7 +210,8 @@
   grid-area: list;
   -moz-columns: 250px;
   -webkit-columns: 250px;
-  columns: 250px; }
+  columns: 250px;
+  column-count: 1; }
   .maker-inventory__list ul {
     -webkit-column-break-inside: avoid;
     page-break-inside: avoid;
@@ -234,21 +250,36 @@
       background-color: cyan; }
     .maker-inventory__list ul:nth-of-type(3n) li::before {
       background-color: #002fff; }
+  @media screen and (min-width: 400px) {
+    .maker-inventory__list {
+      column-count: auto; } }
 
 .maker-inventory__rules {
   grid-area: notes; }
+  @media screen and (min-width: 768px) {
+    .maker-inventory__rules {
+      padding-right: 8.33%; } }
 
 .maker-inventory__contact {
   grid-area: contact; }
+  @media screen and (min-width: 768px) {
+    .maker-inventory__contact {
+      padding-left: 8.33%; } }
 
 /* Public Spaces: */
 .makerspace__public-spaces {
   grid-area: public; }
+  @media screen and (min-width: 768px) {
+    .makerspace__public-spaces {
+      padding-right: 8.33%; } }
 
 /* Diagram: */
 .makerspace__diagram {
   grid-area: diagram;
   position: relative; }
+  @media screen and (min-width: 768px) {
+    .makerspace__diagram {
+      padding-left: 8.33%; } }
 
 .maker-diagram__img {
   position: relative; }

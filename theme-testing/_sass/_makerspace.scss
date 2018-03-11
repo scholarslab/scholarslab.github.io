@@ -169,6 +169,9 @@
 
 .makerspace__ethos {
 	grid-area: ethos;
+	@media screen and (min-width: 768px) {
+		padding-right: 8.33%;
+	}
 }
 
 .maker-ethos__title {
@@ -183,6 +186,9 @@
 
 .makerspace__hours {
 	grid-area: hours;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%;
+	}
 }
 
 .maker-hours__title {
@@ -201,6 +207,9 @@
 
 .makerspace__people {
 	grid-area: people;
+	@media screen and (min-width: 768px) {
+		padding-right: 8.33%;
+	}
 }
 
 .maker-people__title {
@@ -219,6 +228,9 @@
 
 .makerspace__usage {
 	grid-area: usage;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%;
+	}
 }
 
 .maker-usage__title {
@@ -235,9 +247,15 @@
 	grid-area: invent;
 	position: relative;
 	display: grid;
-	grid-template-areas: "title title"
-	"list list"
-	"notes contact";
+	grid-template-areas: "title"
+	"list"
+	"notes"
+	"contact";
+	@media screen and (min-width: 768px) {
+		grid-template-areas: "title title"
+		"list list"
+		"notes contact";
+	}
 }
 
 .maker-inventory__title {
@@ -252,6 +270,7 @@
 	-moz-columns: 250px;
 	-webkit-columns: 250px;
 	columns: 250px;
+	column-count: 1;
 //	-moz-column-gap: 0;
 //	-webkit-column-gap: 0;
 //	column-gap: 0; // default = 1em
@@ -307,20 +326,32 @@
 			}
 		}
 	}
+	@media screen and (min-width: 400px) {
+		column-count: auto;
+	}
 }
 
 .maker-inventory__rules {
 	grid-area: notes;
+	@media screen and (min-width: 768px) {
+		padding-right: 8.33%;
+	}
 }
 
 .maker-inventory__contact {
 	grid-area: contact;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%;
+	}
 }
 
 /* Public Spaces: */
 
 .makerspace__public-spaces {
 	grid-area: public;
+	@media screen and (min-width: 768px) {
+		padding-right: 8.33%;
+	}
 }
 
 .maker-public__title {
@@ -336,6 +367,9 @@
 .makerspace__diagram {
 	grid-area: diagram;
 	position: relative;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%;
+	}
 }
 
 .maker-diagram__img {
