@@ -207,16 +207,27 @@
   position: relative;
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  grid-template-rows: repeat(9, 5vh); }
-  .maker-people__grid div {
-    border: 1px dashed black; }
+  grid-template-rows: repeat(9, 5vh);
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
+  border-left: 1px solid rgba(0, 0, 0, 0.3); }
 
 .maker-grid__default {
-  opacity: .7; }
+  border-right: 1px solid rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3); }
 
-[id*="skill"] {
-  border-color: red !important;
+.maker-grid__skill {
+  border-right: 1px solid rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
   z-index: 1; }
+
+[id*="skill1"], [id*="skill4"], [id*="skill7"] {
+  background-color: rgba(255, 0, 255, 0.7); }
+
+[id*="skill2"], [id*="skill5"] {
+  background-color: rgba(0, 255, 255, 0.7); }
+
+[id*="skill3"], [id*="skill6"] {
+  background-color: rgba(0, 47, 255, 0.7); }
 
 #ppl1skill1 {
   grid-column: 1;

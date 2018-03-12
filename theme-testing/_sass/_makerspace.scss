@@ -245,22 +245,39 @@
 	display: grid;
 	grid-template-columns: repeat(7, 1fr);
 	grid-template-rows: repeat(9, 5vh);
-	div {
-		border: 1px dashed black;
-	}
+	border-top: 1px solid rgba(0,0,0,.3);
+	border-left: 1px solid rgba(0,0,0,.3);
+//	grid-gap: 1px;
 }
 
 .maker-grid__default {
-	opacity: .7;
+//	border-style: dashed;
+//	background-color: rgba(0,0,0,.3);
+	border-right: 1px solid rgba(0,0,0,.3);
+	border-bottom: 1px solid rgba(0,0,0,.3);
 }
 
 .maker-grid__skill {
-
+//	border-width: 3px;
+//	border-style: solid;
+	border-right: 1px solid rgba(0,0,0,.3);
+	border-bottom: 1px solid rgba(0,0,0,.3);
+	z-index: 1;
 }
 
-[id*="skill"] {
-	border-color: red !important;
-	z-index: 1;
+[id*="skill1"], [id*="skill4"], [id*="skill7"] {
+	background-color: rgba(255,0,255,.7);
+//	border-color: magenta;
+}
+
+[id*="skill2"], [id*="skill5"] {
+	background-color: rgba(0, 255, 255, .7);
+//	border-color: cyan;
+}
+
+[id*="skill3"], [id*="skill6"] {
+	background-color: rgba(0, 47, 255, .7); // #002fff
+//	border-color: rgba(0, 47, 255, 1);
 }
 
 // id selectors for grid areas
