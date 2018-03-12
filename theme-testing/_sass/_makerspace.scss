@@ -240,6 +240,32 @@
 
 }
 
+.maker-people__grid {
+	position: relative;
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	grid-template-rows: repeat(9, 5vh);
+	div {
+		border: 1px dashed black;
+	}
+}
+
+.maker-grid__default {
+	opacity: .7;
+}
+
+.maker-grid__skill {
+
+}
+
+[id*="skill"] {
+	border-color: red !important;
+	z-index: 1;
+}
+
+// id selectors for grid areas
+@import "ms-expertise";
+
 /* How To Use: */
 
 .makerspace__usage {
