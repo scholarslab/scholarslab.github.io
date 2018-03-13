@@ -266,8 +266,11 @@
 }
 
 [id*="skill1"], [id*="skill4"], [id*="skill7"] {
+	position: relative; // for bg size
+//	background-image: linear-gradient(rgba(255,0,255,.1), rgba(255,0,255,.1)), url("img/white-halftone.svg"), linear-gradient(rgba(255,0,255,1), rgba(255,0,255,1));
+//	background-size: auto, 500%, auto;
+//	background-position: top left -10px;
 	background-color: rgba(255,0,255,.7);
-//	border-color: magenta;
 }
 
 [id*="skill2"], [id*="skill5"] {
