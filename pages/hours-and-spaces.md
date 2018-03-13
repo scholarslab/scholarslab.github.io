@@ -17,7 +17,7 @@ The Common Room of the Scholars' Lab is open [whenever Alderman is](http://www.l
 
 _Alderman 419_
 
-The Scholars' Lab Common Room provides twenty computer workstations in both solo and small group/collaborative configurations. Sunny and open, it can be enjoyed as study space as well, with additional seating for about thirty-two people at tables and chairs and another fourteen at the laptop bar with a view of the patio outside. Here is where  you will also find our [Makerspace](http://www.scholarslab.org/makerspace/).
+The Scholars' Lab Common Room provides twenty computer workstations in both solo and small group/collaborative configurations. Sunny and open, it can be enjoyed as study space as well, with additional seating for about thirty-two people at tables and chairs and another fourteen at the laptop bar with a view of the patio outside. Here is where you will also find our [Makerspace](http://www.scholarslab.org/makerspace/).
 
 [![](http://www.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom001-110x110.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom001.jpg) [![](http://www.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom01-110x110.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom01.jpg)
 
@@ -38,7 +38,7 @@ The Scholars' Lab Common Room provides twenty computer workstations in both solo
 ## The Makerspace
 
 
-The Scholars’ Lab [Makerspace](http://scholarslab.org/makerspace/) is a place for tinkering and experimentation with technologies like desktop fabrication, physical computing, and augmented reality. Open to everyone, we specialize in applications and research questions in the humanities and arts.
+The Scholars’ Lab [Makerspace](http://scholarslab.org/makerspace/) is a place for crafting, tinkering, and experimentation with technologies like desktop fabrication, physical computing, and augmented reality. <strong>Open to everyone</strong>—absolutely no prior experience needed!—we specialize in hands-on approaches to research questions in the humanities and arts.</p>
 
 [![Partially assembled Sparkfun Inventor's Kit, with an Arduino board, breadboard, and soldering iron](http://scholarslab.org/wp-content/uploads/2014/09/makerspace7-110x110.jpg)](http://scholarslab.org/wp-content/uploads/2014/09/makerspace7.jpg)  [![Makerspace lounge area, with touchscreen and chairs.](http://scholarslab.org/wp-content/uploads/2014/05/makerspace31-110x110.jpg)](http://scholarslab.org/wp-content/uploads/2014/05/makerspace31.jpg)[![The Makerspace printer desk](http://scholarslab.org/wp-content/uploads/2014/05/makerspace4-110x110.jpg)](http://scholarslab.org/wp-content/uploads/2014/05/makerspace4.jpg)
 
@@ -73,7 +73,7 @@ The Scholars' Lab seminar room is reserved space for library activities instruct
   * **Size:** seating for 20
 
  	
-  * **Equipment:** ceiling-mounted data projector; instructor station w/ audio and video; 2 whiteboards.
+  * **Equipment:** ceiling-mounted data projector; instructor station w/audio and video; 2 whiteboards. Note overhead air vents in middle of room mean a mic is required for folks in the back half of the room to hear well.
 
  	
   * **Reservations:** Throughout most of the year, this room is available for booking by members of the UVa community on a first-come first-served basis. Please contact [libevents@virginia.edu](mailto:libevents@virginia.edu) for more information.
