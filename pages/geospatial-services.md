@@ -1,5 +1,5 @@
 ---
-author: jeremy
+author: admin
 comments: true
 date: 2014-09-02 13:53:58+00:00
 layout: page
@@ -9,7 +9,7 @@ title: Geospatial Services
 wordpress_id: 10917
 ---
 
-Our expert staff supports application of GIS and mapping technologies across the disciplines. We also provide consultation on data and software for research and classroom use.
+As part of [the Spatial Technologies group](/spatial-technologies), our expert staff supports application of GIS and mapping technologies across the disciplines. We also provide consultation on data and software for research and classroom use.
 
 
 ## Getting started with GIS
