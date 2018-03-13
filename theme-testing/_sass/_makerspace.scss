@@ -91,12 +91,15 @@
 }
 
 .maker-title__text {
+	position: relative;
 	&::after {
 		content: '';
+		position: absolute;
+		bottom: -4px;
+		left: 0;
 		display: block;
 		height: 4px;
-		// NB: this is a magic number!! fix!
-		width: 200%;
+		width: 100vw;
 		background-color: cyan;
 	}
 }

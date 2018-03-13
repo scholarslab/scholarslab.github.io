@@ -114,12 +114,17 @@
     .maker-landing__big-title {
       font-size: 7rem; } }
 
-.maker-title__text::after {
-  content: '';
-  display: block;
-  height: 4px;
-  width: 200%;
-  background-color: cyan; }
+.maker-title__text {
+  position: relative; }
+  .maker-title__text::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    display: block;
+    height: 4px;
+    width: 100vw;
+    background-color: cyan; }
 
 .maker-landing__pics {
   grid-area: pics;
