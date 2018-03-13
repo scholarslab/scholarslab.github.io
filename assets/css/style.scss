@@ -4,8 +4,9 @@
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
 
 @import "navbar";
-// @import "_sass/amanda";
+// @import "amanda";
 @import "logos";
+@import "makerspace";
 
 * {
 	box-sizing: border-box;
@@ -123,7 +124,7 @@ body {
 
 /* All homepage links: */
 
-[class*="home-"] {
+[class*="home-"], [class*="maker-"] {
 	a {
 		font-family: "base-mono-narrow", monospace;
 		text-decoration: none;
