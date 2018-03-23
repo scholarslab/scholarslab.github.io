@@ -40,6 +40,10 @@ def classesToCSS(class_names):
 
 # match string s where s == 'class="<val>"'
 # NB: throws error if quoted, e.g. "r'<pattern>'"
+#
+# '.*?' = 'non-greedy', which is regex language
+# for "starts looking for a match at the beginning of the string, 
+# rather than the end" (aka not trying to get the longest string possible)
 pattern = r'class=".*?"'
 
 # list of all 'class="<val>"' in file

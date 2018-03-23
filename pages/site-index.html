@@ -1,0 +1,12 @@
+---
+layout: page
+title: Site Index
+permalink: /site-index/
+---
+<ul>
+{% for page in site.pages %}
+{% if page.layout != nil %}
+<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
