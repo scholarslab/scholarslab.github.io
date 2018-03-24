@@ -1,21 +1,27 @@
 .fellowship-main-content {
-
+	position: relative;
+	display: grid;
+	grid-template-areas: "type" "title" "due" "content" "questions";
+	padding: 1em 4.167%;
+	@media screen and (min-width: 600px) {
+		padding: 1em 8.33%;
+	}
 }
 
 .fellowship__page-type {
-
+	grid-area: type;
 }
 
 .fellowship__title {
-
+	grid-area: title;
 }
 
-.fellowship__metadata {
-
+.fellowship__due-date {
+	grid-area: due;
 }
 
 .fellowship__content {
-
+	grid-area: content;
 }
 
 .fellow-content__description {
@@ -55,5 +61,5 @@
 }
 
 .fellowship__questions {
-
+	grid-area: questions;
 }

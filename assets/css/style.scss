@@ -163,6 +163,16 @@ body {
 		&:hover, &:focus {
 			background-color: transparent;
 		}
+		span {
+			display: none;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		a {
+			span {
+				display: initial;
+			}
+		}
 	}
 }
 
