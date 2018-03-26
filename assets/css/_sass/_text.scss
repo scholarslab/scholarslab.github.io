@@ -1,0 +1,44 @@
+.text-main-content {
+	position: relative;
+	display: grid;
+	grid-template-areas: "type" "title" "metadata" "content";
+	padding: 1em 4.167%;
+	@media screen and (min-width: 600px) {
+		padding: 1em 8.33%;
+	}
+}
+
+.text__page-type {
+	grid-area: type;
+	display: none;
+}
+
+.text__metadata {
+	grid-area: metadata;
+}
+
+.text__title {
+	grid-area: title;
+	margin-bottom: .5em;
+	margin-top: 1em;
+//	font-family: "Raleway", sans-serif;
+	font-size: 3rem;
+	font-weight: 900;
+//	text-transform: uppercase;
+}
+
+.text-meta__author {
+
+}
+
+.text-meta__date {
+
+}
+
+.text-meta__categories {
+
+}
+
+.text__content {
+	grid-area: content;
+}
