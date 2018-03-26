@@ -1,12 +1,9 @@
 ---
-collaborators: ''
-current: false
 layout: research
-link: ''
-slug: the-mind-is-a-metaphor
-title: The Mind is a Metaphor
-research-category:
-- Scholarly Collaborations
+slug: the-falmouth-project
+title: The Falmouth Project
+preview-img: falmouth.jpg
+research-category: Scholarly Collaborations
 ---
 
 [The Mind is a Metaphor](http://metaphors.lib.virginia.edu) site is a collaboration with [Brad Pasanek](http://www.engl.virginia.edu/faculty/pasanek_brad.shtml). The project collects "metaphors and root-images appealed to by the novelists, poets, dramatists, essayists, philosophers, belle-lettrists, preachers, and pamphleteers of the long eighteenth century."

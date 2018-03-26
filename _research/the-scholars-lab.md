@@ -1,12 +1,9 @@
 ---
-collaborators: ''
-current: true
 layout: research
-link: 'http://scholarslab.org'
-slug: the_scholars_lab
-title: "The Scholars' Lab"
-research-category:
-- Internal Projects and Community Service
+slug: the-scholars-lab
+title: The Scholars' Lab
+preview-img: none
+research-category: Internal Projects and Community Service
 ---
 
 The Scholars' Lab is itself digital humanities scholarship: an active exploration of a DH research center advancing an ethic of care both outwardly and internally. From putting our budget dollars behind our values, to team-authoring a charter, to internal policies that support work-life balance, we're working to both improve and document practices toward achieving a humane, ethical, and generative digital humanities community. 

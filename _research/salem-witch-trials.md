@@ -1,12 +1,9 @@
 ---
-collaborators: ''
-current: false
 layout: research
-link: ''
 slug: salem-witch-trials
 title: Salem Witch Trials
-research-category:
-- Scholarly Collaborations
+preview-img: salemwitchtrials.jpg
+research-category: Scholarly Collaborations
 ---
 
 The [Salem Witch Trials Documentary Archive and Transcription Project](http://salem.lib.virginia.edu/) consists of an electronic collection of primary source materials relating to the Salem witch trials of 1692 and a new transcription of the court records, including court records, contemporary books, and record books. Originally an IATH project, Salem Witch Trials has been supported by the Scholars' Lab in recent years.
