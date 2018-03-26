@@ -5,7 +5,7 @@
 .research-landing-wrapper {
 	position: relative;
 	display: grid;
-	grid-auto-rows: minmax(100vh, auto);
+//	grid-auto-rows: minmax(100vh, auto);
 }
 
 .research-landing-grid {
@@ -90,14 +90,16 @@
 	@media screen and (min-width: 600px) {
 		padding: 1em 8.33%;
 	}
-	/* ADD TO ALL MAIN CONTENT DEFS: */
-	@media screen and (min-width: 1024px) {
-	//	max-width: calc(1000px + 16.67%);
-	//	margin: 0 auto;
-	}
 }
 
 /* Galleries: */
+
+[class*="big-title"] {
+	position: relative;
+	font-size: 2rem;
+	font-weight: 900;
+	line-height: 1;
+}
 
 /* 1. Internal: */
 
@@ -133,7 +135,6 @@
 	position: relative;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-//	grid-auto-rows: minmax(300px, 1fr);
 }
 
 /* Items: */
@@ -142,10 +143,11 @@
 	position: relative;
 	display: flex;
 	flex-flow: column nowrap;
-//	padding: 1em;
+	padding: 1em;
 	margin-bottom: 1em;
 	margin-right: 1em;
-	border: 1px solid black;
+	margin-left: 1em;
+	border: 1px solid rgba(0,0,0,.15);
 	a {
 		text-decoration: none;
 	}
@@ -155,7 +157,6 @@
 	position: relative;
 //	width: 200px;
 	margin: 0 auto;
-	background-color: rgba(0,0,0,.05);
 	border: 1px solid rgba(0,0,0,.15);
 	img {
 		position: relative;
@@ -165,9 +166,11 @@
 
 .research-item__title {
 	margin-top: 1em;
-	font-family: "Oswald", sans-serif;
-	font-weight: 600;
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
 	font-size: 1.25rem;
 	text-align: center;
+	text-transform: uppercase;
+	line-height: 1.15;
 	color: black;
 }
