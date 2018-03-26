@@ -546,8 +546,11 @@
 /* Galleries: */
 [class*="big-title"] {
   position: relative;
+  margin-top: 1em;
+  margin-bottom: .5em;
   font-size: 2rem;
   font-weight: 900;
+  text-transform: uppercase;
   line-height: 1; }
 
 /* 1. Internal: */
