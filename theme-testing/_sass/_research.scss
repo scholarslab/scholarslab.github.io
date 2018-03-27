@@ -172,24 +172,30 @@
 .research-item__img {
 	position: relative;
 //	width: 200px;
-	margin: 0 auto;
+//	margin: 0 auto;
+	width: 300px;
+	height: 200px;
+	overflow: hidden;
+//	border: 4px solid rgba(0,0,0,.7);
 //	border: 1px solid rgba(0,0,0,.15);
 	img {
-		position: relative;
-		width: 100%;
-		border: 4px solid black;
+		position: absolute;
+	//	min-width: 300px;
+		min-height: 100%;
+	//	min-width: 100%;
+		
 	}
 }
 
 .research-item__title, .research-item__year {
 	margin-top: .5em;
 //	padding-left: .5em;
-	font-family: "base-mono-narrow", monospace;
-	font-weight: 200;
-	font-size: 1.25rem;
+	font-family: "Oswald", sans-serif;
+	font-weight: 400;
+	font-size: 1.5rem;
 //	text-align: center;
 	text-transform: uppercase;
-	line-height: 1.15;
+	line-height: 1;
 	color: black;
 }
 
