@@ -138,23 +138,32 @@
 .research-items-wrapper {
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 	margin-top: 1em;
 }
 
 /* Items: */
 
 .research__item {
+	grid-row: span 4;
 	position: relative;
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: center;
 //	min-height: 250px;
 	min-width: 250px;
-	margin-bottom: 1em;
-	margin-right: 1em;
+	margin-bottom: 2em;
+	margin-right: 2em;
 //	border: 1px solid rgba(0,0,0,.15);
 //	border: 2px solid black;
+/*	&:nth-of-type(2) {
+		grid-row: 2 / span 4;
+		grid-column: 2;
+	}
+	&:nth-of-type(3) {
+		grid-row: 3 / span 4;
+		grid-column: 3;
+	} */
 	a {
 		text-decoration: none;
 	}
