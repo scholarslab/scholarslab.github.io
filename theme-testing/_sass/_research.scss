@@ -5,7 +5,7 @@
 .research-landing-wrapper {
 	position: relative;
 	display: grid;
-//	grid-auto-rows: minmax(100vh, auto);
+	grid-auto-rows: minmax(100vh, auto);
 }
 
 .research-landing-grid {
@@ -36,13 +36,14 @@
 
 .research-title__text {
 	position: relative;
-	margin-top: 1em;
+	margin-top: 2em;
 	font-family: "Oswald", sans-serif;
 	font-size: 4rem;
 	font-weight: 600;
 	text-transform: uppercase;
 	line-height: .9;
-	&::after {
+//	color: magenta;
+/*	&::after {
 		content: '';
 		position: absolute;
 		bottom: -4px;
@@ -51,7 +52,7 @@
 		height: 4px;
 		width: 100vw;
 		background-color: cyan;
-	}
+	} */
 	@media screen and (min-width: 600px) {
 		font-size: 5rem;
 	}
@@ -70,15 +71,18 @@
 	margin-top: 1.5em;
 	padding-bottom: 1em;
 	font-size: 1rem;
+//	font-weight: 700;
 //	color: white;
+//	background-color: white;
 	@media screen and (min-width: 600px) {
 		font-size: 1.5rem;
 	}
 	@media screen and (min-width: 768px) {
-		font-size: 1.75rem;
+//		font-size: 1.75rem;
 	}
 	@media screen and (min-width: 1024px) {
-		font-size: 2rem;
+//		font-size: 2rem;
+//		max-width: 900px;
 	}
 }
 
@@ -94,7 +98,7 @@
 
 /* Galleries: */
 
-[class*="big-title"] {
+[class*="big-title"][class*="research"] {
 	position: relative;
 	margin-top: 1em;
 	margin-bottom: .5em;
@@ -103,6 +107,10 @@
 //	font-family: "Oswald";
 	text-transform: uppercase;
 	line-height: 1;
+}
+
+[class*="__subtitle"][class*="research"] {
+	font-family: "Oswald", sans-serif;
 }
 
 /* 1. Internal: */
@@ -189,11 +197,9 @@
 
 .research-item__title, .research-item__year {
 	margin-top: .5em;
-//	padding-left: .5em;
 	font-family: "Oswald", sans-serif;
 	font-weight: 400;
 	font-size: 1.5rem;
-//	text-align: center;
 	text-transform: uppercase;
 	line-height: 1;
 	color: black;
@@ -201,6 +207,6 @@
 
 .research-item__year {
 	margin-top: .25rem;
-	line-height: 1;
+//	font-weight: 300;
 	color: rgba(0,0,0,.5);
 }
