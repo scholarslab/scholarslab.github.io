@@ -39,6 +39,9 @@ collections:
   starter-kits:
     output: true
     permalink: /:collection/:name/
+  events:
+    output: true
+    permalink: /:collection/:name/
 
 header_pages:
   - about.md
