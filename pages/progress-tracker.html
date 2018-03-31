@@ -6,22 +6,45 @@ permalink: /progress-tracker/
 
 <h1 class="progress-big-title">Progress Tracker</h1>
 
-<div class="progress-main-grid">
-	<!-- Columns: -->
-	<div class="progress__column-label--1">Page</div>
-	<div class="progress__column-label--2">Status</div>
-	<div class="progress__column-label--3">Notes</div>
-	<!-- end columns-->
+<div class="progress-main-wrapper">
+	<div class="progress-main-grid">
+		<!-- Columns: -->
+		<div class="progress__column-label--1">#</div>
+		<div class="progress__column-label--2">Page</div>
+		<div class="progress__column-label--3">Status</div>
+		<div class="progress__column-label--4">Notes</div>
+		<!-- end columns-->
 
-	<!-- Main content: hard-coding first -->
-	<div class="progress-item__name">NAME_HERE</div>
+		<!-- Main content -->
+		{% for page in site.pages %}
+		{% if page.layout != nil %}
+			<div class="progress-item__num">{{ forloop.index }}</div>
 
-	<div class="progress-item__status">STATUS_HERE</div>
+			<div class="progress-item__name">
+				<a href="{{ page.url }}">{{ page.title }}</a>
+			</div>
 
-	<div class="progress-item__notes">
-		<ul>
-			<li>NOTES_HERE</li>
-		</ul>
+			<div class="progress-item__status">
+				{% if page.status != nil %}
+					<div><span>></span>{{ page.status }}</div>
+				{% else %}
+					<div><span>></span>not started</div>
+				{% endif %}
+			</div>
+
+			<div class="progress-item__notes">
+				{% if page.notes != nil %}
+					<ul>
+					{% for note in page.notes %}
+						<li>{{ note }}</li>
+					{% endfor %}
+					</ul>
+				{% else %}
+					<div>--</div>
+				{% endif %}
+			</div>
+		{% endif %}
+		{% endfor %}
+		<!-- end main content -->
 	</div>
-
 </div>
