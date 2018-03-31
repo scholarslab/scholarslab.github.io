@@ -4,14 +4,24 @@ title: Progress Tracker
 permalink: /progress-tracker/
 ---
 
-# Progress Tracker
+<h1 class="progress-big-title">Progress Tracker</h1>
 
-Page Name | Progress
---------- | --------
-<ul>
-{% for page in site.pages %}
-{% if page.layout != nil %}
-<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
+<div class="progress-main-grid">
+	<!-- Columns: -->
+	<div class="progress__column-label--1">Page</div>
+	<div class="progress__column-label--2">Status</div>
+	<div class="progress__column-label--3">Notes</div>
+	<!-- end columns-->
+
+	<!-- Main content: hard-coding first -->
+	<div class="progress-item__name">NAME_HERE</div>
+
+	<div class="progress-item__status">STATUS_HERE</div>
+
+	<div class="progress-item__notes">
+		<ul>
+			<li>NOTES_HERE</li>
+		</ul>
+	</div>
+
+</div>
