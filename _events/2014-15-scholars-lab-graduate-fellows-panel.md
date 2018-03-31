@@ -3,7 +3,7 @@ all_day: '0'
 author: jeremy-boggs
 end_date: '2014-09-12'
 end_time: '14:00:00'
-layout: event
+layout: events
 published-date: 2014-08-25 10:18:19+00:00
 rsvp: '0'
 slug: 2014-15-scholars-lab-graduate-fellows-panel

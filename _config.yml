@@ -25,6 +25,7 @@ exclude:
   - vendor
   - docs
   - theme-testing
+#  - _posts # temporary! significantly reduces build time for theme testing
 collections:
   people:
     output: true
@@ -36,6 +37,9 @@ collections:
     output: true
     permalink: /:collection/:name/
   starter-kits:
+    output: true
+    permalink: /:collection/:name/
+  events:
     output: true
     permalink: /:collection/:name/
 

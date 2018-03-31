@@ -1,12 +1,9 @@
 ---
-collaborators: ''
-current: false
 layout: research
-link: ''
-slug: the-university-of-virginia-art-museum-numismatic-collection
-title: The University of Virginia Art Museum Numismatic Collection
-research-category:
-- Scholarly Collaborations
+slug: the-mind-is-a-metaphor
+title: The Mind is a Metaphor
+preview-img: mindmetaphor.jpg
+research-category: Scholarly Collaborations
 ---
 
 The [The University of Virginia Art Museum Numismatic Collection](http://coins.lib.virginia.edu) features nearly 600 coins of Greek and Roman origin. The coins were generally acquired in small lots that were purchased or donated from 1987-2001, but larger groups of coins belonging to English hoards were also acquired, including 51 from the Normanby Hoard and 302 from the Oliver's Orchard Hoards. About 450 of the total number of coins are from the Roman Republic or Empire, providing a broad sample of coins from the late 3rd century B.C. to the late 3rd century A.D., particularly from the Crisis of the Third Century--including more than 100 coins from the breakaway Gallic Empire of A.D. 260-274.

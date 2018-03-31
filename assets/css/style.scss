@@ -8,6 +8,9 @@
 @import "logos";
 @import "makerspace";
 @import "footer";
+@import "text";
+@import "fellowship";
+@import "research";
 
 * {
 	box-sizing: border-box;
@@ -160,6 +163,16 @@ body {
 		border: 2px solid cyan;
 		&:hover, &:focus {
 			background-color: transparent;
+		}
+		span {
+			display: none;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		a {
+			span {
+				display: initial;
+			}
 		}
 	}
 }

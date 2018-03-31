@@ -3,7 +3,7 @@ all_day: '0'
 author: jeremy-boggs
 end_date: '2014-10-09'
 end_time: '15:00:00'
-layout: event
+layout: events
 published-date: 2014-08-25 10:36:24+00:00
 rsvp: '0'
 slug: gis-workshop-collecting-your-own-spatial-data

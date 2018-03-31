@@ -1,12 +1,9 @@
 ---
-collaborators: ''
-current: false
 layout: research
-link: ''
 slug: neatline
 title: Neatline
-research-category:
-- Internal Projects and Community Service
+preview-img: neatline1.jpg
+research-category: Internal Projects and Community Service
 ---
 
 Neatline is a mix-and-match toolset for the creation of interlinked timelines and maps as interpretive expressions of the literary or historical content of archival collections. It allows scholars and archivists to build on standard descriptive metadata and georectified maps to produce rich, evocative – even theoretical – spatial and temporal visualizations of the textual content of catalogued letters, manuscripts, and artifacts.
