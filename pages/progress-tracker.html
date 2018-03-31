@@ -1,0 +1,17 @@
+---
+layout: default
+title: Progress Tracker
+permalink: /progress-tracker/
+---
+
+# Progress Tracker
+
+Page Name | Progress
+--------- | --------
+<ul>
+{% for page in site.pages %}
+{% if page.layout != nil %}
+<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
