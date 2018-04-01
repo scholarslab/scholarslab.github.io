@@ -82,6 +82,10 @@
 	}
 }
 
+.progress-item__num {
+
+}
+
 .progress-item__name {
 	a {
 		margin-bottom: .5em;
@@ -111,15 +115,38 @@
 		span {
 			display: inline-block;
 			padding-right: .5rem;
-			font-weight: bold;
+		//	font-weight: bold;
 			color: magenta;
 		}
 	}
 }
 
 .progress-item__notes {
-	justify-self: center;
+	padding-left: 2em;
+	align-self: start;
 	ul {
-		padding-left: 0;
+		padding: 0;
+		margin: 0;
+		list-style-type: none;
+		li {
+			position: relative;
+			margin-bottom: 1em;
+			font-family: "base-mono-narrow", monospace;
+			font-weight: 200;
+		//	line-height: 1;
+			/* NB: center of dot = 1rem from <li> */
+			&::before {
+				content: '';
+				position: absolute;
+				left: -4px;
+				top: calc(.75em - 1px);
+				display: block;
+				height: 6px;
+				width: 6px;
+				background-color: magenta; // hsl(229,100%,50%);
+				border-radius: 50%;
+				transform: translate(-.5em, -25%);
+			}
+		}
 	}
 }
