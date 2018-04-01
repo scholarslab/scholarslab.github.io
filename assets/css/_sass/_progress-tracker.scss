@@ -2,13 +2,36 @@
 
 .progress-big-title {
 	position: relative;
+	display: flex;
+	justify-content: flex-start;
 	margin-top: calc(60px + .5em);
 	margin-bottom: .5em;
+	padding: 0 4.167%;
 	font-size: 3rem;
 	font-weight: 900;
-	text-align: center;
+	line-height: 1;
+	div {
+		position: relative;
+		&::after {
+			content: '';
+			position: absolute;
+			left: 0;
+			bottom: 6px;
+			display: block;
+			height: 4px;
+			width: 100%;
+			background-color: magenta;
+			z-index: -1;
+		}
+	}
 	@media screen and (min-width: 600px) {
 		font-size: 4rem;
+		padding: 0 8.33%;
+	}
+	@media screen and (min-width: 1024px) {
+		max-width: calc(1000px + 16.67%);
+		margin: .5em auto;
+		margin-top: calc(60px + .5em);
 	}
 }
 
@@ -41,6 +64,7 @@
 }
 
 [class*="progress__column-label"] {
+	justify-self: start;
 	margin-bottom: 1em;
 	font-family: "Oswald", sans-serif;
 	font-size: 2rem;
@@ -48,6 +72,7 @@
 //	text-align: center;
 	text-transform: uppercase;
 	line-height: 1;
+//	border-bottom: 2px solid magenta;
 }
 
 .progress__column-label--1 {
@@ -63,13 +88,13 @@
 .progress__column-label--3 {
 	grid-column: 3 / span;
 	grid-row: 1 / span;
-	text-align: center;
+//	text-align: center;
 }
 
 .progress__column-label--4 {
 	grid-column: 4 / span;
 	grid-row: 1 / span;
-	text-align: center;
+//	text-align: center;
 }
 
 // $blue: hsl(229, 100%, 50%);
@@ -77,13 +102,15 @@
 // cyan = 180deg
 
 [class*="progress-item"] {
+	padding: .5em 0;
+	border-bottom: 1px solid hsla(300,100%,50%,.5);
 	div {
 		display: inline-block;
 	}
 }
 
 .progress-item__num {
-
+//	font-weight: bold;
 }
 
 .progress-item__name {
@@ -91,11 +118,11 @@
 		margin-bottom: .5em;
 		font-family: "base-mono-narrow", monospace;
 	//	font-weight: bold;
-	//	line-height: 1;
+		line-height: 1;
 		text-decoration: none;
 		color: black;
-		border-bottom: 2px solid magenta;
-		background-color: transparent;
+		border-bottom: 1px solid black;
+		background-color: transparent; // hsla(300,100%,50%,.5);
 		-moz-transition: background-color .3s;
 		-webkit-transition: background-color .3s;
 		transition: background-color .3s;
@@ -108,29 +135,37 @@
 }
 
 .progress-item__status {
-	justify-self: center;
+//	justify-self: center;
 	font-family: "base-mono-narrow", monospace;
-//	font-weight: 200;
+	font-weight: 200;
 	div {
 		span {
 			display: inline-block;
 			padding-right: .5rem;
-		//	font-weight: bold;
-			color: magenta;
+			font-weight: bold;
+		//	color: black;
 		}
+	}
+}
+
+.progress-status__active {
+	font-weight: bold;
+	span {
+		color: magenta;
 	}
 }
 
 .progress-item__notes {
 	padding-left: 2em;
 	align-self: start;
+	border-bottom: 1px solid hsla(300,100%,50%,.5);
 	ul {
 		padding: 0;
 		margin: 0;
 		list-style-type: none;
 		li {
 			position: relative;
-			margin-bottom: 1em;
+		//	margin-bottom: 1em;
 			font-family: "base-mono-narrow", monospace;
 			font-weight: 200;
 		//	line-height: 1;
