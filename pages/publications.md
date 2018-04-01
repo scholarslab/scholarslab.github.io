@@ -1,11 +1,10 @@
 ---
-author: admin
-comments: false
-date: 2008-08-05 19:30:50+00:00
 layout: page
-link: http://scholarslab.org/publications
-permalink: /publications/
 title: Publications
+permalink: /publications/
+notes:
+- Does this page exist IRL or is this a wishlist type page?
+- Low-priority by April/May launch
 ---
 
 For any instances of making scholarship public: print or digital publications, presentations, tweet threads, blog posts, etc.

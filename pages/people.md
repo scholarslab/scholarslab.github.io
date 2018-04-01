@@ -1,9 +1,9 @@
 ---
-comments: false
 layout: page
-link: /people
-permalink: /people/
 title: People
+permalink: /people/
+notes:
+- Main topic page (linked from homepage)
 ---
 
 <h2>Staff</h2>

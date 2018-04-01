@@ -1,12 +1,9 @@
 ---
-author: jeremy
-comments: true
-date: 2014-08-26 19:45:04+00:00
 layout: page
-link: http://scholarslab.org/about/charter/
-permalink: /charter/
 title: Charter
-wordpress_id: 10571
+permalink: /charter/
+notes:
+- Main topic page (aka linked from homepage)
 ---
 
 This is not a manifesto. It’s a statement of our core and shared ethos in the Scholars’ Lab.  It represents what we _attend to_ here, and how we currently see ourselves. Some points in this charter are aspirational and some are firmly in place as part of the SLab’s culture, but all are things we strive to remain mindful of in our day-to-day practice.

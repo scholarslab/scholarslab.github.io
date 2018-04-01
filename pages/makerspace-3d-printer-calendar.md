@@ -1,12 +1,9 @@
 ---
-author: ssl2ab
-comments: true
-date: 2016-02-17 14:43:03+00:00
 layout: page
-permalink: /makerspace-3d-printer-calendar/
-slug: makerspace-3d-printer-calendar
 title: Makerspace 3D Printer Calendar
-wordpress_id: 11900
+permalink: /makerspace-3d-printer-calendar/
+notes:
+- Important to have this page up by launch, but not important to style it much by then, beyond basic padding/spacing.
 ---
 
 Availability of the 3D printer is tracked on this calendar.

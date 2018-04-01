@@ -2,9 +2,13 @@
 layout: default
 title: Progress Tracker
 permalink: /progress-tracker/
+status: finished
+notes:
+- Pre-production page to track progress of site building
+- Should not show once new site is deployed
 ---
 
-<h1 class="progress-big-title">Progress Tracker</h1>
+<div class="progress-big-title"><div>Progress Tracker</div></div>
 
 <div class="progress-main-wrapper">
 	<div class="progress-main-grid">
@@ -26,7 +30,7 @@ permalink: /progress-tracker/
 
 			<div class="progress-item__status">
 				{% if page.status != nil %}
-					<div><span>></span>{{ page.status }}</div>
+					<div class="progress-status__active"><span>></span>{{ page.status }}</div>
 				{% else %}
 					<div><span>></span>not started</div>
 				{% endif %}
