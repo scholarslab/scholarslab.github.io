@@ -1,12 +1,9 @@
 ---
-author: jeremy
-comments: true
-date: 2014-09-02 13:00:49+00:00
 layout: page
-link: http://scholarslab.org/about/colophon/
-permalink: /colophon/
 title: Colophon
-wordpress_id: 9066
+permalink: /colophon/
+notes:
+- Main topic page (linked from home)
 ---
 
 The Scholars' Lab site is written and maintained collaboratively by our staff, graduate fellows, and visiting scholars. We use an up-to-date version of [WordPress](http://wordpress.org) to run the site. Our site theme, Labnotes, is developed in-house and is tailored specifically for our needs, but the code is freely available in our [Github repository](http://github.com/scholarslab/labnotes). The development of the theme involves several tools:

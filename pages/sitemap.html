@@ -1,0 +1,16 @@
+---
+layout: page
+title: Site Map
+permalink: /sitemap/
+notes:
+- Changed name from "Site Index" to "Site Map"
+- We can change it back; I (KBD) just kept accidentally typing 'sitemap' so I figured that might be a more natural name
+---
+
+<ul>
+{% for page in site.pages %}
+{% if page.layout != nil %}
+<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>

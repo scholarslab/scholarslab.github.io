@@ -1,0 +1,54 @@
+---
+layout: default
+title: Progress Tracker
+permalink: /progress-tracker/
+status: finished
+notes:
+- Pre-production page to track progress of site building
+- Should not show once new site is deployed
+---
+
+<div class="progress-big-title"><div>Progress Tracker</div></div>
+
+<div class="progress-main-wrapper">
+	<div class="progress-main-grid">
+		<!-- Columns: -->
+		<div class="progress__column-label--1">#</div>
+		<div class="progress__column-label--2">Page</div>
+		<div class="progress__column-label--3">Status</div>
+		<div class="progress__column-label--4">Notes</div>
+		<!-- end columns-->
+
+		<!-- Main content -->
+		{% for page in site.pages %}
+		{% if page.layout != nil %}
+			<div class="progress-item__num">{{ forloop.index }}</div>
+
+			<div class="progress-item__name">
+				<a href="{{ page.url }}">{{ page.title }}</a>
+			</div>
+
+			<div class="progress-item__status">
+				{% if page.status != nil %}
+					<div class="progress-status__active"><span>></span>{{ page.status }}</div>
+				{% else %}
+					<div><span>></span>not started</div>
+				{% endif %}
+			</div>
+
+			<div class="progress-item__notes">
+				{% if page.notes != nil %}
+					<ul>
+					{% for note in page.notes %}
+						<li>{{ note }}</li>
+					{% endfor %}
+					</ul>
+				{% else %}
+					<div>--</div>
+				{% endif %}
+			</div>
+		{% endif %}
+		{% endfor %}
+		<!-- end main content -->
+	</div>
+</div>

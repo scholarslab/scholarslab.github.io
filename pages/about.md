@@ -1,12 +1,9 @@
 ---
-author: admin
-comments: false
-date: 2008-08-05 19:30:50+00:00
 layout: page
-link: http://scholarslab.org/about/
-permalink: /about/
 title: About
-wordpress_id: 77
+permalink: /about/
+notes:
+- Main topic page
 ---
 
 

@@ -1,12 +1,10 @@
 ---
-author: admin
-comments: true
-date: 2014-09-02 13:53:58+00:00
 layout: page
-link: http://scholarslab.org/geospatial-services/
-permalink: /geospatial-services/
 title: Geospatial Services
-wordpress_id: 10917
+permalink: /geospatial-services/
+notes:
+- Are we keeping this page, or combining it? Ask people ASAP; we need to just decide.
+- Can always go back to old way if doesn't work as well as anticipated.
 ---
 
 As part of [the Spatial Technologies group](/spatial-technologies), our expert staff supports application of GIS and mapping technologies across the disciplines. We also provide consultation on data and software for research and classroom use.

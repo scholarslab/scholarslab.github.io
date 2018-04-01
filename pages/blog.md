@@ -1,9 +1,12 @@
 ---
-comments: false
 layout: page
-link: http://scholarslab.org/blog/
-permalink: /blog/
 title: Blog
+permalink: /blog/
+status: in progress
+notes:
+- Main topic page
+- Not started here, but layout for preview & single-post both exist in patterns repo
+- /text/ in this repo is also a pattern for blog posts
 ---
 
 {% for post in site.posts %}

@@ -1,12 +1,11 @@
 ---
-author: ericdmj
-comments: true
-date: 2012-10-04 20:51:00+00:00
 layout: page
-link: http://scholarslab.org/about/hours-and-spaces/
-permalink: /hours-and-spaces/
 title: Hours and Spaces
-wordpress_id: 6272
+permalink: /hours-and-spaces/
+notes:
+- This is the page to which you should add Beth's diagram(s)
+- Make more prominently linked on homepage
+- This is one of the footer links
 ---
 
 The Common Room of the Scholars' Lab is open [whenever Alderman is](http://www.library.virginia.edu/hours/#!/scholars-lab,alderman), and during the semester our central [Makerspace](http://www.scholarslab.org/makerspace/) is staffed from **1:00 pm - 7:00 pm, Monday through Thursday and 1:00 pm - 5:00 pm, Friday**. Visit the Common Room, Seminar Room (Alderman 423), and Classroom (Alderman 421)! Scholars' Lab [staff](http://scholarslab.org/people) offices are nearby, where [our grad fellows](http://www.scholarslab.org/graduate-fellowships/) also have access to a workspace and office.
