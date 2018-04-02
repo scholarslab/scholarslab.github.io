@@ -61,10 +61,9 @@ notes:
 		<!-- column labels -->
 		<div class="progress__column-label--1">#</div>
 		<div class="progress__column-label--2">Task</div>
-		<!--div class="progress__column-label--3">Phase</div-->
+		<div class="progress__column-label--3">Size</div>
 		<div class="progress__column-label--4">Status</div>
-		<div class="progress__column-label--5">Size</div>
-		<div class="progress__column-label--6">Notes</div>
+		<div class="progress__column-label--5">Notes</div>
 
 		<!-- main content -->
 		{% assign phaseone = site.todo | where: "phase", "1" %}
@@ -78,6 +77,8 @@ notes:
 
 			<!--div class="progress-item__phase">{{ item.phase }}</div-->
 
+			<div class="progress-item__time">{{ item.time-required }}</div>
+
 			<div class="progress-item__status">
 				{% if item.status != nil %}
 					<div class="progress-status__active"><span>></span>{{ item.status }}</div>
@@ -85,8 +86,6 @@ notes:
 					<div><span>></span>not started</div>
 				{% endif %}
 			</div>
-
-			<div class="progress-item__time">{{ item.time-required }}</div>
 
 			<div class="progress-item__notes">
 				{% if item.notes != nil %}
