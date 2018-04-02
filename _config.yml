@@ -43,6 +43,9 @@ collections:
   events:
     output: true
     permalink: /:collection/:name/
+  todo:
+    output: true
+    permalink: /:collection/:name/
 
 header_pages:
   - about.md
