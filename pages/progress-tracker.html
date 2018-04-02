@@ -56,12 +56,12 @@ notes:
 
 	<div class="progress-other-grid">
 		<!-- grid title -->
-		<div class="progress-other__title">Other</div>
+		<div class="progress-other__title">Phase 1, Other</div>
 
 		<!-- column labels -->
 		<div class="progress__column-label--1">#</div>
 		<div class="progress__column-label--2">Task</div>
-		<div class="progress__column-label--3">Phase</div>
+		<!--div class="progress__column-label--3">Phase</div-->
 		<div class="progress__column-label--4">Status</div>
 		<div class="progress__column-label--5">Size</div>
 		<div class="progress__column-label--6">Notes</div>
@@ -76,7 +76,7 @@ notes:
 				<a href="{{ item.url }}">{{ item.title }}</a>
 			</div>
 
-			<div class="progress-item__phase">{{ item.phase }}</div>
+			<!--div class="progress-item__phase">{{ item.phase }}</div-->
 
 			<div class="progress-item__status">
 				{% if item.status != nil %}
@@ -89,9 +89,9 @@ notes:
 			<div class="progress-item__time">{{ item.time-required }}</div>
 
 			<div class="progress-item__notes">
-				{% if page.notes != nil %}
+				{% if item.notes != nil %}
 					<ul>
-					{% for note in page.notes %}
+					{% for note in item.notes %}
 						<li>{{ note }}</li>
 					{% endfor %}
 					</ul>
