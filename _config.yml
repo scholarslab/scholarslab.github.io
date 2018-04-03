@@ -46,6 +46,9 @@ collections:
   todo:
     output: true
     permalink: /:collection/:name/
+  fake-blog:
+    output: true
+    permalink: /:year/:month/:day/:title/
 
 header_pages:
   - about.md
