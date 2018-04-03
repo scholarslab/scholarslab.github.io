@@ -6,6 +6,6 @@ phase: 1
 time-required: small
 notes:
 - Don't like the way handled strong tag text details, redo that
-- Manually copy/paste text of rest of fellowships/internships into format already created
+- 'Options: manually copy/paste text of rest of fellowships/internships into pages/fellowship.html format, OR register as collection'
 - Format is under /fellowship/
 ---
