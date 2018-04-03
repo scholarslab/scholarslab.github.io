@@ -1,16 +1,21 @@
 ---
 layout: default
 ---
+
 {% assign authors = site.people | where: "slug", page.author %}
-<!-- {% for author in authors %}
-    {% unless author.slug == page.author %}
-        {% assign authors = page.author %}
-    {% endunless %}
-{% endfor %} -->
-<article class="single post">
-  <header>
-    <h1>{{ page.title }}</h1>
-    <span class="author">By
+
+<article class="blog-post-wrapper">
+
+  <div class="post-main-content">
+
+    <div class="post__big-title">{{ page.title }}</div>
+
+    <!-- insert pull quote here -->
+
+    <div class="post__metadata">
+      <div class="post-meta__dek">&ldquo;{{ page.punchy-quote }}&rdquo;</div>
+      <div class="post-meta__author">
+        <span>By</span>
         {% for author in authors %}
             <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
         {% endfor %}
@@ -20,12 +25,37 @@ layout: default
                     {{ name | capitalize}}
                 {% endfor %}
         {% endif %}
-</span>
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      </div>
+      <div class="post-meta__date">Posted <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></div>
+      <div class="post-meta__categories">Filed under:
+        {% for c in page.categories %}
+        {% assign last = page.categories | last %}
+        {% if c == last %} <a href="#">{{ c }}</a>
+        {% else %} <a href="#">{{ c }}</a>,
+        {% endif %}{% endfor %}
+      </div>
+    </div>
+
+    <!--span class="author">By
+        {% for author in authors %}
+            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
+        {% endfor %}
+        {% if authors == empty %}
+            {% assign author = page.author | split: '-' %}
+                {% for name in author %}
+                    {{ name | capitalize}}
+                {% endfor %}
+        {% endif %}
+    </span>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time-->
   </header>
+
+
   <div class="content">
   {{ content }}
   </div>
+
+
   <footer>
     {% for author in authors %}
       {% assign author_categories = author.people-category | join: "," %}
@@ -52,4 +82,4 @@ layout: default
             . "{{ page.title }}". Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</p>
     {% endif %}
   </footer>
-</article>
+</div>
