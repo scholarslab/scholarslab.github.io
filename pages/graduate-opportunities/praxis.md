@@ -1,8 +1,11 @@
 ---
 layout: page
-permalink: /praxis-program-fellowships/
-slug: praxis-program-fellowships
 title: Praxis Program Fellowships
+permalink: /praxis-program-fellowships/
+status: in progress
+notes:
+- Fellowship layout (see section "Other")
+- Change YAML 'layout' to 'fellowship' once finished
 ---
 
 **Applications are due February 15th, 2018 for the 2018-2019 cohort**. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.

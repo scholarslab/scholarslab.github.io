@@ -1,8 +1,11 @@
 ---
 layout: page
-permalink: /professional-development/
-slug: professional-development
 title: Professional Development
+permalink: /professional-development/
+status: in progress
+notes:
+- Fellowship layout (see section "Other")
+- Change YAML 'layout' to 'fellowship' once finished
 ---
 
 The Scholars’ Lab prioritizes the personal and professional development of all those in the UVA community. In particular, we offer a variety of opportunities to support the research, teaching, and pedagogical growth of our graduate students. Some of these take place on a regular basis through our programming and events, while some are offered by request. We're happy to offer research consultations to jump-start your digital project, either one-on-one or with a number of our staff in a design jam format. With years of experience in the field, we can also help your project development by aiding in literature and project surveys that might help as you create dh-inflected exams lists or pitch alternative, digital projects for course assignments during your time at UVA.
