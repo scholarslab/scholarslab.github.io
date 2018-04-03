@@ -11,7 +11,9 @@ notes:
 <div class="progress-big-title"><div>Progress Tracker</div></div>
 
 <div class="progress-main-wrapper">
-	<div class="progress-main-grid">
+	<div class="progress-pages-grid">
+		<div class="progress-pages__title">Pages</div>
+
 		<!-- Columns: -->
 		<div class="progress__column-label--1">#</div>
 		<div class="progress__column-label--2">Page</div>
@@ -49,6 +51,53 @@ notes:
 			</div>
 		{% endif %}
 		{% endfor %}
-		<!-- end main content -->
-	</div>
+		<!-- end main content -->		
+	</div> <!-- end pages grid -->
+
+	<div class="progress-other-grid">
+		<!-- grid title -->
+		<div class="progress-other__title">Phase 1, Other</div>
+
+		<!-- column labels -->
+		<div class="progress__column-label--1">#</div>
+		<div class="progress__column-label--2">Task</div>
+		<div class="progress__column-label--3">Size</div>
+		<div class="progress__column-label--4">Status</div>
+		<div class="progress__column-label--5">Notes</div>
+
+		<!-- main content -->
+		{% assign phaseone = site.todo | where: "phase", "1" %}
+
+		{% for item in phaseone %}
+			<div class="progress-item__num">{{ forloop.index }}</div>
+
+			<div class="progress-item__name">
+				<a href="{{ item.url }}">{{ item.title }}</a>
+			</div>
+
+			<!--div class="progress-item__phase">{{ item.phase }}</div-->
+
+			<div class="progress-item__time">{{ item.time-required }}</div>
+
+			<div class="progress-item__status">
+				{% if item.status != nil %}
+					<div class="progress-status__active"><span>></span>{{ item.status }}</div>
+				{% else %}
+					<div><span>></span>not started</div>
+				{% endif %}
+			</div>
+
+			<div class="progress-item__notes">
+				{% if item.notes != nil %}
+					<ul>
+					{% for note in item.notes %}
+						<li>{{ note }}</li>
+					{% endfor %}
+					</ul>
+				{% else %}
+					<div>--</div>
+				{% endif %}
+			</div>
+		{% endfor %}
+	</div> <!-- end other grid -->
 </div>

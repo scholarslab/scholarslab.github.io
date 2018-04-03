@@ -1,8 +1,11 @@
 ---
 layout: page
-permalink: /digital-humanities-fellows/
-slug: digital-humanities-fellows
 title: Digital Humanities Fellows Program
+permalink: /digital-humanities-fellows/
+status: in progress
+notes:
+- Fellowship layout (see section "Other")
+- Change YAML 'layout' to 'fellowship' once finished
 ---
 
 We are now accepting applications for the 2018-2019 DH Fellows Cohort. Please visit [https://tinyurl.com/SLabDHFellows2018-2019](https://tinyurl.com/SLabDHFellows2018-2019) for complete information.
