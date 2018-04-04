@@ -78,7 +78,7 @@ layout: default
 
         <!-- cite post -->
         <div class="post-author__citation">
-          <p>Cite this post: {{ author.name }}. "{{ page.title }}". Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</p>
+          <p>Cite this post: {{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</p>
         </div>
 
       {% endfor %}
@@ -96,7 +96,7 @@ layout: default
           {% for name in author %}
             {{ name | capitalize}}
           {% endfor %}
-          . &ldquo;{{ page.title }}&ldquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.
+          . &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.
           </p>
         </div>
       {% endif %}
