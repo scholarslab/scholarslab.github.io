@@ -4,6 +4,7 @@ date: 2013-01-16 12:06:34+00:00
 layout: post
 slug: but-i-dont-like-programming-gender-and-our-division-of-labor
 title: '...but I don''t like programming: gender and our division of labor'
+pull-quote: "There are structured reasons why men often have more programming experience than women.    There are even structured reasons whyI have no great desire to be a programmer."
 categories:
 - Grad Student Research
 tags:
