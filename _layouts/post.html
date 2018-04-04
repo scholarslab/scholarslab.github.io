@@ -59,21 +59,25 @@ layout: default
       {% for author in authors %} <!-- if there is a listed author -->
         {% assign author_categories = author.people-category | join: "," %}
 
-        <!-- display person pic if exists -->
-        {% for image in site.static_files %}
-          {% if image.path contains page.author %}
-              <div class="post-author__image"><img src="{{ site.baseurl }}/assets/img/people/{{ page.author }}.jpg" alt="{{ author.name }}"></div>
-          {% endif %}
-        {% endfor %}
-
-        <!-- link to author's person page -->
         <div class="post-author__info">
-          <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
-          <!-- list position if relevant: -->
-          {% if author_categories contains 'Staff' %}
-            {% if author.status == 'current' %}is{% else %}was{% endif %}
-              {{ author.position }} in the {{ site.title }}.
-          {% endif %}
+          <!-- display person pic if exists -->
+          {% for image in site.static_files %}
+            {% if image.path contains page.author %}
+                <div class="post-author__image">
+                  <img src="{{ site.baseurl }}/assets/img/people/{{ page.author }}.jpg" alt="{{ author.name }}">
+                </div>
+            {% endif %}
+          {% endfor %}
+
+          <!-- link to author's person page -->
+          <div class="post-author__link">
+            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
+            <!-- list position if relevant: -->
+            {% if author_categories contains 'Staff' %}
+              {% if author.status == 'current' %}is{% else %}was{% endif %}
+                {{ author.position }} in the {{ site.title }}.
+            {% endif %}
+          </div>
         </div>
 
         <!-- cite post -->
