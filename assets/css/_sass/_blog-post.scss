@@ -1,3 +1,24 @@
+/* Blog Post: */
+
+/* Universal Styles */
+
+[class*="post-"] {
+	a {
+	/*	font-family: "base-mono-narrow", monospace;
+		text-decoration: none;
+		color: black; */
+		border-bottom: 2px solid hsla(186,80%,70%,1) !important;
+	/*	background-color: transparent;
+		-webkit-transition: background-color .3s;
+		transition: background-color .3s; */
+		&:hover, &:focus {
+			background-color: hsla(186,80%,70%,1) !important;
+		}
+	}
+}
+
+/* Main Content */
+
 .blog-post-wrapper {
 	position: relative;
 	padding: 0em 4.167%;
