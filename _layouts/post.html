@@ -33,6 +33,8 @@ layout: default
 
       <div class="post-meta__date">Posted <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></div>
 
+      {% assign catsize = page.categories | size %}
+      {% if catsize >= 1 %}
       <div class="post-meta__categories">Filed under:
         {% for c in page.categories %}
         {% assign last = page.categories | last %}
@@ -40,7 +42,10 @@ layout: default
         {% else %} <a href="#">{{ c }}</a>,
         {% endif %}{% endfor %}
       </div>
+      {% endif %}
 
+      {% assign tagsize = page.tags | size %}
+      {% if tagsize >= 1 %}
       <div class="post-meta__tags">Tagged as:
         {% for t in page.tags%}
         {% assign last = page.tags | last %}
@@ -48,8 +53,11 @@ layout: default
         {% else %} <a href="#">{{ t }}</a>,
         {% endif %}{% endfor %}
       </div>
+      {% endif %}
+
     </div> <!-- end metadata -->
 
+    <!-- text of post -->
     <div class="post__content">
       {{ content }}
     </div>
