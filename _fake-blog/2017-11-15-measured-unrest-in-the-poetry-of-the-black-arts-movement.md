@@ -4,6 +4,7 @@ author: ethan-reed
 date: 2017/11/15 15:07:10+00:00
 slug: measured-unrest-in-the-poetry-of-the-black-arts-movement
 layout: post
+pull-quote: 'These works are frustrated, pissed off with how things are, and unafraid to speak truth to power in a direct, seemingly “un-literary” way.'
 categories:
 - Digital Humanities
 - Grad Student Research
