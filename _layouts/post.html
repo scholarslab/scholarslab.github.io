@@ -90,7 +90,8 @@ layout: default
 
         <!-- cite post -->
         <div class="post-author__citation">
-          <p>Cite this post: {{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</p>
+          <p>
+            <span>Cite this post: </span><span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</span></p>
         </div>
 
       {% endfor %}
