@@ -60,6 +60,7 @@
 
 .post__metadata {
 	grid-area: meta;
+	margin-bottom: .5rem; // + 1rem default <p> spacing = line hieght
 }
 
 .post-meta__quote {
