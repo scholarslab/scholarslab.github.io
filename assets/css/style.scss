@@ -133,6 +133,7 @@ body {
 [class*="home-"], [class*="maker-"], [class*="post-"] {
 	a {
 		font-family: "base-mono-narrow", monospace;
+	//	font-weight: bold; // >>>>>>>>>>>>>>>>> undo this and redo it as a separate commit
 		text-decoration: none;
 		color: black;
 		border-bottom: 2px solid magenta;
