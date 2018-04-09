@@ -12,6 +12,7 @@
 @import "fellowship";
 @import "research";
 @import "progress-tracker"; // only while site under production
+@import "blog-post";
 
 * {
 	box-sizing: border-box;
@@ -129,9 +130,10 @@ body {
 
 /* All homepage links: */
 
-[class*="home-"], [class*="maker-"] {
+[class*="home-"], [class*="maker-"], [class*="post-"] {
 	a {
 		font-family: "base-mono-narrow", monospace;
+	//	font-weight: bold; // >>>>>>>>>>>>>>>>> undo this and redo it as a separate commit
 		text-decoration: none;
 		color: black;
 		border-bottom: 2px solid magenta;
