@@ -63,12 +63,32 @@
 	margin-bottom: .5rem; // + 1rem default <p> spacing = line hieght
 }
 
-.post-meta__quote {
+[class*="post-meta__"] {
+	position: relative;
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
+	line-height: 1;
+	a {
+		font-family: "base-mono-narrow", monospace !important;
+//		border-bottom: 2px solid transparent !important;
+	}
+}
 
+.post-meta__quote {
+//	display: none;
+	margin-bottom: 1em;
+	font-size: 1.5rem;
+//	font-style: italic;
+	line-height: 1;
+	font-family: "Raleway", sans-serif;
+	font-weight: 900;
+	color: rgba(0,0,0,.5);
 }
 
 .post-meta__author {
-
+	display: inline-block;
+	padding-right: 1em;
+//	font-weight: 700 !important;
 }
 
 .post-meta__date {
@@ -87,12 +107,16 @@
 	}
 }
 
-.post-meta__categories {
-
+.post-meta__categories, .post-meta__tags {
+//	display: none;
+	margin-top: 2px;
+	a {
+		color: rgba(0,0,0,.5) !important;
+	}
 }
 
 .post-meta__tags {
-
+	display: none;
 }
 
 /* Text Content: */
