@@ -139,24 +139,31 @@
 
 /* Footer: */
 
-.post__author-credits {
+.post__credits {
 	position: relative;
 	grid-area: footer;
 }
 
-.post-author__info {
-	display: flex;
+.post-credits__author {
+//	display: flex;
+	align-items: center;
+	display: none;
 }
 
 .post-author__image {
 	position: relative;
+	height: 64px;
+	width: 64px;
+	border-radius: 50%;
+	overflow: hidden;
 	img {
 		height: 100px;
 	}
 }
 
-.post-author__link {
+.post-author__name {
 	position: relative;
+	padding-left: 1rem;
 }
 
 .post-author__citation {
