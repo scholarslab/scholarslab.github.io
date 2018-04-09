@@ -166,6 +166,33 @@
 	padding-left: 1rem;
 }
 
-.post-author__citation {
-
+.post-credits__citation {
+	position: relative;
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
+	color: rgba(0,0,0,.5);
+	span {
+		display: block;
+		padding: 1.5rem 0 .5rem 0;
+		font-family: "Raleway", sans-serif;
+		font-weight: 900;
+		line-height: 1;
+	//	text-decoration: underline;
+	}
+	a {
+		font-family: inherit !important;
+		font-weight: inherit;
+		color: inherit !important;
+		border: inherit !important;
+	}
+	&::before {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 2px;
+		width: 33%;
+		background-color: hsla(186,80%,70%,.7);
+	}
 }
