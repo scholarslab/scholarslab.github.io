@@ -37,12 +37,23 @@
 /* Post Title: */
 
 .post__big-title {
+	position: relative;
 	grid-area: title;
 	margin-bottom: .5em;
 	margin-top: calc(60px + 1em);
 	font-size: 3rem;
 	font-weight: 900;
 	line-height: 1;
+	span {
+		display: block;
+		padding-bottom: .5em;
+		font-size: .5em;
+		font-family: "base-mono-wide";
+	//	font-weight: 400;
+		text-transform: uppercase;
+		color: hsla(186,80%,70%,1);
+	//	transform: translate(0, 6px);
+	}
 }
 
 /* Metadata: */
