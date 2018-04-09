@@ -62,12 +62,12 @@ layout: default
       {{ content }}
     </div>
 
-    <footer class="post__author-credits">
+    <footer class="post__credits">
       <!-- START BLOCK -->
       {% for author in authors %} <!-- if there is a listed author -->
         {% assign author_categories = author.people-category | join: "," %}
 
-        <div class="post-author__info">
+        <div class="post-credits__author">
           <!-- display person pic if exists -->
           {% for image in site.static_files %}
             {% if image.path contains page.author %}
@@ -78,7 +78,7 @@ layout: default
           {% endfor %}
 
           <!-- link to author's person page -->
-          <div class="post-author__link">
+          <div class="post-author__name">
             <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
             <!-- list position if relevant: -->
             {% if author_categories contains 'Staff' %}
@@ -89,9 +89,8 @@ layout: default
         </div>
 
         <!-- cite post -->
-        <div class="post-author__citation">
-          <p>
-            <span>Cite this post: </span><span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.</span></p>
+        <div class="post-credits__citation">
+            <span>Cite this post: </span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.
         </div>
 
       {% endfor %}
