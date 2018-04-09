@@ -4,13 +4,9 @@
 
 [class*="post-"] {
 	a {
-	/*	font-family: "base-mono-narrow", monospace;
-		text-decoration: none;
-		color: black; */
+		font-family: "Raleway", sans-serif !important;
+		font-weight: bold;
 		border-bottom: 2px solid hsla(186,80%,70%,1) !important;
-	/*	background-color: transparent;
-		-webkit-transition: background-color .3s;
-		transition: background-color .3s; */
 		&:hover, &:focus {
 			background-color: hsla(186,80%,70%,1) !important;
 		}
