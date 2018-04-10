@@ -18,7 +18,6 @@
 	overflow: hidden;
 	width: 100%;
 	padding-left: 4.167%;
-//	background-color: black;
 	@media screen and (min-width: 600px) {
 		padding: 0 8.33%;
 	}
@@ -70,7 +69,6 @@
 	margin-top: 1.5em;
 	padding-bottom: 1em;
 	font-size: 1rem;
-//	color: white;
 	@media screen and (min-width: 600px) {
 		font-size: 1.5rem;
 	}
@@ -90,11 +88,6 @@
 	@media screen and (min-width: 600px) {
 		padding: 1em 8.33%;
 	}
-	/* ADD TO ALL MAIN CONTENT DEFS: */
-	@media screen and (min-width: 1024px) {
-	//	max-width: calc(1000px + 16.67%);
-	//	margin: 0 auto;
-	}
 }
 
 /* Galleries: */
@@ -105,7 +98,6 @@
 	margin-bottom: .5em;
 	font-size: 2rem;
 	font-weight: 900;
-//	font-family: "Oswald";
 	text-transform: uppercase;
 	line-height: 1;
 }
@@ -159,20 +151,9 @@
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: center;
-//	min-height: 250px;
 	min-width: 250px;
 	margin-bottom: 2em;
 	margin-right: 2em;
-//	border: 1px solid rgba(0,0,0,.15);
-//	border: 2px solid black;
-/*	&:nth-of-type(2) {
-		grid-row: 2 / span 4;
-		grid-column: 2;
-	}
-	&:nth-of-type(3) {
-		grid-row: 3 / span 4;
-		grid-column: 3;
-	} */
 	a {
 		text-decoration: none;
 	}
@@ -180,19 +161,12 @@
 
 .research-item__img {
 	position: relative;
-//	width: 200px;
-//	margin: 0 auto;
 	width: 300px;
 	height: 200px;
 	overflow: hidden;
-//	border: 4px solid rgba(0,0,0,.7);
-//	border: 1px solid rgba(0,0,0,.15);
 	img {
 		position: absolute;
-	//	min-width: 300px;
 		min-height: 100%;
-	//	min-width: 100%;
-		
 	}
 }
 
@@ -208,6 +182,5 @@
 
 .research-item__year {
 	margin-top: .25rem;
-//	font-weight: 300;
 	color: rgba(0,0,0,.5);
 }
