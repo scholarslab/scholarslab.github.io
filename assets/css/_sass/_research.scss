@@ -140,19 +140,19 @@
 .research-items-wrapper {
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(calc(275px + 3rem), 1fr));
-	margin: 1rem auto;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	margin-top: 1rem;
 }
 
 /* Items: */
 
 .research__item {
 	position: relative;
-	width: 275px;
-	height: 275px;
-	margin-bottom: 3rem;
-	margin-right: .75rem;
-	margin-left: .75rem;
+//	width: 275px;
+//	height: 275px;
+//	margin-bottom: 3rem;
+//	margin-right: .75rem;
+//	margin-left: .75rem;
 	background-color: white;
 	a {
 		text-decoration: none;
