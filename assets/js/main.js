@@ -2,6 +2,7 @@
 	// Research gallery:
 	(function() {
 		var items = document.querySelectorAll(".research__item");
+		var galleries = document.querySelectorAll(".research-items-wrapper");
 
 		document.addEventListener("DOMContentLoaded", setItemHeight)
 
@@ -13,6 +14,11 @@
 			for (let item of items) {
 				var newHeight = width.toString() + "px";
 				item.style.height = newHeight;
+			}
+
+			var rowHeight = (width / 2).toString() + "px";
+			for (let gallery of galleries) {
+				gallery.style.gridAutoRows = "minmax(" + rowHeight + ", auto)";
 			}
 		}
 	})();
