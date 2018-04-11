@@ -85,8 +85,9 @@
 .research-main-content {
 	position: relative;
 	padding: 1em 4.167%;
+	background-color: rgba(0,0,0,.9);
 	@media screen and (min-width: 600px) {
-		padding: 1em 8.33%;
+	//	padding: 1em 8.33%;
 	}
 }
 
@@ -139,48 +140,94 @@
 .research-items-wrapper {
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-	margin-top: 1em;
+	grid-template-columns: repeat(auto-fit, minmax(calc(275px + 3rem), 1fr));
+	margin: 1rem auto;
 }
 
 /* Items: */
 
 .research__item {
-	grid-row: span 4;
 	position: relative;
-	display: flex;
-	flex-flow: column nowrap;
-	align-items: center;
-	min-width: 250px;
-	margin-bottom: 2em;
-	margin-right: 2em;
+	width: 275px;
+	height: 275px;
+	margin-bottom: 3rem;
+	margin-right: .75rem;
+	margin-left: .75rem;
+	background-color: white;
 	a {
 		text-decoration: none;
+		position: relative;
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		grid-template-rows: repeat(4, 1fr);
+		height: 100%;
+	//	&:hover, &:focus {
+	//		img {
+	//			-webkit-filter: grayscale(100%) blur(2px);
+	//			filter: grayscale(100%) blur(2px);
+	//		}
+	//	}
+	}
+	// workaround on nth-of-type rules
+	&:nth-of-type(4n) {
+		.research-item__img {
+			&::before {
+				background-color: hsla(186,80%,50%,.7);
+			}
+		}
 	}
 }
 
 .research-item__img {
+	grid-row: 1 / -1;
+	grid-column: 1 / -1;
 	position: relative;
-	width: 300px;
-	height: 200px;
+//	min-width: 300px;
+//	height: 300px;
 	overflow: hidden;
+//	z-index: -1;
 	img {
 		position: absolute;
-		min-height: 100%;
+		max-height: 100%;
+		-webkit-filter: grayscale(100%) blur(1px);
+		filter: grayscale(100%) blur(1px);
+	//	-webkit-transition: filter .3s;
+	//	transition: filter .3s;
+	}
+	&::before {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		display: block;
+		height: 100%;
+		width: 100%;
+		z-index: 1;
+		background-color: hsla(300,100%,40%,.7);
 	}
 }
 
 .research-item__title, .research-item__year {
+	grid-column: 1 / -1;
 	margin-top: .5em;
+	padding: 0 1em;
 	font-family: "Oswald", sans-serif;
-	font-weight: 400;
-	font-size: 1.5rem;
+	font-weight: 600;
+	font-size: 2rem;
 	text-transform: uppercase;
 	line-height: 1;
 	color: black;
+	z-index: 1;
+}
+
+.research-item__title {
+	grid-row: 2;
+	align-self: end;
 }
 
 .research-item__year {
+	grid-row: 3;
+	align-self: start;
 	margin-top: .25rem;
-	color: rgba(0,0,0,.5);
+	color: rgba(0,0,0,.7);
 }
