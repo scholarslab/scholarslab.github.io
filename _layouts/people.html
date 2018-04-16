@@ -1,26 +1,38 @@
 ---
-layout: page
+layout: default
 ---
-{{ content }}
 
-{% assign profile_pictures = site.static_files | where: "basename",page.slug | limit: 1 %}
+<div class="person-main-content" aria-label="Main content">
 
-{% if profile_pictures == empty %}
-    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
-{% else %}
-    {% for profile_picture in profile_pictures %}
-      <img src="{{ profile_picture.path }}" alt="{{ page.slug }}">
-    {% endfor %}
-{% endif %}
+	<div class="person__page-type">Single person</div>
 
-{% assign author_posts = site.posts | where: "author", page.slug %}
-{% if author_posts %}
-  <h2>Posts by {{ page.title }}</h2>
-  <nav class="posts">
-    <ul>
-    {% for post in author_posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</li>
-    {% endfor %}
-    </ul>
-  </nav>
-{% endif %}
+	<div class="person__big-title">
+		<div class="person-title__title">Title of person</div>
+		<div class="person-title__text">E.g. name, event, etc.</div>
+	</div>
+
+	<div class="person__img">
+		<img src="{{ '/assets/img/scholarslab.png' | relative_url }}" alt="Twitter icon">
+	</div>
+
+	<div class="person__description">
+		<div class="person-describe__title">About</div>
+		<div class="person-describe__text">{{ content }}</div>
+	</div>
+
+	<div class="person__stats"> <!-- using components/stats-box.scss -->
+		<div class="person-stats__box">
+			<div>Stats Box Title</div>
+			<span>Stat 1:</span>Value<br/>
+			<span>Stat 2:</span>Value<br/>
+			<span>Stat 3:</span>Value<br/>
+			<span>Stat 4:</span>Value
+		</div>
+	</div>
+
+	<!-- insert any additional info, like a list of all posts by a certain person. 
+		 This is just a boilerplate model. -->
+
+	<div class="person__cta"><a href="#">&lsaquo; See All</a></div> <!-- using components/link-button.scss -->
+
+</div>
