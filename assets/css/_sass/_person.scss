@@ -1,6 +1,6 @@
-/* Person Page Styles */
+/* Person Page: */
 
-/* Universal page styles: */
+/* Universal */
 
 // section titles
 [class*="__title"][class*="person-"] {
@@ -15,49 +15,29 @@
 	}
 }
 
-// button-style links
-[class*="__cta"][class*="person"] {
-	position: relative;
-	margin-top: 1em;
-	a {
-		display: inline-block;
-		padding: .25rem .5em;
-		margin-top: 4px;
-		font-size: 1.5rem;
-	//	font-family: "Inconsolata", monospace;
-		font-family: "base-mono-wide", monospace;
-		font-weight: 700;
-		line-height: 1;
-		text-decoration: none;
-		text-transform: uppercase;
-		color: cyan;
-		border: 2px solid cyan;
-		&:hover, &:focus {
-			background-color: transparent;
-		}
-	}
-}
 
 /* Main styles: */
 
+.person-wrapper {
+	padding: 0 4.167%;
+	padding-top: calc(1em + 60px);
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+		padding-top: calc(3rem + 60px); // 2 line heights
+	}
+}
+
 .person-main-content {
+	position: relative;
 	display: grid;
-	grid-template-areas: "type" 
-						 "title"
+	grid-template-areas: "title"
 						 "img"
 						 "stats"
 						 "describe"
 						 "button";
 	grid-template-columns: 1fr;
-	padding: 0 4.167%;
-	padding-top: 1em;
-	@media screen and (min-width: 600px) {
-		padding: 0 8.33%;
-		padding-top: 1em;
-	}
 	@media screen and (min-width: 768px) {
-		grid-template-areas: "type type"
-							 "title img"
+		grid-template-areas: "title img"
 							 "stats img"
 							 "describe describe"
 							 "button button";
@@ -65,59 +45,25 @@
 	}
 }
 
-// variant w/o image included
-.person-main-content--no-image {
-	display: grid;
-	grid-template-areas: "type"
-						 "title"
-						 "stats"
-						 "describe"
-						 "button";
-	grid-template-columns: 1fr;
-	padding: 0 4.167%;
-	padding-top: 1em;
-	@media screen and (min-width: 600px) {
-		padding: 0 8.33%;
-		padding-top: 1em;
-	}
-	@media screen and (min-width: 768px) {
-		grid-template-areas: "type type"
-							 "title stats"
-							 "describe describe"
-							 "button button";
-		grid-template-columns: 1fr 1fr;
-	}
-}
-
-/* Page Type: */
-
-.person__page-type {
-	grid-area: type;
-	justify-self: center;
-	position: relative;
-	margin-top: 1em;
-	margin-bottom: .5em;
-	font-family: "Oswald", sans-serif;
-	font-size: 4rem;
-	font-weight: 600;
-	text-transform: uppercase;
-	line-height: 1;
-}
-
-/* person Title: */
+/* Name: */
 
 .person__big-title {
-	grid-area: title;
 	position: relative;
-	margin-bottom: 2em;
-}
-
-.person-title__title {
-	margin-top: 0 !important;
-}
-
-.person-title__text {
-
+	grid-area: title;
+	margin-bottom: .5em;
+	font-size: 3rem;
+	font-weight: 900;
+	line-height: 1;
+	span {
+		display: block;
+		padding-bottom: .5em;
+		font-size: .5em;
+		font-family: "base-mono-wide";
+	//	font-weight: 400;
+		text-transform: uppercase;
+		color: hsla(186,80%,70%,1);
+	//	transform: translate(0, 6px);
+	}
 }
 
 /* Image: */
@@ -138,6 +84,10 @@
 
 .person__description {
 	grid-area: describe;
+	@media screen and (min-width: 1024px) {
+		max-width: 800px;
+		margin: 0 auto;
+	}
 }
 
 .person-describe__title {
