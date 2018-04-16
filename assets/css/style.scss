@@ -176,7 +176,7 @@ body {
 		color: cyan;
 		border: 2px solid cyan;
 		&:hover, &:focus {
-			background-color: transparent;
+			background-color: transparent !important;
 		}
 		span {
 			display: none;
