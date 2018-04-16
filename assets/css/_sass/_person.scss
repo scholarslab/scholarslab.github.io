@@ -1,0 +1,188 @@
+/* Person Page Styles */
+
+/* Universal page styles: */
+
+// section titles
+[class*="__title"][class*="person-"] {
+	margin-bottom: .5em;
+	margin-top: 1em;
+	font-size: 1.75rem;
+	font-weight: 900;
+	line-height: 1;
+	text-transform: uppercase;
+	@media screen and (min-width: 600px) {
+		font-size: 2rem;
+	}
+}
+
+// button-style links
+[class*="__cta"][class*="person"] {
+	position: relative;
+	margin-top: 1em;
+	a {
+		display: inline-block;
+		padding: .25rem .5em;
+		margin-top: 4px;
+		font-size: 1.5rem;
+	//	font-family: "Inconsolata", monospace;
+		font-family: "base-mono-wide", monospace;
+		font-weight: 700;
+		line-height: 1;
+		text-decoration: none;
+		text-transform: uppercase;
+		color: cyan;
+		border: 2px solid cyan;
+		&:hover, &:focus {
+			background-color: transparent;
+		}
+	}
+}
+
+/* Main styles: */
+
+.person-main-content {
+	display: grid;
+	grid-template-areas: "type" 
+						 "title"
+						 "img"
+						 "stats"
+						 "describe"
+						 "button";
+	grid-template-columns: 1fr;
+	padding: 0 4.167%;
+	padding-top: 1em;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+		padding-top: 1em;
+	}
+	@media screen and (min-width: 768px) {
+		grid-template-areas: "type type"
+							 "title img"
+							 "stats img"
+							 "describe describe"
+							 "button button";
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+// variant w/o image included
+.person-main-content--no-image {
+	display: grid;
+	grid-template-areas: "type"
+						 "title"
+						 "stats"
+						 "describe"
+						 "button";
+	grid-template-columns: 1fr;
+	padding: 0 4.167%;
+	padding-top: 1em;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+		padding-top: 1em;
+	}
+	@media screen and (min-width: 768px) {
+		grid-template-areas: "type type"
+							 "title stats"
+							 "describe describe"
+							 "button button";
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+/* Page Type: */
+
+.person__page-type {
+	grid-area: type;
+	justify-self: center;
+	position: relative;
+	margin-top: 1em;
+	margin-bottom: .5em;
+	font-family: "Oswald", sans-serif;
+	font-size: 4rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	line-height: 1;
+}
+
+/* person Title: */
+
+.person__big-title {
+	grid-area: title;
+	position: relative;
+	margin-bottom: 2em;
+}
+
+.person-title__title {
+	margin-top: 0 !important;
+}
+
+.person-title__text {
+
+}
+
+/* Image: */
+
+.person__img {
+	grid-area: img;
+	position: relative;
+	@media screen and (min-width: 768px) {
+		padding-left: 4.167%;
+		img {
+			width: 95.833%;
+			float: right;
+		}
+	}
+}
+
+/* Description: */
+
+.person__description {
+	grid-area: describe;
+}
+
+.person-describe__title {
+
+}
+
+.person-describe__text {
+
+}
+
+/* Stats: */
+
+.person__stats {
+	grid-area: stats;
+	@media screen and (min-width: 768px) {
+		padding-right: 8.33%; // 4.167%;
+	}
+}
+
+.person-stats__box {
+	position: relative;
+	border: 4px solid cyan;
+	font-family: "base-mono-narrow", monospace;
+	font-size: 20px;
+	text-align: right;
+	margin-top: 1.5em; //calc(2em + 4px);
+	padding: .5em 1em;
+	div {
+		position: absolute;
+		font-family: "Oswald", sans-serif;
+		font-size: 1.5rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		text-align: left;
+		line-height: 1;
+		transform: translate(-1em, calc(-1.5em - 4px));
+	}
+	span {
+		float: left;
+		color: cyan;
+	}
+}
+
+/* Button: */
+
+.person__cta {
+	grid-area: button;
+}
