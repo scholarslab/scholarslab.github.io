@@ -2,37 +2,41 @@
 layout: default
 ---
 
-<div class="person-main-content" aria-label="Main content">
+{% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %}
 
-	<div class="person__page-type">Single person</div>
+<div class="person-wrapper">
+	<div class="person-main-content" aria-label="Main content">
 
-	<div class="person__big-title">
-		<div class="person-title__title">Title of person</div>
-		<div class="person-title__text">E.g. name, event, etc.</div>
-	</div>
+		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
 
-	<div class="person__img">
-		<img src="{{ '/assets/img/scholarslab.png' | relative_url }}" alt="Twitter icon">
-	</div>
-
-	<div class="person__description">
-		<div class="person-describe__title">About</div>
-		<div class="person-describe__text">{{ content }}</div>
-	</div>
-
-	<div class="person__stats"> <!-- using components/stats-box.scss -->
-		<div class="person-stats__box">
-			<div>Stats Box Title</div>
-			<span>Stat 1:</span>Value<br/>
-			<span>Stat 2:</span>Value<br/>
-			<span>Stat 3:</span>Value<br/>
-			<span>Stat 4:</span>Value
+		<div class="person__img">
+			{% if profile_pic == empty %}
+			    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
+			{% else %}
+			    {% for pic in profile_pic %}
+			      <img src="{{ pic.path }}" alt="{{ page.slug }}">
+			    {% endfor %}
+			{% endif %}
 		</div>
+
+		<div class="person__stats"> <!-- using components/stats-box.scss -->
+			<div class="person-stats__box">
+				<div>Around the Web</div>
+				<span>Email:</span>{{ page.email}}<br/>
+				<span>Twitter:</span>@{{ page.twitter }}<br/>
+				<span>Website:</span>Value<br/>
+				<span>Stat 4:</span>Value
+			</div>
+		</div>
+
+		<div class="person__description">
+			<div class="person-describe__title">About</div>
+			<div class="person-describe__text">{{ content }}</div>
+		</div>
+
+		<!-- insert any additional info, like a list of all posts by a certain person. 
+			 This is just a boilerplate model. -->
+
+		<div class="person__cta"><a href="{{ site.baseurl}}/people">&lsaquo; See All</a></div> <!-- using components/link-button.scss -->
 	</div>
-
-	<!-- insert any additional info, like a list of all posts by a certain person. 
-		 This is just a boilerplate model. -->
-
-	<div class="person__cta"><a href="#">&lsaquo; See All</a></div> <!-- using components/link-button.scss -->
-
 </div>
