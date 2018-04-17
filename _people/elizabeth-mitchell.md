@@ -7,7 +7,7 @@ layout: people
 location: None
 name: Elizabeth Mitchell
 position: Community Project Manager
-short_bio: None
+short_bio: 'Elizabeth Mitchell, PhD Candidate in Architectural History, assists with events and provides graphic design work for the Scholars' Lab.'
 slug: elizabeth-mitchell
 status: current
 twitter: None
