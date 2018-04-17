@@ -22,9 +22,15 @@ layout: default
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__box">
 				<div>Around the Web</div>
+				{% if page.email !=  nil %}
 				<span>Email:</span>{{ page.email}}<br/>
+				{% endif %}
+				{% if page.twitter != nil %}
 				<span>Twitter:</span>@{{ page.twitter }}<br/>
-				<span>Website:</span>Value<br/>
+				{% endif %}
+				{% if page.website != 'None' %}
+				<span>Website:</span><!--a href="{{ page.website }}"-->{{ page.website | remove: 'http://'}}<!--/a--><br/>
+				{% endif %}
 				<span>Stat 4:</span>Value
 			</div>
 		</div>
@@ -33,6 +39,21 @@ layout: default
 			<div class="person-describe__title">About</div>
 			<div class="person-describe__text">{{ content }}</div>
 		</div>
+
+		<div class="person__posts">
+		{% assign author_posts = site.posts | where: "author", page.slug %}
+		{% if author_posts.size >= 1 %}
+		  <h2>Posts by {{ page.title }}</h2>
+		  <nav class="posts">
+		    <ul>
+		    {% for post in author_posts %}
+		      <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</li>
+		    {% endfor %}
+		    </ul>
+		  </nav>
+		{% endif %}
+		</div>
+
 
 		<!-- insert any additional info, like a list of all posts by a certain person. 
 			 This is just a boilerplate model. -->
