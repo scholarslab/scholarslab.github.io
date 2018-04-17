@@ -140,6 +140,29 @@
 	grid-area: posts;
 }
 
+.person-posts__title {
+
+}
+
+// <ul>
+.person-posts__list {
+	position: relative;
+	display: flex;
+	margin: 0;
+	list-style-type: none;
+	li {
+		position: relative;
+		display: inline-block;
+		a {
+			display: flex;
+			flex-flow: column nowrap;
+			height: 100%;
+			width: 100%;
+		}
+	}
+
+}
+
 /* Button: */
 
 .person__cta {
