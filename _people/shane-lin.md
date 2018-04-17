@@ -6,7 +6,7 @@ last_name: Lin
 layout: people
 location: ''
 name: Shane Lin
-position: None
+position: Senior Developer
 short_bio: ''
 slug: shane-lin
 status: current
@@ -17,6 +17,7 @@ people-category:
 - 2016-2017
 - Graduate Fellow
 - Praxis Fellow
+- Staff
 - Student Assistant
 ---
 
