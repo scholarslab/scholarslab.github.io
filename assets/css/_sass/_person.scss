@@ -34,12 +34,14 @@
 						 "img"
 						 "stats"
 						 "describe"
+						 "posts"
 						 "button";
 	grid-template-columns: 1fr;
 	@media screen and (min-width: 768px) {
 		grid-template-areas: "title img"
 							 "stats img"
 							 "describe describe"
+							 "posts posts"
 							 "button button";
 		grid-template-columns: 1fr 1fr;
 	}
@@ -71,6 +73,9 @@
 .person__img {
 	grid-area: img;
 	position: relative;
+	img {
+//		max-width: 100%;
+	}
 	@media screen and (min-width: 768px) {
 		padding-left: 4.167%;
 		img {
@@ -109,7 +114,7 @@
 
 .person-stats__box {
 	position: relative;
-	border: 4px solid cyan;
+	border: 4px solid hsla(186,80%,70%,1);
 	font-family: "base-mono-narrow", monospace;
 	font-size: 20px;
 	text-align: right;
@@ -127,12 +132,20 @@
 	}
 	span {
 		float: left;
-		color: cyan;
+		color: hsla(186,80%,70%,1);
 	}
+}
+
+.person__posts {
+	grid-area: posts;
 }
 
 /* Button: */
 
 .person__cta {
 	grid-area: button;
+	a {
+		border-color: hsla(186,80%,70%,1) !important;
+		color: hsla(186,80%,70%,1) !important;
+	}
 }
