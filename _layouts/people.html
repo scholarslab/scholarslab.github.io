@@ -39,7 +39,15 @@ layout: default
 			<div class="person-describe__title">About</div>
 			<div class="person-describe__text">{{ content }}</div>
 			<p> <!-- liquid testing -->
-				<!-- test for praxis/grad fellowships: -->
+				<h3>Categories</h3>
+				<ul>
+				{% if page.people-category contains 'Staff' %}
+					<li>Staff</li>
+				{% endif %}
+				{% if page.people-category contains 'LAMI Fellow' %}
+					<li>{{ page.people-category[0] }} LAMI Fellow</li>
+				{% endif %}
+				</ul>
 			</p>
 		</div>
 
