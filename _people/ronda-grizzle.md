@@ -7,7 +7,7 @@ layout: people
 location: ''
 name: Ronda Grizzle
 position: Project Management & Training Specialist
-short_bio: ''
+short_bio: 'Ronda Grizzle manages projects, teaches digital tools, and tries not to express her opinions about everything all the time. Would pet dogs 24/7 if allowed to.'
 slug: ronda-grizzle
 status: current
 twitter: rondauva

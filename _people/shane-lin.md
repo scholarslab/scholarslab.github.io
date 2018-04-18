@@ -7,7 +7,7 @@ layout: people
 location: ''
 name: Shane Lin
 position: None
-short_bio: ''
+short_bio: 'Shane Lin randomly presses buttons on his keyboard, but we live in a universe where this results in mostly compilable code.'
 slug: shane-lin
 status: current
 twitter: None
