@@ -2,11 +2,12 @@
 layout: default
 title: Logo Testing
 permalink: /logos/
-status: finished
+fake: true
+status: done
 notes:
-- This is just a pre-production page to view logo design process
-- Should not be displayed once new site is deployed
-- Might put contents in a lab/research page eventually, though, to demonstrate creative process
+- Content: done until new logo drafts; pre-production page to view logo design process
+- Style: done
+- NB: might put contents in a lab/research page eventually; interesting creative process showcase
 ---
 
 {% assign logo_pics = site.static_files | where_exp: "item", "item.path contains 'logo-testing'" %}

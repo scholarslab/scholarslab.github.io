@@ -2,9 +2,12 @@
 layout: page
 title: Publications
 permalink: /publications/
+fake: true # for now
+time-required: unknown
 notes:
-- Does this page exist IRL or is this a wishlist type page?
-- Low-priority by April/May launch
+- Content: not started
+- Style: not started
+- NB: NOT a Phase 1 page
 ---
 
 For any instances of making scholarship public: print or digital publications, presentations, tweet threads, blog posts, etc.

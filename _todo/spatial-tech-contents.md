@@ -1,12 +1,10 @@
 ---
 layout: page
-title: 'Synthesize GIS & AR/VR into Spatial Technologies'
+title: 'GIS & AR/VR -> Spatial Tech'
 phase: 1
-time-required: large
+time-required: ~8hrs
 notes:
-- Spatial Tech blurb in Beth's Google Doc
-- Cultural Heritage site contains VR/AR descriptions
-- GIS page on current site contains GIS descriptions
-- Phase I content: who works there, what they do, what Spatial Tech is, link to the CHI page, link to the GIS page
-- Will GIS and AR/VR continue to independently exist as URLs or eventually do we want to phase that out? (Kind of a Phase II question)
+- Content: Spatial Tech blurb in Beth's Google Doc, Cultural Heritage site contains VR/AR descriptions, GIS page on current site contains GIS descriptions
+- Style: not started
+- NB: Phase 1 content goal = who works there, what they do, what Spatial Tech is, link to the CHI page, link to the GIS page
 ---

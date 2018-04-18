@@ -2,10 +2,12 @@
 layout: default
 title: Progress Tracker
 permalink: /progress-tracker/
-status: finished
+fake: true
+status: done
 notes:
-- Pre-production page to track progress of site building
-- Should not show once new site is deployed
+- Content: done
+- Style: done
+- NB: pre-production only
 ---
 
 <div class="progress-big-title"><div>Progress Tracker</div></div>
@@ -17,18 +19,21 @@ notes:
 		<!-- Columns: -->
 		<div class="progress__column-label--1">#</div>
 		<div class="progress__column-label--2">Page</div>
-		<div class="progress__column-label--3">Status</div>
-		<div class="progress__column-label--4">Notes</div>
+		<div class="progress__column-label--3">Size</div>
+		<div class="progress__column-label--4">Status</div>
+		<div class="progress__column-label--5">Notes</div>
 		<!-- end columns-->
 
 		<!-- Main content -->
 		{% for page in site.pages %}
-		{% if page.layout != nil %}
+		{% if page.layout != nil and page.fake != true %}
 			<div class="progress-item__num">{{ forloop.index }}</div>
 
 			<div class="progress-item__name">
 				<a href="{{ page.url }}">{{ page.title }}</a>
 			</div>
+
+			<div class="progress-item__time">{{ page.time-required }}</div>
 
 			<div class="progress-item__status">
 				{% if page.status != nil %}
@@ -41,9 +46,12 @@ notes:
 			<div class="progress-item__notes">
 				{% if page.notes != nil %}
 					<ul>
-					{% for note in page.notes %}
-						<li>{{ note }}</li>
-					{% endfor %}
+					{% assign note = page.notes %}
+						<li>Content: {{ note[0].Content }}</li>
+						<li>Style: {{ note[1].Style }}</li>
+						{% if note.size > 2 %}
+						<li>NB: {{ note[2].NB }}</li>
+						{% endif %}
 					</ul>
 				{% else %}
 					<div>--</div>
@@ -90,9 +98,12 @@ notes:
 			<div class="progress-item__notes">
 				{% if item.notes != nil %}
 					<ul>
-					{% for note in item.notes %}
-						<li>{{ note }}</li>
-					{% endfor %}
+					{% assign note = item.notes %}
+						<li>Content: {{ note[0].Content }}</li>
+						<li>Style: {{ note[1].Style }}</li>
+						{% if note.size > 2 %}
+						<li>NB: {{ note[2].NB }}</li>
+						{% endif %}
 					</ul>
 				{% else %}
 					<div>--</div>
