@@ -2,8 +2,10 @@
 layout: page
 title: Makerspace 3D Printer Calendar
 permalink: /makerspace-3d-printer-calendar/
+time-required: ~1hr
 notes:
-- Important to have this page up by launch, but not important to style it much by then, beyond basic padding/spacing.
+- Content: wording done unless content team wants to update. Calendar link needs incorporated.
+- Style: not started. Only focusing on simple spacing/margins/title for Phase 1.
 ---
 
 Availability of the 3D printer is tracked on this calendar.

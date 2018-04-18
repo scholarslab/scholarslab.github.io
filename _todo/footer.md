@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Footer
-status: in progress
+status: almost done
 phase: 1
-time-required: medium
-# related-tasks:
+time-required: ~1hr
 notes:
-- Media queries for width
-- Verify contact information
-- Add licensing info
+- Content: verify contact information, add licensing info
+- Style: equalize width of site links w/ contact/social blocks on small screen layout.
 ---
