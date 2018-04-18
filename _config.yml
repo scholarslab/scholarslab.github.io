@@ -49,6 +49,9 @@ collections:
   fake-blog:
     output: true
     permalink: /:year/:month/:day/:title/
+  fake-people:
+    output: true
+    permalink: /:collection/:name/
 
 header_pages:
   - about.md
