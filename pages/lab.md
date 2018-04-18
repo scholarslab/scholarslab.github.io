@@ -2,9 +2,12 @@
 layout: page
 title: Lab
 permalink: /lab/
+fake: true # for now
+time-requirement: unknown
 notes:
-- New page
-- Low priority for April/May launch
+- Content: not started
+- Style: not started
+- NB: NOT a Phase 1 page
 ---
 
 <div class="research-intro">This is a page for proofs of concept, prototypes, silly work to learn scholarly methods, and other experimental research that doesn't quite fit <a href="{{ site.url }}/research">our formal Research page</a>.</div>

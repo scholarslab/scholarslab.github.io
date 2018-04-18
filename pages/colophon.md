@@ -2,8 +2,11 @@
 layout: page
 title: Colophon
 permalink: /colophon/
+time-required: ~2hrs
 notes:
-- Main topic page (linked from home)
+- Content: needs to be updated
+- Style: not started
+- NB: Phase 1 goal is fairly simple text-based page, though future iterations might benefit from more specific styling since this is mostly list-type content.
 ---
 
 The Scholars' Lab site is written and maintained collaboratively by our staff, graduate fellows, and visiting scholars. We use an up-to-date version of [WordPress](http://wordpress.org) to run the site. Our site theme, Labnotes, is developed in-house and is tailored specifically for our needs, but the code is freely available in our [Github repository](http://github.com/scholarslab/labnotes). The development of the theme involves several tools:

@@ -3,8 +3,8 @@ layout: page
 title: Geospatial Services
 permalink: /geospatial-services/
 notes:
-- Are we keeping this page, or combining it? Ask people ASAP; we need to just decide.
-- Can always go back to old way if doesn't work as well as anticipated.
+- Content: merge into Spatial Technologies page.
+- Style: not started, only matters for spacing/margin/title since page changing form &/or going away.
 ---
 
 As part of [the Spatial Technologies group](/spatial-technologies), our expert staff supports application of GIS and mapping technologies across the disciplines. We also provide consultation on data and software for research and classroom use.

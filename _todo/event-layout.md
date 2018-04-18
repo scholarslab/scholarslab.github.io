@@ -2,7 +2,8 @@
 layout: page
 title: Event Layout
 phase: 1
-time-required: Schroedinger's
+time-required: ~6hrs
 notes:
-- Should fall into place pretty easily once get metadata list
+- Content: making own calls in phase 1, content team edits in May.
+- Style: not started
 ---
