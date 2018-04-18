@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-time-requirement: ~3.5hrs
+time-required: ~3.5hrs
 notes:
 - Content: generated from `_people`
 - Style: not started. Using simple grid gallery as base.

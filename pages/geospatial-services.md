@@ -2,6 +2,8 @@
 layout: page
 title: Geospatial Services
 permalink: /geospatial-services/
+status: N/A
+time-required: unknown
 notes:
 - Content: merge into Spatial Technologies page.
 - Style: not started, only matters for spacing/margin/title since page changing form &/or going away.

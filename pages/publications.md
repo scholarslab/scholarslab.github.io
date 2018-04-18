@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 fake: true # for now
-time-requirement: unknown
+time-required: unknown
 notes:
 - Content: not started
 - Style: not started

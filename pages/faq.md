@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 status: in progress
+time-required: ~2hrs
 permalink: /faq/
 notes:
 - Content: in progress, content team will work on in May as well
