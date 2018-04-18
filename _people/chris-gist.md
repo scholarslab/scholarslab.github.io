@@ -7,7 +7,7 @@ layout: people
 location: ''
 name: Chris Gist
 position: GIS Specialist
-short_bio: ''
+short_bio: 'Chris Gist, GIS specialist, supports students, faculty, and staff with spatial information needs by building spatial data collections and teaching GIS tools. Ask him about bikes and rain barrels.'
 slug: chris-gist
 status: current
 twitter: adarwinian

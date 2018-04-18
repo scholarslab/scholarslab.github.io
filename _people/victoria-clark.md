@@ -7,7 +7,7 @@ layout: people
 location: None
 name: Victoria Clark
 position: None
-short_bio: None
+short_bio: 'Torie Clark, a PhD Candidate in the Department of Music’s Critical and Comparative Studies program, is a 2017–2018 Praxis Fellow who is enthusiastic to cling onto the Scholars Lab until she graduates.'
 slug: victoria-clark
 status: current
 twitter: None
