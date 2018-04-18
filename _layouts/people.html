@@ -1,26 +1,112 @@
 ---
-layout: page
+layout: default
 ---
-{{ content }}
 
-{% assign profile_pictures = site.static_files | where: "basename",page.slug | limit: 1 %}
+{% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %}
 
-{% if profile_pictures == empty %}
-    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
-{% else %}
-    {% for profile_picture in profile_pictures %}
-      <img src="{{ profile_picture.path }}" alt="{{ page.slug }}">
-    {% endfor %}
-{% endif %}
+<div class="person-wrapper">
+	<div class="person-main-content" aria-label="Main content">
 
-{% assign author_posts = site.posts | where: "author", page.slug %}
-{% if author_posts %}
-  <h2>Posts by {{ page.title }}</h2>
-  <nav class="posts">
-    <ul>
-    {% for post in author_posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</li>
-    {% endfor %}
-    </ul>
-  </nav>
-{% endif %}
+		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
+
+		<div class="person__img">
+			{% if profile_pic == empty %}
+			    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
+			{% else %}
+			    {% for pic in profile_pic %}
+			      <img src="{{ pic.path }}" alt="{{ page.slug }}">
+			    {% endfor %}
+			{% endif %}
+		</div>
+
+		<div class="person__stats"> <!-- using components/stats-box.scss -->
+			<div class="person-stats__box">
+				<div>Around the Web</div>
+				{% if page.email !=  nil %}
+				<span>Email:</span>{{ page.email}}<br/>
+				{% endif %}
+				{% if page.twitter != nil %}
+				<span>Twitter:</span>@{{ page.twitter }}<br/>
+				{% endif %}
+				{% if page.website != 'None' %}
+				<span>Website:</span><!--a href="{{ page.website }}"-->{{ page.website | remove: 'http://'}}<!--/a--><br/>
+				{% endif %}
+				<span>Stat 4:</span>Value
+			</div>
+		</div>
+
+		<div class="person__description">
+			<div class="person-describe__title">About</div>
+			<div class="person-describe__text">{{ content }}</div>
+			<p> <!-- liquid testing -->
+				<h3>Categories</h3>
+				<ul>
+				{% assign pc = page.people-category %}
+				<!-- staff -->
+				{% if pc contains 'Staff' %}
+					<li>Staff</li>
+				{% endif %}
+
+				<!-- praxis/grad fellows: match years to program -->
+				{% assign yrcheck1 = pc[0] | slice: 0, 2 %}
+				{% assign yrcheck2 = pc[1] | slice: 0, 2 %}
+
+				<!-- grad fellow -->
+				{% if pc contains 'Graduate Fellow' %}
+					{% if yrcheck2 == '20' %}
+						<li>{{ pc[1] }} Graduate Fellow</li>
+					{% elsif yrcheck1 == '20' %}
+						<li> {{ pc[0] }} Graduate Fellow</li>
+					{% else %}
+						<li>Graduate Fellow</li>
+					{% endif %}
+				{% endif %}
+				<!-- praxis -->
+				{% if pc contains 'Praxis Fellow' %}
+					{% if yrcheck1 == '20' %}
+						<li>{{ pc[0] }} Praxis Fellow</li>
+					{% else %}
+						<li>Praxis Fellow</li>
+					{% endif %}
+				{% endif %}
+
+				<!-- LAMI -->
+				{% if pc contains 'LAMI Fellow' %}
+					<li>{{ pc[0] }} LAMI Fellow</li>
+				{% endif %}
+				<!-- technologists -->
+				{% if pc contains 'Student Assistant' %}
+					{% if pc.size == 2 %}
+						<li>{{ pc[0] }} Makerspace Technologist</li>
+					{% else %}
+						<li>Makerspace Technologist</li>
+					{% endif %}
+				{% endif %}
+				</ul>
+			</p>
+		</div> <!-- end 'about' -->
+
+		<div class="person__posts">
+		{% assign author_posts = site.fake-blog | where: "author", page.slug | reverse %}
+		{% if author_posts.size >= 1 %}
+		  <h2 class="person-posts__title">Posts by {{ page.title }}</h2>
+	    <ul class="person-posts__list">
+	    {% for post in author_posts %}
+	      <li>
+					<a href="{{ post.url }}">
+						<div class="person__post-title">{{ post.title }}</div>
+						<span>{{ post.date | date: "%B %-d, %Y" }}</span>
+					</a>
+	      </li>
+	    {% endfor %}
+	    </ul>
+		{% endif %}
+		</div>
+
+
+		<!-- insert any additional info, like a list of all posts by a certain person. 
+			 This is just a boilerplate model. -->
+
+		<div class="person__cta"><a href="{{ site.baseurl}}/people">&lsaquo; See All</a></div> <!-- using components/link-button.scss -->
+	</div>
+</div>
