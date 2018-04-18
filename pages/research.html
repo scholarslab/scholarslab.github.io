@@ -5,8 +5,7 @@ permalink: /research/
 status: in progress
 notes:
 - Main topic page (linked from homepage)
-- About 80% done
-- Mostly SCSS tweaks on gallery display left to incorporate
+- About 60% done -> SCSS proving quite challenging
 ---
 
 <div class="research-landing-wrapper">
@@ -14,7 +13,10 @@ notes:
     <div class="research-landing__big-title" aria-label="Landing page">
       <div class="research-title__text">Research</div>
     </div>
-    <div class="research-landing__description">A sentence or so describing the purpose of this page.</div>
+    <div class="research-landing__description">
+      <p>Scholarship is one part critical thinking (research, writing, coding, building, designing, experimenting, play…) and one part communication (traditional publishing and other forms of “making public”, teaching, open source code, other ways for your intellectual community to learn from and build on your work).</p>
+      <p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers.</p>
+    </div>
   </div>
 </div>
 
@@ -25,7 +27,7 @@ notes:
 
   <!-- internal projects: -->
   <div class="research-items__internal">
-    <div class="research-internal__title">Internal Projects and Community Service</div>
+    <div class="research-internal__big-title">Internal Projects and Community Service</div>
     <div class="research-internal__subtitle">Software, projects, and tools developed by Scholars’ Lab staff.</div>
     <div class="research-items-wrapper">
     {% for page in internal_projects %}
@@ -36,6 +38,7 @@ notes:
             <img src="{{ '/assets/img/research/' | append: page.preview-img | relative_url }}" alt="{{ page.title }}">
           </div>
           <div class="research-item__title">{{ page.title }}</div>
+          <div class="research-item__year">2012</div>
         </a>
       </div>
     {% endfor %}
@@ -44,7 +47,7 @@ notes:
 
   <!-- collaborative projects: -->
   <div class="research-items__collab">
-    <div class="research-collab__title">Scholarly Collaborations</div>
+    <div class="research-collab__big-title">Scholarly Collaborations</div>
     <div class="research-collab__subtitle">Selected Scholars’ Lab collaborations with faculty and graduate students.</div>
     <div class="research-items-wrapper">
     {% for page in collab_projects %}
@@ -55,6 +58,7 @@ notes:
             <img src="{{ '/assets/img/research/' | append: page.preview-img | relative_url }}" alt="{{ page.title }}">
           </div>
           <div class="research-item__title">{{ page.title }}</div>
+          <div class="research-item__year">2012</div>
         </a>
       </div>
     {% endfor %}
