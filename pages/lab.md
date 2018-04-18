@@ -3,7 +3,7 @@ layout: page
 title: Lab
 permalink: /lab/
 fake: true # for now
-time-requirement: unknown
+time-required: unknown
 notes:
 - Content: not started
 - Style: not started
