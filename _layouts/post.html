@@ -108,7 +108,7 @@ layout: default
           {% for name in author %}
             {{ name | capitalize}}
           {% endfor %}
-          . &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>.
+          . &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on {{ "now" | date: "%b %d, %y" }}.
           </p>
         </div>
       {% endif %}
