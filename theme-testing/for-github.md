@@ -55,3 +55,7 @@ tags | list
 subject matter | list
 experience needed | boolean
 supplies needed | boolean
+
+## 4/21/18
+
+- Media queries on person page
