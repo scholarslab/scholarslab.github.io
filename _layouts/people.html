@@ -9,14 +9,9 @@ layout: default
 
 		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
 
-		<div class="person__img">
-			{% if profile_pic == empty %}
-			    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
-			{% else %}
-			    {% for pic in profile_pic %}
-			      <img src="{{ pic.path }}" alt="{{ page.slug }}">
-			    {% endfor %}
-			{% endif %}
+		<div class="person__position">
+			<div class="person-pos__title">Who</div>
+			<div class="person-pos__text">{{ page.position }}<!--span>Staff</span--></div>
 		</div>
 
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
@@ -29,16 +24,28 @@ layout: default
 				<span>Twitter:</span>@{{ page.twitter }}<br/>
 				{% endif %}
 				{% if page.website != 'None' %}
-				<span>Website:</span><!--a href="{{ page.website }}"-->{{ page.website | remove: 'http://'}}<!--/a--><br/>
+				<span>Website:</span><!--a href="{{ page.website }}"-->{{ page.website | remove: 'http://'}}<!--/a--><!--br/-->
 				{% endif %}
-				<span>Stat 4:</span>Value
+			<!--	{% if page.position != 'None' %}
+				<span>Position:</span>{{ page.position }}
+				{% endif %} -->
 			</div>
+		</div>
+
+		<div class="person__img">
+			{% if profile_pic == empty %}
+			    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
+			{% else %}
+			    {% for pic in profile_pic %}
+			      <img src="{{ pic.path }}" alt="{{ page.slug }}">
+			    {% endfor %}
+			{% endif %}
 		</div>
 
 		<div class="person__description">
 			<div class="person-describe__title">About</div>
 			<div class="person-describe__text">{{ content }}</div>
-			<p> <!-- liquid testing -->
+			<p class="liquid-testing"> <!-- liquid testing -->
 				<h3>Categories</h3>
 				<ul>
 				{% assign pc = page.people-category %}
@@ -107,6 +114,6 @@ layout: default
 		<!-- insert any additional info, like a list of all posts by a certain person. 
 			 This is just a boilerplate model. -->
 
-		<div class="person__cta"><a href="{{ site.baseurl}}/people">&lsaquo; See All</a></div> <!-- using components/link-button.scss -->
+		<div class="person__cta"><a href="{{ site.baseurl}}/people">See All Posts &rsaquo;</a></div> <!-- using components/link-button.scss -->
 	</div>
 </div>
