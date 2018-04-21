@@ -10,6 +10,7 @@ slug: makerspace-workshop-intro-to-wearables-and-soft-circuits
 start_date: '2014-09-24'
 start_time: '11:00:00'
 title: 'Makerspace Workshop: Intro to Wearables and Soft Circuits'
+location: 'Scholars&#8217; Lab Common Room'
 ---
 
 Curious about wearable computing but afraid to ask? Have ideas about how to make your life simpler with hacks for your outerwear or accessories?

@@ -10,6 +10,7 @@ slug: gis-workshop-making-your-first-map
 start_date: '2014-09-04'
 start_time: '14:00:00'
 title: 'GIS Workshop: Making Your First Map'
+location: Alderman Library, Room 423
 ---
 
 Getting started with new software can be intimidating. This workshop introduces the skills you need to work with spatial goodness. Along the way you’ll get a taste of Earth’s most popular geographic software and a gentle introduction to map making. You’ll leave with your own cartographic masterpiece and tips for learning more in your pursuit of mappiness at UVa.
