@@ -59,3 +59,5 @@ supplies needed | boolean
 ## 4/21/18
 
 - Media queries on person page
+
+- Events page subtitle
