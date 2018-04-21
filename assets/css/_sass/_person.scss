@@ -187,42 +187,42 @@
 
 // <ul>
 .person-posts__list {
-	position: relative;
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-between;
-	padding: 0;
-	list-style-type: none;
-	li {
-		position: relative;
-		display: inline-block;
-		width: 300px;
-		height: 300px;
-		border: 4px solid hsla(186,80%,70%,1);
-		a {
-			display: flex;
-			flex-flow: column nowrap;
-			justify-content: center;
-			height: 100%;
-			width: 100%;
-			padding: 0 1em;
-			font-size: 1.5rem;
-			border: none !important;
-			div, span {
-				font-family: "Oswald", sans-serif;
-				font-weight: 600;
-			//	text-transform: uppercase;
-			}
-			span {
-				color: rgba(0,0,0,.5);
-			}
-
-		}
-	}
-	@media screen and (min-width: 1200px) {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    padding: 0;
+    list-style-type: none;
+    /*	@media screen and (min-width: 1200px) {
 		max-width: 1000px;
 		margin: 0 auto;
-	}
+	} */
+    li {
+        position: relative;
+        display: inline-block;
+        width: calc(100% - 1em);
+        margin: .5em;
+        font-size: 1.5rem;
+        border: 4px solid hsla(186,80%,70%,1);
+        a {
+            display: flex;
+            flex-flow: column nowrap;
+            justify-content: center;
+            height: 100%;
+            width: 100%;
+            padding: 0 1em;
+            border: none !important;
+            div {
+                font-family: "Oswald", sans-serif;
+                font-weight: 600;
+            }
+            span {
+                font-family: "Oswald", sans-serif;
+                font-weight: 600;
+                color: rgba(0, 0, 0, 0.5);
+            }
+        }
+    }
 }
 
 /* Button: */
