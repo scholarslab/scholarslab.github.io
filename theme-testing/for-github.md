@@ -19,3 +19,39 @@
 - 3D Printer Calendar: forgot this was a separate page, too - calendar on Makerspace also needs to go here. It's clearly supposed to go somewhere on the page, based on wording referencing it, but unsure where.
 
 - Research: need replacement images for gallery - unsure how many left. I know Praxis is still missing and Jeremy should know where that is, since I saw they used it on their poster. This is why I need to investigate Google Drive folders more thoroughly...
+
+- Event data structure: Tags may be across the site; categories may be event-specific?
+
+- Event Questions/Asks for Ronda (4/19):
+	- Data to show on single event page (specific event)
+	- Data to show on event preview page
+	- Tags:
+		- Phrasing: tags or categories?
+			- Or both, but that seems like a Phase 2 kind of distinction and we can update the data structure accordingly
+		- Need definite list of terms for v1.0 of a limited vocabulary. If terms are not self-evident in meaning, definitions of terms also desirable for consistency across event creators. (Unless Laura is primarily the one entering all events, in which case she knows what her words mean and it doesn't matter.)
+	- Location:
+		- Right now it includes the full address (C'ville, VA, ...) rather than just the room number
+	- Sign-ups for events:
+		- Would it be easy to include an RSVP thing for events? If so, need to know preferred method of doing so, as well as wording from content team.
+		- NB: This is probably a Phase 2 thing, but I think it would help event turnout to have people consciously commit themselves to a given thing at a given time. No repercussions or anything if not; we can note that it's just for a more accurate headcount.
+			- Have seen more and more things use "add to calendar" embedding so wondering if that might be easy.
+		- Also could be a backdoor to prompt signing up for mailing list, since they'd have to enter name anyway. 
+			- UX note: If they're already signed up, it can check the name against who we already have, so anyone already on the list doesn't get a pointless popup.
+
+- Addendum: List of possible event data
+	- *This list is meant to serve as a starting point, but is non-exhaustive nor final in its phrasing.*
+
+Fields | Data Type
+------ | ---------
+title | string
+location | string
+date | string
+time | string
+duration | num
+description | string
+part of series | boolean
+host(s) | string
+tags | list
+subject matter | list
+experience needed | boolean
+supplies needed | boolean
