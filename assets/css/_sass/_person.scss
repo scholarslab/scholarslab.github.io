@@ -30,7 +30,8 @@
 .person-main-content {
 	position: relative;
 	display: grid;
-	grid-template-areas: "title"
+	grid-template-areas: "name"
+						 "title"
 						 "img"
 						 "stats"
 						 "describe"
@@ -38,7 +39,8 @@
 						 "button";
 	grid-template-columns: 1fr;
 	@media screen and (min-width: 768px) {
-		grid-template-areas: "title img"
+		grid-template-areas: "name img"
+							 "title img"
 							 "stats img"
 							 "describe describe"
 							 "posts posts"
