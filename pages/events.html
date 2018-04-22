@@ -29,8 +29,21 @@ notes:
 				<div class="events-item__title">
 					<a href="{{ site.url }}/events/{{ event.slug }}">{{ event.title }}</a>
 				</div>
+				<!-- remove trailing seconds zeros on time -->
+				{% assign start_time = event.start_time | date: "%r" | remove: ":00 " %}
+				{% assign end_time = event.end_time | date: "%r" | remove: ":00 " %}
+				<!-- check for leading zero -->
+				{% assign zerocheck1 = start_time | slice: 0 %}
+				{% assign zerocheck2 = end_time | slice: 0 %}
+				<!-- remove if present -->
+				{% if zerocheck1 == '0' %}
+					{% assign start_time = start_time | slice: 1, 6 %}
+				{% endif %}
+				{% if zerocheck2 == '0' %}
+					{% assign end_time = end_time | slice: 1, 6 %}
+				{% endif %}
 				<div class="events-item__logistics">
-					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%B %-d" }}, {{ event.start_time | date: "%r" | remove: ":00 " }}-{{ event.end_time | date: "%r" | remove: ":00 " }}</div>
+					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%B %-d" }}, {{ start_time }}-{{ end_time }}</div>
 					<div class="events-logistics__place"><span>Where: </span>{{ event.location }}</div>
 				</div>
 				<div class="events-item__cta">
