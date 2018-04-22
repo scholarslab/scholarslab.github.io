@@ -105,13 +105,15 @@
 .events-item__title {
 	grid-area: title;
 	align-self: center;
-	margin-left: .5em;
+//	margin-top: 1rem;
+//	margin-left: .5em;
+	margin-bottom: 1rem;
 	font-family: "Oswald", sans-serif;
 	font-size: 1.75rem;
 	font-weight: 600;
 	line-height: 1;
-	@media screen and (min-width: 600px) {
-		font-size: 2rem;
+	@media screen and (min-width: 768px) {
+		font-size: 2.25rem;
 	}
 }
 
