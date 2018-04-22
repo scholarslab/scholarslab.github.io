@@ -19,8 +19,9 @@ notes:
 
 	<div class="events-main-content">
 		<div class="events-gallery">
+			{% assign events = site.events | sort: 'start_date' %}
 			<!-- event layout: -->
-			{% for event in site.events %}
+			{% for event in events %}
 			<section class="events-gallery__item">
 				<div class="events-item__date">
 					<div>{{ event.start_date | date: "%b" }}<br/>{{ event.start_date | date: "%-d" }}</div>
