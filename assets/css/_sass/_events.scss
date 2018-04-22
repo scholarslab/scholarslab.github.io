@@ -88,6 +88,7 @@
 	border: 2px solid magenta;
 	border-radius: 50%;
 	div {
+		font-family: "Oswald", sans-serif;
 		font-weight: bold;
 		line-height: 1;
 		text-align: center;
@@ -96,8 +97,6 @@
 	@media screen and (min-width: 768px) {
 		width: 72px;
 		height: 72px;
-		font-family: "Oswald", sans-serif;
-	//	font-family: "base-mono-wide", monospace;
 		font-size: 1.25rem;
 	}
 }
