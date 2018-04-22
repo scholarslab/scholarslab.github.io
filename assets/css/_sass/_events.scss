@@ -104,10 +104,11 @@
 
 .events-item__title {
 	grid-area: title;
+	align-self: center;
 	margin-left: .5em;
 	font-family: "Oswald", sans-serif;
 	font-size: 1.75rem;
-	font-weight: 900;
+	font-weight: 600;
 	line-height: 1;
 	@media screen and (min-width: 600px) {
 		font-size: 2rem;
