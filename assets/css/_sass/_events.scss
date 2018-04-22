@@ -64,11 +64,12 @@
 	grid-template-areas: "date title"
 						 "logistics logistics"
 						 "detail detail";
-	margin-bottom: 1rem;
+	margin-bottom: 1.75rem;
 	@media screen and (min-width: 768px) {
 		grid-template-columns: minmax(80px, auto) 2fr 1fr;
 		grid-template-areas: "date title title"
 							 ".... logistics detail";
+		margin-bottom: 2.25rem;
 	}
 }
 
