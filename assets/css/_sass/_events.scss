@@ -7,6 +7,10 @@
 		padding: 0 8.33%;
 		padding-top: calc(3rem + 60px); // 2 line heights
 	}
+	@media screen and (min-width: 1024px) {
+	//	max-width: calc(960px + 16.67%);
+	//	margin: 0 auto;
+	}
 }
 
 /* Header: */
