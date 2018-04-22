@@ -61,3 +61,5 @@ supplies needed | boolean
 - Media queries on person page
 
 - Events page subtitle
+
+- Run CSS through prefixer and manually add to SCSS where needed - do at end so don't have to do more than once
