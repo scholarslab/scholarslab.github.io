@@ -119,7 +119,29 @@
 
 .events-item__logistics {
 	grid-area: logistics;
-	margin-left: 1rem;
+//	justify-self: end;
+//	margin-left: 1rem;
+	line-height: 1;
+	span {
+		display: inline-block;
+		width: calc(7ch + .5rem);
+		padding-bottom: .5em;
+		padding-right: .5rem;
+		float: left;
+		font-weight: 900;
+		text-transform: uppercase;
+	}
+	@media screen and (min-width: 600px) {
+
+	}
+	@media screen and (min-width: 768px) {
+		margin-right: 1em;
+		font-size: 1.25rem;
+		text-align: right;
+		span {
+
+		}
+	}
 }
 
 .events-logistics__time {
