@@ -154,7 +154,6 @@
 .events-item__cta {
 	grid-area: detail;
 	position: relative;
-//	margin-left: 1rem;
 	a {
 		margin-top: 0 !important;
 		font-size: 1rem !important;
@@ -168,10 +167,10 @@
 		}
 	}
 	@media screen and (min-width: 768px) {
-//		align-self: end;
+		justify-self: end;
 		margin: 0 !important;
+		margin-top: 20px !important;
 		a {
-
 			margin: 0 !important;
 			font-size: 1.25rem !important;
 		//	-webkit-transition: color .3s, border-color .3s;
