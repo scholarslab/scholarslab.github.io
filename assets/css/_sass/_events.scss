@@ -128,4 +128,9 @@
 
 .events-item__cta {
 	grid-area: detail;
+	margin: 0 !important;
+	a {
+		float: right;
+
+	}
 }
