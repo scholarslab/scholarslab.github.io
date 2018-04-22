@@ -26,7 +26,9 @@ notes:
 				<div class="events-item__date">
 					<div>{{ event.start_date | date: "%b" }}<br/>{{ event.start_date | date: "%-d" }}</div>
 				</div>
-				<div class="events-item__title">{{ event.title }}</div>
+				<div class="events-item__title">
+					<a href="{{ site.url }}/events/{{ event.slug }}">{{ event.title }}</a>
+				</div>
 				<div class="events-item__logistics">
 					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%B %-d" }}, {{ event.start_time | date: "%r" | remove: ":00 " }}-{{ event.end_time | date: "%r" | remove: ":00 " }}</div>
 					<div class="events-logistics__place"><span>Where: </span>{{ event.location }}</div>
