@@ -106,8 +106,6 @@
 .events-item__title {
 	grid-area: title;
 	align-self: center;
-//	margin-top: 1rem;
-//	margin-left: .5em;
 	margin-bottom: 1rem;
 	font-family: "Oswald", sans-serif;
 	font-size: 1.75rem;
@@ -122,8 +120,6 @@
 
 .events-item__logistics {
 	grid-area: logistics;
-//	justify-self: end;
-//	margin-left: 1rem;
 	line-height: 1;
 	span {
 		display: inline-block;
@@ -134,16 +130,9 @@
 		font-weight: 900;
 		text-transform: uppercase;
 	}
-	@media screen and (min-width: 600px) {
-
-	}
 	@media screen and (min-width: 768px) {
 		margin-right: 1em;
 		font-size: 1.25rem;
-		text-align: right;
-		span {
-
-		}
 	}
 }
 
