@@ -16,11 +16,30 @@
 }
 
 .events-header__big-title {
-
+	position: relative;
+	font-size: 3rem;
+	font-weight: 900;
+	@media screen and (min-width: 600px) {
+		font-size: 5rem;
+	}
+	@media screen and (min-width: 900px) {
+		font-size: 6rem;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 7rem;
+	}
 }
 
 .events-header__subtitle {
-
+	margin-bottom: 1em;
+	font-size: 1rem;
+	font-weight: 200;
+	font-family: "base-mono-narrow", monospace;
+	line-height: 1;
+	color: rgba(0,0,0,.5);
+	@media screen and (min-width: 900px) {
+		font-size: 2rem;
+	}
 }
 
 /* Main Content: */
@@ -36,25 +55,36 @@
 /* Item: */
 
 .events-gallery__item {
-
+	position: relative;
+	display: grid;
+	grid-template-columns: minmax(60px, auto) 1fr;
+	grid-template-areas: "date title"
+						 "logistics logistics"
+						 "detail detail";
+	margin-bottom: 1rem;
+	@media screen and (min-width: 768px) {
+		grid-template-columns: minmax(80px, auto) 1fr 1fr;
+		grid-template-areas: "date title title"
+							 "logistics logistics detail";
+	}
 }
 
 /* Date: */
 
 .events-item__date {
-
+	grid-area: date;
 }
 
 /* Title: */
 
 .events-item__title {
-
+	grid-area: title;
 }
 
 /* Time/place: */
 
 .events-item__logistics {
-
+	grid-area: logistics;
 }
 
 .events-logistics__time {
@@ -67,10 +97,6 @@
 
 /* Link to details: */
 
-.events-item__details {
-
-}
-
-.events-detail__cta {
-
+.events-item__cta {
+	grid-area: detail;
 }
