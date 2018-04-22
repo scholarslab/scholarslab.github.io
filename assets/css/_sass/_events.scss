@@ -66,10 +66,14 @@
 						 "detail detail";
 	margin-bottom: 1.75rem;
 	@media screen and (min-width: 768px) {
-		grid-template-columns: minmax(80px, auto) 2fr 1fr;
-		grid-template-areas: "date title title"
-							 ".... logistics detail";
+		grid-template-columns: minmax(80px, auto) 1fr minmax(164px, auto);
+		grid-template-areas: "date title detail"
+							 ".... logistics ....";
 		margin-bottom: 2.25rem;
+	}
+	@media screen and (min-width: 1200px) {
+		grid-template-areas: "date title ...."
+							 "date logistics detail";		
 	}
 }
 
