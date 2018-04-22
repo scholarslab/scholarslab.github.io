@@ -43,7 +43,7 @@ notes:
 					{% assign end_time = end_time | slice: 1, 6 %}
 				{% endif %}
 				<div class="events-item__logistics">
-					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%B %-d" }}, {{ start_time }}-{{ end_time }}</div>
+					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%B %-d, %Y" }}, {{ start_time }}-{{ end_time }}</div>
 					<div class="events-logistics__place"><span>Where: </span>{{ event.location }}</div>
 				</div>
 				<div class="events-item__cta">
