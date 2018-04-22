@@ -13,6 +13,8 @@
 @import "research";
 @import "progress-tracker"; // only while site under production
 @import "blog-post";
+@import "person";
+@import "events";
 
 * {
 	box-sizing: border-box;
@@ -113,8 +115,7 @@ body {
 
 /****************** 1. Default Styles: *******************/
 
-/* All section titles: */
-
+// section titles
 [class*="__title"][class*="home-"] {
 	margin-bottom: .5em;
 	margin-top: 1em;
@@ -128,9 +129,8 @@ body {
 	}
 }
 
-/* All homepage links: */
-
-[class*="home-"], [class*="maker-"], [class*="post-"] {
+// in-text links, topic pages
+[class*="home-"], [class*="maker-"], [class*="post-"], [class*="person-"] {
 	a {
 		font-family: "base-mono-narrow", monospace;
 	//	font-weight: bold; // >>>>>>>>>>>>>>>>> undo this and redo it as a separate commit
@@ -146,6 +146,18 @@ body {
 	}
 }
 
+// updated in-text links
+[class*="post-"], [class*="person-"] {
+	a {
+		font-family: "Raleway", sans-serif !important;
+		font-weight: bold;
+		border-bottom: 2px solid hsla(186,80%,70%,1) !important;
+		&:hover, &:focus {
+			background-color: hsla(186,80%,70%,1) !important;
+		}
+	}
+}
+
 /* All call-to-action buttons: */
 
 [class*="__cta"] {
@@ -157,7 +169,7 @@ body {
 		margin-top: 4px;
 		font-size: 1.5rem;
 	//	font-family: "Inconsolata", monospace;
-		font-family: "base-mono-wide", monospace;
+		font-family: "base-mono-wide", monospace !important;
 		font-weight: 700;
 		line-height: 1;
 		text-decoration: none;
@@ -165,7 +177,7 @@ body {
 		color: cyan;
 		border: 2px solid cyan;
 		&:hover, &:focus {
-			background-color: transparent;
+			background-color: transparent !important;
 		}
 		span {
 			display: none;

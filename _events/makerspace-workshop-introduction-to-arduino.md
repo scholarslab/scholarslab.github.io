@@ -10,6 +10,7 @@ slug: makerspace-workshop-introduction-to-arduino
 start_date: '2014-10-08'
 start_time: '11:00:00'
 title: 'Makerspace Workshop: Introduction to Arduino'
+location: 'Scholars&#8217; Lab Common Room'
 ---
 
 Do you want to build a device that interacts with social media? Heard about ways to embed switches or sensors in your physical items but don't know where to find out more?

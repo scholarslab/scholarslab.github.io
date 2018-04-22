@@ -10,6 +10,7 @@ slug: makerspace-open-house-2014-10-22
 start_date: '2014-10-22'
 start_time: '14:00:00'
 title: Makerspace Open House
+location: 'Scholars&#8217; Lab Common Room'
 ---
 
 New to 3D printing, microcontrollers, soft circuits? Stop by to check them out! There will be conversation, live demonstrations, and of course, refreshments. Hope to see you there!

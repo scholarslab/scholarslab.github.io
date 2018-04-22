@@ -10,6 +10,7 @@ slug: 2014-15-scholars-lab-graduate-fellows-panel
 start_date: '2014-09-12'
 start_time: '12:00:00'
 title: 2014-15 Scholars' Lab Graduate Fellows Panel
+location: 'Scholars&#8217; Lab Common Room'
 ---
 
 Please join us in welcoming our new Graduate Fellows in Digital Humanities! James Ambuske (History), Jennifer Foy (English), and Emily Senfeld's (History) projects converge around questions of social networks and mapping.

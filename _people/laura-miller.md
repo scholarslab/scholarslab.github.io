@@ -7,7 +7,7 @@ layout: people
 location: ''
 name: Laura Miller
 position: Head of Public Programs
-short_bio: ''
+short_bio: 'Laura Miller is the Head of Public Programs for the Lab, where she fosters our local community of DH scholars and researchers, and where she likes to think and talk and encourage everyone else to do the same about critical making in academic research.'
 slug: laura-miller
 status: current
 twitter: martofmiller

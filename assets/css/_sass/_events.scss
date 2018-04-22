@@ -1,0 +1,186 @@
+/* Events Page: */
+
+.events-wrapper {
+	padding: 0 8.33%;
+	padding-top: calc(1em + 60px);
+	@media screen and (min-width: 600px) {
+		padding-top: calc(3rem + 60px); // 2 line heights
+	}
+	@media screen and (min-width: 1024px) {
+		max-width: calc(900px + 16.67%);
+		margin: 0 auto;
+	}
+}
+
+/* Header: */
+
+.events-page-header {
+
+}
+
+.events-header__big-title {
+	position: relative;
+	font-size: 3rem;
+	font-weight: 900;
+	@media screen and (min-width: 600px) {
+		font-size: 5rem;
+	}
+	@media screen and (min-width: 900px) {
+		font-size: 6rem;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 7rem;
+	}
+}
+
+.events-header__subtitle {
+	margin-bottom: 1em;
+	font-size: 1rem;
+	font-weight: 200;
+	font-family: "base-mono-narrow", monospace;
+	line-height: 1;
+	color: rgba(0,0,0,.5);
+	@media screen and (min-width: 900px) {
+		font-size: 2rem;
+	}
+}
+
+/* Main Content: */
+
+.events-main-content {
+
+}
+
+.events-gallery {
+
+}
+
+/* Item: */
+
+.events-gallery__item {
+	position: relative;
+	display: grid;
+	grid-template-columns: minmax(60px, auto) 1fr;
+	grid-template-areas: "date title"
+						 "logistics logistics"
+						 "detail detail";
+	margin-bottom: 1.75rem;
+	padding-bottom: 1.75rem;
+	border-bottom: 1px solid rgba(0,0,0,.5);
+	@media screen and (min-width: 768px) {
+		grid-template-columns: minmax(80px, auto) 1fr minmax(164px, auto);
+		grid-template-areas: "date title detail"
+							 ".... logistics ....";
+		padding-bottom: calc(2.25rem - 10px);
+		margin-bottom: 2.25rem;
+	}
+	@media screen and (min-width: 1200px) {
+		grid-template-areas: "date title ...."
+							 "date logistics detail";		
+	}
+}
+
+/* Date: */
+
+.events-item__date {
+	grid-area: date;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 60px;
+	height: 60px;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+	border: 2px solid magenta;
+	border-radius: 50%;
+	div {
+		font-family: "Oswald", sans-serif;
+		font-weight: bold;
+		line-height: 1;
+		text-align: center;
+		text-transform: uppercase;
+	}
+	@media screen and (min-width: 768px) {
+		width: 72px;
+		height: 72px;
+		margin-right: 2.25rem;
+		margin-bottom: 20px; //2.25rem;
+		font-size: 1.25rem;
+	}
+}
+
+/* Title: */
+
+.events-item__title {
+	grid-area: title;
+	align-self: center;
+	margin-bottom: .5em;
+	font-family: "Oswald", sans-serif;
+	font-size: 1.75rem;
+	font-weight: 600;
+	line-height: 1;
+	a {
+		text-decoration: none;
+		color: black;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 2.25rem;
+	}
+}
+
+/* Time/place: */
+
+.events-item__logistics {
+	grid-area: logistics;
+	line-height: 1;
+	span {
+		display: inline-block;
+		width: calc(7ch + .5em);
+		padding-bottom: .5em;
+		padding-right: .5em;
+		float: left;
+		font-weight: 900;
+		text-transform: uppercase;
+		color: rgba(0,0,0,.5);
+	}
+	@media screen and (min-width: 768px) {
+		margin-right: 1em;
+		font-size: 1.25rem;
+	}
+}
+
+.events-logistics__time {
+	margin-bottom: .5em;
+}
+
+.events-logistics__place {
+}
+
+/* Link to details: */
+
+.events-item__cta {
+	grid-area: detail;
+	position: relative;
+	a {
+		margin-top: 0 !important;
+		font-size: 1rem !important;
+		color: magenta !important;
+		border-color: magenta !important;
+	}
+	@media screen and (max-width: 767px) {
+		a {
+			width: 100% !important;
+			text-align: center;
+		}
+	}
+	@media screen and (min-width: 768px) {
+		justify-self: end;
+		margin: 0 !important;
+		margin-top: 20px !important;
+		a {
+			margin: 0 !important;
+			font-size: 1.25rem !important;
+		}
+	}
+}

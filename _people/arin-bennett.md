@@ -7,7 +7,7 @@ layout: people
 location: ''
 name: Arin Bennett
 position: 3D Visualization Specialist
-short_bio: ''
+short_bio: "Arin Bennett is a visualization specialist with the Scholars' Lab focused on spatial data, augmented and virtual realities who occasionally visits this reality."
 slug: arin-bennett
 status: current
 twitter: None
