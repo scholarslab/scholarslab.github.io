@@ -106,8 +106,12 @@
 	grid-area: title;
 	margin-left: .5em;
 	font-family: "Oswald", sans-serif;
-	font-size: 2rem;
+	font-size: 1.75rem;
 	font-weight: 900;
+	line-height: 1;
+	@media screen and (min-width: 600px) {
+		font-size: 2rem;
+	}
 }
 
 /* Time/place: */
