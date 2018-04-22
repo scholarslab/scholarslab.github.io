@@ -23,11 +23,11 @@ notes:
 			{% for event in site.events %}
 			<section class="events-gallery__item">
 				<div class="events-item__date">
-					<div>Insert date</div>
+					<div>{{ event.start_date | date: "%b %-d" }}</div>
 				</div>
 				<div class="events-item__title">{{ event.title }}</div>
 				<div class="events-item__logistics">
-					<div class="events-logistics__time"><span>When: </span>{{ event.start_time | date: "%r" | remove: ":00 " }} to {{ event.end_time | date: "%r" | remove: ":00 " }}</div>
+					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%B %-d" }}, {{ event.start_time | date: "%r" | remove: ":00 " }}-{{ event.end_time | date: "%r" | remove: ":00 " }}</div>
 					<div class="events-logistics__place"><span>Where: </span>{{ event.location }}</div>
 				</div>
 				<div class="events-item__details">
