@@ -134,9 +134,14 @@
 
 .events-item__cta {
 	grid-area: detail;
-	margin: 0 !important;
+	position: relative;
+//	margin-left: 1rem;
 	a {
-	//	float: right;
+		margin-top: 0 !important;
+		font-size: 1rem !important;
+		color: magenta !important;
+		border-color: magenta !important;
+	}
 	@media screen and (max-width: 767px) {
 		a {
 			width: 100% !important;
@@ -144,8 +149,18 @@
 		}
 	}
 	@media screen and (min-width: 768px) {
+//		align-self: end;
+		margin: 0 !important;
 		a {
-			float: right;
+
+			margin: 0 !important;
+			font-size: 1.25rem !important;
+		//	-webkit-transition: color .3s, border-color .3s;
+		//	transition: color .3s, border-color .3s;
+		//	&:hover, &:focus {
+		//		color: magenta !important;
+		//		border-color: magenta !important;
+		//	}
 		}
 	}
 }
