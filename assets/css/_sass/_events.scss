@@ -73,6 +73,23 @@
 
 .events-item__date {
 	grid-area: date;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 60px;
+	height: 60px;
+	border: 2px solid magenta;
+	border-radius: 50%;
+	div {
+		line-height: 1;
+		text-align: center;
+		text-transform: uppercase;
+	}
+	@media screen and (min-width: 768px) {
+		width: 72px;
+		height: 72px;
+	}
 }
 
 /* Title: */
