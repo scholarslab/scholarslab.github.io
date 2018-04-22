@@ -65,11 +65,13 @@
 						 "logistics logistics"
 						 "detail detail";
 	margin-bottom: 1.75rem;
+	padding-bottom: 1.75rem;
 	border-bottom: 1px solid rgba(0,0,0,.5);
 	@media screen and (min-width: 768px) {
 		grid-template-columns: minmax(80px, auto) 1fr minmax(164px, auto);
 		grid-template-areas: "date title detail"
 							 ".... logistics ....";
+		padding-bottom: calc(2.25rem - 10px);
 		margin-bottom: 2.25rem;
 	}
 	@media screen and (min-width: 1200px) {
