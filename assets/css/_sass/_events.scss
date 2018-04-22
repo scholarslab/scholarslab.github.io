@@ -135,7 +135,11 @@
 	grid-area: detail;
 	margin: 0 !important;
 	a {
-		float: right;
-
+	//	float: right;
+	}
+	@media screen and (min-width: 768px) {
+		a {
+			float: right;
+		}
 	}
 }
