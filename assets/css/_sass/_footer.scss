@@ -22,10 +22,12 @@
 
 .footer-wrapper {
 //	margin-top: 2rem;
-	padding: 1rem 4.167%;
+	padding: 1.5rem 4.167%;
+	padding-top: 1rem;
 	background-color: rgba(0,0,0,1);
 	@media screen and (min-width: 900px) {
-		padding: 1rem 8.33%;
+		padding: 1.5rem 8.33%;
+		padding-top: 1rem;
 	}	
 }
 
@@ -42,28 +44,6 @@
 		grid-template-areas: "site contact connect top"
 							 ".. logos logos ..";
 		grid-template-columns: 1fr 1fr 1fr 1fr;
-	}
-}
-
-// text-based areas:
-.footer__sitemap, .footer__contact, .footer__connect {
-	position: relative;
-	@media screen and (max-width: 767px) {
-		justify-self: center;
-		width: 250px;
-		margin-bottom: 1em;
-	}
-	@media screen and (min-width: 768px) {
-		&::before {
-			content: "";
-			position: absolute;
-			top: 0;
-			left: -1rem;
-			display: block;
-			width: 2px;
-			height: 100%;
-			background-color: white;
-		}
 	}
 }
 
@@ -112,17 +92,39 @@
 	}
 }
 
+// text-based areas:
+.footer__sitemap, .footer__contact, .footer__connect {
+	position: relative;
+	@media screen and (max-width: 767px) {
+		justify-self: center;
+		width: 83.33%;
+		margin-bottom: 1em;
+	}
+	@media screen and (min-width: 768px) {
+		&::before {
+			content: "";
+			position: absolute;
+			top: 0;
+			left: -1rem;
+			display: block;
+			width: 2px;
+			height: 100%;
+			background-color: white;
+		}
+	}
+}
+
 /* Explore: */
 
 .footer__sitemap {
 	grid-area: site;
-	width: 100%;
-	@media screen and (min-width: 600px) {
-		max-width: 75%;
-	}
+	width: 83.33%;
 	@media screen and (max-width: 767px) {
 		justify-self: center;
-		margin: 1em 0;
+		margin: 2rem 0 1.5rem 0;
+	}
+	@media screen and (max-width: 400px) {
+		width: 91.67%;
 	}
 }
 
@@ -135,7 +137,6 @@
 .footer-map__links {
 	a {
 		display: inline-block;
-		padding-right: 1em;
 		&:first-of-type {
 			color: magenta;
 		}
@@ -143,7 +144,10 @@
 	@media screen and (max-width: 767px) {
 		display: flex;
 		flex-flow: row wrap;
-		justify-content: space-around;
+		justify-content: space-between;
+		a {
+			line-height: .9;
+		}
 	}
 	@media screen and (min-width: 768px) {
 		a {
@@ -156,8 +160,8 @@
 
 .footer__contact {
 	grid-area: contact;
-	max-width: 250px;
 	text-align: right;
+	max-width: 83.33%;
 	div:first-of-type {
 		text-align: left; //title 
 	}
@@ -165,6 +169,9 @@
 		float: left;
 		font-family: "Raleway", sans-serif;
 		font-weight: normal;
+	}
+	@media screen and (min-width: 768px) {
+		max-width: 250px;
 	}
 }
 
@@ -195,10 +202,12 @@
 
 .footer__connect {
 	grid-area: connect;
-	max-width: 250px;
+	max-width: 83.33%;
 	@media screen and (min-width: 768px) {
 		justify-self: end;
+		max-width: 250px;
 	}
+
 }
 
 .footer-connect__title {
@@ -258,7 +267,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
-	margin-top: 2em;
+	margin-top: 2rem;
 	a {
 		display: inline-block;
 		&:first-of-type {
