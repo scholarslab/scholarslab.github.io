@@ -34,8 +34,8 @@ fake: true
 					<span>Tags: </span>
 					{% for t in post.tags%}
 					{% assign last = post.tags | last %}
-					{% if t == last %} <a href="#">{{ t }}</a>
-					{% else %} <a href="#">{{ t }}</a>,
+					{% if t == last %} <a href="{{ site.url }}/posts-by-tag/#{{ t | slugify }}">{{ t }}</a>
+					{% else %} <a href="{{ site.url }}/posts-by-tag/#{{ t | slugify }}">{{ t }}</a>,
 					{% endif %}{% endfor %}
 				</div>
 				{% endif %}
