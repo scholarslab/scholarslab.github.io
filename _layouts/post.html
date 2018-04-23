@@ -49,8 +49,8 @@ layout: default
       <div class="post-meta__tags">Tagged as:
         {% for t in page.tags%}
         {% assign last = page.tags | last %}
-        {% if t == last %} <a href="#">{{ t }}</a>
-        {% else %} <a href="#">{{ t }}</a>,
+        {% if t == last %} <a href="{{ site.url }}/posts-by-tag/#{{ t | slugify }}">{{ t }}</a>
+        {% else %} <a href="{{ site.url }}/posts-by-tag/#{{ t | slugify }}">{{ t }}</a>,
         {% endif %}{% endfor %}
       </div>
       {% endif %}
