@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Footer
-status: almost done
+status: prototype done
 phase: 1
-time-required: ~1hr
+time-required: 0
 notes:
 - Content: verify contact information, add licensing info
-- Style: equalize width of site links w/ contact/social blocks on small screen layout.
+- Style:
+- NB:
 ---

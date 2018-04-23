@@ -120,17 +120,19 @@
 }
 
 .progress-other-grid [class*="progress-item"] {
-	border-bottom: 1px solid hsla(182,100%,50%,.8);
+	border-bottom: 1px solid hsla(186,80%,70%,1);
 	a {
 		&:hover, &:focus {
-			background-color: hsla(182,100%,50%,1) !important;
+			background-color: hsla(186,80%,70%,1) !important;
 
 		}
 	}
 }
 
 .progress-item__num {
-
+	font-weight: bold;
+	font-size: 1.125rem;
+	line-height: 1;
 }
 
 .progress-item__name {
@@ -216,14 +218,14 @@
 	.progress-status__active {
 		padding-right: 1rem;
 		span {
-			color: hsla(182,100%,50%,1);
+			color: hsla(186,80%,70%,1);
 		}
 	}
 	.progress-item__notes {
 		ul {
 			li {
 				&::before {
-					background-color: hsla(176,100%,50%,1) !important;
+					background-color: hsla(186,80%,70%,1) !important;
 				}
 			}
 		}
@@ -236,7 +238,6 @@
 
 .progress-item__phase {
 	font-weight: bold;
-//	color: hsla(182,100%,50%,1);
 }
 
 .progress-item__time {
