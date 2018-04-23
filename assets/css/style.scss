@@ -27,6 +27,13 @@ body {
 	line-height: 1.5; // if 16px, = 24px line height
 }
 
+main {
+	padding-top: calc(1rem + 60px);
+	@media screen and (min-width: 600px) {
+		padding-top: calc(3rem + 60px); // 2 line heights
+	}
+}
+
 .home-landing-grid {
 	position: relative;
 	display: grid;
