@@ -14,7 +14,7 @@
 
 - Makerspace: find where calendar fits, and rearrange HTML if needed. Hide the skillset block thing for Phase 1 until you have time to properly label it, which seems like it will take more time than it's worth right now.
 
-- All: add 60px margin or padding to top of every page, to make room for the navigation bar. Probably apply this to `<main>`. Once done, remove `margin-top: calc(60px + num)` from all pages where you've inserted it to adjust manually.
+- **Update: done!** ~~All: add 60px margin or padding to top of every page, to make room for the navigation bar. Probably apply this to `<main>`. Once done, remove `margin-top: calc(60px + num)` from all pages where you've inserted it to adjust manually.~~
 
 - 3D Printer Calendar: forgot this was a separate page, too - calendar on Makerspace also needs to go here. It's clearly supposed to go somewhere on the page, based on wording referencing it, but unsure where.
 
@@ -22,7 +22,7 @@
 
 - Event data structure: Tags may be across the site; categories may be event-specific?
 
-- Event Questions/Asks for Ronda (4/19):
+- ### Event Questions/Asks for Ronda (4/19):
 	- Data to show on single event page (specific event)
 	- Data to show on event preview page
 	- Tags:
@@ -38,7 +38,7 @@
 		- Also could be a backdoor to prompt signing up for mailing list, since they'd have to enter name anyway. 
 			- UX note: If they're already signed up, it can check the name against who we already have, so anyone already on the list doesn't get a pointless popup.
 
-- Addendum: List of possible event data
+- ### Addendum: List of possible event data
 	- *This list is meant to serve as a starting point, but is non-exhaustive nor final in its phrasing.*
 
 Fields | Data Type
@@ -63,3 +63,5 @@ supplies needed | boolean
 - Events page subtitle
 
 - Run CSS through prefixer and manually add to SCSS where needed - do at end so don't have to do more than once
+
+## 4/23/18
