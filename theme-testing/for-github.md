@@ -65,3 +65,7 @@ supplies needed | boolean
 - Run CSS through prefixer and manually add to SCSS where needed - do at end so don't have to do more than once
 
 ## 4/23/18
+
+- Blog: Posts with >1 author --> do we want to allow that? If so, need to change YAML (or, at least, change Liquid to check if 'author' is an array rather than a string)
+
+- Blog: Probably change 'read more' on blog to something else unless give preview of post
