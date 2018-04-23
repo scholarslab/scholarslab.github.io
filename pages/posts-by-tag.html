@@ -10,7 +10,8 @@ fake: true
 <!-- if results > 10, limit 10 and slice rest into another array; put those in sibling div that shows on click -->
 <h1>Posts by Tag</h1>
 
-{% for tag in site.tags %}
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
