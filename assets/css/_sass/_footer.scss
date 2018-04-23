@@ -121,10 +121,10 @@
 	width: 83.33%;
 	@media screen and (max-width: 767px) {
 		justify-self: center;
-		margin: 1.5em 0 1em 0;
+		margin: 2rem 0 1.5rem 0;
 	}
 	@media screen and (max-width: 400px) {
-		width: 100%;
+		width: 91.67%;
 	}
 }
 
@@ -145,6 +145,9 @@
 		display: flex;
 		flex-flow: row wrap;
 		justify-content: space-between;
+		a {
+			line-height: .9;
+		}
 	}
 	@media screen and (min-width: 768px) {
 		a {
