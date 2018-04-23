@@ -1,0 +1,73 @@
+/* Blog */
+
+.blog-wrapper {
+	padding: 0 8.33%;
+	padding-top: 1em;
+	@media screen and (min-width: 600px) {
+		padding-top: 3rem; // 2 line heights
+	}
+	@media screen and (min-width: 1024px) {
+		max-width: calc(900px + 16.67%);
+		margin: 0 auto;
+	}
+}
+
+/* Header: */
+
+.blog-page-header {
+
+}
+
+.blog-header__big-title {
+
+}
+
+.blog-header__subtitle {
+
+}
+
+/* Main Content: */
+
+.blog-main-content {
+
+}
+
+.blog-gallery {
+
+}
+
+/* Item: */
+
+.blog-gallery__item {
+
+}
+
+/* Title: */
+
+.blog-item__title {
+
+}
+
+/* Author: */
+
+.blog-item__author {
+
+}
+
+/* Date */
+
+.blog-item__date {
+
+}
+
+/* Tags: */
+
+.blog-item__tags {
+
+}
+
+/* Link to post: */
+
+.blog-item__cta {
+
+}
