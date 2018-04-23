@@ -6,6 +6,7 @@ fake: true
 ---
 
 <div class="blog-wrapper">
+
 	<header class="blog-page-header">
 		<div class="blog-header__big-title">Blog</div>
 		<div class="blog-header__subtitle">Our thoughts, from rough new ideas to polished arguments. Scholars’ Lab team and collaborators write about their scholarship around experimental and digital humanities and culture.</div>
@@ -17,31 +18,29 @@ fake: true
 			<!-- post layout: -->
 			{% for post in blog %}
 			<section class="blog-gallery__item">
-				<div class="blog-item__date">
-					<div>{{ post.start_date | date: "%b" }}<br/>{{ post.start_date | date: "%-d" }}</div>
-				</div>
 				<div class="blog-item__title">
 					<a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
 				</div>
-				<!-- remove trailing seconds zeros on time -->
-				{% assign start_time = post.start_time | date: "%r" | remove: ":00 " %}
-				{% assign end_time = post.end_time | date: "%r" | remove: ":00 " %}
-				<!-- check for leading zero -->
-				{% assign zerocheck1 = start_time | slice: 0 %}
-				{% assign zerocheck2 = end_time | slice: 0 %}
-				<!-- remove if present -->
-				{% if zerocheck1 == '0' %}
-					{% assign start_time = start_time | slice: 1, 6 %}
-				{% endif %}
-				{% if zerocheck2 == '0' %}
-					{% assign end_time = end_time | slice: 1, 6 %}
-				{% endif %}
-				<div class="blog-item__logistics">
-					<div class="blog-logistics__time"><span>When: </span>{{ post.start_date | date: "%B %-d, %Y" }}, {{ start_time }}-{{ end_time }}</div>
-					<div class="blog-logistics__place"><span>Where: </span>{{ post.location }}</div>
+				<!-- fetch author object, link to their page -->
+				{% assign author = site.people | where: 'slug', post.author | first %}
+				<div class=blog-item__author>
+					<span>By: </span><a href="{{ site.url}}/people/{{ post.author }}">{{ author.name }}</a>
 				</div>
+				<div class="blog-item__date"><span>Posted: </span>{{ post.date | date: "%B %-d, %Y" }}</div>
+				<!-- check if 1+ tags, print if so -->
+				{% assign tagsize = post.tags | size %}
+				{% if tagsize >= 1 %}
+				<div class="blog-item__tags">
+					<span>Tags: </span>
+					{% for t in post.tags%}
+					{% assign last = post.tags | last %}
+					{% if t == last %} <a href="#">{{ t }}</a>
+					{% else %} <a href="#">{{ t }}</a>,
+					{% endif %}{% endfor %}
+				</div>
+				{% endif %}
 				<div class="blog-item__cta">
-					<a href="{{ site.url }}/blog/{{ page.url }}">Details &rsaquo;</a>
+					<a href="{{ site.url }}/{{ post.url }}">Read more &rsaquo;</a>
 				</div>
 			</section>
 			{% endfor %} <!-- end post -->
