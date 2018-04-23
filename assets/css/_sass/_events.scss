@@ -2,9 +2,9 @@
 
 .events-wrapper {
 	padding: 0 8.33%;
-	padding-top: calc(1em + 60px);
+	padding-top: 1em;
 	@media screen and (min-width: 600px) {
-		padding-top: calc(3rem + 60px); // 2 line heights
+		padding-top: 3rem; // 2 line heights
 	}
 	@media screen and (min-width: 1024px) {
 		max-width: calc(900px + 16.67%);
