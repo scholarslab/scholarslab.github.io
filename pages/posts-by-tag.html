@@ -14,7 +14,7 @@ fake: true
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-<h3 id="{{ t | replace: ' ', '-' | downcase }}">{{ t | downcase }}</h3>
+<h3 id="{{ t | slugify}}">{{ t | downcase }}</h3>
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}
