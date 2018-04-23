@@ -4,7 +4,7 @@
 	position: relative;
 	display: flex;
 	justify-content: flex-start;
-	margin-top: calc(60px + .5em);
+	margin-top: .5em;
 	margin-bottom: .5em;
 	padding: 0 4.167%;
 	font-size: 3rem;
@@ -31,7 +31,7 @@
 	@media screen and (min-width: 1024px) {
 		max-width: calc(1000px + 16.67%);
 		margin: .5em auto;
-		margin-top: calc(60px + .5em);
+		margin-top: .5em;
 	}
 }
 
