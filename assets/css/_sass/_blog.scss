@@ -97,23 +97,23 @@
 /* Author: */
 
 .blog-item__author {
-
+	grid-area: author;
 }
 
 /* Date */
 
 .blog-item__date {
-
+	grid-area: date;
 }
 
 /* Tags: */
 
 .blog-item__tags {
-
+	grid-area: tags;
 }
 
 /* Link to post: */
 
 .blog-item__cta {
-
+	grid-area: button;
 }
