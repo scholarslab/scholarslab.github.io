@@ -4,6 +4,7 @@ date: 2015-06-11 14:59:18+00:00
 layout: post
 slug: summer-in-the-makerspace-mucha-smart-dress-part-i
 title: 'Summer in the Makerspace: Mucha Smart Dress, Part I'
+pull-quote: "It is with this fusion of the inspirational and the functional that I wanted to make an Alphonse Mucha-styled wearable."
 categories:
 - Experimental Humanities
 - Grad Student Research
