@@ -132,4 +132,8 @@
 
 .blog-item__cta {
 	grid-area: button;
+	margin: 0 !important;
+	a {
+		margin: 0 !important;
+	}
 }
