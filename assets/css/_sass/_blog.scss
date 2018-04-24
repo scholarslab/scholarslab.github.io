@@ -1,5 +1,20 @@
 /* Blog */
 
+/* Universal Styles: */
+
+[class*="blog-item__"] {
+	span {
+		display: inline-block;
+		width: calc(7ch + .5em);
+		padding-bottom: .5em;
+		padding-right: .5em;
+		float: left;
+		font-weight: 900;
+		text-transform: uppercase;
+		color: rgba(0,0,0,.5);
+	}
+}
+
 .blog-wrapper {
 	padding: 0 8.33%;
 	padding-top: 1em;
@@ -35,11 +50,13 @@
 
 .blog-header__subtitle {
 	margin-bottom: 1em;
+	padding-bottom: .5em;
 	font-size: 1rem;
 	font-weight: 200;
 	font-family: "base-mono-narrow", monospace;
 	line-height: 1;
 	color: rgba(0,0,0,.5);
+//	border-bottom: 1px solid magenta;
 	@media screen and (min-width: 900px) {
 		font-size: 2rem;
 	}
@@ -73,7 +90,6 @@
 							 "tags button";
 		
 	}
-
 }
 
 /* Title: */
