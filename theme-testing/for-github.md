@@ -69,3 +69,7 @@ supplies needed | boolean
 - Blog: Posts with >1 author --> do we want to allow that? If so, need to change YAML (or, at least, change Liquid to check if 'author' is an array rather than a string)
 
 - Blog: Probably change 'read more' on blog to something else unless give preview of post
+
+## 4/24/18
+
+- Blog & events: add 'recent posts'/'upcoming' or some label thing to top. More crucial on events than blog.
