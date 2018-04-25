@@ -158,19 +158,3 @@
 	font-weight: 200;
 	color: rgba(0,0,0,.5);
 }
-
-/* Tags: */
-
-.blog-item__tags {
-	grid-area: tags;
-}
-
-/* Link to post: */
-
-.blog-item__cta {
-	grid-area: button;
-	margin: 0 !important;
-	a {
-		margin: 0 !important;
-	}
-}
