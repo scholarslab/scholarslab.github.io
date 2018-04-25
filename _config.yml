@@ -26,7 +26,7 @@ exclude:
   - docs
   - node_modules
   - theme-testing
-  - _posts # temporary! significantly reduces build time for theme testing
+#  - _posts # temporary! significantly reduces build time for theme testing
   - assets/python # helper scripts to manipulate HTML/CSS, not used in build
 collections:
   people:
