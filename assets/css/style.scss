@@ -15,6 +15,7 @@
 @import "blog-post";
 @import "person";
 @import "events";
+@import "blog";
 
 * {
 	box-sizing: border-box;
@@ -178,8 +179,8 @@ main {
 		line-height: 1;
 		text-decoration: none;
 		text-transform: uppercase;
-		color: cyan;
-		border: 2px solid cyan;
+		color: hsla(186,80%,70%,1);
+		border: 2px solid hsla(186,80%,70%,1);
 		&:hover, &:focus {
 			background-color: transparent !important;
 		}

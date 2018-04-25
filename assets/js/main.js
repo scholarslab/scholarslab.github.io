@@ -80,4 +80,11 @@
 			}
 		}
 	}
+
+	// Blog:
+//	if (document.querySelector(".blog-wrapper")) {
+//		var main = document.querySelector("main");
+//		main.style.backgroundColor = "hsla(186,80%,70%,.15)";
+//	}
+
 })();

@@ -14,7 +14,7 @@
 
 - Makerspace: find where calendar fits, and rearrange HTML if needed. Hide the skillset block thing for Phase 1 until you have time to properly label it, which seems like it will take more time than it's worth right now.
 
-- All: add 60px margin or padding to top of every page, to make room for the navigation bar. Probably apply this to `<main>`. Once done, remove `margin-top: calc(60px + num)` from all pages where you've inserted it to adjust manually.
+- **Update: done!** ~~All: add 60px margin or padding to top of every page, to make room for the navigation bar. Probably apply this to `<main>`. Once done, remove `margin-top: calc(60px + num)` from all pages where you've inserted it to adjust manually.~~
 
 - 3D Printer Calendar: forgot this was a separate page, too - calendar on Makerspace also needs to go here. It's clearly supposed to go somewhere on the page, based on wording referencing it, but unsure where.
 
@@ -22,7 +22,7 @@
 
 - Event data structure: Tags may be across the site; categories may be event-specific?
 
-- Event Questions/Asks for Ronda (4/19):
+- ### Event Questions/Asks for Ronda (4/19):
 	- Data to show on single event page (specific event)
 	- Data to show on event preview page
 	- Tags:
@@ -38,7 +38,7 @@
 		- Also could be a backdoor to prompt signing up for mailing list, since they'd have to enter name anyway. 
 			- UX note: If they're already signed up, it can check the name against who we already have, so anyone already on the list doesn't get a pointless popup.
 
-- Addendum: List of possible event data
+- ### Addendum: List of possible event data
 	- *This list is meant to serve as a starting point, but is non-exhaustive nor final in its phrasing.*
 
 Fields | Data Type
@@ -63,3 +63,26 @@ supplies needed | boolean
 - Events page subtitle
 
 - Run CSS through prefixer and manually add to SCSS where needed - do at end so don't have to do more than once
+
+## 4/23/18
+
+- Blog: Posts with >1 author --> do we want to allow that? If so, need to change YAML (or, at least, change Liquid to check if 'author' is an array rather than a string)
+
+- Blog: Probably change 'read more' on blog to something else unless give preview of post
+
+## 4/24/18
+
+- Blog & events: add 'recent posts'/'upcoming' or some label thing to top. More crucial on events than blog.
+
+## 4/25/18
+
+- Types of events, topics for events, disciplines that'd be interested in said events
+	- R: used diff icon for all types of events (e.g. data, GIS) for helpful visual sorting
+
+- Blog: how to strip content of markdown stuff without displaying images? Got some of it.
+
+- Blog: pagination -> rn only displaying most recent 20
+
+- Blog: filtering -> put in at top so people can only view posts about given thing, or nah?
+
+- Blog: set base font size as what you wanna use for the title then arrange everything else based on that. There are few enough elements that it's not hard and it's making it look super weird that the label span is 14 points and the name/date are 16 points on screens < 768px.
