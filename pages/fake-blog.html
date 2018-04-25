@@ -37,6 +37,12 @@ fake: true
 					<!--span>Announcements</span-->
 					<a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
 				</div>
+				<!-- pull quote, or 1st 25 words of post content. -->
+				{% if post.pull-quote %}
+				<div class="blog-item__quote">{{ post.pull-quote | prepend: '"' | append: '"' | smartify }}</div>
+				{% else %}
+				<div class="blog-item__quote">{{ post.content | truncatewords: 25 | markdownify | strip_html }}</div>
+				{% endif %}
 				<!-- fetch author object, link to their page -->
 				{% assign author_object = site.people | where: 'slug', post.author %}
 				<div class="blog-item__author">
