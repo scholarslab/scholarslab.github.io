@@ -83,6 +83,11 @@
 	grid-template-areas: "title title title"
 						 "pull pull pull"
 						 "author date ....";
+	margin-bottom: 1.75rem;
+	padding: 1.3125rem;
+	@media screen and (min-width: 1024px) {
+		margin-bottom: 2.5rem;
+		padding: 1.875rem;
 	}
 }
 
