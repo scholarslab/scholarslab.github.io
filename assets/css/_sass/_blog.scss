@@ -128,6 +128,26 @@
 
 .blog-item__author {
 	grid-area: author;
+	position: relative;
+	padding: 0;
+	padding-right: 2ch;
+	&::after {
+		content: '|';
+		position: absolute;
+		top: 0;
+		right: 1ch;
+	}
+	a {
+		font-weight: 900;
+		color: rgba(0,0,0,.5);
+		border-bottom: 2px solid hsla(186,80%,70%,1);
+		-webkit-transition: background-color .3s, color .3s;
+		transition: background-color .3s, color .3s;
+		&:hover, &:focus {
+			color: rgba(0,0,0,.8);
+			background-color: hsla(186,80%,70%,1);
+		}
+	}
 }
 
 /* Date */
