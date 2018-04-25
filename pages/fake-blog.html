@@ -14,9 +14,8 @@ fake: true
 
 	<div class="blog-main-content">
 		<div class="blog-gallery">
-			{% assign blog = site.fake-blog | sort: 'date' %}
 			<!-- post layout: -->
-			{% for post in blog %}
+			{% for post in site.posts limit: 20 %}
 			<section class="blog-gallery__item">
 				<div class="blog-item__title">
 					<a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
