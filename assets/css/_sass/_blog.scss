@@ -154,6 +154,9 @@
 
 .blog-item__date {
 	grid-area: date;
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
+	color: rgba(0,0,0,.5);
 }
 
 /* Tags: */
