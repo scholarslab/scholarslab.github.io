@@ -78,3 +78,11 @@ supplies needed | boolean
 
 - Types of events, topics for events, disciplines that'd be interested in said events
 	- R: used diff icon for all types of events (e.g. data, GIS) for helpful visual sorting
+
+- Blog: how to strip content of markdown stuff without displaying images? Got some of it.
+
+- Blog: pagination -> rn only displaying most recent 20
+
+- Blog: filtering -> put in at top so people can only view posts about given thing, or nah?
+
+- Blog: set base font size as what you wanna use for the title then arrange everything else based on that. There are few enough elements that it's not hard and it's making it look super weird that the label span is 14 points and the name/date are 16 points on screens < 768px.
