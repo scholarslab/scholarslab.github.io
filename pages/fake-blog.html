@@ -18,6 +18,24 @@ fake: true
 			{% for post in site.posts limit: 20 %}
 			<section class="blog-gallery__item">
 				<div class="blog-item__title">
+					<span>
+						{% if post.categories contains 'Events' %}
+							Events
+						{% elsif post.categories contains 'Announcements' %}
+							Announcements
+						{% elsif post.tags contains 'praxis program' %}
+							Praxis Program
+						{% elsif post.categories contains 'Grad Student Research' %}
+							Grad Student Research
+						{% elsif post.categories contains 'Experimental Humanities' %}
+							Experimenting
+						{% elsif post.categories contains 'Digital Humanities' or post.tags contains 'Digital Humanities' or post.categories contains 'digital humanities' %}
+							Digital Humanities
+						{% else %}
+							Miscellany
+						{% endif %}
+					</span>
+					<!--span>Announcements</span-->
 					<a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
 				</div>
 				<!-- fetch author object, link to their page -->
