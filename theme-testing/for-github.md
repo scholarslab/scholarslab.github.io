@@ -73,3 +73,8 @@ supplies needed | boolean
 ## 4/24/18
 
 - Blog & events: add 'recent posts'/'upcoming' or some label thing to top. More crucial on events than blog.
+
+## 4/25/18
+
+- Types of events, topics for events, disciplines that'd be interested in said events
+	- R: used diff icon for all types of events (e.g. data, GIS) for helpful visual sorting
