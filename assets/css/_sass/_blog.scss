@@ -96,11 +96,25 @@
 
 .blog-item__title {
 	grid-area: title;
+	position: relative;
 	margin-bottom: .5em;
+	padding-top: .75em;
 	font-family: "Oswald", sans-serif;
 	font-size: 1.75rem;
 	font-weight: 600;
 	line-height: 1;
+	span {
+		position: absolute;
+		top: 0;
+		left: 0;
+		display: block;
+		font-family: "Raleway", sans-serif;
+		font-weight: 900;
+		font-size: .5em;
+		text-transform: uppercase;
+		color: hsla(186,80%,70%,1);
+		white-space: nowrap;
+	}
 	a {
 		text-decoration: none;
 		color: black;
