@@ -46,7 +46,6 @@ fake: true
 				<!-- fetch author object, link to their page -->
 				{% assign author_object = site.people | where: 'slug', post.author %}
 				<div class="blog-item__author">
-					<span>By: </span>
 					{% for author in author_object %}
 					    <a href="{{ site.baseurl }}/people/{{post.author}}/">{{ author.name }}</a>
 					{% endfor %}
@@ -57,7 +56,7 @@ fake: true
 					        {% endfor %}
 					{% endif %}
 				</div>
-				<div class="blog-item__date"><span>Posted: </span>{{ post.date | date: "%B %-d, %Y" }}</div>
+				<div class="blog-item__date">{{ post.date | date: "%B %-d, %Y" }}</div>
 			</section>
 			{% endfor %} <!-- end post -->
 		</div> <!-- end gallery -->
