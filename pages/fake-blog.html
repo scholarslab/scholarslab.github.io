@@ -39,9 +39,18 @@ fake: true
 					<a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
 				</div>
 				<!-- fetch author object, link to their page -->
-				{% assign author = site.people | where: 'slug', post.author | first %}
+				{% assign author_object = site.people | where: 'slug', post.author %}
 				<div class="blog-item__author">
-					<span>By: </span><a href="{{ site.url}}/people/{{ post.author }}">{{ author.name }}</a>
+					<span>By: </span>
+					{% for author in author_object %}
+					    <a href="{{ site.baseurl }}/people/{{post.author}}/">{{ author.name }}</a>
+					{% endfor %}
+					{% if author_object == empty %}
+					    {% assign author = post.author | split: '-' %}
+					        {% for name in author %}
+					            {{ name | capitalize}}
+					        {% endfor %}
+					{% endif %}
 				</div>
 				<div class="blog-item__date"><span>Posted: </span>{{ post.date | date: "%B %-d, %Y" }}</div>
 				<!-- check if 1+ tags, print if so -->
