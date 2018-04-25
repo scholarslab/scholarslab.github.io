@@ -76,18 +76,10 @@
 .blog-gallery__item {
 	position: relative;
 	display: grid;
-	grid-template-columns: 1fr;
-	grid-template-areas: "title"
-						 "author"
-						 "date"
-						 "tags"
-						 "button";
-	@media screen and (min-width: 768px) {
-		grid-template-columns: 1fr 1fr;
-		grid-template-areas: "title title"
-							 "author date"
-							 "tags button";
-		
+	grid-template-columns: auto auto 1fr;
+	grid-template-areas: "title title title"
+						 "pull pull pull"
+						 "author date ....";
 	}
 }
 
