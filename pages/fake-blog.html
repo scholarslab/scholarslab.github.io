@@ -53,21 +53,6 @@ fake: true
 					{% endif %}
 				</div>
 				<div class="blog-item__date"><span>Posted: </span>{{ post.date | date: "%B %-d, %Y" }}</div>
-				<!-- check if 1+ tags, print if so -->
-				{% assign tagsize = post.tags | size %}
-				{% if tagsize >= 1 %}
-				<div class="blog-item__tags">
-					<span>Tags: </span>
-					{% for t in post.tags%}
-					{% assign last = post.tags | last %}
-					{% if t == last %} <a href="{{ site.url }}/posts-by-tag/#{{ t | slugify }}">{{ t }}</a>
-					{% else %} <a href="{{ site.url }}/posts-by-tag/#{{ t | slugify }}">{{ t }}</a>,
-					{% endif %}{% endfor %}
-				</div>
-				{% endif %}
-				<div class="blog-item__cta">
-					<a href="{{ site.url }}/{{ post.url }}">Read more &rsaquo;</a>
-				</div>
 			</section>
 			{% endfor %} <!-- end post -->
 		</div> <!-- end gallery -->
