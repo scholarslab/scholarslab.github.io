@@ -67,3 +67,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: "pages"
+    values:
+      order: 10
