@@ -20,6 +20,7 @@ ul[class*="flexnav"] {
 [class*="flexnav"][class*="__item"] {
 	a {
 		display: inline-block;
+		font-weight: bold;
 		text-decoration: none;
 		color: white;
 		-moz-transition: color .3s;
@@ -56,6 +57,7 @@ ul[class*="flexnav"] {
 // div
 .flexnav-more__prompt {
 	height: 60px;
+	font-weight: bold;
 	text-transform: uppercase;
 	line-height: 60px;
 	color: magenta;
