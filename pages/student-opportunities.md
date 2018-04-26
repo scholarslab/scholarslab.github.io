@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Graduate Fellowships and Opportunities
-permalink: /graduate-fellowships/
+title: Student Opportunities
+permalink: /student-opportunities/
 nav: true
 # slug: graduate-fellowships-and-opportunities
 status: in progress
