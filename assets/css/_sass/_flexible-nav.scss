@@ -58,17 +58,13 @@ ul[class*="flexnav"] {
 	height: 60px;
 	text-transform: uppercase;
 	line-height: 60px;
-	color: white;
-	-moz-transition: color .3s;
-	-webkit-transition: color .3s;
-	transition: color .3s;
+	color: magenta;
 	span {
 		display: inline-block;
 		transform: rotate(90deg);
 	}
 	&:hover, &:focus {
 		cursor: pointer;
-		color: magenta;
 	}
 }
 
