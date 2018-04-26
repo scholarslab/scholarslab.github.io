@@ -35,40 +35,37 @@ ul[class*="flexnav"] {
 // ul, level 1
 .flexnav-main-grid {
 	position: relative;
-	height: 100%;
 	display: flex;
 	align-items: center;
 	text-align: center;
+	height: 100%;
+	max-width: 50vw;
 }
 
 // li, level 1
 .flexnav__item {
 	padding-right: 1em;
-/*	a {
-		display: inline-block;
-		text-decoration: none;
-		color: white;
-		-moz-transition: color .3s;
-		-webkit-transition: color .3s;
-		transition: color .3s;
-		white-space: nowrap;
-		&:hover, &:focus {
-			color: magenta;
-		}
-	} */
 }
 
 // li, level 1
 .flexnav__more-menu {
-	position: relative;
+//	position: relative;
 //	align-self: flex-start;
 }
 
 // div
 .flexnav-more__prompt {
-	color: white;
 	height: 60px;
+	text-transform: uppercase;
 	line-height: 60px;
+	color: white;
+	-moz-transition: color .3s;
+	-webkit-transition: color .3s;
+	transition: color .3s;
+	span {
+		display: inline-block;
+		transform: rotate(90deg);
+	}
 	&:hover, &:focus {
 		cursor: pointer;
 		color: magenta;
@@ -78,7 +75,7 @@ ul[class*="flexnav"] {
 // ul, level 2
 .flexnav-more__wrapper {
 	position: absolute;
-	right: 0;
+	right: -4.167vw;
 	top: 0;
 	margin-top: 60px !important;
 	list-style-type: none;

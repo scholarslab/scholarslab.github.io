@@ -16,9 +16,12 @@
 	left: 0;
 	height: 60px;
 	width: 100%;
-	padding: 0 1em;
+	padding: 0 4.167% 0 calc(4.167% / 2);
 	background-color: black;
 	z-index: 5;
+	a {
+		text-transform: uppercase;
+	}
 }
 
 .navbar-main-grid {
