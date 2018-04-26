@@ -10,7 +10,7 @@ nav: false
 	{% assign pages = site.pages | sort: 'order' %}
 	{% for page in pages %}
 	{% if page.layout != nil and page.nav %}
-		<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title }}</a></li>
+		<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
 	{% endif %}
 	{% endfor %}
 		<li class="flexnav__more-menu">
@@ -18,7 +18,7 @@ nav: false
 			<ul class="flexnav-more__wrapper">
 			{% for page in pages %}
 			{% if page.layout != nil and page.nav %}
-				<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title }}</a></li>
+				<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
 			{% endif %}
 			{% endfor %}
 			</ul>
