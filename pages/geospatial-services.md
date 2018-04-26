@@ -2,6 +2,7 @@
 layout: page
 title: Geospatial Services
 permalink: /geospatial-services/
+nav: false
 status: N/A
 time-required: unknown
 notes:

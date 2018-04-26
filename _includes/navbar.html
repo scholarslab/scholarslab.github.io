@@ -5,16 +5,23 @@
 			<a href="{{ site.url }}" aria-label="Scholars' Lab home"><img src="{{ '/assets/img/slab-logo-color-white.svg' | relative_url }}" alt="SLab logo"></a>
 		</div>
 
-		<ul class="navbar__link-list">
-			<!--li class="nav-list__home"><a href="{{ site.url }}">Home</a></li-->
-			<li class="nav-list__about"><a href="{{ '/about' | relative_url }}">About</a></li>
-			<li class="nav-list__faq"><a href="{{ '/faq' | relative_url }}">FAQ</a></li>
-			<li class="nav-list__research"><a href="{{ '/research' | relative_url }}">Research</a></li>
-			<li class="nav-list__events"><a href="{{ '/events' | relative_url }}">Events</a></li>
-			<li class="nav-list__makerspace"><a href="{{ '/makerspace' | relative_url }}">Makerspace</a></li>
-			<li class="nav-list__students"><a href="{{ '/graduate-fellowships' | relative_url }}">Student Opportunities</a></li>
-			<li class="nav-list__blog"><a href="{{ '/blog' | relative_url }}">Blog</a></li>
-			<li class="nav-list__people"><a href="{{ '/people' | relative_url }}">People</a></li>
+		<ul class="flexnav-main-grid">
+		{% assign pages = site.pages | sort: 'order' %}
+		{% for page in pages %}
+		{% if page.layout != nil and page.nav %}
+			<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
+		{% endif %}
+		{% endfor %}
+			<li class="flexnav__more-menu">
+				<div class="flexnav-more__prompt" aria-label="More menu items">More &nbsp;<span>&rsaquo;</span></div>
+				<ul class="flexnav-more__wrapper">
+				{% for page in pages %}
+				{% if page.layout != nil and page.nav %}
+					<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
+				{% endif %}
+				{% endfor %}
+				</ul>
+			</li>
 		</ul>
 
 	</div> <!-- end content -->

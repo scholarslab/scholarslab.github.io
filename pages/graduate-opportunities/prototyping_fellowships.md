@@ -2,6 +2,7 @@
 layout: page
 title: Digital Humanities Prototyping Fellowships
 permalink: /digital-humanities-prototyping-fellowships/
+nav: false
 status: in progress
 notes:
 - Fellowship layout (see section "Other"); change YAML 'layout' to 'fellowship' once finished

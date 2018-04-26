@@ -2,6 +2,7 @@
 layout: page
 title: Hours and Spaces
 permalink: /hours-and-spaces/
+nav: true
 time-required: ~1.5hrs
 notes:
 - Content: wording is done unless content team wants to change. Beth's diagrams need incorporating.
