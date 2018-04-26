@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav: true
 time-required: ~2hrs
 notes:
 - Content: unknown

@@ -2,6 +2,7 @@
 layout: page
 title: People
 permalink: /people/
+nav: true
 time-required: ~3.5hrs
 notes:
 - Content: generated from `_people`

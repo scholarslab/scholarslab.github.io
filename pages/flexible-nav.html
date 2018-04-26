@@ -2,12 +2,13 @@
 layout: no-header
 title: Flexible Navigation
 permalink: /flexible-nav/
+nav: false
 ---
 
 <div class="flexnav-wrapper">
 	<ul class="flexnav-main-grid">
 	{% for page in site.pages %}
-	{% if page.layout != nil %}
+	{% if page.layout != nil and page.nav %}
 		<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
 	{% endfor %}
@@ -15,7 +16,7 @@ permalink: /flexible-nav/
 			<div class="flexnav-more__prompt" aria-label="More menu items">More</div>
 			<ul class="flexnav-more__wrapper">
 			{% for page in site.pages %}
-			{% if page.layout != nil %}
+			{% if page.layout != nil and page.nav %}
 				<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title }}</a></li>
 			{% endif %}
 			{% endfor %}

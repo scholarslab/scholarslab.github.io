@@ -2,6 +2,7 @@
 layout: page
 title: Makerspace Technologists
 permalink: /makerspace-technologists/
+nav: false
 status: in progress
 notes:
 - Fellowship layout (see section "Other")

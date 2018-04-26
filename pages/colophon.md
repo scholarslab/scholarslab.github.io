@@ -2,6 +2,7 @@
 layout: page
 title: Colophon
 permalink: /colophon/
+nav: false
 time-required: ~2hrs
 notes:
 - Content: needs to be updated

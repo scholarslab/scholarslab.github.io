@@ -1,9 +1,10 @@
 ---
 layout: page
 title: FAQ
+permalink: /faq/
+nav: true
 status: in progress
 time-required: ~2hrs
-permalink: /faq/
 notes:
 - Content: in progress, content team will work on in May as well
 - Style: not started. Add margins/spacing/title styles; all else is a Phase 2 priority

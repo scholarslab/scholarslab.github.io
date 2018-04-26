@@ -2,6 +2,7 @@
 layout: page
 title: Praxis Program Fellowships
 permalink: /praxis-program-fellowships/
+nav: false
 status: in progress
 notes:
 - Fellowship layout (see section "Other")

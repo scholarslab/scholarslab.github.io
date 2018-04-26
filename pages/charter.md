@@ -2,6 +2,7 @@
 layout: page
 title: Charter
 permalink: /charter/
+nav: false
 time-required: ~2hrs
 notes:
 - Content: unknown

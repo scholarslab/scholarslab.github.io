@@ -2,6 +2,7 @@
 layout: page
 title: Accessibility
 permalink: /accessibility/
+nav: true
 time-required: ~2hrs
 notes:
 - Content: unknown

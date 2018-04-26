@@ -2,6 +2,7 @@
 layout: page
 title: Graduate Fellowships and Opportunities
 permalink: /graduate-fellowships/
+nav: true
 # slug: graduate-fellowships-and-opportunities
 status: in progress
 notes:
