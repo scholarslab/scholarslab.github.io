@@ -7,7 +7,8 @@ nav: false
 
 <div class="flexnav-wrapper">
 	<ul class="flexnav-main-grid">
-	{% for page in site.pages %}
+	{% assign pages = site.pages | sort: 'order' %}
+	{% for page in pages %}
 	{% if page.layout != nil and page.nav %}
 		<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
@@ -15,7 +16,7 @@ nav: false
 		<li class="flexnav__more-menu">
 			<div class="flexnav-more__prompt" aria-label="More menu items">More</div>
 			<ul class="flexnav-more__wrapper">
-			{% for page in site.pages %}
+			{% for page in pages %}
 			{% if page.layout != nil and page.nav %}
 				<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title }}</a></li>
 			{% endif %}
