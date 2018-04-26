@@ -75,7 +75,7 @@ ul[class*="flexnav"] {
 // ul, level 2
 .flexnav-more__wrapper {
 	position: absolute;
-	right: -4.167vw;
+	right: -4.1vw;
 	top: 0;
 	margin-top: 60px !important;
 	list-style-type: none;
@@ -86,13 +86,18 @@ ul[class*="flexnav"] {
 	-moz-transition: opacity .5s;
 	-webkit-transition: opacity .5s;
 	transition: opacity .5s;
+	background-color: black;
+	border-top: 1px solid rgba(255,255,255,.5);
 }
 
 // li, level 2
 .flexnav-more__item {
 	background-color: black;
+	border-bottom: 1px solid rgba(255,255,255,.5);
 	a {
+		padding: 0 1em;
 		text-align: left !important;
+		line-height: 3;
 	}
 }
 
