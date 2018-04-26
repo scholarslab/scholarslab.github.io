@@ -31,6 +31,10 @@
 	align-self: center;
 	a {
 		display: block;
+		border-bottom: none !important;
+		&:hover, &:focus {
+			background-color: transparent !important;
+		}
 		img {
 			display: block;
 			height: 40px;
