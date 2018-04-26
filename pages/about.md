@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 nav: true
+order: 1
 time-required: ~2hrs
 notes:
 - Content: unknown

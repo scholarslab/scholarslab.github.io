@@ -3,6 +3,7 @@ layout: page
 title: FAQ
 permalink: /faq/
 nav: true
+order: 2
 status: in progress
 time-required: ~2hrs
 notes:

@@ -3,6 +3,7 @@ layout: page
 title: Student Opportunities
 permalink: /student-opportunities/
 nav: true
+order: 6
 # slug: graduate-fellowships-and-opportunities
 status: in progress
 notes:
