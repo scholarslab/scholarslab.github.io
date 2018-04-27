@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Student Opportunities
+title: Pedagogy # was 'Student Opportunities' -> no 'Pedagogy' page exists yet
 permalink: /student-opportunities/
 nav: true
-order: 6
+order: 5
 # slug: graduate-fellowships-and-opportunities
 status: in progress
 notes:

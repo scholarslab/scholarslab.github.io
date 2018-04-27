@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Lab
+title: R&D # was 'Lab' -> no 'R&D' page exists yet
 permalink: /lab/
-fake: true # for now
-nav: false
+# fake: true # for now
+nav: true
+order: 7
 time-required: unknown
 notes:
-- Content: not started
+- Content: not started. It's being linked in nav -> do we want anything here?
 - Style: not started
 - NB: NOT a Phase 1 page
 ---

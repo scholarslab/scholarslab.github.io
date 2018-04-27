@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Spatial Technologies
+title: Spatial Tech
 permalink: /spatial-technologies/
 nav: true
+order: 6
 time-required: ~8hrs
 notes:
 - Content: not started
