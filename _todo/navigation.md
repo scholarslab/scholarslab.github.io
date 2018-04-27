@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Navigation
-status: almost done
+status: prototype done
 phase: 1
-time-required: 2hrs
+time-required: 0
 notes:
-- Content: rank links from most to least important
-- Style: add responsive JS, transitions w/ JS, & tweak homelink highlighting
+- Content:
+- Style: update logo when exists
 - NB: Phase 2 -> want different-looking nav for homepage
 ---
