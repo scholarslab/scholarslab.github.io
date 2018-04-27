@@ -86,3 +86,11 @@ supplies needed | boolean
 - Blog: filtering -> put in at top so people can only view posts about given thing, or nah?
 
 - Blog: set base font size as what you wanna use for the title then arrange everything else based on that. There are few enough elements that it's not hard and it's making it look super weird that the label span is 14 points and the name/date are 16 points on screens < 768px.
+
+## 4/27/18
+
+- Makerspace/Nav: fix whatever is making the down arrow on 'More' jump below where it's supposed to be - must be some override-y thing for all elems of that type or something?
+
+- R&D: there's nothing except example text on `lab.html` right now. Do we want to fix that before we show to people, or not time yet?
+
+- Spatial Tech: need to add/combine existing text to get on there ASAP
