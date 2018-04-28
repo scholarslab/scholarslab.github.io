@@ -4,6 +4,7 @@ slug: praxis-program
 title: Praxis Program
 preview-img: praxis.png
 research-category: Internal Projects and Community Service
+year: 2011-present
 ---
 
 The Praxis Program is a 2011–13 pilot project of the [Scholars' Lab](http://lib.virginia.edu/scholarslab) in collaboration with the [Scholarly Communication Institute](http://uvasci.org). The Praxis Program funds two groups of six University of Virginia graduate students from a variety of disciplines to apprentice with us for an academic year as we conceptualize, design, and build a digital tool for humanities interpretation.

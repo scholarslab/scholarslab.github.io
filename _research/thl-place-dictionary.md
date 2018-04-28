@@ -1,9 +1,12 @@
 ---
 layout: research
-slug: the-university-of-virginia-art-museum-numismatic-collection
-title: The University of Virginia Art Museum Numismatic Collection
-preview-img: coins.jpg
+slug: thl-place-dictionary
+title: THL Place Dictionary
+preview-img: thlplace.jpg
 research-category: Scholarly Collaborations
+year: 2001
 ---
 
-The "Places Portal" of the [Tibetan and Himalayan Library](http://thlib.org) stems from a long collaboration between the Scholars' Lab and THL staff. "Places," which includes a complex gazetteer, is the area of THL where spatial and geographical data is archived and presented, as well as where rich studies of specific places are published.
+Louis P. Nelson of the UVa Department of Architectural History authored [The Falmouth Project](http://falmouth.lib.virginia.edu/), an online geo-spatially accessible archive of information about the historic architecture of Falmouth, Jamaica.
+
+The archive includes information on the 764 buildings that fall within the boundaries of the historic district. Every building in the archive has a full PDF survey report that includes a summary of the building’s form and materials, a supposition about the building’s date of construction, an assessment of the building’s condition in 2008, and a photograph and approximate footprint.
