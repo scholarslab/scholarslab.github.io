@@ -84,10 +84,10 @@
 					item.style.height = newHeight;
 				}
 
-				var rowHeight = (width / 2).toString() + "px";
-				for (let gallery of galleries) {
-					gallery.style.gridAutoRows = "minmax(" + rowHeight + ", auto)";
-				}
+	//			var rowHeight = (width / 2).toString() + "px";
+	//			for (let gallery of galleries) {
+	//				gallery.style.gridAutoRows = "minmax(" + rowHeight + ", auto)";
+	//			}
 			}
 		}
 	})();
