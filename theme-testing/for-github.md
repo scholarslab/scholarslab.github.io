@@ -163,3 +163,10 @@ _While making new HTML structure._
   behaving later
 
 >- Can always delete them later if turns out they're not needed
+
+## Okay, Back to Notes 4/30/18
+
+- Main stylesheet:
+	- Move universal style selectors either to separate SCSS partial or to very beginning of `style.scss` document
+	- Put SCSS imports in logical order
+	- Move homepage declarations to a partial file
