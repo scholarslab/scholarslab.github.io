@@ -98,13 +98,17 @@
 
 .spatial-landing__lines1 {
 	grid-area: lines1;
-	align-self: end;
+	align-self: start;
+	position: relative;
+	top: -36px;
+	left: 72px;
 	grid-auto-columns: 72px;
 	grid-auto-rows: 72px;
 	grid-template-areas: ". . one one ."
 						 ". four four . five"
 						 ". eight eight nine five"
 						 ". eight eight nine .";
+	transform: rotate(45deg);
 	div {
 		align-self: start;
 		background-color: magenta;
