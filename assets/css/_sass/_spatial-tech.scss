@@ -212,6 +212,89 @@
 	}
 }
 
+.spatial-landing__lines3 {
+	grid-area: lines3;
+	position: relative;
+	left: -128px;
+	align-self: center;
+	grid-auto-columns: 128px;
+	grid-auto-rows: 64px;
+	grid-template-areas: ". one two ."
+						 "three four five six"
+						 "three seven .... six"
+						 ". eight nine .";
+	margin-bottom: 72px;
+	max-width: 33vw;
+//	overflow: hidden;
+	transform: rotate(-30deg);
+	div {	
+		background-color: magenta;
+		width: 128px; // 100%;
+		height: 4px;
+		&:nth-of-type(1) {
+			grid-area: one;
+			align-self: end;
+			justify-self: end;
+			transform: rotate(-30deg) translate(7.5px, 150%); // translate(-2px, 2px);
+		}
+		&:nth-of-type(2) {
+			grid-area: two;
+			align-self: end;
+			transform: rotate(30deg) translate(-7.5px, 150%);
+		}
+		&:nth-of-type(3) {
+			grid-area: three;
+			align-self: start;
+			justify-self: end;
+			height: calc(100% + 2px);
+			width: 4px;
+			transform: translate(21px, 30px); // 128 - (128 * sqroot(3) / 2) [aka 111] = 17px
+			// 21px = 17px + width | 32px = 36px - width 
+			// width up + width right = 1/2 width diagonal = smooth corners :)
+		}
+		&:nth-of-type(4) {
+			grid-area: four;
+			align-self: end;
+			justify-self: end;
+			transform: rotate(30deg) translate(8.5px, -100%);
+		}
+		&:nth-of-type(5) {
+			grid-area: five;
+			align-self: end;
+			justify-self: start;
+			transform: rotate(-30deg) translate(-8.5px, -100%); // translate(-100%, -2px);
+		}
+		&:nth-of-type(6) {
+			grid-area: six;
+			align-self: start;
+			justify-self: start;
+			height: calc(100% + 2px);
+			width: 4px;
+			transform: translate(-21px, 30px);
+		}
+		&:nth-of-type(7) {
+			grid-area: seven;
+			justify-self: end;
+			height: 128px;
+			width: 4px;
+			transform: translate(2px, 30px); // 2px centers perfectly in shape
+		}
+		&:nth-of-type(8) {
+			grid-area: eight;
+			align-self: end;
+			transform: rotate(30deg) translate(8.5px, -100%);
+		}
+		&:nth-of-type(9) {
+			grid-area: nine;
+			align-self: end;
+			transform: rotate(-30deg) translate(-8.5px, -100%); // translate(-36px, 12px);
+		}
+	}
+	@media screen and (min-width: 768px) {
+		padding-right: 20px;
+	}
+}
+
 [class*="spatial-landing__lines"] {
 	position: relative;
 	display: grid;
