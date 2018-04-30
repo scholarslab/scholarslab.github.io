@@ -320,6 +320,8 @@
 
 }
 
+/* Mission: */
+
 .spatial__mission {
 
 }
@@ -329,8 +331,12 @@
 }
 
 .spatial-mission__text {
+	p {
 
+	}
 }
+
+/* Getting Started: */
 
 .spatial__starting {
 
@@ -348,9 +354,15 @@
 
 }
 
+// <ul>
 .spatial-starting__gis {
+	li {
+
+	}
 
 }
+
+/* FAQ: */
 
 .spatial__faq {
 
@@ -360,9 +372,19 @@
 
 }
 
+// <ul>
 .spatial-faq__list {
+	// q/a wrapper
+	li {
+		// question text
+		span {
+
+		}
+	}
 
 }
+
+/* Resources: */
 
 .spatial__resources {
 
@@ -376,9 +398,22 @@
 
 }
 
+// <ul>
 .spatial-resources__list {
+	li {
+		// purpose of resource
+		span {
+
+		}
+		// link to resource
+		a {
+
+		}
+	}
 
 }
+
+/* Inventory: */
 
 .spatial__inventory {
 
@@ -389,9 +424,12 @@
 }
 
 // leaving as reminder that styles currently copied
+// <ul>
 .maker-inventory__list {
 
 }
+
+/* People: */
 
 .spatial__people {
 
@@ -401,25 +439,34 @@
 
 }
 
+// <ul>
 .spatial-people__list {
 
 }
 
+// <li>
 .spatial-people__person {
 
 }
 
 .spatial-person__img {
+	img {
+
+	}
 
 }
 
 .spatial-person__name {
+	a {
 
+	}
 }
 
 .spatial-person__position {
 
 }
+
+/* Inclusivity Note: */
 
 .spatial__inclusion-note {
 
@@ -430,8 +477,12 @@
 }
 
 .spatial-inclusion__text {
+	p {
 
+	}
 }
+
+/* Workshops: */
 
 .spatial__workshops {
 
@@ -441,10 +492,14 @@
 
 }
 
+// <ul>
 .spatial-workshops__list {
+	li {
 
+	}
 }
 
+// in <li>
 .spatial-workshop__title {
 
 }
@@ -456,6 +511,8 @@
 .spatial-workshop__cta {
 
 }
+
+/* Showcase: */
 
 .spatial__showcase {
 
@@ -469,11 +526,24 @@
 
 }
 
+// <ul>
 .spatial-showcase__list {
+	// project wrapper:
+	li {
+
+	}
 
 }
 
+// nested <ul> in <li>
 .spatial-showcase__project {
+	li {
+		&:nth-of-type(2) {
+			img {
+
+			}
+		}
+	}
 
 }
 
