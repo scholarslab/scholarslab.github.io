@@ -330,6 +330,9 @@
 						 "workshop"
 						 "show";
 	padding: 0 4.167%;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+	}
 	@media screen and (min-width: 768px) {
 		grid-template-columns: 1fr 1fr;
 		grid-template-areas: "mission start"
@@ -338,7 +341,6 @@
 							 "invent invent"
 							 "include workshop"
 							 "show show";
-		padding: 0 8.33%;
 	}
 }
 
