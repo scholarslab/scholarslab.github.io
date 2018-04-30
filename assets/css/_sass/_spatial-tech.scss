@@ -549,7 +549,8 @@
 	position: relative;
 }
 
-.spatial-showcase__title {
+// avoid universal __title selector
+.spatial-showcase__ws-title {
 
 }
 
