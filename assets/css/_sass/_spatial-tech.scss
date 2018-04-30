@@ -23,8 +23,10 @@
 	width: 100%;
 	padding: 0 4.167%;
 	@media screen and (min-width: 768px) {
-		grid-template-areas: "title title lines1"
-							 ".... lines2 .....";
+		grid-template-areas: "..... ..... lines3"
+							 "title title lines3"
+							 ".... lines2 lines1"
+							 ".... ..... lines1";
 		grid-template-columns: 2fr 4fr 4fr;
 	}
 	@media screen and (min-width: 1200px) {
