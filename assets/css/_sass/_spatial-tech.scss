@@ -28,6 +28,7 @@
 							 ".... lines2 lines1"
 							 ".... ..... lines1";
 		grid-template-columns: 2fr 4fr 4fr;
+		grid-auto-rows: minmax(25vh, auto);
 	}
 	@media screen and (min-width: 1200px) {
 		padding: 0;
