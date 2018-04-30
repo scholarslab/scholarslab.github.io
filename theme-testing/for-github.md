@@ -118,3 +118,4 @@ supplies needed | boolean
 
 - Hopeful outcome: see which pages still need Literally All Formatting done.
 
+- Switch from test logo to old logo
