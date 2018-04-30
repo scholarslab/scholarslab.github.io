@@ -314,16 +314,39 @@
 	}
 }
 
-/* Main Content: */
+/*### Main Content: ###*/
 
 .spatial-main-content {
-
+	position: relative;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-areas: "mission"
+						 "start"
+						 "people"
+						 "faq"
+						 "resource"
+						 "invent"
+						 "include"
+						 "workshop"
+						 "show";
+	padding: 0 4.167%;
+	@media screen and (min-width: 768px) {
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas: "mission start"
+							 "people people"
+							 "faq resource"
+							 "invent invent"
+							 "include workshop"
+							 "show show";
+		padding: 0 8.33%;
+	}
 }
 
 /* Mission: */
 
 .spatial__mission {
-
+	grid-area: mission;
+	position: relative;
 }
 
 .spatial-mission__title {
@@ -339,7 +362,8 @@
 /* Getting Started: */
 
 .spatial__starting {
-
+	grid-area: start;
+	position: relative;
 }
 
 .spatial-starting__title {
@@ -365,7 +389,8 @@
 /* FAQ: */
 
 .spatial__faq {
-
+	grid-area: faq;
+	position: relative;
 }
 
 .spatial-faq__title {
@@ -387,7 +412,8 @@
 /* Resources: */
 
 .spatial__resources {
-
+	grid-area: resource;
+	position: relative;
 }
 
 .spatial-resources__title {
@@ -416,7 +442,8 @@
 /* Inventory: */
 
 .spatial__inventory {
-
+	grid-area: invent;
+	position: relative;
 }
 
 .spatial-inventory__title {
@@ -432,7 +459,8 @@
 /* People: */
 
 .spatial__people {
-
+	grid-area: people;
+	position: relative;
 }
 
 .spatial-people__title {
@@ -469,7 +497,8 @@
 /* Inclusivity Note: */
 
 .spatial__inclusion-note {
-
+	grid-area: include;
+	position: relative;
 }
 
 .spatial-inclusion__title {
@@ -485,7 +514,8 @@
 /* Workshops: */
 
 .spatial__workshops {
-
+	grid-area: workshop;
+	position: relative;
 }
 
 .spatial-workshops__title {
@@ -515,7 +545,8 @@
 /* Showcase: */
 
 .spatial__showcase {
-
+	grid-area: show;
+	position: relative;
 }
 
 .spatial-showcase__title {
