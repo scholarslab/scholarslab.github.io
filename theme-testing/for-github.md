@@ -147,3 +147,19 @@ _While making new HTML structure._
 	<div>Currently collecting yesterday&#8217;s data for tomorrow.</div>
 	<p lang="en">The University of Virginia has the rare privilege and honor of being located at a UNESCO World Heritage Site. We are surrounded by history at every level, from artifact to architecture. With equipment obtained by a far-sighted grant obtained in 2011, the University of Virginia Library has been collecting cultural heritage data of the buildings, monuments, sites and objects that surround us and that come to us via our faculty and students. We have documentation tools that include laser scanners, aerial drones and photogrammetric technologies, as well as industry-standard software to collect and process what we recognize to be primary source data that is vital to our historic record as well as significant for scholarly use. In pursuit of our mission, we are researching methods of collecting, archiving and disseminating this data to our academic constituency, which ranges across our schools of Architecture and Architectural History to Mechanical and Civil Engineering and beyond. Because libraries across our nation and across the world are located close to historic sites and culturally significant objects, we believe that libraries everywhere can gather and steward cultural heritage data at some scale. The University of Virginia Library is interested in establishing a collaborative environment focused on cultural heritage data methods and workflow. We are looking to tap into the expertise that the broader research-library community brings in developing metadata standards, modes of use and innovative applications of cultural heritage data.</p>
 </div>
+
+### Code Process Example
+
+- See screenshot of SCSS setup for Spatial Tech
+
+- Commit message explaining why I added it (hope to use concept for future educational purposes):
+
+> ### Add screenshot of empty STech SCSS as process example
+
+>- Comments on classes explaining what types of elements they are
+
+>- Looking at HTML structure and anticipating complicated nesting ->
+  set up selectors *first* so not surprised by how your webpage is
+  behaving later
+
+>- Can always delete them later if turns out they're not needed
