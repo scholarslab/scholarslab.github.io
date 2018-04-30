@@ -475,17 +475,34 @@
 
 // <ul>
 .spatial-people__list {
-
+	position: relative;
+	display: flex;
+	flex-flow: column nowrap;
+	width: calc(100% + 2rem); // acct for flexbox padding
+	padding: 0;
+	transform: translate(-1rem, 0); // re-center
+	list-style-type: none;
+	@media screen and (min-width: 768px) {
+		flex-flow: row nowrap;
+		justify-content: space-between;
+	}
 }
 
 // <li>
 .spatial-people__person {
-
+	position: relative;
+	display: inline-block;
+	padding: 0 1em;
+	@media screen and (min-width: 768px) {
+		width: 25%;
+	}
 }
 
 .spatial-person__img {
+	position: relative;
+	width: 100%;
 	img {
-
+		max-width: 100%;
 	}
 
 }
