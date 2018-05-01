@@ -583,25 +583,51 @@
 
 // <ul>
 .spatial-showcase__list {
-	// project wrapper:
-	li {
-
-	}
-
-}
-
-// nested <ul> in <li>
-.spatial-showcase__project {
-	li {
-		&:nth-of-type(2) {
-			img {
-
+	position: relative;
+	display: flex;
+	flex-flow: column nowrap;
+	width: calc(100% + 2rem); // acct for flexbox padding
+	padding: 0;
+	transform: translate(-1rem, 0); // re-center
+	list-style-type: none;
+	@media screen and (min-width: 768px) {
+		flex-flow: row nowrap;
+		justify-content: space-between;
+		// project wrapper:
+		li {
+			position: relative;
+			width: 33%;
+			a {
+				display: inline-block;
 			}
 		}
 	}
 
 }
 
-.spatial-showcase__cta {
+// nested <ul> in <li>
+.spatial-showcase__project {
+	position: relative;
+	display: flex;
+	flex-flow: column nowrap;
+	width: 100%;
+//	width: calc(100% + 2rem); // acct for flexbox padding
+	padding: 0;
+//	transform: translate(-1rem, 0); // re-center
+	list-style-type: none;
+	li {
+		position: relative;
+		width: 100%;
+		padding: 0 1rem;
+		img {
+			max-width: 100%;
+		}
+	}
 
+}
+
+.spatial-showcase__cta {
+	a {
+		margin-bottom: 1.5em !important;
+	}
 }
