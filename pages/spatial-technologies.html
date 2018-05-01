@@ -193,13 +193,21 @@ notes:
 
 	<div class="spatial__workshops">
 		<div class="spatial-workshops__title">Our Workshops</div>
+		<div class="spatial-workshops__subtitle">Something about repeating workshop series every semester. Note the usual when/where in this section. Upcoming events:</div>
 		<ul class="spatial-workshops__list">
 			<!-- Possibly use Liquid for this, depending on if it's worth making workshops a collection? -->
+			{% assign workshops = site.events | where_exp: "event", "event.title contains 'GIS'" %}
+			{% if workshops.size < 1 %}
+			<li><em>There are no upcoming workshops at this time. :(</em></li>
+			{% else %}
+			{% for event in workshops limit:3 %}
 			<li>
-				<div class="spatial-workshop__ws-title">Title of Workshop</div>
+				<div class="spatial-workshop__ws-title"><a href="{{ site.baseurl }}/events/{{ event.slug }}">{{ event.title }}</a></div>
 				<div class="spatial-workshop__logistics">Some sort of brief logistical info&mdash;a sentence description if the title isn't particularly illuminating, or the when/where info if doesn't change.</div>
-				<div class="spatial-workshop__cta"><a href="#">See More</a></div> <!-- link to events page -->
+				<div class="spatial-workshop__cta"><a href="#">See More &rsaquo;</a></div> <!-- link to events page -->
 			</li>
+			{% endfor %}
+			{% endif %}
 		</ul>
 	</div>
 
