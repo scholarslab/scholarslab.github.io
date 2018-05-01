@@ -170,3 +170,23 @@ _While making new HTML structure._
 	- Move universal style selectors either to separate SCSS partial or to very beginning of `style.scss` document
 	- Put SCSS imports in logical order
 	- Move homepage declarations to a partial file
+
+## 5/1/18
+
+- Research:
+	- Change image names to updated files, add another variable that does it w/ the thumbs
+	- "thumb-img", "banner-img", e.g.
+
+- Asks for content:
+	- Spatial Tech inventory list (see Makerspace version, which is currently there)
+		- Find GIS inventory
+		- Download CHI inventory into usable format (is currently a webpage)
+		- Hopefully synthesize the categories or whichever one you think makes sense
+	- Spatial tech hours/times
+	- Spatial tech spaces/locations
+	- Spatial tech contact: GIS has a special one, is there one for CHI?
+		- How to make an appointment? (Again, see Makerspace version)
+	- Re-label all of the YAML in _research/ to reflect updated image names
+		- Current: `preview-img: imgname.ext`
+		- Need:  `banner-img: imgname.ext` and `thumb-img: imgname.ext`
+		- Where: lines 5-6 of each research document. All YAML is in same order in them. (Replacing line 5 and creating a new line for the second var.)
