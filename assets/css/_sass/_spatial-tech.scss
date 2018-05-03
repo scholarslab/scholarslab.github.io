@@ -426,11 +426,22 @@
 
 // <ul>
 .spatial-faq__list {
+	list-style-type: none;
+	padding: 0;
 	// q/a wrapper
 	li {
+		padding-bottom: 1em;
 		// question text
 		span {
-
+			display: block;
+			margin-bottom: 1em;
+			font-weight: 900;
+			text-transform: uppercase;
+			line-height: 1;
+			color: rgba(0,0,0,.5);
+			@media screen and (min-width: 600px) {
+				font-size: 1.25rem;
+			}
 		}
 	}
 
