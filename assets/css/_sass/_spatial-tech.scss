@@ -332,7 +332,7 @@
 	padding: 0 4.167%;
 	@media screen and (min-width: 600px) {
 		padding: 0 8.33%;
-	}
+	} // back to 4% b/t 768 & 1200, + set max width
 	@media screen and (min-width: 768px) {
 		grid-template-columns: 1fr 1fr;
 		grid-template-areas: "mission mission"
