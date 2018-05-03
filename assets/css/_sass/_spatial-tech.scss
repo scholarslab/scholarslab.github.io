@@ -390,6 +390,9 @@
 .spatial__starting {
 	grid-area: start;
 	position: relative;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%;
+	}
 }
 
 .spatial-starting__title {
@@ -417,6 +420,9 @@
 .spatial__faq {
 	grid-area: faq;
 	position: relative;
+	@media screen and (min-width: 768px) {
+		padding-right: 8.33%;
+	}
 }
 
 .spatial-faq__title {
@@ -465,6 +471,9 @@
 .spatial__resources {
 	grid-area: resource;
 	position: relative;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%;
+	}
 }
 
 .spatial-resources__title {
