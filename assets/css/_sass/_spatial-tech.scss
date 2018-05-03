@@ -335,9 +335,12 @@
 	}
 	@media screen and (min-width: 768px) {
 		grid-template-columns: 1fr 1fr;
-		grid-template-areas: "mission start"
+		grid-template-areas: "mission mission"
 							 "people people"
-							 "faq resource"
+							 "faq start"
+							 "faq ....."
+							 
+							 "contact resource"
 							 "invent invent"
 							 "include workshop"
 							 "show show";
