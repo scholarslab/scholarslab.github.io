@@ -63,6 +63,7 @@ ul[class*="flexnav"] {
 	color: magenta;
 	span {
 		display: inline-block;
+		line-height: 1rem;
 		transform: rotate(90deg);
 	}
 	&:hover, &:focus {
