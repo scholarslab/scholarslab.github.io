@@ -110,13 +110,14 @@
 .person__img {
 	grid-area: img;
 	position: relative;
+	width: 100%;
 	img {
-//		max-width: 100%;
+		max-width: 100%;
 	}
 	@media screen and (min-width: 768px) {
 		padding-left: 4.167%;
 		img {
-			width: 95.833%;
+			max-width: 95.833%;
 			float: right;
 		}
 	}
