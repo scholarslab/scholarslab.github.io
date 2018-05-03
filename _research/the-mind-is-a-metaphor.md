@@ -2,7 +2,8 @@
 layout: research
 slug: the-falmouth-project
 title: The Falmouth Project
-preview-img: falmouth.jpg
+banner-img: falmouth.jpg
+thumb-img: falmouth.jpg
 research-category: Scholarly Collaborations
 ---
 

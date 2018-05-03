@@ -2,7 +2,8 @@
 layout: research
 slug: salem-witch-trials
 title: Salem Witch Trials
-preview-img: salemwitchtrials.jpg
+banner-img: salemwitchtrials.jpg
+thumb-img: salemwitchtrials.jpg
 research-category: Scholarly Collaborations
 ---
 

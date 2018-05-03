@@ -2,7 +2,8 @@
 layout: research
 slug: spatial-search-and-delivery
 title: Spatial Humanities
-preview-img: spatialhumanities1.jpg
+banner-img: spatialhumanities1.jpg
+thumb-img: spatialhumanities1.jpg
 research-category: Internal Projects and Community Service
 ---
 

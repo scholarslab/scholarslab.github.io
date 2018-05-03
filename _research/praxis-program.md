@@ -2,7 +2,8 @@
 layout: research
 slug: praxis-program
 title: Praxis Program
-preview-img: praxis.png
+banner-img: praxis.png
+thumb-img: praxis.png
 research-category: Internal Projects and Community Service
 ---
 

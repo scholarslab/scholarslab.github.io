@@ -2,7 +2,8 @@
 layout: research
 slug: faulkner-at-virginia-an-audio-archive
 title: Faulkner at Virginia - An Audio Archive
-preview-img: faulkner.jpg
+banner-img: faulkner.jpg
+thumb-img: faulkner.jpg
 research-category: Scholarly Collaborations
 ---
 
