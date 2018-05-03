@@ -20,8 +20,10 @@
 
 .person-wrapper {
 	padding: 0 4.167%;
-	padding-top: 1em;
 	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+	}
+	@media screen and (min-width: 768px) {
 		padding: 0 8.33%;
 		padding-top: 3rem; // 2 line heights
 	}
