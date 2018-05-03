@@ -348,7 +348,26 @@
 
 .spatial__mission {
 	grid-area: mission;
+	justify-self: center; // extra width
 	position: relative;
+	width: calc(100% + 3rem);
+	padding: 0 1.5rem;
+	border: 2px solid magenta;
+	&::before {
+		content: '';
+		position: absolute;
+		right: 33%;
+		top: 0;
+		display: block;
+		height: 3em;
+		width: 1.5em;
+		border-right: 2px solid magenta;
+		border-left: 2px solid magenta;
+		transform: translate(50%, -50%) skew(-45deg, 0);
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.5rem;
+	}
 }
 
 .spatial-mission__title {
