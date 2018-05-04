@@ -2,8 +2,7 @@
 layout: research
 slug: jeffersons-notes-on-the-state-of-virginia
 title: Jefferson &#8217;s Notes on the State of Virginia
-banner-img: jefferson-flipped.jpg
-thumb-img: jefferson-flipped.jpg
+preview-img: jefferson-flipped.jpg
 research-category: Scholarly Collaborations
 ---
 

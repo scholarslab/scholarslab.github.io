@@ -2,8 +2,7 @@
 layout: research
 slug: project-blacklight
 title: Project Blacklight
-banner-img: blacklight.jpg
-thumb-img: blacklight.jpg
+preview-img: blacklight.jpg
 research-category: Internal Projects and Community Service
 ---
 

@@ -2,8 +2,7 @@
 layout: research
 slug: thl-place-dictionary
 title: THL Place Dictionary
-banner-img: thlplace.jpg
-thumb-img: thlplace.jpg
+preview-img: thlplace.jpg
 research-category: Scholarly Collaborations
 ---
 
