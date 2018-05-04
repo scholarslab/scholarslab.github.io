@@ -112,6 +112,8 @@ layout: default
 		    {% endif %}
 		</div>
 
-		<div class="person__cta"><a href="{{ site.baseurl}}/people">See All Posts &rsaquo;</a></div> <!-- using components/link-button.scss -->
+		{% if author_posts.size >= 1 %}
+		<div class="person__cta"><a href="{{ site.baseurl}}/people">All Posts &rsaquo;</a></div> <!-- using components/link-button.scss -->
+		{% endif %}
 	</div>
 </div>
