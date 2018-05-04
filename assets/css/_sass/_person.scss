@@ -290,6 +290,14 @@
             }
         }
     }
+
+.person-posts__none-found {
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
+	color: rgba(0,0,0,.5);
+	@media screen and (min-width: 1024px) {
+		margin-bottom: 2em;
+	}
 }
 
 /* Button: */
