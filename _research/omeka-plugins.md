@@ -2,8 +2,7 @@
 layout: research
 slug: omeka-plugins
 title: Omeka Plugins
-banner-img: omeka-plugins2.png
-thumb-img: omeka-plugins2.png
+preview-img: omeka-plugins2.png
 research-category: Internal Projects and Community Service
 ---
 

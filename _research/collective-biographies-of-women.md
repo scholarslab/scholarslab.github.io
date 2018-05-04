@@ -2,8 +2,7 @@
 layout: research
 slug: collective-biographies-of-women
 title: Collective Biographies of Women
-banner-img: collectivebios.jpg
-thumb-img: collectivebios.jpg
+preview-img: collectivebios.jpg
 research-category: Scholarly Collaborations
 ---
 

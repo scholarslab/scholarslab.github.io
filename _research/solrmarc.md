@@ -2,8 +2,7 @@
 layout: research
 slug: solrmarc
 title: Solrmarc
-banner-img: RooshInf3ktion-solrmarc.png
-thumb-img: RooshInf3ktion-solrmarc.png
+preview-img: RooshInf3ktion-solrmarc.png
 research-category: Internal Projects and Community Service
 ---
 
