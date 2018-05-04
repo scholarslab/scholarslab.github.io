@@ -103,38 +103,31 @@
 }
 
 .person__position {
-    grid-area: title;
-    position: relative;
-    display: flex;
-    align-items: center;
-}
-
-.person-pos__title {
-    margin-top: 0 !important;
-    display: none;
-}
-
-.person-pos__text {
-    position: relative;
-    display: inline-block;
-    margin-bottom: 1.5em;
-    font-weight: 900;
-    font-size: 1.5rem;
-    line-height: 1;
-    color: rgba(0, 0, 0, .5);
-    &::after {
-        content: '';
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        display: block;
-        width: 100%;
-        height: 2px;
-        z-index: -1;
-    }
-    @media screen and (min-width: 600px) {
-        font-size: 1.5rem;
-    }
+	grid-area: title;
+	position: relative;
+	display: inline-block;
+	font-weight: 900;
+	font-size: 1rem;
+	line-height: 1;
+	color: rgba(0, 0, 0, .5);
+	&::after {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		display: block;
+		width: 100%;
+		height: 2px;
+		z-index: -1;
+	}
+	@media screen and (min-width: 400px) {
+		font-size: 1.25rem;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.5rem;
+		margin-top: .5em;
+		margin-bottom: 1em;
+	}
 }
 
 /* Image: */
