@@ -2,7 +2,8 @@
 layout: research
 slug: speaking-in-code
 title: Speaking In Code
-preview-img: speakingincodescreengrab.png
+banner-img: codespeak-thumb.png
+thumb-img: codespeak-banner.png
 research-category: Internal Projects and Community Service
 year: 2013
 ---
