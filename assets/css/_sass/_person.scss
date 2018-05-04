@@ -329,7 +329,18 @@
 .person__cta {
 	grid-area: button;
 	a {
+		font-size: 1rem !important;
 		border-color: hsla(186,80%,70%,1) !important;
 		color: hsla(186,80%,70%,1) !important;
+	}
+	@media screen and (min-width: 768px) {
+		a {
+			font-size: 1.25rem !important;
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		a {
+			font-size: 1.5rem !important;
+		}
 	}
 }
