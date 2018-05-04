@@ -95,19 +95,21 @@ layout: default
 		{% assign author_posts = site.posts | where: "author", page.slug %}
 
 		<div class="person__posts">
-		{% if author_posts.size >= 1 %}
-		  <h2 class="person-posts__title">Posts by {{ page.title }}</h2>
-	    <ul class="person-posts__list">
-	    {% for post in author_posts %}
-	      <li>
+			<h2 class="person-posts__title">Recent Posts</h2>
+			{% if author_posts.size >= 1 %}
+		    <ul class="person-posts__list">
+		    {% for post in author_posts limit:3 %}
+				<li>
 					<a href="{{ post.url }}">
 						<div class="person__post-title">{{ post.title }}</div>
 						<span>{{ post.date | date: "%m.%d.%Y" }}</span>
 					</a>
-	      </li>
-	    {% endfor %}
-	    </ul>
-		{% endif %}
+				</li>
+		    {% endfor %}
+		    </ul>
+		    {% elsif author_posts.size < 1 %}
+		    <p class="person-posts__none-found">There are no posts by {{ page.first_name }} at this time.</p>
+		    {% endif %}
 		</div>
 
 
