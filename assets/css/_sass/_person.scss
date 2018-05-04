@@ -6,12 +6,15 @@
 [class*="__title"][class*="person-"] {
 	margin-bottom: .5em;
 	margin-top: 1em;
-	font-size: 1.75rem;
+	font-size: 1.25rem;
 	font-weight: 900;
 	line-height: 1;
 	text-transform: uppercase;
-	@media screen and (min-width: 600px) {
-		font-size: 2rem;
+	@media screen and (min-width: 1024px) {
+		font-size: 1.5rem;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 1.75rem;
 	}
 }
 
