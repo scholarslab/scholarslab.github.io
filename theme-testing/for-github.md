@@ -60,7 +60,7 @@ supplies needed | boolean
 
 - Media queries on person page
 
-- Events page subtitle
+- ~~Events page subtitle~~
 
 - Run CSS through prefixer and manually add to SCSS where needed - do at end so don't have to do more than once
 
@@ -68,7 +68,7 @@ supplies needed | boolean
 
 - Blog: Posts with >1 author --> do we want to allow that? If so, need to change YAML (or, at least, change Liquid to check if 'author' is an array rather than a string)
 
-- Blog: Probably change 'read more' on blog to something else unless give preview of post
+- ~~Blog: Probably change 'read more' on blog to something else unless give preview of post~~
 
 ## 4/24/18
 
@@ -87,10 +87,17 @@ supplies needed | boolean
 
 - Blog: set base font size as what you wanna use for the title then arrange everything else based on that. There are few enough elements that it's not hard and it's making it look super weird that the label span is 14 points and the name/date are 16 points on screens < 768px.
 
-## 4/27/18
+## 4/27 - 4/28/18
 
 - Makerspace/Nav: fix whatever is making the down arrow on 'More' jump below where it's supposed to be - must be some override-y thing for all elems of that type or something?
 
 - R&D: there's nothing except example text on `lab.html` right now. Do we want to fix that before we show to people, or not time yet?
 
 - Spatial Tech: need to add/combine existing text to get on there ASAP
+
+- Research
+  - Make text white
+  - ~~Set intro text to base-mono-narrow~~
+  - ~~Add years to each entry~~
+  - Make GH issue re. Ronda & Jerm validating years
+  - Sort entries by title minus leading "the"

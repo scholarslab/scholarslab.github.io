@@ -14,14 +14,37 @@ notes:
 
 <div class="research-landing-wrapper">
   <div class="research-landing-grid">
-    <div class="research-landing__big-title" aria-label="Landing page">
+    <div class="research-landing__page-title" aria-label="Landing page">
       <div class="research-title__text">Research</div>
     </div>
-    <div class="research-landing__description">
-      <p>Scholarship is one part critical thinking (research, writing, coding, building, designing, experimenting, play…) and one part communication (traditional publishing and other forms of “making public”, teaching, open source code, other ways for your intellectual community to learn from and build on your work).</p>
-      <p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers.</p>
+    <div class="research-landing__lines1">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <div class="research-landing__lines2">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
     </div>
   </div>
+</div>
+
+<div class="research-landing__description">
+  <p>Scholarship is one part critical thinking (research, writing, coding, building, designing, experimenting, play…) and one part communication (traditional publishing and other forms of “making public”, teaching, open source code, other ways for your intellectual community to learn from and build on your work).</p>
+  <p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers.</p>
 </div>
 
 <div class="research-main-content" aria-label="Main content">
@@ -39,10 +62,10 @@ notes:
       <div class="research__item">
         <a href="{{ site.baseurl }}/research/{{ page.slug }}" aria-label="{{ page.title }}">
           <div class="research-item__img">
-            <img src="{{ '/assets/img/research/' | append: page.preview-img | relative_url }}" alt="{{ page.title }}">
+            <img src="{{ '/assets/img/people/' | append: 'scholarslab.png' | relative_url }}" alt="{{ page.title }}">
           </div>
-          <div class="research-item__title">{{ page.title }}</div>
-          <div class="research-item__year">2012</div>
+          <div class="research-item__title"><span>{{ page.title }}</span></div>
+          <div class="research-item__year"><span>{{ page.year }}</span></div>
         </a>
       </div>
     {% endfor %}
@@ -59,10 +82,10 @@ notes:
       <div class="research__item">
         <a href="{{ site.baseurl }}/research/{{ page.slug }}" aria-label="{{ page.title }}">
           <div class="research-item__img">
-            <img src="{{ '/assets/img/research/' | append: page.preview-img | relative_url }}" alt="{{ page.title }}">
+            <img src="{{ '/assets/img/people/' | append: 'scholarslab.png' | relative_url }}" alt="{{ page.title }}">
           </div>
-          <div class="research-item__title">{{ page.title }}</div>
-          <div class="research-item__year">2012</div>
+          <div class="research-item__title"><span>{{ page.title }}</span></div>
+          <div class="research-item__year"><span>{{ page.year }}</span></div>
         </a>
       </div>
     {% endfor %}
