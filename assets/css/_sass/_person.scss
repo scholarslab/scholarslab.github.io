@@ -239,8 +239,11 @@
 	}
 }
 
+/* Blog Posts: */
+
 .person__posts {
 	grid-area: posts;
+	position: relative;
 }
 
 .person-posts__title {
