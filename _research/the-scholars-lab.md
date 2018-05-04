@@ -2,7 +2,8 @@
 layout: research
 slug: the-scholars-lab
 title: The Scholars' Lab
-preview-img: praxis.png # placeholder image
+banner-img: praxis-thumb.png
+thumb-img: praxis-banner.png
 research-category: Internal Projects and Community Service
 year: 2002-present
 ---

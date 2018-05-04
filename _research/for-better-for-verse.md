@@ -2,7 +2,8 @@
 layout: research
 slug: for-better-for-verse
 title: For Better for Verse
-preview-img: forbetterforverse.jpg
+banner-img: 4better4verse-thumb.png
+thumb-img: 4better4verse-banner.png
 research-category: Scholarly Collaborations
 year: 2008
 ---
