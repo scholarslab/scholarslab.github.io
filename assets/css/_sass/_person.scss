@@ -135,7 +135,7 @@
 .person__img {
 	grid-area: img;
 	position: relative;
-	width: 108.33%;
+	width: 109.1%; // 100% / 91.67% = 100vw
 	justify-self: center;
 	img {
 		max-width: 100%;
