@@ -139,12 +139,13 @@
 	justify-self: center;
 	img {
 		max-width: 100%;
-		border-right: 1px solid white;
-		border-bottom: 1px solid white;
-		box-shadow: 4px 4px 0 0 rgba(0,0,0,.5);
 	}
-	@media screen and (min-width: 768px) {
+	@media screen and (min-width: 600px) {
 		width: 100%;
+		img {
+			box-shadow: 4px 4px 0 0 rgba(0,0,0,.5);
+		}
+	}
 		padding-left: 4.167%;
 		img {
 			max-width: 95.833%;
