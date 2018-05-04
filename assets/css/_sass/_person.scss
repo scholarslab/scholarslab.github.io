@@ -183,6 +183,14 @@
 	}
 }
 
+.person-describe__category {
+	display: none;
+	h3 {
+   // 	font-family: "Oswald";
+		font-size: 1.5rem;
+		font-weight: 900;
+	//	text-transform: uppercase;
+	}
 }
 
 /* Stats: */
