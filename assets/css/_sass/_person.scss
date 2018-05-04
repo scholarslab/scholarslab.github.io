@@ -163,17 +163,24 @@
 
 .person__description {
 	grid-area: describe;
+	align-self: start;
+	@media screen and (min-width: 768px) {
+		margin-top: .5em;
+		padding-right: 8.33%; // 4.167%;
+	}
 	@media screen and (min-width: 1024px) {
+		
 		font-size: 18px;
 	}
 }
 
 .person-describe__title {
-
 }
 
 .person-describe__text {
-
+	p {
+		margin: 0 0 .5em 0;
+	}
 }
 
 .liquid-testing {
