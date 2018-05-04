@@ -25,8 +25,13 @@
 	padding: 0 4.167%;
 	@media screen and (min-width: 600px) {
 		padding: 0 8.33%;
+		padding-top: 3rem; // 2 line heights
 	}
 	@media screen and (min-width: 768px) {
+		padding: 0 4.167%;
+		padding-top: 3rem; // 2 line heights
+	}
+	@media screen and (min-width: 1024px) {
 		padding: 0 8.33%;
 		padding-top: 3rem; // 2 line heights
 	}
