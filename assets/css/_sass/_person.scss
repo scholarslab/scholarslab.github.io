@@ -40,9 +40,9 @@
 .person-main-content {
 	position: relative;
 	display: grid;
-	grid-template-areas: "name"
+	grid-template-areas: "img"
+						 "name"
 						 "title"
-						 "img"
 						 "stats"
 						 "describe"
 						 "posts"
@@ -52,10 +52,22 @@
 		grid-template-areas: "name img"
 							 "title img"
 							 "stats img"
+							 "..... img"
 							 "describe describe"
 							 "posts posts"
 							 "button button";
 		grid-template-columns: 1fr 1fr;
+	}
+	@media screen and (min-width: 1024px) {
+		grid-template-areas: "name img"
+							 "title img"
+							 "describe img"
+							 "describe stats"
+							 "describe ....."
+							 "describe ....."
+							 "posts posts"
+							 "button button";
+		grid-template-columns: 50% 50%;
 	}
 }
 
