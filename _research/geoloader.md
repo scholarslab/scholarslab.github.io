@@ -2,7 +2,8 @@
 layout: research
 slug: geoloader
 title: Geoloader
-preview-img: clickykbd-geoloader.png
+banner-img: clickkbd-geoloader-thumb.png
+thumb-img: clickkbd-geoloader-banner.png
 research-category: Internal Projects and Community Service
 year: 2014-2017
 ---

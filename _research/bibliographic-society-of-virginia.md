@@ -2,7 +2,8 @@
 layout: research
 slug: bibliographic-society-of-virginia
 title: Bibliographic Society of Virginia
-preview-img: bsuva.png
+banner-img: mjkmjk-bsuva-thumb.png
+thumb-img: mjkmjk-bsuva-banner.png
 research-category: Scholarly Collaborations
 year: 2013
 ---

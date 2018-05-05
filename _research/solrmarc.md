@@ -2,7 +2,8 @@
 layout: research
 slug: solrmarc
 title: Solrmarc
-preview-img: RooshInf3ktion-solrmarc.png
+banner-img: RooshInf3ktion-solrmarc-thumb.png
+thumb-img: RooshInf3ktion-solrmarc-banner.png
 research-category: Internal Projects and Community Service
 year: 2005
 ---

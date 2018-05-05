@@ -2,7 +2,8 @@
 layout: research
 slug: mapping-the-catalogue-of-ships
 title: Mapping the Catalogue of Ships
-preview-img: catalogofships.jpg
+banner-img: ships-thumb.png
+thumb-img: ships-banner.png
 research-category: Scholarly Collaborations
 year: 2011
 ---
