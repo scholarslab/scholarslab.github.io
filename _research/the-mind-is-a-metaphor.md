@@ -2,7 +2,8 @@
 layout: research
 slug: the-mind-is-a-metaphor
 title: The Mind is a Metaphor
-preview-img: mindmetaphor.jpg
+banner-img: metaphors-thumb.png
+thumb-img: metaphors-banner.png
 research-category: Scholarly Collaborations
 year: 2013
 ---

@@ -2,7 +2,8 @@
 layout: research
 slug: latvian-dainas
 title: Latvian Dainas
-preview-img: latvian-dainas.png
+banner-img: dainas-thumb.png
+thumb-img: dainas-banner.png
 research-category: Scholarly Collaborations
 year: 2001
 ---

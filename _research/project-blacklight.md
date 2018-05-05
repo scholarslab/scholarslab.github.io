@@ -2,7 +2,8 @@
 layout: research
 slug: project-blacklight
 title: Project Blacklight
-preview-img: blacklight.jpg
+banner-img: tassiamohr-blacklight-thumb.png
+thumb-img: tassiamohr-blacklight-banner.png
 research-category: Internal Projects and Community Service
 year: 2005-present
 ---
