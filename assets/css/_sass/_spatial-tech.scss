@@ -13,10 +13,12 @@
 .spatial-landing-grid {
 	position: relative;
 	display: grid;
-	grid-template-areas: "lines1 ...."
-						 "title title"
-						 "lines2 ....";
-	grid-template-columns: 1fr 1fr;
+	grid-template-areas: "lines1"
+						 "title"
+						 "lines2"
+						 "lines3";
+	grid-template-columns: 1fr;
+	grid-auto-rows: 25vh;
 	justify-content: start;
 	align-items: center;
 	overflow: hidden;
@@ -105,6 +107,11 @@
 
 // cube 45deg
 .spatial-landing__lines1 {
+	@media screen and (max-width: 767px) {
+		transform: rotate(45deg) scale(.5);
+		top: 0;
+		left: 0;
+	}
 	grid-area: lines1;
 	align-self: start;
 	position: relative;
@@ -234,6 +241,10 @@
 
 // cube 60deg
 .spatial-landing__lines3 {
+	@media screen and (max-width: 767px) {
+		transform: rotate(-30deg) scale(.5);
+		left: 0;
+	}
 	grid-area: lines3;
 	position: relative;
 	left: -128px;
