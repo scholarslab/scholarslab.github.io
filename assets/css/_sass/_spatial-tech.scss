@@ -75,19 +75,19 @@
 	position: relative;
 	padding-bottom: 20px;
 	font-family: "Oswald", sans-serif;
-	font-size: 4rem;
+	font-size: 3.5rem;
 	font-weight: 600;
 	text-transform: uppercase;
 	line-height: .9;
 	color: white;
 	z-index: 1;
 	@media screen and (min-width: 600px) {
-		font-size: 5rem;
+		font-size: 4rem;
 	}
 	@media screen and (min-width: 768px) {
 		justify-self: end;
 		width: 100%;
-		font-size: 5.5rem;
+		font-size: 5rem;
 		text-align: right;
 	}
 	@media screen and (min-width: 900px) {
