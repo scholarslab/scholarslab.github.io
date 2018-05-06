@@ -96,6 +96,13 @@
 	}
 }
 
+.spatial-landing__cube-wrapper-1 {
+	grid-area: lines1;
+	position: relative;
+	display: grid;
+	grid-template-areas: "lines1";
+}
+
 .spatial-landing__lines1 {
 	grid-area: lines1;
 	align-self: start;
@@ -214,6 +221,13 @@
 	@media screen and (min-width: 768px) {
 		padding-right: 20px;
 	}
+}
+
+.spatial-landing__cube-wrapper-3 {
+	grid-area: lines3;
+	position: relative;
+	display: grid;
+	grid-template-areas: "lines3";
 }
 
 .spatial-landing__lines3 {
