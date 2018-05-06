@@ -9,18 +9,16 @@ layout: default
 
 		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
 
-		<div class="person__position">
-			<div class="person-pos__title">Who</div>
-			<div class="person-pos__text">{{ page.position }}<!--span>Staff</span--></div>
-		</div>
+		<div class="person__position">{{ page.position }}</div>
 
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
+			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
 				<div>Around the Web</div>
 				{% if page.email !=  nil %}
 				<span>Email:</span>{{ page.email}}<br/>
 				{% endif %}
-				{% if page.twitter != nil %}
+				{% if page.twitter != 'None' %}
 				<span>Twitter:</span>@{{ page.twitter }}<br/>
 				{% endif %}
 				{% if page.website != 'None' %}
@@ -45,7 +43,7 @@ layout: default
 		<div class="person__description">
 			<div class="person-describe__title">About</div>
 			<div class="person-describe__text">{{ content }}</div>
-			<p class="liquid-testing"> <!-- liquid testing -->
+			<div class="person-describe__category"> <!-- liquid testing -->
 				<h3>Categories</h3>
 				<ul>
 				{% assign pc = page.people-category %}
@@ -90,30 +88,32 @@ layout: default
 					{% endif %}
 				{% endif %}
 				</ul>
-			</p>
+			</div>
 		</div> <!-- end 'about' -->
 
+		<!-- list of blog posts by person -->
+		{% assign author_posts = site.posts | where: "author", page.slug %}
+
 		<div class="person__posts">
-		{% assign author_posts = site.fake-blog | where: "author", page.slug | reverse %}
-		{% if author_posts.size >= 1 %}
-		  <h2 class="person-posts__title">Posts by {{ page.title }}</h2>
-	    <ul class="person-posts__list">
-	    {% for post in author_posts %}
-	      <li>
+			<h2 class="person-posts__title">Recent Posts</h2>
+			{% if author_posts.size >= 1 %}
+		    <ul class="person-posts__list">
+		    {% for post in author_posts limit:3 %}
+				<li>
 					<a href="{{ post.url }}">
 						<div class="person__post-title">{{ post.title }}</div>
-						<span>{{ post.date | date: "%B %-d, %Y" }}</span>
+						<span>{{ post.date | date: "%m.%d.%Y" }}</span>
 					</a>
-	      </li>
-	    {% endfor %}
-	    </ul>
-		{% endif %}
+				</li>
+		    {% endfor %}
+		    </ul>
+		    {% elsif author_posts.size < 1 %}
+		    <p class="person-posts__none-found">There are no posts by {{ page.first_name }} at this time.</p>
+		    {% endif %}
 		</div>
 
-
-		<!-- insert any additional info, like a list of all posts by a certain person. 
-			 This is just a boilerplate model. -->
-
-		<div class="person__cta"><a href="{{ site.baseurl}}/people">See All Posts &rsaquo;</a></div> <!-- using components/link-button.scss -->
+		{% if author_posts.size >= 1 %}
+		<div class="person__cta"><a href="{{ site.baseurl}}/blog">All Posts &rsaquo;</a></div> <!-- using components/link-button.scss -->
+		{% endif %}
 	</div>
 </div>
