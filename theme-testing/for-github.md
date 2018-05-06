@@ -1,8 +1,8 @@
 *Issues for GitHub that I keep being too lazy to submit in the moment, if discovered when have good flow going.*
 
-- Person: 'posts by blah' farther to left than edge of flexbox content but when tried wrapping w/ same thing it made everything tiny so gotta investigate further on that
+- Prototype done. ~~Person: 'posts by blah' farther to left than edge of flexbox content but when tried wrapping w/ same thing it made everything tiny so gotta investigate further on that~~
 
-- Person: button on bottom needs margin-bottom and also prob to be for seeing the rest of someone's posts if they exist rather than taking to all people page. Will also need Liquid logic that only displays this button if someone has more than 3 posts.
+- Prototype done. ~~Person: button on bottom needs margin-bottom and also prob to be for seeing the rest of someone's posts if they exist rather than taking to all people page. Will also need Liquid logic that only displays this button if someone has more than 3 posts.~~
 
 - ~~Blog: sort by date, descending~~
 
@@ -18,7 +18,7 @@
 
 - 3D Printer Calendar: forgot this was a separate page, too - calendar on Makerspace also needs to go here. It's clearly supposed to go somewhere on the page, based on wording referencing it, but unsure where.
 
-- Update: Images exist, Amanda assigning labels right now. ~~Research: need replacement images for gallery - unsure how many left. I know Praxis is still missing and Jeremy should know where that is, since I saw they used it on their poster. This is why I need to investigate Google Drive folders more thoroughly...~~
+- Done! ~~Update: Images exist, Amanda assigning labels right now. Previously: Research: need replacement images for gallery - unsure how many left. I know Praxis is still missing and Jeremy should know where that is, since I saw they used it on their poster. This is why I need to investigate Google Drive folders more thoroughly...~~
 
 - Update: yep! Or vice versa, doesn't really matter. ~~Event data structure: Tags may be across the site; categories may be event-specific?~~
 
@@ -59,7 +59,7 @@ supplies needed | boolean
 
 ## 4/21/18
 
-- Media queries on person page
+- ~~Media queries on person page~~
 
 - ~~Events page subtitle~~
 
@@ -103,22 +103,9 @@ supplies needed | boolean
 
 ### Styling per page:
 
-- Brainstorm: 
-	1. Loop through all pages
-	2. Print the following:
-		- Margins
-		- Padding
-		- Number of classes declared
-		- Markdown or HTML
-	3. Determine how to do that in terms of "what's the maximum width the content is taking up"?
-	4. Possible solution:
-		- Have all raw CSS for anything declaring margins or padding of 1/24 or 1/12, which is standard on your docs.
-		- Compare the names of the CSS classes to whether "string up 'til '__' or '-' is a substring of `page.permalink` or `page.title`
-		- If so, list those declarations underneath that page title in the `<ul>` already set up for pages.
-
-- Hopeful outcome: see which pages still need Literally All Formatting done.
-
 - Switch from test logo to old logo
+
+---
 
 ## Temporary: Copy/Pasted Spatial Text
 
@@ -147,14 +134,14 @@ _While making new HTML structure._
 	<div>Currently collecting yesterday&#8217;s data for tomorrow.</div>
 	<p lang="en">The University of Virginia has the rare privilege and honor of being located at a UNESCO World Heritage Site. We are surrounded by history at every level, from artifact to architecture. With equipment obtained by a far-sighted grant obtained in 2011, the University of Virginia Library has been collecting cultural heritage data of the buildings, monuments, sites and objects that surround us and that come to us via our faculty and students. We have documentation tools that include laser scanners, aerial drones and photogrammetric technologies, as well as industry-standard software to collect and process what we recognize to be primary source data that is vital to our historic record as well as significant for scholarly use. In pursuit of our mission, we are researching methods of collecting, archiving and disseminating this data to our academic constituency, which ranges across our schools of Architecture and Architectural History to Mechanical and Civil Engineering and beyond. Because libraries across our nation and across the world are located close to historic sites and culturally significant objects, we believe that libraries everywhere can gather and steward cultural heritage data at some scale. The University of Virginia Library is interested in establishing a collaborative environment focused on cultural heritage data methods and workflow. We are looking to tap into the expertise that the broader research-library community brings in developing metadata standards, modes of use and innovative applications of cultural heritage data.</p>
 </div>
-
+----
 ### Code Process Example
 
 - See screenshot of SCSS setup for Spatial Tech
 
 - Commit message explaining why I added it (hope to use concept for future educational purposes):
 
-> ### Add screenshot of empty STech SCSS as process example
+> Add screenshot of empty STech SCSS as process example
 
 >- Comments on classes explaining what types of elements they are
 
@@ -173,7 +160,7 @@ _While making new HTML structure._
 
 ## 5/1/18
 
-- Update: added as issue, Amanda doing today (5/3/18). ~~Research:~~
+- ~~Update: added as issue, Amanda doing today (5/3/18). Research:~~ Done!
 	- ~~Change image names to updated files, add another variable that does it w/ the thumbs~~
 	- ~~"thumb-img", "banner-img", e.g.~~
 
@@ -186,12 +173,18 @@ _While making new HTML structure._
 	- Spatial tech spaces/locations
 	- Spatial tech contact: GIS has a special one, is there one for CHI?
 		- How to make an appointment? (Again, see Makerspace version)
-	- Re-label all of the YAML in _research/ to reflect updated image names
-		- Current: `preview-img: imgname.ext`
-		- Need:  `banner-img: imgname.ext` and `thumb-img: imgname.ext`
-		- Where: lines 5-6 of each research document. All YAML is in same order in them. (Replacing line 5 and creating a new line for the second var.)
+	- ~~Re-label all of the YAML in _research/ to reflect updated image names~~
+		- ~~Current: `preview-img: imgname.ext`~~
+		- ~~Need:  `banner-img: imgname.ext` and `thumb-img: imgname.ext`~~
+		- ~~Where: lines 5-6 of each research document. All YAML is in same order in them. (Replacing line 5 and creating a new line for the second var.)~~
 
 
 ## 5/3/18
 
-- Move 'PEOPLE //' above img at mobile sizes
+- ~~Move 'PEOPLE //' above img at mobile sizes~~ Done! Used different order but fixed underlying spacing issue either way.
+
+## 5/6/18
+
+- Add 'internship'/'fellowship' YAML variable to pages listed under `pages/graduate-opportunities/*`
+	- Neither a collection nor top-level pages, and want some way to demarcate that.
+	- Is there a way to make a layout for this page set that acknowledges that there's multiple areas of variable content? Check recent bookmarks; those might have provided a good workaround.
