@@ -103,6 +103,7 @@
 	grid-template-areas: "lines1";
 }
 
+// cube 45deg
 .spatial-landing__lines1 {
 	grid-area: lines1;
 	align-self: start;
@@ -183,6 +184,7 @@
 	}
 }
 
+// text underlines
 .spatial-landing__lines2 {
 	grid-area: lines2;
 	align-self: start;
@@ -230,6 +232,7 @@
 	grid-template-areas: "lines3";
 }
 
+// cube 60deg
 .spatial-landing__lines3 {
 	grid-area: lines3;
 	position: relative;
