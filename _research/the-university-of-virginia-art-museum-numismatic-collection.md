@@ -2,8 +2,8 @@
 layout: research
 slug: the-university-of-virginia-art-museum-numismatic-collection
 title: The University of Virginia Art Museum Numismatic Collection
-banner-img: coins-thumb.png
-thumb-img: coins-banner.png
+thumb-img: coins-thumb.png
+banner-img: coins-banner.png
 research-category: Scholarly Collaborations
 year: 2007
 ---

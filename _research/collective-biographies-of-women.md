@@ -2,8 +2,8 @@
 layout: research
 slug: collective-biographies-of-women
 title: Collective Biographies of Women
-banner-img: cbw-thumb.png
-thumb-img: cbw-banner.png
+thumb-img: cbw-thumb.png
+banner-img: cbw-banner.png
 research-category: Scholarly Collaborations
 year: 2003-present
 ---
