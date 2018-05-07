@@ -3,7 +3,7 @@ layout: research
 slug: jeffersons-notes-on-the-state-of-virginia
 title: Jefferson &#8217;s Notes on the State of Virginia
 thumb-img: jefferson-thumb.png
-banner-img: jefferson-banner.png
+banner-img: jefferson-banner.jpg
 research-category: Scholarly Collaborations
 year: 2013
 ---
