@@ -2,8 +2,8 @@
 layout: research
 slug: presidents-commission-on-slavery-and-the-university
 title: President &#8217;s Commission on Slavery and the University
-thumb-img: slaveryUVa-thumb.png
-banner-img: slaveryUVa-banner.png
+thumb-img: praxis-thumb.png # using until have real one
+banner-img: praxis-banner.png # using until have real one
 research-category: Scholarly Collaborations
 year: 2013
 ---
