@@ -189,4 +189,5 @@ _While making new HTML structure._
 	- Neither a collection nor top-level pages, and want some way to demarcate that.
 	- Is there a way to make a layout for this page set that acknowledges that there's multiple areas of variable content? Check recent bookmarks; those might have provided a good workaround.
 
-- Implement diff image sizes in Research at diff viewport sizes -> how? Add to GH
+- Implement diff image sizes in Research at diff viewport sizes -> how? ~~Add to GH~~ Done!
+	- How: [https://blog.imagekit.io/how-to-deliver-responsive-images-to-browsers-across-multiple-devices-30cfae17390e](https://blog.imagekit.io/how-to-deliver-responsive-images-to-browsers-across-multiple-devices-30cfae17390e)
