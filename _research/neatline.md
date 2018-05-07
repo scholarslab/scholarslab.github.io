@@ -2,8 +2,8 @@
 layout: research
 slug: neatline
 title: Neatline
-banner-img: neatline-thumb.png
-thumb-img: neatline-banner.png
+thumb-img: neatline-thumb.png
+banner-img: neatline-banner.png
 research-category: Internal Projects and Community Service
 year: 2011-present
 ---
