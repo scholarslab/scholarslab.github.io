@@ -188,3 +188,5 @@ _While making new HTML structure._
 - Add 'internship'/'fellowship' YAML variable to pages listed under `pages/graduate-opportunities/*`
 	- Neither a collection nor top-level pages, and want some way to demarcate that.
 	- Is there a way to make a layout for this page set that acknowledges that there's multiple areas of variable content? Check recent bookmarks; those might have provided a good workaround.
+
+- Implement diff image sizes in Research at diff viewport sizes -> how? Add to GH
