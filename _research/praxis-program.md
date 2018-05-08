@@ -57,13 +57,12 @@ collaborators:
 	- name: Ronda Grizzle
 	  slug: ronda-grizzle
 	  role: Project Management and Technical Training Specialist 
-current: false
+current: true
 layout: research
-link: ''
 slug: praxis-program
 title: Praxis Program
-research-category:
-- Internal Projects and Community Service
+preview-img: praxis.png
+research-category: Internal Projects and Community Service
 ---
 
 The Praxis Program is a project of the [Scholars' Lab](http://lib.virginia.edu/scholarslab) at the University of Virginia Library. In its first two pilot years (2011-2013), it was generously funded by a grant from the Andrew W. Mellon Foundation to the [Scholarly Communication Institute](http://uvasci.org). Praxis is now fully supported by the University of Virginia Library. 

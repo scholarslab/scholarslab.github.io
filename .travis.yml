@@ -1,4 +1,9 @@
 language: ruby
+cache:
+  - bundler
+  - directories:
+    - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+    - node_modules
 rvm:
 - 2.4.1
 
@@ -7,9 +12,9 @@ before_script:
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script:
-  - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --disable-external
+
+script: script/cibuild
+
 
 # branch whitelist, only for GitHub Pages
 branches:

@@ -1,0 +1,67 @@
+---
+layout: default
+title: Research
+permalink: /research/
+status: in progress
+notes:
+- Main topic page (linked from homepage)
+- About 80% done
+- Mostly SCSS tweaks on gallery display left to incorporate
+---
+
+<div class="research-landing-wrapper">
+  <div class="research-landing-grid">
+    <div class="research-landing__big-title" aria-label="Landing page">
+      <div class="research-title__text">Research</div>
+    </div>
+    <div class="research-landing__description">A sentence or so describing the purpose of this page.</div>
+  </div>
+</div>
+
+<div class="research-main-content" aria-label="Main content">
+  <!-- divide up research projects by category: -->
+  {% assign internal_projects = site.research | where: "research-category", "Internal Projects and Community Service" %}
+  {% assign collab_projects = site.research | where: "research-category", "Scholarly Collaborations" %}
+
+  <!-- internal projects: -->
+  <div class="research-items__internal">
+    <div class="research-internal__title">Internal Projects and Community Service</div>
+    <div class="research-internal__subtitle">Software, projects, and tools developed by Scholars’ Lab staff.</div>
+    <div class="research-items-wrapper">
+    {% for page in internal_projects %}
+      <!-- project preview: -->
+      <div class="research__item">
+        <a href="{{ site.baseurl }}/research/{{ page.slug }}" aria-label="{{ page.title }}">
+          <div class="research-item__img">
+            <img src="{{ '/assets/img/research/' | append: page.preview-img | relative_url }}" alt="{{ page.title }}">
+          </div>
+          <div class="research-item__title">{{ page.title }}</div>
+        </a>
+      </div>
+    {% endfor %}
+    </div>
+  </div> <!-- end internal -->
+
+  <!-- collaborative projects: -->
+  <div class="research-items__collab">
+    <div class="research-collab__title">Scholarly Collaborations</div>
+    <div class="research-collab__subtitle">Selected Scholars’ Lab collaborations with faculty and graduate students.</div>
+    <div class="research-items-wrapper">
+    {% for page in collab_projects %}
+      <!-- project preview: -->
+      <div class="research__item">
+        <a href="{{ site.baseurl }}/research/{{ page.slug }}" aria-label="{{ page.title }}">
+          <div class="research-item__img">
+            <img src="{{ '/assets/img/research/' | append: page.preview-img | relative_url }}" alt="{{ page.title }}">
+          </div>
+          <div class="research-item__title">{{ page.title }}</div>
+        </a>
+      </div>
+    {% endfor %}
+    </div>
+  </div> <!-- end collab -->
+
+  <!--div class="research-items__other">
+    
+  </div-->
+</div>

@@ -1,0 +1,19 @@
+---
+layout: page
+title: Events
+permalink: /events/
+status: in progress
+notes:
+- Need to finalize metadata
+- Need to design actual 'event' pages
+- Need to finalize layout for this page, tho basis is 'sections' pattern
+---
+
+<h2>Current and past events hosted, sponsored, or partnered on by the Scholars' Lab.</h2>
+
+<div id="lab-grid">
+{% for page in site.events %}
+  <h3>{{ page.title }}</h3>
+  <section><a href="{{ site.url }}/events/{{ page.slug }}">{{ page.start_date}} at {{ page.start_time }}</a></section>
+{% endfor %}
+</div>

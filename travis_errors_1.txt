@@ -1,3 +1,0 @@
-Running ["ImageCheck", "ScriptCheck", "LinkCheck"] on ["./_site"] on *.html... 
-
-

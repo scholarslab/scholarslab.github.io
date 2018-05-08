@@ -6,21 +6,27 @@ name: "Scholars’ Lab"
 email: scholarslab@virginia.edu
 description: "The Scholars’ Lab"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/scholarslab.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://maybe.scholarslab.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scholarslab
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 
 # Build settings
 incremental: true
 sass:
-  sass_dir: _sass
-  style: compressed
+  sass_dir: assets/css/_sass
+  style: expanded # temporary! change back to compressed later
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - docs
+  - theme-testing
+#  - _posts # temporary! significantly reduces build time for theme testing
+  - assets/python # helper scripts to manipulate HTML/CSS, not used in build
 collections:
   people:
     output: true
@@ -31,6 +37,18 @@ collections:
   lab:
     output: true
     permalink: /:collection/:name/
+  starter-kits:
+    output: true
+    permalink: /:collection/:name/
+  events:
+    output: true
+    permalink: /:collection/:name/
+  todo:
+    output: true
+    permalink: /:collection/:name/
+  fake-blog:
+    output: true
+    permalink: /:year/:month/:day/:title/
 
 header_pages:
   - about.md
@@ -38,11 +56,10 @@ header_pages:
   - blog.md
   - research.md
   - lab.md
-
-exclude: [vendor]
+  - search.html
 
 defaults:
   - scope:
-      path: "assets/images"
+      path: "assets/img"
     values:
       image: true

@@ -1,0 +1,58 @@
+/* Navbar Styles: */
+
+/* Universal page styles: */
+[class*="nav-list"] {
+	a {
+		text-decoration: none;
+		color: white;
+	}
+}
+
+/* Main content: */
+
+.navbar-wrapper {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 60px;
+	width: 100%;
+	padding: 0 1em;
+	background-color: black;
+	z-index: 5;
+}
+
+.navbar-main-grid {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+}
+
+.navbar__home-icon {
+	align-self: center;
+	a {
+		display: block;
+		img {
+			display: block;
+			height: 40px;
+		}
+	}
+}
+
+// is <ul>
+.navbar__link-list {
+	position: relative;
+	display: flex;
+	list-style-type: none;
+	li {
+		display: inline-block;
+		padding-right: 1em;
+		a {
+			display: block;
+		}
+	}
+}
+
+// are <li> inside ^^
+[class*="nav-list__"] {
+
+}
