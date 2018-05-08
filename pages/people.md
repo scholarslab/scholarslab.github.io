@@ -2,8 +2,11 @@
 layout: page
 title: People
 permalink: /people/
+nav: true
+time-required: ~3.5hrs
 notes:
-- Main topic page (linked from homepage)
+- Content: generated from `_people`
+- Style: not started. Using simple grid gallery as base.
 ---
 
 <h2>Staff</h2>

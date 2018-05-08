@@ -2,6 +2,7 @@
 layout: page
 title: Digital Humanities Fellows Program
 permalink: /digital-humanities-fellows/
+nav: false
 status: in progress
 notes:
 - Fellowship layout (see section "Other")

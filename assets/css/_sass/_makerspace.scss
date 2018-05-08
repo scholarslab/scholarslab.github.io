@@ -162,6 +162,7 @@
 		grid-template-columns: 1fr 1fr;
 		grid-template-areas: "ethos hours"
 							 "people usage"
+                             "calendar calendar"
 							"invent invent"
 							"public diagram"
 							"question question";
@@ -304,6 +305,10 @@
 
 .maker-usage__content {
 
+}
+
+.makerspace__calendar {
+    grid-area: calendar;
 }
 
 /* Inventory: */

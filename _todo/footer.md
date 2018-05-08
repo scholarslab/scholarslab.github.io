@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Footer
-status: in progress
+status: prototype done
 phase: 1
-time-required: medium
-# related-tasks:
+time-required: 0
 notes:
-- Media queries for width
-- Verify contact information
-- Add licensing info
+- Content: verify contact information, add licensing info
+- Style:
+- NB:
 ---

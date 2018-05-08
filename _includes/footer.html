@@ -3,7 +3,7 @@
 
     <div class="footer__to-top">
         <a href="#main" aria-label="Back to top">
-          <img src="{{ '/assets/img/thin-up-arrow-white.svg' | relative_url }}" alt="Up arrow">
+          <img src="{{ '/assets/img/svg/thin-up-arrow-white.svg' | relative_url }}" alt="Up arrow">
           <span>Back<br/>to top</span>
         </a>
     </div>
@@ -11,10 +11,10 @@
     <div class="footer__sitemap">
       <div class="footer-map__title">Explore</div>
       <div class="footer-map__links">
-        <a href="#">Home</a>
-        <a href="#">FAQ</a>
-        <a href="#">Hours & Spaces</a>
-        <a href="#">Events</a>
+        <a href="{{ site.url }}">Home</a>
+        <a href="{{ site.url }}/faq">FAQ</a>
+        <a href="{{ site.url }}/hours-and-spaces">Hours & Spaces</a>
+        <a href="{{ site.url }}/events">Events</a>
       </div>
     </div>
 
@@ -22,19 +22,19 @@
       <div class="footer-connect__title">Connect</div>
       <div class="footer-connect__social">
         <a href="https://www.facebook.com/scholarslab/">
-          <img src="{{ '/assets/img/facebook-white.svg' | relative_url }}" alt="Facebook icon">
+          <img src="{{ '/assets/img/svg/facebook-white.svg' | relative_url }}" alt="Facebook icon">
           <span>Facebook</span>
         </a>
         <a href="https://twitter.com/scholarslab">
-          <img src="{{ '/assets/img/twitter-white.svg' | relative_url }}" alt="Twitter icon">
+          <img src="{{ '/assets/img/svg/twitter-white.svg' | relative_url }}" alt="Twitter icon">
           <span>Twitter</span>
         </a>
         <a href="https://github.com/scholarslab">
-          <img src="{{ '/assets/img/github-white.svg' | relative_url }}" alt="Github icon">
+          <img src="{{ '/assets/img/svg/github-white.svg' | relative_url }}" alt="Github icon">
           <span>Github</span>
         </a>
         <a href="mailto:scholarslab@virginia.edu">
-          <img src="{{ '/assets/img/envelope-outline-white.svg' | relative_url }}" alt="Email icon">
+          <img src="{{ '/assets/img/svg/envelope-outline-white.svg' | relative_url }}" alt="Email icon">
           <span>Email us</span>
         </a>
       </div>
@@ -47,15 +47,15 @@
     <div class="footer__contact">
       <div class="footer-contact__title">Contact</div>
       <div class="footer-contact__email"><span>Email:</span><a href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a></div>
-      <div class="footer-contact__address"><span>Address:</span>P.O. Box 400129<br/>Charlottesville, VA<br/>22904-4129</div>
+      <div class="footer-contact__address"><span>Address:</span>P.O. Box 400109<br/>Charlottesville, VA<br/>22904-4129</div>
       <div class="footer-contact__phone"><span>Phone:</span>434-243-8800</div>
-      <div class="footer-contact__fax"><span>Fax:</span>434-924-1431</div>
     </div>
 
     <div class="footer__logos">
-      <a href="#" class="footer-logo__slab" aria-label="Scholars' Lab home"><img src="{{ '/assets/img/slab-logo-color-white.svg' | relative_url }}" alt="SLab logo"></a>
+      <a href="{{ site.url }}" class="footer-logo__slab" aria-label="Scholars' Lab home"><img src="{{ '/assets/img/svg/slab-logo-color-white.svg' | relative_url }}" alt="SLab logo"></a>
       <span>proudly part of</span>
-      <a href="#" class="footer-logo__uva" aria-label="UVA Library home"><img src="{{ '/assets/img/uva-library-text-block-white.svg' | relative_url }}" alt="UVA Library logo"></a>
+      <a href="https://www.library.virginia.edu/" class="footer-logo__uva" aria-label="UVA Library home"><img src="{{ '/assets/img/svg/uva-library-text-block-white.svg' | relative_url }}" alt="UVA Library logo"></a>
+      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
     </div>
 
   </div>

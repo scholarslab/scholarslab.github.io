@@ -2,8 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+nav: true
+order: 1
+time-required: ~2hrs
 notes:
-- Main topic page
+- Content: unknown
+- Style: not started
+- NB: time estimate is for prototype, not any kind of fancy page.
 ---
 
 

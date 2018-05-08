@@ -31,8 +31,10 @@ current: false
 layout: research
 slug: mapping-the-catalogue-of-ships
 title: Mapping the Catalogue of Ships
-preview-img: catalogofships.jpg
+thumb-img: ships-thumb.png
+banner-img: ships-banner.png
 research-category: Scholarly Collaborations
+year: 2011
 ---
 
 The Scholars' Lab is using geospatial technology to assist Classics professor [Jenny Strauss Clay](http://classics.virginia.edu/people/profile/jsc2t) in testing her theories about the relation of ancient geography to mnemonic devices and poetic form. Least-cost path analysis in GIS, coupled with literary analysis of the nearly 190 place names mentioned in Homer's Catalogue of Ships, also holds promise in helping to identify lost archaeological sites.

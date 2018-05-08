@@ -24,6 +24,7 @@ exclude:
   - Gemfile.lock
   - vendor
   - docs
+  - node_modules
   - theme-testing
 #  - _posts # temporary! significantly reduces build time for theme testing
   - assets/python # helper scripts to manipulate HTML/CSS, not used in build
@@ -49,6 +50,9 @@ collections:
   fake-blog:
     output: true
     permalink: /:year/:month/:day/:title/
+  fake-people:
+    output: true
+    permalink: /:collection/:name/
 
 header_pages:
   - about.md
@@ -63,3 +67,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: "pages"
+    values:
+      order: 10

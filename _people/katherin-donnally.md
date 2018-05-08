@@ -7,7 +7,7 @@ layout: people
 location: None
 name: Katherin Donnally
 position: Social Justice Developer
-short_bio: None
+short_bio: 'Katherine Donnally is a designer at the Lab, focusing on web design, graphics, & the role of design decisions within the project of advancing social equity.'
 slug: katherin-donnally
 status: current
 twitter: None

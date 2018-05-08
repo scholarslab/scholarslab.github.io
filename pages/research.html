@@ -1,21 +1,50 @@
 ---
 layout: default
-title: Research
+title: Scholarship # -> was 'Research', no 'scholarship' page exists yet
 permalink: /research/
-status: in progress
+nav: true
+order: 3
+status: 1/2 done
+time-required: ~4hrs
 notes:
-- Main topic page (linked from homepage)
-- About 80% done
-- Mostly SCSS tweaks on gallery display left to incorporate
+- Content: generated from research/ dir. Blurb done 'til content team edits. New images acquired!
+- Style: Hopefully mostly done; about to see how things go with the new images.
+- NB: Amanda's organization on the initial nav links wrapped this within a larger frame of "Scholarship", which I dig a lot. Once that wrapper exists, this is no longer a topnav link itself.
 ---
 
 <div class="research-landing-wrapper">
   <div class="research-landing-grid">
-    <div class="research-landing__big-title" aria-label="Landing page">
+    <div class="research-landing__page-title" aria-label="Landing page">
       <div class="research-title__text">Research</div>
     </div>
-    <div class="research-landing__description">A sentence or so describing the purpose of this page.</div>
+    <div class="research-landing__lines1">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <div class="research-landing__lines2">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
   </div>
+</div>
+
+<div class="research-landing__description">
+  <p>Scholarship is one part critical thinking (research, writing, coding, building, designing, experimenting, play…) and one part communication (traditional publishing and other forms of “making public”, teaching, open source code, other ways for your intellectual community to learn from and build on your work).</p>
+  <p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers.</p>
 </div>
 
 <div class="research-main-content" aria-label="Main content">
@@ -25,7 +54,7 @@ notes:
 
   <!-- internal projects: -->
   <div class="research-items__internal">
-    <div class="research-internal__title">Internal Projects and Community Service</div>
+    <div class="research-internal__big-title">Internal Projects and Community Service</div>
     <div class="research-internal__subtitle">Software, projects, and tools developed by Scholars’ Lab staff.</div>
     <div class="research-items-wrapper">
     {% for page in internal_projects %}
@@ -33,9 +62,10 @@ notes:
       <div class="research__item">
         <a href="{{ site.baseurl }}/research/{{ page.slug }}" aria-label="{{ page.title }}">
           <div class="research-item__img">
-            <img src="{{ '/assets/img/research/' | append: page.preview-img | relative_url }}" alt="{{ page.title }}">
+            <img src="{{ '/assets/img/research/' | append: page.banner-img | relative_url }}" alt="{{ page.title }}">
           </div>
-          <div class="research-item__title">{{ page.title }}</div>
+          <div class="research-item__title"><span>{{ page.title }}</span></div>
+          <div class="research-item__year"><span>{{ page.year }}</span></div>
         </a>
       </div>
     {% endfor %}
@@ -44,7 +74,7 @@ notes:
 
   <!-- collaborative projects: -->
   <div class="research-items__collab">
-    <div class="research-collab__title">Scholarly Collaborations</div>
+    <div class="research-collab__big-title">Scholarly Collaborations</div>
     <div class="research-collab__subtitle">Selected Scholars’ Lab collaborations with faculty and graduate students.</div>
     <div class="research-items-wrapper">
     {% for page in collab_projects %}
@@ -52,9 +82,10 @@ notes:
       <div class="research__item">
         <a href="{{ site.baseurl }}/research/{{ page.slug }}" aria-label="{{ page.title }}">
           <div class="research-item__img">
-            <img src="{{ '/assets/img/research/' | append: page.preview-img | relative_url }}" alt="{{ page.title }}">
+            <img src="{{ '/assets/img/research/' | append: page.banner-img | relative_url }}" alt="{{ page.title }}">
           </div>
-          <div class="research-item__title">{{ page.title }}</div>
+          <div class="research-item__title"><span>{{ page.title }}</span></div>
+          <div class="research-item__year"><span>{{ page.year }}</span></div>
         </a>
       </div>
     {% endfor %}

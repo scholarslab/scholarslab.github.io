@@ -22,8 +22,10 @@ current: false
 layout: research
 slug: speaking-in-code
 title: Speaking In Code
-preview-img: speakingincodescreengrab.png
+thumb-img: codespeak-thumb.png
+banner-img: codespeak-banner.png
 research-category: Internal Projects and Community Service
+year: 2013
 ---
 
 Speaking in Code was an [NEH-funded](http://www.neh.gov/divisions/odh) symposium and summit that brought together 32 accomplished digital humanities software developers at the Scholars’ Lab for two days in November 2013. The goal was to give voice to things that are almost always tacitly expressed in our work: expert knowledge about the intellectual and interpretive dimensions of DH code-craft, and unspoken understandings about the relation of that work to ethics and inclusion, scholarly method, and humanities theory and critique.

@@ -2,6 +2,7 @@
 layout: page
 title: Cultural Heritage Informatics Internship
 permalink: /cultural-heritage-informatics-internship/
+nav: false
 status: in progress
 notes:
 - Fellowship layout (see section "Other")

@@ -7,7 +7,7 @@ layout: people
 location: None
 name: Zoe LeBlanc
 position: Digital Humanities Developer.
-short_bio: None
+short_bio: 'Zoe LeBlanc writes code and explores new frontiers in digital humanities. Coolest in the room, always. Total Tolkien nerd.'
 slug: zoe-leblanc
 status: current
 twitter: None

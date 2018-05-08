@@ -2,6 +2,12 @@
 layout: page
 title: Accessibility
 permalink: /accessibility/
+nav: true
+time-required: ~2hrs
+notes:
+- Content: unknown
+- Style: not started
+- NB: goal is fairly simple text-based page
 ---
 
 As our Scholars' Lab [charter](/charter) indicates, we are committed to making our projects and spaces accessible—in all meanings of that word—for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can—and should—always be improved.

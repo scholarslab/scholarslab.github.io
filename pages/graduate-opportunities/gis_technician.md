@@ -2,6 +2,7 @@
 layout: page
 title: Scholars' Lab GIS Technician
 permalink: /scholars-lab-gis-technician/
+nav: false
 status: in progress
 notes:
 - Fellowship layout (see section "Other")

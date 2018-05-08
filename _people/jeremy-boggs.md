@@ -7,7 +7,7 @@ layout: people
 location: ''
 name: Jeremy Boggs
 position: Design Architect
-short_bio: ''
+short_bio: 'Jeremy Boggs: Head of Research & Development and Design in the Lab, scruffiest nerf herder of them all; types code, teaches digital methods, and wrangles a rowdy bullpen full of developers. Ask him about Batman.'
 slug: jeremy-boggs
 status: current
 twitter: None

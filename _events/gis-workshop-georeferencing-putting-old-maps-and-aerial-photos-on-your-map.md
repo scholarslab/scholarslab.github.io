@@ -9,8 +9,8 @@ rsvp: '0'
 slug: gis-workshop-georeferencing-putting-old-maps-and-aerial-photos-on-your-map
 start_date: '2014-09-25'
 start_time: '14:00:00'
-title: 'GIS Workshop: Georeferencing – Putting Old Maps and Aerial Photos on Your
-  Map'
+title: 'GIS Workshop: Georeferencing – Putting Old Maps and Aerial Photos on Your Map'
+location: Alderman Library, Room 423
 ---
 
 Have an old map or an aerial photograph that you would like to use as a spatial layer? This session will teach you techniques to properly place your data and make it useable in GIS software. We will also demo similar techniques for Google Earth.

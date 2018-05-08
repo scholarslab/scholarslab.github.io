@@ -2,6 +2,7 @@
 layout: page
 title: Guest DH Workshop Teaching at W&L
 permalink: /visiting-workshops-at-washington-and-lee-university/
+nav: false
 status: in progress
 notes:
 - Fellowship layout (see section "Other")

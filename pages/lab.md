@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Lab
+title: R&D # was 'Lab' -> no 'R&D' page exists yet
 permalink: /lab/
+# fake: true # for now
+nav: true
+order: 7
+time-required: unknown
 notes:
-- New page
-- Low priority for April/May launch
+- Content: not started. It's being linked in nav -> do we want anything here?
+- Style: not started
+- NB: NOT a Phase 1 page
 ---
 
 <div class="research-intro">This is a page for proofs of concept, prototypes, silly work to learn scholarly methods, and other experimental research that doesn't quite fit <a href="{{ site.url }}/research">our formal Research page</a>.</div>

@@ -2,10 +2,12 @@
 layout: page
 title: Digital Humanities Prototyping Fellowships
 permalink: /digital-humanities-prototyping-fellowships/
+nav: false
 status: in progress
 notes:
-- Fellowship layout (see section "Other")
-- Change YAML 'layout' to 'fellowship' once finished
+- Fellowship layout (see section "Other"); change YAML 'layout' to 'fellowship' once finished
+- Style
+- NB
 ---
 
 **Applications are due February 15th, 2018 for the 2018-2019 cohort.**

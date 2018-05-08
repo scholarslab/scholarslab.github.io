@@ -2,6 +2,7 @@
 layout: page
 title: Professional Development
 permalink: /professional-development/
+nav: false
 status: in progress
 notes:
 - Fellowship layout (see section "Other")
