@@ -1,0 +1,108 @@
+bibliographic-society-of-virginia:
+- color: hsl(33, 8%, 26%)
+  color-half: hsla(33, 8%, 26%, .5)
+
+
+collective-biographies-of-women:
+- color: hsl(24, 24%, 84%)
+  color-half: hsla(24, 24%, 84%, .5)
+
+
+faulkner-at-virginia-an-audio-archive:
+- color: hsl(69, 3%, 49%)
+  color-half: hsl(69, 3%, 49%, .5)
+
+
+for-better-for-verse:
+- color: hsl(20, 13%, 14%)
+  color-half: hsla(20, 13%, 14%, .5)
+
+
+geoloader:
+- color: hsl(0, 0%, 16%)
+  color-half: hsla(0, 0%, 16%, .5)
+
+
+jeffersons-notes-on-the-state-of-virginia:
+- color: hsl(225, 3%, 26%)
+  color-half: hsla(225, 3%, 26%, .5)
+
+
+latvian-dainas:
+- color: hsl(0, 0%, 67%)
+  color-half: hsla(0, 0%, 67%, .5)
+
+
+mapping-the-catalogue-of-ships:
+- color: hsl(144, 13%, 84%)
+  color-half: hsla(144, 13%, 84%, .5)
+
+
+neatline:
+- color: hsl(268, 47%, 34%)
+  color-half: hsla(268, 47%, 34%, .5)
+
+
+omeka-plugins:
+- color: ful
+  color-half: hal
+
+
+praxis-program:
+- color: hsl(53, 10%, 32%)
+  color-half: hsla(53, 10%, 32%, .5)
+
+
+presidents-commission-on-slavery-and-the-university:
+- color: hsl(100, 1%, 60%)
+  color-half: hsla(100, 1%, 60%, .5)
+
+
+project-blacklight:
+- color: hsl(310, 67%, 11%)
+  color-half: hsl(310, 67%, 11%, .5)
+
+
+salem-witch-trials:
+- color: hsl(26, 29%, 30%)
+  color-half: hsla(26, 29%, 30%, .5)
+
+
+solrmarc:
+- color: hsl(18, 49%, 33%)
+  color-half: hsl(18, 49%, 33%, .5)
+
+
+spatial-search-and-delivery:
+- color: "hsl(51, 9%, 61%)"
+  color-half: hsla(51, 9%, 61%, .5)
+
+
+speaking-in-code:
+- color: hsl(53, 58%, 44%)
+  color-half: hsla(53, 58%, 44%, .5)
+
+
+the-falmouth-project:
+- color: hsl(65, 8%, 69%)
+  color-half: hsla(65, 8%, 69%, .5)
+
+
+the-mind-is-a-metaphor:
+- color: hsl(225, 2%, 51%)
+  color-half: hsla(225, 2%, 51%, .5)
+
+
+the-scholars-lab:
+- color: hsl(53, 10%, 32%)
+  color-half: hsla(53, 10%, 32%, .5)
+
+
+the-university-of-virginia-art-museum-numismatic-collection:
+- color: hsl(43, 32%, 44%)
+  color-half: hsla(43, 32%, 44%, .5)
+
+
+thl-place-dictionary:
+- color: hsl(20, 9%, 81%) # or hsl(63, 9%, 42%) if thumb
+  color-half: hsla(20, 9%, 81%, .5)
