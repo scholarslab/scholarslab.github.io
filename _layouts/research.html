@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-  <div class="post-content">
-    {{ content }}
-  </div>
-
+<article class="project-content-wrapper">
+	<div class="project-content__img">
+		<img width="400" src="{{ '/assets/img/research/' | append: page.banner-img | relative_url }}" alt="{{ page.title }}">
+	</div>
+	<div class="project-content__title">
+		<div>{{ page.title }}</div>
+	</div>
+	<div class="project-content__category">{{ page.research-category }}</div>
+	<div class="project-content__year">{{ page.year }}</div>
+	<div class="project-content__text">{{ content }}</div>
 </article>
