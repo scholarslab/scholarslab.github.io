@@ -56,4 +56,21 @@
 	grid-column: 4 / span 2;
 	grid-row: 2 / span 4;
 	align-self: end;
+	p {
+		margin: 0;
+		padding: 1em;
+		line-height: 2;
+		a {
+			text-decoration: none;
+			color: black;
+			font-weight: 700;
+			border-bottom: 2px solid hsla(51, 9%, 61%, 1);
+			-moz-transition: background-color .3s;
+			-webkit-transition: background-color .3s;
+			transition: background-color .3s;
+			&:hover, &:focus {
+				background-color: hsla(51, 9%, 61%, 1);
+			}
+		}
+	}
 }
