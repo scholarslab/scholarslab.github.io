@@ -11,7 +11,8 @@ layout: no-header
 	<div class="project-content__title">
 		<div>{{ page.title }}</div>
 	</div>
-	<div class="project-content__category">{{ page.research-category }}</div>
+	
+	<div class="project-content__category">{{ page.research-category | replace: 'and', '&amp;' }}</div>
 	<div class="project-content__year">{{ page.year }}</div>
 	<div class="project-content__text">{{ content }}</div>
 </article>
