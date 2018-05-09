@@ -44,8 +44,8 @@ neatline:
 
 
 omeka-plugins:
-- color: ful
-  color-half: hal
+- color: hsl(268, 47%, 34%)
+  color-half: hsla(268, 47%, 34%, .5)
 
 
 praxis-program:
@@ -94,7 +94,7 @@ the-mind-is-a-metaphor:
 
 
 the-scholars-lab:
-- color: hsl(53, 10%, 32%)
+- color: hsl(53, 10%, 50%)
   color-half: hsla(53, 10%, 32%, .5)
 
 
