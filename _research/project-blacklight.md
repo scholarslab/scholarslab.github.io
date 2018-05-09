@@ -1,8 +1,8 @@
 ---
 collaborators:
-	- name: Bess Sadler
-	  slug: bess-sadler
-	  role: Developer
+  - name: Bess Sadler
+    slug: bess-sadler
+    role: Developer
 current: false
 link: http://projecthydra.org/
 layout: research

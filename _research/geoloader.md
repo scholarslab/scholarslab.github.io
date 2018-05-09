@@ -1,14 +1,14 @@
 ---
 collaborators: 
-	- name: Wayne Graham
-	  slug: wayne-graham
-	  role: Head of Research and Development
-	- name: Eric Rochester
-	  slug: eric-rochester
-	  role: Head of Research and Development
-	- name: Ammon Shepherd
-	  slug: ammon-shepherd
-	  role: Humanities Developer
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Eric Rochester
+    slug: eric-rochester
+    role: Head of Research and Development
+  - name: Ammon Shepherd
+    slug: ammon-shepherd
+    role: Humanities Developer
 current: false
 link: https://rubygems.org/gems/geoloader
 layout: research

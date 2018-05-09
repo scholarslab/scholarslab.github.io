@@ -1,13 +1,13 @@
 ---
 collaborators: 
-	- name: Louis P. Nelson
-	  role: Project Owner
-	- name: Wayne Graham
-	  slug: wayne-graham
-	  role: Head of Research and Development
-	- name: Eric Rochester
-	  slug: eric-rochester
-	  role: Head of Research and Development
+  - name: Louis P. Nelson
+    role: Project Owner
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Eric Rochester
+    slug: eric-rochester
+    role: Head of Research and Development
 current: false
 link: http://falmouth.lib.virginia.edu/
 layout: research
@@ -31,16 +31,16 @@ The project took an existing database that was being manually edited through php
 
 
 
-	
+  
   * [Ruby on Rails](http://rubyonrails.org/) (with the [rsolr gem](http://github.com/mwmitchell/rsolr))
 
-	
+  
   * [MySQL](http://www.mysql.com/) (backend data management)
 
-	
+  
   * [Solr](http://lucene.apache.org/solr/) (search and faceting interface)
 
-	
+  
   * [jQuery](http://jquery.com/) (user interface enhancements)
 
 

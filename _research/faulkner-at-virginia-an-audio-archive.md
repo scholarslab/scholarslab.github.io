@@ -1,10 +1,10 @@
 ---
-collaborators: 
-	- name: Steve Railton
-	  role: Project Owner
-	- name: Wayne Graham
-	  slug: wayne-graham
-	  role: Head of Research and Development
+collaborators:
+  - name: Steve Railton
+    role: Project Owner
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
 current: false
 link: http://faulkner.lib.virginia.edu/
 layout: research

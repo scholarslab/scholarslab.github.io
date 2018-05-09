@@ -1,12 +1,12 @@
 ---
 collaborators: 
-	- name: Kirt von Daacke
-     role: Project Owner
-   - name: Marcus Martin
-     role: Project Owner
-   - name: Jeremy Boggs
-     slug: jeremy-boggs
-     role: Design Architect
+  - name: Kirt von Daacke
+    role: Project Owner
+  - name: Marcus Martin
+    role: Project Owner
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Design Architect
 current: false
 link: http://slavery.virginia.edu/
 layout: research

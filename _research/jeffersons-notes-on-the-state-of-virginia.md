@@ -1,13 +1,13 @@
 ---
-collaborators: 
-	- name: John O'Brien
-	  role: Project Owner
-	- name: Wayne Graham
-	  slug: wayne-graham
-	  role: Head of Research and Development
-	- name: Jeremy Boggs
-	  slug: jeremy-boggs
-	  role: Design Architect
+collaborators:
+  - name: John O'Brien
+    role: Project Owner
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Design Architect
 current: false
 link: http://jefferson-notes.org/
 layout: research

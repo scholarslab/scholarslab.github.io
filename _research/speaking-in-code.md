@@ -1,23 +1,23 @@
 ---
 collaborators: 
-	- name: Bethany Nowviskie
-	  slug: bethany-nowviskie
-	  role: Director, Scholars' Lab
-	- name: Wayne Graham
-	  slug: wayne-graham
-	  role: Head of Research and Development
-	- name: Eric Rochester
-	  slug: eric-rochester
-	  role: Head of Research and Development
-	- name: David McClure
-	  slug: david-mcclure
-	  role: Web Applications Developer
-	- name: Jeremy Boggs
-	  slug: jeremy-boggs
-	  role: Design Architect
-	- name: Scott Bailey
-	  slug: scott-bailey
-	  role: Humanities Developer
+  - name: Bethany Nowviskie
+    slug: bethany-nowviskie
+    role: Director, Scholars' Lab
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Eric Rochester
+    slug: eric-rochester
+    role: Senior Developer
+  - name: David McClure
+    slug: david-mcclure
+    role: Web Applications Developer
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Design Architect
+  - name: Scott Bailey
+    slug: scott-bailey
+    role: Humanities Developer
 current: false
 layout: research
 slug: speaking-in-code
@@ -35,15 +35,15 @@ Together, we
 
 
 
-	
+  
   * discussed, from developers’ own points of view, what is particular to the humanities and of scholarly significance in our work;
 
 
-	
+  
   * examined particular hurdles or bars-to-entry, to people interested in DH software development;
 
 
-	
+  
   * and devised and experimented with ways to bridge gaps in critical vocabulary and daily practice that can sometimes spring up between the creators of humanities platforms or tools and the scholars who depend upon and critique them.
 
 

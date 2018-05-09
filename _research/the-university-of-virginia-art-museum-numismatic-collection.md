@@ -1,8 +1,8 @@
 ---
 collaborators:
-	- name: Ethan Gruber
-	  slug: ethan-gruber
-	  role: Web Applications Developer
+  - name: Ethan Gruber
+    slug: ethan-gruber
+    role: Web Applications Developer
 current: false
 link: http://coins.lib.virginia.edu
 layout: research

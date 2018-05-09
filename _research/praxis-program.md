@@ -1,62 +1,62 @@
 ---
 collaborators:
-	- name: Bethany Nowviskie
-	  slug: bethany-nowviskie
-	  role: Director, Scholars' Lab
-	- name: Wayne Graham
-	  slug: wayne-graham
-	  role: Head of Research and Development
-	- name: Eric Rochester
-	  slug: eric-rochester
-	  role: Head of Research and Development
-	- name: David McClure
-	  slug: david-mcclure
-	  role: Web Applications Developer
-	- name: Ammon Shepherd
-	  slug: ammon-shepherd
-	  role: Humanities Developer
-	- name: Jeremy Boggs
-	  slug: jeremy-boggs
-	  role: Design Architect
-	- name: Purdom Lindblad
-	  slug: purdom-lindblad
-	  role: Head of Graduate Programs
-	- name: Chris Gist
-	  slug: chris-gist
-	  role: GIS Specialist
-	- name: Eric Johnson
-	  slug: eric-johnson
-	  role: Head of Outreach & Consulting
-	- name: Katina Rogers
-	  slug: katina-rogers
-	  role: Research Associate
-	- name: Scott Bailey
-	  slug: scott-bailey
-	  role: Humanities Developer
-	- name: Drew MacQueen
-	  slug: drew-macqueen
-	  role: GIS Specialist
-	- name: Arin Bennett
-	  slug: arin-bennett
-	  role: 3D Visualization Specialist
-	- name: Will Rourk
-	  slug: will-rourk
-	  role: 3D Technologies and Architectural Specialist
-	- name: Alison Booth
-	  slug: alison-booth
-	  role: Academic Director, Scholars' Lab
-	- name: Amanda Visconti
-	  slug: amanda-visconti
-	  role: Managing Director, Scholars' Lab
-	- name: Laura Miller
-	  slug: laura-miller
-	  role: Head of Public Programs
-	- name: Brandon Walsh
-	  slug: brandon-walsh
-	  role: Head of Graduate Programs
-	- name: Ronda Grizzle
-	  slug: ronda-grizzle
-	  role: Project Management and Technical Training Specialist 
+  - name: Bethany Nowviskie
+    slug: bethany-nowviskie
+    role: Director, Scholars' Lab
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Eric Rochester
+    slug: eric-rochester
+    role: Head of Research and Development
+  - name: David McClure
+    slug: david-mcclure
+    role: Web Applications Developer
+  - name: Ammon Shepherd
+    slug: ammon-shepherd
+    role: Humanities Developer
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Design Architect
+  - name: Purdom Lindblad
+    slug: purdom-lindblad
+    role: Head of Graduate Programs
+  - name: Chris Gist
+    slug: chris-gist
+    role: GIS Specialist
+  - name: Eric Johnson
+    slug: eric-johnson
+    role: Head of Outreach & Consulting
+  - name: Katina Rogers
+    slug: katina-rogers
+    role: Research Associate
+  - name: Scott Bailey
+    slug: scott-bailey
+    role: Humanities Developer
+  - name: Drew MacQueen
+    slug: drew-macqueen
+    role: GIS Specialist
+  - name: Arin Bennett
+    slug: arin-bennett
+    role: 3D Visualization Specialist
+  - name: Will Rourk
+    slug: will-rourk
+    role: 3D Technologies and Architectural Specialist
+  - name: Alison Booth
+    slug: alison-booth
+    role: Academic Director, Scholars' Lab
+  - name: Amanda Visconti
+    slug: amanda-visconti
+    role: Managing Director, Scholars' Lab
+  - name: Laura Miller
+    slug: laura-miller
+    role: Head of Public Programs
+  - name: Brandon Walsh
+    slug: brandon-walsh
+    role: Head of Graduate Programs
+  - name: Ronda Grizzle
+    slug: ronda-grizzle
+    role: Project Management and Technical Training Specialist 
 current: true
 layout: research
 slug: praxis-program

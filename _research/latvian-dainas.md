@@ -1,7 +1,7 @@
 ---
 collaborators: 
-	- name: Manuta Ray
-	  role: Project Owner
+  - name: Manuta Ray
+    role: Project Owner
 current: false
 link: http://latviandainas.lib.virginia.edu/
 layout: research
