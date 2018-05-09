@@ -33,11 +33,15 @@
 	border: 1px solid rgba(0,0,0,.5);
 }
 
-.project-content__category {
+.project-content__year, .project-content__category {
 	position: relative;
 	grid-column: 1 / span 3;
 	grid-row: 3 / span 1;
-	border: 1px solid rgba(0,0,0,.5);
+	padding-top: .5em;
+	font-size: 1.5rem;
+	font-family: "base-mono-wide", monospace;
+	line-height: 1;
+	text-transform: uppercase;
 }
 
 .project-content__year {
