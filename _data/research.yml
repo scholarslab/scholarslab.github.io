@@ -1,108 +1,130 @@
 bibliographic-society-of-virginia:
 - color: hsl(33, 8%, 26%)
   color-half: hsla(33, 8%, 26%, .5)
+  color-bg: hsla(229, 9%, 51%, .3)
 
 
 collective-biographies-of-women:
 - color: hsl(24, 24%, 84%)
   color-half: hsla(24, 24%, 84%, .5)
+  color-bg: hsla(7,25%,49%,.3)
 
 
 faulkner-at-virginia-an-audio-archive:
 - color: hsl(69, 3%, 49%)
   color-half: hsl(69, 3%, 49%, .5)
+  color-bg: hsla(71, 35%, 50%, .25)
 
 
 for-better-for-verse:
 - color: hsl(20, 13%, 14%)
   color-half: hsla(20, 13%, 14%, .5)
+  color-bg: hsla(25,24%,19%,.4)
 
 
 geoloader:
 - color: hsl(0, 0%, 16%)
   color-half: hsla(0, 0%, 16%, .5)
+  color-bg: hsla(301, 73%, 16%, .2)
 
 
 jeffersons-notes-on-the-state-of-virginia:
 - color: hsl(225, 3%, 26%)
   color-half: hsla(225, 3%, 26%, .5)
+  color-bg: hsla(192, 69%, 69%, .4)
 
 
 latvian-dainas:
 - color: hsl(0, 0%, 67%)
   color-half: hsla(0, 0%, 67%, .5)
+  color-bg: hsla(19, 69%, 46%, .2)
 
 
 mapping-the-catalogue-of-ships:
 - color: hsl(144, 13%, 84%)
   color-half: hsla(144, 13%, 84%, .5)
+  color-bg: hsla(180, 22%, 76%, .3)
 
 
 neatline:
 - color: hsl(268, 47%, 34%)
   color-half: hsla(268, 47%, 34%, .5)
+  color-bg: hsla(268, 47%, 34%, .3)
 
 
 omeka-plugins:
 - color: hsl(268, 47%, 34%)
   color-half: hsla(268, 47%, 34%, .5)
+  color-bg: hsla(276, 51%, 38%, .35)
 
 
 praxis-program:
 - color: hsl(53, 10%, 32%)
   color-half: hsla(53, 10%, 32%, .5)
+  color-bg: hsla(37, 91%, 74%, .3)
 
 
 presidents-commission-on-slavery-and-the-university:
 - color: hsl(100, 1%, 60%)
   color-half: hsla(100, 1%, 60%, .5)
+  color-bg: hsla(232, 88%, 32%, .25)
 
 
 project-blacklight:
 - color: hsl(310, 67%, 11%)
   color-half: hsl(310, 67%, 11%, .5)
+  color-bg: hsl(240,100%,16%,.3)
 
 
 salem-witch-trials:
 - color: hsl(26, 29%, 30%)
   color-half: hsla(26, 29%, 30%, .5)
+  color-bg: hsla(0, 20%, 49%, .3)
 
 
 solrmarc:
 - color: hsl(18, 49%, 33%)
   color-half: hsl(18, 49%, 33%, .5)
+  color-bg: hsla(200,82%,47%,.3)
 
 
 spatial-search-and-delivery:
 - color: "hsl(51, 9%, 61%)"
   color-half: hsla(51, 9%, 61%, .5)
+  color-bg: hsla(51, 9%, 61%, .4)
 
 
 speaking-in-code:
 - color: hsl(53, 58%, 44%)
   color-half: hsla(53, 58%, 44%, .5)
+  color-bg: hsl(66, 73%, 51%, .25)
 
 
 the-falmouth-project:
 - color: hsl(65, 8%, 69%)
   color-half: hsla(65, 8%, 69%, .5)
+  color-bg: hsla(197, 25%, 81%, .4)
 
 
 the-mind-is-a-metaphor:
 - color: hsl(225, 2%, 51%)
   color-half: hsla(225, 2%, 51%, .5)
+  color-bg: hsla(225, 2%, 51%, .5)
 
 
 the-scholars-lab:
 - color: hsl(53, 10%, 50%)
   color-half: hsla(53, 10%, 32%, .5)
+  color-bg: hsla(37, 91%, 74%, .3)
 
 
 the-university-of-virginia-art-museum-numismatic-collection:
 - color: hsl(43, 32%, 44%)
   color-half: hsla(43, 32%, 44%, .5)
+  color-bg: hsla(44,70%,69%,.5)
 
 
 thl-place-dictionary:
 - color: hsl(20, 9%, 81%) # or hsl(63, 9%, 42%) if thumb
   color-half: hsla(20, 9%, 81%, .5)
+  color-bg: hsla(20, 9%, 81%, .5)
