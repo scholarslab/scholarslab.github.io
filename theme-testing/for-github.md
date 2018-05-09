@@ -191,3 +191,11 @@ _While making new HTML structure._
 
 - Implement diff image sizes in Research at diff viewport sizes -> how? ~~Add to GH~~ Done!
 	- How: [https://blog.imagekit.io/how-to-deliver-responsive-images-to-browsers-across-multiple-devices-30cfae17390e](https://blog.imagekit.io/how-to-deliver-responsive-images-to-browsers-across-multiple-devices-30cfae17390e)
+
+## 5/9/18
+
+- Currently unused but useful logic:
+
+```html
+{% if words.size > 5 %}style="transform: scale(.625);"{% elsif words.size > 3 %}style="transform: scale(.75);"{% endif %}
+```
