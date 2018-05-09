@@ -16,3 +16,14 @@ layout: no-header
 	<div class="project-content__year">{{ page.year }}</div>
 	<div class="project-content__text">{{ content }}</div>
 </article>
+
+<script>
+	var textLinks = document.querySelectorAll(".project-content__text p a");
+	var hoverLinks = document.querySelectorAll(".project-content__text p a:hover");
+	for (let a of textLinks) {
+		a.style.borderBottomColor = "{{ colors[0].color }}";
+	}
+	for (let a of hoverLinks) {
+		a.style.backgroundColor = "{{ colors[0].color }}";
+	}
+</script>
