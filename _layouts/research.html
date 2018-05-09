@@ -2,7 +2,9 @@
 layout: no-header
 ---
 
-<article class="project-content-wrapper">
+{% assign colors = site.data.research[page.slug] %}
+
+<article class="project-content-wrapper" style="background-color: {{ colors[0].color-half }}">
 	<div class="project-content__img">
 		<img src="{{ '/assets/img/research/' | append: page.banner-img | relative_url }}" alt="{{ page.title }}">
 	</div>
