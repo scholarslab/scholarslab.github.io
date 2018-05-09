@@ -41,10 +41,10 @@
 }
 
 .project-content__year {
+.project-content__category {
 	position: relative;
 	grid-column: 1 / span 3;
-	grid-row: 4 / span 2;
-	border: 1px solid rgba(0,0,0,.5);
+	grid-row: 4 / span 1;
 }
 
 .project-content__text {
