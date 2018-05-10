@@ -37,6 +37,11 @@
 	grid-area: title;
 //	grid-column: 2 / span 4;
 //	grid-row: 1 / span 1;
+/* Metadata */
+
+.project-content__metadata {
+	position: relative;
+	grid-area: meta;
 }
 
 .project-content__year, .project-content__category {
