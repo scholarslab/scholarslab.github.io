@@ -16,8 +16,13 @@
 	align-items: start;
 	width: 100%;
 	min-height: 100vh;
-	padding: 3rem;
+	padding: 0 4.167%;
+	padding-top: 3rem;
 	margin-top: -60px; // no header
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+		padding-top: 5rem;
+	}
 }
 
 /* Image */
