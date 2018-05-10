@@ -8,11 +8,11 @@
 	position: relative;
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-template-rows: auto auto auto auto;
-	grid-template-areas: "year title"
-						 "cat title"
+	grid-template-areas: "... title"
 						 "pic title"
-						 "text text";
+						 "pic meta"
+						 "pic text"
+						 "... text";
 	align-items: start;
 	width: 100%;
 	min-height: 100vh;
