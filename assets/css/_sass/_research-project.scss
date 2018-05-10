@@ -70,7 +70,7 @@
 	align-self: end;
 	p {
 		margin: 0;
-		padding: 1em;
+		padding: 1em 0;
 		line-height: 2;
 		a {
 			text-decoration: none;
@@ -83,6 +83,11 @@
 			&:hover, &:focus {
 				background-color: hsla(51, 9%, 61%, 1);
 			}
+		}
+	}
+	@media screen and (min-width: 768px) {
+		p {
+			font-size: 18px;
 		}
 	}
 }
