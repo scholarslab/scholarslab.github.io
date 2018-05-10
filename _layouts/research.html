@@ -8,8 +8,9 @@ layout: no-header
 	<div class="project-content__img">
 		<img src="{{ '/assets/img/research/' | append: page.banner-img | relative_url }}" alt="{{ page.title }}">
 	</div>
+	
 	<div class="project-content__title">
-		<div>{{ page.title }}</div>
+		<span>{{ page.title }}</span>
 	</div>
 	
 	<div class="project-content__category">{{ page.research-category | replace: 'and', '&amp;' }}</div>
