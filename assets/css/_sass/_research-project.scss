@@ -43,6 +43,9 @@
 	grid-area: title;
 //	grid-column: 2 / span 4;
 //	grid-row: 1 / span 1;
+	@media screen and (min-width: 768px) {
+		font-size: 4.5rem; // 18px * 4
+	}
 /* Metadata */
 
 .project-content__metadata {
