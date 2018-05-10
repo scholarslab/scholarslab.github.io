@@ -19,6 +19,16 @@
 	padding: 0 4.167%;
 	padding-top: 3rem;
 	margin-top: -60px; // no header
+	&::after {
+		content: '';
+		position: absolute;
+		top: 0;
+		right: 0;
+		display: block;
+		height: 100%;
+		width: 48px;
+		background-color: black;
+	}
 	@media screen and (min-width: 600px) {
 		padding: 0 8.33%;
 		padding-top: 5rem;
