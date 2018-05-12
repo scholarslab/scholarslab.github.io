@@ -37,6 +37,34 @@
 							 "meta text";
 	}
 }
+
+/* Title */
+
+.project-content__title {
+	position: relative;
+	grid-area: title;
+	justify-self: start;
+	align-self: start;
+	display: inline-block;
+	font-size: 3rem;
+	font-weight: 900;
+	line-height: 1;
+	z-index: 1;
+	span {
+		color: rgba(20,20,20,1);
+	}
+	
+	@media screen and (min-width: 600px) {
+		font-size: 4rem;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 4.5rem; // 18px * 4
+	}
+	@media screen and (min-width: 900px) {
+
+	}
+	@media screen and (min-width: 1024px) {
+
 	}
 }
 
