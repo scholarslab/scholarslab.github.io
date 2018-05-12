@@ -7,13 +7,12 @@
 .project-content-wrapper {
 	position: relative;
 	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-template-areas: "... title"
-						 "pic title"
-						 "pic meta"
-						 "pic text"
-						 "... text";
-	align-items: start;
+	grid-template-columns: 1fr;
+	grid-template-areas: "pic"
+						 "title"
+						 "meta"
+						 "text";
+//	align-items: start;
 	width: 100%;
 	min-height: 100vh;
 	padding: 0 4.167%;
@@ -32,6 +31,12 @@
 	@media screen and (min-width: 600px) {
 		padding: 0 8.33%;
 		padding-top: 5rem;
+	@media screen and (min-width: 1024px) {
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas: "title pic"
+							 "meta text";
+	}
+}
 	}
 }
 
