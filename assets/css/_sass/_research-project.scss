@@ -120,21 +120,48 @@
 
 }
 
-.project-content__year, .project-content__category {
+.project-content__year, .project-content__category, .project-content__collaborators {
 	position: relative;
 	padding-top: .5em;
 	font-size: 1.5rem;
 	font-family: "base-mono-wide", monospace;
+	font-weight: 200;
 	line-height: 1;
 	text-transform: uppercase;
+	span {
+		display: block;
+		font-weight: 400;
+	}
 }
 
 .project-content__year {
-
+	font-family: "base-mono-wide", monospace;
+	font-weight: 200;
 }
 
 .project-content__category {
+	font-family: "base-mono-wide", monospace;
+	font-weight: 200;
+}
 
+/* Collaborators */
+
+.project-content__collaborators {
+	ul {
+		margin: .5em 0;
+		padding: 0;
+		list-style-type: none;
+		li {
+			&:first-of-type {
+				font-weight: 400;
+			}
+			a {
+				text-decoration: none;
+				color: black;
+				font-weight: 400;
+			}
+		}
+	}
 }
 
 /* Text */
