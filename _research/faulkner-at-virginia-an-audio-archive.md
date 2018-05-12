@@ -1,4 +1,12 @@
 ---
+collaborators:
+  - name: Steve Railton
+    role: Project Owner
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+current: false
+link: http://faulkner.lib.virginia.edu/
 layout: research
 slug: faulkner-at-virginia-an-audio-archive
 title: Faulkner at Virginia - An Audio Archive

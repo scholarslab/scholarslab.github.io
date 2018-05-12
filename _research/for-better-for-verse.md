@@ -1,4 +1,21 @@
 ---
+collaborators: 
+  - name: Herbert (Chip) Tucker
+    role: Project Owner
+  - name: Joe Gilbert
+    slug: joe-gilbert
+    role: User Experience Web Developer
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Scott Bailey
+    slug: scott-bailey
+    role: Humanities Developer
+  - name: Ammon Shepherd
+    slug: ammon-shepherd
+    role: Humanities Developer
+current: false
+link: http://prosody.lib.virginia.edu
 layout: research
 slug: for-better-for-verse
 title: For Better for Verse

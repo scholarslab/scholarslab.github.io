@@ -1,4 +1,18 @@
 ---
+collaborators:
+  - name: Alison Booth
+    role: Project Owner
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Joe Gilbert
+    slug: joe-gilbert
+    role: User Experience Web Developer
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Design Architect
+current: false
+link: http://womensbios.lib.virginia.edu/
 layout: research
 slug: collective-biographies-of-women
 title: Collective Biographies of Women

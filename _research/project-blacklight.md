@@ -1,4 +1,10 @@
 ---
+collaborators:
+  - name: Bess Sadler
+    slug: bess-sadler
+    role: Developer
+current: false
+link: http://projecthydra.org/
 layout: research
 slug: project-blacklight
 title: Project Blacklight

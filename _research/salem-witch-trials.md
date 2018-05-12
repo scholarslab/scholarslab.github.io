@@ -1,4 +1,18 @@
 ---
+collaborators: 
+  - name: Ben Ray
+    role: Project Owner
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Eric Rochester
+    slug: eric-rochester
+    role: Head of Research and Development
+  - name: Ronda Grizzle
+    slug: ronda-grizzle
+    role: Project Management and Technical Training Specialist
+current: true
+link: http://salem.lib.virginia.edu/
 layout: research
 slug: salem-witch-trials
 title: Salem Witch Trials

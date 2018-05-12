@@ -1,4 +1,14 @@
 ---
+collaborators: 
+  - name: Kirt von Daacke
+    role: Project Owner
+  - name: Marcus Martin
+    role: Project Owner
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Design Architect
+current: false
+link: http://slavery.virginia.edu/
 layout: research
 slug: presidents-commission-on-slavery-and-the-university
 title: President &#8217;s Commission on Slavery and the University

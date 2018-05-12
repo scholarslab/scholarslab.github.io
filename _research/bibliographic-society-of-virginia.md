@@ -1,4 +1,19 @@
 ---
+collaborators:
+  - name: Elizabeth Lynch
+    role: Project Owner
+  - name: David Vander Muelen
+    role: Project Owner
+  - name: Anne Ribble
+    role: Project Owner
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Design Architect
+current: false
+link: http://bsuva.org/
 layout: research
 slug: bibliographic-society-of-virginia
 title: Bibliographic Society of Virginia
