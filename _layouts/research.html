@@ -14,8 +14,15 @@ layout: no-header
 	<div class="project-content__metadata">
 		<div class="project-content__year">{{ page.year }}</div>
 		<div class="project-content__category">{{ page.research-category | replace: 'and', '&amp;' }}</div>
+		<div class="project-content__collaborators">
+		{% for person in page.collaborators %}
+			<ul>
+				<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+				<li>{{ person.role }}</li>
+			</ul>
+		{% endfor %}
+		</div>
 	</div>
-
 	<div class="project-content__text">{{ content }}</div>
 </article>
 
