@@ -12,15 +12,16 @@ layout: no-header
 		<span>{{ page.title | replace: ' - ', ': ' }}</span>
 	</div>
 	<div class="project-content__metadata">
-		<div class="project-content__year">{{ page.year }}</div>
-		<div class="project-content__category">{{ page.research-category | replace: 'and', '&amp;' }}</div>
+		<div class="project-content__year"><span>Year(s)</span>{{ page.year }}</div>
+		<div class="project-content__category"><span>Project Type</span>{{ page.research-category | replace: 'and', '&amp;' }}</div>
 		<div class="project-content__collaborators">
-		{% for person in page.collaborators %}
+			<span>Collaborators</span>
+			{% for person in page.collaborators %}
 			<ul>
 				<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
 				<li>{{ person.role }}</li>
 			</ul>
-		{% endfor %}
+			{% endfor %}
 		</div>
 		<div class="project-content__cta"><a href="{{ page.link }}">Visit Project</a></div>
 	</div>
