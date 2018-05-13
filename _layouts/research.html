@@ -12,8 +12,6 @@ layout: no-header
 		<span>{{ page.title | replace: ' - ', ': ' }}</span>
 	</div>
 	<div class="project-content__metadata">
-		<div class="project-content__year"><span>Year(s)</span>{{ page.year }}</div>
-		<div class="project-content__category"><span>Project Type</span>{{ page.research-category | replace: 'and', '&amp;' }}</div>
 		<div class="project-content__collaborators">
 			<span>Collaborators</span>
 			{% for person in page.collaborators %}
@@ -23,7 +21,9 @@ layout: no-header
 			</ul>
 			{% endfor %}
 		</div>
-		<div class="project-content__cta"><a href="{{ page.link }}">Visit Project</a></div>
+		<div class="project-content__year"><span>Year(s)</span>{{ page.year }}</div>
+		<div class="project-content__category"><span>Project Type</span>{{ page.research-category | replace: 'and', '&amp;' }}</div>
+		<!--div class="project-content__cta"><a href="{{ page.link }}">Visit Project</a></div-->
 	</div>
 	<div class="project-content__text">{{ content }}</div>
 </article>
