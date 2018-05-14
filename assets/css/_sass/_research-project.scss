@@ -133,12 +133,12 @@
 	display: grid;
 	grid-template-columns: 50% 50%;
 	margin: 0;
-	margin-bottom: 1.2em; // vertical rhythm w/ text: 24px
+	margin-bottom: 1em; // 1.2em; // vertical rhythm w/ text: 24px
 	padding: 0;
-	font-size: 1.25rem;
+	font-size: 1rem; // 1.25rem;
 	font-family: "base-mono-narrow", monospace;
 	font-weight: 200;
-	line-height: 1.2; //.5rem;
+	line-height: 1; //1.2; //.5rem;
 	span {
 		display: inline-block;
 		padding-right: 1rem;
@@ -172,7 +172,7 @@
 		display: flex;
 		flex-flow: column nowrap;
 		margin: 0;
-		margin-bottom: 1.5rem;
+		margin-bottom: 1em; // 1.5rem;
 		padding: 0;
 		list-style-type: none;
 		&:first-of-type {
@@ -199,11 +199,11 @@
 	grid-area: text;
 	position: relative;
 //	background-color: rgba(255,255,255,.9);
-	margin: 1.5rem 0;
+	margin: 1em 0; // 1.5rem 0;
 	p {
-		margin: 0;
+	//	margin: 0;
 		padding: 0;
-		line-height: 2;
+	//	line-height: 2;
 		a {
 			text-decoration: none;
 			color: black;
@@ -222,7 +222,7 @@
 		margin-top: 2em;
 		margin-right: 1em;
 		p {
-			font-size: 18px; // 1/4 title text
+		//	font-size: 18px; // 1/4 title text
 		}
 	}
 }
