@@ -130,16 +130,18 @@
 .project-content__metadata {
 	grid-area: meta;
 	align-self: start;
+	justify-content: start;
 	position: relative;
-	display: grid;
-	grid-template-columns: 1fr minmax(1fr, auto);
-	grid-template-areas: "year ppl"
-						 "cat ppl"
-						 "... ppl";
-
-	margin: 1.5rem 0;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: start;
+	width: 100%;
 	@media screen and (min-width: 1024px) {
+	//	margin: 1.25em 0;
 		margin: 0;
+		padding-right: 2rem;
+		font-size: 1.25rem;
+		line-height: 1.2;
 	}
 }
 
