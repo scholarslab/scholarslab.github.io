@@ -48,6 +48,8 @@
 		grid-template-columns: 1fr 1fr;
 		grid-template-areas: "title pic"
 							 "meta text";
+		max-width: calc(1200px + 16.67%);
+		margin: 0 auto;
 	}
 }
 
