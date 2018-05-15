@@ -5,7 +5,7 @@
 def regexTextSearch(file, pattern):
 	import re
 
-	with open(file, 'rt') as myfile:
+	with open(file, 'rt', encoding='utf8') as myfile:
 		matches = re.findall(pattern, myfile.read())
 		return matches
 
@@ -47,7 +47,7 @@ def classesToCSS(class_names):
 pattern = r'class=".*?"'
 
 # list of all 'class="<val>"' in file
-matches = regexTextSearch('../../pages/spatial-technologies.html', pattern)
+matches = regexTextSearch('../../_layouts/research.html', pattern)
 
 # list of all val for 'class="<val>"' in matches
 class_names = stripClassStrings(matches)

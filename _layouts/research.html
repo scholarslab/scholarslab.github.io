@@ -1,13 +1,43 @@
 ---
-layout: default
+layout: no-header
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-  <div class="post-content">
-    {{ content }}
-  </div>
+{% assign colors = site.data.research[page.slug] %}
+{% assign title_array = page.title | split: ' ' %}
 
+<article class="project-content-wrapper">
+	<div class="project-content__img">
+		<div><img src="{{ '/assets/img/research/' | append: page.banner-img | relative_url }}" alt="{{ page.title }}"></div>
+	</div>
+	<div class="project-content__title">
+		<span>{{ page.title | replace: ' - ', ': ' }}</span>
+	</div>
+	<div class="project-content__metadata" {% if title_array.size <= 2 %}style="flex-flow: column nowrap;"{% endif %}>
+		<div class="project-content__year"><span>Year:</span><div>{{ page.year }}</div></div>
+		<div class="project-content__category"><span>Project Type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div></div>
+		<!--div class="project-content__cta"><a href="{{ page.link }}">Visit Project</a></div-->
+	</div>
+	<div class="project-content__text">{{ content }}</div>
+	<div class="project-content__collaborators">
+		<span>Collaborators:</span>
+		<div class="project-collab__people">
+		{% for person in page.collaborators %}
+		<ul>
+			<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+			<li>{{ person.role }}</li>
+		</ul>
+		{% endfor %}
+		</div>
+	</div>
 </article>
+
+<script>
+	var textLinks = document.querySelectorAll(".project-content__text p a");
+	var hoverLinks = document.querySelectorAll(".project-content__text p a:hover");
+	for (let a of textLinks) {
+		a.style.borderBottomColor = "{{ colors[0].color }}";
+	}
+	for (let a of hoverLinks) {
+		a.style.backgroundColor = "{{ colors[0].color }}";
+	}
+</script>
