@@ -228,7 +228,6 @@
 .project-content__text {
 	grid-area: text;
 	position: relative;
-//	background-color: rgba(255,255,255,.9);
 	margin: 1em 0; // 1.5rem 0;
 	p {
 		padding: 0;
@@ -246,11 +245,28 @@
 		}
 	}
 	@media screen and (min-width: 768px) {
-		margin: 0;
-		margin-top: 2em;
-		margin-right: 1em;
+	//	margin-right: 1em;
 		p {
 		//	font-size: 18px; // 1/4 title text
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		margin-top: 1rem;
+		margin-right: 4rem;
+		// test:
+		padding: 1.25em 1.5em;
+		background-color: white;
+		border: 1px solid black;
+		box-shadow: 4px 4px 0 0 rgba(0,0,0,.5);
+		p {
+		//	font-size: 1.125rem;
+		//	line-height: 1.78; // 1/4 title text
+			&:first-of-type {
+				margin-top: 0;
+			}
+			&:last-of-type {
+				margin-bottom: 0;
+			}
 		}
 	}
 }
