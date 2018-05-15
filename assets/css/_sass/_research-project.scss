@@ -45,9 +45,11 @@
 		}
 	}
 	@media screen and (min-width: 1024px) {
-		grid-template-columns: 1fr 1fr;
+		grid-template-columns: 6fr 4fr;
+		grid-template-rows: minmax(2rem, auto) minmax(2rem, auto) 1fr; // b/c min 100vh requirement
 		grid-template-areas: "title pic"
-							 "meta text";
+							 "meta pic"
+							 "text ppl";
 		max-width: calc(1200px + 16.67%);
 		margin: 0 auto;
 	}
