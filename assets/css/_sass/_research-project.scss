@@ -90,17 +90,23 @@
 .project-content__img {
 	position: relative;
 	grid-area: pic;
-	justify-self: start;
 	align-self: start;
-	display: inline-block;
-//	max-width: 100%;
-	img {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	div {
 		position: relative;
 		display: inline-block;
-		max-width: 100%;
+		img {
+			position: relative;
+			max-width: 100%;
+		}
 	}
 	@media screen and (min-width: 600px) {
-
+		img {
+			display: inline-block;
+			max-width: 100%;
+		}
 	}
 	@media screen and (min-width: 768px) {
 	//	margin-left: 8.33%;
@@ -109,7 +115,13 @@
 
 	}
 	@media screen and (min-width: 1024px) {
-
+		font-size: 4.5rem;
+		div {
+			img {
+			//	border: 1px solid rgba(0,0,0,.7);
+				box-shadow: 4px 4px 0 0 rgba(0,0,0,.5);
+			}
+		}
 	}
 }
 
