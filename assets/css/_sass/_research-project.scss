@@ -14,7 +14,7 @@
 						 "text";
 	align-items: start;
 	width: 100%;
-	min-height: 100vh;
+	min-height: calc(100vh - 60px);
 	padding: 0 4.167%;
 	padding-top: 3rem;
 	margin-top: -60px; // no header
@@ -37,11 +37,11 @@
 		&::after {
 			content: '';
 			position: absolute;
-			top: 0;
+			top: -60px;
 			right: 0;
 			display: block;
-			height: 100%;
-			width: 48px;
+			height: calc(100% + 60px);
+			width: 36px;
 //			background-color: black;
 		}
 	}
