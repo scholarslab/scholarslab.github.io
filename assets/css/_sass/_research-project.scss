@@ -180,12 +180,16 @@
 
 .project-content__collaborators {
 	grid-area: ppl;
-	margin-left: 1em;
+	justify-self: start;
+	align-self: start;
+	line-height: 1;
 	span {
-		margin-bottom: 2em;
+		margin-bottom: 1em;
+		font-size: 1.25rem;
 	}
 	@media screen and (min-width: 1024px) {
-		margin-right: 8.33%;
+		margin-top: 1rem;
+		font-size: 1.25rem;
 	}
 }
 
