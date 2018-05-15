@@ -15,20 +15,20 @@ layout: no-header
 		
 		<div class="project-content__year"><span>Year:</span><div>{{ page.year }}</div></div>
 		<div class="project-content__category"><span>Project Type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div></div>
-		<div class="project-content__collaborators">
-			<span>Collaborators:</span>
-			<div class="project-collab__people">
-			{% for person in page.collaborators %}
-			<ul>
-				<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
-				<li>{{ person.role }}</li>
-			</ul>
-			{% endfor %}
-			</div>
-		</div>
 		<!--div class="project-content__cta"><a href="{{ page.link }}">Visit Project</a></div-->
 	</div>
 	<div class="project-content__text">{{ content }}</div>
+	<div class="project-content__collaborators">
+		<span>Collaborators:</span>
+		<div class="project-collab__people">
+		{% for person in page.collaborators %}
+		<ul>
+			<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+			<li>{{ person.role }}</li>
+		</ul>
+		{% endfor %}
+		</div>
+	</div>
 </article>
 
 <script>
