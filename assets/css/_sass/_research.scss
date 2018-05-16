@@ -283,8 +283,10 @@
 .research-folio__gallery-wrapper {
 	position: relative;
 	height: 100vh;
-	width: 100%;
+	width: 83.33%; // 100%;
+	margin: 0 auto;
 	overflow: hidden;
+	border: 1px solid orange;
 }
 
 .research-folio__gallery {
@@ -292,7 +294,8 @@
 	display: flex;
 	flex-flow: row nowrap;
 	height: 100vh;
-	width: calc(312px * 22);
+	min-width: calc(300px * 22);
+	background-color: pink;
 }
 
 // <section>
@@ -303,9 +306,8 @@
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	width: 312px;
-	padding: 2px;
-	border: 1px solid black;
+	width: 20.83vw; // 360px;
+	border-right: 1px solid black;
 	// wraps all content:
 	a {
 		position: relative;
@@ -316,6 +318,9 @@
 		width: 83.33%;
 		text-decoration: none;
 		color: black;
+		div {
+			line-height: 1;
+		}
 	}
 }
 
