@@ -322,25 +322,39 @@
 /* Number: */
 
 .research-item__num {
-
+	position: relative;
+	font-family: "base-mono-narrow", monospace;
+//	font-weight: 200;
+	color: rgba(0,0,0,.5);
 }
 
 /* Title: */
 
 .research-item__name {
-
+	position: relative;
+	min-height: 4em;
+	padding: .5em 0;
+	font-size: 2rem;
 }
 
 /* Image: */
 
 .research-item__pic {
-
+	position: relative;
+	width: 100%;
+	img {
+		max-width: 100%;
+	}
 }
 
 /* Year: */
 
 .research-item__yr {
-
+	position: relative;
+	margin-top: 1em;
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
+	color: rgba(0,0,0,.5);
 }
 
 /* ###### old version starts here ########### */
