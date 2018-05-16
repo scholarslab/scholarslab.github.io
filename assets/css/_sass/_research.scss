@@ -229,18 +229,23 @@
 }
 
 .research-folio__nav {
-	position: relative;
+	position: absolute;
+	bottom: 1em;
+	left: 0;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	height: 60px;
 	width: 100%;
 	padding: 0 2em;
+	z-index: 10;
+	border: 1px solid red;
 }
 
 [class*="research-nav__btn--"] {
 	font-size: 2rem;
 	font-weight: 900;
+	cursor: pointer;
 }
 
 .research-nav__btn--left {
@@ -277,7 +282,7 @@
 .research-tracker__remaining {
 	height: 4px;
 	width: 66.67%; // set w/ JS
-	background-color: hsla(320, 90%, 80%, .5);
+	background-color: hsla(320, 50%, 80%, 1);
 }
 
 .research-folio__gallery-wrapper {
