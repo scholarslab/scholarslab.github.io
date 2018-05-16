@@ -126,6 +126,7 @@
 		var mc = new Hammer(gallery); // touch event handler
 
 		gallery.setAttribute("data-translateX", "0");
+		gallery.style.width = parseInt(galleryItems[0].offsetWidth * galleryItems.length) + "px";
 
 		btnRight.addEventListener("click", moveGalleryRight);
 		btnLeft.addEventListener("click", moveGalleryLeft);
@@ -135,22 +136,23 @@
 	//	mc.on("panleft", panGalleryLeft);
 
 		function moveGalleryRight() {
-			var screenWidth = galleryParent.offsetWidth;
+			var screenWidth = galleryItems[0].offsetWidth * Math.floor(galleryParent.offsetWidth / galleryItems[0].offsetWidth); // galleryParent.offsetWidth;
+			var totalWidth = galleryItems[0].offsetWidth * galleryItems.length;
 			var translateOld = parseInt(gallery.getAttribute("data-translateX"));
-			var maxTranslate = Math.floor(gallery.offsetWidth / screenWidth) * screenWidth - (screenWidth - (gallery.offsetWidth%screenWidth));
+			var maxTranslate = Math.floor(totalWidth / screenWidth) * screenWidth - (screenWidth - (totalWidth%screenWidth));
 
-			if ((Math.floor(Math.abs(translateOld) / screenWidth)) == (Math.floor(gallery.offsetWidth / screenWidth) - 2)) {
+			if ((Math.floor(Math.abs(translateOld) / screenWidth)) == (Math.floor(totalWidth / screenWidth) - 2)) {
 				gallery.style.transform = `translateX(-${maxTranslate}px)`;
 				gallery.setAttribute("data-translateX", `-${maxTranslate}`);
 			}
-			else if ((Math.abs(translateOld) + screenWidth) < gallery.offsetWidth) {
+			else if ((Math.abs(translateOld) + screenWidth) < totalWidth) {
 				gallery.style.transform = `translateX(-${Math.abs(translateOld) + screenWidth}px)`;
 				gallery.setAttribute("data-translateX", `-${Math.abs(translateOld) + screenWidth}`);
 			}
 		}
 
 		function moveGalleryLeft() {
-			var screenWidth = galleryParent.offsetWidth;
+			var screenWidth = galleryItems[0].offsetWidth * Math.floor(galleryParent.offsetWidth / galleryItems[0].offsetWidth);
 			var translateOld = parseInt(gallery.getAttribute("data-translateX"));
 
 			if ((translateOld + screenWidth) >= 0) {
