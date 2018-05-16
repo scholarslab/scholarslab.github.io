@@ -298,7 +298,7 @@
 //	display: flex;
 //	flex-flow: row nowrap;
 	display: grid;
-	grid-template-columns: repeat(22, minmax(300px, 25vw));
+	grid-template-columns: repeat(22, minmax(280px, 25vw));
 	justify-content: start;
 	height: 100vh;
 //	min-width: calc(300px * 22);
