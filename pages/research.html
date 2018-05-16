@@ -73,9 +73,9 @@ notes:
 						<a href="{{ site.baseurl }}/research/{{ proj.slug }}" aria-label="{{ proj.title }}">
 							<div class="research-item__num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
 							<div class="research-item__name">{{ proj.title }}</div> <!-- avoiding title run-in -->
-							<div class="research-item__category">{{ proj.research-category }}</div>
+							<!--div class="research-item__category">{{ proj.research-category }}</div-->
 							<div class="research-item__pic">
-								<img width="200" src="{{ '/assets/img/research/' | append: proj.thumb-img | relative_url }}" alt="{{ proj.title }}">
+								<img src="{{ '/assets/img/research/' | append: proj.thumb-img | relative_url }}" alt="{{ proj.title }}">
 							</div>
 							<div class="research-item__yr">{{ proj.year }}</div>
 						</a>
