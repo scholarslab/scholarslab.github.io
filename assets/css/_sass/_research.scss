@@ -394,7 +394,6 @@
 	justify-content: center;
 	align-items: center;
 	height: 100%;
-	padding-bottom: 3rem; // progress bar
 	border-left: 1px solid rgba(0,0,0,.3);;
 	// wraps all content:
 	a {
@@ -409,8 +408,8 @@
 		transition: transform .3s;
 		&:hover, &:focus {
 			.research-item__num {
-				-webkit-transform: translate(0, .25em);
-				transform: translate(0, .25em);
+				-webkit-transform: translate(0, .5em);
+				transform: translate(0, .5em);
 			}
 			.research-item__pic {
 				div {
@@ -425,6 +424,9 @@
 		div {
 			line-height: 1;
 		}
+	}
+	@media screen and (max-height: 560px) {
+		padding-bottom: 3rem; // progress bar
 	}
 }
 
