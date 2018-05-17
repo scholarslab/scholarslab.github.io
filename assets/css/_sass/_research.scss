@@ -244,6 +244,7 @@
 	width: 100%;
 }
 
+/* #! background color */
 .research-folio__background--black {
 	background-color: rgba(0,0,0,.85);
 	padding: 1rem 0;
@@ -344,6 +345,7 @@
 	opacity: .8;
 }
 
+/* End nav */
 // NB: snap polyfill -> https://css-tricks.com/introducing-css-scroll-snap-points/
 
 /* Gallery container: */
@@ -351,7 +353,7 @@
 .research-folio__gallery-wrapper {
 	position: relative;
 	height: calc(100vh - 2rem);
-	width: calc(100% - 2rem);
+	width: 100%;
 	margin: 0 auto;
 	border-right: 1px solid black;
 	overflow: hidden;
@@ -365,12 +367,8 @@
 		width: 35px;
 		background-image: linear-gradient(to left, rgba(0,0,0,.4) 0%, rgba(0,0,0,.19) 5px, rgba(0,0,0,0) 80%);
 	}
-	@media screen and (min-width: 768px) {
-		width: calc(100% - 72px);
-	}
-	@media screen and (min-width: 900px) {
-		width: 100%;
-		height: calc(100vh - 4.5rem);
+	@media screen and (min-width: 1024px) {
+		height: calc(100vh - 3rem);
 	}
 }
 
