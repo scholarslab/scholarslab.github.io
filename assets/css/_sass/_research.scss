@@ -237,6 +237,8 @@
 
 // end description
 
+/* ######################### Portfolio: ################### */
+
 .research-portfolio-wrapper {
 	position: relative;
 	width: 100%;
@@ -261,24 +263,31 @@
 
 }
 
+/* Floating Navigation: */
+
 .research-folio__nav {
 	position: absolute;
-	bottom: 1em;
+	bottom: 0;
 	left: 0;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	height: 60px;
+	height: 3rem;
 	width: 100%;
 	padding: 0 2em;
+	color: black;
 	z-index: 10;
-	border: 1px solid red;
 }
 
 [class*="research-nav__btn--"] {
 	font-size: 2rem;
 	font-weight: 900;
 	cursor: pointer;
+	-webkit-transition: transform .2s;
+	transition: transform .2s;
+	&:hover {
+		transform: translate(0, 3px);
+	}
 }
 
 .research-nav__btn--left {
@@ -289,12 +298,16 @@
 
 }
 
+/* Progress Tracker: */
+
 .research-nav__tracker {
 	position: relative;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 400px;
+	width: 50%;
+	font-family: "base-mono-wide", monospace;
+	font-weight: 700;
 	span {
 		display: inline-block;
 		&:first-of-type {
@@ -309,13 +322,15 @@
 .research-tracker__progress {
 	height: 4px;
 	width: 33.33%; // set w/ JS
-	background-color: hsla(320, 90%, 80%, 1);
+	background-color: black;
 }
 
 .research-tracker__remaining {
 	height: 4px;
 	width: 66.67%; // set w/ JS
-	background-color: hsla(320, 50%, 80%, 1);
+//	set a polyfill color
+	background-image: repeating-linear-gradient(-45deg, transparent, transparent 2px, black 2px, black 4px, transparent 4px);
+	opacity: .8;
 }
 
 .research-folio__gallery-wrapper {
