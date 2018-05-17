@@ -272,21 +272,26 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	height: 3rem;
+	height: 3.5rem;
 	width: 100%;
-	padding: 0 2em;
+	padding: 0 24px; // magic # w/ buttons
 	color: black;
 	z-index: 10;
 }
 
+/* Buttons: */
+
 [class*="research-nav__btn--"] {
+	padding: 0 .5em;
 	font-size: 2rem;
+	font-family: "base-mono-wide", sans-serif;
 	font-weight: 900;
+	transform: translate(0, -1px);
 	cursor: pointer;
 	-webkit-transition: transform .2s;
 	transition: transform .2s;
 	&:hover {
-		transform: translate(0, 3px);
+		transform: translate(0, 2px);
 	}
 }
 
