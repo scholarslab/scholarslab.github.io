@@ -303,14 +303,13 @@
 
 }
 
-/* Progress Tracker: */
+/* Progress Bar: */
 
 .research-nav__tracker {
 	position: relative;
-	display: flex;
+	display: none;
 	justify-content: center;
 	align-items: center;
-	width: 50%;
 	font-family: "base-mono-wide", monospace;
 	font-weight: 700;
 	span {
@@ -321,6 +320,13 @@
 		&:last-of-type {
 			padding-left: 2rem;
 		}
+	}
+	@media screen and (min-width: 768px) {
+		display: flex;
+		width: 66.67%;
+	}
+	@media screen and (min-width: 1024px) {
+		width: 50%;
 	}
 }
 
