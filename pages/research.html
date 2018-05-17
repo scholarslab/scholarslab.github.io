@@ -42,9 +42,12 @@ notes:
 	</div>
 </div>
 
-<div class="research-landing__description">
-	<p>Scholarship is one part critical thinking (research, writing, coding, building, designing, experimenting, play…) and one part communication (traditional publishing and other forms of “making public”, teaching, open source code, other ways for your intellectual community to learn from and build on your work).</p>
-	<p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers.</p>
+<div class="research__description">
+	<div class="research-description__text">
+		<!--div class="research-description__title">Our Scholarship</div-->
+		<p>Scholarship is one part critical thinking (research, writing, coding, building, designing, experimenting, play…) and one part communication (traditional publishing and other forms of “making public”, teaching, open source code, other ways for your intellectual community to learn from and build on your work).</p>
+		<p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers.</p>
+	</div>
 </div>
 
 <div class="research-portfolio-wrapper">
@@ -75,7 +78,7 @@ notes:
 							<div class="research-item__name">{{ proj.title }}</div> <!-- avoiding title run-in -->
 							<!--div class="research-item__category">{{ proj.research-category }}</div-->
 							<div class="research-item__pic">
-								<img src="{{ '/assets/img/research/' | append: proj.thumb-img | relative_url }}" alt="{{ proj.title }}">
+								<div><img src="{{ '/assets/img/research/' | append: proj.thumb-img | relative_url }}" alt="{{ proj.title }}"></div>
 							</div>
 							<div class="research-item__yr">{{ proj.year }}</div>
 						</a>
