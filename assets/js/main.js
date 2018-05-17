@@ -118,6 +118,7 @@
 
 	// Research:
 	if (document.querySelector(".research-landing-wrapper")) {
+		var widthOnLoad = window.innerWidth;
 		var galleryParent = document.querySelector(".research-folio__gallery-wrapper");
 		var gallery = document.querySelector(".research-folio__gallery");
 		var galleryItems = gallery.children;
@@ -130,6 +131,20 @@
 
 		btnRight.addEventListener("click", moveGalleryRight);
 		btnLeft.addEventListener("click", moveGalleryLeft);
+
+		// #! okay, this doesn't work right now, but is for making up for difference
+		//	  between mobile item widths and width > 500px (diff is 60px but compounds as click)
+		window.addEventListener("resize", adjustForWidth)
+
+		function adjustForWidth() {
+			var translateOld = parseInt(gallery.getAttribute("data-translateX"));
+			if (window.innerWidth <= 500 && widthOnLoad >= 500) {
+				gallery.style.transform = `translateX(-${Math.abs(translateOld) + 0}px)`;
+			}
+			else {
+				gallery.style.transform = `translateX(-${Math.abs(translateOld)}px)`;
+			}
+		}
 
 		// if pan left/right on gallery
 	//	mc.on("panright", panGalleryRight);
