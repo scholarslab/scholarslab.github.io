@@ -124,7 +124,9 @@ main {
 /****************** 1. Default Styles: *******************/
 
 // section titles
-[class*="__title"][class*="home-"], [class*="__title"][class*="spatial-"] {
+[class*="__title"][class*="home-"],
+[class*="__title"][class*="spatial-"],
+[class*="__title"][class*="research-"] {
 	margin-bottom: .5em;
 	margin-top: 1em;
 	font-family: "Raleway", sans-serif;
