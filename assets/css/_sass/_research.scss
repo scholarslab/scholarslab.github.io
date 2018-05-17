@@ -376,16 +376,17 @@
 	transition: transform .5s;
 }
 
-// <section>
+/* Items: */
+
 .research-gallery__item {
 	position: relative;
 	display: flex;
 	flex-flow: column;
 	justify-content: center;
 	align-items: center;
-	height: 100vh;
-//	width: 266.66px; // calc(25vw * 0.8333);
-	border-right: 1px solid black;
+	height: 100%;
+	padding-bottom: 3rem; // progress bar
+	border-left: 1px solid rgba(0,0,0,.3);;
 	// wraps all content:
 	a {
 		position: relative;
@@ -396,6 +397,22 @@
 		width: 83.33%;
 		text-decoration: none;
 		color: black;
+		transition: transform .3s;
+		&:hover, &:focus {
+			.research-item__num {
+				-webkit-transform: translate(0, .25em);
+				transform: translate(0, .25em);
+			}
+			.research-item__pic {
+				div {
+					img {
+						-webkit-transform: scale(1.1);
+						transform: scale(1.1);
+					}
+				}
+				
+			}
+		}
 		div {
 			line-height: 1;
 		}
@@ -406,18 +423,21 @@
 
 .research-item__num {
 	position: relative;
-	font-family: "base-mono-narrow", monospace;
-//	font-weight: 200;
-	color: rgba(0,0,0,.5);
+	font-family: "base-mono-wide", monospace;
+	font-size: 1.5rem;
+	font-weight: 700;
+	color: black;
+	transition: transform .3s;
 }
 
 /* Title: */
 
 .research-item__name {
 	position: relative;
-	min-height: 4em;
-	padding: .5em 0;
-	font-size: 2rem;
+	min-height: 5.5em;
+	padding: 1em 0 .5em 0;
+	font-size: 1.5rem;
+	color: rgba(0,0,0,.5);
 }
 
 /* Image: */
@@ -425,9 +445,28 @@
 .research-item__pic {
 	position: relative;
 	width: 100%;
-	min-height: 249px;
-	img {
-		max-width: 100%;
+	height: 200px;
+	box-shadow: 0 0 2px 1px rgba(0, 0, 0, .05);
+/*	&::before {
+		content: '';
+		position: absolute;
+		top: 4px;
+		left: 4px;
+		display: block;
+		height: 100%;
+		width: 100%;
+		background-image: repeating-linear-gradient(-45deg, transparent, transparent 2px, black 2px, black 4px, transparent 4px);
+	//	opacity: .5;
+	} */
+	div {
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		overflow: hidden;
+		img {
+			max-width: 100%;
+			transition: transform .3s;
+		}
 	}
 }
 
@@ -435,7 +474,7 @@
 
 .research-item__yr {
 	position: relative;
-	margin-top: 1em;
+	margin-top: 1.5em;
 	font-family: "base-mono-narrow", monospace;
 	font-weight: 200;
 	color: rgba(0,0,0,.5);
