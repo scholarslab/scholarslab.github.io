@@ -333,13 +333,34 @@
 	opacity: .8;
 }
 
+// NB: snap polyfill -> https://css-tricks.com/introducing-css-scroll-snap-points/
+
+/* Gallery container: */
+
 .research-folio__gallery-wrapper {
 	position: relative;
-	height: 100vh;
-	width: 83.33%; // 100%;
+	height: calc(100vh - 2rem);
+	width: calc(100% - 2rem);
 	margin: 0 auto;
+	border-right: 1px solid black;
 	overflow: hidden;
-//	border: 1px solid orange;
+	&::after {
+		content: '';
+		position: absolute;
+		top: 0;
+		right: 0;
+		display: block;
+		height: 100%;
+		width: 35px;
+		background-image: linear-gradient(to left, rgba(0,0,0,.4) 0%, rgba(0,0,0,.19) 5px, rgba(0,0,0,0) 80%);
+	}
+	@media screen and (min-width: 768px) {
+		width: calc(100% - 72px);
+	}
+	@media screen and (min-width: 900px) {
+		width: 100%;
+		height: calc(100vh - 4.5rem);
+	}
 }
 
 .research-folio__gallery {
