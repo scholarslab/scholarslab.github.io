@@ -240,12 +240,14 @@
 .research-portfolio-wrapper {
 	position: relative;
 	width: 100%;
-	@media screen and (min-width: 768px) {
-		height: 100vh;
-	}
 }
 
 .research-folio__background--black {
+	background-color: rgba(0,0,0,.85);
+	padding: 1rem 0;
+	@media screen and (min-width: 1024px) {
+		padding: 3rem; // 4.167%;
+	}
 
 }
 
@@ -254,6 +256,8 @@
 }
 
 .research-folio__context {
+	position: absolute;
+	border: 1px solid blue;
 
 }
 
