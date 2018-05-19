@@ -65,24 +65,44 @@
 .home-main-content {
 	position: relative;
 	display: grid;
-	// do media query testing!!!
-	grid-template-columns: 1fr 1fr;
-	grid-template-areas: "hero hero"
-						 "faq contact"
-						 "faq hours"
-						 "grads floor"
-						 "make gis"
-						 "learn learn"
-						 "events events"
-						 "blog contact2"
-						 "blog listserv"						 
-						 "people projects"
-						 "origins origins"			 
-						 "charter colophon";
-	grid-auto-rows: minmax(25vh, auto);
+	grid-template-columns: 1fr;
+	grid-template-areas: "hero"
+						 "faq"
+						 "contact"
+						 "hours"
+						 "grads"
+						 "floor"
+						 "make"
+						 "gis"
+						 "learn"
+						 "events"
+						 "blog"
+						 "contact2"
+						 "listserv"
+						 "people"
+						 "projects"
+						 "origins"
+						 "charter"
+						 "colophon";
 	padding: 0 4.167%;
+	padding-bottom: 3rem;
 	@media screen and (min-width: 600px) {
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas: "hero hero"
+							 "faq contact"
+							 "faq hours"
+							 "grads floor"
+							 "make gis"
+							 "learn learn"
+							 "events events"
+							 "blog contact2"
+							 "blog listserv"
+							 "people projects"
+							 "origins origins"
+							 "charter colophon";
+		grid-auto-rows: minmax(25vh, auto);
 		padding: 0 8.33%;
+		padding-bottom: 3rem;
 	}
 }
 
