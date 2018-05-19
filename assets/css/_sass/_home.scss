@@ -106,24 +106,6 @@
 	}
 }
 
-/****************** 1. Default Styles: *******************/
-
-// section titles
-[class*="__title"][class*="home-"],
-[class*="__title"][class*="spatial-"],
-[class*="__title"][class*="research-"] {
-	margin-bottom: .5em;
-	margin-top: 1em;
-	font-family: "Raleway", sans-serif;
-	font-size: 1.75rem;
-	font-weight: 900;
-	line-height: 1;
-	text-transform: uppercase;
-	@media screen and (min-width: 600px) {
-		font-size: 2rem;
-	}
-}
-
 /* Hero: */
 
 .home__hero {

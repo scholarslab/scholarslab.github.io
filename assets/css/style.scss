@@ -40,8 +40,28 @@ main {
 
 /* #! Universal Selectors: */
 
+// section titles
+[class*="__title"][class*="home-"],
+[class*="__title"][class*="spatial-"],
+[class*="__title"][class*="research-"] {
+	margin-bottom: .5em;
+	margin-top: 1em;
+	font-family: "Raleway", sans-serif;
+	font-size: 1.75rem;
+	font-weight: 900;
+	line-height: 1;
+	text-transform: uppercase;
+	@media screen and (min-width: 600px) {
+		font-size: 2rem;
+	}
+}
+
 // in-text links on pages specified below
-[class*="home-"], [class*="maker-"], [class*="post-"], [class*="person-"], [class*="spatial-"] {
+[class*="home-"],
+[class*="maker-"],
+[class*="post-"],
+[class*="person-"],
+[class*="spatial-"] {
 	a {
 		font-family: "base-mono-narrow", monospace;
 		text-decoration: none;
@@ -57,7 +77,8 @@ main {
 }
 
 // in-text links v2.0
-[class*="post-"], [class*="person-"] {
+[class*="post-"],
+[class*="person-"] {
 	a {
 		font-family: "Raleway", sans-serif !important;
 		font-weight: bold;
