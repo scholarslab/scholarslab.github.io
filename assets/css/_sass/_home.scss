@@ -111,25 +111,52 @@
 .home__hero {
 	grid-area: hero;
 	position: relative;
+	padding: 1em 0;
+	font-size: 1rem;
+	font-weight: 900;
+	color: rgba(0,0,0,.5);
+//	background-image: linear-gradient(to bottom, black, rgba(0,0,0,.85));
+	@media screen and (min-width: 600px) {
+		font-size: 1.5rem;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.75rem;
+		line-height: 1.714; // 3rem
+	}
 }
 
 .home-hero__text {
-//	margin-left: 4.167%;
-//	margin-right: 4.167%;
-//	font-family: "base-mono-narrow", monospace;
-	font-size: 1.5rem;
-	font-weight: 300 !important;
-	line-height: 1;
-	margin-bottom: 1em;
-	padding-bottom: 1em;
-//	border-bottom: 3px solid magenta;
+//	margin-bottom: 1em;
+//	padding-bottom: 1em;
 	span {
-		font-weight: 700;
+	//	color: black;
 	}
-	@media screen and (min-width: 600px) {
-//		margin-left: 8.33%;
-//		margin-right: 8.33%;
-		
+	position: relative;
+//	margin: 0 4.167%;
+//	font-family: "base-mono-narrow", monospace;
+	
+	p {
+		margin: 0;
+		padding-bottom: 1em;
+		&:first-of-type {
+			padding-top: 2em;
+		}
+	}
+	@media screen and (max-width: 767px) {
+		padding: 0 2em;
+		border: 2px solid magenta;
+	/*	&::before {
+			content: '';
+			position: absolute;
+			right: 33%;
+			top: 0;
+			display: block;
+			height: 3em;
+			width: 1.5em;
+			border-right: 2px solid magenta;
+			border-left: 2px solid magenta;
+			transform: translate(50%, -50%) skew(-45deg, 0);
+		} */
 	}
 }
 
@@ -137,8 +164,9 @@
 
 .home__contact--1 {
 	grid-area: contact;
-	font-size: 18px;
-	line-height: 24px;
+	@media screen and (min-width: 768px) {
+		font-size: 1.125rem;
+	}
 }
 
 .home-contact__cta {
@@ -149,6 +177,13 @@
 
 .home__faq {
 	grid-area: faq;
+	padding-right: 0;
+	@media screen and (min-width: 600px) {
+		padding-right: 8.33%;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.125rem;
+	}
 }
 
 .home-faq__content {
@@ -157,17 +192,11 @@
 
 .home-faq__subtitle {
 	padding-bottom: 1em;
-	font-size: 18px;
-	line-height: 24px;
-	padding-right: 8.33%;
 }
 
 .home-faq__questions {
 	position: relative;
 	font-family: "base-mono-narrow", monospace;
-	font-size: 18px; //1.25rem
-//	font-weight: 300 !important;
-	line-height: 24px;
 	div {
 		position: relative;
 		margin-bottom: 1em;
@@ -180,7 +209,7 @@
 			display: block;
 			height: 6px;
 			width: 6px;
-		//	background-color: cyan;
+		//	background-color: hsla(186,80%,70%,1);
 			border-radius: 50%;
 
 		}
@@ -188,12 +217,12 @@
 			line-height: 1.5;
 			text-decoration: none;
 			color: black;
-			border-bottom: 2px solid cyan;
+			border-bottom: 2px solid hsla(186,80%,70%,1);
 			background-color: transparent;
 			-webkit-transition: background-color .3s;
 			transition: background-color .3s;
 			&:hover, &:focus {
-				background-color: cyan;
+				background-color: hsla(186,80%,70%,1);
 			}
 		}
 	}
@@ -208,14 +237,18 @@
 
 .home__students {
 	grid-area: grads;
-	padding-right: 8.33%;
-	font-size: 18px;
-	line-height: 24px;
+	padding-right: 0;
 	a {
 		border-bottom: 2px solid rgba(0,47,255,1);
 		&:hover, &:focus {
 			background-color: rgba(0,47,255,1);
 		}
+	}
+	@media screen and (min-width: 600px) {
+		padding-right: 8.33%;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.125rem;
 	}
 }
 
@@ -235,7 +268,8 @@
 	grid-area: floor;
 	position: relative;
 	display: flex;
-	justify-content: space-between;
+	flex-flow: column nowrap;
+	justify-content: flex-start;
 	font-size: 1.75rem;
 	div {
 		img {
@@ -244,6 +278,8 @@
 		}
 	}
 	@media screen and (min-width: 600px) {
+		flex-flow: row nowrap;
+		justify-content: space-between;
 		font-size: 2rem;
 	}
 }
@@ -252,9 +288,13 @@
 
 .home__office-hours {
 	grid-area: hours;
-	font-size: 18px;
-	line-height: 24px;
-	padding-right: 8.33%;
+	padding-right: 0;
+	@media screen and (min-width: 600px) {
+		padding-right: 8.33%;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.125rem;
+	}
 }
 
 .home-hours__when {
@@ -268,7 +308,13 @@
 
 .home__makerspace-corner {
 	grid-area: make;
-	padding-right: 8.33%;
+	padding-right: 0;
+	@media screen and (min-width: 600px) {
+		padding-right: 8.33%;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.125rem;
+	}
 }
 
 .home-makerspace__hours {
@@ -296,19 +342,13 @@
 }
 
 .home-makerspace__text {
-	font-size: 18px;
-	line-height: 1.5rem;
 	margin-top: 1.5rem;
 }
 
 .home-makerspace__cta {
 	a {
-		border-color: magenta;
-	//	border-width: 4px;
-	//	font-weight: 300 !important;
-		color: magenta;
-	//	padding-left: 1em;
-	//	padding-right: 1em;
+		border-color: magenta !important;
+		color: magenta !important;
 	}
 }
 
@@ -316,9 +356,13 @@
 
 .home__gis-corner {
 	grid-area: gis;
-	padding-left: 8.33%;
-	font-size: 18px;
-	line-height: 24px;
+	padding-left:  0;
+	@media screen and (min-width: 600px) {
+		padding-left: 8.33%;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.125rem;
+	}
 }
 
 /* Starter kit corner: */
@@ -337,6 +381,13 @@
 
 .home__listserv-prompt {
 	grid-area: listserv;
+}
+
+.home-listserv__text {
+	padding: 1em 0;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: rgba(0,0,0,.5);
 }
 
 /* Second direct contact: */
