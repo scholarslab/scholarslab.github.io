@@ -19,28 +19,29 @@ I'm starting with a clean install of [Raspbian OS](https://www.raspberrypi.org/d
 
 
 
-## Change Password
+## Step 1: Change Password
 
 
+The very first thing you should always do with clean install of Raspbian OS is change the default password. Bad people on the Internet are looking for Raspberry Pis with default passwords so that they can hack in and take over. It's just always best practice, and common-computer-security-sense to secure your computer with a password only you know. Never settle for the default! :)
 
 ![](http://scholarslab.org/wp-content/uploads/2017/04/2017-04-11-134736_1824x984_scrot-1024x552.png)
 
-Type "passwd", enter the current password "raspberry" (you won't see any text typed), then hit enter.
+To change the password, you can use the Terminal. Open that up and type "passwd", enter the current password "raspberry" (you won't see any text typed), then hit enter.
 
 Now type in a new password (again, you will see no text), hit enter, and type it a second time.
 
+You can also change the password using the graphical interface (as shown in the next steps) on the "System" tab.
 
 
 
 
-## Change Localization Settings
+## Step 2: Change Localization Settings
 
 
 There are two ways to change these settings: 1. using the graphical interface, or 2. the command line. Pick one option and go with it.
 
 
-
-#### 1. Graphical
+#### 2.1. Graphical
 
 
 ![](http://scholarslab.org/wp-content/uploads/2017/04/2017-04-11-135248_1824x984_scrot-1024x552.png)
@@ -56,7 +57,8 @@ For our purposes, you need to set the WiFi to "US".
 Don't restart the system, yet. We have more to do.
 
 
-#### 2. Command Line
+
+#### 2.2. Command Line
 
 
 ![](http://scholarslab.org/wp-content/uploads/2017/04/2017-04-11-143004_1824x984_scrot-1024x552.png)
@@ -68,14 +70,51 @@ Don't restart the system yet. We have more to do.
 
 
 
-## Edit System Config
+
+## Step 3: Edit System Config
 
 
-Change the
+The newest Raspbian OS (Stretch) changed the way the network is handled, so pick the "Stretch" or "Pre-Stretch" (like Jessie, and before) options as necessary.
 
-[code]/etc/network/interfaces[/code]
 
-file. You'll need to open the file with root privileges, so we'll use the terminal to open a program for editing the file.
+
+#### 3.1. Stretch
+
+
+Change the [code]/etc/wpa_supplicant/wpa_supplicant.conf[/code] file. You'll need to open the file with root privileges, so we'll use the terminal to open a program for editing the file.
+
+In the Terminal, type in:
+
+[code]sudo leafpad /etc/wpa_supplicant/wpa_supplicant.conf[/code]
+
+There should only be three lines in there now. We'll add some lines to let the network system know about the hidden ESSID. The file should now look like this:
+
+[code]
+country=US
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+
+network={
+ ssid="wahoo"
+ scan_ssid=1
+ key_mgmt=NONE
+}
+[/code]
+
+The code is pretty self explanatory. 
+
+The "ssid" is the hidden wahoo.
+The "scan_ssid" does a direct Probe Request which is required when a network hides the ssid.
+The "key_mgmt" line lets the network know that there is no password required. UVA's wahoo network is secured by only allowing a registered MAC address onto the network. You'll be doing this in Step 4.
+
+Save and close that file and you're just about done. Continue on to Step 4.
+
+
+
+#### 3.2. Pre-Stretch
+
+
+Change the [code]/etc/network/interfaces[/code] file. You'll need to open the file with root privileges, so we'll use the terminal to open a program for editing the file.
 
 In the terminal, type in:
 
@@ -122,12 +161,8 @@ iface wlan0 inet dhcp
 
 
 
-## 
 
-
-
-
-## Get WiFi MAC Address
+## Step 4: Get WiFi MAC Address
 
 
 While you have the Raspberry Pi on and the terminal open. Grab the MAC address for the wireless card.

@@ -9,6 +9,8 @@ categories:
 - Job Announcements
 ---
 
+_Note: Applications for the Senior Developer role have closed. [Welcome to new Scholars' Lab Senior Developer Shane Lin](http://scholarslab.org/announcements/welcome-senior-developer-shane-lin/)!_
+
 We're very excited that Managing Director Amanda Visconti and Head of Graduate Programs Brandon Walsh will be on board by April 24. And we are rebuilding our research team at a time when DH@UVA and a new Certificate in DH will be coming into clearer focus! Please spread the word of [this newest job posting for a Senior Developer at the Scholars' Lab](http://jobs.virginia.edu/applicants/Central?quickFind=81600). (_In case that link doesn't work, you can visit [hr.virginia.edu](http://www.hr.virginia.edu/), click "Jobs", and search for staff posting 0620730_). A description of the role follows:
 
 The University of Virginia Library is the hub of a lively and growing community of practice in technology and the humanities, arts, and social sciences. As part of that community, the Scholars' Lab has risen to international pre-eminence as a library-based center for digital humanities.

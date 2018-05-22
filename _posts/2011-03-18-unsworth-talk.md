@@ -10,7 +10,7 @@ tags:
 - speaker series
 ---
 
-The UVa Digital Humanities Speaker Series presents:
+The UVa Digital Humanities Speaker Series presents: 
 
 
 ### John Unsworth on "Idiosyncrasy at Scale: Data Curation in the Humanities"

@@ -17,7 +17,7 @@ tags:
 - TEI
 ---
 
-Our NEH-funded [Neatline](/research/neatline/) project has inspired the [Scholars' Lab](http://lib.virginia.edu) to develop or enhance several new [Omeka](http://www.omeka.org) plugins recently. (See our full [list](/research/omeka-plugins/).)
+Our NEH-funded [Neatline](http://www.scholarslab.org/projects/neatline/) project has inspired the [Scholars' Lab](http://lib.virginia.edu) to develop or enhance several new [Omeka](http://www.omeka.org) plugins recently. (See our full [list](http://www.scholarslab.org/projects/omeka-plugins/).)
 
 One of these is [FedoraConnector](http://omeka.org/codex/Plugins/FedoraConnector), which is designed to enable administrators to attach Fedora datastreams (a digital object -- whether image, XML like TEI or EAD, or video) to Omeka items.  This is fundamentally different from attaching files to an item--the datastream is not duplicated and stored within Omeka's archive.  Rather, a reference to the Fedora object (PID) is stored within a new table in the Omeka database that associates the item with the URL of the datastream that is accessed (and rendered) with Fedora's REST API.  The plugin also supports importing Dublin Core and MODS metadata into the DC Element Set in Omeka.  The importers can be extended to map from any metadata standard into DC.
 

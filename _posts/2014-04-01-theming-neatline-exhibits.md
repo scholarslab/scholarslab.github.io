@@ -52,7 +52,7 @@ Neatline themes consist of just four files: **`style.css`**, **`script.js`**, **
 
 
 
-Use **`style.css`** to add custom CSS to the exhibit. Neatline loads this as the last stylesheet on the page, after the Omeka CSS and after the CSS provided by the Neatline core (which, if you want, can be omitted from the page by providing a custom **`show.php`** template - see below). **`style.css`** can be anything from a handful of simple rules to change fonts or colors up to a complete redesign of the page.
+Use **`style.css`** to add custom CSS to the exhibit. Neatline loads this as the last stylesheet on the page, after the Omeka CSS and after the CSS provided by the Neatline core (which, if you want, can be omitted from the page by providing a custom **`show.php`** template - see below). **`style.css`** can be anything from a handful of simple rules to change fonts or colors up to a complete redesign of the page. 
 
 
 

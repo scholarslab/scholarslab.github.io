@@ -22,7 +22,7 @@ Here's the basic system, as outlined in [the introductory video](https://youtu.b
 
 The symbol set is what makes these daily calendar pages easy to scan and mentally parse: squares for tasks, circles for meetings/appointments, an exclamation point for inspiration/short notes, an eye for notes about topics you want to explore more deeply.
 
-These basic shapes can be annotated with stars or asterisks to indicate priority items. I added a symbol to mark personal items, so that I can combine my personal and work to do lists. With the symbol, I am able to easily find the items I need to based on where I am. Filling in half of the square on the diagonal marks partially done tasks. Any item that becomes irrelevant is struck through with a line.
+These basic shapes can be annotated with stars or asterisks to indicate priority items. I added a symbol to mark personal items, so that I can combine my personal and work to do lists. With the symbol, I am able to easily find the items I need to based on where I am. Filling in half of the square on the diagonal marks partially done tasks. Any item that becomes irrelevant is struck through with a line. 
 
 At the end of the month, per the instructions from bulletjournal.com, mark through any tasks that have become irrelevant, place an arrow in the boxes for tasks that are moving forward to the next month, and update your index page.
 

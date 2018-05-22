@@ -23,7 +23,7 @@ While this is kind of a nasty bit of JavaScript, it (somewhat) abstracts the Obj
 
 [gist id="5830678" file="gistfile2.html"]
 
-At the time, the [WHATWG specifications for audio](http://www.whatwg.org/specs/web-apps/current-work/) were still pretty nascent, and didn't have a lot of actual implementation saturation in browsers. At the time (late 2000s), the approach of using a third-party plugin to provide "advanced" interaction with a media element was pretty much the only game in town.
+At the time, the [WHATWG specifications for audio](http://www.whatwg.org/specs/web-apps/current-work/) were still pretty nascent, and didn't have a lot of actual implementation saturation in browsers. At the time (late 2000s), the approach of using a third-party plugin to provide "advanced" interaction with a media element was pretty much the only game in town. 
 
 As with any project that relies on web technology, eventually things start to break, or just flat-out not work on devices that can access the Internet (e.g. mobile). Browsers have been in a war with each other for speed, implementation of "standards", and market share. This has been a real boon for users as it has allowed developers to really push what the web is capable of as a run-time environment. Unfortunately for the Faulkner audio, the code got to the point where the approach stopped functioning consistently across all desktop browsers (interestingly, Chrome seemed to manifest this issue most consistently), and oh yeah, there are those iOS-based mobile devices that can't play this either.
 
@@ -91,7 +91,7 @@ When I was writing my book on developing HTML5 games, I ran across a great artic
 
 Since I wanted to see how well this would work, and not necessarily write a library to support this, I used the [howler.js](http://badassjs.com/post/41873438322/howler-js-a-cross-browser-javascript-audio-playback) library which has support for audio sprites. Back to the XSLT.
 
-The `howler.js` API defines sprites by names to allow you to refer to then as variables in your code (again, it's written for developing games). It also wants you to (in milliseconds) tell it where to start playing, and for how long to play. Ugh, my start and end times are in `hh:mm:ss.s` format. I wrote a quick function to explode the timestamps and add them together as milliseconds (actually this is a bit off, but I didn't spend the time to work in the actual conversion units, but I wanted to see if this is going to work before I put that time in).
+The `howler.js` API defines sprites by names to allow you to refer to then as variables in your code (again, it's written for developing games). It also wants you to (in milliseconds) tell it where to start playing, and for how long to play. Ugh, my start and end times are in `hh:mm:ss.s` format. I wrote a quick function to explode the timestamps and add them together as milliseconds (actually this is a bit off, but I didn't spend the time to work in the actual conversion units, but I wanted to see if this is going to work before I put that time in). 
 
 [gist id="5830678" file="timeToMilliseconds.xsl"]
 
@@ -114,7 +114,7 @@ With a little JavaScript, I take a look at the DOM and construct an audio elemen
 
 [iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"]
 
-So the final product results in this, which has an animation to remove the icon, replacing it with the native audio playbar:
+So the final product results in this, which has an animation to remove the icon, replacing it with the native audio playbar: 
 
 [iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"]
 
@@ -132,7 +132,7 @@ After getting the proper transcoding libraries installed, I wrote a quick bash s
 
 [gist id="5830678" file="transcode_ogg.sh"]
 
-After this ran (it took a few hours), I had a complete set of MP3 and OggVorbis files for the project.
+After this ran (it took a few hours), I had a complete set of MP3 and OggVorbis files for the project. 
 
 
 

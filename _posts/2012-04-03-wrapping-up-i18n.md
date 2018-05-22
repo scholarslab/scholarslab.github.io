@@ -21,14 +21,14 @@ Hard links were a completely different matter. Thus far, I was only able to find
 
 ## on app/views/layouts/_header.html.erb
 [html gutter="false"]
-&lt;p class=&quot;description&quot;&gt;&lt;%= t 'header.description_html',
-:about_url =&gt; url_for(:controller =&gt; 'pages', :action =&gt;
+&lt;p class=&quot;description&quot;&gt;&lt;%= t 'header.description_html', 
+:about_url =&gt; url_for(:controller =&gt; 'pages', :action =&gt; 
 'about') %&gt;&lt;/p&gt;[/html]
   
 
 ## on the config/locales yml files
 [html gutter="false"]
    description: &gt;
-      Prism es un conjunto de herramientas que sirven
+      Prism es un conjunto de herramientas que sirven 
       para &lt;a href='%{about_url}'&gt;colectivizar la
       interpretación &lt;/a&gt;de textos... [/html]

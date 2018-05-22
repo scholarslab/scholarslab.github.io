@@ -19,11 +19,11 @@ A [PDF of the presentation](http://uvasci.org/wp-content/uploads/2012/09/SurveyR
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.001.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.001.jpg)
 
-I’m thrilled to have the opportunity to present some of the early findings from the Scholarly Communication Institute’s recent study on perceptions of career preparation in humanities graduate programs.
+I’m thrilled to have the opportunity to present some of the early findings from the Scholarly Communication Institute’s recent study on perceptions of career preparation in humanities graduate programs. 
 
 The impetus for this study came from recommendations made at [SCI’s ninth summer meeting in 2011](http://uvasci.org/past-institutes/new-model-scholarly-communication/), where rethinking graduate education emerged as one of the critical priorities for the current humanities landscape. The study complements the series of meetings SCI is hosting this year and next, of which this meeting is the first. The primary goal of the study is to move from anecdote to data in the conversation about alternative academic careers and career preparation, in hopes of providing a body of data that can help support programs wishing to modify their graduate curricula.   We finished collecting data at the beginning of October, so the analysis is not complete, but already raises some provocative questions.
 
-We were very pleased with the number of responses that we received. At the same time, the response rate also highlighted an important discrepancy.
+We were very pleased with the number of responses that we received. At the same time, the response rate also highlighted an important discrepancy. 
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.002.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.002.jpg)
 
@@ -33,7 +33,7 @@ We set an initial goal of 200 responses on the main survey, and 100 on the emplo
 
 I’d like to jump straight into some of our findings, many of which will not come as a surprise -- but again, the goal was to get numbers to back up the general sense that many of us have about these questions.
 
-[![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.003.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.003.jpg)
+[![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.003.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.003.jpg) 
 
 First, a large majority of students enter graduate school expecting to pursue careers as professors -- a total of 74%. What is perhaps more interesting is their level of confidence: of that 74%, 80% report feeling fairly certain or completely certain that this was the career they would pursue. These expectations are not at all aligned with the current realities of the academic job market.
 
@@ -47,15 +47,15 @@ Deepening the problem, students report receiving little or no preparation for ca
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.004.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.004.jpg)
 
-Only 18% reported feeling satisfied or very satisfied with the preparation they received for alternative academic careers. The responses are rooted in perception, so there may be resources available that students are not taking advantage of -- but whatever the reason, the bottom line is that students do not feel that they are being adequately prepared. Again, this probably comes as no surprise, but we have significant room for improvement.
+Only 18% reported feeling satisfied or very satisfied with the preparation they received for alternative academic careers. The responses are rooted in perception, so there may be resources available that students are not taking advantage of -- but whatever the reason, the bottom line is that students do not feel that they are being adequately prepared. Again, this probably comes as no surprise, but we have significant room for improvement. 
 
-This raises additional questions:
+This raises additional questions: 
 
 --Are faculty adequately prepared to provide the kinds of advice that students need?
 --Should they be?
 --If it’s not the faculty’s role, then whose role is it? Perhaps alumni or third-party service providers could fill the gap; if so, what are the trade-offs of outsourcing these kinds of preparatory roles to organizations or individuals outside of departments?
 
-Along with questions that asked people to choose from pre-selected options, we also included a number of open-ended questions. The survey tapped into what can be an intensely emotional topic, and the wide range of responses we received suggests that people felt comfortable being candid.
+Along with questions that asked people to choose from pre-selected options, we also included a number of open-ended questions. The survey tapped into what can be an intensely emotional topic, and the wide range of responses we received suggests that people felt comfortable being candid. 
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.005.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.005.jpg)
 
@@ -67,25 +67,25 @@ Below is another sampling of the kinds of responses we received in the open-ende
 
 We received a wide range of practical suggestions, too, such as offering more one-off workshops; including short credit or non-credit courses; and connecting students with alumni working in varied positions. It’s worth noting that while many were skeptical about even the possibility of creating a meaningful cultural change, they emphasized that for sustainable change to occur at all, it is important that it comes from within existing structures if it is to be perceived as valid.
 
-One thing seems clear: the persistent myth that there is nothing but a single academic job market available to graduates is damaging, and extricating graduate education from the expectation of tenure-track employment has the potential to benefit students, institutions, and the health of the humanities more broadly. However, as long as norms are reinforced within departments -- by faculty and students both -- it will be difficult for any change to be effective.
+One thing seems clear: the persistent myth that there is nothing but a single academic job market available to graduates is damaging, and extricating graduate education from the expectation of tenure-track employment has the potential to benefit students, institutions, and the health of the humanities more broadly. However, as long as norms are reinforced within departments -- by faculty and students both -- it will be difficult for any change to be effective. 
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.007.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.007.jpg)
 
-Low tenure-track employment rates are not a new problem, but as the responses on the previous slides show, departments are not succeeding at providing accurate and realistic information to their students.
+Low tenure-track employment rates are not a new problem, but as the responses on the previous slides show, departments are not succeeding at providing accurate and realistic information to their students. 
 
-Perceived reputational risk is a significant roadblock to increased transparency regarding post-graduate career paths. A common refrain among the respondents was a call to collect and publicize employment data. However, departments have little incentive to collect this information, and even less motivation to make it public, especially if they think it makes them appear unfavorable relative to peer departments.
+Perceived reputational risk is a significant roadblock to increased transparency regarding post-graduate career paths. A common refrain among the respondents was a call to collect and publicize employment data. However, departments have little incentive to collect this information, and even less motivation to make it public, especially if they think it makes them appear unfavorable relative to peer departments. 
 
-Are departments the only groups who can collect this kind of information? If they are, how can we change the incentives such that departments find it advantageous to publicize all types of employment among their graduates?
+Are departments the only groups who can collect this kind of information? If they are, how can we change the incentives such that departments find it advantageous to publicize all types of employment among their graduates? 
 
-Turning now to the employer survey: while we haven’t yet done rigorous analysis on the qualitative responses, I did want to give a taste of the [kinds of things employers indicate they would like to see](http://voyant-tools.org/tool/Cirrus/?corpus=1349209004700.8841&query=&stopList=1349209160421tm&docIndex=0&docId=d1349152549808.99d49c85-d13a-55c1-5c29-4962216214bf).
+Turning now to the employer survey: while we haven’t yet done rigorous analysis on the qualitative responses, I did want to give a taste of the [kinds of things employers indicate they would like to see](http://voyant-tools.org/tool/Cirrus/?corpus=1349209004700.8841&query=&stopList=1349209160421tm&docIndex=0&docId=d1349152549808.99d49c85-d13a-55c1-5c29-4962216214bf). 
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.008.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.008.jpg)
 
-First, some specific skills come up frequently, including project management, the ability to work with and manage people, collaboration, and written and verbal communication with a variety of audiences.
+First, some specific skills come up frequently, including project management, the ability to work with and manage people, collaboration, and written and verbal communication with a variety of audiences. 
 
 In addition, employers mention a number of broader aptitudes, like a commitment to public engagement, general work experience outside of academia, and an ability to adjust to the culture of different types of workplaces. Many employers placed high value on these employees’ understanding of academic structures and environments, but in order to serve as the valuable cultural translators that they could be, employees with graduate training also need to be sensitive to the ways in which academic environments differ from other workplace cultures. For those that graduate without limited (or no) outside work experience, the gap can be very challenging to bridge.
 
-While I’ve only scratched the surface of the study’s findings, I’d like to shift gears in order to highlight what we hope will be the first of many concrete actions to come of this study: the development of the Praxis Network.
+While I’ve only scratched the surface of the study’s findings, I’d like to shift gears in order to highlight what we hope will be the first of many concrete actions to come of this study: the development of the Praxis Network. 
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.009.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.009.jpg)
 
@@ -93,19 +93,19 @@ This is a network of several existing programs that are focusing on innovative m
 
 In addition to the Praxis Program, we are currently working with Ethan Watrall at the [Cultural Heritage Informatics Initiative](http://chi.anthropology.msu.edu/); Matt Gold with the [CUNY Digital Humanities Initiative](http://cunydhi.commons.gc.cuny.edu/); Claire Warwick and Melissa Terras at [UCL’s Centre for Digital Humanities](http://www.ucl.ac.uk/dh/courses/mamsc); and Bill Pannapacker with the [Hope College Mellon Scholars](http://www.hope.edu/academic/mellon/) program. The participating programs may fluctuate somewhat, but the intention is to keep the network small -- more as a showcase than a comprehensive directory.
 
-I’d like to circle back briefly to discuss our methods. First, the [study had two main phases](http://mediacommons.futureofthebook.org/alt-ac/who-we-are): so far, I’ve focused on the second, confidential phase. The first phase was public.
+I’d like to circle back briefly to discuss our methods. First, the [study had two main phases](http://mediacommons.futureofthebook.org/alt-ac/who-we-are): so far, I’ve focused on the second, confidential phase. The first phase was public. 
 
-In order to scope out the terrain of individuals to include in the survey, the first phase involved creating a [public database](http://altacademy.wufoo.com/reports/who-we-are/) where people comfortable enough to publicly identify as “alt-ac” practitioners could add their names to form a loose community of peers.
+In order to scope out the terrain of individuals to include in the survey, the first phase involved creating a [public database](http://altacademy.wufoo.com/reports/who-we-are/) where people comfortable enough to publicly identify as “alt-ac” practitioners could add their names to form a loose community of peers. 
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.010.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.010.jpg)
 
-We built the database within the framework of the [#alt-academy](http://mediacommons.futureofthebook.org/alt-ac/) project in order to leverage the energy of existing conversations. “Alt-ac” may not be a perfect moniker, but it has created a space to talk about careers that are not quite what most people envision as academic careers (within the professoriate), but that are not completely outside the academic sphere, either. Many people have found it to be an incredibly useful umbrella term, and have used it to talk about the kinds of intellectually stimulating careers that can be found outside the professoriate.
+We built the database within the framework of the [#alt-academy](http://mediacommons.futureofthebook.org/alt-ac/) project in order to leverage the energy of existing conversations. “Alt-ac” may not be a perfect moniker, but it has created a space to talk about careers that are not quite what most people envision as academic careers (within the professoriate), but that are not completely outside the academic sphere, either. Many people have found it to be an incredibly useful umbrella term, and have used it to talk about the kinds of intellectually stimulating careers that can be found outside the professoriate. 
 
 We were pleased with the initial turnout, and found that people were engaging more deeply than expected. It’s worth noting that even though the database has been open for a much longer period of time than the survey was (and it [remains open to new entries](http://altacademy.wufoo.com/forms/who-we-are/) now), far fewer people participated in the public space than in the confidential survey space. To me, this suggests that there is still a sense of discomfort -- and even shame -- about having pursued a job outside the traditional pipeline.
 
 Once we launched the surveys themselves, we used this public group as an initial body of potential respondents. Because we were working with an unknown population, our subsequent distribution focused on “opt-in” strategies—social media, word of mouth, listervs, and traditional media coverage. While this method has definite weaknesses, we hoped to learn something not only from the content of the responses, but from the number and type of respondents.
 
-One reason this study was important because even though the topic is deeply connected with other persistent issues in higher education, there were significant gaps in the data available from previous studies.
+One reason this study was important because even though the topic is deeply connected with other persistent issues in higher education, there were significant gaps in the data available from previous studies. 
 
 [![](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.011.jpg)](http://katinarogers.com/wp-content/uploads/2012/11/SurveyReport_22OCT12_web.011.jpg)
 
@@ -130,7 +130,7 @@ As the discussion on rethinking methodological training continues, I hope you’
 _References_
 Council of Graduate Schools. Pathways Through Graduate School and Into Careers. 2012. <[http://pathwaysreport.org/](http://pathwaysreport.org/)>
 
-“Doctorate Recipients from U.S. Universities: 2010.” Based on data from the Survey of
+“Doctorate Recipients from U.S. Universities: 2010.” Based on data from the Survey of 
 Earned Doctorates. National Science Foundation, June 2012. <[http://www.nsf.gov/statistics/sed/](http://www.nsf.gov/statistics/sed/)>
 
 Nerad, Maresi, and Joseph Cerny. “PhDs: Ten Years Later.” Center for Innovation and Research in Graduate Education, University of Washington; 1996. <[http://depts.washington.edu/cirgeweb/c/research/phd-career-path-surveys/phds-ten-years-later/](http://depts.washington.edu/cirgeweb/c/research/phd-career-path-surveys/phds-ten-years-later/)>
@@ -138,7 +138,7 @@ Nerad, Maresi, and Joseph Cerny. “PhDs: Ten Years Later.” Center for Innovat
 Nerad, Maresi, and Joseph Cerny. “From Rumors to Facts: Career Outcomes of English PhDs.” ADE bulletin 32.7 (1999): 11. <[http://www.mla.org/bulletin_124043](http://www.mla.org/bulletin_124043)>
 
 _Photo Credits_
-Slide 1: “[Pipeline](http://www.flickr.com/photos/stigwaage/3218127924/)” by stigwaage
+Slide 1: “[Pipeline](http://www.flickr.com/photos/stigwaage/3218127924/)” by stigwaage 
 Slide 7: “[Pencils](http://www.flickr.com/photos/ellebeere/4605043024/sizes/l/in/photostream/)” by Elle *
 Slide 11: “[He Didn’t ‘Mind the Gap’](http://www.flickr.com/photos/scottrsmith/4950869263/)” by Scott Smith
 Slide 12: “[Fenced In Part 2](http://www.flickr.com/photos/gomattolson/4821079720/)” by gomattolson

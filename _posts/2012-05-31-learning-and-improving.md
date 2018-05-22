@@ -111,7 +111,7 @@ Manuel suggested merging the three functions together to get this:
   "
   ([stemmer]
     (m stemmer 0 0))
-
+  
   ([stemmer num-c num-cs]
     (if (not (seq (:word stemmer))) ; Is the word empty? Then we reached the beginning of the stemmer
       (if (> num-c 1)               ; THEN1: More than 2 consonants in current counting?

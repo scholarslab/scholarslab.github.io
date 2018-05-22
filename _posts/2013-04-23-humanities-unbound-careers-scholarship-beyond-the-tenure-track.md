@@ -15,13 +15,13 @@ tags:
 
 _[Cross-posted from [my personal site](http://wp.me/p2CaGd-hm).]
 
-I’ve had the privilege of talking about graduate education reform and career preparation for humanities scholars at several universities this spring, including Stanford, NYU, and the University of Delaware. I’ve adapted the following from those presentations. The full dataset from the study that I discuss will be available later this summer, along with a more formal report.
+I’ve had the privilege of talking about graduate education reform and career preparation for humanities scholars at several universities this spring, including Stanford, NYU, and the University of Delaware. I’ve adapted the following from those presentations. The full dataset from the study that I discuss will be available later this summer, along with a more formal report. 
 
 Already familiar with the background of this project? Jump straight to the survey results._
 
 ![HumanitiesUnbound_APR13.001](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.001.jpg) [_Image source_](http://www.flickr.com/photos/9619972@N08/2232446869/)
 
-Graduate students in the humanities thinking about their future careers face a fundamental incongruity: though humanities scholars thrive in a wide range of positions, many graduate programs operate as though every PhD student will become a tenured professor. While the disconnect between the number of tenure-track jobs available and the single-minded focus with which graduate programs prepare students for that specific career is not at all new, the problem is becoming ever more urgent due to the increasing casualization of academic labor, as well as the high levels of debt that many students bear once they complete their degrees.
+Graduate students in the humanities thinking about their future careers face a fundamental incongruity: though humanities scholars thrive in a wide range of positions, many graduate programs operate as though every PhD student will become a tenured professor. While the disconnect between the number of tenure-track jobs available and the single-minded focus with which graduate programs prepare students for that specific career is not at all new, the problem is becoming ever more urgent due to the increasing casualization of academic labor, as well as the high levels of debt that many students bear once they complete their degrees. 
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ Before I say anything more, though, I'd like to dispel a couple of associations 
 
 ![HumanitiesUnbound_APR13.002](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.002.jpg) _Source: [image one](http://www.flickr.com/photos/quinet/7201343000/); [image two](http://www.flickr.com/photos/31878512@N06/3889347802/)_
 
-First, I don’t intend to compare the humanities as a discipline to Prometheus, though at times the angst of the job market may make it feel like an apt image.
+First, I don’t intend to compare the humanities as a discipline to Prometheus, though at times the angst of the job market may make it feel like an apt image. 
 
 I also don’t mean to imply that the humanities are unraveling, though there is a useful connection to be made with that language. You may recall a recent article in the Chronicle of Higher Education by Michael Bérubé, past president of the Modern Language Association, which was called “[Humanities Unraveled](http://chronicle.com/article/Humanities-Unraveled/137291/).” In the article, Bérubé refers to the humanities as “a seamless garment of crisis”—noting that every element, from the dissertation, to scholarly publishing, to time-to-degree, to labor issues, are so deeply interrelated and in such advanced states of disrepair that it feels impossible to pull on one thread without the entire system coming apart. Bérubé’s article does an excellent job of showing the ways in which these elements fit together, and why it’s imperative that we not lose sight of the system as a whole and the many points of intersection as we work to find solutions.
 
@@ -57,11 +57,11 @@ The term was coined—more or less accidentally—in a 2009 [Twitter conversatio
 
 Because the term is _not at all formal_, it means different things to different people. While the concept is something that people are eager to talk about, and while the term itself has both expanded in meaning and proven useful beyond what was initially imagined, there’s also a certain degree of discomfort with the phrase. Some find that it perpetuates an unfortunate (and false) binary of career options or reinforces the primacy of tenure-track employment—which, of course, is exactly what it was meant to alleviate. Others simply don’t find that the term resonates for them, considering it too narrow, or redundant with existing categories. Still others have expressed concern that #alt-ac is being held up as an unrealistic panacea for the perpetually abysmal academic job market, yet without necessarily creating new jobs.
 
-All of these are valid critiques, and really, I would love it if the term became unncessary and we could simply speak of career choices without the looming dominance of the tenure track. Until that day comes, I tend to take a broad view of what “alt-ac” can signify, and I’ll continue to use it here as shorthand for a wide variety of career paths. I’m actually quite comfortable with the unsettled nature of the term, as I think that it helps us to continue having useful and important conversations. I highlight the disagreement just to say that because of the differing understandings of the term, before we could even begin to study the various constellations of alternative academic careers, we needed a better idea of who felt that the terminology resonated with the kind of work they were doing.
+All of these are valid critiques, and really, I would love it if the term became unncessary and we could simply speak of career choices without the looming dominance of the tenure track. Until that day comes, I tend to take a broad view of what “alt-ac” can signify, and I’ll continue to use it here as shorthand for a wide variety of career paths. I’m actually quite comfortable with the unsettled nature of the term, as I think that it helps us to continue having useful and important conversations. I highlight the disagreement just to say that because of the differing understandings of the term, before we could even begin to study the various constellations of alternative academic careers, we needed a better idea of who felt that the terminology resonated with the kind of work they were doing. 
 
 To get a sense of what others mean by “alt-ac”, we took the exploratory step of creating a [public database](http://altacademy.wufoo.com/reports/who-we-are/) where people could voluntarily add their names to a loose, public community of other alt-ac practitioners. We built the database within the framework of the #Alt-Academy project in order to leverage the energy of existing conversations, then stepped back to see what the results would be. We quickly had over two hundred and fifty entries from individuals in many different positions. Browsing the database is a great starting point for grad students or others who want to see the kinds of work that humanists are doing in the world. It’s still open to new entries, so feel free to check it out and [add your own name](http://altacademy.wufoo.com/forms/who-we-are/) if you think of your work along these lines.
 
-Once we created the database, we moved on to the second, more formal phase of the study, which included two confidential surveys. The primary survey targeted people with advanced humanities degrees who self-identify as working in alternative academic careers—precisely the people who identified themselves in the database, and we so we used the database as an initial source of potential respondents. The secondary survey targeted employers that oversee people with advanced humanities degrees. By questioning both, we were able to gain a more well-rounded perspective that balances some of the challenges inherent in self-reported answers.
+Once we created the database, we moved on to the second, more formal phase of the study, which included two confidential surveys. The primary survey targeted people with advanced humanities degrees who self-identify as working in alternative academic careers—precisely the people who identified themselves in the database, and we so we used the database as an initial source of potential respondents. The secondary survey targeted employers that oversee people with advanced humanities degrees. By questioning both, we were able to gain a more well-rounded perspective that balances some of the challenges inherent in self-reported answers. 
 
 A couple of things about the response rate highlighted important discrepancies. We set an initial goal of 200 responses on the main survey, and 100 on the employer survey. Responses to the main survey totaled nearly 800 when we closed it, for almost four times our goal.
 
@@ -72,7 +72,7 @@ Interestingly, this is a much higher number than the public database saw, despit
 The employer survey, on the other hand, attracted far fewer responses, totaling around 75. This is a significant finding in itself, as it shows a pronounced disconnect between the motivations of job seekers compared to employers in thinking through the issues at hand. The questions of career paths and graduate education reform are understandably much more urgent for those that have gone through the process and made any number of difficult decisions.
 
 
-Now, to turn to the data.
+Now, to turn to the data. 
 
 Much of the data from the surveys will be unsurprising to people who have already been thinking about these questions. As we might anticipate, people report entering graduate school expecting to become professors; they receive very little advice or training for any other career; and yet many different circumstances lead them into other paths. But even if the broad contours of the results are unsurprising, the specific data is useful to ground the general anecdotal impressions that many of us have long shared. Indeed, one of the primary goals of the survey is to help move the conversation from anecdote to data.
 
@@ -84,25 +84,25 @@ What is perhaps more interesting is their level of confidence: of that 74%, 80% 
 
 ![HumanitiesUnbound_APR13.011](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.011.jpg)
 
-Keep in mind that because we targeted alt-ac practitioners, _none_ of the survey respondents are tenured or tenure-track professors; they are _all_ working in other domains. So even among the body of people who are working in other roles, the clear expectation at the outset of graduate school was for a future career as a professor.
+Keep in mind that because we targeted alt-ac practitioners, _none_ of the survey respondents are tenured or tenure-track professors; they are _all_ working in other domains. So even among the body of people who are working in other roles, the clear expectation at the outset of graduate school was for a future career as a professor. 
 
-These expectations are not at all aligned with the realities of the academic job market, and they haven’t been for some time. The labor equation for university teaching has continued to shift dramatically in recent years, with non-tenure-track and part-time labor constituting a [majority of instructional roles](http://www.aaup.org/NR/rdonlyres/7C3039DD-EF79-4E75-A20D-6F75BA01BE84/0/Trends.pdf). The [2011 report on the Survey of Earned Doctorates](http://www.nsf.gov/statistics/sed/digest/2011/) reported another alarming statistic: 43% of humanities PhD recipients have _no_ job or postdoctoral commitment on graduation—and that’s for any commitment, including temporary or contingent positions. Many graduate students begin their studies without a clear picture of their future employment prospects. What this signals to me is that we are failing at bringing informed students into the graduate education system.
+These expectations are not at all aligned with the realities of the academic job market, and they haven’t been for some time. The labor equation for university teaching has continued to shift dramatically in recent years, with non-tenure-track and part-time labor constituting a [majority of instructional roles](http://www.aaup.org/NR/rdonlyres/7C3039DD-EF79-4E75-A20D-6F75BA01BE84/0/Trends.pdf). The [2011 report on the Survey of Earned Doctorates](http://www.nsf.gov/statistics/sed/digest/2011/) reported another alarming statistic: 43% of humanities PhD recipients have _no_ job or postdoctoral commitment on graduation—and that’s for any commitment, including temporary or contingent positions. Many graduate students begin their studies without a clear picture of their future employment prospects. What this signals to me is that we are failing at bringing informed students into the graduate education system. 
 
-But whose responsibility is it to provide information about career prospects? It seems clear to me that it’s something that must be addressed _before_ graduate education begins, and then reiterated in the admissions process and throughout the program, ideally by a trusted advisor. To be honest, I see this as an ethical issue: it is deeply problematic to admit students to a program if their expectations for the program’s outcome are not accurate. This is even more true if students are admitted to unfunded positions and must incur debt as they earn their degrees.
+But whose responsibility is it to provide information about career prospects? It seems clear to me that it’s something that must be addressed _before_ graduate education begins, and then reiterated in the admissions process and throughout the program, ideally by a trusted advisor. To be honest, I see this as an ethical issue: it is deeply problematic to admit students to a program if their expectations for the program’s outcome are not accurate. This is even more true if students are admitted to unfunded positions and must incur debt as they earn their degrees. 
 
-Deepening the problem, students report receiving little or no preparation for careers outside the professoriate, even though we’re at a moment when the need for information about a variety of careers is most acute. Only 18% reported feeling satisfied or very satisfied with the preparation they received for alternative academic careers.
+Deepening the problem, students report receiving little or no preparation for careers outside the professoriate, even though we’re at a moment when the need for information about a variety of careers is most acute. Only 18% reported feeling satisfied or very satisfied with the preparation they received for alternative academic careers. 
 
 ![HumanitiesUnbound_APR13.012](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.012.jpg)
 
-The responses are rooted in perception, so there may be resources available that students are not taking advantage of—but whatever the reason, they do not feel that they are being adequately prepared. Again, this probably comes as no surprise, but it does reveal that we have significant room for improvement.
+The responses are rooted in perception, so there may be resources available that students are not taking advantage of—but whatever the reason, they do not feel that they are being adequately prepared. Again, this probably comes as no surprise, but it does reveal that we have significant room for improvement. 
 
-Many programs have access to two rich resources that they leave untapped: their own staff, and their own graduates.
+Many programs have access to two rich resources that they leave untapped: their own staff, and their own graduates. 
 
 ![HumanitiesUnbound_APR13.013](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.013.jpg)[_Image source_](http://www.flickr.com/photos/tumblingrun/6271299222/sizes/l/)
 
 An easy first step for universities to take would be to list all of their non-professorial staff members that hold PhDs. Stanford has done something like this, compiling information about people in the Stanford system (including the Press and Libraries) that are willing to serve as [mentors for humanities graduate students](http://shc.stanford.edu/phd-mentors/). Stanford has also developed a [speaker series](http://vpge.stanford.edu/students/altacseries.html) that highlights scholars working in hybrid and non-faculty roles on campus.
 
-Tracking graduates is a little more complicated, but no less important. There may be confidentiality issues involved, but there are surely ways that positions could be reported in aggregate and supplemented with a few individual examples. The more significant hurdle is that because prestige continues to be linked to tenure-track placement rate, many programs either do not track the careers of anyone outside this category, or if they do, they do not publish the information they have for fear (I suspect) of tarnishing their reputation relative to other schools.
+Tracking graduates is a little more complicated, but no less important. There may be confidentiality issues involved, but there are surely ways that positions could be reported in aggregate and supplemented with a few individual examples. The more significant hurdle is that because prestige continues to be linked to tenure-track placement rate, many programs either do not track the careers of anyone outside this category, or if they do, they do not publish the information they have for fear (I suspect) of tarnishing their reputation relative to other schools. 
 
 But the vibrant alt-ac movement suggests that the time is ripe to measure prestige in other ways. I would think that programs would be eager to publicize the often high-level alt-ac careers of their graduates, and that such information could be a strong draw for prospective students. I’ve long wondered why graduate programs find it so difficult to track their former students, when development offices seem to be the very first to know the whereabouts of alumni. New research by a third-party consultancy, the [Lilli Research Group](http://lilligroup.com/), has shown that it’s possible to determine the [professional outcomes of graduates](http://chronicle.com/article/What-Doors-Does-a-PhD-in/135448/) with a surprising degree of accuracy, even using only public records, but I think that this work should be taken on internally. Programs simply must do a better job of knowing what kinds of work their graduates are doing.
 
@@ -118,7 +118,7 @@ The next slide might actually be a bit of a pleasant surprise. Despite a concern
 
 That is not to say that alternative academic positions are a quick fix; after all, we’re not talking about creating new jobs where none existed, but rather about recognizing existing opportunities. I especially want to reiterate that issues surrounding the academic labor market are pervasive and serious, particularly as universities rely on contingent labor to an ever-greater degree. But there are good, solid opportunities available that should figure into the ways that we train and advise graduate students. And the public will benefit from the perspective and expertise of humanities scholars whose voice extends beyond the classroom or academic journal.
 
-The reasons that people pursue careers beyond the tenure track are varied and complex. Location tops the list, which makes sense as a contrast to the near total lack of geographic choice afforded by academic job searches.
+The reasons that people pursue careers beyond the tenure track are varied and complex. Location tops the list, which makes sense as a contrast to the near total lack of geographic choice afforded by academic job searches. 
 
 ![HumanitiesUnbound_APR13.016](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.016.jpg)
 
@@ -128,7 +128,7 @@ Keeping in mind that the employer sample was quite small compared to the main sa
 
 ![HumanitiesUnbound_APR13.017](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.017.jpg)
 
-I find it particularly interesting that alt-ac employees _undervalued their research skills_ relative to employers. I suspect that there are two reasons for this: first, there may be some activities that employees do not recognize as research because it leads to a different end result (such as a decision being made, rather than a journal article being published). Second, it may be a skill that has become so natural that former grad students fail to recognize it as something that sets them apart in their jobs.
+I find it particularly interesting that alt-ac employees _undervalued their research skills_ relative to employers. I suspect that there are two reasons for this: first, there may be some activities that employees do not recognize as research because it leads to a different end result (such as a decision being made, rather than a journal article being published). Second, it may be a skill that has become so natural that former grad students fail to recognize it as something that sets them apart in their jobs. 
 
 On the other hand, alt-ac employees tended to _overvalue_ the importance of project management among the competencies that their jobs required. That said, project management actually tops the list of areas where alt-ac employees needed training, according to employers:
 
@@ -136,7 +136,7 @@ On the other hand, alt-ac employees tended to _overvalue_ the importance of proj
 
 To me, this suggests that employees overvalued the skill because they found it to be a challenging skill that they needed to learn on the job, and so it took on an outsized importance in their minds.
 
-Employers also cited technical and managerial skills as areas that needed training. While the importance of those two skills would certainly depend on the type of position, others, such as collaboration, are useful in almost any work environment. Even simple things, like adapting to office culture, can also prove to be surprisingly challenging if graduates have not had much work experience outside of universities.
+Employers also cited technical and managerial skills as areas that needed training. While the importance of those two skills would certainly depend on the type of position, others, such as collaboration, are useful in almost any work environment. Even simple things, like adapting to office culture, can also prove to be surprisingly challenging if graduates have not had much work experience outside of universities. 
 
 The good news is that all of the elements that make stronger employees would also be hugely beneficial for those grads that do go on to become professors. While students are generally well prepared for research and teaching, they aren’t necessarily ready for the service aspect of a professorship, which incorporates many of the same skills that other employers seek. Many of the skills can also contribute to more creative teaching and research. By rethinking their curricula in such a way that students gain experience in things like collaborative project development and public engagement, departments would be strengthening their students’ future prospects regardless of the paths they choose to take.
 
@@ -146,11 +146,11 @@ It’s not surprising that employers find that alt-ac employees need training in
 
 Of course, the core skills of graduate training—especially research, writing, and analytical skills—are highly valued by employers. These skills are the reasons that employers will often hire PhDs even if the degree is not strictly required by the position. It’s important that students don’t undervalue (or insufficiently articulate) the ways that graduate study _already_ equips them for broader roles, particularly in the methods and generalized skills that are critical to the process.
 
-One thing seems clear: the persistent myth that there’s nothing but a single academic job market available to graduates is damaging, and extricating graduate education from the expectation of tenure-track employment has the potential to benefit students, institutions, and the health of the humanities more broadly. However, as long as norms are reinforced within departments—by faculty and students both—it will be difficult for any change to be effective.
+One thing seems clear: the persistent myth that there’s nothing but a single academic job market available to graduates is damaging, and extricating graduate education from the expectation of tenure-track employment has the potential to benefit students, institutions, and the health of the humanities more broadly. However, as long as norms are reinforced within departments—by faculty and students both—it will be difficult for any change to be effective. 
 
-Again, low tenure-track employment rates are not a new problem, but as the survey responses show, departments by and large are not succeeding at providing accurate and realistic information to their students, and many graduates still feel stigmatized when they pursue different types of careers.
+Again, low tenure-track employment rates are not a new problem, but as the survey responses show, departments by and large are not succeeding at providing accurate and realistic information to their students, and many graduates still feel stigmatized when they pursue different types of careers. 
 
-For change to be possible, it’s essential that institutional norms and measures of prestige shift in favor of highlighting successful outcomes across a broader spectrum of possibilities. And it’s important that graduate programs begin exploring ways that they can better prepare their students while maintaining the integrity of humanistic scholarship.
+For change to be possible, it’s essential that institutional norms and measures of prestige shift in favor of highlighting successful outcomes across a broader spectrum of possibilities. And it’s important that graduate programs begin exploring ways that they can better prepare their students while maintaining the integrity of humanistic scholarship. 
 
 ![HumanitiesUnbound_APR13.019](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.019.jpg)[_Image source_](http://www.flickr.com/photos/december_snowdrift/1150313448/)
 
@@ -168,7 +168,7 @@ The site doesn’t aim to be a comprehensive database of all praxis-type program
 
 The anchor of the network is UVa’s [Praxis Program](http://praxis.scholarslab.org/), which brings together interdisciplinary cohorts of six doctoral students to collectively build a [single tool](http://prism.scholarslab.org/) that will be useful for humanities research or pedagogy. In the course of the year-long fellowship, they learn technical skills and project management under the mentorship of the [Scholars’ Lab](http://scholarslab.org) research and development team. But they also learn innumerable “soft” skills as they navigate the creation of a group charter, determine their priorities, think through their disciplinary values and assumptions, blog about the process, and publicly launch the tool.
 
-Along with UVa’s [Praxis Program](http://praxis-network.org/praxis-program.html), which Bethany Nowviskie directs, we selected a few differently-inflected programs to highlight. Most are graduate programs. These include:
+Along with UVa’s [Praxis Program](http://praxis-network.org/praxis-program.html), which Bethany Nowviskie directs, we selected a few differently-inflected programs to highlight. Most are graduate programs. These include: 
 
 
 
@@ -186,7 +186,7 @@ the [Cultural Heritage Informatics Initiative](http://praxis-network.org/chi-ini
   * and the new [PhD Lab in Digital Knowledge](http://praxis-network.org/duke-phd-lab.html) at Duke University, run by Cathy Davidson and David Bell.
 
 
-We’re also working with two undergraduate programs:
+We’re also working with two undergraduate programs: 
 
 
   * the [Mellon Scholars](http://praxis-network.org/hope-mellon-scholars.html) program at Hope College, which William Pannapacker leads;
@@ -198,7 +198,7 @@ We’re also working with two undergraduate programs:
 
 For the moment, the website is the main product, and sharing information is the main goal. We hope that the ideas found on the site prove to be both useful and inspiring. There’s a wealth of exceptional work represented here, and we hope that it’s presented in a way that makes it easy for people to understand and compare various aspects of each program.
 
-The [mission](http://praxis-network.org/index.html#mission) of each program might be the category that has the greatest degree of similarity across institutions. The goals of each are student-focused, digitally-inflected, interdisciplinary, and frequently oriented around collaborative projects.
+The [mission](http://praxis-network.org/index.html#mission) of each program might be the category that has the greatest degree of similarity across institutions. The goals of each are student-focused, digitally-inflected, interdisciplinary, and frequently oriented around collaborative projects. 
 
 One common tenet is learning in public and exposing the process, warts and all. Many of the students grapple with the notion that our learning happens in unexpected ways—including through failure—and come to a greater degree of comfort with exposing their own uncertainties. Because humanities students are socialized to show their work only once it’s polished, this can be a very uncomfortable experience, but it’s one that leads to particularly fruitful results.
 
@@ -210,7 +210,7 @@ One thing worth noting here is that most of the programs are fairly small and co
 
 For digital and other non-traditional work to be recognized as scholarship, universities need examples of existing work to point to. Importantly, the site highlights the [research products](http://praxis-network.org/index.html#research) that the students are generating through the course of the programs. They often look quite different from the typical seminar paper, and demonstrate not only rigorous scholarly work, but also a creativity and vibrancy not often found in standard papers.
 
-Highlighting this kind of work is aligned with the efforts of organizations like the [Modern Language Association](http://mla.org), which establishes [guidelines](http://www.mla.org/guidelines_evaluation_digital) and offers [workshops](http://wiki.mla.org/index.php/WORKSHOP_2012) on the evaluation of digital work for tenure and promotion.
+Highlighting this kind of work is aligned with the efforts of organizations like the [Modern Language Association](http://mla.org), which establishes [guidelines](http://www.mla.org/guidelines_evaluation_digital) and offers [workshops](http://wiki.mla.org/index.php/WORKSHOP_2012) on the evaluation of digital work for tenure and promotion. 
 
 The site then focuses on the [people](http://praxis-network.org/index.html#people) that are the core of each program. Every single program is characterized by strong, dedicated leaders and curious, intelligent students, and is invariably colored by the interactions among them. This can be both an asset and a challenge, as programs that rest on the shoulders of just a few individuals need to think about questions of continuity. But creating something new requires risk-taking, which is often easier for an individual or small group than for an entire department.
 
@@ -228,7 +228,7 @@ So, those programs are great examples to follow, but you might be wondering what
 
 ![HumanitiesUnbound_APR13.021](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.021.jpg)[_Image source_](http://www.flickr.com/photos/rossmerrittphotography/5488996034/sizes/l/in/photostream/)
 
-First, if you’re not getting the information you need from your program, seek it out. If nothing else, start with the [resources](http://katinarogers.com/resources) that are available on my website.
+First, if you’re not getting the information you need from your program, seek it out. If nothing else, start with the [resources](http://katinarogers.com/resources) that are available on my website. 
 
 Second, connect with people. Browse [#Alt-Academy](http://mediacommons.futureofthebook.org/alt-ac/) and the [database](http://altacademy.wufoo.com/reports/who-we-are/) that I mentioned earlier. Find people that are doing interesting work and see if they’d be willing to talk with you about how they got there—many of us are, especially since our own paths were so often not what we expected them to be! Encourage your department to help set up mentorships with alumni from the department, or with scholar-practitioners working in the university. Engage in online networks that are relevant to your interests. Find a mentor that can support you.
 

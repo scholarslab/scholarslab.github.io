@@ -44,13 +44,13 @@ These conversations help to amplify current work being done by a number of indiv
 
 Over the past several months, SCI has embarked on a [study of career preparation](http://mediacommons.futureofthebook.org/alt-ac/who-we-are) among humanities scholars working in alternative academic careers, and we are also developing a network of innovative humanities programs to highlight possibilities for reform (more on that in a moment).
 
-The goal of SCI’s study was to move from anecdote to data in the conversation about alternative academic careers. All of us know stories of the victories and challenges of pursuing an intellectually stimulating career beyond the tenure track, but there was little data to back up the narratives.
+The goal of SCI’s study was to move from anecdote to data in the conversation about alternative academic careers. All of us know stories of the victories and challenges of pursuing an intellectually stimulating career beyond the tenure track, but there was little data to back up the narratives. 
 
 With that in mind, the study had two main phases. The first phase, which was public and exploratory,  involved creating a public database where people comfortable enough to publicly identify as “alt-ac” practitioners could add themselves to a loose community of peers. The second phase of the study consisted of two confidential surveys.
 
 [![Rebooting Grad Ed_COPY.003](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_COPY.003.jpg)](http://katinarogers.com/?attachment_id=906)
 
-We built the study within the framework of the #Alt-Academy project in part to leverage the energy of existing conversations. While “alt-ac” isn’t a crisply defined term, many people have found it to be an incredibly useful umbrella under which they could gather to talk about the kinds of satisfying careers that can be found outside the professoriate.
+We built the study within the framework of the #Alt-Academy project in part to leverage the energy of existing conversations. While “alt-ac” isn’t a crisply defined term, many people have found it to be an incredibly useful umbrella under which they could gather to talk about the kinds of satisfying careers that can be found outside the professoriate. 
 
 Trends among the nearly 800 responses we received to the main survey reveal a strong misalignment between the expectations of graduate students and the realities that they face upon completing their program.
 
@@ -60,36 +60,36 @@ As may be expected, a large majority of students enter graduate school expecting
 
 These expectations are not at all aligned with the current realities of the academic job market, as we know, and the urgency of finding a remedy to the lack of transparency is compounded by the rising amounts of student debt that burden so many graduates.
 
-Deepening the problem, students report receiving little or no preparation for careers outside the professoriate, even though we’re at a moment when the need for information about a variety of careers is most acute.
+Deepening the problem, students report receiving little or no preparation for careers outside the professoriate, even though we’re at a moment when the need for information about a variety of careers is most acute. 
 
 [![Rebooting Grad Ed_COPY.005](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_COPY.005.jpg)](http://katinarogers.com/?attachment_id=908)
 
-Only 18% reported feeling satisfied or very satisfied with the preparation they received for alternative academic careers. The responses are rooted in perception, so there may be resources available that students are not taking advantage of—but whatever the reason, they do not feel that they are being adequately prepared. Again, this probably comes as no surprise, but it does reveal that we have significant room for improvement.
+Only 18% reported feeling satisfied or very satisfied with the preparation they received for alternative academic careers. The responses are rooted in perception, so there may be resources available that students are not taking advantage of—but whatever the reason, they do not feel that they are being adequately prepared. Again, this probably comes as no surprise, but it does reveal that we have significant room for improvement. 
 
 To give you a small taste of perspectives on the other side of the employment equation, here are some of the kinds of things employers indicate they would like to see:
 
 [![Rebooting Grad Ed_COPY.006](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_COPY.006.jpg)](http://katinarogers.com/?attachment_id=909)
 
-Some specific skills come up frequently, including project management, the ability to work with and manage people, and written and verbal communication with a variety of audiences. Beyond that, employers mention a number of broader aptitudes, like a commitment to public engagement and an ability to adjust to the culture of different types of workplaces.
+Some specific skills come up frequently, including project management, the ability to work with and manage people, and written and verbal communication with a variety of audiences. Beyond that, employers mention a number of broader aptitudes, like a commitment to public engagement and an ability to adjust to the culture of different types of workplaces. 
 
 The good news is that all of the elements that employers seek would also be hugely beneficial for those grads that do go on to become professors. By rethinking their curricula in such a way that students gain experience in things like collaborative project development and public engagement, departments would be strengthening their students regardless of the path they choose to take.
 
 UVa’s [Praxis Program](http://praxis.scholarslab.org) is designed as one of several new initiatives that help to assess needs and opportunities, develop and articulate new models, and foster the growth of collaborative networks among relevant institutions and individuals.
 
-To help showcase strong models of reform, SCI is now developing the **Praxis Network**: a network of several existing programs that have developed innovative models of methodological training along the lines of the Praxis Program at UVa.
+To help showcase strong models of reform, SCI is now developing the **Praxis Network**: a network of several existing programs that have developed innovative models of methodological training along the lines of the Praxis Program at UVa. 
 
 [![Rebooting Grad Ed_COPY.007](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_COPY.007.jpg)](http://katinarogers.com/?attachment_id=910)
 
 We anticipate that many programs that want to make changes will want to look to existing models for guidance, and by highlighting a handful of differently-inflected programs, we can bring together some patterns among them, while also underscoring the unique idiosyncrasies of each. In addition to sharing information with the public, we hope that the network will enable increased possibilities for communication and collaboration among the participants of each program.
 
-One thing seems clear: the persistent myth that there’s nothing but a single academic job market available to graduates is damaging, and extricating graduate education from the expectation of tenure-track employment has the potential to benefit students, institutions, and the health of the humanities more broadly.
+One thing seems clear: the persistent myth that there’s nothing but a single academic job market available to graduates is damaging, and extricating graduate education from the expectation of tenure-track employment has the potential to benefit students, institutions, and the health of the humanities more broadly. 
 
 [![Rebooting Grad Ed_008](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_008.jpg)](http://katinarogers.com/?attachment_id=916)
 
-However, as long as norms are reinforced within departments—by faculty and students both—it will be difficult for any change to be effective.
+However, as long as norms are reinforced within departments—by faculty and students both—it will be difficult for any change to be effective. 
 
-Low tenure-track employment rates are not a new problem, but as the survey responses show, departments by and large are not succeeding at providing accurate and realistic information to their students.
+Low tenure-track employment rates are not a new problem, but as the survey responses show, departments by and large are not succeeding at providing accurate and realistic information to their students. 
 
-For change to be possible, it’s essential that institutional norms and measures of prestige shift in favor of highlighting successful outcomes across a broader spectrum of possibilities. SCI hopes that our current work will help begin to rise the tide of transparency and innovation.
+For change to be possible, it’s essential that institutional norms and measures of prestige shift in favor of highlighting successful outcomes across a broader spectrum of possibilities. SCI hopes that our current work will help begin to rise the tide of transparency and innovation. 
 
 [![Rebooting Grad Ed_009](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_0091.jpg)](http://katinarogers.com/?attachment_id=918)

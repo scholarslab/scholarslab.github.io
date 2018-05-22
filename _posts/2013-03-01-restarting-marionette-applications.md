@@ -28,7 +28,7 @@ But then manually calling all of the init methods in my Jasmine start-up routine
 
 
 
-This is icky - I have to exactly recreate a specific start-up order that's automatically enforced in the application itself by `before:` and `after:` initialization events. And it introduces lots of opportunities for false-negatives - if you add a module, and forget to explicitly start it in the test suite, everything falls apart.
+This is icky - I have to exactly recreate a specific start-up order that's automatically enforced in the application itself by `before:` and `after:` initialization events. And it introduces lots of opportunities for false-negatives - if you add a module, and forget to explicitly start it in the test suite, everything falls apart. 
 
 Really, I wanted to just re-call `Neatline.start()` before every test. I realized tonight, though, that the application object can be tricked into restarting itself by (a) stopping all of the modules and (b) resetting the top-level `Callbacks` on the application:
 

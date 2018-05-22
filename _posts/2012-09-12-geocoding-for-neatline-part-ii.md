@@ -122,7 +122,7 @@ This bit actually fills out the form, turning the map component on, setting a zo
 
 [gist id=3307210 file=populate.rb]
 
-After running this script, when you log on to Omeka, you should see newly created items with their locations populated and a pretty map that you can use in Neatline. **Note:** these items were not set to be 'public', but you can easily add this to the script, and can be your homework.
+After running this script, when you log on to Omeka, you should see newly created items with their locations populated and a pretty map that you can use in Neatline. **Note:** these items were not set to be 'public', but you can easily add this to the script, and can be your homework. 
 
 Assuming you've read the [documentation on creating Neatline exhibits](http://neatline.org/plugins/neatline/), you can now simply add these items and have them placed spatially by clicking on the **Map** icon in the Neatline editor.
 
