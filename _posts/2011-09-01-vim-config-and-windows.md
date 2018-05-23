@@ -53,7 +53,7 @@ The bulk of this is just downloading and installing things that aren't included 
 
 
 
-  * **Finally, download [cURL](http://curl.haxx.se/download.html).** Download the one at the bottom for "Win32 - Generic" labelled  "Win32 2000/XP binary" (it also says that it's 1.32 MB at the moment). Open and put `curl.exe`, `libcurl.dll`, `libeay32.dll`, and `libssl32.dll` into `C:Program FilesVimvim73`.
+  * **Finally, download [cURL](http://curl.haxx.se/download.html).** Download the one at the bottom for "Win32 - Generic" labelled  "Win32 2000/XP binary" (it also says that it's 1.32 MB at the moment). Open and put `curl.exe`, `libcurl.dll`, `libeay32.dll`, and `libssl32.dll` into `C:Program FilesVimvim73`. 
 
 
 
@@ -89,7 +89,7 @@ Look under the start menu, for the "Vim 7.3" group and select "gVim." In Windows
 
 
 
-Check out [Vim GUI Font Magic](/2011/08/31/vim-gui-font-magic/) for instructions on how to change the font from the truly yeechy Windows default. This also has some suggestions for nicer fonts.
+Check out [Vim GUI Font Magic](http://www.scholarslab.org/praxis-program/vim-gui-font-magic/) for instructions on how to change the font from the truly yeechy Windows default. This also has some suggestions for nicer fonts.
 
 
 

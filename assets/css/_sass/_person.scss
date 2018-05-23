@@ -1,0 +1,357 @@
+/* Person Page: */
+
+/* Universal */
+
+// section titles
+[class*="__title"][class*="person-"] {
+	margin-bottom: .5em;
+	margin-top: 1em;
+	font-size: 1.25rem;
+	font-weight: 900;
+	line-height: 1;
+	text-transform: uppercase;
+	@media screen and (min-width: 1024px) {
+		font-size: 1.5rem;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 1.75rem;
+	}
+}
+
+
+/* Main styles: */
+
+.person-wrapper {
+	padding: 0 4.167%;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+		padding-top: 3rem; // 2 line heights
+	}
+	@media screen and (min-width: 768px) {
+		padding: 0 4.167%;
+		padding-top: 3rem; // 2 line heights
+	}
+	@media screen and (min-width: 1024px) {
+		padding: 0 8.33%;
+		padding-top: 3rem; // 2 line heights
+	}
+}
+
+.person-main-content {
+	position: relative;
+	display: grid;
+	grid-template-areas: "img"
+						 "name"
+						 "title"
+						 "stats"
+						 "describe"
+						 "posts"
+						 "button";
+	grid-template-columns: 1fr;
+	@media screen and (min-width: 768px) {
+		grid-template-areas: "name img"
+							 "title img"
+							 "stats img"
+							 "..... img"
+							 "describe describe"
+							 "posts posts"
+							 "button button";
+		grid-template-columns: 1fr 1fr;
+	}
+	@media screen and (min-width: 1024px) {
+		grid-template-areas: "name img"
+							 "title img"
+							 "describe img"
+							 "describe stats"
+							 "describe ....."
+							 "describe ....."
+							 "posts posts"
+							 "button button";
+		grid-template-columns: 50% 50%;
+	}
+}
+
+/* Name: */
+
+.person__big-title {
+	position: relative;
+	grid-area: name;
+	align-self: start;
+	font-size: 2rem;
+	font-weight: 900;
+	line-height: 1;
+	span {
+		display: block;
+		padding-bottom: 2px;
+		font-size: .5em;
+		font-family: "base-mono-wide";
+		text-transform: uppercase;
+		color: hsla(186,80%,70%,1);
+	}
+	@media screen and (min-width: 400px) {
+		font-size: 2.5rem;
+	}
+	@media screen and (max-width: 767px) {
+		padding-top: .5em;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 3rem;
+		span {
+			padding-bottom: .5em;
+		}
+	}
+}
+
+.person__position {
+	grid-area: title;
+	position: relative;
+	display: inline-block;
+	font-weight: 900;
+	font-size: 1rem;
+	line-height: 1;
+	color: rgba(0, 0, 0, .5);
+	&::after {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		display: block;
+		width: 100%;
+		height: 2px;
+		z-index: -1;
+	}
+	@media screen and (min-width: 400px) {
+		font-size: 1.25rem;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.5rem;
+		margin-top: .5em;
+		margin-bottom: 1em;
+	}
+}
+
+/* Image: */
+
+.person__img {
+	grid-area: img;
+	position: relative;
+	width: 109.1%; // 100% / 91.67% = 100vw
+	justify-self: center;
+	img {
+		max-width: 100%;
+	}
+	@media screen and (min-width: 600px) {
+		width: 100%;
+		img {
+			box-shadow: 4px 4px 0 0 rgba(0,0,0,.5);
+		}
+	}
+	@media screen and (min-width: 768px) {
+		align-self: start;
+		margin-top: 24px;
+		padding-left: 4.167%;
+		img {
+			max-width: 95.833%;
+			float: right;
+			transform: translate(-4px, 0);
+			
+		}
+	}
+}
+
+/* Description: */
+
+.person__description {
+	grid-area: describe;
+	align-self: start;
+	@media screen and (min-width: 768px) {
+		margin-top: .5em;
+		padding-right: 8.33%; // 4.167%;
+	}
+	@media screen and (min-width: 1024px) {
+		
+		font-size: 18px;
+	}
+}
+
+.person-describe__title {
+}
+
+.person-describe__text {
+	p {
+		margin: 0 0 .5em 0;
+	}
+}
+
+.person-describe__category {
+	display: none;
+	h3 {
+   // 	font-family: "Oswald";
+		font-size: 1.5rem;
+		font-weight: 900;
+	//	text-transform: uppercase;
+	}
+}
+
+/* Stats: */
+
+.person__stats {
+	grid-area: stats;
+	@media screen and (min-width: 768px) {
+		padding-right: 4.167%;
+	}
+	@media screen and (min-width: 1024px) {
+		align-self: start;
+		margin-top: 1.5rem;
+		padding-right: 0px;
+		padding-left: 8.33%;
+	}
+}
+
+.person-stats__title {
+	margin-bottom: .25em !important;
+}
+
+.person-stats__box {
+	position: relative;
+	border: 4px solid hsla(186,80%,70%,1);
+	font-family: "base-mono-narrow", monospace;
+	font-size: 1rem;
+	text-align: right;
+	padding: .5em 1em;
+	div {
+		display: none;
+		position: absolute;
+		font-family: "Oswald", sans-serif;
+		font-size: 1.5rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		text-align: left;
+		line-height: 1;
+		transform: translate(-1em, calc(-1.5em - 4px));
+	}
+	span {
+		float: left;
+		color: hsla(186,80%,70%,1);
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 1.25rem;
+	}
+}
+
+/* Blog Posts: */
+
+.person__posts {
+	grid-area: posts;
+	position: relative;
+}
+
+.person-posts__title {
+	@media screen and (max-width: 767px) {
+		margin-bottom: .25em !important;
+	}
+}
+
+// <ul>
+.person-posts__list {
+	position: relative;
+	display: grid;
+	grid-template-rows: repeat(3, 1fr);
+	grid-template-columns: 1fr;
+	align-items: space-between;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	font-size: 1.25rem;
+	list-style-type: none;
+	li {
+		position: relative;
+		display: inline-block;
+		width: 100%;
+		margin: .5em 0;
+		background-color: white;
+		border: 4px solid hsla(186,80%,70%,1);
+		a {
+			display: flex;
+			flex-flow: column nowrap;
+			justify-content: center;
+			height: 100%;
+			width: 100%;
+			padding: 1em;
+			line-height: 1;
+			border: none !important;
+			div {
+				margin-bottom: .5em;
+				font-family: "Oswald", sans-serif;
+				font-weight: 600;
+			}
+			span {
+				font-size: .75em;
+				font-family: "base-mono-narrow", monospace; // "Oswald", sans-serif;
+				font-weight: 200;
+				color: rgba(0, 0, 0, 0.5);
+			}
+		}
+	}
+	@media screen and (min-width: 768px) {
+		grid-template-rows: 1fr;
+		grid-template-columns: repeat(3, 1fr);
+		justify-content: space-between;
+		width: calc(100% + 1em);
+		margin: 0;
+		margin-left: -.5em; // overflow width
+		padding: 0;
+		font-size: 1.25rem;
+		li {
+			width: calc(100% - 1em);
+			margin: 0 .5em;
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 1.5rem;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 1.75rem;
+	}
+}
+
+.person-posts__none-found {
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
+	color: rgba(0,0,0,.5);
+	@media screen and (min-width: 1024px) {
+		margin-bottom: 2em;
+	}
+}
+
+/* Button: */
+
+.person__cta {
+	grid-area: button;
+	position: relative;
+	margin-bottom: 3em;
+	margin-top: 1em;
+	a {
+		margin-top: 0 !important;
+		font-size: 1rem !important;
+		border-color: hsla(186,80%,70%,1) !important;
+		color: hsla(186,80%,70%,1) !important;
+	}
+	@media screen and (max-width: 767px) {
+		a {
+			width: 100% !important;
+			text-align: center;
+		}
+	}
+	@media screen and (min-width: 768px) {
+		a {
+			margin: 0 !important;
+			font-size: 1.25rem !important;
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		a {
+			font-size: 1.5rem !important;
+		}
+	}
+}

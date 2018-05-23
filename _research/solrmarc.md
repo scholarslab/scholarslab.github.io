@@ -1,12 +1,11 @@
 ---
-collaborators: ''
-current: false
 layout: research
-link: ''
 slug: solrmarc
 title: Solrmarc
-research-category:
-- Internal Projects and Community Service
+thumb-img: RooshInf3ktion-solrmarc-thumb.png
+banner-img: RooshInf3ktion-solrmarc-banner.png
+research-category: Internal Projects and Community Service
+year: 2005
 ---
 
 A Java-based program for indexing MARC records into Solr indexes. This is the main indexing mechanism for both the [Blacklight](http://projectblacklight.org/) and [Vufind](http://vufind.org/) projects.

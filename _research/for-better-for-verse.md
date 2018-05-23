@@ -1,12 +1,28 @@
 ---
-collaborators: ''
+collaborators: 
+  - name: Herbert (Chip) Tucker
+    role: Project Owner
+  - name: Joe Gilbert
+    slug: joe-gilbert
+    role: User Experience Web Developer
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Scott Bailey
+    slug: scott-bailey
+    role: Humanities Developer
+  - name: Ammon Shepherd
+    slug: ammon-shepherd
+    role: Humanities Developer
 current: false
+link: http://prosody.lib.virginia.edu
 layout: research
-link: ''
 slug: for-better-for-verse
 title: For Better for Verse
-research-category:
-- Scholarly Collaborations
+thumb-img: 4better4verse-thumb.png
+banner-img: 4better4verse-banner.png
+research-category: Scholarly Collaborations
+year: 2008
 ---
 
 A collaboration with UVA English professor Herbert Tucker, [For Better for Verse](http://prosody.lib.virginia.edu) tests users' understanding of prosody, or poetic meter in English-language poetry. In the over 40 included poems, users can mark syllable stress, foot divisions, and even check answers. Intended primarily for teaching purposes, For Better for Verse allows students to explore poems of varying difficulty and complexity.

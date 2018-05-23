@@ -42,6 +42,6 @@ _Pursuit of Happiness_ mapped the ratio of [arts, entertainment, and recreation]
 
 Transforming datasets from a spreadsheet to a map takes advantage of our  human ability to consume mass quantities of information visually.  Rows of numbers stashed away in academic journals and US  Census tables come alive when mapped to show comparisons with their neighbors both near and far.  Patterns and clusters appear.  [New questions are asked.](http://spatial.scholarslab.org/spatial-turn/) New answers come.  New maps emerge.
 
-And here's good news:  If you find our measures of Mr. Jefferson's famous phrase lacking, software tools to [combine and manipulate datasets](/2011/01/31/putting-american-community-survey-data-to-work) that may share only common geographic markers can now [make cartographers  of us all](http://spatial.scholarslab.org/).
+And here's good news:  If you find our measures of Mr. Jefferson's famous phrase lacking, software tools to [combine and manipulate datasets](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/#more-992) that may share only common geographic markers can now [make cartographers  of us all](http://spatial.scholarslab.org/).
 
 Happy mapping!

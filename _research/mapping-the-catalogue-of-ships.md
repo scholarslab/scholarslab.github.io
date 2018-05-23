@@ -1,12 +1,40 @@
 ---
-collaborators: ''
+collaborators: 
+- name: Jenny Strauss Clay
+  role: Project Owner
+- name: Courtney Evans
+  role: Researcher
+- name: Ben Jasnow
+  role: Researcher
+- name: Bethany Nowviskie
+  slug: bethany-nowviskie
+  role: Director of Scholars' Lab
+- name: Wayne Graham
+  slug: wayne-graham
+  role: Head of Research and Development
+- name: Jeremy Boggs
+  slug: jeremy-boggs
+  role: Design Architect
+- name: Chris Gist
+  slug: chris-gist
+  role: GIS Specialist
+- name: Kelly Johnston
+  slug: kelly-johnston
+  role: GIS specialist
+- name: David McClure
+  slug: david-mcclure
+  role: Web Applications Developer
+- name: Edith Gwendolyn Nally
+  slug: gwen-nally
+  role: Graduate Student
 current: false
 layout: research
-link: ''
 slug: mapping-the-catalogue-of-ships
 title: Mapping the Catalogue of Ships
-research-category:
-- Scholarly Collaborations
+thumb-img: ships-thumb.png
+banner-img: ships-banner.png
+research-category: Scholarly Collaborations
+year: 2011
 ---
 
 The Scholars' Lab is using geospatial technology to assist Classics professor [Jenny Strauss Clay](http://classics.virginia.edu/people/profile/jsc2t) in testing her theories about the relation of ancient geography to mnemonic devices and poetic form. Least-cost path analysis in GIS, coupled with literary analysis of the nearly 190 place names mentioned in Homer's Catalogue of Ships, also holds promise in helping to identify lost archaeological sites.

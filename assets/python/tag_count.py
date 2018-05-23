@@ -1,0 +1,26 @@
+# tag_count.py
+# range of nums for posts in all tags & categories -> assign colors by % weight
+
+# list of tags
+tagnames = 'Digital Humanities/ Social Sciences/ Statistical Analysis/ projectbamboo/ Digital Libraries/ speaker series/ xml/ neatline/ ESRI/ gis/ albemarle county/ historic/ map/ cartography/ visualization/ code/ development/ howto/ omeka/ plugin/ timeline/ capistrano/ deployment/ points/ problem/ php/ ruby/ web development/ EAD/ metadata/ plugins/ VRA Core/ XForms/ best practices/ code review/ testing/ coding/ databases/ cataloging/ library/ career opportunities/ fedora/ solr/ TEI/ newsletter/ algorithms/ git/ javascript/ ssh/ tips/ web/ web fonts/ awards/ grants/ staffing/ April Fools!/ lod/ lodlam/ rdf/ open source/ vagrant/ census/ spatial/ charlottesville/ charter/ praxis program/ earthquake/ copyright/ publishing/ credit/ SLab Code/ vim/ digital-work/ Evaluating/ FBFV/ Menu/ TILE/ Praxis Program Week 2/ requirements-gathering/ Prism/ Programming/ Literature/ Music/ Victorian/ Hoyt/ McHarg/ race/ richmond/ hibrarians/ language/ migration/ electronic texts/ rails/ design/ graphic design/ CSS/ HTML/ Data Model/ data modeling/ cahill/ projections/ wireframes/ Logo/ Jasmine/ phpunit/ zend/ project-management/ dhsi/ internationalization/ TEIDisplay/ CoffeeScript/ battle/ epic poetry/ manuscript/ bash/ customization/ Alison Booth/ mark-up/ hacks/ wordpress/ highlighting/ visualizations/ budget/ i18n/ money/ dayofdh/ graduate training/ Scholarly Collaborations/ alt-ac/ altac/ survey/ Labor/ false binaries/ theory/ workshop/ aerial photography/ arcmap/ geoserver/ geospatial/ photoshop/ geocoding/ mechanize/ neatline features/ Scholarly Communication Institute/ automation/ browser support/ makerbot desktopfabrication music/ letter case/ text-transform/ hoopla/ t-shirts/ theme/ waynebot/ 3D printing/ desktop fabrication/ makerbot/ humor prism/ praxis prism/ neatline maps/ neatline time/ Praxis Network/ forking/ Github/ pull requests/ cats/ poetry/ os x/ rvm/ mysql/ node.js/ praxis music/ Fulbright/ Gender/ TransformDH/ dance/ speech/ svg/ wkt/ backbone/ marionette/ beauty/ writing/ geographic literacy/ spatial thinking/ graduate fellows/ job/ photos/ testing philosophy/ themes/ automated testing/ code philosophy/ replicator 2/ audio/ faulkner/ html5/ mp3/ ogg/ spatial analysis/ gaming/ Ivanhoe/ simulations/ shakespeare/ yeats/ group performance/ Tuckman Model/ team work/ gis day/ accessibility/ Gradstudent Life/ Working Mom/ Games/ Gamification/ Simulation/ ArcGIS/ training/ Wireframing/ d3/ lincoln/ grunt/ documentation/ wordpress theme/ 1.0/ launch/ Chaucer/ teaching/ 3D Modeling/ One teach one drift/ Pedagogy/ react/ GIS Workshops/ awk/ scripting/ upgrade/ military history/ subversion/ OCR/ watermark/ repair/ replicator/ Adafruit/ Arduino/ FLORA/ Lilypad/ Makerspace/ Wearables/ software/ augmented reality/ kinect/ time/ charts/ graphs/ candy/ Digital Pedagogy/ Raspberry Pi/ light writing/ robots/ bokeh/ python/ pokemon/ presentation/ student/ 16-bit/ bibliography/ high-dynamic range/ paper/ photo-editing/ distant reading/ novels/ eighteenth century/ long s/ markdown/ Samuel Butler/ textual bibliography/ transcription/ typography/ biography/ celebrity/ history/ lola montez/ walt whitman/ digital humanities/'.split('/ ')
+# list of categories
+catnames = 'Announcements/ Digital Humanities Visualization and Data Mining/ Geospatial and Temporal/ Research and Development/ Podcasts/ Grad Student Research/ Experimental Humanities/ Events/ Makerspace/ Technical Training/ Job Announcements/ Digital humanities/ Experimetnal humanities/ Geospatial and temporal/ digital humanities/ research and development/ uncategorized/ geospatial and temporal/ grad student research/ experimental humanities/'.split('/ ')
+
+# raw string of num posts per tag or category
+tag_strings = '100 8 4 1 14 14 1 46 1 37 2 6 14 7 17 6 9 5 26 1 2 2 1 1 1 4 18 4 2 2 4 1 1 1 1 1 2 1 1 1 10 3 2 7 2 1 6 8 1 2 1 1 1 2 7 1 1 1 1 2 1 1 3 1 23 286 1 1 2 1 1 2 9 2 1 1 1 1 14 38 39 1 1 1 1 1 1 1 1 1 2 1 16 33 16 5 1 1 1 1 7 1 3 1 2 17 2 2 2 3 1 1 1 3 1 1 1 2 7 2 3 1 2 2 1 10 11 7 11 2 1 1 1 4 1 3 1 6 1 2 2 3 6 1 1 1 1 1 1 1 1 5 1 3 1 2 1 1 2 1 2 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 40 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 5 1 1 1 2 1 1 1 1 1 1 2 1 2 1 1 1 1 1 1 1 1 1 1 2 1 1 3 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 286 28'.split(' ')
+cat_strings = '153 167 43 77 100 61 335 29 10 13 8 2 1 1 4 1 3 1 2 1'.split(' ')
+
+# num posts per tag
+tags = [int(t) for t in tag_strings]
+# num posts per category
+cats = [int(c) for c in cat_strings]
+
+# tuples of ('name', # posts), sorted most-to-least by frequency
+tag_stats = sorted([(name, num) for name, num in zip(tagnames, tags)], key=lambda tag: tag[1], reverse=True)
+# tuples of ('name', # posts), sorted most-to-least by frequency
+cat_stats = sorted([(name, num) for name, num in zip(catnames, cats)], key=lambda cat: cat[1], reverse=True)
+
+tag_percent = [(tag * 100 / max(tags)) for tag in tags]
+cat_percent = [(cat * 100 / max(cats)) for cat in cats]
+print(tag_stats[:10])
+print(cat_stats[:10])

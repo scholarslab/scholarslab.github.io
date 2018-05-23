@@ -12,7 +12,7 @@ tags:
 - wireframes
 ---
 
-I thought that this week I’d give you a behind-the-scenes peek at what we really do in the [Praxis Program](http://praxis.scholarslab.org) at the [Scholars' Lab](http://lib.virginia.edu/scholarslab). Brooke and I both wrote posts at the beginning of the semester about how much pressure we felt to appear polished and professional 24/7, but the reality is that 1) this is a learning process and 2) we’re only human. I applied to be part of the Praxis team because I wanted to work on DH with other people (not an opportunity that presents itself every day!) and it really is as great as I thought it would be.  At the risk of making all of you hopelessly envious of our camaraderie, I’m pleased to share below a pictorial flowchart of sorts that illustrates the way things generally happen here at the Praxis Program during Fellows’ “office hours.”
+I thought that this week I’d give you a behind-the-scenes peek at what we really do in the [Praxis Program](http://praxis.scholarslab.org) at the [Scholars' Lab](http://lib.virginia.edu/scholarslab). Brooke and I both wrote posts at the beginning of the semester about how much pressure we felt to appear polished and professional 24/7, but the reality is that 1) this is a learning process and 2) we’re only human. I applied to be part of the Praxis team because I wanted to work on DH with other people (not an opportunity that presents itself every day!) and it really is as great as I thought it would be.  At the risk of making all of you hopelessly envious of our camaraderie, I’m pleased to share below a pictorial flowchart of sorts that illustrates the way things generally happen here at the Praxis Program during Fellows’ “office hours.” 
 
 First, one of the extremely knowledgeable members of the Praxis team teaches the newbies about something. Here, that something is wireframing.
 [![Slab](http://farm8.staticflickr.com/7175/6505765533_5d61f95803.jpg)](http://www.flickr.com/photos/72018725@N07/6505765533/)
@@ -32,7 +32,7 @@ As a final touch to this essay on the joys of group work, I’m appending, for y
 
 --Discussing life’s most challenging questions, such as Why We’re Here:
 
-Ed: I’m here to break your application with one capital letter. That’s why *I’m* here.
+Ed: I’m here to break your application with one capital letter. That’s why *I’m* here. 
 Wayne: You’re not gonna break MY application with one capital letter.
 Ed: You just let me at your application…
 
@@ -40,7 +40,7 @@ Ed: You just let me at your application…
 
 Ed: YESSSSSSSSSSS!!
 The rest of us: [quizzical looks]
-Ed: I just got Heroku to work on my application. And even better, Wayne was wrong.
+Ed: I just got Heroku to work on my application. And even better, Wayne was wrong. 
 [laughter]
 Ed: I’m gonna go tell him.
 

@@ -1,12 +1,40 @@
 ---
-collaborators: ''
-current: false
+collaborators: 
+  - name: Bethany Nowviskie
+    slug: bethany-nowviskie
+    role: Director of Scholars' Lab
+  - name: Adam Soroka
+    slug: adam-soroka
+    role: Senior Developer
+  - name: Joe Gilbert
+    slug: joe-gilbert
+    role: User Experience Web Developer
+  - name: Wayne Graham
+    slug: wayne-graham
+    role: Head of Research and Development
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Design Architect
+  - name: Eric Rochester
+    slug: eric-rochester
+    role: Head of Research and Development
+  - name: David McClure
+    slug: david-mcclure
+    role: Web Application Developer
+  - name: Scott Bailey 
+    slug: scott-bailey
+    role: Humanities Developer
+  - name: Ammon Shepherd 
+    slug: ammon-shepherd
+    role: Humanities Developer
+current: true
 layout: research
-link: ''
 slug: neatline
 title: Neatline
-research-category:
-- Internal Projects and Community Service
+thumb-img: neatline-thumb.png
+banner-img: neatline-banner.png
+research-category: Internal Projects and Community Service
+year: 2011-present
 ---
 
 Neatline is a mix-and-match toolset for the creation of interlinked timelines and maps as interpretive expressions of the literary or historical content of archival collections. It allows scholars and archivists to build on standard descriptive metadata and georectified maps to produce rich, evocative – even theoretical – spatial and temporal visualizations of the textual content of catalogued letters, manuscripts, and artifacts.

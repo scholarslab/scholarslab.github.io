@@ -19,7 +19,7 @@ Hello. In my last blog, I began my discussion of [Pandora.com](http://www.pandor
 
 
 
-How is Pandora’s song-recommendation engine different than web radio platforms that came before it? Well, the majority of other online radio stations, such as last.fm, operate off a system called collaborative filtering. What is collaborative filtering? In layperson’s terms, collaborative filtering involves matching one user’s taste to another’s (or a series of other people). On a site like [last.fm](http://last.fm), over time a user amasses a playlist of songs they’ve expressed a preference for—a sort of musical taste profile. Last.fm’s search tools automatically identify other users with whom your tastes seem to overlap, and uses this information to power “radio” stations you can stream on the site. The process is pretty simple, and [based on personal intuition and the data existing users have already entered into the system](http://www.wired.com/culture/lifestyle/news/2003/07/59522). Collaborative filtering powers aspects of many media websites, such as Amazon.com’s personal recommendation feature for shoppers.
+How is Pandora’s song-recommendation engine different than web radio platforms that came before it? Well, the majority of other online radio stations, such as last.fm, operate off a system called collaborative filtering. What is collaborative filtering? In layperson’s terms, collaborative filtering involves matching one user’s taste to another’s (or a series of other people). On a site like [last.fm](last.fm), over time a user amasses a playlist of songs they’ve expressed a preference for—a sort of musical taste profile. Last.fm’s search tools automatically identify other users with whom your tastes seem to overlap, and uses this information to power “radio” stations you can stream on the site. The process is pretty simple, and [based on personal intuition and the data existing users have already entered into the system](http://www.wired.com/culture/lifestyle/news/2003/07/59522). Collaborative filtering powers aspects of many media websites, such as Amazon.com’s personal recommendation feature for shoppers.
 
 
 
@@ -45,7 +45,7 @@ In any case, as a Pandora user, I have often benefited from the happy accidents 
 
 
 
-On the other hand, there are several notable gaps in the logic and execution of Pandora and the Music Genome Project model. The first gap I feel compelled to point out is a very practical one. Returning to my example of the station based around "Tonight I'll Be Staying Here With You," Pandora is skilled in giving a user a lot of what they like. Enter in a twangy rock song like Dylan’s and you’ll get a station with loads of twangy rock songs. But there can be too much of a good thing; namely, I find homogeneity of songs’ _tempo_ an issue on Pandora stations. “Tonight I’ll Be Staying Here With You” is a bit plodding, and I’ve found that over a few hours of playing this station, I mostly get one plodding song after the next. This can be useful in terms of finding hidden gems, but makes for monotonous, even frustrating listening over a span of a few hours.
+On the other hand, there are several notable gaps in the logic and execution of Pandora and the Music Genome Project model. The first gap I feel compelled to point out is a very practical one. Returning to my example of the station based around "Tonight I'll Be Staying Here With You," Pandora is skilled in giving a user a lot of what they like. Enter in a twangy rock song like Dylan’s and you’ll get a station with loads of twangy rock songs. But there can be too much of a good thing; namely, I find homogeneity of songs’ _tempo_ an issue on Pandora stations. “Tonight I’ll Be Staying Here With You” is a bit plodding, and I’ve found that over a few hours of playing this station, I mostly get one plodding song after the next. This can be useful in terms of finding hidden gems, but makes for monotonous, even frustrating listening over a span of a few hours. 
 
 
 
@@ -165,3 +165,23 @@ Finally, closing with an idea my professor Fred Maus pointed out to me, when you
 
 
 4  http://blog.pandora.com/pandora/archives/2009/02/index.html      February 25, 2009 entry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

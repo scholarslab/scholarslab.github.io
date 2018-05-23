@@ -10,7 +10,7 @@ tags:
 - Social Sciences
 ---
 
-The UVa Digital Humanities Speaker Series presents:
+The UVa Digital Humanities Speaker Series presents: 
 
 
 ### Myron Gutmann on "Data Access for Research and Teaching in the Twenty-First Century"

@@ -13,8 +13,8 @@ permalink: /:year/:month/:day/:title/
 # Build settings
 incremental: true
 sass:
-  sass_dir: _sass
-  style: compressed
+  sass_dir: assets/css/_sass
+  style: expanded # temporary! change back to compressed later
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -22,6 +22,12 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - docs
+  - node_modules
+  - theme-testing
+#  - _posts # temporary! significantly reduces build time for theme testing
+  - assets/python # helper scripts to manipulate HTML/CSS, not used in build
 collections:
   people:
     output: true
@@ -30,6 +36,21 @@ collections:
     output: true
     permalink: /:collection/:name/
   lab:
+    output: true
+    permalink: /:collection/:name/
+  starter-kits:
+    output: true
+    permalink: /:collection/:name/
+  events:
+    output: true
+    permalink: /:collection/:name/
+  todo:
+    output: true
+    permalink: /:collection/:name/
+  fake-blog:
+    output: true
+    permalink: /:year/:month/:day/:title/
+  fake-people:
     output: true
     permalink: /:collection/:name/
 
@@ -41,10 +62,12 @@ header_pages:
   - lab.md
   - search.html
 
-exclude: [vendor]
-
 defaults:
   - scope:
-      path: "assets/images"
+      path: "assets/img"
     values:
       image: true
+  - scope:
+      path: "pages"
+    values:
+      order: 10

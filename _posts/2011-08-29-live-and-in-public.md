@@ -17,17 +17,17 @@ To prepare for our meeting last week, all Praxis Program participants read the f
 
 
 
-
+	
   * Bethany Nowviskie, ["Where Credit is Due."](http://nowviskie.org/2011/where-credit-is-due/)
 
-
+	
   * Stan Ruecker and Milena Radzikowska, ["The Iterative Design of a Project Charter for Interdisciplinary Research."](http://mtroyal.academia.edu/MilenaRadzikowska/Papers/326958/The_Iterative_Design_of_a_Project_Charter_for_Interdisciplinary_Research)
 
-
+	
   * Siemens, et. al. ["INKE Administrative Structure, Omnibus Document."](http://journals.uvic.ca/index.php/INKE/article/view/546/245)
 
 
-These links are also available [here](http://praxis.scholarslab.org/topics/toward-a-project-charter/), but so that you, my reader, may easily follow my references (and explore for yourself) I resubmit them now. First of all, I would like to express my delight that, as Bethany put it in her [blog post of the 24th](/2011/08/24/announcing-the-praxis-program/), “we are using the Praxis Program to experiment with an action-oriented curriculum _live and in public_.” That emphasis on “live and in public” had me searching back through the above-posted materials, specifically Ruecker and Radzikowska’s piece, as I thought about my blog post for this week. I recall nodding vigorously and perhaps even whisper-shouting “yes!” to myself in the library last Monday when I came across this policy, under the subheading “Professional dignity”:
+These links are also available [here](http://praxis.scholarslab.org/topics/toward-a-project-charter/), but so that you, my reader, may easily follow my references (and explore for yourself) I resubmit them now. First of all, I would like to express my delight that, as Bethany put it in her [blog post of the 24th](http://www.scholarslab.org/praxis-program/announcing-the-praxis-program/), “we are using the Praxis Program to experiment with an action-oriented curriculum _live and in public_.” That emphasis on “live and in public” had me searching back through the above-posted materials, specifically Ruecker and Radzikowska’s piece, as I thought about my blog post for this week. I recall nodding vigorously and perhaps even whisper-shouting “yes!” to myself in the library last Monday when I came across this policy, under the subheading “Professional dignity”:
 
 “We will attempt to keep communications transparent, for example, by copying everyone involved in any given discussion, and by directly addressing with each other any questions or concerns that may arise.”
 

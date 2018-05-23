@@ -1,0 +1,327 @@
+/* Research Project: */
+
+// nb: identifier = 'project' to avoid conflict w/ research page
+
+/* Layout */
+
+.project-content-wrapper {
+	position: relative;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-areas: "pic"
+						 "title"
+						 "meta"
+						 "text"
+						 "ppl";
+	align-items: start;
+	width: 100%;
+	min-height: calc(100vh - 60px);
+	padding: 0 4.167%;
+	margin-top: -60px; // no header
+	&::after {
+		content: '';
+		position: fixed;
+		top: calc(100vh - 48px);
+		right: 0;
+		display: block;
+		height: 48px;
+		width: 100%;
+//		background-color: black;
+		z-index: 1;
+	}
+	@media screen and (min-width: 600px) {
+		margin-top: -32px; // 20px shows -> .5 title em
+		padding: 0 8.33%;
+	}
+	@media screen and (min-width: 768px) {
+		margin-top: 0;
+		&::after {
+			content: '';
+			position: absolute;
+			top: -60px;
+			right: 0;
+			display: block;
+			height: calc(100% + 60px);
+			width: 36px;
+//			background-color: black;
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		grid-template-columns: 6fr 4fr;
+		grid-template-rows: minmax(2rem, auto) minmax(2rem, auto) 1fr; // b/c min 100vh requirement
+		grid-template-areas: "title pic"
+							 "meta pic"
+							 "text ppl";
+		max-width: calc(1200px + 16.67%);
+		margin: 0 auto;
+	}
+}
+
+/* Title */
+
+.project-content__title {
+	position: relative;
+	grid-area: title;
+	justify-self: start;
+	align-self: start;
+	display: inline-block;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	font-size: 2.5rem;
+	font-weight: 900;
+	line-height: 1;
+	text-align: center;
+	z-index: 1;
+	span {
+		color: rgba(20,20,20,1);
+	}
+	@media screen and (min-width: 600px) {
+		font-size: 3rem;
+	}
+	@media screen and (min-width: 768px) {
+		justify-self: center;
+		font-size: 4rem;
+	}
+	@media screen and (min-width: 1024px) {
+		justify-self: start;
+		margin-top: 0;
+		margin-right: .5em;
+		text-align: left;
+	}
+}
+
+/* Image */
+
+.project-content__img {
+	position: relative;
+	grid-area: pic;
+	align-self: start;
+	position: relative;
+	width: 109.1%; // 100% / 91.67% = 100vw
+	justify-self: center;
+	img {
+		max-width: 100%;
+	}
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	div {
+		position: relative;
+		display: inline-block;
+		img {
+			position: relative;
+			max-width: 100%;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		width: 100%;
+		img {
+			display: inline-block;
+			max-width: 100%;
+		}
+	}
+	@media screen and (min-width: 768px) {
+	//	margin-left: 8.33%;
+	}
+	@media screen and (min-width: 900px) {
+
+	}
+	@media screen and (min-width: 1024px) {
+		justify-content: flex-start;
+		div {
+			img {
+			//	border: 1px solid rgba(0,0,0,.7);
+				box-shadow: 4px 4px 0 0 rgba(0,0,0,.5);
+			}
+		}
+	}
+}
+
+/* Metadata */
+
+.project-content__metadata {
+	grid-area: meta;
+	align-self: start;
+	position: relative;
+	display: flex;
+	flex-flow: row nowrap;
+	padding: .5em 1em;
+	@media screen and (min-width: 400px) {	
+		padding: .5em 20px;
+	}	
+	@media screen and (min-width: 768px) {
+		justify-content: center;
+		margin: 0 auto;
+		padding: .5rem 2rem;
+		font-size: 1.25rem;
+		line-height: 1.2;
+	}
+	@media screen and (max-width: 1023px) {	
+		border: 1px solid black;
+	}
+	@media screen and (min-width: 1024px) {
+		justify-content: start;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+		padding-right: 2rem;
+	}
+}
+
+/* NB: collaborators is 1 level above year & category, nesting-wise */
+.project-content__year, .project-content__category, .project-content__collaborators {
+	position: relative;
+	display: flex;
+	flex-flow: column nowrap;
+	margin: 0;
+	margin-bottom: 1em;
+	padding: 0;
+	font-family: "base-mono-narrow", monospace;
+	font-weight: 200;
+	span {
+		display: inline-block;
+		font-family: "base-mono-wide", monospace;
+		font-weight: 400;
+		text-transform: uppercase;
+		white-space: nowrap;
+	}
+
+}
+
+.project-content__year {
+	grid-area: year;
+	margin-bottom: 0;
+	padding-right: 1rem;
+	@media screen and (min-width: 400px) {
+		padding-right: 30px; // .75 title em
+	}
+	@media screen and (min-width: 768px) {
+		padding-right: 2rem; // .5 title em
+	}
+	@media screen and (min-width: 1024px) {
+		margin-bottom: 1em;
+	}
+}
+
+.project-content__category {
+	grid-area: cat;
+	margin-bottom: 0;
+	@media screen and (min-width: 1024px) {
+		margin-bottom: 1em;
+	}
+}
+
+/* Collaborators */
+
+.project-content__collaborators {
+	grid-area: ppl;
+	justify-self: start;
+	align-self: start;
+	line-height: 1;
+	span {
+		margin-bottom: 1em;
+		font-size: 1.25rem;
+	}
+	@media screen and (max-width: 1023px) {
+		span {
+			padding-top: 1em;
+			border-top: 1px solid rgba(0,0,0,1);
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		margin-top: 2rem;
+		font-size: 1.25rem;
+	}
+}
+
+.project-collab__people {
+	position: relative;
+	display: flex;
+	flex-flow: column nowrap;
+	ul {
+		align-self: flex-start;
+		display: flex;
+		flex-flow: column nowrap;
+		margin: 0;
+		margin-bottom: 1em; // 1.5rem;
+		padding: 0;
+		list-style-type: none;
+		&:first-of-type {
+			margin-top: 0;
+		}
+		li {
+			min-width: 12ch;
+			display: inline-block;
+			&:first-of-type {
+				font-weight: 400;
+				a {
+					text-decoration: none;
+					color: black;
+					font-weight: 400;
+				}
+			}
+		} // end li
+	} // end ul
+	@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	}
+	@media screen and (min-width: 1024px) {
+
+	}
+}
+
+/* Text */
+
+.project-content__text {
+	grid-area: text;
+	position: relative;
+	margin: 0; // 1.5rem 0;
+	p {
+		padding: 0;
+		&:first-of-type {
+			margin-top: 20px; // .5 title em
+		}
+		&:last-of-type {
+			margin-bottom: 20px;
+		}
+		a {
+			text-decoration: none;
+			color: black;
+			font-weight: 700;
+			border-bottom: 2px solid hsla(51, 9%, 61%, 1);
+			-moz-transition: background-color .3s;
+			-webkit-transition: background-color .3s;
+			transition: background-color .3s;
+			&:hover, &:focus {
+				background-color: hsla(51, 9%, 61%, 1);
+			}
+		}
+	}
+	@media screen and (min-width: 600px) {
+		p {
+			&:first-of-type {
+				margin-top: 24px; // .5 title em
+			}
+			&:last-of-type {
+				margin-bottom: 24px;
+			}
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		margin-top: 2rem;
+		margin-right: 4rem;
+		// test:
+		padding: 1.25em 1.5em;
+		background-color: white;
+		border: 1px solid black;
+		box-shadow: 4px 4px 0 0 rgba(0,0,0,.5);
+		p {
+			&:first-of-type {
+				margin-top: .25rem;
+			}
+			&:last-of-type {
+				margin-bottom: 0;
+			}
+		}
+	}
+}

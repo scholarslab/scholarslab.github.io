@@ -1,16 +1,25 @@
 <!DOCTYPE html>
-{% include head.html %}
-<body>
-{% include header.html %}
-<main id="main" role="main">
-{{ content }}
-</main>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-<script src="{{ site.baseurl }}/js/main.js" type="text/javascript" charset="utf-8"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js" type="text/javascript" charset="utf-8"></script>
-<script src="https://unpkg.com/lunr/lunr.js" type="text/javascript" charset="utf-8"></script>
-<script src="{{ site.baseurl }}/js/search.js" type="text/javascript" charset="utf-8"></script>
-</body>
-{% include footer.html %}
+	{% include head.html %}
+
+	<body>
+
+		{% include navbar.html %}
+
+		<main id="main" role="main">
+			{{ content }}
+		</main>
+
+		{% include footer.html %}
+
+		<script src="https://unpkg.com/lunr/lunr.js" type="text/javascript" charset="utf-8"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="{{ '/assets/js/lib/hammer.min.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>
+		<script src="{{ '/assets/js/main.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>
+		<script src="{{ '/assets/js/search.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>
+
+	</body>
+
+</html>

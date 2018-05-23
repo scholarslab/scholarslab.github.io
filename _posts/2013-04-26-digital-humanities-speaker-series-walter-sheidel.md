@@ -14,7 +14,7 @@ categories:
 In March, Dr. Walter Scheidel, Dickason Professor in the Humanities, Professor of Classics and History, and Chair of the Department of Classics at Stanford University, spoke about ORBIS, a tool developed at Standord that models the geospatial network of the Roman world.
 
 Summary:
-Ancient societies were shaped by logistical constraints that are almost unimaginable to modern observers. “ORBIS: The Stanford Geospatial Network Model of the Roman World” ([orbis.stanford.edu](http://orbis.stanford.edu/)), for the first time, allows us to understand the true cost of distance in building and maintaining a huge empire with pre-modern technology. This talk explores various ways in which this novel Digital Humanities tool changes and enriches our understanding of ancient history.
+Ancient societies were shaped by logistical constraints that are almost unimaginable to modern observers. “ORBIS: The Stanford Geospatial Network Model of the Roman World” ([orbis.stanford.edu](http://orbis.stanford.edu/)), for the first time, allows us to understand the true cost of distance in building and maintaining a huge empire with pre-modern technology. This talk explores various ways in which this novel Digital Humanities tool changes and enriches our understanding of ancient history. 
 
 The Digital Humanities Speaker Series is co-sponsored by [IATH](http://www.iath.virginia.edu/), [SHANTI](http://shanti.virginia.edu/), and the [Scholars' Lab](http://www.scholarslab.org/).
 

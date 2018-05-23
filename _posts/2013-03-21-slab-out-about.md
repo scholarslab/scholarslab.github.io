@@ -20,4 +20,4 @@ In January 2013, Eric Rochester spoke about digital tools in the [Association fo
 
 Nancy Kechner taught the Pharm D group at the UVa Medical Center to incorporate SPSS into their clinical research, allowing them to present their cutting edge results as Rounds and at conferences. Nancy's also helped the Infectious Disease group to use tools provided by the SLab to further their research.
 
-What are we looking forward to next? [Digital Humanities 2013](http://dh2013.unl.edu) at the University of Nebraska-Lincoln on July 16-19!
+What are we looking forward to next? [Digital Humanities 2013](dh2013.unl.edu) at the University of Nebraska-Lincoln on July 16-19!

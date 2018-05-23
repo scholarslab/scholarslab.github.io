@@ -217,7 +217,7 @@ Edit the cowl file to change the default copyright text. Change the line (line 2
 
     
     <code>options.mark_text = "Copyright ©2014 The Marvellous and awesome Me"
-    <a href="http://scholarslab.org/wp-content/uploads/2015/02/edit-copyright1.png"><img src="http://scholarslab.org/wp-content/uploads/2015/02/edit-copyright1.png" alt="edit-copyright" height="418" class="aligncenter size-full wp-image-11562" width="886"></img></a>
+    <a href="http://scholarslab.org/wp-content/uploads/2015/02/edit-copyright1.png"><img src="http://scholarslab.org/wp-content/uploads/2015/02/edit-copyright1.png" alt="edit-copyright" height="418" class="aligncenter size-full wp-image-11562" width="886"></img></a>                                                  
     </code>
 
 

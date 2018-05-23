@@ -38,6 +38,6 @@ All of the materials are openly accessible through the University of Virginia’
 
 (Note that the files available for download are listed in the top left-hand corner of each Libra listing.)
 
-Having worked on this for over a year, I’m more convinced than ever about the importance of incorporating public engagement and collaboration into humanities doctoral education—not only to help equip emerging scholars for a variety of career outcomes, but also to maintain a healthy, vibrant, and rigorous field. It has been fascinating to connect with scholars working in such a diverse range of stimulating careers, and to see some of the patterns in their experiences.
+Having worked on this for over a year, I’m more convinced than ever about the importance of incorporating public engagement and collaboration into humanities doctoral education—not only to help equip emerging scholars for a variety of career outcomes, but also to maintain a healthy, vibrant, and rigorous field. It has been fascinating to connect with scholars working in such a diverse range of stimulating careers, and to see some of the patterns in their experiences. 
 
 Many, many thanks to everyone who has contributed time and energy to this project—from completing the survey, to reading (or listening to) the preliminary reports, to providing feedback and critique. 

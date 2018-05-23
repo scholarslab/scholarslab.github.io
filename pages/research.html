@@ -1,0 +1,92 @@
+---
+layout: default
+title: Scholarship # -> was 'Research', no 'scholarship' page exists yet
+permalink: /research/
+nav: true
+order: 3
+status: 1/2 done
+time-required: ~4hrs
+notes:
+- Content: generated from research/ dir. Blurb done 'til content team edits. New images acquired!
+- Style: Hopefully mostly done; about to see how things go with the new images.
+- NB: Amanda's organization on the initial nav links wrapped this within a larger frame of "Scholarship", which I dig a lot. Once that wrapper exists, this is no longer a topnav link itself.
+---
+
+<div class="research-landing-wrapper">
+	<div class="research-landing-grid">
+		<div class="research-landing__page-title" aria-label="Landing page">
+			<div class="research-title__text">Research</div>
+		</div>
+		<div class="research-landing__lines1">
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+		<div class="research-landing__lines2">
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+</div>
+
+<div class="research__description">
+	<div class="research-description__text">
+		<!--div class="research-description__title">Our Scholarship</div-->
+		<p>Scholarship is one part critical thinking (research, writing, coding, building, designing, experimenting, play…) and one part communication (traditional publishing and other forms of “making public”, teaching, open source code, other ways for your intellectual community to learn from and build on your work).</p>
+		<p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers.</p>
+	</div>
+</div>
+
+<div class="research-portfolio-wrapper">
+	<div class="research-folio__background--black">
+		<div class="research-folio__background--color">
+			<div class="research-folio__context">
+				<a href="#">Menu</a>
+				<a href="#">Other links</a>
+			</div>
+			<nav class="research-folio__nav">
+				<div class="research-nav__btn--left">&lsaquo;</div>
+				<div class="research-nav__tracker">
+					<span>01</span>
+					<div class="research-tracker__progress"></div>
+					<div class="research-tracker__remaining"></div>
+					<span>{{ site.research | size }}</span>
+				</div>
+				<div class="research-nav__btn--right">&rsaquo;</div>
+			</nav>
+
+			<div class="research-folio__gallery-wrapper">
+				<!-- gallery -->
+				<article class="research-folio__gallery">
+					{% for proj in site.research %}
+					<section class="research-gallery__item">
+						<a href="{{ site.baseurl }}/research/{{ proj.slug }}" aria-label="{{ proj.title }}">
+							<div class="research-item__num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+							<div class="research-item__name">{{ proj.title }}</div> <!-- avoiding title run-in -->
+							<!--div class="research-item__category">{{ proj.research-category }}</div-->
+							<div class="research-item__pic">
+								<div><img src="{{ '/assets/img/research/' | append: proj.thumb-img | relative_url }}" alt="{{ proj.title }}"></div>
+							</div>
+							<div class="research-item__yr">{{ proj.year }}</div>
+						</a>
+					</section>
+					{% endfor %}
+				</article> <!-- end gallery -->
+			</div> <!-- end gallery wrapper -->
+
+		</div> <!-- end color bg -->
+	</div> <!-- end black bg -->
+</div> <!-- end folio wrapper -->

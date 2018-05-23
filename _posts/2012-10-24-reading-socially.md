@@ -10,9 +10,9 @@ tags:
 - praxis program
 ---
 
-As the Praxis team has been discussing the values and drawbacks of anonymity (or pseudonymity) in crowd-sourced interpretation, I've been thinking about what it means to read socially -- more specifically, what we rely on from other readers, and what we provide to other readers.
+As the Praxis team has been discussing the values and drawbacks of anonymity (or pseudonymity) in crowd-sourced interpretation, I've been thinking about what it means to read socially -- more specifically, what we rely on from other readers, and what we provide to other readers. 
 
-Like most everyone, I spend a significant portion of my time reading, in many different formats -- from work-related research in the form of journal articles, news, blog posts, and popular media, to the professional/personal world of Twitter, to purely personal novels and side projects. The network of people around me has a strong effect on my reading patterns. I pick up book based on recommendations of friends with similar taste; I click countless links a day because someone I know or find interesting has mentioned them.
+Like most everyone, I spend a significant portion of my time reading, in many different formats -- from work-related research in the form of journal articles, news, blog posts, and popular media, to the professional/personal world of Twitter, to purely personal novels and side projects. The network of people around me has a strong effect on my reading patterns. I pick up book based on recommendations of friends with similar taste; I click countless links a day because someone I know or find interesting has mentioned them. 
 
 Unfiltered, the volume would be simply overwhelming, so I rely on a variety of cues to decide where to direct my attention. Part of this filtering process has to do with what I'm thinking about or looking for. Another factor is the expertise or particular qualifications of the person recommending something (depending on the context, "qualifications" can mean anything from general brilliance, to specific topic knowledge, to an ability to spot something funny).
 

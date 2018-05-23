@@ -9,7 +9,7 @@ categories:
 - Grad Student Research
 ---
 
-The Scholars' Lab is pleased to welcome our 2011/12 cohort of [Graduate Fellows in Digital Humanities](http://www2.lib.virginia.edu/scholarslab/about/fellowship.html):
+The Scholars' Lab is pleased to welcome our 2011/12 cohort of [Graduate Fellows in Digital Humanities](http://www2.lib.virginia.edu/scholarslab/about/fellowship.html): 
 
 **Gabriel Hankins** from the Department of English, **Randi Lewis** from the Corcoran Department of History, and **Edward Triplett** from the McIntire Department of Art.
 

@@ -1,26 +1,121 @@
 ---
-layout: page
+layout: default
 ---
-{{ content }}
 
-{% assign profile_pictures = site.static_files | where: "basename",page.slug | limit: 1 %}
+{% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %}
 
-{% if profile_pictures == empty %}
-    <img src="{{ site.baseurl }}/assets/images/scholarslab.png" alt="Scholars' Lab Lab">
-{% else %}
-    {% for profile_picture in profile_pictures %}
-      <img src="{{ profile_picture.path }}" alt="{{ page.slug }}">
-    {% endfor %}
-{% endif %}
+<div class="person-wrapper">
+	<div class="person-main-content" aria-label="Main content">
 
-{% assign author_posts = site.posts | where: "author", page.slug %}
-{% if author_posts %}
-  <h2>Posts by {{ page.title }}</h2>
-  <nav class="posts">
-    <ul>
-    {% for post in author_posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</li>
-    {% endfor %}
-    </ul>
-  </nav>
-{% endif %}
+		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
+
+		<div class="person__position">{{ page.position }}</div>
+
+		<div class="person__stats"> <!-- using components/stats-box.scss -->
+			<div class="person-stats__title">Around the Web</div>
+			<div class="person-stats__box">
+				<div>Around the Web</div>
+				{% if page.email !=  nil %}
+				<span>Email:</span>{{ page.email}}<br/>
+				{% endif %}
+				{% if page.twitter != 'None' %}
+				<span>Twitter:</span>@{{ page.twitter }}<br/>
+				{% endif %}
+				{% if page.website != 'None' %}
+				<span>Website:</span><!--a href="{{ page.website }}"-->{{ page.website | remove: 'http://'}}<!--/a--><!--br/-->
+				{% endif %}
+			<!--	{% if page.position != 'None' %}
+				<span>Position:</span>{{ page.position }}
+				{% endif %} -->
+			</div>
+		</div>
+
+		<div class="person__img">
+			{% if profile_pic == empty %}
+			    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
+			{% else %}
+			    {% for pic in profile_pic %}
+			    {% unless pic.path contains 'cropped' %}
+			      <img src="{{ pic.path }}" alt="{{ page.slug }}">
+			    {% endunless %}
+			    {% endfor %}
+			{% endif %}
+		</div>
+
+		<div class="person__description">
+			<div class="person-describe__title">About</div>
+			<div class="person-describe__text">{{ content }}</div>
+			<div class="person-describe__category"> <!-- liquid testing -->
+				<h3>Categories</h3>
+				<ul>
+				{% assign pc = page.people-category %}
+				<!-- staff -->
+				{% if pc contains 'Staff' %}
+					<li>Staff</li>
+				{% endif %}
+
+				<!-- praxis/grad fellows: match years to program -->
+				{% assign yrcheck1 = pc[0] | slice: 0, 2 %}
+				{% assign yrcheck2 = pc[1] | slice: 0, 2 %}
+
+				<!-- grad fellow -->
+				{% if pc contains 'Graduate Fellow' %}
+					{% if yrcheck2 == '20' %}
+						<li>{{ pc[1] }} Graduate Fellow</li>
+					{% elsif yrcheck1 == '20' %}
+						<li> {{ pc[0] }} Graduate Fellow</li>
+					{% else %}
+						<li>Graduate Fellow</li>
+					{% endif %}
+				{% endif %}
+				<!-- praxis -->
+				{% if pc contains 'Praxis Fellow' %}
+					{% if yrcheck1 == '20' %}
+						<li>{{ pc[0] }} Praxis Fellow</li>
+					{% else %}
+						<li>Praxis Fellow</li>
+					{% endif %}
+				{% endif %}
+
+				<!-- LAMI -->
+				{% if pc contains 'LAMI Fellow' %}
+					<li>{{ pc[0] }} LAMI Fellow</li>
+				{% endif %}
+				<!-- technologists -->
+				{% if pc contains 'Student Assistant' %}
+					{% if pc.size == 2 %}
+						<li>{{ pc[0] }} Makerspace Technologist</li>
+					{% else %}
+						<li>Makerspace Technologist</li>
+					{% endif %}
+				{% endif %}
+				</ul>
+			</div>
+		</div> <!-- end 'about' -->
+
+		<!-- list of blog posts by person -->
+		{% assign author_posts = site.posts | where: "author", page.slug %}
+
+		<div class="person__posts">
+			<h2 class="person-posts__title">Recent Posts</h2>
+			{% if author_posts.size >= 1 %}
+		    <ul class="person-posts__list">
+		    {% for post in author_posts limit:3 %}
+				<li>
+					<a href="{{ post.url }}">
+						<div class="person__post-title">{{ post.title }}</div>
+						<span>{{ post.date | date: "%m.%d.%Y" }}</span>
+					</a>
+				</li>
+		    {% endfor %}
+		    </ul>
+		    {% elsif author_posts.size < 1 %}
+		    <p class="person-posts__none-found">There are no posts by {{ page.first_name }} at this time.</p>
+		    {% endif %}
+		</div>
+
+		{% if author_posts.size >= 1 %}
+		<div class="person__cta"><a href="{{ site.baseurl}}/blog">All Posts &rsaquo;</a></div> <!-- using components/link-button.scss -->
+		{% endif %}
+	</div>
+</div>

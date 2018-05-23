@@ -3,13 +3,14 @@ all_day: '0'
 author: jeremy-boggs
 end_date: '2014-09-24'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2014-08-25 10:29:08+00:00
 rsvp: '0'
 slug: makerspace-workshop-intro-to-wearables-and-soft-circuits
 start_date: '2014-09-24'
 start_time: '11:00:00'
 title: 'Makerspace Workshop: Intro to Wearables and Soft Circuits'
+location: 'Scholars&#8217; Lab Common Room'
 ---
 
 Curious about wearable computing but afraid to ask? Have ideas about how to make your life simpler with hacks for your outerwear or accessories?

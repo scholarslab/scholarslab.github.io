@@ -1,0 +1,31 @@
+/**
+ * Explanation:
+ * 1.) Section titles or subtitles.
+ * 2.) Captures all "title" classes, but limits to the prefix for *that* page.
+ *	   Otherwise, styles all "title" classes on site like that, and attribute
+ *	   selectors can only be overridden with "!important".
+ *
+ * View examples at:
+ * 1.) SLab homepage, section titles
+ * 2.) SLab logos gallery, image titles
+ */
+
+/* Example code: */
+[class*="__title"][class*="home-"] {
+	margin-bottom: .5em;
+	margin-top: 1em;
+	font-family: "Raleway", sans-serif;
+	font-size: 1.75rem;
+	font-weight: 900;
+	line-height: 1;
+	text-transform: uppercase;
+	@media screen and (min-width: 600px) {
+		font-size: 2rem;
+	}
+}
+
+/* Corresponding HTML: */
+/* Works on both of these, even if inside other divs:
+<div class="home-hours__title">Open Office Hours</div>
+<div class="home-students__title">Student<br/>Opportunities</div>
+*/

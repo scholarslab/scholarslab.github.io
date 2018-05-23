@@ -53,7 +53,7 @@ With the image in hand, let's fire up ArcMap and get the environment set up:
 
 
 
-
+  
 
   3. **Enable the Georeferencing toolbar** by clicking `Customize > Toolbars > Georeferencing`. The toolbar will appear at the top of the screen, and can be merged into the main top bar by dragging it upwards in the direction of the main navigation controls.
 
