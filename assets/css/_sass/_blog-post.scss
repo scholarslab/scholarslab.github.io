@@ -126,7 +126,14 @@
 .post__content {
 	grid-area: content;
 	position: relative;
-//	font-size: 18px;
+	max-width: 100%;
+	p {
+		position: relative;
+		max-width: 100%;
+		img {
+			max-width: 100%;
+		}
+	}
 	p:first-of-type {
 		&::first-letter {
 			float: left;
