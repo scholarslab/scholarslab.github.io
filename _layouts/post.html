@@ -70,9 +70,9 @@ layout: default
         <div class="post-credits__author">
           <!-- display person pic if exists -->
           {% for image in site.static_files %}
-            {% if image.path contains page.author %}
+            {% if image.path contains page.author and image.path contains 'cropped' %}
                 <div class="post-author__image">
-                  <img src="{{ site.baseurl }}/assets/img/people/{{ page.author }}.jpg" alt="{{ author.name }}">
+                  <img src="{{ site.baseurl }}/assets/img/people/cropped/{{ page.author }}.jpg" alt="{{ author.name }}">
                 </div>
             {% endif %}
           {% endfor %}

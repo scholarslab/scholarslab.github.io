@@ -145,9 +145,8 @@
 }
 
 .post-credits__author {
-//	display: flex;
+	display: flex;
 	align-items: center;
-	display: none;
 }
 
 .post-author__image {
@@ -157,7 +156,7 @@
 	border-radius: 50%;
 	overflow: hidden;
 	img {
-		height: 100px;
+		max-height: 100%;
 	}
 }
 
