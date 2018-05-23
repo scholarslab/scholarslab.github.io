@@ -1,27 +1,7 @@
 ---
 ---
 
-@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
-
-@import "home";
-@import "navbar";
-// @import "amanda";
-@import "logos";
-@import "makerspace";
-@import "footer";
-@import "text";
-@import "fellowship";
-@import "research";
-@import "progress-tracker"; // only while site under production
-@import "blog-post";
-@import "person";
-@import "events";
-@import "blog";
-@import "flexible-nav";
-@import "spatial-tech";
-@import "research-project";
-
-/* #! General Styles: */
+/* General Styles: */
 
 * {
 	box-sizing: border-box;
@@ -38,3 +18,23 @@ main {
 	padding-top: 60px;
 }
 
+/* Partials: */
+
+@import "universal-styles";
+@import "home";
+@import "navbar";
+// @import "amanda";
+@import "logos";
+@import "makerspace";
+@import "footer";
+@import "text";
+@import "fellowship";
+@import "research";
+@import "progress-tracker"; // only include pre-v1.0.0
+@import "blog-post";
+@import "person";
+@import "events";
+@import "blog";
+@import "flexible-nav";
+@import "spatial-tech";
+@import "research-project";
