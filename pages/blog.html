@@ -41,10 +41,10 @@ notes:
 							Miscellany
 						{% endif %}
 					</span>
-					<!--span>Announcements</span-->
-					<a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
+					<!-- # NB: no slash in href b/c included in post.url -->
+					<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 				</div>
-				<!-- pull quote, or 1st 25 words of post content. -->
+				<!-- # pull quote, or 1st 25 words of post content. -->
 				{% if post.pull-quote %}
 				<div class="blog-item__quote">{{ post.pull-quote | prepend: '"' | append: '"' | smartify }}</div>
 				{% else %}
