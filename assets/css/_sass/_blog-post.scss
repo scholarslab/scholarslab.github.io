@@ -134,7 +134,7 @@
 			max-width: 100%;
 		}
 	}
-	p:first-of-type {
+	& > p:first-of-type {
 		&::first-letter {
 			float: left;
 			padding-right: .5rem;
