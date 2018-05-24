@@ -235,6 +235,21 @@
 	}
 }
 
+// section titles
+// NB: these are often just written as a line of bold text,
+// so am combining this class w/ JS to mimic headings
+.post__section-title {
+	position: relative;
+	font-size: 1.5em;
+	font-family: "Oswald", sans-serif;
+	line-height: 1;
+	margin-top: .75em;
+	margin-bottom: .625em;
+	strong {
+		font-weight: 700;
+	}
+}
+
 /* Footer: */
 
 .post__credits {
@@ -289,7 +304,6 @@
 		font-family: "Raleway", sans-serif;
 		font-weight: 900;
 		line-height: 1;
-	//	text-decoration: underline;
 	}
 	a {
 		font-family: inherit !important;
