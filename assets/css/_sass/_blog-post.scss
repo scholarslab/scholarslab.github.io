@@ -142,6 +142,33 @@
 			color: hsla(186,80%,70%,1);
 		}
 	}
+
+// removes 1st letter styling
+// if 1st para = announcement
+.post-content__letter--default {
+	opacity: .5;
+	padding: 1em 0;
+	&::first-letter {
+		float: initial !important;
+		padding-right: initial !important;
+		font-size: initial !important;
+		font-weight: initial !important;
+		line-height: initial !important;
+		color: initial !important;
+	}
+}
+
+// use in JS on 2nd <p> if 1st paragraph
+// is italicized meta-announcement
+.post-content__letter--styled {
+	&::first-letter {
+		float: left;
+		padding-right: .5rem;
+		font-size: 3em;
+		font-weight: 900;
+		line-height: 1;
+		color: hsla(186,80%,70%,1);
+	}
 }
 
 /* Footer: */

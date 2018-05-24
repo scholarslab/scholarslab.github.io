@@ -157,6 +157,12 @@
 
 	// 4. Blog Post:
 	if (document.querySelector(".post-wrapper")) {
-
+		var postContent = document.querySelector(".post__content");
+		var elems = postContent.children;
+		var first = elems[0];
+		if (first.querySelector("em")) {
+			first.classList.add("post-content__letter--default");
+			elems[1].classList.add("post-content__letter--styled");
+		}
 	}
 })();
