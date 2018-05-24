@@ -149,27 +149,42 @@
 .post__credits {
 	position: relative;
 	grid-area: footer;
+	margin-top: 2em; // paragraph above has 1em by default
+	&::before {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 2px;
+		width: 33%;
+		background-color: hsla(186,80%,70%,.7);
+	}
 }
 
 .post-credits__author {
 	display: flex;
 	align-items: center;
+	padding-top: 1.5rem;
 }
 
 .post-author__image {
 	position: relative;
 	height: 64px;
 	width: 64px;
-	border-radius: 50%;
-	overflow: hidden;
 	img {
 		max-height: 100%;
+		border-radius: 50%;
 	}
 }
 
 .post-author__name {
 	position: relative;
 	padding-left: 1rem;
+	opacity: .5;
+	a {
+		font-weight: 900;
+	}
 }
 
 .post-credits__citation {
@@ -190,15 +205,5 @@
 		font-weight: inherit;
 		color: inherit !important;
 		border: inherit !important;
-	}
-	&::before {
-		content: '';
-		display: block;
-		position: absolute;
-		top: 0;
-		left: 0;
-		height: 2px;
-		width: 33%;
-		background-color: hsla(186,80%,70%,.7);
 	}
 }
