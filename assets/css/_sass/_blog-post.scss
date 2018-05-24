@@ -46,6 +46,7 @@
 	font-size: 3rem;
 	font-weight: 900;
 	line-height: 1;
+	color: hsl(186,1%,25%);
 	span {
 		display: block;
 		padding-bottom: .5em;
@@ -63,6 +64,7 @@
 .post__metadata {
 	grid-area: meta;
 	margin-bottom: .5rem; // + 1rem default <p> spacing = line hieght
+	color: hsl(186,1%,25%);
 }
 
 [class*="post-meta__"] {
@@ -88,6 +90,7 @@
 	padding-right: 1em;
 	a {
 		font-family: "Raleway", sans-serif;
+		color: hsl(186,1%,25%);
 	}
 //	font-weight: 700 !important;
 }
@@ -125,6 +128,7 @@
 	grid-area: content;
 	position: relative;
 	max-width: 100%;
+	color: hsl(186,1%,25%);
 	p {
 		position: relative;
 		max-width: 100%;
@@ -141,6 +145,9 @@
 			line-height: 1;
 			color: hsla(186,80%,70%,1);
 		}
+	}
+	a {
+		color: hsl(186,1%,25%);
 	}
 	blockquote {
 		color: rgba(0,0,0,.5);
