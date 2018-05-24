@@ -129,6 +129,7 @@
 	position: relative;
 	max-width: 100%;
 	color: hsl(186,1%,25%);
+	// # text
 	p {
 		position: relative;
 		max-width: 100%;
@@ -136,6 +137,7 @@
 			max-width: 100%;
 		}
 	}
+	// # first letter
 	& > p:first-of-type {
 		&::first-letter {
 			float: left;
@@ -146,11 +148,53 @@
 			color: hsla(186,80%,70%,1);
 		}
 	}
+	// # links
 	a {
 		color: hsl(186,1%,25%);
 	}
+	// # block quotes
 	blockquote {
 		color: rgba(0,0,0,.5);
+		margin: 1em;
+		margin-left: .75em;
+		padding-left: calc(1.5em - 2px);
+		border-left: 2px solid hsla(186,80%,70%,1);
+	}
+	// # lists
+	ol, ul {
+		position: relative;
+		padding-left: 2.25em;
+		padding-right: 1em;
+		margin: 2em 0;
+	}
+	ol {
+		list-style-type: none;
+		counter-reset: item-num;
+		li {
+			position: relative;
+			&::before {
+				box-sizing: border-box;
+				content: counter(item-num) ".";
+				counter-increment: item-num;
+				position: absolute;
+				top: 0;
+				left: -1.75em;
+				display: inline-block;
+				height: 24px;
+				font-family: "Oswald", sans-serif;
+				font-size: .925rem;
+				font-weight: 400;
+				line-height: 22px;
+				text-align: center;
+			}
+			@media screen and (min-width: 768px) {
+				&::before {
+					height: 27px;
+					font-size: 1.0625rem;
+					line-height: 24px;
+				}
+			}
+		}
 	}
 	@media screen and (min-width: 768px) {
 		font-size: 1.125rem;
