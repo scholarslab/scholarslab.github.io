@@ -207,7 +207,7 @@ notes:
 		<ul class="spatial-people__list">
 			<!-- use Liquid here: -->
 			{% for person in site.people %}
-			{% if person.name == 'Will Rourk' or person.name == 'Arin Bennett' or person.name == 'Chris Gist' or person.name == 'Drew Macqueen' %}
+			{% if person.name == 'Will Rourk' or person.name == 'Arin Bennett' or person.name == 'Chris Gist' or person.name == 'Drew Macqueen' or person.name == 'Cho Jiang' %}
 			<li class="spatial-people__person">
 				<div class="spatial-person__img"><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.name }}"></div>
 				<div class="spatial-person__name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.name }}</a></div> <!-- link to their page -->
@@ -216,7 +216,6 @@ notes:
 			{% endif %}
 			{% endfor %}
 		</ul> <!-- end person list -->
-		<p>... as well as student collaborator Zhiqiu “Cho” Jiang.</p>
 	</div>
 
 	<div class="spatial__inclusion-note">
