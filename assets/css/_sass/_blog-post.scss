@@ -165,7 +165,13 @@
 		position: relative;
 		padding-left: 2.25em;
 		padding-right: 1em;
-		margin: 2em 0;
+		margin: 1.5em 0;
+		li {
+			margin-bottom: .75em;
+			p {
+				margin: 0;
+			}
+		}
 	}
 	ol {
 		list-style-type: none;
