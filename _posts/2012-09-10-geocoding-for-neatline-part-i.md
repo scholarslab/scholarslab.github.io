@@ -44,9 +44,9 @@ While these companies provide access to their information, I did want to take a 
 # First Steps
 
 
-I'll start out by saying it's not necessary for you to do any coding whatsoever to do geocoding. However, this is a good programming exercise, allowing you to work with a number of technologies. If you have no interest in writing custom code for this, you can check out [Google's Fusion Tables](http://support.google.com/fusiontables/bin/answer.py?hl=en&answer=1012281) to do something similar to what I will explain here.
+I'll start out by saying it's not necessary for you to do any coding whatsoever to do geocoding. However, this is a good programming exercise, allowing you to work with a number of technologies. If you have no interest in writing custom code for this, you can check out [Google's Fusion Tables](http://support.google.com/fusiontables/bin/answer.py?hl=en&answer=1012281) to do something similar to what I will explain here. 
 
-The examples in this exercise will be written in Ruby, but the concept can be ported to just about any language ([node](http://search.npmjs.org/#/wheredat), [Python](http://code.google.com/p/geopy/), [PHP](http://geocoder-php.org/), [Haskell](https://github.com/mrd/geocode-google), [jQuery](https://github.com/tristandunn/jquery-auto-geocoder), ...).
+The examples in this exercise will be written in Ruby, but the concept can be ported to just about any language ([node](http://search.npmjs.org/#/wheredat), [Python](http://code.google.com/p/geopy/), [PHP](http://geocoder-php.org/), [Haskell](https://github.com/mrd/geocode-google), [jQuery](https://github.com/tristandunn/jquery-auto-geocoder), ...). 
 
 If you don't have Ruby (use a 1.9 version) installed on your computer, you will need that ([Windows](http://railsinstaller.org/), [OS X](https://rvm.io/), [Linux](https://rvm.io/)). I'll also be using the [Geocoder](http://www.rubygeocoder.com/) gem as well as the built-in Ruby libraries for working with spreadsheets (specifically [CSV](http://en.wikipedia.org/wiki/Comma-separated_values), comma-separated values).
 

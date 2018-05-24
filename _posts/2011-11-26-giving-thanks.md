@@ -44,7 +44,7 @@ I love lists. Here's one I'm thankful for: The things I've learned since I start
 
         
   * When a constrained vocabulary meets an unbound vocabulary, magic happens.
-
+	
 	
   * How to test before you code... and watch Henry at the same time.
 

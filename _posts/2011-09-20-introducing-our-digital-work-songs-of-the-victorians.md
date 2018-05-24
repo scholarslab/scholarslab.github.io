@@ -14,7 +14,7 @@ tags:
 - Victorian
 ---
 
-In response to [Ed’s suggestion](/2011/09/13/getting-to-know-our-praxis-peers-samples-of-our-digital-work/) that we introduce ourselves and our digital work, I thought I would spend some time explaining my own project on Victorian musical settings of Victorian poems, which I developed through the NINES fellowship program here at UVa.
+In response to [Ed’s suggestion](http://www.scholarslab.org/praxis-program/getting-to-know-our-praxis-peers-samples-of-our-digital-work/) that we introduce ourselves and our digital work, I thought I would spend some time explaining my own project on Victorian musical settings of Victorian poems, which I developed through the NINES fellowship program here at UVa.
 
 I study the intersections of music and Victorian poetry, and the final chapter of my dissertation focuses on Victorian musical settings of contemporaneous poems.  I have written papers on such topics in the past, and have discovered that it’s nearly impossible to make arguments that involve music through traditional print media unless one writes for a musical audience.  I have included excerpts of the musical score, which helps the handful of people who can read music, but even fewer of them can actually hear in their mind the music they see on the page.  I’ve seen instances where scholars have included a cd along with their article, but even that is no guarantee that the reader will listen to the music or be able to follow the audio or the argument without guidance.  As a result, I’ve developed a website that can help solve this problem.
 

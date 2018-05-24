@@ -105,7 +105,7 @@ function display_recent_neatline_exhibits() {
 
     // Set them for the loop.
     set_loop_records('NeatlineExhibit', $neatlineExhibits);
-
+ 
     // If we have any to loop, we'll append to $html.
     if (has_loop_records('NeatlineExhibit')) {
 
@@ -130,11 +130,11 @@ function display_recent_neatline_exhibits() {
 
     // Set them for the loop.
     set_loop_records('NeatlineExhibit', $neatlineExhibits);
-
+ 
     // If we have any to loop, we'll append to $html.
     if (has_loop_records('NeatlineExhibit')) {
         $html .= '&lt;ul&gt;';
-
+        
         foreach (loop('NeatlineExhibit') as $exhibit) {
             $html .= '&lt;li&gt;'
                    . nl_getExhibitLink(

@@ -13,7 +13,9 @@ tags:
 - career opportunities
 ---
 
-You might have seen [our opening for a Senior Developer](/2017/04/12/are-you-our-new-senior-developer/)—we're now seeking an additional colleague for our R&D team: DH Developer! [Apply here](http://jobs.virginia.edu/applicants/Central?quickFind=82179) (posting number #0621212), or read on for more information.
+_Note: Applications for this position have closed. [Welcome to new Scholars' Lab DH Developer Zoe LeBlanc](http://scholarslab.org/announcements/welcome-new-dh-developer-zoe-leblanc/)!_
+
+You might have seen [our opening for a Senior Developer](http://scholarslab.org/announcements/are-you-our-new-senior-developer/)—we're now seeking an additional colleague for our R&D team: DH Developer! [Apply here](http://jobs.virginia.edu/applicants/Central?quickFind=82179) (posting number #0621212), or read on for more information.
 
 We welcome applications from women, people of color, LGBTQ, and others who are traditionally underrepresented among software developers. **In particular, we invite you to contact us even if you do not currently consider yourself to be a software developer.** We seek someone with the ability to collaborate and to expand their technical skill set in creative ways.
 
@@ -35,22 +37,22 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
 
 
 
-
+ 	
   * works with scholars from the humanities and social sciences to understand their needs and define project goals
 
-
+ 	
   * provides professional opinions on appropriate project deliverables and reasonable schedules for completion of projects
 
-
+ 	
   * collaborates on building applications that enable scholars and library users to collect, manage, produce, manipulate, or analyze digital information resources in interesting ways
 
-
+ 	
   * writes original code, and tests and improves on existing code
 
-
+ 	
   * learns about and engages with new technologies toward widening and deepening the Scholars' Lab's pool of staff expertise
 
-
+ 	
   * creates documentation for both internal Lab and external non-technical audience use
 
 
@@ -60,22 +62,22 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
 
 
 
-
+ 	
   1. Experience equivalent to one full-time year with **either** a programming language (such as—but not limited to—PHP, Ruby, Python, Java), or HTML, CSS, and JavaScript
 
-
+ 	
   2. 2 years of web development experience, with tech skills demonstrated in an accessible portfolio of work.
 
-
+ 	
   3. Familiarity with a code version control system such as Git.
 
-
+ 	
   4. Ability to work and communicate with technical and non-technical collaborators.
 
-
+ 	
   5. Either education through the master's level **or** equivalent experience through your job, hobbies, or other activities, preferably in the humanities or library/information science.
 
-
+ 	
   6. Interest in the humanities (literature, history, art, cultural heritage, etc.)
 
 
@@ -83,19 +85,19 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
 
 
 
-
+ 	
   1. Graduate degree **or** equivalent professional or other experience in the humanities or social sciences.
 
-
+ 	
   2. Knowledge of and interest in the digital humanities.
 
-
+ 	
   3. Experience with collaborative project work.
 
-
+ 	
   4. Experience with any of the following: data collections, analysis, visualization, and interpretation; front-end web development and design; back-end web development; systems and database management; text analysis or image analysis methods and tools; frameworks such as Rails, Django, and Zend; TEI, XML, Solr, Cocoon, Tomcat.
 
-
+ 	
   5. Experience taking initiative to suggest or begin new projects, and to carry out projects with little supervision.
 
 

@@ -23,7 +23,7 @@ It was a busy week for the Scholars' Lab R&D team, with updates to the [FedoraCo
 ## FedoraConnector
 
 
-David McClure ([davidmcclure](https://github.com/davidmcclure)) greatly improved the workflow for updating metadata from FedoraCommons objects in to an Omeka instance. Users can now set not only system-wide defaults for polling updates to metadata records from a Fedora server, but also on a per-field basis within individual records, giving users greater control over their metadata pulls.
+David McClure ([davidmcclure](https://github.com/davidmcclure)) greatly improved the workflow for updating metadata from FedoraCommons objects in to an Omeka instance ([04b8ee8](http://)). Users can now set not only system-wide defaults for polling updates to metadata records from a Fedora server, but also on a per-field basis within individual records, giving users greater control over their metadata pulls.
 
 
 ## NeatlineMaps
@@ -56,3 +56,5 @@ We spent some time this week moving our Omeka plugins (and other libraries) to a
 To better automate our testing environment, David McClure ([davidmcclure](https://github.com/davidmcclure)) worked out the final issues with automating the testing of our plugins with multiple versions of Omeka. We are currently targeting the [current stable tag of Omeka](https://github.com/omeka/Omeka/tree/stable-1.4), and the [master branch](https://github.com/omeka/Omeka). We are working on turning everything green, but the major work of integrating the plugins in to the test environment is complete. It took a bit of tinkering to get the plugins to build correctly when they're not sitting inside of an Omeka installation tree (as they would in a standard configuration). Watch this space for a more detailed post about how to replicate this set up.
 
 [![](http://www.scholarslab.org/wp-content/uploads/2011/08/omeka-jenkins-300x175.png)](http://www.scholarslab.org/slab-code/this-week-in-open-source/attachment/omeka-jenkins/)
+
+

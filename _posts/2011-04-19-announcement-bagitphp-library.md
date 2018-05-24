@@ -11,7 +11,7 @@ categories:
 
 The Scholars' Lab is pleased to announce the initial release of a PHP library implementing [BagIt 0.96](https://wiki.ucop.edu/display/Curation/BagIt). BagIt is a specification from the [Library of Congress](http://www.loc.gov/) for bundling and transmitting multiple files along with their meta-data. You can check out the project page at [http://github.com/scholarslab/BagItPHP/](http://github.com/scholarslab/BagItPHP/).
 
-Our work on BagItPHP stems from the open source ["Omeka + Neatline"](/2011/02/15/scholars-lab-and-chnm-partner-on-omeka-neatline/) project, a collaboration of the [Scholars' Lab](http://lib.virginia.edu/scholarslab) with the Roy Rosenzweig Center for History and New Media.  "Omeka + Neatline" is supported by the Library of Congress.
+Our work on BagItPHP stems from the open source ["Omeka + Neatline"](http://www.scholarslab.org/announcements/scholars-lab-and-chnm-partner-on-omeka-neatline/) project, a collaboration of the [Scholars' Lab](http://lib.virginia.edu/scholarslab) with the Roy Rosenzweig Center for History and New Media.  "Omeka + Neatline" is supported by the Library of Congress.
 
 
 

@@ -13,7 +13,7 @@ tags:
 - praxis program
 ---
 
-On this [Ada Lovelace Day](http://findingada.com), I'm looking forward and back.  Here's my full post in honor of [humanities computing pioneer Susan Hockey](http://nowviskie.org/2011/ada-lovelace-day-susan-hockey/) (where you can also find links to past years' posts on Johanna Drucker, Bess Sadler, and Leah Buechley). But I'm also spending today feeling appreciative of the a fantastic group of young women -- emerging humanities and social science scholars, technologists, and cultural heritage or scholarly communications workers -- with whom we've been privileged to collaborate in the SLab.
+On this [Ada Lovelace Day](http://findingada.com), I'm looking forward and back.  Here's my full post in honor of [humanities computing pioneer Susan Hockey](http://nowviskie.org/2011/ada-lovelace-day-susan-hockey/) (where you can also find links to past years' posts on Johanna Drucker, Bess Sadler, and Leah Buechley). But I'm also spending today feeling appreciative of the a fantastic group of young women -- emerging humanities and social science scholars, technologists, and cultural heritage or scholarly communications workers -- with whom we've been privileged to collaborate in the SLab.  
 
 So here's a little post in honor of our grad school gals: Scholars' Lab [Graduate Fellows in Digital Humanities](http://www2.lib.virginia.edu/scholarslab/about/fellowship.html) and [Praxis Fellows](http://praxis.scholarslab.org/) past and present.
 

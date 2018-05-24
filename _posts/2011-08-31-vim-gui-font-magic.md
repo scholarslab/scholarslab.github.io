@@ -13,7 +13,7 @@ tags:
 - vim
 ---
 
-Yesterday, [Wayne](/people/wayne-graham/) tweeted [this](http://twitter.com/#!/wayne_graham/status/108550158442184704):
+Yesterday, [Wayne](http://www.scholarslab.org/contributors/wsg4w/) tweeted [this](http://twitter.com/#!/wayne_graham/status/108550158442184704):
 
 
 
@@ -98,3 +98,7 @@ Some nice fonts I've used with Vim over the years include these:
 
 
   * [Lucida Sans Typewriter Regular](http://www.microsoft.com/typography/fonts/font.aspx?FMID=630) (free with many Microsoft products).
+
+
+
+

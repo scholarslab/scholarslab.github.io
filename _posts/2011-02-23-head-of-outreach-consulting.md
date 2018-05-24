@@ -10,7 +10,7 @@ tags:
 - career opportunities
 ---
 
-We're excited to announce a fantastic job opportunity: a faculty-level position at the University of Virginia Library with responsibility for running public services in our growing and well-respected [Scholars' Lab](http://lib.virginia.edu/scholarslab).
+We're excited to announce a fantastic job opportunity: a faculty-level position at the University of Virginia Library with responsibility for running public services in our growing and well-respected [Scholars' Lab](http://lib.virginia.edu/scholarslab).  
 
 
 
@@ -35,9 +35,9 @@ Outreach and Scholars’ Lab Management: oversight of day-to-day operations and 
 
 Working knowledge of digital humanities technologies and directions.  Strong public service orientation and interest in guiding faculty projects from conceptualization to the formulation of workable project plans.  Excellent communication skills, including the ability to present complex technical information to a generalist audience and a clear understanding of the perspectives and needs of the professoriate. Previous experience in public service in an academic library setting and experience in scholarly research, writing, and web development preferred.
 
-**Education:**  Masters Degree or PhD in humanities or social sciences.
+**Education:**  Masters Degree or PhD in humanities or social sciences. 
 **Experience:** 3 years experience with project management and/or hands-on development of digital projects related to digital humanities or cultural heritage.
-**Salary and Benefits:**  Salary commensurate with experience and competitive depending on qualifications. General faculty status. Excellent benefits, including 22 days of vacation; TIAA/CREF and other retirement plans along with generous funding for travel and professional development.
+**Salary and Benefits:**  Salary commensurate with experience and competitive depending on qualifications. General faculty status. Excellent benefits, including 22 days of vacation; TIAA/CREF and other retirement plans along with generous funding for travel and professional development. 
 
 
 
