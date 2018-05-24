@@ -142,6 +142,10 @@
 			color: hsla(186,80%,70%,1);
 		}
 	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.125rem;
+	}
+}
 
 // removes 1st letter styling
 // if 1st para = announcement
