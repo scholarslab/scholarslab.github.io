@@ -142,6 +142,9 @@
 			color: hsla(186,80%,70%,1);
 		}
 	}
+	blockquote {
+		color: rgba(0,0,0,.5);
+	}
 	@media screen and (min-width: 768px) {
 		font-size: 1.125rem;
 	}
