@@ -38,6 +38,6 @@ Next, we're getting started with a third year of the [Praxis Program](http://pra
 **Veronica Ikeshoji-Orlati** (Classical Art & Archaeology)
 **Stephanie Kingsley** (English)
 **Francesca Tripodi** (Sociology)
-and** Zachary Stone** (English)
+and **Zachary Stone** (English)
 
 Keep an eye on the [Scholars' Lab blog](http://www.scholarslab.org/archives/) for news throughout the year, on the work of all of our wonderful graduate fellows!

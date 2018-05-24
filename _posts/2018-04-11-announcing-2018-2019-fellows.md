@@ -37,7 +37,7 @@ We are delighted to welcome 6 diverse disciplinary team members to the 8th year 
 
 Look forward to more details about the Praxis Program's new project in the fall!
 
-** Digital Humanities Prototyping Fellowship**
+**Digital Humanities Prototyping Fellowship**
 
 This year we will welcome 3 students to our short-term fellowship dedicated to boosting nascent digital humanities research in a flexible, collaborative environment.
 

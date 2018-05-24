@@ -21,7 +21,7 @@ Thursday, January 17
 Alderman Library, Room 421
 
 **Meg Stewart**
-** Academic Technology Consultant and Fulbright Ambassador**
+**Academic Technology Consultant and Fulbright Ambassador**
 
 **A Fulbright Scholar in 2009-10 to the University of the West Indies in Barbados, Meg Stewart will talk about her experiences as a geospatial technologist in the Caribbean. Meg will also talk about the [Fulbright Scholar program](http://www.cies.org/) and encourage you to apply for a grant.**
 
