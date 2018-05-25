@@ -2,18 +2,25 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% capture fulltitle %}
+    {% if page.title %}{{ page.title | escape | append: " | Scholars' Lab" }}{% else %}{{ site.title | escape }}{% endif %}
+  {% endcapture %}
 
-  <title>{% if page.title %}{{ page.title | escape | append: " | Scholars' Lab" }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{{ fulltitle }} </title>
   
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  
+  <!-- Open Graph http://ogp.me/ -->
+  <meta property="og:title" content="{{ fulltitle }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ page.url }}" />
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image }}" />
+  {% endif %}
 
   <link href="https://fonts.googleapis.com/icon?family=Raleway:200,400,400i,600,700,700i,900|Oswald:200,400,600,700|Inconsolata:400,700|VT323" rel="stylesheet">
   <link rel="stylesheet" href="https://use.typekit.net/xpo3dxq.css">
   <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-
-  {% if jekyll.environment == 'production' and site.google_analytics %}
-  {% include google-analytics.html %}
-  {% endif %}
 </head>

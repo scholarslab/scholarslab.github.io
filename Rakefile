@@ -1,3 +1,6 @@
+sh 'gem install bundler'
+sh 'bundle install'
+
 require 'date'
 require 'time'
 require 'html-proofer'
@@ -6,12 +9,26 @@ require 'json'
 require 'front_matter_parser'
 require 'open3'
 require 'jekyll'
+require 'ruby-progressbar'
+require 'fileutils'
 
 class String
   def titlecase
     split(/([[:alpha:]]+)/).map(&:capitalize).join
   end
 end
+
+desc "Install dependencies"
+task :install_dependencies do
+    progressbar = ProgressBar.create(
+                    :title => "install dependencies",
+                    :format => "\e[0;33m%t: |%B|\e[0m",
+                    :starting_at => 10)
+    50.times { progressbar.increment; sleep 0.1 }
+    sh 'npm install'
+    progressbar.finish
+end
+
 
 desc "Run travis tests"
 task :test_travis do
@@ -28,7 +45,7 @@ task :test_travis do
       :internal_domains => ['localhost:4000']
     #   :url_swap =>
   }
-
+  
   HTMLProofer.check_directory("./_site", options).run
   sh 'bundle exec jekyll serve --incremental'
 end
@@ -113,6 +130,11 @@ end
 
 desc "Delete corpus files to regenerate"
 task :delete_corpus do
+    progressbar = ProgressBar.create(
+                    :title => "deleting existing files",
+                    :format => "\e[0;34m%t: |%B|\e[0m",
+                    :starting_at => 10)
+    50.times { progressbar.increment; sleep 0.1 }
     if File.file?('./corpus.json')
         File.delete('./corpus.json')
     end
@@ -120,12 +142,18 @@ task :delete_corpus do
         File.delete('./search_index.json')
     end
     if File.exist?('./_site')
-        rm_rf './_site'
+        FileUtils.rm_rf('./_site')
     end
+    progressbar.finish
 end
 
 desc "Create corpus for search"
 file './corpus.json' => ['./', *Rake::FileList['./*.md','_posts/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
+    progressbar = ProgressBar.create(
+                    :title => "creating corpus",
+                    :format => "\e[0;35m%t: |%B|\e[0m",
+                    :starting_at => 10)
+    50.times { progressbar.increment; sleep 0.1 }
     unsafe_loader = ->(string) { YAML.load(string) }
     corpus = md_file.sources.grep(/\.md$/)
       .map do |path|
@@ -144,14 +172,21 @@ file './corpus.json' => ['./', *Rake::FileList['./*.md','_posts/*.md'].exclude('
   File.open(md_file.name, 'w') do |f|
     f << JSON.generate(corpus)
   end
+  progressbar.finish
 end
 
 file './search_index.json' => ['./corpus.json'] do |t|
-  Open3.popen2('script/build-index') do |stdin, stdout, wt|
+  progressbar = ProgressBar.create(
+                    :title => "creating search index",
+                    :format => "\e[0;36m%t: |%B|\e[0m",
+                    :starting_at => 10)
+    50.times { progressbar.increment; sleep 0.1 }
+  Open3.popen2('node script/build-index') do |stdin, stdout, wt|
     IO.copy_stream(t.source, stdin)
     stdin.close
     IO.copy_stream(stdout, t.name)
   end
+  progressbar.finish
 end
 
-task :default => [:delete_corpus, './corpus.json', './search_index.json', :test_travis]
+task :default => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :test_travis]
