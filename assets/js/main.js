@@ -167,7 +167,7 @@
 		// test for elems that are a) bold and b) have only one child
 		// Markdown would be: **Newlines surrounding this statement**
 		for (let elem of elems) {
-			if (elem.querySelector("strong") && elem.children.length === 1) {
+			if (elem.querySelector("strong") && elem.children.length === 1 && elem.innerText.length === elem.querySelector("strong").innerText.length) {
 				elem.classList.add("post__section-title");
 			}
 		}
