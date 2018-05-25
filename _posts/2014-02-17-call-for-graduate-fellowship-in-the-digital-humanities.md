@@ -10,7 +10,7 @@ categories:
 - Grad Student Research
 ---
 
-[![Photo by ericskiff](http://www.scholarslab.org/wp-content/uploads/2014/02/ericskiff-236x300.jpg)](http://www.flickr.com/photos/ericskiff/2925603321/sizes/l/)The [Scholars' Lab](www.scholarslab.org) is proud to announce that applications for our prestigious [Graduate Fellowship in the Digital Humanities](http://www.scholarslab.org/graduate-fellowship-in-digital-humanities/) are being accepted for the 2014-2015 academic year.
+[![Photo by ericskiff](http://www.scholarslab.org/wp-content/uploads/2014/02/ericskiff-236x300.jpg)](http://www.flickr.com/photos/ericskiff/2925603321/sizes/l/)The [Scholars' Lab](http://www.scholarslab.org) is proud to announce that applications for our prestigious [Graduate Fellowship in the Digital Humanities](http://www.scholarslab.org/graduate-fellowship-in-digital-humanities/) are being accepted for the 2014-2015 academic year.
 
 The fellowship supports ABD graduate students doing innovative work in the digital humanities at the University of Virginia. The Scholars’ Lab offers Grad Fellows advice and assistance with the creation and analysis of digital content, as well as consultation on intellectual property issues and best practices in digital scholarship and DH software development.
 

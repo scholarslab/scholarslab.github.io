@@ -23,7 +23,7 @@ It was a busy week for the Scholars' Lab R&D team, with updates to the [FedoraCo
 ## FedoraConnector
 
 
-David McClure ([davidmcclure](https://github.com/davidmcclure)) greatly improved the workflow for updating metadata from FedoraCommons objects in to an Omeka instance ([04b8ee8](http://)). Users can now set not only system-wide defaults for polling updates to metadata records from a Fedora server, but also on a per-field basis within individual records, giving users greater control over their metadata pulls.
+David McClure ([davidmcclure](https://github.com/davidmcclure)) greatly improved the workflow for updating metadata from FedoraCommons objects in to an Omeka instance 04b8ee8. Users can now set not only system-wide defaults for polling updates to metadata records from a Fedora server, but also on a per-field basis within individual records, giving users greater control over their metadata pulls.
 
 
 ## NeatlineMaps
