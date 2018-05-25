@@ -1,3 +1,6 @@
+sh 'gem install bundler'
+sh 'bundle install'
+
 require 'date'
 require 'time'
 require 'html-proofer'
@@ -23,7 +26,6 @@ task :install_dependencies do
                     :starting_at => 10)
     50.times { progressbar.increment; sleep 0.1 }
     sh 'npm install'
-    sh 'bundle install'
     progressbar.finish
 end
 
