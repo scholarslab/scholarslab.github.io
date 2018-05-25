@@ -11,6 +11,7 @@ twitter_username: scholarslab
 permalink: /:year/:month/:day/:title/
 
 # Build settings
+analytics: false
 incremental: true
 sass:
   sass_dir: assets/css/_sass
