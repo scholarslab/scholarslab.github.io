@@ -9,7 +9,7 @@ categories:
 - Research and Development
 ---
 
-As the [Praxis](http://praxis.scholarslab.org) Fellows wrapped up [Ivanhoe](http://ivanhoe.scholarslab.org), I turned my attention to the [Praxis Network](www.praxis-network.org). The Praxis Network, which showcases eight like-minded, but differently enacted programs all exploring new ways of teaching humanities students, began with the goals of creating an easy way to compare a variety of programs and to provide a model for others. The success of the website, prompted new goals of better networking students within the Network as well as allied programs.
+As the [Praxis](http://praxis.scholarslab.org) Fellows wrapped up [Ivanhoe](http://ivanhoe.scholarslab.org), I turned my attention to the [Praxis Network](http://www.praxis-network.org). The Praxis Network, which showcases eight like-minded, but differently enacted programs all exploring new ways of teaching humanities students, began with the goals of creating an easy way to compare a variety of programs and to provide a model for others. The success of the website, prompted new goals of better networking students within the Network as well as allied programs.
 
 After a few conversations with Bethany, Wayne, and Jeremy, we had a basic outline for an open directory of like-minded programs and another directory of Praxis Network students. I realized pretty quickly it is easy to talk through an idea, but much more difficult for me to break the larger idea into a series of small steps. Often breaking down the big into the small makes a great deal of sense; my challenge was to realize small, in this case, means exceptionally tiny and extremely specific.
 

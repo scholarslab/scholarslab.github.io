@@ -15,6 +15,19 @@ class String
   end
 end
 
+desc "Install dependencies"
+task :install_dependencies do
+    progressbar = ProgressBar.create(
+                    :title => "install dependencies",
+                    :format => "\e[0;33m%t: |%B|\e[0m",
+                    :starting_at => 10)
+    50.times { progressbar.increment; sleep 0.1 }
+    sh 'npm install'
+    sh 'bundle install'
+    progressbar.finish
+end
+
+
 desc "Run travis tests"
 task :test_travis do
     sh 'bundle exec jekyll build'
@@ -174,4 +187,4 @@ file './search_index.json' => ['./corpus.json'] do |t|
   progressbar.finish
 end
 
-task :default => [:delete_corpus, './corpus.json', './search_index.json', :test_travis]
+task :default => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :test_travis]

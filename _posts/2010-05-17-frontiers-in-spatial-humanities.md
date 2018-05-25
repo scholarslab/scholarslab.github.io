@@ -14,7 +14,7 @@ tags:
 - speaker series
 ---
 
-**[UPDATE: [video for the "Frontiers" event](/announcements/frontiers-in-spatial-humanities-video/) is now available!]**
+**[UPDATE: [video for the "Frontiers" event](/2010/06/01/frontiers-in-spatial-humanities-video/) is now available!]**
 
 We're crowd-sourcing the keynote to the final round of the Scholars' Lab/NEH 2009-2010 [Institute for Enabling Geospatial Scholarship](http://lib.virginia.edu/scholarslab/geospatial).  With all of these fantastic [attendees](http://www2.lib.virginia.edu/scholarslab/geospatial/participants.html#scholarship) on hand -- not to mention the [Institute faculty](http://www2.lib.virginia.edu/scholarslab/geospatial/index.html#faculty) -- how could we let the opportunity slip by?
 
