@@ -29,9 +29,9 @@ layout: default
                     {{ name | capitalize}}
                 {% endfor %}
         {% endif %}
+        <!-- date: -->
+        on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       </div>
-
-      <div class="post-meta__date">Posted <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></div>
 
       {% assign catsize = page.categories | size %}
       {% if catsize >= 1 %}
