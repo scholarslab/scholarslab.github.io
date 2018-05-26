@@ -42,7 +42,7 @@ notes:
 						{% endif %}
 					</span>
 					<!-- # NB: no slash in href b/c included in post.url -->
-					<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+					<a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a>
 				</div>
 				<!-- # pull quote, or 1st 25 words of post content. -->
 				{% if post.pull-quote %}

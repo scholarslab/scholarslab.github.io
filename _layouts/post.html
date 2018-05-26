@@ -8,7 +8,7 @@ layout: default
 
   <div class="post-main-content">
 
-    <div class="post__big-title"><span aria-label="page type">Blog //</span>{{ page.title }}</div>
+    <div class="post__big-title"><span aria-label="page type">Blog //</span>{{ page.title | replace: ' - ', ': ' }}</div>
 
     <!-- make span an <a> tag to blog home and put h1 tags around page.title w/ the font styles when finalizing -->
 
