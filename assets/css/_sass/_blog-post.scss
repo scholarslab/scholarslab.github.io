@@ -199,7 +199,6 @@
 // if 1st para = announcement
 .post-content__letter--default {
 	opacity: .5;
-	padding: 1em 0;
 	&::first-letter {
 		float: initial !important;
 		padding-right: initial !important;
@@ -238,6 +237,9 @@
 	border-bottom: 2px solid hsl(186,80%,70%);
 	strong {
 		font-weight: 600;
+	}
+	@media screen and (min-width: 600px) {
+		margin-top: 1em;
 	}
 }
 
