@@ -143,6 +143,11 @@
 		padding-left: calc(1.5em - 2px);
 		border-left: 2px solid hsla(186,80%,70%,1);
 	}
+	// # code
+	pre {
+		max-width: 100%;
+		white-space: pre-wrap;
+	}
 	// # lists
 	ol, ul {
 		position: relative;
