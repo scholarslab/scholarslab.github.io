@@ -42,20 +42,23 @@
 	position: relative;
 	grid-area: title;
 	margin-bottom: .5em;
-	margin-top: 1em;
-	font-size: 3rem;
+	margin-top: 1.5em;
+	font-size: 2rem;
 	font-weight: 900;
 	line-height: 1;
-	color: hsl(186,1%,25%);
 	span {
 		display: block;
-		padding-bottom: .5em;
 		font-size: .5em;
 		font-family: "base-mono-wide";
-	//	font-weight: 400;
 		text-transform: uppercase;
 		color: hsla(186,80%,70%,1);
-	//	transform: translate(0, 6px);
+		transform: translate(0, -50%);
+	}
+	@media screen and (min-width: 600px) {
+		font-size: 2.5rem;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 3rem;
 	}
 }
 
