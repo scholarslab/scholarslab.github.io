@@ -1,5 +1,5 @@
 (function() {
-	// flexible-nav.html
+	// 1. Flexible Nav:
 	(function() {
 		var menu 	  = document.querySelector(".flexnav-main-grid");
 		var menuItems = menu.children;
@@ -63,36 +63,10 @@
 					}	
 				});
 			}
-		} // end function definitions
-	})(); // end flexible-nav.html
-	
-	// Research gallery:
-	(function() {
-		if (document.querySelector(".research-main-content")) {
-			var items = document.querySelectorAll(".research__item");
-			var galleries = document.querySelectorAll(".research-items-wrapper");
-
-			document.addEventListener("DOMContentLoaded", setItemHeight)
-
-			window.addEventListener("resize", setItemHeight);
-
-			// equalize width & height
-			function setItemHeight() {
-				var width = items[0].offsetWidth;
-				for (let item of items) {
-					var newHeight = width.toString() + "px";
-					item.style.height = newHeight;
-				}
-
-	//			var rowHeight = (width / 2).toString() + "px";
-	//			for (let gallery of galleries) {
-	//				gallery.style.gridAutoRows = "minmax(" + rowHeight + ", auto)";
-	//			}
-			}
 		}
 	})();
 
-	// Progress Tracker:
+	// 2. Progress Tracker:
 	if (document.querySelector(".progress-main-wrapper")) {
 		var statusElems = document.querySelectorAll(".progress-item__status div");
 		var statuses = Array.from(statusElems, status => status.innerText.slice(1));
@@ -116,7 +90,7 @@
 		}
 	}
 
-	// Research:
+	// 3. Research Page:
 	if (document.querySelector(".research-landing-wrapper")) {
 		var widthOnLoad = window.innerWidth;
 		var galleryParent = document.querySelector(".research-folio__gallery-wrapper");
@@ -132,26 +106,9 @@
 		btnRight.addEventListener("click", moveGalleryRight);
 		btnLeft.addEventListener("click", moveGalleryLeft);
 
-		// #! okay, this doesn't work right now, but is for making up for difference
-		//	  between mobile item widths and width > 500px (diff is 60px but compounds as click)
-		window.addEventListener("resize", adjustForWidth)
-
-		function adjustForWidth() {
-			var translateOld = parseInt(gallery.getAttribute("data-translateX"));
-			if (window.innerWidth <= 500 && widthOnLoad >= 500) {
-				gallery.style.transform = `translateX(-${Math.abs(translateOld) + 0}px)`;
-			}
-			else {
-				gallery.style.transform = `translateX(-${Math.abs(translateOld)}px)`;
-			}
-		}
-
-		// if pan left/right on gallery
-	//	mc.on("panright", panGalleryRight);
-	//	mc.on("panleft", panGalleryLeft);
-
+		// go forward in gallery
 		function moveGalleryRight() {
-			var screenWidth = galleryItems[0].offsetWidth * Math.floor(galleryParent.offsetWidth / galleryItems[0].offsetWidth); // galleryParent.offsetWidth;
+			var screenWidth = galleryItems[0].offsetWidth * Math.floor(galleryParent.offsetWidth / galleryItems[0].offsetWidth);
 			var totalWidth = galleryItems[0].offsetWidth * galleryItems.length;
 			var translateOld = parseInt(gallery.getAttribute("data-translateX"));
 			var maxTranslate = Math.floor(totalWidth / screenWidth) * screenWidth - (screenWidth - (totalWidth%screenWidth));
@@ -165,7 +122,7 @@
 				gallery.setAttribute("data-translateX", `-${Math.abs(translateOld) + screenWidth}`);
 			}
 		}
-
+		// go backward in gallery
 		function moveGalleryLeft() {
 			var screenWidth = galleryItems[0].offsetWidth * Math.floor(galleryParent.offsetWidth / galleryItems[0].offsetWidth);
 			var translateOld = parseInt(gallery.getAttribute("data-translateX"));
@@ -180,17 +137,39 @@
 			}
 		}
 
-		function panGalleryRight() {
+		// okay, this doesn't work right now, but
+		// is for making up for difference between mobile
+		// item widths and width > 500px (diff is 60px but
+		// compounds as click through gallery)
+		window.addEventListener("resize", adjustForWidth)
+
+		// ^corresponding function:
+		function adjustForWidth() {
 			var translateOld = parseInt(gallery.getAttribute("data-translateX"));
-			var percentage = 100 * (Math.abs(translateOld) / gallery.offsetWidth);
+			if (window.innerWidth <= 500 && widthOnLoad >= 500) {
+				gallery.style.transform = `translateX(-${Math.abs(translateOld) + 0}px)`;
+			}
+			else {
+				gallery.style.transform = `translateX(-${Math.abs(translateOld)}px)`;
+			}
 		}
+	}
 
-		
-
-		// run on initial load
-//		document.addEventListener("DOMContentLoaded", resizeMenu)
-		// repeat on resize
-//		window.addEventListener("resize", resizeMenu)
-	} // end research
-
+	// 4. Blog Post:
+	if (document.querySelector(".post-wrapper")) {
+		var postContent = document.querySelector(".post__content");
+		var elems = postContent.children;
+		var first = elems[0];
+		if (first.querySelector("em") && first.innerText.length === first.querySelector("em").innerText.length) {
+			first.classList.add("post-content__letter--default");
+			elems[1].classList.add("post-content__letter--styled");
+		}
+		// test for elems that are a) bold and b) have only one child
+		// Markdown would be: **Newlines surrounding this statement**
+		for (let elem of elems) {
+			if (elem.querySelector("strong") && elem.children.length === 1 && elem.innerText.length === elem.querySelector("strong").innerText.length) {
+				elem.classList.add("post__section-title");
+			}
+		}
+	}
 })();

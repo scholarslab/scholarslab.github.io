@@ -18,8 +18,10 @@
 .post-wrapper {
 	position: relative;
 	padding: 0em 4.167%;
+	padding-bottom: 3rem;
 	@media screen and (min-width: 600px) {
 		padding: 0em 8.33%;
+		padding-bottom: 3rem;
 	}
 	@media screen and (min-width: 1024px) {
 		max-width: calc(800px + 16.67%);
@@ -40,19 +42,23 @@
 	position: relative;
 	grid-area: title;
 	margin-bottom: .5em;
-	margin-top: 1em;
-	font-size: 3rem;
+	margin-top: 1.5em;
+	font-size: 2rem;
 	font-weight: 900;
 	line-height: 1;
 	span {
 		display: block;
-		padding-bottom: .5em;
 		font-size: .5em;
 		font-family: "base-mono-wide";
-	//	font-weight: 400;
 		text-transform: uppercase;
 		color: hsla(186,80%,70%,1);
-	//	transform: translate(0, 6px);
+		transform: translate(0, -50%);
+	}
+	@media screen and (min-width: 600px) {
+		font-size: 2.5rem;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 3rem;
 	}
 }
 
@@ -60,56 +66,36 @@
 
 .post__metadata {
 	grid-area: meta;
-	margin-bottom: .5rem; // + 1rem default <p> spacing = line hieght
+	padding-bottom: 1em;
+	color: hsl(186,1%,25%);
 }
 
 [class*="post-meta__"] {
 	position: relative;
 	font-family: "base-mono-narrow", monospace;
 	font-weight: 200;
-	line-height: 1;
+	line-height: 1.5;
 	a {
 		font-family: "base-mono-narrow", monospace !important;
-//		border-bottom: 2px solid transparent !important;
+		font-weight: 200;
+		color: hsl(186,1%,25%);
 	}
 }
 
 .post-meta__quote {
-//	display: none;
 	margin-bottom: 1em;
 	font-size: 1.5rem;
-//	font-style: italic;
-	line-height: 1;
 	font-family: "Raleway", sans-serif;
 	font-weight: 900;
+	line-height: 1;
 	color: rgba(0,0,0,.5);
 }
 
 .post-meta__author {
-	display: inline-block;
-	padding-right: 1em;
-//	font-weight: 700 !important;
+
 }
 
-.post-meta__date {
-	@media screen and (min-width: 600px) {
-		display: inline-block;
-		padding-left: 2em;
-		color: rgba(0,0,0,.5);
-		&::before {
-			content: '//';
-			position: absolute;
-			left: 0;
-			top: 0;
-			font-weight: bold;
-			color: hsla(186,80%,70%,1);
-		}
-	}
-}
-
-.post-meta__categories, .post-meta__tags {
-//	display: none;
-	margin-top: 2px;
+.post-meta__categories {
 	a {
 		color: rgba(0,0,0,.5) !important;
 	}
@@ -124,8 +110,18 @@
 .post__content {
 	grid-area: content;
 	position: relative;
-//	font-size: 18px;
-	p:first-of-type {
+	max-width: 100%;
+	color: hsl(186,1%,25%);
+	// # text
+	p {
+		position: relative;
+		max-width: 100%;
+		img {
+			max-width: 100%;
+		}
+	}
+	// # first letter
+	& > p:first-of-type {
 		&::first-letter {
 			float: left;
 			padding-right: .5rem;
@@ -135,6 +131,116 @@
 			color: hsla(186,80%,70%,1);
 		}
 	}
+	// # links
+	a {
+		color: hsl(186,1%,25%);
+	}
+	// # block quotes
+	blockquote {
+		color: rgba(0,0,0,.5);
+		margin: 1em;
+		margin-left: 0;
+		padding-left: calc(1.5em - 2px);
+		border-left: 2px solid hsla(186,80%,70%,1);
+	}
+	// # code
+	pre {
+		max-width: 100%;
+		white-space: pre-wrap;
+	}
+	// # lists
+	ol, ul {
+		position: relative;
+		padding-left: 2.25em;
+		padding-right: 1em;
+		margin: 1.5em 0;
+		li {
+			margin-bottom: .75em;
+			p {
+				margin: 0;
+			}
+		}
+	}
+	ol {
+		list-style-type: none;
+		counter-reset: item-num;
+		li {
+			position: relative;
+			&::before {
+				box-sizing: border-box;
+				content: counter(item-num) ".";
+				counter-increment: item-num;
+				position: absolute;
+				top: 0;
+				left: -1.75em;
+				display: inline-block;
+				height: 24px;
+				font-family: "Oswald", sans-serif;
+				font-size: .925rem;
+				font-weight: 400;
+				line-height: 22px;
+				text-align: center;
+			}
+			@media screen and (min-width: 768px) {
+				&::before {
+					height: 27px;
+					font-size: 1.0625rem;
+					line-height: 24px;
+				}
+			}
+		}
+	}
+	@media screen and (min-width: 600px) {
+		font-size: 1.125rem;
+	}
+}
+
+// removes 1st letter styling
+// if 1st para = announcement
+.post-content__letter--default {
+	opacity: .5;
+	&::first-letter {
+		float: initial !important;
+		padding-right: initial !important;
+		font-size: initial !important;
+		font-weight: initial !important;
+		line-height: initial !important;
+		color: initial !important;
+	}
+}
+
+// use in JS on 2nd <p> if 1st paragraph
+// is italicized meta-announcement
+.post-content__letter--styled {
+	&::first-letter {
+		float: left;
+		padding-right: .5rem;
+		font-size: 3em;
+		font-weight: 900;
+		line-height: 1;
+		color: hsla(186,80%,70%,1);
+	}
+}
+
+// section titles
+// NB: these are often just written as a line of bold text,
+// so am combining this class w/ JS to mimic headings
+.post__section-title {
+	position: relative;
+	font-size: 1.75em;
+	font-family: "Oswald", sans-serif;
+	line-height: 1;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	padding-bottom: calc(.25em - 2px);
+	color: hsl(186,1%,25%);
+	border-bottom: 2px solid hsl(186,80%,70%);
+	strong {
+		font-weight: 600;
+	}
+	@media screen and (min-width: 600px) {
+		margin-top: 1em;
+	}
 }
 
 /* Footer: */
@@ -142,28 +248,42 @@
 .post__credits {
 	position: relative;
 	grid-area: footer;
+	margin-top: 2em; // paragraph above has 1em by default
+	&::before {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 2px;
+		width: 33%;
+		background-color: hsla(186,80%,70%,.7);
+	}
 }
 
 .post-credits__author {
-//	display: flex;
+	display: flex;
 	align-items: center;
-	display: none;
+	padding-top: 1.5rem;
 }
 
 .post-author__image {
 	position: relative;
 	height: 64px;
 	width: 64px;
-	border-radius: 50%;
-	overflow: hidden;
 	img {
-		height: 100px;
+		max-height: 100%;
+		border-radius: 50%;
 	}
 }
 
 .post-author__name {
 	position: relative;
 	padding-left: 1rem;
+	opacity: .5;
+	a {
+		font-weight: 900;
+	}
 }
 
 .post-credits__citation {
@@ -177,22 +297,11 @@
 		font-family: "Raleway", sans-serif;
 		font-weight: 900;
 		line-height: 1;
-	//	text-decoration: underline;
 	}
 	a {
 		font-family: inherit !important;
 		font-weight: inherit;
 		color: inherit !important;
 		border: inherit !important;
-	}
-	&::before {
-		content: '';
-		display: block;
-		position: absolute;
-		top: 0;
-		left: 0;
-		height: 2px;
-		width: 33%;
-		background-color: hsla(186,80%,70%,.7);
 	}
 }

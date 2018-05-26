@@ -8,7 +8,7 @@ layout: default
 
   <div class="post-main-content">
 
-    <div class="post__big-title"><span aria-label="page type">Blog //</span>{{ page.title }}</div>
+    <div class="post__big-title"><span aria-label="page type">Blog //</span>{{ page.title | replace: ' - ', ': ' }}</div>
 
     <!-- make span an <a> tag to blog home and put h1 tags around page.title w/ the font styles when finalizing -->
 
@@ -29,9 +29,9 @@ layout: default
                     {{ name | capitalize}}
                 {% endfor %}
         {% endif %}
+        <!-- date: -->
+        on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       </div>
-
-      <div class="post-meta__date">Posted <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></div>
 
       {% assign catsize = page.categories | size %}
       {% if catsize >= 1 %}
@@ -70,9 +70,9 @@ layout: default
         <div class="post-credits__author">
           <!-- display person pic if exists -->
           {% for image in site.static_files %}
-            {% if image.path contains page.author %}
+            {% if image.path contains page.author and image.path contains 'cropped' %}
                 <div class="post-author__image">
-                  <img src="{{ site.baseurl }}/assets/img/people/{{ page.author }}.jpg" alt="{{ author.name }}">
+                  <img src="{{ site.baseurl }}/assets/img/people/cropped/{{ page.author }}.jpg" alt="{{ author.name }}">
                 </div>
             {% endif %}
           {% endfor %}
@@ -90,8 +90,8 @@ layout: default
 
         <!-- cite post -->
         <div class="post-credits__citation">
-            <span>Cite this post: </span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on {{ "now" | date: "%b %d, %y" }}.        </div>
-
+            <span>Cite this post: </span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on {{ "now" | date: "%B %d, %Y" }}.
+        </div>
       {% endfor %}
       <!-- END BLOCK -->
 

@@ -84,7 +84,7 @@ tags="Timeline, simile, chronology, time, temporal"
 
 [/code]
 
-This file is what the Omeka admin interface uses to display information about your plugin. Two things that may not be initially obvious are the** omeka_minimimum_version** and **omeka_tested_up_to** lines. One fact you'll learn about software development, especially with API development, is as projects mature, the needs of the API grow along with them. You want to be able to mitigate potential issues should the plugin API change by explicitly setting the minimum revision number that your plugin is tested against (you can get older revisions from the SVN tags repo at [https://omeka.org/svn/tags/](https://omeka.org/svn/tags/)).
+This file is what the Omeka admin interface uses to display information about your plugin. Two things that may not be initially obvious are the **omeka_minimimum_version** and **omeka_tested_up_to** lines. One fact you'll learn about software development, especially with API development, is as projects mature, the needs of the API grow along with them. You want to be able to mitigate potential issues should the plugin API change by explicitly setting the minimum revision number that your plugin is tested against (you can get older revisions from the SVN tags repo at [https://omeka.org/svn/tags/](https://omeka.org/svn/tags/)).
 
 
 <blockquote>**Note:** you can run multiple versions of Omeka on your machine for testing by checking out separate versions of the software in you web tree. For instance, you can have **localhost/omeka1.0**, **localhost/omeka1.1**, **localhost/omeka_trunk**. Setting this up is beyond the scope of this post (be sure to set up separate databases), but if you have questions, leave a comment.</blockquote>
