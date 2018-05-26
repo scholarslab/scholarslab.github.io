@@ -79,13 +79,18 @@
 .blog-gallery__item {
 	position: relative;
 	display: grid;
-	grid-template-columns: auto auto 1fr;
-	grid-template-areas: "title title title"
-						 "pull pull pull"
-						 "author date ....";
+	grid-template-columns: auto 1fr;
+	grid-template-areas: "title"
+						 "meta";
 	margin-bottom: 1.75rem;
 	padding: 1.3125rem;
 	border: 1px solid hsla(186,80%,70%,1);
+	@media screen and (min-width: 600px) {
+		grid-template-columns: auto auto 1fr;
+		grid-template-areas: "title title title"
+							 "pull pull pull"
+							 "meta meta ....";
+	}
 	@media screen and (min-width: 1024px) {
 		margin-bottom: 2.5rem;
 		padding: 1.875rem;
