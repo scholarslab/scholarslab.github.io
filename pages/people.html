@@ -10,10 +10,10 @@ notes:
 ---
 
 <!-- people categories: staff, students, & alumni -->
-{% assign staff = site.people | where: 'people-category', 'Staff' | where: 'status', 'current' %}
+{% assign staff = site.people | where: 'people-category', 'Staff' | where: 'status', 'current' | sort: 'last_name' %}
 <!-- filter to ensure they're not in staff when printing: -->
-{% assign students = site.people | where: 'status', 'current' | where_exp: 'person', "person.people-category[0] != 'Staff'" %}
-{% assign alumni = site.people | where: 'status', 'not_current' %}
+{% assign students = site.people | where: 'status', 'current' | where_exp: 'person', "person.people-category[0] != 'Staff'" | sort: 'last_name' %}
+{% assign alumni = site.people | where: 'status', 'not_current' | sort: 'last_name' %}
 
 <div class="people-wrapper">
   <header class="people-page-header">
