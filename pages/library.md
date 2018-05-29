@@ -10,10 +10,7 @@ notes:
 - NB: time estimate is for prototype, not any kind of fancy page.
 ---
 
-We're part of the UVA Library's mission to provide equitable access to learning to everyone, and we're proud that librarian superpowers are part of our toolkit!
-
-<h2>Colleagues</h2>
-We frequently collaborate with and rely on our colleagues in the Library.
+We're part of the UVA Library's mission to provide equitable access to learning to everyone, and we're proud that librarian superpowers are part of our toolkit! We frequently collaborate with and rely on our colleagues in the Library.
 
 Some of these folks don't work directly with students, staff, or faculty outside the Library, but they're critical to everything we do. These include Guy Mengel's team for housekeeping our spaces and keeping them safe, Stephanie Crooks for assisting with events logistics, and Robin Ruggaber's team for IT and UX support. Phylissa Mitchell keeps our library's focus on inclusion, diversity, and equity. Dave Hennigan helps us design and manage grant-supported scholarship.
 
