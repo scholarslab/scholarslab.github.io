@@ -9,8 +9,12 @@ notes:
 - Style: not started. Using simple grid gallery as base.
 ---
 
+<!-- people categories: staff, students, & alumni -->
+{% assign staff = site.people | where: 'people-category', 'Staff' | where: 'status', 'current' %}
+<!-- filter to ensure they're not in staff when printing: -->
+{% assign students = site.people | where: 'status', 'current' | where_exp: 'person', "person.people-category[0] != 'Staff'" %}
+{% assign alumni = site.people | where: 'status', 'not_current' %}
 <h2>Staff</h2>
-{% assign staff = site.people | where:"people-category","Staff" | where:"status","current" %}
 <nav class="people" role="navigation">
 
 
