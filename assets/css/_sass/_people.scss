@@ -30,6 +30,7 @@
 	@media screen and (min-width: 768px) {
 		padding: 0 4.167%;
 		padding-top: 3rem; // 2 line heights
+		font-size: 1.125rem;
 	}
 	@media screen and (min-width: 1024px) {
 		padding: 0 8.33%;
@@ -52,13 +53,15 @@
 .people-staff__gallery {
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
 /* Gallery items: */
 
 .people-item-wrapper {
 	position: relative;
+	margin-right: 1em;
+	margin-bottom: 1em;
 	a {
 		position: relative;
 		display: flex;
