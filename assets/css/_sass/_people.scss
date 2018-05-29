@@ -50,19 +50,32 @@
 /* Staff gallery: */
 
 .people-staff__gallery {
-
+	position: relative;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 
 /* Gallery items: */
 
 .people-item-wrapper {
-
+	position: relative;
+	a {
+		position: relative;
+		display: flex;
+		flex-flow: column nowrap;
+		width: 100%;
+		height: 100%;
+	}
 }
 
 /* Image: */
 
 .people-item__img {
-
+	position: relative;
+	max-width: 100%;
+	img {
+		max-width: 100%;
+	}
 }
 
 /* Name: */
