@@ -30,15 +30,17 @@ notes:
       <div class="people-staff__gallery">
         <!-- gallery item: -->
         {% for person in staff %}
-        {% assign profile_pictures = site.static_files | where: "basename", person.slug | limit: 1 %}
+        {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
         <div class="people-item-wrapper">
           <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
             <div class="people-item__img">
-            {% if profile_pictures == empty %}
+            {% if profile_pic == empty %}
               <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
             {% else %}
-              {% for profile_picture in profile_pictures %}
-              <img src="{{ profile_picture.path }}" alt="{{ person.name }}">
+              {% for pic in profile_pic %}
+              {% unless pic.path contains 'cropped' %}
+                <img src="{{ pic.path }}" alt="{{ person.slug }}">
+              {% endunless %}
               {% endfor %}
             {% endif %}
             </div>
