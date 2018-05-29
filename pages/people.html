@@ -14,31 +14,48 @@ notes:
 <!-- filter to ensure they're not in staff when printing: -->
 {% assign students = site.people | where: 'status', 'current' | where_exp: 'person', "person.people-category[0] != 'Staff'" %}
 {% assign alumni = site.people | where: 'status', 'not_current' %}
-<h2>Staff</h2>
-<nav class="people" role="navigation">
 
+<div class="people-wrapper">
+  <header class="people-page-header">
+    <div class="people-header__big-title">Our People</div>
+    <div class="people-header__subtitle"><!-- unsure if needed, but leaving structure in case --></div>
+  </header>
 
-{% for person in staff %}
-  <a href="{{ site.url }}/people/{{ person.slug }}">
-    {% assign profile_pictures = site.static_files | where: "basename",person.slug | limit: 1 %}
-    {% if profile_pictures == empty %}
-        <div class="image"><img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab"></div>
-    {% else %}
-        {% for profile_picture in profile_pictures %}
-          <div class="image"><img src="{{ profile_picture.path }}" alt="{{ person.name }}"></div>
-        {% endfor %}
-    {% endif %}
-  <span class="fn name">{{ person.name }}</span>
-  <span class="title">{{ person.position }}</span>
-  </a>
-{% endfor %}
-</nav>
-
+  <article class="people-main-content">
+    <!-- staff: -->
+    <section class="people__staff">
+      <div class="people-staff__title">Staff</div>
+      <!-- NB: insert number of ppl; maybe color code by what we do (r&d, spatial tech, etc.) -->
+      <!-- staff gallery: -->
+      <div class="people-staff__gallery">
+        <!-- gallery item: -->
+        {% for person in staff %}
+        {% assign profile_pictures = site.static_files | where: "basename", person.slug | limit: 1 %}
+        <div class="people-item-wrapper">
+          <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
+            <div class="people-item__img">
+            {% if profile_pictures == empty %}
+              <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
+            {% else %}
+              {% for profile_picture in profile_pictures %}
+              <img src="{{ profile_picture.path }}" alt="{{ person.name }}">
+              {% endfor %}
+            {% endif %}
+            </div>
+            <div class="people-item__name">{{ person.name }}</div>
+            <div class="people-item__position">{{ person.position }}</div>
+          </a>
+        </div>
+        {% endfor %} <!-- end item -->
+      </div> <!-- end gallery -->
+    </section> <!-- end staff -->
+  </article>
+</div>
+<!--
 <h2>Alumni</h2>
-<nav class="people" role="navigation">
 {% assign everyone = site.people %}
 {% for person in everyone %}
   {% if person.status != 'current' %}
     <a href="{{ site.url }}/people/{{ person.slug }}">{{ person.name }}</a>
   {% endif %}
-{% endfor %}
+{% endfor %} -->
