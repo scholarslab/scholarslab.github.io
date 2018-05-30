@@ -156,6 +156,28 @@
 	position: relative;
 	margin-right: 2em;
 	margin-bottom: 2.5em;
+//	padding-bottom: 1em;
+/*	&:after {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		right: -3em;
+		display: block;
+		height: 1px;
+		width: 3em;
+		background-color: rgba(0,0,0,.5); // #ccc;
+	}
+	&:before {
+		content: '';
+		position: absolute;
+		bottom: -1.5em;
+		right: calc(-1.5em + .5px);
+		display: block;
+		height: 3em;
+		width: 1px;
+		background-color: rgba(0,0,0,.5); // #ccc;
+		z-index: 1;
+	} */
 	a {
 		position: relative;
 		display: flex;
