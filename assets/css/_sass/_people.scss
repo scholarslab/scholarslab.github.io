@@ -116,10 +116,29 @@
 
 .people__staff {
 	position: relative;
+	background-color: white;
 }
 
 .people-staff__title {
-
+	position: relative;
+//	padding-left: 2rem;
+	font-size: 2em;
+	font-weight: 900;
+	line-height: 1;
+	text-transform: uppercase;
+	color: hsla(186, 80%, 80%, 1); // white;
+	background-color: black;
+//	border-bottom: .25em solid hsla(186, 80%, 90%, 1);
+	span {
+		position: relative;
+		display: inline-block;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 3em;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 3.5em;
+	}
 }
 
 /* Staff gallery: */
@@ -127,7 +146,8 @@
 .people-staff__gallery {
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-auto-rows: minmax(293px, auto);
 }
 
 /* Gallery items: */
