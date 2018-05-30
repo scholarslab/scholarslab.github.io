@@ -54,13 +54,185 @@ notes:
         {% endfor %} <!-- end item -->
       </div> <!-- end gallery -->
     </section> <!-- end staff -->
-  </article>
-</div>
-<!--
-<h2>Alumni</h2>
-{% assign everyone = site.people %}
-{% for person in everyone %}
-  {% if person.status != 'current' %}
-    <a href="{{ site.url }}/people/{{ person.slug }}">{{ person.name }}</a>
-  {% endif %}
-{% endfor %} -->
+
+    <!-- students: -->
+    <section class="people__students">
+      <div class="people-students__title"><div></div><span>Students</span><div></div></div>
+      <!-- NB: insert number of ppl; maybe color code by what we do (r&d, spatial tech, etc.) -->
+      <!-- student gallery: -->
+      <div class="people-students__gallery">
+        <!-- gallery item: -->
+        {% for person in students %}
+        {% unless person.people-category contains 'Staff' %}
+        {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
+        <div class="people-item-wrapper">
+          <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
+            <div class="people-item__img">
+            {% if profile_pic == empty %}
+              {% assign num = forloop.index | modulo:4 %}
+              {% if num == 0 %}
+              <img src="{{ site.baseurl }}/assets/img/people/elizabeth-mitchell.jpg" alt="[Default image] Screwdrivers close-up">
+              {% elsif num == 1 %}
+              <img src="{{ site.baseurl }}/assets/img/people/marysia-serafin.jpg" alt="[Default image] Cute toy">
+              {% elsif num == 2 %}
+              <img src="{{ site.baseurl }}/assets/img/people/tanner-greene.jpg" alt="[Default image] Clamps close-up">
+              {% else %}
+              <img src="{{ site.baseurl }}/assets/img/people/nic-dalton.jpg" alt="[Default image] Screwdrivers close-up">
+              {% endif %}
+            {% else %}
+              {% for pic in profile_pic %}
+              {% unless pic.path contains 'cropped' %}
+                <img src="{{ pic.path }}" alt="{{ person.slug }}">
+              {% endunless %}
+              {% endfor %}
+            {% endif %}
+            </div>
+            <div class="people-item__name">{{ person.name }}</div>
+            <div class="people-item__position">
+              {% assign pc = person.people-category %}
+
+              <!-- praxis/grad fellows: match years to program -->
+              {% assign yrcheck1 = pc[0] | slice: 0, 2 %}
+              {% assign yrcheck2 = pc[1] | slice: 0, 2 %}
+
+              <!-- grad fellow -->
+              {% if pc contains 'Graduate Fellow' %}
+                {% if yrcheck2 == '20' %}
+                  <li>{{ pc[1] }} Graduate Fellow</li>
+                {% elsif yrcheck1 == '20' %}
+                  <li> {{ pc[0] }} Graduate Fellow</li>
+                {% else %}
+                  <li>Graduate Fellow</li>
+                {% endif %}
+              <!-- prototyping fellow -->
+              {% elsif pc contains 'Prototyping Fellow' %}
+                {% if yrcheck2 == '20' %}
+                  <li>{{ pc[1] }} Prototyping Fellow</li>
+                {% elsif yrcheck1 == '20' %}
+                  <li> {{ pc[0] }} Prototyping Fellow</li>
+                {% else %}
+                  <li>Prototyping Fellow</li>
+                {% endif %}
+              {% endif %}
+              <!-- praxis -->
+              {% if pc contains 'Praxis Fellow' %}
+                {% if yrcheck1 == '20' %}
+                  <li>{{ pc[0] }} Praxis Fellow</li>
+                {% else %}
+                  <li>Praxis Fellow</li>
+                {% endif %}
+              {% endif %}
+              <!-- LAMI -->
+              {% if pc contains 'LAMI Fellow' %}
+                <li>{{ pc[0] }} LAMI Fellow</li>
+              {% endif %}
+              <!-- technologists -->
+              {% if pc contains 'Student Assistant' %}
+                {% if pc.size == 2 %}
+                  <li>{{ pc[0] }} Makerspace Technologist</li>
+                {% else %}
+                  <li>Makerspace Technologist</li>
+                {% endif %}
+              {% endif %}
+            </div>
+          </a>
+        </div>
+        {% endunless %}
+        {% endfor %} <!-- end item -->
+      </div> <!-- end gallery -->
+    </section> <!-- end students -->
+
+    <!-- alumni: -->
+    <section class="people__alumni">
+      <div class="people-alumni__title"><div></div><span>Alumni</span><div></div></div>
+      <!-- NB: insert number of ppl; maybe color code by what we do (r&d, spatial tech, etc.) -->
+      <!-- alumni gallery: -->
+      <div class="people-alumni__gallery">
+        <!-- gallery item: -->
+        {% for person in alumni %}
+        {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
+        <div class="people-item-wrapper">
+          <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
+            <!-- image: -->
+            <div class="people-item__img">
+            {% if profile_pic == empty %}
+              {% assign num = forloop.index | modulo:4 %}
+              {% if num == 0 %}
+              <img src="{{ site.baseurl }}/assets/img/people/nic-dalton.jpg" alt="[Default image] Screwdrivers close-up">
+              {% elsif num == 1 %}
+              <img src="{{ site.baseurl }}/assets/img/people/marysia-serafin.jpg" alt="[Default image] Cute toy">
+              {% elsif num == 2 %}
+              <img src="{{ site.baseurl }}/assets/img/people/tanner-greene.jpg" alt="[Default image] Clamps close-up">
+              {% else %}
+              <img src="{{ site.baseurl }}/assets/img/people/elizabeth-mitchell.jpg" alt="[Default image] Screwdrivers close-up">
+              {% endif %}
+            {% else %}
+              {% for pic in profile_pic %}
+              {% unless pic.path contains 'cropped' %}
+                <img src="{{ pic.path }}" alt="{{ person.slug }}">
+              {% endunless %}
+              {% endfor %}
+            {% endif %}
+            </div>
+            <!-- name: -->
+            <div class="people-item__name">{{ person.name }}</div>
+            <!-- position(s) -->
+            <ul class="people-item__position">
+              {% assign pc = person.people-category %}
+
+              <!-- staff: -->
+              {% if pc contains 'Staff' %}
+              <li>Former {{ person.position }}</li>
+              {% endif %}
+
+              <!-- praxis/grad fellows: match years to program -->
+              {% assign yrcheck1 = pc[0] | slice: 0, 2 %}
+              {% assign yrcheck2 = pc[1] | slice: 0, 2 %}
+
+              <!-- grad fellow -->
+              {% if pc contains 'Graduate Fellow' %}
+                {% if yrcheck2 == '20' %}
+                  <li>{{ pc[1] }} Graduate Fellow</li>
+                {% elsif yrcheck1 == '20' %}
+                  <li> {{ pc[0] }} Graduate Fellow</li>
+                {% else %}
+                  <li>Graduate Fellow</li>
+                {% endif %}
+              <!-- prototyping fellow -->
+              {% elsif pc contains 'Prototyping Fellow' %}
+                {% if yrcheck2 == '20' %}
+                  <li>{{ pc[1] }} Prototyping Fellow</li>
+                {% elsif yrcheck1 == '20' %}
+                  <li> {{ pc[0] }} Prototyping Fellow</li>
+                {% else %}
+                  <li>Prototyping Fellow</li>
+                {% endif %}
+              {% endif %}
+              <!-- praxis -->
+              {% if pc contains 'Praxis Fellow' %}
+                {% if yrcheck1 == '20' %}
+                  <li>{{ pc[0] }} Praxis Fellow</li>
+                {% else %}
+                  <li>Praxis Fellow</li>
+                {% endif %}
+              {% endif %}
+              <!-- LAMI -->
+              {% if pc contains 'LAMI Fellow' %}
+                <li>{{ pc[0] }} LAMI Fellow</li>
+              {% endif %}
+              <!-- technologists -->
+              {% if pc contains 'Student Assistant' %}
+                {% if pc.size == 2 %}
+                  <li>{{ pc[0] }} Makerspace Technologist</li>
+                {% else %}
+                  <li>Makerspace Technologist</li>
+                {% endif %}
+              {% endif %}
+            </ul>
+          </a>
+        </div>
+        {% endfor %} <!-- end item -->
+      </div> <!-- end gallery -->
+    </section> <!-- end alumni -->
+  </article> <!-- end main content -->
+</div> <!-- end wrapper -->
