@@ -60,12 +60,42 @@
 	position: relative;
 }
 
-.people-header__big-title {
+/* Header: */
 
+.people-page-header {
+	position: relative;
+	display: grid;
+	align-items: center;
+	justify-content: start;
+	padding: 0 4.167%;
+	background-color: black;
+	color: white;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+	}
+	@media screen and (min-width: 1200px) {
+		padding: 0 4.25em;
+	}
 }
 
-.people-header__subtitle {
-
+.people-header__big-title {
+	position: relative;
+	margin: 1em 0;
+	font-size: 3rem;
+	font-weight: 600;
+	font-family: "Oswald", sans-serif;
+	line-height: 1;
+	text-transform: uppercase;
+	@media screen and (min-width: 768px) {
+		font-size: 4.5rem;
+	//	margin-bottom: 0;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 6.75rem;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 7.875rem;
+	}
 }
 
 /* Main content: */
