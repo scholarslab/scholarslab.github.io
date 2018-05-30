@@ -32,7 +32,7 @@ exclude:
 collections:
   people:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:slug/
   research:
     output: true
     permalink: /:collection/:name/

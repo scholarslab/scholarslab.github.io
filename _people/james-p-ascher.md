@@ -9,7 +9,7 @@ name: James P. Ascher
 position: None
 short_bio: 'James P. Ascher is a doctoral student in the English Department at the
 University of Virginia and a dedicated bibliographer.'
-slug: james-ascher
+slug: james-p-ascher
 status: not_current
 twitter: jpsa
 website: http://virginia.academia.edu/JamesPAscher
