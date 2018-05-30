@@ -221,4 +221,11 @@
 
 }
 
+.people-alumni__gallery {
+	a {
+		color: rgba(0,0,0,.7);
+		.people-item__position {
+			color: rgba(0,0,0,.5);
+		}
+	}
 }
