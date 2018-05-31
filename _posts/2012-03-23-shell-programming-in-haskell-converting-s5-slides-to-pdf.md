@@ -8,14 +8,6 @@ categories:
 - Research and Development
 ---
 
-
-
-
-# Shell Programming in Haskell: Converting S5 Slides to PDF
-
-
-
-
 Recently, I gave an introduction to Python for Chris’ and Kelly’s [GIS Workshop](http://tinyurl.com/s12gis). It was a really great experience, and we had a lot of fun learning about Python and how to use it with ArcGIS.
 
 

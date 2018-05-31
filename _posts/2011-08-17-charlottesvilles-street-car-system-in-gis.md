@@ -17,9 +17,6 @@ tags:
 - map
 ---
 
-# Background
-
-
 Did you know that Charlottesville once had streetcars?  Since moving to town, I've heard tales of the once-thriving transportation system that connected Fry's Spring, UVa and downtown.  It wasn't until an inquiry came in from a student looking for GIS data for the system that I investigated it.
 
 [caption id="attachment_1917" align="aligncenter" width="470"][![](http://www.scholarslab.org/wp-content/uploads/2011/08/muleCar-1024x520.jpg)](http://www.scholarslab.org/digital-humanities/charlottesvilles-street-car-system-in-gis/attachment/mulecar/) Mules pulling streetcar on Main St. - Special Collections, University of Virginia Library[/caption]
