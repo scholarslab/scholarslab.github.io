@@ -6,15 +6,6 @@ slug: validating-data-with-types
 title: Validating Data with Types
 ---
 
- 
-
-
-
-# Validating Data with Types
-
-
-
-
 Recently, I had to opportunity to help [J. Warren York](http://politics.virginia.edu/node/181), a graduate student in the Department of Politics here at UVa. He’s looking at how tax law affects political contributions and advocacy, so this was an interesting project that may tell us something useful about how the US government works [insert your favorite broken-government joke here].
 
 

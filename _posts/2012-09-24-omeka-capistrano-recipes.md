@@ -16,7 +16,7 @@ The Scholars' Lab has been working a lot with Omeka over the last several years,
 
 We use [capistrano](https://github.com/capistrano/capistrano/wiki) to automate deployments for our faculty projects, so that was the tool I was using. Basically I have a directory on my computer named `deployments` that contain sub-directories for all the projects I am responsible for deploying. In it are the capistrano scripts I use to manage software deployments on those servers. The actual code lives in various git repositories, and these directories literally just have capistrano scripts for deploying software in them. The basic layout looks like this:
 
-[code lang="bash"]
+```
 $ ls -l | awk '{print $9}'
 
 Gemfile
@@ -27,7 +27,7 @@ hotchkiss.neatline.org
 lovecraft.neatline.org
 neatline.org
 sandbox.neatline.org 
-[/code]
+```
 
 When I need to deploy a new release, I just go in to that  project's directory and use `cap deploy` and not worry about much. 
 

@@ -16,9 +16,9 @@ Unfortunately, one of our flagship projects, [Neatline](http://neatline.org/), i
 
 We've published these playbooks on [Github](https://github.com/) in the [`neatline.dev` repository, on the `mac-ansible` branch](https://github.com/erochest/neatline.dev/tree/mac-ansible). You can get this by cloning it to your local machine. (Since this is for getting started developing Neatline, I assume that you're already comfortable with [git](http://git-scm.com/). If not, [there](http://rogerdudler.github.io/git-guide/) [are](https://try.github.io/) [lots](http://www.git-tower.com/learn/) [of](http://gitimmersion.com/) [great](http://www.vogella.com/tutorials/Git/article.html) [tutorials](http://git-scm.com/book).)
 
-[code lang=bash]
+```
 $ git clone --branch mac-ansible https://github.com/erochest/neatline.dev.git
-[/code]
+```
 
 
 
@@ -41,10 +41,10 @@ In creating this, I've aimed for starting from a stock Mac. And I missed pretty 
 
 Once those two are on your machine, you can install the other two dependencies. These are available through [Homebrew](http://brew.sh/). So open Terminal and type these lines:
 
-[code lang=bash]
+```
 $ brew install python
 $ brew install ansible
-[/code]
+```
 
 That's all. You should be ready to go.
 
@@ -56,7 +56,7 @@ That's all. You should be ready to go.
 
 This project includes a number settings that you can change to customize your installation. Those are found in the file [`playbook.yaml`](https://github.com/erochest/neatline.dev/blob/mac-ansible/playbook.yaml). The relevant section is labelled `vars`, and it allows you to set information about the Omeka database (`omeka_db_user`, `omeka_db_password`, and `omeka_db_name`), which version of Omeka you wish to use (`omeka_version`), where you wish to install it (`omeka_dir`), and where you want to point your browser to (`dev_hostname`) as you're working on the site. The defaults are:
 
-[code lang=text]
+```
 vars:
   db_user: root
   db_password:
@@ -69,7 +69,7 @@ vars:
   debug: true
   neatline_repo: git@github.com:scholarslab/Neatline.git
   php_version: 55
-[/code]
+```
 
 Change these to reflect what you'd like your personal Omeka/Neatline installation to look like.
 
@@ -83,10 +83,10 @@ One option that I'll call out in particular is `neatline_repo`. This is the git 
 
 Finally, we're ready to actually create the system. This is quite easy. In the Terminal, from the `neatline.dev` directory, run the `neatline-dev` script.
 
-[code lang=bash]
+```
 $ cd neatline.dev
 $ ./neatline-dev
-[/code]
+```
 
 Now wait.
 

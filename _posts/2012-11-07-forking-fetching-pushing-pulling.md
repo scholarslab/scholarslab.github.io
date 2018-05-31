@@ -48,9 +48,9 @@ Github's own help pages include a nice run-down on [how to fork a repo](https://
 
 Once you have your own fork, you can clone your own repo to your computer to start working on it. In your command line interface of choice, here's the command to do that on your own machine:
 
-[code lang="bash"]
+```
 git clone git@github.com:clioweb/Omeka.git
-[/code]
+```
 
 Now you can make changes and do commits however you like, without any fear of breaking the original repo! As I'll explain later, though, we won't just make commits however we like with our forked project. We'll want to follow some conventions to make our work more productive to send patches back to the original project.
 
@@ -60,9 +60,9 @@ Now you can make changes and do commits however you like, without any fear of br
 
 When you fork a project, you get a copy of it at a specific moment in time. There aren't any built-in ways of automatically getting updates from the original repo after you forked it. The developers on the original repo are (hopefully!) going to keep developing on the project, and you'll want to get those updates regularly. You'll need to fetch those updates through git, and to do that you'll need to add another remote that points back to the original repo. To add this, you'll need to be in your clone's directory, then use the `git remote` command to `add` the original repo as a remote:
 
-[code lang="bash"]
+```
 git remote add upstream https://github.com/omeka/Omeka.git
-[/code]
+```
 
 This creates a remote named `upstream` to our remotes list, and points to the origina Omeka repository. You could name this something other than "upstream" if you prefer.
 
@@ -70,16 +70,16 @@ After adding this `upstream` remote, you should have not one, but _two_ remotes.
 
 _Now_ you can get any updates from the original project, merge them back into your own repository, then push those back to your fork. Making sure you're on your local `master` branch, you can do either of these:
 
-[code lang="bash"]
+```
 git fetch upstream
 git merge upstream/master
-[/code]
+```
 
 **-or-**
 
-[code lang="bash"]
+```
 git pull upstream master
-[/code]
+```
 
 The latter is just a shortcut for the former.
 
@@ -95,9 +95,9 @@ While you can add multiple features to a single topic branch, you might run into
 
 To make a branch, you'd use:
 
-[code lang="bash"]
+```
 git checkout -b my-topic-branch
-[/code]
+```
 
 Here you would replace 'my-topic-branch' with whatever you'd want the name of your topic branch to be. You'll want to name your topic branch something brief but descriptive, mainly to help you remember what that branch is about. For example, I recently [submitted a pull request](https://github.com/omeka/Omeka/pull/363) that added an options parameter to Omeka's JavaScript queueing functions. I named that topic branch `queue-js-options`.
 
@@ -109,9 +109,9 @@ As an aside, commit messages should provide enough description for someone to un
 
 Once you have all your commits for a feature or bug fix ready, now you can push your topic branch up to your fork on Github to share it with others:
 
-[code lang="bash"]
+```
 git push -u origin my-topic-branch
-[/code]
+```
 
 The -u flag will create a new branch to your fork on Github called 'my-topic-branch'. After you do this, you continue to make changes on that branch, you can push them up to your Github fork without the -u flag.
 

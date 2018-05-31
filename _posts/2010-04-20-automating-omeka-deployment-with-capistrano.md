@@ -20,27 +20,27 @@ To show off the power of this software, I thought I'd write up how we use capist
 
 The first step in getting your Omeka project automated for capistrano is ensuring both the capistrano and railsless-deploy gems are installed (if you're not a ruby-ist, [gem](http://docs.rubygems.org/read/book/1) is a package manager for Ruby applications and libraries):
 
-[code lang="bash"]
+```
 sudo gem install capistrano railsless-deploy
-[/code]
+```
 
 Capistrano installs a new command on your system called "capify" which sets up the boilerplate for capistrano. Just execute the capify script in your project directory:
 
-[code lang="bash"]
+```
 cd /path/to/project/trunk
 capify .
-[/code]
+```
 
 This will create two files, Capfile in your root directory and a config/deploy.rb. You'll need to edit the Capfile ever so slightly to add the requirement for the railsless-deploy gem. It should read as follows:
 
-[code lang="ruby"]
+```
 load 'deploy' if respond_to?(:namespace) # cap2 differentiator
 # Dir['vendor/plugins/*/recipes/*.rb'].each { |plugin| load(plugin) }
 
 require 'rubygems'
 require 'railsless-deploy'
 load    'config/deploy'
-[/code]
+```
 
 Now we just need to do some setup in the config/deploy.rb file to tell capistrano about Omeka. This is where you need to know a little about how your server is set up and you may need to slightly change your server set up in order to use capistrano. The way capistrano works is that it creates a releases directory on your path that holds "deployments" of you project. The latest version of the project is then symlinked the project directory into the releases. This allows you to very quickly undo a deployment that goes awry.
 
@@ -60,7 +60,7 @@ As an example, we deploy projects to /usr/local/projects, so our omeka project w
 
 If you're setting up Omeka, you will need to redirect the base Directory to the "current" symlink. Here's the vhost entry we use for Omeka as an example (this is an Ubuntu server; you may need to change the log file path if you are deploying to another operating system).
 
-[code lang="bash"]
+```
 <VirtualHost *:80>
 ServerName your.server.org
 DocumentRoot /usr/local/projects/omeka/current/
@@ -74,11 +74,11 @@ Allow from all
 ErrorLog /var/log/apache2/omeka_error.log
 TransferLog /var/log/apache2/omeka_access.log
 </VirtualHost>
-[/code]
+```
 
 Now, to edit the config/deploy.rb file to set things up for automated deployments.
 
-[code lang="ruby"]
+```
 # You must always specify the application and repository for every recipe. The
 # repository must be the URL of the repository you want this recipe to
 # correspond to. The deploy_to path must be the path on each machine that will
@@ -152,11 +152,11 @@ end
 after 'deploy:symlink', 'deploy:upload_database_config', 'deploy:link_archives_dir'
 after 'deploy:cold', 'deploy:chmod_archives_dir', 'deploy:move_archives_dir'
 after 'deploy', 'deploy:cleanup'
-[/code]
+```
 
 Ok, there's a lot going on here. I'll briefly explain what's going on, but there should be enough here for you to start hacking. But let's see what tasks capistrano know about and you can call. If you are still in your project directory, just type cap -T to list all the capistrano tasks. Your output should look similar to this:
 
-[code lang="bash"]
+```
 cap deploy                        # Deploys your project.
 cap deploy:check                  # Test deployment dependencies.
 cap deploy:chmod_archive_dir      # Make sure the archives directory has the ...
@@ -189,7 +189,7 @@ tasks, type `cap -vT'.
 
 Extended help may be available for these tasks.
 Type `cap -e taskname' to view it.
-[/code]
+```
 
 To use a specific capistrano task, you just type the command listed. But let's get back to the actual script and go over that briefly. Part of the installation process of Omeka requires you to reset the permissions of the archives directory. This is handled by the chmod_archive_dir. However, because of the way that capistrano deploys applications, the archives folder would get overwritten in every deployment. To get around this, we move the archives directory to the shared folder, then create a symlink from the current directory to the shared/archives directory.
 

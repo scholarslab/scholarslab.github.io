@@ -21,11 +21,11 @@ One of the other issues we discussed was how to best teach "good" practices with
 
 This is a bit of an absurd comparison, but it does highlight that there is a big discrepancy in what JavaScript is capable of and what it is actually good at. There are just some things that JavaScript implements in a weird way. A crazy example of this is something like the following:
 
-[code lang="javascript"]
+```
 
 console.log(++[[]][+[]]+[+[]])
 
-[/code]
+```
 
 If you guessed this expression evaluates to 10, you are correct.
 

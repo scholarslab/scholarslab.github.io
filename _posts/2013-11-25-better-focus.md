@@ -41,12 +41,12 @@ Now, earlier versions (and some current versions) of CSS resets would set the "o
 
 Similarly, but perhaps even more foolishly, I was for a while inclined to think that the act of hovering over a link or form element was equivalent to focusing, so I would very often style these two pseudoclasses in the same CSS rule:
 
-[code language="css"]
+```
 a:hover,
 a:focus {
    color: orange;
 }
-[/code]
+```
 
 You can actually seen an example of this right now on our [Speaking in Code](http://codespeak.scholarslab.org) site. Using the tab key to move between links on the page uses the same styles as hover, but they're not very noticeable, certainly not noticeable enough to know where you've focused when the page scrolls down. Part of the problem here is that the hover/focus styles aren't really different enough from the default link styles anyways, which is something I should address. But with focus, the way a user navigates the page is inherently different, and assuming that hover and focus are equivalent leads to a pretty inaccessible page, even for folks who just tab between links for convenience.
 
@@ -54,7 +54,7 @@ Long story short: I need to do better focus styles. This is a very different met
 
 As a quick example of exploring more prominent styles for link :focus, I created a [new CodePen with some updated styles](http://codepen.io/clioweb/pen/ArtEq):
 
-[code language="css"]
+```
 a:focus {
   outline: thin dotted #60c;
   color: #60c;
@@ -63,7 +63,7 @@ a:focus {
   padding: 2px 0;
   font-weight:bold;
 }
-[/code]
+```
 
 Now if you tab through the links on the page, you'll notice they stand out a bit more. They're intentionally ugly—to show you how different you can actually make these look—but you can change the styles to balance matching your own aesthetic with making the links noticeable enough to see where you've focused on the page.
 

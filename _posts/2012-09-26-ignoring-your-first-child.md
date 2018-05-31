@@ -17,7 +17,7 @@ I usually have instances in my web designs where I would like to apply some styl
 
 The most straightforward way is to just select your element normally in one declaration, then select the first child of that element using the [`:first-child` pseudo-class](http://www.w3.org/TR/CSS2/selector.html#first-child), like so:
 
-[code lang="css"]
+```
 /* Select all list items. */
 li {
     border-top: 1px dotted #ccc;
@@ -27,7 +27,7 @@ li {
 li:first-child {
     border-top:none;
 }
-[/code]
+```
 
 This CSS will make sure each list item is separated by a border, and takes away the top border from the first list item, like so:
 
@@ -39,13 +39,13 @@ When the [`:not` pseudo-class](http://www.w3.org/TR/2001/CR-css3-selectors-20011
 
 So, using the `:not` pseudo-class, we could rewrite our CSS to look like this:
 
-[code lang="css"]
+```
 
 /* Select all list items except the first child. */
 li:not(:first-child) {
     border-top: 1px dotted #ccc;
 }
-[/code]
+```
 
 Nice and simple, and only requires writing one CSS declaration instead of two. And you can see, the results are the same:
 
@@ -55,7 +55,7 @@ I've used this approach in a lot of designs and felt pretty happy with for the m
 
 Only recently did I realize there's a better way, one supported by IE8 **and** IE7 that doesn't require the JavaScript polyfill. That way involves using the the [adjacent sibling selector](http://www.w3.org/TR/CSS2/selector.html#adjacent-selectors), which is just a `+` sign, to select only the list items that are adjacent siblings of another list item. Using the adjacent sibling selector, our CSS would look like this:
 
-[code lang="css"]
+```
 
 /* Select any list item that is an
    adjacent sibling of another list item. */
@@ -63,7 +63,7 @@ li + li {
     border-top: 1px dotted #ccc;
 }
 
-[/code]
+```
 
 This selector doesn't style the first list item, because it doesn't have a sibling before it. And again, the results are the same:
 

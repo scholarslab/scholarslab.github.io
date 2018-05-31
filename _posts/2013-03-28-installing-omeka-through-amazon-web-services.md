@@ -157,9 +157,9 @@ Open the terminal (Applications/utilities/terminal for OS X users); note that yo
 
 Create a new directory called ec2 by running command
 
-[code lange="bash"]
+```
 mkdir -p ~/.ec2
-[/code]
+```
 
 
 [![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-13-300x170.png)](http://www.scholarslab.org/?attachment_id=7133)
@@ -169,9 +169,9 @@ mkdir -p ~/.ec2
 
 **Step 14**: run
 
-[code lang="bash"]
+```
 mv ~/Downloads/[username].pem ~/.ec2
-[/code]
+```
 
 The username is what you generated in Amazon EC2 in step 6.
 
@@ -185,8 +185,8 @@ This moves the pem file to the new directory named .ec2
 
 **Step 15**: Enter and run the command:
 
-[code lang="bash"]chmod 400 ~/.ec2/*.pem
-[/code]
+```chmod 400 ~/.ec2/*.pem
+```
 
 
 [![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-15-300x234.png)](http://www.scholarslab.org/?attachment_id=7135)
@@ -208,9 +208,9 @@ Change _amazon_ to _ubuntu_ so that it looks something like the last line here:
 
 **Step 17:** run
 
-[code lang="bash"]
+```
 sudo apt-get update
-[/code]
+```
 
 to update the server libraries. This command will generate a wall of text.
 
@@ -222,9 +222,9 @@ to update the server libraries. This command will generate a wall of text.
 
 **Step 18:** run
 
-[code lang="bash"]
+```
 sudo apt-get upgrade
-[/code]
+```
 
 .
 
@@ -247,17 +247,17 @@ After the server is up and running, we need to get the components that are neede
 
 NOTE: When logging onto the AWS server, you may be put into the ubuntu directory. You need to get to the main directory. Change the directory and verify by listing the files in that directory.
 
-[code lang="bash"]
+```
 cd /
 ls
-[/code]
+```
 
 [![Screen Shot 2013-02-21 at 7.13.47 PM](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.13.47-PM-300x80.png)](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.13.47-PM.png)
 
-[code lang="bash"]
+```
 sudo apt-get -y install apache2 php5 php5-xsl php5-mysql php5-curl mysql-server zip imagemagick sendmail
 sudo a2enmod rewrite
-[/code]
+```
 
 As part of the installation process, you'll be asked to create a 'root' account for the MySQL server. Just remember whatever you use for this account as you'll need it later to create the database and user for Omeka.
 
@@ -273,13 +273,13 @@ The default location for the web applications for Apache2 is `/var/www/`. For th
 
 Assuming you're still logged on to your server, you will need to issue the following commands to download Omeka:
 
-[code lang="bash"]
+```
 cd /tmp
 curl -O http://omeka.org/files/omeka-1.5.3.zip
 unzip omeka-1.5.3
 sudo mv omeka-1.5.3 /var/www/omeka
 sudo chmod -R 777 /var/www/omeka/archive
-[/code]
+```
 
 
 
@@ -287,7 +287,7 @@ sudo chmod -R 777 /var/www/omeka/archive
 
 Assuming you're still on the server you're wanting to run Omeka on (and you're not wanting to mess with the Amazon RDS), you will need to configure the MySQL database to create a user, a database, and allow the user to work with the database locally. You'll be writing this password to the filesystem, so whatever password you choose, you don't really need to remember what the password is, just where it's at. For this reason, I recommend using a password generator (I use [Strong Password Generator](http://strongpasswordgenerator.com/) for these purposes). Whatever the password is, you will need to replace where I type '[your password]' in the following examples (and don't type the '$'or 'mysql'; these just differentiate the difference between the terminal and mysql prompts):
 
-[code lang="bash"]
+```
 $ mysql -u root -p
 Enter password:
 mysql> create database omeka;
@@ -296,7 +296,7 @@ mysql> grant usage on *.* to omeka_user@localhost identified by '[your password]
 Query OK, 0 rows affected (0.00 sec)
 mysql> grant all privileges on omeka.* to omeka_user@localhost;
 Query OK, 0 rows affected (0.00 sec)
-[/code]
+```
 
 Now that the database is set up, we need to let Omeka know where to go to connect to the database.
 
@@ -308,34 +308,34 @@ If you went to the Omeka path on your system right now (e.g. http://yourEC2.inst
 
 First get into you Omeka folder and find the db.ini file
 
-[code lang="bash"]
+```
 cd /var/www/omeka/
 ls
-[/code]
+```
 
 Then you can get in to edit this file using the sudo vim command.
 
-[code lang="bash"]
+```
 sudo vim db.ini
-[/code]
+```
 
 You'll see the contents of the db.ini file, and instructions to replace the X's with your own information. This can be done by pressing the i, which will allow you to insert your own text as follows:
 
-[code lan="html"]
+```
 host = "localhost"
 username = "omeka_user"
 password = "(password generated in step 20)"
 dbname = "omeka"
-[/code]
+```
 
 [![Screen Shot 2013-02-21 at 7.24.47 PM](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.24.47-PM-300x226.png)](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.24.47-PM.png)
 Leave everything else the same. Hit control + c to exit the edit mode and :wq to write and quit out of the program.
 
 Now restart apache
 
-[code lang="bash"]
+```
 sudo service apache2 restart
-[/code]
+```
 
 In your browser navigate to  http://yourEC2.instance/omeka and you should be ready to install.
 
@@ -344,10 +344,10 @@ In your browser navigate to  http://yourEC2.instance/omeka and you should be re
 **Step 23:** Possible Error
 It may be the case that you see an error about the mod_rewrite not being activated. To fix this, do the following:
 
-[code lan="bash"]
+```
 cd /etc/apache2/sites-available/
 sudo vim default
-[/code]
+```
 
 Now you'll see the default file. You need to change the allow from to all under <Directory /var/www/> using the vim commands you used to change the db.ini file (see image)
 
@@ -355,10 +355,10 @@ Now you'll see the default file. You need to change the allow from to all under 
 
 Now you need to change the .htaccess file in the Install directory
 
-[code lang="bash"]
+```
 cd /var/www/omeka/install
 sudo vim .htaccess
-[/code]
+```
 
 Find the instruction in this document which tells you to uncomment a line and add your own directory. Make the changes using the vim commands from above.
 
@@ -373,9 +373,9 @@ Find the instruction in this document which tells you to uncomment a line and ad
 
 Then restart apache.
 
-[code lang="bash"]
+```
 sudo service apache2 restart
-[/code]
+```
 
 Then navigate in your browser back to your site and you should be able to run the install.
 
@@ -385,7 +385,7 @@ Then navigate in your browser back to your site and you should be able to run th
 
 To add a plugin, navigate to the plugins folder in terminal, copy the link for the plugin download, and run the following commands. This will download a .zip file, unzip the file, and delete the original .zip file. The plugin should then be available in your omeka. The code below shows how to install the Neatline plugin, but this could work for any other plugin.
 
-[code lang="bash"][/code]
+``````
 
 
 cd /var/www/omeka/plugins
@@ -393,4 +393,4 @@ sudo curl -O http://omeka.org/wordpress/wp-content/uploads/Neatline-1.1.2.zip
 sudo unzip Neatline-1.1.2.zip
 sudo rm Neatline-1.1.2.zip
 
-[code][/code]
+``````

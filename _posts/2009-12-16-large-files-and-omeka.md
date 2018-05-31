@@ -12,14 +12,14 @@ This issue came up for a friend of the Scholars' Lab today on Twitter, but it's 
 
 Since Omeka runs on PHP, this is actually a PHP configuration issue and not something you can currently tweak in Omeka. Basically, you just need to tell PHP to allow larger files sizes that are larger than the default. A very easy way to do this is to edit the .htaccess file that Omeka ships with along the following lines:
 
-[code lang="bash"]
+```
 php_value upload_max_filesize 20971520
 php_value post_max_size 20971520
-[/code]
+```
 
 I'll note here that doing things this way only affects your Omeka project. Another way to go about this is to add the above to the Apache configuration that defines from where Omeka should be served. For example:
 
-[code lang="bash"]
+```
 
 <VirtualHost *:80>
 
@@ -39,15 +39,15 @@ DocumentRoot /var/www/omeka
     php_value upload_max_filesize 20M
     php_value post_max_size 20M
 </VirtualHost>
-[/code]
+```
 
 Lastly, you can edit the php.ini file (usually in /etc/php.ini or /etc/php5/apache2/php.ini). Just do a search in the file and change the following settings:
 
-[code lang="bash"]
+```
   memory_limit = 32M
   post_max_size = 20M
   upload_max_size = 20M
-[/code]
+```
 
 You typically don't need to reload Apache (as long as you did not edit the Apache configuration file) to get these settings to work.
 

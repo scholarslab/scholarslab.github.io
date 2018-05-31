@@ -8,9 +8,6 @@ categories:
 - Makerspace
 ---
 
-# Egg Drop Hackontest
-
-
 The Scholars' Lab staff and Makerspace Technologists completed the first ever annual/biannual/semesterly SLab Makerspace Hackontest. The brain-child of Shane Lin, this contest, in short, was to get SLab staff and Makerspace techs together to create something that would keep an egg from cracking; a spin on the traditional egg drop competitions you may have had in middle or high school.
 
 
@@ -162,6 +159,7 @@ Three entries made it to the competition:
 Only one competitor survived all the tests: drop from 2 meters, the full weight of one metric Shane unit on **three** axis, and a second drop from 2 meters...
 
 **Team DragonSpawn!**
+
 ![](http://scholarslab.org/wp-content/uploads/2017/05/20170503_160322-1-e1493907510317-905x1024.jpg)
 
 Congratulations, you get the first SLabby award!
