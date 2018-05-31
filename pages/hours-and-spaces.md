@@ -39,14 +39,14 @@ The Scholars' Lab Common Room provides twenty computer workstations in both solo
 ## The Makerspace
 
 
-The Scholars’ Lab [Makerspace](http://scholarslab.org/makerspace/) is a place for crafting, tinkering, and experimentation with technologies like desktop fabrication, physical computing, and augmented reality. <strong>Open to everyone</strong>—absolutely no prior experience needed!—we specialize in hands-on approaches to research questions in the humanities and arts.</p>
+The Scholars’ Lab [Makerspace](http://scholarslab.org/makerspace/) is a place for crafting, tinkering, and experimentation with technologies like desktop fabrication, physical computing, and augmented reality. <strong>Open to everyone</strong>—absolutely no prior experience needed!—we specialize in hands-on approaches to research questions in the humanities and arts.
 
 [![Partially assembled Sparkfun Inventor's Kit, with an Arduino board, breadboard, and soldering iron](http://scholarslab.org/wp-content/uploads/2014/09/makerspace7-110x110.jpg)](http://scholarslab.org/wp-content/uploads/2014/09/makerspace7.jpg)  [![Makerspace lounge area, with touchscreen and chairs.](http://scholarslab.org/wp-content/uploads/2014/05/makerspace31-110x110.jpg)](http://scholarslab.org/wp-content/uploads/2014/05/makerspace31.jpg)[![The Makerspace printer desk](http://scholarslab.org/wp-content/uploads/2014/05/makerspace4-110x110.jpg)](http://scholarslab.org/wp-content/uploads/2014/05/makerspace4.jpg)
 
 
 
  	
-  * **Hours: ** 1:00 pm - 7:00 pm, Monday through Thursday and 1:00 pm - 5:00 pm, Friday, or by appointment
+  * **Hours:** 1:00 pm - 7:00 pm, Monday through Thursday and 1:00 pm - 5:00 pm, Friday, or by appointment
 
  	
   * **Size:** seating for 8
