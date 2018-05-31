@@ -114,5 +114,4 @@ This is not a manifesto. It’s a statement of our core and shared ethos in the 
 
 We invite our partners and collaborators to sign on.
 
-_June 2016
-_
+*June 2016*

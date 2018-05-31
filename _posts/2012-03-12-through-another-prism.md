@@ -8,7 +8,6 @@ categories:
 - Grad Student Research
 - Research and Development
 tags:
-- Alison Booth
 - mark-up
 - praxis program
 - Prism
