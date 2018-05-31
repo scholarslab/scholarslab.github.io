@@ -20,45 +20,45 @@ Last week I joked with one of our [LAMI fellows](http://www.theleadershipallianc
 
 The way I broke this down was to say we need a few things for this to do. First, we want to be able to see which meme templates can used, and a method to get a URL back with the meme. Using the conventions of HUBOT, I suggested an interface like this
 
-[code]
+```
 user> hubot meme list
 hubot> afraid - Afraid to Ask
 hubot>...
-[/code]
+```
 
 and
 
-[code]
+```
 user> hubot meme me afraid "top message" "bottom message"
 hubot> afraid - Afraid to Ask
 hubot>...
-[/code]
+```
 
 The meme list seemed to be easiest so we tackled that first. We looked at [the list of templates](http://memegen.link/templates/) and needed to simplify. Here I just wanted the keys and a label, so we built our own CoffeeScript object with this pattern:
 
-[code]
+```
 memes =
   "afraid": "'Afraid to Ask'",
   "blb": "Bad Luck Brian",
   "buzz": "X, X Everywhere",
   ...
-[/code]
+```
 
 With the list of memes, we just needed a way to get this to the user. Using the template that all hubot-scripts use, we added:
 
-[code]
+```
 module.exports = (robot) ->robot.respond /meme list/i, (msg) ->
     for code, meme of memes
       msg.send "#{code} - #{meme}"
-[/code]
+```
 
 When the bot hears "hubot meme list", it iterates over each line of the memes and prints out the code (on the left) and the meme (on the right).
 
 After we got this working we shipped the feature. To actually get the input to generate a meme, I knew we were going to have to do something I try not to do too much with novice developers...regular expressions. There's a joke that goes, "if you have a problem that you have to solve with regular expressions, you now have two problems." And the one we need to parse the text input is particularly obscure. So much so that I had to pair with another developer (thanks Eric) to get it correct. I won't go in to detail, but this is the line that we came up with to parse the pattern "hubot meme me afraid "top message" "bottom message"'
 
-[code]
+```
 robot.respond /meme me (\w+) (\"[^"]+\") (\"[^"]+\")/i, (msg) ->
-[/code]
+```
 
 As we were testing this out, former Scholars' Lab fellow [Alex Gil](https://twitter.com/elotroalex) came in to ask some questions about Neatline and generated this
 

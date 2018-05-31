@@ -20,13 +20,13 @@ The two values I most often use are `uppercase` and `lowercase`. `capitalize` wi
 
 To use the upper case for an element, we'll use `text-transform: uppercase;` in our style sheet:
 
-[code lang="css"]
+```
 
 h2 {
     text-transform: uppercase;
 }
 
-[/code]
+```
 
 This will upper-case all `h2` elements on your page, like so:
 
@@ -34,13 +34,13 @@ This will upper-case all `h2` elements on your page, like so:
 
 To use lower case for an element, we'll use `text-transform: lowercase;` in our style sheet:
 
-[code lang="css"]
+```
 
 h2 {
     text-transform: lowercase;
 }
 
-[/code]
+```
 
 This will make all h2 elements on your page lower-cased, like so:
 

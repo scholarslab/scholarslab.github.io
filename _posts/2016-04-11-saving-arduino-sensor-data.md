@@ -102,7 +102,7 @@ Another way is to use a dedicated SD card shield with an RTC (Real Time Clock) b
 
 
 
-[code lang="c"]
+```
 // SPI and SD libraries. SPI for connecting SD card to SPI bus.
 #include <SPI.h>
 #include <SD.h>
@@ -186,5 +186,5 @@ float getVoltage(int pin)
 {
   return (analogRead(pin) * 0.004882814);
 }
-[/code]
+```
 

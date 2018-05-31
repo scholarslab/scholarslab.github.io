@@ -26,12 +26,12 @@ After checking on the forums, the maintainer clued me in on a feature in the Kin
 
 Right now (this will be folded in to the next release of the software), you need to clone my fork of the code ([https://github.com/waynegraham/Kinect](https://github.com/waynegraham/Kinect)) and to run a special `make` task:
 
-[code]
+```
 
 $ cd path/to/clone
 $ make PACKAGES=MYKINECT LWOWriter
 
-[/code]
+```
 
 The basic workflow was to use `SARndbox` to project the topology and then switch over to the `KinectViewer` utility to create the output. I was hoping this could be done simultaneously, but unless you have two Kinects, you can only use one at a time. When we record the stream, you get something that looks like this:
 

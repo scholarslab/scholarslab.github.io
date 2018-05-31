@@ -21,7 +21,7 @@ I decided, then, that it was a great opportunity to learn to do a bit of data vi
 
 Since I just wanted to create a series of bar charts, I worked directly with Bokeh’s high-level chart API. Here’s the script I wrote with extensive comments.
 
-[code language="python"]
+```
 # import pandas to handle data
 import pandas as pd
 # from bokeh's high-level charts api, import Bar to create the bar graph,
@@ -84,6 +84,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-[/code]
+```
 
 I really like Bokeh, and creating a series of bar charts was incredibly straightforward. There is a definite limitation with Bokeh's output options though. At the time I wrote this script, the primary output type is an HTML file, which is entirely reasonable given that Bokeh describes itself as "a Python interactive visualization library that targets modern web browsers for presentation." It is deliberately positioned as a Python alternative to writing D3 yourself. There have been requests for the Bokeh team to add the ability to directly save output as either SVG or PNG, but, given [this Github issue thread](https://github.com/bokeh/bokeh/issues/538), it seems like there are significant technical blocks to implementing this in the near future. That said, the interactive graph window does allow you to click an icon to save a static version of the graph as it currently appears in the browser as a PNG. While this isn't particularly efficient, it works just fine when you need to generate a few static figures for papers or presentations. Since I'm thinking of creating a website that includes these visualizations, I'm not bothered by the HTML output, though in the future, when I'm just creating figures for a presentation, I might use Seaborn, built on matplotlib, which does allow you to save directly to PNG and other formats. On the whole, especially if you're already a Python person and find writing D3 a bit tedious, I strongly recommend taking a look at Bokeh.

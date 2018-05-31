@@ -35,15 +35,15 @@ Caveat: I spend almost [all day in a terminal](http://www.scholarslab.org/dh-dev
 
 The basic workflow I was using was to get all the data out the MySQL server, and the WordPress theme that was 'infected' on to my local machine, download a fresh version of WordPress, import the WordPress data, reinstall any needed plugins, and the theme the site was using. For the particular hack in question, I actually had remote access (on a non-default port) to the MySQL server, so I could actually pull the data directly from the machine to my computer ([as a gist](https://gist.github.com/883062))
 
-[code lang="bash"]
+```
 mysqldump -h [mysql server] --port=[port number] -u [username] -p [database name] | gzip -c | cat ~/Desktop/`date +%Y-%m-%d-%T`.sql.gz
-[/code]
+```
 
 If you aren't comfortable with a Terminal commands, this can be a little scary. Basically this is a set of chained commands ([Pipes and Redirects](http://www.westwind.com/reference/os-x/commandline/pipes.html)) that dump out the entire database ([mysqldump](http://dev.mysql.com/doc/refman/5.1/en/mysqldump.html)), compress the output ([gzip](http://www.gzip.org/)), and write the compressed output to a file on my Desktop with a current timestamp ([cat](http://en.wikipedia.org/wiki/Cat_(Unix))). As an example, my output file with all of the WordPress data was named 2012-02-28:20:40:02.sql.gz.
 
 Now to download the latest version of Wordpress and set up a database named hack and inject the data from the remote server in to the newly created database.
 
-[code lang="bash"]
+```
 
 gunzip ~/Desktop/2012-02-28:20:40:02.sql.gz
 
@@ -57,7 +57,7 @@ mysqladmin create hacked
 
 mysql -u [local mysql root] -p hacked < ~/Desktop/2012-02-28:20:40:02.sql
 
-[/code]
+```
 
 There is a lot here, and worth explaining briefly. These commands
 
@@ -84,32 +84,32 @@ There is a lot here, and worth explaining briefly. These commands
 
 If you are running some other type of system, you may need to change the location of where you put WordPress, but the rest should be pretty much the same. You can now log on to the WordPress system locally (e.g. http://localhost/~wsg4w/hacked/wordpress/wp-admin/) and reinstall your plugins. The one thing that will take a little bit of effort would be cleaning up the theme you are using if  you have made any significant changes to a theme (and not it in a [revision control system](http://en.wikipedia.org/wiki/Revision_control)), you will need to clean out the hack additions.
 
-[code lang="bash"]
+```
 find ./ -name "*.php" -type f |  xargs sed -i 's#<?php /**/ eval(base64_decode("aWY.*?>##g' 2>&1
 find ./ -name "*.php" -type f |  xargs sed -i '/./,$!d' 2>&1
-[/code]
+```
 
 These lines use the [find](http://en.wikipedia.org/wiki/Find) command to find PHP files and then use [sed](http://www.grymoire.com/Unix/Sed.html) to remove any of the crazy base64_decode from your files.  If you don't already have your theme in an SCM, this is a good time. [Github](https://github.com/) is a good option, but if you want a private repository, you can also check out [Bitbucket](https://bitbucket.org/). This will make things easier in the future...
 
 After you have everything cleaned up on your local machine, it's time to push it back up to the server. There are a few ways to go about doing this. If I'm doing this on a regular basis, I typically use [rsync](http://en.wikipedia.org/wiki/Rsync), but if it's a one time deal, I use [scp](http://en.wikipedia.org/wiki/Scp). If you only have FTP access, I highly recommend the [lftp](http://lftp.yar.ru/) utility.
 
-[code lang="bash"]
+```
 
 cd ~/public_html/
 
 scp -R hacked username@servername:~/path/to/wordpress/install
 
-[/code]
+```
 
 This should put things back on your server to a clean state for your WordPress site. You may want to also make a backup of the file contents occasionally too. This is a script I use to backup servers, modified to look at WordPress:
 
-[code lang="bash"]
+```
 
 #! /bin/bash
 cd path/to/wordpress
 tar cvpzf backup.tgz --exclude=/backup.tgz .
 
-[/code]
+```
 
 
 ## Postmortem

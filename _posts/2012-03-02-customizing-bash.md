@@ -21,12 +21,12 @@ I had been intrigued by the [oh-my-zsh](https://github.com/robbyrussell/oh-my-zs
 
 Apparently other folks were in the same boat I was in. I ran across the [bash-it](https://github.com/revans/bash-it) project a few weeks ago and finally had an opportunity recently to try this out. Basically what this project does is provide a framework for you to build your own themes, plugins, and aliases for your own environment. The installation is straight-forward on OS X (and every Linux box I've tried this on):
 
-[code lang="bash"]
+```
 
 git clone http://github.com/revans/bash-it.git ~/.bash_it
 ~/.bash_it/install.sh
 
-[/code]
+```
 
 These two lines clone the bash-it repository to a hidden directory (.bash_it) for your user account (/Users/[your user name]/.bash_it) then launches the installer script. Using hidden directories (.bash_it) hides the directory from Finder, but still gives you access to the directory with the Terminal app. The installation script backs up your current ~/.bash_profile file (if you have made any adjustments to it), then prompts you for the features you want. I answered 'some' to most of the questions in the installation script to choose which plugins and aliases you would like to enable. I don't use [emacs](http://www.gnu.org/software/emacs/tour/) or [nginx](http://wiki.nginx.org/Main) on a regular basis, and use [rvm](http://beginrescueend.com/) over [rbenv](https://github.com/sstephenson/rbenv), and it turns out the [xterm](http://en.wikipedia.org/wiki/Xterm) plugin causes some issues on OS X, so I left those out.
 
@@ -62,13 +62,13 @@ There is, however, an awesome Terminal app replacement named [iTerm2](http://ww
 
 After updating Terminal, installing the bash-it themes and plugins, and getting a 'better' font on my machine (and adding a few aliases back in to the ~/.bash_profile to log on to some servers), I used scp to push these files to the various server environments I work on (replace user and server):
 
-[code lang="bash"]
+```
 
 scp -r ~/.bash_it user@server:~/
 
 scp ~/.bash_profile user@server:~/.bash_profile
 
-[/code]
+```
 
 Overall, I've been happy with the move to this setup. It plays nicely with some of the other cool things I use (e.g. [pianobar](http://6xq.net/projects/pianobar/), [tmux](http://tmux.sourceforge.net/), and [vim](http://www.vim.org/)). With some cleaver key bindings, and a transparent terminal, I can actually change something on my screen and see the update in the browser without changing programs,
 

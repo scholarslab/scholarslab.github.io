@@ -54,33 +54,33 @@ As in the previous post, I'll be making use of Ruby here, but I'll be making use
 
 With a [prepared geocoded CSV file](https://gist.github.com/3307210#file_geocoded.csv), we can start dealing with how to actually get this data in to Omeka. If you've done an Omeka project in the past, you may be familiar with the [CSVImport plugin](http://omeka.org/add-ons/plugins/csv-import/), and this may be a first impulse to use. Unfortunately, because of some technical reasons I won't get in to here, this won't work. However, as a developer, this simply becomes a constraint for a different system. This is where the [Mechanize](http://rubygems.org/gems/mechanize) gem comes to the rescue, allowing us to automate filling out the Omeka forms for our items. The first step here is to install the library with the `gem` command in the terminal:
 
-[code lang="bash"]
+```
 gem install mechanize
-[/code]
+```
 
 The basic idea in using [Mechanize](http://rubygems.org/gems/mechanize), which allows us to write a set of automated steps, is to take the file [we just generated in the previous post](https://gist.github.com/3307210#file_geocoded.csv), read all the information, then fill out the Omeka form and save the newly created item. In a new script (e.g. `populate.rb`), we require the libraries we'll be using:
 
-[code lang="ruby"]
+```
 require 'rubygems'
 require 'mechanize'
 require 'csv'
 
 # code to process CSV points
-[/code]
+```
 
 In Mechanize you can define a user agent (a web browser), and it's a good practice to define the user agent as a browser that you don't use on a daily basis to avoid any caching or username/password issues. For me, I set this to "Mac Safari" (you can use this on Windows too), but you can choose from any of the [user agent aliases](https://github.com/tenderlove/mechanize/blob/master/lib/mechanize.rb#L90) Mechanize provides.
 
-[code lang="ruby"]
+```
 agent = Mechanize.new {|a|
   a.user_agent_alias = 'Mac Safari'
 }
 
 # code to fill out Omeka forms
-[/code]
+```
 
 Now we just need to mechanize how to log on to Omeka. I'm doing everything locally, so you will need to fix the path to the Omeka admin area as needed:
 
-[code lang="ruby"]
+```
 agent.get('http://localhost/omeka/admin/') do |page|
   omeka_page = page.form_with(:action => '/omeka/admin/users/login']) do |form|
     form.username = 'your user name'
@@ -89,28 +89,28 @@ agent.get('http://localhost/omeka/admin/') do |page|
 
   # read CSV file
 end
-[/code]
+```
 
 If you ran this code right now, it wouldn't actually do anything visually, but this bit of code finds the form on the admin page that contains the login information, then sets the username and password on the form, and submits it, effectively authorizing you to do other things with Omeka in the context of the program.
 
 Next, we want to read the CSV file (`geocoded.csv`) that we [generated in the previous post](https://gist.github.com/3307210#file_geocoded.csv) to read the data. This is done in the same way before:
 
-[code lang="ruby"]
+```
 CSV.foreach('./geocoded.csv', :headers => true, :header_converters => :symbol) do |line|
     # add logic to fill out form
 end
-[/code]
+```
 
 This should look familiar. The code just reads the CSV file, converts the headers to symbols, and steps through each line. For each line (row) in the CSV file, we want to tell Mechanize to click on the 'Items' link (the Items tab) then the 'Add Items Link' to get to the form to fill out, which will look like the following:
 
-[code lang="ruby"]
+```
 # click on items
 item_page = agent.click(omeka_page.link_with(:text => %r/Items/))
 # click on add items
 add_item_page = agent.click(item_page.link_with(:text => %r/Add an Item/))
 
 # Add the item to the form
-[/code]
+```
 
 This code tells Mechanize to click on the link with the text of Items with a [regular expression](https://en.wikipedia.org/wiki/Regular_expression). In this case, the regular expression isn't necessary, but is useful when you need to do a partial match on a link (or some other component) that is on a page, and something I do by default.
 

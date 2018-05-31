@@ -17,16 +17,16 @@ Back in the day (ok, so like last week), I would typically write a mysqldump/pgd
 
 Turns out there is. If you've ever deployed anything to [heroku](http://www.heroku.com), you'll find they have a really neat way to allow you to synchronize your databases. From the command line, you can pull the database running on the server to your local database (and it actually doesn't matter if you're running sqlite, mysql, or postgresql locally, it just works) with:
 
-[code lang="bash"]
+```
 heroku db:pull mysql://user:pass@localhost/mydb
 heroku db:pull sqlite://path/to/my.db
-[/code]
+```
 
 Need to push changes to the server?
 
-[code lang="bash"]
+```
 heroku db:push
-[/code]
+```
 
 Behind the scenes, heroku is using the [taps](http://rubygems.org/gems/taps) gem, so you can actually use this same technique for your local setups.
 
@@ -34,19 +34,19 @@ The following will walk through a "typical" (e.g. the way I have my dev system s
 
 The first thing you need to do is make sure that your gems are up-to-date. From a terminal, issue this command:
 
-[code lang="bash"]
+```
 sudo gem update --system
-[/code]
+```
 
 Now, we need the taps gem:
 
-[code lang="bash"]
+```
 sudo gem install taps
-[/code]
+```
 
 This will take a while as the library dependencies are calculated, and the documentation is generated, but you will some something along these lines:
 
-[code lang="bash"]
+```
 devbox:~ user$ gem install taps
 Building native extensions.  This could take a while...
 Successfully installed json_pure-1.4.6
@@ -74,21 +74,21 @@ Installing RDoc documentation for rest-client-1.4.2...
 Installing RDoc documentation for sequel-3.15.0...
 Installing RDoc documentation for sqlite3-ruby-1.3.1...
 Installing RDoc documentation for taps-0.3.12...
-[/code]
+```
 
 You will need to have this installed on each of the boxes you want to be able to push/pull to/from.
 
 Ok, assuming you've got the taps gem installed on all the computers you want to use, you need to fire up the taps server on each box that actually responds to the push/pull requests. This is a simple [Sinatra](http://www.sinatrarb.com/) application that runs and listens for push/pull requests. To fire this up, issue the command:
 
-[code lang="bash"]
+```
 taps server mysql://user@localhost:port/database tapsusername tapspassword
-[/code]
+```
 
 Let's unpack this a little. The taps server needs to know what database to connect to, and a secret user/password to use. Let's say you're running MAMP with the default mysql server and accounts running, and you want to be able to sync your Omeka database. Your connection string would look like this:
 
-[code lang="bash"]
+```
 taps server mysql://root@localhost:8889/omeka tapuser IeEf643
- [/code]
+ ```
 
 Now we can test that the server is running by pointing your browser at [http://localhost:5000](http://localhost:5000). You should see something along these lines after using the username and password you set with the server:
 
@@ -98,15 +98,15 @@ Now this doesn't actually do anything, just ensures that you have the server up-
 
 Assuming you're on another computer now (and that you're not blocking port 5000 on the host machine), you issue a pull command (assuming you've already created the omeka database in the MAMP phpMyAdmin):
 
-[code lang="bash"]
+```
 
 taps pull mysql://root@localhost:3306/omeka http://tapuser:IeEf643@remoteip:5000
 
-[/code]
+```
 
 Again, assuming you don't have a firewall port blocking issues, you should see the tables getting propagated on your system:
 
-[code lang="bash"]
+```
 Receiving schema
 Schema:        100% |==========================================| Time: 00:00:22
 Receiving data
@@ -139,11 +139,11 @@ omeka_users:   100% |==========================================| Time: 00:00:0
 Receiving indexes
 Resetting sequences
 
-[/code]
+```
 
 You should now have a functional copy of all your data from the server machine. Now all you have to do is make your changes, then push those changes back to the server.
 
-[code lang="bash"]
+```
 
 $ taps push mysql://root@localhost:8889/omeka http://tapuser:IeEf643@localhost:5000
 Sending schema
@@ -178,7 +178,7 @@ omeka_users:   100% |==========================================| Time: 00:00:0
 Sending indexes
 Resetting sequences
 
-[/code]
+```
 
 
 ## So what can go wrong?

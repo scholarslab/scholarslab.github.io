@@ -81,15 +81,15 @@ The newest Raspbian OS (Stretch) changed the way the network is handled, so pick
 #### 3.1. Stretch
 
 
-Change the [code]/etc/wpa_supplicant/wpa_supplicant.conf[/code] file. You'll need to open the file with root privileges, so we'll use the terminal to open a program for editing the file.
+Change the ```/etc/wpa_supplicant/wpa_supplicant.conf``` file. You'll need to open the file with root privileges, so we'll use the terminal to open a program for editing the file.
 
 In the Terminal, type in:
 
-[code]sudo leafpad /etc/wpa_supplicant/wpa_supplicant.conf[/code]
+```sudo leafpad /etc/wpa_supplicant/wpa_supplicant.conf```
 
 There should only be three lines in there now. We'll add some lines to let the network system know about the hidden ESSID. The file should now look like this:
 
-[code]
+```
 country=US
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
@@ -99,7 +99,7 @@ network={
  scan_ssid=1
  key_mgmt=NONE
 }
-[/code]
+```
 
 The code is pretty self explanatory. 
 
@@ -114,21 +114,21 @@ Save and close that file and you're just about done. Continue on to Step 4.
 #### 3.2. Pre-Stretch
 
 
-Change the [code]/etc/network/interfaces[/code] file. You'll need to open the file with root privileges, so we'll use the terminal to open a program for editing the file.
+Change the ```/etc/network/interfaces``` file. You'll need to open the file with root privileges, so we'll use the terminal to open a program for editing the file.
 
 In the terminal, type in:
 
-[code]sudo leafpad /etc/network/interfaces[/code]
+```sudo leafpad /etc/network/interfaces```
 
 ![](http://scholarslab.org/wp-content/uploads/2017/04/2017-05-09-101958_1824x984_scrot-1024x552.png)
 
 Towards the bottom of the file are two sections for a "wlan0" and "wlan1". Delete those lines, and in place of them add in three new lines for "wlan0" (indent the third line with four spaces or a tab).
 
-[code]
+```
 auto wlan0
 iface wlan0 inet dhcp
     wireless-essid wahoo
-[/code]
+```
 
 What this code does:
 
@@ -140,7 +140,7 @@ wireless-essid wahoo = look for the wireless Extended Service Set Identificatio
 
 The entire file should look like this:
 
-[code]
+```
 # interfaces(5) file used by ifup(8) and ifdown(8)
 
 # Please note that this file is written to be used with dhcpcd
@@ -157,7 +157,7 @@ iface eth0 inet manual
 auto wlan0
 iface wlan0 inet dhcp
   wireless-essid wahoo
-[/code]
+```
 
 
 
@@ -169,13 +169,13 @@ While you have the Raspberry Pi on and the terminal open. Grab the MAC address f
 
 In the terminal type
 
-[code]ifconfig[/code]
+```ifconfig```
 
 ![](http://scholarslab.org/wp-content/uploads/2017/04/2017-05-09-103046_1824x984_scrot-1024x552.png)
 
 Now look for the section for the "wlan0" and on the first line you'll see information for a "HWaddr" or Hardware Address. It will be in the format
 
-[code]aa:11:bb:22:cc:33[/code]
+```aa:11:bb:22:cc:33```
 
 The HWaddr is the MAC address. Write the MAC address down on a piece of paper, you'll need for the next step.
 

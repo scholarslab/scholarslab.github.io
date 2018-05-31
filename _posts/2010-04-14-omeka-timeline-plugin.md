@@ -61,16 +61,16 @@ Now that we have good idea of what the code should do, let's turn to some actual
 
 The Zend Framework is a [model-view-controller (MVC) framework](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) designed to organize code for maintainability and DRY-ness ([Don't Repeat Yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)). One the the hallmarks of most MVC applications is its physical separation of files and functionalities. In the case of Omeka plugins, the hierarchy is generally split into model, view, controller, and tests directory. For the Timeline plugin, since we are developing a helper function, we use a slightly modified directory structure:
 
-[code lang="bash"]
+```
 Timeline
 |__helpers
 |__tests
 |__views
-[/code]
+```
 
 We also need some mechanism to tell Omeka about a plugin. This metadata is currently provided in a file called plugin.ini. This file is pretty straight forward, but  let's go over it briefly:
 
-[code lang="php"]
+```
 
 [info]
 name="Timeline"
@@ -82,7 +82,7 @@ omeka_tested_up_to="1.2"
 version="1.1"
 tags="Timeline, simile, chronology, time, temporal"
 
-[/code]
+```
 
 This file is what the Omeka admin interface uses to display information about your plugin. Two things that may not be initially obvious are the **omeka_minimimum_version** and **omeka_tested_up_to** lines. One fact you'll learn about software development, especially with API development, is as projects mature, the needs of the API grow along with them. You want to be able to mitigate potential issues should the plugin API change by explicitly setting the minimum revision number that your plugin is tested against (you can get older revisions from the SVN tags repo at [https://omeka.org/svn/tags/](https://omeka.org/svn/tags/)).
 
@@ -94,7 +94,7 @@ The next thing we need to do is tell Omeka what to do with our plugin. The top-l
 
 Now, with all the preliminary setup taken care of, now we can start developing the helper function. First, let's examine the Controller which tells Omeka what to do when an action is requested by the framework. This is actually a fairly straight forward:
 
-[code lang="php"]
+```
 
 <?php
 class Timeline_TimelinesController extends Omeka_Controller_Action
@@ -115,7 +115,7 @@ class Timeline_TimelinesController extends Omeka_Controller_Action
 	}
 
 }
-[/code]
+```
 
 Let's go over briefly what's going on here. There are some semantics in the way in which these Controller objects are named which are inherited from the way in which Zend handles Controllers. The **Timeline_TimelinesController** follows the convention of the "package" (the plugin) name, underscore, plural controller name (to handle multiple controllers), and finally "Controller" (which explicitly tells a programmer what function the Object performs). Because this is a Framework, we also want to be able to inherit a lot of behaviors without needing to code them ourselves, which is handled by the "extends Omeka_Controller_Action" (this is the base [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) class for Omeka which overrides and extends the [Zend_Controller_Action](http://framework.zend.com/manual/en/zend.controller.action.html) object). The "important" part of the Controller code is really the showAction function which sets a variable named "item" in the view which contains a reference to the ID of an Omeka object. The rest just sets up a logger to keep track of what's going on.
 
@@ -125,7 +125,7 @@ Let's go over briefly what's going on here. There are some semantics in the way 
 
 Now we can get into the guts of the actual helper function. When you boil down the code, most of this is JavaScript with some strategically placed PHP. What we did is create a helper function named "createTimeline" which actually does the work for us. This takes two required items, a div reference to associate the Timeline on your page, and an array of Omeka Items with which to populate the Timeline.
 
-[code lang="php"]
+```
 function createTimeline($div, $items = array(), $captionElementSet = "Dublin Core", $captionElement =  "Title", $dateElementSet = "Dublin Core", $dateElement =  "Date" ) {
 		echo js("prototype");
 		global $mets;
@@ -177,19 +177,19 @@ function createTimeline($div, $items = array(), $captionElementSet = "Dublin Cor
 		<?php
 }
 
-[/code]
+```
 
 There's a lot going on here, and there is a mix of PHP in the JavaScript. The first thing is making sure the prototype.js library is included, then declaring a variable named "mets" in the [global scope](http://php.net/manual/en/language.variables.scope.php) (to make it available to other variable scopes). After we've declared $mets, get in to the JavaScript to include on the page and introducing a new JavaScript [Namespace](http://en.wikipedia.org/wiki/Namespace_%28computer_science%29) (Omeka.Timeline) which allows you to extend this code in other views.
 
 The second script block actually formats Omeka items that you've called as Timeline Events in the [JSON](http://www.json.org/) format calling a helper method we also include in the code:
 
-[code lang="php"]
+```
 function getMet($item, $elementSet, $element) {
 	 $tmp = $item->getElementTextsByElementNameAndSetName($element, $elementSet);
 	 return addslashes( $tmp[0]->text ) ;
 }
 
-[/code]
+```
 
 This function returns the metadata for an Omeka item, which is then used the createTimeline's sub-method of event_to_json to properly construct an event for Timeline. After all the JSON strings are created, we "glue" all the array elements with a comma with the [implode](http://php.net/manual/en/function.implode.php) function.
 
