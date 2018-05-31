@@ -10,7 +10,9 @@ categories:
 - Grad Student Research
 ---
 
-![2014-15 Praxis Fellows](http://scholarslab.org/wp-content/uploads/2017/02/Praxis15-16Fellows-300x189.jpeg)UVa graduate students! **Apply by** **February 28** for a unique, funded opportunity to work with an interdisciplinary group of your peers, learning digital humanities skills from the experts, and collaborating on the design and execution of an innovative digital project. The 2016-2017 Praxis cohort is in full swing, thanks to generous support by UVa Library and GSAS.
+![2014-15 Praxis Fellows](http://scholarslab.org/wp-content/uploads/2017/02/Praxis15-16Fellows-300x189.jpeg)
+
+UVa graduate students! **Apply by** **February 28** for a unique, funded opportunity to work with an interdisciplinary group of your peers, learning digital humanities skills from the experts, and collaborating on the design and execution of an innovative digital project. The 2016-2017 Praxis cohort is in full swing, thanks to generous support by UVa Library and GSAS.
 
 Each year, the Scholars’ Lab, UVa Library’s center for advanced digital research in the humanities, runs a [Praxis Program](http://scholarslab.org/graduate-fellowships/). This program provides six UVa graduate students with hands-on experience in digital humanities collaboration and project creation. Team members work to take a shared project from conception to design and development, and finally to publication, community engagement, and analysis. Praxis is a unique and well-known training program in the international digital humanities community. Our fellows blog about their experiences and develop increased facility with project management, collaboration, and the public humanities, even as they tackle (most for the first time, and with the mentorship of our faculty and staff) new programming languages, tools, and digital methods. Praxis prepares fellows to apply their own digital skills and methods to the fellowship project and to research and careers in the future.
 

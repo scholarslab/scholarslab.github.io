@@ -9,7 +9,7 @@ categories:
 - Technical Training
 ---
 
-[caption id="attachment_13392" align="aligncenter" width="254"]![](http://scholarslab.org/wp-content/uploads/2017/04/raspberry-pi-logo-254x300.png) https://www.raspberrypi.org/trademark-rules/[/caption]
+![](http://scholarslab.org/wp-content/uploads/2017/04/raspberry-pi-logo-254x300.png)
 
 The easiest way to get your Raspberry Pi connected to the Internet at the University of Virginia is to use an Ethernet cable. If you want to use wireless, pretty much the only option is to use the hidden "wahoo" network.
 

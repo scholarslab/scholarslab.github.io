@@ -159,6 +159,7 @@ Three entries made it to the competition:
 Only one competitor survived all the tests: drop from 2 meters, the full weight of one metric Shane unit on **three** axis, and a second drop from 2 meters...
 
 **Team DragonSpawn!**
+
 ![](http://scholarslab.org/wp-content/uploads/2017/05/20170503_160322-1-e1493907510317-905x1024.jpg)
 
 Congratulations, you get the first SLabby award!
