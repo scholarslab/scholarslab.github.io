@@ -17,7 +17,7 @@ charter
 /people and fellows
 alums
 where
-DH, DS, nursing, arch, biomed, GIS, CHI, pedagogy, librarianship, making
+DH center/founding Centernet member, DS, nursing, arch, biomed, GIS, CHI, Spatial Tech, R&D, pedagogy, librarianship, making
 
 # How does the Lab fit into the UVA Library?
 We’re part of the UVA Library’s mission to provide equitable access to knowledge and learning to everyone.
