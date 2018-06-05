@@ -75,8 +75,30 @@ task :new_project, [:title] do |t, args|
 end
 
 desc "Make a new event"
-task :new_event, [] do |t, args|
-
+task :new_event, [:title] do |t, args|
+  title_slug = args.title.downcase.gsub(' ', '-')
+  fn = '_events/' + title_slug + '.md'
+  titlecase_title = args.title.titlecase
+  current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
+  File.open(fn, 'w'){|f|
+    f.puts("---
+all_day: '0'
+author:
+start_date:
+start_time:
+end_date:
+end_time: 
+layout: events
+published-date: #{current_time}
+rsvp: '0'
+slug: #{title_slug}
+title: '#{titlecase_title}'
+location:
+---
+Description of the event.
+    ")
+  }
+  puts "New event page created at #{fn}"
 end
 
 desc "Make a new person"

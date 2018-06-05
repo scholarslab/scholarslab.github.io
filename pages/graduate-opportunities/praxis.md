@@ -9,11 +9,11 @@ notes:
 - Change YAML 'layout' to 'fellowship' once finished
 ---
 
-**Applications were due February 15th, 2018 for the 2018-2019 cohort**. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
+**Applications are now closed for the 2018-2019 cohort. Be on the lookout for next year's call in December of 2018**. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
 
 The [Praxis Program](http://praxis.scholarslab.org/) is a radical re-imagining of the annual teaching and training we offer in the Scholars' Lab. Its fellowships support a team of six University of Virginia PhD students from a variety of disciplines, who work collaboratively on a shared digital humanities project. Under the guidance of Scholars' Lab faculty and staff, Praxis fellows conceive, develop, publish, and promote a digital project over the course of an academic year.
 
-Our first two cohorts designed and built [Prism](http://prism.scholarslab.org/), a digital tool for crowd-sourced humanities interpretation, visualization, and textual analysis. Our third and fourth cohorts re-imagined [Ivanhoe](http://ivanhoe.scholarslab.org/), a WordPress theme enabling collaborative criticism through roleplay. Our fifth cohort explored sonification of humanities data with the project [Clockwork](http://clockwork.scholarslab.org/). Stay tuned for news about our incoming cohort!
+Our first two cohorts designed and built [Prism](http://prism.scholarslab.org/), a digital tool for crowd-sourced humanities interpretation, visualization, and textual analysis. Our third and fourth cohorts re-imagined [Ivanhoe](http://ivanhoe.scholarslab.org/), a WordPress theme enabling collaborative criticism through roleplay. Our fifth cohort explored sonification of humanities data with the project [Clockwork](http://clockwork.scholarslab.org/). More recently, cohorts have worked on [Dash-Amerikan](http://dashamerikan.scholarslab.org/), a social media ecology of the Kardashian family], and [UVA Reveal](http://reveal.scholarslab.org), an augmented reality project that layers contextual information on contested public spaces on UVA's campus.. Stay tuned for news about our incoming cohort!
 
 Beginning as a 2011-2013 pilot project supported by a grant from the Andrew W. Mellon Foundation to UVa Library's [Scholarly Communication Institute](http://uvasci.org), the Praxis Program is now generously supported by [UVa Library](http://www.library.virginia.edu/) and [GSAS](http://gsas.virginia.edu/).
 
