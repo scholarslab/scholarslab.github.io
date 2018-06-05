@@ -17,6 +17,7 @@ One of our primary missions is to support the work of emerging scholars and digi
 
 ## Praxis Program Fellowships
 **Call issued:** Annually in December
+
 **Deadline:** February 15th, 2018 for the 2018-2019 year
 [More information](http://scholarslab.org/praxis-program-fellowships/)
 
