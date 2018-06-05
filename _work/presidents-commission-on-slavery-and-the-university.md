@@ -9,7 +9,7 @@ collaborators:
     role: Design Architect
 current: false
 link: http://slavery.virginia.edu/
-layout: research
+layout: work
 slug: presidents-commission-on-slavery-and-the-university
 title: President &#8217;s Commission on Slavery and the University
 thumb-img: slaveryUVA-thumb.png

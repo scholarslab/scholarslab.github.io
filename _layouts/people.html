@@ -9,7 +9,7 @@ layout: default
 
 		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
 
-		<div class="person__position">{{ page.position }}</div>
+		{% if page.position !=  nil %}<div class="person__position">{{ page.position }}</div>{% endif %}
 
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__title">Around the Web</div>
@@ -44,7 +44,9 @@ layout: default
 
 		<div class="person__description">
 			<div class="person-describe__title">About</div>
+				{% if content == empty %}<div class="person-describe__text">A Scholars' Lab alum.</div>{% else %}
 			<div class="person-describe__text">{{ content }}</div>
+{% endif %}
 			<div class="person-describe__category"> <!-- liquid testing -->
 				<h3>Categories</h3>
 				<ul>

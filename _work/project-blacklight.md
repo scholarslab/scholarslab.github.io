@@ -5,7 +5,7 @@ collaborators:
     role: Developer
 current: false
 link: http://projecthydra.org/
-layout: research
+layout: work
 slug: project-blacklight
 title: Project Blacklight
 thumb-img: tassiamohr-blacklight-thumb.jpg

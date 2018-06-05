@@ -33,25 +33,10 @@ collections:
   people:
     output: true
     permalink: /:collection/:slug/
-  research:
-    output: true
-    permalink: /:collection/:name/
-  lab:
-    output: true
-    permalink: /:collection/:name/
-  starter-kits:
+  work:
     output: true
     permalink: /:collection/:name/
   events:
-    output: true
-    permalink: /:collection/:name/
-  todo:
-    output: true
-    permalink: /:collection/:name/
-  fake-blog:
-    output: true
-    permalink: /:year/:month/:day/:title/
-  fake-people:
     output: true
     permalink: /:collection/:name/
 
@@ -59,8 +44,7 @@ header_pages:
   - about.md
   - people.md
   - blog.md
-  - research.md
-  - lab.md
+  - work.md
   - search.html
 
 defaults:

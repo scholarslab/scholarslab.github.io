@@ -16,7 +16,7 @@ collaborators:
     role: Humanities Developer
 current: false
 link: http://prosody.lib.virginia.edu
-layout: research
+layout: work
 slug: for-better-for-verse
 title: For Better for Verse
 thumb-img: 4better4verse-thumb.png

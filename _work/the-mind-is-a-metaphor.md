@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: work
 slug: the-mind-is-a-metaphor
 title: The Mind is a Metaphor
 thumb-img: metaphors-thumb.png

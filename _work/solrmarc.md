@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: work
 slug: solrmarc
 title: Solrmarc
 thumb-img: RooshInf3ktion-solrmarc-thumb.png

@@ -10,7 +10,7 @@ collaborators:
     role: Head of Research and Development
 current: false
 link: http://falmouth.lib.virginia.edu/
-layout: research
+layout: work
 preview-img: falmouth.jpg
 slug: the-falmouth-project
 title: The Falmouth Project

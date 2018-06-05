@@ -19,4 +19,4 @@ We're also grateful for the frequent collaborators with us in the Library Public
 Check back on this page soon to read the stories of some of our specific intra-Library collaborations!
 
 <h2>Come visit us!</h2>
-In the UVA Library or on campus? If we don't know you yet, we invite you to send us an email at <a href:mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a> to set up a time to meet and chat with some of our team. 
+In the UVA Library or on campus? If we don't know you yet, we invite you to send us an email at <a href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a> to set up a time to meet and chat with some of our team. 

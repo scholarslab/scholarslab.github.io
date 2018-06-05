@@ -17,7 +17,7 @@ Our first two cohorts designed and built [Prism](http://prism.scholarslab.org/)
 
 Beginning as a 2011-2013 pilot project supported by a grant from the Andrew W. Mellon Foundation to UVa Library's [Scholarly Communication Institute](http://uvasci.org), the Praxis Program is now generously supported by [UVa Library](http://www.library.virginia.edu/) and [GSAS](http://gsas.virginia.edu/).
 
-The Praxis fellowship replaces recipients' teaching responsibilities for the academic year. Fellows are expected to devote 10 hours per week in the Scholars' Lab. A call for applicants will be announced in January 2017.
+The Praxis fellowship replaces recipients' teaching responsibilities for the academic year. Fellows are expected to devote 10 hours per week in the Scholars' Lab. The date the call for applicants will be announced is to be determined, but in 2017 the announcement was in January.
 
 ### Eligibility
 
@@ -35,6 +35,6 @@ The application process for Praxis is simple! You apply individually, and we ass
 * summary of the applicant's plan for use of digital technologies in your research;
 * summary of what skills, interests, methods the applicant will bring to the Praxis Program;
 * summary of what the applicant hopes to gain as a Praxis Fellow;
-* and your availability February 28th from 11:30 -12:30 and March 1st from 9:30-10:30. We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
+* and your availability on the days we've identified for group interviews (TBD). We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
 
-Questions about Praxis Fellowships and the application process should be directed to Brandon Walsh.
+Questions about Praxis Fellowships and the application process should be directed to [Brandon Walsh](mailto:bmw9t@virginia.edu).

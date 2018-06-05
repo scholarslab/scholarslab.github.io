@@ -13,7 +13,7 @@ collaborators:
     role: Project Management and Technical Training Specialist
 current: true
 link: http://salem.lib.virginia.edu/
-layout: research
+layout: work
 slug: salem-witch-trials
 title: Salem Witch Trials
 thumb-img: salem-thumb.png
