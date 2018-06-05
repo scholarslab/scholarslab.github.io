@@ -11,17 +11,20 @@ notes:
 - NB: time estimate is for prototype, not any kind of fancy page.
 ---
 
-<a href="#">What is the Scholars' Lab?</a>
-What academic fields do you support?
-Who are the scholars in "Scholars' Lab"? 
-How can the Scholars' Lab fit into my work?
-Can you build me a thing?
-Can we collaborate?
-I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects? 
-Where are you? 
-How does the Lab fit into the UVA Library? 
-How do I contact you? 
-How was this website made?
+<a href="#what-is-the-scholars-lab">What is the Scholars' Lab?</a>
+
+<a href="#what-academic-fields-do-you-support">What academic fields do you support?</a>
+<a href="#who-are-the-scholars-in-scholars-lab">Who are the scholars in "Scholars' Lab"?</a>
+<a href="#how-can-the-scholars-lab-fit-into-my-work">How can the Scholars' Lab fit into my work?</a>
+<a href="#can-you-build-me-a-thing">Can you build me a thing?</a>
+<a href="#can-we-collaborate">Can we collaborate?</a>  
+<a href="#ive-heard-that-people-over-projects-is-a-scholars-lab-motto-what-does-that-mean-do-you-do-projects">I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects?</a>  
+<a href="#where-are-you">Where are you?</a>  
+<a href="#how-does-the-lab-fit-into-the-uva-library">How does the Lab fit into the UVA Library?</a>
+
+<a href="#how-do-i-contact-you">How do I contact you?</a>
+
+<a href="#how-was-this-website-made">How was this website made?</a>
 
 ## What is the Scholars' Lab?
 We're the UVA Library's lab for experimental and digital research, teaching, and other forms of scholarship, open to all disciplines and anyone curious about getting their hands dirty. 
@@ -43,7 +46,9 @@ We capture the Scholars' Lab's values and goals in our team-authored [charter].
 Although we bring library and humanities skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field and regularly collaborate in almost every area on Grounds.
 
 ## Who are the scholars in "Scholars' Lab"?
-Everyone! We believe that scholarship is one part critical thinking and one part communicating the result of that thinking. Critical thinking can be accomplished through many methods, including research, writing, coding, building, designing, experimenting, play. Communicating critical thinking can take the form of traditional publishing or other forms of “making public”, teaching, sharing open source code, or any other way for your intellectual community to learn from and build on your work. When we refer to scholars, that includes anyone critically engaging with a concept: students, staff, faculty, and community members. On our website, the page that often gets titled "Projects" or "Research" or "Scholarship" on similar websites is titled "Our Work" to better reflect
+Everyone! We believe that scholarship is one part critical thinking and one part communicating the result of that thinking. Critical thinking can be accomplished through many methods, including research, writing, coding, building, designing, experimenting, play. Communicating critical thinking can take the form of traditional publishing or other forms of “making public”, teaching, sharing open source code, or any other way for your intellectual community to learn from and build on your work. When we refer to scholars, that includes anyone critically engaging with a concept: students, staff, faculty, and community members. On our website, the page that often gets titled "Projects" or "Research" or "Scholarship" on similar websites is titled "Our Work" to better reflect that our scholarship includes a broad variety of work.
+
+Check out our [people] page for current staff, fellows, and alums.
 
 ## How can the Scholars' Lab fit into my work?
 1. **Consults**: As a Library unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental and/or digital approaches to humanities and culture. During your consult, we can help you get started in DH, conceptualize a project, use some of our scholarly equipment (e.g. GIS software, humanities-focused Makerspace, 3D scanning/photogrammetry, VR/AR), and/or connect you to resources for self-teaching and networking at UVA and internationally.
