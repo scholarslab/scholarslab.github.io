@@ -58,7 +58,7 @@ collaborators:
     slug: ronda-grizzle
     role: Project Management and Technical Training Specialist 
 current: true
-layout: research
+layout: work
 slug: praxis-program
 title: Praxis Program
 thumb-img: praxis-thumb.png

@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: work
 slug: spatial-search-and-delivery
 title: Spatial Humanities
 thumb-img: spatial-thumb.png

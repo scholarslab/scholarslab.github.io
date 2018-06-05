@@ -17,7 +17,7 @@ collaborators:
     role: Humanities Developer
 current: false
 link: http://omeka.org
-layout: research
+layout: work
 slug: omeka-plugins
 title: Omeka Plugins
 thumb-img: neatlineplugins-thumb.png

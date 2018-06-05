@@ -2,7 +2,7 @@
 link: http://thlib.org
 slug: thl-place-dictionary
 title: THL Place Dictionary
-layout: research
+layout: work
 title: THL Place Dictionary
 thumb-img: thlib-thumb.png
 banner-img: thlib-banner.png

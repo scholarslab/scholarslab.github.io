@@ -10,7 +10,7 @@ collaborators:
     role: Design Architect
 current: false
 link: http://jefferson-notes.org/
-layout: research
+layout: work
 slug: jeffersons-notes-on-the-state-of-virginia
 title: Jefferson &#8217;s Notes on the State of Virginia
 thumb-img: jefferson-thumb.png

@@ -61,7 +61,7 @@ task :new_project, [:title] do |t, args|
     f.puts("  - name: ")
     f.puts("    role: ")
     f.puts("current: false")
-    f.puts("layout: research")
+    f.puts("layout: work")
     f.puts("link: ''")
     f.puts("slug: #{title_slug}")
     f.puts("title: #{titlecase_title}")

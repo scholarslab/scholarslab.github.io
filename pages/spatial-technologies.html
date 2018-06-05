@@ -248,22 +248,22 @@ notes:
 
 	<div class="spatial__showcase">
 		<div class="spatial-showcase__title">A Project Sampler</div>
-		<div class="spatial-showcase__subtitle">A selection of projects we're pretty dang proud of. To see more of our work, head over to our <a href="{{ site.baseurl }}/scholarship">Scholarship page</a>.</div>
+		<div class="spatial-showcase__subtitle">A selection of projects we're pretty dang proud of. To see more of our work, head over to our <a href="{{ site.baseurl }}/work">Research page</a>.</div>
 		<ul class="spatial-showcase__list">
 			{% for project in site.research %}
 			{% if project.title contains 'Falmouth' or project.title contains 'Catalogue of Ships' or project.title contains 'Neatline' %}
 			<li>
-				<a href="{{ site.baseurl }}/scholarship/{{ project.slug }}" aria-label="{{ project.title }}">
+				<a href="{{ site.baseurl }}/work/{{ project.slug }}" aria-label="{{ project.title }}">
 					<ul class="spatial-showcase__project">
 						<li>{{ project.title }}</li>
-						<li><img src="{{ site.baseurl}}/assets/img/research/{{ project.banner-img }}" alt="{{ project.title }}"></li>
+						<li><img src="{{ site.baseurl}}/assets/img/work/{{ project.banner-img }}" alt="{{ project.title }}"></li>
 					</ul>
 				</a>
 			</li>
 			{% endif %}
 			{% endfor %}
 		</ul>
-		<div class="spatial-showcase__cta"><a href="{{ site.baseurl }}/scholarship">All Projects &rsaquo;</a></div> <!-- link to scholarship page -->
+		<div class="spatial-showcase__cta"><a href="{{ site.baseurl }}/work">All Projects &rsaquo;</a></div> <!-- link to research page -->
 	</div>
 
 </div> <!-- end main content -->

@@ -14,7 +14,7 @@ collaborators:
     role: Design Architect
 current: false
 link: http://bsuva.org/
-layout: research
+layout: work
 slug: bibliographic-society-of-virginia
 title: Bibliographic Society of Virginia
 thumb-img: mjkmjk-bsuva-thumb.png

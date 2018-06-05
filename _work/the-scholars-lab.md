@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: work
 slug: the-scholars-lab
 title: The Scholars' Lab
 thumb-img: praxis-thumb.png

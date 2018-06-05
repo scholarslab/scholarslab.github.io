@@ -5,7 +5,7 @@ collaborators:
     role: Web Applications Developer
 current: false
 link: http://coins.lib.virginia.edu
-layout: research
+layout: work
 preview-img: coins.jpg
 slug: the-university-of-virginia-art-museum-numismatic-collection
 title: The University of Virginia Art Museum Numismatic Collection

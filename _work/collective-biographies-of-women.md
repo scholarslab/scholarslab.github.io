@@ -13,7 +13,7 @@ collaborators:
     role: Design Architect
 current: false
 link: http://womensbios.lib.virginia.edu/
-layout: research
+layout: work
 slug: collective-biographies-of-women
 title: Collective Biographies of Women
 thumb-img: cbw-thumb.png

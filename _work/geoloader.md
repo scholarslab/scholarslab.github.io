@@ -11,7 +11,7 @@ collaborators:
     role: Humanities Developer
 current: false
 link: https://rubygems.org/gems/geoloader
-layout: research
+layout: work
 slug: geoloader
 title: Geoloader
 thumb-img: clickykbd-geoloader-thumb.png

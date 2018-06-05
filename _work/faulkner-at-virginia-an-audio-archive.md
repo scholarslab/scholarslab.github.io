@@ -7,7 +7,7 @@ collaborators:
     role: Head of Research and Development
 current: false
 link: http://faulkner.lib.virginia.edu/
-layout: research
+layout: work
 slug: faulkner-at-virginia-an-audio-archive
 title: Faulkner at Virginia - An Audio Archive
 thumb-img: faulkner-thumb.png

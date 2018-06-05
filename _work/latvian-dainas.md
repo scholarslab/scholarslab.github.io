@@ -4,7 +4,7 @@ collaborators:
     role: Project Owner
 current: false
 link: http://latviandainas.lib.virginia.edu/
-layout: research
+layout: work
 slug: latvian-dainas
 title: Latvian Dainas
 thumb-img: dainas-thumb.png

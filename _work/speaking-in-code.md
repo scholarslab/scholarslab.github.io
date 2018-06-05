@@ -19,7 +19,7 @@ collaborators:
     slug: scott-bailey
     role: Humanities Developer
 current: false
-layout: research
+layout: work
 slug: speaking-in-code
 title: Speaking In Code
 thumb-img: codespeak-thumb.png

@@ -28,7 +28,7 @@ collaborators:
   slug: gwen-nally
   role: Graduate Student
 current: false
-layout: research
+layout: work
 slug: mapping-the-catalogue-of-ships
 title: Mapping the Catalogue of Ships
 thumb-img: ships-thumb.png
