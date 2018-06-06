@@ -4,7 +4,7 @@ email: ab6j@virginia.edu
 first_name: Alison
 last_name: Booth
 layout: people
-location: ''
+location: 'Professor of English (UVA), works on British and North American nineteenth-century culture and women's history as well as digital humanities. Academic Director of Scholars' Lab, she directs Collective Biographies of Women http://cbw.iath.virginia.edu. Her books include How to Make It as a Woman and Homes and Haunts: Touring Writers' Shrines and Countries.'
 name: Alison Booth
 position: Academic Director
 short_bio: ''
