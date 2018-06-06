@@ -152,9 +152,11 @@ notes:
       			<li>{{ item }}</li>
 					{% endif %}
 					{% unless item contains ',' %}
-      			<li>Former {{ item }}</li>	
+      			<li>Former {{ person.position }}</li>	
 					{% endunless %}
+				{% endfor %}
   				{% endunless %}
+
             </ul>
           </a>
         </div>
