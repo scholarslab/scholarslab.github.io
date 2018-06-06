@@ -4,7 +4,6 @@ email: pmd2f@virginia.edu
 first_name: Pierre
 last_name: Dairon
 layout: people
-location: ''
 name: Pierre Dairon
 position: Digital Humanities Fellow 2008-2009
 short_bio: ''

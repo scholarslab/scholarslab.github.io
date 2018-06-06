@@ -13,9 +13,9 @@ status: current
 twitter: None
 website: None
 people-category:
-  - 2017-2018
-  - Staff
-  - Student Assistant
+- student
+roles:
+- Community Project Manager, 2017-2018
 ---
 
 Elizabeth Mitchell is the 2017-2018 Scholars' Lab Community Projecy Manager.

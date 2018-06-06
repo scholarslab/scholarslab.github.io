@@ -4,7 +4,6 @@ email: None
 first_name: Kerwin
 last_name: Holmes, Jr.
 layout: people
-location: ''
 name: Kerwin Holmes, Jr.
 position: None
 short_bio: ''

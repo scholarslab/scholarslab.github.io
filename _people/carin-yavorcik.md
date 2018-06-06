@@ -4,7 +4,6 @@ email: carin.yavorcik@gmail.com
 first_name: Carin
 last_name: Yavorcik
 layout: people
-location: ''
 name: Carin Yavorcik
 position: None
 short_bio: ''

@@ -4,7 +4,6 @@ email: jtb5q@virginia.edu
 first_name: Jared
 last_name: Benton
 layout: people
-location: ''
 name: Jared Benton
 position: PhD Candidate, McIntire Department of Art & Architecture | Digital Humanities
   Fellow 2010-2011

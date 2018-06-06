@@ -13,6 +13,7 @@ status: current
 twitter: None
 website: None
 people-category:
-  - Student Assistant
+  - Makerspace Technologist
+  - 2017-2018
 ---
 Lauren Reynolds was a Makerspace Technologist in the lab.

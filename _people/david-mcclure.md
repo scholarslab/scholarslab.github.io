@@ -4,7 +4,6 @@ email: None
 first_name: David
 last_name: McClure
 layout: people
-location: ''
 name: David McClure
 position: None
 short_bio: ''

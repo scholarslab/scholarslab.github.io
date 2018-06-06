@@ -4,7 +4,6 @@ email: None
 first_name: Katina
 last_name: Rogers
 layout: people
-location: ''
 name: Katina Rogers
 position: Senior Research Specialist, Scholarly Communication Institute
 short_bio: ''

@@ -4,7 +4,6 @@ email: bidgood@etsu.edu
 first_name: Lee
 last_name: Bidgood
 layout: people
-location: ''
 name: Lee Bidgood
 position: Digital Humanities Fellow 2007-2008
 short_bio: ''

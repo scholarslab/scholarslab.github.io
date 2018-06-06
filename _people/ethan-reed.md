@@ -4,7 +4,6 @@ email: None
 first_name: Ethan
 last_name: Reed
 layout: people
-location: ''
 name: Ethan Reed
 position: None
 short_bio: ''

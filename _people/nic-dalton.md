@@ -14,6 +14,6 @@ twitter: None
 website: None
 people-category:
   - 2017-2018
-  - Student Assistant
+  - Makerspace Technologist
 ---
 Nic Dalton is a 2017-2018 Makerspace Technologist.

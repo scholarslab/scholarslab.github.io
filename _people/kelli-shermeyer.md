@@ -4,14 +4,16 @@ email: None
 first_name: Kelli
 last_name: Shermeyer
 layout: people
-location: ''
 name: Kelli Shermeyer
-position: None
+position: Graduate Fellow 2018-2019
 short_bio: ''
 slug: kelli-shermeyer
 status: current
 twitter: None
 website: None
+people-category:
+- 2018–2019
+- Graduate Fellow
 ---
 
 No Content Found

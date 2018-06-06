@@ -4,7 +4,6 @@ email: jaf6fm@virginia.edu
 first_name: Jennifer
 last_name: Foy
 layout: people
-location: ''
 name: Jennifer Foy
 position: None
 short_bio: ''

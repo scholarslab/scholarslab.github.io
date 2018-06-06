@@ -4,7 +4,6 @@ email: None
 first_name: None
 last_name: None
 layout: people
-location: ''
 name: Valeria Arce
 position: None
 short_bio: ''

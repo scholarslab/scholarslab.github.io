@@ -4,7 +4,6 @@ email: None
 first_name: Kayla
 last_name: Pinson
 layout: people
-location: ''
 name: Kayla Pinson
 position: None
 short_bio: ''

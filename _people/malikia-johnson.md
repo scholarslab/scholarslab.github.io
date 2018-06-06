@@ -4,7 +4,6 @@ email: None
 first_name: Malikia
 last_name: Johnson
 layout: people
-location: ''
 name: Malikia Johnson
 position: None
 short_bio: ''

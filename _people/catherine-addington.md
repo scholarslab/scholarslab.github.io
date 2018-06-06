@@ -13,7 +13,9 @@ status: current
 twitter: None
 website: None
 people-category:
-  - 2017-2018
-  - Student Assistant
+- student
+roles:
+- Makerspace Technologist, 2017-2018
+- Praxis Fellow, 2018-2019
 ---
 Catherine Addington is a 2017-2018 Makerspace Technologist.

@@ -4,7 +4,6 @@ email: jbk3y@virginia.edu
 first_name: Jason
 last_name: Kirby
 layout: people
-location: ''
 name: Jason Kirby
 position: None
 short_bio: ''

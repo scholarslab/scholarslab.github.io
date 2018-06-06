@@ -4,7 +4,6 @@ email: csb5t@virginia.edu
 first_name: Scott
 last_name: Bailey
 layout: people
-location: ''
 name: Scott Bailey
 position: Digital Humanities Developer
 short_bio: ''

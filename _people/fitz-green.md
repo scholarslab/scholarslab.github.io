@@ -4,7 +4,6 @@ email: fitz@studycenter.net
 first_name: Fitz
 last_name: Green
 layout: people
-location: ''
 name: Fitz Green
 position: None
 short_bio: ''

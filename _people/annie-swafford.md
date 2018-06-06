@@ -4,7 +4,6 @@ email: jes8zv@virginia.edu
 first_name: Annie
 last_name: Swafford
 layout: people
-location: ''
 name: Annie Swafford
 position: 2012-2013 Scholars' Lab Fellow | 2011-12 Praxis Fellow
 short_bio: ''

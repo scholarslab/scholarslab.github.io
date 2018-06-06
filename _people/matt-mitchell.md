@@ -4,7 +4,6 @@ email: mwmitchell73@gmail.com
 first_name: Matt
 last_name: Mitchell
 layout: people
-location: ''
 name: Matt Mitchell
 position: None
 short_bio: ''

@@ -4,7 +4,6 @@ email: None
 first_name: Joseph
 last_name: Thompson
 layout: people
-location: ''
 name: Joseph Thompson
 position: None
 short_bio: "Joseph Thompson is a doctoral candidate in U.S. history at UVA and a graduate fellow in the Scholars' Lab."

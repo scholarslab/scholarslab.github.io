@@ -4,7 +4,6 @@ email: None
 first_name: Anthony
 last_name: Velázquez
 layout: people
-location: ''
 name: Anthony Velázquez
 position: None
 short_bio: ''

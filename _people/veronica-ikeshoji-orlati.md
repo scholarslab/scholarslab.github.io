@@ -4,7 +4,6 @@ email: None
 first_name: Veronica
 last_name: Ikeshoji-Orlati
 layout: people
-location: ''
 name: Veronica Ikeshoji-Orlati
 position: None
 short_bio: ''

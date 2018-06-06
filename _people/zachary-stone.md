@@ -4,7 +4,6 @@ email: None
 first_name: Zachary
 last_name: Stone
 layout: people
-location: ''
 name: Zachary Stone
 position: None
 short_bio: ''

@@ -4,7 +4,6 @@ email: lo3m@virginia.edu
 first_name: Lindsay
 last_name: O’Connor
 layout: people
-location: ''
 name: Lindsay O’Connor
 position: PhD Candidate, Department of English | Praxis Fellow 2011-2012
 short_bio: ''

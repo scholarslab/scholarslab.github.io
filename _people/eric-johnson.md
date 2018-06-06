@@ -4,7 +4,6 @@ email: None
 first_name: Eric
 last_name: Johnson
 layout: people
-location: ''
 name: Eric Johnson
 position: Former Head, Outreach & Public Services
 short_bio: ''

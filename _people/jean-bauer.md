@@ -4,7 +4,6 @@ email: jabauer@virginia.edu
 first_name: Jean
 last_name: Bauer
 layout: people
-location: ''
 name: Jean Bauer
 position: PhD Candidate, Corcoran Department of History | Digital Humanities Fellow
   2008-2009

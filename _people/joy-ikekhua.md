@@ -4,7 +4,6 @@ email: None
 first_name: Joy
 last_name: Ikekhua
 layout: people
-location: ''
 name: Joy Ikekhua
 position: None
 short_bio: ''

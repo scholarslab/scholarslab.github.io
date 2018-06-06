@@ -4,7 +4,6 @@ email: None
 first_name: Erik
 last_name: DeLuca
 layout: people
-location: ''
 name: Erik DeLuca
 position: None
 short_bio: ''

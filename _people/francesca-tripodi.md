@@ -4,7 +4,6 @@ email: None
 first_name: Francesca
 last_name: Tripodi
 layout: people
-location: ''
 name: Francesca Tripodi
 position: None
 short_bio: ''

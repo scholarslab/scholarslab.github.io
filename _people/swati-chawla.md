@@ -4,7 +4,6 @@ email: None
 first_name: Swati
 last_name: Chawla
 layout: people
-location: ''
 name: Swati Chawla
 position: None
 short_bio: ''

@@ -4,7 +4,6 @@ email: sas3ca@virginia.edu
 first_name: Sarah
 last_name: Storti
 layout: people
-location: ''
 name: Sarah Storti
 position: PhD Candidate, Department of English | Praxis Fellow 2011-2012
 short_bio: ''

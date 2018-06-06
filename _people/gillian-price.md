@@ -4,7 +4,6 @@ email: gbp2q@virginia.edu
 first_name: Gillian
 last_name: Price
 layout: people
-location: ''
 name: Gillian Price
 position: Student Assistant
 short_bio: ''

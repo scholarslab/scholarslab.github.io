@@ -4,7 +4,6 @@ email: None
 first_name: Julia
 last_name: Schrank
 layout: people
-location: ''
 name: Julia Schrank
 position: None
 short_bio: ''

@@ -4,7 +4,6 @@ email: hsuw@oxy.edu
 first_name: Wendy
 last_name: Hsu
 layout: people
-location: ''
 name: Wendy Hsu
 position: Digital Humanities Fellow 2009-2010
 short_bio: ''

@@ -4,7 +4,6 @@ email: cmc8dp@virginia.edu
 first_name: Chris
 last_name: Clapp
 layout: people
-location: ''
 name: Chris Clapp
 position: PhD Candidate, Department of Economics | Digital Humanities Fellow 2010-2011
 short_bio: ''

@@ -4,7 +4,6 @@ email: swl5nw@virginia.edu
 first_name: Steven
 last_name: Lewis
 layout: people
-location: ''
 name: Steven Lewis
 position: None
 short_bio: ''

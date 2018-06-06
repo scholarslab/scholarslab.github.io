@@ -4,7 +4,6 @@ email: jimambuske@gmail.com
 first_name: James
 last_name: Ambuske
 layout: people
-location: ''
 name: James Ambuske
 position: None
 short_bio: ''

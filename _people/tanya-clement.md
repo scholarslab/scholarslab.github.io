@@ -4,7 +4,6 @@ email: tclement@ischool.utexas.edu
 first_name: Tanya
 last_name: Clement
 layout: people
-location: ''
 name: Tanya Clement
 position: Assistant Professor
 short_bio: ''

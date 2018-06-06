@@ -4,7 +4,6 @@ email: mrw2ks@virginia.edu
 first_name: Matt
 last_name: West
 layout: people
-location: ''
 name: Matt West
 position: Student Assistant
 short_bio: ''

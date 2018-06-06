@@ -4,7 +4,6 @@ email: adc2dc@virginia.edu
 first_name: Alyssa
 last_name: Collins
 layout: people
-location: ''
 name: Alyssa Collins
 position: None
 short_bio: ''

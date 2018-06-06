@@ -4,7 +4,6 @@ email: dcg6b@virginia.edu
 first_name: Chris
 last_name: Gist
 layout: people
-location: ''
 name: Chris Gist
 position: GIS Specialist
 short_bio: 'Chris Gist, GIS specialist, supports students, faculty, and staff with spatial information needs by building spatial data collections and teaching GIS tools. Ask him about bikes and rain barrels.'

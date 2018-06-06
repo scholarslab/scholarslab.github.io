@@ -4,7 +4,6 @@ email: None
 first_name: Olivia
 last_name: Morgan
 layout: people
-location: ''
 name: Olivia Morgan
 position: Student Assistant
 short_bio: ''

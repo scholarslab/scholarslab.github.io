@@ -4,7 +4,6 @@ email: None
 first_name: Joe
 last_name: Gilbert
 layout: people
-location: ''
 name: Joe Gilbert
 position: 'User Experience Web Developer, U.Va. Library '
 short_bio: ''

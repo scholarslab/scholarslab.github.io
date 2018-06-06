@@ -4,7 +4,6 @@ email: None
 first_name: Nora
 last_name: Benedict
 layout: people
-location: ''
 name: Nora Benedict
 position: None
 short_bio: ''

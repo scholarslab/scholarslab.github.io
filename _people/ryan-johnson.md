@@ -4,7 +4,6 @@ email: None
 first_name: Ryan
 last_name: Johnson
 layout: people
-location: ''
 name: Ryan Johnson
 position: Student Assistant
 short_bio: ''

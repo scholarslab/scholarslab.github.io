@@ -4,7 +4,6 @@ email: arb5fc@virginia.edu
 first_name: Amy
 last_name: Boyd
 layout: people
-location: ''
 name: Amy Boyd
 position: None
 short_bio: ''

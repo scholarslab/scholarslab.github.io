@@ -4,7 +4,6 @@ email: alh3f@virginia.edu
 first_name: Abby
 last_name: Holeman
 layout: people
-location: ''
 name: Abby Holeman
 position: Digital Humanities Fellow 2008-2009
 short_bio: ''
