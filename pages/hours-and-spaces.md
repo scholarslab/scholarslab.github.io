@@ -2,6 +2,19 @@
 layout: page
 title: Hours and Spaces
 permalink: /hours-and-spaces/
+redirect_from:
+  - /locations/
+  - /about/hours-and-spaces/
+  - /locations/alderman-library-rm-317/
+  - /locations/alderman-library-room-421/
+  - /locations/alderman-library-room-421-2/
+  - /locations/alderman-library-room-423/
+  - /locations/alderman-library-room-423-2/
+  - /locations/alderman-library-room-423-3/
+  - /locations/auditorium-harrison-institutesmall-special-collections-library/
+  - /locations/brooks-hall-common-room/
+  - /locations/brooks-hall-commons/
+  - /locations/brown-library-rm-133-clark-hall/
 nav: true
 time-required: ~1.5hrs
 notes:

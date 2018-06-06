@@ -2,6 +2,7 @@
 layout: page
 title: Charter
 permalink: /charter/
+redirect_from: "/about/charter/"
 nav: false
 time-required: ~2hrs
 notes:
