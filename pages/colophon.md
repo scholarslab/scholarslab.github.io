@@ -2,6 +2,7 @@
 layout: page
 title: Colophon
 permalink: /colophon/
+redirect_from: "/about/colophon/"
 nav: false
 time-required: ~2hrs
 notes:

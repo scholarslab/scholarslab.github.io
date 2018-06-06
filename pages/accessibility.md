@@ -2,6 +2,7 @@
 layout: page
 title: Accessibility
 permalink: /accessibility/
+redirect_from: "/about/accessibility/"
 nav: true
 time-required: ~2hrs
 notes:
