@@ -12,7 +12,9 @@ status: not_current
 twitter: Purdom_L
 website: None
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 The Scholars' Lab fosters a vibrant [graduate community](/people), rich with alumni, current fellows, student assistants, and fellow travelers. As the Head of Graduate Programs, I coordinate our two [fellowship programs](/student-opportunities), the Graduate Fellowship in Digital Humanities and our innovative [Praxis Program](http://www.praxis.scholarslab.org). In addition, I work with the international [Praxis Network](http://www.praxis-network.org), which showcases new models of humanities methods training.
 

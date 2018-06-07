@@ -12,8 +12,9 @@ status: not_current
 twitter: bluesape
 website: None
 people-category:
-- 2007-2008
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2007-2008
 ---
 
-No Content Found
+

@@ -5,13 +5,15 @@ first_name: None
 last_name: None
 layout: people
 name: Madison Choi
-position: None
+position:
 short_bio: ''
 slug: madison-choi
 status: not_current
 twitter: None
 website: None
 people-category:
+- student
+roles:
 - student
 roles:
 - LAMI Fellow, 2017

@@ -13,8 +13,9 @@ status: not_current
 twitter: jean_bauer
 website: http://www.jeanbauer.com
 people-category:
-- 2008–2009
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2008–2009
 ---
 
 In brief: I am an Early American historian, a database designer, and a photographer. I'm also sleep-deprived, but that probably isn't related . . . 

@@ -5,15 +5,16 @@ first_name: Lydia
 last_name: Warren
 layout: people
 name: Lydia Warren
-position: None
+position:
 short_bio: ''
 slug: lydia-warren
 status: not_current
 twitter: lydiaisrad
 website: www.LydiaWarren.com
 people-category:
-- 2015-2016
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2015-2016
 ---
 
 

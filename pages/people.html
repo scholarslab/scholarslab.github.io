@@ -138,7 +138,6 @@ notes:
             <!-- position(s) -->
             <ul class="people-item__position">
               {% assign pr = person.role %}
-
 				<!-- former staff: -->
                 {% if pr contains 'staff' %}
                 <li>Former {{ person.position }}</li>
@@ -148,15 +147,18 @@ notes:
 <!-- Checking whether a role includes a comma to see if a year is listed or if we need to instead prepend with "Former" -->
                 {% unless pr contains 'staff' %}
 				{% for item in person.roles %}
-					{% if item contains "," %}
-      			<li>{{ item }}</li>
+					{% if item contains "20" %}
+      					<li>{{ item }}</li>
 					{% endif %}
-					{% unless item contains ',' %}
-      			<li>Former {{ person.position }}</li>	
+					{% unless item contains '20' %}
+						{% if person.people-category contains "staff" %}
+						<li>Former {{ person.position }}</li>	
+						{% elsif person.people-category contains "student" %}
+						<li>Former {{ person.roles.first }}</li>	
+						{% endif %}
 					{% endunless %}
 				{% endfor %}
   				{% endunless %}
-
             </ul>
           </a>
         </div>

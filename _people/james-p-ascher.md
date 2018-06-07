@@ -5,16 +5,16 @@ first_name: James
 last_name: Ascher
 layout: people
 name: James P. Ascher
-position: None
-short_bio: 'James P. Ascher is a doctoral student in the English Department at the
-University of Virginia and a dedicated bibliographer.'
+position:
+short_bio: 'James P. Ascher is a doctoral student in the English Department at the University of Virginia and a dedicated bibliographer.'
 slug: james-p-ascher
 status: not_current
 twitter: jpsa
 website: http://virginia.academia.edu/JamesPAscher
 people-category:
-- 2015-2016
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2015-2016
 ---
 
 Doctoral candidate in the English Department who studies 18th century anglophone literature and bibliography, James puts media studies, textual criticism, ephemera, and paperwork history under the big-tent of bibliography. He's interested in resistance to the Enlightenment, epistolary communities, and the history of features in books, as well as the light they shed on clandestine publishing and the history of obscenity.

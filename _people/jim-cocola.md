@@ -12,8 +12,9 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- 2007-2008
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2007-2008
 ---
 
 In his study of modernist and post-modernist American poetry, Jim used Google Earth and other vernacular mapping tools to create a "mappemunde" of the way poets such as Charles Olson depicted place and how their own home locations influenced their work.

@@ -12,8 +12,9 @@ status: current
 twitter: None
 website: None
 people-category:
-- 2018–2019
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2018–2019
 ---
 
-No Content Found
+

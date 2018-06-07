@@ -5,14 +5,16 @@ first_name: Bethany
 last_name: Nowviskie
 layout: people
 name: Bethany Nowviskie
-position: Director Emerita
+position: Director
 short_bio: ''
 slug: bethany-nowviskie
 status: not_current
 twitter: nowviskie
 website: http://nowviskie.org/
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
 Bethany directed the Scholars' Lab from 2007 to 2015, and is now Director of the [Digital Library Federation](http://www.diglib.org/) at [CLIR](http://clir.org/), the Council on Library and Information Resources. She remains affiliated with UVa as a Research Associate Professor of Digital Humanities in the [English Department](http://www.engl.virginia.edu/faculty).

@@ -5,15 +5,16 @@ first_name: Stephanie
 last_name: Kingsley
 layout: people
 name: Stephanie Kingsley
-position: None
+position:
 short_bio: ''
 slug: stephanie-kingsley
 status: not_current
 twitter: KingsleySteph
 website: http://stephanie-kingsley.github.io/index.html
 people-category:
-- 2013–2014
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2013–2014
 ---
 
-No Content Found
+

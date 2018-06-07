@@ -12,7 +12,9 @@ status: not_current
 twitter: KellyGJohnston
 website: None
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
 As a former Geographic Information Systems Specialist for the Scholars' Lab, Kelly worked with faculty, staff, and students to visualize, analyze, create, and manage geographic data. He earned a master's degree in Geographic Information Science from Indiana University Purdue University Indianapolis. His research interests include applied geography and cartography as an art form.

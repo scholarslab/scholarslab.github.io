@@ -12,8 +12,9 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- 2012–2013
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2012–2013
 ---
 
-No Content Found
+

@@ -12,7 +12,9 @@ status: current
 twitter: mossiso
 website: http://mossiso.com
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
 Ammon is a Digital Humanities Developer and Makerspace Technologist at the Scholars' Lab where he codes projects, builds tools to fix old projects, does some systems administration, 3D prints and plays with Arduinos and Raspberry Pis.

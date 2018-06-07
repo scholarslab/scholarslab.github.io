@@ -12,8 +12,9 @@ status: not_current
 twitter: sarahannestorti
 website: None
 people-category:
-- 2011–2012
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2011–2012
 ---
 
 Sarah is a 2011-12 Praxis Fellow, former NINES Fellow, and a PhD candidate in the Department of English.

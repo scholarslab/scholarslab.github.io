@@ -5,15 +5,17 @@ first_name: Alyssa
 last_name: Collins
 layout: people
 name: Alyssa Collins
-position: None
+position: Prototyping Fellow
 short_bio: ''
 slug: alyssa-collins
-status: not_current
+status: current
 twitter: LyssaDee
-website: None
+website:
 people-category:
-- 2016-2017
-- Praxis Fellow
+- student
+roles:
+- Prototyping Fellow, 2018-2019
+- Praxis Fellow, 2016-2017
 ---
 
 Alyssa Collins is a PhD candidate in the English department at the University of Virginia. Her dissertation focuses on the intersections of race and technology as depicted in 20th century and contemporary African American literature, digital culture, and new media.

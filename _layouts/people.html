@@ -9,7 +9,46 @@ layout: default
 
 		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
 
-		{% if page.position !=  nil %}<div class="person__position">{{ page.position }}</div>{% endif %}
+		{% if page.people-category != 'student' %}
+		{% if page.status != 'not_current' %}
+<div class="person__position">{{ page.position }}</div>
+		{% endif %}
+		{% endif %}
+
+ {% assign pr = person.role %}
+				<!-- former staff: -->
+                {% if pr contains 'staff' %}
+                <div class="person__position">Former {{ person.position }}</div>
+                {% endif %}
+
+			    <!-- former non-staff -->
+<!-- Checking whether a role includes a comma to see if a year is listed or if we need to instead prepend with "Former" -->
+                {% unless pr contains 'staff' %}
+				{% for item in person.roles %}
+					{% if item contains "20" %}
+      					<div class="person__position">{{ item }}</div>
+					{% endif %}
+					{% unless item contains '20' %}
+						{% if person.people-category contains "staff" %}
+						<div class="person__position">Former {{ person.position }}</div>	
+						{% elsif person.people-category contains "student" %}
+						<div class="person__position">Former {{ person.roles.first }}</div>	
+						{% endif %}
+					{% endunless %}
+				{% endfor %}
+  				{% endunless %}
+            </ul>
+
+
+
+
+
+
+
+
+
+
+
 
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__title">Around the Web</div>

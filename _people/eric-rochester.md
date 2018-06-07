@@ -12,6 +12,8 @@ status: not_current
 twitter: erochest
 website: http://www.ericrochester.com/
 people-category:
+- student
+roles:
 - staff
 roles:
 - staff

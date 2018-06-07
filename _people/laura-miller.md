@@ -12,7 +12,9 @@ status: current
 twitter: martofmiller
 website: None
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
 The Scholars' Lab supports a diverse community of digital scholars and scholarly makers across the University and beyond. As Head of Public Programs, my main goal is to foster and grow that community. I convene our [speaker events and workshops](http://scholarslab.org/events/), designed to connect researchers - at all levels - with expertise, training, and intellectual discourse.  I also manage our [Makerspace](http://scholarslab.org/makerspace/) and serve as the primary point of contact between the Scholars’ Lab and broader library services.

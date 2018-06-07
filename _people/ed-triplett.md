@@ -13,9 +13,10 @@ status: not_current
 twitter: EdTriplett
 website: None
 people-category:
-- 2011–2012
-- Graduate Fellow
-- Praxis Fellow
+- student
+roles:
+- Scholars' Lab Fellow, 2011–2012
+- Praxis Fellow, 2011-2012
 ---
 
 Ed was a 2011-12 Scholars' Lab Fellow and Praxis Fellow, and is a PhD candidate in the McIntire Department of Art.

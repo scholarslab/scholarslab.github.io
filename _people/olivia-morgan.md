@@ -12,7 +12,9 @@ status: not_current
 twitter: None
 website: None
 people-category:
+- student
+roles:
 - Student Assistant
 ---
 
-No Content Found
+

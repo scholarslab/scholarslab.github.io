@@ -5,14 +5,16 @@ first_name: None
 last_name: None
 layout: people
 name: Duy Nguyen
-position: None
+position:
 short_bio: ''
 slug: duy-nguyen
 status: not_current
 twitter: None
 website: None
 people-category:
-- Student Assistant
+- student
+roles:
+- Makerspace Technologist
 ---
 
-No Content Found
+

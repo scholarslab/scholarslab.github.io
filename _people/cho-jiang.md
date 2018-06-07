@@ -17,5 +17,3 @@ roles:
 - Praxis Fellow, 2018–2019
 - GIS Intern, 2017-current
 ---
-
-No Content Found

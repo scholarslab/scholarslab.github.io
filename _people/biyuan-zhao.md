@@ -12,7 +12,8 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- Student Assistant
+- student
+roles:
+- Makerspace Technologist
 ---
 
-No Content Found

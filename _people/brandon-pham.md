@@ -4,16 +4,16 @@ email: None
 first_name: Brandon
 last_name: Phan
 layout: people
-location: None
 name: Brandon Phan
-position: None
-short_bio: None
+position:
+short_bio:
 slug: brandon-phan
 status: current
 twitter: None
 website: None
 people-category:
-  - 2017-2018
-  - Makerspace Technologist
+- student
+roles:
+- Makerspace Technologist, 2017-2018
 ---
 Brandon Phan is a 2017-2018 Makerspace Technologist.

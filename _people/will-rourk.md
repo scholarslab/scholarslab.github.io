@@ -12,7 +12,9 @@ status: current
 twitter: rezn8r
 website: None
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
-No Content Found
+

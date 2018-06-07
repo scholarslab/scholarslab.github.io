@@ -12,8 +12,9 @@ status: not_current
 twitter: wendyfhsu
 website: http://beingwendyhsu.info
 people-category:
-- 2009–2010
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2009–2010
 - Student Assistant
 ---
 

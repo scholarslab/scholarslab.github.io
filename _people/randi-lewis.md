@@ -13,8 +13,9 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- 2011–2012
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2011–2012
 ---
 
-No Content Found
+

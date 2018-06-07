@@ -12,7 +12,9 @@ status: current
 twitter: None
 website: None
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
 As Head of Research & Development, I focus on front-end development, user interface, user experience, and aesthetics for Scholars' Lab projects, as well as leading the Scholars' Lab R&D team. In addition to helping faculty and students on their research projects, I keep office hours and do research and teaching for our [Makerspace](http://scholarslab.org/makerspace/). I'm currently researching methods for doing distant reading of comic books using computer vision.

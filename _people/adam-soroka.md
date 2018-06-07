@@ -12,7 +12,8 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- Staff
+- staff
+roles: 
+- staff
 ---
-
 Adam is currently Senior Developer for UVa Library, and was formerly part of the Scholars' Lab R&D team.
