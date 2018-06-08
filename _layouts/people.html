@@ -7,12 +7,10 @@ layout: default
 <div class="person-wrapper">
 	<div class="person-main-content" aria-label="Main content">
 
-		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
+		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}!</div>
 
-		{% if page.people-category != 'student' %}
-		{% if page.status != 'not_current' %}
+		{% if page.status != "not_current" and page.people-category != "student" %}
 <div class="person__position">{{ page.position }}</div>
-		{% endif %}
 		{% endif %}
 
  {% assign pr = person.role %}
