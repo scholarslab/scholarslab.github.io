@@ -5,9 +5,22 @@
 		</div>
 
 		<ul class="flexnav-main-grid">
-			<li class="flexnav__item"><a href="{{ site.baseurl }}">Projects</a></li>
-			<li class="flexnav__item"><a href="{{ site.baseurl }}">Blog</a></li>
-			<li class="flexnav__item"><a href="{{ site.baseurl }}">About Us</a></li>
+		{% assign pages = site.pages | sort: 'order' %}
+		{% for page in pages %}
+		{% if page.layout != nil and page.nav %}
+			<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
+		{% endif %}
+		{% endfor %}
+			<li class="flexnav__more-menu">
+				<div class="flexnav-more__prompt" aria-label="More menu items">More &nbsp;<span>&rsaquo;</span></div>
+				<ul class="flexnav-more__wrapper">
+				{% for page in pages %}
+				{% if page.layout != nil and page.nav %}
+					<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
+				{% endif %}
+				{% endfor %}
+				</ul>
+			</li>
 		</ul>
 	</div> <!-- end content -->
 </div> <!-- end wrapper -->
