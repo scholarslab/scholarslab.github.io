@@ -1,7 +1,6 @@
 /* Universal Styles: */
 
 // section titles
-[class*="__title"][class*="home-"],
 [class*="__title"][class*="spatial-"],
 [class*="__title"][class*="research-"] {
 	margin-bottom: .5em;
@@ -26,13 +25,13 @@
 		font-family: "Raleway", sans-serif;
 		font-weight: 700;
 		text-decoration: none;
-		color: black;
-		border-bottom: 2px solid magenta;
+		color: $textgray;
+		border-bottom: 2px solid hsla(186,80%,70%,1);
 		background-color: transparent;
 		-webkit-transition: background-color .3s;
 		transition: background-color .3s;
 		&:hover, &:focus {
-			background-color: magenta;
+			background-color: hsla(186,80%,70%,1);
 		}
 	}
 }
@@ -82,7 +81,7 @@
 	}
 	@media screen and (min-width: 1024px) {
 		a {
-			font-size: 1.5rem !important;
+	//		font-size: 1.5rem !important;
 		}
 	}
 }
