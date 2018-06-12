@@ -54,6 +54,7 @@ desc "Make a research project"
 task :new_project, [:title] do |t, args|
   title_slug = args.title.downcase.gsub(' ', '-')
   fn = '_research/' + title_slug + '.md'
+  if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
   titlecase_title = args.title.titlecase
   File.open(fn, 'w'){|f|
     f.puts("---")
@@ -78,6 +79,7 @@ desc "Make a new event"
 task :new_event, [:title] do |t, args|
   title_slug = args.title.downcase.gsub(' ', '-')
   fn = '_events/' + title_slug + '.md'
+  if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end  
   titlecase_title = args.title.titlecase
   current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
   File.open(fn, 'w'){|f|
@@ -105,6 +107,7 @@ desc "Make a new person"
 task :new_person, [:first_name, :last_name] do |t, args|
   slug = args.first_name.downcase.split.join('-') + '-' + args.last_name.downcase.split.join('-')
   fn = '_people/' + slug + '.md'
+  if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end  
   File.open(fn, 'w'){|f|
     f.puts("---")
     f.puts("department: None")
@@ -134,6 +137,7 @@ task :new_post, [:title, :author] do |t, args|
   title_slug = args.title.downcase.gsub(' ', '-')
   date = Date.today.to_s
   fn = '_posts/' + date + '-' + title_slug + '.md'
+  if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
   current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
   File.open(fn, 'w'){|f|
     f.puts("---")
