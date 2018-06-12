@@ -1,6 +1,6 @@
 /* Navbar 2 Styles: */
 
-.flexnav-wrapper--2 {
+.flexnav-wrapper {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -14,7 +14,7 @@
 	}
 }
 
-.flexnav-main--2 {
+.flexnav-main {
 	position: relative;
 	display: flex;
 	justify-content: space-between;
@@ -85,7 +85,7 @@ ul[class*="flexnav"] {
 }
 
 // div
-.flexnav-more__prompt, .flexnav-more__prompt--2 {
+.flexnav-more__prompt {
 	height: 60px;
 	font-weight: bold;
 	text-transform: uppercase;
