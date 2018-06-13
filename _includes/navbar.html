@@ -1,8 +1,7 @@
-<div class="navbar-wrapper">
-	<div class="navbar-main-grid">
-
-		<div class="navbar__home-icon">
-			<a href="{{ site.url }}" aria-label="Scholars' Lab home"><img src="{{ '/assets/img/svg/slab-logo-color-white.svg' | relative_url }}" alt="SLab logo"></a>
+<div class="flexnav-wrapper">
+	<div class="flexnav-main">
+		<div class="flexnav__home-icon">
+			<a href="{{ site.url }}" aria-label="Scholars' Lab home"><img src="{{ '/assets/img/svg/8bit-beaker.svg' | relative_url }}" alt="Beaker by Cuby Design for the Noun Project" title="Courtesy of Cuby Design"></a>
 		</div>
 
 		<ul class="flexnav-main-grid">
@@ -13,7 +12,7 @@
 		{% endif %}
 		{% endfor %}
 			<li class="flexnav__more-menu">
-				<div class="flexnav-more__prompt" aria-label="More menu items">More &nbsp;<span>&rsaquo;</span></div>
+				<div class="flexnav-more__prompt" aria-label="More menu items">More<span>&rsaquo;</span></div>
 				<ul class="flexnav-more__wrapper">
 				{% for page in pages %}
 				{% if page.layout != nil and page.nav %}
@@ -23,6 +22,5 @@
 				</ul>
 			</li>
 		</ul>
-
 	</div> <!-- end content -->
 </div> <!-- end wrapper -->
