@@ -10,9 +10,9 @@ notes:
 ---
 
 <!-- people categories: staff, students, & alumni -->
-{% assign staff = site.people | where: 'people-category', 'Staff' | where: 'status', 'current' | sort: 'last_name' %}
+{% assign staff = site.people | where: 'people-category', 'staff' | where: 'status', 'current' | sort: 'last_name' %}
 <!-- filter to ensure they're not in staff when printing: -->
-{% assign students = site.people | where: 'status', 'current' | where_exp: 'person', "person.people-category[0] != 'Staff'" | sort: 'last_name' %}
+{% assign students = site.people | where: 'people-category', 'student' | where: 'status', 'current' | sort: 'last_name' %}
 {% assign alumni = site.people | where: 'status', 'not_current' | sort: 'last_name' %}
 
 <div class="people-wrapper">
@@ -63,7 +63,6 @@ notes:
       <div class="people-students__gallery">
         <!-- gallery item: -->
         {% for person in students %}
-        {% unless person.people-category contains 'Staff' %}
         {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
         <div class="people-item-wrapper">
           <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
@@ -89,55 +88,15 @@ notes:
             </div>
             <div class="people-item__name">{{ person.name }}</div>
             <div class="people-item__position">
-              {% assign pc = person.people-category %}
-
-              <!-- praxis/grad fellows: match years to program -->
-              {% assign yrcheck1 = pc[0] | slice: 0, 2 %}
-              {% assign yrcheck2 = pc[1] | slice: 0, 2 %}
-
-              <!-- grad fellow -->
-              {% if pc contains 'Graduate Fellow' %}
-                {% if yrcheck2 == '20' %}
-                  <li>{{ pc[1] }} Graduate Fellow</li>
-                {% elsif yrcheck1 == '20' %}
-                  <li> {{ pc[0] }} Graduate Fellow</li>
-                {% else %}
-                  <li>Graduate Fellow</li>
-                {% endif %}
-              <!-- prototyping fellow -->
-              {% elsif pc contains 'Prototyping Fellow' %}
-                {% if yrcheck2 == '20' %}
-                  <li>{{ pc[1] }} Prototyping Fellow</li>
-                {% elsif yrcheck1 == '20' %}
-                  <li> {{ pc[0] }} Prototyping Fellow</li>
-                {% else %}
-                  <li>Prototyping Fellow</li>
-                {% endif %}
-              {% endif %}
-              <!-- praxis -->
-              {% if pc contains 'Praxis Fellow' %}
-                {% if yrcheck1 == '20' %}
-                  <li>{{ pc[0] }} Praxis Fellow</li>
-                {% else %}
-                  <li>Praxis Fellow</li>
-                {% endif %}
-              {% endif %}
-              <!-- LAMI -->
-              {% if pc contains 'LAMI Fellow' %}
-                <li>{{ pc[0] }} LAMI Fellow</li>
-              {% endif %}
-              <!-- technologists -->
-              {% if pc contains 'Student Assistant' %}
-                {% if pc.size == 2 %}
-                  <li>{{ pc[0] }} Makerspace Technologist</li>
-                {% else %}
-                  <li>Makerspace Technologist</li>
-                {% endif %}
-              {% endif %}
+<!-- new logic for displaying list of current & past roles, if person is current student  -->
+<ul>
+   {% for item in person.roles %}
+      <li>{{ item }}</li>
+   {% endfor %}
+</ul>
             </div>
           </a>
         </div>
-        {% endunless %}
         {% endfor %} <!-- end item -->
       </div> <!-- end gallery -->
     </section> <!-- end students -->
@@ -178,56 +137,28 @@ notes:
             <div class="people-item__name">{{ person.name }}</div>
             <!-- position(s) -->
             <ul class="people-item__position">
-              {% assign pc = person.people-category %}
+              {% assign pr = person.role %}
+				<!-- former staff: -->
+                {% if pr contains 'staff' %}
+                <li>Former {{ person.position }}</li>
+                {% endif %}
 
-              <!-- staff: -->
-              {% if pc contains 'Staff' %}
-              <li>Former {{ person.position }}</li>
-              {% endif %}
-
-              <!-- praxis/grad fellows: match years to program -->
-              {% assign yrcheck1 = pc[0] | slice: 0, 2 %}
-              {% assign yrcheck2 = pc[1] | slice: 0, 2 %}
-
-              <!-- grad fellow -->
-              {% if pc contains 'Graduate Fellow' %}
-                {% if yrcheck2 == '20' %}
-                  <li>{{ pc[1] }} Graduate Fellow</li>
-                {% elsif yrcheck1 == '20' %}
-                  <li> {{ pc[0] }} Graduate Fellow</li>
-                {% else %}
-                  <li>Graduate Fellow</li>
-                {% endif %}
-              <!-- prototyping fellow -->
-              {% elsif pc contains 'Prototyping Fellow' %}
-                {% if yrcheck2 == '20' %}
-                  <li>{{ pc[1] }} Prototyping Fellow</li>
-                {% elsif yrcheck1 == '20' %}
-                  <li> {{ pc[0] }} Prototyping Fellow</li>
-                {% else %}
-                  <li>Prototyping Fellow</li>
-                {% endif %}
-              {% endif %}
-              <!-- praxis -->
-              {% if pc contains 'Praxis Fellow' %}
-                {% if yrcheck1 == '20' %}
-                  <li>{{ pc[0] }} Praxis Fellow</li>
-                {% else %}
-                  <li>Praxis Fellow</li>
-                {% endif %}
-              {% endif %}
-              <!-- LAMI -->
-              {% if pc contains 'LAMI Fellow' %}
-                <li>{{ pc[0] }} LAMI Fellow</li>
-              {% endif %}
-              <!-- technologists -->
-              {% if pc contains 'Student Assistant' %}
-                {% if pc.size == 2 %}
-                  <li>{{ pc[0] }} Makerspace Technologist</li>
-                {% else %}
-                  <li>Makerspace Technologist</li>
-                {% endif %}
-              {% endif %}
+			    <!-- former non-staff -->
+<!-- Checking whether a role includes a comma to see if a year is listed or if we need to instead prepend with "Former" -->
+                {% unless pr contains 'staff' %}
+				{% for item in person.roles %}
+					{% if item contains "20" %}
+      					<li>{{ item }}</li>
+					{% endif %}
+					{% unless item contains '20' %}
+						{% if person.people-category contains "staff" %}
+						<li>Former {{ person.position }}</li>	
+						{% elsif person.people-category contains "student" %}
+						<li>Former {{ person.roles.first }}</li>	
+						{% endif %}
+					{% endunless %}
+				{% endfor %}
+  				{% endunless %}
             </ul>
           </a>
         </div>

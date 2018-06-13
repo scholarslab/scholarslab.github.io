@@ -4,17 +4,17 @@ email: None
 first_name: Gabriela
 last_name: Corona
 layout: people
-location: ''
 name: Gabriela Corona
-position: None
+position:
 short_bio: ''
 slug: gabriela-corona
 status: not_current
 twitter: None
 website: None
 people-category:
-- '2016'
-- LAMI Fellow
+- student
+roles:
+- LAMI Fellow, 2016
 ---
 
-No Content Found
+

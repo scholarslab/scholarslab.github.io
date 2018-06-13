@@ -4,7 +4,6 @@ email: None
 first_name: Eric
 last_name: Rochester
 layout: people
-location: ''
 name: Eric Rochester
 position: Senior Developer
 short_bio: ''
@@ -13,7 +12,11 @@ status: not_current
 twitter: erochest
 website: http://www.ericrochester.com/
 people-category:
-- Staff
+- student
+roles:
+- staff
+roles:
+- staff
 ---
 
 My interests include text processing, text mining, and natural language processing, as well as web-development and general programming.

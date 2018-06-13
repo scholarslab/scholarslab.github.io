@@ -4,7 +4,6 @@ email: None
 first_name: Oguljan
 last_name: Reyimbaeva
 layout: people
-location: ''
 name: Oguljan Reyimbaeva
 position: Student Assistant
 short_bio: ''
@@ -13,6 +12,8 @@ status: not_current
 twitter: None
 website: None
 people-category:
+- student
+roles:
 - Student Assistant
 ---
 

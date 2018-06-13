@@ -4,16 +4,16 @@ email: None
 first_name: Tanner
 last_name: Greene
 layout: people
-location: None
 name: Tanner Greene
-position: None
+position:
 short_bio: 'Tanner Greene is a PhD student in the Department of Music’s Critical and Comparative Studies program. He’s awesome.'
 slug: tanner-greene
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
-  - 2017-2018
-  - Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2017-2018
 ---
 Tanner Greene is a 2017-2018 Praxis Program fellow.

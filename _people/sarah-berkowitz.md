@@ -4,16 +4,15 @@ email: None
 first_name: Sarah
 last_name: Berkowitz
 layout: people
-location: None
 name: Sarah Berkowitz
-position: None
-short_bio: None
+position:
+short_bio:
 slug: sarah-berkowitz
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
-  - 2017-2018
-  - Prototyping Fellow
+- student
+roles:
+- Prototyping Fellow, 2017-2018
 ---
-A flashy bio goes here

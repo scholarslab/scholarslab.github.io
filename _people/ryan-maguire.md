@@ -4,16 +4,16 @@ email: None
 first_name: Ryan
 last_name: Maguire
 layout: people
-location: None
 name: Ryan Maguire
-position: None
-short_bio: None
+position:
+short_bio:
 slug: ryan-maguire
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
-  - 2017-2018
-  - Prototyping Fellow
+- student
+roles:
+- Prototyping Fellow, 2017-2018
 ---
 Ryan Maguire is a 2017-2018 DH Prototyping Fellow.

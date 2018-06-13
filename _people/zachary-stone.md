@@ -4,17 +4,17 @@ email: None
 first_name: Zachary
 last_name: Stone
 layout: people
-location: ''
 name: Zachary Stone
-position: None
+position:
 short_bio: ''
 slug: zachary-stone
 status: not_current
 twitter: None
 website: None
 people-category:
-- 2013–2014
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2013–2014
 ---
 
-No Content Found
+

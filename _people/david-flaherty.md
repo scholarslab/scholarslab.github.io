@@ -4,7 +4,6 @@ email: david.flaherty@virginia.edu
 first_name: David
 last_name: Flaherty
 layout: people
-location: ''
 name: David Flaherty
 position: PhD Candidate, Corcoran Department of History | Digital Humanities Fellow
   2012-2013
@@ -14,8 +13,9 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- 2012–2013
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2012–2013
 ---
 
-No Content Found
+

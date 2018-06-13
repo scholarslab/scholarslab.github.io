@@ -4,7 +4,6 @@ email: hsuw@oxy.edu
 first_name: Wendy
 last_name: Hsu
 layout: people
-location: ''
 name: Wendy Hsu
 position: Digital Humanities Fellow 2009-2010
 short_bio: ''
@@ -13,8 +12,9 @@ status: not_current
 twitter: wendyfhsu
 website: http://beingwendyhsu.info
 people-category:
-- 2009–2010
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2009–2010
 - Student Assistant
 ---
 

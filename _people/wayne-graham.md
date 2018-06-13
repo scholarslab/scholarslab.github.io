@@ -4,7 +4,6 @@ email: wsg4w@virginia.edu
 first_name: Wayne
 last_name: Graham
 layout: people
-location: ''
 name: Wayne Graham
 position: Head, Research & Development
 short_bio: ''
@@ -13,10 +12,12 @@ status: not_current
 twitter: wayne_graham
 website: http://waynegraham.github.io
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
-Wayne Graham is head of the Scholars' Lab Research and Development team. He holds an MA in history from the [College of William and Mary](http://www.wm.edu/as/history/) and his BA in history from the [Virginia Military Institute](http://www.vmi.edu).
+Wayne Graham was head of the Scholars' Lab Research and Development team. He holds an MA in history from the [College of William and Mary](http://www.wm.edu/as/history/) and his BA in history from the [Virginia Military Institute](http://www.vmi.edu).
 
 Before joining the Scholars' Lab in 2009, he worked at the Colonial Williamsburg Foundation's [Department of Historical Research](http://research.history.org/Historical_Research.cfm), then as a systems administrator and programmer at William and Mary's [Earl Gregg Swem Library](http://swem.wm.edu). Over the course of those years, he worked as a historical researcher, TEI specialist, web developer, systems architect, dabbling in computer graphics, high-performance computing, and emerging technologies coordination.
 
