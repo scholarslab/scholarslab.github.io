@@ -9,29 +9,22 @@ layout: default
 
 		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
 
+<!-- <div class="person__position">{{ person.position }}</div>  -->
+
 <div class="person__position">
-{% if page.status == current %}
-	{% if page.people-category == student %}
-	<div class="person__position">{{ page.roles }}</div>
-	{% elsif page.people-category == staff %}
-	<div class="person__position">{{ page.position }}</div>
+{% if page.people-category contains "staff" %}
+	{% if page.status contains "not_current" %}
+		Former {{ page.position }}
+	{% elsif page.status contains "current" %}
+		{{ page.position }}
 	{% endif %}
-{% elsif page.status == not_current %}
-	{% if page.people-category == student %}
-	<div class="person__position">{{ page.roles }}</div>
-	{% elsif page.people-category == staff %}
-	<div class="person__position">Former {{ page.position }}</div>
-	{% endif %}
+{% elsif page.people-category contains "student" %}
+	<ul>{% for role in page.roles %}
+		<li>{{ role }}</li>
+	{% endfor %}</ul>
 {% endif %}
 
-
-
-
 </div>
-
-
-
-
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
@@ -40,7 +33,7 @@ layout: default
 				<span>Email:</span>{{ page.email}}<br/>
 				{% endif %}
 				{% if page.twitter != 'None' %}
-				<span>Twitter:</span>@{{ page.twitter }}<br/>
+				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a><br/>
 				{% endif %}
 				{% if page.website != 'None' %}
 				<span>Website:</span><!--a href="{{ page.website }}"-->{{ page.website | remove: 'http://'}}<!--/a--><!--br/-->

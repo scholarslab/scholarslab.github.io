@@ -10,7 +10,7 @@ short_bio: ''
 slug: alyssa-collins
 status: current
 twitter: LyssaDee
-website:
+website: 
 people-category:
 - student
 roles:
