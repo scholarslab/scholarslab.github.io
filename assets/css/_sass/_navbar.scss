@@ -179,14 +179,25 @@ ul[class*="flexnav"] {
 	}
 }
 
-// li, level 2
+/* Inner item: */
+
 .flexnav-more__item {
-	background-color: #222;
-	border-bottom: 1px solid rgba(255,255,255,.5);
+	background-color: $navgray;
+	border-bottom: 1px solid hsla(186,80%,80%,.5);
+	transition: background-color .3s ease-out;
 	a {
 		padding: 0 1em;
 		text-align: left !important;
 		line-height: 3;
+		-moz-transition: color .3s ease-out;
+		-webkit-transition: color .3s ease-out;
+		transition: color .3s ease-out;
+	}
+	&:hover, &:focus {
+		background-color: hsla(186, 0%, 5%, 1);
+		a {
+			color: $medskyblue;
+		}
 	}
 }
 
