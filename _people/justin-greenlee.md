@@ -4,17 +4,17 @@ email: jgg3mb@virginia.edu
 first_name: Justin
 last_name: Greenlee
 layout: people
-location: ''
 name: Justin Greenlee
-position: None
+position:
 short_bio: ''
 slug: justin-greenlee
 status: not_current
 twitter: None
 website: None
 people-category:
-- 2016-2017
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2016-2017
 ---
 
-No Content Found
+

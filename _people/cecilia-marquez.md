@@ -4,7 +4,6 @@ email: cm2ug@virginia.edu
 first_name: Cecilia
 last_name: Márquez
 layout: people
-location: ''
 name: Cecilia Márquez
 position: Praxis Fellow 2012-2013
 short_bio: ''
@@ -13,8 +12,7 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- 2012–2013
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2012–2013
 ---
-
-No Content Found

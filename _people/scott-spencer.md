@@ -4,7 +4,6 @@ email: scs4v@virginia.edu
 first_name: Scott
 last_name: Spencer
 layout: people
-location: ''
 name: Scott Spencer
 position: PhD Candidate, Corcoran Department of History | Digital Humanities Fellow
   2009-2010
@@ -14,8 +13,9 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- 2009–2010
-- Graduate Fellow
+- student
+roles:
+- Graduate Fellow, 2009–2010
 ---
 
-No Content Found
+

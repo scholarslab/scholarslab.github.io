@@ -4,16 +4,16 @@ email: None
 first_name: Ben
 last_name: Gorham
 layout: people
-location: None
 name: Ben Gorham
-position: None
-short_bio: None
+position:
+short_bio:
 slug: ben-gorham
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
-  - 2017-2018
-  - Prototyping Fellow
+- student
+roles:
+- Prototyping Fellow, 2017-2018
 ---
 Ben Gorham is a 2017-2018 Digital Humanities Prototyping Fellow and a PhD student in Art and Architectural History.

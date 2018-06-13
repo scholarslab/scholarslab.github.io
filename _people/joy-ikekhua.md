@@ -4,17 +4,17 @@ email: None
 first_name: Joy
 last_name: Ikekhua
 layout: people
-location: ''
 name: Joy Ikekhua
-position: None
+position:
 short_bio: ''
 slug: joy-ikekhua
 status: not_current
 twitter: None
 website: None
 people-category:
-- '2016'
-- LAMI Fellow
+- student
+roles:
+- LAMI Fellow, 2016
 ---
 
-No Content Found
+

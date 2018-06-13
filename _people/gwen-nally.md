@@ -4,7 +4,6 @@ email: egn9b@virginia.edu
 first_name: Gwen
 last_name: Nally
 layout: people
-location: ''
 name: Gwen Nally
 position: PhD Candidate, Department of Philosophy | Praxis Fellow 2012-2013
 short_bio: ''
@@ -13,10 +12,10 @@ status: not_current
 twitter: None
 website: None
 people-category:
-- 2012–2013
-- 2013–2014
-- Graduate Fellow
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2012–2013
+- Graduate Fellow, 2013–2014
 ---
 
-No Content Found
+

@@ -4,7 +4,6 @@ email: jeremy@virginia.edu
 first_name: Jeremy
 last_name: Boggs
 layout: people
-location: ''
 name: Jeremy Boggs
 position: Design Architect
 short_bio: 'Jeremy Boggs: Head of Research & Development and Design in the Lab, scruffiest nerf herder of them all; types code, teaches digital methods, and wrangles a rowdy bullpen full of developers. Ask him about Batman.'
@@ -13,7 +12,9 @@ status: current
 twitter: None
 website: None
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
 As Head of Research & Development, I focus on front-end development, user interface, user experience, and aesthetics for Scholars' Lab projects, as well as leading the Scholars' Lab R&D team. In addition to helping faculty and students on their research projects, I keep office hours and do research and teaching for our [Makerspace](http://scholarslab.org/makerspace/). I'm currently researching methods for doing distant reading of comic books using computer vision.

@@ -4,17 +4,17 @@ email: None
 first_name: Francesca
 last_name: Tripodi
 layout: people
-location: ''
 name: Francesca Tripodi
-position: None
+position:
 short_bio: ''
 slug: francesca-tripodi
 status: not_current
 twitter: None
 website: None
 people-category:
-- 2013–2014
-- Praxis Fellow
+- student
+roles:
+- Praxis Fellow, 2013–2014
 ---
 
-No Content Found
+

@@ -4,16 +4,17 @@ email: mwmitchell73@gmail.com
 first_name: Matt
 last_name: Mitchell
 layout: people
-location: ''
 name: Matt Mitchell
-position: None
+position: Software developer
 short_bio: ''
 slug: matt-mitchell
 status: not_current
 twitter: None
 website: None
 people-category:
-- Staff
+- staff
+roles:
+- staff
 ---
 
 Matt Mitchell, a former SLab software developer, is currently a developer at hotelicopter.
