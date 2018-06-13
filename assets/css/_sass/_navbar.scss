@@ -61,17 +61,19 @@ ul[class*="flexnav"] {
 	}
 }
 
-// ul, level 1
+/* Page links wrapper: */
+
 .flexnav-main-grid {
 	position: relative;
 	display: flex;
 	align-items: center;
-	text-align: center;
 	height: 100%;
 	max-width: 33vw;
+	text-align: center;
 }
 
-// li, level 1
+/* Outer item: */
+
 .flexnav__item {
 	padding-right: 2em;
 }
