@@ -99,12 +99,15 @@ ul[class*="flexnav"] {
 	}
 }
 
-// li, level 1
+/* Outer item
+ * wraps "More" button
+ * & inner items: */
 .flexnav__more-menu {
 
 }
 
-// div in li-1
+/* "More" button: */
+
 .flexnav-more__prompt {
 	height: 60px;
 	font-family: "base-mono-wide", monospace;
