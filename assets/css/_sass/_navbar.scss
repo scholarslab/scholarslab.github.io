@@ -50,20 +50,14 @@ ul[class*="flexnav"] {
 
 [class*="flexnav"][class*="__item"] {
 	a {
+		position: relative;
 		display: inline-block;
-		padding-bottom: .5em;
 		font-family: "base-mono-wide", monospace;
 		font-weight: 200;
 		text-decoration: none;
-		color: hsla(186,80%,80%,1);
-		border-bottom: 1px solid hsla(186,80%,80%,1);
-		-moz-transition: color .3s;
-		-webkit-transition: color .3s;
-		transition: color .3s;
+		text-transform: uppercase;
+		color: white;
 		white-space: nowrap;
-		&:hover, &:focus {
-			color: hsla(186,80%,50%,1);
-		}
 	}
 }
 
