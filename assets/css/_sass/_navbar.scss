@@ -109,23 +109,44 @@ ul[class*="flexnav"] {
 /* "More" button: */
 
 .flexnav-more__prompt {
+	position: relative;
+	display: flex;
+	align-items: center;
 	height: 60px;
+	padding-right: 1em;
 	font-family: "base-mono-wide", monospace;
+	font-weight: 200;
 	text-transform: uppercase;
-	line-height: 60px;
-	color: hsla(186,80%,80%,1);
-	-moz-transition: color .3s;
-	-webkit-transition: color .3s;
-	transition: color .3s;
+	color: $medskyblue;
+	-moz-transition: color .5s;
+	-webkit-transition: color .5s;
+	transition: color .5s;
 	white-space: nowrap;
+	&::after {
+		content: '';
+		position: absolute;
+		top: 44px;
+		left: 0;
+		display: block;
+		width: 0%;
+		height: 2px;
+		background-color: transparent;
+		-moz-transition: background-color .3s, width .3s;
+		-webkit-transition: background-color .3s, width .3s;
+		transition: background-color .3s, width .3s;
+	}
 	span {
 		display: inline-block;
+		height: .5em;
 		line-height: 1rem;
-		transform: rotate(90deg);
+		transform: rotate(90deg) translate(0, -1em);
 	}
-	&:hover, &:focus {
-		color: hsla(186,80%,50%,1);
+	&:hover, &:focus, &:active {
 		cursor: pointer;
+		&::after {
+			width: 100%;
+			background-color: hsla(186,80%,70%,1);
+		}
 	}
 }
 
