@@ -11,6 +11,8 @@
 	z-index: 5;
 }
 
+/* Main content: */
+
 .flexnav-main {
 	position: relative;
 	display: flex;
@@ -18,7 +20,8 @@
 	height: 60px;
 }
 
-// nested version:
+/* Home Button: */
+
 .flexnav__home-icon {
 	align-self: center;
 	a {
@@ -35,11 +38,15 @@
 	}
 }
 
+/* Item wrappers: */
+
 ul[class*="flexnav"] {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
 }
+
+/* All items (inner & outer): */
 
 [class*="flexnav"][class*="__item"] {
 	a {
