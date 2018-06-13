@@ -70,7 +70,7 @@ ul[class*="flexnav"] {
 	align-items: center;
 	text-align: center;
 	height: 100%;
-	max-width: 60vw;
+	max-width: 33vw;
 }
 
 // li, level 1
@@ -80,23 +80,27 @@ ul[class*="flexnav"] {
 
 // li, level 1
 .flexnav__more-menu {
-//	position: relative;
-//	align-self: flex-start;
+
 }
 
-// div
+// div in li-1
 .flexnav-more__prompt {
 	height: 60px;
-	font-weight: bold;
+	font-family: "base-mono-wide", monospace;
 	text-transform: uppercase;
 	line-height: 60px;
-	color: hsla(186,80%,80%,1);;
+	color: hsla(186,80%,80%,1);
+	-moz-transition: color .3s;
+	-webkit-transition: color .3s;
+	transition: color .3s;
+	white-space: nowrap;
 	span {
 		display: inline-block;
 		line-height: 1rem;
 		transform: rotate(90deg);
 	}
 	&:hover, &:focus {
+		color: hsla(186,80%,50%,1);
 		cursor: pointer;
 	}
 }
