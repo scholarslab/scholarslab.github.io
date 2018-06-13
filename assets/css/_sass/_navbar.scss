@@ -150,7 +150,8 @@ ul[class*="flexnav"] {
 	}
 }
 
-// ul, level 2
+/* Inner items wrapper: */
+
 .flexnav-more__wrapper {
 	position: absolute;
 	right: -4.1vw;
@@ -164,8 +165,18 @@ ul[class*="flexnav"] {
 	-moz-transition: opacity .5s;
 	-webkit-transition: opacity .5s;
 	transition: opacity .5s;
-	background-color: #222;
-	border-top: 1px solid rgba(255,255,255,.5);
+	background-color: $navgray;
+	border-left: 1px solid black;
+	&::after {
+		content: '';
+		position: absolute;
+		top: -1px;
+		right: 0;
+		display: block;
+		width: 100%; // 4.1vw;
+		height: 1px;
+		background-color: hsla(186,80%,80%,.5);
+	}
 }
 
 // li, level 2
