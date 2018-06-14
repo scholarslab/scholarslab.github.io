@@ -24,17 +24,94 @@
 
 .flexnav__home-icon {
 	align-self: center;
+	position: relative;
 	a {
 		display: block;
-		padding-top: 16px;
 		border-bottom: none !important;
 		&:hover, &:focus {
 			background-color: transparent !important;
 		}
-		img {
-			display: block;
-			height: 40px;
+	}
+}
+
+.flexnav-icon__text {
+	position: relative;
+	display: grid;
+	grid-template-areas: "s c h o l a r y z";
+	text-transform: uppercase;
+	line-height: 1;
+	padding-top: 14px;
+//	background-color: white;
+	svg {
+		height: 2rem;
+		transition: height .3s;
+		path {
+			fill: white;
+			transition: fill .3s ease-out;
 		}
+		&:hover, &:focus {
+			
+			height: 2.125rem;
+			path {
+				fill: $medskyblue !important;
+			}
+		}
+	}
+/*	div {
+		grid-area: t;
+		font-size: .5em;
+		opacity: .5;
+	} */
+	span {
+		display: none; // inline-block;
+		align-self: center;
+		justify-self: center;
+		font-family: "Bungee Hairline";
+		font-weight: 400;
+		&:first-of-type {
+			grid-area: s;
+		}
+		&:nth-of-type(2) {
+			grid-area: c;
+		}
+		&:nth-of-type(3) {
+			grid-area: h;
+		}
+		&:nth-of-type(4) {
+			grid-area: o;
+		}
+		&:nth-of-type(5) {
+			grid-area: l;
+		}
+		&:nth-of-type(6) {
+			grid-area: a;
+		}
+		&:nth-of-type(7) {
+			grid-area: r;
+			position: relative;
+		}
+		&:nth-of-type(8) {
+			grid-area: y;
+		}
+		&:nth-of-type(9) {
+			grid-area: z;
+		}
+		&:nth-last-of-type(3) {
+			grid-area: l;
+		}
+		&:nth-last-of-type(2) {
+			grid-area: a;
+		}
+		&:last-of-type {
+			grid-area: r;
+		}
+	}
+	span.flexnav-icon__lab {
+		font-size: 3.5rem;
+		font-family: "Bungee Outline";
+		color: $medskyblue;
+		opacity: .7;
+		z-index: -1;
 	}
 }
 
