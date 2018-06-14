@@ -145,8 +145,11 @@ ul[class*="flexnav"] {
 	display: flex;
 	align-items: center;
 	height: 100%;
-	max-width: 33vw;
+	max-width: 50vw;
 	text-align: center;
+	@media screen and (min-width: 600px) {
+		max-width: 33vw;
+	}
 }
 
 /* Outer item: */

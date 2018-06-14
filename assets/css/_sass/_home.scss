@@ -48,7 +48,7 @@ html, body {
 	height: 100vh;
 	width: 100%;
 	align-items: center;
-	font-size: 3em;
+	font-size: 2em;
 	font-weight: 900;
 	line-height: 1;
 	text-transform: uppercase;
@@ -69,6 +69,9 @@ html, body {
 	}
 	span {
 		display: inline-block;
+	}
+	@media screen and (min-width: 600px) {
+		font-size: 3em;
 	}
 	@media screen and (min-width: 768px) {
 		font-size: 4em;
@@ -93,8 +96,8 @@ html, body {
 
 [class*="home-hero__"] {
 	position: relative;
-	font-size: 1.67em; // 3/4 scale
-	line-height: 1.2;
+	font-size: 1.33em; // 3/4 scale
+	line-height: 1.5;
 	color: $textgray;
 	margin: .6em;
 	margin-top: 0;
@@ -102,13 +105,20 @@ html, body {
 	h3 {
 		position: relative;
 		margin: 0;
-		font-size: 2.25rem;
+		font-size: 2rem;
 		font-weight: 900;
 		line-height: 1;
 		text-transform: uppercase;
 	}
 	p:first-of-type {
 		margin-top: .5em;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.67em; // 3/4 scale
+		line-height: 1.2;
+		h3 {
+			font-size: 2.25rem;
+		}
 	}
 }
 
@@ -136,6 +146,7 @@ html, body {
 						 "students"
 						 "maker"
 						 "spatial";
+	justify-content: center;
 	padding: 0 4.167%;
 	color: $textgray;
 	@media screen and (min-width: 1024px) {
@@ -204,6 +215,10 @@ html, body {
 .home-contact__wrapper {
 	position: relative;
 	display: flex;
+	flex-flow: column nowrap;
+	@media screen and (min-width: 600px) {
+		flex-flow: row nowrap;
+	}
 }
 
 .home-contact__content {
@@ -251,6 +266,10 @@ html, body {
 .home-find__content {
 	position: relative;
 	display: flex;
+	flex-flow: column nowrap;
+	@media screen and (min-width: 600px) {
+		flex-flow: row nowrap;
+	}
 }
 
 .home-find__diagram {
@@ -304,8 +323,13 @@ html, body {
 	grid-area: students;
 	position: relative;
 	display: grid;
-	grid-template-columns: 3fr 2fr;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto auto;
 	max-width: 100%;
+	@media screen and (min-width: 600px) {
+		grid-template-columns: 3fr 2fr;
+		grid-template-rows: auto;
+	}
 }
 
 .home-student__content {
