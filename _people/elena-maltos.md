@@ -7,7 +7,7 @@ layout: people
 location: None
 name: Elena Maltos
 position: None
-short_bio: None
+short_bio: "Elena Maltos is a 2018 LAMI Scholar."
 slug: elena-maltos
 status: not_current
 twitter: None
@@ -16,4 +16,5 @@ people-category:
 - '2018'
 - LAMI Fellow
 ---
-A flashy bio goes here
+I am Elena Maltos and I will be entering my junior year at Heritage University in the state of Washington. I am a History major with a minor in Criminal Justice. My research this summer as part of the Leadership Alliance Mellon Initiative will focus on mass incarceration and felon disenfranchisement in the United States. My research will explore exactly how these practices have impacted voter turnout and representation of minorities in state and federal elections.
+
