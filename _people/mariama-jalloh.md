@@ -7,7 +7,7 @@ layout: people
 location: None
 name: Mariama Jalloh
 position: None
-short_bio: None
+short_bio: "Mariama Jalloh is a rising Senior at Spelman College and 2018 LAMI Fellow."
 slug: mariama-jalloh
 status: not_current
 twitter: None
@@ -16,4 +16,4 @@ people-category:
 - '2018'
 - LAMI Fellow
 ---
-A flashy bio goes here
+Mariama Jalloh is a rising Senior at Spelman College and 2018 LAMI Fellow. She is a Political Science major on a Pre-Law track with a concentration on Gender and Politics. This summer in the University of Virginia's Leadership Alliance Mellon program she will be conducting a comparison research the way psychological oppression affects Female Genital Mutilation victims in two environments. 
