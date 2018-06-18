@@ -90,7 +90,21 @@ layout: default
 
         <!-- cite post -->
         <div class="post-credits__citation">
-            <span>Cite this post: </span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on {{ "now" | date: "%B %d, %Y" }}.
+            <span>Cite this post: </span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on 
+<script>
+<!-- 
+var now = new Date();
+var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+function fourdigits(number) {
+    return (number < 1000) ? number + 1900 : number;
+}
+today =  months[now.getMonth()] + " " +
+         date + ", " +
+         (fourdigits(now.getYear())) ;
+document.write(today);
+-->
+</script>.
         </div>
       {% endfor %}
       <!-- END BLOCK -->
@@ -102,12 +116,22 @@ layout: default
         </div>
 
         <div class="post-author__citation">
-          <p>Cite this post:
-          {% assign author = page.author | split: '-' %}
-          {% for name in author %}
-            {{ name | capitalize}}
-          {% endfor %}
-          . &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%m/%d/%Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on {{ "now" | date: "%b %d, %y" }}.
+          <span>Cite this post: </span>
+		  <p>Scholars' Lab Blog. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on
+<script>
+<!-- 
+var now = new Date();
+var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+function fourdigits(number) {
+    return (number < 1000) ? number + 1900 : number;
+}
+today =  months[now.getMonth()] + " " +
+         date + ", " +
+         (fourdigits(now.getYear())) ;
+document.write(today);
+-->
+</script>.
           </p>
         </div>
       {% endif %}
