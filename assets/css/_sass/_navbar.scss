@@ -73,6 +73,9 @@ ul[class*="flexnav"] {
 		color: white;
 		white-space: nowrap;
 	}
+	@media screen and (max-width: 599px) {
+		font-size: .875em;
+	}
 }
 
 /* Page links wrapper: */
@@ -165,6 +168,9 @@ ul[class*="flexnav"] {
 			background-color: hsla(186,80%,70%,1);
 		}
 	}
+	@media screen and (max-width: 599px) {
+		font-size: .875em;
+	}
 }
 
 /* Inner items wrapper: */
@@ -194,6 +200,9 @@ ul[class*="flexnav"] {
 		height: 1px;
 		background-color: hsla(186,80%,80%,.5);
 	}
+	@media screen and (max-width: 599px) {
+		width: 100vw;
+	}
 }
 
 /* Inner item: */
@@ -215,6 +224,9 @@ ul[class*="flexnav"] {
 		a {
 			color: $medskyblue;
 		}
+	}
+	@media screen and (max-width: 599px) {
+		padding-left: 1rem;
 	}
 }
 
