@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+excerpt: "We're the UVA Library’s lab for experimental and digital research, teaching, and other forms of scholarship, open to all disciplines and anyone curious about getting their hands dirty."
 nav: true
 order: 1
 time-required: ~2hrs

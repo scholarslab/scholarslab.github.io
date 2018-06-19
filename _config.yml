@@ -56,3 +56,15 @@ defaults:
       path: "pages"
     values:
       order: 10
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      is_post: true
+      og_type: "article"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      is_page: true
+      og_type: "website"

@@ -2,6 +2,7 @@
 layout: page
 title: Accessibility
 permalink: /accessibility/
+excerpt: "We are committed to making our projects and spaces accessible—in all meanings of that word—for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can—and should—always be improved."
 nav: true
 time-required: ~2hrs
 notes:
