@@ -138,7 +138,8 @@ html, body {
 .home-main-content {
 	position: relative;
 	display: grid;
-	grid-template-areas: "faq"
+	grid-template-areas: "lib"
+						 "faq"
 						 "contact"
 						 "find"
 						 "events"
@@ -151,13 +152,27 @@ html, body {
 	color: $textgray;
 	@media screen and (min-width: 1024px) {
 		grid-template-columns: 1fr 1fr;
-		grid-template-areas: "faq faq"
+		grid-template-areas: "faq lib"
 							 "contact contact"
 							 "events find"
 							 "events hours"
 							 "students students"
 							 "spatial maker";
 	}
+}
+
+/* Library: */
+
+.home__library {
+	grid-area: lib;
+}
+
+.home-lib__title {
+
+}
+
+.home-lib__content {
+
 }
 
 /* FAQ: */
