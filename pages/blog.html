@@ -2,6 +2,8 @@
 layout: default
 title: Blog
 permalink: /blog/
+pagination:
+  enabled: true
 nav: true
 order: 2
 status: almost done
@@ -17,11 +19,20 @@ notes:
 		<div class="blog-header__big-title">Blog</div>
 		<div class="blog-header__subtitle">Our thoughts, from rough new ideas to polished arguments. Scholars’ Lab team and collaborators write about their scholarship.</div>
 	</header>
-
 	<div class="blog-main-content">
+        {% if paginator.total_pages > 1 %}
+        <nav class="pagination">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+        {% endif %}
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+        {% endif %}
+        </nav>
+        {% endif %}
 		<div class="blog-gallery">
 			<!-- post layout: -->
-			{% for post in site.posts %}
+			{% for post in paginator.posts %}
 			<section class="blog-gallery__item">
 				<div class="blog-item__title">
 					<span>
