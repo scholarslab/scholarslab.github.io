@@ -28,6 +28,13 @@ html, body {
 	border: 1px solid black;
 }
 
+[class*="home-"][class*="__text"],
+[class*="home-"][class*="__content"]{
+	p:first-of-type {
+		margin-top: 0 !important; // no margin collapse if in flexboxes
+	}
+}
+
 /* ## Main styles: */
 
 .home-wrapper {
