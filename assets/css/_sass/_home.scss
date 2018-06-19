@@ -6,8 +6,19 @@ html, body {
 /* ## Universal styles: */
 
 [class*="home-"][class*="__title"] {
+	position: relative;
 	font-size: 2em;
-	font-weight: bold;
+	text-transform: uppercase;
+	font-weight: 900;
+	line-height: 1;
+	margin-bottom: .5em;
+	a {
+		font-weight: 900;
+		border-bottom: initial !important;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 2.25em;
+	}
 }
 
 [class*="home__"] {
