@@ -1,11 +1,11 @@
 # Description
 Add description about what this pull request covers.
 
-## Number of Fixes
-Type of number of fixes included in this PR.
+## Closing an issue? Hurray!
+Type ```closes #``` here, appending the number of any issue closed
 
 ## Related Ticket(s)
-List related ticket(s) that apply to the work done in this pull request
+List related ticket(s) that apply to or are affected by the work done in this pull request
 
 ----
 (OPTIONAL)
