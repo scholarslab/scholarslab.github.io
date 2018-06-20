@@ -5,10 +5,6 @@ permalink: /student-opportunities/
 nav: true
 order: 5
 # slug: graduate-fellowships-and-opportunities
-status: in progress
-notes:
-- Fellowship layout (see section "Other")
-- Change YAML 'layout' to 'fellowship' once finished
 ---
 
 One of our primary missions is to support the work of emerging scholars and digital humanities practitioners--particularly UVa graduate students. In addition to our general consultations (grad students are invited to [write us](mailto:scholarslab@virginia.edu) for an appointment any time!), we offer three graduate fellowship programs that provide students with the time, space, and mentorship necessary to discover, explore, and build. We also offer a number of opportunities for students to gain training and experience as digital humanists. Check out our offerings below and get in touch if you have questions.
