@@ -33,7 +33,7 @@ We are an internationally recognized scholarly [team](/people), with strengths i
 
 The SLab hosts [events](/events) (like workshops and a popular lecture series) in our [library spaces](/hours-and-spaces), and helps to train and mentor the next generation of digital humanities scholar-practitioners through our [Graduate Fellowships in Digital Humanities](/student-opportunities) and innovative [Praxis Program](http://praxis.scholarslab.org/). We are a founding member of [centerNet](http://digitalhumanities.org/centernet/), a worldwide alliance of digital humanities centers, and of the international [Praxis Network](http://praxis-network.org/), which takes its name from our fellowship program here at UVa.
 
-We capture the Scholars' Lab's values and goals in our team-authored [charter].
+We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter).
 
 ## What academic fields do you support?
 Although we bring library and humanities skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field and regularly collaborate in almost every area on Grounds.
