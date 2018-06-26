@@ -214,11 +214,12 @@
 
 .person-stats__box {
 	position: relative;
-	border: 4px solid hsla(186,80%,70%,1);
+	padding: .5em 1em;
 	font-family: "base-mono-narrow", monospace;
 	font-size: 1rem;
 	text-align: right;
-	padding: .5em 1em;
+	color: black;
+	border: 4px solid hsla(186,80%,70%,1);
 	div {
 		display: none;
 		position: absolute;
@@ -233,6 +234,11 @@
 	span {
 		float: left;
 		color: hsla(186,80%,70%,1);
+	}
+	a {
+		font: inherit !important;
+		color: inherit !important;
+		border-bottom: initial !important;
 	}
 	@media screen and (min-width: 1024px) {
 		font-size: 1.25rem;

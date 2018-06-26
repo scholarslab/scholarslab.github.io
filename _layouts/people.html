@@ -29,18 +29,15 @@ layout: default
 			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
 				<div>Around the Web</div>
-				{% if page.email !=  nil %}
-				<span>Email:</span>{{ page.email}}<br/>
+				{% if page.email !=  nil and page.email != 'None' %}
+				<span>Email:</span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.name }}">{{ page.email }}</a><br/>
 				{% endif %}
-				{% if page.twitter != 'None' %}
-				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a><br/>
+				{% if page.twitter and page.twitter != 'None' %}
+				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}" aria-label="{{ page.name }}'s Twitter page">{{ page.twitter }}</a><br/>
 				{% endif %}
-				{% if page.website != 'None' %}
-				<span>Website:</span><!--a href="{{ page.website }}"-->{{ page.website | remove: 'http://'}}<!--/a--><!--br/-->
+				{% if page.website and page.website != 'None' %}
+				<span>Website:</span><a href="http://{{ page.website }}" aria-label="{{ page.name }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
 				{% endif %}
-			<!--	{% if page.position != 'None' %}
-				<span>Position:</span>{{ page.position }}
-				{% endif %} -->
 			</div>
 		</div>
 
@@ -58,54 +55,12 @@ layout: default
 
 		<div class="person__description">
 			<div class="person-describe__title">About</div>
-				{% if content == empty %}<div class="person-describe__text">A Scholars' Lab alum.</div>{% else %}
-			<div class="person-describe__text">{{ content }}</div>
-{% endif %}
-			<div class="person-describe__category"> <!-- liquid testing -->
-				<h3>Categories</h3>
-				<ul>
-				{% assign pc = page.people-category %}
-				<!-- staff -->
-				{% if pc contains 'Staff' %}
-					<li>Staff</li>
-				{% endif %}
-
-				<!-- praxis/grad fellows: match years to program -->
-				{% assign yrcheck1 = pc[0] | slice: 0, 2 %}
-				{% assign yrcheck2 = pc[1] | slice: 0, 2 %}
-
-				<!-- grad fellow -->
-				{% if pc contains 'Graduate Fellow' %}
-					{% if yrcheck2 == '20' %}
-						<li>{{ pc[1] }} Graduate Fellow</li>
-					{% elsif yrcheck1 == '20' %}
-						<li> {{ pc[0] }} Graduate Fellow</li>
-					{% else %}
-						<li>Graduate Fellow</li>
-					{% endif %}
-				{% endif %}
-				<!-- praxis -->
-				{% if pc contains 'Praxis Fellow' %}
-					{% if yrcheck1 == '20' %}
-						<li>{{ pc[0] }} Praxis Fellow</li>
-					{% else %}
-						<li>Praxis Fellow</li>
-					{% endif %}
-				{% endif %}
-
-				<!-- LAMI -->
-				{% if pc contains 'LAMI Fellow' %}
-					<li>{{ pc[0] }} LAMI Fellow</li>
-				{% endif %}
-				<!-- technologists -->
-				{% if pc contains 'Student Assistant' %}
-					{% if pc.size == 2 %}
-						<li>{{ pc[0] }} Makerspace Technologist</li>
-					{% else %}
-						<li>Makerspace Technologist</li>
-					{% endif %}
-				{% endif %}
-				</ul>
+			<div class="person-describe__text">
+			{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
+				{{ content }}
+			{% else %}
+				<p>A Scholars' Lab alum.</p>
+			{% endunless %}
 			</div>
 		</div> <!-- end 'about' -->
 
