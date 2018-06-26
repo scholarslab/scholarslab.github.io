@@ -30,13 +30,13 @@ layout: default
 			<div class="person-stats__box">
 				<div>Around the Web</div>
 				{% if page.email !=  nil and page.email != 'None' %}
-				<span>Email:</span><a href="mailto:{{ page.email }}">{{ page.email }}</a><br/>
+				<span>Email:</span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.name }}">{{ page.email }}</a><br/>
 				{% endif %}
 				{% if page.twitter and page.twitter != 'None' %}
-				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a><br/>
+				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}" aria-label="{{ page.name }}'s Twitter page">{{ page.twitter }}</a><br/>
 				{% endif %}
 				{% if page.website and page.website != 'None' %}
-				<span>Website:</span><a href="{{ page.website }}">{{ page.website | remove: 'http://'}}</a>
+				<span>Website:</span><a href="{{ page.website }}" aria-label="{{ page.name }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
 				{% endif %}
 			</div>
 		</div>
