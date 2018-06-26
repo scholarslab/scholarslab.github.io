@@ -29,10 +29,10 @@ layout: default
 			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
 				<div>Around the Web</div>
-				{% if page.email !=  nil %}
+				{% if page.email !=  nil and page.email != 'None' %}
 				<span>Email:</span><a href="mailto:{{ page.email }}">{{ page.email }}</a><br/>
 				{% endif %}
-				{% if page.twitter != 'None' %}
+				{% if page.twitter and page.twitter != 'None' %}
 				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a><br/>
 				{% endif %}
 				{% if page.website and page.website != 'None' %}
