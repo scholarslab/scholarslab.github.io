@@ -55,9 +55,13 @@ layout: default
 
 		<div class="person__description">
 			<div class="person-describe__title">About</div>
-				{% if content == empty %}<div class="person-describe__text">A Scholars' Lab alum.</div>{% else %}
-			<div class="person-describe__text">{{ content }}</div>
-{% endif %}
+			<div class="person-describe__text">
+			{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
+				{{ content }}
+			{% else %}
+				A Scholars' Lab alum.
+			{% endunless %}
+			</div>
 			<div class="person-describe__category"> <!-- liquid testing -->
 				<h3>Categories</h3>
 				<ul>
