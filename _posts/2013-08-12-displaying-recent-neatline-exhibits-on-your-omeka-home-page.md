@@ -30,7 +30,7 @@ add_plugin_hook('hook_name', 'my_custom_function');
 
 You could put this kind of code anywhere that Omeka could run it, particularly a new plugin or your activated theme's `custom.php` file. (An Omeka theme's `custom.php` file is a great place to put some custom code for your Omeka site, without having to go to the trouble of creating and activating a plugin.)
 
-In our case, we want to append some new content to the home page of an Omeka site, so we'll need to find a hook to let us do that. Fortunately, we have one available—`public_home`—so let's use that to display some recent Neatline exhibits.
+In our case, we want to append some new content to the home page of an Omeka site, so we'll need to find a hook to let us do that. Fortunately, we have one available&mdash;`public_home`&mdash;so let's use that to display some recent Neatline exhibits.
 
 (Keep in mind that the following code should work in Omeka 2.0 and Neatline 2.0; you can take a similar approach for earlier versions of each, but some of the functions would be different.)
 

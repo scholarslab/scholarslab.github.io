@@ -13,7 +13,7 @@ tags:
 _Cross-posted from [Eric's blog](http://cybernetickinkwell.com/2012/04/02/on-a-definition-of-open-humanities/):
 _
 
-In considering [recent d](http://dayofdh2012.artsrn.ualberta.ca/dh/)[e](http://dayofdh2012.artsrn.ualberta.ca/dh/)[finitions of digital humanities](http://dayofdh2012.artsrn.ualberta.ca/dh/), I’m often struck by some common aspects of many of them—the ones that have nothing to do with the digital:
+In considering [recent d](http://dayofdh2012.artsrn.ualberta.ca/dh/)[e](http://dayofdh2012.artsrn.ualberta.ca/dh/)[finitions of digital humanities](http://dayofdh2012.artsrn.ualberta.ca/dh/), I’m often struck by some common aspects of many of them&mdash;the ones that have nothing to do with the digital:
 
 
 <blockquote>". . . essentially collaborative . . ."
@@ -31,7 +31,7 @@ In considering [recent d](http://dayofdh2012.artsrn.ualberta.ca/dh/)[e](http://
 ". . . using interdisciplinary approaches that may go beyond the comfort level of traditional scholars . . ."</blockquote>
 
 
-They speak to me in large part because I really come from the museum (specifically public history) and library worlds, and many of those celebrated features of DH are fundamental aspects and approaches of those other fields as well—and have been for a long time. The practitioners in those fields? Well, they're my people.
+They speak to me in large part because I really come from the museum (specifically public history) and library worlds, and many of those celebrated features of DH are fundamental aspects and approaches of those other fields as well&mdash;and have been for a long time. The practitioners in those fields? Well, they're my people.
 
 Libraries, museums, the digital humanities, and other public-facing humanities efforts share some or all of the following values:
 
@@ -69,8 +69,8 @@ And because I work in a digital humanities shop, I wanted to show my take on the
 
 [![](http://cybernetickinkwell.com/wp-content/uploads/2012/04/openhumanities21.jpg)](http://cybernetickinkwell.com/wp-content/uploads/2012/04/openhumanities21.jpg)
 
-The digital humanities are a part of the open humanities to the extent that those same values are held, though of course the purely digital elements (the code, the markup, the hardware) are unique to the digital humanities and live largely outside of OH. That being said, much of DH—the commitment to open source, the collaborative nature of the field, the interdisciplinarity—is open.
+The digital humanities are a part of the open humanities to the extent that those same values are held, though of course the purely digital elements (the code, the markup, the hardware) are unique to the digital humanities and live largely outside of OH. That being said, much of DH&mdash;the commitment to open source, the collaborative nature of the field, the interdisciplinarity&mdash;is open.
 
-As a comparison, the public humanities are <del>virtually entirely open by my definition, so they are included entirely within the circle of OH</del> _almost_ entirely open by my definition, but as [Sheila](https://twitter.com/#!/sherah1918/statuses/186901407658541056) [Brennan](https://twitter.com/#!/sherah1918/statuses/186901686269378561) [points out](https://twitter.com/#!/sherah1918/statuses/186940805565526016) there are still elements even within those institutions that don't support openness at every turn. (See my original diagram [here](http://cybernetickinkwell.com/wp-content/uploads/2012/04/openhumanities2.jpg).) There is also [some overlap](https://twitter.com/#!/ericdmj/status/182536251876966400) between public humanities and the digital humanities, as some—but not all—public humanities projects are also digital.  You see how this starts getting a little [overly-Venn-diagrammatical](http://venndiagrams.tumblr.com/), but you can probably see where I'm going.
+As a comparison, the public humanities are <del>virtually entirely open by my definition, so they are included entirely within the circle of OH</del> _almost_ entirely open by my definition, but as [Sheila](https://twitter.com/#!/sherah1918/statuses/186901407658541056) [Brennan](https://twitter.com/#!/sherah1918/statuses/186901686269378561) [points out](https://twitter.com/#!/sherah1918/statuses/186940805565526016) there are still elements even within those institutions that don't support openness at every turn. (See my original diagram [here](http://cybernetickinkwell.com/wp-content/uploads/2012/04/openhumanities2.jpg).) There is also [some overlap](https://twitter.com/#!/ericdmj/status/182536251876966400) between public humanities and the digital humanities, as some&mdash;but not all&mdash;public humanities projects are also digital.  You see how this starts getting a little [overly-Venn-diagrammatical](http://venndiagrams.tumblr.com/), but you can probably see where I'm going.
 
-Those who know me know that I'm no coder—some might say that means I’m not much of a digital humanist. I'd say I'm a proud _open_ humanist with one foot solidly in the digital. That counts as DH for me.
+Those who know me know that I'm no coder&mdash;some might say that means I’m not much of a digital humanist. I'd say I'm a proud _open_ humanist with one foot solidly in the digital. That counts as DH for me.

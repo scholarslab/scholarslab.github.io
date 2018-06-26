@@ -65,7 +65,7 @@ a:focus {
 }
 ```
 
-Now if you tab through the links on the page, you'll notice they stand out a bit more. They're intentionally ugly—to show you how different you can actually make these look—but you can change the styles to balance matching your own aesthetic with making the links noticeable enough to see where you've focused on the page.
+Now if you tab through the links on the page, you'll notice they stand out a bit more. They're intentionally ugly&mdash;to show you how different you can actually make these look&mdash;but you can change the styles to balance matching your own aesthetic with making the links noticeable enough to see where you've focused on the page.
 
 A few lessons to take away here:
 
@@ -73,7 +73,7 @@ A few lessons to take away here:
 
 
 	
-  1. _If you use a CSS reset, actually read through it and see what it does._ They're meant to be just that—a reset—and still expect you to set styles appropriately. Most of them are designed to give you a consistent starting point across browsers, but they still don't supersede your responsibility to set styles appropriately for all your users. They're also meant to be tinkered with and changed for your own preferences and design goals.
+  1. _If you use a CSS reset, actually read through it and see what it does._ They're meant to be just that&mdash;a reset&mdash;and still expect you to set styles appropriately. Most of them are designed to give you a consistent starting point across browsers, but they still don't supersede your responsibility to set styles appropriately for all your users. They're also meant to be tinkered with and changed for your own preferences and design goals.
 
 	
   2. Take particular care to style the :focus pseudoclass for both links and form elements. It's a handy way to navigate parts of a page, but without noticeable style updates, users can quickly lose track of where they've actually focused.
