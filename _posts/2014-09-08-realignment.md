@@ -17,7 +17,7 @@ We've taken care to highlight the work and focus areas of the Scholars' Lab thro
 
 
 	
-  * We clearly delineate the SLab's areas of focus—Project Incubation, Graduate Training, Experimental Humanities, and Geospatial Scholarship—on the home page.
+  * We clearly delineate the SLab's areas of focus&mdash;Project Incubation, Graduate Training, Experimental Humanities, and Geospatial Scholarship&mdash;on the home page.
 
 	
   * We have new section of the site for our [Makerspace](http://scholarslab.org/makerspace/)!

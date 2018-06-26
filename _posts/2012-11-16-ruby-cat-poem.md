@@ -45,4 +45,4 @@ IIIIIIII
 
 
 
-—Learn Ruby The Hard Way, Ex. 10, modified to create cat poem ([source](https://github.com/chrispeck/learn_ruby_the_hard_way/blob/master/ex10-ec.rb))
+&mdash;Learn Ruby The Hard Way, Ex. 10, modified to create cat poem ([source](https://github.com/chrispeck/learn_ruby_the_hard_way/blob/master/ex10-ec.rb))

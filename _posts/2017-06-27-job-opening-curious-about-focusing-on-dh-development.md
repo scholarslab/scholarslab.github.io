@@ -15,7 +15,7 @@ tags:
 
 _Note: Applications for this position have closed. [Welcome to new Scholars' Lab DH Developer Zoe LeBlanc](http://scholarslab.org/announcements/welcome-new-dh-developer-zoe-leblanc/)!_
 
-You might have seen [our opening for a Senior Developer](http://scholarslab.org/announcements/are-you-our-new-senior-developer/)—we're now seeking an additional colleague for our R&D team: DH Developer! [Apply here](http://jobs.virginia.edu/applicants/Central?quickFind=82179) (posting number #0621212), or read on for more information.
+You might have seen [our opening for a Senior Developer](http://scholarslab.org/announcements/are-you-our-new-senior-developer/)&mdash;we're now seeking an additional colleague for our R&D team: DH Developer! [Apply here](http://jobs.virginia.edu/applicants/Central?quickFind=82179) (posting number #0621212), or read on for more information.
 
 We welcome applications from women, people of color, LGBTQ, and others who are traditionally underrepresented among software developers. **In particular, we invite you to contact us even if you do not currently consider yourself to be a software developer.** We seek someone with the ability to collaborate and to expand their technical skill set in creative ways.
 
@@ -63,7 +63,7 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
 
 
  	
-  1. Experience equivalent to one full-time year with **either** a programming language (such as—but not limited to—PHP, Ruby, Python, Java), or HTML, CSS, and JavaScript
+  1. Experience equivalent to one full-time year with **either** a programming language (such as&mdash;but not limited to&mdash;PHP, Ruby, Python, Java), or HTML, CSS, and JavaScript
 
  	
   2. 2 years of web development experience, with tech skills demonstrated in an accessible portfolio of work.
@@ -103,4 +103,4 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
 
 **Interested?**
 
-You can [apply here](http://jobs.virginia.edu/applicants/Central?quickFind=82179) (posting number #0621212), but please feel free to reach out with any questions—for yourself or a friend—by emailing [visconti@virginia.edu](mailto:visconti@virginia.edu) or tweeting [@scholarslab](http://www.twitter.com/scholarslab) or [@literature_geek](http://www.twitter.com/literature_geek). In particular, we're very happy to talk with anyone who's interested, but not sure whether they have the required technical background. All job discussions will be treated as confidential.
+You can [apply here](http://jobs.virginia.edu/applicants/Central?quickFind=82179) (posting number #0621212), but please feel free to reach out with any questions&mdash;for yourself or a friend&mdash;by emailing [visconti@virginia.edu](mailto:visconti@virginia.edu) or tweeting [@scholarslab](http://www.twitter.com/scholarslab) or [@literature_geek](http://www.twitter.com/literature_geek). In particular, we're very happy to talk with anyone who's interested, but not sure whether they have the required technical background. All job discussions will be treated as confidential.

@@ -41,7 +41,7 @@ And in general, we'll revisit the editing interface for Neatline to streamline i
 
 
 
-Second, Neatline is itself also maturing, and like any software project, it's aging gracefully in some ways, and—ahem—less so in others. We'd like to take this opportunity to make Neatline a more sustainable project. This is a broad goal, so let's tease it apart. What do I mean by this?
+Second, Neatline is itself also maturing, and like any software project, it's aging gracefully in some ways, and&mdash;ahem&mdash;less so in others. We'd like to take this opportunity to make Neatline a more sustainable project. This is a broad goal, so let's tease it apart. What do I mean by this?
 
 
 

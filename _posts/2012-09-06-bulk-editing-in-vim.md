@@ -88,7 +88,7 @@ The process I showed him has four parts. Let’s break them down.
 
 
 
-First, we have to load the files to process. When you open Vim from the command-line and pass in files there, the file names are stored in the [argument list](http://vimdoc.sourceforge.net/htmldoc/editing.html#:args). You can access the argument list inside Vim—either to see what files are in it or to set the files it contains—using the `:args` command:
+First, we have to load the files to process. When you open Vim from the command-line and pass in files there, the file names are stored in the [argument list](http://vimdoc.sourceforge.net/htmldoc/editing.html#:args). You can access the argument list inside Vim&mdash;either to see what files are in it or to set the files it contains&mdash;using the `:args` command:
 
 
 

@@ -10,7 +10,7 @@ tags:
 - praxis program
 ---
 
-_“When I got my first television set, I stopped caring so much about having close relationships.” — Andy Warhol _
+_“When I got my first television set, I stopped caring so much about having close relationships.” &mdash; Andy Warhol _
 
 
 [![](http://scholarslab.org/wp-content/uploads/2017/02/article-2517744-19D1E53000000578-676_634x755-252x300.jpg)](http://www.dailymail.co.uk/tvshowbiz/article-2519086/Kanye-West-didnt-ask-Andy-Warhols-cousin-paint-Kim-Kardashian.html)
@@ -22,7 +22,7 @@ Only recently, has the study of popular culture become an important touchstone f
 
 
  	
-  1. In 2015 the season premiere of the Kardashians was the most viewed Sunday cable program—notably ahead of the finale of AMC’s Mad Men—averaging about 4.24 million viewers, ranking it the number one Sunday night program for adults 18-34, and women 18-49. By ignoring and degrading such a popular program, we are not just looking down upon the tv program in question, but disregarding its audience.
+  1. In 2015 the season premiere of the Kardashians was the most viewed Sunday cable program&mdash;notably ahead of the finale of AMC’s Mad Men&mdash;averaging about 4.24 million viewers, ranking it the number one Sunday night program for adults 18-34, and women 18-49. By ignoring and degrading such a popular program, we are not just looking down upon the tv program in question, but disregarding its audience.
 
  	
   2. Television, a medium based on repetition, reinforces dominant social meanings and prevailing ideologies. Reality TV creates the illusion of a false intimacy between spectator and subject through the repetitive depiction of everyday tasks and conversations. If we understand television as a medium that cements dominant social ideologies through repetitive viewing, Reality TV and its pretense of the ‘real’ reinforces these ideologies two-fold. But upon closer look at the themes prevailing throughout _Keeping Up with the Kardashians_ complicate what we might perceive to be dominant social norms. The Kardashians have subverted the traditional family sitcom in favor a matriarchal family structure, transforming the traditional private sphere of the home into their center of business, while maintaining heteronormative assumptions about the objectification of women. Considering the popularity of the Kardashians, what can this tell us about dominant American social ideologies? 

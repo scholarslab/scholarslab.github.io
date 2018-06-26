@@ -11,7 +11,7 @@ tags:
 - praxis program
 ---
 
-A while back I posted what I thought would be the first of two blog contributions about my (relatively) new Kindle—I figured that in the second of these I would address the way the “pages” of a Kindle book work and perhaps offer some thoughts on how I think Prism “pages” (or whatever we’re going to call them) should work. Since then, as will be made clear by the many posts immediately preceding this one, there has been a flurry of conversation about a cluster of topics all related to how the marked-up documents should appear (in theory) in Prism. Some of this began before our meeting last week, but doing the transparency exercise presented us with a whole new set of problems to consider. Though I think a few of my original reflections on the Kindle are still worth posting, I’d also like to (briefly) address some of the bigger questions I’ve had from the beginning of this project about what kind of marking our crowd-sourced crowd will be able to perform on Prismed documents.
+A while back I posted what I thought would be the first of two blog contributions about my (relatively) new Kindle&mdash;I figured that in the second of these I would address the way the “pages” of a Kindle book work and perhaps offer some thoughts on how I think Prism “pages” (or whatever we’re going to call them) should work. Since then, as will be made clear by the many posts immediately preceding this one, there has been a flurry of conversation about a cluster of topics all related to how the marked-up documents should appear (in theory) in Prism. Some of this began before our meeting last week, but doing the transparency exercise presented us with a whole new set of problems to consider. Though I think a few of my original reflections on the Kindle are still worth posting, I’d also like to (briefly) address some of the bigger questions I’ve had from the beginning of this project about what kind of marking our crowd-sourced crowd will be able to perform on Prismed documents.
 
 
 
@@ -41,7 +41,7 @@ Of course, Prism is not concerned with the codex, or with written comments. The 
 
 
 
-The only way to “mark” a text on the Kindle is to put your cursor in front of a word and then “highlight” until you reach the end of your section-of-interest. I could be wrong, but I had the impression that many on the Praxis team envisioned Prism working in a similar (linear) fashion—that is, before we got out the markers last week. After all, how could one possibly “highlight” something like this and achieve a satisfactory result?
+The only way to “mark” a text on the Kindle is to put your cursor in front of a word and then “highlight” until you reach the end of your section-of-interest. I could be wrong, but I had the impression that many on the Praxis team envisioned Prism working in a similar (linear) fashion&mdash;that is, before we got out the markers last week. After all, how could one possibly “highlight” something like this and achieve a satisfactory result?
 
 
 

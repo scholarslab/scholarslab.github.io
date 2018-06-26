@@ -15,7 +15,7 @@ categories:
 
 
 
-One of the fundamental tensions in programming is balancing the program’s requirements for time (programmer time and running time) against its space requirements (disk space and memory space). Optimizing one of these costs—i.e., looking for ways to shift that balance, usually to have the program run faster—is a common task.
+One of the fundamental tensions in programming is balancing the program’s requirements for time (programmer time and running time) against its space requirements (disk space and memory space). Optimizing one of these costs&mdash;i.e., looking for ways to shift that balance, usually to have the program run faster&mdash;is a common task.
 
 
 
@@ -145,7 +145,7 @@ Or to put it another way:
 <blockquote>
 
 > 
-> Bottlenecks occur in surprising places, so don’t try to second guess and put in a speed hack until you have proven that’s where the bottleneck is. — Rob Pike
+> Bottlenecks occur in surprising places, so don’t try to second guess and put in a speed hack until you have proven that’s where the bottleneck is. &mdash; Rob Pike
 > 
 > 
 </blockquote>

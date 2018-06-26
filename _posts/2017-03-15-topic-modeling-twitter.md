@@ -164,7 +164,7 @@ The majority of the topics were simply variations of the aforementioned topics.Â
 > Everyone: Please call Speaker Pelosi TODAY at 202-225-0100 and URGE her to schedule a vote on H.Res.252, the Armenian Genocide Resolution
 > 
 > 
-â€” Kim Kardashian West (@KimKardashian) [December 9, 2010](https://twitter.com/KimKardashian/status/12999938942181376)</blockquote>
+&mdash; Kim Kardashian West (@KimKardashian) [December 9, 2010](https://twitter.com/KimKardashian/status/12999938942181376)</blockquote>
 
 
 

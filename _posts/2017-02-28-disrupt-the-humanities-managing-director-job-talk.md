@@ -35,7 +35,7 @@ Disruption can be a force for good, especially against systemic problems. But to
 
 Disruption is inherently non-introspective; you disrupt others, rather than looking hard at yourself.
 
-Disruption can ignore a history of similar work, and the humanities can’t afford that mistake. For example, a movement to make the humanities more public that ignored the fan fiction communities’ existing public humanities—people using the web to improve one another’s close readings and counterfactual interventions—would be deeply flawed. DH has diverse roots in pre-digital humanities scholarship, including highly recognizable non-digital, algorithmic criticism of the kinds Stephen Ramsay explores in his book _Reading Machines_. We have much to gain by connecting our efforts today to what has worked in the humanities of the past, and to the humanities that also thrives outside academia.
+Disruption can ignore a history of similar work, and the humanities can’t afford that mistake. For example, a movement to make the humanities more public that ignored the fan fiction communities’ existing public humanities&mdash;people using the web to improve one another’s close readings and counterfactual interventions&mdash;would be deeply flawed. DH has diverse roots in pre-digital humanities scholarship, including highly recognizable non-digital, algorithmic criticism of the kinds Stephen Ramsay explores in his book _Reading Machines_. We have much to gain by connecting our efforts today to what has worked in the humanities of the past, and to the humanities that also thrives outside academia.
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.004.png)
 
@@ -61,13 +61,13 @@ So when I share some of my recent collaborative DH work with you today, I’d li
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.005.png)
 
-I’m hopeful for the humanities Bethany Nowviskie has imagined in her work “[on capacity and care](http://nowviskie.org/2015/on-capacity-and-care/)”. Nowviskie cautions: “Please do not mistake [capacity and care work] for something idealistic and motherly and sweet. I offer care as a hard-nosed survival strategy… to increase the reach and grasp (which is at the root of the word “capacity”—the “capture”) of the humanities.”
+I’m hopeful for the humanities Bethany Nowviskie has imagined in her work “[on capacity and care](http://nowviskie.org/2015/on-capacity-and-care/)”. Nowviskie cautions: “Please do not mistake [capacity and care work] for something idealistic and motherly and sweet. I offer care as a hard-nosed survival strategy… to increase the reach and grasp (which is at the root of the word “capacity”&mdash;the “capture”) of the humanities.”
 
 Seeing both the positive and negative sides of disruption, and turning to other concepts with different values, aren’t only reactions fueled by thinking these are good ways for a person to be in the world. There are significant gains for pushing our scholarship to be more intellectually generous, more locally interconnected, and better at crediting key emotional labor such as team-building and mentorship.
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.004.png)
 
-So in the next twenty minutes today, I want to tell you a bit about two of my recent DH projects, one where the bulk of the work is my own, and one where I’m only nominally the creator. This work articulates some of my hopes for what the digital humanities could be, a DH deeply part of the humanities rather than opposed to it, a DH that’s more interested in the right column up on the screen [_in the image above this paragraph, for blog readers_]—in seeing innovation in maintainance, the quality rather than the quantity of impact, on “people over projects” (as the Scholars’ Lab puts it).
+So in the next twenty minutes today, I want to tell you a bit about two of my recent DH projects, one where the bulk of the work is my own, and one where I’m only nominally the creator. This work articulates some of my hopes for what the digital humanities could be, a DH deeply part of the humanities rather than opposed to it, a DH that’s more interested in the right column up on the screen [_in the image above this paragraph, for blog readers_]&mdash;in seeing innovation in maintainance, the quality rather than the quantity of impact, on “people over projects” (as the Scholars’ Lab puts it).
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.007.png)
 
@@ -121,7 +121,7 @@ _Textual scholars often create editions as their scholarship. By separating out 
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.016.png)
 
-Now, I’m here to speak about collaborative DH today, and you might be wondering how a literature dissertation can be a collaborative rather than a largely solo activity. I did perform the full scholarly labor you’d expect from a literature dissertation—most people would agree successfully defending the dissertation and becoming a tenure-track assistant professor shows that. But beyond my dissertation-length work, the larger project around my dissertation relied strongly on collaboration and the intellectual generosity of others.
+Now, I’m here to speak about collaborative DH today, and you might be wondering how a literature dissertation can be a collaborative rather than a largely solo activity. I did perform the full scholarly labor you’d expect from a literature dissertation&mdash;most people would agree successfully defending the dissertation and becoming a tenure-track assistant professor shows that. But beyond my dissertation-length work, the larger project around my dissertation relied strongly on collaboration and the intellectual generosity of others.
 
 A huge number of people made _Infinite Ulysses_ possible, so much so that I can’t name everyone right now, but I’ve put as many as possible up on the screen [_image above previous paragraph, and [this credits webpage](http://www.infiniteulysses.com/credits) goes into more detail_].
 
@@ -139,7 +139,7 @@ Slack is a social media platform that functions like a set of interconnected, th
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.020.png)
 
-The DH Slack is open to anyone with a curiosity about DH and/or related interests (e.g. digital libraries, museums, and archives)—those interested just visit [tinyurl.com/DHslack](http://tinyurl.com/DHslack) to join. Absolutely no DH expertise is required, and we have several specific channels devoted to DH beginners, students, job seekers, and asking all kinds of DHy questions.
+The DH Slack is open to anyone with a curiosity about DH and/or related interests (e.g. digital libraries, museums, and archives)&mdash;those interested just visit [tinyurl.com/DHslack](http://tinyurl.com/DHslack) to join. Absolutely no DH expertise is required, and we have several specific channels devoted to DH beginners, students, job seekers, and asking all kinds of DHy questions.
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.021.png)
 
@@ -151,11 +151,11 @@ Five other DHers generously collaborate with me as additional Slack moderators: 
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.023.png)
 
-The DH Slack exists because of its members, who build a humanities community through their conversations and sharing. Even the most collaborative and democratic of teams needs one person to really be in charge of project management, and I feel like my current role with the DH Slack is similar—helping things along, being available and responsible should problems arise, and making the final call after group discussion.
+The DH Slack exists because of its members, who build a humanities community through their conversations and sharing. Even the most collaborative and democratic of teams needs one person to really be in charge of project management, and I feel like my current role with the DH Slack is similar&mdash;helping things along, being available and responsible should problems arise, and making the final call after group discussion.
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.024.png)
 
-We’re still figuring out how Slack can be useful to our scholarship: Can it allow different kinds of conversations than Twitter? On the screen, you can see examples of DHers moving between the Slack and Twitter to have different kinds of conversations—in that middle tweet, a technical discussion that was limited by Twitter’s format switched to the Slack to continue more freely.
+We’re still figuring out how Slack can be useful to our scholarship: Can it allow different kinds of conversations than Twitter? On the screen, you can see examples of DHers moving between the Slack and Twitter to have different kinds of conversations&mdash;in that middle tweet, a technical discussion that was limited by Twitter’s format switched to the Slack to continue more freely.
 
 ![](http://www.literaturegeek.com/assets/UVaJobTalkSlides/UVaManagingDirector.025.png)
 

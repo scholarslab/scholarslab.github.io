@@ -261,7 +261,7 @@ During my presentation, someone pointed out that this all sounds a lot like the 
 
 
 
-Yes, it does. LOD is the semantic web without the focus on understanding and focusing more on what we can do. Understanding may come later—or not—but in the meantime we can still do some pretty cool things.
+Yes, it does. LOD is the semantic web without the focus on understanding and focusing more on what we can do. Understanding may come later&mdash;or not&mdash;but in the meantime we can still do some pretty cool things.
 
 
 
