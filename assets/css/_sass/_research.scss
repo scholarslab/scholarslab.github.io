@@ -191,10 +191,6 @@
 	@media screen and (min-width: 600px) {
 		font-size: 1.5rem;
 	}
-	@media screen and (min-width: 768px) {
-		font-size: 1.75rem;
-		line-height: 1.714; // 3rem
-	}
 }
 
 .research-description__title {
@@ -207,7 +203,7 @@
 	margin: 0 4.167%;
 	font-family: "base-mono-narrow", monospace;
 	color: rgba(255,255,255,.9);
-	border: 2px solid rgba(255,255,255,.9);
+	border: 1px solid rgba(255,255,255,.9);
 	&::before {
 		content: '';
 		position: absolute;
@@ -216,8 +212,8 @@
 		display: block;
 		height: 3em;
 		width: 1.5em;
-		border-right: 2px solid white;
-		border-left: 2px solid white;
+		border-right: 1px solid white;
+		border-left: 1px solid white;
 		transform: translate(50%, -50%) skew(-45deg, 0);
 	}
 	p {
@@ -225,6 +221,17 @@
 		padding-bottom: 1em;
 		&:first-of-type {
 			padding-top: 2em;
+		}
+		a {
+			text-decoration: none;
+			color: inherit;
+			border-bottom: 2px solid hsla(186,80%,70%,1);
+			background-color: transparent;
+			-webkit-transition: background-color .3s;
+			transition: background-color .3s;
+			&:hover, &:focus {
+				background-color: hsla(186,80%,70%,1);
+			}
 		}
 	}
 }
@@ -236,7 +243,7 @@
 	width: 100%;
 }
 
-/* background color */
+// bg color set here
 .research-folio__background--black {
 	background-color: $navgray;
 	padding: 1rem 0;
@@ -363,7 +370,6 @@
 	opacity: .8;
 }
 
-/* End nav */
 // NB: snap polyfill -> https://css-tricks.com/introducing-css-scroll-snap-points/
 
 /* Gallery container: */
