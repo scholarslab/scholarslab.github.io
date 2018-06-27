@@ -499,9 +499,21 @@
 .research-item__name {
 	position: relative;
 	min-height: 5em;
-	padding: 1.5em 0 1em 0;
-	font-size: 1rem;
+	padding: 1em 0;
+	font-size: 1.5rem;
 	color: rgba(0,0,0,.5);
+	&::before {
+		content: '';
+		position: absolute;
+		top: calc((1.5rem * .75) - 2px);
+		left: 0;
+		display: block;
+		width: 30px;
+		height: 1px;
+		background-color: black;
+		opacity: .5;
+		transition: opacity .3s;
+	}
 }
 
 /* Image: */
