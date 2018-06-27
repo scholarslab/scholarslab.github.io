@@ -39,7 +39,7 @@ order: 3
 
 <div class="research__description">
 	<div class="research-description__text">
-		<!--div class="research-description__title">Our Scholarship</div-->
+		<!-- almost changed to page.excerpt, but 'This page' seems better than 'Here we' & didn't know which to pick -->
 		<p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers. (<a href="/about#who-are-the-scholars-in-scholars-lab">We define "scholarship" inclusively</a>.)</p>
 	</div>
 </div>
@@ -69,8 +69,15 @@ order: 3
 					<section class="research-gallery__item">
 						<a href="{{ site.baseurl }}/work/{{ proj.slug }}" aria-label="{{ proj.title }}">
 							<div class="research-item__num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
-							<div class="research-item__name">{{ proj.title }}</div> <!-- avoiding title run-in -->
-							<!--div class="research-item__category">{{ proj.research-category }}</div-->
+							<div class="research-item__name">
+							{% if proj.title == "President&#8217;s Commission on Slavery and the University" %}
+								President&#8217;s Commission on Slavery
+							{% elsif proj.title == "The University of Virginia Art Museum Numismatic Collection" %}
+								UVa Art Museum Numismatic Collection
+							{% else %}
+								{{ proj.title | replace: ' - ', ': ' }}
+							{% endif %}
+							</div>
 							<div class="research-item__pic">
 								<div><img src="{{ '/assets/img/work/' | append: proj.thumb-img | relative_url }}" alt="{{ proj.title }}"></div>
 							</div>
