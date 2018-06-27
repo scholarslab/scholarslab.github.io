@@ -9,12 +9,13 @@ name: Emily De Leon
 position: None
 short_bio: "Emily De Leon is a 2018 LAMI Fellow."
 slug: emily-de-leon
-status: not_current
+status: current
 twitter: None
 website: None
 people-category:
-- '2018'
-- LAMI Fellow
+- student
+roles:
+- LAMI Fellow, 2018
 ---
 Hello! My name is Emily de León. I am an uprising senior at DePaul University in Chicago, double majoring in Latin American and Latino Studies and Spanish Studies. I am currently a LAMI Scholar, a McNair Scholar, in hopes in pursuing a PhD in Latin American Cultures. The research I am working on this summer at UVA is about redefining what the Assimilation Theory is within the Latin American communities in the United States.
 
