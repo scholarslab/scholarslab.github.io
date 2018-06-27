@@ -249,13 +249,13 @@
 	position: relative;
 }
 
-/* Menu Links */
+/* Menu Links: */
 
 .research-folio__context {
 	position: absolute;
 	right: 0;
 	top: 0;
-	display: none; /* #! hide during prototype */
+	display: none; /* hide during prototype */
 	color: white;
 	border: 1px solid blue;
 	transform: translate(100%, 100%) rotate(90deg);
@@ -267,7 +267,7 @@
 	}
 }
 
-/* Floating Navigation: */
+/* Nav & Buttons: */
 
 .research-folio__nav {
 	position: absolute;
@@ -278,7 +278,7 @@
 	align-items: center;
 	height: 3.5rem;
 	width: 100%;
-	padding: 0; // calc(calc(100% - 300px) / 4); // magic # w/ buttons
+	padding: 0;
 	z-index: 10;
 	@media screen and (min-width: 500px) {
 		bottom: 0;
@@ -286,8 +286,6 @@
 		color: black;
 	}
 }
-
-/* Buttons: */
 
 [class*="research-nav__btn--"] {
 	padding: 0 .375em;
