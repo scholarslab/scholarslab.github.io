@@ -7,7 +7,6 @@
 	display: grid; // 1 item: landing
 	grid-auto-rows: minmax(100vh, auto);
 	background-color: black;
-	background-image: linear-gradient(to bottom, black, black 100vh, white 100vh, white);
 }
 
 .research-landing-grid {
@@ -46,8 +45,7 @@
 		display: block;
 		height: 4px;
 		width: 100vw;
-		background-color: rgba(255,255,255,.9); // hsla(186,80%,70%, 1); // magenta;
-//		background-image: linear-gradient(to right, magenta 0%, magenta 4.167%, black 4.167%, black 8.33%, magenta 8.33%, magenta 12.5%, black 12.5%, black 16.67%, magenta 16.67%, magenta 25%, black 25%, black 27.5%, magenta 27.5%, magenta 33.33%, black 33.33%, black 41.33%, magenta 41.33%, magenta 100%);
+		background-color: rgba(255,255,255,.9);
 	}
 	@media screen and (min-width: 768px) {
 		align-self: end;
@@ -189,7 +187,7 @@
 	padding: 1em 0;
 	font-size: 1rem;
 	font-weight: 200;
-	background-image: linear-gradient(to bottom, black, rgba(0,0,0,.85));
+	background-image: linear-gradient(to bottom, black, $navgray);
 	@media screen and (min-width: 600px) {
 		font-size: 1.5rem;
 	}
@@ -231,18 +229,16 @@
 	}
 }
 
-// end description
-
-/* ######################### Portfolio: ################### */
+/* Gallery: */
 
 .research-portfolio-wrapper {
 	position: relative;
 	width: 100%;
 }
 
-/* #! background color */
+/* background color */
 .research-folio__background--black {
-	background-color: rgba(0,0,0,.85);
+	background-color: $navgray;
 	padding: 1rem 0;
 	@media screen and (min-width: 1024px) {
 		padding: 3rem; // 4.167%;
