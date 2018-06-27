@@ -485,11 +485,10 @@
 
 .research-item__num {
 	position: relative;
-//	font-family: "base-mono-wide", monospace;
-	font-family: "Oswald", sans-serif;
-	font-size: 3rem;
+	font-family: "base-mono-wide", monospace;
+	font-size: 1.5rem;
 	font-weight: 700;
-	color: hsla(186, 80%, 70%, 1); // black;
+	color: black;
 	@media screen and (min-width: 500px) {
 		transition: transform .3s;
 	}
