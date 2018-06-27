@@ -22,6 +22,7 @@
     "moment": "^2.22.2"
   },
   "devDependencies": {
+    "gulp": "^4.0.0",
     "gulp-cli": "^2.0.1"
   }
 }
