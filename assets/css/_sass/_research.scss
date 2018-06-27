@@ -396,7 +396,7 @@
 
 /* Item track: */
 
-// #! item width set here
+// NB: item width set here
 .research-folio__gallery {
 	display: grid;
 	grid-template-columns: repeat(22, 300px);
@@ -410,7 +410,7 @@
 	}
 }
 
-/* Items: */
+/* Gallery Items: */
 
 .research-gallery__item {
 	position: relative;
@@ -458,7 +458,7 @@
 	}
 }
 
-/* Number: */
+/* Item Number: */
 
 .research-item__num {
 	position: relative;
@@ -472,7 +472,7 @@
 	}
 }
 
-/* Title: */
+/* Item Title: */
 
 .research-item__name {
 	position: relative;
