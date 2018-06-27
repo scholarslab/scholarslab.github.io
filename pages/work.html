@@ -69,8 +69,15 @@ order: 3
 					<section class="research-gallery__item">
 						<a href="{{ site.baseurl }}/work/{{ proj.slug }}" aria-label="{{ proj.title }}">
 							<div class="research-item__num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
-							<div class="research-item__name">{{ proj.title | replace: ' - ', ': ' }}</div> <!-- avoiding title run-in -->
-							<!--div class="research-item__category">{{ proj.research-category }}</div-->
+							<div class="research-item__name">
+							{% if proj.title == "President&#8217;s Commission on Slavery and the University" %}
+								President&#8217;s Commission on Slavery
+							{% elsif proj.title == "The University of Virginia Art Museum Numismatic Collection" %}
+								UVa Art Museum Numismatic Collection
+							{% else %}
+								{{ proj.title | replace: ' - ', ': ' }}
+							{% endif %}
+							</div>
 							<div class="research-item__pic">
 								<div><img src="{{ '/assets/img/work/' | append: proj.thumb-img | relative_url }}" alt="{{ proj.title }}"></div>
 							</div>
