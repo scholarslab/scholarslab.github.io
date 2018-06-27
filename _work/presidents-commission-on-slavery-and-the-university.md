@@ -11,7 +11,7 @@ current: false
 link: http://slavery.virginia.edu/
 layout: work
 slug: presidents-commission-on-slavery-and-the-university
-title: President &#8217;s Commission on Slavery and the University
+title: President&#8217;s Commission on Slavery and the University
 thumb-img: slaveryUVA-thumb.png
 banner-img: slaveryUVA-banner.png
 research-category: Scholarly Collaborations
