@@ -416,34 +416,54 @@
 	position: relative;
 	display: flex;
 	flex-flow: column;
-	justify-content: center;
+	justify-content: flex-start;
 	align-items: center;
 	height: 100%;
-	border-left: 1px solid rgba(0,0,0,.3);
-	// wraps all content:
+	padding-top: calc(3 * 1.5rem);
+	border-left: 1px solid rgba(0,0,0,.5);
+	&::before {
+		content: '';
+		position: absolute;
+		left: -1px;
+		top: 0;
+		display: block;
+		height: 0%;
+		width: 1px;
+		background-color: black;
+		opacity: .9;
+		-webkit-transition: height .5s;
+		transition: height .5s;
+	}
+	// wraps info:
 	a {
 		position: relative;
 		display: flex;
 		flex-flow: column nowrap;
 		justify-content: center;
 		align-items: start;
-		width: 83.33%;
+		width: 100%;
+		padding: 0 24px;
 		text-decoration: none;
 		color: black;
 		div {
 			line-height: 1;
 		}
 	}
-	@media screen and (min-width: 500px) and (max-height: 560px) {
-		padding-bottom: 3rem; // progress bar
-	}
 	@media screen and (min-width: 500px) {
-		a {
-			transition: transform .3s;
-			&:hover, &:focus {
+		&:hover, &:focus {
+			&::before {
+				height: 100%;
+			}
+			a {
+				transition: transform .3s;
 				.research-item__num {
-					-webkit-transform: translate(0, .25em);
-					transform: translate(0, .25em);
+					-webkit-transform: translate(0, .375em);
+					transform: translate(0, .375em);
+				}
+				.research-item__name {
+					&::before {
+						opacity: .9;
+					}
 				}
 				.research-item__pic {
 					div {
@@ -455,6 +475,9 @@
 				}
 			}
 		}
+	}
+	@media screen and (min-width: 500px) and (max-height: 560px) {
+		padding-bottom: 3rem; // eliminate overlap w/ prog bar at edge case size
 	}
 }
 
