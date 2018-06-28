@@ -1,6 +1,7 @@
 ---
 title: Makerspace
 room: Alderman 419
+order: 2
 hours_raw:
  - Monday: "1:00pm - 7:00pm"
  - Tuesday: "1:00pm - 7:00pm"
