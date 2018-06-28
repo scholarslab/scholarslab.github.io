@@ -16,7 +16,6 @@ people-category:
 - student
 roles:
 - Graduate Fellow, 2009–2010
-- Student Assistant
 ---
 
 A former SLab Fellow, Matt is currently currently the Wissenschaftlicher Mitarbeiter at the Göttingen Center for Digital Humanities, DARIAH Arbeitspaket 2, Forschung und Lehre.
