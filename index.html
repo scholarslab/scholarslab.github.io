@@ -101,9 +101,12 @@ title: Home
 					<img src="{{ 'assets/img/svg/alderman-floorplan.svg' | relative_url }}" height="300px" alt="Floor diagram of Scholars' Lab spaces" title="Alderman Floorplan - Floor 4">
 				</div>
 				<ul><span>Spaces:</span>
-					<li>Space #1: Alderman 419</li>
-					<li>Lorem ipsum</li>
-					<li>Dolor: sic amet 418</li>
+					{% assign spaces = site.spaces | sort: 'order' %}
+					{% for space in spaces %}
+					<li>{{ space.title }}: {{ space.room }}</li>
+					{% endfor %}
+					<li>Open Office Hours</li>
+					<li>Staff offices</li>
 				</ul>
 		</section>
 
