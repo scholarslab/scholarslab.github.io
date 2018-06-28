@@ -13,7 +13,7 @@
 
 ## How to install
 
-We'll install Gulp using Node.js and npm (aka, Node.js package manager... it just lets you download libraries from the command line). See our [README](../README.md) for links to those sites. 
+We'll install Gulp using Node.js and npm (aka, Node.js package manager... it just lets you download libraries from the command line). See our [README](../README.md) for links to those sites.
 
 Starting point:
 
@@ -200,7 +200,7 @@ gulp.watch('js/**/*.js', gulp.parallel(
 
 In English: if a JS file anywhere inside the main `js/` directory changes&mdash;e.g. `js/main.js` or `js/partials/navbar.js`, whereas `js/*.js` would only match the first one&mdash;run the tasks named 'concat' and 'uglify' simultaneously on that file. (Concat = concatenate; uglify = compress code so it's smaller but less readable.)
 
-### Putting it all together
+### Putting it all together: dummy example
 
 Going to write out an example dummy function/task to demonstrate the places each function would actually go, since they all do pretty specific things.
 
@@ -284,4 +284,231 @@ var gulp   = require('gulp'),
 	clean  = require('gulp-clean'),
 	concat = require('gulp-concat'),
 	uglify = require('gulp-uglify-es');
+```
+
+### Step 4: Write initial version of functions and realize what you were missing
+
+If I create the `main.js` file using Gulp, then I can't [wrap it in an IIFE](http://javascriptissexy.com/12-simple-yet-powerful-javascript-tips/)... whoops. *Googles profusely...* Luckily, found a plugin for it.
+
+```bash
+npm install --save-dev gulp-insert
+```
+
+And add the following to gulpfile:
+
+```js
+var insert = require('gulp-insert');
+```
+
+## Writing Tasks
+
+Okay, we're ready for the big leagues: tasks that Actually Do Something. Our gulpfile thus far:
+
+```js
+// require modules:
+var gulp   = require('gulp'),
+	clean  = require('gulp-clean'),
+	concat = require('gulp-concat'),
+	uglify = require('gulp-uglify-es').default,
+	insert = require('gulp-insert');
+```
+
+- First, I'll write what I want to happen when I mess with a JS file in the `_partials` directory.
+
+```js
+var js_format = () => {
+	return gulp.src('./assets/js/_partials/*.js')
+		.pipe(concat('main.js'))
+		.pipe(uglify({ keep_fnames: true }))
+		.pipe(insert.wrap('(function() {', '\n})();'))
+		.pipe(gulp.dest('./assets/js'));
+}
+```
+
+- Jesus, okay, that's a lot at once. Slowing down, Neo-dodging-bullets-style:
+
+```js
+// gonna put lots of illegal comments in this JS
+// since this is all technically one statement
+// do not do this IRL !!!
+
+var js_format = () => {
+	/* recall: using 'return' b/c need to have a value when done */
+	return gulp.src('./assets/js/_partials/*.js')
+		/* above: look at all JS files in this folder */
+		.pipe(concat('main.js'))
+		/* above: smoosh into 1 big 'main.js' file */
+		.pipe(uglify({ keep_fnames: true }))
+		/* above: remove all newlines, comments, +
+		 * make variable names 1 letter +
+		 * keep original function names (personal preference) */
+		.pipe(insert.wrap('(function() {', '\n})();'))
+		/* above: wrap in IIFE syntax (see below)
+		 * (function() {
+		 *		// all of that squished up code here
+		 * })();
+		 */
+		.pipe(gulp.dest('./assets/js'));
+		/* above: write this new bad boy, 'main.js',
+		 * into the assets/js dir */
+};
+
+// gonna go get arrested for all my JS crimes now
+```
+
+- Hopefully that makes a little more sense. Now we need to actually *call* the function, which we'll do using `gulp.watch`.
+
+```js
+gulp.task('js_watch', () => {
+	return gulp.watch('./assets/js/_partials/*.js', js_format);
+});
+```
+
+- Now that we made this into a task, we can call it from the command line using `gulp js_watch`.
+
+However, similar to how we run `rake` in Jekyll before starting a new build, we want to clean out the `main.js` file before we build a new one. So, we'll add another task to do that:
+
+```js
+gulp.task('js_clean', () => {
+	return gulp.src('./assets/js/main.js', { allowEmpty: true })
+		.pipe(clean());
+});
+```
+
+- Now that we've defined each of these tasks, we can put them together using our `gulp.series` function:
+
+```js
+gulp.task('js', gulp.series('js_clean', 'js_watch'));
+```
+
+- In English, this says "if you enter `gulp js` on the command line while you're in the root of the scholarslab.org folder, I'll execute the `js_clean` function to delete any existing main.js file, then execute the `js_watch` function to write and continuously update a new one."
+
+### Our functions and tasks thus far
+
+```js
+// ok we feel p good about this one cool cool
+var js_format = () => {
+	return gulp.src('./assets/js/_partials/*.js')
+		.pipe(concat('main.js'))
+		.pipe(uglify({ keep_fnames: true }))
+		.pipe(insert.wrap('(function() {', '\n})();'))
+		.pipe(gulp.dest('./assets/js'));
+}
+
+// ......oh wait wtf
+gulp.task('js_watch', () => {
+	return gulp.watch('./assets/js/_partials/*.js', js_format);
+});
+
+// (i mean, i do not begrudge you if you're like
+/* 'hell yea this makes total sense' */
+// but i, uh, did not feel that way when first writing it)
+
+gulp.task('js_clean', () => {
+	return gulp.src('./assets/js/main.js', { allowEmpty: true })
+		.pipe(clean());
+});
+
+gulp.task('js', gulp.series('js_clean', 'js_watch'));
+```
+
+- With some more Matrix commentary:
+
+```js
+// more js crimes comin' to town
+// *jaws 'baaa-NUM' sounds*
+
+/* NB for both tasks:
+ * same rules apply re. always using 'return'
+ */
+
+/* task named 'js_watch' */
+gulp.task('js_watch', () => {
+	/* this just gives us a way to call the
+	 * watch statement from the command line */
+	return gulp.watch('./assets/js/_partials/*.js', js_format);
+	/* just mentally replace 'js_format' w/ fxn from above */
+});
+
+/* task named 'js_clean' */
+gulp.task('js_clean', () => {
+	/* grab the main JS file,
+	 * but no worries if it doesn't exist */
+	return gulp.src('./assets/js/main.js', { allowEmpty: true })
+		.pipe(clean()); /* delete existing version */
+});
+
+/* task named 'js' */
+gulp.task('js', gulp.series('js_clean', 'js_watch'));
+/* "run JS clean task, then run JS watch task,
+ *  which is made of checking files then
+ *  formatting them using the JS format function"
+ */
+
+ // eyy michael cohen come at me bra
+```
+
+* NB: All of these task names are totally arbitrary and have no effect on the actual execution of the functions.
+
+Yo. We're so ready for our ~ultimate command line function~.
+
+## Our Ultimate Command Line Function
+
+Sort of, until we write stuff for CSS. But as far as the JS universe, as of June 2018, we are *extremely* satisfied.
+
+- First, let's check in with Gulp's handy `--tasks` option to make sure it recognizes all the stuff we wrote as valid tasks. It'll also show which tasks are dependent on each other, which is super helpful.
+
+```bash
+gulp --tasks
+```
+
+- Output:
+
+```bash
+[23:08:06] Tasks for C:\my-projects\scholarslab.org\gulpfile.js
+[23:08:06] ├── js_watch
+[23:08:06] ├── js_clean
+[23:08:06] └─┬ js
+[23:08:06]   └─┬ <series>
+[23:08:06]     ├── js_clean
+[23:08:06]     └── js_watch
+
+# (Hahahahah can you tell by the timestamp that I'm avoiding
+# thinking about the Supreme Court retirement?
+# Cool, yeah, me neither)
+```
+
+- Awesome! Everything we wrote registers, and we can see that our `js` task is made up of a series, `js_clean` and `js_watch`, just like we wanted.
+
+### Running the CLI function
+
+Enter the following:
+
+```bash
+gulp js
+```
+
+- The `clean_js` task should execute right away, and the `format_js` task will execute as soon as you make a change to a JS file in the `_partials/` directory. (I sometimes just make a change and then change it back to kickstart the process. I'm sure there's a more professional way to do it, but that shortcut has worked just fine for me.)
+
+- Output:
+
+```bash
+C:\my-projects\scholarslab.org>gulp js
+[22:39:30] Using gulpfile C:\my-projects\scholarslab.org\gulpfile.js
+[22:39:30] Starting 'js'...
+[22:39:30] Starting 'js_clean'...
+[22:39:30] Finished 'js_clean' after 27 ms
+[22:39:30] Starting 'js_watch'...
+[22:39:41] Starting 'js_format'...
+[22:39:41] Finished 'js_format' after 122 ms
+[22:40:02] Starting 'js_format'...
+[22:40:02] Finished 'js_format' after 68 ms
+[22:40:24] Starting 'js_format'...
+[22:40:24] Finished 'js_format' after 61 ms
+```
+
+- At this point, I hit `Ctrl+C`, confirmed then `y` (yes) to quit, and the task safely exited.
+
+```js
+// end katherine's documentation adventures, round 1
 ```
