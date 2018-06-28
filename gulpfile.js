@@ -4,5 +4,5 @@
 var gulp   = require('gulp'),
 	clean  = require('gulp-clean'),
 	concat = require('gulp-concat'),
-	uglify = require('gulp-uglify-es');
-
+	uglify = require('gulp-uglify-es'),
+	insert = require('gulp-insert');
