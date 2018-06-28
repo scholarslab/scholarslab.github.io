@@ -23,6 +23,9 @@
   },
   "devDependencies": {
     "gulp": "^4.0.0",
-    "gulp-cli": "^2.0.1"
+    "gulp-clean": "^0.4.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify-es": "^1.0.4"
   }
 }
