@@ -333,7 +333,12 @@ html, body {
 }
 
 .home-find__diagram {
-
+	position: relative;
+	svg {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
 }
 
 /* Events: */
