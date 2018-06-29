@@ -99,6 +99,7 @@ title: Home
 			<div class="home-find__content">
 				<div class="home-find__diagram">
 					<img src="{{ 'assets/img/svg/alderman-floorplan.svg' | relative_url }}" height="300px" alt="Floor diagram of Scholars' Lab spaces" title="Alderman Floorplan - Floor 4">
+					{% include floorplan-markup.html %}
 				</div>
 				<ul><span>Spaces:</span>
 					{% assign spaces = site.spaces | sort: 'order' %}
