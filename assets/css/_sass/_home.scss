@@ -338,6 +338,14 @@ html, body {
 		position: absolute;
 		top: 0;
 		left: 0;
+		[class*="fill__"] {
+			opacity: .05;
+			-webkit-transition: opacity .3s;
+			transition: opacity .3s;
+			&:hover, &:focus {
+				opacity: .7;
+			}
+		}
 	}
 }
 
