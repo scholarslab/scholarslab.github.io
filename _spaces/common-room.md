@@ -2,6 +2,7 @@
 title: The Common Room
 room: Alderman 419
 order: 1
+fill-color: grape
 hours: "The Common Room of the Scholars' Lab is open [whenever Alderman is](http://www.library.virginia.edu/hours/#!/scholars-lab,alderman)."
 seating: 66
 equipment: "12 Dell workstations with [advanced software](http://its.virginia.edu/labs/listEquipDetail.php?room_id=34&machine_group=1) (plus AbbyyFineReader and Adobe Creative Suite); flat bed scanners (2 large format, 4 with multi-sheet feed); color and black and white printers."

@@ -2,6 +2,7 @@
 title: The Classroom
 room: Alderman 421
 order: 4
+fill-color: diamond
 # hours: (none specified)
 seating: 30
 equipment: "25 Dell laptops; ceiling-mounted data projector; document projector; instructor workstation with desktop, audio, and video."
