@@ -24,6 +24,6 @@ The following are some of the skills that will be taught:
 * motion capture of culturally or ritually significant movement
 * connections to professionals on and off Grounds, locally and regionally
 
-Prospective students will work directly with the Scholars' Lab's Will Rourk (ARCH and ARH) and Arin Bennett and receive 3 credits for a completed semester.  Will and Arin have over 6 years of experience in cultural heritage documentation and have worked extensively with University faculty, students, and staff toward the scholarly use of cultural heritage data. Interns will gain professional-grade knowledge while receiving credit towards their degree including credit for the Certificate in Historic Preservation. An example of cultural heritage informatics at the Library can be found [here](http://bit.ly/UVA3D).
+Prospective students will work directly with the Scholars' Lab's Will Rourk (ARCH and ARH) and Arin Bennett and receive 3 credits for a completed semester.  Will and Arin have over 6 years of experience in cultural heritage documentation and have worked extensively with University faculty, students, and staff toward the scholarly use of cultural heritage data. Interns will gain professional-grade knowledge while receiving credit towards their degree including credit for the Certificate in Historic Preservation. Here is an [example of cultural heritage informatics]((http://bit.ly/UVA3D)) at the Library.
 
 Please contact Will Rourk if you have any questions regarding Cultural Heritage Informatics at [will@virginia.edu](mailto:will@virginia.edu).
