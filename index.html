@@ -104,10 +104,10 @@ title: Home
 				<ul><span>Spaces:</span>
 					{% assign spaces = site.spaces | sort: 'order' %}
 					{% for space in spaces %}
-					<li data-fill="{{ space.fill-color }}">{{ space.title }}: {{ space.room }}</li>
+					<li data-fill="{{ space.fill-color }}" data-name="{{ space.data-name }}">{{ space.title }}: {{ space.room }}</li>
 					{% endfor %}
-					<li data-fill="violet">Open Office Hours</li>
-					<li data-fill="teal">Staff offices</li>
+					<li data-fill="violet" data-name="office-hrs">Open Office Hours</li>
+					<li data-fill="teal" data-name="offices">Staff offices</li>
 				</ul>
 			</div>
 			<p class="home-find__link">See full list of <a href="/hours-and-spaces" aria-label="hours and spaces page">hours &amp; spaces</a>.</p>
