@@ -1,0 +1,70 @@
+/* Universal */
+
+// section titles
+[class*="__title"][class*="event-"] {
+	margin-bottom: .5em;
+	margin-top: 1em;
+	font-size: 1.25rem;
+	font-weight: 900;
+	line-height: 1;
+	text-transform: uppercase;
+	@media screen and (min-width: 1024px) {
+		font-size: 1.5rem;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 1.75rem;
+	}
+}
+
+
+/* Main styles: */
+
+.event-wrapper {
+	padding: 0 4.167%;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+		padding-top: 3rem; // 2 line heights
+	}
+	@media screen and (min-width: 768px) {
+		padding: 0 4.167%;
+		padding-top: 3rem; // 2 line heights
+	}
+	@media screen and (min-width: 1024px) {
+		padding: 0 8.33%;
+		padding-top: 3rem; // 2 line heights
+	}
+}
+
+.event-main-content {
+	position: relative;
+	display: grid;
+	grid-template-areas: "img"
+						 "name"
+						 "title"
+						 "stats"
+						 "describe"
+						 "posts"
+						 "button";
+	grid-template-columns: 1fr;
+	@media screen and (min-width: 768px) {
+		grid-template-areas: "name img"
+							 "title img"
+							 "stats img"
+							 "..... img"
+							 "describe describe"
+							 "posts posts"
+							 "button button";
+		grid-template-columns: 1fr 1fr;
+	}
+	@media screen and (min-width: 1024px) {
+		grid-template-areas: "name img"
+							 "title img"
+							 "describe img"
+							 "describe stats"
+							 "describe ....."
+							 "describe ....."
+							 "posts posts"
+							 "button button";
+		grid-template-columns: 50% 50%;
+	}
+}
