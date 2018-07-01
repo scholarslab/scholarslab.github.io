@@ -2,6 +2,8 @@
 title: The Seminar Room
 room: Alderman 423
 order: 3
+fill-color: diamond
+data-name: ald-423
 # hours: (none specified)
 seating: 20
 equipment: "ceiling-mounted data projector; instructor station w/audio and video; 2 whiteboards. Note overhead air vents in middle of room mean a mic is required for folks in the back half of the room to hear well."

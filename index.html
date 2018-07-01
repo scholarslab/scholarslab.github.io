@@ -99,14 +99,15 @@ title: Home
 			<div class="home-find__content">
 				<div class="home-find__diagram">
 					<img src="{{ 'assets/img/svg/alderman-floorplan.svg' | relative_url }}" height="300px" alt="Floor diagram of Scholars' Lab spaces" title="Alderman Floorplan - Floor 4">
+					{% include floorplan-markup.html %}
 				</div>
-				<ul><span>Spaces:</span>
+				<ul><!-- commenting out b/c messing w/ JS stuff rn! span>Spaces:</span-->
 					{% assign spaces = site.spaces | sort: 'order' %}
 					{% for space in spaces %}
-					<li>{{ space.title }}: {{ space.room }}</li>
+					<li data-fill="{{ space.fill-color }}" data-name="{{ space.data-name }}">{{ space.title }}: {{ space.room }}</li>
 					{% endfor %}
-					<li>Open Office Hours</li>
-					<li>Staff offices</li>
+					<li data-fill="violet" data-name="office-hrs">Open Office Hours</li>
+					<li data-fill="teal" data-name="offices">Staff offices</li>
 				</ul>
 			</div>
 			<p class="home-find__link">See full list of <a href="/hours-and-spaces" aria-label="hours and spaces page">hours &amp; spaces</a>.</p>
