@@ -49,10 +49,9 @@
 		width: 100%;
 		height: 8px;
 		background-color: $grape;
-		background-image: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.1)), url('../img/decorative/rawpixel-661939-unsplash--cropped.jpg');
+		background-image: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.1)), url('../img/decorative/color-splatter-purple.jpg');
 		background-size: cover;
-		background-position: left center;
-		mix-blend-mode: screen;
+		background-position: bottom left;
 	}
 	span {
 		display: inline-block;
