@@ -191,8 +191,15 @@
 
 }
 
-.event__notes {
+/* Notes: */
 
+.event__notes {
+	position: relative;
+	grid-area: notes;
+	align-self: start;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%; // 4.167%;
+	}
 }
 
 .event-notes__title {
@@ -200,5 +207,7 @@
 }
 
 .event-notes__content {
-
+	@media screen and (min-width: 768px) {
+		font-size: 18px;
+	}
 }
