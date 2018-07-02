@@ -31,7 +31,7 @@
 		padding: 3rem 4.167%;
 	}
 	@media screen and (min-width: 1024px) {
-		padding: 3rem 8.33%;
+		padding: calc(3rem * 1.125) 8.33%;
 	}
 }
 
