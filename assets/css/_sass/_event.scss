@@ -38,25 +38,17 @@
 .event-main-content {
 	position: relative;
 	display: grid;
-	grid-template-areas: "img"
-						 "name"
-						 "title"
+	grid-template-areas: "title"
 						 "stats"
-						 "describe"
-						 "posts"
-						 "button";
+						 "describe";
 	grid-template-columns: 1fr;
 	@media screen and (min-width: 768px) {
-		grid-template-areas: "name img"
-							 "title img"
-							 "stats img"
-							 "..... img"
-							 "describe describe"
-							 "posts posts"
-							 "button button";
+		grid-template-areas: "title cal"
+							 "title stats"
+							 "describe stats";
 		grid-template-columns: 1fr 1fr;
 	}
-	@media screen and (min-width: 1024px) {
+/*	@media screen and (min-width: 1024px) {
 		grid-template-areas: "name img"
 							 "title img"
 							 "describe img"
@@ -66,5 +58,7 @@
 							 "posts posts"
 							 "button button";
 		grid-template-columns: 50% 50%;
+	} */
+}
 	}
 }
