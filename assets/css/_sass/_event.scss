@@ -40,14 +40,23 @@
 	display: grid;
 	grid-template-areas: "title"
 						 "stats"
-						 "describe";
-	grid-template-columns: 1fr;
+						 "describe"
+						 "cal"
+						 "notes";
 	@media screen and (min-width: 768px) {
-		grid-template-areas: "title cal"
-							 "title stats"
+		grid-template-areas:
+							 "title cal"
 							 "describe stats"
 							 "describe notes"
-							 "describe questions"
+							 "describe .....";
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: repeat(4, auto) 1fr;
+	}
+	@media screen and (min-width: 1024px) {
+		grid-template-areas:
+							 "title cal"
+							 "title stats"
+							 "describe notes"
 							 "describe .....";
 		grid-template-columns: 1fr 1fr;
 	}
