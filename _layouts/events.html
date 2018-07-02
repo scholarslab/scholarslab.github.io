@@ -61,14 +61,6 @@ layout: default
 			</div>
 		</div>
 
-		<!-- NB: !!! again, compensating until restructure data !!! -->
-		{% assign hosts = site.people | where_exp: "person", "person.slug == page.author" %}
-		<div class="event__questions">
-			<p class="event-questions__text">Questions? Please reach out to
-				{% for host in hosts %} {{ host.name }} ({{ host.email }}) {% endfor %}.
-			</p>
-		</div>
-
 		<div class="event__notes">
 			<div class="event-notes__title">Notes</div>
 			<div class="page--borrowed-style">
@@ -94,6 +86,14 @@ layout: default
 			</ol> <!-- end notes content -->
 			</div>
 		</div> <!-- end notes -->
+
+		<!-- NB: !!! again, compensating until restructure data !!! -->
+		{% assign hosts = site.people | where_exp: "person", "person.slug == page.author" %}
+		<div class="event__questions">
+			<p class="event-questions__text">Questions? Contact
+				{% for host in hosts %} {{ host.name }} ({{ host.email }}),{% endfor %} HostName Two (email@virginia.edu), or HostName3 Lastnamez (emailz@virginia.edu).
+			</p>
+		</div>
 
 	</div> <!-- end main content -->
 </article> <!-- end wrapper -->
