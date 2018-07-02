@@ -71,10 +71,13 @@ layout: default
 
 		<div class="event__notes">
 			<div class="event-notes__title">Notes</div>
-			<ul class="event-notes__content">
-				<li>Do I need to know anything about the subject to participate? <code>page.codereqs | default: Nope! No prior knowledge is assumed&amp;beginners definitely encouraged.</code></li>
-				<li>Any supplies needed? <code> page.supplies | default: Nope! Come as you are.</code></li>
-				<li>Who can come to this event? <code> page.audience | default: All events are free to attend and are open to the UVa and larger Charlottesville community.</code></li>
+			<div class="page--borrowed-style">
+			<ol class="event-notes__content">
+				<li><span>Prior knowledge required?</span> Nope! Open to all, especially beginners. <!--code>page.codereqs | default: Nope! No prior knowledge is assumed&amp;beginners definitely encouraged.</code--></li>
+				{% if page.supplies %}
+				<li>Supplies to bring: [insert supplies]</li> <!--code> page.supplies | default: Nope! Come as you are.</code></li-->
+				{% endif %}
+				<li>This event is free to attend and are open to the UVa and larger Charlottesville community.</li>
 				<!-- NB: I know the wording on this isn't strictly true; figured would leave to content people to edit it -->
 
 				<!-- any custom notes someone's added: -->
