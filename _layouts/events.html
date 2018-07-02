@@ -66,12 +66,17 @@ layout: default
 			<div class="event-notes__title">Notes</div>
 			<div class="page--borrowed-style">
 			<ul class="event-notes__content">
-				<li><span>Prior knowledge required?</span> Nope! Open to all, especially beginners. <!--code>page.codereqs | default: Nope! No prior knowledge is assumed&amp;beginners definitely encouraged.</code--></li>
+				<li><span>Prior knowledge required?</span><br/> Nope! Open to all, especially beginners. <!--code>page.codereqs | default: Nope! No prior knowledge is assumed&amp;beginners definitely encouraged.</code--><br/></li>
 				{% if page.supplies %}
-				<li>Supplies to bring: [insert supplies]</li> <!--code> page.supplies | default: Nope! Come as you are.</code></li-->
+				<li><span>Supplies to bring:</span> [insert supplies]</li> <!--code> page.supplies | default: Nope! Come as you are.</code></li-->
 				{% endif %}
-				<li>This event is free to attend and are open to the UVa and larger Charlottesville community.</li>
 				<!-- NB: I know the wording on this isn't strictly true; figured would leave to content people to edit it -->
+				<li><span>Who can come?</span><br/>This event is free to attend and are open to the UVa and larger Charlottesville community.</li>
+
+				<!-- NB: !!! again, compensating until restructure data !!! -->
+				{% assign hosts = site.people | where_exp: "person", "person.slug == page.author" %}
+				<li class="event-notes__questions"><span>Questions?</span><br/>Contact
+				{% for host in hosts %} {{ host.name }} ({{ host.email }}),{% endfor %} HostName Two (email@virginia.edu), or HostName3 Lastnamez (emailz@virginia.edu).</li>
 
 				<!-- any custom notes someone's added: -->
 				{% if page.notes and page.notes.size >= 1 %}
@@ -88,8 +93,6 @@ layout: default
 			</div>
 		</div> <!-- end notes -->
 
-		<!-- NB: !!! again, compensating until restructure data !!! -->
-		{% assign hosts = site.people | where_exp: "person", "person.slug == page.author" %}
 		<div class="event__questions">
 			<p class="event-questions__text">Questions? Contact
 				{% for host in hosts %} {{ host.name }} ({{ host.email }}),{% endfor %} HostName Two (email@virginia.edu), or HostName3 Lastnamez (emailz@virginia.edu).
