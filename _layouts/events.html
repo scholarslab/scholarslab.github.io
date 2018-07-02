@@ -64,9 +64,9 @@ layout: default
 		<!-- NB: !!! again, compensating until restructure data !!! -->
 		{% assign hosts = site.people | where_exp: "person", "person.slug == page.author" %}
 		<div class="event__questions">
-			<div class="event-questions__text">Questions? Email
+			<p class="event-questions__text">Questions? Please reach out to
 				{% for host in hosts %} {{ host.name }} ({{ host.email }}) {% endfor %}.
-			</div>
+			</p>
 		</div>
 
 		<div class="event__notes">
