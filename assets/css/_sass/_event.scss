@@ -109,11 +109,10 @@
 	grid-area: stats;
 	align-self: start;
 	@media screen and (min-width: 768px) {
-		margin-top: 1.5rem;
 		padding-left: 8.33%;
 	}
-	@media screen and (min-width: 1024px) {
-
+	@media screen and (min-width: 1200px) {
+		margin-top: .75rem;
 	}
 }
 
@@ -134,7 +133,7 @@
 		color: $brightgrape;
 	}
 	@media screen and (min-width: 1024px) {
-		font-size: 1.25rem;
+		font-size: 1.125rem;
 	}
 }
 
