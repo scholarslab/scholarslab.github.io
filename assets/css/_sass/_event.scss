@@ -8,6 +8,7 @@
 	font-weight: 900;
 	line-height: 1;
 	text-transform: uppercase;
+	color: $navgray;
 	@media screen and (min-width: 1024px) {
 		font-size: 1.5rem;
 	}
@@ -22,6 +23,7 @@
 .event-wrapper {
 	padding: 0 4.167%;
 	padding-bottom: 3rem;
+	color: $textgray;
 	@media screen and (min-width: 600px) {
 		padding: 3rem 8.33%; // 3rem = 2 line heights
 	}
