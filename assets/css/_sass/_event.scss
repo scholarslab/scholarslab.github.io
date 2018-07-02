@@ -60,5 +60,96 @@
 		grid-template-columns: 50% 50%;
 	} */
 }
+
+.event__big-title {
+	position: relative;
+	grid-area: title;
+	align-self: start;
+	font-size: 2rem;
+	font-weight: 900;
+	line-height: 1;
+	color: $navgray;
+	span {
+		display: block;
+		padding-bottom: 2px;
+		font-size: .5em;
+		font-family: "base-mono-wide";
+		text-transform: uppercase;
+		color: $brightgrape;
+	}
+	@media screen and (min-width: 400px) {
+		font-size: 2.5rem;
+	}
+	@media screen and (max-width: 767px) {
+		padding-top: .5em;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 3rem;
+		span {
+			padding-bottom: .5em;
+		}
+	}
+}
+
+/* Stats: */
+
+.event__stats {
+	grid-area: stats;
+	@media screen and (min-width: 768px) {
+		padding-right: 4.167%;
+	}
+	@media screen and (min-width: 1024px) {
+		align-self: start;
+		margin-top: 1.5rem;
+		padding-right: 0px;
+		padding-left: 8.33%;
+	}
+}
+
+.event-stats__title {
+	margin-bottom: .25em !important;
+}
+
+.event-stats__box {
+	position: relative;
+	padding: .5em 1em;
+	font-family: "base-mono-narrow", monospace;
+	font-size: 1rem;
+	text-align: right;
+	color: black;
+	border: 4px solid $brightgrape;
+	span {
+		float: left;
+		color: $brightgrape;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 1.25rem;
+	}
+}
+
+/* Description: */
+
+.event__description {
+	grid-area: describe;
+	align-self: start;
+	@media screen and (min-width: 768px) {
+		margin-top: .5em;
+		padding-right: 8.33%; // 4.167%;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 18px;
+	}
+}
+
+.event-describe__title {
+
+}
+
+.event-describe__text {
+	p {
+		margin: 0 0 .5em 0;
+	}
+}
+
 	}
 }
