@@ -29,7 +29,7 @@ layout: default
 			<div class="event-stats__title">Event Info</div>
 			<div class="event-stats__box">
 				{% if page.start_date %}
-				<span>Date:</span>{{ page.start_date | date: "%A, %B %-d, %Y" }}<br/>
+				<span>Date:</span>{{ page.start_date | date: "%A, %m/%-d/%Y" }}<br/>
 				{% endif %}
 				{% if page.start_time and page.end_time  %}
 				<span>Time:</span>{{ start_time }}-{{ end_time }}<br/>
