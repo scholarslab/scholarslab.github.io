@@ -224,12 +224,31 @@
 }
 
 .event-notes__title {
-
+	display: none;
 }
 
+// ul
 .event-notes__content {
+	padding-left: 0 !important;
+	list-style-type: none;
+	li {
+		padding-bottom: 1em;
+
+	}
+	span {
+		font-weight: bold;
+	}
+	@media screen and (min-width: 768px) and (max-width: 1023px) {
+		li:not(.event-notes__questions) {
+			display: none;
+		}
+	}
 	@media screen and (min-width: 1024px) {
 		font-size: 18px;
+		margin-top: 60px !important; // section title height
+	}
+	@media screen and (min-width: 1200px) {
+		margin-top: 70px !important; // section title height
 	}
 }
 
