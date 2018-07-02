@@ -191,6 +191,9 @@
 	@media screen and (min-width: 768px) {
 		padding-left: 8.33%; // 4.167%;
 	}
+	@media screen and (min-width: 1024px) {
+		font-size: 18px;
+	}
 }
 
 .event-questions__text {
@@ -216,7 +219,7 @@
 }
 
 .event-notes__content {
-	@media screen and (min-width: 768px) {
+	@media screen and (min-width: 1024px) {
 		font-size: 18px;
 	}
 }
