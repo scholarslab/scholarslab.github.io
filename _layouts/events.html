@@ -1,20 +1,16 @@
 ---
 layout: default
 ---
+
 <article class="event-wrapper">
 	<div class="event-main-content" aria-label="Main content">
 
 		<div class="event__big-title">
-			<span aria-label="page type">People //</span>
+			<span aria-label="page type">Events //</span>
 			{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}
 		</div>
 
-		<div class="event-item__date">
-			<div>{{ page.start_date | date: "%b" }}<br/>{{ page.start_date | date: "%-d" }}</div>
-		</div>
-		<div class="event-item__title">
-			<a href="{{ site.url }}/events/{{ page.slug }}">{{ page.title }}</a>
-		</div>
+		<!-- NB: !!! this only exists until we restructure the YAML !!! -->
 		<!-- remove trailing seconds zeros on time -->
 		{% assign start_time = page.start_time | date: "%r" | remove: ":00 " %}
 		{% assign end_time = page.end_time | date: "%r" | remove: ":00 " %}
@@ -28,9 +24,72 @@ layout: default
 		{% if zerocheck2 == '0' %}
 			{% assign end_time = end_time | slice: 1, 6 %}
 		{% endif %}
-		<div class="event-item__logistics">
-			<div class="event-logistics__time"><span>When: </span>{{ page.start_date | date: "%A, %B %-d, %Y" }}, {{ start_time }}-{{ end_time }}</div>
-			<div class="event-logistics__place"><span>Where: </span>{{ page.location }}</div>
+
+		<div class="event__stats">
+			<div class="event-stats__title">Event Info</div>
+			<div class="event-stats__box">
+				{% if page.start_date %}
+				<span>Date:</span>{{ page.start_date | date: "%A, %B %-d, %Y" }}<br/>
+				{% endif %}
+				{% if page.start_time and page.end_time  %}
+				<span>Time:</span>{{ start_time }}-{{ end_time }}<br/>
+				{% endif %}
+				<span>How long:</span> 2hrs<br/>
+				{% if page.location %}
+				<span>Where:</span>{{ page.location }}
+				{% endif %}
+			</div>
+		</div> <!-- end stats -->
+
+		<div class="event__description">
+			<div class="event-describe__title">About</div>
+			<div class="event-describe__text">
+			{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
+				{{ content }}
+			{% else %}
+				<p>No description has been added at this time.</p>
+			{% endunless %}
+			</div>
 		</div>
-	</div>
-</article>
+
+		<div class="event__calendar">
+			<div class="event-cal__btn">
+				<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGxyZnE4aHIycmY1Z3FqcTBsa2tjbm5hbTYga2JkM2F4QHZpcmdpbmlhLmVkdQ&amp;tmsrc=kbd3ax%40virginia.edu" aria-label="Link to add to Google calendar">
+					<img src="{{ 'assets/img/svg/calendar-icon.svg' | relative_url }}" alt="Calendar icon">
+					<span>Add to Calendar</span>
+				</a>
+			</div>
+		</div>
+
+		<!-- NB: !!! again, compensating until restructure data !!! -->
+		{% assign hosts = site.people | where_exp: "person", "person.slug == page.author" %}
+		<div class="event__questions">
+			<div class="event-questions__text">Questions? Email
+				{% for host in hosts %} {{ host.name }} ({{ host.email }}) {% endfor %}.
+			</div>
+		</div>
+
+		<div class="event__notes">
+			<div class="event-notes__title">Notes</div>
+			<ul class="event-notes__content">
+				<li>Do I need to know anything about the subject to participate? <code>page.codereqs | default: Nope! No prior knowledge is assumed&amp;beginners definitely encouraged.</code></li>
+				<li>Any supplies needed? <code> page.supplies | default: Nope! Come as you are.</code></li>
+				<li>Who can come to this event? <code> page.audience | default: All events are free to attend and are open to the UVa and larger Charlottesville community.</code></li>
+				<!-- NB: I know the wording on this isn't strictly true; figured would leave to content people to edit it -->
+
+				<!-- any custom notes someone's added: -->
+				{% if page.notes and page.notes.size >= 1 %}
+				<li>
+					<h3>Notes:</h3>
+					<ul>
+					{% for note in page.notes %}
+						<li>{{ note }}</li>
+					{% endfor %}
+					</ul>
+				</li>
+				{% endif %}
+			</ul> <!-- end notes content -->
+		</div> <!-- end notes -->
+
+	</div> <!-- end main content -->
+</article> <!-- end wrapper -->
