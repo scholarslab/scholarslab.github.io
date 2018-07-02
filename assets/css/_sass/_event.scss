@@ -151,5 +151,45 @@
 	}
 }
 
+/* Calendar: */
+
+.event__calendar {
+	position: relative;
+	grid-area: cal;
+	align-self: start;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%; // 4.167%;
 	}
+}
+
+.event-cal__btn {
+	display: inline-block;
+	font-size: 1.75rem;
+	line-height: 1;
+	background-color: white;
+	border: 1px solid $textgray;
+	border-radius: 5px;
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,0);
+	transition: border .3s, box-shadow .3s;
+	&:hover, &:focus {
+		border: 1px solid $brightgrape;
+		box-shadow: 0 1px 1px 0 rgba(0,0,0,.15);
+	}
+	a {
+		position: relative;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: .5em 1em;
+		text-decoration: none;
+		color: $textgray;
+		img {
+			height: 1em;
+			padding-right: .5em;
+		}
+		span {
+			display: inline-block;
+		}
+	}
+}
 }
