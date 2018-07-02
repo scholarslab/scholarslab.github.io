@@ -43,20 +43,12 @@
 	@media screen and (min-width: 768px) {
 		grid-template-areas: "title cal"
 							 "title stats"
-							 "describe stats";
+							 "describe stats"
+							 "describe notes"
+							 "describe questions"
+							 "describe .....";
 		grid-template-columns: 1fr 1fr;
 	}
-/*	@media screen and (min-width: 1024px) {
-		grid-template-areas: "name img"
-							 "title img"
-							 "describe img"
-							 "describe stats"
-							 "describe ....."
-							 "describe ....."
-							 "posts posts"
-							 "button button";
-		grid-template-columns: 50% 50%;
-	} */
 }
 
 .event__big-title {
