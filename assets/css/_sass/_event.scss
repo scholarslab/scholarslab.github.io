@@ -85,14 +85,13 @@
 
 .event__stats {
 	grid-area: stats;
+	align-self: start;
 	@media screen and (min-width: 768px) {
-		padding-right: 4.167%;
+		margin-top: 1.5rem;
+		padding-left: 8.33%;
 	}
 	@media screen and (min-width: 1024px) {
-		align-self: start;
-		margin-top: 1.5rem;
-		padding-right: 0px;
-		padding-left: 8.33%;
+
 	}
 }
 
