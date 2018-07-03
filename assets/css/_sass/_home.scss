@@ -129,10 +129,7 @@ html, body {
 	position: relative;
 	display: grid;
 	width: 100%;
-	margin: 0 4.167%;
-	@media screen and (min-width: 768px) {
-		border-bottom: 4px solid $medskyblue;
-	}
+	padding: 0 4.167%;
 	@media screen and (min-width: 1200px) {
 //		padding: 0 8.33%;
 	}
