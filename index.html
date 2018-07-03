@@ -31,11 +31,11 @@ title: Home
 		<section class="home__faq">
 			<div class="home-faq__title"><a href="/about">Frequently Asked Questions</a></div>
 			<div class="home-faq__subtitle">Check out <a href="/about">answers to common questions</a> including:</div>
-			<div class="home-faq__questions">
-				<div><a href="/about#what-is-the-scholars-lab">What is the Scholars' Lab?</a></div>
-				<div><a href="/about#how-can-the-scholars-lab-fit-into-my-work">How can you fit into my work?</a></div>
-				<div><a href="/about#how-does-the-lab-fit-into-the-uva-library">How do you fit into the UVA Library?</a></div>
-			</div>
+			<ul class="home-faq__questions">
+				<li><a href="/about#what-is-the-scholars-lab">What is the Scholars' Lab?</a></li>
+				<li><a href="/about#how-can-the-scholars-lab-fit-into-my-work">How can you fit into my work?</a></li>
+				<li><a href="/about#how-does-the-lab-fit-into-the-uva-library">How do you fit into the UVA Library?</a></li>
+			</ul>
 			<div class="home-faq__cta"><!--Find answers to these questions and more:<br/--><a href="about">About Scholars' Lab</a></div>
 		</section>
 
@@ -65,7 +65,7 @@ title: Home
 					<!-- Begin MailChimp Signup Form -->
 					<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 					<style type="text/css">
-						#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;}
+						#mc_embed_signup{background:#fff; clear:left; width:300px;}
 					</style>
 					<div id="mc_embed_signup">
 					<form action="https://virginia.us1.list-manage.com/subscribe/post?u=3ac105f4d87dddbd34542ab41&amp;id=25120106cf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -98,16 +98,16 @@ title: Home
 			<div class="home-find__title"><a href="/hours-and-spaces">Find us</a></div>
 			<div class="home-find__content">
 				<div class="home-find__diagram">
-					<img src="{{ 'assets/img/svg/alderman-floorplan.svg' | relative_url }}" height="300px" alt="Floor diagram of Scholars' Lab spaces" title="Alderman Floorplan - Floor 4">
+					<img src="{{ 'assets/img/svg/alderman-floorplan.svg' | relative_url }}" height="400px" alt="Floor diagram of Scholars' Lab spaces" title="Alderman Floorplan - Floor 4">
 					{% include floorplan-markup.html %}
 				</div>
 				<ul><!-- commenting out b/c messing w/ JS stuff rn! span>Spaces:</span-->
 					{% assign spaces = site.spaces | sort: 'order' %}
 					{% for space in spaces %}
-					<li data-fill="{{ space.fill-color }}" data-name="{{ space.data-name }}">{{ space.title }}: {{ space.room }}</li>
+					<li data-fill="{{ space.fill-color }}" data-name="{{ space.data-name }}"><span>{{ space.title }}</span>:<br/> {{ space.room }}</li>
 					{% endfor %}
-					<li data-fill="violet" data-name="office-hrs">Open Office Hours</li>
-					<li data-fill="teal" data-name="offices">Staff offices</li>
+					<li data-fill="violet" data-name="office-hrs"><span>Open Office Hours</span></li>
+					<li data-fill="teal" data-name="offices"><span>Staff offices</span></li>
 				</ul>
 			</div>
 			<p class="home-find__link">See full list of <a href="/hours-and-spaces" aria-label="hours and spaces page">hours &amp; spaces</a>.</p>
@@ -118,12 +118,24 @@ title: Home
 			<div class="home-events__title"><a href="/events">Events</a></div>
 			<!-- !! NB: events description is commented out; feel free to un-comment out if we want to use it -->
 			<!--div class="home-events__description">One-time or regular, hands-on workshops and discussion-rich symposia, a quick intro or community group&mdash;whatever your flavor, we probably have an event for it. Upcoming events below, or find the full list <a href="/events" aria-label="Events page">here</a>.</div-->
+			{% assign events = site.events | sort: 'start_date' %}
+			<!-- event layout: -->
+			
 			<div class="home-events__upcoming">
-				<div></div>
-				<div></div>
-				<div></div>
+				{% for event in events reversed limit:3 %}
+				<div>
+					<h2>{{ event.title }}</h2>
+					<ul>
+						<li><span>When:</span> {{ event.start_date | date: "%A, %m/%-d/%Y" }}</li>
+						<li><span>Where:</span> {{ event.location }}</li>
+					</ul>
+					<div class="events-item__cta">
+						<a href="{{ site.url }}/events/{{ event.slug }}">Details &rsaquo;</a>
+					</div>
+				</div>
+				{% endfor %}
 			</div>
-			<div class="home-events__cta"><a href="/events">All Events</a></div>
+			<!--div class="home-events__cta"><a href="/events">All Events</a></div-->
 		</section>
 
 		<!-- open office hours: -->

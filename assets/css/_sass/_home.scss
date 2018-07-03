@@ -12,12 +12,15 @@ html, body {
 	font-weight: 900;
 	line-height: 1;
 	margin-bottom: .5em;
+	margin-top: 1em;
+	color: $navgray;
 	a {
 		font-weight: 900;
+		color: $navgray;
 		border-bottom: initial !important;
 	}
 	@media screen and (min-width: 1200px) {
-		font-size: 2.25em;
+		font-size: 2em;
 	}
 }
 
@@ -25,7 +28,6 @@ html, body {
 	position: relative;
 	margin: 1em;
 	padding: 1em;
-	border: 1px solid black;
 }
 
 [class*="home-"][class*="__text"],
@@ -127,7 +129,10 @@ html, body {
 	position: relative;
 	display: grid;
 	width: 100%;
-	padding: 0 4.167%;
+	margin: 0 4.167%;
+	@media screen and (min-width: 768px) {
+		border-bottom: 4px solid $medskyblue;
+	}
 	@media screen and (min-width: 1200px) {
 //		padding: 0 8.33%;
 	}
@@ -148,6 +153,9 @@ html, body {
 		font-weight: 900;
 		line-height: 1;
 		text-transform: uppercase;
+		color: $navgray;
+		padding-bottom: 4px;
+		border-bottom: 2px solid $medskyblue;
 	}
 	p:first-of-type {
 		margin-top: .5em;
@@ -199,8 +207,8 @@ html, body {
 		grid-template-columns: 1fr 1fr;
 		grid-template-areas: "faq lib"
 							 "contact contact"
-							 "events find"
-							 "events hours"
+							 "find events"
+							 "hours events"
 							 "students students"
 							 "spatial maker";
 	}
@@ -266,27 +274,44 @@ html, body {
 
 .home__contact {
 	grid-area: contact;
+	border: 4px solid $medskyblue;
 }
 
 .home-contact__title {
-
+	margin-top: .5em !important;
 }
 
 .home-contact__wrapper {
 	position: relative;
 	display: flex;
 	flex-flow: column nowrap;
+	align-items: center;
 	@media screen and (min-width: 600px) {
 		flex-flow: row nowrap;
 	}
 }
 
 .home-contact__content {
-
+//	align-self: start;
+	padding: 0 2.5em 0 0;
+	p {
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+	}
 }
 
-.home-contact__newsletter {
+/* Newsletter: */
 
+.home-contact__newsletter {
+	form {
+		h2 {
+			line-height: 1;
+		}
+		input {
+			font-family: "Raleway", sans-serif;
+		}
+	}
 }
 
 .home-news__text {
@@ -317,6 +342,11 @@ html, body {
 
 .home__find-us {
 	grid-area: find;
+	@media screen and (min-width: 768px) {
+		padding-left: 0 !important;
+		margin-left: 0 !important;
+	}
+	
 }
 
 .home-find__title {
@@ -327,8 +357,24 @@ html, body {
 	position: relative;
 	display: flex;
 	flex-flow: column nowrap;
+	ul {
+		list-style-type: none;
+		padding-left: 0;
+		padding-right: 2em;
+		margin: 0;
+		li {
+		//	display: inline-block;
+			line-height: 1.2;
+			margin-bottom: .5em;
+			padding: .5em;
+			border: 1px solid $textgray;
+			span {
+				font-weight: bold;
+			}
+		}
+	}
 	@media screen and (min-width: 600px) {
-		flex-flow: row nowrap;
+		flex-flow: row-reverse nowrap;
 	}
 }
 
@@ -371,12 +417,18 @@ html, body {
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: center;
-	div {
-		height: 200px;
+	justify-content: flex-start;
+	div:not(.events-item__cta) {
 		width: 100%;
-		background-color: rgba(0,0,0,.15);
-		border: rgba(0,0,0,.5);
+		border: 1px solid $textgray !important;
 		margin-top: 1em;
+		padding: .5em 1em;
+		span {
+			font-weight: bold;
+		}
+		&:first-of-type {
+			margin-top: 0;
+		}
 	}
 }
 
