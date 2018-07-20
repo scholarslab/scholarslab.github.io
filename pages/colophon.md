@@ -10,6 +10,10 @@ notes:
 - NB: Phase 1 goal is fairly simple text-based page, though future iterations might benefit from more specific styling since this is mostly list-type content.
 ---
 
+We hope to update this page to reflect current and recent website work soon! In summary, we've migrated the site from WordPress to a Jekyll-generated static site.
+
+Until we write a more detailed description of this site, you may be interested in the colophon information for the previous version of this website:
+
 The Scholars' Lab site is written and maintained collaboratively by our staff, graduate fellows, and visiting scholars. We use an up-to-date version of [WordPress](http://wordpress.org) to run the site. Our site theme, Labnotes, is developed in-house and is tailored specifically for our needs, but the code is freely available in our [Github repository](http://github.com/scholarslab/labnotes). The development of the theme involves several tools:
 
 
