@@ -2,11 +2,11 @@
 layout: page
 title: Charter
 permalink: /charter/
-excerpt: "Our charter is a statement of our core and shared ethos&mdash;what we _attend to_ in the Lab, and how we currently see ourselves. Some points in this charter are aspirational and some are firmly in place as part of the SLab’s culture, but all are things we strive to remain mindful of in our day-to-day practice."
+excerpt: "Our charter is a statement of our core and shared ethos&mdash;what we *attend to* in the Lab, and how we currently see ourselves. Some points in this charter are aspirational and some are firmly in place as part of the SLab’s culture, but all are things we strive to remain mindful of in our day-to-day practice."
 nav: true
 ---
 
-This is not a manifesto. It’s a statement of our core and shared ethos in the Scholars’ Lab.  It represents what we _attend to_ here, and how we currently see ourselves. Some points in this charter are aspirational and some are firmly in place as part of the SLab’s culture, but all are things we strive to remain mindful of in our day-to-day practice.
+This is not a manifesto. It’s a statement of our core and shared ethos in the Scholars’ Lab.  It represents what we *attend to* here, and how we currently see ourselves. Some points in this charter are aspirational and some are firmly in place as part of the SLab’s culture, but all are things we strive to remain mindful of in our day-to-day practice.
 
 
 ## We welcome everyone.
@@ -25,7 +25,7 @@ This is not a manifesto. It’s a statement of our core and shared ethos in the 
   * We make space for the whole person. Here, you are more than your job, your field, your role. The Scholars’ Lab is open to avocations and quirks, hobbies and passions. We aim to be [family-friendly](http://virginia2012.thatcamp.org/02/29/a-kid-friendly-thatcamp/) and humane.
 
  	
-  * Tacit knowledge: it’s a thing. We work to provide space, time, and guidance for acquiring understandings that come best from _doing alongside thinking_. But we also try to help people articulate and share their knowledge, and to bridge the communications gaps that are inherent in praxis-based fields.
+  * Tacit knowledge: it’s a thing. We work to provide space, time, and guidance for acquiring understandings that come best from *doing alongside thinking*. But we also try to help people articulate and share their knowledge, and to bridge the communications gaps that are inherent in praxis-based fields.
 
 
 
