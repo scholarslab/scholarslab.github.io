@@ -1,0 +1,56 @@
+- title: Measured Unrest in the Poetry of the Black Arts Movement
+  years: 2017-2018
+  student: Ethan Reed
+  type: Graduate Fellow
+  url: 
+  image_path: 
+  description: The project hopes to offer a proof-of-concept for performing sentiment analysis on some of the most politically and affectively charged poetry of the 20th century, that of the Black Arts Movement of the 1960s and 70s.  
+  posts: ["measured-unrest-in-the-poetry-of-the-black-arts-movement","first-steps-with-nlp-and-a-collection-of-amiri-barakas-poetry","transcription-is-complicated","poems-with-pattern-and-vader-part-1-quincy-troupe","poems-with-pattern-and-vader-part-2-nikki-giovanni","teaching-black-arts-poetry-and-computational-methods"]
+- title: Archaeology of the 19th-Century Bras d'Eau, Mauritius
+  years: 2017-2018
+  student: Julia Haines
+  type: Graduate Fellow
+  url: 
+  image_path: 
+  description: Julia's dissertation research investigates the ruins of a 19th century sugar estate, the material culture excavated from the laborers’ village on the plantation, and colonial archival records inside Bras d’Eau National park, Mauritius. During her DH fellowship, she focused on reworking the data she had collected, including maps of archaeological ruins, sketches from excavations and of artifacts collected, and extensive artifact catalogues. Recreating the material world through digital mediums such as ArcGIS, Adobe Illustrator and 3D printing allowed her to better understand how the daily activities of indentured women, men, and children shaped the cultural and environmental landscape in colonial Mauritius and fit more broadly in Indian Ocean World networks.
+  posts: []
+- title: 
+  years: 2016-2017
+  student: Shane Lin
+  type: Graduate Fellow
+  url: 
+  image_path: 
+  description: 
+  posts: [] 
+- title: Mapping Borges in the Argentine Publishing Industry
+  years: 2016-2017
+  student: Nora Benedict
+  type: Graduate Fellow
+  url: https://norabenedict.github.io/borges
+  image_path: 
+  description: This mapping and data visualization project traces the role of publishers and printers in Jorge Luis Borges’s Argentina (1930-1951) and provides a digital archive of records of the physical features of books from this moment and time in history. This project has two distinct elements. The first is an interactive map of the locations of Borges's publisher, printers, booksellers, and places of employment from 1930 to 1951. The second part of the project is a descriptive bibliography, or a description of the physical elements of the books that Borges wrote, prologued, translated, or edited during the 1930s and 1940s. 
+  posts: ["if-you-want-to-master-something-teach-it-digital-humanities-and-the-aha-moment"] 
+- title: The Age of Lead
+  years: 2016-2017
+  student: Leif Frederickson
+  type: Graduate Fellow
+  url: 
+  image_path: 
+  description: The Age of Lead examines the relationship between metropolitan development and lead poisoning in Baltimore from the late-nineteenth century to the late-twentieth century. In particular, I trace how concerns about environmental health in the city fostered the desire for suburban living, but how suburbanization deepened and even caused disparities in lead hazards between the suburbs and the inner city. His dissertation won the 2017 Council of Graduate Schools/ProQuest Distinguished Dissertation Award in the Humanities and Fine Arts, and we helped him process and visualize his map data. 
+  posts: [] 
+- title: 
+  years: 2015-2016
+  student: Veronica Ikeshoji-Orlati
+  type: Graduate Fellow
+  url: 
+  image_path: 
+  description: 
+  posts: [] 
+- title: Reading Silent Woolf
+  years: 2015-2016
+  student: Brandon Walsh
+  type: Graduate Fellow
+  url: 
+  image_path: 
+  description: Python project that uses natural language processing and machine learning to perform distant readings of Virginia Woolf’s use of quotation marks. The study aims to chart Woolf’s use of moments that imply speech even when no punctuation is present. 
+  posts: [hearing-silent-woolf,"virginia-woolf-natural-language-processing-and-the-quotation-mark","reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark"]

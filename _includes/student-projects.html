@@ -1,0 +1,25 @@
+We work with students on a regular basis. Below you can find the more substantial projects that we have supported, typically those of our graduate fellows.
+
+{% assign projects = (site.data.student-projects | sort: 'date') %}
+{% assign site_posts = site.posts %}
+{% for project in projects %}
+{% if project.title %}
+### {{ project.title }}
+{% else %}
+### {{ project.student }}'s Project
+{% endif %}
+* Author: {{ project.student }}
+* Type: {{ project.type }}
+* Dates: {{ project.years }}
+* Description: {{ project.description }} {% if project.url %} More info at the <a href="{{ project.url }}">project website</a>.{% endif %}
+{% if project.posts != empty %}
+* Related Posts
+  {% for post_slug in project.posts %}
+    {% for post in site_posts %}
+      {% if post_slug == post.slug %}
+  * <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endif %}
+{% endfor %}

@@ -56,3 +56,6 @@ One of our primary missions is to support the work of emerging scholars and digi
 No deadline or formal call! Delivered on an ongoing, by-request basis.
 
 Check out [our offerings](http://scholarslab.org/professional-development/), [drop us a line](mailto:scholarslab@virginia.edu), and let us know how we can help.
+
+## Student Projects
+{% include student-projects.html %}
