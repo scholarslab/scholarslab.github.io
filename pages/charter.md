@@ -106,7 +106,7 @@ This is not a manifesto. It’s a statement of our core and shared ethos in the 
   * We believe that acting and speaking with integrity builds a network of trust and respect, and that such a network is vital to our work. We aspire always to do the thing we've said we'll do, to say "yes" only to collaborations and projects in which we believe we can fully participate, and to be transparent in our communication with each other and with our research partners.
 
 
-**By honoring this charter, **we hope to remain conscious of our role as a point of connection between the Library and its larger publics, conscious of the inherent privilege of doing this work, and conscious of what the Scholars’ Lab stands for (and has the potential to stand for) among its peers and in broader communities.
+**By honoring this charter,** we hope to remain conscious of our role as a point of connection between the Library and its larger publics, conscious of the inherent privilege of doing this work, and conscious of what the Scholars’ Lab stands for (and has the potential to stand for) among its peers and in broader communities.
 
 We invite our partners and collaborators to sign on.
 
