@@ -9,12 +9,32 @@ There are **two big steps** to authoring/editing on our website:
 ## Add new content
 
 ### Add a new page
+make new page where
+YAML
+commit message
+check your work on github repo page (not as it will look on live site)
+move to step 2
 
 ### Add a new blog post
+make new post where
+YAML
+		author: firstname-lastname
+		date: YYYY-MM-DD HH:MM:SS+0:00
+		layout: post
+		slug: title-words-go-here
+		title: 'title'
+		categories: [always blank]
+commit message
+check your work on github repo page (not as it will look on live site)
+move to step 2
 
 ## Edit existing content
 
 ### Embedding media (photos, GIFs, videos...)
+Waiting on Ammon/Jeremy deciding where we'll store media.
+- formatting of link  
+- location to upload image  
+- how to upload to the server  
 
 # 2. Move your writing to the main repo!
 
