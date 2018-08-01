@@ -38,14 +38,6 @@
   image_path: 
   description: The Age of Lead examines the relationship between metropolitan development and lead poisoning in Baltimore from the late-nineteenth century to the late-twentieth century. In particular, I trace how concerns about environmental health in the city fostered the desire for suburban living, but how suburbanization deepened and even caused disparities in lead hazards between the suburbs and the inner city. His dissertation won the 2017 Council of Graduate Schools/ProQuest Distinguished Dissertation Award in the Humanities and Fine Arts, and we helped him process and visualize his map data. 
   posts: [] 
-- title: 
-  years: 2015-2016
-  student: Veronica Ikeshoji-Orlati
-  type: Graduate Fellow
-  url: 
-  image_path: 
-  description: 
-  posts: [] 
 - title: Reading Silent Woolf
   years: 2015-2016
   student: Brandon Walsh
@@ -54,3 +46,59 @@
   image_path: 
   description: Python project that uses natural language processing and machine learning to perform distant readings of Virginia Woolf’s use of quotation marks. The study aims to chart Woolf’s use of moments that imply speech even when no punctuation is present. 
   posts: [hearing-silent-woolf,"virginia-woolf-natural-language-processing-and-the-quotation-mark","reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark"]
+- title: Songs of the Victorians & Augmented Notes
+  years: 2012-2013
+  student: Joanna Swafford
+  type: Graduate Fellow
+  url: http://www.songsofthevictorians.com/
+  image_path: 
+  description: Songs of the Victorians is an archive of parlor and art song settings of Victorian poems, and also a scholarly tool to facilitate interdisciplinary music and poetry scholarship. Augmented Notes is a website where users upload scores, audio files, and measure information to produce websites like Songs of the Victorians, thus enabling scholars to pursue their own interdisciplinary projects.
+  posts: ["announcing-my-blog-songs-of-the-victorians-and-augmented-notes", "scholars-lab-talk-archive-page-and-future-plans-songs-of-the-victorians-and-augmented-notes"]
+- title: Community Listening in Isle Royale National Park
+  years: 2012-2013
+  student: Erik Deluca
+  type: Graduate Fellow
+  url: 
+  image_path: 
+  description: "Community Listening in Isle Royale National Park traces how I became part of a dialogue among a team of wolf biologists and a community of park-explorers who share a unique deep listening relationship. The scientists involved in this project are the primary investigators in the five-decade long wolf/moose project, the longest continuous wildlife study in the world. The primary way these researchers determine clues of wolf reproduction is to listen for the sounds of group howling during the summer months when excitement at den sites erupts during pup feeding time. The ethnographic composition weaves together several different types of sound data collected during fieldwork: soundscape recordings of the place, interviews with the wolf/moose researchers, interviews with park visitors and employees, audio diaries, an audio essay derived from field notes, and archival recordings."
+  posts: ["on-community-listening-1", "on-community-listening-2", "on-community-listening-3", "on-community-listening-4"]
+- title: Prism
+  years: 2011-2013
+  student: Alex Gil, Brooke Lestock, Lindsay O'Connor, Sarah Storti, Annie Swafford, Ed Triplett; Shane Lin, Claire Maiers, Cecilia Márquez, Gwen Nally, Chris Peck, Brandon Walsh
+  type: Praxis Program
+  url: http://prism.scholarslab.org/
+  image_path: 
+  description: "Prism is a tool for collaborative interpretation of texts. Imagined as the digital instantiation of a vaporware game that was played in the Scholars' Lab and SpecLab, the site allows users to upload documents for a group to interpret along various interpretive axes. The tool has seen significant use in K-12 classrooms."
+  posts:
+- title: Ivanhoe
+  years: 2013-2015
+  student: Scott Bailey, Elizabeth Fox, Veronica Ikeshoji-Orlati, Stephanie Kingsley, Zachary Stone, Francesca Tripodi; Amy Boyd, Swati Chawla, Andrew Ferguson, Joris Gjata, Jennifer Grayburn, Steven Lewis
+  type: Praxis Program
+  url: http://ivanhoe.scholarslab.org/
+  image_path: 
+  description: "Expanding on an old SpecLab activity, Ivanhoe offers a space to create gaming environments for collaborative interpretation. Built as a WordPress theme, the tool asks users to contibute a text, adopt different roles, and then collectively reinvent that document by writing alternative narratives. Think of it as collaborative fan fiction meets exegesis - by playing out the roles of characters in new ways, Ivanhoe asks users to make interventions." 
+  posts: 
+- title: ClockWork
+  years: 2015-2016
+  student: James Ascher, Bremen Donovan, Ethan Reed, Gillet Rosenblith, Rachel Devorah, Lydia Warren
+  type: Praxis Program
+  url: http://clockwork.scholarslab.org/
+  image_path: 
+  description: "This year's cohort was asked simply to think about time in some way, and the result is ClockWork, an experiment in how temporal data might be turned into sonic artifacts, or sonified. The site offers several different sonifications of its own, serves as a platform for teaching sonification to others, and focuses on the programming language SuperCollider." 
+  posts: 
+- title: Dash-Amerikan
+  years: 2016-2017
+  student: Jordan Buysse, Alicia Caticha, Alyssa Collins, Justin Greenlee, Sarah McEleney, Joseph Thompson
+  type: Praxis Program
+  url: http://dashamerikan.scholarslab.org/
+  image_path: 
+  description: "Like the previous cohort, this year's group took the concept of time as their provocation, but they took it in a wildly different direction. Reflecting broadly on how the Kardashian family pervades our present moment, Dash-Amerikan uses variety of digital humanities methodologies to interrogate their social media ecologies. Assembling and topic modeling a vast archive of twitter data and episode transcripts, the cohort produced a lengthy digital essay that sits at the intersections of media studies, digital humanities, and public humanities." 
+  posts: 
+- title: "UVA Reveal: Augmenting the University"
+  years: 2017-2018
+  student: Monica Blair, Ankita Chakrabarti, Victoria Clark, Tanner Greene, Christian Howard, Spyros Simotas
+  type: Praxis Program
+  url: http://reveal.scholarslab.org/
+  image_path: 
+  description: "UVA Reveal: Augmenting the University, uses Unity and augmented reality (AR) applications to layer 3D models and other media on images that will enable the viewer to experience the virtual layering of time upon objects. More specifically, Augmenting the University integrates documents from UVA’s special collections library with physical spaces around grounds. Ultimately, we hope to use AR to allow users to experience these limited-access spaces and objects in new ways that prompt critical reflection on the structure, culture, mission, and history of the university."
+  posts: 

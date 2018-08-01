@@ -58,4 +58,7 @@ No deadline or formal call! Delivered on an ongoing, by-request basis.
 Check out [our offerings](http://scholarslab.org/professional-development/), [drop us a line](mailto:scholarslab@virginia.edu), and let us know how we can help.
 
 ## Student Projects
+
+We work with students on a regular basis. Below you can find the more substantial projects that we have supported, typically those of our graduate fellows.
+
 {% include student-projects.html %}
