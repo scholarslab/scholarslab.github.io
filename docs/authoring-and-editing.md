@@ -2,7 +2,7 @@ This tutorial covers authoring and editing new pages and posts in detail. You ca
 
 There are **two big steps** to authoring/editing on our website:
 1. Create a new "branch" and do your authoring/editing there—[instructions on Step 1]
-2. Move that work back to the main repo (aka master branch) so it shows up on [maybe.scholarslab.org](http://maybe.scholarslab.org)—[instructions on Step 2]
+2. Move that work back to the main repo (aka master branch) so it shows up on [maybe.scholarslab.org](http://maybe.scholarslab.org)—[instructions on Step 2]  
 *3rd step, coming soon!* on how to move this work from the development site to the production (public) site.
 
 # 1. Do your writing!
