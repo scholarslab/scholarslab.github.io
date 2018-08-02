@@ -10,6 +10,7 @@ There are **two big steps** to authoring/editing on our website:
 
 ### Add a new page
 make new page where
+workflow for sharing publicly (Twitter, newsletter, UVA Library SLab channel)
 YAML
 commit message
 check your work on github repo page (not as it will look on live site)
@@ -17,13 +18,15 @@ move to step 2
 
 ### Add a new blog post
 make new post where
+scheduling? (when should it be published?)
+workflow for sharing publicly (Twitter, newsletter, UVA Library SLab channel)
 YAML
-		author: firstname-lastname
-		date: YYYY-MM-DD HH:MM:SS+0:00
-		layout: post
-		slug: title-words-go-here
-		title: 'title'
-		categories: [always blank]
+	author: firstname-lastname
+	date: YYYY-MM-DD HH:MM:SS+0:00
+	layout: post
+	slug: title-words-go-here
+	title: 'title'
+	categories: [always blank]
 commit message
 check your work on github repo page (not as it will look on live site)
 move to step 2
