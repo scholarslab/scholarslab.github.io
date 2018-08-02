@@ -59,6 +59,6 @@ Check out [our offerings](http://scholarslab.org/professional-development/), [dr
 
 ## Student Projects
 
-We work with students on a regular basis. Below you can find the more substantial projects that we have supported, typically those of our graduate fellows.
+We work with students on a regular basis. Below you can find the more substantial projects that we have supported, typically those of our graduate fellows. Get in touch if you were a past student involved with the Scholars' Lab and don't see your project listed! We are happy to add your work. 
 
 {% include student-projects.html %}

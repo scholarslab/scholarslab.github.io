@@ -1,19 +1,26 @@
 {% assign projects = (site.data.student-projects | sort: 'years' | reverse) %}
 {% assign site_posts = site.posts %}
 {% for project in projects %}
-{% if project.title %}
+  {% if project.title %}
 ### {{ project.title }}
-{% else %}
+  {% else %}
 ### {{ project.student }}'s Project
-{% endif %}
+  {% endif %}
 * Student(s): {{ project.student }}
 * Type: {{ project.type }}
 * Dates: {{ project.years }}
 * Description: {{ project.description }} {% if project.url %} More info at the <a href="{{ project.url }}">project website</a>.{% endif %}
-{% if project.title in ['Prism', 'Ivanhoe', 'ClockWork', 'Dash-Amerikan', 'UVA-Reveal'] %}
-## TO DO - PULL OUT THE POSTS FOR PARTICULAR TAGS
-{% project.posts | where: 'tag' %}
+
+{% if project.title == 'Prism' or project.title == 'Ivanhoe' or project.title == 'ClockWork' or project.title == 'Dash-Amerikan' or project.title == 'UVA-Reveal' %}
+
+{% assign project_posts = site_posts | where: 'tags', project.title %}
+{% if project_posts != empty %}
+* Recent Related Posts
+  {% for post in project_posts limit:5 %}
+  * <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  {% endfor %}
 {% endif %}
+{% else %} 
 {% if project.posts != empty %}
 * Related Posts
   {% for post_slug in project.posts %}
@@ -23,5 +30,6 @@
       {% endif %}
     {% endfor %}
   {% endfor %}
+{% endif %}
 {% endif %}
 {% endfor %}

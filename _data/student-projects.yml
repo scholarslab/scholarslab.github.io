@@ -12,7 +12,7 @@
   type: Graduate Fellow
   url: 
   image_path: 
-  description: Julia's dissertation research investigates the ruins of a 19th century sugar estate, the material culture excavated from the laborers’ village on the plantation, and colonial archival records inside Bras d’Eau National park, Mauritius. During her DH fellowship, she focused on reworking the data she had collected, including maps of archaeological ruins, sketches from excavations and of artifacts collected, and extensive artifact catalogues. Recreating the material world through digital mediums such as ArcGIS, Adobe Illustrator and 3D printing allowed her to better understand how the daily activities of indentured women, men, and children shaped the cultural and environmental landscape in colonial Mauritius and fit more broadly in Indian Ocean World networks.
+  description: "Julia's dissertation research investigates the ruins of a 19th century sugar estate, the material culture excavated from the laborers’ village on the plantation, and colonial archival records inside Bras d’Eau National park, Mauritius. During her DH fellowship, she focused on reworking the data she had collected, including maps of archaeological ruins, sketches from excavations and of artifacts collected, and extensive artifact catalogues. Recreating the material world through digital mediums such as ArcGIS, Adobe Illustrator and 3D printing allowed her to better understand how the daily activities of indentured women, men, and children shaped the cultural and environmental landscape in colonial Mauritius and fit more broadly in Indian Ocean World networks."
   posts: []
 - title: 
   years: 2016-2017
@@ -20,7 +20,7 @@
   type: Graduate Fellow
   url: 
   image_path: 
-  description: 
+  description: "In support of his dissertation on the interconnected development of civilian encryption technology and digital privacy rights, Shane's fellowship project analyzes Usenet conversations about cryptography and privacy between 1981 and 2000. Usenet was an early digital communications network, a key precursor to Web discussion forums and later online communities and social networks. In its heyday, it offered a genuinely vast sampling of public, potentially pseudonymous discussion organized neatly into hierarchies of \"newsgroups\" as diverse as alt.sex, rec.drugs, and alt.rock-n-roll. Over the course of his Digital Humanities Fellowship, Shane has written a set of software tools to scrape and process the raw data from select newsgroups, discover adjacent groups and key figures of influence, and map the flow of ideas and networks of interaction across domains and time."
   posts: [] 
 - title: Mapping Borges in the Argentine Publishing Industry
   years: 2016-2017
