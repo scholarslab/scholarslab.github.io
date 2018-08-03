@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pedagogy # was 'Student Opportunities' -> no 'Pedagogy' page exists yet
-permalink: /student-opportunities/
+title: For Students # was 'Student Opportunities' -> no 'Pedagogy' page exists yet
+permalink: /for-students/
 nav: true
 order: 5
 # slug: graduate-fellowships-and-opportunities
