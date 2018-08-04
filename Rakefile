@@ -78,7 +78,7 @@ end
 desc "Make a new event"
 task :new_event, [:title] do |t, args|
   title_slug = args.title.downcase.gsub(' ', '-')
-  fn = '_events/' + title_slug + '.md'
+  fn = 'collections/_events/' + title_slug + '.md'
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end  
   titlecase_title = args.title.titlecase
   current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
@@ -106,7 +106,7 @@ end
 desc "Make a new person"
 task :new_person, [:first_name, :last_name] do |t, args|
   slug = args.first_name.downcase.split.join('-') + '-' + args.last_name.downcase.split.join('-')
-  fn = '_people/' + slug + '.md'
+  fn = 'collections/_people/' + slug + '.md'
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end  
   File.open(fn, 'w'){|f|
     f.puts("---")
@@ -135,7 +135,7 @@ task :new_post, [:title, :author] do |t, args|
   author_slug = args.author.downcase.gsub(' ', '-')
   title_slug = args.title.downcase.gsub(' ', '-')
   date = Date.today.to_s
-  fn = '_posts/' + date + '-' + title_slug + '.md'
+  fn = 'collections/_posts/' + date + '-' + title_slug + '.md'
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
   current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
   File.open(fn, 'w'){|f|
@@ -173,7 +173,7 @@ task :delete_corpus do
 end
 
 desc "Create corpus for search"
-file './corpus.json' => ['./', *Rake::FileList['./*.md','_posts/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
+file './corpus.json' => ['./', *Rake::FileList['./*.md','collections/_posts/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
     progressbar = ProgressBar.create(
                     :title => "creating corpus",
                     :format => "\e[0;35m%t: |%B|\e[0m",
