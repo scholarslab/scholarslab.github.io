@@ -5,7 +5,7 @@ collaborators:
     role: Design Architect
 current: false
 link: http://takeback.scholarslab.org/
-layout: research
+layout: work
 slug: takeback
 title: Take Back The Archive
 thumb-img: takeback-thumb.png

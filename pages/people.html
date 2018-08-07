@@ -3,10 +3,6 @@ layout: default
 title: People
 permalink: /people/
 nav: true
-time-required: ~3.5hrs
-notes:
-- Content: generated from `_people`
-- Style: grid gallery started
 ---
 
 <!-- people categories: staff, students, & alumni -->
@@ -33,7 +29,7 @@ notes:
       <div class="people-staff__gallery">
         <!-- gallery item: -->
         {% for person in staff %}
-        {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
+        {% assign work_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
         <div class="people-item-wrapper">
           <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
             <div class="people-item__img">
