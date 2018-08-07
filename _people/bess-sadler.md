@@ -5,7 +5,7 @@ first_name: Bess
 last_name: Sadler
 layout: people
 name: Bess Sadler
-position:
+position: 'R&D Librarian'
 short_bio: ''
 slug: bess-sadler
 status: not_current

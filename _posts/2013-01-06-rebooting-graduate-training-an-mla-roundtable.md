@@ -56,7 +56,7 @@ Trends among the nearly 800 responses we received to the main survey reveal a st
 
 [![Rebooting Grad Ed_COPY.004](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_COPY.004.jpg)](http://katinarogers.com/?attachment_id=907)
 
-As may be expected, a large majority of students enter graduate school expecting to pursue careers as professors—a total of 74%. What is perhaps more interesting is their level of confidence: of that 74%, 80% report feeling fairly certain or completely certain that this was the career they would pursue. Keep in mind that the survey respondents are **all** working outside the tenure track.
+As may be expected, a large majority of students enter graduate school expecting to pursue careers as professors&mdash;a total of 74%. What is perhaps more interesting is their level of confidence: of that 74%, 80% report feeling fairly certain or completely certain that this was the career they would pursue. Keep in mind that the survey respondents are **all** working outside the tenure track.
 
 These expectations are not at all aligned with the current realities of the academic job market, as we know, and the urgency of finding a remedy to the lack of transparency is compounded by the rising amounts of student debt that burden so many graduates.
 
@@ -64,7 +64,7 @@ Deepening the problem, students report receiving little or no preparation for ca
 
 [![Rebooting Grad Ed_COPY.005](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_COPY.005.jpg)](http://katinarogers.com/?attachment_id=908)
 
-Only 18% reported feeling satisfied or very satisfied with the preparation they received for alternative academic careers. The responses are rooted in perception, so there may be resources available that students are not taking advantage of—but whatever the reason, they do not feel that they are being adequately prepared. Again, this probably comes as no surprise, but it does reveal that we have significant room for improvement. 
+Only 18% reported feeling satisfied or very satisfied with the preparation they received for alternative academic careers. The responses are rooted in perception, so there may be resources available that students are not taking advantage of&mdash;but whatever the reason, they do not feel that they are being adequately prepared. Again, this probably comes as no surprise, but it does reveal that we have significant room for improvement. 
 
 To give you a small taste of perspectives on the other side of the employment equation, here are some of the kinds of things employers indicate they would like to see:
 
@@ -86,7 +86,7 @@ One thing seems clear: the persistent myth that there’s nothing but a single a
 
 [![Rebooting Grad Ed_008](http://katinarogers.com/wp-content/uploads/2013/01/Rebooting-Grad-Ed_008.jpg)](http://katinarogers.com/?attachment_id=916)
 
-However, as long as norms are reinforced within departments—by faculty and students both—it will be difficult for any change to be effective. 
+However, as long as norms are reinforced within departments&mdash;by faculty and students both&mdash;it will be difficult for any change to be effective. 
 
 Low tenure-track employment rates are not a new problem, but as the survey responses show, departments by and large are not succeeding at providing accurate and realistic information to their students. 
 

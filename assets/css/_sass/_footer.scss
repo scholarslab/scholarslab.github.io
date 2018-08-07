@@ -21,10 +21,10 @@
 /* Main styles: */
 
 .footer-wrapper {
-//	margin-top: 2rem;
 	padding: 1.5rem 4.167%;
 	padding-top: 1rem;
-	background-color: rgba(0,0,0,1);
+	background-color: $navgray;
+	isolation: isolate;
 	@media screen and (min-width: 900px) {
 		padding: 1.5rem 8.33%;
 		padding-top: 1rem;
@@ -68,7 +68,7 @@
 			text-transform: uppercase;
 			text-align: center;
 			line-height: 1;
-			color: magenta !important;
+			color: $medskyblue !important;
 			border-bottom: 1px solid white;
 		} 
 	}
@@ -109,7 +109,7 @@
 			display: block;
 			width: 2px;
 			height: 100%;
-			background-color: white;
+			background-color: hsla(186, 80%, 80%, .5);
 		}
 	}
 }
@@ -138,7 +138,7 @@
 	a {
 		display: inline-block;
 		&:first-of-type {
-			color: magenta;
+			color: $medskyblue;
 		}
 	}
 	@media screen and (max-width: 767px) {
@@ -266,31 +266,50 @@
 	position: relative;
 	display: flex;
 	justify-content: center;
-	align-items: flex-start;
-	margin-top: 2rem;
+	align-items: center;
+	margin-top: 3rem;
 	a {
 		display: inline-block;
-		&:first-of-type {
-			margin-right: 2em;
+		margin-right: 2rem;
+		&:last-of-type {
+			margin-right: 0rem;
 		}
-	}
-	span {
-		margin-top: 1rem;
-		font-size: .5rem;
-		font-style: italic;
-		display: none;
 	}
 }
 
 .footer-logo__slab {
-	img {
-		height: 3rem;
+	.flexnav-icon__text {
+		position: relative;
+		svg {
+			height: 2rem;
+			path {
+				fill: hsla(186, 80%, 80%, .5);
+				transition: fill .3s ease-out;
+			}
+			&:hover, &:focus {
+				path {
+					fill: white !important;
+				}
+			}
+		}
 	}
 }
 
-.footer-logo__uva {
-	margin-top: 1em;
+
+.footer-logo__uva, .footer-logo__license {
 	img {
 		height: 2rem;
+		opacity: .7;
+		transition: opacity .3s ease-out;
+		&:hover, &:focus {
+			opacity: 1;
+		}
+	}
+}
+
+.footer-logo__license {
+	position: relative;
+	img {
+		height: 15px;
 	}
 }

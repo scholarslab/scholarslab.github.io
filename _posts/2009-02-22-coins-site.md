@@ -20,4 +20,4 @@ A recent post by [Ethan Gruber](/people/ethan-gruber/), a UVA Library staff memb
 
 
 
-Photo credit: Dan Addison.  Read the full UVA Today press release [here](http://www.virginia.edu/uvatoday/newsRelease.php?id=7810), or jump straight to the [coins collection](http://coins.lib.virginia.edu/).
+Photo credit: Dan Addison.  Read the full UVA Today [press release](http://www.virginia.edu/uvatoday/newsRelease.php?id=7810), or jump straight to the [coins collection](http://coins.lib.virginia.edu/).

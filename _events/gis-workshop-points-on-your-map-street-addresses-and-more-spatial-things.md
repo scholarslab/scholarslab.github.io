@@ -9,7 +9,7 @@ rsvp: '0'
 slug: gis-workshop-points-on-your-map-street-addresses-and-more-spatial-things
 start_date: '2014-09-18'
 start_time: '14:00:00'
-title: 'GIS Workshop: Points on Your Map—Street Addresses and More Spatial Things'
+title: 'GIS Workshop: Points on Your Map&mdash;Street Addresses and More Spatial Things'
 location: Alderman Library, Room 423
 ---
 

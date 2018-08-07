@@ -103,7 +103,7 @@ We built the database within the framework of the [#alt-academy](http://mediacom
 
 We were pleased with the initial turnout, and found that people were engaging more deeply than expected. It’s worth noting that even though the database has been open for a much longer period of time than the survey was (and it [remains open to new entries](http://altacademy.wufoo.com/forms/who-we-are/) now), far fewer people participated in the public space than in the confidential survey space. To me, this suggests that there is still a sense of discomfort -- and even shame -- about having pursued a job outside the traditional pipeline.
 
-Once we launched the surveys themselves, we used this public group as an initial body of potential respondents. Because we were working with an unknown population, our subsequent distribution focused on “opt-in” strategies—social media, word of mouth, listervs, and traditional media coverage. While this method has definite weaknesses, we hoped to learn something not only from the content of the responses, but from the number and type of respondents.
+Once we launched the surveys themselves, we used this public group as an initial body of potential respondents. Because we were working with an unknown population, our subsequent distribution focused on “opt-in” strategies&mdash;social media, word of mouth, listervs, and traditional media coverage. While this method has definite weaknesses, we hoped to learn something not only from the content of the responses, but from the number and type of respondents.
 
 One reason this study was important because even though the topic is deeply connected with other persistent issues in higher education, there were significant gaps in the data available from previous studies. 
 

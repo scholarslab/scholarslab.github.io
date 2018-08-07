@@ -51,8 +51,8 @@
 		display: block;
 		height: 4px;
 		width: 100vw;
-		background-color: rgba(255,255,255,.9); // hsla(186,80%,70%, 1); // magenta;
-//		background-image: linear-gradient(to right, magenta 0%, magenta 4.167%, black 4.167%, black 8.33%, magenta 8.33%, magenta 12.5%, black 12.5%, black 16.67%, magenta 16.67%, magenta 25%, black 25%, black 27.5%, magenta 27.5%, magenta 33.33%, black 33.33%, black 41.33%, magenta 41.33%, magenta 100%);
+		background-color: rgba(255,255,255,.9); // hsla(186,80%,70%, 1); // $brightgrape;
+//		background-image: linear-gradient(to right, $brightgrape 0%, $brightgrape 4.167%, black 4.167%, black 8.33%, $brightgrape 8.33%, $brightgrape 12.5%, black 12.5%, black 16.67%, $brightgrape 16.67%, $brightgrape 25%, black 25%, black 27.5%, $brightgrape 27.5%, $brightgrape 33.33%, black 33.33%, black 41.33%, $brightgrape 41.33%, $brightgrape 100%);
 	}
 	@media screen and (min-width: 768px) {
 		align-self: end;
@@ -126,7 +126,7 @@
 	transform: rotate(45deg);
 	div {
 		align-self: start;
-		background-color: magenta;
+		background-color: $brightgrape;
 	//	margin: 1em;
 		width: 100%;
 		&:nth-of-type(1) {
@@ -260,7 +260,7 @@
 //	overflow: hidden;
 	transform: rotate(-30deg);
 	div {	
-		background-color: magenta;
+		background-color: $brightgrape;
 		width: 128px; // 100%;
 		height: 4px;
 		&:nth-of-type(1) {
@@ -359,6 +359,7 @@
 						 "workshop"
 						 "show";
 	padding: 0 4.167%;
+	color: $textgray;
 	@media screen and (min-width: 600px) {
 		padding: 0 8.33%;
 	} // back to 4% b/t 768 & 1200, + set max width
@@ -383,7 +384,7 @@
 	position: relative;
 	width: calc(100% + 3rem);
 	padding: 0 1.5rem;
-	border: 2px solid magenta;
+	border: 2px solid $brightgrape;
 	&::before {
 		content: '';
 		position: absolute;
@@ -392,8 +393,8 @@
 		display: block;
 		height: 3em;
 		width: 1.5em;
-		border-right: 2px solid magenta;
-		border-left: 2px solid magenta;
+		border-right: 2px solid $brightgrape;
+		border-left: 2px solid $brightgrape;
 		transform: translate(50%, -50%) skew(-45deg, 0);
 	}
 	@media screen and (min-width: 768px) {
@@ -532,6 +533,11 @@
 .spatial__inventory {
 	grid-area: invent;
 	position: relative;
+	.maker-inventory__list {
+		a {
+			font: inherit !important;
+		}
+	}
 }
 
 .spatial-inventory__title {

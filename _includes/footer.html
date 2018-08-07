@@ -52,10 +52,15 @@
     </div>
 
     <div class="footer__logos">
-      <a href="{{ site.url }}" class="footer-logo__slab" aria-label="Scholars' Lab home"><img src="{{ '/assets/img/svg/slab-logo-color-white.svg' | relative_url }}" alt="SLab logo"></a>
-      <span>proudly part of</span>
-      <a href="https://www.library.virginia.edu/" class="footer-logo__uva" aria-label="UVA Library home"><img src="{{ '/assets/img/svg/uva-library-text-block-white.svg' | relative_url }}" alt="UVA Library logo"></a>
-      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+      <a class="footer-logo__slab" href="{{ site.url }}" aria-label="Scholars' Lab home">
+        {% include nav-logo.html %}
+      </a>
+      <a class="footer-logo__uva" href="https://www.library.virginia.edu/" aria-label="UVA Library home">
+        <img src="{{ '/assets/img/svg/uva-library-text-block-white.svg' | relative_url }}" alt="UVA Library logo">
+      </a>
+      <a class="footer-logo__license" rel="license" href="http://creativecommons.org/licenses/by/4.0/" aria-label="Creative Commons License">
+        <img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg"/>
+      </a>
     </div>
 
   </div>

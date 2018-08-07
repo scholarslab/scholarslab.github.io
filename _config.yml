@@ -36,6 +36,7 @@ exclude:
   - node_modules
   - theme-testing
 #  - _posts # temporary! significantly reduces build time for theme testing
+#  - _people # temporary
   - assets/python # helper scripts to manipulate HTML/CSS, not used in build
 
 collections:
@@ -48,6 +49,7 @@ collections:
   events:
     output: true
     permalink: /:collection/:name/
+  spaces: # output false
 
 header_pages:
   - about.md
@@ -65,3 +67,15 @@ defaults:
       path: "pages"
     values:
       order: 10
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      is_post: true
+      og_type: "article"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      is_page: true
+      og_type: "website"

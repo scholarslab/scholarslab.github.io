@@ -2,6 +2,7 @@
 layout: default
 title: Events
 permalink: /events/
+excerpt: "Current and past events hosted, sponsored, or partnered on by the Scholars' Lab."
 nav: true
 order: 4
 status: prototype done
@@ -23,7 +24,7 @@ notes:
 		<div class="events-gallery">
 			{% assign events = site.events | sort: 'start_date' %}
 			<!-- event layout: -->
-			{% for event in events %}
+			{% for event in events reversed %}
 			<section class="events-gallery__item">
 				<div class="events-item__date">
 					<div>{{ event.start_date | date: "%b" }}<br/>{{ event.start_date | date: "%-d" }}</div>
@@ -45,7 +46,7 @@ notes:
 					{% assign end_time = end_time | slice: 1, 6 %}
 				{% endif %}
 				<div class="events-item__logistics">
-					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%B %-d, %Y" }}, {{ start_time }}-{{ end_time }}</div>
+					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%A, %B %-d, %Y" }}, {{ start_time }}-{{ end_time }}</div>
 					<div class="events-logistics__place"><span>Where: </span>{{ event.location }}</div>
 				</div>
 				<div class="events-item__cta">

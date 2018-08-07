@@ -1,20 +1,40 @@
 /* Homepage, Version 2 */
 
 html, body {
-	background-color: white;
+	background-color: white; // blend modes need this to work
 }
 /* ## Universal styles: */
 
 [class*="home-"][class*="__title"] {
+	position: relative;
 	font-size: 2em;
-	font-weight: bold;
+	text-transform: uppercase;
+	font-weight: 900;
+	line-height: 1;
+	margin-bottom: .5em;
+	margin-top: 1em;
+	color: $navgray;
+	a {
+		font-weight: 900;
+		color: $navgray;
+		border-bottom: initial !important;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 2em;
+	}
 }
 
 [class*="home__"] {
 	position: relative;
 	margin: 1em;
 	padding: 1em;
-	border: 1px solid black;
+}
+
+[class*="home-"][class*="__text"],
+[class*="home-"][class*="__content"]{
+	p:first-of-type {
+		margin-top: 0 !important; // no margin collapse if in flexboxes
+	}
 }
 
 /* ## Main styles: */
@@ -48,7 +68,7 @@ html, body {
 	height: 100vh;
 	width: 100%;
 	align-items: center;
-	font-size: 2em;
+	font-size: 2.25em;
 	font-weight: 900;
 	line-height: 1;
 	text-transform: uppercase;
@@ -70,15 +90,36 @@ html, body {
 	span {
 		display: inline-block;
 	}
+	@media screen and (min-width: 350px) {
+		font-size: 2.5em;
+	}
 	@media screen and (min-width: 600px) {
 		font-size: 3em;
 	}
 	@media screen and (min-width: 768px) {
+		font-size: 3.5em;
+	}
+	@media screen and (min-width: 1024px) {
 		font-size: 4em;
-	//	padding-left: 2.25rem;
 	}
 	@media screen and (min-width: 1400px) {
 		font-size: 5em;
+	}
+}
+
+/* Size Breakpoints: */
+
+.show-if-big--css {
+	display: none !important;
+	@media screen and (min-width: 600px) {
+		display: inline-block !important;
+	}
+}
+
+.show-if-small--css {
+	display: inline-block !important;
+	@media screen and (min-width: 600px) {
+		display: none !important;
 	}
 }
 
@@ -109,6 +150,9 @@ html, body {
 		font-weight: 900;
 		line-height: 1;
 		text-transform: uppercase;
+		color: $navgray;
+		padding-bottom: 4px;
+		border-bottom: 2px solid $medskyblue;
 	}
 	p:first-of-type {
 		margin-top: .5em;
@@ -118,6 +162,12 @@ html, body {
 		line-height: 1.2;
 		h3 {
 			font-size: 2.25rem;
+		}
+	}
+	@media screen and (min-width: 1200px) {
+		h3 {
+			font-size: calc(18px * 2.25);
+			margin-bottom: .5em;
 		}
 	}
 }
@@ -138,7 +188,8 @@ html, body {
 .home-main-content {
 	position: relative;
 	display: grid;
-	grid-template-areas: "faq"
+	grid-template-areas: "lib"
+						 "faq"
 						 "contact"
 						 "find"
 						 "events"
@@ -151,13 +202,27 @@ html, body {
 	color: $textgray;
 	@media screen and (min-width: 1024px) {
 		grid-template-columns: 1fr 1fr;
-		grid-template-areas: "faq faq"
+		grid-template-areas: "faq lib"
 							 "contact contact"
-							 "events find"
-							 "events hours"
+							 "find events"
+							 "hours events"
 							 "students students"
 							 "spatial maker";
 	}
+}
+
+/* Library: */
+
+.home__library {
+	grid-area: lib;
+}
+
+.home-lib__title {
+
+}
+
+.home-lib__content {
+
 }
 
 /* FAQ: */
@@ -206,27 +271,44 @@ html, body {
 
 .home__contact {
 	grid-area: contact;
+	border: 4px solid $medskyblue;
 }
 
 .home-contact__title {
-
+	margin-top: .5em !important;
 }
 
 .home-contact__wrapper {
 	position: relative;
 	display: flex;
 	flex-flow: column nowrap;
+	align-items: center;
 	@media screen and (min-width: 600px) {
 		flex-flow: row nowrap;
 	}
 }
 
 .home-contact__content {
-
+//	align-self: start;
+	padding: 0 2.5em 0 0;
+	p {
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+	}
 }
 
-.home-contact__newsletter {
+/* Newsletter: */
 
+.home-contact__newsletter {
+	form {
+		h2 {
+			line-height: 1;
+		}
+		input {
+			font-family: "Raleway", sans-serif;
+		}
+	}
 }
 
 .home-news__text {
@@ -257,6 +339,11 @@ html, body {
 
 .home__find-us {
 	grid-area: find;
+	@media screen and (min-width: 768px) {
+		padding-left: 0 !important;
+		margin-left: 0 !important;
+	}
+	
 }
 
 .home-find__title {
@@ -267,13 +354,50 @@ html, body {
 	position: relative;
 	display: flex;
 	flex-flow: column nowrap;
+	ul {
+		list-style-type: none;
+		padding-left: 0;
+		padding-right: 2em;
+		margin: 0;
+		li {
+		//	display: inline-block;
+			line-height: 1.2;
+			margin-bottom: .5em;
+			padding: .5em;
+			border: 1px solid $textgray;
+			span {
+				font-weight: bold;
+			}
+		}
+	}
 	@media screen and (min-width: 600px) {
-		flex-flow: row nowrap;
+		flex-flow: row-reverse nowrap;
 	}
 }
 
 .home-find__diagram {
+	position: relative;
+	svg {
+		position: absolute;
+		top: 0;
+		left: 0;
+		[class*="fill__"] {
+			opacity: .05;
+			-webkit-transition: opacity .3s;
+			transition: opacity .3s;
+			&:hover, &:focus {
+				opacity: .7;
+			}
+		}
+	}
+}
 
+.highlight-text--js {
+	color: red;
+}
+
+.highlight-svg--js {
+	opacity: .7 !important;
 }
 
 /* Events: */
@@ -290,12 +414,18 @@ html, body {
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: center;
-	div {
-		height: 200px;
+	justify-content: flex-start;
+	div:not(.events-item__cta) {
 		width: 100%;
-		background-color: rgba(0,0,0,.15);
-		border: rgba(0,0,0,.5);
+		border: 1px solid $textgray !important;
 		margin-top: 1em;
+		padding: .5em 1em;
+		span {
+			font-weight: bold;
+		}
+		&:first-of-type {
+			margin-top: 0;
+		}
 	}
 }
 

@@ -1,13 +1,103 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-  <div class="post-content">
-    {{ content }}
-  </div>
+<article class="event-wrapper">
+	<div class="event-main-content" aria-label="Main content">
 
-</article>
+		<div class="event__big-title">
+			<span aria-label="page type">Events //</span>
+			<div>{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</div>
+		</div>
+
+		<!-- NB: !!! this only exists until we restructure the YAML !!! -->
+		<!-- remove trailing seconds zeros on time -->
+		{% assign start_time = page.start_time | date: "%r" | remove: ":00 " %}
+		{% assign end_time = page.end_time | date: "%r" | remove: ":00 " %}
+		<!-- check for leading zero -->
+		{% assign zerocheck1 = start_time | slice: 0 %}
+		{% assign zerocheck2 = end_time | slice: 0 %}
+		<!-- remove if present -->
+		{% if zerocheck1 == '0' %}
+			{% assign start_time = start_time | slice: 1, 6 %}
+		{% endif %}
+		{% if zerocheck2 == '0' %}
+			{% assign end_time = end_time | slice: 1, 6 %}
+		{% endif %}
+
+		<div class="event__stats">
+			<div class="event-stats__title">Event Info</div>
+			<div class="event-stats__box">
+				{% if page.start_date %}
+				<span>Date:</span>{{ page.start_date | date: "%A, %m/%-d/%Y" }}<br/>
+				{% endif %}
+				{% if page.start_time and page.end_time  %}
+				<span>Time:</span>{{ start_time }}-{{ end_time }}<br/>
+				{% endif %}
+				<!--span>Length:</span>1hr<br/-->
+				{% if page.location %}
+				<span>Place:</span>{{ page.location }}<br/>
+				{% endif %}
+				<span>Type:</span> Workshop
+			</div>
+		</div> <!-- end stats -->
+
+		<div class="event__description">
+			<div class="event-describe__title">About</div>
+			<div class="event-describe__text">
+			{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
+				{{ content }}
+			{% else %}
+				<p>No description has been added at this time.</p>
+			{% endunless %}
+			</div>
+		</div>
+
+		<div class="event__calendar">
+			<div class="event-cal__btn">
+				<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGxyZnE4aHIycmY1Z3FqcTBsa2tjbm5hbTYga2JkM2F4QHZpcmdpbmlhLmVkdQ&amp;tmsrc=kbd3ax%40virginia.edu" aria-label="Link to add to Google calendar">
+					{% include calendar-icon.html %}
+					<span>Add to Calendar</span>
+				</a>
+			</div>
+		</div>
+
+		<div class="event__notes">
+			<div class="event-notes__title">Notes</div>
+			<div class="page--borrowed-style">
+			<ul class="event-notes__content">
+				<li><span>Prior knowledge required?</span><br/> Nope! Open to all, especially beginners. <!--code>page.codereqs | default: Nope! No prior knowledge is assumed&amp;beginners definitely encouraged.</code--><br/></li>
+				{% if page.supplies %}
+				<li><span>Supplies to bring:</span> [insert supplies]</li> <!--code> page.supplies | default: Nope! Come as you are.</code></li-->
+				{% endif %}
+				<!-- NB: I know the wording on this isn't strictly true; figured would leave to content people to edit it -->
+				<li><span>Who can come?</span><br/>This event is free to attend and are open to the UVa and larger Charlottesville community.</li>
+
+				<!-- NB: !!! again, compensating until restructure data !!! -->
+				{% assign hosts = site.people | where_exp: "person", "person.slug == page.author" %}
+				<li class="event-notes__questions"><span>Questions?</span><br/>Contact
+				{% for host in hosts %} {{ host.name }} ({{ host.email }}),{% endfor %} HostName Two (email@virginia.edu), or HostName3 Lastnamez (emailz@virginia.edu).</li>
+
+				<!-- any custom notes someone's added: -->
+				{% if page.notes and page.notes.size >= 1 %}
+				<li>
+					<h3>Notes:</h3>
+					<ul>
+					{% for note in page.notes %}
+						<li>{{ note }}</li>
+					{% endfor %}
+					</ul>
+				</li>
+				{% endif %}
+			</ul> <!-- end notes content -->
+			</div>
+		</div> <!-- end notes -->
+
+		<div class="event__questions">
+			<p class="event-questions__text">Questions? Contact
+				{% for host in hosts %} {{ host.name }} ({{ host.email }}),{% endfor %} HostName Two (email@virginia.edu), or HostName3 Lastnamez (emailz@virginia.edu).
+			</p>
+		</div>
+
+	</div> <!-- end main content -->
+</article> <!-- end wrapper -->

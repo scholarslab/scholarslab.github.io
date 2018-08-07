@@ -24,7 +24,7 @@ In Praxis, we just finished covering [Git](http://git-scm.com/). Everyone seemed
 
 
 
-This meant that—although the project we were working on was a web page—everyone copied-and-pasted the exact same content for every page and commit. I [posted](https://raw.github.com/erochest/git-play/edd6619718f815203653cfd927ac11ffbac6f0ed/index.html) [links](https://raw.github.com/erochest/git-play/36ee68cb09a29d73f570fce0a6346d1dd67f60a1/index.html) to [raw](https://raw.github.com/erochest/git-play/f317f0b2cebf4f17381b7a8d493399eafb75183f/index.html) [HTML](https://raw.github.com/erochest/git-play/82d683e38908a6bc1ddcc66b068c76235c649965/index.html) [pages](https://raw.github.com/erochest/git-play/cbd3827be861f9fe6e6d1de48ef425fb09cc347b/index.html) that everyone could copy into their text editors. We then examined the changes and committed them in Git.
+This meant that&mdash;although the project we were working on was a web page&mdash;everyone copied-and-pasted the exact same content for every page and commit. I [posted](https://raw.github.com/erochest/git-play/edd6619718f815203653cfd927ac11ffbac6f0ed/index.html) [links](https://raw.github.com/erochest/git-play/36ee68cb09a29d73f570fce0a6346d1dd67f60a1/index.html) to [raw](https://raw.github.com/erochest/git-play/f317f0b2cebf4f17381b7a8d493399eafb75183f/index.html) [HTML](https://raw.github.com/erochest/git-play/82d683e38908a6bc1ddcc66b068c76235c649965/index.html) [pages](https://raw.github.com/erochest/git-play/cbd3827be861f9fe6e6d1de48ef425fb09cc347b/index.html) that everyone could copy into their text editors. We then examined the changes and committed them in Git.
 
 
 

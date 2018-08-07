@@ -28,7 +28,7 @@ Some past presentations have included:
 * Introduction to text analysis through a hands-on exercise on topic modeling for an intro to DH course
 * Lecture on the history of technology in fashion and hands-on sewing workshop for a seminar on Fashion in Global History, drawing on grad student’s own research in wearable technology
 * Design jams for helping students scope, shape, and develop their own course projects
-Participants are encouraged to cross post to both the Scholars' Lab and WLUDH blogs after participating to document their work. You can find past posts [here](http://digitalhumanities.wlu.edu/blog/category/uva-collaboration/).
+Participants are encouraged to cross post to both the Scholars' Lab and WLUDH blogs after participating to document their work. Here are [past posts by participants](http://digitalhumanities.wlu.edu/blog/category/uva-collaboration/).
 
 Matches between W&L faculty and interested graduate students at UVA are made on a rolling basis. For more information, contact:
 

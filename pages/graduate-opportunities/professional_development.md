@@ -31,6 +31,6 @@ It can be difficult to know what to expect in a job interview for positions like
 
 ### Job Talks
 
-Alt-ac and DH positions sometimes require job talks, but they are slightly different from typical academic talks. We've posted a couple of our own job talks [here](/2017/02/28/disrupt-the-humanities-managing-director-job-talk/) and [here](/2017/03/06/in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-head-of-graduate-programs/) for you to see what the genre looks like. We're also happy to offer assistance crafting or practicing your DH job talk.
+Alt-ac and DH positions sometimes require job talks, but they are slightly different from typical academic talks. We've posted our [job talk for Managing Director](/2017/02/28/disrupt-the-humanities-managing-director-job-talk/) and [job talk for Head of Graduate Programs](/2017/03/06/in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-head-of-graduate-programs/) for you to see what the genre looks like. We're also happy to offer assistance crafting or practicing your DH job talk.
 
 If you’re interested in any of the above, please get in touch with [Brandon Walsh](mailto:bmw9t@virginia.edu), our Head of Graduate Programs, to discuss options (subject to availability). We’re happy to help, and introducing yourself is usually the first step. Need something else? Get in touch and we'll see what we can do.

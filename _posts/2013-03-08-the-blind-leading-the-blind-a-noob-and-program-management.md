@@ -13,7 +13,7 @@ tags:
 
 A better title for this post would be “The Blind leading the Slightly-less-blind.”  I thought it a little too wordy for a title, but it really does accurately express my experience of project management during these first few weeks of actually working on Prism.
 
-Figuring out how to manage a project when I know little of how that project will actually be completed has been daunting.  While most of our team has found a little niche for themselves---some area where they are more adept than the rest—I have found myself staring at the existing Prism code with that terrified-deer-in-the-headlights look.  This has left me uncertain of whether or not I can actually make decisions about the work plan for the rest of the semester.
+Figuring out how to manage a project when I know little of how that project will actually be completed has been daunting.  While most of our team has found a little niche for themselves---some area where they are more adept than the rest&mdash;I have found myself staring at the existing Prism code with that terrified-deer-in-the-headlights look.  This has left me uncertain of whether or not I can actually make decisions about the work plan for the rest of the semester.
 
 However, after several pep talks from both Bethany and Wayne and an incredibly beneficial tour of the Ruby code for Prism from Eric, I am starting to find my way.  I have a small sense of how our work will proceed this semester and how the larger pieces of the puzzle fit together.  I am hoping that as we move forward, this aspect of program management will get a bit easier.
 

@@ -7,7 +7,6 @@
 	display: grid; // 1 item: landing
 	grid-auto-rows: minmax(100vh, auto);
 	background-color: black;
-	background-image: linear-gradient(to bottom, black, black 100vh, white 100vh, white);
 }
 
 .research-landing-grid {
@@ -46,8 +45,7 @@
 		display: block;
 		height: 4px;
 		width: 100vw;
-		background-color: rgba(255,255,255,.9); // hsla(186,80%,70%, 1); // magenta;
-//		background-image: linear-gradient(to right, magenta 0%, magenta 4.167%, black 4.167%, black 8.33%, magenta 8.33%, magenta 12.5%, black 12.5%, black 16.67%, magenta 16.67%, magenta 25%, black 25%, black 27.5%, magenta 27.5%, magenta 33.33%, black 33.33%, black 41.33%, magenta 41.33%, magenta 100%);
+		background-color: rgba(255,255,255,.9);
 	}
 	@media screen and (min-width: 768px) {
 		align-self: end;
@@ -189,13 +187,9 @@
 	padding: 1em 0;
 	font-size: 1rem;
 	font-weight: 200;
-	background-image: linear-gradient(to bottom, black, rgba(0,0,0,.85));
+	background-image: linear-gradient(to bottom, black, $navgray);
 	@media screen and (min-width: 600px) {
 		font-size: 1.5rem;
-	}
-	@media screen and (min-width: 768px) {
-		font-size: 1.75rem;
-		line-height: 1.714; // 3rem
 	}
 }
 
@@ -209,7 +203,7 @@
 	margin: 0 4.167%;
 	font-family: "base-mono-narrow", monospace;
 	color: rgba(255,255,255,.9);
-	border: 2px solid rgba(255,255,255,.9);
+	border: 1px solid rgba(255,255,255,.9);
 	&::before {
 		content: '';
 		position: absolute;
@@ -218,8 +212,8 @@
 		display: block;
 		height: 3em;
 		width: 1.5em;
-		border-right: 2px solid white;
-		border-left: 2px solid white;
+		border-right: 1px solid white;
+		border-left: 1px solid white;
 		transform: translate(50%, -50%) skew(-45deg, 0);
 	}
 	p {
@@ -228,21 +222,30 @@
 		&:first-of-type {
 			padding-top: 2em;
 		}
+		a {
+			text-decoration: none;
+			color: inherit;
+			border-bottom: 2px solid hsla(186,80%,70%,1);
+			background-color: transparent;
+			-webkit-transition: background-color .3s;
+			transition: background-color .3s;
+			&:hover, &:focus {
+				background-color: hsla(186,80%,70%,1);
+			}
+		}
 	}
 }
 
-// end description
-
-/* ######################### Portfolio: ################### */
+/* Gallery: */
 
 .research-portfolio-wrapper {
 	position: relative;
 	width: 100%;
 }
 
-/* #! background color */
+// bg color set here
 .research-folio__background--black {
-	background-color: rgba(0,0,0,.85);
+	background-color: $navgray;
 	padding: 1rem 0;
 	@media screen and (min-width: 1024px) {
 		padding: 3rem; // 4.167%;
@@ -253,13 +256,13 @@
 	position: relative;
 }
 
-/* Menu Links */
+/* Menu Links: */
 
 .research-folio__context {
 	position: absolute;
 	right: 0;
 	top: 0;
-	display: none; /* #! hide during prototype */
+	display: none; /* hide during prototype */
 	color: white;
 	border: 1px solid blue;
 	transform: translate(100%, 100%) rotate(90deg);
@@ -271,7 +274,7 @@
 	}
 }
 
-/* Floating Navigation: */
+/* Nav & Buttons: */
 
 .research-folio__nav {
 	position: absolute;
@@ -282,7 +285,7 @@
 	align-items: center;
 	height: 3.5rem;
 	width: 100%;
-	padding: 0; // calc(calc(100% - 300px) / 4); // magic # w/ buttons
+	padding: 0;
 	z-index: 10;
 	@media screen and (min-width: 500px) {
 		bottom: 0;
@@ -291,13 +294,12 @@
 	}
 }
 
-/* Buttons: */
-
 [class*="research-nav__btn--"] {
 	padding: 0 .375em;
 	font-size: 2rem;
 	font-family: "base-mono-wide", sans-serif;
 	font-weight: 900;
+	color: black;
 	transform: translate(0, -1px);
 	cursor: pointer;
 	-webkit-transition: transform .2s;
@@ -363,12 +365,11 @@
 .research-tracker__remaining {
 	height: 4px;
 	width: 66.67%; // set w/ JS
-//	set a polyfill color
-	background-image: repeating-linear-gradient(-45deg, transparent, transparent 2px, black 2px, black 4px, transparent 4px);
+	background-color: white;
+	background-image: repeating-linear-gradient(-45deg, white, white 2px, black 2px, black 4px, white 4px);
 	opacity: .8;
 }
 
-/* End nav */
 // NB: snap polyfill -> https://css-tricks.com/introducing-css-scroll-snap-points/
 
 /* Gallery container: */
@@ -401,7 +402,7 @@
 
 /* Item track: */
 
-// #! item width set here
+// NB: item width set here
 .research-folio__gallery {
 	display: grid;
 	grid-template-columns: repeat(22, 300px);
@@ -415,40 +416,60 @@
 	}
 }
 
-/* Items: */
+/* Gallery Items: */
 
 .research-gallery__item {
 	position: relative;
 	display: flex;
 	flex-flow: column;
-	justify-content: center;
+	justify-content: flex-start;
 	align-items: center;
 	height: 100%;
-	border-left: 1px solid rgba(0,0,0,.3);;
-	// wraps all content:
+	padding-top: calc(3 * 1.5rem);
+	border-left: 1px solid rgba(0,0,0,.5);
+	&::before {
+		content: '';
+		position: absolute;
+		left: -1px;
+		top: 0;
+		display: block;
+		height: 0%;
+		width: 1px;
+		background-color: black;
+		opacity: .9;
+		-webkit-transition: height .5s;
+		transition: height .5s;
+	}
+	// wraps info:
 	a {
 		position: relative;
 		display: flex;
 		flex-flow: column nowrap;
 		justify-content: center;
 		align-items: start;
-		width: 83.33%;
+		width: 100%;
+		padding: 0 24px;
 		text-decoration: none;
 		color: black;
 		div {
 			line-height: 1;
 		}
 	}
-	@media screen and (min-width: 500px) and (max-height: 560px) {
-		padding-bottom: 3rem; // progress bar
-	}
 	@media screen and (min-width: 500px) {
-		a {
-			transition: transform .3s;
-			&:hover, &:focus {
+		&:hover, &:focus {
+			&::before {
+				height: 100%;
+			}
+			a {
+				transition: transform .3s;
 				.research-item__num {
-					-webkit-transform: translate(0, .5em);
-					transform: translate(0, .5em);
+					-webkit-transform: translate(0, .375em);
+					transform: translate(0, .375em);
+				}
+				.research-item__name {
+					&::before {
+						opacity: .9;
+					}
 				}
 				.research-item__pic {
 					div {
@@ -461,9 +482,12 @@
 			}
 		}
 	}
+	@media screen and (min-width: 500px) and (max-height: 560px) {
+		padding-bottom: 3rem; // eliminate overlap w/ prog bar at edge case size
+	}
 }
 
-/* Number: */
+/* Item Number: */
 
 .research-item__num {
 	position: relative;
@@ -476,14 +500,26 @@
 	}
 }
 
-/* Title: */
+/* Item Title: */
 
 .research-item__name {
 	position: relative;
-	min-height: 5.5em;
-	padding: 1em 0 .5em 0;
+	min-height: 5em;
+	padding: 1em 0;
 	font-size: 1.5rem;
 	color: rgba(0,0,0,.5);
+	&::before {
+		content: '';
+		position: absolute;
+		top: calc((1.5rem * .75) - 2px);
+		left: 0;
+		display: block;
+		width: 30px;
+		height: 1px;
+		background-color: black;
+		opacity: .5;
+		transition: opacity .3s;
+	}
 }
 
 /* Image: */
@@ -492,30 +528,21 @@
 	position: relative;
 	width: 100%;
 	height: 250px;
-	box-shadow: 0 0 2px 1px rgba(0, 0, 0, .05);
-/*	&::before {
-		content: '';
-		position: absolute;
-		top: 4px;
-		left: 4px;
-		display: block;
-		height: 100%;
-		width: 100%;
-		background-image: repeating-linear-gradient(-45deg, transparent, transparent 2px, black 2px, black 4px, transparent 4px);
-	//	opacity: .5;
-	} */
+	border-radius: 50%;
+	box-shadow: 0 0 1px 0 rgba(0,0,0,.3);
 	div {
 		position: absolute;
 		height: 100%;
 		width: 100%;
 		overflow: hidden;
+		border-radius: 50%;
 		img {
-			max-width: 100%;
+			max-height: 100%;
 			transition: transform .3s;
 		}
 	}
 	@media screen and (min-width: 500px) {
-		height: 200px;
+		height: 192px;
 	}
 }
 
@@ -523,7 +550,7 @@
 
 .research-item__yr {
 	position: relative;
-	margin-top: 1.5em;
+	margin-top: 1em;
 	font-family: "base-mono-narrow", monospace;
 	font-weight: 200;
 	color: rgba(0,0,0,.5);

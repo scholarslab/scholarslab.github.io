@@ -1,0 +1,275 @@
+/* Universal */
+
+// section titles
+[class*="__title"][class*="event-"] {
+	margin-bottom: .5em;
+	margin-top: 1em;
+	font-size: 1.25rem;
+	font-weight: 900;
+	line-height: 1;
+	text-transform: uppercase;
+	color: $navgray;
+	@media screen and (min-width: 1024px) {
+		font-size: 1.5rem;
+	}
+	@media screen and (min-width: 1200px) {
+		font-size: 1.75rem;
+	}
+}
+
+
+/* Main styles: */
+
+.event-wrapper {
+	padding: 0 4.167%;
+	padding-bottom: 3rem;
+	color: $textgray;
+	@media screen and (min-width: 600px) {
+		padding: 3rem 8.33%; // 3rem = 2 line heights
+	}
+	@media screen and (min-width: 768px) {
+		padding: 3rem 4.167%;
+	}
+	@media screen and (min-width: 1024px) {
+		padding: calc(3rem * 1.125) 8.33%;
+	}
+}
+
+.event-main-content {
+	position: relative;
+	display: grid;
+	grid-template-areas: "title"
+						 "stats"
+						 "describe"
+						 "cal"
+						 "notes";
+	@media screen and (min-width: 768px) {
+		grid-template-areas:
+							 "title cal"
+							 "describe stats"
+							 "describe notes"
+							 "describe .....";
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: repeat(4, auto) 1fr;
+	}
+	@media screen and (min-width: 1024px) {
+		grid-template-areas:
+							 "title cal"
+							 "title stats"
+							 "describe notes"
+							 "describe .....";
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+/* Title: */
+
+.event__big-title {
+	position: relative;
+	grid-area: title;
+	align-self: start;
+	font-size: 2rem;
+	font-weight: 900;
+	line-height: 1;
+	color: $navgray;
+	span {
+		display: block;
+		padding-bottom: 2px;
+		font-size: .5em;
+		font-family: "base-mono-wide";
+		text-transform: uppercase;
+		color: $brightgrape;
+	}
+	@media screen and (max-width: 767px) {
+		padding-top: .5em;
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 2.5rem;
+	}
+	@media screen and (min-width: 768px) and (max-width: 1023px) {
+		div {
+			width: 125%;
+			padding-bottom: .5em;
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 3rem;
+		span {
+			padding-bottom: .5em;
+		}
+	}
+	@media screen and (min-width: 1200px) {
+		padding-right: 4.167%;
+	}
+}
+
+/* Stats: */
+
+.event__stats {
+	grid-area: stats;
+	align-self: start;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%;
+	}
+	@media screen and (min-width: 1200px) {
+		margin-top: .75rem;
+	}
+}
+
+.event-stats__title {
+	margin-bottom: .25em !important;
+}
+
+.event-stats__box {
+	position: relative;
+	padding: .5em 1em;
+	font-family: "base-mono-narrow", monospace;
+	font-size: 1rem;
+	text-align: right;
+	color: black;
+	border: 4px solid $brightgrape;
+	span {
+		float: left;
+		color: $brightgrape;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 1.125rem;
+	}
+}
+
+/* Description: */
+
+.event__description {
+	grid-area: describe;
+	@media screen and (min-width: 768px) {
+		padding-right: 8.33%;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 18px;
+	}
+}
+
+.event-describe__title {
+
+}
+
+.event-describe__text {
+	p {
+		margin: 0 0 .5em 0;
+	}
+}
+
+/* Calendar: */
+
+.event__calendar {
+	position: relative;
+	grid-area: cal;
+	align-self: start;
+	@media screen and (min-width: 768px) and (max-width: 1023px) {
+		position: absolute;
+		top: 22px;
+		justify-self: end;
+	}
+	@media screen and (min-width: 1024px) {
+		padding-left: 8.33%;
+	//	top: -3px;
+	}
+}
+
+.event-cal__btn {
+	display: inline-block;
+	background-color: white;
+	border: 1px solid $textgray;
+	border-radius: 5px;
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,0);
+	transition: border .3s, box-shadow .3s;
+	&:hover, &:focus {
+		border: 1px solid $brightgrape;
+		box-shadow: 0 1px 1px 0 rgba(0,0,0,.15);
+	}
+	a {
+		position: relative;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: .5em calc(1.25rem - 1px); // border
+		text-decoration: none;
+		line-height: 1;
+		color: $textgray;
+		svg {
+			height: 1em;
+			padding-right: 1em;
+			rect {
+				fill: $brightgrape;
+			}
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 18px;
+		a {
+			padding: .5em calc(1.5rem - 1px); // border
+		}
+	}
+}
+
+/* Notes: */
+
+.event__notes {
+	position: relative;
+	grid-area: notes;
+	align-self: start;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%; // 4.167%;
+	}
+}
+
+.event-notes__title {
+	display: none;
+}
+
+// ul
+.event-notes__content {
+	padding-left: 0 !important;
+	list-style-type: none;
+	li {
+		padding-bottom: 1em;
+
+	}
+	span {
+		font-weight: bold;
+	}
+	@media screen and (min-width: 768px) and (max-width: 1023px) {
+		li:not(.event-notes__questions) {
+			display: none;
+		}
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 18px;
+		margin-top: 60px !important; // section title height
+	}
+	@media screen and (min-width: 1200px) {
+		margin-top: 70px !important; // section title height
+	}
+}
+
+/* Questions: */
+
+.event__questions {
+	position: relative;
+	display: none;
+	grid-area: questions;
+	align-self: start;
+	@media screen and (min-width: 768px) {
+		padding-left: 8.33%; // 4.167%;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 18px;
+	}
+}
+
+.event-questions__text {
+//	font-family: "base-mono-narrow", monospace;
+//	font-weight: 200;
+	line-height: 1.2;
+//	opacity: .5;
+}

@@ -10,7 +10,7 @@ categories:
 
 It’s been a (long) while since my inaugural post on my Data Science Fellowship project.  This post takes the form of a piece of advice for other soon-to-be data gathers, and it comes down to this: don’t put all your eggs in one basket.   
 
-It sounds cliché, and—in retrospect at least—extremely obvious.  But it is an important piece of advice nevertheless.  What I’m talking about is the way in which we secure data for research projects.  
+It sounds cliché, and&mdash;in retrospect at least&mdash;extremely obvious.  But it is an important piece of advice nevertheless.  What I’m talking about is the way in which we secure data for research projects.  
 
 Nick and I built our proposal around a single database.  Before submitting an official request for data, we talked with the folks that ran the database, we solicited advice from others who have worked with text as data, and we thought carefully about what we were requesting.  We knew the approximate timeline for receiving a data set, and we worked out a deadline that would allow us enough time to complete our analysis.  I felt that we were being thorough and doing the best we could to ensure quick delivery of our data.  Originally, the developers at the database told us to expect the data as much as a month in advance of that deadline.  That deadline has long come and gone.  Recently, we learned that due to some complexities of our request, they may not be able to deliver the data set before our fellowship concludes. 
  

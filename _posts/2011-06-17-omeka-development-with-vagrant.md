@@ -70,7 +70,7 @@ The first four lines tell Vagrant to set up the system using [Chef Solo](http://
 #### Set up Omeka
 
 
-Now we're ready to set up Omeka. By default, the system assumes that your Omeka code is in a subdirectory of your working directory and that it is named "omeka." (This — and many other things — are configurable, but that's beyond the scope of this post.)
+Now we're ready to set up Omeka. By default, the system assumes that your Omeka code is in a subdirectory of your working directory and that it is named "omeka." (This &mdash; and many other things &mdash; are configurable, but that's beyond the scope of this post.)
 
 These commands will download the latest version of Omeka (as of the time I'm writing this) and change permissions on the archive directory so the web server can write to it.
 

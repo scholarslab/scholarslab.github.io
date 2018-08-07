@@ -2,13 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+excerpt: "We're the UVA Library’s lab for experimental and digital research, teaching, and other forms of scholarship, open to all disciplines and anyone curious about getting their hands dirty."
 nav: true
 order: 1
-time-required: ~2hrs
-notes:
-- Content: unknown
-- Style: not started
-- NB: time estimate is for prototype, not any kind of fancy page.
 ---
 
 <a href="#what-is-the-scholars-lab">What is the Scholars' Lab?</a>  
@@ -35,9 +31,9 @@ We are an internationally recognized scholarly [team](/people), with strengths i
 - Makerspaces and hands-on crafting as scholarship
 - pedagogical innovation (e.g. our long-running Praxis Program)
 
-The SLab hosts [events](/events) (like workshops and a popular lecture series) in our [library spaces](/hours-and-spaces), and helps to train and mentor the next generation of digital humanities scholar-practitioners through our [Graduate Fellowships in Digital Humanities](/student-opportunities) and innovative [Praxis Program](http://praxis.scholarslab.org/). We are a founding member of [centerNet](http://digitalhumanities.org/centernet/), a worldwide alliance of digital humanities centers, and of the international [Praxis Network](http://praxis-network.org/), which takes its name from our fellowship program here at UVa.
+The SLab hosts [events](/events) (like workshops and a popular lecture series) in our [library spaces](/hours-and-spaces), and helps to train and mentor the next generation of digital humanities scholar-practitioners through our [Graduate Fellowships in Digital Humanities](/for-students) and innovative [Praxis Program](http://praxis.scholarslab.org/). We are a founding member of [centerNet](http://digitalhumanities.org/centernet/), a worldwide alliance of digital humanities centers, and of the international [Praxis Network](http://praxis-network.org/), which takes its name from our fellowship program here at UVa.
 
-We capture the Scholars' Lab's values and goals in our team-authored [charter].
+We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter).
 
 ## What academic fields do you support?
 Although we bring library and humanities skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field and regularly collaborate in almost every area on Grounds.
@@ -49,7 +45,7 @@ Check out our [people](/people) page for current staff, fellows, and alums.
 
 ## How can the Scholars' Lab fit into my work?
 1. **Consults**: As a <a href="http://lib.virginia.edu">Library</a> unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental and/or digital approaches to humanities and culture. During your consult, we can help you get started in DH, conceptualize a project, use some of our scholarly equipment (e.g. GIS software, humanities-focused Makerspace, 3D scanning/photogrammetry, VR/AR), and/or connect you to resources for self-teaching and networking at UVA and internationally.
-2. **Collaboration**: As scholars in the experimental and digital humanities, we also have (limited availability for more in-depth research or pedagogical collaborations with other UVA scholars:
+2. **Collaboration**: As scholars in the experimental and digital humanities, we also have (limited availability) for more in-depth research or pedagogical collaborations with other UVA scholars:
   - We enjoy building things _with_ people (e.g. as peer scholars and co-PIs on grant proposals), but we do not build things _for_ people. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties.
   - We do our best to help out folks stuck on a DH technical question during our regular Open Office Hours, and are happy to refer to expertise and facilities around the University (e.g. Data Sciences Institute, SHANTI, IATH).  In general we do not provide design, web development, or technical support.
   - Our team consists of folks with years of scholarly experience and/or graduate degrees. With at least a semester's notice we might collaborate on syllabus design, and after longer relationships collaborate on formal course co-teaching. 

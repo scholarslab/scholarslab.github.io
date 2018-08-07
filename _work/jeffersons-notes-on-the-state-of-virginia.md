@@ -12,7 +12,7 @@ current: false
 link: http://jefferson-notes.org/
 layout: work
 slug: jeffersons-notes-on-the-state-of-virginia
-title: Jefferson &#8217;s Notes on the State of Virginia
+title: Jefferson&#8217;s Notes on the State of Virginia
 thumb-img: jefferson-thumb.png
 banner-img: jefferson-banner.jpg
 research-category: Scholarly Collaborations

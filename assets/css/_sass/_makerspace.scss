@@ -125,7 +125,7 @@
 		width: 75%;
 		margin-bottom: 2rem;
 		background-color: black;
-		border: 3px solid magenta;
+		border: 3px solid $brightgrape;
 		&:nth-of-type(2) {
 			align-self: flex-end;
 		}
@@ -166,6 +166,9 @@
 							"invent invent"
 							"public diagram"
 							"question question";
+	}
+	@media screen and (min-width: 768px) {
+		font-size: 1.125rem;
 	}
 }
 

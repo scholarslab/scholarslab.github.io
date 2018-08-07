@@ -18,7 +18,7 @@ I was genuinely surprised and excited by the depth and breadth of the "monthlies
 
 **April and May, 2016:**
 
-**Consultations/Collaborations, Faculty and Students, Library Colleagues—indicating people/projects, not hours or frequency of repeat sessions**
+**Consultations/Collaborations, Faculty and Students, Library Colleagues&mdash;indicating people/projects, not hours or frequency of repeat sessions**
 
 
 

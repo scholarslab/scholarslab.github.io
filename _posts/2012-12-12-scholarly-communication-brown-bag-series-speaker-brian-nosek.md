@@ -14,7 +14,7 @@ categories:
 On November 29, 2012, [Dr. Brian Nosek](http://projectimplicit.net/nosek/), Associate Professor in the Department of Psychology at the University of Virginia, spoke at the Library's scholarly communication brown bag lunch on the changing landscape and future of scholarly communication in the sciences.
 
 Summary:
-How can existing scientific communication practices be improved to increase efficiency in the accumulation of knowledge, and improve the alignment between daily practices and the values of the academic community? Brian will outline some present and possible futures of scientific communication-- from relatively mundane to borderline nutball—and describe his vision for a new utopia for scholarly communication.
+How can existing scientific communication practices be improved to increase efficiency in the accumulation of knowledge, and improve the alignment between daily practices and the values of the academic community? Brian will outline some present and possible futures of scientific communication-- from relatively mundane to borderline nutball&mdash;and describe his vision for a new utopia for scholarly communication.
 
 Articles by the Speaker:
 Nosek, B. A., & Bar-Anan, Y. (2012). Scientific Utopia: I. Opening Scientific Communication. _Psychological Inquiry_, 23(3), 217–243.
