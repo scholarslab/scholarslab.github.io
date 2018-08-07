@@ -1,0 +1,8 @@
+{% assign posted_date = page.date | date: "%Y" | plus: 0 %}
+{% assign end_date = 2017 %}
+
+{% if posted_date < end_date %}
+
+<div ID="migration-alert">We migrated this website to a new platform, and are working to correct formatting errors in older blog posts as a result. If you encounter an error, please send an email to <a href="mailto:scholarslab@virginia.edu?subject=Found a blog formatting error">scholarslab@virgnia.edu</a>. Thanks!</div>
+
+{% endif %}
