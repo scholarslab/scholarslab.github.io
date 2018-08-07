@@ -6,5 +6,6 @@ Should house: style guides, process guides, notes to future selves.
 
 * [Writing & editing posts & pages](authoring-and-editing.md)
 * [Contributing visual styles](css-submission.md)
+* [Common Jekyll problems](common-jekyll-problems.md) Command line errors and how to solve them
 
 If there's something missing that you'd like to see here, please add it to our [Issues](https://github.com/scholarslab/scholarslab.org/issues) page.
