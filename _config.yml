@@ -9,6 +9,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://maybe.scholarslab.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scholarslab
 permalink: /:year/:month/:day/:title/
+pagination:
+  enabled: true
+  debug: true
+  title: ':title | Page :num'
+  sort_field: 'date'
+  sort_reverse: true
+  permalink: '/page/:num/'
 
 # Build settings
 analytics: false
@@ -20,6 +27,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate-v2
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -30,6 +38,7 @@ exclude:
 #  - _posts # temporary! significantly reduces build time for theme testing
 #  - _people # temporary
   - assets/python # helper scripts to manipulate HTML/CSS, not used in build
+
 collections:
   people:
     output: true
