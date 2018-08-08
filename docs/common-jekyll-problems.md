@@ -1,7 +1,7 @@
+*Please add problems you've run into here, even if you don't remember the solution!*
+
 1. Ruby version vs. Gemfile Ruby version
 `Your Ruby version is 2.0.0, but your Gemfile specified 2.4.1`
-
-
 
 2. Gem install bundler problems
 ```gem install bundler
