@@ -62,13 +62,97 @@ YAML, front matter, and metatdata =
 Dev(elopment) vs. production site =
 
 ## Markdown
-See [here] for a full cheatsheet of Markdown syntax, or here for a discussion of the how/why of markdown.
-Below are a few frequently used kinds of Markdown:
+[This full cheatsheet](https://daringfireball.net/projects/markdown/syntax) for Markdown syntax offers everything you might need, while John Gruber's own site offers a good [discussion of the how/why of markdown](https://daringfireball.net/projects/markdown/).
 
-- Links (remember to include https if not self-referential!)
-- Embed images
-- Bold
-- Italic
-- Bulleted lists
-- Numbered lists
-- Headings
+Below are a few frequently used kinds of Markdown that you're likely to encounter while working on the site:
+
+### Links 
+In markdown, a link consists of the text for the link within bracks and the actual web hyperlink itself within parentheses. Remember not to leave a space between the two pieces.
+
+\[Look a link!\](http://scholarslab.org)
+
+renders as
+
+[Look a link!](http://scholarslab.org)
+
+Remember to include http(s) if you're not linking to something internal to the Scholars' Lab website.
+
+### Embed images
+An image looks exactly like a link, except with an exclamation point at the front. The parentheses provide the path to your image, while the brackets denote the image's alt text. 
+
+!\[A good dog\](/assets/img/people/scholarslab.png)
+
+will render as 
+
+![A good dog](/assets/img/people/scholarslab.png)
+
+### Bold
+
+Bold can be added to your text with pairs of asterices on either side of the passage you want bold.
+
+\*\*Scholars' Lab is great\*\*
+
+Will render as
+
+**Scholars' Lab is great**
+
+### Italic
+
+You can italicize your text with an underscore on either side of the passage to be italicized.
+
+Have you seen that \_dog\_ though?
+
+Will render as
+
+Have you seen that _dog_ though?
+
+### Bulleted lists
+
+You can create an unordered list with a series of dashes or asterices, each on their own line and followed by a space.
+
+\- A dog is good.  
+\- You know what is better?  
+\- A list of dogs.  
+ 
+Renders as
+
+- A dog is good.
+- You know what is better?
+- A list of dogs.
+
+### Numbered lists
+
+Numbered lists work in a similar way to bulleted lists, but you'll begin each line with a number, a period, and a space. The numbers themselves actually don't matter - markdown will simply recognize that you're starting a numbered list and count for you.
+
+
+```
+1. Amanda
+2. Alison
+3. Jeremy
+2. Laura
+```
+
+Will render as 
+
+1. Amanda
+2. Alison
+3. Jeremy
+2. Laura
+
+### Headings
+
+To achieve different levels of bolded headings in a document, you make use of a varying number of hashtags followed by a space on a single line.
+
+\# Something very important
+
+\#\# Less important
+
+\#\#\# Who even cares about this?
+
+Will render as 
+
+# Something very important
+
+## Less important
+
+### Who even cares about this?
