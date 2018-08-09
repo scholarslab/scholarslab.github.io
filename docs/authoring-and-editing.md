@@ -2,6 +2,34 @@ This tutorial covers authoring and editing new pages and posts in detail. You ca
 
 There are **two big steps** to authoring/editing on our website:
 1. Create a new "branch" and do your authoring/editing there—[instructions on Step 1]
+
+First, you'll need to create a new branch to work on. You will want your branch to have a name descriptive of the work that you are doing on it. For example, this file was added on a branch called documentation Then we'll switch to that branch. You do so using the following commands (branch-name-here being substituted with the branch of your choice).
+
+
+	$ git branch branch-name-here
+	$ git checkout branch-name-here 
+
+In this case, we used the following commands:
+
+	$ git branch documentation
+	$ git checkout documentation
+
+Now you are on a git branch, a parrallel universe of sorts, where you can work without affecting the general state of the project. As you make changes to your work, you will save them in your text editor. But you'll also go a step further by recording these changes in git and sharing them on GitHub for all to see. 
+
+	** make some changes in your text editor and save them**
+	$ git add filename
+	$ git commit -m 'A helpful message'
+	$ git push
+
+This workflow - edit, add, commit, push - represents the vast majority of what you will need to do with git. git add prepares your files for being recorded in your project history, while git commit actually does the recording. When you make a git commit, it's useful to always provide a message describing what it is you are committing. That way, people looking at the log files can easily see at a glance who made what changes. Finally, git push takes your local commits and adds them to the public record on GitHub. When making this file, for example, we followed the following steps.
+
+	** Added some paragraphs of text using a text editor. **
+	$ git add authoring-and-editing.md
+	$ git commit -m 'Added instructions for using git'
+	$ git push
+
+**Maybe a note about when you git push for the first time? And maybe a note about git add .**
+
 2. Move that work back to the main repo (aka master branch) so it shows up on [maybe.scholarslab.org](http://maybe.scholarslab.org)—[instructions on Step 2]  
 *3rd step, coming soon!* on how to move this work from the development site to the production (public) site.
 
