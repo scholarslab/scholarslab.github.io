@@ -29,7 +29,7 @@ nav: true
       <div class="people-staff__gallery">
         <!-- gallery item: -->
         {% for person in staff %}
-        {% assign work_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
+        {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
         <div class="people-item-wrapper">
           <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
             <div class="people-item__img">
