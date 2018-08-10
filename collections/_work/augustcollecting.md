@@ -5,7 +5,7 @@ collaborators:
     role: Head of Research and Development
 current: true
 link: http://digitalcollecting.lib.virginia.edu/rally/
-layout: research
+layout: work
 slug: augustcollecting
 title: "Unite the Right" Rally and Community Response
 thumb-img: augustcollecting-thumb.png
