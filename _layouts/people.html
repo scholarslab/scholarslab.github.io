@@ -25,6 +25,7 @@ layout: default
 {% endif %}
 
 </div>
+{% if page.twitter != 'None' or page.website != 'None' or page.email != 'None' %}
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
@@ -40,7 +41,7 @@ layout: default
 				{% endif %}
 			</div>
 		</div>
-
+		{% endif %}
 		<div class="person__img">
 			{% if profile_pic == empty %}
 			    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
