@@ -16,6 +16,7 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
   permalink: '/page/:num/'
+  nav: false
 
 # Build settings
 analytics: false
