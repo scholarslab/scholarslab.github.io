@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Sara
+last_name: Castro
 layout: people
 name: Sara Castro
 position:
