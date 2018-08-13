@@ -22,7 +22,7 @@ analytics: false
 incremental: true
 sass:
   sass_dir: assets/css/_sass
-  style: expanded # temporary! change back to compressed later
+  style: compressed
 markdown: kramdown
 plugins:
   - jekyll-feed
