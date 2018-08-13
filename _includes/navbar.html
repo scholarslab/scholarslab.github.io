@@ -9,17 +9,21 @@
 		<ul class="flexnav-main-grid">
 		{% assign pages = site.pages | sort: 'order' %}
 		{% for page in pages %}
-		{% if page.layout != nil and page.nav == True %}
+		{% unless page.url contains "/page/" or page.nav == false %}
+		{% if page.layout != nil %}
 			<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
 		{% endif %}
+		{% endunless %}
 		{% endfor %}
 			<li class="flexnav__more-menu">
 				<div class="flexnav-more__prompt" aria-label="More menu items">More<span>&rsaquo;</span></div>
 				<ul class="flexnav-more__wrapper">
 				{% for page in pages %}
-				{% if page.layout != nil and page.nav == True %}
+				{% unless page.url contains "/page" or page.nav == false %}
+				{% if page.layout != nil %}
 					<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
 				{% endif %}
+				{% endunless %}
 				{% endfor %}
 				</ul>
 			</li>
