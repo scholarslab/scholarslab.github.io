@@ -19,9 +19,13 @@ layout: default
 		{{ page.position }}
 	{% endif %}
 {% elsif page.people-category contains "student" %}
+{% if page.roles.size == 1 %}
+{{ page.roles }}
+{% else %}
 	<ul>{% for role in page.roles %}
 		<li>{{ role }}</li>
 	{% endfor %}</ul>
+{% endif %}
 {% endif %}
 
 </div>
