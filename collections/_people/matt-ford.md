@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Matt
+last_name: Ford
 layout: people
 name: Matt Ford
 position:

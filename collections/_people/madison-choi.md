@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Madison
+last_name: Choi
 layout: people
 name: Madison Choi
 position:

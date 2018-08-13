@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Kaitlin
+last_name: Mitchell
 layout: people
 name: Kaitlin Mitchell
 position:

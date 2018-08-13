@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Victoria
+last_name: Juarez
 layout: people
 name: Victoria Juarez
 position:

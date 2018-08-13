@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Duy
+last_name: Nguyen
 layout: people
 name: Duy Nguyen
 position:

@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Christian
+last_name: Howard
 layout: people
 name: Christian Howard
 position:

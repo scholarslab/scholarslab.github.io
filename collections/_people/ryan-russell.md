@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Ryan
+last_name: Russell
 layout: people
 name: Ryan Russell
 position:

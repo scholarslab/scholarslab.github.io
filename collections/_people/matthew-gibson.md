@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Matthew
+last_name: Gibson
 layout: people
 name: Matthew Gibson
 position:
