@@ -1,16 +1,16 @@
 ---
-all_day: '0'
+all_day: No Content Found
 author: jeremy-boggs
-end_date: '2014-09-18'
-end_time: '15:00:00'
-layout: events
+end_date: No Content Found
+end_time: No Content Found
+excerpt: None
+layout: event
 published-date: 2014-08-25 10:27:42+00:00
-rsvp: '0'
+rsvp: No Content Found
 slug: gis-workshop-points-on-your-map-street-addresses-and-more-spatial-things
-start_date: '2014-09-18'
-start_time: '14:00:00'
-title: 'GIS Workshop: Points on Your Map&mdash;Street Addresses and More Spatial Things'
-location: Alderman Library, Room 423
+start_date: No Content Found
+start_time: No Content Found
+title: 'GIS Workshop: Points on Your Map—Street Addresses and More Spatial Things'
 ---
 
 Do you have a list of street addresses crying out to be mapped? Have a list of zip codes or census tracts you wish to associate with other data? We’ll start with addresses and other things spatial and end with points on a map, ready for visualization and analysis.

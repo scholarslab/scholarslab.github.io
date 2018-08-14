@@ -1,16 +1,16 @@
 ---
-all_day: '0'
+all_day: No Content Found
 author: jeremy-boggs
-end_date: '2014-10-02'
-end_time: '15:00:00'
-layout: events
+end_date: No Content Found
+end_time: No Content Found
+excerpt: None
+layout: event
 published-date: 2014-08-25 10:34:02+00:00
-rsvp: '0'
+rsvp: No Content Found
 slug: gis-workshop-taking-control-of-your-spatial-data-editing-in-arcgis
-start_date: '2014-10-02'
-start_time: '14:00:00'
+start_date: No Content Found
+start_time: No Content Found
 title: 'GIS Workshop: Taking Control of Your Spatial Data -- Editing in ArcGIS'
-location: Alderman Library, Room 423
 ---
 
 Until we perfect that magic “extract all those lines from this paper map” button we’re stuck using editor tools to get that job done. If you’re lucky, someone else has done the work to create your points, lines, and polygons but maybe they need your magic touch to make them better. This session shows you how to create and modify vector features in ArcMap, the world’s most popular geographic information systems software. We’ll explore tools to create new points, lines, and polygons and to edit existing datasets. At version 10, ArcMap’s editor was revamped introducing new templates, but we’ll keep calm and carry on.

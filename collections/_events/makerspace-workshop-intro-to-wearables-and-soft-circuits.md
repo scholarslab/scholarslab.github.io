@@ -1,16 +1,16 @@
 ---
-all_day: '0'
+all_day: No Content Found
 author: jeremy-boggs
-end_date: '2014-09-24'
-end_time: '12:00:00'
-layout: events
+end_date: No Content Found
+end_time: No Content Found
+excerpt: None
+layout: event
 published-date: 2014-08-25 10:29:08+00:00
-rsvp: '0'
+rsvp: No Content Found
 slug: makerspace-workshop-intro-to-wearables-and-soft-circuits
-start_date: '2014-09-24'
-start_time: '11:00:00'
+start_date: No Content Found
+start_time: No Content Found
 title: 'Makerspace Workshop: Intro to Wearables and Soft Circuits'
-location: 'Scholars&#8217; Lab Common Room'
 ---
 
 Curious about wearable computing but afraid to ask? Have ideas about how to make your life simpler with hacks for your outerwear or accessories?

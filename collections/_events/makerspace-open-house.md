@@ -1,0 +1,18 @@
+---
+all_day: No Content Found
+author: laura-miller
+end_date: No Content Found
+end_time: No Content Found
+excerpt: None
+layout: event
+published-date: 2017-09-15 16:30:19+00:00
+rsvp: No Content Found
+slug: makerspace-open-house
+start_date: No Content Found
+start_time: No Content Found
+title: Makerspace Open House
+event-categories:
+- Makerspace
+---
+
+Drop in anytime between 1:00 and 5:00 to explore the Scholars’ Lab Makerspace -- a place for tinkering and experimenting with technologies like desktop fabrication, physical computing, and augmented reality. Staff will be present to demonstrate 3D printing, electronics, and tactile computing, and to showcase projects and work from the Scholars’ Lab, Robertson Media Center, and others. This is a hands-on, kid-friendly event.
