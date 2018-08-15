@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-03-20'
+end_time: '10:30:00'
 layout: event
 published-date: 2018-03-12 18:51:13+00:00
-rsvp: No Content Found
+rsvp: null
 slug: visual-thinking-workshop-with-nick-sousanis
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-03-20'
+start_time: 09:00:00
 title: Visual Thinking Workshop with Nick Sousanis
 ---
 

@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-03-20'
+end_time: '18:00:00'
 layout: event
 published-date: 2017-03-14 12:41:38+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: dhuva-speaker-series-matt-kirschenbaum
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-03-20'
+start_time: '16:00:00'
 title: 'DH@UVA Speaker Series: Matt Kirschenbaum'
 ---
 

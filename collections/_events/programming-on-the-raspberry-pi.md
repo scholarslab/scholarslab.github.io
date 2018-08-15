@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: ammon-shepherd
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-04-26'
+end_time: '15:00:00'
 layout: event
 published-date: 2018-02-06 14:14:59+00:00
-rsvp: No Content Found
+rsvp: null
 slug: programming-on-the-raspberry-pi
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-04-26'
+start_time: '14:00:00'
 title: 'Makerspace Workshop: Programming Electronics with Python on the Raspberry
   Pi'
 ---

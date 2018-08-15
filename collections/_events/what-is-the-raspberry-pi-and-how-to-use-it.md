@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-03-15'
+end_time: '11:00:00'
 layout: event
 published-date: 2018-02-06 14:11:01+00:00
-rsvp: No Content Found
+rsvp: null
 slug: what-is-the-raspberry-pi-and-how-to-use-it
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-03-15'
+start_time: '10:00:00'
 title: 'Makerspace Workshop: What is the Raspberry Pi and How to Use It'
 ---
 

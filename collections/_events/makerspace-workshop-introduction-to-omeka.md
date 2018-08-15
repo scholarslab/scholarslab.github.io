@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: ronda-grizzle
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-09-23'
+end_time: '14:30:00'
 layout: event
 published-date: 2015-09-15 13:00:20+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: makerspace-workshop-introduction-to-omeka
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-09-23'
+start_time: '13:00:00'
 title: 'Makerspace Workshop: Introduction to Omeka'
 event-categories:
 - Makerspace

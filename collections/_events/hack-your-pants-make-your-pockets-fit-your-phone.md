@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: ammon-shepherd
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-03-20'
+end_time: '13:00:00'
 layout: event
 published-date: 2018-02-08 15:21:31+00:00
-rsvp: No Content Found
+rsvp: null
 slug: hack-your-pants-make-your-pockets-fit-your-phone
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-03-20'
+start_time: '12:00:00'
 title: 'Makerspace Workshop: Hack Your Pants - Make your Pockets Fit your Phone'
 event-categories:
 - Makerspace

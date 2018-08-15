@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2016-11-30'
+end_time: '13:30:00'
 layout: event
 published-date: 2016-11-28 16:50:50+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: work-in-progress-seminar-maria-skou-nicolaisen-on-current-trends-in-digital-literary-studies
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2016-11-30'
+start_time: '12:00:00'
 title: 'Work-in-Progress Seminar: Maria Skou Nicolaisen on Current Trends in Digital
   Literary Studies'
 ---

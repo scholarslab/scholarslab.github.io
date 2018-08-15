@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-04-02'
+end_time: '15:30:00'
 layout: event
 published-date: 2015-03-24 20:37:59+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: makerspace-workshop-fundamentals-of-digital-photography
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-04-02'
+start_time: '14:00:00'
 title: 'Makerspace Workshop: Fundamentals of Digital Photography'
 event-categories:
 - Makerspace

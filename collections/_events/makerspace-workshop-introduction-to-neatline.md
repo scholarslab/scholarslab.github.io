@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: ronda-grizzle
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-09-30'
+end_time: '14:30:00'
 layout: event
 published-date: 2015-09-15 13:01:51+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: makerspace-workshop-introduction-to-neatline
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-09-30'
+start_time: '13:00:00'
 title: 'Makerspace Workshop: Introduction to Neatline'
 event-categories:
 - Makerspace

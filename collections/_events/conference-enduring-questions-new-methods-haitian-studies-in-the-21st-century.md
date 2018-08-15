@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-04-13'
+end_time: '23:59:59'
 layout: event
 published-date: 2018-04-03 16:01:21+00:00
-rsvp: No Content Found
+rsvp: null
 slug: conference-enduring-questions-new-methods-haitian-studies-in-the-21st-century
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-04-12'
+start_time: 00:00:00
 title: 'Conference: Enduring Questions, New Methods: Haitian Studies in the 21st Century'
 ---
 

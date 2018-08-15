@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: ronda-grizzle
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-09-03'
+end_time: '16:00:00'
 layout: event
 published-date: 2015-08-31 15:21:25+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: uva-library-gis-workshop-making-your-first-map
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-09-03'
+start_time: '15:00:00'
 title: 'UVa Library GIS Workshop: Making Your First Map'
 event-categories:
 - Geospatial

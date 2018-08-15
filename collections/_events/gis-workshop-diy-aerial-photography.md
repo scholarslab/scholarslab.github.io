@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-03-18'
+end_time: '14:00:00'
 layout: event
 published-date: 2015-01-19 08:51:54+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: gis-workshop-diy-aerial-photography
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-03-18'
+start_time: '13:00:00'
 title: 'GIS Workshop: DIY Aerial Photography'
 event-categories:
 - Geospatial

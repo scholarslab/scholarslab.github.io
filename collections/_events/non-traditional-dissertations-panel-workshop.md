@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-03-20'
+end_time: '12:00:00'
 layout: event
 published-date: 2018-02-09 18:58:43+00:00
-rsvp: No Content Found
+rsvp: null
 slug: non-traditional-dissertations-panel-workshop
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-03-20'
+start_time: '10:30:00'
 title: 'Diss-entangling from the Monograph: A Non-traditional Dissertations Panel'
 ---
 

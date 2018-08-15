@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-11-15'
+end_time: '16:00:00'
 layout: event
 published-date: 2017-08-29 06:37:48+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: gis-day-2017
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-11-15'
+start_time: '13:00:00'
 title: GIS Day 2017 Celebration
 event-categories:
 - Geospatial

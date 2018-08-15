@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-02-15'
+end_time: '23:59:59'
 layout: event
 published-date: 2018-01-24 15:40:38+00:00
-rsvp: No Content Found
+rsvp: null
 slug: applications-due-for-praxis-and-prototyping-fellowships
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-02-15'
+start_time: 00:00:00
 title: Applications Due for Praxis and DH Prototyping Fellowships
 event-categories:
 - Graduate Fellowships

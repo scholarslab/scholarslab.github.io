@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: jeremy-boggs
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-10-16'
+end_time: '12:00:00'
 layout: event
 published-date: 2015-10-14 09:11:41+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: public-libraries-and-academic-libraries-digital-partners
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-10-16'
+start_time: '10:30:00'
 title: 'Public Libraries and Academic Libraries: Digital Partners?'
 ---
 

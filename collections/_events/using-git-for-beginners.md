@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-02-27'
+end_time: '14:00:00'
 layout: event
 published-date: 2018-02-06 14:09:03+00:00
-rsvp: No Content Found
+rsvp: null
 slug: using-git-for-beginners
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-02-27'
+start_time: '13:00:00'
 title: 'Workshop: Basics of Version Control with Git'
 ---
 

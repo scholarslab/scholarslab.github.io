@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2016-03-16'
+end_time: '16:00:00'
 layout: event
 published-date: 2016-02-17 17:43:54+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: arduino-and-raspberry-pi-meetup-2016-03-16
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2016-03-16'
+start_time: '15:00:00'
 title: Arduino and Raspberry Pi Meetup
 event-categories:
 - Makerspace

@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-11-02'
+end_time: '17:00:00'
 layout: event
 published-date: 2017-10-20 15:56:40+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: mapathon-for-puerto-rico-disaster-relief
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-11-02'
+start_time: '13:00:00'
 title: Mapathon for Puerto Rico Disaster Relief
 event-categories:
 - Geospatial

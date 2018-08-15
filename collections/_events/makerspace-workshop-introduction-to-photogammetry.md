@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: ammon-shepherd
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-10-21'
+end_time: '14:30:00'
 layout: event
 published-date: 2015-09-21 15:31:45+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: makerspace-workshop-introduction-to-photogammetry
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-10-21'
+start_time: '13:00:00'
 title: 'Makerspace Workshop: Introduction to Photogrammetry'
 event-categories:
 - Makerspace

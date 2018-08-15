@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-04-26'
+end_time: '13:00:00'
 layout: event
 published-date: 2018-03-13 16:50:09+00:00
-rsvp: No Content Found
+rsvp: null
 slug: metagaming-talk-workshop
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-04-26'
+start_time: '11:00:00'
 title: Metagaming Talk with Stephanie Boluk and Patrick LeMieux
 ---
 

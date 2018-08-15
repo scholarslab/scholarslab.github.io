@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: ronda-grizzle
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2016-09-21'
+end_time: '15:30:00'
 layout: event
 published-date: 2016-09-09 11:53:46+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: workshop-introduction-to-3d-printing
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2016-09-21'
+start_time: '14:00:00'
 title: 'Workshop: Introduction to 3D Printing'
 ---
 

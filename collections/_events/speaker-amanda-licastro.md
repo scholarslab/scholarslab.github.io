@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2016-04-29'
+end_time: '14:00:00'
 layout: event
 published-date: 2016-02-16 20:13:31+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: speaker-amanda-licastro
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2016-04-29'
+start_time: '14:00:00'
 title: 'Speaker: Amanda Licastro on Digital Publishing & the Future of Scholarly Communication'
 event-categories:
 - Scholarly Communication

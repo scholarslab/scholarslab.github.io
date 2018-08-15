@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-03-21'
+end_time: '21:00:00'
 layout: event
 published-date: 2015-03-16 13:36:18+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: moving-people-linking-lives-an-interdisciplinary-symposium
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-03-20'
+start_time: 09:00:00
 title: 'Moving People, Linking Lives: An Interdisciplinary Symposium'
 ---
 

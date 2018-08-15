@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: chris-gist
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2016-10-12'
+end_time: '16:00:00'
 layout: event
 published-date: 2016-08-26 10:23:37+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: gis-workshop-2
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2016-10-12'
+start_time: '15:00:00'
 title: GIS Workshop - Points on Your Map
 ---
 

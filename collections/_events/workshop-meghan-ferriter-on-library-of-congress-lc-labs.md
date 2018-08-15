@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-09-29'
+end_time: '15:00:00'
 layout: event
 published-date: 2017-09-27 18:00:14+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: workshop-meghan-ferriter-on-library-of-congress-lc-labs
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-09-29'
+start_time: '13:30:00'
 title: 'Workshop: Meghan Ferriter on Library of Congress'' LC Labs'
 ---
 

@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2016-02-24'
+end_time: '16:00:00'
 layout: event
 published-date: 2016-02-16 19:53:23+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: dh-panel-fair-use-and-the-future-of-digital-scholarship
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2016-02-24'
+start_time: '14:00:00'
 title: 'DH Panel: Fair Use and the Future of Digital Scholarship'
 event-categories:
 - Scholarly Communication

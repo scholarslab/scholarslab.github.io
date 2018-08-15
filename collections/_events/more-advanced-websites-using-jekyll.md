@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-03-26'
+end_time: '15:00:00'
 layout: event
 published-date: 2018-02-06 14:12:25+00:00
-rsvp: No Content Found
+rsvp: null
 slug: more-advanced-websites-using-jekyll
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-03-26'
+start_time: '14:00:00'
 title: 'Workshop: Using Jekyll to Create Websites'
 event-categories:
 - Makerspace

@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2016-04-08'
+end_time: '12:00:00'
 layout: event
 published-date: 2016-03-22 11:25:45+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: human-centered-design-workshop-paper-prototyping
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2016-04-08'
+start_time: '11:00:00'
 title: 'Human Centered Design Workshop: Paper Prototyping'
 ---
 

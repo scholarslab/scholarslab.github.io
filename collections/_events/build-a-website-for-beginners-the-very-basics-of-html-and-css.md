@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: ammon-shepherd
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-04-10'
+end_time: '13:00:00'
 layout: event
 published-date: 2018-02-06 14:13:43+00:00
-rsvp: No Content Found
+rsvp: null
 slug: build-a-website-for-beginners-the-very-basics-of-html-and-css
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-04-10'
+start_time: '12:00:00'
 title: 'Workshop: Build a Website for Beginners - The Very Basics of HTML and CSS'
 event-categories:
 - Makerspace

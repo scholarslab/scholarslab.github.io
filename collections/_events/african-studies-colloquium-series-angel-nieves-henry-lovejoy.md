@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-02-24'
+end_time: '12:00:00'
 layout: event
 published-date: 2017-01-31 11:51:41+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: african-studies-colloquium-series-angel-nieves-henry-lovejoy
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-02-24'
+start_time: '10:00:00'
 title: 'African Studies + DH Colloquium: Angel Nieves & Henry Lovejoy'
 ---
 

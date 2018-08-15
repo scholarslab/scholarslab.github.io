@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-03-29'
+end_time: '12:00:00'
 layout: event
 published-date: 2018-03-26 13:16:22+00:00
-rsvp: No Content Found
+rsvp: null
 slug: dh-speaker-casey-boyle-on-making-sense-in-calamitous-times
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-03-29'
+start_time: '11:00:00'
 title: 'DH Speaker: Casey Boyle on Making Sense in Calamitous Times'
 ---
 

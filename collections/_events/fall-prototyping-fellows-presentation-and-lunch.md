@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-02-02'
+end_time: '13:00:00'
 layout: event
 published-date: 2018-01-24 15:38:06+00:00
-rsvp: No Content Found
+rsvp: null
 slug: fall-prototyping-fellows-presentation-and-lunch
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-02-02'
+start_time: '10:30:00'
 title: Fall Prototyping Fellows Presentation and Lunch
 event-categories:
 - Graduate Fellowships

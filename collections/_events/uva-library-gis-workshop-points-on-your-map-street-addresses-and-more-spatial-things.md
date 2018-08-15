@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: ronda-grizzle
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-09-17'
+end_time: '16:00:00'
 layout: event
 published-date: 2015-08-31 15:24:32+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: uva-library-gis-workshop-points-on-your-map-street-addresses-and-more-spatial-things
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-09-17'
+start_time: '15:00:00'
 title: 'UVa Library GIS Workshop: Points on Your Map - Street Addresses and More Spatial
   Things'
 event-categories:

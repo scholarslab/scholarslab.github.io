@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-03-16'
+end_time: 00:00:00
 layout: event
 published-date: 2017-01-17 09:42:58+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: research-data-services-spring-workshops
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-01-24'
+start_time: 00:00:00
 title: Research Data Services Spring Workshops
 ---
 

@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-11-03'
+end_time: '16:00:00'
 layout: event
 published-date: 2017-08-29 06:55:25+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: scholars-lab-fall-symposium-kari-kraus-daniela-rosner
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-11-03'
+start_time: 09:30:00
 title: 'Scholars'' Lab Fall Symposium: Story Circuits: Creating & Recovering Embodied
   Memory'
 event-categories:

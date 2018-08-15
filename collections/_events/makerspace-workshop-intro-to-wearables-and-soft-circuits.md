@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: jeremy-boggs
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2014-09-24'
+end_time: '12:00:00'
 layout: event
 published-date: 2014-08-25 10:29:08+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: makerspace-workshop-intro-to-wearables-and-soft-circuits
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2014-09-24'
+start_time: '11:00:00'
 title: 'Makerspace Workshop: Intro to Wearables and Soft Circuits'
 ---
 

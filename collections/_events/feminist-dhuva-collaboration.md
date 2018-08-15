@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-01-12'
+end_time: '16:30:00'
 layout: event
 published-date: 2017-12-14 14:53:15+00:00
-rsvp: No Content Found
+rsvp: null
 slug: feminist-dhuva-collaboration
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-01-12'
+start_time: 08:30:00
 title: 'Feminist DH@UVA: A Collaboration'
 ---
 

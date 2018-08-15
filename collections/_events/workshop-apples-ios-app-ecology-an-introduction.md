@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-07-12'
+end_time: '13:30:00'
 layout: event
 published-date: 2018-07-06 15:32:10+00:00
-rsvp: No Content Found
+rsvp: null
 slug: workshop-apples-ios-app-ecology-an-introduction
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-07-12'
+start_time: '12:00:00'
 title: 'Workshop: Apple''s iOS App Ecology: An Introduction'
 ---
 

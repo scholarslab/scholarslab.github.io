@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: ronda-grizzle
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2014-09-29'
+end_time: '12:00:00'
 layout: event
 published-date: 2014-08-25 15:21:06+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: workshop-intro-to-neatline
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2014-09-29'
+start_time: '11:00:00'
 title: Introduction to Neatline
 ---
 

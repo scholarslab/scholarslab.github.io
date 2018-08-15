@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-01-13'
+end_time: '14:00:00'
 layout: event
 published-date: 2018-01-04 17:12:54+00:00
-rsvp: No Content Found
+rsvp: null
 slug: feminist-dhuva-working-session-on-project-collaboration
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-01-13'
+start_time: 09:00:00
 title: 'Feminist DH@UVA: Working Session on Project Collaboration'
 ---
 

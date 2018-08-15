@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-03-20'
+end_time: '11:00:00'
 layout: event
 published-date: 2018-02-06 13:38:44+00:00
-rsvp: No Content Found
+rsvp: null
 slug: gis-workshop-whats-new-with-arcgis-pro
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-03-20'
+start_time: '10:00:00'
 title: 'GIS Workshop: What’s New with ArcGIS Pro'
 ---
 

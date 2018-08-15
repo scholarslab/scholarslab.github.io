@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-11-01'
+end_time: '23:59:59'
 layout: event
 published-date: 2017-09-19 15:53:02+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: 2018-19-digital-humanities-fellowship-application-deadline
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-11-01'
+start_time: 00:00:00
 title: 2018-19 Digital Humanities Fellowship Application Deadline
 event-categories:
 - Graduate Fellowships

@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2015-04-28'
+end_time: '13:30:00'
 layout: event
 published-date: 2015-04-21 16:16:16+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: praxis-graduate-student-fellows-panel-luncheon
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2015-04-28'
+start_time: '12:00:00'
 title: Praxis Graduate Student Fellows Panel & Luncheon
 ---
 

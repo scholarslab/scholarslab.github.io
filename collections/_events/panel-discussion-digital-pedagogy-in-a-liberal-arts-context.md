@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2016-10-26'
+end_time: '11:30:00'
 layout: event
 published-date: 2016-10-18 19:41:42+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: panel-discussion-digital-pedagogy-in-a-liberal-arts-context
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2016-10-26'
+start_time: '10:00:00'
 title: 'Panel Discussion: Digital Pedagogy in a Liberal Arts Context'
 event-categories:
 - Graduate Fellowships

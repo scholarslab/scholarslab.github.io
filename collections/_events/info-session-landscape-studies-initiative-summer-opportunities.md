@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: null
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2018-03-28'
+end_time: '12:00:00'
 layout: event
 published-date: 2018-03-26 13:00:41+00:00
-rsvp: No Content Found
+rsvp: null
 slug: info-session-landscape-studies-initiative-summer-opportunities
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2018-03-28'
+start_time: '11:00:00'
 title: 'Info Session: Landscape Studies Initiative - Summer Opportunities'
 ---
 

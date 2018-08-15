@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: laura-miller
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2017-01-18'
+end_time: '17:00:00'
 layout: event
 published-date: 2017-01-11 16:25:35+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: marlene-daut-on-haiti-and-the-digital-world
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2017-01-18'
+start_time: '15:30:00'
 title: Marlene Daut on Haiti and the Digital World
 ---
 

@@ -1,15 +1,14 @@
 ---
-all_day: No Content Found
+all_day: 1
 author: jeremy-boggs
-end_date: No Content Found
-end_time: No Content Found
-excerpt: None
+end_date: '2014-09-11'
+end_time: '15:00:00'
 layout: event
 published-date: 2014-08-25 10:17:29+00:00
-rsvp: No Content Found
+rsvp: 0
 slug: gis-workshop-getting-your-data-on-a-map
-start_date: No Content Found
-start_time: No Content Found
+start_date: '2014-09-11'
+start_time: '14:00:00'
 title: 'GIS Workshop: Getting Your Data on a Map'
 ---
 
