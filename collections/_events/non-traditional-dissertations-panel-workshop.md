@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-20'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2018-02-09 18:58:43+00:00
 rsvp: null
 slug: non-traditional-dissertations-panel-workshop

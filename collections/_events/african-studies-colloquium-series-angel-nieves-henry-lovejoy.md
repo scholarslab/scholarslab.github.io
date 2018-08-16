@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2017-02-24'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2017-01-31 11:51:41+00:00
 rsvp: 0
 slug: african-studies-colloquium-series-angel-nieves-henry-lovejoy

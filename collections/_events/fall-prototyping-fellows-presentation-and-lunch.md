@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-02-02'
 end_time: '13:00:00'
-layout: event
+layout: events
 published-date: 2018-01-24 15:38:06+00:00
 rsvp: null
 slug: fall-prototyping-fellows-presentation-and-lunch

@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-07-12'
 end_time: '13:30:00'
-layout: event
+layout: events
 published-date: 2018-07-06 15:32:10+00:00
 rsvp: null
 slug: workshop-apples-ios-app-ecology-an-introduction

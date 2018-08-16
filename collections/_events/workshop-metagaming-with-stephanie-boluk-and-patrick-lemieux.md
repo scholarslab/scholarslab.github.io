@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-04-26'
 end_time: '16:00:00'
-layout: event
+layout: events
 published-date: 2018-04-09 16:14:12+00:00
 rsvp: null
 slug: workshop-metagaming-with-stephanie-boluk-and-patrick-lemieux

@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-20'
 end_time: '10:30:00'
-layout: event
+layout: events
 published-date: 2018-03-12 18:51:13+00:00
 rsvp: null
 slug: visual-thinking-workshop-with-nick-sousanis

@@ -3,7 +3,7 @@ all_day: null
 author: ammon-shepherd
 end_date: '2018-03-06'
 end_time: '10:00:00'
-layout: event
+layout: events
 published-date: 2018-02-08 15:17:15+00:00
 rsvp: null
 slug: build-a-website-for-beginners-the-very-basics-of-html-and-css-2

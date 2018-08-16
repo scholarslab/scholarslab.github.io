@@ -3,7 +3,7 @@ all_day: null
 author: brandon-walsh
 end_date: '2018-05-04'
 end_time: '13:30:00'
-layout: event
+layout: events
 published-date: 2018-02-19 10:47:50+00:00
 rsvp: null
 slug: praxis-program-presentations

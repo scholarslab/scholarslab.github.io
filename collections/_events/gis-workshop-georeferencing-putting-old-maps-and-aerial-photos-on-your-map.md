@@ -3,7 +3,7 @@ all_day: 1
 author: jeremy-boggs
 end_date: '2014-09-25'
 end_time: '15:00:00'
-layout: event
+layout: events
 published-date: 2014-08-25 10:30:10+00:00
 rsvp: 0
 slug: gis-workshop-georeferencing-putting-old-maps-and-aerial-photos-on-your-map

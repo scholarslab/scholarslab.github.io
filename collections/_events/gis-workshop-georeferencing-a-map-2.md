@@ -3,7 +3,7 @@ all_day: 1
 author: chris-gist
 end_date: '2016-09-28'
 end_time: '16:00:00'
-layout: event
+layout: events
 published-date: 2016-08-26 10:21:32+00:00
 rsvp: 0
 slug: gis-workshop-georeferencing-a-map-2

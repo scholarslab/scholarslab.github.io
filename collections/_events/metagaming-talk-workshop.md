@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-04-26'
 end_time: '13:00:00'
-layout: event
+layout: events
 published-date: 2018-03-13 16:50:09+00:00
 rsvp: null
 slug: metagaming-talk-workshop

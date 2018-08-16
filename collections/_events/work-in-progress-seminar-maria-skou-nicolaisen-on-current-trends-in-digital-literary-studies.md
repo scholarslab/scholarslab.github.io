@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2016-11-30'
 end_time: '13:30:00'
-layout: event
+layout: events
 published-date: 2016-11-28 16:50:50+00:00
 rsvp: 0
 slug: work-in-progress-seminar-maria-skou-nicolaisen-on-current-trends-in-digital-literary-studies

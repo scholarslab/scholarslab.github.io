@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2016-03-15'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2016-02-16 20:03:25+00:00
 rsvp: 0
 slug: dh-speaker-series-sarah-bond

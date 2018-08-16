@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-02-19'
 end_time: '11:30:00'
-layout: event
+layout: events
 published-date: 2018-01-24 15:47:32+00:00
 rsvp: null
 slug: scholars-lab-open-office-hours-2018-02-19

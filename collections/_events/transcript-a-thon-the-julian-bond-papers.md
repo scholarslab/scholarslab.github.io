@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-08-15'
 end_time: '16:00:00'
-layout: event
+layout: events
 published-date: 2018-07-31 09:48:25+00:00
 rsvp: null
 slug: transcript-a-thon-the-julian-bond-papers

@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-01-12'
 end_time: '16:30:00'
-layout: event
+layout: events
 published-date: 2017-12-14 14:53:15+00:00
 rsvp: null
 slug: feminist-dhuva-collaboration

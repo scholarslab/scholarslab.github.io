@@ -3,7 +3,7 @@ all_day: 1
 author: ronda-grizzle
 end_date: '2016-09-29'
 end_time: '11:30:00'
-layout: event
+layout: events
 published-date: 2016-09-09 11:59:07+00:00
 rsvp: 0
 slug: workshop-planning-designing-your-neatline-project

@@ -3,7 +3,7 @@ all_day: 1
 author: ronda-grizzle
 end_date: '2014-11-19'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2014-08-26 09:38:51+00:00
 rsvp: 0
 slug: makerspace-workshop-html-for-absolute-beginners

@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-02-27'
 end_time: '14:00:00'
-layout: event
+layout: events
 published-date: 2018-02-06 14:09:03+00:00
 rsvp: null
 slug: using-git-for-beginners

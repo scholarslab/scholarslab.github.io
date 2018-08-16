@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-13'
 end_time: '11:00:00'
-layout: event
+layout: events
 published-date: 2018-02-06 13:38:23+00:00
 rsvp: null
 slug: gis-workshop-arcgis-online-data-collection

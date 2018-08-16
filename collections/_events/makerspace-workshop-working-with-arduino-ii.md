@@ -3,7 +3,7 @@ all_day: 1
 author: ammon-shepherd
 end_date: '2015-11-04'
 end_time: '14:00:00'
-layout: event
+layout: events
 published-date: 2015-09-21 14:14:11+00:00
 rsvp: 0
 slug: makerspace-workshop-working-with-arduino-ii

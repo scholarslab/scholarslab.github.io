@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2016-02-11'
 end_time: '16:00:00'
-layout: event
+layout: events
 published-date: 2016-02-16 19:33:04+00:00
 rsvp: 0
 slug: gis-workshop-georeferencing-a-map-putting-old-maps-and-aerial-photos-on-your-map

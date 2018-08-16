@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2015-02-25'
 end_time: '10:00:00'
-layout: event
+layout: events
 published-date: 2015-02-16 13:14:23+00:00
 rsvp: 0
 slug: dh-speaker-series-rob-nelson-on-topic-modeling-in-the-humanities

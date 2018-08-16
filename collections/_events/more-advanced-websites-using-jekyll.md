@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-26'
 end_time: '15:00:00'
-layout: event
+layout: events
 published-date: 2018-02-06 14:12:25+00:00
 rsvp: null
 slug: more-advanced-websites-using-jekyll

@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2015-02-26'
 end_time: '15:30:00'
-layout: event
+layout: events
 published-date: 2015-01-19 11:20:38+00:00
 rsvp: 0
 slug: makerspace-workshop-working-with-arduinos-iii

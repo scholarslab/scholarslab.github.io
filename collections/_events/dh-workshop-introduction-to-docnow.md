@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2017-04-18'
 end_time: '16:00:00'
-layout: event
+layout: events
 published-date: 2017-04-11 12:35:55+00:00
 rsvp: 0
 slug: dh-workshop-introduction-to-docnow

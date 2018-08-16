@@ -3,7 +3,7 @@ all_day: 1
 author: ronda-grizzle
 end_date: '2016-09-21'
 end_time: '15:30:00'
-layout: event
+layout: events
 published-date: 2016-09-09 11:53:46+00:00
 rsvp: 0
 slug: workshop-introduction-to-3d-printing

@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-01-13'
 end_time: '14:00:00'
-layout: event
+layout: events
 published-date: 2018-01-04 17:12:54+00:00
 rsvp: null
 slug: feminist-dhuva-working-session-on-project-collaboration

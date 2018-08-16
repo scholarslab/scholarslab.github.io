@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2017-02-02'
 end_time: '15:30:00'
-layout: event
+layout: events
 published-date: 2017-01-31 11:29:14+00:00
 rsvp: 0
 slug: candace-barrington-jonathan-hsy-on-digital-hospitality

@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-15'
 end_time: '11:00:00'
-layout: event
+layout: events
 published-date: 2018-02-06 14:11:01+00:00
 rsvp: null
 slug: what-is-the-raspberry-pi-and-how-to-use-it

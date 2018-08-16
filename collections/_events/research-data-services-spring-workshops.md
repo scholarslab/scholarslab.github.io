@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2017-03-16'
 end_time: 00:00:00
-layout: event
+layout: events
 published-date: 2017-01-17 09:42:58+00:00
 rsvp: 0
 slug: research-data-services-spring-workshops

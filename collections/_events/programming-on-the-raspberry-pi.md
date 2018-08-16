@@ -3,7 +3,7 @@ all_day: null
 author: ammon-shepherd
 end_date: '2018-04-26'
 end_time: '15:00:00'
-layout: event
+layout: events
 published-date: 2018-02-06 14:14:59+00:00
 rsvp: null
 slug: programming-on-the-raspberry-pi

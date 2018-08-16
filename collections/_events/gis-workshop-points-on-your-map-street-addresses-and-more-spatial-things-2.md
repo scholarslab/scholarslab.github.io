@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2016-02-25'
 end_time: '16:00:00'
-layout: event
+layout: events
 published-date: 2016-02-16 19:38:33+00:00
 rsvp: 0
 slug: gis-workshop-points-on-your-map-street-addresses-and-more-spatial-things-2

@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2015-04-16'
 end_time: '17:00:00'
-layout: event
+layout: events
 published-date: 2015-04-03 16:13:12+00:00
 rsvp: 0
 slug: dh-speaker-series-david-mimno-on-hunting-for-topics

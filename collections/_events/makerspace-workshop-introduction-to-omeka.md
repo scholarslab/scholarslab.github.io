@@ -3,7 +3,7 @@ all_day: 1
 author: ronda-grizzle
 end_date: '2015-09-23'
 end_time: '14:30:00'
-layout: event
+layout: events
 published-date: 2015-09-15 13:00:20+00:00
 rsvp: 0
 slug: makerspace-workshop-introduction-to-omeka

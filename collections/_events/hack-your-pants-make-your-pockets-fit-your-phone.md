@@ -3,7 +3,7 @@ all_day: null
 author: ammon-shepherd
 end_date: '2018-03-20'
 end_time: '13:00:00'
-layout: event
+layout: events
 published-date: 2018-02-08 15:21:31+00:00
 rsvp: null
 slug: hack-your-pants-make-your-pockets-fit-your-phone

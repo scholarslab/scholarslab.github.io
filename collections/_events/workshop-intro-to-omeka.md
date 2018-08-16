@@ -3,7 +3,7 @@ all_day: 1
 author: ronda-grizzle
 end_date: '2014-09-22'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2014-08-25 15:17:38+00:00
 rsvp: 0
 slug: workshop-intro-to-omeka

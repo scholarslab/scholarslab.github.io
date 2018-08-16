@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-28'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2018-03-26 13:00:41+00:00
 rsvp: null
 slug: info-session-landscape-studies-initiative-summer-opportunities

@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-02-21'
 end_time: '13:00:00'
-layout: event
+layout: events
 published-date: 2018-02-06 14:07:10+00:00
 rsvp: null
 slug: easy-electronics-arduino-for-the-beginner

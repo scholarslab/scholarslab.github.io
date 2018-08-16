@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2016-10-26'
 end_time: '11:30:00'
-layout: event
+layout: events
 published-date: 2016-10-18 19:41:42+00:00
 rsvp: 0
 slug: panel-discussion-digital-pedagogy-in-a-liberal-arts-context

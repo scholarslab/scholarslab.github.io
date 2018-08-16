@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2016-10-15'
 end_time: 00:00:00
-layout: event
+layout: events
 published-date: 2016-10-05 17:54:14+00:00
 rsvp: 0
 slug: dhuva-conference-2016

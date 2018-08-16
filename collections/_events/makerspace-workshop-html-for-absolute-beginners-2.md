@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2015-02-19'
 end_time: '15:30:00'
-layout: event
+layout: events
 published-date: 2015-01-19 10:06:16+00:00
 rsvp: 0
 slug: makerspace-workshop-html-for-absolute-beginners-2

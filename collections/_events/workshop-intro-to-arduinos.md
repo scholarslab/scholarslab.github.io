@@ -3,7 +3,7 @@ all_day: 1
 author: ronda-grizzle
 end_date: '2016-09-22'
 end_time: '11:30:00'
-layout: event
+layout: events
 published-date: 2016-09-09 11:54:51+00:00
 rsvp: 0
 slug: workshop-intro-to-arduinos

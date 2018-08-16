@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2017-03-29'
 end_time: '15:00:00'
-layout: event
+layout: events
 published-date: 2017-01-31 11:56:19+00:00
 rsvp: 0
 slug: spring-gis-workshop-series

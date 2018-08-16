@@ -3,7 +3,7 @@ all_day: null
 author: brandon-walsh
 end_date: '2018-05-02'
 end_time: '13:30:00'
-layout: event
+layout: events
 published-date: 2018-02-14 12:11:50+00:00
 rsvp: null
 slug: dh-fellows-presentation

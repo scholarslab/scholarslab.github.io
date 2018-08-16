@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2017-11-30'
 end_time: '16:00:00'
-layout: event
+layout: events
 published-date: 2017-08-29 07:35:35+00:00
 rsvp: 0
 slug: dh-workshop-pelagios-commons

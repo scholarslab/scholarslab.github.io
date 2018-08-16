@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-20'
 end_time: '11:00:00'
-layout: event
+layout: events
 published-date: 2018-02-06 13:38:44+00:00
 rsvp: null
 slug: gis-workshop-whats-new-with-arcgis-pro

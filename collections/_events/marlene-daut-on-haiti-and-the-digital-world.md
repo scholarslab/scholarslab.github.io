@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2017-01-18'
 end_time: '17:00:00'
-layout: event
+layout: events
 published-date: 2017-01-11 16:25:35+00:00
 rsvp: 0
 slug: marlene-daut-on-haiti-and-the-digital-world

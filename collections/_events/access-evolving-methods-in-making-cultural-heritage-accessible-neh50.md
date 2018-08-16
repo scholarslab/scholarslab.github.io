@@ -3,7 +3,7 @@ all_day: 1
 author: ronda-grizzle
 end_date: '2016-09-15'
 end_time: '16:00:00'
-layout: event
+layout: events
 published-date: 2016-09-09 11:50:52+00:00
 rsvp: 0
 slug: access-evolving-methods-in-making-cultural-heritage-accessible-neh50

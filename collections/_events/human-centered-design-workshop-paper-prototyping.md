@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2016-04-08'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2016-03-22 11:25:45+00:00
 rsvp: 0
 slug: human-centered-design-workshop-paper-prototyping

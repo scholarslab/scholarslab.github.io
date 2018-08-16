@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-29'
 end_time: '12:00:00'
-layout: event
+layout: events
 published-date: 2018-03-26 13:16:22+00:00
 rsvp: null
 slug: dh-speaker-casey-boyle-on-making-sense-in-calamitous-times

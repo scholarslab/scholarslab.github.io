@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2016-04-29'
 end_time: '14:00:00'
-layout: event
+layout: events
 published-date: 2016-02-16 20:13:31+00:00
 rsvp: 0
 slug: speaker-amanda-licastro

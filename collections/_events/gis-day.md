@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2014-11-19'
 end_time: '16:30:00'
-layout: event
+layout: events
 published-date: 2014-11-06 09:35:55+00:00
 rsvp: 0
 slug: gis-day

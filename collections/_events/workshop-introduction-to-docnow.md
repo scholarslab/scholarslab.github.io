@@ -3,7 +3,7 @@ all_day: null
 author: laura-miller
 end_date: '2018-03-01'
 end_time: '15:00:00'
-layout: event
+layout: events
 published-date: 2018-02-13 13:04:13+00:00
 rsvp: null
 slug: workshop-introduction-to-docnow

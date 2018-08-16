@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2018-02-15'
 end_time: '23:59:59'
-layout: event
+layout: events
 published-date: 2018-01-24 15:40:38+00:00
 rsvp: null
 slug: applications-due-for-praxis-and-prototyping-fellowships

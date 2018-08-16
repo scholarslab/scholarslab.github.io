@@ -3,7 +3,7 @@ all_day: 1
 author: laura-miller
 end_date: '2017-11-01'
 end_time: '23:59:59'
-layout: event
+layout: events
 published-date: 2017-09-19 15:53:02+00:00
 rsvp: 0
 slug: 2018-19-digital-humanities-fellowship-application-deadline
