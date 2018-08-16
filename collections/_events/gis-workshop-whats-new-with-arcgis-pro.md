@@ -1,11 +1,12 @@
 ---
-all_day: null
+all_day: 0
 author: laura-miller
 end_date: '2018-03-20'
 end_time: '11:00:00'
 layout: events
+location: 'Alderman Library, Room 423'
 published-date: 2018-02-06 13:38:44+00:00
-rsvp: null
+rsvp: 0
 slug: gis-workshop-whats-new-with-arcgis-pro
 start_date: '2018-03-20'
 start_time: '10:00:00'

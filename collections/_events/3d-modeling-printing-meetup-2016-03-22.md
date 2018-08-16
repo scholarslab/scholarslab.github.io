@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-03-22'
 end_time: '16:00:00'
 layout: events
+location: 'Makerspace, Scholars&#039; Lab Common Room'
 published-date: 2016-02-16 20:56:26+00:00
 rsvp: 0
 slug: 3d-modeling-printing-meetup-2016-03-22

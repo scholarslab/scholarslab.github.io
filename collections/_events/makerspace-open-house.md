@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2018-06-08'
 end_time: '17:00:00'
 layout: events
+location: 'Makerspace, Scholars&#039; Lab Common Room'
 published-date: 2017-09-15 16:30:19+00:00
 rsvp: 0
 slug: makerspace-open-house

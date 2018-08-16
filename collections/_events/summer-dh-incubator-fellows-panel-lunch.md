@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-09-11'
 end_time: '12:00:00'
 layout: events
+location: 'Harrison Institute, Byrd/Morris Room'
 published-date: 2017-08-29 07:13:28+00:00
 rsvp: 0
 slug: summer-dh-incubator-fellows-panel-lunch

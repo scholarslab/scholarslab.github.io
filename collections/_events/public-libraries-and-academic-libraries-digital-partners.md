@@ -4,6 +4,7 @@ author: jeremy-boggs
 end_date: '2015-10-16'
 end_time: '12:00:00'
 layout: events
+location: 'Byrd-Morris Room in Harrison-Small'
 published-date: 2015-10-14 09:11:41+00:00
 rsvp: 0
 slug: public-libraries-and-academic-libraries-digital-partners

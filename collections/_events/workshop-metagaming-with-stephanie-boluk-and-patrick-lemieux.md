@@ -1,11 +1,12 @@
 ---
-all_day: null
+all_day: 0
 author: laura-miller
 end_date: '2018-04-26'
 end_time: '16:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2018-04-09 16:14:12+00:00
-rsvp: null
+rsvp: 0
 slug: workshop-metagaming-with-stephanie-boluk-and-patrick-lemieux
 start_date: '2018-04-26'
 start_time: '14:00:00'

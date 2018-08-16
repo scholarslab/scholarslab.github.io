@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-02-09'
 end_time: '10:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-01-29 10:37:20+00:00
 rsvp: 0
 slug: scholars-lab-speaker-series-thorny-staples-on-managing-research-data

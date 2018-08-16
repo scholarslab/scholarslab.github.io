@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-03-19'
 end_time: '10:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-02-19 15:38:52+00:00
 rsvp: 0
 slug: scholars-lab-speaker-series-creating-the-american-yawp

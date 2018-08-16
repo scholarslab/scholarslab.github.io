@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-02-12'
 end_time: '15:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 11:04:56+00:00
 rsvp: 0
 slug: makerspace-workshop-working-with-arduinos

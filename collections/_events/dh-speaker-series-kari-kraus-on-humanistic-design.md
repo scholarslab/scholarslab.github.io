@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2014-10-20'
 end_time: '11:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2014-10-14 09:41:14+00:00
 rsvp: 0
 slug: dh-speaker-series-kari-kraus-on-humanistic-design

@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-03-30'
 end_time: '11:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 20:06:56+00:00
 rsvp: 0
 slug: practicing-dh-symposium-keynote-ethan-wattrall

@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-02-03'
 end_time: '11:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2017-01-16 17:41:59+00:00
 rsvp: 0
 slug: michelle-moravec-on-how-to-make-it-as-a-woman-into-wikipedia

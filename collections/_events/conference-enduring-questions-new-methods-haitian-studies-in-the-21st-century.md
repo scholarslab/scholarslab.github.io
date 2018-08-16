@@ -4,8 +4,9 @@ author: laura-miller
 end_date: '2018-04-13'
 end_time: '23:59:59'
 layout: events
+location: null
 published-date: 2018-04-03 16:01:21+00:00
-rsvp: null
+rsvp: 0
 slug: conference-enduring-questions-new-methods-haitian-studies-in-the-21st-century
 start_date: '2018-04-12'
 start_time: 00:00:00

@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-10-24'
 end_time: '16:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:20:14+00:00
 rsvp: 0
 slug: gis-workshop-easy-demographics-3

@@ -4,6 +4,7 @@ author: ronda-grizzle
 end_date: '2014-11-17'
 end_time: '12:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 15:22:24+00:00
 rsvp: 0
 slug: workshop-intro-to-neatline-2

@@ -4,6 +4,7 @@ author: ronda-grizzle
 end_date: '2016-09-16'
 end_time: '14:00:00'
 layout: events
+location: 'Scholars&#039; Lab Common Room'
 published-date: 2016-09-09 11:52:20+00:00
 rsvp: 0
 slug: the-humanities-arcade-playing-with-history-and-culture-in-the-digital-age

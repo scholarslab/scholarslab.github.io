@@ -1,11 +1,12 @@
 ---
-all_day: null
+all_day: 0
 author: ammon-shepherd
 end_date: '2018-03-20'
 end_time: '13:00:00'
 layout: events
+location: 'Alderman Library, Room 423'
 published-date: 2018-02-08 15:21:31+00:00
-rsvp: null
+rsvp: 0
 slug: hack-your-pants-make-your-pockets-fit-your-phone
 start_date: '2018-03-20'
 start_time: '12:00:00'

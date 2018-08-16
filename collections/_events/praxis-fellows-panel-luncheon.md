@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-05-02'
 end_time: '14:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2017-04-11 12:43:12+00:00
 rsvp: 0
 slug: praxis-fellows-panel-luncheon

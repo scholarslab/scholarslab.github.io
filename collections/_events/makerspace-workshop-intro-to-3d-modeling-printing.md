@@ -4,6 +4,7 @@ author: jeremy-boggs
 end_date: '2014-09-17'
 end_time: '12:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:14:55+00:00
 rsvp: 0
 slug: makerspace-workshop-intro-to-3d-modeling-printing

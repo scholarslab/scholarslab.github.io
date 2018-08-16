@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2014-11-20'
 end_time: '11:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2014-11-04 12:01:21+00:00
 rsvp: 0
 slug: dh-speaker-series-jentery-sayers

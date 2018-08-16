@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-02-25'
 end_time: '14:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 08:40:40+00:00
 rsvp: 0
 slug: gis-workshop-historic-census-data

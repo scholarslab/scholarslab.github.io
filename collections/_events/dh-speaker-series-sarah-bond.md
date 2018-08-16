@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-03-15'
 end_time: '12:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 20:03:25+00:00
 rsvp: 0
 slug: dh-speaker-series-sarah-bond

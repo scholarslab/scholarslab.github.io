@@ -4,6 +4,7 @@ author: ronda-grizzle
 end_date: '2015-09-23'
 end_time: '14:30:00'
 layout: events
+location: 'Alderman Library, Room 423'
 published-date: 2015-09-15 13:00:20+00:00
 rsvp: 0
 slug: makerspace-workshop-introduction-to-omeka

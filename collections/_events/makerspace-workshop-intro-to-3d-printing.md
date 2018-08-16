@@ -4,6 +4,7 @@ author: ammon-shepherd
 end_date: '2015-10-07'
 end_time: '14:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-09-21 14:01:33+00:00
 rsvp: 0
 slug: makerspace-workshop-intro-to-3d-printing

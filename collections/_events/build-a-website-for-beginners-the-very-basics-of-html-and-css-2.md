@@ -1,11 +1,12 @@
 ---
-all_day: null
+all_day: 0
 author: ammon-shepherd
 end_date: '2018-03-06'
 end_time: '10:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2018-02-08 15:17:15+00:00
-rsvp: null
+rsvp: 0
 slug: build-a-website-for-beginners-the-very-basics-of-html-and-css-2
 start_date: '2018-03-06'
 start_time: 09:00:00

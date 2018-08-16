@@ -1,11 +1,12 @@
 ---
-all_day: null
+all_day: 0
 author: laura-miller
 end_date: '2018-03-28'
 end_time: '12:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2018-03-26 13:00:41+00:00
-rsvp: null
+rsvp: 0
 slug: info-session-landscape-studies-initiative-summer-opportunities
 start_date: '2018-03-28'
 start_time: '11:00:00'

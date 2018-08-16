@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-03-26'
 end_time: '15:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-03-16 13:26:00+00:00
 rsvp: 0
 slug: makerspace-workshop-intro-to-3d-modeling-printing-5

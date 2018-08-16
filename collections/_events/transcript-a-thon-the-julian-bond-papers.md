@@ -1,11 +1,12 @@
 ---
-all_day: null
+all_day: 0
 author: laura-miller
 end_date: '2018-08-15'
 end_time: '16:00:00'
 layout: events
+location: 'Scholars&#039; Lab Common Room'
 published-date: 2018-07-31 09:48:25+00:00
-rsvp: null
+rsvp: 0
 slug: transcript-a-thon-the-julian-bond-papers
 start_date: '2018-08-15'
 start_time: '10:00:00'

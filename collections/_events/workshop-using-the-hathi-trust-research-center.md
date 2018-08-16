@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-03-16'
 end_time: '14:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2017-01-16 17:32:23+00:00
 rsvp: 0
 slug: workshop-using-the-hathi-trust-research-center

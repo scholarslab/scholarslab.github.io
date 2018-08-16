@@ -4,6 +4,7 @@ author: jeremy-boggs
 end_date: '2014-09-24'
 end_time: '12:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:29:08+00:00
 rsvp: 0
 slug: makerspace-workshop-intro-to-wearables-and-soft-circuits

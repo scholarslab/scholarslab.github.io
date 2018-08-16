@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-04-22'
 end_time: '13:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-04-21 16:14:30+00:00
 rsvp: 0
 slug: digital-humanities-graduate-student-fellows-panel-luncheon

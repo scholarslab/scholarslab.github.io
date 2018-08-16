@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-04-01'
 end_time: '11:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-03-18 10:27:44+00:00
 rsvp: 0
 slug: scholars-lab-speaker-series-nick-laiacona-on-juxta-editions

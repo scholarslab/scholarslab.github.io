@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-01-28'
 end_time: '11:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 08:59:20+00:00
 rsvp: 0
 slug: workshop-introduction-to-omeka

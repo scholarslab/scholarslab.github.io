@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-04-29'
 end_time: '14:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 20:13:31+00:00
 rsvp: 0
 slug: speaker-amanda-licastro

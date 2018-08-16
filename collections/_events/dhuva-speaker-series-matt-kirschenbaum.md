@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-03-20'
 end_time: '18:00:00'
 layout: events
+location: 'Brooks Hall Commons'
 published-date: 2017-03-14 12:41:38+00:00
 rsvp: 0
 slug: dhuva-speaker-series-matt-kirschenbaum

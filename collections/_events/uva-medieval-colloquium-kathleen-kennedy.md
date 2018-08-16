@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2014-11-14'
 end_time: '10:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2014-11-06 15:18:01+00:00
 rsvp: 0
 slug: uva-medieval-colloquium-kathleen-kennedy

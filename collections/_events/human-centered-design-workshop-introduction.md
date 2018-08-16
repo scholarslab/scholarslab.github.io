@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-04-01'
 end_time: '12:00:00'
 layout: events
+location: 'Alderman Library, Room 423'
 published-date: 2016-03-21 13:38:40+00:00
 rsvp: 0
 slug: human-centered-design-workshop-introduction

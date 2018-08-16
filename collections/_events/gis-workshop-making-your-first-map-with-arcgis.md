@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-02-04'
 end_time: '16:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 19:31:03+00:00
 rsvp: 0
 slug: gis-workshop-making-your-first-map-with-arcgis

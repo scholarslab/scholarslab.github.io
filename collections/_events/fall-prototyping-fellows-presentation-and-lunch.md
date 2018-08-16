@@ -1,11 +1,12 @@
 ---
-all_day: null
+all_day: 0
 author: laura-miller
 end_date: '2018-02-02'
 end_time: '13:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2018-01-24 15:38:06+00:00
-rsvp: null
+rsvp: 0
 slug: fall-prototyping-fellows-presentation-and-lunch
 start_date: '2018-02-02'
 start_time: '10:30:00'

@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-04-26'
 end_time: '14:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2017-04-11 12:40:54+00:00
 rsvp: 0
 slug: digital-humanities-fellows-panel-luncheon

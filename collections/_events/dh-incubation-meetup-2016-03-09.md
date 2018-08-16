@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-03-09'
 end_time: '11:00:00'
 layout: events
+location: 'Alderman Library, Room 423'
 published-date: 2016-02-17 17:29:28+00:00
 rsvp: 0
 slug: dh-incubation-meetup-2016-03-09

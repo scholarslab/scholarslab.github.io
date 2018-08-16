@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-11-30'
 end_time: '13:30:00'
 layout: events
+location: 'Clemons Library, Room 407'
 published-date: 2016-11-28 16:50:50+00:00
 rsvp: 0
 slug: work-in-progress-seminar-maria-skou-nicolaisen-on-current-trends-in-digital-literary-studies

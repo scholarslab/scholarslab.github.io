@@ -4,6 +4,7 @@ author: jeremy-boggs
 end_date: '2014-10-22'
 end_time: '12:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:37:22+00:00
 rsvp: 0
 slug: makerspace-workshop-advanced-3d-modeling-techniques

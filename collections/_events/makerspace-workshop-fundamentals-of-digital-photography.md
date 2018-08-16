@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-04-02'
 end_time: '15:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-03-24 20:37:59+00:00
 rsvp: 0
 slug: makerspace-workshop-fundamentals-of-digital-photography

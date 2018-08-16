@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2016-03-17'
 end_time: '15:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 19:44:20+00:00
 rsvp: 0
 slug: gis-workshop-introduction-to-arcgis-online

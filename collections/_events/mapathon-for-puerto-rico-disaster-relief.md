@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-11-02'
 end_time: '17:00:00'
 layout: events
+location: 'Scholars&#039; Lab Common Room'
 published-date: 2017-10-20 15:56:40+00:00
 rsvp: 0
 slug: mapathon-for-puerto-rico-disaster-relief

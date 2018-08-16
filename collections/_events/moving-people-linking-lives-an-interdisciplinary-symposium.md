@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2015-03-21'
 end_time: '21:00:00'
 layout: events
+location: 0
 published-date: 2015-03-16 13:36:18+00:00
 rsvp: 0
 slug: moving-people-linking-lives-an-interdisciplinary-symposium

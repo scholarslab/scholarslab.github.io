@@ -4,6 +4,7 @@ author: ronda-grizzle
 end_date: '2015-10-01'
 end_time: '16:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2015-08-31 15:27:44+00:00
 rsvp: 0
 slug: uva-library-gis-workshop-taking-control-of-your-spatial-data-editing-in-arcgis

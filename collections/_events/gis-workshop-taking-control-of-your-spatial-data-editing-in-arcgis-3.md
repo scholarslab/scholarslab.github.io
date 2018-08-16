@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-10-17'
 end_time: '16:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:17:49+00:00
 rsvp: 0
 slug: gis-workshop-taking-control-of-your-spatial-data-editing-in-arcgis-3

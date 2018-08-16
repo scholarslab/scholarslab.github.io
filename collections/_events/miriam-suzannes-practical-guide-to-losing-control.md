@@ -4,6 +4,7 @@ author: laura-miller
 end_date: '2017-01-23'
 end_time: '11:30:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2017-01-11 16:43:05+00:00
 rsvp: 0
 slug: miriam-suzannes-practical-guide-to-losing-control
