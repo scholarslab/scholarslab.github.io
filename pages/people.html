@@ -34,12 +34,12 @@ nav: true
           <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
             <div class="people-item__img">
             {% if profile_pic == empty %}
-              <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/scholarslab.png" alt="Scholars' Lab Lab">
             {% else %}
               {% for pic in profile_pic %}
-              {% unless pic.path contains 'cropped' %}
+              {% if pic.path contains 'grid' %}
                 <img src="{{ pic.path }}" alt="{{ person.slug }}">
-              {% endunless %}
+              {% endif %}
               {% endfor %}
             {% endif %}
             </div>
@@ -66,19 +66,19 @@ nav: true
             {% if profile_pic == empty %}
               {% assign num = forloop.index | modulo:4 %}
               {% if num == 0 %}
-              <img src="{{ site.baseurl }}/assets/img/people/elizabeth-mitchell.jpg" alt="[Default image] Screwdrivers close-up">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/elizabeth-mitchell.jpg" alt="[Default image] Screwdrivers close-up">
               {% elsif num == 1 %}
-              <img src="{{ site.baseurl }}/assets/img/people/marysia-serafin.jpg" alt="[Default image] Cute toy">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/marysia-serafin.jpg" alt="[Default image] Cute toy">
               {% elsif num == 2 %}
-              <img src="{{ site.baseurl }}/assets/img/people/tanner-greene.jpg" alt="[Default image] Clamps close-up">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/tanner-greene.jpg" alt="[Default image] Clamps close-up">
               {% else %}
-              <img src="{{ site.baseurl }}/assets/img/people/nic-dalton.jpg" alt="[Default image] Screwdrivers close-up">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/nic-dalton.jpg" alt="[Default image] Screwdrivers close-up">
               {% endif %}
             {% else %}
               {% for pic in profile_pic %}
-              {% unless pic.path contains 'cropped' %}
+              {% if pic.path contains 'grid' %}
                 <img src="{{ pic.path }}" alt="{{ person.slug }}">
-              {% endunless %}
+              {% endif %}
               {% endfor %}
             {% endif %}
             </div>
@@ -123,9 +123,9 @@ nav: true
               {% endif %}
             {% else %}
               {% for pic in profile_pic %}
-              {% unless pic.path contains 'cropped' %}
+              {% if pic.path contains 'grid' %}
                 <img src="{{ pic.path }}" alt="{{ person.slug }}">
-              {% endunless %}
+              {% endif %}
               {% endfor %}
             {% endif %}
             </div>
