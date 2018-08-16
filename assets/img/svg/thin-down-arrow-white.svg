@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   data-name="Capa 1"
+   viewBox="0 0 17.39 32.63"
+   version="1.1"
+   sodipodi:docname="thin-down-arrow-white.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata3727">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>thin-up-arrow-white</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3200"
+     inkscape:window-height="1644"
+     id="namedview3725"
+     showgrid="false"
+     inkscape:zoom="40.361629"
+     inkscape:cx="8.6949997"
+     inkscape:cy="20.279162"
+     inkscape:window-x="-16"
+     inkscape:window-y="-16"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <defs
+     id="defs3716">
+    <style
+       id="style3714">.cls-1{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title3718">thin-up-arrow-white</title>
+  <path
+     class="cls-1"
+     d="m 8.68,32.629965 a 0.5,0.5 0 0 0 0.5,-0.5 V 0.49996508 A 0.5,0.5 0 0 0 8.68,-3.4920793e-5 0.5,0.5 0 0 0 8.18,0.49996508 V 32.129965 a 0.5,0.5 0 0 0 0.5,0.5 z"
+     id="path3720"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="m 8.68,32.629965 v 0 a 0.49,0.49 0 0 0 0.32,-0.15 l 8.29,-8.25 v 0 c 0.19,-0.19 0.1,-0.43 -0.09,-0.62 a 0.48,0.48 0 0 0 -0.7,0 l -7.82,7.81 -7.81,-7.79 a 0.54,0.54 0 0 0 -0.75,0 0.53,0.53 0 0 0 0.05,0.7 v 0 l 8.16,8.15 a 0.47,0.47 0 0 0 0.35,0.15 z"
+     id="path3722"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+</svg>
