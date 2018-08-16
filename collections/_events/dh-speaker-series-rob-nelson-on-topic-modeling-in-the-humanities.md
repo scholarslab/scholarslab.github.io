@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-02-16 13:14:23+00:00
 rsvp: 0
 slug: dh-speaker-series-rob-nelson-on-topic-modeling-in-the-humanities
-start_date: '2015-02-25'
+start_date: 2015-02-25
 start_time: '10:00:00'
 title: 'DH Speaker Series: Rob Nelson on Topic Modeling in the Humanities'
 ---

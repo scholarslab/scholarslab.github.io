@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-01-11 16:43:05+00:00
 rsvp: 0
 slug: miriam-suzannes-practical-guide-to-losing-control
-start_date: '2017-01-23'
+start_date: 2017-01-23
 start_time: '10:00:00'
 title: Miriam Suzanne's Practical Guide to Losing Control
 ---

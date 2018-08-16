@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 19:46:04+00:00
 rsvp: 0
 slug: gis-workshop-easy-demographics-2
-start_date: '2016-03-24'
+start_date: 2016-03-24
 start_time: '15:00:00'
 title: 'GIS Workshop: Easy Demographics'
 event-categories:

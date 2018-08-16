@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-08-31 15:21:25+00:00
 rsvp: 0
 slug: uva-library-gis-workshop-making-your-first-map
-start_date: '2015-09-03'
+start_date: 2015-09-03
 start_time: '15:00:00'
 title: 'UVa Library GIS Workshop: Making Your First Map'
 event-categories:

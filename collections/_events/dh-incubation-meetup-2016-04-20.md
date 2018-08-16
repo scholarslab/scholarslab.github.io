@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2016-02-17 17:29:28+00:00
 rsvp: 0
 slug: dh-incubation-meetup-2016-04-20
-start_date: '2016-04-20'
+start_date: 2016-04-20
 start_time: '10:00:00'
 title: DH Project Incubation Meetup
 ---

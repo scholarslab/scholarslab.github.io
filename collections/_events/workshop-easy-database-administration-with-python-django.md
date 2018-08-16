@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2016-09-09 12:02:30+00:00
 rsvp: 0
 slug: workshop-easy-database-administration-with-python-django
-start_date: '2016-11-03'
+start_date: 2016-11-03
 start_time: '10:00:00'
 title: 'Workshop: Easy Database Administration with Python & Django'
 ---

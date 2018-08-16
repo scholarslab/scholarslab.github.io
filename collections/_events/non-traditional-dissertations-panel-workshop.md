@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-02-09 18:58:43+00:00
 rsvp: 0
 slug: non-traditional-dissertations-panel-workshop
-start_date: '2018-03-20'
+start_date: 2018-03-20
 start_time: '10:30:00'
 title: 'Diss-entangling from the Monograph: A Non-traditional Dissertations Panel'
 ---

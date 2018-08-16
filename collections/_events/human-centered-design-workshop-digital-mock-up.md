@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2016-03-22 11:30:32+00:00
 rsvp: 0
 slug: human-centered-design-workshop-digital-mock-up
-start_date: '2016-04-15'
+start_date: 2016-04-15
 start_time: '11:00:00'
 title: 'Human Centered Design Workshop: Digital Mock-up'
 ---

@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2018-02-06 14:11:01+00:00
 rsvp: null
 slug: what-is-the-raspberry-pi-and-how-to-use-it
-start_date: '2018-03-15'
+start_date: 2018-03-15
 start_time: '10:00:00'
 title: 'Makerspace Workshop: What is the Raspberry Pi and How to Use It'
 ---

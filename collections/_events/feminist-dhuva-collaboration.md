@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-12-14 14:53:15+00:00
 rsvp: 0
 slug: feminist-dhuva-collaboration
-start_date: '2018-01-12'
+start_date: 2018-01-12
 start_time: 08:30:00
 title: 'Feminist DH@UVA: A Collaboration'
 ---

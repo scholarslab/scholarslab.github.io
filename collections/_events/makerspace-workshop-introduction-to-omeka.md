@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2015-09-15 13:00:20+00:00
 rsvp: 0
 slug: makerspace-workshop-introduction-to-omeka
-start_date: '2015-09-23'
+start_date: 2015-09-23
 start_time: '13:00:00'
 title: 'Makerspace Workshop: Introduction to Omeka'
 event-categories:

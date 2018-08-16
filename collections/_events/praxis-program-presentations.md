@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-02-19 10:47:50+00:00
 rsvp: 0
 slug: praxis-program-presentations
-start_date: '2018-05-04'
+start_date: 2018-05-04
 start_time: '10:30:00'
 title: Praxis Program Presentation & Lunch
 ---

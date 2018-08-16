@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-01-31 11:29:14+00:00
 rsvp: 0
 slug: candace-barrington-jonathan-hsy-on-digital-hospitality
-start_date: '2017-02-02'
+start_date: 2017-02-02
 start_time: '14:00:00'
 title: Candace Barrington & Jonathan Hsy on Digital Hospitality
 ---

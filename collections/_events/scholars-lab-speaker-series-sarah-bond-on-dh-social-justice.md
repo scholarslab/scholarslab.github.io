@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 07:24:35+00:00
 rsvp: 0
 slug: scholars-lab-speaker-series-sarah-bond-on-dh-social-justice
-start_date: '2017-11-10'
+start_date: 2017-11-10
 start_time: '10:00:00'
 title: 'Scholars'' Lab Speaker Series: Sarah Bond on DH & Social Justice'
 ---

@@ -118,11 +118,11 @@ title: Home
 			<div class="home-events__title"><a href="/events">Events</a></div>
 			<!-- !! NB: events description is commented out; feel free to un-comment out if we want to use it -->
 			<!--div class="home-events__description">One-time or regular, hands-on workshops and discussion-rich symposia, a quick intro or community group&mdash;whatever your flavor, we probably have an event for it. Upcoming events below, or find the full list <a href="/events" aria-label="Events page">here</a>.</div-->
-			{% assign events = site.events | sort: 'start_date' %}
+			{% assign events = site.events | sort: 'start_date' | reverse %}
 			<!-- event layout: -->
 			
 			<div class="home-events__upcoming">
-				{% for event in events reversed limit:3 %}
+				{% for event in events limit:3 %}
 				<div>
 					<h2>{{ event.title }}</h2>
 					<ul>

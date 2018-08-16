@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2015-09-21 15:31:45+00:00
 rsvp: 0
 slug: makerspace-workshop-introduction-to-photogammetry
-start_date: '2015-10-21'
+start_date: 2015-10-21
 start_time: '13:00:00'
 title: 'Makerspace Workshop: Introduction to Photogrammetry'
 event-categories:

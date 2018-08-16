@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:29:08+00:00
 rsvp: 0
 slug: makerspace-workshop-intro-to-wearables-and-soft-circuits
-start_date: '2014-09-24'
+start_date: 2014-09-24
 start_time: '11:00:00'
 title: 'Makerspace Workshop: Intro to Wearables and Soft Circuits'
 ---

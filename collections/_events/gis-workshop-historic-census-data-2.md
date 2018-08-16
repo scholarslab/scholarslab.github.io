@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 19:47:43+00:00
 rsvp: 0
 slug: gis-workshop-historic-census-data-2
-start_date: '2016-03-31'
+start_date: 2016-03-31
 start_time: '15:00:00'
 title: 'GIS Workshop: Historic Census Data'
 event-categories:

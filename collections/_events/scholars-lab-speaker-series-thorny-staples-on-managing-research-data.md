@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-01-29 10:37:20+00:00
 rsvp: 0
 slug: scholars-lab-speaker-series-thorny-staples-on-managing-research-data
-start_date: '2015-02-09'
+start_date: 2015-02-09
 start_time: '10:00:00'
 title: 'Scholars'' Lab Speaker Series: Thorny Staples on Managing Smithsonian Research
   Data'

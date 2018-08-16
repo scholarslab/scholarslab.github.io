@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-07-06 15:32:10+00:00
 rsvp: 0
 slug: workshop-apples-ios-app-ecology-an-introduction
-start_date: '2018-07-12'
+start_date: 2018-07-12
 start_time: '12:00:00'
 title: 'Workshop: Apple''s iOS App Ecology: An Introduction'
 ---

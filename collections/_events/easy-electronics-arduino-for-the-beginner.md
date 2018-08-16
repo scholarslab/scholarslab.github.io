@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2018-02-06 14:07:10+00:00
 rsvp: 0
 slug: easy-electronics-arduino-for-the-beginner
-start_date: '2018-02-21'
+start_date: 2018-02-21
 start_time: '12:00:00'
 title: 'Makerspace Workshop: Easy Electronics - Arduino for the Beginner'
 ---

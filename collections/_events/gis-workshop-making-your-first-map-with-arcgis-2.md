@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 05:57:07+00:00
 rsvp: 0
 slug: gis-workshop-making-your-first-map-with-arcgis-2
-start_date: '2017-09-12'
+start_date: 2017-09-12
 start_time: '15:00:00'
 title: 'GIS Workshop: Making Your First Map with ArcGIS'
 event-categories:

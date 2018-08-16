@@ -8,7 +8,7 @@ location: 'Alderman Library, Rm 317'
 published-date: 2015-04-03 16:30:32+00:00
 rsvp: 0
 slug: workshop-topic-modeling
-start_date: '2015-04-17'
+start_date: 2015-04-17
 start_time: '10:00:00'
 title: 'Digital Humanities Workshop: Topic Modeling'
 ---

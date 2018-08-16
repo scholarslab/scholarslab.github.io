@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2016-08-26 10:23:37+00:00
 rsvp: 0
 slug: gis-workshop-2
-start_date: '2016-10-12'
+start_date: 2016-10-12
 start_time: '15:00:00'
 title: GIS Workshop - Points on Your Map
 ---

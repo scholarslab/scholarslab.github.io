@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 20:06:56+00:00
 rsvp: 0
 slug: practicing-dh-symposium-keynote-ethan-wattrall
-start_date: '2016-03-30'
+start_date: 2016-03-30
 start_time: '10:00:00'
 title: 'Speaker: Ethan Watrall on Openness in Digital Heritage'
 ---

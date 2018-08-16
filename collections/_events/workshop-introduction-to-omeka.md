@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 08:59:20+00:00
 rsvp: 0
 slug: workshop-introduction-to-omeka
-start_date: '2015-01-28'
+start_date: 2015-01-28
 start_time: '10:00:00'
 title: 'Workshop: Introduction to Omeka'
 ---

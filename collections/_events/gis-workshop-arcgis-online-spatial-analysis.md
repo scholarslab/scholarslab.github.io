@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-02-06 13:37:33+00:00
 rsvp: 0
 slug: gis-workshop-arcgis-online-spatial-analysis
-start_date: '2018-02-20'
+start_date: 2018-02-20
 start_time: '10:00:00'
 title: 'GIS Workshop: ArcGIS Online: Spatial Analysis'
 ---

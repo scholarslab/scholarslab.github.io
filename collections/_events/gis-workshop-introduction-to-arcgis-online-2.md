@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:22:37+00:00
 rsvp: 0
 slug: gis-workshop-introduction-to-arcgis-online-2
-start_date: '2017-10-31'
+start_date: 2017-10-31
 start_time: '15:00:00'
 title: 'GIS Workshop: Introduction to ArcGIS Online'
 event-categories:

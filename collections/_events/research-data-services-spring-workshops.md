@@ -8,7 +8,7 @@ location: 'Brown Library, Rm. 133, Clark Hall'
 published-date: 2017-01-17 09:42:58+00:00
 rsvp: 0
 slug: research-data-services-spring-workshops
-start_date: '2017-01-24'
+start_date: 2017-01-24
 start_time: 00:00:00
 title: Research Data Services Spring Workshops
 ---

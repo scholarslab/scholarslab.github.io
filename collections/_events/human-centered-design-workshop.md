@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2016-03-22 11:37:26+00:00
 rsvp: 0
 slug: human-centered-design-workshop
-start_date: '2016-04-22'
+start_date: 2016-04-22
 start_time: '11:00:00'
 title: 'Human Centered Design Workshop: Next Steps'
 ---

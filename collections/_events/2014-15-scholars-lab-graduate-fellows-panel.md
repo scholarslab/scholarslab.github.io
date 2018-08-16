@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:18:19+00:00
 rsvp: 0
 slug: 2014-15-scholars-lab-graduate-fellows-panel
-start_date: '2014-09-12'
+start_date: 2014-09-12
 start_time: '12:00:00'
 title: 2014-15 Scholars' Lab Graduate Fellows Panel
 ---

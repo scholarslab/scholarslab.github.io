@@ -8,7 +8,7 @@ location: 'Brooks Hall Commons'
 published-date: 2017-03-14 12:41:38+00:00
 rsvp: 0
 slug: dhuva-speaker-series-matt-kirschenbaum
-start_date: '2017-03-20'
+start_date: 2017-03-20
 start_time: '16:00:00'
 title: 'DH@UVA Speaker Series: Matt Kirschenbaum'
 ---

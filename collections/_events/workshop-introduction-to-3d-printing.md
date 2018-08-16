@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2016-09-09 11:53:46+00:00
 rsvp: 0
 slug: workshop-introduction-to-3d-printing
-start_date: '2016-09-21'
+start_date: 2016-09-21
 start_time: '14:00:00'
 title: 'Workshop: Introduction to 3D Printing'
 ---

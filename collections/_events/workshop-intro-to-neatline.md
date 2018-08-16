@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 15:21:06+00:00
 rsvp: 0
 slug: workshop-intro-to-neatline
-start_date: '2014-09-29'
+start_date: 2014-09-29
 start_time: '11:00:00'
 title: Introduction to Neatline
 ---

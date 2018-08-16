@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-01-16 17:32:23+00:00
 rsvp: 0
 slug: workshop-using-the-hathi-trust-research-center
-start_date: '2017-03-16'
+start_date: 2017-03-16
 start_time: '10:00:00'
 title: 'DH Workshop: Introduction to the Hathi Trust Research Center'
 ---

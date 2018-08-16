@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:55:25+00:00
 rsvp: 0
 slug: scholars-lab-fall-symposium-kari-kraus-daniela-rosner
-start_date: '2017-11-03'
+start_date: 2017-11-03
 start_time: 09:30:00
 title: 'Scholars'' Lab Fall Symposium: Story Circuits: Creating & Recovering Embodied
   Memory'

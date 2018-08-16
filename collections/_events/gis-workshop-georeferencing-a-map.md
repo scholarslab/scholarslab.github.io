@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 08:32:29+00:00
 rsvp: 0
 slug: gis-workshop-georeferencing-a-map
-start_date: '2015-02-04'
+start_date: 2015-02-04
 start_time: '13:00:00'
 title: 'GIS Workshop: Georeferencing a Map'
 event-categories:

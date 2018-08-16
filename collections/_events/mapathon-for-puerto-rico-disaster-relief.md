@@ -8,7 +8,7 @@ location: 'Scholars&#039; Lab Common Room'
 published-date: 2017-10-20 15:56:40+00:00
 rsvp: 0
 slug: mapathon-for-puerto-rico-disaster-relief
-start_date: '2017-11-02'
+start_date: 2017-11-02
 start_time: '13:00:00'
 title: Mapathon for Puerto Rico Disaster Relief
 event-categories:

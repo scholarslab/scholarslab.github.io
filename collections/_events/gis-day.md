@@ -8,7 +8,7 @@ location: 'Scholars&#039; Lab Common Room'
 published-date: 2014-11-06 09:35:55+00:00
 rsvp: 0
 slug: gis-day
-start_date: '2014-11-19'
+start_date: 2014-11-19
 start_time: '14:00:00'
 title: GIS Day 2014
 event-categories:

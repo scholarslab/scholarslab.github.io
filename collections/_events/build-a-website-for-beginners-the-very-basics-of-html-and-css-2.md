@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-02-08 15:17:15+00:00
 rsvp: 0
 slug: build-a-website-for-beginners-the-very-basics-of-html-and-css-2
-start_date: '2018-03-06'
+start_date: 2018-03-06
 start_time: 09:00:00
 title: 'Workshop: Websites for Beginners - The Very Basics of HTML and CSS'
 event-categories:

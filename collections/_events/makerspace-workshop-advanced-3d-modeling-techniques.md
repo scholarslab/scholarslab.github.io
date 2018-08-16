@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:37:22+00:00
 rsvp: 0
 slug: makerspace-workshop-advanced-3d-modeling-techniques
-start_date: '2014-10-22'
+start_date: 2014-10-22
 start_time: '11:00:00'
 title: 'Makerspace Workshop: Making Your First 3D Model'
 ---

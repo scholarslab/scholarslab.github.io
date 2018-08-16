@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-11-06 15:18:01+00:00
 rsvp: 0
 slug: uva-medieval-colloquium-kathleen-kennedy
-start_date: '2014-11-14'
+start_date: 2014-11-14
 start_time: '10:00:00'
 title: 'UVa Medieval Colloquium: Kathleen Kennedy'
 event-tags:

@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2016-09-09 12:00:50+00:00
 rsvp: 0
 slug: workshop-creating-your-neatline-project
-start_date: '2016-10-06'
+start_date: 2016-10-06
 start_time: '10:00:00'
 title: 'Workshop: Creating Your Neatline Project'
 ---

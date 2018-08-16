@@ -8,7 +8,7 @@ location: 'Auditorium, Harrison Institute/Small Special Collections Library'
 published-date: 2016-10-05 17:54:14+00:00
 rsvp: 0
 slug: dhuva-conference-2016
-start_date: '2016-10-14'
+start_date: 2016-10-14
 start_time: 00:00:00
 title: DH@UVA Conference 2016
 ---

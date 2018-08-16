@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-08-31 15:23:02+00:00
 rsvp: 0
 slug: uva-library-gis-workshop-getting-your-data-on-a-map
-start_date: '2015-09-10'
+start_date: 2015-09-10
 start_time: '15:00:00'
 title: 'UVa Library GIS Workshop: Getting Your Data on a Map'
 event-categories:

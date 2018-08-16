@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-02-14 12:11:50+00:00
 rsvp: 0
 slug: dh-fellows-presentation
-start_date: '2018-05-02'
+start_date: 2018-05-02
 start_time: '10:30:00'
 title: 'Digital Humanities Fellows Presentations & Lunch: Ethan Reed & Julia Haines'
 ---

@@ -8,7 +8,7 @@ location: 'Makerspace, Scholars&#039; Lab Common Room'
 published-date: 2014-08-25 10:20:21+00:00
 rsvp: 0
 slug: makerspace-open-house-2014-09-10
-start_date: '2014-09-10'
+start_date: 2014-09-10
 start_time: '14:00:00'
 title: Makerspace Open House
 ---

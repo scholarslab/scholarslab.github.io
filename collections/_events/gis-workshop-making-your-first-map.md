@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:12:33+00:00
 rsvp: 0
 slug: gis-workshop-making-your-first-map
-start_date: '2014-09-04'
+start_date: 2014-09-04
 start_time: '14:00:00'
 title: 'GIS Workshop: Making Your First Map'
 ---

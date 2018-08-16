@@ -8,7 +8,7 @@ location: 0
 published-date: 2015-03-16 13:36:18+00:00
 rsvp: 0
 slug: moving-people-linking-lives-an-interdisciplinary-symposium
-start_date: '2015-03-20'
+start_date: 2015-03-20
 start_time: 09:00:00
 title: 'Moving People, Linking Lives: An Interdisciplinary Symposium'
 ---

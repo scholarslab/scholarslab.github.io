@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-02-13 13:04:13+00:00
 rsvp: 0
 slug: workshop-introduction-to-docnow
-start_date: '2018-03-01'
+start_date: 2018-03-01
 start_time: '14:00:00'
 title: 'Workshop: Introduction to DocNow'
 ---

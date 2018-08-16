@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 19:53:23+00:00
 rsvp: 0
 slug: dh-panel-fair-use-and-the-future-of-digital-scholarship
-start_date: '2016-02-24'
+start_date: 2016-02-24
 start_time: '14:00:00'
 title: 'DH Panel: Fair Use and the Future of Digital Scholarship'
 event-categories:

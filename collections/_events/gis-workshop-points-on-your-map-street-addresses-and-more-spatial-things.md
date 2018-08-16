@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:27:42+00:00
 rsvp: 0
 slug: gis-workshop-points-on-your-map-street-addresses-and-more-spatial-things
-start_date: '2014-09-18'
+start_date: 2014-09-18
 start_time: '14:00:00'
 title: 'GIS Workshop: Points on Your Map—Street Addresses and More Spatial Things'
 ---

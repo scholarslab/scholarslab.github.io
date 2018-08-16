@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-03-12 18:51:13+00:00
 rsvp: 0
 slug: visual-thinking-workshop-with-nick-sousanis
-start_date: '2018-03-20'
+start_date: 2018-03-20
 start_time: 09:00:00
 title: Visual Thinking Workshop with Nick Sousanis
 ---

@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-08-31 15:27:44+00:00
 rsvp: 0
 slug: uva-library-gis-workshop-taking-control-of-your-spatial-data-editing-in-arcgis
-start_date: '2015-10-01'
+start_date: 2015-10-01
 start_time: '15:00:00'
 title: 'UVa Library GIS Workshop: Taking Control of Your Spatial Data - Editing in
   ArcGIS'

@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-02-06 14:09:03+00:00
 rsvp: 0
 slug: using-git-for-beginners
-start_date: '2018-02-27'
+start_date: 2018-02-27
 start_time: '13:00:00'
 title: 'Workshop: Basics of Version Control with Git'
 ---

@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 08:53:35+00:00
 rsvp: 0
 slug: gis-workshop-diy-aerial-photography-ii
-start_date: '2015-03-25'
+start_date: 2015-03-25
 start_time: '13:00:00'
 title: 'GIS Workshop: DIY Aerial Photography II'
 event-categories:

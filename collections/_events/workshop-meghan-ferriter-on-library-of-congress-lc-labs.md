@@ -8,7 +8,7 @@ location: 'Byrd-Morris Room in Harrison-Small'
 published-date: 2017-09-27 18:00:14+00:00
 rsvp: 0
 slug: workshop-meghan-ferriter-on-library-of-congress-lc-labs
-start_date: '2017-09-29'
+start_date: 2017-09-29
 start_time: '13:30:00'
 title: 'Workshop: Meghan Ferriter on Library of Congress'' LC Labs'
 ---

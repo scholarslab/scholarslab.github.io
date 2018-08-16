@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:09:46+00:00
 rsvp: 0
 slug: gis-workshop-getting-your-data-on-a-map-5
-start_date: '2017-09-26'
+start_date: 2017-09-26
 start_time: '15:00:00'
 title: 'GIS Workshop: Getting Your Data on a Map'
 event-categories:

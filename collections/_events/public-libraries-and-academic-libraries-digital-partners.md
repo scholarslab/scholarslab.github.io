@@ -8,7 +8,7 @@ location: 'Byrd-Morris Room in Harrison-Small'
 published-date: 2015-10-14 09:11:41+00:00
 rsvp: 0
 slug: public-libraries-and-academic-libraries-digital-partners
-start_date: '2015-10-16'
+start_date: 2015-10-16
 start_time: '10:30:00'
 title: 'Public Libraries and Academic Libraries: Digital Partners?'
 ---

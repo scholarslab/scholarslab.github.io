@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 08:46:03+00:00
 rsvp: 0
 slug: gis-workshop-learning-old-school-mapping-techniques
-start_date: '2015-03-04'
+start_date: 2015-03-04
 start_time: '13:00:00'
 title: 'GIS Workshop: Learning Old-School Mapping Techniques'
 event-categories:

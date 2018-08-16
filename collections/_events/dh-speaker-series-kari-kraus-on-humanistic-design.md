@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-10-14 09:41:14+00:00
 rsvp: 0
 slug: dh-speaker-series-kari-kraus-on-humanistic-design
-start_date: '2014-10-20'
+start_date: 2014-10-20
 start_time: '10:00:00'
 title: 'DH Speaker Series: Kari Kraus on Humanistic Design'
 ---

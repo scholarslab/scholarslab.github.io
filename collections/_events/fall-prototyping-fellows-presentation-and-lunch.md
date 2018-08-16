@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-01-24 15:38:06+00:00
 rsvp: 0
 slug: fall-prototyping-fellows-presentation-and-lunch
-start_date: '2018-02-02'
+start_date: 2018-02-02
 start_time: '10:30:00'
 title: Fall Prototyping Fellows Presentation and Lunch
 event-categories:

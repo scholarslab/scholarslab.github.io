@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:37:48+00:00
 rsvp: 0
 slug: gis-day-2017
-start_date: '2017-11-15'
+start_date: 2017-11-15
 start_time: '13:00:00'
 title: GIS Day 2017 Celebration
 event-categories:

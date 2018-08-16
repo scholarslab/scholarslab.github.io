@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-01-11 16:25:35+00:00
 rsvp: 0
 slug: marlene-daut-on-haiti-and-the-digital-world
-start_date: '2017-01-18'
+start_date: 2017-01-18
 start_time: '15:30:00'
 title: Marlene Daut on Haiti and the Digital World
 ---

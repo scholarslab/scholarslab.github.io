@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-04-11 12:40:54+00:00
 rsvp: 0
 slug: digital-humanities-fellows-panel-luncheon
-start_date: '2017-04-26'
+start_date: 2017-04-26
 start_time: '10:00:00'
 title: Digital Humanities Fellows Panel & Luncheon
 ---

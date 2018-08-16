@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-04-21 16:16:16+00:00
 rsvp: 0
 slug: praxis-graduate-student-fellows-panel-luncheon
-start_date: '2015-04-28'
+start_date: 2015-04-28
 start_time: '12:00:00'
 title: Praxis Graduate Student Fellows Panel & Luncheon
 ---

@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-03-24 20:37:59+00:00
 rsvp: 0
 slug: makerspace-workshop-fundamentals-of-digital-photography
-start_date: '2015-04-02'
+start_date: 2015-04-02
 start_time: '14:00:00'
 title: 'Makerspace Workshop: Fundamentals of Digital Photography'
 event-categories:

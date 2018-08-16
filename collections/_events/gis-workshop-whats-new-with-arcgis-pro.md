@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 423'
 published-date: 2018-02-06 13:38:44+00:00
 rsvp: 0
 slug: gis-workshop-whats-new-with-arcgis-pro
-start_date: '2018-03-20'
+start_date: 2018-03-20
 start_time: '10:00:00'
 title: 'GIS Workshop: What’s New with ArcGIS Pro'
 ---

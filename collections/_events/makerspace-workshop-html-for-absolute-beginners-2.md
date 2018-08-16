@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 10:06:16+00:00
 rsvp: 0
 slug: makerspace-workshop-html-for-absolute-beginners-2
-start_date: '2015-02-19'
+start_date: 2015-02-19
 start_time: '14:00:00'
 title: 'Makerspace Workshop: HTML for Absolute Beginners'
 event-categories:

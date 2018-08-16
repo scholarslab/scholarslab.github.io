@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 20:03:25+00:00
 rsvp: 0
 slug: dh-speaker-series-sarah-bond
-start_date: '2016-03-15'
+start_date: 2016-03-15
 start_time: '10:00:00'
 title: 'Linking the Ancient World: A Pleiades Workshop With Sarah Bond'
 ---

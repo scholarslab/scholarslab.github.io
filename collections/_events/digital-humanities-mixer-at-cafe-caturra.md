@@ -8,7 +8,7 @@ location: 'Cafe Caturra'
 published-date: 2017-01-16 17:49:33+00:00
 rsvp: 0
 slug: digital-humanities-mixer-at-cafe-caturra
-start_date: '2017-01-26'
+start_date: 2017-01-26
 start_time: '16:00:00'
 title: Digital Humanities Mixer at Cafe Caturra
 ---

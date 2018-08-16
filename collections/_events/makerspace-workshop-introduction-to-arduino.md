@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:35:45+00:00
 rsvp: 0
 slug: makerspace-workshop-introduction-to-arduino
-start_date: '2014-10-08'
+start_date: 2014-10-08
 start_time: '11:00:00'
 title: 'Makerspace Workshop: Introduction to Arduino'
 ---

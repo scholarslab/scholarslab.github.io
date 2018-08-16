@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2018-04-09 16:14:12+00:00
 rsvp: 0
 slug: workshop-metagaming-with-stephanie-boluk-and-patrick-lemieux
-start_date: '2018-04-26'
+start_date: 2018-04-26
 start_time: '14:00:00'
 title: 'Workshop: 1001 Game Engines with Stephanie Boluk and Patrick LeMieux'
 ---

@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:34:02+00:00
 rsvp: 0
 slug: gis-workshop-taking-control-of-your-spatial-data-editing-in-arcgis
-start_date: '2014-10-02'
+start_date: 2014-10-02
 start_time: '14:00:00'
 title: 'GIS Workshop: Taking Control of Your Spatial Data -- Editing in ArcGIS'
 ---

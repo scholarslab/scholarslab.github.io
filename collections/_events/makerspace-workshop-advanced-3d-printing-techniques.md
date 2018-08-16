@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-09-21 15:28:54+00:00
 rsvp: 0
 slug: makerspace-workshop-advanced-3d-printing-techniques
-start_date: '2015-10-14'
+start_date: 2015-10-14
 start_time: '13:00:00'
 title: 'Makerspace Workshop: Advanced 3D Printing Techniques'
 event-categories:

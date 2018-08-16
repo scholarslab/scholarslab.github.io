@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 05:59:59+00:00
 rsvp: 0
 slug: gis-workshop-georeferencing-a-map-putting-old-maps-and-aerial-photos-on-your-map-2
-start_date: '2017-09-19'
+start_date: 2017-09-19
 start_time: '15:00:00'
 title: 'GIS Workshop:  Georeferencing a Map - Putting Old Maps and Aerial Photos on
   Your Map'

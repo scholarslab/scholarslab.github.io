@@ -8,7 +8,7 @@ location: 'Clemons Library, Room 407'
 published-date: 2016-11-28 16:50:50+00:00
 rsvp: 0
 slug: work-in-progress-seminar-maria-skou-nicolaisen-on-current-trends-in-digital-literary-studies
-start_date: '2016-11-30'
+start_date: 2016-11-30
 start_time: '12:00:00'
 title: 'Work-in-Progress Seminar: Maria Skou Nicolaisen on Current Trends in Digital
   Literary Studies'

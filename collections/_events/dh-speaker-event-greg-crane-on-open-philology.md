@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2017-04-10 11:17:41+00:00
 rsvp: 0
 slug: dh-speaker-event-greg-crane-on-open-philology
-start_date: '2017-04-12'
+start_date: 2017-04-12
 start_time: '15:00:00'
 title: 'DH Speaker Event: Greg Crane on Open Philology'
 event-categories:

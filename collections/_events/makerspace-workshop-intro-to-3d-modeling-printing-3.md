@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 09:26:52+00:00
 rsvp: 0
 slug: makerspace-workshop-intro-to-3d-modeling-printing-3
-start_date: '2015-01-29'
+start_date: 2015-01-29
 start_time: '14:00:00'
 title: 'Makerspace Workshop: Intro to 3D Modeling & Printing'
 event-categories:

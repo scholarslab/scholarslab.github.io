@@ -8,7 +8,7 @@ location: 'Alderman Library, Room 421'
 published-date: 2015-08-31 15:26:09+00:00
 rsvp: 0
 slug: uva-library-gis-workshop-georeferencing
-start_date: '2015-09-24'
+start_date: 2015-09-24
 start_time: '15:00:00'
 title: 'UVa Library GIS Workshop: Georeferencing – Putting Old maps and Aerial Photos
   on Your Map'

@@ -8,7 +8,7 @@ location: 'Scholars&#039; Lab Common Room'
 published-date: 2018-01-24 15:47:32+00:00
 rsvp: 0
 slug: scholars-lab-open-office-hours-2018-04-02
-start_date: '2018-04-02'
+start_date: 2018-04-02
 start_time: '10:00:00'
 title: Scholars' Lab Open Office Hours
 ---
