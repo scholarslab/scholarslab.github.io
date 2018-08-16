@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Gabriela
+last_name: Trinidad Pérez
 layout: people
 name: Gabriela Trinidad Pérez
 position:

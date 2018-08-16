@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Je'lon
+last_name: Alexander
 layout: people
 name: Je'lon Alexander
 position:

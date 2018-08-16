@@ -1,8 +1,8 @@
 ---
 department: None
 email: None
-first_name: None
-last_name: None
+first_name: Valeria
+last_name: Arce
 layout: people
 name: Valeria Arce
 position:

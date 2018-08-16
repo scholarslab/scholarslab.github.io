@@ -22,7 +22,7 @@ analytics: false
 incremental: true
 sass:
   sass_dir: assets/css/_sass
-  style: expanded # temporary! change back to compressed later
+  style: compressed
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -39,6 +39,7 @@ exclude:
 #  - _people # temporary
   - assets/python # helper scripts to manipulate HTML/CSS, not used in build
 
+collections_dir: collections
 collections:
   people:
     output: true

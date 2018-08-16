@@ -55,7 +55,7 @@ order: 3
           <a href="{{ site.url }}/work/{{ project.slug }}" aria-label="{{ project.title }}">
             <div class="people-item__img">
 
-            <img src="{{ '/assets/img/work/' | append: project.thumb-img | relative_url }}" alt="{{ project.title }}">
+            <img src="{{ site.url }}{{ '/assets/img/work/' | append: project.thumb-img | relative_url }}" alt="{{ project.title }}">
 
             </div>
             <div class="people-item__name">
