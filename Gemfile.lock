@@ -34,7 +34,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.7.3)
+    jekyll (3.8.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -104,7 +104,7 @@ PLATFORMS
 DEPENDENCIES
   front_matter_parser
   html-proofer
-  jekyll (= 3.7.3)
+  jekyll (~> 3.7)
   jekyll-feed (~> 0.9)
   jekyll-paginate-v2 (~> 1.9)
   jekyll-sitemap (~> 1.1)
