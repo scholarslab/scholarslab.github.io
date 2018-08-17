@@ -3,11 +3,6 @@ layout: page
 title: Colophon
 permalink: /colophon/
 nav: false
-time-required: ~2hrs
-notes:
-- Content: needs to be updated
-- Style: not started
-- NB: Phase 1 goal is fairly simple text-based page, though future iterations might benefit from more specific styling since this is mostly list-type content.
 ---
 
 We hope to update this page to reflect current and recent website work soon! In summary, we've migrated the site from WordPress to a Jekyll-generated static site.
