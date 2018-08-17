@@ -3,10 +3,6 @@ layout: page
 title: Praxis Program Fellowships
 permalink: /praxis-program-fellowships/
 nav: false
-status: in progress
-notes:
-- Fellowship layout (see section "Other")
-- Change YAML 'layout' to 'fellowship' once finished
 ---
 
 **Applications are now closed for the 2018-2019 cohort. Be on the lookout for next year's call in December of 2018**. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
