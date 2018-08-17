@@ -119,13 +119,13 @@ last_name: #{args.last_name.titleize}
 layout: people
 name: #{args.first_name.titleize + ' ' + args.last_name.titleize}
 position: None
-short_bio: 'A short one-sentence bo.'
+short_bio: 'A short one-sentence bio.'
 slug: #{slug}
-status: current
+status: current or not_current
 twitter: None
 website: None
 people-category:
-- Either 'student' or 'staff'
+- Pick one of student or staff
 roles:
 - LAMI FELLOW, 2018 (for example)
 ---
