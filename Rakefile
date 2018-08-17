@@ -57,22 +57,22 @@ task :new_project, [:title] do |t, args|
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
   titlecase_title = args.title.titlecase
   File.open(fn, 'w'){|f|
-    f.puts("---")
-    f.puts("collaborators: ")
-    f.puts("  - name: First Last")
-    f.puts("    slug: first-last")
-    f.puts("    role: ")
-    f.puts("current: false")
-    f.puts("layout: work")
-    f.puts("link: ''")
-    f.puts("slug: #{title_slug}")
-    f.puts("title: #{titlecase_title}")
-    f.puts('thumb-img: ')
-    f.puts('banner-img: ')
-    f.puts("research-category: ")
-    f.puts("year: 2018")
-    f.puts("---")
-    f.puts("Description of the project goes here")
+    f.puts("---
+collaborators: 
+  - name: First Last
+    slug: first-last
+    role: 
+current: false
+layout: work
+link: ''
+slug: #{title_slug}
+title: #{titlecase_title}
+thumb-img: 
+banner-img: 
+research-category: 
+year: 2018
+---
+Description of the project goes here")
   }
   puts "New research project created at #{fn}"
 end
