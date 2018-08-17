@@ -13,7 +13,7 @@ layout: default
 		<span>{{ page.title | replace: ' - ', ': ' }}</span>
 	</div>
 	<div class="project-content__metadata" {% if title_array.size <= 2 %}style="flex-flow: column nowrap;"{% endif %}>
-		<div class="project-content__year"><span>Year:</span><div>{{ page.year }}</div></div>
+		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}-{{ page.end-year }}</div></div>
 		<div class="project-content__category">{% if page.research-category %}<span>Work type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div>{% endif %}</div>
 		<!--div class="project-content__cta"><a href="{{ page.link }}">Visit Project</a></div-->
 	</div>

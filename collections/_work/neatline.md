@@ -27,14 +27,29 @@ collaborators:
   - name: Ammon Shepherd 
     slug: ammon-shepherd
     role: Humanities Developer
-current: true
+  - name: Katherine Donnally
+    slug: katherine-donnally
+    role: Digital Humanities Designer
+  - name: Zoe LeBlanc
+    slug: zoe-leblanc
+    role: DH Developer
+  - name: Ronda Grizzle
+    slug: ronda-grizzle
+    role: Project Management & Training Specialist
+  - name: Amanda Visconti
+    slug: amanda-visconti
+    role: Managing Director
+  - name: Performant Software
+    slug: performant-software
+    role: Development Consulting
 layout: work
 slug: neatline
 title: Neatline
 thumb-img: neatline-thumb.png
 banner-img: neatline-banner.png
 research-category: Internal Projects and Community Service
-year: 2011-present
+start-year: 2011
+end-year: current
 ---
 
 Neatline is a mix-and-match toolset for the creation of interlinked timelines and maps as interpretive expressions of the literary or historical content of archival collections. It allows scholars and archivists to build on standard descriptive metadata and georectified maps to produce rich, evocative – even theoretical – spatial and temporal visualizations of the textual content of catalogued letters, manuscripts, and artifacts.
