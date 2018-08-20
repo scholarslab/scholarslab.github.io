@@ -8,13 +8,13 @@ name: Katherine Donnally
 position: DH Designer
 short_bio: 'Katherine Donnally is a designer at the Lab, focusing on web design, graphics, & the role of design decisions within the project of advancing social equity.'
 slug: katherine-donnally
-status: current
+status: not_current
 twitter: kbdonnally
 website: None
 people-category:
 - staff
 roles:
-  - DH Designer, 2018-current
+  - DH Designer, 2018
   - Student Assistant, 2017
 ---
 
