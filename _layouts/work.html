@@ -27,7 +27,7 @@ layout: default
 		<div class="project-collab__people">
 		{% for person in page.collaborators %}
 		<ul>
-			<li>{% if person.slug and site.data.people[person.slug] %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+			<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
 			<li>{{ person.role }}</li>
 		</ul>
 		{% endfor %}
