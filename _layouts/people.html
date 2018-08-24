@@ -51,7 +51,7 @@ layout: default
 			    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
 			{% else %}
 			    {% for pic in profile_pic %}
-			    {% unless pic.path contains 'cropped' %}
+			    {% unless pic.path contains 'cropped'  or pic.path contains 'grid' %}
 			      <img src="{{ pic.path }}" alt="{{ page.slug }}">
 			    {% endunless %}
 			    {% endfor %}

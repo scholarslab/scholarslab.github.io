@@ -1,16 +1,16 @@
 ---
-all_day: '0'
+all_day: 1
 author: jeremy-boggs
 end_date: '2014-09-17'
 end_time: '12:00:00'
 layout: events
+location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:14:55+00:00
-rsvp: '0'
+rsvp: 0
 slug: makerspace-workshop-intro-to-3d-modeling-printing
-start_date: '2014-09-17'
+start_date: 2014-09-17
 start_time: '11:00:00'
 title: 'Makerspace Workshop: Intro to 3D Modeling & Printing'
-location: 'Scholars&#8217; Lab Common Room'
 ---
 
 Do you think 3D modeling has to be expensive and time-consuming? Are you curious about 3D printing but unsure where to start?

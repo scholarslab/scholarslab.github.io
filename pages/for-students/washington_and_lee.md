@@ -3,10 +3,6 @@ layout: page
 title: Guest DH Workshop Teaching at W&L
 permalink: /visiting-workshops-at-washington-and-lee-university/
 nav: false
-status: in progress
-notes:
-- Fellowship layout (see section "Other")
-- Change YAML 'layout' to 'fellowship' once finished
 ---
 
 Funded by the Andrew W. Mellon Foundation, Washington and Lee University is collaborating with the Scholars’ Lab at the University of Virginia to bring UVA graduate students to give presentations or workshops on their digital research to enrich undergraduate courses at W&L. The grant aims to give graduate students the opportunity to develop workshop materials based on their work in digital humanities and to gain experience teaching in a liberal arts context in preparation for the job market. W&L courses and students gain contact with cutting edge digital research and pedagogy.
