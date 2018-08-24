@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Scholars' Lab Student Programs Charter
+title: Student Programs Charter
 tags: charter
 nav: false
 permalink: /student-programs-charter/
 ---
 
-# Student Programs Charter
+The Scholars’ Lab engages in a broad number of pedagogical activities. While our primary constituency has tended to be graduate students as a strategic investment in future scholar practitioners, we also teach undergraduates, staff, faculty, and each other. To help support that work, the following document aims to lay out the shared values and ethos that underlie our engagements with students taking part in our official programs. Individual consultations are not necessarily covered in this document, and any given program might intersect with these values in unique ways from others. Additional statements of our core pedagogy that supplement this charter can be found in the [general lab charter](http://scholarslab.org/about/charter) and the [Praxis Program charter](http://praxis.scholarslab.org/praxis-program-charter/).
 
-The Scholars’ Lab engages in a broad number of pedagogical activities. While our primary constituency has tended to be graduate students as a strategic investment in future scholar practitioners, we also teach undergraduates, staff, faculty, and each other. To help support that work, the following document aims to lay out the shared values and ethos that underlie our engagements with students taking part in our official programs (individual consultations are not necessarily covered in this document). Additional statements of our core pedagogy that supplement this charter can be found in the [general lab charter](http://scholarslab.org/about/charter) and the [Praxis Program charter](/praxis-program-charter/).
-
-##Success
+## Success
 
 Failure is a virtue. Mistakes are the portals for discovery. Learning from failure is more important than succeeding uncritically. So long as they are reflecting and learning, we will be pleased with our students regardless of the actual, tangible outcome of their time with us. All the same, we have certain benchmarks for our own success as instructors. We hope that by the end of their time with us
 
@@ -80,3 +78,18 @@ The Scholars’ Lab is committed to advancing more equitable, ethical, and just 
 
 We teach in public, meaning that we talk openly about our pedagogical process. When possible, we write about it as well. If something is not working, we will change it and adapt based on the needs of the students and our colleagues. Accordingly, we expect our students to talk and write about their work and the learning process for them, to engage in the experience, and help us shape a pedagogical experience that works for them.
 
+<div id="modified-date"></div>
+
+<script>
+(function() {
+  var githubAPI = "https://api.github.com/repos/scholarslab/praxis/commits";
+  $.getJSON( githubAPI, {
+    path: "/pages/for-students/student-programs-charter.md"
+  })
+    .done(function( data ) {
+      var date = new Date(data[0].commit.author.date);
+      var formatted_date = new Intl.DateTimeFormat('sv').format(date)
+      $("#modified-date").text('Last updated: ' + formatted_date);
+    });
+})();
+</script>
