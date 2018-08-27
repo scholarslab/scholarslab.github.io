@@ -8,7 +8,7 @@ name: Chloe Wells
 position:
 short_bio:
 slug: chloe-wells
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
