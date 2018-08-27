@@ -47,7 +47,7 @@ task :test_travis do
   }
   
   HTMLProofer.check_directory("./_site", options).run
-  sh 'bundle exec jekyll serve --incremental'
+  sh 'bundle exec jekyll serve --incremental --skip-initial-build'
 end
 
 desc "Make a research project"
