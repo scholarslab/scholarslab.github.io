@@ -19,8 +19,8 @@ collaborators:
   - name: Ronda Grizzle
     slug: ronda-grizzle
     role: Project Management & Training Specialist
-  - Brandon Butler
-  - Jenn Huck
+  - name: Brandon Butler
+  - name: Jenn Huck
 layout: work
 slug: equity-atlas
 title: Equity Atlas
