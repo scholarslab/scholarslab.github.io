@@ -235,3 +235,18 @@
 		}
 	}
 }	
+.events-header__big-title::before {
+	content: '';
+	position: absolute;
+	top: calc(100% - 8px);
+	left: 0;
+	width: 100%;
+	height: 8px;
+	background-color: #702dbe;
+	background-image: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)),url(../img/decorative/color-splatter-purple.jpg);
+	background-size: cover;
+	background-position: bottom left;
+}
+.events-header__subtitle{
+	margin-top: 16px;
+}
