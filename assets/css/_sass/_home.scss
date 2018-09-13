@@ -576,8 +576,19 @@ html, body {
 }
 
 #hero-arrow{
-	width: 1em;
+	width: 0.5em;
 	justify-self: center;
 	position: absolute;
 	bottom: 16px;
+}
+
+#makerspace-location-label{
+	text-align: center;
+}
+
+#makerspace-plan{
+	position: absolute;
+	top: 0;
+	left: 0;
+	max-height: 75vh;
 }
