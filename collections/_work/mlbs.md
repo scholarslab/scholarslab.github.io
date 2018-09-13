@@ -10,8 +10,8 @@ collaborators:
 layout: work
 slug: mlbs
 title: Mountain Lake Biological Station collaboration
-thumb-img:
-banner-img:
+thumb-img: default-thumb.png
+banner-img: default-banner.png
 research-category: Internal Projects and Community Service
 start-year: (before 2018)
 end-year: current

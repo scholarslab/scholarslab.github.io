@@ -13,8 +13,8 @@ layout: work
 link: http://faulkner.iath.virginia.edu/
 slug: digital-yoknapatawpha
 title: Digital Yoknapatawpha
-thumb-img:
-banner-img:
+thumb-img: default-thumb.png
+banner-img: default-banner.png
 research-category: Scholarly Collaborations
 start-year: (before 2018)
 end-year: (before 2018)

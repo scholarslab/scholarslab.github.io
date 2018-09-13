@@ -7,8 +7,8 @@ link: https://makergrounds.virginia.edu
 layout: work
 slug: makergrounds
 title: Makergrounds
-thumb-img:
-banner-img:
+thumb-img: default-thumb.png
+banner-img: default-banner.png
 research-category: Internal Projects and Community Service
 start-year: (before 2018)
 end-year: current

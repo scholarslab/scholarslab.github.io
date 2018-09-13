@@ -24,8 +24,8 @@ collaborators:
 layout: work
 slug: equity-atlas
 title: Equity Atlas
-thumb-img:
-banner-img:
+thumb-img: default-thumb.png
+banner-img: default-banner.png
 research-category: Internal Projects and Community Service
 start-year: 2018
 end-year: current

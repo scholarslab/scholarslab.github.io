@@ -7,8 +7,8 @@ layout: work
 url: https://pages.shanti.virginia.edu/LhasaVR
 slug: LhasaVR
 title: LhasaVR
-thumb-img:
-banner-img:
+thumb-img: default-thumb.png
+banner-img: default-banner.png
 research-category: Scholarly Collaborations
 start-year: (before 2018)
 end-year: current

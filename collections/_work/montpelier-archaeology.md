@@ -6,8 +6,8 @@ collaborators:
 layout: work
 slug: montpelier-archaeology
 title: Montpelier Archaeology
-thumb-img:
-banner-img:
+thumb-img: default-thumb.png
+banner-img: default-banner.png
 research-category: Internal Projects and Community Service
 start-year: (before 2018)
 end-year: current
