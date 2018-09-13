@@ -40,7 +40,6 @@ collaborators:
     slug: amanda-visconti
     role: Managing Director
   - name: Performant Software
-    slug: performant-software
     role: Development Consulting
 layout: work
 slug: neatline
