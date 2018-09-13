@@ -5,7 +5,7 @@ collaborators:
     role: 3D Technologies and Architectural Specialist
 layout: work
 url: https://pages.shanti.virginia.edu/LhasaVR
-slug: LhasaVR
+slug: lhasavr
 title: LhasaVR
 thumb-img: default-thumb.png
 banner-img: default-banner.png

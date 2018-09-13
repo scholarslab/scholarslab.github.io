@@ -5,7 +5,7 @@ collaborators:
     role: 3D Technologies and Architectural Specialist
   - name: IATH
 layout: work
-slug: 3D-chi
+slug: 3d-chi
 title: 3D Cultural Heritage Informatics
 url: https://pages.shanti.virginia.edu/Cultural_Heritage_Data/data-2/
 thumb-img: default-thumb.png

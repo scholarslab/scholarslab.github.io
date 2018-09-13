@@ -5,7 +5,7 @@ collaborators:
     role: 3D Technologies and Architectural Specialist
   - name: CS3DP Best Practices working group
 layout: work
-slug: community-standards-3D-data-pres
+slug: community-standards-3d-data-pres
 title: Community Standards for 3D Data Preservation
 thumb-img: default-thumb.png
 banner-img: default-banner.png
