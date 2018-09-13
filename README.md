@@ -120,8 +120,14 @@ rake new_post["Brandon's best blog post ever","Brandon Walsh"]
 
 ### Make a new research project given a title
 ```bash
-rake new_post["The name of your project goes here"]
+rake new_project["The name of your project goes here"]
 ```
+
+### Make a new event project given a title
+```bash
+rake new_event["The name of your event goes here"]
+```
+
 
 ## Contribution Guidelines
 
