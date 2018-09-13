@@ -14,6 +14,9 @@ collaborators:
   - name: Shane Lin
     slug: shane-lin
     role: Senior Developer
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Head of R&D
 link: http://salem.lib.virginia.edu/
 layout: work
 slug: salem-witch-trials

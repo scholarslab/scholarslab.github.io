@@ -8,7 +8,7 @@ collaborators:
     role: GIS Specialist
   - name: Stephen Railton
   - name: Worthy Martin
-  - Robbie Bingler
+  - name: Robbie Bingler
 layout: work
 link: http://faulkner.iath.virginia.edu/
 slug: digital-yoknapatawpha

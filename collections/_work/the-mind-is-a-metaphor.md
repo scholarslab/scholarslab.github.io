@@ -1,7 +1,6 @@
 ---
 collaborators: 
   - name: Brad Pasanek
-    slug: brad-pasanek
     role: Project Owner
   - name: TBD
     role: Please contact us if you have information on past collaborators.

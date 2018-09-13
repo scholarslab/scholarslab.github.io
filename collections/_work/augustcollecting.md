@@ -1,10 +1,8 @@
 ---
 collaborators: 
   - name: Kara McClurken
-    slug: kara-mcclurken
     role: UVA Library Director, Preservation Services
   - name: Lauren Work
-    slug: lauren-work
     role: UVA Library, Digital Preservation Librarian
   - name: Jeremy Boggs
     slug: jeremy-boggs
