@@ -14,19 +14,9 @@ order: 2
 		<div class="blog-header__subtitle">Our thoughts, from rough new ideas to polished arguments. Scholars’ Lab team and collaborators write about their scholarship.</div>
 	</header>
 	<div class="blog-main-content">
-        {% if paginator.total_pages > 1 %}
-        <nav class="pagination">
-        {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-        {% endif %}
-        {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-        {% endif %}
-        </nav>
-        {% endif %}
 		<div class="blog-gallery">
 			<!-- post layout: -->
-			{% for post in paginator.posts %}
+			{% for post in site.posts limit:4 %}
 			<section class="blog-gallery__item">
 				<div class="blog-item__title">
 					<span>
@@ -77,6 +67,13 @@ order: 2
 				</div>
 			</section>
 			{% endfor %} <!-- end post -->
+            <section id="previous_posts">
+                <h2>Previous Posts</h2>
+                <ul class="page-previous_posts">
+			{% for post in site.posts offset:4 %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+                </ul>
 		</div> <!-- end gallery -->
 	</div> <!-- end main content -->
 </div> <!-- end wrapper -->
