@@ -15,7 +15,9 @@ collaborators:
   - name: Scott Bailey
     slug: scott-bailey
     role: Humanities Developer
-current: false
+  - name: Jeremy Boggs
+    slug: jeremy-boggs
+    role: Head of R&D
 link: http://omeka.org
 layout: work
 slug: omeka-plugins
@@ -23,7 +25,8 @@ title: Omeka Plugins
 thumb-img: neatlineplugins-thumb.png
 banner-img: neatlineplugins-banner.png
 research-category: Internal Projects and Community Service
-year: 2009-present
+start-year: 2009
+end-year: current
 ---
 
 Our work on [Omeka](http://omeka.org) is oriented toward adapting it for use in research and special collections libraries and with scholarly digital projects that build on library- or museum-managed archival resources. Our major Omeka project is [Neatline](../neatline), but we've also done recent work on [UVA Special Collections exhibits](http://explore.lib.virginia.edu) and [a project](http://falmouth.lib.virginia.edu/) in collaboration with architectural historian [Louis Nelson](http://www.arch.virginia.edu/faculty/LouisNelson/).

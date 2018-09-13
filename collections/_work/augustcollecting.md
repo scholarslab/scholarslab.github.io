@@ -1,9 +1,12 @@
 ---
 collaborators: 
+  - name: Kara McClurken
+    role: UVA Library Director, Preservation Services
+  - name: Lauren Work
+    role: UVA Library, Digital Preservation Librarian
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Head of Research and Development
-current: true
 link: http://digitalcollecting.lib.virginia.edu/rally/
 layout: work
 slug: augustcollecting
@@ -11,7 +14,8 @@ title: Unite the Right Rally and Community Response
 thumb-img: augustcollecting-thumb.png
 banner-img: augustcollecting-banner.png
 research-category: Internal Projects and Community Service
-year: 2017
+start-year: 2017
+end-year: current
 ---
 
 Recognizing the significance of events on the weekend of August 12, the University of Virginia Library is building an archive of materials surrounding the “Unite the Right” rally and counter-protests.

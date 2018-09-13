@@ -8,7 +8,6 @@ collaborators:
   - name: Eric Rochester
     slug: eric-rochester
     role: Head of Research and Development
-current: false
 link: http://falmouth.lib.virginia.edu/
 layout: work
 preview-img: falmouth.jpg
@@ -16,8 +15,9 @@ slug: the-falmouth-project
 title: The Falmouth Project
 thumb-img: falmouth-thumb.png
 banner-img: falmouth-banner.png
-research-category: Scholarly Collaborations
-year: 2008
+research-category: Collaborations
+start-year: 2008
+end-year: (before 2018)
 ---
 
 Louis P. Nelson of the UVa Department of Architectural History authored [The Falmouth Project](http://falmouth.lib.virginia.edu/), an online geo-spatially accessible archive of information about the historic architecture of Falmouth, Jamaica.

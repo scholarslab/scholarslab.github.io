@@ -1,11 +1,17 @@
 ---
+collaborators: 
+  - name: Brad Pasanek
+    role: Project Owner
+  - name: TBD
+    role: Please contact us if you have information on past collaborators.
 layout: work
 slug: the-mind-is-a-metaphor
 title: The Mind is a Metaphor
 thumb-img: metaphors-thumb.png
 banner-img: metaphors-banner.png
-research-category: Scholarly Collaborations
-year: 2013
+research-category: Collaborations
+start-year: 2013
+end-year: (before 2018)
 ---
 
 [The Mind is a Metaphor](http://metaphors.lib.virginia.edu) site is a collaboration with [Brad Pasanek](http://www.engl.virginia.edu/faculty/pasanek_brad.shtml). The project collects "metaphors and root-images appealed to by the novelists, poets, dramatists, essayists, philosophers, belle-lettrists, preachers, and pamphleteers of the long eighteenth century."
