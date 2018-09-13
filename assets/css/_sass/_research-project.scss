@@ -16,7 +16,7 @@
 	align-items: start;
 	width: 100%;
 	min-height: calc(100vh - 60px);
-	padding: 0 4.167%;
+	padding: 60px 4.167% 0 4.167%;
 	margin-top: -60px; // no header
 	&::after {
 		content: '';
@@ -31,7 +31,7 @@
 	}
 	@media screen and (min-width: 600px) {
 		margin-top: -32px; // 20px shows -> .5 title em
-		padding: 0 8.33%;
+		padding: 60px 8.33% 0 8.33%;
 	}
 	@media screen and (min-width: 768px) {
 		margin-top: 0;
