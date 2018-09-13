@@ -568,6 +568,9 @@ html, body {
 	margin-bottom: 0px;
 }
 
-.project-content-wrapper{
-	padding-top: 60px;
+@media only screen and (max-width: 600px){
+		.post-main-content{
+		padding-left: 8.3%;
+		padding-right: 8.3%;
+	}
 }
