@@ -18,7 +18,7 @@ Look back at commits, slab-migration channel (dev channel too?), GDocs, content 
 Whole team for demo feedback & content  
 
 # What/why
-Welcome, encourage
-Make info easier to find
-Rethink how we communicate, concisely, what we do
-Capture the current SLab (DH/DS, all current staff)
+Welcome, encourage  
+Make info easier to find  
+Rethink how we communicate, concisely, what we do  
+Capture the current SLab (DH/DS, all current staff)  
