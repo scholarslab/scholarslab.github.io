@@ -49,7 +49,7 @@
 	span {
 		display: block;
 		font-size: .5em;
-		font-family: "base-mono-wide";
+		font-family: monospace;
 		text-transform: uppercase;
 		color: hsla(186,80%,70%,1);
 		transform: translate(0, -50%);
@@ -72,11 +72,11 @@
 
 [class*="post-meta__"] {
 	position: relative;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-weight: 200;
 	line-height: 1.5;
 	a {
-		font-family: "base-mono-narrow", monospace !important;
+		font-family: monospace !important;
 		font-weight: 200;
 		color: hsl(186,1%,25%);
 	}
@@ -288,7 +288,7 @@
 
 .post-credits__citation {
 	position: relative;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-weight: 200;
 	color: rgba(0,0,0,.5);
 	span {
