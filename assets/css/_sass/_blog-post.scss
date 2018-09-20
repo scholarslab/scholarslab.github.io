@@ -3,7 +3,7 @@
 /* Universal Styles */
 
 [class*="post-"], [class*="person-"] {
-	a {
+	a, #anonymous {
 		font-family: "Raleway", sans-serif !important;
 		font-weight: bold;
 		border-bottom: 2px solid hsla(186,80%,70%,1) !important;
@@ -75,7 +75,7 @@
 	font-family: "base-mono-narrow", monospace;
 	font-weight: 200;
 	line-height: 1.5;
-	a {
+	a, #anonymous {
 		font-family: "base-mono-narrow", monospace !important;
 		font-weight: 200;
 		color: hsl(186,1%,25%);
@@ -281,7 +281,7 @@
 	position: relative;
 	padding-left: 1rem;
 	opacity: .5;
-	a {
+	a, #anonymous {
 		font-weight: 900;
 	}
 }

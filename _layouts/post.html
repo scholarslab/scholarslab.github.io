@@ -114,11 +114,16 @@ document.write(today);
 
       <!-- START ALTERNATE BLOCK -->
       {% if authors == empty %} <!-- if there is no listed author -->
+      <div class="post-credits__author">
         <div class="post-author__image">
-          <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
+          <img src="{{ site.baseurl }}/assets/img/people/cropped/scholarslab.png" alt="Scholars' Lab Lab">
         </div>
-
-        <div class="post-author__citation">
+        <!-- link to author's person page -->
+        <div class="post-author__name">
+          <div id="anonymous">Admin</div>
+        </div>
+      </div>
+        <div class="post-credits__citation">
           <span>Cite this post: </span>
 		  <p>Scholars' Lab Blog. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on
 <script>
