@@ -84,7 +84,7 @@
 		display: block;
 		padding-bottom: 2px;
 		font-size: .5em;
-		font-family: "base-mono-wide";
+		font-family: monospace;
 		text-transform: uppercase;
 		color: hsla(186,80%,70%,1);
 	}
@@ -215,7 +215,7 @@
 .person-stats__box {
 	position: relative;
 	padding: .5em 1em;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-size: 1rem;
 	text-align: right;
 	color: black;
@@ -293,7 +293,7 @@
 			}
 			span {
 				font-size: .75em;
-				font-family: "base-mono-narrow", monospace; // "Oswald", sans-serif;
+				font-family:  monospace; // "Oswald", sans-serif;
 				font-weight: 200;
 				color: rgba(0, 0, 0, 0.5);
 			}
@@ -322,7 +322,7 @@
 }
 
 .person-posts__none-found {
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-weight: 200;
 	color: rgba(0,0,0,.5);
 	@media screen and (min-width: 1024px) {

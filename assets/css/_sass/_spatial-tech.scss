@@ -408,7 +408,7 @@
 
 .spatial-mission__text {
 	p {
-		font-family: "base-mono-narrow";
+		font-family: monospace;
 		font-size: 1.5rem;
 		color: rgba(0,0,0,.5);
 	}
@@ -611,7 +611,7 @@
 }
 
 .spatial-person__position {
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 }
 
 /* Inclusivity Note: */
