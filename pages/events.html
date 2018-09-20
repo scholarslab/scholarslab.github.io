@@ -16,9 +16,13 @@ notes:
 	</header>
 	<div class="events-main-content">
 		<div class="events-gallery">
+            <h2>Upcoming Events</h2>
 			{% assign events = site.events | sort: 'start_date' %}
+            {% assign today = site.time | date: '%Y%m%d' | plus:0 %}            
 			<!-- event layout: -->
-			{% for event in events reversed %}
+			{% for event in events %}
+            {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+            {% if eventdate > today %}
 			<section class="events-gallery__item">
 				<div class="events-item__date">
 					<div>{{ event.start_date | date: "%b" }}<br/>{{ event.start_date | date: "%-d" }}</div>
@@ -47,7 +51,19 @@ notes:
 					<a href="/events/{{ event.slug }}">Details &rsaquo;</a>
 				</div>
 			</section>
+            {% endif %}
 			{% endfor %} <!-- end event -->
 		</div> <!-- end gallery -->
+        <h2>Previous Events</h2>
+        <ul>
+            {% for event in events reversed %}
+            {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+            {% if eventdate < today %}
+            <li>
+                <a href="{{ site.url }}/events/{{ event.slug }}">{{ event.title }}</a> ({{ event.start_date | date: "%A, %B %-d, %Y" }})
+            </li>
+            {% endif %}
+            {% endfor %} <!-- end event -->
+        </ul>
 	</div> <!-- end main content -->
 </div> <!-- end wrapper -->
