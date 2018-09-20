@@ -39,7 +39,7 @@ order: 3
 
 <div class="research__description">
 	<div class="research-description__text">
-		<p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers. (<a href="/about#who-are-the-scholars-in-scholars-lab">We define "scholarship" inclusively</a>.)</p>
+		<p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers. (<a href="/about/#who-are-the-scholars-in-scholars-lab">We define "scholarship" inclusively</a>.)</p>
 	</div>
 </div>
 
@@ -52,7 +52,7 @@ order: 3
         {% for project in site.work %}
 
         <div class="people-item-wrapper">
-          <a href="/work/{{ project.slug }}" aria-label="{{ project.title }}">
+          <a href="/work/{{ project.slug }}/" aria-label="{{ project.title }}">
             <div class="people-item__img">
 
             <img src="{{ site.url }}{{ '/assets/img/work/' | append: project.thumb-img | relative_url }}" alt="{{ project.title }}">

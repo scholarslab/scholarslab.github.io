@@ -13,7 +13,7 @@
   <meta property="og:description" content="{{ description }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:type" content="{{ page.og_type }}">
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}/">
   {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% endif %}
   {% assign authors = site.people | where: "slug", page.author %}
   {% for author in authors %}<meta property="og:author" content="{{ author.name }}">{% endfor %}
@@ -33,7 +33,7 @@
 
   <link href="https://fonts.googleapis.com/icon?family=Raleway:200,400,400i,600,700,700i,900|Oswald:200,400,600,700|Inconsolata:400,700|VT323" rel="stylesheet">
   <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}/">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   
   <!--  favicon -->
