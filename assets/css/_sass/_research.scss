@@ -201,7 +201,7 @@
 	position: relative;
 	padding: 0 2em;
 	margin: 0 4.167%;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	color: rgba(255,255,255,.9);
 	border: 1px solid rgba(255,255,255,.9);
 	&::before {
@@ -297,7 +297,7 @@
 [class*="research-nav__btn--"] {
 	padding: 0 .375em;
 	font-size: 2rem;
-	font-family: "base-mono-wide", sans-serif;
+	font-family: monospace;
 	font-weight: 900;
 	color: black;
 	transform: translate(0, -1px);
@@ -331,7 +331,7 @@
 	display: none;
 	justify-content: center;
 	align-items: center;
-	font-family: "base-mono-wide", monospace;
+	font-family: monospace;
 	font-weight: 700;
 	span {
 		display: inline-block;
@@ -491,7 +491,7 @@
 
 .research-item__num {
 	position: relative;
-	font-family: "base-mono-wide", monospace;
+	font-family: monospace;
 	font-size: 1.5rem;
 	font-weight: 700;
 	color: black;
@@ -551,7 +551,7 @@
 .research-item__yr {
 	position: relative;
 	margin-top: 1em;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-weight: 200;
 	color: rgba(0,0,0,.5);
 }

@@ -76,7 +76,7 @@
 		display: block;
 		padding-bottom: 2px;
 		font-size: .5em;
-		font-family: "base-mono-wide";
+		font-family: monospace;
 		text-transform: uppercase;
 		color: $brightgrape;
 	}
@@ -123,7 +123,7 @@
 .event-stats__box {
 	position: relative;
 	padding: .5em 1em;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-size: 1rem;
 	text-align: right;
 	color: black;
@@ -268,7 +268,7 @@
 }
 
 .event-questions__text {
-//	font-family: "base-mono-narrow", monospace;
+//	font-family:  monospace;
 //	font-weight: 200;
 	line-height: 1.2;
 //	opacity: .5;

@@ -139,7 +139,7 @@
 	padding-right: 1rem;
 	a {
 		margin-bottom: .5em;
-		font-family: "base-mono-narrow", monospace;
+		font-family:  monospace;
 	//	font-weight: bold;
 		line-height: 1;
 		text-decoration: none;
@@ -159,7 +159,7 @@
 
 .progress-item__status {
 //	justify-self: center;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-weight: 200;
 	div {
 		span {
@@ -189,7 +189,7 @@
 		li {
 			position: relative;
 		//	margin-bottom: 1em;
-			font-family: "base-mono-narrow", monospace;
+			font-family:  monospace;
 			font-weight: 200;
 		//	line-height: 1;
 			/* NB: center of dot = 1rem from <li> */
