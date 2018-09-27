@@ -49,7 +49,7 @@ What is in the book that can not live in another recorded medium? Ideas, scienti
 
 It is obvious that Uzanne not only imagined the audiobook but also a prototype portable device that would play it back.
 
-![](http://scholarslab.org/wp-content/uploads/2017/09/Screen-Shot-2017-09-18-at-1.35.23-PM.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/09/Screen-Shot-2017-09-18-at-1.35.23-PM.png)
 
 It is worth noticing then, that before Sony’s Walkman, or Apple’s iPod “a pocket apparatus (…) suspended by a strap from the shoulder” was not designed to accommodate “a thousand songs in your pocket” (Steve Jobs) but a portable device to liberate the bibliophile’s body from the immobility of the study room.
 

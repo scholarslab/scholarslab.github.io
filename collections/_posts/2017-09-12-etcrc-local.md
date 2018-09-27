@@ -9,7 +9,7 @@ categories:
 - Grad Student Research
 ---
 
-![](http://scholarslab.org/wp-content/uploads/2017/09/ch0-300x95.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/09/ch0-300x95.png)
 
 Hello again, my fine digital-humanist friends! It’s a delight to be back in the Scholars’ Lab this year!
 

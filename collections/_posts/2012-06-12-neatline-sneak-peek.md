@@ -18,7 +18,7 @@ If you haven't been following the project, check out the [podcast](http://www.sc
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/editor-layout-editor-300x187.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/editor-layout-editor/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/editor-layout-editor-300x187.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/editor-layout-editor/)
 
 
 
@@ -26,7 +26,7 @@ If you haven't been following the project, check out the [podcast](http://www.sc
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/editor-map-styles-300x187.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/editor-map-styles/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/editor-map-styles-300x187.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/editor-map-styles/)
 
 
 
@@ -63,18 +63,18 @@ Watch this space in the first week of July for the full public release with the 
 
 Until then, here are a handful of screenshots from some of the demo exhibits we're working on:
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/chancellorsville-1-1024x627.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/chancellorsville-1/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/chancellorsville-1-1024x627.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/chancellorsville-1/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/chancellorsville-2-1024x626.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/chancellorsville-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/chancellorsville-2-1024x626.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/chancellorsville-2/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/chancellorsville-3-1024x629.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/chancellorsville-3/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/chancellorsville-3-1024x629.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/chancellorsville-3/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/chancellorsville-4-1024x628.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/chancellorsville-4/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/chancellorsville-4-1024x628.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/chancellorsville-4/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/editor-layout-editor-1024x638.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/editor-layout-editor/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/editor-layout-editor-1024x638.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/editor-layout-editor/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/editor-map-styles-1024x638.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/editor-map-styles/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/editor-map-styles-1024x638.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/editor-map-styles/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/fredericksburg-1-1024x622.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/fredericksburg-1/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/fredericksburg-1-1024x622.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/fredericksburg-1/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/06/fredericksburg-2-1024x640.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/fredericksburg-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/06/fredericksburg-2-1024x640.jpg)](http://www.scholarslab.org/geospatial-and-temporal/neatline-sneak-peek/attachment/fredericksburg-2/)

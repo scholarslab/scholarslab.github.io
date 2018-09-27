@@ -14,7 +14,7 @@ tags:
 - gis
 ---
 
-**[![](http://www.scholarslab.org/wp-content/uploads/2013/01/stewart201301171.jpg)](http://www.scholarslab.org/announcements/speaker-series-meg-stewart/attachment/stewart20130117-2/)A Fulbright Scholar Talks About Participatory GIS, the Caribbean, Google Earth and How a Fulbright Could Be in Your Future**
+**[![](http://static.scholarslab.org/wp-content/uploads/2013/01/stewart201301171.jpg)](http://www.scholarslab.org/announcements/speaker-series-meg-stewart/attachment/stewart20130117-2/)A Fulbright Scholar Talks About Participatory GIS, the Caribbean, Google Earth and How a Fulbright Could Be in Your Future**
 
 Thursday, January 17
 2:00 - 3:00pm

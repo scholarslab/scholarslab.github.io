@@ -9,7 +9,7 @@ categories:
 - Technical Training
 ---
 
-![](http://scholarslab.org/wp-content/uploads/2017/04/raspberry-pi-logo-254x300.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/04/raspberry-pi-logo-254x300.png)
 
 The easiest way to get your Raspberry Pi connected to the Internet at the University of Virginia is to use an Ethernet cable. If you want to use wireless, pretty much the only option is to use the hidden "wahoo" network.
 
@@ -24,7 +24,7 @@ I'm starting with a clean install of [Raspbian OS](https://www.raspberrypi.org/d
 
 The very first thing you should always do with clean install of Raspbian OS is change the default password. Bad people on the Internet are looking for Raspberry Pis with default passwords so that they can hack in and take over. It's just always best practice, and common-computer-security-sense to secure your computer with a password only you know. Never settle for the default! :)
 
-![](http://scholarslab.org/wp-content/uploads/2017/04/2017-04-11-134736_1824x984_scrot-1024x552.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/04/2017-04-11-134736_1824x984_scrot-1024x552.png)
 
 To change the password, you can use the Terminal. Open that up and type "passwd", enter the current password "raspberry" (you won't see any text typed), then hit enter.
 
@@ -44,13 +44,13 @@ There are two ways to change these settings: 1. using the graphical interface, o
 #### 2.1. Graphical
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/04/2017-04-11-135248_1824x984_scrot-1024x552.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/04/2017-04-11-135248_1824x984_scrot-1024x552.png)
 
 Go to the Raspberry Pi menu (the raspberry logo in the top left corner), then to Preferences, then to Raspberry Pi Configuration.
 
 Under the Localization tab, you'll want to change the Locale, Timezone, Keyboard and WiFi Country settings. (As a side note, you can also change the password under the "System" tab.)
 
-![](http://scholarslab.org/wp-content/uploads/2017/04/2017-04-11-142809_1824x984_scrot-1024x552.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/04/2017-04-11-142809_1824x984_scrot-1024x552.png)
 
 For our purposes, you need to set the WiFi to "US".
 
@@ -61,7 +61,7 @@ Don't restart the system, yet. We have more to do.
 #### 2.2. Command Line
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/04/2017-04-11-143004_1824x984_scrot-1024x552.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/04/2017-04-11-143004_1824x984_scrot-1024x552.png)
 
 In the terminal, type "sudo raspi-config". The screen will show a textual display of options. Select Localization Options, and from there change the Locale, Timezone and WiFi Country settings. (Note, you can also change the password using this tool.)
 
@@ -120,7 +120,7 @@ In the terminal, type in:
 
 ```sudo leafpad /etc/network/interfaces```
 
-![](http://scholarslab.org/wp-content/uploads/2017/04/2017-05-09-101958_1824x984_scrot-1024x552.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/04/2017-05-09-101958_1824x984_scrot-1024x552.png)
 
 Towards the bottom of the file are two sections for a "wlan0" and "wlan1". Delete those lines, and in place of them add in three new lines for "wlan0" (indent the third line with four spaces or a tab).
 
@@ -171,7 +171,7 @@ In the terminal type
 
 ```ifconfig```
 
-![](http://scholarslab.org/wp-content/uploads/2017/04/2017-05-09-103046_1824x984_scrot-1024x552.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/04/2017-05-09-103046_1824x984_scrot-1024x552.png)
 
 Now look for the section for the "wlan0" and on the first line you'll see information for a "HWaddr" or Hardware Address. It will be in the format
 

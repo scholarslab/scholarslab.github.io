@@ -14,7 +14,7 @@ tags:
 As [Annie reports](http://www.scholarslab.org/praxis-program/building-prism-let-there-be-light/) we have begun hacking Prism. I am still surprised by the speed at which we are picking up the skills to build a web application. Our first model is a proof-of-concept, and as Eric Rochester pointed out in session yesterday, we will probably chuck the first model down the road. Part of re-wiring my brain is adapting to this trial and error model. The original model, as we have it now, already seems to me to be quite powerful. Here is what we have so far:
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/PrismDataModel-1-300x246.jpg)](http://www.scholarslab.org/praxis-program/report-from-the-rails-trenches/attachment/prismdatamodel-1/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/PrismDataModel-1-300x246.jpg)](http://www.scholarslab.org/praxis-program/report-from-the-rails-trenches/attachment/prismdatamodel-1/)
 
 
 I'm having difficulty imagining why we would need to discard it later, but I am starting to believe there is such a thing as Web Development Fate. In this strange deterministic universe you prepare for unknown unknowns as a matter of course.

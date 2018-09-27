@@ -29,7 +29,7 @@ Here’s some information about the bug-fix releases.
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-01-at-11.07.36-AM.png)](http://www.scholarslab.org/announcements/neatline-release-omnibus-edition/attachment/screen-shot-2012-11-01-at-11-07-36-am/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-01-at-11.07.36-AM.png)](http://www.scholarslab.org/announcements/neatline-release-omnibus-edition/attachment/screen-shot-2012-11-01-at-11-07-36-am/)
 
 
 

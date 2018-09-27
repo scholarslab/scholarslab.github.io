@@ -49,7 +49,7 @@ We traveled to Legon in the northern suburbs of Ghana's capital, Accra, to visit
 
 Later, magic happened when Benjie made some calls and found a lead on some Winneba data.  So we set off on an adventure to the Survey Office of Ghana in Accra.
 
-[caption id="attachment_9193" align="alignnone" width="1024"][![](http://www.scholarslab.org/wp-content/uploads/2013/12/20131018-Accra-288-Survey-Office-1024x768.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/12/20131018-Accra-288-Survey-Office.jpg) One of the many buildings at the Survey Office of Ghana[/caption]
+[caption id="attachment_9193" align="alignnone" width="1024"][![](http://static.scholarslab.org/wp-content/uploads/2013/12/20131018-Accra-288-Survey-Office-1024x768.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/12/20131018-Accra-288-Survey-Office.jpg) One of the many buildings at the Survey Office of Ghana[/caption]
 
 A series of meetings starting with the Director of Survey at the Ghana Survey Office lead us into a cartographers' paradise.  Detailed datasets for Winneba may already exist!  Then at the desk of  Charles Nanzo of the Survey Office we saw for the first time those very detailed Winneba GIS datasets flash up on the screen!  The appearance of street centerlines, political boundaries, contour lines, and building footprints generated excitement among all the map nerds.
 

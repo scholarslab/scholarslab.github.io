@@ -16,26 +16,26 @@ Unlike other Omeka installation guides, this one does not pretend to be "easy." 
 **Step 1**: Create an amazon web server account at [aws.amazon.com](http://aws.amazon.com). This will require entering a credit card and going through a phone verification process.
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-1-300x149.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-1/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-1-300x149.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-1/)
 
 
 
 **Step 2**: After setup, click on "My Account", then "AWS Management Console", then find the link to EC2 (Virtual Serves in the Cloud) and click on it
 
 
-![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-2.2-300x149.png)
+![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-2.2-300x149.png)
 
 
 Then click "Launch Instance":
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-2.3-300x148.png)](http://www.scholarslab.org/?attachment_id=7118)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-2.3-300x148.png)](http://www.scholarslab.org/?attachment_id=7118)
 
 
 Select the "Classic Wizard" and click continue:
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-2.4-300x153.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-2-4/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-2.4-300x153.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-2-4/)
 
 
 
@@ -43,7 +43,7 @@ Select the "Classic Wizard" and click continue:
 **Step 3:** In Classic Wizard: Choose an AMI, select _Ubuntu, 12.04.01 LTS  64Bit_:
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-3.1-300x26.png)](http://www.scholarslab.org/?attachment_id=7120)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-3.1-300x26.png)](http://www.scholarslab.org/?attachment_id=7120)
 
 
 
@@ -51,17 +51,17 @@ Select the "Classic Wizard" and click continue:
 **Step 4**: In Classic Wizard: Instance Details, Continue with default settings through the next three settings (1 instances; T1 Micro, etc.)
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-4.1-300x203.png)](http://www.scholarslab.org/?attachment_id=7121)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-4.1-300x203.png)](http://www.scholarslab.org/?attachment_id=7121)
 
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-4.2-300x204.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-4-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-4.2-300x204.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-4-2/)
 
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-4.3-300x205.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-4-3/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-4.3-300x205.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-4-3/)
 
 
 
@@ -69,7 +69,7 @@ Select the "Classic Wizard" and click continue:
 **Step 5**: In Classic Wizard: Instance Details - Key/Value tables: Under Value add a name for your project:
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-5-300x204.png)](http://www.scholarslab.org/?attachment_id=7124)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-5-300x204.png)](http://www.scholarslab.org/?attachment_id=7124)
 
 
 
@@ -79,7 +79,7 @@ Select the "Classic Wizard" and click continue:
 Create key pair, adding in a unique username (which will be used again in step 14).
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-6-300x202.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-6/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-6-300x202.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-6/)
 
 
 This will cause your system to download a [.pem file](http://stackoverflow.com/questions/10733641/what-is-a-pem-file-and-how-to-use-it). Leave it where it is for now.
@@ -91,7 +91,7 @@ This will cause your system to download a [.pem file](http://stackoverflow.com/q
 From the drop down menu on the left, select select "HTTP" and click "add rule". It will appear on the right.
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-7-300x203.png)](http://www.scholarslab.org/?attachment_id=7126)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-7-300x203.png)](http://www.scholarslab.org/?attachment_id=7126)
 
 
 
@@ -101,13 +101,13 @@ From the drop down menu on the left, select select "HTTP" and click "add rule". 
 Click **Launch**
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-8-300x204.png)](http://www.scholarslab.org/?attachment_id=7127)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-8-300x204.png)](http://www.scholarslab.org/?attachment_id=7127)
 
 
 then **Close** in the next window.
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-8.2-300x156.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-8-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-8.2-300x156.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-8-2/)
 
 
 
@@ -121,7 +121,7 @@ then **Close** in the next window.
 Back in the EC2 dashboard, click on "0 Running Instances"
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-10-300x149.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-10/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-10-300x149.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-10/)
 
 
 
@@ -131,12 +131,12 @@ Back in the EC2 dashboard, click on "0 Running Instances"
 In the subsequent panel, _RIGHT_ click on the code under "**instance**" and select '**connect**'.
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-11.1-300x153.png)](http://www.scholarslab.org/?attachment_id=7130)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-11.1-300x153.png)](http://www.scholarslab.org/?attachment_id=7130)
 
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-11.2-300x153.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-11-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-11.2-300x153.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-11-2/)
 
 
 
@@ -146,7 +146,7 @@ In the subsequent panel, _RIGHT_ click on the code under "**instance**" and sele
 Select "**Connect with standalone SSH Client**" do not close window yet.
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-12-300x253.png)](http://www.scholarslab.org/?attachment_id=7132)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-12-300x253.png)](http://www.scholarslab.org/?attachment_id=7132)
 
 
 
@@ -162,7 +162,7 @@ mkdir -p ~/.ec2
 ```
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-13-300x170.png)](http://www.scholarslab.org/?attachment_id=7133)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-13-300x170.png)](http://www.scholarslab.org/?attachment_id=7133)
 
 
 
@@ -178,7 +178,7 @@ The username is what you generated in Amazon EC2 in step 6.
 This moves the pem file to the new directory named .ec2
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-14-300x171.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-14/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-14-300x171.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-14/)
 
 
 
@@ -189,7 +189,7 @@ This moves the pem file to the new directory named .ec2
 ```
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-15-300x234.png)](http://www.scholarslab.org/?attachment_id=7135)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-15-300x234.png)](http://www.scholarslab.org/?attachment_id=7135)
 
 
 
@@ -201,7 +201,7 @@ After -i add `~/.ec2/[username].pem`
 Change _amazon_ to _ubuntu_ so that it looks something like the last line here:
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-16-300x178.png)](http://www.scholarslab.org/?attachment_id=7137)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-16-300x178.png)](http://www.scholarslab.org/?attachment_id=7137)
 
 
 
@@ -215,7 +215,7 @@ sudo apt-get update
 to update the server libraries. This command will generate a wall of text.
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-17-300x173.png)](http://www.scholarslab.org/?attachment_id=7138)[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-17.1-300x171.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-17-1/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-17-300x173.png)](http://www.scholarslab.org/?attachment_id=7138)[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-17.1-300x171.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-17-1/)
 
 
 
@@ -229,13 +229,13 @@ sudo apt-get upgrade
 .
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-18-300x168.png)](http://www.scholarslab.org/?attachment_id=7140)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-18-300x168.png)](http://www.scholarslab.org/?attachment_id=7140)
 
 
 Type "_Yes_" when prompted.
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2013/01/Step-18.1-300x172.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-18-1/)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/01/Step-18.1-300x172.png)](http://www.scholarslab.org/research-and-development/installing-omeka-through-amazon-web-services/attachment/step-18-1/)
 
 
 Your server is up and running. Now we can shift our attention to installing all the libraries Ubuntu needs to run Omeka.

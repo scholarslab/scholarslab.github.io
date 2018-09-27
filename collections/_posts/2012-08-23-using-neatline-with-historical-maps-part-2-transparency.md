@@ -46,7 +46,7 @@ In the [first part](http://dclure.org/?p=948) of this series, we brought a stati
 
 If you open up the newly-generated .tif file in a regular image editing program, you'll see that ArcMap added in regions of black around the actual map to make it fill the rectangular aspect ratio of the file. This happens almost every time, since the process of rectification usually involves rotating the image away from its original orientation.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/borders-296x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/borders.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/borders-296x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/borders.jpg)
 
 In the context of a Neatline exhibit, this is problematic because the black borders will completely occlude the real-geography base layer (or underlying historical maps) immediately surrounding the image. Fortunately, former Scholars' Lab GIS assistant Dave Richardson figured out how to strip out the borders in Photoshop by converting them into transparencies. This step is a bit of a nuisance, but we've found that it dramatically improves the final appearance of the map.
 
@@ -61,7 +61,7 @@ Here's how to do it:
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)
 
 
 
@@ -71,17 +71,17 @@ Here's how to do it:
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/layer-from-background-300x248.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/layer-from-background.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background-300x248.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/layer-from-background.jpg)
 
 
 
 
 
-  3. Use the "Magic Wand Tool"  [![](http://www.scholarslab.org/wp-content/uploads/2012/08/magic-wand.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/magic-wand/) to select each of the borders by holding down the shift key and clicking inside the black areas. A dotten line will snap to the edges of the borders. If the wand tool is selecting parts of the actual map image, drop down the "Tolerance" setting to 1, which will limit the selection to the exact color value of the clicked location on the image. Once the borders are selected, press the delete key to clear out the selection. At this point, the image should be surrounded by the default, checkered background graphic.
+  3. Use the "Magic Wand Tool"  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/magic-wand.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/magic-wand/) to select each of the borders by holding down the shift key and clicking inside the black areas. A dotten line will snap to the edges of the borders. If the wand tool is selecting parts of the actual map image, drop down the "Tolerance" setting to 1, which will limit the selection to the exact color value of the clicked location on the image. Once the borders are selected, press the delete key to clear out the selection. At this point, the image should be surrounded by the default, checkered background graphic.
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/border-delete-300x280.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/border-delete.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete-300x280.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/border-delete.jpg)
 
 
 
@@ -91,7 +91,7 @@ Here's how to do it:
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/alpha-300x183.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/alpha.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/alpha-300x183.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/alpha.jpg)
 
 
 
@@ -101,7 +101,7 @@ Here's how to do it:
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/inverse-170x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/inverse.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/inverse-170x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/inverse.jpg)
 
 
 
@@ -111,17 +111,17 @@ Here's how to do it:
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/black-selection-300x280.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/black-selection.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection-300x280.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/black-selection.jpg)
 
 
 
 
 
-  7. Activate the Paint Bucket Tool  [![](http://www.scholarslab.org/wp-content/uploads/2012/08/paint-bucket.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/paint-bucket/) and set the foreground color to pure white (If you don't see the icon for the paint bucket in the Tools column, click and hold the icon for the "Gradient" tool  [![](http://www.scholarslab.org/wp-content/uploads/2012/08/gradient-tool.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/gradient-tool/) and a drop-down select will appear with a listing for the Paint Bucket). Then apply the paint bucket on the selected area on the Alpha channel, creating a white area over the region occupied by the map.
+  7. Activate the Paint Bucket Tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/paint-bucket.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/paint-bucket/) and set the foreground color to pure white (If you don't see the icon for the paint bucket in the Tools column, click and hold the icon for the "Gradient" tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/gradient-tool.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/gradient-tool/) and a drop-down select will appear with a listing for the Paint Bucket). Then apply the paint bucket on the selected area on the Alpha channel, creating a white area over the region occupied by the map.
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/white-selection-300x281.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/white-selection.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection-300x281.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/white-selection.jpg)
 
 
 
@@ -131,7 +131,7 @@ Here's how to do it:
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/save-as-300x198.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/save-as.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/save-as-300x198.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/save-as.jpg)
 
 
 
@@ -141,7 +141,7 @@ Here's how to do it:
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/tiff-options-222x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/tiff-options.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/tiff-options-222x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/tiff-options.jpg)
 
 
 

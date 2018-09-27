@@ -26,7 +26,7 @@ Then Kelly asked me for a PDF version of the slideshow. Heh.
 At first I thought I might have to covert it to Showoff or (worse yet) PowerPoint. But I Googled around and found that converting it wouldn’t be too difficult. The process itself would be simple, and a small shell script would make it even easier.
 
 
-![](http://www.scholarslab.org/wp-content/uploads/2012/03/philosoraptor.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2012/03/philosoraptor.jpg)
 
 
 And then my infallible instinct to make any project ten times more interesting (i.e., _complicated_) kicked in.

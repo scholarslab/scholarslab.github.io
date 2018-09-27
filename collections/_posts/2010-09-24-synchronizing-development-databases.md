@@ -92,7 +92,7 @@ taps server mysql://root@localhost:8889/omeka tapuser IeEf643
 
 Now we can test that the server is running by pointing your browser at [http://localhost:5000](http://localhost:5000). You should see something along these lines after using the username and password you set with the server:
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/09/taps_server-300x149.jpg)](http://www.scholarslab.org/slab-code/synchronizing-development-databases/attachment/taps_server/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/09/taps_server-300x149.jpg)](http://www.scholarslab.org/slab-code/synchronizing-development-databases/attachment/taps_server/)
 
 Now this doesn't actually do anything, just ensures that you have the server up-and-running. Now to get the data loaded on another box...
 

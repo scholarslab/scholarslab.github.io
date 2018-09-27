@@ -17,7 +17,7 @@ In the Scholars' Lab we recently worked with a researcher whose study areas focu
 
 **Calculating polygon centroids** – When working with polygon features (like county boundaries) in GIS it is often necessary to locate the geographic center or centroid of each polygon as a point feature.  In ESRI’s ArcGIS desktop software the ‘Feature To Point’ tool creates polygon centroids.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/01/FeatureToPoint1.jpg)](http://www.scholarslab.org/geospatial-and-temporal/calculating-county-to-county-distances-with-gis/attachment/featuretopoint-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/01/FeatureToPoint1.jpg)](http://www.scholarslab.org/geospatial-and-temporal/calculating-county-to-county-distances-with-gis/attachment/featuretopoint-2/)
 
 For more information see the ArcGIS online help for the ‘Feature To Point’ tool:
 
@@ -64,12 +64,12 @@ For more information see the ArcGIS online help for the Point Distance tool: [ht
 
 
 	
-  1. After ensuring the county polygon boundary file is projected using a distance-preserving projection, select the county polygons for the study area.[![](http://www.scholarslab.org/wp-content/uploads/2010/01/Counties1-1024x763.jpg)](http://www.scholarslab.org/geospatial-and-temporal/calculating-county-to-county-distances-with-gis/attachment/counties-2/)
+  1. After ensuring the county polygon boundary file is projected using a distance-preserving projection, select the county polygons for the study area.[![](http://static.scholarslab.org/wp-content/uploads/2010/01/Counties1-1024x763.jpg)](http://www.scholarslab.org/geospatial-and-temporal/calculating-county-to-county-distances-with-gis/attachment/counties-2/)
 
 	
   2. Convert the selected county polygons to county polygon centroid points using the ‘Feature To Point’ tool. [![Counties with Centroids](http://www.scholarslab.org/wp-content/uploads/2010/01/CountiesCentroids-1024x763.jpg)](http://www.scholarslab.org/geospatial-and-temporal/calculating-county-to-county-distances-with-gis/attachment/countiescentroids/)
 
 	
-  3. Generate the point distance table for all county centroid points created in step 2 using the ‘Point Distance’ tool.  Distance is expressed in the linear unit of the input dataset, which is meters in our example.[![](http://www.scholarslab.org/wp-content/uploads/2010/01/Matrix1.jpg)](http://www.scholarslab.org/geospatial-and-temporal/calculating-county-to-county-distances-with-gis/attachment/matrix-2/)
+  3. Generate the point distance table for all county centroid points created in step 2 using the ‘Point Distance’ tool.  Distance is expressed in the linear unit of the input dataset, which is meters in our example.[![](http://static.scholarslab.org/wp-content/uploads/2010/01/Matrix1.jpg)](http://www.scholarslab.org/geospatial-and-temporal/calculating-county-to-county-distances-with-gis/attachment/matrix-2/)
 
 

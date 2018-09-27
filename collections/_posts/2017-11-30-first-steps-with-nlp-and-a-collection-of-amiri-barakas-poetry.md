@@ -49,14 +49,14 @@ As someone doing this work for the first time, I felt like I could handle writin
 
 With a huge assist from [Brandon Walsh](http://scholarslab.org/people/brandon-walsh/), cleaning up the rest of the text with the [Natural Language Toolkit](http://www.nltk.org/) (NLTK) was relatively straightforward. We wrote a small Python script that removed line numbers, then proceeded to write a script that would prep the clutter-free text files for text analysis, first by reading the text file as a list of lines **(1)**, then by tokenizing that list of lines into a list of lists, where each sub-list is a list of the words that make up a line **(2)**.
 
-![](http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-1-22.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-1-22.png)
 While this may seem kind of complicated, certain kinds of text analysis need the lines to be tokenized in this way&mdash;much of the work then involves getting the text to be the right kind of data type (list of words, list of lists, etc.) for a given kind of analysis. Because I’m interested in sentiment analysis, I also needed to make every word lowercase **(3)**, remove punctuation **(4)**, and remove spaces **(5)**.
 
-![](http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-3-5.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-3-5.png)
 
 Having written out all these functions, we then made a new function that called on each of them one after the other, running through [the pipeline of activities](https://www.quora.com/What-is-natural-language-processing-pipeline) necessary for NLP (our notes-to-self included):
 
-![](http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-6.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-6.png)
 
 Though it gets the job done, this code is clunky. It represents, in short, the first steps in my learning how NLP works. And while not the most elegant in terms of form or function, writing steps out in this way was conceptually clear to me as someone trying them for the first time. I also want to add that throughout much of this Brandon and I were practicing something called pair programming, with Brandon at the keyboard (or "driving") and me observing, asking questions, and discussing different ways of doing things. In addition to being an exciting scholarly investigation, this project is also a learning experience for me, and our code-decision-making process often reflects that.
 
@@ -66,11 +66,11 @@ What made this so clunky, however, stemmed in large part from how I had organize
 
 For example, after having gotten all the way to Z&mdash;my lowercased, punctuation-free list of lists&mdash;I wanted to try a basic form of text analysis I had seen in [an early chapter of the NLTK book](http://www.nltk.org/book/ch02.html) (called stylistics) in which I compared the use of different modal verbs in the three books of Baraka’s poetry. The only way I knew how to do this was to run a frequency distribution on a giant list of words&mdash;which means I had to _un_-tokenize my nicely tokenized texts, basically jumping from Z back to W. So I wrote some clunky code that let me do so:
 
-![](http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-7.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-7.png)
 
 Grappling with this problem, Brandon re-introduced me to something I had learned about before but never had to use&mdash;object-oriented programming. Rather than performing a linear series of functions on my text file, reorganizing my code along OOP lines let me treat this text file as an object with many attributes, any of which I could access at any time. If I wanted my file (or object) as a giant list of words to perform a frequency distribution, I needed only to call upon that particular aspect (or attribute) of my object. If I then wanted Python to think of it as a tokenized list of lists I could just call on that particular attribute rather than having to send it through a series of transformations. It’s as if my ability to manipulate a file gained a third dimension&mdash; instead of begin stuck going from X to Y to Z and then back to X, I had access to all three stages of my file simultaneously. In essence, what was once a one-way data-type conveyor belt now became a fully-staffed NLP laboratory. In another pair programming session, we started to shift my more linear code to an object-oriented approach. What we came up with definitely needs refactoring (in my TODO list) and can certainly be improved (i.e., not overwriting a variable multiple times), but again, in the spirit of showing my learning process, I wanted to share a visual of this early version that marked my beginning to grapple with OOP for the first time:
 
-![](http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-8.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-8.png)
 
 Finally “getting” object-oriented programming conceptually was truly a programming awakening for me, even if my initial attempts need some improvement&mdash;it hadn't really made sense as an approach until I was faced with the problems it helps address.
 

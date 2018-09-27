@@ -36,6 +36,6 @@ Let's measure just how much the states have changed in our new layout.   In ab
 
 To visualize the state-by-state changes, Todd Burks from neighboring Clemons Library overlayed the two maps.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/03/ToddMashup-1024x655.jpg)](http://www.scholarslab.org/geospatial-and-temporal/mr-voronoi-meet-the-us-state-boundaries/attachment/toddmashup/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/03/ToddMashup-1024x655.jpg)](http://www.scholarslab.org/geospatial-and-temporal/mr-voronoi-meet-the-us-state-boundaries/attachment/toddmashup/)
 
 Intrigued?  [Read more](http://webhelp.esri.com/arcgisdesktop/9.3/index.cfm?id=1349&pid=1347&topicname=Create_Thiessen_Polygons_%28Analysis%29) about Voronoi and Thiessen polygon GIS techniques.

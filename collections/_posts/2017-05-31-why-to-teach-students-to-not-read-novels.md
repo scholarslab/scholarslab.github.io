@@ -24,7 +24,7 @@ What is a novel anyhow? A reasonable question to ask your students as a semester
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/RisesofNovels-1.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/RisesofNovels-1.png)
 
 
 Fig. 1 rises of novels from _Graphs, Maps, and Trees_

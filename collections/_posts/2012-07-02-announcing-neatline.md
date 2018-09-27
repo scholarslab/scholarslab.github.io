@@ -16,7 +16,7 @@ tags:
 
 **_What do you get when you cross archives and artifacts with timelines, modern and historical maps, and an appreciation for the interpretive aims of humanities scholarship?_**
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/07/Screen-shot-2012-07-02-at-10.36.28-AM1.png)](http://www.neatline.org/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/Screen-shot-2012-07-02-at-10.36.28-AM1.png)](http://www.neatline.org/)
 
 Today, the [Scholars' Lab](http://scholarslab.org) is proud to announce the launch of [Neatline](http://neatline.org/), our set of [Omeka](http://omeka.org) plugins for hand-crafted geo-temporal visualization and interpretation. You can head right over to [http://neatline.org/](http://neatline.org/) to download the [1.0 software](http://neatline.org/plugins/), see [sample exhibits](http://neatline.org/neatline-in-action/) or play in the [sandbox](http://sandbox.neatline.org/), and read more [about the project](http://neatline.org/about/), including [news](http://neatline.org/news/) and [history](http://neatline.org/about/credits-and-history/).
 

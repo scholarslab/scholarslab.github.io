@@ -108,7 +108,7 @@ Good luck!
 
 Shane was the brains and the judge behind the contest.
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154042.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154042.jpg)
 
 
 # The Competition
@@ -120,12 +120,12 @@ Three entries made it to the competition:
 ## Team Bomb!
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154036.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154036.jpg)
 
 [video width="720" height="1280" mp4="http://scholarslab.org/wp-content/uploads/2017/05/VID_20170503_155400.mp4"][/video]
 
 
-## ![](http://scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155520.jpg)
+## ![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155520.jpg)
 
 
 
@@ -133,22 +133,22 @@ Three entries made it to the competition:
 ## Team Urchin
 
 
-[caption id="" align="aligncenter" width="3480"]![](http://scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154617.jpg) Shane was just helping out. Team Urchin was Spyros and Duy[/caption]
+[caption id="" align="aligncenter" width="3480"]![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154617.jpg) Shane was just helping out. Team Urchin was Spyros and Duy[/caption]
 
 [video width="720" height="1280" mp4="http://scholarslab.org/wp-content/uploads/2017/05/VID_20170503_155152.mp4"][/video]
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155326.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155326.jpg)
 
 
 ## Team DragonSpawn
 
 
-[caption id="" align="aligncenter" width="3456"]![](http://scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154024.jpg) Team DragonSpawn: Lauren and Ammon[/caption]
+[caption id="" align="aligncenter" width="3456"]![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154024.jpg) Team DragonSpawn: Lauren and Ammon[/caption]
 
 [video width="720" height="1280" mp4="http://scholarslab.org/wp-content/uploads/2017/05/VID_20170503_154937.mp4"][/video]
 
 
-# ![](http://scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155616.jpg)
+# ![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155616.jpg)
 
 
 
@@ -160,7 +160,7 @@ Only one competitor survived all the tests: drop from 2 meters, the full weight 
 
 **Team DragonSpawn!**
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/20170503_160322-1-e1493907510317-905x1024.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/20170503_160322-1-e1493907510317-905x1024.jpg)
 
 Congratulations, you get the first SLabby award!
 

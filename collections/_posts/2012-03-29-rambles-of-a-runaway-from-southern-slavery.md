@@ -17,13 +17,13 @@ The UVa Library acquired the[ book](http://search.lib.virginia.edu/catalog/u4391
 
 The Scholars' Lab was asked to contribute maps showing the general movement of Mr. Goings and places mentioned in the text.  We gladly obliged and through an iterative process came up with the four following maps.
 
-[caption id="attachment_4115" align="aligncenter" width="1024" caption="Map 1 - Shows Goings's General Movement"]![](http://www.scholarslab.org/wp-content/uploads/2012/03/Map1-1024x791.jpg)[/caption]
+[caption id="attachment_4115" align="aligncenter" width="1024" caption="Map 1 - Shows Goings's General Movement"]![](http://static.scholarslab.org/wp-content/uploads/2012/03/Map1-1024x791.jpg)[/caption]
 
-[caption id="attachment_4128" align="aligncenter" width="1024" caption="Map 2 - Shows Southern Locations with James River Plantations Inset"]![](http://www.scholarslab.org/wp-content/uploads/2012/03/Map21-1024x791.jpg)[/caption]
+[caption id="attachment_4128" align="aligncenter" width="1024" caption="Map 2 - Shows Southern Locations with James River Plantations Inset"]![](http://static.scholarslab.org/wp-content/uploads/2012/03/Map21-1024x791.jpg)[/caption]
 
-[caption id="attachment_4117" align="aligncenter" width="1024" caption="Map 3 - Shows Places From Tennessee to Canada"]![](http://www.scholarslab.org/wp-content/uploads/2012/03/Map3-1024x791.jpg)[/caption]
+[caption id="attachment_4117" align="aligncenter" width="1024" caption="Map 3 - Shows Places From Tennessee to Canada"]![](http://static.scholarslab.org/wp-content/uploads/2012/03/Map3-1024x791.jpg)[/caption]
 
-[caption id="attachment_4118" align="aligncenter" width="1024" caption="Map 4 - Shows Great Lakes Locations"]![](http://www.scholarslab.org/wp-content/uploads/2012/03/Map4-1024x791.jpg)[/caption]
+[caption id="attachment_4118" align="aligncenter" width="1024" caption="Map 4 - Shows Great Lakes Locations"]![](http://static.scholarslab.org/wp-content/uploads/2012/03/Map4-1024x791.jpg)[/caption]
 
 The UVa Press did make some minor changes to the maps (mostly legends and scalebars) for the book.  However, the extents and all the data in the maps are the same as those shown here.
 

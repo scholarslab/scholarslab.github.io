@@ -8,7 +8,7 @@ tags:
 - Digital Libraries
 ---
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/09/Screen-shot-2010-09-16-at-10.15.28-AM-124x300.png)](http://www.scholarslab.org/wp-content/uploads/2010/09/LiteratureSearching.pdf)Thanks to Megan Brett, Research Database and Records Manager at the [Montpelier Foundation](http://www.montpelier.org/), we are able share with you a piece of ephemera from UVa Library's computing past: a pamphlet on "Computer Literature Search."
+[![](http://static.scholarslab.org/wp-content/uploads/2010/09/Screen-shot-2010-09-16-at-10.15.28-AM-124x300.png)](http://www.scholarslab.org/wp-content/uploads/2010/09/LiteratureSearching.pdf)Thanks to Megan Brett, Research Database and Records Manager at the [Montpelier Foundation](http://www.montpelier.org/), we are able share with you a piece of ephemera from UVa Library's computing past: a pamphlet on "Computer Literature Search."
 
 
 <blockquote>**"Why use a computer search?** Consider the time it takes to search manually through the many issues of printed indexes. The computer searches these indexes in seconds; the search is faster, more comprehensive, and often more precise, as there are more subject access points and greater flexibility in combining terms in a computer search."</blockquote>

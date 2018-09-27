@@ -14,7 +14,7 @@ tags:
 
 This is what the whiteboard in the grad lounge looks like this week.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/10/whiteboard2-300x225.png)](http://www.scholarslab.org/digital-humanities/the-whiteboard/attachment/whiteboard-3/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/10/whiteboard2-300x225.png)](http://www.scholarslab.org/digital-humanities/the-whiteboard/attachment/whiteboard-3/)
 
 We've been dreaming pretty big. Here are a few of the questions that we've been mulling over:
 

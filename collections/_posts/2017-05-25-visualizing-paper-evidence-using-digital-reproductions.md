@@ -32,7 +32,7 @@ While photocopies, photographs, and microphotographs can place texts before us t
 Both of these arguments anticipate specialized tools that reproduce information that would not normally be part of the experience of looking at a book, which is right, but something that I think deserves further investigation. While a high-contrast microphotograph may obscure faint ink, blue pencil, or small dots, it also shows us something that we would not normally be attentive to. Consider this photograph of page 382 from a copy of Samuel Butler's _Genuine Remains_ (ViU PR3338 .A17 1759 c.2 v.2),
 
 
-    ![](http://scholarslab.org/wp-content/uploads/2017/05/page-208x300.jpg)
+    ![](http://static.scholarslab.org/wp-content/uploads/2017/05/page-208x300.jpg)
 
 
 
@@ -48,7 +48,7 @@ Our eyes immediately read the heading "A Knave" and, if you are literately minde
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/histogram.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/histogram.png)
 
 
 Histogram for p. 382
@@ -63,7 +63,7 @@ The peaks to the left are the dark colors of the background. The peaks to the ri
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/ink-page-208x300.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/ink-page-208x300.jpg)
 
 
 Ink emphasized
@@ -94,7 +94,7 @@ The first problem was to uncover the typical color of the paper in the images of
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/page-close-300x295.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/page-close-300x295.png)
 
 
 Close-up of p. 382
@@ -109,7 +109,7 @@ you can see the fragments of dark-brown wood and whitish fibers along with yello
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/average-mosaic-287x300.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/average-mosaic-287x300.jpg)
 
 
 Mosaic of averages (converted to 8-bit per channel here)
@@ -124,7 +124,7 @@ This visualization---at this point no one would think that this tries to accurat
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/overall-average-smaller-197x300.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/overall-average-smaller-197x300.jpg)
 
 
 Average page
@@ -147,7 +147,7 @@ Altering each image with ImageMagick is a relatively simple exercise, but leaves
 In other words, it is printed in octavo---that is eight pages to each side of a large sheet of paper---and folded down into gatherings of eight leaves and sixteen pages, although gathering A is slightly different. This means that we can use imposition schemes from Gaskell to recreate the layout of how the sheets of paper looked as they came off the printing press.5 Using ImageMagick to flip and arrange the digitized images (slightly cropped, so that there is not too much of the digitizing apparatus visible and leaving out the irregular A), we get,
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/05/border-scheme-8-mosaic-smaller-2-300x236.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/border-scheme-8-mosaic-smaller-2-300x236.jpg)
 
 
 
@@ -161,7 +161,7 @@ Sheets of the Book
 In this visualization---it cannot be a reproduction since the original sheet form of the book no-longer exists, though it might be called a "simulation" of the original form---the white lines represent the boundaries of each sheet of paper and the yellow lines the front and back of each sheet. That is, the eight pages to the left of each yellow line represent the outer forme---as identified by Gaskell---and the eight pages to the right of the yellow line represent the inner forme of the sheet. Looking at the image, things do not look promising. Each sheet of paper should be a slightly different shade of brown because many should come from separate batches: the printer would have bought paper for the whole book, but printed off each forme in sequence so that the sheet of paper produced immediately before or after any particular sheet of paper in this book is probably not in this copy. Furthermore, the finished paper coming from the paper mill may have been shuffled along the way, or at the printing shop, so even if we knew the exact sheet that was printed after a given sheet (in another copy of this book, or perhaps another book altogether, or some broadside ballad), we still would not know if it was produced in the same batch. It is likely that many of these sheets came from different batches, but there is no way of knowing because there are only subtle differences of the shade of brown to distinguish them. Yet, by stretching the color range of the paper to the whole range of human vision, we can perceive another pattern.
 
 
-[![](http://scholarslab.org/wp-content/uploads/2017/05/border-paper-scheme-8-mosaic-smaller-3-300x236.jpg)](https://github.com/cacology/characters/blob/master/paper%20evidence/border-paper-scheme-8-mosaic.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2017/05/border-paper-scheme-8-mosaic-smaller-3-300x236.jpg)](https://github.com/cacology/characters/blob/master/paper%20evidence/border-paper-scheme-8-mosaic.jpg)
 
 
 

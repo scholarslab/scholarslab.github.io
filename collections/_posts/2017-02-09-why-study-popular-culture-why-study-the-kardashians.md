@@ -13,7 +13,7 @@ tags:
 _“When I got my first television set, I stopped caring so much about having close relationships.” &mdash; Andy Warhol _
 
 
-[![](http://scholarslab.org/wp-content/uploads/2017/02/article-2517744-19D1E53000000578-676_634x755-252x300.jpg)](http://www.dailymail.co.uk/tvshowbiz/article-2519086/Kanye-West-didnt-ask-Andy-Warhols-cousin-paint-Kim-Kardashian.html)
+[![](http://static.scholarslab.org/wp-content/uploads/2017/02/article-2517744-19D1E53000000578-676_634x755-252x300.jpg)](http://www.dailymail.co.uk/tvshowbiz/article-2519086/Kanye-West-didnt-ask-Andy-Warhols-cousin-paint-Kim-Kardashian.html)
 
 “In the future, everybody will be world famous for fifteen minutes,” is without a doubt Andy Warhol’s most famous quote. Eerily predictive of the twenty-first century's stars who are famous for “being famous,” this quote encapsulates the seemingly democratized nature of celebrity created by reality television, the internet, and social media. Despite his embrace of pop culture, Warhol’s oeuvre fits seamlessly into the Academy’s notions of “high” culture and specifically, “high” art. Even as Warhol’s work subverted the modernist cannon and the teleological evolution towards abstraction, this very critique cemented its value among cultural critics and academics, as well as the market.
 

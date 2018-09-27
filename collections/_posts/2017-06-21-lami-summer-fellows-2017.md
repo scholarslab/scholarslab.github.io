@@ -47,6 +47,6 @@ These are the students that you might meet if you happen to be around the Schola
 
 They're a fantastic group, and we're excited to work with them this summer. Thanks to all of our colleagues at UVA, the Library, and the Scholars' Lab for their participation in the program.
 
-![](http://scholarslab.org/wp-content/uploads/2017/06/20170609-_DSC9874-Edit.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/06/20170609-_DSC9874-Edit.jpg)
 
 

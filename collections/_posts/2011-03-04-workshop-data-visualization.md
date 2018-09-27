@@ -11,7 +11,7 @@ categories:
 ### Workshop: An Introduction to VIDI
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/03/qthomasbower_vizwkshop-224x300.jpg)](http://www.scholarslab.org/slab-events/workshop-data-visualization/attachment/qthomasbower_vizwkshop/)Wednesday, **March 9** at **10:00 a.m. – Noon**
+[![](http://static.scholarslab.org/wp-content/uploads/2011/03/qthomasbower_vizwkshop-224x300.jpg)](http://www.scholarslab.org/slab-events/workshop-data-visualization/attachment/qthomasbower_vizwkshop/)Wednesday, **March 9** at **10:00 a.m. – Noon**
 in Alderman Library, Room 317
 
 Aaron Presnall and Dante Chinni of [The Jefferson Institute](http://www.jeffersoninst.org/)

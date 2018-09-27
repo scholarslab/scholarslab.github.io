@@ -52,29 +52,29 @@ Thanks to all of you and to Professor Bufkin for having me. I’m currently a gr
 
 But I’d like to start with a short exercise: please Google yourself. Don’t worry, I’m not going to ask for results. But raise your hand if you found something positive, something you’re proud of. Now raise your hand if you found something negative, or something you feel is kind of silly. Now raise your hand if you found nothing in particular.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-02-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-02-1024x576.jpg)
 
 You can see for yourselves: most likely, you’re going to have an Internet presence of some kind. It’s just a question of how much control you have over it. Today I want to share with you what getting control over that looked like for me, and what it might look like for you.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-03-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-03-1024x576.jpg)
 
 First, I plan to discuss my own experience with balancing personal and professional public writing. Then, I’ll describe what public writing is like as a career. Finally, I’ll turn it over to you all to workshop how you can use public writing for your own goals, and specifically what you plan to do with your domain name once this class ends.
 
 I’ll start with my own experience.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-05-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-05-1024x576.jpg)
 
 My first website was a fandom-heavy Tumblr, and an angsty teenage diary. I didn’t think of this as public writing at the time. My friends and I all used Tumblr as a social network, not a blogging platform. It was all Champions League highlights and emo song lyrics. But because someone felt the need to run my account through the [Wayback Machine](http://archive.org/web), this early iteration of my Tumblr blog, and the various URLs it took on later, are preserved for posterity.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-06-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-06-1024x576.jpg)
 
 That’s actually still my [website](http://catherineaddington.com/), but now it’s a portfolio and blog, too. If you go far back enough in the archives, you’ll still find plenty of fandom and angst. In fact, you’ll still find plenty of both. What’s changed is my intention and self-awareness about it being a public-facing platform.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-07-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-07-1024x576.jpg)
 
 Similarly, my [Twitter](https://twitter.com/caddington11) also started out as fan enthusiasm. Here you can see me waxing poetic about FC Barcelona’s former goalkeeper.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-08-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-08-1024x576.jpg)
 
 Now, Twitter has become my professional network too. Here you can see two examples of my writing being shared and commented on by other writers. (But of course, I still tweet plenty about soccer.)
 
@@ -116,7 +116,7 @@ Now that we have an idea of how to balance a personal and professional online pr
 
 Freelance writing is a fairly straightforward process: pitch, edit, and publish.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-12-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-12-1024x576.jpg)
 
 A “pitch” is just media lingo for a proposal: briefly explain what you want to write, why you’re the one to write it, and why this particular editor or publisher is a good fit. Each magazine or outlet has their own process for taking pitches, and usually they’ll post that on their website. But I usually contact individual editors&mdash;often people I’ve met through Twitter. In fact, most of my pitches have started as conversations or DMs on Twitter.
 
@@ -130,13 +130,13 @@ The last step is crucial: engaging readers productively. That adverb is doing a 
 
 I want to share two examples of this process from my own work, that I think exemplify varying degrees of success. Here’s the first one: one time at a work event in DC, I met an editor for _The Spectator_, which is a conservative British magazine with a significant following. I really like a lot of their arts and culture content, but I don’t personally share the magazine’s politics, so I wasn’t sure if it was a good idea to pitch the editor. But I also thought it would be a good opportunity to share my own perspective&mdash;and of course to get my name in an old, fancy magazine. So I pitched the editor on something I knew would get his attention: the then- (and still-) collapsing political and economic situation in Venezuela. Everyone likes a story about their political enemy doing poorly, and Latin America happens to be my academic specialty. The article was accepted, and the [result](https://blogs.spectator.co.uk/2016/09/venezuelas-doomed-love-affair-socialism-continues/) was…interesting.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-13-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-13-1024x576.jpg)
 
 As you can see here, the headline that the editors put on my article was exactly as I expected: look how terrible socialism is. But in my article, I argue that authoritarianism, not socialism, is to blame. My instinct was to take a self-aggrandizing lesson from this: well, when you’re a public writer, you have to be prepared for the public to see whatever they want to see. I think the real lesson is one in humility: you need to own your work. If you want to pick a fight&mdash;which I clearly wanted to here&mdash;you need to actually do that, instead of trying to sneak in your viewpoint. It’s a matter of respect for your audience.
 
 A more successful example of writing to a specific audience is this article I wrote for my former employer, _The American Conservative_.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-14-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-14-1024x576.jpg)
 
 On the left, you have [my undergraduate thesis](https://esferasnyu.files.wordpress.com/2015/05/catherine-addington_dios-y-los-diez.pdf), which you will not be surprised to hear was about soccer (specifically in Argentina). On the right, you have [an article I wrote during the summer of 2014](http://www.theamericanconservative.com/why-world-cup-culture-wars-vindicate-american-soccer/), when the World Cup was on. In the article, I used my thesis research to argue that Americans denouncing soccer as European and therefore socialist are playing into a long tradition of denouncing and then adopting foreign customs. Because that’s exactly what happened in Argentina&mdash;they denounced soccer as an English import but over time it became the popular obsession it is today. This article was more successful because I wrote with my audience in mind: they would likely be aware of the ongoing World Cup, and may have seen other conservative publications’ negative reactions to it. I took that established knowledge as the point of departure, and added more context. Instead of trying to sneakily insult my audience’s opinion (like I did in _The Spectator_), I directly engaged and responded to events that my audience would be familiar with.
 
@@ -172,7 +172,7 @@ As you look through a site or two, think about these questions:
   * What do you like and dislike about the website? How could it be improved?
 
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-17-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-17-1024x576.jpg)
 
 (Students noted that [Jorge Ariel Escobar](http://www.jorgearielescobar.com/) used a visual-heavy website to showcase his photography, which matched his apparent goal of marketing his skills. They also reflected on [Matthew and Maggie Loftus](https://matthewandmaggie.org/)’s use of their more text-heavy website to keep a blog about their medical practice in a way that was accessible to non-medical professionals, perhaps for a more personal audience since they describe living and working far from home. Finally, we discussed [Eric L. Silver](http://www.ericlsilver.com/)’s website as an example of taking a colorful personal tone, even while aiming at a professional audience. After all, I pointed out, if you’re a podcast producer and writer, you want people to spend hours listening to your voice or reading your words. It doesn’t make any sense to excise your personality if that’s exactly what you’re selling!)
 
@@ -189,4 +189,4 @@ Now that you have an idea of your own goals and a few examples to work with, let
 
 I’ll leave you with a few recommendations for further reading and research pertinent to the topic. If you have any questions, feel free to ask now or [get in touch](http://catherineaddington.com/about-me).
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-19-1024x576.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/writing-in-public-on-purpose-19-1024x576.jpg)

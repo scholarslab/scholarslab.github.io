@@ -25,19 +25,19 @@ Every November on the Wednesday of Geography Awareness Week the world celebrates
 
 And cake.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/cake-timeline.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/cake-timeline/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/cake-timeline.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/cake-timeline/)
 
 In 2010 we threw open the Scholars' Lab doors for folks to present geospatial lightning talks.  We were impressed by the breadth of GIS work ongoing across our community.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/2010-Talks-768x1024.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/2010-talks/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/2010-Talks-768x1024.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/2010-talks/)
 
 And lots of people came to hear these mappy stories.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/gpspresentation1.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/gpspresentation-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/gpspresentation1.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/gpspresentation-2/)
 
 And for cake.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/2010-cake.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/2010-cake/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/2010-cake.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/2010-cake/)
 
 Face it, you love maps.  We invite you to join our band of Virginia Mapheads as we celebrate World GIS day 2011 with a lightning-fast show of the world's coolest geowork in the Scholars' Lab on Wednesday, November 16 at 1:30pm.
 
@@ -45,11 +45,11 @@ Sadly, I know many of you don’t have the pleasure of working all day every day
 
 Again, we have a compelling lightning talk lineup for 2011.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/2011-The-Lightning2-793x1024.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/2011-the-lightning-3/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/2011-The-Lightning2-793x1024.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/2011-the-lightning-3/)
 
 Your reward?  Two slices of our soon to be legendary 2011 GIS Day geocake to be revealed on GIS day!
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/2011-GIS-day-info.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/2011-gis-day-info/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/2011-GIS-day-info.png)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/2011-gis-day-info/)
 
 
 # 2011 GIS Day Update
@@ -57,21 +57,21 @@ Your reward?  Two slices of our soon to be legendary 2011 GIS Day geocake to be
 
 Over 70 folks enjoyed our 2011 GIS Day celebration in the Scholars' Lab.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-audience-2-1024x518.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-audience-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-audience-2-1024x518.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-audience-2/)
 
 Speakers ranged from wily GIS veterans to those who'd recently started using geospatial tools.   Check the speaker list above to see the wide range of topics.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-057-1024x768.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-057/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-057-1024x768.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-057/)
 
 The Charlottesville CBS station sent their GIS Day team to cover the event interviewing Eric Johnson, Scholars' Lab Head of Outreach and Consulting.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-040-1024x677.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-040/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-040-1024x677.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-040/)
 
 And we feasted on the already legendary Virginia-shaped geocake decorated with flags marking unusual place names.  All this was followed by delicious hot mulled cider.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-035-1024x768.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-035/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-035-1024x768.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-035/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-033-1024x768.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-033/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/20111116-GIS-Day-033-1024x768.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20111116-gis-day-033/)
 
 Thanks to everyone who played a part in making GIS Day 2011 a mappy success!
 
@@ -81,21 +81,21 @@ Thanks to everyone who played a part in making GIS Day 2011 a mappy success!
 
 The Scholars' Lab celebrated GIS Day 2012 with lightning talks on spatial topics, one-of-a-kind GIS Day buttons, cartographic cupcakes, and hot mulled cider.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/20121114-UVA-GIS-Day-crowd-cropped-1024x345.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20121114-uva-gis-day-crowd-cropped/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/20121114-UVA-GIS-Day-crowd-cropped-1024x345.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20121114-uva-gis-day-crowd-cropped/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/GISDay2012SpeakerList-792x1024.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/gisday2012speakerlist/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/GISDay2012SpeakerList-792x1024.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/gisday2012speakerlist/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/IMG_1291-1024x895.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/img_1291/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/IMG_1291-1024x895.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/img_1291/)
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/20121114-UVA-GIS-Day-cake-2-1024x768.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20121114-uva-gis-day-cake-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/20121114-UVA-GIS-Day-cake-2-1024x768.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20121114-uva-gis-day-cake-2/)
 
 We highlighted our recent work with Do It Yourself Aerial Photography using balloons, kites, and copters.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/20121114-UVA-GIS-Day-balloon-kite-copter-1024x790.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20121114-uva-gis-day-balloon-kite-copter/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/20121114-UVA-GIS-Day-balloon-kite-copter-1024x790.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/20121114-uva-gis-day-balloon-kite-copter/)
 
 Some folks didn't want GIS Day to end.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2011/11/GIS-Week-Button-1024x983.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/gis-week-button/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/GIS-Week-Button-1024x983.jpg)](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/attachment/gis-week-button/)
 
 Thanks to all the friends of the Scholars' Lab who made GIS Day 2012 a mappy success!
 

@@ -18,24 +18,24 @@ Now I’m no expert in the gothic novel, but after talking with Taylor, it becam
 
 I started looking for post-press and technologically-experimental literature that echoes gothic themes and characteristics. One work that Taylor and her class were discussing particularly caught my interest, namely, Oscar Wilde’s _Picture of Dorian Gray_. So I began my search for the “digital gothic” using this work as my focal point, and the results were intriguing. Not only has _Dorian Gray _been a favorite subject of Hollywood, but there have also been multiple graphic novels starring Dorian. Bluewater Comics even published an interactive, digital comic titled _Dorian Gray_ that incorporates sound and movement.
 
-![](http://scholarslab.org/wp-content/uploads/2017/03/2017-02-18-17.17.59-300x169.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/03/2017-02-18-17.17.59-300x169.png)
 
-![](http://scholarslab.org/wp-content/uploads/2017/03/2017-03-07-16.01.38-300x169.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/03/2017-03-07-16.01.38-300x169.png)
 
 ***Screen shot of _Dorian Gray_ the digital comic, created by Darren G. Davis, Scott Davis, and Federico De Luca.**
 
 I continued brainstorming and gathering materials, until it was finally time to visit Taylor’s class on Wednesday, March 1, 2017. Despite the relatively early hour (8:30 am), Taylor’s class was enthusiastic and eager to participate. We reviewed the categories of highbrow and lowbrow literature before jumping into a discussion about Wilde’s _Dorian Gray_, which the students had just finished reading. Wilde’s descriptions and imagery gave us a pivoting point to examine other interpretations of Wilde’s work, particularly these graphic versions. But before we looked at these versions, I had the students watch part of Scott McCloud’s TED Talk, “The Visual Magic of Comics” ([https://www.ted.com/talks/scott_mccloud_on_comics](https://www.ted.com/talks/scott_mccloud_on_comics)). McCloud clearly and persuasively lays out the visual resources available to comics, and he further discusses the future of comics in a digital age. Armed with the vocabulary outlined by McCloud, we examined first a (printed) graphic novel and then the digital comic version of Wilde’s novel.
 
-![](http://scholarslab.org/wp-content/uploads/2017/03/2017-03-01-08.54.43-300x169.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/03/2017-03-01-08.54.43-300x169.jpg)
 
-![](http://scholarslab.org/wp-content/uploads/2017/03/2017-03-01-08.56.09-300x169.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/03/2017-03-01-08.56.09-300x169.jpg)
 
 ***Our examination of the visual affordances of graphic novels and digital comics**
 
 We looked at several other instances of contemporary gothic digital literature, including webcomics (particularly “Bongcheon-Dong Ghost”) and hypertext fiction (Shelley Jackson’s _Patchwork Girl_, a retelling of Mary Shelley’s _Frankenstein _featuring the creation of a female monster).
 
 
-###  ![](http://scholarslab.org/wp-content/uploads/2017/03/2017-03-01-09.42.21-300x169.jpg)
+###  ![](http://static.scholarslab.org/wp-content/uploads/2017/03/2017-03-01-09.42.21-300x169.jpg)
 
 
 ***Students examine Shelley Jackson’s hypertext fiction, _Patchwork Girl_**

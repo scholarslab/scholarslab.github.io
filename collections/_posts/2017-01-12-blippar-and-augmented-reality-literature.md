@@ -32,7 +32,7 @@ _Priya’s Shakti _is available for [free download on Amazon ](https://www.amazo
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/01/2016-12-03-17.49.55-e1484256439261-229x300.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/01/2016-12-03-17.49.55-e1484256439261-229x300.png)
 
 Figure 3. Screen-shot of Blippar’s enhanced graphics of a page of _Priya’s Shakti_
 

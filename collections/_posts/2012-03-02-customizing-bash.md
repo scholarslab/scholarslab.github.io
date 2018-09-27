@@ -36,7 +36,7 @@ These two lines clone the bash-it repository to a hidden directory (.bash_it) fo
 
 The default theme is named Bobby and looks really nice. It uses [solarized](http://ethanschoonover.com/solarized) colors and had one feature I really like: multiline feedback. On one line, I know which Ruby version I have active in RVM, the server I'm on, and where I am on the system. On the second line, I know which git branch I'm on, and if there are uncommitted changes (red x if there are changes, green check if everything is committed).
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/02/screen-300x156.png)](http://www.scholarslab.org/dh-developer/customizing-bash/attachment/screen-2/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/02/screen-300x156.png)](http://www.scholarslab.org/dh-developer/customizing-bash/attachment/screen-2/)
 
 
 # Aliases
@@ -58,7 +58,7 @@ In Snow Leopard, the Terminal app doesn't support 256-bit colors. Apple has upda
 
 There is, however, an awesome Terminal app replacement named [iTerm2](http://www.iterm2.com/) that has a lot of the features I want; 256-bit color support, full-screen mode, ability to split the screens, and hot keys (please don't make me click when I can type). After installing iTerm2, I can now run the tests for [prism](https://github.com/scholarslab/prism) and get all the [NyanCat rainbow ](https://github.com/mattsears/nyan-cat-formatter)awesomeness.
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/03/tests-300x147.png)](http://www.scholarslab.org/dh-developer/customizing-bash/attachment/tests/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/03/tests-300x147.png)](http://www.scholarslab.org/dh-developer/customizing-bash/attachment/tests/)
 
 After updating Terminal, installing the bash-it themes and plugins, and getting a 'better' font on my machine (and adding a few aliases back in to the ~/.bash_profile to log on to some servers), I used scp to push these files to the various server environments I work on (replace user and server):
 

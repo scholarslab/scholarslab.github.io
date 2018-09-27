@@ -31,4 +31,4 @@ Though, I think the most interesting visualization is this [animated one](http:/
 
 
 
-[caption id="" align="aligncenter" width="435"][![](http://www.scholarslab.org/wp-content/uploads/2011/08/earthquakeWave.png)](http://www.youtube.com/watch?v=IKE7MLNdtcg) YouTube: http://www.youtube.com/watch?v=IKE7MLNdtcg[/caption]
+[caption id="" align="aligncenter" width="435"][![](http://static.scholarslab.org/wp-content/uploads/2011/08/earthquakeWave.png)](http://www.youtube.com/watch?v=IKE7MLNdtcg) YouTube: http://www.youtube.com/watch?v=IKE7MLNdtcg[/caption]

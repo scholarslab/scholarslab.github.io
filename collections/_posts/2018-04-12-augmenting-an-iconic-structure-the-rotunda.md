@@ -55,7 +55,7 @@ Faculty efforts include a multimedia initiative, _Black Fire at UVA_ ([https://b
 
 The Demographics Research at the University of Virginia has created a “Racial Dot Map” that visualizes the “geographic distribution, population density, and racial diversity of the American people in every neighborhood in the entire country” using information from the 2010 US Census. This map thus displays how segregation is still endemic to the United States and shows how much more work needs to be done.
 
-![](http://scholarslab.org/wp-content/uploads/2018/04/Screen-Shot-2018-04-04-at-4.34.11-PM-300x143.png)
+![](http://static.scholarslab.org/wp-content/uploads/2018/04/Screen-Shot-2018-04-04-at-4.34.11-PM-300x143.png)
 
 Image 6: A screenshot of “The Racial Dot Map” that visually displays how neighborhoods are segregated in Charlottesville
 

@@ -19,7 +19,7 @@ I originally went to [Social Explorer](http://www.socialexplorer.com) (SE) to vi
 In AFF, I was able to get all the transportation survey data and decided to map rate changes in mass transit, bicycling and walking.  I had to manipulate the downloaded Excel file to make it "GIS ready."
 
 
-![](http://www.scholarslab.org/wp-content/uploads/2010/10/fullMap150.png)
+![](http://static.scholarslab.org/wp-content/uploads/2010/10/fullMap150.png)
 
 
 
@@ -29,12 +29,12 @@ There are some interesting things going on within this map.  First, why do a ma
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/10/fullMapMass150.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/fullmapmass150/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/fullMapMass150.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/fullmapmass150/)
 
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/10/fullMapWalk150.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/fullmapwalk150/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/fullMapWalk150.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/fullmapwalk150/)
 
 
 
@@ -49,17 +49,17 @@ I made a few more maps showing the density of cyclists in 2005 and 2009 at a lar
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/10/bikeVA.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/bikeva/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeVA.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/bikeva/)
 
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/10/bikeNEcoor.png)](http://www.scholarslab.org/?attachment_id=)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeNEcoor.png)](http://www.scholarslab.org/?attachment_id=)
 
 
 
 
-[![](http://www.scholarslab.org/wp-content/uploads/2010/10/bikeCO.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/bikeco/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeCO.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/bikeco/)
 
 
 

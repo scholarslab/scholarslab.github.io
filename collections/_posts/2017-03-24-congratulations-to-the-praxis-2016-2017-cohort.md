@@ -12,7 +12,7 @@ tags:
 - praxis program
 ---
 
-![](http://scholarslab.org/wp-content/uploads/2017/03/FullSizeRender-300x168.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/03/FullSizeRender-300x168.jpg)
 
 On Tuesday, March 20th the Praxis 2016-2017 Cohort was awarded first place for their project "Dash-Amerikan: Keeping up with Kardashian Media Ecologies" at the 2017 Huskey Research Exhibition, hosted by the University of Virgina Graduate School of Arts and Sciences.
 
@@ -26,4 +26,4 @@ In 2015, the season premiere of Keeping Up with the Kardashians was the most vie
 
 Please join me in congratulating Jordan Buysse, Alicia Caticha, Alyssa Collins, Justin Greelee, Sarah Mceleney, and Joseph Thompson.
 
-![](http://scholarslab.org/wp-content/uploads/2017/03/FullSizeRender-1-300x276.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/03/FullSizeRender-1-300x276.jpg)

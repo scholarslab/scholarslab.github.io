@@ -18,7 +18,7 @@ As a historian, when I think of charters, the first things I think of are royal 
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2017/09/Virginia-Company-charter-16061-300x208.jpg)![](http://scholarslab.org/wp-content/uploads/2017/09/pocahontas-21-300x174.png)
+![](http://static.scholarslab.org/wp-content/uploads/2017/09/Virginia-Company-charter-16061-300x208.jpg)![](http://static.scholarslab.org/wp-content/uploads/2017/09/pocahontas-21-300x174.png)
 
 
 
@@ -34,7 +34,7 @@ Transparency is one of our core values, so I am going to use this post to reveal
 
 Our charter's first draft was written in a jam session in a Scholars' Lab meeting room, and the fact that we are all teachers was readily evident. We privately brainstormed, we paired and shared those ideas, and then we had a class discussion with Christian at the technological helm. I often think of grad school as a lesson in liminality.
 
-![](http://scholarslab.org/wp-content/uploads/2017/09/0bc2317892d97c002c86f61fd5fa3aba-300x130.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/09/0bc2317892d97c002c86f61fd5fa3aba-300x130.jpg)
 
 
 "Piled Higher and Deeper" by Jorge Cham www.phdcomics.com
@@ -46,7 +46,7 @@ Our conversation always seemed to come back to values. Values are, I think, the 
 
 This, of course, points to the idea of conflict. As our joyful leader Brandon Walsh noted, past Praxis cohorts have tended to avoid naming conflict in their charters in the hopes that their silence would prevent it from ever rearing its ugly head. Think of conflict as the he-who-must-not-be-named of group work, if you will.
 
-![](http://scholarslab.org/wp-content/uploads/2017/09/AAEAAQAAAAAAAAiEAAAAJDk1Yjg4OTEzLTg0MzQtNDYwYi1iZjM4LWE5ZjFjZGNhNzkwYw-300x161.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/09/AAEAAQAAAAAAAAiEAAAAJDk1Yjg4OTEzLTg0MzQtNDYwYi1iZjM4LWE5ZjFjZGNhNzkwYw-300x161.jpg)
 
 Ignoring conflict didn't really work out for the Ministry of Magic though, and I doubt that the academy fairs much better. My hope is that by setting out clear goals, values, and strategies for coping with conflict we will enable our future selves to handle disagreements with aplomb and grow from them, rather than shrink from them.
 
