@@ -11,7 +11,7 @@ categories:
 
 # Who
 Summer 2017 sprint & fall work (Brandon, Jeremy, Zoe, Amanda, Ronda, Laura)  
-Spring 2018 (date?) on—Katherine's work on design, language, goals, structure, function  
+Spring 2018 (date?) on—Katherine's work on design, language, goals, structure, function; intense work in addition to background meta-work (progress tracker, commenting code, analyzing existing site...)
 August 2018 Brandon's work  
 Ammon's dev ops work  
 Look back at commits, slab-migration channel (dev channel too?), GDocs, content work...  
@@ -21,4 +21,15 @@ Whole team for demo feedback & content
 Welcome, encourage  
 Make info easier to find  
 Rethink how we communicate, concisely, what we do  
-Capture the current SLab (DH/DS, all current staff)  
+Capture the current SLab (DH/DS, all current staff)
+Show our being part of the Library
+
+Examples:
+colors & font
+map with color-coded areas
+equipment categories (e.g. sewing) so can tell what they're for
+welcome, encouragement
+audience as those who wouldn't otherwise already know about or feel welcome to join us
+community over center
+FAQ
+![]()
