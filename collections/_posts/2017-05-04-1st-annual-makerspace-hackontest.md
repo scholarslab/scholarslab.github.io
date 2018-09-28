@@ -122,10 +122,9 @@ Three entries made it to the competition:
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154036.jpg)
 
-[video width="720" height="1280" mp4="http://scholarslab.org/wp-content/uploads/2017/05/VID_20170503_155400.mp4"][/video]
+<video controls muted src="http://static.scholarslab.org/wp-content/uploads/2017/05/VID_20170503_155400.mp4" width="720" height="1280"></video>
 
-
-## ![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155520.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155520.jpg)
 
 
 
@@ -141,7 +140,7 @@ Three entries made it to the competition:
 
 </figure>
 
-[video width="720" height="1280" mp4="http://scholarslab.org/wp-content/uploads/2017/05/VID_20170503_155152.mp4"][/video]
+<video controls muted width="720" height="1280" src="http://static.scholarslab.org/wp-content/uploads/2017/05/VID_20170503_155152.mp4"></video>
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155326.jpg)
 
@@ -157,15 +156,15 @@ Three entries made it to the competition:
 
 </figure>
 
-[video width="720" height="1280" mp4="http://scholarslab.org/wp-content/uploads/2017/05/VID_20170503_154937.mp4"][/video]
+<video controls muted width="720" height="1280" src="http://static.cholarslab.org/wp-content/uploads/2017/05/VID_20170503_154937.mp4"></video>
 
 
-# ![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155616.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_155616.jpg)
 
 
 
 
-# The Winner is...
+## The Winner is...
 
 
 Only one competitor survived all the tests: drop from 2 meters, the full weight of one metric Shane unit on **three** axis, and a second drop from 2 meters...
@@ -175,6 +174,3 @@ Only one competitor survived all the tests: drop from 2 meters, the full weight 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/05/20170503_160322-1-e1493907510317-905x1024.jpg)
 
 Congratulations, you get the first SLabby award!
-
-
-

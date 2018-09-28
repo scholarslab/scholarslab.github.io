@@ -19,6 +19,6 @@ _Kari Kraus is an associate professor in the College of Information Studies and 
 
 [1] Qtd. in Kevin Kelly, What Technology Wants (New York: Viking, 2010) 45. [2] Jin-min Seok, et al., "Non-Finito Products: A New Design Space of User Creativity for Personal User Experience," CHI 2014, Toronto Canada.
 
-[audio mp3="http://scholarslab.org/wp-content/uploads/2014/11/kari-kraus1.mp3"][/audio]
+<audio controls muted src="http://scholarslab.org/wp-content/uploads/2014/11/kari-kraus1.mp3"></audio>
 
 This talk was recorded in Alderman Library, Rm 421 on October 20, 2014.  If you encounter problems with the audio, please email [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
