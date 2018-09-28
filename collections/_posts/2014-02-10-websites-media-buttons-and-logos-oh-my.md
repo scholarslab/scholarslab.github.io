@@ -27,6 +27,9 @@ Next, we drew up a modified "Add Media" button. Why you may ask? Well even thoug
 
 Stephanie and I also thought that it would be good to use WordPress for our informational site since we are building a WordPress plugin.... however we were "convinced" that the better way to go would be building the site ourselves. While I now see why it is important to go this route, building a site from the ground up brought with it a wave of anxiety. I still feel so uneasy about my CSS/HTML skills and I was concerned that not relying on WordPress would ultimately mean roadblocks for the team. In addition to the information site, I also need to be working on designing the actual game and was really worried that my skill level would impede progress. Luckily for me we have an awesome support team and Jeremy and Wayne sat down with me (and my son Lev!) to help Zach and I begin building our site. While we still have a great deal of work to go on it, I was once again surprised at my capabilities (and also satisfied/proud to see the fruits of our labor). I think in the end it's just about making the time to come into SLAB for help and being a bit more confident in myself.
 
-[caption id="attachment_9560" align="alignnone" width="300"][![Wayne teaching me CSS--and Lev too!](http://www.scholarslab.org/wp-content/uploads/2014/02/Lev-300x225.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/02/Lev.jpg) Wayne teaching me CSS--and Lev too![/caption]
+<figure>
+  [![Wayne teaching me CSS--and Lev too!](http://www.scholarslab.org/wp-content/uploads/2014/02/Lev-300x225.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/02/Lev.jpg)
+  <figcaption> Wayne teaching me CSS--and Lev too!</figcaption>
+</figure>
 
 Finally - we are in the process of [crowdsourcing](http://www.scholarslab.org/grad-student-research/potential-ivanhoe-users/)! We'd love to hear from you on how we can make Ivanhoe great.  We're still interested in [how you use WordPress](http://www.scholarslab.org/grad-student-research/potential-ivanhoe-users/), so fill out our questionnaire if you'd like to help.  Thanks!

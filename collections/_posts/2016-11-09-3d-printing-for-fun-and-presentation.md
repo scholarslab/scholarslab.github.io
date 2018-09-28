@@ -35,7 +35,10 @@ Also it saves me a lot of money as a first year who doesn't have a car. Instead 
 
 
 
-[caption id="attachment_13006" align="aligncenter" width="1024"]![pokedex](http://scholarslab.org/wp-content/uploads/2016/11/pokedex-1024x768.jpg) Image source: Brandon Phan[/caption]
+<figure>
+  ![pokedex](http://scholarslab.org/wp-content/uploads/2016/11/pokedex-1024x768.jpg)
+  <figcaption> Image source: Brandon Phan</figcaption>
+</figure>
 
 
 ## 
@@ -68,4 +71,7 @@ Perhaps it was no surprise then that immediately afterwards, the class gathered 
 
 
 
-[caption id="attachment_13014" align="aligncenter" width="1024"]![civil war bullets](http://scholarslab.org/wp-content/uploads/2016/11/IMG_20161109_112829970-1024x576.jpg) Image source: Ammon Shepherd[/caption]
+<figure>
+  ![civil war bullets](http://scholarslab.org/wp-content/uploads/2016/11/IMG_20161109_112829970-1024x576.jpg)
+  <figcaption> Image source: Ammon Shepherd</figcaption>
+</figure>

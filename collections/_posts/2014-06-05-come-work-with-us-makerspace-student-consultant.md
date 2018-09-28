@@ -11,7 +11,10 @@ categories:
 
 _Are you a UVA graduate student or upper-level undergraduate in the humanities?  Interested working in our new Makerspace?_
 
-[caption id="attachment_10367" align="alignleft" width="303"][![133799283_8e9ab4cd6e_b](http://www.scholarslab.org/wp-content/uploads/2014/06/133799283_8e9ab4cd6e_b-300x232.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/06/133799283_8e9ab4cd6e_b.jpg) photo courtesy of flicker user marymactavish[/caption]
+<figure>
+  [![133799283_8e9ab4cd6e_b](http://www.scholarslab.org/wp-content/uploads/2014/06/133799283_8e9ab4cd6e_b-300x232.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/06/133799283_8e9ab4cd6e_b.jpg)
+  <figcaption> photo courtesy of flicker user marymactavish</figcaption>
+</figure>
 
 The Scholars’ Lab in Alderman Library is opening a new Makerspace in Fall 2014.  It will allow user experimentation with 3D modeling and printing, physical computing (e.g. Arduino, wearables) and more.  We are seeking part-time student assistants to help maintain the public space, field users’ basic maker and general computing (both Mac and PC) questions, and connect researchers to Scholars’ Lab staff when necessary.  When not actively engaged with users, assistants will be asked to pursue their own research, use the equipment, and publish their processes and observations on the Scholars’ Lab blog.
 

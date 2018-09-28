@@ -27,7 +27,10 @@ We're talking about old-school cartography.  As early as the 16th-century, writ
 
 [![Plane Table School World](http://www.scholarslab.org/wp-content/uploads/2014/04/PlaneTableSchoolWorld.png)](http://www.scholarslab.org/wp-content/uploads/2014/04/PlaneTableSchoolWorld.png)
 
-[caption id="" align="alignnone" width="650"]![](http://celebrating200years.noaa.gov/foundations/mapping/image2_650.jpg) Plane table mapping from [NOAA](http://celebrating200years.noaa.gov/foundations/mapping/image2.html)[/caption]
+<figure>
+  ![](http://celebrating200years.noaa.gov/foundations/mapping/image2_650.jpg) Plane table mapping from [NOAA](http://celebrating200years.noaa.gov/foundations/mapping/image2.html)
+  <figcaption></figcaption>
+</figure>
 
 Historic resources like Low's [_Plane Table Mapping_](https://archive.org/details/planetablemappin031356mbp) inform our methodology.  Modern interpretations of [plane table mapping as art](http://mindstre.am/photos/@4918?limit=20&start=0) expand the boundaries beyond the two dimensional plane.  A new crop of 21st-century plane table mappers are [in the field](http://canoepost.blogspot.com/2011/02/where-is-keg-island.html), among them [geography students at Texas A & M University](http://geography.tamu.edu/class/aklein/geog332/labs/lab03/lab_instructions.pdf).
 

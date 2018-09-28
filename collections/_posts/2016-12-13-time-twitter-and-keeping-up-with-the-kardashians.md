@@ -12,13 +12,19 @@ tags:
 
 We started this semester thinking about time and the ways time is structured, pathologized, and altered. And when it came to finding an access point for these questions, a project, if you will, we found it in an unlikely source:
 
-[caption id="" align="aligncenter" width="434"]![A cover of Cosmopolitan in which the Kardashians are pictured. It includes the title ](http://www.awesomelyluvvie.com/wp-content/uploads/2015/10/Cosmopolitan-Kardashians.jpg) Cosmo names the Kardashians as America's "First Family"[/caption]
+<figure>
+  ![A cover of Cosmopolitan in which the Kardashians are pictured. It includes the title ](http://www.awesomelyluvvie.com/wp-content/uploads/2015/10/Cosmopolitan-Kardashians.jpg)
+  <figcaption> Cosmo names the Kardashians as America's "First Family"</figcaption>
+</figure>
 
 
 
 Initially, as _serious _grad students, we were a bit resistant/hesitant  to stake our entire project on such an unlikely primary source. However, after several elaborate, energized, and playful discussions, we came to the conclusion that  Kim Kardashian and her family (a.k.a "the Kardashians") are interesting set of figures who actively make and re-make their own history through a network of media platform (both new and traditional/"mainstream"). Because they loom large on the landscape of American contemporary culture and have connected themselves to so many people, the Kardashians are situated within a nexus of not only conversations about time and information dissemination, but also conversations about race, gender, and sexuality.  For our cohort, the Kardashians also are  an exciting place of research where we can pair **intellectual play and rigor**. So, eventually we all got on board. 
 
-[caption id="attachment_13077" align="aligncenter" width="441"]![Brainstorming Session](http://scholarslab.org/wp-content/uploads/2016/12/IMG_7612-copy-300x235.jpg) Brainstorming Session[/caption]
+<figure>
+  ![Brainstorming Session](http://scholarslab.org/wp-content/uploads/2016/12/IMG_7612-copy-300x235.jpg)
+  <figcaption> Brainstorming Session</figcaption>
+</figure>
 
 
 
