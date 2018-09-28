@@ -19,22 +19,34 @@ The Scholars' Lab was asked to contribute maps showing the general movement of M
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/Map1-1024x791.jpg)
-  <figcaption>Map 1 - Shows Goings's General Movement</figcaption>
+  <figcaption>
+Map 1 - Shows Goings's General Movement
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/Map21-1024x791.jpg)
-  <figcaption>Map 2 - Shows Southern Locations with James River Plantations Inset</figcaption>
+  <figcaption>
+Map 2 - Shows Southern Locations with James River Plantations Inset
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/Map3-1024x791.jpg)
-  <figcaption>Map 3 - Shows Places From Tennessee to Canada</figcaption>
+  <figcaption>
+Map 3 - Shows Places From Tennessee to Canada
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/Map4-1024x791.jpg)
-  <figcaption>Map 4 - Shows Great Lakes Locations</figcaption>
+  <figcaption>
+Map 4 - Shows Great Lakes Locations
+</figcaption>
+
 </figure>
 
 The UVa Press did make some minor changes to the maps (mostly legends and scalebars) for the book.  However, the extents and all the data in the maps are the same as those shown here.

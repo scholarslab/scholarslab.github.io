@@ -20,7 +20,10 @@ My pseudo-catholic reaction to code was very revealing to me. After all, why sho
 
 <figure>
   [![Git Languages](http://www.scholarslab.org/wp-content/uploads/2011/09/git-lang-300x136.png)](http://www.scholarslab.org/praxis-program/play-in-the-praxis/attachment/git-lang/)
-  <figcaption>The languages of Git</figcaption>
+  <figcaption>
+The languages of Git
+</figcaption>
+
 </figure>
 
 Another (false) difference between natural languages and code got me thinking further about what we're doing here. If a speaker of two languages sees a paragraph where those two languages intermingle, they recognize the meaning immediately. At first sight, computer languages don't seem to behave that way. After all, you can't really insert a PERL line at random in a Ruby script and expect the interpreter to recognize it. This difference is also artificial. There is a right way and a wrong way to mix Spanish with English, just as there is a right way to mix Java with PHP. In order to produce meaning you just have to do it the right way. Git, for example, is written mostly in C, but with substantial contributions by other languages. Junot Diaz's _The Brief and Wondrous Life of Oscar Wao_ is written mostly in English, with some Spanish thrown in the mix. Even for Spanglish speakers the text follows certain rules to make itself clear. All that to say, that for those of us who are becoming bilingual (again), it is not _caos total_, but just a new set of procedures.

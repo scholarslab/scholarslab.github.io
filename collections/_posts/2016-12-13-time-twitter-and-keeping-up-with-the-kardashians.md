@@ -14,7 +14,10 @@ We started this semester thinking about time and the ways time is structured, pa
 
 <figure>
   ![A cover of Cosmopolitan in which the Kardashians are pictured. It includes the title ](http://www.awesomelyluvvie.com/wp-content/uploads/2015/10/Cosmopolitan-Kardashians.jpg)
-  <figcaption> Cosmo names the Kardashians as America's "First Family"</figcaption>
+  <figcaption>
+ Cosmo names the Kardashians as America's "First Family"
+</figcaption>
+
 </figure>
 
 
@@ -23,7 +26,10 @@ Initially, as _serious _grad students, we were a bit resistant/hesitant  to sta
 
 <figure>
   ![Brainstorming Session](http://scholarslab.org/wp-content/uploads/2016/12/IMG_7612-copy-300x235.jpg)
-  <figcaption> Brainstorming Session</figcaption>
+  <figcaption>
+ Brainstorming Session
+</figcaption>
+
 </figure>
 
 

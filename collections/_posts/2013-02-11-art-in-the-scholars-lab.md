@@ -18,7 +18,10 @@ I’ve been at UVA for a long, long time and I’ve worked in some nice, if a li
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2013/01/Erin-Chilton-Art1-247x300.jpg)](http://www.scholarslab.org/slab-events/art-in-the-scholars-lab/attachment/erin-chilton-art-2/)
-  <figcaption> Art from Erin Chilton's show.</figcaption>
+  <figcaption>
+ Art from Erin Chilton's show.
+</figcaption>
+
 </figure>
 
 In the late spring of 2008, Erin Chilton, a 4th year student with an exhibit of beautiful, realistic paintings, shared her art in our space.  The following fall, our own Digital Humanities Graduate Fellow, Jean Bauer, contributed several lovely color [photographs](https://www.scholarslab.org/wp-admin/).  They were beautiful in their simplicity.  We kept them up throughout the school year.

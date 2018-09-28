@@ -30,7 +30,10 @@ In this post, I will describe the project and detail the goals, inspirations, a
 
 <figure>
   [![Mucha Smart Dress](http://scholarslab.org/wp-content/uploads/2015/05/Mucha-Smart-Dress-1024x981.jpg)](http://scholarslab.org/wp-content/uploads/2015/05/Mucha-Smart-Dress.jpg)
-  <figcaption> My sketch of the "Mucha Smart Dress"</figcaption>
+  <figcaption>
+ My sketch of the "Mucha Smart Dress"
+</figcaption>
+
 </figure>
 
 Although [Alphonse Mucha](http://www.muchafoundation.org/gallery/browse-works/object_type/posters/object/80) ultimately rejected the "Art Nouveau" label his critics ascribed to his œuvre, he is nonetheless considered one of the founding fathers of this movement. A wildly popular style in the decades of 1890 to 1910, Art Nouveau marked an effort towards _gesamtkunstwerk_, or "total art." According to Mucha, his contributions to the style sought to surround society with beautiful works of art in order to inspire happiness and general well-being. He also maintained that objects' design, in order to bring this tranquility, had to indicate and contribute to the object's use.
@@ -151,7 +154,10 @@ While creating this project, I hope to also think critically about the utility (
 
 <figure>
   [![Before Dress](http://scholarslab.org/wp-content/uploads/2015/05/Before-Dress-683x1024.jpg)](http://scholarslab.org/wp-content/uploads/2015/05/Before-Dress.jpg) I'll turn this thrifted find (in Makerspace Red!)
-  <figcaption> into a hacked 19th-century design!</figcaption>
+  <figcaption>
+ into a hacked 19th-century design!
+</figcaption>
+
 </figure>
 
 Please let me know if you have any suggestions, alterations, or comments on this plan at any point during my work on this project!

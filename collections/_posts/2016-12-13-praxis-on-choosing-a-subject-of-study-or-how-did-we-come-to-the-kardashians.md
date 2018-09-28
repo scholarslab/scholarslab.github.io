@@ -10,7 +10,10 @@ tags:
 
 <figure>
   ![img_2038_1024](http://scholarslab.org/wp-content/uploads/2016/12/img_2038_1024-300x225.jpg)
-  <figcaption> Keeping up with the Praxis 2016-2017 cohort.</figcaption>
+  <figcaption>
+ Keeping up with the Praxis 2016-2017 cohort.
+</figcaption>
+
 </figure>
 
 

@@ -12,7 +12,10 @@ tags:
 
 <figure>
   [![Praxis Program](http://dayofdh2012.artsrn.ualberta.ca/nowviskie/files/2012/03/IMG_2717.jpg)](http://dayofdh2012.artsrn.ualberta.ca/nowviskie/2012/03/28/afternoon/)
-  <figcaption>Image courtesy Bethany Nowviskie</figcaption>
+  <figcaption>
+Image courtesy Bethany Nowviskie
+</figcaption>
+
 </figure>
 
 This is a blog post (one of many) celebrating the release of [Prism](http://prism.scholarslab.org/). This project and web site are the outcome of the [Praxis Program](http://praxis.scholarslab.org/), an experiment in graduate methodology training that we've been conducting at the Scholars' Lab.

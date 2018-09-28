@@ -18,7 +18,10 @@ This is just a quick post to share two bits of news about our [Praxis Program](h
 
 The piece was originally titled "Praxis, Through Prisms" -- now "[A Digital Boot Camp for Grad Students in the Humanities](http://chronicle.com/article/A-Digital-Boot-Camp-for-Grad/131665/)." It's pay-walled, for now, but I'll re-publish it in open access format in 30 days.<figure>
   ![prismatic badge](http://nowviskie.org/wp-content/uploads/2012/04/photo_20266_portrait_wide-e1335738451834-214x300.jpg)
-  <figcaption>by Chad Hagen for The Chronicle</figcaption>
+  <figcaption>
+by Chad Hagen for The Chronicle
+</figcaption>
+
 </figure>
 
 Check it out to learn more about the program, get a sneak peek at Prism (launching this Tuesday, which is the second newsflash! congrats, team!) and find out what I see as _the great project_ of humanities computing / digital humanities. Spoiler: it's "the development of a hermeneutic--a concept and practice of interpretation--parallel to that of the dominant, postwar, theory-driven humanities: a way of performing cultural and aesthetic criticism less through solitary points of view expressed in language, and more in team-based acts of building."

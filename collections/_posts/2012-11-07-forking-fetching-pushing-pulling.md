@@ -29,7 +29,10 @@ For this post, I'm going to use [Omeka](http://omeka.org) as our example, since 
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-07-at-2.25.08-PM.png)](http://www.scholarslab.org/dh-developer/forking-fetching-pushing-pulling/attachment/screen-shot-2012-11-07-at-2-25-08-pm/)
-  <figcaption> Dashboard for my fork of Omeka, indicating that it has been forked from omeka/Omeka.</figcaption>
+  <figcaption>
+ Dashboard for my fork of Omeka, indicating that it has been forked from omeka/Omeka.
+</figcaption>
+
 </figure>
 
 Just to be clear, forking is a _Github_ thing, not a git thing. When you fork a repo on Github, you're essentially making a copy of a repo at a particular point in time to your own account on Github. For this example, I'll refer to the fork of the [Omeka repo](http://github.com/omeka/Omeka) on my own account. These are two separate repositories. I don't have direct commit access on 'omeka/Omeka', but I do on my own, 'clioweb/Omeka':
@@ -47,7 +50,10 @@ The dashboard for you fork will indicate that it was forked from somewhere.
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-07-at-2.10.41-PM.png)](http://www.scholarslab.org/dh-developer/forking-fetching-pushing-pulling/attachment/screen-shot-2012-11-07-at-2-10-41-pm/)
-  <figcaption> The fork button</figcaption>
+  <figcaption>
+ The fork button
+</figcaption>
+
 </figure>
 
 Github's own help pages include a nice run-down on [how to fork a repo](https://help.github.com/articles/fork-a-repo), but to summarize: To fork any project on Github, you'll can just click that big "Fork" button near the top right of the project's Github page. Github will then ask you where you want to fork it, you choose which answer, and Github will do the rest. It shouldn't take too long to fork, but that depends on the size of the original repo.
@@ -113,7 +119,10 @@ As an aside, commit messages should provide enough description for someone to un
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-07-at-2.41.23-PM.png)](https://github.com/clioweb/Omeka/commit/2db757ac00a54be26c72a84c008692db3e5a595e)
-  <figcaption> Screenshot of my queue-js-options commit message in Github</figcaption>
+  <figcaption>
+ Screenshot of my queue-js-options commit message in Github
+</figcaption>
+
 </figure>
 
 Once you have all your commits for a feature or bug fix ready, now you can push your topic branch up to your fork on Github to share it with others:
@@ -132,7 +141,10 @@ Now that you've got your topic branch on your Github fork, its time to [send a p
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-07-at-2.38.43-PM.png)](https://github.com/omeka/Omeka/pull/363)
-  <figcaption> Page for my pull request to Omeka</figcaption>
+  <figcaption>
+ Page for my pull request to Omeka
+</figcaption>
+
 </figure>
 
 Developers on the original repository can comment on the request, see the code attached to it, and approve or reject the request. (Check out the [current pull requests on Omeka](https://github.com/omeka/Omeka/pulls) to see this in action.) If they do request changes, you can just update your topic branch locally, make your commits, and push them back up (this time, omitting the `-u` flag, since that topic branch now exists on Github.) In the meantime, you can go back to your local copy, create a new topic branch, and work on something else!

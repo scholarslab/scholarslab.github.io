@@ -29,7 +29,10 @@ Stephanie and I also thought that it would be good to use WordPress for our info
 
 <figure>
   [![Wayne teaching me CSS--and Lev too!](http://www.scholarslab.org/wp-content/uploads/2014/02/Lev-300x225.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/02/Lev.jpg)
-  <figcaption> Wayne teaching me CSS--and Lev too!</figcaption>
+  <figcaption>
+ Wayne teaching me CSS--and Lev too!
+</figcaption>
+
 </figure>
 
 Finally - we are in the process of [crowdsourcing](http://www.scholarslab.org/grad-student-research/potential-ivanhoe-users/)! We'd love to hear from you on how we can make Ivanhoe great.  We're still interested in [how you use WordPress](http://www.scholarslab.org/grad-student-research/potential-ivanhoe-users/), so fill out our questionnaire if you'd like to help.  Thanks!

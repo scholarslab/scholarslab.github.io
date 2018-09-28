@@ -21,14 +21,20 @@ The USGS also has a crowd-sourced program - called Do You Feel It? - where users
 
 <figure>
   [![City map](http://earthquake.usgs.gov/earthquakes/dyfi/events/se/082311a/us/se082311a_ciim.jpg)](http://earthquake.usgs.gov/earthquakes/dyfi/events/se/082311a/us/index.html)
-  <figcaption> Crowd-sourced intensity map - USGS</figcaption>
+  <figcaption>
+ Crowd-sourced intensity map - USGS
+</figcaption>
+
 </figure>
 
 The good people at [Development Seed](http://developmentseed.org/) created some cool maps just after the largest Virginia quake using publicly-available data and some tools from the guys at [MapBox](http://mapbox.com/).  Please click [here](http://developmentseed.org/blog/2011/aug/23/map-todays-east-cost-earthquake-available-mapbox) to see how they quickly mashed up the earthquake data to make some great maps.
 
 <figure>
   [![](http://farm7.static.flickr.com/6202/6074536202_f060ba45dc.jpg)](http://tiles.mapbox.com/mapbox/#!/map/map_1314132938521)
-  <figcaption> http://tiles.mapbox.com/mapbox/#!/map/map_1314132938521</figcaption>
+  <figcaption>
+ http://tiles.mapbox.com/mapbox/#!/map/map_1314132938521
+</figcaption>
+
 </figure>
 
 
@@ -39,5 +45,8 @@ Though, I think the most interesting visualization is this [animated one](http:/
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2011/08/earthquakeWave.png)](http://www.youtube.com/watch?v=IKE7MLNdtcg)
-  <figcaption> YouTube: http://www.youtube.com/watch?v=IKE7MLNdtcg</figcaption>
+  <figcaption>
+ YouTube: http://www.youtube.com/watch?v=IKE7MLNdtcg
+</figcaption>
+
 </figure>

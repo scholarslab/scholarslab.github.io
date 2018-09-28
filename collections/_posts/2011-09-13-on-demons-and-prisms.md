@@ -15,7 +15,10 @@ Prism is not many things, one of them is itself... for now. There is a history b
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2011/09/prism-300x167.png)](http://www.scholarslab.org/praxis-program/on-demons-and-prisms/attachment/prism/)
-  <figcaption>Prism ray trace</figcaption>
+  <figcaption>
+Prism ray trace
+</figcaption>
+
 </figure>
 
 Then there is the knack that some folks have to try to reduce it to the most mundane digital tools. Two in particular surface often: [Diigo ](http://www.diigo.com)and [NowComment](http://nowcomment.com/). I hope I am clear when I say, Prism they are not, and they are not for the same reason: They are not focused. A prism refracts light according to a specific set of rules. Diigo and NowComment allow for a very diffuse set of comments and monotone highlights that cannot be wrangled easily for analysis. Both are helpful to provide feedback for one reader who has a vested interested in reading the comments. If we were to read interpretation as a social phenomenon, their usefulness runs its course. Our prism understands that we all wiggle under controlled vocabularies and that it is there that our differences thrive.

@@ -29,44 +29,68 @@ This morning, we made our maiden voyage using the balloon methods described on t
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_2379.jpg)
-  <figcaption> Clemons Library Terrace</figcaption>
+  <figcaption>
+ Clemons Library Terrace
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_2386.jpg)
-  <figcaption> Louis S. on Clemons Terrace</figcaption>
+  <figcaption>
+ Louis S. on Clemons Terrace
+</figcaption>
+
 </figure>
 
 After flying over Clemons, we moved to the front of Alderman Library.  The wind eddies were an issue this morning but we got some really nice shots.
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_8472.jpg)
-  <figcaption> Alderman Launch</figcaption>
+  <figcaption>
+ Alderman Launch
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_8474.jpg)
-  <figcaption> Balloon Over Harrison-Small</figcaption>
+  <figcaption>
+ Balloon Over Harrison-Small
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_2423.jpg)
-  <figcaption> Kelly Holding Balloon Line</figcaption>
+  <figcaption>
+ Kelly Holding Balloon Line
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_2447.jpg)
-  <figcaption> Skylights and Sidewalks</figcaption>
+  <figcaption>
+ Skylights and Sidewalks
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_2453.jpg)
-  <figcaption> Trees and Benches</figcaption>
+  <figcaption>
+ Trees and Benches
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_2442.jpg)
-  <figcaption> The Ground Crew In Front of Alderman</figcaption>
+  <figcaption>
+ The Ground Crew In Front of Alderman
+</figcaption>
+
 </figure>
 
 The folks at the Public Laboratory also created an online georeferencing tool called [MapKnitter](http://mapknitter.org).  This tool may not be the best but it's fairly easy to understand and get some fairly decent results.  View our test site [here](http://mapknitter.org/maps/uva-library-test).

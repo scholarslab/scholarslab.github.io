@@ -12,7 +12,10 @@ So I had to take a sick day yesterday. Stuffy nose, scratchy throat, headache, g
 
 <figure>
   ![Extra parts](http://scholarslab.org/wp-content/uploads/2014/09/extra-parts.jpg)
-  <figcaption> Extra parts</figcaption>
+  <figcaption>
+ Extra parts
+</figcaption>
+
 </figure>
 
 Turns out he was joking. He actually said "totally" when I asked, but that turned out to be a lie. Today, here's what I came back to:
@@ -29,19 +32,28 @@ First thing you need to do, of course, is turn off and unplug the printer. You'l
 
 <figure>
   ![Printer carriage with fan and stepper motor removed.](http://scholarslab.org/wp-content/uploads/2014/09/disassembled-1024x768.jpg)
-  <figcaption> Printer carriage with fan and stepper motor removed.</figcaption>
+  <figcaption>
+ Printer carriage with fan and stepper motor removed.
+</figcaption>
+
 </figure>
 
 At this point, I took a look at the drive assembly, which in our case includes the fabulous [spring-loaded arm replacement](http://scholarslab.org/experimental-humanities/reprinting-printed-parts/) for the drive. I noticed something a bit odd:
 
 <figure>
   ![Stepper motor with spring-loaded arm](http://scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-1024x768.jpg)
-  <figcaption> Stepper motor with spring-loaded arm</figcaption>
+  <figcaption>
+ Stepper motor with spring-loaded arm
+</figcaption>
+
 </figure>
 
 <figure>
   ![Close up of drive block.](http://scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-detail-1024x768.jpg)
-  <figcaption> Close up of drive block showing obstruction</figcaption>
+  <figcaption>
+ Close up of drive block showing obstruction
+</figcaption>
+
 </figure>
 
 Turns out there was junk in it. What the junk indeed. I pushed the arm down to take some tension off the drive, and used a knife to wiggle the bit of plastic that had gotten lodged in there.

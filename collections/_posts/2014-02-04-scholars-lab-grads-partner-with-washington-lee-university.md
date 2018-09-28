@@ -13,7 +13,10 @@ tags:
 
 <figure>
   [![quinn_anya_photo](http://www.scholarslab.org/wp-content/uploads/2014/02/quinn_anya_photo-e1391521680507-300x179.jpeg)]( http://www.flickr.com/photos/quinnanya/7744258278/sizes/z/ )
-  <figcaption> Photo by Anya Quinn</figcaption>
+  <figcaption>
+ Photo by Anya Quinn
+</figcaption>
+
 </figure>
 
 The Scholars’ Lab is pleased to [partner with Washington and Lee University](http://news.blogs.wlu.edu/2014/01/30/wl-announces-digital-humanities-partnership-with-uva/ ) on a grant from the Associated Colleges of the South. The ASC grant furthers the [W&L Digital Humanities Working Group’s](http://digitalhumanities.wlu.edu ) efforts to create an Introduction to Digital Humanities course and explore a future Digital Humanities (DH) certificate at Washington and Lee. The Working Group strives to integrate digital tools and methods into humanities pedagogy.

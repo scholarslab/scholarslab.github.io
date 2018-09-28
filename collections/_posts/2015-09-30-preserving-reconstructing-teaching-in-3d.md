@@ -19,12 +19,18 @@ This summer, my own research took me as far as possible from the war-torn Middle
 
 <figure>
   [![Hítardalur steinn - Copy](http://scholarslab.org/wp-content/uploads/2015/09/Hítardalur-steinn-Copy.jpg)](http://scholarslab.org/wp-content/uploads/2015/09/Hítardalur-steinn-Copy.jpg)
-  <figcaption> Hítardalur sculpture, photograph taken in the mid-twentieth century.</figcaption>
+  <figcaption>
+ Hítardalur sculpture, photograph taken in the mid-twentieth century.
+</figcaption>
+
 </figure>
 
 <figure>
   [![2015-05-13 09.52.51](http://scholarslab.org/wp-content/uploads/2015/09/2015-05-13-09.52.51.jpg)](http://scholarslab.org/wp-content/uploads/2015/09/2015-05-13-09.52.51.jpg)
-  <figcaption> Hítardalur sculpture, photograph taken in June 2015. Note the deterioration of facial details.</figcaption>
+  <figcaption>
+ Hítardalur sculpture, photograph taken in June 2015. Note the deterioration of facial details.
+</figcaption>
+
 </figure>
 
 I admit that I am still grappling with these issues, as my priorities of accessibility and preservation are clearly based on my own academic training and affiliation. This concern, however, prompted me to consider ways that I can participate in this dialogue in my limited capacity as a foreign scholar with limited resources. With the Middle Eastern examples and mentorship of my colleagues in the Scholars’ Lab (including the work and expertise of [Edward Triplett](http://www.edwardtriplett.com/)), I jumped into the digital modeling and photogrammetry methods that have been so successfully implemented by larger art and archaeology projects to see what I could do personally. The resulting model and 3D print preserves the current state of the medieval Icelandic sculpture, but highlights both the potentials and limitations of these technologies for preservation and pedagogy.
@@ -33,29 +39,44 @@ Armed only with my camera, I started by taking a number of photographs of the H�
 
 <figure>
   [![Screen Shot 2015-05-16 at 1.33.20 PM](http://scholarslab.org/wp-content/uploads/2015/09/Screen-Shot-2015-05-16-at-1.33.20-PM.png)](http://scholarslab.org/wp-content/uploads/2015/09/Screen-Shot-2015-05-16-at-1.33.20-PM.png)
-  <figcaption> Position of the camera for the photographs used to make the Hítardalur model.</figcaption>
+  <figcaption>
+ Position of the camera for the photographs used to make the Hítardalur model.
+</figcaption>
+
 </figure>
 
 <figure>
   [![Screen Shot 2015-05-16 at 1.32.36 PM](http://scholarslab.org/wp-content/uploads/2015/09/Screen-Shot-2015-05-16-at-1.32.36-PM.png)](http://scholarslab.org/wp-content/uploads/2015/09/Screen-Shot-2015-05-16-at-1.32.36-PM.png)
-  <figcaption> Finished Hítardalur model.</figcaption>
+  <figcaption>
+ Finished Hítardalur model.
+</figcaption>
+
 </figure>
 
 <figure>
   [![Screen Shot 2015-05-16 at 1.37.58 PM](http://scholarslab.org/wp-content/uploads/2015/09/Screen-Shot-2015-05-16-at-1.37.58-PM.png)](http://scholarslab.org/wp-content/uploads/2015/09/Screen-Shot-2015-05-16-at-1.37.58-PM.png)
-  <figcaption> Finished Hítardalur model with texture added.</figcaption>
+  <figcaption>
+ Finished Hítardalur model with texture added.
+</figcaption>
+
 </figure>
 
 Printing the model had its own difficulties stemming from technical issues with the printers. After two failed prints on [MakerBot](http://www.makerbot.com/)’s Replicater 2 caused by a ‘glitch’ in the SD card, I reformatted the card and switched to the [Ultimaker](https://ultimaker.com/) 2. Using the Ultimaker software, [Cura](https://ultimaker.com/en/products/cura-software), I shrank the model and set the slicer settings to a lower quality to print a quick, rough prototype. With this successful print, I increased the size and print quality to produce an approximately four-inch model.
 
 <figure>
   [![2015-09-13 11.57.55](http://scholarslab.org/wp-content/uploads/2015/09/2015-09-13-11.57.55.jpg)](http://scholarslab.org/wp-content/uploads/2015/09/2015-09-13-11.57.55.jpg)
-  <figcaption> First failed print of the Hítardalur sculpture using PLA and the Replicator 2.</figcaption>
+  <figcaption>
+ First failed print of the Hítardalur sculpture using PLA and the Replicator 2.
+</figcaption>
+
 </figure>
 
 <figure>
   [![2015-09-13 11.58.57](http://scholarslab.org/wp-content/uploads/2015/09/2015-09-13-11.58.57.jpg)](http://scholarslab.org/wp-content/uploads/2015/09/2015-09-13-11.58.57.jpg)
-  <figcaption> Larger of the two succesfully printed Hítardalur prototypes. Printed using PLA and the Ultimaker 2.</figcaption>
+  <figcaption>
+ Larger of the two succesfully printed Hítardalur prototypes. Printed using PLA and the Ultimaker 2.
+</figcaption>
+
 </figure>
 
 With a successful model and print, I am now left with the burning question: So what? It is true that I have preserved the sculpture in its current form in case it ever disappears or further weathers away. The digitization also offers a better way to share and teach the sculpture in a multi-dimensional way across vast distances and languages. But the model’s value and efficacy are ultimately limited by its online accessibility. Museums and institutions are increasingly compiling vast open-access databases of digital images and models of their own collections, but an isolated model like this is easy to miss. This sculpture, for example, only appears in Iceland’s main [archival database](http://sarpur.is/Adfang.aspx?AdfangID=678367) as an unnamed feature in a photograph of the farm. A model like this would likely need to be contextualized in larger project database, perhaps one dedicated to medieval, monastic, or sculptural Icelandic works, to increase accessibility and public interest.
@@ -68,7 +89,10 @@ The opportunity to teach historical content while simultaneously training studen
 
 <figure>
   ![_DSC0022](http://scholarslab.org/wp-content/uploads/2015/09/DSC0022.jpg)
-  <figcaption> All attempted prototype prints of the Hítardalur model.</figcaption>
+  <figcaption>
+ All attempted prototype prints of the Hítardalur model.
+</figcaption>
+
 </figure>
 
 [

@@ -25,7 +25,10 @@ The benefit to this architecture is that it enables dynamic rendering of the mos
 
 <figure>
   [![TEI document from Fedora](http://www.scholarslab.org/wp-content/uploads/2010/12/segmental-tei-110x110.png)](http://www.scholarslab.org/digital-humanities/building-omeka-exhibits-with-fedora-repository-content/attachment/segmental-tei/)
-  <figcaption>TEI document from Fedora</figcaption>
+  <figcaption>
+TEI document from Fedora
+</figcaption>
+
 </figure>
 
 Earlier this year, we released a beta version of a plugin for rendering TEI files into HTML within Omeka.  Called [TeiDisplay](http://omeka.org/codex/Plugins/TeiDisplay), this plugin was enhanced by the insertion of several hooks that execute FedoraConnector functions (if FedoraConnector is installed) to render TEI XML datastreams on the fly directly from the repository.  TeiDisplay supports, as the documentation for the plugin indicates, selection of customized XSLT stylesheets and two display types: entire document and segmental view (with table of contents and by-section rendering).  Indeed, documents coming from Fedora can be rendered dynamically with the same set of options.
@@ -34,7 +37,10 @@ But what about indexing the document?  This is why the Scholars' Lab developed [
 
 <figure>
   [![solr](http://www.scholarslab.org/wp-content/uploads/2010/12/solr-300x116.png)](http://www.scholarslab.org/digital-humanities/building-omeka-exhibits-with-fedora-repository-content/attachment/solr/)
-  <figcaption>Solr search of TEI file in Omeka</figcaption>
+  <figcaption>
+Solr search of TEI file in Omeka
+</figcaption>
+
 </figure>
 
 So in essense, the range of plugins the Scholars' Lab has created for Omeka can enable creation of attractive and cutting-edge public user interfaces for collections of Fedora objects.  Coupled with our Neatline plugins, which are all about geospatial and temporal interpretation of archival collections, this work bridges a well-recognized gap between the  volume of digital content housed in sophisticated repositories and the curators, scholars, and end users who seek access to it and wish to interpret it in online exhibits.

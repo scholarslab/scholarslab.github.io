@@ -36,7 +36,10 @@ Chris was hoping for calm when he walked toward the front of the crowd.  Can yo
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2012/06/JoeyTombsRotunda-571x1024.jpg)](http://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography-in-a-crowd/attachment/joeytombsrotunda/)
-  <figcaption> via @JoeyTombs</figcaption>
+  <figcaption>
+ via @JoeyTombs
+</figcaption>
+
 </figure>
 
 Views from lower altitudes compress distances and make the crowd appear more dense.

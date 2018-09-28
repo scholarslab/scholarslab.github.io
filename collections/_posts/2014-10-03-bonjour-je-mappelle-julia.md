@@ -14,7 +14,10 @@ Hello! I'm Julia, one of the new Makerspace student consultants. When I'm not be
 
 <figure>
   [![Julia holding a tiny, black 3D-printed Eiffel Tower.](http://scholarslab.org/wp-content/uploads/2014/09/photo-e1411154953963-225x300.jpg)](http://scholarslab.org/wp-content/uploads/2014/09/photo-e1411154953963.jpg)
-  <figcaption> Just look at it. Seriously.</figcaption>
+  <figcaption>
+ Just look at it. Seriously.
+</figcaption>
+
 </figure>
 
 3D printing is definitely what brought me to the Makerspace, since I'm a self-professed Material Girl. This moniker describes me in my everyday life but also me as a researcher: I am obsessed with objects. The period I hope to study is centered around 1900 in Paris, which as you may know was the year the city of light hosted the World's Fair. French Studies scholars call this period the Belle Époque, which translates literally to "the Beautiful Period."

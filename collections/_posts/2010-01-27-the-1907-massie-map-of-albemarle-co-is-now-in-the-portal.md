@@ -15,7 +15,10 @@ tags:
 
 <figure>
   [![The 1907 Massie Map of Albemarle Co., VA](http://www.scholarslab.org/wp-content/uploads/2010/01/Massie1907_thumb500.jpg)](http://www.scholarslab.org/geospatial-and-temporal/the-1907-massie-map-of-albemarle-co-is-now-in-the-portal/attachment/massie1907_thumb500-2/)
-  <figcaption> The 1907 Massie Map of Albemarle Co., VA</figcaption>
+  <figcaption>
+ The 1907 Massie Map of Albemarle Co., VA
+</figcaption>
+
 </figure>
 
 While going through our archives of scanned maps, we recently ran across a copy of **Frank A. Massie’s 1907 “A new and historical map of Albemarle County, Virginia” **[Special Collections, University of Virginia Library], commonly referred to as the Massie map, which contains a wealth of detailed historical information for the county in which the University of Virginia sits.

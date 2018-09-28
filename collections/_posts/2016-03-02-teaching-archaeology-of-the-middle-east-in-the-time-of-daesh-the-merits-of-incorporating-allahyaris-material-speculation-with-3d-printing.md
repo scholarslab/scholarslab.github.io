@@ -26,7 +26,10 @@ I discovered that destruction of memory is one of the key themes underlying thes
 
 <figure>
   ![151119_007](http://scholarslab.org/wp-content/uploads/2016/03/151119_007-300x225.jpg)
-  <figcaption> Peyton Fitzgerald and Emilie Gregory learn how to use the printing software.</figcaption>
+  <figcaption>
+ Peyton Fitzgerald and Emilie Gregory learn how to use the printing software.
+</figcaption>
+
 </figure>
 
 Ms. Allahyari’s work inspired me to incorporate a 3D printing project into my class. At the end of the semester&mdash;by which time, I grimly assumed, more sites would probably have been destroyed by Daesh&mdash;student “excavation teams” would each be responsible for printing objects from a specific damaged site and would present an “excavation report” in the style of a conference paper describing its history and damage. How were we going to do the 3D printing, though?
@@ -37,7 +40,10 @@ At both schools 3D printers are located in a number of different nodes around th
 
 <figure>
   ![151119_012](http://scholarslab.org/wp-content/uploads/2016/03/151119_012-300x225.jpg)
-  <figcaption> Front row: Dominic Traver, Alexandra Bowen, Brianna McDonald, Samantha Hill and Megan Walmsley plan their printing projects; back left, standing Center for Instructional Technology Instructional Designer Jamie Calcagno-Roach trains Emilie Gregory and Peyton Fitzgerald how to use the printing software. Also pictured, Hannah Sullivan, Chris Molloy, Carlisa Childress and Colton Wells talking about their printing plans.</figcaption>
+  <figcaption>
+ Front row: Dominic Traver, Alexandra Bowen, Brianna McDonald, Samantha Hill and Megan Walmsley plan their printing projects; back left, standing Center for Instructional Technology Instructional Designer Jamie Calcagno-Roach trains Emilie Gregory and Peyton Fitzgerald how to use the printing software. Also pictured, Hannah Sullivan, Chris Molloy, Carlisa Childress and Colton Wells talking about their printing plans.
+</figcaption>
+
 </figure>
 
 The accessibility and security of the 3D printers are approached very differently at UVA and JMU. At UVA, the most easily-accessible printers are located in the Alderman Library Scholar’s Lab Makerspace under the wider umbrella of the Digital Humanities. Because it is part of a publically-accessible research library, the Makerspace ethos encourages casual experimentation and creativity. It is accessible for drop-in users or by appointment as part of the regular services provided by the library. At the moment, it contains one Ultimaker and 2 Makerbot printers (with more varieties on the way) and individuals using them can book printers for multiple days to print if needed. (This is useful because complex 3D printing projects can take a day or more to print fully.) _All_ 3D printers at the current stage in their technological development are glitchy; being able to monitor whether they’re working and fix printing errors or problems encourages a successful print. One of the wildly knowledgeable and friendly Makerspace staff members is always present to answer questions and fix the machines if necessary. The open access to the Makerspace means that students can drop by at their convenience between 1:00 and 5:00 (or by appointment at other times).
@@ -46,7 +52,10 @@ By contrast, JMU’s printing lab&mdash;located in Burruss Hall in the center of
 
 <figure>
   ![151119_008](http://scholarslab.org/wp-content/uploads/2016/03/151119_008-300x225.jpg)
-  <figcaption> Front to back on right: David Szady, Ximena Calvo and Catherine Grimes wait for their first prints to start in the JMU 3SPACE Lab.</figcaption>
+  <figcaption>
+ Front to back on right: David Szady, Ximena Calvo and Catherine Grimes wait for their first prints to start in the JMU 3SPACE Lab.
+</figcaption>
+
 </figure>
 
 From a pedagogical perspective, the differences between these print labs presented both opportunities and challenges&mdash;and I made a number of very significant mistakes of my own along the way. Chief among the latter was the assumption when I designed the course syllabus that students would have easy access outside of classroom hours to JMU’s 3SPACE printers in order to print their projects, particularly if the individual object was complicated and would take a long time to print. I incorrectly assumed that they had the same relatively open-access policy that the UVA Makerspace applied to its printers. This meant that I had to schedule extra hours&mdash;as it turned out, on a Sunday&mdash;for the students to print their group projects. I also had to scale down the requirements for the final group printing project as a result. The size of my class and its need for extended formal training were also issues that I should have anticipated through better coordination with the friendly and helpful people at JMU’s very interesting and supportive [Center for Instructional Technology](https://cit.jmu.edu/) and the [Institute for Visual Studies and Math](https://www.jmu.edu/ivs/), which run the 3SPACE Lab collaboratively. I am grateful for the patience, enthusiasm and dedication of the staff members in both the Center for Instructional Technology and in the Scholar’s Lab, especially Jamie Calcagno-Roach, Jennifer Grayburn and Shane Lin.
@@ -55,7 +64,10 @@ From the students’ perspectives, how did the 3D printing project turn out? Fro
 
 <figure>
   ![151119_013](http://scholarslab.org/wp-content/uploads/2016/03/151119_013-300x225.jpg)
-  <figcaption> Carlisa Childress shows off her first 3D printed object, a JMU logo.</figcaption>
+  <figcaption>
+ Carlisa Childress shows off her first 3D printed object, a JMU logo.
+</figcaption>
+
 </figure>
 
 The final student projects focused on the badly damaged ancient cities of Dura Europos, Nineveh, Nimrud, and Palmyra. I had hoped originally for students to print objects derived from these specific sites. However, Ms. Allahyari’s “Material Speculation” plans were still unavailable and there are relatively few other 3D printing plans for relevant objects or buildings published. In the last weeks we had to generalize and print whatever was available (for example, the Temple of Baalshamin and the Temple of Baal from Palmyra courtesy  of [Thingiverse](http://www.thingiverse.com/), as well as a winged human-headed lion lamassu sculpture from the British Museum’s 3D printing collection). The students were frustrated that they didn’t get more time in the lab. (At the end of the semester we only managed to have two printing sessions, one of which had to be scheduled for a Sunday morning so not everyone could come.) We were also unable to print individual objects for each student by the end of the semester. (Due to our final time and space limitations, I required one print per “excavation team”.)
@@ -64,7 +76,10 @@ Perhaps the most important question is&mdash;was there an actual educational ben
 
 <figure>
   ![IMG_2579_ClassPhoto](http://scholarslab.org/wp-content/uploads/2016/03/IMG_2579_ClassPhoto-1024x768.jpg)
-  <figcaption> James Madison University Anth 395 Archaeology of the Middle East Class Photo: the students are holding their 3D printed objects related to material destroyed at Palmyra, Nimrud, Nineveh and Dura Europos after their final presentations. Pictured, front row l-r: Erin Woods, Rani Bertram, Carlisa Childress, Peyton Fitzgerald, Catherine Grimes, Alexandra Bowen, Brianna McDonald, Jaime Lantzy, Courtney Bryce, Haile Bennett, Ximena Calvo; Middle Row l-r: Patrick Jones, Lauryn Poe, Timmis Maddox, Samantha Hill, David Szady; Back row l-r: Dylan Hickey, Dominic Traver, Haile Bennett, Colton Wells. Not pictured: Connor Amano, Emily Gregory, Chris Molloy, Hannah Sullivan</figcaption>
+  <figcaption>
+ James Madison University Anth 395 Archaeology of the Middle East Class Photo: the students are holding their 3D printed objects related to material destroyed at Palmyra, Nimrud, Nineveh and Dura Europos after their final presentations. Pictured, front row l-r: Erin Woods, Rani Bertram, Carlisa Childress, Peyton Fitzgerald, Catherine Grimes, Alexandra Bowen, Brianna McDonald, Jaime Lantzy, Courtney Bryce, Haile Bennett, Ximena Calvo; Middle Row l-r: Patrick Jones, Lauryn Poe, Timmis Maddox, Samantha Hill, David Szady; Back row l-r: Dylan Hickey, Dominic Traver, Haile Bennett, Colton Wells. Not pictured: Connor Amano, Emily Gregory, Chris Molloy, Hannah Sullivan
+</figcaption>
+
 </figure>
 
 **References Cited**

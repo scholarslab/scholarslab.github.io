@@ -15,12 +15,18 @@ With great pleasure, I write to announce two wonderful additions to the Scholars
 Purdom Lindblad will join us on December 30th as our much-anticipated Head of Scholars' Lab Graduate Programs (including, among other programs, [Praxis](http://praxis.scholarslab.org/) and the [Praxis Network](http://praxis-network.org/)), and Laura Miller will shortly take on a dual position coordinating public programs in the SLab and assisting me with strategic planning for digital humanities in the UVa Provost's office.
 
 <figure>
-  ![Purdom Lindblad](http://www.scholarslab.org/wp-content/uploads/2013/10/purdom-300x200.jpg) <figcaption>Purdom Lindblad</figcaption>
+  ![Purdom Lindblad](http://www.scholarslab.org/wp-content/uploads/2013/10/purdom-300x200.jpg) <figcaption>
+Purdom Lindblad
+</figcaption>
+
 </figure>
 
 <figure>
   ![Laura Miller](http://www.scholarslab.org/wp-content/uploads/2013/10/laura-300x225.jpg)
-  <figcaption> Laura Miller</figcaption>
+  <figcaption>
+ Laura Miller
+</figcaption>
+
 </figure>
 
 [Purdom](https://twitter.com/Purdom_L) comes to us from Virginia Tech, where she works as the College Librarian for Humanities and Digital Humanities. There, she has radically expanded DH project support and programming, organized graduate student open-access events, and helped to establish Port, Tech's digital research commons. Purdom has taught at both the undergraduate and graduate level. Her current course on Religion in America involves students in an interactive exhibit in the library. She is active at the Byron Society of America, is co-PI of an ACH micro-grant project to produce [dm4dh](http://dm4dh.org), a blog and podcast on data management in the humanities, and studied at Doshisha University in Kyoto as the winner of a distinguished Monbukagakusho scholarship. Purdom holds an MA in American Studies from Michigan State University (where she worked at MATRIX, MSU's digital humanities center) and an MS in Information from the University of Michigan. Purdom describes herself as an open access advocate, an "abuser of exclamation points, and a knitter (stereotype!)."

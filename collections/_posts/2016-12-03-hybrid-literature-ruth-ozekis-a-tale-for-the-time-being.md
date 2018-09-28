@@ -18,7 +18,10 @@ Published simultaneously not only in hardback and paperback editions, but also a
 
 <figure>
   ![Figure 1. Screen grab from the Canongate website](http://scholarslab.org/wp-content/uploads/2016/12/bundle_visual-300x185.jpg)
-  <figcaption> Figure 1. Screen grab from the Canongate website</figcaption>
+  <figcaption>
+ Figure 1. Screen grab from the Canongate website
+</figcaption>
+
 </figure>
 
 Cate Cannon, the head of marketing at Canongate, has remarked on this focus during the publication planning of Ozeki’s novel. She says: “The animation and design translates across our digital outdoor advertising, our website and all our editions, creating a brand identity for this novel that is enriching, engaging and progressive” (Montgomery). Nonetheless, the real innovative aspect of Canongate’s publishing lies not in the similarities between each edition, but rather in the subtle differences, for each of the covers of these versions differed slightly based on medium. The hardback version, for instance, was published with the complete image of the girl’s face printed on the cover; this image was wholly concealed by a red sticker that the reader could physically peel back. This format was unique to the hardback version, and the paperback edition simply printed the image as pictured above, with the red circle partially concealing the girl’s face. Yet the paperback also employed technology in a unique way to create a kind of hybrid cover: this has resulted in the first “interactive book cover.” Book designer Zoë Sadokierski explains: “Published by Canongate, art director Rafi Romaya collaborated with creative agency Big Active. ....The ‘interactive’ aspect of the physical book cover involves Blippar technology (augmented reality) – using the camera on a smart phone/tablet, you can link to audio/visual material, via the Blippar app” (Sadokierski). In other words, if you have a paperback copy and have downloaded the Blippar app, you can point your smartphone or tablet at the cover: a virtual sticker will appear on your device, which you can “peel back” to reveal the girl’s face; this face has even been animated to move for 15 seconds (you can view the Blippar “interactive cover” here: [https://www.youtube.com/watch?v=N7vpb7UPK6E](https://www.youtube.com/watch?v=N7vpb7UPK6E)).

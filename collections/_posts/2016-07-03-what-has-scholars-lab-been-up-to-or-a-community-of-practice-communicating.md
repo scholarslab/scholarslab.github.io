@@ -12,7 +12,10 @@ Like any active research/development/teaching/service team, the Scholars' Lab fa
 
 <figure>
   ![](http://giving.virginia.edu/campaign/wp-content/uploads/sites/2/2013/10/librarymain.jpg) Alderman Library (not in July)
-  <figcaption></figcaption>
+  <figcaption>
+
+</figcaption>
+
 </figure>
 
 I post some excerpts of my "seasonal" compilation of activities in April and May, 2016, from the staff's monthlies.  I don't think this somehow scores points compared to other flourishing parts of this library, or other flourishing centers of digital humanities, but I think it profiles a community of practice centered in our practice of communicating.

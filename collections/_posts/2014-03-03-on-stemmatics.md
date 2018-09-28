@@ -23,7 +23,10 @@ So this is a git network graph. Specifically, [it is the network graph for Ivanh
 
 <figure>
   [![Stemma](http://www.scholarslab.org/wp-content/uploads/2014/03/Stemma-300x111.png)](http://www.digitalmedievalist.org/journal/9/hall/)
-  <figcaption> © Alaric Hall and Katelin Parsons, 2013. Creative Commons Attribution-NonCommercial licence</figcaption>
+  <figcaption>
+ © Alaric Hall and Katelin Parsons, 2013. Creative Commons Attribution-NonCommercial licence
+</figcaption>
+
 </figure>
 
 This is a [stemma](http://en.wikipedia.org/wiki/Textual_criticism#Stemmatics). It is a stemma of _Konráðs saga keisarasonar.**[1]** _Up at the top we have our putative archetype, hyparchetype, or possibly even authorial holograph.[2] The myriad of branches represent various copies and what have you. I believe the similarity of these images is both obvious and salutary.

@@ -135,7 +135,10 @@ Three entries made it to the competition:
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154617.jpg)
-  <figcaption> Shane was just helping out. Team Urchin was Spyros and Duy</figcaption>
+  <figcaption>
+ Shane was just helping out. Team Urchin was Spyros and Duy
+</figcaption>
+
 </figure>
 
 [video width="720" height="1280" mp4="http://scholarslab.org/wp-content/uploads/2017/05/VID_20170503_155152.mp4"][/video]
@@ -148,7 +151,10 @@ Three entries made it to the competition:
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2017/05/IMG_20170503_154024.jpg)
-  <figcaption> Team DragonSpawn: Lauren and Ammon</figcaption>
+  <figcaption>
+ Team DragonSpawn: Lauren and Ammon
+</figcaption>
+
 </figure>
 
 [video width="720" height="1280" mp4="http://scholarslab.org/wp-content/uploads/2017/05/VID_20170503_154937.mp4"][/video]

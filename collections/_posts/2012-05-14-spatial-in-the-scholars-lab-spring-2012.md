@@ -20,7 +20,10 @@ With classes over and finals behind us, let's look back on the Spring 2012 semes
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2012/05/P1010036-766x1024.jpg)](http://www.scholarslab.org/digital-humanities/spatial-in-the-scholars-lab-spring-2012/attachment/olympus-digital-camera/)
-  <figcaption>University of Virginia Library Scholars' Lab</figcaption>
+  <figcaption>
+University of Virginia Library Scholars' Lab
+</figcaption>
+
 </figure>
 
 
@@ -43,7 +46,10 @@ Like us, students get excited when they see their datasets come alive on a map.Â
 
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2012/05/amst-1024x702.jpg)](http://www.scholarslab.org/digital-humanities/spatial-in-the-scholars-lab-spring-2012/attachment/amst/)
-  <figcaption>Spring 2012 American Studies 3559 - Mapping Shantytowns</figcaption>
+  <figcaption>
+Spring 2012 American Studies 3559 - Mapping Shantytowns
+</figcaption>
+
 </figure>
 
 

@@ -20,7 +20,10 @@ I hear echoes of those debates and cultural shifts in our moment, when computers
 
 <figure>
   [![Quixote fights the puppets](http://www.scholarslab.org/wp-content/uploads/2011/09/quixote-300x225.jpg)](http://www.scholarslab.org/praxis-program/mimesis-and-computer/attachment/quixote/)
-  <figcaption>Quixote fights the puppets</figcaption>
+  <figcaption>
+Quixote fights the puppets
+</figcaption>
+
 </figure>
 
 The true marionette is _always_ controlled by a human, so are computers... ultimately. We ventriloquise through them, and they only talk back to us according to our ridiculously precise instructions. I'm not talking about [Bina48](http://www.youtube.com/watch?v=uvcQCJpZJH8). She's kind of creepy. I'm talking about the ways in which a google search acts like an operator at the end of a 411 call; or the way that netflix suggests what we might like.

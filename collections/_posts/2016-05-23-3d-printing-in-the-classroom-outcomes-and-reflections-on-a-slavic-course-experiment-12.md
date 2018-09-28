@@ -17,7 +17,10 @@ If we had to describe this project in two words or fewer, we would definitely do
 
 <figure>
   ![3D-exhibit-curating](http://scholarslab.org/wp-content/uploads/2016/05/3D-exhibit-curating-225x300.jpg)
-  <figcaption> Students putting the final touches on their exhibit.</figcaption>
+  <figcaption>
+ Students putting the final touches on their exhibit.
+</figcaption>
+
 </figure>
 
 The exhibit curation coincided with the Slavic Department’s biweekly Russian Tea & Conversation event, in which students, faculty, staff, and community members interested in speaking Russian or learning about Russian culture gather to eat, drink tea, converse, and occasionally listen to speakers on special topics. The 2470 students brought their objects to this event, and after a brief introduction to the project from us, they presented their objects to the group and explained why they chose the objects they did. The students then took their objects to the display case and set up the exhibit (for which we had printed a brief blurb and some attributive text).
@@ -28,7 +31,10 @@ The object in question was a [bust of Joseph Stalin](https://www.thingiverse.co
 
 <figure>
   ![3D-exhibit-final-product](http://scholarslab.org/wp-content/uploads/2016/05/3D-exhibit-final-product.jpg)
-  <figcaption> The finished product. Note the placement of the Stalin bust next to the book at the left.</figcaption>
+  <figcaption>
+ The finished product. Note the placement of the Stalin bust next to the book at the left.
+</figcaption>
+
 </figure>
 
 About a month after that discussion, towards the end of the semester, we gave students the option to re-print their objects if they wished, since at least one group had expressed interest in doing so – the group that printed the Rubik’s cube, for example, had thought about re-making their object to have movable parts. None of the groups chose this option, and headed into the work of their final projects with their original objects intact.

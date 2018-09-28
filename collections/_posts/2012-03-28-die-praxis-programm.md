@@ -23,7 +23,10 @@ We had other minutia to report before moving on to Bethany Nowviskie's presentat
 
 <figure>
   [![The Praxis crew](http://www.scholarslab.org/wp-content/uploads/2012/03/IMG_1706-300x224.png)](http://www.scholarslab.org/praxis-program/die-praxis-programm/attachment/img_1706/)
-  <figcaption>Doing our Praxis thing</figcaption>
+  <figcaption>
+Doing our Praxis thing
+</figcaption>
+
 </figure>
 
 Bethany's presentation was one of the best hours I've spent so far this year. It was both full of general advice and very specific detail. Ahead of our times, we were made privy to [the contents of the briefcase](http://www.youtube.com/watch?v=PEORpjVNJQk). We went over budget spreadsheets, grant applications (join a grant review committee if you haven't done so), hourly labor calculations, cost sharing, program officers, F&A (Facilities & Administrative Costs), faculty time buyouts, private funders and. public funders, looking for change under the couch, equipment, weathering budget cuts, _und so weiter_.  Once our time was up, I was reminded of the many ways in which our [Praxis Program](http://praxis.scholarslab.org/) had succeeded in making me a different kind of professional.

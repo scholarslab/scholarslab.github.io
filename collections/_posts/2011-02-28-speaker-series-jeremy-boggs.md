@@ -18,5 +18,8 @@ During his tenure at CHNM, where he was a founding member of the [THATCamp](http
 [Dr. Bethany Nowviskie](http://nowviskie.org) will act as respondent for this talk.
 <figure>
   [![](http://static.scholarslab.org/wp-content/uploads/2011/02/JohnFawcett-boggs-300x300.jpg)](http://www.scholarslab.org/digital-humanities/speaker-series-jeremy-boggs/attachment/johnfawcett-boggs/)
-  <figcaption>Image released under Creative Commons license by Flickr user John Fawcett</figcaption>
+  <figcaption>
+Image released under Creative Commons license by Flickr user John Fawcett
+</figcaption>
+
 </figure>

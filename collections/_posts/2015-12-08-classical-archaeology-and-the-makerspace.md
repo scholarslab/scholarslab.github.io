@@ -25,32 +25,50 @@ The Contrada Agnese Project is currently taking applications for Summer 2016 stu
 
 <figure>
   [![Untitled](http://scholarslab.org/wp-content/uploads/2015/12/Untitled.jpg)](http://scholarslab.org/wp-content/uploads/2015/12/Untitled5.jpg)
-  <figcaption> Photogrammetry can only model what is visible in photographs, and Ben’s initial model only included the surface layer of the ground and trenches. The topographical irregularities, however, would not be possible to print without substantial supports.</figcaption>
+  <figcaption>
+ Photogrammetry can only model what is visible in photographs, and Ben’s initial model only included the surface layer of the ground and trenches. The topographical irregularities, however, would not be possible to print without substantial supports.
+</figcaption>
+
 </figure>
 
 <figure>
   [![Untitled1](http://scholarslab.org/wp-content/uploads/2015/12/Untitled1.jpg)](http://scholarslab.org/wp-content/uploads/2015/12/Untitled1.jpg)
-  <figcaption> To close the model and make it suitable for 3D printing, we needed to extend the y-axis so it lay flat on the printing platform. We imported the model into Meshmixer and used the Extrusion editing function to extend the base to the depth of the trenches.</figcaption>
+  <figcaption>
+ To close the model and make it suitable for 3D printing, we needed to extend the y-axis so it lay flat on the printing platform. We imported the model into Meshmixer and used the Extrusion editing function to extend the base to the depth of the trenches.
+</figcaption>
+
 </figure>
 
 <figure>
   [![Untitled3](http://scholarslab.org/wp-content/uploads/2015/12/Untitled3.jpg)](http://scholarslab.org/wp-content/uploads/2015/12/Untitled4.jpg)
-  <figcaption> We uploaded our model into Cure to slice it and generate the gcode for the Ultimaker 2.</figcaption>
+  <figcaption>
+ We uploaded our model into Cure to slice it and generate the gcode for the Ultimaker 2.
+</figcaption>
+
 </figure>
 
 <figure>
   [![Untitled4](http://scholarslab.org/wp-content/uploads/2015/12/Untitled4.jpg)](http://scholarslab.org/wp-content/uploads/2015/12/Untitled4.jpg)
-  <figcaption> Unfortunately, this was the beginning of the end of our Ultimaker’s initial golden age of printing. We began experiencing extrusion problems, which is evident from our first attempt to print.</figcaption>
+  <figcaption>
+ Unfortunately, this was the beginning of the end of our Ultimaker’s initial golden age of printing. We began experiencing extrusion problems, which is evident from our first attempt to print.
+</figcaption>
+
 </figure>
 
 <figure>
   [![Untitled5](http://scholarslab.org/wp-content/uploads/2015/12/Untitled5.jpg)](http://scholarslab.org/wp-content/uploads/2015/12/Untitled5.jpg)
-  <figcaption> We switched to the Makerbot software and our Makerbot Dual printer to complete the print.</figcaption>
+  <figcaption>
+ We switched to the Makerbot software and our Makerbot Dual printer to complete the print.
+</figcaption>
+
 </figure>
 
 <figure>
   [![Untitled6](http://scholarslab.org/wp-content/uploads/2015/12/Untitled6.jpg)](http://scholarslab.org/wp-content/uploads/2015/12/Untitled6.jpg)
-  <figcaption> While the detail quality is not as clear as we would like, we were able to generate a successful print showing all of the trenches and topographical features. As we fix the Ultimaker 2, we will continue to experiment with printing size and quality to meet the project's needs.</figcaption>
+  <figcaption>
+ While the detail quality is not as clear as we would like, we were able to generate a successful print showing all of the trenches and topographical features. As we fix the Ultimaker 2, we will continue to experiment with printing size and quality to meet the project's needs.
+</figcaption>
+
 </figure>
 
 [

@@ -21,7 +21,10 @@ Richmond, Virginia is a city steeped in history.  It is the home of [the first�
 
 <figure>
   ![](http://www.csiss.org/classics/uploads/mcharg-image1.jpg)
-  <figcaption> Ian McHarg</figcaption>
+  <figcaption>
+ Ian McHarg
+</figcaption>
+
 </figure>
 
 [Ian McHarg](http://www.nytimes.com/2001/03/12/arts/12MCHA.html) was born around the industrial town of Glasgow, Scotland in 1920.  After World War II, he came to the U.S. and started a career in city planning and landscape architecture.  He founded the Department of Landscape Architecture at the University of Pennsylvania and is considered innovative for his notion that design should work with the landscape instead of fighting or changing it.  He has also been credited with coming up, in the 1960s, with the idea of [map overlay](http://en.wikipedia.org/wiki/Geographic_information_system#Map_overlay) which is a fundamental GIS technique.
@@ -30,7 +33,10 @@ So, what do Richmond and McHarg have in common?  Before I can tell that story, 
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2011/09/planninManners-732x1024.jpg)
-  <figcaption> December 1935 Version</figcaption>
+  <figcaption>
+ December 1935 Version
+</figcaption>
+
 </figure>
 
 This report, produced as early as 1935, uses a series of tissue paper overlays to show various themes.  A color, loose-leaf card stock map of rent by block is used as the underlay.  Mr. Cloud has found this report to be the earliest American example of the use of such overlays during his research.  He also found parallel lines of work going on in Germany during the same time period.   Please find John Cloud's detailed article on this story [here](http://www.cartogis.org/docs/proceedings/2005/cloud.pdf).  There may be older examples out there waiting to be discovered!
@@ -39,12 +45,18 @@ This report, produced as early as 1935, uses a series of tissue paper overlays t
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2011/09/IMG_0951-768x1024.jpg)
-  <figcaption> Rental map under housing study area map</figcaption>
+  <figcaption>
+ Rental map under housing study area map
+</figcaption>
+
 </figure>
 
 <figure>
   ![](http://4.bp.blogspot.com/_D7-iSeG_eP0/SwGJ0Qs_hiI/AAAAAAAAABI/lOpSGsLH7ks/s1600/Homer%282%29.jpg)
-  <figcaption> Homer Hoyt</figcaption>
+  <figcaption>
+ Homer Hoyt
+</figcaption>
+
 </figure>
 
 Another player in this drama, economist Homer Hoyt, was an influential researcher at FHA.  He wrote a book in 1939 about housing research techniques called _[The Structure and Growth of Residential Neighborhoods in American Cities](http://www.archive.org/details/structuregrowtho00unitrich)_.
@@ -53,7 +65,10 @@ In that book, Hoyt demonstrated the value of techniques developed during the FHA
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2011/09/hoytOverlays-1024x599.jpg)
-  <figcaption> At right, all four of Hoyt's overlays together: Race, Age, Condition, and Rent</figcaption>
+  <figcaption>
+ At right, all four of Hoyt's overlays together: Race, Age, Condition, and Rent
+</figcaption>
+
 </figure>
 
 So, it wasn't really Mr. McHarg who pioneered the use of overlay at all (sorry to all you landscape architects).  At least, the RPC, Mr. Hoyt, and German researchers did it some twenty-five years earlier.
@@ -234,7 +249,10 @@ Hoyt listed four factors (race, age, condition, and rent) in determining neighbo
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2011/09/07-HOLC-map-1024x801.png)
-  <figcaption> "Redline Map" of Richmond by the Home Owners' Loan Corporation</figcaption>
+  <figcaption>
+ "Redline Map" of Richmond by the Home Owners' Loan Corporation
+</figcaption>
+
 </figure>
 
 Undoubtedly, race -- specifically the percentage of African Americans -- played a large role in determining the hazard values for the HOLC maps.  The question is whether or not the HOLC maps caused institutional discrimination against African Americans after their production.  Amy Hillier, a researcher at the University of Pennsylvania, says [no](http://cml.upenn.edu/redlining/), at least not in Philadelphia.  According to her analysis, banks were giving mortgages in the redlined districts after the Philadelphia HOLC map was produced.  She surmises that the HOLC maps were not widely circulated outside the federal government and therefore were probably not known or used by lenders.  In fact, a majority of HOLC's mortgages were in the hazardous end of their assessment scale.  However, Hillier does conclude that the FHA policies, which were formed partially from Hoyt's research, were influential in the arena.  The legacy of these maps and policies must not be understated.
@@ -249,7 +267,10 @@ We have now finished the process of digitizing all the RPC and Hoyt overlays.  
 
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2011/09/map-1024x727.png)
-  <figcaption> GIS map showing overlay from RPC report and HOLC hazard areas</figcaption>
+  <figcaption>
+ GIS map showing overlay from RPC report and HOLC hazard areas
+</figcaption>
+
 </figure>
 
 Article edited to make corrections to errors pointed out by Mr. Cloud in the comments section.
