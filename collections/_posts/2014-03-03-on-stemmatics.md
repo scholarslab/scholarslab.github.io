@@ -21,7 +21,13 @@ tags:
 
 So this is a git network graph. Specifically, [it is the network graph for Ivanhoe](https://github.com/scholarslab/ivanhoe/network) from c. 20 February to 1 March. The blue line is our Develop branch and the various branches are features, projects, etc. The first little pink dot is [my first branch](https://github.com/scholarslab/ivanhoe/tree/feature/zachcss).  While programming development is far from complete, I forked off a branch to begin styling completed features with CSS. The next little pink dot was my introduction to the world of merge conflict. [Gross](https://github.com/scholarslab/ivanhoe/commit/732aae83d3b67a182daad60a357ef9e927ea61dc).
 
-[caption id="attachment_9656" align="aligncenter" width="300"][![Stemma](http://www.scholarslab.org/wp-content/uploads/2014/03/Stemma-300x111.png)](http://www.digitalmedievalist.org/journal/9/hall/) © Alaric Hall and Katelin Parsons, 2013. Creative Commons Attribution-NonCommercial licence[/caption]
+<figure>
+  [![Stemma](http://www.scholarslab.org/wp-content/uploads/2014/03/Stemma-300x111.png)](http://www.digitalmedievalist.org/journal/9/hall/)
+  <figcaption>
+ © Alaric Hall and Katelin Parsons, 2013. Creative Commons Attribution-NonCommercial licence
+</figcaption>
+
+</figure>
 
 This is a [stemma](http://en.wikipedia.org/wiki/Textual_criticism#Stemmatics). It is a stemma of _Konráðs saga keisarasonar.**[1]** _Up at the top we have our putative archetype, hyparchetype, or possibly even authorial holograph.[2] The myriad of branches represent various copies and what have you. I believe the similarity of these images is both obvious and salutary.
 

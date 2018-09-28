@@ -24,17 +24,35 @@ As always, you can listen to (or [subscribe to](http://www.scholarslab.org/categ
 
 
 
-[caption id="attachment_8058" align="aligncenter" width="300"][![Juxta Commons work space](http://www.scholarslab.org/wp-content/uploads/2013/04/workspace-300x136.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/04/workspace.jpg) The Juxta Commons Work Space[/caption]
+<figure>
+  [![Juxta Commons work space](http://www.scholarslab.org/wp-content/uploads/2013/04/workspace-300x136.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/04/workspace.jpg)
+  <figcaption>
+ The Juxta Commons Work Space
+</figcaption>
+
+</figure>
 
 During our recent presentation of Juxta Commons in the Scholar's Lab, NINES Director Andrew Stauffer and I showed a number of visualizations of texts collated within the interface of our newly-released application. Because this aspect of the presentation does not translate for an audience listening to the podcast audio, this blog post is meant as a visual companion to our talk.
 
 We began the presentation with a tour of the Juxta Commons workspace, from the library section at the top of the page (for managing your source files, witnesses and comparison sets) to the visualization pane that dominates the lower portion of the window. Using [a set](http://www.juxtacommons.org/shares/GJm4O9) comparing Lewis Carroll's Alice's Adventures Underground with the more well-know Alice's Adventures in Wonderland, Dr. Stauffer showed how the [heat map](http://juxtacommons.org/guide#visualizations) overlays color over variants - the deeper the color, the more different the passage. He also showed how the [histogram](http://juxtacommons.org/images/histogram.jpg) offers a more global view of the collation, and allows the user to target the regions with the most difference quickly, even for long documents.
 
-[caption id="attachment_8062" align="aligncenter" width="300"][![Alice Underground vs Alice in Wonderland: heat map and histogram](http://www.scholarslab.org/wp-content/uploads/2013/04/alice_set-300x170.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/04/alice_set.jpg) Alice Underground vs Alice in Wonderland: heat map and histogram[/caption]
+<figure>
+  [![Alice Underground vs Alice in Wonderland: heat map and histogram](http://www.scholarslab.org/wp-content/uploads/2013/04/alice_set-300x170.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/04/alice_set.jpg)
+  <figcaption>
+ Alice Underground vs Alice in Wonderland: heat map and histogram
+</figcaption>
+
+</figure>
 
 Dr. Stauffer also showed [a comparison](http://www.juxtacommons.org/shares/FF0x40) of two versions of D.G. Rossetti's review, "[The Stealthy School of Criticism](http://www.rossettiarchive.org/docs/34p-1870.raw.html)," illustrating how the author toned down his rhetoric in the version published in the Athenaeum.
 
-[caption id="attachment_8079" align="aligncenter" width="300"][![Highlight of variant in Rossetti's text](http://www.scholarslab.org/wp-content/uploads/2013/04/creeping-300x114.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/04/creeping.jpg) Highlight of variant in Rossetti's text[/caption]
+<figure>
+  [![Highlight of variant in Rossetti's text](http://www.scholarslab.org/wp-content/uploads/2013/04/creeping-300x114.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/04/creeping.jpg)
+  <figcaption>
+ Highlight of variant in Rossetti's text
+</figcaption>
+
+</figure>
 
 When I took the podium, I chose to focus on other ways of utilizing Juxta Commons, from authenticating texts found on the web, to exploring the history of news items and Wikipedia articles. For example, a look at [two versions of an article](http://www.juxtacommons.org/shares/Ma6uaV) posted on the New York Times website in November shows that the same article might be drastically different 30 minutes after posting.
 

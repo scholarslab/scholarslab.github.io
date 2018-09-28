@@ -16,4 +16,10 @@ Jeremy Boggs, last semester's scholar-in-residence at the [Scholars' Lab](http:/
 During his tenure at CHNM, where he was a founding member of the [THATCamp](http://thatcamp.org/) movement, Boggs has been deeply involved in developing conversations about the definition of Digital Humanities and how best to prepare scholars to work on digital projects. His Scholars' Lab talk, entitled **A Plea for Open Digital Humanities Work: or, A DH Grad Student Reflects on Years of 'Study'**, argues that defining a canonical set of skills for digital humanists is ultimately a fruitless endeavor. Instead, Boggs urges the development and promotion of digital humanities tools that are open, well-documented, and learnable, allowing scholars to create projects from these tools that carry these same characteristics. If the digital humanities community can promote a culture of open projects and toolsets, scholars will be able to explore and expand their skills by learning from collleagues' work.
 
 [Dr. Bethany Nowviskie](http://nowviskie.org) will act as respondent for this talk.
-[caption id="attachment_1346" align="alignnone" width="300" caption="Image released under Creative Commons license by Flickr user John Fawcett"][![](http://static.scholarslab.org/wp-content/uploads/2011/02/JohnFawcett-boggs-300x300.jpg)](http://www.scholarslab.org/digital-humanities/speaker-series-jeremy-boggs/attachment/johnfawcett-boggs/)[/caption]
+<figure>
+  [![](http://static.scholarslab.org/wp-content/uploads/2011/02/JohnFawcett-boggs-300x300.jpg)](http://www.scholarslab.org/digital-humanities/speaker-series-jeremy-boggs/attachment/johnfawcett-boggs/)
+  <figcaption>
+Image released under Creative Commons license by Flickr user John Fawcett
+</figcaption>
+
+</figure>

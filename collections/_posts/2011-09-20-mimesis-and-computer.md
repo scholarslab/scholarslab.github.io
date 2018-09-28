@@ -18,7 +18,13 @@ After Wagner called for a [_Gesamtkunstwerk_](http://en.wikipedia.org/wiki/Gesam
 
 I hear echoes of those debates and cultural shifts in our moment, when computers are starting to resemble us more and more. Computers don't replace us always in the way that machines replaced farmers or smiths, although there are still parallels between ours and the anxieties of the industrial and agricultural revolution. And just like machines then generated monstrous forms of mechanized human labor, computers do the same (If you don't believe me, ask any of my students for [Project Tango](http://uvatango.wordpress.com/)). However, there is another anxiety I see which is not necessarily that of machine iteration replacing familiar mechanical tasks with unforeseen ones. I'm talking about our fear of marionettes. Even more specific, the fear that we will confuse the marionettes for human beings.
 
-[caption id="attachment_2449" align="aligncenter" width="240" caption="Quixote fights the puppets"][![Quixote fights the puppets](http://www.scholarslab.org/wp-content/uploads/2011/09/quixote-300x225.jpg)](http://www.scholarslab.org/praxis-program/mimesis-and-computer/attachment/quixote/)[/caption]
+<figure>
+  [![Quixote fights the puppets](http://www.scholarslab.org/wp-content/uploads/2011/09/quixote-300x225.jpg)](http://www.scholarslab.org/praxis-program/mimesis-and-computer/attachment/quixote/)
+  <figcaption>
+Quixote fights the puppets
+</figcaption>
+
+</figure>
 
 The true marionette is _always_ controlled by a human, so are computers... ultimately. We ventriloquise through them, and they only talk back to us according to our ridiculously precise instructions. I'm not talking about [Bina48](http://www.youtube.com/watch?v=uvcQCJpZJH8). She's kind of creepy. I'm talking about the ways in which a google search acts like an operator at the end of a 411 call; or the way that netflix suggests what we might like.
 

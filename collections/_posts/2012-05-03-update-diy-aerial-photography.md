@@ -40,7 +40,13 @@ The mistakenly-created video is interesting in places but is not good for those 
 
 
 
-[caption id="attachment_4478" align="aligncenter" width="1024"]![](http://static.scholarslab.org/wp-content/uploads/2012/05/6948719170_bfa9d9dbd7_b.jpg) The Space Stare[/caption]
+<figure>
+  ![](http://static.scholarslab.org/wp-content/uploads/2012/05/6948719170_bfa9d9dbd7_b.jpg)
+  <figcaption>
+ The Space Stare
+</figcaption>
+
+</figure>
 
 
 Next up was the THATCamp Virginia Workshop.

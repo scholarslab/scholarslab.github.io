@@ -27,7 +27,13 @@ But when we gain the larger view by lofting a camera attached to a helium balloo
 
 When Professor Marlatt and her students completed their work a few weeks later we returned with our [aerial photography rig](http://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography-in-a-crowd/) to document the finished product.[![](http://static.scholarslab.org/wp-content/uploads/2012/07/GOPR1610-1024x768.jpg)](http://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography-and-edgar-allan-poe/attachment/dcim100gopro-11/)
 
-[caption id="attachment_5308" align="alignnone" width="819"][![](http://static.scholarslab.org/wp-content/uploads/2012/07/GOPR1623cropped-1024x730.jpg)](http://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography-and-edgar-allan-poe/attachment/dcim100gopro-12/) "Hello Pluto, Good-bye Kitty"[/caption]
+<figure>
+  [![](http://static.scholarslab.org/wp-content/uploads/2012/07/GOPR1623cropped-1024x730.jpg)](http://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography-and-edgar-allan-poe/attachment/dcim100gopro-12/)
+  <figcaption>
+ "Hello Pluto, Good-bye Kitty"
+</figcaption>
+
+</figure>
 
 This project illustrates some of the benefits of do it yourself aerial photography.  With a small investment of equipment and time we collected high resolution imagery to document change over time for a discrete study area. We see applications for these techniques across many academic disciplines.  So we're working now to fine-tune our approaches while we collaborate with faculty and students.
 

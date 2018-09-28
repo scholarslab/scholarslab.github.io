@@ -15,7 +15,13 @@ In Praxis, we just finished covering [Git](http://git-scm.com/). Everyone seemed
 
 
 
-[caption id="" align="alignright" width="240"]![](http://farm1.staticflickr.com/10/11250506_58dee63095_m.jpg)Photo by [The Rocketeer](http://www.flickr.com/photos/kt/11250506/), [CC BY-NC-ND 2.0](http://creativecommons.org/licenses/by-nc-nd/2.0/)[/caption]
+<figure>
+  ![](http://farm1.staticflickr.com/10/11250506_58dee63095_m.jpg)Photo by [The Rocketeer](http://www.flickr.com/photos/kt/11250506/), [CC BY-NC-ND 2.0](http://creativecommons.org/licenses/by-nc-nd/2.0/)
+  <figcaption>
+
+</figcaption>
+
+</figure>
 
 
 

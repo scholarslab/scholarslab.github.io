@@ -10,7 +10,13 @@ categories:
 
 So I had to take a sick day yesterday. Stuffy nose, scratchy throat, headache, grouchiness. Attempting to brighten my day, Wayne sent me a nice text message:
 
-[caption id="attachment_11169" align="aligncenter" width="640"]![Extra parts](http://scholarslab.org/wp-content/uploads/2014/09/extra-parts.jpg) Extra parts[/caption]
+<figure>
+  ![Extra parts](http://scholarslab.org/wp-content/uploads/2014/09/extra-parts.jpg)
+  <figcaption>
+ Extra parts
+</figcaption>
+
+</figure>
 
 Turns out he was joking. He actually said "totally" when I asked, but that turned out to be a lie. Today, here's what I came back to:
 
@@ -24,13 +30,31 @@ So as is typical of my kin, I feared the worse. I expected to spend a ton of tim
 
 First thing you need to do, of course, is turn off and unplug the printer. You'll touch wires and things, and its better to be safe than sorry. Then you have to take off the fan assembly in front of the extruder, and pull out the drive assembly:
 
-[caption id="attachment_11164" align="aligncenter" width="1024"]![Printer carriage with fan and stepper motor removed.](http://scholarslab.org/wp-content/uploads/2014/09/disassembled-1024x768.jpg) Printer carriage with fan and stepper motor removed.[/caption]
+<figure>
+  ![Printer carriage with fan and stepper motor removed.](http://scholarslab.org/wp-content/uploads/2014/09/disassembled-1024x768.jpg)
+  <figcaption>
+ Printer carriage with fan and stepper motor removed.
+</figcaption>
+
+</figure>
 
 At this point, I took a look at the drive assembly, which in our case includes the fabulous [spring-loaded arm replacement](http://scholarslab.org/experimental-humanities/reprinting-printed-parts/) for the drive. I noticed something a bit odd:
 
-[caption id="attachment_11168" align="aligncenter" width="1024"]![Stepper motor with spring-loaded arm](http://scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-1024x768.jpg) Stepper motor with spring-loaded arm[/caption]
+<figure>
+  ![Stepper motor with spring-loaded arm](http://scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-1024x768.jpg)
+  <figcaption>
+ Stepper motor with spring-loaded arm
+</figcaption>
 
-[caption id="attachment_11167" align="aligncenter" width="1024"]![Close up of drive block.](http://scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-detail-1024x768.jpg) Close up of drive block showing obstruction[/caption]
+</figure>
+
+<figure>
+  ![Close up of drive block.](http://scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-detail-1024x768.jpg)
+  <figcaption>
+ Close up of drive block showing obstruction
+</figcaption>
+
+</figure>
 
 Turns out there was junk in it. What the junk indeed. I pushed the arm down to take some tension off the drive, and used a knife to wiggle the bit of plastic that had gotten lodged in there.
 
