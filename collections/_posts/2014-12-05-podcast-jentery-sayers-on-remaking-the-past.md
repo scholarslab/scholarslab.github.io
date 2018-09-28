@@ -17,6 +17,6 @@ In both digital humanities and popular culture, there is a rapidly growing inter
 
 Jentery Sayers is Assistant Professor of English and Director of the [Maker Lab in the Humanities](http://maker.uvic.ca/) at the University of Victoria. His research interests include comparative media studies, critical theories of technology, and cultural histories of dead devices. He is currently working on a book about the "digging condition" of digital humanities, or how new media, data, and computing were embedded in materialist metaphors and methods during the 2000s. With William J. Turkel (Western University), he is the PI of the SSHRC-supported Kits for Cultural History project, which is reconstructing pre-digital technologies using physical computing and fabrication techniques.
 
-<audio controls muted src="http://scholarslab.org/wp-content/uploads/2014/12/Sayers1.mp3"></audio>
+<audio controls muted src="http://static.scholarslab.org/wp-content/uploads/2014/12/Sayers1.mp3"></audio>
 
 This talk was recorded in Alderman Library, Rm 421 on November 20, 2014.  You can follow Jentery's [accompanying slides](http://uvicmakerlab.github.io/stitches/#/title) and read his further thoughts on the [relevance of remaking](http://maker.uvic.ca/remaking/). If you encounter problems with the playback, please email [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).

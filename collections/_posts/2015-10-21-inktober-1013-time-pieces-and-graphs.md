@@ -15,7 +15,7 @@ Hello all - three more images for Inktober.
 
 The first is a continuation from [my previous Inktober post](http://praxis.scholarslab.org/blog/2015/10/05/inktober-10-5-three-sketches/), very simply, two tubes of toothpaste, both almost empty.
 
-[![10.13toothpaste](http://scholarslab.org/wp-content/uploads/2015/10/10.13toothpaste-e1445266386143.jpg)](http://scholarslab.org/wp-content/uploads/2015/10/10.13toothpaste-e1445266386143.jpg)
+[![10.13toothpaste](http://static.scholarslab.org/wp-content/uploads/2015/10/10.13toothpaste-e1445266386143.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/10/10.13toothpaste-e1445266386143.jpg)
 
 Was still thinking of the consumption of objects, for two reasons: first, because of their importance to a historical thinker deeply interested in time (and on my orals list), one Karl Marx, who writes on everything from [the length of the working day](https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm) to [labour-time itself here in the first chapter of _Capital_](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm#S1). And second, because a lot of people use toothpaste in their everyday life. It is something they consume very slowly, and often even forget that they have or that it's running out; they measure out its consumption bit by bit over the course of many weeks, but its presence over time is 'at hand,' or taken for granted in a certain way.
 
@@ -29,12 +29,12 @@ Hence: toothpaste! I brush my teeth twice a day and use toothpaste from a tube t
 
 This connects with another picture, those of time pieces.
 
-[![10.13laptopwatchphone](http://scholarslab.org/wp-content/uploads/2015/10/10.13laptopwatchphone-e1445266680371.jpg)](http://scholarslab.org/wp-content/uploads/2015/10/10.13laptopwatchphone-e1445266680371.jpg)
+[![10.13laptopwatchphone](http://static.scholarslab.org/wp-content/uploads/2015/10/10.13laptopwatchphone-e1445266680371.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/10/10.13laptopwatchphone-e1445266680371.jpg)
 
 I wanted to draw the things I look at during the day to tell what time it is. When this Dasein thinks of time (me), he probably thinks first of where he looks to 'tell the time,' the things I use to make sure that I am not late, or that I am getting enough sleep, or that I remember to eat lunch. For me these are my computer and my phone. My window into Greenwich Mean Time is almost always small numbers on a screen that sometimes fail to update to Daylight Savings. A lot of people have watches though, so I wanted to draw one of them too. I wonder how these objects of mediators of this standard time influence how time actually feels for the humans who use them.
 
 Last is more abstract. I was thinking of Johanna Drucker's work in _[Graphesis: Visual Forms of Knowledge Production](http://www.hup.harvard.edu/catalog.php?isbn=9780674724938)_, and particularly an article she wrote for [DHQ](http://www.digitalhumanities.org/dhq/) called ["Humanities Approaches to Graphical Display"](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) in which she gives some examples of how humanists can use graphical representations. So I decided to draw some graphs about how we might experience time in a 24-hour period.
 
-[![10.13graphs](http://scholarslab.org/wp-content/uploads/2015/10/10.13graphs-e1445266290311.jpg)](http://scholarslab.org/wp-content/uploads/2015/10/10.13graphs-e1445266290311.jpg)
+[![10.13graphs](http://static.scholarslab.org/wp-content/uploads/2015/10/10.13graphs-e1445266290311.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/10/10.13graphs-e1445266290311.jpg)
 
 I was envisioning that a given person would travel along the path of the line, x-axis being each hour passing, and y-axis being... something else. Experience? Not sure - point being, although the same number of 'hours' passed for each line, the length, trajectory, and experience of each line (or sets of lines) was very unique. Would love to draw some more of these, or at least think through them a little more seriously before the month is out.

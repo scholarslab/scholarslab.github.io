@@ -29,7 +29,7 @@ In this post, I will describe the project and detail the goals, inspirations, a
 
 
 <figure>
-  [![Mucha Smart Dress](http://scholarslab.org/wp-content/uploads/2015/05/Mucha-Smart-Dress-1024x981.jpg)](http://scholarslab.org/wp-content/uploads/2015/05/Mucha-Smart-Dress.jpg)
+  [![Mucha Smart Dress](http://static.scholarslab.org/wp-content/uploads/2015/05/Mucha-Smart-Dress-1024x981.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/05/Mucha-Smart-Dress.jpg)
   <figcaption>
  My sketch of the "Mucha Smart Dress"
 </figcaption>
@@ -77,7 +77,7 @@ While creating this project, I hope to also think critically about the utility (
   * I got the idea for a temperature-sensitive focus from Alphonse Mucha's 1896 lithographic quadriptych of  "The Seasons."
 
 
-![Screen Shot 2015-06-04 at 1.36.02 PM](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.36.02-PM.png)
+![Screen Shot 2015-06-04 at 1.36.02 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.36.02-PM.png)
 
 
 
@@ -85,7 +85,7 @@ While creating this project, I hope to also think critically about the utility (
   * The dress shape and much of its design I owe to Mucha's 1898 print "The Arts: Painting." I have, however, adapted the dress to cover the breasts, since in our society this sort of garment is not – strictly speaking – legal to wear in public.
 
 
-[![Screen Shot 2015-06-04 at 1.37.32 PM](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.37.32-PM.png)](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.37.32-PM.png)
+[![Screen Shot 2015-06-04 at 1.37.32 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.37.32-PM.png)](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.37.32-PM.png)
 
 
 
@@ -93,7 +93,7 @@ While creating this project, I hope to also think critically about the utility (
   * I was also inspired by "The Moon and the Stars," with particular emphasis on the "Moon"[ ](http://www.muchafoundation.org/gallery/search-works/display/results/object/156)since her dress looks like it already has LEDs on it, non?
 
 
-[![Screen Shot 2015-06-04 at 1.37.12 PM](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.37.12-PM.png)](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.37.12-PM.png)
+[![Screen Shot 2015-06-04 at 1.37.12 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.37.12-PM.png)](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-06-04-at-1.37.12-PM.png)
 
 * [The Mucha Foundation](http://muchafoundation.org), upon my meeting with them, specified that they do not generally accept unauthorized reproductions of the artist's work and "fair use" is not the same in the Czech Republic. Therefore I have posted screenshots from the Foundation's website.
 
@@ -153,7 +153,7 @@ While creating this project, I hope to also think critically about the utility (
 
 
 <figure>
-  [![Before Dress](http://scholarslab.org/wp-content/uploads/2015/05/Before-Dress-683x1024.jpg)](http://scholarslab.org/wp-content/uploads/2015/05/Before-Dress.jpg) I'll turn this thrifted find (in Makerspace Red!)
+  [![Before Dress](http://static.scholarslab.org/wp-content/uploads/2015/05/Before-Dress-683x1024.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/05/Before-Dress.jpg) I'll turn this thrifted find (in Makerspace Red!)
   <figcaption>
  into a hacked 19th-century design!
 </figcaption>

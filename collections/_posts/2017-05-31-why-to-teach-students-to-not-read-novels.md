@@ -41,7 +41,7 @@ Its well established that the English novel rose first---the form seems to have 
 
 
 
-![Fig. 2 Novel topics](http://scholarslab.org/wp-content/uploads/2017/05/Syllabus.png)
+![Fig. 2 Novel topics](http://static.scholarslab.org/wp-content/uploads/2017/05/Syllabus.png)
 
 
 Fig. 2 Novel topics
@@ -102,7 +102,7 @@ By presenting a broad view of the texts, built by a computer algorithm, but out 
 
 
 
-![Fig. 3 Emma by paragraph](http://scholarslab.org/wp-content/uploads/2017/05/EmmaByChap.png)
+![Fig. 3 Emma by paragraph](http://static.scholarslab.org/wp-content/uploads/2017/05/EmmaByChap.png)
 
 
 Fig. 3 _Emma_ by paragraph

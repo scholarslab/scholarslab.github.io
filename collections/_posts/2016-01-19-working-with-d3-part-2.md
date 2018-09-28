@@ -11,7 +11,7 @@ tags:
 - d3
 ---
 
-[![candies](http://scholarslab.org/wp-content/uploads/2016/01/candies.png)](http://scholarslab.org/wp-content/uploads/2016/01/candies.png)
+[![candies](http://static.scholarslab.org/wp-content/uploads/2016/01/candies.png)](http://static.scholarslab.org/wp-content/uploads/2016/01/candies.png)
 
 
 

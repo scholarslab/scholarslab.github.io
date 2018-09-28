@@ -15,6 +15,6 @@ Greetings! My name is Jennifer Grayburn and I’m a sixth-year PhD Candidate in 
 
 In the Middle Ages, the sea was the main venue for organic and fluid exchange. For us, however, this process of exchange has been accelerated by the internet and is no longer limited to physical travel. Praxis is my opportunity both to satisfy my own personal curiosity about the technology we use on a daily basis and to consider more critically how technology affects opportunities to disseminate information. Exchanging information is the foundation of the learning process and digital tools allow us to do so in increasingly interactive and decentralized ways. Ivanhoe is the ideal project to consider how digital tools and creative play can complement existing educational strategies. While Ivanhoe is text-based at this point, I'm looking forward to jumping in and seeing how we might incorporate images and other creative expressions to expand its relevance to multiple disciplines.
 
-[![112.NEF](http://scholarslab.org/wp-content/uploads/2014/09/112.NEF_-1024x319.jpg)](http://scholarslab.org/wp-content/uploads/2014/09/112.NEF_.jpg)
+[![112.NEF](http://static.scholarslab.org/wp-content/uploads/2014/09/112.NEF_-1024x319.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/09/112.NEF_.jpg)
 
 

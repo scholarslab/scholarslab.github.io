@@ -8,9 +8,9 @@ categories:
 - Experimental Humanities
 ---
 
-Announcing version 0.1 public beta of the [Scholars Lab Makerspace Ninjaflex profile for Makerbot Replicators](http://scholarslab.org/wp-content/uploads/2015/05/ninjaflex100.txt)!
+Announcing version 0.1 public beta of the [Scholars Lab Makerspace Ninjaflex profile for Makerbot Replicators](http://static.scholarslab.org/wp-content/uploads/2015/05/ninjaflex100.txt)!
 
-[![2015-05-04 15.09.58 HDR](http://scholarslab.org/wp-content/uploads/2015/05/2015-05-04-15.09.58-HDR-225x300.jpg)](http://scholarslab.org/wp-content/uploads/2015/05/2015-05-04-15.09.58-HDR.jpg)
+[![2015-05-04 15.09.58 HDR](http://static.scholarslab.org/wp-content/uploads/2015/05/2015-05-04-15.09.58-HDR-225x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/05/2015-05-04-15.09.58-HDR.jpg)
 
 We've had two spools of Ninjaflex flexible filament for about as long as we've had our Makerbot Replicator 2. We've tried to print with it from time to time, but seldom with very good result. With our Rep2 dialed in and printing PLA like a champ for the last few months, I decided that it was a pretty good time to finally figure out Ninjaflex.
 
@@ -24,11 +24,11 @@ Even so, our printer would still sometimes become clogged. Based on online com
 
 Setting up a custom profile in the Makerbot software isn't actually very intuitive. To create a profile, select Advanced Options" in the print settings and click "Create Profile". Name the profile something descriptive and an appropriate base profile if you're starting from scratch (any will be fine if you're going to use our Ninjaflex Profile)
 
-![Screen Shot 2015-05-04 at 2.40.12 PM](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-04-at-2.40.12-PM-300x231.png)
+![Screen Shot 2015-05-04 at 2.40.12 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-04-at-2.40.12-PM-300x231.png)
 
 After the profile is created, select it from the dropdown and click "Edit Profile" to open the JSON file which contains it.
 
-[![Screen Shot 2015-05-04 at 2.41.02 PM](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-04-at-2.41.02-PM-300x231.png)](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-04-at-2.41.02-PM.png)
+[![Screen Shot 2015-05-04 at 2.41.02 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-04-at-2.41.02-PM-300x231.png)](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-04-at-2.41.02-PM.png)
 
 You can test out our profile by simply copy-pasting it in.
 

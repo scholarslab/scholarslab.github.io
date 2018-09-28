@@ -17,7 +17,7 @@ So here’s the back-story: Ozeki’s _A Tale for the Time Being_ pivots between
 Published simultaneously not only in hardback and paperback editions, but also as an e-book and an audio download, Ozeki’s novel stands as a pioneering work in terms of experimental publication. That is, Canongate (the publisher of the first published edition of _A Tale_ in the UK) was particularly attentive to creating a brand for Ozeki’s novel that reached across print and digital audiences. As such, the covers of all these editions feature the face of a girl superimposed on a landscape, which is partially concealed behind a peeled-back red circle (reminiscent of the Japanese flag) – see Figure 1 below.
 
 <figure>
-  ![Figure 1. Screen grab from the Canongate website](http://scholarslab.org/wp-content/uploads/2016/12/bundle_visual-300x185.jpg)
+  ![Figure 1. Screen grab from the Canongate website](http://static.scholarslab.org/wp-content/uploads/2016/12/bundle_visual-300x185.jpg)
   <figcaption>
  Figure 1. Screen grab from the Canongate website
 </figcaption>

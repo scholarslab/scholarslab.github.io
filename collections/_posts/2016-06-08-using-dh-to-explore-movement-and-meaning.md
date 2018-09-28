@@ -26,19 +26,19 @@ I instructed them to draw Hamlet’s path throughout the monologue&mdash;where d
 
 I also asked them to use [Prism](http://prism.scholarslab.org/?locale=en) to mark up the monologue, indicating where Hamlet started moving, stopped moving, or changed position in their blocking. I did not tell them in which order to do these tasks just that they had to do both of them. At the end of the allotted 20 minutes, I taped all of the drawings on the board and pressed the visualization button on Prism to see what we found. The Prism results revealed that there was a great variety in blocking styles, yet there were definable loci of energy around certain parts of the text. (Here’s the [full visualization](http://prism.scholarslab.org/prisms/b72767fa-1396-11e6-bdec-005056b3784e/visualize?locale=en))
 
-![prism1](http://scholarslab.org/wp-content/uploads/2016/06/prism1.png)
+![prism1](http://static.scholarslab.org/wp-content/uploads/2016/06/prism1.png)
 
 In this first image, you can see that a lot of students notated something around “end them? To die; to sleep,” but there disagreement as to what Hamlet was doing at those moments.
 
 We zeroed in on the word “end” as Prism showed there was some debate as to what movement happened on that word. The Prism showed that students either had Hamlet change position without changing location (indicated by the blue) or stop moving all together (indicated by the red). No one had Hamlet begin moving on this word (which would have been indicated by green).
 
-![prism2](http://scholarslab.org/wp-content/uploads/2016/06/prism2.png)
+![prism2](http://static.scholarslab.org/wp-content/uploads/2016/06/prism2.png)
 
 Throughout the whole monologue, “die” and “death” continued to appear as words where students thought some kind of movement or position change should occur, but we couldn’t agree as to what that movement should be:
 
-![prism3](http://scholarslab.org/wp-content/uploads/2016/06/prism3.png)
+![prism3](http://static.scholarslab.org/wp-content/uploads/2016/06/prism3.png)
 
-![prism4](http://scholarslab.org/wp-content/uploads/2016/06/prism4.png)
+![prism4](http://static.scholarslab.org/wp-content/uploads/2016/06/prism4.png)
 
 I have no definitive way to explain this: only a director’s hunch that there’s some sort of affective energy around the word and concept of death that we associate with anxiety that incites us to movement&mdash;we (or at least most of us) do not want to be still when facing death. Part of my future work is figuring out how to interpret these results.
 
@@ -46,17 +46,17 @@ The other part of the activity&mdash;the drawings of Hamlet’s path&mdash;are m
 
 Several of the students actually marked words on their drawings as well connecting the text directly to their movement patterns:
 
-![move1](http://scholarslab.org/wp-content/uploads/2016/06/move1.png)
+![move1](http://static.scholarslab.org/wp-content/uploads/2016/06/move1.png)
 
-![move2](http://scholarslab.org/wp-content/uploads/2016/06/move2.png)
+![move2](http://static.scholarslab.org/wp-content/uploads/2016/06/move2.png)
 
 Some used no text at all and focused on the shape of Hamlet’s movements:
 
-![move3](http://scholarslab.org/wp-content/uploads/2016/06/move3.png)
+![move3](http://static.scholarslab.org/wp-content/uploads/2016/06/move3.png)
 
 And here’s one that was purposely playing with Hamlet’s winding rhetoric:
 
-![move4](http://scholarslab.org/wp-content/uploads/2016/06/move4.png)
+![move4](http://static.scholarslab.org/wp-content/uploads/2016/06/move4.png)
 
 So how do we make meaning out of all of this data?
 

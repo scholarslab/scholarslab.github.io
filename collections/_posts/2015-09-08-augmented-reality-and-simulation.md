@@ -13,8 +13,8 @@ tags:
 
 A few weeks ago the Scholars' Lab went on a field trip to the School of Architecture's "[FabLab](http://www.arch.virginia.edu/fabrication)" to check out a project Chris Gist and Melissa Goldman had been working on, a sand table that has a projector and a Kinect connected to a computer that projects a topology on to the sand.
 
-[![IMG_0383](http://scholarslab.org/wp-content/uploads/2015/08/IMG_03831-1024x768.jpg)](http://scholarslab.org/wp-content/uploads/2015/08/IMG_03831.jpg)[
-](http://scholarslab.org/wp-content/uploads/2015/08/IMG_0383.jpg)
+[![IMG_0383](http://static.scholarslab.org/wp-content/uploads/2015/08/IMG_03831-1024x768.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/08/IMG_03831.jpg)[
+](http://static.scholarslab.org/wp-content/uploads/2015/08/IMG_0383.jpg)
 
 This is an amazing tool that was developed by [a lot of different organizations](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/), primarily to teach earth science concepts related to watershed science. However, it's also an amazing tool for teaching landscape and topography skills to architects (not to mention seriously fun to play with -- especially when you start to think about the possibilities of replacing the sand with [kinetic sand](https://www.youtube.com/watch?v=9Uc9uglgVAI)).
 

@@ -12,7 +12,7 @@ Literary works are currently employing Blippar in two primary ways: As a means o
 
 
 
-![Screen Shot 2016-12-03 at 12.38.42 PM](http://scholarslab.org/wp-content/uploads/2017/01/Screen-Shot-2016-12-03-at-12.38.42-PM-300x220.png)
+![Screen Shot 2016-12-03 at 12.38.42 PM](http://static.scholarslab.org/wp-content/uploads/2017/01/Screen-Shot-2016-12-03-at-12.38.42-PM-300x220.png)
 
 Figure 1. Screen-grab from Blippar’s website illustrating Ravinder Singh’s _This Love that Feels Right…_
 
@@ -22,7 +22,7 @@ Yet extending beyond advertising, graphic artists and novelists are employing Bl
 
 
 
-![Screen Shot 2016-12-03 at 12.41.22 PM](http://scholarslab.org/wp-content/uploads/2017/01/Screen-Shot-2016-12-03-at-12.41.22-PM-300x226.png)
+![Screen Shot 2016-12-03 at 12.41.22 PM](http://static.scholarslab.org/wp-content/uploads/2017/01/Screen-Shot-2016-12-03-at-12.41.22-PM-300x226.png)
 
 Figure 2. Screen-grab from Blippar’s website illustrating the comic book, _Priya’s Shakti_
 
@@ -38,7 +38,7 @@ Figure 3. Screen-shot of Blippar’s enhanced graphics of a page of _Priya’s S
 
 
 
-![2016-12-03 17.50.20](http://scholarslab.org/wp-content/uploads/2017/01/2016-12-03-17.50.20-e1484256535722-300x170.png)
+![2016-12-03 17.50.20](http://static.scholarslab.org/wp-content/uploads/2017/01/2016-12-03-17.50.20-e1484256535722-300x170.png)
 
 Figure 4. Screen-shot from a video available through Blippar’s augmentation of _Priya’s Shakti_
 
@@ -50,18 +50,18 @@ Blippar also encourages its users to become “blippbuilders” by creating thei
 
 
 
-![Screenshot_2017-01-09-22-05-15](http://scholarslab.org/wp-content/uploads/2017/01/Screenshot_2017-01-09-22-05-15-e1484256610611-250x300.png)
+![Screenshot_2017-01-09-22-05-15](http://static.scholarslab.org/wp-content/uploads/2017/01/Screenshot_2017-01-09-22-05-15-e1484256610611-250x300.png)
 
 Figure 5. Blippbuilding in progress
 
 
 
-![Screenshot_2017-01-09-22-04-03](http://scholarslab.org/wp-content/uploads/2017/01/Screenshot_2017-01-09-22-04-03-e1484256645143-300x169.png)
+![Screenshot_2017-01-09-22-04-03](http://static.scholarslab.org/wp-content/uploads/2017/01/Screenshot_2017-01-09-22-04-03-e1484256645143-300x169.png)
 
 Figure 6. Uploading the blipp
 
 
 
-![Screenshot_2017-01-09-22-04-30](http://scholarslab.org/wp-content/uploads/2017/01/Screenshot_2017-01-09-22-04-30-e1484256687975-300x263.png)
+![Screenshot_2017-01-09-22-04-30](http://static.scholarslab.org/wp-content/uploads/2017/01/Screenshot_2017-01-09-22-04-30-e1484256687975-300x263.png)
 
 Figure 7. The completed blipp of the UVA Scholars’ Lab Makerspace

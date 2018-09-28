@@ -12,7 +12,7 @@ tags:
 - graphs
 ---
 
-[![graph](http://scholarslab.org/wp-content/uploads/2016/01/graph.png)](http://scholarslab.org/wp-content/uploads/2016/01/graph.png)
+[![graph](http://static.scholarslab.org/wp-content/uploads/2016/01/graph.png)](http://static.scholarslab.org/wp-content/uploads/2016/01/graph.png)
 
 
 

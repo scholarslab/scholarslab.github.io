@@ -45,13 +45,13 @@ I'm excited to see where the next cohort takes Ivanhoe, how they interpret it, a
 
 **The Text**
 
-[![The player, confronted with a variety of texts](http://scholarslab.org/wp-content/uploads/2014/09/image_5-300x225.jpg)](http://scholarslab.org/wp-content/uploads/2014/09/image_5.jpg)
+[![The player, confronted with a variety of texts](http://static.scholarslab.org/wp-content/uploads/2014/09/image_5-300x225.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/09/image_5.jpg)
 
 Any Ivanhoe game begins with a text. But what constitutes a 'text'? On [the original Ivanhoe informational website](http://www.ivanhoegame.org/?page_id=21), the SpecLab researchers termed it a "'discourse field,' the documentary manifestation of a set of ideas that people want to investigate collaboratively." Our cohort considered an Ivanhoe text to be merely the focus of the interpretation. This could be a literary text, a work of visual art, a piece of music, a film, or even a concept&mdash;such as a historical time period. One example of the last would be the[ Suffragette Journalism Game](http://www.scholarslab.org/grad-student-research/a-review-of-the-suffragette-game/), which took as its 'text' the 19th-century women's suffrage protests in England. To some extent, the Ivanhoe game we played on the Elgin Marbles was also a concept game, since we didn't have the marbles themselves on hand to study and interpret but rather found ourselves interpreting the whole historical legacy of the marbles. So a 'concept text' can work well for Ivanhoe, but is a concept--which may come without "documentary manifestation"--a legitimate text? Are there any constraints on what can be a 'concept text'? Is there a point in an Ivanhoe game at which a concept, loosely interpreted, can break down and the game drift into meaninglessness? Do you need a sense of textual integrity for the game to have coherence and meaning?
 
 **The Move**
 
-[![image_2](http://scholarslab.org/wp-content/uploads/2014/09/image_21-300x225.jpg)](http://scholarslab.org/wp-content/uploads/2014/09/image_21.jpg)
+[![image_2](http://static.scholarslab.org/wp-content/uploads/2014/09/image_21-300x225.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/09/image_21.jpg)
 
 The second integral feature of an Ivanhoe game is the move, which our developer Scott Bailey succinctly defined as a "self-conscious act of interpretation." These acts constitute what we like to refer to as "textual interventions." The first Ivanhoe games played by Drucker and McGann, as well as the SpecLab researchers, involved actual changes made directly into the texts: Players added text, changed it, or deleted it from works such as Sir Walter Scott's _Ivanhoe _and Henry James' _The Turn of the Screw. _Our cohort began with a game on Edgar Allen Poe's "The Tell-tale Heart," which, following its predecessors, involved changes to the text itself. As we found ourselves becoming more and more interdisciplinary in our aims, however, the typical move became more a commentary on the text than changes to it. Does mere _interpretation _actually _intervene _in a text?  Which term is more characteristic of an Ivanhoe move?  What are we actually doing when we make an Ivanhoe move, and how do moves make the game itself progress?
 
@@ -65,7 +65,7 @@ Directly related to self consciousness, what about the idea of the role journal?
 
 **Collaboration**
 
-[![Competition or collaboration? A constant tug-of-war.](http://scholarslab.org/wp-content/uploads/2014/09/image-300x225.jpg)](http://scholarslab.org/wp-content/uploads/2014/09/image.jpg)
+[![Competition or collaboration? A constant tug-of-war.](http://static.scholarslab.org/wp-content/uploads/2014/09/image-300x225.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/09/image.jpg)
 
 Lastly, Ivanhoe must have players; for me, this means it is collaborative. Even if players are competing, the result is still collaboration because one player's ideas necessarily inform and impact those of the other players. This collaboration is one feature which we considered to be very important to Ivanhoe; it's what makes it a game&mdash;or as Francesca wrote [in her post ](http://www.scholarslab.org/grad-student-research/look-its-a-game-its-a-simulation-no-its-gamification/)last year, _gamification_, an idea and debate worth consideration for the next cohort but one which I will not attempt to discuss here.  Can you have a one-person Ivanhoe game?  I do not think so, but then that is really an opinion guided by my firm belief in the final--and perhaps most essential--Ivanhoe feature: FUN!  Grab some friends and have fun with collaborative criticism in an Ivanhoe game of your own!
 

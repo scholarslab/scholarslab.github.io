@@ -15,7 +15,7 @@ I want to talk about our experience making this thing and trying to get it to wo
 So what did we make? As linked above, we started by printing a desktop hand press. James then printed a plate with the motto, “Collaborate -> Iterate -> Discuss (and Print).” Using some ink we had meant for rubber stamps, we inked the plastic plate and gave it a shot – as you can see, what came out is readable (sort of) but not very pretty.
 
 
-[![IMG_1118](http://scholarslab.org/wp-content/uploads/2015/02/IMG_1118-300x225.jpg)](http://scholarslab.org/wp-content/uploads/2015/02/IMG_1118.jpg)
+[![IMG_1118](http://static.scholarslab.org/wp-content/uploads/2015/02/IMG_1118-300x225.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/02/IMG_1118.jpg)
 
 
 We jerry-rigged a few modifications (i.e. taped-on cardboard to raise and even out the paper) and then I printed out a single set of type from [another model on Thingiverse](http://www.thingiverse.com/thing:296026), and sized it so that it would fit with our press. Printing with this type was a real pain as there was no way to keep them in place – a problem which, again, involved another series of jerry-rigged semi-solutions. Until we figured out a way to make this setting and pressing of type easier, our new press was going to be very limited in its applications.
@@ -27,7 +27,7 @@ As you can see, our goal in re-creation here wasn’t so much fidelity to a spec
 So why does this matter? In an earlier post titled “[The Relevance of Remaking](http://maker.uvic.ca/remaking/),” Sayers offers some questions that I found to be helpful in making meaning out of experiences with old technology. Two in particular – “From what materials was it [the old technology] made?” and “Through what measures was it deemed a success?” – were particularly revealing in our case.  I was faced with problems like: what kind of paper works best when you are using plastic type? There’s a big difference between printer scrap paper we used originally and the softer paper, like from a cheap paperback, that we ultimately decided would work best.  For that matter, I wondered what kind of paper works best using _metal _type – and what about differences in kinds of metals? What about different kinds of ink? What’s in “gel-based” stamp ink, anyways (as it reads on the back of the box)?  When we tried it again with a small sample of the oil-based kind of ink used in relief printing (courtesy of [Josef Beery](http://www.josefbeery.com/)), and the prints came out much clearer, even after multiple presses (despite being limited by the granularity of the Replicator 2 model and print).
 
 
-[![mini-press relief ink](http://scholarslab.org/wp-content/uploads/2015/02/mini-press-relief-ink-e1425004210362-225x300.jpg)](http://scholarslab.org/wp-content/uploads/2015/02/mini-press-relief-ink.jpg)
+[![mini-press relief ink](http://static.scholarslab.org/wp-content/uploads/2015/02/mini-press-relief-ink-e1425004210362-225x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/02/mini-press-relief-ink.jpg)
 
 
 These aren’t new problems – they’ve been around for as long as people have been trying to print things. And despite being surrounded by scholars interested in these fields here at UVa, it’s been very easy for me to take them for granted on a day-to-day basis – something I didn’t realize until trying to deal with them first-hand.

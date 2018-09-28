@@ -10,7 +10,7 @@ categories:
 - Research and Development
 ---
 
-I recently participated in the International Symposium of Academic Makerspaces. I presented a paper, co-authored by [Jennifer Grayburn](https://jennifergrayburn.com/) (formerly a Makerspace Technologist, and now at Temple University's [Digital Scholarship Center](https://sites.temple.edu/tudsc/)). I present here the slides and talking notes of the 7 minute presentation, and a link to the full paper [[Link to PDF](http://scholarslab.org/wp-content/uploads/2017/10/Grayburn-Shepherd-Final.pdf)].
+I recently participated in the International Symposium of Academic Makerspaces. I presented a paper, co-authored by [Jennifer Grayburn](https://jennifergrayburn.com/) (formerly a Makerspace Technologist, and now at Temple University's [Digital Scholarship Center](https://sites.temple.edu/tudsc/)). I present here the slides and talking notes of the 7 minute presentation, and a link to the full paper [[Link to PDF](http://static.scholarslab.org/wp-content/uploads/2017/10/Grayburn-Shepherd-Final.pdf)].
 
 [![](http://static.scholarslab.org/wp-content/uploads/2017/10/isam-presentation_000-1024x576.png)](http://scholarslab.org/?attachment_id=13856)
 

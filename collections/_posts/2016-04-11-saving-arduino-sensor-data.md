@@ -11,7 +11,7 @@ tags:
 - Raspberry Pi
 ---
 
-![IMG_20160411_103622522_HDR](http://scholarslab.org/wp-content/uploads/2016/04/IMG_20160411_103622522_HDR-1024x768.jpg)
+![IMG_20160411_103622522_HDR](http://static.scholarslab.org/wp-content/uploads/2016/04/IMG_20160411_103622522_HDR-1024x768.jpg)
 
 We had a need to take the temperature of an environment over a period of time, and record those temperatures for later analysis.
 
@@ -92,7 +92,7 @@ Another way is to use a dedicated SD card shield with an RTC (Real Time Clock) b
 ## Wiring Diagram
 
 
-![temperature-tmp36](http://scholarslab.org/wp-content/uploads/2016/04/temperature-tmp36-1024x664.png)
+![temperature-tmp36](http://static.scholarslab.org/wp-content/uploads/2016/04/temperature-tmp36-1024x664.png)
 
 
 

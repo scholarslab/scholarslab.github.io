@@ -9,7 +9,7 @@ categories:
 - Technical Training
 ---
 
-![DHSI logo](http://scholarslab.org/wp-content/uploads/2017/01/logo-dhsi-110x110.gif)
+![DHSI logo](http://static.scholarslab.org/wp-content/uploads/2017/01/logo-dhsi-110x110.gif)
 
 Want to learn more about the skills, methods, and inquiry entailed in digital humanities?  The [Digital Humanities Summer Institute](http://www.dhsi.org/) (DHSI) at the University of Victoria has a tradition of transformative training. The University of Virginia, as a sponsoring institution, provides five tuition-free fellowships for the summer of 2017. This deal ends April 1. **Apply ASAP.  The Committee will begin selection on February 6.**
 

@@ -13,7 +13,7 @@ Bonjour, Laboratoire des Savants!
 Hello! I'm Julia, one of the new Makerspace student consultants. When I'm not being a smiling face at the SLab desk, I am a first year M.A.-Ph.D. student in French. I am brand-new to Charlottesville and to UVa, and so far I'm loving everything, particularly this miniature Tour Eiffel, which was my first ever 3D print!
 
 <figure>
-  [![Julia holding a tiny, black 3D-printed Eiffel Tower.](http://scholarslab.org/wp-content/uploads/2014/09/photo-e1411154953963-225x300.jpg)](http://scholarslab.org/wp-content/uploads/2014/09/photo-e1411154953963.jpg)
+  [![Julia holding a tiny, black 3D-printed Eiffel Tower.](http://static.scholarslab.org/wp-content/uploads/2014/09/photo-e1411154953963-225x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/09/photo-e1411154953963.jpg)
   <figcaption>
  Just look at it. Seriously.
 </figcaption>

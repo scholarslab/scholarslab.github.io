@@ -36,7 +36,7 @@ Email a complete application package will include the following materials to [Pu
   * a cover letter, addressed to the selection committee;
 
 	
-  * [a Graduate Fellowship Application Form](http://scholarslab.org/wp-content/uploads/2016/02/dhfellowsappform.pdf);
+  * [a Graduate Fellowship Application Form](http://static.scholarslab.org/wp-content/uploads/2016/02/dhfellowsappform.pdf);
 
 	
   * a dissertation abstract;

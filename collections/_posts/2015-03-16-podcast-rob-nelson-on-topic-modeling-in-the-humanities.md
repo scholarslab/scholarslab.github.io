@@ -17,7 +17,7 @@ Dr. Robert K. Nelson is the director of the Digital Scholarship Lab at the Unive
 
 This event is co-sponsored by the [Institute for Advanced Technology in the Humanities](http://www.iath.virginia.edu/), the [Data Science Institute](http://dsi.virginia.edu/)'s Center for the Study of Data and Knowledge, and the Scholars' Lab.
 
-This talk was recorded in Alderman Library, Rm 421 on February 25, 2015.  Click below to stream the podcast, and follow along with [Rob's slides](http://scholarslab.org/wp-content/uploads/2015/03/UVA_2015_talk.pdf).  If you'd like to hear more from the Scholars' Lab, subscribe to our podcast series [on iTunesU](https://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619?mt=10).
+This talk was recorded in Alderman Library, Rm 421 on February 25, 2015.  Click below to stream the podcast, and follow along with [Rob's slides](http://static.scholarslab.org/wp-content/uploads/2015/03/UVA_2015_talk.pdf).  If you'd like to hear more from the Scholars' Lab, subscribe to our podcast series [on iTunesU](https://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619?mt=10).
 
 [podloveaudio src="http://a643.phobos.apple.com/us/r30/CobaltPublic3/v4/02/76/7d/02767d82-95d8-2f30-6639-b9acaaa3f16a/304-7485002225613836972-nelson.mp3"]
 

@@ -10,7 +10,7 @@ categories:
 - Grad Student Research
 ---
 
-![2014-15 Praxis Fellows](http://scholarslab.org/wp-content/uploads/2017/02/Praxis15-16Fellows-300x189.jpeg)
+![2014-15 Praxis Fellows](http://static.scholarslab.org/wp-content/uploads/2017/02/Praxis15-16Fellows-300x189.jpeg)
 
 UVa graduate students! **Apply by** **February 28** for a unique, funded opportunity to work with an interdisciplinary group of your peers, learning digital humanities skills from the experts, and collaborating on the design and execution of an innovative digital project. The 2016-2017 Praxis cohort is in full swing, thanks to generous support by UVa Library and GSAS.
 

@@ -16,7 +16,7 @@ The flow rate of Cura's normal quickprint settings with the 0.4mm nozzle is **2
 
 After installing the 0.8mm filament, we've been able to push this up to **20mm^3/s** and potentially higher by printing at 0.5mm layer height at 50mm/s. On a practical level, this means that we can now print a low resolution version of this cute octopus model in 27 minutes instead of the 3 hours estimated under our previous settings. Printing with substantially higher layer height required that we recalibrate the bed to a somewhat farther distance, but was otherwise very straightforward. The filament used here is Colorfabb Leaf Green PLA/PHA, which we've had very good luck with.
 
-![2016-02-01 18.47.43](http://scholarslab.org/wp-content/uploads/2016/02/2016-02-01-18.47.43.jpg)![2016-02-01 18.47.43](http://scholarslab.org/wp-content/uploads/2016/02/2016-02-01-18.47.43-300x225.jpg)
+![2016-02-01 18.47.43](http://static.scholarslab.org/wp-content/uploads/2016/02/2016-02-01-18.47.43.jpg)![2016-02-01 18.47.43](http://static.scholarslab.org/wp-content/uploads/2016/02/2016-02-01-18.47.43-300x225.jpg)
 
 The lower z-resolution is obvious in these prints, but I think we can use the larger nozzle with shorter layer heights to achieve less pronounced quality differences, still with a modest gain in speed, because the reduction in X-Y axis resolution does not seem to be as dramatic. The larger nozzle diameter will offer faster print speeds and allow more efficient toolpaths. The standard 0.8mm walls will now only require a single pass to lay down.
 

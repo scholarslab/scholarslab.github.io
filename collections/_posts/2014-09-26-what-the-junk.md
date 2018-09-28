@@ -11,7 +11,7 @@ categories:
 So I had to take a sick day yesterday. Stuffy nose, scratchy throat, headache, grouchiness. Attempting to brighten my day, Wayne sent me a nice text message:
 
 <figure>
-  ![Extra parts](http://scholarslab.org/wp-content/uploads/2014/09/extra-parts.jpg)
+  ![Extra parts](http://static.scholarslab.org/wp-content/uploads/2014/09/extra-parts.jpg)
   <figcaption>
  Extra parts
 </figcaption>
@@ -20,7 +20,7 @@ So I had to take a sick day yesterday. Stuffy nose, scratchy throat, headache, g
 
 Turns out he was joking. He actually said "totally" when I asked, but that turned out to be a lie. Today, here's what I came back to:
 
-![Not joking sticky note attached to the printer, with message that it is out of order](http://scholarslab.org/wp-content/uploads/2014/09/out-of-order-1024x768.jpg)
+![Not joking sticky note attached to the printer, with message that it is out of order](http://static.scholarslab.org/wp-content/uploads/2014/09/out-of-order-1024x768.jpg)
 
 So OK, maybe it's not as bad as it seems. Most of the time when we've clogged up the extruder, it's because we've leveled the build platform too close and caused it to scrape against the extruder, essentially mashing up the filament on the nozzle. Unloading and reloading the filament usually solves this, followed by running the leveling utility again.
 
@@ -31,7 +31,7 @@ So as is typical of my kin, I feared the worse. I expected to spend a ton of tim
 First thing you need to do, of course, is turn off and unplug the printer. You'll touch wires and things, and its better to be safe than sorry. Then you have to take off the fan assembly in front of the extruder, and pull out the drive assembly:
 
 <figure>
-  ![Printer carriage with fan and stepper motor removed.](http://scholarslab.org/wp-content/uploads/2014/09/disassembled-1024x768.jpg)
+  ![Printer carriage with fan and stepper motor removed.](http://static.scholarslab.org/wp-content/uploads/2014/09/disassembled-1024x768.jpg)
   <figcaption>
  Printer carriage with fan and stepper motor removed.
 </figcaption>
@@ -41,7 +41,7 @@ First thing you need to do, of course, is turn off and unplug the printer. You'l
 At this point, I took a look at the drive assembly, which in our case includes the fabulous [spring-loaded arm replacement](http://scholarslab.org/experimental-humanities/reprinting-printed-parts/) for the drive. I noticed something a bit odd:
 
 <figure>
-  ![Stepper motor with spring-loaded arm](http://scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-1024x768.jpg)
+  ![Stepper motor with spring-loaded arm](http://static.scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-1024x768.jpg)
   <figcaption>
  Stepper motor with spring-loaded arm
 </figcaption>
@@ -49,7 +49,7 @@ At this point, I took a look at the drive assembly, which in our case includes t
 </figure>
 
 <figure>
-  ![Close up of drive block.](http://scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-detail-1024x768.jpg)
+  ![Close up of drive block.](http://static.scholarslab.org/wp-content/uploads/2014/09/stepper-motor-assembly-detail-1024x768.jpg)
   <figcaption>
  Close up of drive block showing obstruction
 </figcaption>
@@ -58,6 +58,6 @@ At this point, I took a look at the drive assembly, which in our case includes t
 
 Turns out there was junk in it. What the junk indeed. I pushed the arm down to take some tension off the drive, and used a knife to wiggle the bit of plastic that had gotten lodged in there.
 
-![plastic](http://scholarslab.org/wp-content/uploads/2014/09/plastic-1024x768.jpg)
+![plastic](http://static.scholarslab.org/wp-content/uploads/2014/09/plastic-1024x768.jpg)
 
 Now it's working like new. Or at least like it did before it got clogged. Not sure how this little piece of plastic got stuck in here, but my guess is that it broke off the end of the filament when unloading it. The nozzle wasn't clogged at all, but this was preventing new filament from going completely through the drive assembly into the nozzle.

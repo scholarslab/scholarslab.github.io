@@ -23,7 +23,7 @@ I'll walk through the problem and show the steps I used to solve it.
 
 When at the [Neuengamme Concentration Camp Memorial Archive](http://nazitunnels.org/2013/09/neuengamme-second-week-part-2.html) near Hamburg in the summer of 2013, I found about 25 testimonials of former inmates. In most cases I took a picture of the written testimonial (the next day I realized I could use their copier/scanner and make nicer copies). So I ended up with quite a number of folders, each containing a number of images.
 
-[![Lots of images in folders](http://scholarslab.org/wp-content/uploads/2014/11/Screen-Shot-2014-11-18-at-10.52.38-AM.png)](http://scholarslab.org/wp-content/uploads/2014/11/Screen-Shot-2014-11-18-at-10.52.38-AM.png)
+[![Lots of images in folders](http://static.scholarslab.org/wp-content/uploads/2014/11/Screen-Shot-2014-11-18-at-10.52.38-AM.png)](http://static.scholarslab.org/wp-content/uploads/2014/11/Screen-Shot-2014-11-18-at-10.52.38-AM.png)
 
 
 
@@ -90,7 +90,7 @@ The results can be seen on the following image.
 
 
 
-[![Watermark applied!](http://scholarslab.org/wp-content/uploads/2014/11/Screen-Shot-2014-11-18-at-1.40.12-PM-1024x260.png)](http://scholarslab.org/wp-content/uploads/2014/11/Screen-Shot-2014-11-18-at-1.40.12-PM-1024x260.png)
+[![Watermark applied!](http://static.scholarslab.org/wp-content/uploads/2014/11/Screen-Shot-2014-11-18-at-1.40.12-PM-1024x260.png)](http://static.scholarslab.org/wp-content/uploads/2014/11/Screen-Shot-2014-11-18-at-1.40.12-PM-1024x260.png)
 
 
 
@@ -118,7 +118,7 @@ Below are two examples. Note that the translation is not letter-for-letter perf
 
 
 
-[![ocr-example2](http://scholarslab.org/wp-content/uploads/2015/02/ocr-example2.png)](http://scholarslab.org/wp-content/uploads/2015/02/ocr-example2.png) [![ocr-example1](http://scholarslab.org/wp-content/uploads/2015/02/ocr-example1.png)](http://scholarslab.org/wp-content/uploads/2015/02/ocr-example1.png)
+[![ocr-example2](http://static.scholarslab.org/wp-content/uploads/2015/02/ocr-example2.png)](http://static.scholarslab.org/wp-content/uploads/2015/02/ocr-example2.png) [![ocr-example1](http://static.scholarslab.org/wp-content/uploads/2015/02/ocr-example1.png)](http://static.scholarslab.org/wp-content/uploads/2015/02/ocr-example1.png)
 
 The benefits of OCR'ing documents is apparent when needing to search for specific details.
 
@@ -142,7 +142,7 @@ Now I know that at least on pages 47 and 48 is where I’ll find some descriptio
 ## The Script
 
 
-[![img009](http://scholarslab.org/wp-content/uploads/2015/03/img009-300x183.jpg)](http://scholarslab.org/wp-content/uploads/2015/03/img009.jpg)
+[![img009](http://static.scholarslab.org/wp-content/uploads/2015/03/img009-300x183.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/03/img009.jpg)
 
 Imagine typing in those commands for every single image that I want to OCR and watermark. That would take way too long, and computers are really good at doing repetitive tasks, so I'll let the computer take care of that. That's where writing a script comes in very handy. A script is basically a file that tells the computer a bunch of commands to execute. In this case the commands are the ImageMagick and tesseract commands; with some logic thrown in to find the right files and put the results in the right place.
 
@@ -217,7 +217,7 @@ Edit the cowl file to change the default copyright text. Change the line (line 2
 
     
     <code>options.mark_text = "Copyright ©2014 The Marvellous and awesome Me"
-    <a href="http://scholarslab.org/wp-content/uploads/2015/02/edit-copyright1.png"><img src="http://scholarslab.org/wp-content/uploads/2015/02/edit-copyright1.png" alt="edit-copyright" height="418" class="aligncenter size-full wp-image-11562" width="886"></img></a>                                                  
+    <a href="http://static.scholarslab.org/wp-content/uploads/2015/02/edit-copyright1.png"><img src="http://static.scholarslab.org/wp-content/uploads/2015/02/edit-copyright1.png" alt="edit-copyright" height="418" class="aligncenter size-full wp-image-11562" width="886"></img></a>                                                  
     </code>
 
 

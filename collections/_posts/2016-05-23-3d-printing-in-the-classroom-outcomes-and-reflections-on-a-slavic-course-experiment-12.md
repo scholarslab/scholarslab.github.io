@@ -16,7 +16,7 @@ In a [previous post](http://scholarslab.org/uncategorized/3d-printing-in-the-cl
 If we had to describe this project in two words or fewer, we would definitely do so using the phrase “learning process”. Two days after the original blog post about the project and the accompanying exhibit went live, we had students curate the exhibit of their objects in the hallway of the Slavic Department, on the second floor of Cabell Hall. We had arranged for use of half of a display case that had been occupied by faculty books and items of Slavic ephemera, which we had permission to remove and re-arrange as needed.
 
 <figure>
-  ![3D-exhibit-curating](http://scholarslab.org/wp-content/uploads/2016/05/3D-exhibit-curating-225x300.jpg)
+  ![3D-exhibit-curating](http://static.scholarslab.org/wp-content/uploads/2016/05/3D-exhibit-curating-225x300.jpg)
   <figcaption>
  Students putting the final touches on their exhibit.
 </figcaption>
@@ -30,7 +30,7 @@ General response to the project, and the objects, at this event seemed positive,
 The object in question was a [bust of Joseph Stalin](https://www.thingiverse.com/thing:516756), which the group printed in red. The faculty member who raised the objection is well-known for his work on Stalin’s system of forced labor camps, known as the Gulag. His most recent book on the topic features an image of Stalin on the front cover, which was displayed in the same case in which the students’ exhibition was curated. For an American student whose only experience of Stalin comes from textbooks, using this bust to represent Russia was a positive choice, because Stalin is seen in the U.S. as a strong leader who helped defeat Hitler during World War II. For the objecting faculty member, whose family has personal experience with the effects of Stalin’s policies, the bust carries entirely different connotations: genocide, violence, and turbulence. When we shared this with the entire class, the group that printed the Stalin bust maintained that they stood by their choice, and some of their classmates expressed the common sentiment that Germany is not usually characterized only by Hitler’s negative aspects, so why should Russia be characterized only by Stalin’s? We wanted to emphasize that the students were not in trouble, nor were their project grades affected, and we led them through a discussion of the ways in which their objects can be interpreted as symbols by different groups with various degrees of distance from those symbols. This discussion raised some salient points about the effect of a two-dimensional representation versus a three-dimensional representation, and (for us, at least) really drove home the point that 3D objects absolutely can bring symbols to life in new and unexpected ways.
 
 <figure>
-  ![3D-exhibit-final-product](http://scholarslab.org/wp-content/uploads/2016/05/3D-exhibit-final-product.jpg)
+  ![3D-exhibit-final-product](http://static.scholarslab.org/wp-content/uploads/2016/05/3D-exhibit-final-product.jpg)
   <figcaption>
  The finished product. Note the placement of the Stalin bust next to the book at the left.
 </figcaption>

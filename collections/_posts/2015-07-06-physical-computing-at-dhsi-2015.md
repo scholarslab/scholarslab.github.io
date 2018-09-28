@@ -34,7 +34,7 @@ So what did I make? I called it… the gloom box.
 
 
 
-[![IMG_1878](http://scholarslab.org/wp-content/uploads/2015/07/IMG_1878-300x225.jpg)](http://scholarslab.org/wp-content/uploads/2015/07/IMG_1878-e1436181481295.jpg)
+[![IMG_1878](http://static.scholarslab.org/wp-content/uploads/2015/07/IMG_1878-300x225.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/07/IMG_1878-e1436181481295.jpg)
 
 
 
@@ -49,7 +49,7 @@ Before getting into why I made this thing (box as metaphor), a little more info 
 
 
 
-[![IMG_1864](http://scholarslab.org/wp-content/uploads/2015/07/IMG_1864-e1436181168548-225x300.jpg)](http://scholarslab.org/wp-content/uploads/2015/07/IMG_1864-e1436181449114.jpg)
+[![IMG_1864](http://static.scholarslab.org/wp-content/uploads/2015/07/IMG_1864-e1436181168548-225x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/07/IMG_1864-e1436181449114.jpg)
 
 
 
@@ -64,7 +64,7 @@ Like the outside of the box, the inside is also relatively simple:
 
 
 
-[![IMG_1857](http://scholarslab.org/wp-content/uploads/2015/07/IMG_1857-e1436181405354-225x300.jpg)](http://scholarslab.org/wp-content/uploads/2015/07/IMG_1857-e1436181469118.jpg)
+[![IMG_1857](http://static.scholarslab.org/wp-content/uploads/2015/07/IMG_1857-e1436181405354-225x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/07/IMG_1857-e1436181469118.jpg)
 
 
 

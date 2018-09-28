@@ -32,7 +32,7 @@ Participants:
 **What actually happened…**
 After a fortifying breakfast of coffee and donuts, our pre-conference group proceeded to make a list of all of the questions and concerns we were stewing over in our work as scholars, teachers, librarians, and instructional technology specialists. This white board was the result:
 
-![digital scholarship white board](http://scholarslab.org/wp-content/uploads/2017/11/IMG_3495-768x1024.jpg)
+![digital scholarship white board](http://static.scholarslab.org/wp-content/uploads/2017/11/IMG_3495-768x1024.jpg)
 
 Some of these issues had to do with the intended purpose of the pre-conference – creating a guide for those interested in engaging students with digital scholarship (early concerns included: how do we scaffold or assess digital projects? What does it mean when administrators want students to have “digital literary” or “digital fluency?”) But it became immediately apparent that the interests of this group had a much wider scope.
 

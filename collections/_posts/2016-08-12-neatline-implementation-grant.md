@@ -11,7 +11,7 @@ tags:
 - neatline
 ---
 
-![Screen Shot 2016-08-11 at 4.23.37 PM](http://scholarslab.org/wp-content/uploads/2016/08/Screen-Shot-2016-08-11-at-4.23.37-PM.png)
+![Screen Shot 2016-08-11 at 4.23.37 PM](http://static.scholarslab.org/wp-content/uploads/2016/08/Screen-Shot-2016-08-11-at-4.23.37-PM.png)
 
 You may have noticed on Twitter or elsewhere that the [NEH announced funding for almost 300 humanities projects](http://www.neh.gov/news/press-release/2016-08-09). Congratulations to all!
 

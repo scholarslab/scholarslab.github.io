@@ -17,9 +17,9 @@ One way that I myself did this semester was by printing data on DC population si
 
 
 
-[![print1](http://scholarslab.org/wp-content/uploads/2015/12/print1-300x272.png)](http://scholarslab.org/wp-content/uploads/2015/12/print1.png)
+[![print1](http://static.scholarslab.org/wp-content/uploads/2015/12/print1-300x272.png)](http://static.scholarslab.org/wp-content/uploads/2015/12/print1.png)
 
-[![print2](http://scholarslab.org/wp-content/uploads/2015/12/print2-300x238.png)](http://scholarslab.org/wp-content/uploads/2015/12/print2.png)
+[![print2](http://static.scholarslab.org/wp-content/uploads/2015/12/print2-300x238.png)](http://static.scholarslab.org/wp-content/uploads/2015/12/print2.png)
 
 
 

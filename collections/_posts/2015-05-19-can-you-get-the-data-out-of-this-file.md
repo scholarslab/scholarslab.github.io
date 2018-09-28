@@ -200,7 +200,7 @@ To connect to the PostgreSQL database, you'll actually add the database as a lay
 
 
 
-[![Screen Shot 2015-05-19 at 12.56.01 PM](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.01-PM-300x144.png)](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.01-PM.png)
+[![Screen Shot 2015-05-19 at 12.56.01 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.01-PM-300x144.png)](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.01-PM.png)
 
 Under the Connections section, click on the New button.
 
@@ -211,13 +211,13 @@ Under the Connections section, click on the New button.
     </code>
 
 
-[![Screen Shot 2015-05-19 at 12.56.21 PM](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.21-PM-217x300.png)](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.21-PM.png)
+[![Screen Shot 2015-05-19 at 12.56.21 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.21-PM-217x300.png)](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.21-PM.png)
 
 
 
 Now select the tables you need and click the "Add" button.
 
-[![Screen Shot 2015-05-19 at 12.56.38 PM](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.38-PM-300x193.png)](http://scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.38-PM.png)
+[![Screen Shot 2015-05-19 at 12.56.38 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.38-PM-300x193.png)](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.38-PM.png)
 
 
 

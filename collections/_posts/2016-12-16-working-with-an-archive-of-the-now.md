@@ -18,11 +18,11 @@ We’ve centered our thinking around Twitter because at first glance, given its 
 
 The first thing we found in attempting to wrangle data from the platform is that Twitter’s API prioritizes an archive of the ‘now’. One of the ways to sample twitter data is with the R package rtweet, which allows the user to search tweets based on keywords or user data such as followers, user ‘likes’, and retweets. Because rtweet and other tools like it use Twitter’s “streaming API,” which searches for tweets as they happen, the experience is a bit like trying to sip from a firehose. A query of the name ‘Kardashian’ on a given Wednesday morning yields output like this:
 
-[![keyword kardashian](http://scholarslab.org/wp-content/uploads/2016/12/keyword-kardashian.bmp)](http://scholarslab.org/wp-content/uploads/2016/12/keyword-kardashian.bmp)
+[![keyword kardashian](http://static.scholarslab.org/wp-content/uploads/2016/12/keyword-kardashian.bmp)](http://static.scholarslab.org/wp-content/uploads/2016/12/keyword-kardashian.bmp)
 
 The CSV format allows us to view the data in a slightly more manageable format as follows:
 
-[![keyword kardashian2](http://scholarslab.org/wp-content/uploads/2016/12/keyword-kardashian2.bmp)](http://scholarslab.org/wp-content/uploads/2016/12/keyword-kardashian2.bmp)
+[![keyword kardashian2](http://static.scholarslab.org/wp-content/uploads/2016/12/keyword-kardashian2.bmp)](http://static.scholarslab.org/wp-content/uploads/2016/12/keyword-kardashian2.bmp)
 
 To be sure, there’s more we could do to clean up this data, but to what end? Using social media networks to answer our questions about celebrity culture means making a choice. It’s either the comprehensive and immense archive of ‘now’, or some more carefully and narrowly selected data set.
 

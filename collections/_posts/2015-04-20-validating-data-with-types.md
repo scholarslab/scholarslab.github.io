@@ -99,7 +99,7 @@ To validate the data, we just need to follow the same steps that we would to loa
 
 
 
-![Profit!](http://scholarslab.org/wp-content/uploads/2015/03/gnomes_plan.gif)Profit!
+![Profit!](http://static.scholarslab.org/wp-content/uploads/2015/03/gnomes_plan.gif)Profit!
 
 
 

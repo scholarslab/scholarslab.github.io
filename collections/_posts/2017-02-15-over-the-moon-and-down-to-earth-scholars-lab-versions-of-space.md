@@ -11,7 +11,7 @@ categories:
 - Makerspace
 ---
 
-![](http://static.scholarslab.org/wp-content/uploads/2015/08/IMG_03831-300x225.jpg)![GIS data](http://scholarslab.org/wp-content/uploads/2017/01/gis_data-300x236.jpeg)
+![](http://static.scholarslab.org/wp-content/uploads/2015/08/IMG_03831-300x225.jpg)![GIS data](http://static.scholarslab.org/wp-content/uploads/2017/01/gis_data-300x236.jpeg)
 
 Something about space has gone to our heads here in the Scholars' Lab.  Any day, I expect to come out of a trance to find I've been wearing a motion capture suit while I geo-referenced an historic map, programmed an arduino, flew a drone, and printed a replica of an artifact from an ancient burial site. Of course, I only imagine doing all this myself. But the interdisciplinary collaborations of Scholars' Lab staff perform this sort of spatial magic in and around the Library every day.
 
@@ -23,7 +23,7 @@ We recently welcomed **Geospatial Consultant Drew MacQueen,** who has been servi
 
 **Will Rourk and Arin Bennet** joined the Scholars' Lab team in 2016, bringing to bear their expertise in spatial research and the high-end equipment of the former DML.  They collaborate with faculty and staff in IATH, SHANTI, the Scholars' Lab, and elsewhere on cultural heritage, much of it on or near Grounds, but some as remote (or, now, accessible) as [the Tibetan capital, Lhasa.  ](https://magazine.arts.virginia.edu/stories/lhasa-vr-visualizing-the-historic-tibetan-capital)It turns out, the extended team of Scholars' Lab people participate in interrelated projects, from mapping to 3-D printing.
 
-**The Makerspace** was thriving when I arrived a year ago, organized by **Jeremy Boggs** and **Laura Miller**, and increasingly guided by **Ammon Shepherd**, with a team that includes DH dissertation fellow Shane Lin and graduate and undergraduate staff and drop-in experimenters.  (See the [Makerspace](http://scholarslab.org/makerspace/) technologists.) The tentacles of this experimentation reach far.![The Makerspace sign](http://scholarslab.org/wp-content/uploads/2014/05/makerspace5-300x168.jpg)
+**The Makerspace** was thriving when I arrived a year ago, organized by **Jeremy Boggs** and **Laura Miller**, and increasingly guided by **Ammon Shepherd**, with a team that includes DH dissertation fellow Shane Lin and graduate and undergraduate staff and drop-in experimenters.  (See the [Makerspace](http://scholarslab.org/makerspace/) technologists.) The tentacles of this experimentation reach far.![The Makerspace sign](http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace5-300x168.jpg)
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/02/DSC9814-300x200.jpg)
 

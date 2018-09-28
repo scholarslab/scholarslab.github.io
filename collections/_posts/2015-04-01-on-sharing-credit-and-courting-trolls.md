@@ -18,14 +18,14 @@ Ivanhoe grew out of a dissatisfaction: it was a dissatisfaction with limitations
 
 
 
-**![page-2](http://scholarslab.org/wp-content/uploads/2015/03/page-2-300x225.jpg)**
+**![page-2](http://static.scholarslab.org/wp-content/uploads/2015/03/page-2-300x225.jpg)**
 
 **Collaboration, Reflection, Performativity:**
 Behind this layout is a commitment to three principles: Collaboration, Reflection, and Performativity.
 
-![page-3](http://scholarslab.org/wp-content/uploads/2015/03/page-3-300x225.jpg)![page-4](http://scholarslab.org/wp-content/uploads/2015/03/page-4-300x225.jpg)![page-5](http://scholarslab.org/wp-content/uploads/2015/03/page-51-300x225.jpg)Collaboration is fundamental to the mechanics of Ivanhoe gameplay since every game involves multiple players, and is composed of responses to the central textual object and responses to fellow players. Players work together to weave a discursive web around the central text of the game, and in doing so, they draw meaning out of the subject text in relation to each others’ responses. Like collaboration, reflection too is written into the mechanics of Ivanhoe gameplay, and it is this component that best distinguishes Ivanhoe from other forms of collaborative writing (fan fiction, for example). Not only are players making “moves,” they are required to reflect on these moves through the vantage point of their role vis-a-vis the text. The primary means through which we encourage reflection during games is the requirement that all players maintain a role journal. The journal is something that is separate from the gameplay itself and allows players to reflect on the choices they made in making their moves. It provides players a space dedicated to writing about the ways that their moves relate to the character they created, and think about the ways that their moves relate to the moves of the other players. Performativiy is what sets Ivanhoe apart from other modes of methods of solitary reflection, or forums such as “comments” sections on blogs. In short, Ivanhoe requires players to have a stake in the game as their respective “role”. When players create this role for themselves at the beginning of the game, they are expected to “perform” in that role for the duration of the game. This forces them to delve deeply into the implications of a given critical perspective, a particular location and point of view. It is also what makes the Ivanhoe game fun!
+![page-3](http://static.scholarslab.org/wp-content/uploads/2015/03/page-3-300x225.jpg)![page-4](http://static.scholarslab.org/wp-content/uploads/2015/03/page-4-300x225.jpg)![page-5](http://static.scholarslab.org/wp-content/uploads/2015/03/page-51-300x225.jpg)Collaboration is fundamental to the mechanics of Ivanhoe gameplay since every game involves multiple players, and is composed of responses to the central textual object and responses to fellow players. Players work together to weave a discursive web around the central text of the game, and in doing so, they draw meaning out of the subject text in relation to each others’ responses. Like collaboration, reflection too is written into the mechanics of Ivanhoe gameplay, and it is this component that best distinguishes Ivanhoe from other forms of collaborative writing (fan fiction, for example). Not only are players making “moves,” they are required to reflect on these moves through the vantage point of their role vis-a-vis the text. The primary means through which we encourage reflection during games is the requirement that all players maintain a role journal. The journal is something that is separate from the gameplay itself and allows players to reflect on the choices they made in making their moves. It provides players a space dedicated to writing about the ways that their moves relate to the character they created, and think about the ways that their moves relate to the moves of the other players. Performativiy is what sets Ivanhoe apart from other modes of methods of solitary reflection, or forums such as “comments” sections on blogs. In short, Ivanhoe requires players to have a stake in the game as their respective “role”. When players create this role for themselves at the beginning of the game, they are expected to “perform” in that role for the duration of the game. This forces them to delve deeply into the implications of a given critical perspective, a particular location and point of view. It is also what makes the Ivanhoe game fun!
 
-**![page-6](http://scholarslab.org/wp-content/uploads/2015/03/page-6-300x225.jpg)**
+**![page-6](http://static.scholarslab.org/wp-content/uploads/2015/03/page-6-300x225.jpg)**
 
 **Next Steps:**
 
@@ -66,8 +66,8 @@ Here are some of the questions that were posed to us after the two presentations
 
 The full powerpoint slides are here:
 
-[Ivanhoe at Moving People/ Linking Lives](http://scholarslab.org/wp-content/uploads/2015/03/2015-03-21-.-presentation.-praxis.-moving-people-linking-lives.pptx)
-[Ivanhoe at Huskey Research Exhibition](http://scholarslab.org/wp-content/uploads/2015/03/2015-03-22-.-presentation.-praxis.-huskey.pptx)
+[Ivanhoe at Moving People/ Linking Lives](http://static.scholarslab.org/wp-content/uploads/2015/03/2015-03-21-.-presentation.-praxis.-moving-people-linking-lives.pptx)
+[Ivanhoe at Huskey Research Exhibition](http://static.scholarslab.org/wp-content/uploads/2015/03/2015-03-22-.-presentation.-praxis.-huskey.pptx)
 
 **My Learnings:**
 
