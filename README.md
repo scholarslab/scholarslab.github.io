@@ -29,7 +29,6 @@ Current build: http://maybe.scholarslab.org/
 	* A way to see our progress without setting up a local development environment
 	* Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
 * What this is *not*:
-	* A preview of what's *for sure* going into the new site.
 	* The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
 
 "Old" site: http://scholarslab.org
