@@ -1,9 +1,11 @@
 ---
 author: amanda-visconti
-date: 2018-11-05 06:00:00+00:00
+date: 2018-10-07 06:00:00+00:00
 layout: post
 slug: site-relaunch
 title: Website relaunch!
+categories:
+- Digital Humanities
 ---
 The website [ScholarsLab.org](http://scholarslab.org) contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site and now, as of this blog post, as a Jekyll-generated static website.
 
