@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-excerpt: "We're the UVA Library’s lab for experimental and digital research, teaching, and other forms of scholarship, open to all disciplines and anyone curious about getting their hands dirty."
+excerpt: "We're the UVA Library's lab for experimental and digital scholarship in all fields, informed by humanities and cultural heritage approaches. We offer mentoring, collaboration, and a safe space for anyone curious about learning to push disciplinary and methodological boundaries through new approaches."
 nav: true
 order: 1
 ---
@@ -20,7 +20,9 @@ order: 1
 <a href="#how-was-this-website-made">How was this website made?</a>
 
 ## What is the Scholars' Lab?
-We're the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for experimental and digital research, teaching, and other forms of scholarship, open to all disciplines and anyone curious about getting their hands dirty. 
+We're the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for experimental and digital scholarship in all fields, informed by humanities and cultural heritage approaches.
+
+We offer mentoring, collaboration, and a safe space for anyone curious about learning to push disciplinary and methodological boundaries through new approaches.
 
 We are an internationally recognized scholarly [team](/people/), with strengths including:
 - librarianship (e.g. expert consultation for experimental scholarly projects)
@@ -28,7 +30,7 @@ We are an internationally recognized scholarly [team](/people/), with strengths 
 - GIS and other spatial technologies
 - cultural heritage informatics (including scanning and modeling artifacts and historic architecture, and exploring virtual reality and augmented reality approaches to this data)
 - research and development (e.g. programming and design)
-- Makerspaces and hands-on crafting as scholarship
+- makerspaces and crafting as scholarship
 - pedagogical innovation (e.g. our long-running Praxis Program)
 
 The SLab hosts [events](/events/) (like workshops and a popular lecture series) in our [library spaces](/hours-and-spaces), and helps to train and mentor the next generation of digital humanities scholar-practitioners through our [Graduate Fellowships in Digital Humanities](/for-students) and innovative [Praxis Program](http://praxis.scholarslab.org/). We are a founding member of [centerNet](http://digitalhumanities.org/centernet/), a worldwide alliance of digital humanities centers, and of the international [Praxis Network](http://praxis-network.org/), which takes its name from our fellowship program here at UVa.
@@ -36,7 +38,7 @@ The SLab hosts [events](/events/) (like workshops and a popular lecture series) 
 We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter/).
 
 ## What academic fields do you support?
-Although we bring library and humanities skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field and regularly collaborate in almost every area on Grounds.
+Although we bring library, cultural heritage, and humanities skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field, and we regularly collaborate in almost every area on Grounds.
 
 ## Who are the scholars in "Scholars' Lab"?
 Everyone! We believe that scholarship is one part critical thinking and one part communicating the result of that thinking. Critical thinking can be accomplished through many methods, including research, writing, coding, building, designing, experimenting, play. Communicating critical thinking can take the form of traditional publishing or other forms of “making public”, teaching, sharing open source code, or any other way for your intellectual community to learn from and build on your work. When we refer to scholars, that includes anyone critically engaging with a concept: students, staff, faculty, and community members. On our website, the page that often gets titled "Projects" or "Research" or "Scholarship" on similar websites is titled "Our Work" to better reflect that our scholarship includes a broad variety of work.
@@ -85,4 +87,10 @@ For inquiries about our Makerspace, write to [slabmakerspace@virginia.edu](mailt
 For all other inquiries, write to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
 
 ## How was this website made?
-We offer a [site map](http://www.scholarslab.org/sitemap/) of this website's pages, as well as a [colophon](http://www.scholarslab.org/colophon/) documenting how this site was made.
+This website contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site (?-2018) and now a Jekyll-generated static website (2018-current).
+
+**The 2017-2018 renewal of this website** incorporates text, suggestions, and feedback from everyone on [the Scholars' Lab staff](/people). Additionally, the following folks put in significant extra effort on the site's design, coding, content, project management, and documentation: Katherine Donnally, Jeremy Boggs, Brandon Walsh, Ronda Grizzle, Laura Miller, Zoe LeBlanc, Ammon Shepherd, Shane Lin, Beth Mitchell, and Amanda Visconti.
+
+We want to especially highlight the leadership and labor of [Katherine Donnally](/people/katherine-donnally/) (Scholars' Lab DH Designer 2017-2018) in realizing this site. Katherine's thinking and work gave the renewal project a coherent focus around making the lab more accessible and supportive of folks who might not otherwise feel part of our community; in addition to design and development work, she created structures and documentation (e.g. goal and progress tracker, code commenting, analysis of the old website, articulation of the purpose of the new site) that were instrumental in both imagining the new site and seeing it to the finish line.
+
+Check out our [site relaunch blog post](/2018/10/07/site-relaunch) for more information on how and why we renewed the ScholarsLab.org website. You may also be interested in the [site map](/sitemap) listing all of this website's pages.
