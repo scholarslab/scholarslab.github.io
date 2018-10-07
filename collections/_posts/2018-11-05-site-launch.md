@@ -1,3 +1,6 @@
+---
+yamllll
+---
 This website contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site (?-2018) and now a Jekyll-generated static website (2018-current).
 
 **The 2017-2018 renewal of this website** incorporates text, suggestions, and feedback from everyone on [the Scholars' Lab staff](/people). Additionally, the following folks put in significant extra effort on the site's design, coding, content, project management, and documentation: Katherine Donnally, Jeremy Boggs, Brandon Walsh, Ronda Grizzle, Laura Miller, Zoe LeBlanc, Ammon Shepherd, Shane Lin, Beth Mitchell, and Amanda Visconti.
