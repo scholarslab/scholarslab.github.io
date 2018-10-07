@@ -10,7 +10,7 @@ The website [ScholarsLab.org](http://scholarslab.org) contains the collective ef
 # Why renew the website?
 Our previous website proclaimed at the top of the homepage: "collaborate, **iterate**, discuss". 
 
-![]()
+![](/collections/_posts/post-media/2018-11-05-iterate.png)
 
 We're a lab focused on experimental scholarship. We care more about the impact of scholarship on *people* than we do the projects we collaborate on (though those are pretty important, too). This means that accepting failure and a journey of many iterations is not just a by-product of our work, but essential to our goals. For example, we periodically renew our [lab charter](/charter), too;  as it was last updated in 2016 before some of our current staff arrived—and two years back in the experiences of all our staff—we'll be renewing that soon, too.
 
