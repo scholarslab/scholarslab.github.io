@@ -26,6 +26,7 @@ We offer mentoring, collaboration, and a safe space for anyone curious about lea
 
 We are an internationally recognized scholarly [team](/people/), with strengths including:
 - librarianship (e.g. expert consultation for experimental scholarly projects)
+- the scholarship of DH pedagogy and mentorship, practiced with our 41-55 formally supported students each year (plus additional, informal support of students via consultation and public programming)
 - the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
 - GIS and other spatial technologies
 - cultural heritage informatics (including scanning and modeling artifacts and historic architecture, and exploring virtual reality and augmented reality approaches to this data)
@@ -53,7 +54,7 @@ Check out our [people](/people/) page for current staff, fellows, and alums.
   - Our team consists of folks with years of scholarly experience and/or graduate degrees. With at least a semester's notice we might collaborate on syllabus design, and after longer relationships collaborate on formal course co-teaching. 
   - Faculty who seek support for digital assignments in their courses or short-term tech instruction should begin with their subject librarian, well in advance. They can additionally connect you with the Library's experts in copyright, data organization (metadata), digital project preservation, research data, and teaching and learning. We recommend consultation with the A&S Learning Design and Technology staff.
 3. **The scholarship of service**: Most of our time for in-depth work and collaboration is allotted to:
-  - Our 20 graduate and undergraduate fellows and 10 student research assistants, as the scholarship of DH mentoring and teaching
+  - The 41-55 students we formally support each year, as the scholarship of DH mentoring and teaching
   - Internal research supporting DH scholarship, such as building our Neatline tool for critical storytelling in time and space
   - Collaborations with other UVA Library colleagues toward supporting the Library's mission (e.g. piloting future library digital services, building websites to preserve the record of major campus events)
   - We publicize other opportunities through a newsletter. We bring DH speakers to Grounds and host DH events, teach workshop series, sponsor student- and faculty-run events, teach workshops, and hold regular Open Office Hours anyone can join.
