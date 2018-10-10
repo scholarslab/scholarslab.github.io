@@ -60,11 +60,13 @@ Check out our [people](/people/) page for current staff, fellows, and alums.
 3. **The scholarship of service**: Most of our time for in-depth work and collaboration is allotted to:
   - The 41-55 students we formally support each year, as the scholarship of DH mentoring and teaching
   - Internal research supporting DH scholarship, such as building our Neatline tool for critical storytelling in time and space
-  - Collaborations with other UVA Library colleagues toward supporting the Library's mission (e.g. piloting future library digital services, building websites to preserve the record of major campus events)
-  - We publicize other opportunities through a newsletter. We bring DH speakers to Grounds and host DH events, teach workshop series, sponsor student- and faculty-run events, teach workshops, and hold regular Open Office Hours anyone can join.
+  - Collaborations with other UVA Library colleagues toward supporting the Library's mission (e.g. piloting future library digital services, building websites to preserve the record of major campus events)  
+We publicize other opportunities through a newsletter. We bring DH speakers to Grounds and host DH events, teach workshop series, sponsor student- and faculty-run events, teach workshops, and hold regular Open Office Hours anyone can join.
 
 ## Can you build me a thing?
-In general, we do not provide design, web development, or technical support. We enjoy building things _with_ people (e.g. as peer scholars and co-PIs on grant proposals), but we do not build things _for_ people. We do our best to help out folks stuck on a DH technical question during our regular Open Office Hours, and are happy to refer to expertise and facilities around the University (e.g. Data Sciences Institute, SHANTI, IATH).  
+In general, we do not provide design, web development, or technical support. We enjoy building things _with_ people (e.g. as collaborators, peer scholars, and co-PIs on grant proposals), but we do not build things _for_ people.
+
+We do our best to help out folks stuck on a DH technical question during our regular Open Office Hours, and are happy to refer to expertise and facilities around the University (e.g. Data Sciences Institute, SHANTI, IATH).  
 
 ## Can we collaborate?
 Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties. [Contact us](mailto:scholarslab@virginia.edu) for an initial consult to discuss ideas for longer-term collaborations, such as working as co-PIs on a grant project.
