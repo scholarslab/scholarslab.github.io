@@ -52,7 +52,7 @@ Check out our [people](/people/) page for current staff, fellows, and alums.
 - connect you to resources for self-teaching and networking at UVA and internationally; and/or  
 - review ongoing work, such as critiquing your design and code.
 
-2. **Collaboration**: As scholars in the experimental and digital humanities, we also have (limited availability) for more in-depth research or pedagogical collaborations with other UVA scholars:
+2. **Collaboration**: As scholars in the experimental and digital humanities, we also have (limited) availability for more in-depth research or pedagogical collaborations with other UVA scholars:
   - We enjoy building things _with_ people (e.g. as peer scholars and co-PIs on grant proposals), but we do not build things _for_ people. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties.
   - We do our best to help out folks stuck on a DH technical question during our regular Open Office Hours, and are happy to refer to expertise and facilities around the University (e.g. Data Sciences Institute, SHANTI, IATH).  In general we do not provide design, web development, or technical support.
   - Our team consists of folks with years of scholarly experience and/or graduate degrees. With at least a semester's notice we might collaborate on syllabus design, and after longer relationships collaborate on formal course co-teaching. 
