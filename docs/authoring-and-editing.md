@@ -2,14 +2,17 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
 
 ## Tutorial difficulty level
 
-This tutorial is appropriate for folks interested in understanding how the Scholars' Lab website works. You'll learn some new terms and get familiar with the GitHub.com interface; this will not involve using the command line nor understanding git beyond the ideas of branching (making a copy of a set of code, so that you can play around with it without impacting other folks' use of that code) and merging (once you've made changes you're happy with, adding those back to the main set of code so that others can see/use your work).
+This tutorial is appropriate for folks interested in understanding how the Scholars' Lab website works. You'll learn some new terms and get familiar with the GitHub.com interface; you will *not* need to use the command line nor understand git, beyond two basic ideas we'll explain thoroughly:
 
-If this workflow doesn't work for you, there are two simpler options:
+- branching (making a copy of a set of code, so that you can play around with it without impacting other folks' use of that code)
+- merging (once you've made changes you're happy with, adding those back to the main set of code so that others can see/use your work)
 
-1. Simply email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to TBD, and they'll post your content for you.
+If the workflow in this lesson doesn't work for your needs, there are two simpler options for authoring blog posts on SLab.org:
+
+1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to TBD, and they'll post your content for you.
 2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let TBD know when you're finished, and they'll post your content for you.
 
-Already comfortable with the command line and git? You may prefer to switch to [this tutorial](/docs/git-authoring-and-editing) for doing your authoring/editing of the site locally; this tutorial instead allows you to do everything from the GitHub.com interface.)
+Already comfortable with the command line and git? You may prefer to switch to [this tutorial](/docs/git-authoring-and-editing) for doing your authoring/editing of the site locally; this tutorial instead allows you to do everything from the GitHub.com interface.
 
 ## Let's get started!
 
@@ -19,8 +22,8 @@ There are **two main steps** to authoring/editing on our website:
 
 (*A third review step may be added here, when we've finalized our editorial guidelines and process.*)
 
-# 1. Branch and write/edit!
-## Branch
+## 1. Branch and write/edit!
+### Branch
 
 A repo is a collection of code, and this repo in particular is the place on GitHub.com where we store all the files that make up the SLab.org website.
 
@@ -56,10 +59,16 @@ The page will reload, and you'll notice a few changes:
 
 Now you are on a branch—a parrallel universe of sorts!—where you can work without affecting the main state of the project (in this case, the SLab.org website). You're ready to do one of the following (click to jump to that part of the tutorial): [create a new post](#add-a-new-post), [create a new page](#add-a-new-page), or [edit an existing post or page](#edit-existing-content).
 
-## Add new content
+### Add new content
 
-### Add a new blog post
+#### Add a new blog post
 make new post where
+
+![docs-nav-to-collections](/docs/docs-images/docs-nav-to-collections.png)
+
+![docs-nav-to-posts](/docs/docs-images/docs-nav-to-posts.png)
+
+![docs-create-new-post](/docs/docs-images/docs-create-new-post.png)
 
 GDoc template
 
@@ -76,7 +85,7 @@ commit message: When you make a git commit, it's useful to always provide a mess
 check your work on github repo page (not as it will look on live site)
 move to [step 2](#move-your-writing-to-the-main-repo!)
 
-### Add a new page
+#### Add a new page
 
 make new page where
 
@@ -88,13 +97,13 @@ commit message: When you make a git commit, it's useful to always provide a mess
 check your work on github repo page (not as it will look on live site)
 move to [step 2](#move-your-writing-to-the-main-repo!)
 
-### Embedding media (photos, GIFs, videos...)
+#### Embedding media (photos, GIFs, videos...)
 
 Where to store media? any size, naming, file type conventions?
 
 For other kinds of gettin' fancy with format (adding hyperlinks, embedding videos, bulleted lists, bolding and italics...) see [our Markdown cheatsheet below](#cheatsheet##markdown).
 
-## Edit existing content
+### Edit existing content
 
 Where's the file I want?
 
@@ -102,18 +111,18 @@ Where's the file I want?
 
 How do I edit it?
 
-# 2. Move your writing to the main repo!
+## 2. Move your writing to the main repo!
 
 Watch out—the page might initially show you there are no conflicts and it's okay to press that green merge button. But wait! There's one set of checks that won't appear for a few extra seconds than you'd probably think to wait before merging—up to a slow count of 30. Watch this GIF to know what to expect:
 ![Wait for Travis check to complete when doing a PR](docs-images/PR-wait-for-travis.gif)
 
-# Editorial process
+## Editorial process
 
 (*A third step will be added here, when we've finalized our editorial guidelines and process.*)
 
-# Cheatsheet
+## Cheatsheet
 
-## Concise set of steps
+### Concise set of steps
 For folks who've read the longer explanations above already and just want a checklist.
 
 1. Create branch
@@ -122,7 +131,7 @@ For folks who've read the longer explanations above already and just want a chec
 4. Review
 5. Merge
 
-## Commonly used terms:
+### Commonly used terms:
 Repo (aka repository):
 
 Branch:
@@ -139,14 +148,14 @@ Syntax =
 Markdown / .md =
 YAML, front matter, and metadata =
 
-## Markdown
+### Markdown
 [This full cheatsheet](https://daringfireball.net/projects/markdown/syntax) for Markdown syntax offers everything you might need, while John Gruber's own site offers a good [discussion of the how/why of markdown](https://daringfireball.net/projects/markdown/).
 
 Although you can write Markdown in any plain text editor, you may enjoy using a Markdown-specific app such as [Typora](https://typora.io/) (currently free!). In addition to providing menu items and keyboard shortcuts to do different kinds of Markdown formatting you may not want to memorize, the key advantage is that a Markdown editor lets you see how the final, formatted text will look as you're writing it.
 
 Below are a few frequently used kinds of Markdown that you're likely to encounter while working on the site:
 
-### Links 
+#### Links 
 In markdown, a link consists of the text for the link within bracks and the actual web hyperlink itself within parentheses. Remember not to leave a space between the two pieces.
 
 \[Look a link!\](http://scholarslab.org)
@@ -157,7 +166,7 @@ renders as
 
 Remember to include http(s) if you're not linking to something internal to the Scholars' Lab website.
 
-### Embed images
+#### Embed images
 An image looks exactly like a link, except with an exclamation point at the front. The parentheses provide the path to your image, while the brackets denote the image's alt text. 
 
 !\[A good dog\](/assets/img/people/scholarslab.png)
@@ -166,7 +175,7 @@ will render as
 
 ![A good dog](/assets/img/people/scholarslab.png)
 
-### Bold
+#### Bold
 
 Bold can be added to your text with pairs of asterices on either side of the passage you want bold.
 
@@ -176,7 +185,7 @@ Will render as
 
 **Scholars' Lab is great**
 
-### Italic
+#### Italic
 
 You can italicize your text with an underscore on either side of the passage to be italicized.
 
@@ -186,7 +195,7 @@ Will render as
 
 Have you seen that _dog_ though?
 
-### Bulleted lists
+#### Bulleted lists
 
 You can create an unordered list with a series of dashes or asterices, each on their own line and followed by a space.
 
@@ -200,7 +209,7 @@ Renders as
 - You know what is better?
 - A list of dogs.
 
-### Numbered lists
+#### Numbered lists
 
 Numbered lists work in a similar way to bulleted lists, but you'll begin each line with a number, a period, and a space. The numbers themselves actually don't matter - markdown will simply recognize that you're starting a numbered list and count for you.
 
@@ -219,7 +228,7 @@ Will render as
 3. Jeremy
 2. Laura
 
-### Headings
+#### Headings
 
 To achieve different levels of bolded headings in a document, you make use of a varying number of hashtags followed by a space on a single line. For example:
 
@@ -233,7 +242,7 @@ will render as...
 
 (insert screenshot)
 
-### What comes next?
+## What comes next?
 
 If you got stuck on any part of this tutorial, please let Amanda know so she can improve this text (if you ran into a problem, others will run into the same one...).
 
