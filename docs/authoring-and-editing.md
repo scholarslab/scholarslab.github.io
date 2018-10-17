@@ -2,10 +2,11 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
 
 ## Tutorial difficulty level
 
-This tutorial is appropriate for folks interested in understanding how the Scholars' Lab website works. You'll learn some new terms and get familiar with the GitHub.com interface; you will *not* need to use the command line nor understand git, beyond two basic ideas we'll explain thoroughly:
+This tutorial is appropriate for folks interested in understanding how the Scholars' Lab website works. You'll need prior experience browsing the Web, but no other specialized skills. 
 
-- branching (making a copy of a set of code, so that you can play around with it without impacting other folks' use of that code)
-- merging (once you've made changes you're happy with, adding those back to the main set of code so that others can see/use your work)
+We tried to make this tutorial very detailed, marking actual do-something-now steps as items in a numbered list, and text explaining why you're doing these steps formatted as normal paragraphs; we also included regular screenshots, so you can compare what you're seeing with what the lesson thinks you should be seeing. (And there's a [handy cheatsheet version](#cheatsheet), for once you've read through the details and just need a reference guide.) Whether learning these skills will feel comfortable and/or worthwhile to you, is particular to each person's experiences and interests. What we can tell you is that the steps in this tutorial are "straightforward"—that is, there are very few choices you need to make as you work through this lesson.
+
+You'll learn some new terms and get familiar with the GitHub.com interface. You will *not* need to use the command line nor understand git/versioning. (We'll discuss two versioning concepts briefly, but you will not need to understand these to use this tutorial.)
 
 If the workflow in this lesson doesn't work for your needs, there are two simpler options for authoring blog posts on SLab.org:
 
@@ -17,8 +18,8 @@ Already comfortable with the command line and git? You may prefer to switch to [
 ## Let's get started!
 
 There are **two main steps** to authoring/editing on our website:
-1. **Create a new "branch", and create/edit your post/page there.** (A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work.) [Instructions here](#branch-and-write/edit).
-2. **Move your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The main website is the same thing as the "master" branch (it's just the branch—aka copy of the website files—from which we've told the live website to get its data).  [Instructions here](#move-your-writing-to-the-main-repo!).
+1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#branch-and-write/edit).
+2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is just the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo!).
 
 (*A third review step may be added here, when we've finalized our editorial guidelines and process.*)
 
@@ -62,19 +63,48 @@ Now you are on a branch—a parrallel universe of sorts!—where you can work wi
 ### Add new content
 
 #### Add a new blog post
-make new post where
+After creating and switching [to a new branch](#branch), we'll navigate to the folder that holds blog posts, then create a new blog post file there.
+
+1. Click on the "collections" link in the list of files (should be near the bottom left of your browser window). 
+
+This navigates you into where we keep "collections" of similar files for the website, such as event info and the biographical file for each current and former SLab affiliate. Notice in the upper-left corner that we're still in our new henry-blog-takeover branch.
 
 ![docs-nav-to-collections](/docs/docs-images/docs-nav-to-collections.png)
 
+2. Click on the "_posts" link in the list of files (should be near the mid left of your browser window). 
+
+This is the folder where we keep all the blog posts.
+
 ![docs-nav-to-posts](/docs/docs-images/docs-nav-to-posts.png)
+
+3. In the upper-right quarter of the page, click on the grey "Create new file" button.
 
 ![docs-create-new-post](/docs/docs-images/docs-create-new-post.png)
 
-GDoc template
+We now see a text editor for creating a new post! 
 
-scheduling? (when should it be published?)
-workflow for sharing publicly (Twitter, newsletter, UVA Library SLab channel)
-YAML
+![docs-new-post-empty](/docs/docs-images/docs-new-post-empty.png)
+
+We'll start by giving our post a filename Jekyll understands.
+
+4. In the text field near the top middle of the screen (see screenshot below), type in a filename matching our restrictions, then press enter:
+
+- The filename needs to start with the date, using the format YYYY-MM-DD, e.g. 2018-10-17. Note that the year comes first; hyphens separate the year, month, and day; and that dates with leading zeroes (e.g. 2018-02-05) need to include those zeroes.
+- After the formatted date and an ending hyphen, a short (1-5 word) "slug", with any spaces replaced with hyphens. This is going to be part of the URL for your finished post, so something that summarizes your title or otherwise briefly refers to what your post is about is good. 
+- End the file name with **.md**, which is the file ending for Markdown files (we'll be using [Markdown formatting](#markdown) to format our posts... more on that below!)
+- In our example, the date is **2018-10-16**, the slug is **henry-rulez**, and putting it all together gives us a filename of **2018-10-16-henry-rulez.md**
+
+![docs-new-post-empty-filename](/docs/docs-images/docs-new-post-empty-filename.png)
+
+Now we're ready to write our post. Before we write our content, though, we need to put some text at the top that helps Jekyll know how to display, sort, and otherwise deal with our post. This post metadata is called "front matter" (cuz it's at the front of the file); it's also sometimes referred to as YAML ("yeah-mole"), which seriously stands for Yet Another Markup Language and is the language the front matter uses.
+
+5. Paste in and customize the post's front matter.
+
+You can copy the front matter (and some handy markdown formatting examples) from [this GoogleDoc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing). An explanation of the front matter follows:
+
+
+
+
 ​	author: firstname-lastname
 ​	date: YYYY-MM-DD HH:MM:SS+0:00
 ​	layout: post
@@ -86,6 +116,8 @@ check your work on github repo page (not as it will look on live site)
 move to [step 2](#move-your-writing-to-the-main-repo!)
 
 #### Add a new page
+
+After creating and switching [to a new branch](#branch),
 
 make new page where
 
@@ -104,6 +136,8 @@ Where to store media? any size, naming, file type conventions?
 For other kinds of gettin' fancy with format (adding hyperlinks, embedding videos, bulleted lists, bolding and italics...) see [our Markdown cheatsheet below](#cheatsheet##markdown).
 
 ### Edit existing content
+
+After creating and switching [to a new branch](#branch),
 
 Where's the file I want?
 
