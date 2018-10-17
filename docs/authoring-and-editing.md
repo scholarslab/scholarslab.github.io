@@ -100,17 +100,22 @@ Now we're ready to write our post. Before we write our content, though, we need 
 
 5. Paste in and customize the post's front matter.
 
-You can copy the front matter (and some handy markdown formatting examples) from [this GoogleDoc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing). An explanation of the front matter follows:
+You can copy the front matter (and some handy markdown formatting examples) from [this GoogleDoc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing). An example of post front matter and explanation of the of each line follows:
 
+```markdown
+---
+author: firstname-lastname
+date: 2018-10-16 01:00:00+00:00
+layout: post
+slug: henry-hacked-slab
+title: "10 Reasons Henry Rules: A Digital Humanities Blessay"
+categories:
+- Digital Humanities
+---
+```
 
+HUMANS MUST EXPLAIN
 
-
-​	author: firstname-lastname
-​	date: YYYY-MM-DD HH:MM:SS+0:00
-​	layout: post
-​	slug: title-words-go-here
-​	title: 'title'
-​	categories: [always blank]
 commit message: When you make a git commit, it's useful to always provide a message describing what it is you are committing. That way, people looking at the log files can easily see at a glance who made what changes. Finally, git push takes your local commits and adds them to the public record on GitHub.
 check your work on github repo page (not as it will look on live site)
 move to [step 2](#move-your-writing-to-the-main-repo!)
