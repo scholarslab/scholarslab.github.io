@@ -8,6 +8,8 @@ We tried to make this tutorial very detailed, marking actual do-something-now st
 
 You'll learn some new terms and get familiar with the GitHub.com interface. You will *not* need to use the command line nor understand git/versioning. (We'll discuss two versioning concepts briefly, but you will not need to understand these to use this tutorial.)
 
+We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. The one thing you should exercise mild caution about is: when drafting a new post or page on GitHub.com, you might lose your work if your computer restarts or you close that browser tab, without having committed ("saved") your work since you last added/edited text. We cover how to avoid that in the tutorial below, and it shouldn't be a huge concern—we hope that knowing up front what mistakes can happen, will help us be more comfortable with learning things by trial and non-ruinious error.
+
 If the workflow in this lesson doesn't work for your needs, there are two simpler options for authoring blog posts on SLab.org:
 
 1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to TBD, and they'll post your content for you.
@@ -123,36 +125,25 @@ categories:
 The first line of the post and the line after the last line of front matter should each just contain three hyphens: `---`
 
 - **author:** 
-
-- - Your sluggified name (firstname-lastname, keep the hyphen between)
+  - Your sluggified name (firstname-lastname, keep the hyphen between)
   - For example, alison-booth or shane-lin
   - This must match the biographical file the site has for you (if you're not sure what this is because you have multiple ways of writing your name, [check here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people)). If you want to change the name shown as the author of your post on the website (to a new name, nickname, etc.), please contact someone on the R&D team and they'll update your biographical file or show you how. Using a name other than the firstname-lastname [listed here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people) will break things.
-
 - **date:**
-
-- - The date the post is to be listed as published, using the YYYY-MM-DD  01:00:00+00:00 format, e.g. 2018-10-17 01:00:00+00:00. Note that the year comes first; hyphens separate the year, month, and day, followed by a space and then time info. 
+  - The date the post is to be listed as published, using the YYYY-MM-DD  01:00:00+00:00 format, e.g. 2018-10-17 01:00:00+00:00. Note that the year comes first; hyphens separate the year, month, and day, followed by a space and then time info. 
   - Dates with leading zeros (e.g. 2018-02-05) need to include those zeros.
   - This is just when the post will say it was published, in the URL and in the page metadata. Currently, it does not have anything to do when the post actually goes live on our website.
   - Unless you care about the exact time of day the post is listed as published, just leave the  01:00:00+00:00 part as is. If you do care, I think that may be in UTC rather than EST?
-
 - Leave **layout: post** as is
-
-- - This tells the site to use our standard template for laying out a blog post
-
+  - This tells the site to use our standard template for laying out a blog post
 - **slug:**
-
-- - The slug is the bit that goes after scholarslab.org/YYYY/MM/DD/ in the URL for your new post, with the date filled in from what you wrote above.
+  - The slug is the bit that goes after scholarslab.org/YYYY/MM/DD/ in the URL for your new post, with the date filled in from what you wrote above.
   - The slug should be short (preferably 1-3 words) and refer to the post's title and/or content. 
   - Past post slugs include transcription-is-complicated, site-relaunch, and music-theory-in-ruby—you have a sense of what's in these posts from reading these slugs, and they don't include a bunch of words that don't add to that info.
-
 - **title:**
-
-- - The title of your blog post, e.g. "Teaching Black Arts Poetry and Computational Methods"
+  - The title of your blog post, e.g. "Teaching Black Arts Poetry and Computational Methods"
   - Put quotation marks around your title—this keeps the site from breaking when your title includes things like colons
-
 - **categories:**
-
-- - Always leave the Digital Humanities category as is (unless your post really isn't at all DHy)
+  - Always leave the Digital Humanities category as is (unless your post really isn't at all DHy)
   - Delete the entire line (hyphen, space, category name) for categories that don't apply to your post
   - In addition to allowing us to filter posts by category (e.g. all our job announcements in one place), category is used in the visual design of a post
 
@@ -176,7 +167,7 @@ The **larger text box** ("Add an optional extended description...") gives you mo
 
 When changing code or editing existing webpages, writing a commit message helps people looking at the log files can easily see at a glance who made what changes. These messages will be part of the public record of the repo on GitHub, so don't write anything you wouldn't want seen publicly.
 
-![docs-commit-area-empty](/Volumes/Vault101/Documents/GitHubGeneral/scholarslab.org/docs/docs-images/docs-commit-area-empty.png)
+![docs-commit-area-empty](/docs/docs-images/docs-commit-area-empty.png)
 
 8. Two choices! 
    1. If you want to do more work on your blog post after saving (right away, or some time way in the future), leave the radio buttons as-is and click the green "Commit new file" button and read on.
@@ -186,6 +177,9 @@ STILL GOTTA WRITE:
 
 steps & screenshot for after pressing "commit new file"
 checking your work on github repo page (not as it will look on live site)
+
+ALERT on saving: text editor window kept my text after sleeping computer with tab left open overnight; but closing tab, restarting computer could lose your text. Commit when you'd save, or draft elsewhere and paste final text in when ready to publish. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. The one thing you should exercise mild caution about is: when drafting a new post or page on GitHub.com, you might lose your work if your computer restarts or you close that browser tab, without having committed ("saved") your work since you last added/edited text. It shouldn't be a huge concern—we hope that knowing up front what mistakes can happen, will help us be more comfortable with learning things by trial and non-ruinious error.
+
 When done authoring, move to [step 2](#move-your-writing-to-the-main-repo!)
 
 #### Add a new page
@@ -201,6 +195,8 @@ YAML
 commit message: When you make a git commit, it's useful to always provide a message describing what it is you are committing. That way, people looking at the log files can easily see at a glance who made what changes. Finally, git push takes your local commits and adds them to the public record on GitHub.
 check your work on github repo page (not as it will look on live site)
 move to [step 2](#move-your-writing-to-the-main-repo!)
+
+ALERT on saving: text editor window kept my text after sleeping computer with tab left open overnight; but closing tab, restarting computer could lose your text. Commit when you'd save, or draft elsewhere and paste final text in when ready to publish. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. The one thing you should exercise mild caution about is: when drafting a new post or page on GitHub.com, you might lose your work if your computer restarts or you close that browser tab, without having committed ("saved") your work since you last added/edited text. It shouldn't be a huge concern—we hope that knowing up front what mistakes can happen, will help us be more comfortable with learning things by trial and non-ruinious error.
 
 #### Embedding media (photos, GIFs, videos...)
 
@@ -218,10 +214,16 @@ Where's the file I want?
 
 How do I edit it?
 
+ALERT on saving: text editor window kept my text after sleeping computer with tab left open overnight; but closing tab, restarting computer could lose your text. Commit when you'd save, or draft elsewhere and paste final text in when ready to publish. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. The one thing you should exercise mild caution about is: when drafting a new post or page on GitHub.com, you might lose your work if your computer restarts or you close that browser tab, without having committed ("saved") your work since you last added/edited text. It shouldn't be a huge concern—we hope that knowing up front what mistakes can happen, will help us be more comfortable with learning things by trial and non-ruinious error.
+
 ## 2. Move your writing to the main repo!
 
+Define: Merging, commits, PRs, review, closing branch
+
+Wait up to 10 minutes to see your work on the live site
+
 Watch out—the page might initially show you there are no conflicts and it's okay to press that green merge button. But wait! There's one set of checks that won't appear for a few extra seconds than you'd probably think to wait before merging—up to a slow count of 30. Watch this GIF to know what to expect:
-![Wait for Travis check to complete when doing a PR](docs-images/PR-wait-for-travis.gif)
+![Wait for Travis check to complete when doing a PR](/docs-images/PR-wait-for-travis.gif)
 
 ## Editorial process
 
@@ -232,11 +234,12 @@ Watch out—the page might initially show you there are no conflicts and it's ok
 ### Concise set of steps
 For folks who've read the longer explanations above already and just want a checklist.
 
-1. Create branch
-2. New file or edit existing file
+1. Create new branch & switch into that branch
+2. Create new file or edit existing file
 3. Pull request
 4. Review
 5. Merge
+6. Wait up to 10 minutes to see your work on the live site
 
 ### Commonly used terms:
 Repo (aka repository):
@@ -246,6 +249,14 @@ Branch:
 Master (aka master branch)
 
 Dev(elopment) vs. production site =
+
+Command line
+
+GitHub vs git
+
+git vs versioning
+
+hosting on GitHub Pages
 
 Conflicts:
 Tests:
