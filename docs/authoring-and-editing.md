@@ -100,7 +100,7 @@ Now we're ready to write our post. Before we write our content, though, we need 
 
 5. Paste in and customize the post's front matter.
 
-You can copy the front matter (and some handy markdown formatting examples) from [this GoogleDoc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing). An example of post front matter and explanation of the of each line follows:
+You can copy the front matter from [this GoogleDoc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) (which also uses color highlighting to ID which things you can customize, and which you *must* customize). An example of post front matter and explanation of each line follows:
 
 ```markdown
 ---
@@ -111,14 +111,82 @@ slug: henry-hacked-slab
 title: "10 Reasons Henry Rules: A Digital Humanities Blessay"
 categories:
 - Digital Humanities
+- Research and Development
+- Announcements
+- Job Announcements
+- Makerspace
+- Grad Student Research
+- Podcasts
 ---
 ```
 
-HUMANS MUST EXPLAIN
+The first line of the post and the line after the last line of front matter should each just contain three hyphens: `---`
 
-commit message: When you make a git commit, it's useful to always provide a message describing what it is you are committing. That way, people looking at the log files can easily see at a glance who made what changes. Finally, git push takes your local commits and adds them to the public record on GitHub.
-check your work on github repo page (not as it will look on live site)
-move to [step 2](#move-your-writing-to-the-main-repo!)
+- **author:** 
+
+- - Your sluggified name (firstname-lastname, keep the hyphen between)
+  - For example, alison-booth or shane-lin
+  - This must match the biographical file the site has for you (if you're not sure what this is because you have multiple ways of writing your name, [check here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people)). If you want to change the name shown as the author of your post on the website (to a new name, nickname, etc.), please contact someone on the R&D team and they'll update your biographical file or show you how. Using a name other than the firstname-lastname [listed here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people) will break things.
+
+- **date:**
+
+- - The date the post is to be listed as published, using the YYYY-MM-DD  01:00:00+00:00 format, e.g. 2018-10-17 01:00:00+00:00. Note that the year comes first; hyphens separate the year, month, and day, followed by a space and then time info. 
+  - Dates with leading zeros (e.g. 2018-02-05) need to include those zeros.
+  - This is just when the post will say it was published, in the URL and in the page metadata. Currently, it does not have anything to do when the post actually goes live on our website.
+  - Unless you care about the exact time of day the post is listed as published, just leave the  01:00:00+00:00 part as is. If you do care, I think that may be in UTC rather than EST?
+
+- Leave **layout: post** as is
+
+- - This tells the site to use our standard template for laying out a blog post
+
+- **slug:**
+
+- - The slug is the bit that goes after scholarslab.org/YYYY/MM/DD/ in the URL for your new post, with the date filled in from what you wrote above.
+  - The slug should be short (preferably 1-3 words) and refer to the post's title and/or content. 
+  - Past post slugs include transcription-is-complicated, site-relaunch, and music-theory-in-ruby—you have a sense of what's in these posts from reading these slugs, and they don't include a bunch of words that don't add to that info.
+
+- **title:**
+
+- - The title of your blog post, e.g. "Teaching Black Arts Poetry and Computational Methods"
+  - Put quotation marks around your title—this keeps the site from breaking when your title includes things like colons
+
+- **categories:**
+
+- - Always leave the Digital Humanities category as is (unless your post really isn't at all DHy)
+  - Delete the entire line (hyphen, space, category name) for categories that don't apply to your post
+  - In addition to allowing us to filter posts by category (e.g. all our job announcements in one place), category is used in the visual design of a post
+
+![docs-post-yaml-example](/docs/docs-images/docs-post-yaml-example.png)
+
+6. Once you've got your front matter added, you can start writing your post on the line below the final front matter `---`. 
+
+There are some formatting examples at the bottom of [the post template Doc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing), or you can check out our [Markdown formatting cheatsheet](#markdown) below.
+
+You can click on the "No wrap" dropdown in the upperish right to select "Soft wrap", which will make your text continue to the next line when it reaches the right margin, instead of extending right forever until you hit return/move to a new line.
+
+![docs-post-body-wrapping](/docs/docs-images/docs-post-body-wrapping.png)
+
+7. Scroll all the way down the page to see the commit area—this is git's version of "save". 
+
+Once you commit, what you've written is hypothetically publicly visible (to anyone who thinks to visit our repo, switch to your particular branch, and look at your commits).
+
+The **first text field** is a place to write a short description to remind you and inform others about what changes you made to the code (in our case, to your new blog post). The field will make you stop typing if you attempt to go over the character limit. If you're writing or editing a new blog post, **I recommend you type nothing here**; that accepts the grey default text already in the field ("Create 2018-10-16-henry-rulez.md" in the screenshot) as your commit message. 
+
+The **larger text box** ("Add an optional extended description...") gives you more space to explain what the code you're committing (saving) does. If you were making changes to the website's code that others needed to understand, adding text here to explain your changes would be useful, but you can **ignore it** when you're authoring a new blog post.
+
+When changing code or editing existing webpages, writing a commit message helps people looking at the log files can easily see at a glance who made what changes. These messages will be part of the public record of the repo on GitHub, so don't write anything you wouldn't want seen publicly.
+
+![docs-commit-area-empty](/Volumes/Vault101/Documents/GitHubGeneral/scholarslab.org/docs/docs-images/docs-commit-area-empty.png)
+
+8. Two choices! 
+   1. If you want to do more work on your blog post after saving (right away, or some time way in the future), leave the radio buttons as-is and click the green "Commit new file" button and read on.
+   2. If you're Totally Ready to Publish your new blog post, instead switch the radio button to "Create a new branch for this commit and start a pull request", leave the text field that appears as-is, and click the green "Propose new file" button. [Jump down this tutorial to Section 2]((#move-your-writing-to-the-main-repo!)), which covers what to do next now that you're ready to publish.
+
+STILL GOTTA WRITE:
+
+steps & screenshot for after pressing "commit new file"
+checking your work on github repo page (not as it will look on live site)
+When done authoring, move to [step 2](#move-your-writing-to-the-main-repo!)
 
 #### Add a new page
 
