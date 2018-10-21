@@ -30,7 +30,7 @@ There are **two main steps** to authoring/editing on our website:
 1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#branch-and-write/edit).
 2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is just the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo!).
 
-(*A third review step may be added here, when we've finalized our editorial guidelines and process: reviewing; approving; workflow for publicity e.g. Twitter, newsletter, UVA Library SLab channel inclusion; info on what the different files/folders in a Jekyll directory do, and where to find the thing you need to edit: pages, front page, includes, data files.*)
+(*A third review step may be added here, when we've finalized our editorial guidelines and process. See [this GitHub issue](https://github.com/scholarslab/scholarslab.org/issues/511) to volunteer work on this.*)
 
 ## 1. Branch and write/edit!
 ### Branch
@@ -241,12 +241,61 @@ If you hover over the pencil icon, you'll see the words "edit this file" appear.
 
 ## 2. Move your writing to the main repo!
 
-Define: Merging, commits, PRs, review, closing branch
+Our very first step was creating a new branch to do this work in, so that our work happens separately from other changes folks might want to make to the site at the same time. Now you've committed some change to our code: either creating a new post or page file, or editing an existing one. In this final step, we'll incorporate your work back into the master branch, so your changes show up on our live website.
 
-Wait up to 10 minutes to see your work on the live site
+Some terminology:
 
-Watch out—the page might initially show you there are no conflicts and it's okay to press that green merge button. But wait! There's one set of checks that won't appear for a few extra seconds than you'd probably think to wait before merging—up to a slow count of 30. Watch this GIF to know what to expect:
-![Wait for Travis check to complete when doing a PR](/docs-images/PR-wait-for-travis.gif)
+- **Merging:** Taking two sets of code (that already have some shared code/text between them, e.g. our master branch and the duplicated then altered branch we created), and combining these into one set of updated code. 
+  - Our workflow for posts and pages is pretty straightforward: we duplicated the master branch of our website code, made some changes to the code in a separate branch, and now we're going to move your changes into the master branch. For repos where multiple people are changing the code at any time, sometimes working from branches of the code duplicated when the repo was in different states of progress, this is a much more complicated process.
+- **Pull request, aka PR:** Asking that the changes you've made in your branch be "pulled" (moved) into the master branch. 
+  - Our repo's pull request process runs two "checks" or "tests" on your code: *Travis* makes sure your changes don't break anything on the main website, and *Netlify* lets you take a peek at how your changes will look on the website, before we actually publish those changes for the world to see.
+- **Review:** For our repo, making a pull request notifies other SLab folks that someone's making a change to our website, allowing the opportunity for feedback on your work. 
+
+1. Commit your final changes:
+
+![docs-file-ready-to-commit-message](/docs/docs-images/docs-file-ready-to-commit-message.png)
+
+2. Click the "Pull request" link in the upper-right of your screen.
+
+![docs-click-pr-link](/docs/docs-images/docs-click-pr-link.png)
+
+3. You're now on the "Open a pull request" page. You may see a bunch of text in the text field (like the text "# Description..." below). If so, you can ignore it; or, select it all and delete it to make room for any notes you'd like to leave about what the changes you made in your separate branch are. 
+
+![docs-new-pr-template](/docs/docs-images/docs-new-pr-template.png)
+
+4. On the right, click the "Reviewers" link to make a dropdown appear.
+
+![docs-add-reviewers-pr](/docs/docs-images/docs-add-reviewers-pr.png)
+
+5. Start typing the word "reviewers", then click on the option "scholar slab/reviewers" when it appears.
+
+![docs-add-reviewers-pr2](/docs/docs-images/docs-add-reviewers-pr2.png)
+
+This notifies the set of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website.
+
+6. Click on the green "Create pull request" button in the lower right
+
+![docs-new-pr-2](/docs/docs-images/temp move soon/docs-new-pr-2.png)
+
+7. Wait for the yellow "Some checks haven't completed yet" text to change to green "All checks have passed" text. If you get a message that checks have failed, email/Slack someone on the R&D team for troubleshooting assistance.
+
+*What's taking so long?* Our pull request process runs two tools over code you're hoping to merge: *Travis* makes sure your changes don't break anything on the main website, and *Netlify* lets you take a peek at how your changes will look on the website, before we actually publish those changes for the world to see.
+
+![docs-pr-checks-start](/docs/docs-images/docs-pr-checks-start.png)
+
+8. When all checks have passed, click the green "Merge pull request" button on the lower left.
+
+![docs-pr-checks-passed](/docs/docs-images/docs-pr-checks-passed.png)
+
+9. Click the green "Confirm merge" button.
+
+![docs-pr-confirm-merge](/docs/docs-images/docs-pr-confirm-merge.png)
+
+10. You've successfully merged your changes! You can now click the "Delete branch" button on the right. You'll need to wait from 1-10 minutes to see your work appear on the updated live website.
+
+Getting rid of branches once we're done with them helps us keep the repo clean, as we may have multiple branches open at one time that are seeing active work.
+
+![docs-pr-done-delete-branch](/Volumes/Vault101/Documents/GitHubGeneral/scholarslab.org/docs/docs-images/docs-pr-done-delete-branch.png)
 
 ## Editorial process
 
@@ -265,36 +314,31 @@ For folks who've read the longer explanations above already and just want a chec
 6. Wait up to 10 minutes to see your work on the live site
 
 ### Commonly used terms:
-Repo (aka repository):
 
-Branch:
 
-Master (aka master branch)
 
-Dev(elopment) vs. production site =
-
-Command line
-
-GitHub vs git
-
-git vs versioning
-
-hosting on GitHub Pages
 
 Conflicts:
-Tests:
-PR = "pull request". You're asking that
-Merge =
-Syntax = 
 Markdown / .md =
 YAML, front matter, and metadata =
+
+- **Repo** (aka repository): A collection (aka set) of code. This repo in particular (GitHub.com/ScholarsLab/ScholarsLab.org) is the place on GitHub.com where we store all the files that make up the SLab.org website
+- **Branch:** A copy of the website files where you can make changes without affecting the live website or other folks' development or authoring work
+- **Master** (aka master branch): The branch from which our live website gets it data
+- **Merging:** Taking two sets of code (that already have some shared code/text between them, e.g. our master branch and a duplicated-then-altered branch we created), and combining these into one set of updated code. 
+- **Pull request, aka PR:** Asking that the changes you've made in your branch be "pulled" (moved) into another branch (usually master). 
+- **Review:** For our repo, making a pull request notifies other SLab folks that someone's making a change to our website, allowing the opportunity for feedback on your work. 
+- **Checks** aka **tests**: Our pull request process runs two tools over code you're hoping to merge: *Travis* makes sure your changes don't break anything on the main website, and *Netlify* lets you take a peek at how your changes will look on the website, before we actually publish those changes for the world to see.
+- **Conflicts**: While trying to merge your code, git ran into something it doesn't know how to solve (e.g. Line X in File Y says a different thing in each branch, and git doesn't know which one to keep), requiring human intervention
+- **Development** vs. **production** (e.g. dev vs. production website): Not currently set up for this website, but this is the standard practice of having one website the public sees (production), and one non-public version of the site where we make and test changes (development).
+- **Markdown**: Markdown is a very lightweight way of marking up text to format it; the goal is commands that are easy to remember, easy to type, and easy to transform into other markup languages. For example, where HTML uses `<strong>bagels</strong>` to bold the word bagels, markdown uses the simpler `**bagels**` (italics: `*bagels*`). The file format for Markdown is .md (e.g. events.md).
 
 ### Markdown & formatting
 [This full cheatsheet](https://daringfireball.net/projects/markdown/syntax) for Markdown syntax offers everything you might need, while John Gruber's own site offers a good [discussion of the how/why of markdown](https://daringfireball.net/projects/markdown/).
 
 Although you can write Markdown in any plain text editor, you may enjoy using a Markdown-specific app such as [Typora](https://typora.io/) (currently free!). In addition to providing menu items and keyboard shortcuts to do different kinds of Markdown formatting you may not want to memorize, the key advantage is that a Markdown editor lets you see how the final, formatted text will look as you're writing it.
 
-Below are a few frequently used kinds of Markdown that you're likely to encounter while working on the site:
+Below are a few frequently used kinds of Markdown that you're likely to encounter while working on the site...
 
 #### Links 
 In markdown, a link consists of the text for the link within bracks and the actual web hyperlink itself within parentheses. Remember not to leave a space between the two pieces.
