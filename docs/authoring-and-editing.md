@@ -26,7 +26,7 @@ Already comfortable with the command line and git? You may prefer to switch to [
 
 ## Let's get started!
 
-There are **two main steps** to authoring/editing on our website:
+There are **two pieces** to authoring/editing on our website:
 1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#branch-and-write/edit).
 2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is just the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo!).
 
@@ -295,7 +295,7 @@ This notifies the set of SLab staff comfortable with Jekyll that you're making a
 
 Getting rid of branches once we're done with them helps us keep the repo clean, as we may have multiple branches open at one time that are seeing active work.
 
-![docs-pr-done-delete-branch](/Volumes/Vault101/Documents/GitHubGeneral/scholarslab.org/docs/docs-images/docs-pr-done-delete-branch.png)
+![docs-pr-done-delete-branch](/docs/docs-images/docs-pr-done-delete-branch.png)
 
 ## Editorial process
 
@@ -309,18 +309,13 @@ For folks who've read the longer explanations above already and just want a chec
 1. Create new branch & switch into that branch
 2. Create new file or edit existing file
 3. Pull request
-4. Review
-5. Merge
-6. Wait up to 10 minutes to see your work on the live site
+4. Add reviewers
+5. Pass all checks
+6. Merge
+7. Delete branch
+8. Wait up to 10 minutes to see your work on the live site
 
 ### Commonly used terms:
-
-
-
-
-Conflicts:
-Markdown / .md =
-YAML, front matter, and metadata =
 
 - **Repo** (aka repository): A collection (aka set) of code. This repo in particular (GitHub.com/ScholarsLab/ScholarsLab.org) is the place on GitHub.com where we store all the files that make up the SLab.org website
 - **Branch:** A copy of the website files where you can make changes without affecting the live website or other folks' development or authoring work
@@ -332,6 +327,7 @@ YAML, front matter, and metadata =
 - **Conflicts**: While trying to merge your code, git ran into something it doesn't know how to solve (e.g. Line X in File Y says a different thing in each branch, and git doesn't know which one to keep), requiring human intervention
 - **Development** vs. **production** (e.g. dev vs. production website): Not currently set up for this website, but this is the standard practice of having one website the public sees (production), and one non-public version of the site where we make and test changes (development).
 - **Markdown**: Markdown is a very lightweight way of marking up text to format it; the goal is commands that are easy to remember, easy to type, and easy to transform into other markup languages. For example, where HTML uses `<strong>bagels</strong>` to bold the word bagels, markdown uses the simpler `**bagels**` (italics: `*bagels*`). The file format for Markdown is .md (e.g. events.md).
+- **Front matter** aka **YAML**: Metadata about a post or page, appearing at the top of a file. Also sometimes referred to as YAML ("yeah-mole"), which seriously stands for Yet Another Markup Language (the language the front matter uses). Metadata such as publication date and author helps the site do stuff like sorting and filtering content (e.g. "display all blog posts by current or former student affiliates on this page").
 
 ### Markdown & formatting
 [This full cheatsheet](https://daringfireball.net/projects/markdown/syntax) for Markdown syntax offers everything you might need, while John Gruber's own site offers a good [discussion of the how/why of markdown](https://daringfireball.net/projects/markdown/).
@@ -343,34 +339,42 @@ Below are a few frequently used kinds of Markdown that you're likely to encounte
 #### Links 
 In markdown, a link consists of the text for the link within bracks and the actual web hyperlink itself within parentheses. Remember not to leave a space between the two pieces.
 
-\[Look a link!\](http://scholarslab.org)
+\`[Look, a link!\](http://scholarslab.org)`
 
-renders as
+will render as... 
 
-[Look a link!](http://scholarslab.org)
+[Look, a link!](http://scholarslab.org)
 
-Remember to include http(s) if you're not linking to something internal to the Scholars' Lab website.
+Remember to include http(s) if you're not linking to a page that's part of the Scholars' Lab website (aka an internal link).
 
 #### Embed images
-An image looks exactly like a link, except with an exclamation point at the front. The parentheses provide the path to your image, while the brackets denote the image's alt text. 
+The code to embed an image looks exactly like a link, except with an exclamation point at the front. The parentheses provide the path to your image, while the brackets denote the image's alt text.
 
-Where to store media? any size, naming, file type conventions?
+```markdown
+![A good dog](https://pbs.twimg.com/media/Dkj2VxIU0AEe_r2.jpg)
+```
 
-#### Embedding media (photos, GIFs, videos...)
+![A good dog](https://pbs.twimg.com/media/Dkj2VxIU0AEe_r2.jpg)
 
-!\[A good dog\](/assets/img/people/scholarslab.png)
+#### Uploading media
 
-will render as 
+You can link to an image hosted anywhere, but to upload and link an image:
 
-![A good dog](/assets/img/people/scholarslab.png)
+1. To help us organize our images, please rename your file to follow the pattern **YYYY-MM-DD-descriptor**, e.g. **2018-11-05-Texas-BBQ**.png
+2. After creating and moving into [a new branch](#branch), click the "assets" folder link, then the "post-media" link. 
+3. Click the "Upload files" button on the right. Either drag and drop your file onto the page, or click "choose your files" to find them using a file manager. You can leave the commit message as-is, and press "Commit changes".
+
+![docs-upload-file](/docs/docs-images/docs-upload-file.png)
+
+3. Your image is now located in our repo, in assets > post-media folder. To get its URL, right-click on the filename and choose "copy link address". (You can also click on the filename, then right-click on the image and choose "Copy Image Address".) Use the instructions above to embed the image in your post.
 
 #### Bold
 
 Bold can be added to your text with pairs of asterices on either side of the passage you want bold.
 
-\*\*Scholars' Lab is great\*\*
+`**Scholars' Lab is great**`
 
-Will render as
+will render as... 
 
 **Scholars' Lab is great**
 
@@ -378,21 +382,23 @@ Will render as
 
 You can italicize your text with an underscore on either side of the passage to be italicized.
 
-Have you seen that \_dog\_ though?
+`What a *good* dog!`
 
-Will render as
+will render as... 
 
-Have you seen that _dog_ though?
+What a *good* dog!
 
 #### Bulleted lists
 
 You can create an unordered list with a series of dashes or asterices, each on their own line and followed by a space.
 
-\- A dog is good.  
-\- You know what is better?  
-\- A list of dogs.  
+```
+- A dog is good.
+- You know what is better?
+- A list of dogs.
+```
 
-Renders as
+will render as... 
 
 - A dog is good.
 - You know what is better?
@@ -400,22 +406,20 @@ Renders as
 
 #### Numbered lists
 
-Numbered lists work in a similar way to bulleted lists, but you'll begin each line with a number, a period, and a space. The numbers themselves actually don't matter - markdown will simply recognize that you're starting a numbered list and count for you.
+Numbered lists work in a similar way to bulleted lists, but you'll begin each line with a number, a period, and a space. 
 
 
 ```
-1. Amanda
-2. Alison
-3. Jeremy
-2. Laura
+1. Beagles
+2. Corgis
+3. Pitbulls
 ```
 
-Will render as 
+will render as... 
 
-1. Amanda
-2. Alison
-3. Jeremy
-2. Laura
+1. Beagles
+2. Corgis
+3. Pitbulls
 
 #### Headings
 
@@ -429,11 +433,11 @@ To achieve different levels of bolded headings in a document, you make use of a 
 
 will render as... 
 
-(insert screenshot)
+![docs-markdown-headings-rendered](/docs/docs-images/docs-markdown-headings-rendered.png)
 
 ## What comes next?
 
-If you got stuck on any part of this tutorial, please let Amanda know so she can improve this text (if you ran into a problem, others will run into the same one...).
+If you got stuck on any part of this tutorial, please let Amanda or Ronda know so they can improve this text (if you ran into a problem, others will run into the same one...).
 
 If you get comfortable with this process and would like to explore another way of authoring/editing the website, you can check out [this tutorial](/docs/git-authoring-and-editing) for doing your authoring/editing of the site using the command line, locally. No prior comfort with the command line is required—we'll tell you what to type, and try to anticipate common error messages you might run into (those are the downside of how the command line lets you do some stuff faster or easier). You'll also learn how to work with a "local" copy of the site—this is just like visiting ScholarsLab.org, except that it's only viewable on your machine, and you can view the site as it looks using any branch's code (ScholarsLab.org always shows the site as it looks using the "master" branch's code, so this is a nice way to check out how changes you've made to the site look, before merging your new branch into the "master" branch/main website's code.
 
