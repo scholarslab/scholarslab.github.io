@@ -1,3 +1,5 @@
+{toc}
+
 This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. Jump down to
 
 - [the tutorial](#lets-get-started) or
@@ -13,7 +15,7 @@ We tried to make this tutorial very detailed, marking actual do-something-now st
 
 You'll learn some new terms and get familiar with the GitHub.com interface. You will *not* need to use the command line nor understand git/versioning. (We'll discuss two versioning concepts briefly, but you will not need to understand these to use this tutorial.)
 
-We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. The one thing you should exercise mild caution about is: when drafting a new post or page on GitHub.com, you might lose your work if your computer restarts or you close that browser tab, without having committed ("saved") your work since you last added/edited text. We cover how to avoid that in the tutorial below, and it shouldn't be a huge concern—we hope that knowing up front what mistakes can happen, will help us be more comfortable with learning things by trial and non-ruinious error.
+We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website. [See this note below](#important-alert-save-your-work) for more info what can and can't go wrong.
 
 If the workflow in this lesson doesn't work for your needs, there are two simpler options for authoring blog posts on SLab.org:
 
@@ -28,7 +30,7 @@ There are **two main steps** to authoring/editing on our website:
 1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#branch-and-write/edit).
 2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is just the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo!).
 
-(*A third review step may be added here, when we've finalized our editorial guidelines and process.*)
+(*A third review step may be added here, when we've finalized our editorial guidelines and process: reviewing; approving; workflow for publicity e.g. Twitter, newsletter, UVA Library SLab channel inclusion; info on what the different files/folders in a Jekyll directory do, and where to find the thing you need to edit: pages, front page, includes, data files.*)
 
 ## 1. Branch and write/edit!
 ### Branch
@@ -209,33 +211,33 @@ When you've finished drafting the post and you're ready to publish, jump down to
 
 #### Add a new page
 
-After creating and switching [to a new branch](#branch),
+Pages, unlike blog posts, are intended for the kinds of big things you see listed in our website's menu: about page, makerspace page, events page. The steps to create a page are similar to [creating a new blog post](#add-a-new-blog-post), except:
 
-make new page where
+1. After creating and switching to a new branch using the [instructions in the Branch section](#branch) above, click on the "pages" link in the list of files (should be near the top left of your browser window). 
+2. Unlike naming a new blog post file, page naming does not follow a pattern other than being limited to 1-3 simple words (e.g. about.md, work.md, student-opportunities.md)
+3. The front matter for pages is different from posts, so use [this page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) instead when creating your front matter.
 
-GDoc template
-
-workflow for sharing publicly (Twitter, newsletter, UVA Library SLab channel)
-YAML
-commit message: When you make a git commit, it's useful to always provide a message describing what it is you are committing. That way, people looking at the log files can easily see at a glance who made what changes. Finally, git push takes your local commits and adds them to the public record on GitHub.
-check your work on github repo page (not as it will look on live site)
-move to [step 2](#move-your-writing-to-the-main-repo!)
-
-#### Embedding media (photos, GIFs, videos...)
-
-Where to store media? any size, naming, file type conventions?
-
-For other kinds of gettin' fancy with format (adding hyperlinks, embedding videos, bulleted lists, bolding and italics...) see [our Markdown cheatsheet below](#cheatsheet##markdown).
+When you've finished creating your new page, jump to [Step 2](#move-your-writing-to-the-main-repo!) below to learn how to move your writing to the live website.
 
 ### Edit existing content
 
-After creating and switching [to a new branch](#branch),
+If you want to edit a blog post or page that already exists on our live website:
 
-Where's the file I want?
+1. Create and switch to a new branch using the [instructions in the Branch section](#branch) above.
 
-[add an annotated screenshot of the GitHub.com repo file structure here, to help folks know where to edit stuff!]
+2. Find the file you want to edit:
 
-How do I edit it?
+   1. If it's a blog post, follow Steps 1 & 2 under the [Adding a New Blog Post section](#add-a-new-blog-post), then click on the name of the post you want to edit.
+   2. If it's a page, click the "pages" link in the list of website files, then click on the name of the file you want to edit.
+
+3. Near the middle of the right side of the page, click on the small pencil icon. This brings you to a text editor.
+
+If you hover over the pencil icon, you'll see the words "edit this file" appear. 
+
+![docs-edit-existing-file-icon](/docs/docs-images/docs-edit-existing-file-icon.png)
+
+4. At the top of the file, you'll notice three hyphens `---`, followed by a couple lines of text, followed by three more hyphens. You can read more about what this "front matter" does for a post (in the Add a new blog post [instructions](#add-a-new-blog-post)) or page (in the Add a new page [instructions](#add-a-new-blog-post)), but basically just leave that text as-is to avoid breaking things.
+5. Go to Step 7 under [creating a new blog post](#add-a-new-blog-post) for instructions on "committing"—saving a draft of your text.
 
 ## 2. Move your writing to the main repo!
 
@@ -287,7 +289,7 @@ Syntax =
 Markdown / .md =
 YAML, front matter, and metadata =
 
-### Markdown
+### Markdown & formatting
 [This full cheatsheet](https://daringfireball.net/projects/markdown/syntax) for Markdown syntax offers everything you might need, while John Gruber's own site offers a good [discussion of the how/why of markdown](https://daringfireball.net/projects/markdown/).
 
 Although you can write Markdown in any plain text editor, you may enjoy using a Markdown-specific app such as [Typora](https://typora.io/) (currently free!). In addition to providing menu items and keyboard shortcuts to do different kinds of Markdown formatting you may not want to memorize, the key advantage is that a Markdown editor lets you see how the final, formatted text will look as you're writing it.
@@ -307,6 +309,10 @@ Remember to include http(s) if you're not linking to something internal to the S
 
 #### Embed images
 An image looks exactly like a link, except with an exclamation point at the front. The parentheses provide the path to your image, while the brackets denote the image's alt text. 
+
+Where to store media? any size, naming, file type conventions?
+
+#### Embedding media (photos, GIFs, videos...)
 
 !\[A good dog\](/assets/img/people/scholarslab.png)
 
