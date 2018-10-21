@@ -1,4 +1,9 @@
-This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. You can instead jump down to a [concise summary of the required steps](#cheatsheet) if you don't want these details.
+This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. Jump down to
+
+- [the tutorial](#lets-get-started) or
+- [concise summary of the required steps](#cheatsheet) for a cheatsheet version
+
+or read on to get a sense of the effort this tutorial involves.
 
 ## Tutorial difficulty level
 
@@ -63,6 +68,16 @@ The page will reload, and you'll notice a few changes:
 Now you are on a branch—a parrallel universe of sorts!—where you can work without affecting the main state of the project (in this case, the SLab.org website). You're ready to do one of the following (click to jump to that part of the tutorial): [create a new post](#add-a-new-post), [create a new page](#add-a-new-page), or [edit an existing post or page](#edit-existing-content).
 
 ### Add new content
+
+#### Important alert: save your work
+
+GitHub is very forgiving; the whole magic of using git to keeping many versions of text (e.g. code) over time is that you can always roll things back to how they were. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. 
+
+**The one way GitHub is not forgiving is that you can lose text you're currently drafting in the GitHub.com text editor**, if your tab/browser/computer closes/restarts when you've added new text to the file, but not committed it yet. (The text editor looks like the screenshot below—it's the place we'll be drafting text on GitHub.com.)
+
+![docs-alert-save-while-drafting](/docs/docs-images/docs-alert-save-while-drafting.png)
+
+Commit (aka save; described in detail below) about as often as you'd save a word document. Or, draft your text elsewhere (e.g. in a GoogleDoc), then paste the final text into the GitHub text editor just when ready to publish. 
 
 #### Add a new blog post
 After creating and switching [to a new branch](#branch), we'll navigate to the folder that holds blog posts, then create a new blog post file there.
@@ -170,17 +185,27 @@ When changing code or editing existing webpages, writing a commit message helps 
 ![docs-commit-area-empty](/docs/docs-images/docs-commit-area-empty.png)
 
 8. Two choices! 
-   1. If you want to do more work on your blog post after saving (right away, or some time way in the future), leave the radio buttons as-is and click the green "Commit new file" button and read on.
-   2. If you're Totally Ready to Publish your new blog post, instead switch the radio button to "Create a new branch for this commit and start a pull request", leave the text field that appears as-is, and click the green "Propose new file" button. [Jump down this tutorial to Section 2]((#move-your-writing-to-the-main-repo!)), which covers what to do next now that you're ready to publish.
 
-STILL GOTTA WRITE:
+   A. If you want to do more work on your blog post after saving (right away, or some time way in the future), leave the radio buttons as-is and click the green "Commit new file" button and continue reading the tutorial immediately after 8B.
 
-steps & screenshot for after pressing "commit new file"
-checking your work on github repo page (not as it will look on live site)
+   B. If you're Totally Ready to Publish your new blog post, instead switch the radio button to "Create a new branch for this commit and start a pull request", leave the text field that appears as-is, and click the green "Propose new file" button. [Jump down this tutorial to Section 2]((#move-your-writing-to-the-main-repo!)), which covers what to do next now that you're ready to publish.
 
-ALERT on saving: text editor window kept my text after sleeping computer with tab left open overnight; but closing tab, restarting computer could lose your text. Commit when you'd save, or draft elsewhere and paste final text in when ready to publish. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. The one thing you should exercise mild caution about is: when drafting a new post or page on GitHub.com, you might lose your work if your computer restarts or you close that browser tab, without having committed ("saved") your work since you last added/edited text. It shouldn't be a huge concern—we hope that knowing up front what mistakes can happen, will help us be more comfortable with learning things by trial and non-ruinious error.
+If you followed step 8A ("commit new file"), you're now back in the directory that holds all the blog post files on our henry-blog-takeover branch.
 
-When done authoring, move to [step 2](#move-your-writing-to-the-main-repo!)
+9. To make additional edits to your blog post, scroll down to find your post in the list (they're organized by oldest-newest, so a new post will appear at the bottom of the list). Click on the linked file name (e.g. 2018-10-16-henry-rulez.md).
+10. Near the middle of the right side of the page, click on the small pencil icon. 
+
+If you hover over the pencil icon, you'll see the words "edit this file" appear. 
+
+![docs-edit-existing-file-icon](/docs/docs-images/docs-edit-existing-file-icon.png)
+
+Clicking this edit button takes you back to the file editor we started working with back in Step 3. Please remember [this warning](#warning) about avoiding losing work you've drafted but not yet committed.
+
+Return to Step 7 when you're ready to commit (aka save) your changes again. 
+
+When you've finished drafting the post and you're ready to publish, jump down to ["instructions on moving your writing to the main repo"](#2-move-your-writing-to-the-main-repo).
+
+*Want a sneak peak at the final visual appearance of your post?* Although this isn't the same as seeing what your post will look like when published to our website, you can always look at the GitHub repo version of your post to see whether your Markdown formatting looks right (Step 9 above, except don't click on the edit icon, just scroll down to see your post). To see what your post looks like on the final website (i.e. incorporating all our special website design/styling), you'll either need to [follow this other tutorial](/docs/git-authoring-and-editing.md) to learn to edit the site locally, or wait until you're ready to publish. (There's a tool called Netlify that lets you see what your webpage will look like, but we only have it set up to work when you're moving your page to the live site—not when you're still drafting.)
 
 #### Add a new page
 
@@ -195,8 +220,6 @@ YAML
 commit message: When you make a git commit, it's useful to always provide a message describing what it is you are committing. That way, people looking at the log files can easily see at a glance who made what changes. Finally, git push takes your local commits and adds them to the public record on GitHub.
 check your work on github repo page (not as it will look on live site)
 move to [step 2](#move-your-writing-to-the-main-repo!)
-
-ALERT on saving: text editor window kept my text after sleeping computer with tab left open overnight; but closing tab, restarting computer could lose your text. Commit when you'd save, or draft elsewhere and paste final text in when ready to publish. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. The one thing you should exercise mild caution about is: when drafting a new post or page on GitHub.com, you might lose your work if your computer restarts or you close that browser tab, without having committed ("saved") your work since you last added/edited text. It shouldn't be a huge concern—we hope that knowing up front what mistakes can happen, will help us be more comfortable with learning things by trial and non-ruinious error.
 
 #### Embedding media (photos, GIFs, videos...)
 
@@ -213,8 +236,6 @@ Where's the file I want?
 [add an annotated screenshot of the GitHub.com repo file structure here, to help folks know where to edit stuff!]
 
 How do I edit it?
-
-ALERT on saving: text editor window kept my text after sleeping computer with tab left open overnight; but closing tab, restarting computer could lose your text. Commit when you'd save, or draft elsewhere and paste final text in when ready to publish. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. The one thing you should exercise mild caution about is: when drafting a new post or page on GitHub.com, you might lose your work if your computer restarts or you close that browser tab, without having committed ("saved") your work since you last added/edited text. It shouldn't be a huge concern—we hope that knowing up front what mistakes can happen, will help us be more comfortable with learning things by trial and non-ruinious error.
 
 ## 2. Move your writing to the main repo!
 
