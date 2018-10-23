@@ -55,6 +55,8 @@ There are **two pieces** to authoring/editing on our website:
 
 ### Make a new branch
 
+0. Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Share your GitHub username with Amanda (email or Slack) and she'll make sure you have the right permissions to access SLab things on GitHub.
+
 A repo is a collection of code, and this repo in particular is the place on GitHub.com where we store all the files that make up the SLab.org website.
 
 1. Visit the SLab.org "repo" (repository) at https://github.com/scholarslab/scholarslab.org
