@@ -1,8 +1,8 @@
 This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. 
 
 - [Tutorial difficulty level](#tutorial-difficulty-level)
-- [Let's get started!](#let-s-get-started-)
-- [Branch and write/edit!](#branch-and-write-edit-)
+- [Let's get started!](#let-s-get-started)
+- [Branch and write/edit!](#branch-and-write-edit)
   * [Branch](#branch)
   * [Add new content](#add-new-content)
     + [Important alert: save your work](#important-alert--save-your-work)
