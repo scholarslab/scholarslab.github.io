@@ -2,14 +2,14 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
 
 - [Tutorial difficulty level](#tutorial-difficulty-level)
 - [Let's get started!](#let-s-get-started-)
-- [1. Branch and write/edit!](#1-branch-and-write-edit-)
+- [Branch and write/edit!](#branch-and-write-edit-)
   * [Branch](#branch)
   * [Add new content](#add-new-content)
     + [Important alert: save your work](#important-alert--save-your-work)
     + [Add a new blog post](#add-a-new-blog-post)
     + [Add a new page](#add-a-new-page)
   * [Edit existing content](#edit-existing-content)
-- [2. Move your writing to the main repo!](#2-move-your-writing-to-the-main-repo-)
+- [Move your writing to the main repo!](#move-your-writing-to-the-main-repo-)
 - [Editorial process](#editorial-process)
 - [Cheatsheet](#cheatsheet)
   * [Concise set of steps](#concise-set-of-steps)
@@ -51,7 +51,7 @@ There are **two pieces** to authoring/editing on our website:
 
 (*A third review step may be added here, when we've finalized our editorial guidelines and process. See [this GitHub issue](https://github.com/scholarslab/scholarslab.org/issues/511) to volunteer work on this.*)
 
-## 1. Branch and write/edit!
+## Branch and write/edit!
 
 ### Branch
 
@@ -257,7 +257,7 @@ If you hover over the pencil icon, you'll see the words "edit this file" appear.
 1. At the top of the file, you'll notice three hyphens `---`, followed by a couple lines of text, followed by three more hyphens. You can read more about what this "front matter" does for a post (in the Add a new blog post [instructions](#add-a-new-blog-post)) or page (in the Add a new page [instructions](#add-a-new-blog-post)), but basically just leave that text as-is to avoid breaking things.
 2. Go to Step 7 under [creating a new blog post](#add-a-new-blog-post) for instructions on "committing"—saving a draft of your text.
 
-## 2. Move your writing to the main repo!
+## Move your writing to the main repo!
 
 Our very first step was creating a new branch to do this work in, so that our work happens separately from other changes folks might want to make to the site at the same time. Now you've committed some change to our code: either creating a new post or page file, or editing an existing one. In this final step, we'll incorporate your work back into the master branch, so your changes show up on our live website.
 
