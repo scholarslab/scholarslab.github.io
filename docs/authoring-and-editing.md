@@ -40,7 +40,7 @@ If the workflow in this lesson doesn't work for your needs, there are two simple
 1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to TBD, and they'll post your content for you.
 2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let TBD know when you're finished, and they'll post your content for you.
 
-Already comfortable with the command line and git? You may prefer to switch to [this tutorial](/docs/git-authoring-and-editing) for doing your authoring/editing of the site locally; this tutorial instead allows you to do everything from the GitHub.com interface.
+Already comfortable with the command line and git? You may prefer to switch to [this tutorial](/docs/git-authoring-and-editing.md) for doing your authoring/editing of the site locally; this tutorial instead allows you to do everything from the GitHub.com interface.
 
 ## Let's get started!
 
