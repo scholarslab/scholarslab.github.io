@@ -3,7 +3,7 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
 - [Tutorial difficulty level](#tutorial-difficulty-level)
 - [Let's get started!](#lets-get-started)
 - [Branch and write/edit!](#branch-and-writeedit)
-  * [Branch](#branch)
+  * [Make a new branch](#make-a-new-branch)
   * [Add new content](#add-new-content)
     + [Important alert: save your work](#important-alert-save-your-work)
     + [Add a new blog post](#add-a-new-blog-post)
@@ -53,7 +53,7 @@ There are **two pieces** to authoring/editing on our website:
 
 ## Branch and write/edit!
 
-### Branch
+### Make a new branch
 
 A repo is a collection of code, and this repo in particular is the place on GitHub.com where we store all the files that make up the SLab.org website.
 
