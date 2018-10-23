@@ -3,7 +3,7 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
 - [Tutorial difficulty level](#tutorial-difficulty-level)
 - [Let's get started!](#lets-get-started)
 - [Branch and write/edit!](#branch-and-writeedit)
-  * [Branch](#branch)
+  * [Branch](#branch-)
   * [Add new content](#add-new-content)
     + [Important alert: save your work](#important-alert-save-your-work)
     + [Add a new blog post](#add-a-new-blog-post)
