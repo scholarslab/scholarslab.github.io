@@ -1,20 +1,20 @@
 This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. 
 
 - [Tutorial difficulty level](#tutorial-difficulty-level)
-- [Let's get started!](#let-s-get-started)
-- [Branch and write/edit!](#branch-and-write-edit)
+- [Let's get started!](#lets-get-started)
+- [Branch and write/edit!](#branch-and-writeedit)
   * [Branch](#branch)
   * [Add new content](#add-new-content)
-    + [Important alert: save your work](#important-alert--save-your-work)
+    + [Important alert: save your work](#important-alert-save-your-work)
     + [Add a new blog post](#add-a-new-blog-post)
     + [Add a new page](#add-a-new-page)
   * [Edit existing content](#edit-existing-content)
-- [Move your writing to the main repo!](#move-your-writing-to-the-main-repo-)
+- [Move your writing to the main repo!](#move-your-writing-to-the-main-repo)
 - [Editorial process](#editorial-process)
 - [Cheatsheet](#cheatsheet)
   * [Concise set of steps](#concise-set-of-steps)
-  * [Commonly used terms:](#commonly-used-terms-)
-  * [Markdown & formatting](#markdown---formatting)
+  * [Commonly used terms:](#commonly-used-terms)
+  * [Markdown & formatting](#markdown--formatting)
     + [Links](#links)
     + [Embed images](#embed-images)
     + [Uploading media](#uploading-media)
@@ -23,7 +23,7 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
     + [Bulleted lists](#bulleted-lists)
     + [Numbered lists](#numbered-lists)
     + [Headings](#headings)
-- [What comes next?](#what-comes-next-)
+- [What comes next?](#what-comes-next)
 
 ## Tutorial difficulty level
 
