@@ -66,7 +66,7 @@ When you visit https://github.com/scholarslab/scholarslab.org, you're seeing, by
 1. In the mid-left of your browser window, click on the grey "Branch: master 🔽" button. A dropdown appears! 
 2. In the empty text field (it says "Find or create a branch..." in light grey text in the text field's background), write some name for your new branch... 
 
-![docs-gonna-name-branch]()
+![docs-gonna-name-branch](/doc-images/docs-gonna-name-branch.png)
 
 If your branch name has spaces in it, these will be replaced by hyphens. It's best to keep these names short (1-4 words, easy to see without the text getting cut off, but still clear what you're doing) and descriptive (so folks have an idea what the work happening in the branch is). 
 
