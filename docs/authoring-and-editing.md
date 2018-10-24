@@ -29,7 +29,7 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
 
 This tutorial is appropriate for folks interested in understanding how the Scholars' Lab website works. You'll need prior experience browsing the Web, but no other specialized skills. 
 
-We tried to make this tutorial very detailed, marking actual do-something-now steps as items in a numbered list, and text explaining why you're doing these steps formatted as normal paragraphs; we also included regular screenshots, so you can compare what you're seeing with what the lesson thinks you should be seeing. (And there's a [handy cheatsheet version](#cheatsheet), for once you've read through the details and just need a reference guide.) Whether learning these skills will feel comfortable and/or worthwhile to you, is particular to each person's experiences and interests. What we can tell you is that the steps in this tutorial are "straightforward"—that is, there are very few choices you need to make as you work through this lesson.
+We tried to make this tutorial very detailed, marking actual do-something-now steps as items in a numbered list, and text explaining why you're doing these steps formatted as normal paragraphs; we also included regular screenshots, so you can compare what you're seeing with what the lesson thinks you should be seeing. (And there's a [handy cheatsheet version](#cheatsheet), for once you've read through the details and just need a reference guide.) Whether learning these skills will feel comfortable and/or worthwhile to you, is particular to each person's experiences and interests. What we can tell you is that the steps in this tutorial are unambiguous—that is, there are very few choices you need to make as you work through this lesson.
 
 You'll learn some new terms and get familiar with the GitHub.com interface. You will *not* need to use the command line nor understand git/versioning. (We'll discuss two versioning concepts briefly, but you will not need to understand these to use this tutorial.)
 
@@ -47,7 +47,7 @@ Already comfortable with the command line and git? You may prefer to switch to [
 There are **two pieces** to authoring/editing on our website:
 
 1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#make-a-new-branch).
-2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is just the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo).
+2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo).
 
 (*A third review step may be added here, when we've finalized our editorial guidelines and process. See [this GitHub issue](https://github.com/scholarslab/scholarslab.org/issues/511) to volunteer work on this.*)
 
@@ -76,7 +76,7 @@ For example, I'm currently writing this tutorial page in a branch I named "docum
 
 ![docs-branch-named](/docs/docs-images/docs-branch-named.png)
 
-When you're creating your own branch, please substitute whatever you want where henry-blog-takeover in this lesson (unless you're Henry—if you are, then *woof*!). It doesn't matter too much what you name your branch, as long as you can recognize the branch name when you see it.
+When you're creating your own branch, please substitute your chosen branch name where henry-blog-takeover in this lesson (unless you're Henry—if you are, then *woof*!). It doesn't matter too much what you name your branch, as long as you can recognize the branch name when you see it.
 
 Now that we've created our branch, we need to switch to working there.
 
@@ -129,9 +129,9 @@ We now see a text editor for creating a new post!
 
 We'll start by giving our post a filename Jekyll understands.
 
-1. In the text field near the top middle of the screen (see screenshot below), type in a filename matching our restrictions, then press enter:
+1. In the text field near the top middle of the screen (see screenshot below), type in a filename matching our naming conventions, then press enter:
 
-- The filename needs to start with the date, using the format YYYY-MM-DD, e.g. 2018-10-17. Note that the year comes first; hyphens separate the year, month, and day; and that dates with leading zeroes (e.g. 2018-02-05) need to include those zeroes.
+- The filename must start with the date, using the format YYYY-MM-DD, e.g. 2018-10-17. Note that the year comes first; hyphens separate the year, month, and day; and that dates with leading zeroes (e.g. 2018-02-05) need to include those zeroes.
 - After the formatted date and an ending hyphen, a short (1-5 word) "slug", with any spaces replaced with hyphens. This is going to be part of the URL for your finished post, so something that summarizes your title or otherwise briefly refers to what your post is about is good. 
 - End the file name with **.md**, which is the file ending for Markdown files (we'll be using [Markdown formatting](#markdown) to format our posts... more on that below!)
 - In our example, the date is **2018-10-16**, the slug is **henry-rulez**, and putting it all together gives us a filename of **2018-10-16-henry-rulez.md**
@@ -162,7 +162,7 @@ categories:
 ---
 ```
 
-The first line of the post and the line after the last line of front matter should each just contain three hyphens: `---`
+The first line of the post and the line after the final line of front matter should each just contain three hyphens: `---`
 
 - **author:** 
   - Your sluggified name (firstname-lastname, keep the hyphen between)
@@ -172,7 +172,7 @@ The first line of the post and the line after the last line of front matter shou
   - The date the post is to be listed as published, using the YYYY-MM-DD  01:00:00+00:00 format, e.g. 2018-10-17 01:00:00+00:00. Note that the year comes first; hyphens separate the year, month, and day, followed by a space and then time info. 
   - Dates with leading zeros (e.g. 2018-02-05) need to include those zeros.
   - This is just when the post will say it was published, in the URL and in the page metadata. Currently, it does not have anything to do when the post actually goes live on our website.
-  - Unless you care about the exact time of day the post is listed as published, just leave the  01:00:00+00:00 part as is. If you do care, I think that may be in UTC rather than EST?
+  - Unless you care about the exact time of day the post is listed as published, just leave the  01:00:00+00:00 part as is. If you do care, the time stamp is UTC rather than EST.
 - Leave **layout: post** as is
   - This tells the site to use our standard template for laying out a blog post
 - **slug:**
