@@ -29,7 +29,6 @@ Current build: http://maybe.scholarslab.org/
 	* A way to see our progress without setting up a local development environment
 	* Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
 * What this is *not*:
-	* A preview of what's *for sure* going into the new site.
 	* The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
 
 "Old" site: http://scholarslab.org
@@ -120,8 +119,14 @@ rake new_post["Brandon's best blog post ever","Brandon Walsh"]
 
 ### Make a new research project given a title
 ```bash
-rake new_post["The name of your project goes here"]
+rake new_project["The name of your project goes here"]
 ```
+
+### Make a new event project given a title
+```bash
+rake new_event["The name of your event goes here"]
+```
+
 
 ## Contribution Guidelines
 

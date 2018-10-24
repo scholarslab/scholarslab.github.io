@@ -13,7 +13,7 @@
   <meta property="og:description" content="{{ description }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:type" content="{{ page.og_type }}">
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}/">
   {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% endif %}
   {% assign authors = site.people | where: "slug", page.author %}
   {% for author in authors %}<meta property="og:author" content="{{ author.name }}">{% endfor %}
@@ -32,8 +32,20 @@
   {% if page.image %}<meta property="twitter:image" content="{{ page.image }}">{% endif %}
 
   <link href="https://fonts.googleapis.com/icon?family=Raleway:200,400,400i,600,700,700i,900|Oswald:200,400,600,700|Inconsolata:400,700|VT323" rel="stylesheet">
-  <link rel="stylesheet" href="https://use.typekit.net/xpo3dxq.css">
   <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}/">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  
+  <!--  favicon -->
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="/assets/img/favicon/site.webmanifest">
+<link rel="mask-icon" href="/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/img/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/img/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
 </head>

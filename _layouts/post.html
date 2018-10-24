@@ -55,6 +55,8 @@ layout: default
       </div>
       {% endif %}
 
+    {% include old-post-alert.html %}
+
     </div> <!-- end metadata -->
 
     <!-- text of post -->
@@ -68,12 +70,13 @@ layout: default
         {% assign author_categories = author.people-category | join: "," %}
 
         <div class="post-credits__author">
-          <!-- display person pic if exists -->
+          <!-- display person pic if exists. break statement means the loop will end once the if statement runs once.  -->
           {% for image in site.static_files %}
-            {% if image.path contains page.author and image.path contains 'cropped' %}
+            {% if image.basename == page.author and image.path contains 'cropped' %}
                 <div class="post-author__image">
                   <img src="{{ site.baseurl }}/assets/img/people/cropped/{{ page.author }}.jpg" alt="{{ author.name }}">
                 </div>
+            {% break %}
             {% endif %}
           {% endfor %}
 
@@ -111,11 +114,16 @@ document.write(today);
 
       <!-- START ALTERNATE BLOCK -->
       {% if authors == empty %} <!-- if there is no listed author -->
+      <div class="post-credits__author">
         <div class="post-author__image">
-          <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
+          <img src="{{ site.baseurl }}/assets/img/people/cropped/scholarslab.png" alt="Scholars' Lab Lab">
         </div>
-
-        <div class="post-author__citation">
+        <!-- link to author's person page -->
+        <div class="post-author__name">
+          <div id="anonymous">Admin</div>
+        </div>
+      </div>
+        <div class="post-credits__citation">
           <span>Cite this post: </span>
 		  <p>Scholars' Lab Blog. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on
 <script>

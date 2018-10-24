@@ -479,9 +479,10 @@ html, body {
 
 .home-student__img {
 	position: relative;
-	background-image: url('../img/makerspace/doge-print.jpg');
+	background-image: url('../img/decorative/for-students.jpg');
 	background-size: 150%;
 	background-position: left bottom;
+	background-repeat: no-repeat;
 }
 
 .home-student__cta {
@@ -503,7 +504,7 @@ html, body {
 .home-maker__hours {
 	position: relative;
 	border: 4px solid $brightgrape;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-size: 20px;
 	text-align: right;
 	margin-top: calc(2em + 4px);
@@ -544,4 +545,51 @@ html, body {
 
 .home-spatial__text {
 
+}
+
+#snowday-banner{
+	font-family: "Raleway", sans-serif;
+	border: 4px solid #76e3ef;
+	background-color: white;
+	color: #873cdd;
+	top: 60px;
+	width: 100%;
+	position: absolute;
+	padding-left: 15px;
+	padding-right: 0px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 0px;
+	z-index: 1;
+	text-align: center;
+}
+
+#snowday-banner h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+@media only screen and (max-width: 600px){
+		.post-main-content{
+		padding-left: 8.3%;
+		padding-right: 8.3%;
+	}
+}
+
+#hero-arrow{
+	width: 0.5em;
+	justify-self: center;
+	position: absolute;
+	bottom: 16px;
+}
+
+#makerspace-location-label{
+	text-align: center;
+}
+
+#makerspace-plan{
+	position: absolute;
+	top: 0;
+	left: 0;
+	max-height: 75vh;
 }

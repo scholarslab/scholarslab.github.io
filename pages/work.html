@@ -39,55 +39,31 @@ order: 3
 
 <div class="research__description">
 	<div class="research-description__text">
-		<!-- almost changed to page.excerpt, but 'This page' seems better than 'Here we' & didn't know which to pick -->
-		<p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers. (<a href="/about#who-are-the-scholars-in-scholars-lab">We define "scholarship" inclusively</a>.)</p>
+		<p>This page shares a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to projects with their own laptop stickers. (<a href="/about/#who-are-the-scholars-in-scholars-lab">We define "scholarship" inclusively</a>.)</p>
 	</div>
 </div>
 
-<div class="research-portfolio-wrapper">
-	<div class="research-folio__background--black">
-		<div class="research-folio__background--color">
-			<div class="research-folio__context">
-				<a href="#">Menu</a>
-				<a href="#">Other links</a>
-			</div>
-			<nav class="research-folio__nav">
-				<div class="research-nav__btn--left">&lsaquo;</div>
-				<div class="research-nav__tracker">
-					<span>01</span>
-					<div class="research-tracker__progress"></div>
-					<div class="research-tracker__remaining"></div>
-					<span>{{ site.work | size }}</span>
-				</div>
-				<div class="research-nav__btn--right">&rsaquo;</div>
-			</nav>
+<article class="people-main-content">
+    <!-- staff: -->
+    <section class="people__staff">
+      <!-- section label: -->
+      <div class="people-staff__gallery">
+        <!-- gallery item: -->
+        {% for project in site.work %}
 
-			<div class="research-folio__gallery-wrapper">
-				<!-- gallery -->
-				<article class="research-folio__gallery">
-					{% for proj in site.work %}
-					<section class="research-gallery__item">
-						<a href="{{ site.baseurl }}/work/{{ proj.slug }}" aria-label="{{ proj.title }}">
-							<div class="research-item__num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
-							<div class="research-item__name">
-							{% if proj.title == "President&#8217;s Commission on Slavery and the University" %}
-								President&#8217;s Commission on Slavery
-							{% elsif proj.title == "The University of Virginia Art Museum Numismatic Collection" %}
-								UVa Art Museum Numismatic Collection
-							{% else %}
-								{{ proj.title | replace: ' - ', ': ' }}
-							{% endif %}
-							</div>
-							<div class="research-item__pic">
-								<div><img src="{{ '/assets/img/work/' | append: proj.thumb-img | relative_url }}" alt="{{ proj.title }}"></div>
-							</div>
-							<div class="research-item__yr">{{ proj.year }}</div>
-						</a>
-					</section>
-					{% endfor %}
-				</article> <!-- end gallery -->
-			</div> <!-- end gallery wrapper -->
+        <div class="people-item-wrapper">
+          <a href="/work/{{ project.slug }}/" aria-label="{{ project.title }}">
+            <div class="people-item__img">
 
-		</div> <!-- end color bg -->
-	</div> <!-- end black bg -->
-</div> <!-- end folio wrapper -->
+            <img src="{{ site.url }}{{ '/assets/img/work/' | append: project.thumb-img | relative_url }}" alt="{{ project.title }}">
+
+            </div>
+            <div class="people-item__name">
+{{ project.title | replace: ' - ', ': ' }}
+</div>
+            <div class="people-item__position">{{ project.position }}</div>
+          </a>
+        </div>
+        {% endfor %} <!-- end item -->
+      </div> <!-- end gallery -->
+    </section> <!-- end staff -->

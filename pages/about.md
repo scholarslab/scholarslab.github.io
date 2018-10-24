@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-excerpt: "We're the UVA Library’s lab for experimental and digital research, teaching, and other forms of scholarship, open to all disciplines and anyone curious about getting their hands dirty."
+excerpt: "We're the UVA Library's lab for experimental and digital scholarship in all fields, informed by humanities and cultural heritage approaches. We offer mentoring, collaboration, and a safe space for anyone curious about learning to push disciplinary and methodological boundaries through new approaches."
 nav: true
 order: 1
 ---
@@ -20,53 +20,62 @@ order: 1
 <a href="#how-was-this-website-made">How was this website made?</a>
 
 ## What is the Scholars' Lab?
-We're the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for experimental and digital research, teaching, and other forms of scholarship, open to all disciplines and anyone curious about getting their hands dirty. 
+We're the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for experimental and digital scholarship in all fields, informed by humanities and cultural heritage approaches.
 
-We are an internationally recognized scholarly [team](/people), with strengths including:
+We offer mentoring, collaboration, and a safe space for anyone curious about learning to push disciplinary and methodological boundaries through new approaches.
+
+We are an internationally recognized scholarly [team](/people/), with strengths including:
 - librarianship (e.g. expert consultation for experimental scholarly projects)
+- the scholarship of DH pedagogy and mentorship, practiced with our 41-55 formally supported students each year (plus additional, informal support of students via consultation and public programming)
 - the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
 - GIS and other spatial technologies
 - cultural heritage informatics (including scanning and modeling artifacts and historic architecture, and exploring virtual reality and augmented reality approaches to this data)
 - research and development (e.g. programming and design)
-- Makerspaces and hands-on crafting as scholarship
+- makerspaces and crafting as scholarship
 - pedagogical innovation (e.g. our long-running Praxis Program)
 
-The SLab hosts [events](/events) (like workshops and a popular lecture series) in our [library spaces](/hours-and-spaces), and helps to train and mentor the next generation of digital humanities scholar-practitioners through our [Graduate Fellowships in Digital Humanities](/student-opportunities) and innovative [Praxis Program](http://praxis.scholarslab.org/). We are a founding member of [centerNet](http://digitalhumanities.org/centernet/), a worldwide alliance of digital humanities centers, and of the international [Praxis Network](http://praxis-network.org/), which takes its name from our fellowship program here at UVa.
+The SLab hosts [events](/events/) (like workshops and a popular lecture series) in our [library spaces](/hours-and-spaces), and helps to train and mentor the next generation of digital humanities scholar-practitioners through our [Graduate Fellowships in Digital Humanities](/for-students) and innovative [Praxis Program](http://praxis.scholarslab.org/). We are a founding member of [centerNet](http://digitalhumanities.org/centernet/), a worldwide alliance of digital humanities centers, and of the international [Praxis Network](http://praxis-network.org/), which takes its name from our fellowship program here at UVa.
 
-We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter).
+We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter/).
 
 ## What academic fields do you support?
-Although we bring library and humanities skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field and regularly collaborate in almost every area on Grounds.
+Although we bring library, cultural heritage, and humanities skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field, and we regularly collaborate in almost every area on Grounds. An inexhaustive list of who we've worked with on Grounds includes folks from Environmental Science, Nursing, Media Studies, Music, Religious Studies, Spanish, Slavic, German, French, Classics, English, History, Art History, and Architecture.
 
 ## Who are the scholars in "Scholars' Lab"?
 Everyone! We believe that scholarship is one part critical thinking and one part communicating the result of that thinking. Critical thinking can be accomplished through many methods, including research, writing, coding, building, designing, experimenting, play. Communicating critical thinking can take the form of traditional publishing or other forms of “making public”, teaching, sharing open source code, or any other way for your intellectual community to learn from and build on your work. When we refer to scholars, that includes anyone critically engaging with a concept: students, staff, faculty, and community members. On our website, the page that often gets titled "Projects" or "Research" or "Scholarship" on similar websites is titled "Our Work" to better reflect that our scholarship includes a broad variety of work.
 
-Check out our [people](/people) page for current staff, fellows, and alums.
+Check out our [people](/people/) page for current staff, fellows, and alums.
 
 ## How can the Scholars' Lab fit into my work?
-1. **Consults**: As a <a href="http://lib.virginia.edu">Library</a> unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental and/or digital approaches to humanities and culture. During your consult, we can help you get started in DH, conceptualize a project, use some of our scholarly equipment (e.g. GIS software, humanities-focused Makerspace, 3D scanning/photogrammetry, VR/AR), and/or connect you to resources for self-teaching and networking at UVA and internationally.
-2. **Collaboration**: As scholars in the experimental and digital humanities, we also have (limited availability) for more in-depth research or pedagogical collaborations with other UVA scholars:
+1. **Consults**: As a <a href="http://lib.virginia.edu">Library</a> unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental and/or digital approaches to humanities and culture. During your consult, we can:  
+- help you get started in experimental or digital humanities and cultural scholarship, conceptualize a project, structure and capture data, use some of our scholarly equipment (e.g. GIS software, humanities-focused Makerspace, VR/AR);  
+- connect you to resources for self-teaching and networking at UVA and internationally; and/or  
+- review ongoing work, such as critiquing your design and code.
+
+2. **Collaboration**: As scholars in the experimental and digital humanities, we also have (limited) availability for more in-depth research or pedagogical collaborations with other UVA scholars:
   - We enjoy building things _with_ people (e.g. as peer scholars and co-PIs on grant proposals), but we do not build things _for_ people. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties.
   - We do our best to help out folks stuck on a DH technical question during our regular Open Office Hours, and are happy to refer to expertise and facilities around the University (e.g. Data Sciences Institute, SHANTI, IATH).  In general we do not provide design, web development, or technical support.
   - Our team consists of folks with years of scholarly experience and/or graduate degrees. With at least a semester's notice we might collaborate on syllabus design, and after longer relationships collaborate on formal course co-teaching. 
   - Faculty who seek support for digital assignments in their courses or short-term tech instruction should begin with their subject librarian, well in advance. They can additionally connect you with the Library's experts in copyright, data organization (metadata), digital project preservation, research data, and teaching and learning. We recommend consultation with the A&S Learning Design and Technology staff.
 3. **The scholarship of service**: Most of our time for in-depth work and collaboration is allotted to:
-  - Our 20 graduate and undergraduate fellows and 10 student research assistants, as the scholarship of DH mentoring and teaching
+  - The 41-55 students we formally support each year, as the scholarship of DH mentoring and teaching
   - Internal research supporting DH scholarship, such as building our Neatline tool for critical storytelling in time and space
-  - Collaborations with other UVA Library colleagues toward supporting the Library's mission (e.g. piloting future library digital services, building websites to preserve the record of major campus events)
-  - We publicize other opportunities through a newsletter. We bring DH speakers to Grounds and host DH events, teach workshop series, sponsor student- and faculty-run events, teach workshops, and hold regular Open Office Hours anyone can join.
+  - Collaborations with other UVA Library colleagues toward supporting the Library's mission (e.g. piloting future library digital services, building websites to preserve the record of major campus events)  
+We publicize other opportunities through a newsletter. We bring DH speakers to Grounds and host DH events, teach workshop series, sponsor student- and faculty-run events, teach workshops, and hold regular Open Office Hours anyone can join.
 
 ## Can you build me a thing?
-In general, we do not provide design, web development, or technical support. We enjoy building things _with_ people (e.g. as peer scholars and co-PIs on grant proposals), but we do not build things _for_ people. We do our best to help out folks stuck on a DH technical question during our regular Open Office Hours, and are happy to refer to expertise and facilities around the University (e.g. Data Sciences Institute, SHANTI, IATH).  
+In general, we do not provide design, web development, or technical support. We enjoy building things _with_ people (e.g. as collaborators, peer scholars, and co-PIs on grant proposals), but we do not build things _for_ people.
+
+We do our best to help out folks stuck on a DH technical question during our regular Open Office Hours, and are happy to refer to expertise and facilities around the University (e.g. Data Sciences Institute, SHANTI, IATH).  
 
 ## Can we collaborate?
 Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties. [Contact us](mailto:scholarslab@virginia.edu) for an initial consult to discuss ideas for longer-term collaborations, such as working as co-PIs on a grant project.
 
 ## I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects?
-We express this in [our charter](/charter) as "We build up people and practices more than products." At the Scholars' Lab, our most important digital humanities project is our community of scholars: mentors, learners, researchers, teachers, crafters and makers, and collaborators. Research requires communication and community to become scholarship, and we believe that research can only flourish meaningfully when we respect and care for the people in our intellectual communities. We prioritize the process of learning and discovery: sometimes that results in named projects with communities of users and shiny laptop stickers (e.g. [Neatline](http://neatline.org), and sometimes that means trying something, failing, and sharing that learning so you and others can build on it. Most often, it means we consult and collaborate with UVA folks to help them learn to get their hands dirty building something themselves, and we prioritize encouraging, mentoring, teaching, and learning from these collaborators over whether a formal "project" happens or what that looks like.
+We express this in [our charter](/charter/) as "We build up people and practices more than products." At the Scholars' Lab, our most important digital humanities project is our community of scholars: mentors, learners, researchers, teachers, crafters and makers, and collaborators. Research requires communication and community to become scholarship, and we believe that research can only flourish meaningfully when we respect and care for the people in our intellectual communities. We prioritize the process of learning and discovery: sometimes that results in named projects with communities of users and shiny laptop stickers (e.g. [Neatline](http://neatline.org), and sometimes that means trying something, failing, and sharing that learning so you and others can build on it. Most often, it means we consult and collaborate with UVA folks to help them learn to get their hands dirty building something themselves, and we prioritize encouraging, mentoring, teaching, and learning from these collaborators over whether a formal "project" happens or what that looks like.
 
 ## Where are you?
-Our [Hours & Spaces page](/hours-and-spaces) has more information on our physical spaces as well as maps helping you navigate to us. 
+Our [Hours & Spaces page](/hours-and-spaces/) has more information on our physical spaces as well as maps helping you navigate to us. 
 
 We're in Alderman Library, which is just west of the Rotunda and chapel and east of Nameless Field on UVA Grounds. We're the west wing of Alderman's fourth floor, but because the main public entrance to Alderman opens onto the 4th floor we're on the same floor you enter on. Turn left and walk past Greenberry's coffee shop and a water fountain to find the Scholars' Lab staff offices, then turn right to find our Common Area and Makerspace.
 
@@ -85,4 +94,10 @@ For inquiries about our Makerspace, write to [slabmakerspace@virginia.edu](mailt
 For all other inquiries, write to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
 
 ## How was this website made?
-We offer a [site map](http://www.scholarslab.org/sitemap/) of this website's pages, as well as a [colophon](http://www.scholarslab.org/colophon/) documenting how this site was made.
+This website contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site (?-2018) and now a Jekyll-generated static website (2018-current).
+
+**The 2017-2018 renewal of this website** incorporates text, suggestions, and feedback from everyone on [the Scholars' Lab staff](/people). Additionally, the following folks put in significant extra effort on the site's design, coding, content, project management, and documentation: Katherine Donnally, Jeremy Boggs, Brandon Walsh, Ronda Grizzle, Laura Miller, Zoe LeBlanc, Ammon Shepherd, Shane Lin, Beth Mitchell, and Amanda Visconti.
+
+We want to especially highlight the leadership and labor of [Katherine Donnally](/people/katherine-donnally/) (Scholars' Lab DH Designer 2017-2018) in realizing this site. Katherine's thinking and work gave the renewal project a coherent focus around making the lab more accessible and supportive of folks who might not otherwise feel part of our community; in addition to design and development work, she created structures and documentation (e.g. goal and progress tracker, code commenting, analysis of the old website, articulation of the purpose of the new site) that were instrumental in both imagining the new site and seeing it to the finish line.
+
+Check out our [site relaunch blog post](/2018/10/07/site-relaunch) for more information on how and why we renewed the ScholarsLab.org website. You may also be interested in the [site map](/sitemap) listing all of this website's pages.
