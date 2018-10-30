@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-excerpt: "We're the UVA Library's lab for experimental and digital scholarship in all fields, informed by humanities and cultural heritage approaches. We offer mentoring, collaboration, and a safe space for anyone curious about learning to push disciplinary and methodological boundaries through new approaches."
+excerpt: "Scholars' Lab is the Library's lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches. We offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches."
 nav: true
 order: 1
 ---
@@ -20,9 +20,9 @@ order: 1
 <a href="#how-was-this-website-made">How was this website made?</a>
 
 ## What is the Scholars' Lab?
-We're the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for experimental and digital scholarship in all fields, informed by humanities and cultural heritage approaches.
+Scholars' Lab is the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches. 
 
-We offer mentoring, collaboration, and a safe space for anyone curious about learning to push disciplinary and methodological boundaries through new approaches.
+We offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches. 
 
 We are an internationally recognized scholarly [team](/people/), with strengths including:
 - librarianship (e.g. expert consultation for experimental scholarly projects)
