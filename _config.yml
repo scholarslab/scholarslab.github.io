@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://maybe.scholarslab.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scholarslab
 permalink: /:year/:month/:day/:title/
-
+timezone: America/New_York
 # Build settings
 analytics: false
 incremental: true

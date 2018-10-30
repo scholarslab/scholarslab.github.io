@@ -180,7 +180,7 @@ task :delete_corpus do
 end
 
 desc "Create corpus for search"
-file './corpus.json' => ['./', *Rake::FileList['./*.md','collections/_posts/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
+file './corpus.json' => ['./', *Rake::FileList['collections/**/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
     progressbar = ProgressBar.create(
                     :title => "creating corpus",
                     :format => "\e[0;35m%t: |%B|\e[0m",
@@ -198,6 +198,7 @@ file './corpus.json' => ['./', *Rake::FileList['./*.md','collections/_posts/*.md
           date: parsed.front_matter["date"],
           categories: parsed.front_matter["categories"],
           url: parsed.front_matter["slug"],
+          layout: parsed.front_matter["layout"],
           content: parsed.content,
         }
       end

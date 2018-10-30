@@ -15,6 +15,7 @@ jQuery(function() {
               'url': key[1].url,
               'id': key[1].id,
               'date': key[1].date,
+              'layout': key[1].layout,
           };
           window.documents.push(doc);
       });
@@ -39,13 +40,22 @@ jQuery(function() {
         h4 = document.createElement('h4')
 
     a.dataset.field = 'title';
+    let slug = doc.id.split('-')
+    console.log(slug, doc);
     a.href;
-    if (doc.categories !== null){
-        doc.categories.forEach( (cat)=>{
-            a.href += '/'+ cat;
-        });
+    if (doc.layout == 'post'){
+        a.href = '/' + slug[0] + '/' + slug[1] + '/' + slug[2] + '/' + doc.url;
+    } else  {
+        a.href = '/' + doc.layout + '/' + doc.url;
     }
-    a.href += '/' + doc.url;
+    console.log(a.href);
+    //   /:year/: month /: day /: title /
+    // if (doc.categories !== null){
+    //     doc.categories.forEach( (cat)=>{
+    //         a.href += '/'+ cat;
+    //     });
+    // }
+    // a.href += '/' + doc.url;
     a.textContent = doc.title;
 
     p1.dataset.field = 'date';
