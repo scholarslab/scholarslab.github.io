@@ -215,6 +215,18 @@ html, body {
 
 .home__library {
 	grid-area: lib;
+
+    .uva-library-logo-link {
+        display:block;
+        float:right;
+        width: 170px;
+        padding: 1px 5px;
+        border:0;
+        img {
+            max-width:100%;
+            width: auto;
+        }
+    }
 }
 
 .home-lib__title {
@@ -224,6 +236,7 @@ html, body {
 .home-lib__content {
 
 }
+
 
 /* FAQ: */
 
