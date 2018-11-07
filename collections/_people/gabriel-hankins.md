@@ -4,7 +4,7 @@ email: hankins@virginia.edu
 first_name: Gabriel
 last_name: Hankins
 layout: people
-name: Gabriel Hankins
+title: Gabriel Hankins
 position: PhD Candidate, Department of English | Digital Humanities Fellow 2011-2012
 short_bio: ''
 slug: gabriel-hankins

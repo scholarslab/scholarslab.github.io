@@ -4,7 +4,7 @@ email: None
 first_name: Joe
 last_name: Gilbert
 layout: people
-name: Joe Gilbert
+title: Joe Gilbert
 position: User Experience Web Developer
 short_bio: ''
 slug: joe-gilbert

@@ -4,7 +4,7 @@ email: None
 first_name: Valeria
 last_name: Arce
 layout: people
-name: Valeria Arce
+title: Valeria Arce
 position:
 short_bio: ''
 slug: valeria-arce

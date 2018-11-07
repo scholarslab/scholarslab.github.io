@@ -4,7 +4,7 @@ email: ssl2ab@virginia.edu
 first_name: Shane
 last_name: Lin
 layout: people
-name: Shane Lin
+title: Shane Lin
 position: Senior Developer
 short_bio: 'Shane Lin, Senior Developer, randomly presses buttons on his keyboard, but we live in a universe where this results in mostly compilable code.'
 slug: shane-lin

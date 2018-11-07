@@ -4,7 +4,7 @@ email: bethany@virginia.edu
 first_name: Bethany
 last_name: Nowviskie
 layout: people
-name: Bethany Nowviskie
+title: Bethany Nowviskie
 position: Director
 short_bio: ''
 slug: bethany-nowviskie

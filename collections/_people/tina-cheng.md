@@ -4,7 +4,7 @@ email: None
 first_name: Tina
 last_name: Cheng
 layout: people
-name: Tina Cheng
+title: Tina Cheng
 position: Student Assistant
 short_bio: ''
 slug: tina-cheng

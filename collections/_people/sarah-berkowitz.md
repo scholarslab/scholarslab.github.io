@@ -4,7 +4,7 @@ email: None
 first_name: Sarah
 last_name: Berkowitz
 layout: people
-name: Sarah Berkowitz
+title: Sarah Berkowitz
 position:
 short_bio:
 slug: sarah-berkowitz

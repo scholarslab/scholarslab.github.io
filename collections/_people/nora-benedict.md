@@ -4,7 +4,7 @@ email: None
 first_name: Nora
 last_name: Benedict
 layout: people
-name: Nora Benedict
+title: Nora Benedict
 position:
 short_bio: ''
 slug: nora-benedict

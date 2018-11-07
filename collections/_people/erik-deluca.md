@@ -4,7 +4,7 @@ email: None
 first_name: Erik
 last_name: DeLuca
 layout: people
-name: Erik DeLuca
+title: Erik DeLuca
 position:
 short_bio: ''
 slug: erik-deluca

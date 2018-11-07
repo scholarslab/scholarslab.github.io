@@ -4,7 +4,7 @@ email: None
 first_name: Ryan
 last_name: Johnson
 layout: people
-name: Ryan Johnson
+title: Ryan Johnson
 position: Student Assistant
 short_bio: ''
 slug: ryan-johnson

@@ -4,7 +4,7 @@ email: None
 first_name: Je'lon
 last_name: Alexander
 layout: people
-name: Je'lon Alexander
+title: Je'lon Alexander
 position:
 short_bio: ''
 slug: jelon-alexander

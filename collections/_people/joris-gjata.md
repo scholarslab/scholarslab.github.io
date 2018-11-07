@@ -4,7 +4,7 @@ email: jg2nk@virginia.edu
 first_name: Joris
 last_name: Gjata
 layout: people
-name: Joris Gjata
+title: Joris Gjata
 position:
 short_bio: ''
 slug: joris-gjata

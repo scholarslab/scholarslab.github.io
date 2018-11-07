@@ -4,7 +4,7 @@ email: None
 first_name: Christian
 last_name: Howard
 layout: people
-name: Christian Howard
+title: Christian Howard
 position:
 short_bio: 'Christian Howard is a PhD Candidate in English at the University of Virginia. Her research focuses upon contemporary world literature, ethics, and digital humanities. To learn more, visit her personal website: www.christianhoward.org.'
 slug: christian-howard

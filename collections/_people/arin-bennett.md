@@ -4,7 +4,7 @@ email: arin@virginia.edu
 first_name: Arin
 last_name: Bennett
 layout: people
-name: Arin Bennett
+title: Arin Bennett
 position: 3D Visualization Specialist
 short_bio: "Arin Bennett is a visualization specialist with the Scholars' Lab focused on spatial data, augmented and virtual realities who occasionally visits this reality."
 slug: arin-bennett

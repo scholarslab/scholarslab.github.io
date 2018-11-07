@@ -4,7 +4,7 @@ email: None
 first_name: Kerwin
 last_name: Holmes, Jr.
 layout: people
-name: Kerwin Holmes, Jr.
+title: Kerwin Holmes, Jr.
 position:
 short_bio: ''
 slug: kerwin-holmes-jr

@@ -4,7 +4,7 @@ email: None
 first_name: Mathilda
 last_name: Shepherd
 layout: people
-name: Mathilda Shepherd
+title: Mathilda Shepherd
 position:
 short_bio:
 slug: mathilda-shepherd

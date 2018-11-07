@@ -4,7 +4,7 @@ email: jeremy@virginia.edu
 first_name: Jeremy
 last_name: Boggs
 layout: people
-name: Jeremy Boggs
+title: Jeremy Boggs
 position: Head of Research & Development
 short_bio: 'Jeremy Boggs: Head of Research & Development and Design in the Lab, scruffiest nerf herder of them all; types code, teaches digital methods, and wrangles a rowdy bullpen full of developers. Ask him about Batman.'
 slug: jeremy-boggs

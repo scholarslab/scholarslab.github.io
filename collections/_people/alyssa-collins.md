@@ -4,7 +4,7 @@ email: adc2dc@virginia.edu
 first_name: Alyssa
 last_name: Collins
 layout: people
-name: Alyssa Collins
+title: Alyssa Collins
 position: Prototyping Fellow
 short_bio: ''
 slug: alyssa-collins

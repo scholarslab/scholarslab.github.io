@@ -4,7 +4,7 @@ email: cforster@virginia.edu
 first_name: Chris
 last_name: Forster
 layout: people
-name: Chris Forster
+title: Chris Forster
 position: Digital Humanities Fellow 2007-2008
 short_bio: ''
 slug: chris-forster

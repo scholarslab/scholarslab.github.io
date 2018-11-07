@@ -4,7 +4,7 @@ email: bnl2ja@virginia.edu
 first_name: Brooke
 last_name: Lestock
 layout: people
-name: Brooke Lestock
+title: Brooke Lestock
 position: Praxis Fellow 2011-2012
 short_bio: ''
 slug: brooke-lestock

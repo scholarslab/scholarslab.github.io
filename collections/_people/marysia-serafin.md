@@ -4,7 +4,7 @@ email: None
 first_name: Marysia
 last_name: Serafin
 layout: people
-name: Marysia Serafin
+title: Marysia Serafin
 position:
 short_bio:
 slug: marysia-serafin

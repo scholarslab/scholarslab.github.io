@@ -4,7 +4,7 @@ email: None
 first_name: Ben
 last_name: Gorham
 layout: people
-name: Ben Gorham
+title: Ben Gorham
 position:
 short_bio:
 slug: ben-gorham

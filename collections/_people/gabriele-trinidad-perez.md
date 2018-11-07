@@ -4,7 +4,7 @@ email: None
 first_name: Gabriela
 last_name: Trinidad Pérez
 layout: people
-name: Gabriela Trinidad Pérez
+title: Gabriela Trinidad Pérez
 position:
 short_bio: ''
 slug: gabriele-trinidad-perez

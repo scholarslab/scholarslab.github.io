@@ -4,7 +4,7 @@ email: kbd3ax@virginia.edu
 first_name: Katherine
 last_name: Donnally
 layout: people
-name: Katherine Donnally
+title: Katherine Donnally
 position: DH Designer
 short_bio: 'Katherine Donnally is a designer at the Lab, focusing on web design, graphics, & the role of design decisions within the project of advancing social equity.'
 slug: katherine-donnally

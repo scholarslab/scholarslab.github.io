@@ -4,7 +4,7 @@ email: None
 first_name: Kayla
 last_name: Pinson
 layout: people
-name: Kayla Pinson
+title: Kayla Pinson
 position:
 short_bio: ''
 slug: kayla-pinson

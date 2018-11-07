@@ -4,7 +4,7 @@ email: None
 first_name: Emily
 last_name: Mellen
 layout: people
-name: Emily Mellen
+title: Emily Mellen
 position: 
 short_bio:
 slug: emily-mellen

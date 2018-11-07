@@ -4,7 +4,7 @@ email: lam2c@virginia.edu
 first_name: Laura
 last_name: Miller
 layout: people
-name: Laura Miller
+title: Laura Miller
 position: Head of Public Programs
 short_bio: 'Laura Miller is the Head of Public Programs for the Lab, where she fosters our local community of DH scholars and researchers, and where she likes to think and talk and encourage everyone else to do the same about critical making in academic research.'
 slug: laura-miller

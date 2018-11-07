@@ -4,7 +4,7 @@ email: None
 first_name: Victoria
 last_name: Juarez
 layout: people
-name: Victoria Juarez
+title: Victoria Juarez
 position:
 short_bio: ''
 slug: victoria-juarez

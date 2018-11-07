@@ -4,7 +4,7 @@ email: dw6h@virginia.edu
 first_name: Dana
 last_name: Wheeles
 layout: people
-name: Dana Wheeles
+title: Dana Wheeles
 position: PhD Candidate, Department of Art History | Digital Humanities Fellow 2007-2008
 short_bio: ''
 slug: dana-wheeles

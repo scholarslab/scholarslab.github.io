@@ -4,7 +4,7 @@ email: None
 first_name: Brandon
 last_name: Phan
 layout: people
-name: Brandon Phan
+title: Brandon Phan
 position:
 short_bio:
 slug: brandon-phan

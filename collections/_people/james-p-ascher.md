@@ -4,7 +4,7 @@ email: jpa4q@virginia.edu
 first_name: James
 last_name: Ascher
 layout: people
-name: James P. Ascher
+title: James P. Ascher
 position:
 short_bio: 'James P. Ascher is a doctoral student in the English Department at the University of Virginia and a dedicated bibliographer.'
 slug: james-p-ascher

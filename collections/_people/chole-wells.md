@@ -4,7 +4,7 @@ email: None
 first_name: Chloe
 last_name: Wells
 layout: people
-name: Chloe Wells
+title: Chloe Wells
 position:
 short_bio:
 slug: chloe-wells

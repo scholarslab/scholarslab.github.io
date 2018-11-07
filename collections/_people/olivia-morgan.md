@@ -4,7 +4,7 @@ email: None
 first_name: Olivia
 last_name: Morgan
 layout: people
-name: Olivia Morgan
+title: Olivia Morgan
 position: Student Assistant
 short_bio: ''
 slug: olivia-morgan
