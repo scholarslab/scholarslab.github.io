@@ -4,7 +4,7 @@ email: abv6x@virginia.edu
 first_name: Amanda
 last_name: Visconti
 layout: people
-name: Amanda Visconti
+title: Amanda Visconti
 position: Managing Director
 short_bio: "As Managing Director, Amanda Visconti co-directs the Scholars’ Lab: pursuing our mission by setting strategic and daily practices, and supporting our expert staff and students through advocacy, mentorship, and policy development."
 slug: amanda-visconti

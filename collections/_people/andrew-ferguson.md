@@ -4,7 +4,7 @@ email: af3pj@virginia.edu
 first_name: Andrew
 last_name: Ferguson
 layout: people
-name: Andrew Ferguson
+title: Andrew Ferguson
 position:
 short_bio: ''
 slug: andrew-ferguson

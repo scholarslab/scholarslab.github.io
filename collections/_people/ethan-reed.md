@@ -4,7 +4,7 @@ email: None
 first_name: Ethan
 last_name: Reed
 layout: people
-name: Ethan Reed
+title: Ethan Reed
 position:
 short_bio: ''
 slug: ethan-reed

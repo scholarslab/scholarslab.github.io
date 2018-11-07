@@ -4,7 +4,7 @@ email: None
 first_name: Tanner
 last_name: Greene
 layout: people
-name: Tanner Greene
+title: Tanner Greene
 position:
 short_bio: 'Tanner Greene is a PhD student in the Department of Music’s Critical and Comparative Studies program. He’s awesome.'
 slug: tanner-greene

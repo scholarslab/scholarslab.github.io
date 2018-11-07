@@ -5,7 +5,7 @@ first_name: Alexandra
 last_name: Sanchez
 layout: people
 location: None
-name: Alexandra Sanchez
+title: Alexandra Sanchez
 position: None
 short_bio: 'Alex Sanchez is a 2018 LAMI Fellow.'
 slug: alexandra-sanchez

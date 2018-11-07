@@ -4,7 +4,7 @@ email: colibri.alex@gmail.com
 first_name: Alex
 last_name: Gil
 layout: people
-name: Alex Gil
+title: Alex Gil
 position: Praxis Fellow 2011-2012
 short_bio: ''
 slug: alex-gil

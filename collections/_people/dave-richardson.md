@@ -4,7 +4,7 @@ email: dlr2n@virginia.edu
 first_name: Dave
 last_name: Richardson
 layout: people
-name: Dave Richardson
+title: Dave Richardson
 position:
 short_bio: ''
 slug: dave-richardson

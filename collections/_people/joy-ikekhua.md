@@ -4,7 +4,7 @@ email: None
 first_name: Joy
 last_name: Ikekhua
 layout: people
-name: Joy Ikekhua
+title: Joy Ikekhua
 position:
 short_bio: ''
 slug: joy-ikekhua

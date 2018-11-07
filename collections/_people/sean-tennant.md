@@ -4,7 +4,7 @@ email: None
 first_name: Sean
 last_name: Tennant
 layout: people
-name: Sean Tennant
+title: Sean Tennant
 position:
 short_bio:
 slug: sean-tennant

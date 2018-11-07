@@ -4,7 +4,7 @@ email: None
 first_name: Elizabeth
 last_name: Bollwerk
 layout: people
-name: Elizabeth Bollwerk
+title: Elizabeth Bollwerk
 position:
 short_bio: ''
 slug: elizabeth-bollwerk

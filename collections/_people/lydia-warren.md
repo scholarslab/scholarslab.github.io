@@ -4,7 +4,7 @@ email: lkw2eq@virginia.edu
 first_name: Lydia
 last_name: Warren
 layout: people
-name: Lydia Warren
+title: Lydia Warren
 position:
 short_bio: ''
 slug: lydia-warren

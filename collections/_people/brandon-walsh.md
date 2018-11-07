@@ -4,7 +4,7 @@ email: bmw9t@virginia.edu
 first_name: Brandon
 last_name: Walsh
 layout: people
-name: Brandon Walsh
+title: Brandon Walsh
 position: Head of Graduate Programs
 short_bio: "Brandon Walsh is Head of Graduate Programs in the Scholars’ Lab, where he consults on all things related to pedagogy."
 slug: brandon-walsh

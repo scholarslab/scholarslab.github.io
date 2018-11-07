@@ -4,7 +4,7 @@ email: wmr8e@virginia.edu
 first_name: Wendy
 last_name: Robertson
 layout: people
-name: Wendy Robertson
+title: Wendy Robertson
 position:
 short_bio: ''
 slug: wendy-robertson

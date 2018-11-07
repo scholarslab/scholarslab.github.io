@@ -4,7 +4,7 @@ email: sak2rh@virginia.edu
 first_name: Stephanie
 last_name: Kingsley
 layout: people
-name: Stephanie Kingsley
+title: Stephanie Kingsley
 position:
 short_bio: ''
 slug: stephanie-kingsley

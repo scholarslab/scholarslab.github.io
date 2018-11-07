@@ -4,7 +4,7 @@ email: None
 first_name: Swati
 last_name: Chawla
 layout: people
-name: Swati Chawla
+title: Swati Chawla
 position:
 short_bio: ''
 slug: swati-chawla

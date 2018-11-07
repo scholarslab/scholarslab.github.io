@@ -4,7 +4,7 @@ email: None
 first_name: David
 last_name: McClure
 layout: people
-name: David McClure
+title: David McClure
 position:
 short_bio: ''
 slug: david-mcclure

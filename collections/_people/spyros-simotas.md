@@ -4,7 +4,7 @@ email: None
 first_name: Spyros
 last_name: Simotas
 layout: people
-name: Spyros Simotas
+title: Spyros Simotas
 position:
 short_bio: 'Spyros Simotas is a PhD Candidate in French and Praxis Fellow 2017-2018. More at ss4ws.github.io'
 slug: spyros-simotas

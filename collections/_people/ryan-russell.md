@@ -4,7 +4,7 @@ email: None
 first_name: Ryan
 last_name: Russell
 layout: people
-name: Ryan Russell
+title: Ryan Russell
 position:
 short_bio: ''
 slug: ryan-russell

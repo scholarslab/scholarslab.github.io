@@ -4,7 +4,7 @@ email: None
 first_name: Matt
 last_name: Ford
 layout: people
-name: Matt Ford
+title: Matt Ford
 position:
 short_bio: ''
 slug: matt-ford

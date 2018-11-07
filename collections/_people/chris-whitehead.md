@@ -4,7 +4,7 @@ email: None
 first_name: Chris
 last_name: Whitehead
 layout: people
-name: Chris Whitehead
+title: Chris Whitehead
 position:
 short_bio:
 slug: chris-whitehead

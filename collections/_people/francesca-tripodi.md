@@ -4,7 +4,7 @@ email: None
 first_name: Francesca
 last_name: Tripodi
 layout: people
-name: Francesca Tripodi
+title: Francesca Tripodi
 position:
 short_bio: ''
 slug: francesca-tripodi

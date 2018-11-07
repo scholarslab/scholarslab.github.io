@@ -4,7 +4,7 @@ email: None
 first_name: Lauren
 last_name: Reynolds
 layout: people
-name: Lauren Reynolds
+title: Lauren Reynolds
 position: Makerspace Technologist
 short_bio:
 slug: lauren-reynolds

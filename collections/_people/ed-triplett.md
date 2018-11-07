@@ -4,7 +4,7 @@ email: edward.triplett@gmail.com
 first_name: Ed
 last_name: Triplett
 layout: people
-name: Ed Triplett
+title: Ed Triplett
 position: PhD Candidate, McIntire Department of Art | Digital Humanities Fellow 2011-2012
   | Praxis Fellow 2011-2012
 short_bio: ''

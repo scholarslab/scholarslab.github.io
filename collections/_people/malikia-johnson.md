@@ -4,7 +4,7 @@ email: None
 first_name: Malikia
 last_name: Johnson
 layout: people
-name: Malikia Johnson
+title: Malikia Johnson
 position:
 short_bio: ''
 slug: malikia-johnson

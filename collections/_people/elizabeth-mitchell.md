@@ -4,7 +4,7 @@ email: None
 first_name: Elizabeth
 last_name: Mitchell
 layout: people
-name: Elizabeth Mitchell
+title: Elizabeth Mitchell
 position: Community Project Manager
 short_bio: "Elizabeth Mitchell, PhD Candidate in Architectural History, assists with events and provides graphic design work for the Scholars' Lab."
 slug: elizabeth-mitchell

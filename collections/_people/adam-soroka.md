@@ -4,7 +4,7 @@ email: ajs6f@virginia.edu
 first_name: Adam
 last_name: Soroka
 layout: people
-name: Adam Soroka
+title: Adam Soroka
 position: Consulting Engineer
 short_bio: ''
 slug: adam-soroka

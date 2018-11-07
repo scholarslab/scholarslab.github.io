@@ -4,7 +4,7 @@ email: None
 first_name: Ethan
 last_name: Gruber
 layout: people
-name: Ethan Gruber
+title: Ethan Gruber
 position: Web Applications Developer
 short_bio: ''
 slug: ethan-gruber

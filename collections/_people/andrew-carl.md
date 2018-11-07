@@ -4,7 +4,7 @@ email: None
 first_name: Andrew
 last_name: Carl
 layout: people
-name: Andrew Carl
+title: Andrew Carl
 position:
 short_bio:
 slug: andrew-carl

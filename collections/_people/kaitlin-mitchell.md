@@ -4,7 +4,7 @@ email: None
 first_name: Kaitlin
 last_name: Mitchell
 layout: people
-name: Kaitlin Mitchell
+title: Kaitlin Mitchell
 position:
 short_bio: ''
 slug: kaitlin-mitchell
