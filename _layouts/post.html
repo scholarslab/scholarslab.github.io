@@ -21,7 +21,7 @@ layout: default
       <div class="post-meta__author">
         <span>By</span>
         {% for author in authors %}
-            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
+            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.title }}</a>
         {% endfor %}
         {% if authors == empty %}
             {% assign author = page.author | split: '-' %}

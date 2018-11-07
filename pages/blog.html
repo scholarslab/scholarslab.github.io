@@ -50,7 +50,7 @@ order: 2
 					{% assign author_object = site.people | where: 'slug', post.author %}
 					<div class="blog-meta__author">
 						{% for author in author_object %}
-						    <a href="{{ site.baseurl }}/people/{{post.author}}/">{{ author.name }}</a>
+						    <a href="{{ site.baseurl }}/people/{{post.author}}/">{{ author.title }}</a>
 						{% endfor %}
 						{% if author_object == empty %}
 						    {% assign author = post.author | split: '-' %}
