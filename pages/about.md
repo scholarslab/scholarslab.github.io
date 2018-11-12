@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+redirect_from: "/about/colophon/"
 excerpt: "Scholars' Lab is the Library's lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches. We offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches."
 nav: true
 order: 1

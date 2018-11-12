@@ -2,6 +2,7 @@
 layout: default
 title: Blog
 permalink: /blog/
+redirect_from: "/archives"
 pagination:
   enabled: true
 nav: true
@@ -20,21 +21,35 @@ order: 2
 			<section class="blog-gallery__item">
 				<div class="blog-item__title">
 					<span>
-						{% if post.categories contains 'Events' %}
-							Events
-						{% elsif post.categories contains 'Announcements' %}
-							Announcements
-						{% elsif post.tags contains 'praxis program' %}
-							Praxis Program
-						{% elsif post.categories contains 'Grad Student Research' %}
-							Grad Student Research
-						{% elsif post.categories contains 'Experimental Humanities' %}
-							Experimenting
-						{% elsif post.categories contains 'Digital Humanities' or post.tags contains 'Digital Humanities' or post.categories contains 'digital humanities' %}
-							Digital Humanities
-						{% else %}
-							Miscellany
-						{% endif %}
+{% if post.categories contains 'Events' %}
+	Events
+	{% elsif post.categories contains 'Job Announcements' %}
+	Job Announcements
+	{% elsif post.categories contains 'Announcements' %}
+	Announcements
+	{% elsif post.tags contains 'praxis program' %}
+	Praxis Program
+	{% elsif post.categories contains 'Grad Student Research' %}
+	Grad Student Research
+	{% elsif post.categories contains 'Experimental Humanities' %}
+	Experimenting
+	{% elsif post.categories contains 'Geospatial and Temporal' %}
+	Geospatial & Temporal
+	{% elsif post.categories contains 'Makerspace' %}
+	Makerspace
+	{% elsif post.categories contains 'Podcasts' %}
+	Podcast
+	{% elsif post.categories contains 'Research and Development' %}
+	Research & Development
+	{% elsif post.categories contains 'Technical Training' %}
+	Technical Training
+	{% elsif post.categories contains 'Visualization and Data Mining' %}
+	Visualization and Data Mining
+	{% elsif post.categories contains 'Digital Humanities' or post.tags contains 'Digital Humanities' or post.categories contains 'digital humanities' %}
+	Digital Humanities
+{% else %}
+	Miscellany
+{% endif %}
 					</span>
 					<!-- # NB: no slash in href b/c included in post.url -->
 					<a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a>

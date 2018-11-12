@@ -1,7 +1,8 @@
 ---
 layout: page
-title: For Students # was 'Student Opportunities' -> no 'Pedagogy' page exists yet
+title: For Students
 permalink: /for-students/
+redirect_from: "/graduate-fellowships/"
 nav: true
 order: 5
 # slug: graduate-fellowships-and-opportunities

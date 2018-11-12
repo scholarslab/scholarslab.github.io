@@ -23,6 +23,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock

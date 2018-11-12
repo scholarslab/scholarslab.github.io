@@ -34,7 +34,7 @@ layout: default
       </div>
 
       {% assign catsize = page.categories | size %}
-      {% if catsize >= 1 %}
+<!--  {% if catsize >= 1 %}
       <div class="post-meta__categories">Filed to:
         {% for c in page.categories %}
         {% assign last = page.categories | last %}
@@ -43,9 +43,9 @@ layout: default
         {% endif %}{% endfor %}
       </div>
       {% endif %}
-
-      {% assign tagsize = page.tags | size %}
-      {% if tagsize >= 1 %}
+-->
+{% assign tagsize = page.tags | size %}
+<!--    {% if tagsize >= 1 %}
       <div class="post-meta__tags">Tagged as:
         {% for t in page.tags%}
         {% assign last = page.tags | last %}
@@ -54,7 +54,7 @@ layout: default
         {% endif %}{% endfor %}
       </div>
       {% endif %}
-
+-->
     {% include old-post-alert.html %}
 
     </div> <!-- end metadata -->
@@ -74,7 +74,7 @@ layout: default
           {% for image in site.static_files %}
             {% if image.basename == page.author and image.path contains 'cropped' %}
                 <div class="post-author__image">
-                  <img src="{{ site.baseurl }}/assets/img/people/cropped/{{ page.author }}.jpg" alt="{{ author.name }}">
+                  <img src="{{ site.baseurl }}/assets/img/people/cropped/{{ page.author }}.jpg" alt="{{ author.title }}">
                 </div>
             {% break %}
             {% endif %}
@@ -82,7 +82,7 @@ layout: default
 
           <!-- link to author's person page -->
           <div class="post-author__name">
-            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
+            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.title }}</a>
             <!-- list position if relevant: -->
             {% if author_categories contains 'Staff' %}
               {% if author.status == 'current' %}is{% else %}was{% endif %}
@@ -93,7 +93,7 @@ layout: default
 
         <!-- cite post -->
         <div class="post-credits__citation">
-            <span>Cite this post: </span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on 
+            <span>Cite this post: </span>{{ author.title }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on 
 <script>
 <!-- 
 var now = new Date();

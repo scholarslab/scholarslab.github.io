@@ -2,6 +2,7 @@
 layout: page
 title: Accessibility
 permalink: /accessibility/
+redirect_from: "/about/accessibility/"
 excerpt: "We are committed to making our projects and spaces accessible&mdash;in all meanings of that word&mdash;for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can&mdash;and should&mdash;always be improved."
 nav: true
 ---
