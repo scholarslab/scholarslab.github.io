@@ -1,5 +1,9 @@
 ---
 collaborators: 
+  - name: Steph Ceraso
+  	role: Faculty Project Lead
+  - name: Matthew Pavesich
+  	role: Faculty Project Lead
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Head of Research and Development
@@ -7,22 +11,13 @@ link: http://designpedagogy.github.io
 layout: work
 slug: design-pedagogy
 title: Design Pedagogy
-thumb-img: design-pedagogy.png
-banner-img: design-pedagogy.png
-research-category: Internal Projects and Community Service
-start-year:
-end-year:
+thumb-img: default-thumb.png
+banner-img: default-banner.png
+research-category: Collaborations
+start-year: 2017
+end-year: 2018
 ---
 
-end-year can say:
-current
-(before 2018)
-if exact year not known
+A collaboration around _Learning as Coordination: Postpedagogy and Design_.
 
-These files also need a thumb & banner image created & placed in the appropriate location
-
-Include text recognizing all collaborators & describing project
-
-research-category can be:
-Internal Projects and Community Service
-Scholarly Collaborations
+In After Pedagogy Paul Lynch asks, “Is teaching still impossible?”—a question that echoes Geoffrey Sirc’s declaration a year earlier that “teaching writing is impossible” (508). These statements amplify a contemporary quandary facing teachers in writing studies: how has the originary and core imperative of writing studies—teaching—come to seem not just difficult but impossible to some of the most exciting thinkers of that very same discipline? Is teaching truly impossible, how did we get here, and how do we begin to move forward? We want to suggest that examining the relationships among postprocess, postpedagogy, and design can offer some answers.
