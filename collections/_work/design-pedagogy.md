@@ -14,8 +14,8 @@ title: Design Pedagogy
 thumb-img: default-thumb.png
 banner-img: default-banner.png
 research-category: Collaborations
-start-year: 2017
-end-year: 2018
+start-year: 2016
+end-year: 2019
 ---
 
 A collaboration around _Learning as Coordination: Postpedagogy and Design_.
