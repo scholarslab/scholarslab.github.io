@@ -13,7 +13,7 @@ slug: mapping-holocaust-eastern-europe
 title:  Mapping the Holocaust in Eastern Europe
 thumb-img: default-thumb.png
 banner-img: default-banner.png
-research-category: Scholarly Collaborations
+research-category: Collaborations
 start-year: (before 2018)
 end-year: current
 ---
