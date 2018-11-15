@@ -1,9 +1,9 @@
 ---
 collaborators: 
   - name: Steph Ceraso
-  	role: Faculty Project Lead
+    role: Faculty Project Lead
   - name: Matthew Pavesich
-  	role: Faculty Project Lead
+    role: Faculty Project Lead
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Head of Research and Development
