@@ -6,7 +6,7 @@ excerpt: "Our charter is a statement of our core and shared ethos&mdash;what we 
 nav: true
 ---
 
-This is not a manifesto. It’s a statement of our core and shared ethos in the Scholars’ Lab.  It represents what we *attend to* here, and how we currently see ourselves. Some points in this charter are aspirational and some are firmly in place as part of the SLab’s culture, but all are things we strive to remain mindful of in our day-to-day practice.
+This is not a manifesto. It’s a statement of our core and shared ethos in the Scholars’ Lab.  It represents what we _attend to_ here, and how we currently see ourselves. Some points in this charter are aspirational and some are firmly in place as part of the SLab’s culture, but all are things we strive to remain mindful of in our day-to-day practice.
 
 
 ## We welcome everyone.
