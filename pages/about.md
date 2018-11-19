@@ -25,8 +25,8 @@ Scholars' Lab is the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for
 We offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches. We're foremost a space for learning together—about anything—by trying stuff. Think of us as friends and colleagues who can help you teach yourself new ways of approaching your interests.
 
 We are an internationally recognized scholarly [team](/people/), with strengths including:
-* the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
-* GIS, mapping, & other spatial technologies
+- the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
+- GIS, mapping, & other spatial technologies
 - cultural heritage informatics (including photogrammetry, scanning, and modeling of artifacts and historic architecture; and exploring virtual reality and augmented reality approaches to this data)
 - pedagogy, training, & mentorship in the digital humanities and spatial technologies, practiced with our 40-55 formally supported students each year (plus additional, informal support of students via consultation & public programming)
 - research & development (e.g. programming and design)
@@ -38,21 +38,21 @@ The SLab hosts [events](/events/) (like workshops and a popular lecture series) 
 We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter/).
 
 ## How can the Scholars' Lab fit into my work? What do you do?
-1. **Consults**: As a <a href="http://lib.virginia.edu">Library</a> unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods. During your consult, we can help you:  
+1) **Consults**: As a <a href="http://lib.virginia.edu">Library</a> unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods. During your consult, we can help you:  
 - get started practicing experimental methods via the digital humanities, spatial technologies, and/or cultural heritage scholarship scholarly communities, e.g. connecting you to resources for self-teaching and our scholarly networks at UVA and internationally  
 - conceptualize and scope a project  
 - create or find, manage, and use data  
 - use our GIS software, virtual/augmented reality equipment, or humanities Makerspace  
 - review your ongoing work, such as critiquing your design and code  
 
-2. **Collaboration**: As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other UVA folks. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties. 
+2) **Collaboration**: As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other UVA folks. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties. 
 
 - We build things _with_ people (e.g. as peer scholars, co-PIs on grant proposals), but we do not build things _for_ people. 
 - We do not provide general design, web development, or technical services. We do our best to help folks stuck on technical questions during our regular Open Office Hours, and are happy to refer to expertise and facilities around UVA (e.g. DH@UVA, Research Data Services, Teaching & Learning team, Data Sciences Institute, IATH).  
 - Our staff offer years of scholarly experience, including advanced scholarly and professional degrees. With at least one term's notice we may collaborate on syllabus design or module teaching, and after longer relationships formally co-teach courses. 
 - Faculty who seek support for digital assignments in their courses or short-term tech instruction should begin with their subject librarian, well in advance. They can connect you with the Library's experts in copyright, data organization (metadata), digital project preservation, research data, and teaching and learning. We recommend consultation with the A&S Learning Design and Technology staff. The UVA Library's Course Enrichment Grants and Faculty Research Sprints are another route to collaborating with Library staff (including Scholars' Lab staff).
 
-3. **Community Lab**: In addition to the consultations and collaborations stated above, much of our time for in-depth work is spent on intentional community design...
+3) **Community Lab**: In addition to the consultations and collaborations stated above, much of our time for in-depth work is spent on intentional community design...
 - Providing GIS support to the entire university  
 - Innovating the mentorship and teaching of experimental approaches to scholarship, both in the library and in the field (e.g. via our 40-55 formal student role opportunities each year)  
 - Piloting future Library and UVA initiatives like our Praxis Program (one of the historic UVA DH strengths behind the new DH graduate certificate)  
@@ -113,4 +113,4 @@ This website contains the collective effort of our [staff and collaborators](/pe
 
 We want to especially highlight the leadership and labor of [Katherine Donnally](/people/katherine-donnally/) (Scholars' Lab DH Designer 2017-2018) in realizing this site. Katherine's thinking and work gave the renewal project a coherent focus around making the lab more accessible and supportive of folks who might not otherwise feel part of our community; in addition to design and development work, she created structures and documentation (e.g. goal and progress tracker, code commenting, analysis of the old website, articulation of the purpose of the new site) that were instrumental in both imagining the new site and seeing it to the finish line.
 
-Check out our [site relaunch blog post](/2018/10/07/site-relaunch) for more information on how and why we renewed the ScholarsLab.org website. You may also be interested in the [site map](/sitemap) listing all of this website's pages.
+Check out our [site relaunch blog post](/2018/10/07/site-relaunch) for more information on how and why we renewed our ScholarsLab.org website. You may also be interested in the [site map](/sitemap) listing all of this website's pages.
