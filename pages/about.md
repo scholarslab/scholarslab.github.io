@@ -8,7 +8,7 @@ order: 1
 ---
 
 <a href="#what-is-the-scholars-lab">What is the Scholars' Lab?</a>  
-<a href="#how-can-the-scholars-lab-fit-into-my-work">How can the Scholars' Lab fit into my work? What do you do?</a> 
+<a href="#how-can-the-scholars-lab-fit-into-my-work-what-do-you-do">How can the Scholars' Lab fit into my work? What do you do?</a> 
 <a href="#can-you-build-me-a-thing">Can you build me a thing?</a>  
 <a href="#can-we-collaborate">Can we collaborate?</a> 
 <a href="#what-academic-fields-do-you-support">What academic fields do you support?</a>   
@@ -78,7 +78,7 @@ We love to work together with other folks at UVA and beyond! Our decisions about
 Although we bring library, digital humanities, spatial technologies, & cultural heritage skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field, and we regularly collaborate in almost every area on Grounds. An inexhaustive list of who we've worked with on Grounds includes folks from Biology, Environmental Science, Nursing, Media Studies, Music, Religious Studies, Spanish, Slavic, German, French, Classics, English, History, Art History, Architecture, and GIS/spatial tech support across Grounds.
 
 ## How does the Lab fit into the UVA Library?
-The Scholars' Lab was founded in 2006. We’re part of <a href="http://lib.virginia.edu">the UVA Library</a> and its mission to provide equitable access to knowledge and learning to everyone. Organizationally, we sit in the Library's Public Services unit lead by AUL Dennis Clark. We frequently collaborate with our Library colleagues, including Digital Preservation, Special Collections, Teaching & Learning, and subject liaison librarians. Although we're not just a DH center, we're also part of the [DH@UVA](http://digitalhumanities.virginia.edu) ecosystem of teams and people doing digital and cultural work on Grounds.
+The Scholars' Lab was founded in 2006. We’re part of <a href="http://lib.virginia.edu">the UVA Library</a> and its mission to provide equitable access to knowledge and learning to everyone. Organizationally, we sit in the Library's Public Services unit lead by AUL Dennis Clark. We frequently collaborate with our Library colleagues, including Preservation, Special Collections, Teaching & Learning, and subject liaison librarians. Although we're not just a DH center, we're also part of the [DH@UVA](http://digitalhumanities.virginia.edu) ecosystem of teams and people doing digital humanities and cultural heritage work on Grounds.
 
 ## Who are the scholars in "Scholars' Lab"?
 Everyone! We define scholarship as one part critical thinking plus one part communicating the results of that thinking. Critical thinking can be accomplished through many methods, including research, writing, coding, building, designing, experimenting, and play. Communicating critical thinking can take the form of traditional publishing or other forms of “making public” such as tweeting and blogging, teaching, sharing open source code, or any other way for your intellectual community to learn from, critique, evaluate, and/or build on your work. When we refer to scholars, that includes anyone critically engaging with a concept: students, staff, faculty, and community members. On our website, the page that often gets titled "Projects" or "Research" or "Scholarship" on similar websites is titled "Our Work", to better reflect that our scholarship covers a broad variety of work.
@@ -91,18 +91,20 @@ We express this in [our charter](/charter/) as "We build up people and practices
 ## Where are you?
 Our [Hours & Spaces page](/hours-and-spaces/) has more information on our physical spaces as well as maps helping you navigate to us. 
 
-We're in Alderman Library, which is just west of the Rotunda and chapel and east of Nameless Field on UVA Grounds. We're the west wing of Alderman's fourth floor, but because the main public entrance to Alderman opens onto the 4th floor we're on the same floor you enter on. Turn left and walk past Greenberry's coffee shop and a water fountain to find the Scholars' Lab staff offices, then turn right to find our Common Area and Makerspace.
+We're in Alderman Library, which is on UVA's Central Grounds: just west of the Rotunda and chapel, and just east of Nameless Field and those tennis courts. We're the west wing of Alderman's fourth floor; because the main public entrance to Alderman opens onto the 4th floor, we're on the same floor you enter on. Turn left and walk past Greenberry's coffee shop and a water fountain to find the Scholars' Lab staff offices, then turn right to find our Common Area (including Makerspace and Open Office Hours area), Alderman 421 (electronic classroom), and Alderman 423 (smaller classroom).
 
-Our cultural heritage informatics experts, Will Rourk and Arin Bennett, are currently seated on the third floor of Clemons Library, which is right next to Alderman to the southwest (turn right after entering the 3rd floor, and walk past the open lab area to find their offices). The Clemons VizLounge spaces is also on the third floor, but you'd reach it by turning left after entering the third floor.
+Our cultural heritage informatics experts, Will Rourk and Arin Bennett, are currently seated on the third floor of Clemons Library, which is just southwest of Alderman; if you're standing on the Alderman front steps facing south, turn right (you'll pass the Harrison-Small Special Collections building, which has rockers on a front porch), then walk past the Aviator Statue and the outdoor terrace to find Clemons' front doors. Inside Clemons, turn right to find the elevator/stairwell; after entering the 3rd floor, turn right and walk past the DML lab area to find their offices (Will and Arin request folks <a href="mailto:spatial@virginia.edu">email them</a> first for an appointment, as they are not always working from their desks). The Clemons VizLounge spaces is also on that third floor, but you'd reach it by turning left after entering the third floor.
 
 ## How do I contact you?
-For GIS-specific questions, contact [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
+For general inquiries, write to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
 
 For questions about spatial technologies and cultural heritage informatics, contact [spatial@virginia.edu](mailto:spatial@virginia.edu).
 
+For GIS-specific questions, contact [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
+
 For inquiries about our Makerspace, write to [slabmakerspace@virginia.edu](mailto:slabmakerspace@virginia.edu).
 
-For all other inquiries, write to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
+We are also on Twitter <a hfre="https://twitter.com/ScholarsLab">@ScholarsLab</a>.
 
 ## How was this website made?
 This website contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site (?-2018) and now a Jekyll-generated static website (2018-current).
