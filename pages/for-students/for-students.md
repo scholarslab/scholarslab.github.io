@@ -27,7 +27,7 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 ## Digital Humanities Fellowship Program
 **Call issued:** Annually in August
 
-**Deadline:** Closed for the 2018-2019 year
+**Deadline:** Open for the 2019-2020 year; due November 30th, 2019
 [More information](/digital-humanities-fellows/)
 
 ## Makerspace Technologist
