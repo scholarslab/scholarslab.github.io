@@ -2,7 +2,7 @@
 collaborators: 
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Technologies and Architectural Specialist
+    role: 3D Data and Content Specialist
 layout: work
 slug: cultural-heritage-dataverse-repository
 title: Cultural Heritage Dataverse Repository
