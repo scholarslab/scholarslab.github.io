@@ -8,14 +8,14 @@ order: 1
 ---
 
 <a href="#what-is-the-scholars-lab">What is the Scholars' Lab?</a>  
-<a href="#what-academic-fields-do-you-support">What academic fields do you support?</a>  
-<a href="#who-are-the-scholars-in-scholars-lab">Who are the scholars in "Scholars' Lab"?</a>  
-<a href="#how-can-the-scholars-lab-fit-into-my-work">How can the Scholars' Lab fit into my work?</a>  
+<a href="#how-can-the-scholars-lab-fit-into-my-work">How can the Scholars' Lab fit into my work? What do you do?</a> 
 <a href="#can-you-build-me-a-thing">Can you build me a thing?</a>  
-<a href="#can-we-collaborate">Can we collaborate?</a>  
+<a href="#can-we-collaborate">Can we collaborate?</a> 
+<a href="#what-academic-fields-do-you-support">What academic fields do you support?</a>   
+<a href="#how-does-the-lab-fit-into-the-uva-library">How does the Lab fit into the UVA Library?</a>  
+<a href="#who-are-the-scholars-in-scholars-lab">Who are the scholars in "Scholars' Lab"?</a> 
 <a href="#ive-heard-that-people-over-projects-is-a-scholars-lab-motto-what-does-that-mean-do-you-do-projects">I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects?</a>  
 <a href="#where-are-you">Where are you?</a>  
-<a href="#how-does-the-lab-fit-into-the-uva-library">How does the Lab fit into the UVA Library?</a>  
 <a href="#how-do-i-contact-you">How do I contact you?</a>  
 <a href="#how-was-this-website-made">How was this website made?</a>
 
@@ -37,15 +37,7 @@ The SLab hosts [events](/events/) (like workshops and a popular lecture series) 
 
 We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter/).
 
-## What academic fields do you support?
-Although we bring library, digital humanities, spatial technologies, & cultural heritage skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field, and we regularly collaborate in almost every area on Grounds. An inexhaustive list of who we've worked with on Grounds includes folks from Biology, Environmental Science, Nursing, Media Studies, Music, Religious Studies, Spanish, Slavic, German, French, Classics, English, History, Art History, Architecture, and GIS/spatial tech support across Grounds.
-
-## Who are the scholars in "Scholars' Lab"?
-Everyone! We define scholarship as one part critical thinking plus one part communicating the results of that thinking. Critical thinking can be accomplished through many methods, including research, writing, coding, building, designing, experimenting, and play. Communicating critical thinking can take the form of traditional publishing or other forms of “making public” such as tweeting and blogging, teaching, sharing open source code, or any other way for your intellectual community to learn from, critique, evaluate, and/or build on your work. When we refer to scholars, that includes anyone critically engaging with a concept: students, staff, faculty, and community members. On our website, the page that often gets titled "Projects" or "Research" or "Scholarship" on similar websites is titled "Our Work", to better reflect that our scholarship covers a broad variety of work.
-
-Check out our [people](/people/) page for current staff, students, and alums.
-
-## How can the Scholars' Lab fit into my work?
+## How can the Scholars' Lab fit into my work? What do you do?
 1. **Consults**: As a <a href="http://lib.virginia.edu">Library</a> unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods. During your consult, we can help you:  
 - get started practicing experimental methods via the digital humanities, spatial technologies, and/or cultural heritage scholarship scholarly communities, e.g. connecting you to resources for self-teaching and our scholarly networks at UVA and internationally  
 - conceptualize and scope a project  
@@ -74,15 +66,27 @@ Check out our [people](/people/) page for current staff, students, and alums.
 - Internal research shaping the scholarly fields we're part of (e.g. developing our Neatline tool for critical storytelling in time and space) and connecting UVA folks to these fields
 
 ## Can you build me a thing?
-In general, we do not provide design, web development, or technical support. We enjoy building things _with_ people (e.g. as collaborators, peer scholars, and co-PIs on grant proposals), but we do not build things _for_ people.
-
-We do our best to help out folks stuck on a DH technical question during our regular Open Office Hours, and are happy to refer to expertise and facilities around the University (e.g. Data Sciences Institute, SHANTI, IATH).  
+We strongly believe investment in the direct practice of experimental methods is the key to transformative experiences for individual scholars, as well as the best leveraging of our resources on behalf of UVA. Therefore, we do not provide general design, web development, or technical services. We build things _with_ people (e.g. as peer scholars, co-PIs on grant proposals), but we do not build things _for_ people: 
+- As a <a href="http://lib.virginia.edu">Library</a> unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods.  
+- As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other scholars. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties, and are usually an outgrowth of shorter consultations and SLab community involvement.  
+We do our best to help folks stuck on technical questions during our regular Open Office Hours, and are happy to refer to expertise and facilities around UVA (e.g. DH@UVA, Research Data Services, Teaching & Learning team, Data Sciences Institute, IATH), or recommend developer and consultants at UVA and beyond seeking paid work (if you're looking for someone to build something for you). 
 
 ## Can we collaborate?
-Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties. [Contact us](mailto:scholarslab@virginia.edu) for an initial consult to discuss ideas for longer-term collaborations, such as working as co-PIs on a grant project.
+We love to work together with other folks at UVA and beyond! Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties, and are usually an outgrowth of shorter consultations and SLab community involvement. Please [contact us](mailto:scholarslab@virginia.edu) for an initial consult to discuss ideas for longer-term collaborations, such as working as co-PIs on a grant project.
+
+## What academic fields do you support?
+Although we bring library, digital humanities, spatial technologies, & cultural heritage skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field, and we regularly collaborate in almost every area on Grounds. An inexhaustive list of who we've worked with on Grounds includes folks from Biology, Environmental Science, Nursing, Media Studies, Music, Religious Studies, Spanish, Slavic, German, French, Classics, English, History, Art History, Architecture, and GIS/spatial tech support across Grounds.
+
+## How does the Lab fit into the UVA Library?
+The Scholars' Lab was founded in 2006. We’re part of <a href="http://lib.virginia.edu">the UVA Library</a> and its mission to provide equitable access to knowledge and learning to everyone. Organizationally, we sit in the Library's Public Services unit lead by AUL Dennis Clark. We frequently collaborate with our Library colleagues, including Digital Preservation, Special Collections, Teaching & Learning, and subject liaison librarians. Although we're not just a DH center, we're also part of the [DH@UVA](http://digitalhumanities.virginia.edu) ecosystem of teams and people doing digital and cultural work on Grounds.
+
+## Who are the scholars in "Scholars' Lab"?
+Everyone! We define scholarship as one part critical thinking plus one part communicating the results of that thinking. Critical thinking can be accomplished through many methods, including research, writing, coding, building, designing, experimenting, and play. Communicating critical thinking can take the form of traditional publishing or other forms of “making public” such as tweeting and blogging, teaching, sharing open source code, or any other way for your intellectual community to learn from, critique, evaluate, and/or build on your work. When we refer to scholars, that includes anyone critically engaging with a concept: students, staff, faculty, and community members. On our website, the page that often gets titled "Projects" or "Research" or "Scholarship" on similar websites is titled "Our Work", to better reflect that our scholarship covers a broad variety of work.
+
+Check out our [people](/people/) page for current staff, students, and alums.
 
 ## I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects?
-We express this in [our charter](/charter/) as "We build up people and practices more than products." At the Scholars' Lab, our most important digital humanities project is our community of scholars: mentors, learners, researchers, teachers, crafters and makers, and collaborators. Research requires communication and community to become scholarship, and we believe that research can only flourish meaningfully when we respect and care for the people in our intellectual communities. We prioritize the process of learning and discovery: sometimes that results in named projects with communities of users and shiny laptop stickers (e.g. [Neatline](http://neatline.org), and sometimes that means trying something, failing, and sharing that learning so you and others can build on it. Most often, it means we consult and collaborate with UVA folks to help them learn to get their hands dirty building something themselves, and we prioritize encouraging, mentoring, teaching, and learning from these collaborators over whether a formal "project" happens or what that looks like.
+We express this in [our charter](/charter/) as "We build up people and practices more than products." At the Scholars' Lab, our most important scholarship is our community of scholars: mentors, learners, researchers, teachers, crafters, makers, and collaborators. Research requires communication and community to become scholarship, and we believe that research can only flourish meaningfully when we respect and care for the people in our intellectual communities. We prioritize the process of learning and discovery: sometimes that results in named projects with communities of users and shiny laptop stickers (e.g. [Neatline](http://neatline.org), and sometimes that means trying something, failing, and sharing that learning so you and others can build on it. Most often, it means we consult and collaborate with UVA folks to help them learn through the direct practice of building something or participating in fieldwork themselves. We prioritize encouraging, mentoring, teaching, and learning from these collaborators over whether a formal "project" happens or what that looks like.
 
 ## Where are you?
 Our [Hours & Spaces page](/hours-and-spaces/) has more information on our physical spaces as well as maps helping you navigate to us. 
@@ -90,9 +94,6 @@ Our [Hours & Spaces page](/hours-and-spaces/) has more information on our physic
 We're in Alderman Library, which is just west of the Rotunda and chapel and east of Nameless Field on UVA Grounds. We're the west wing of Alderman's fourth floor, but because the main public entrance to Alderman opens onto the 4th floor we're on the same floor you enter on. Turn left and walk past Greenberry's coffee shop and a water fountain to find the Scholars' Lab staff offices, then turn right to find our Common Area and Makerspace.
 
 Our cultural heritage informatics experts, Will Rourk and Arin Bennett, are currently seated on the third floor of Clemons Library, which is right next to Alderman to the southwest (turn right after entering the 3rd floor, and walk past the open lab area to find their offices). The Clemons VizLounge spaces is also on the third floor, but you'd reach it by turning left after entering the third floor.
-
-## How does the Lab fit into the UVA Library?
-The Scholars' Lab was founded in 2006. We’re part of <a href="http://lib.virginia.edu">the UVA Library</a> and its mission to provide equitable access to knowledge and learning to everyone. Organizationally, we sit in the Library's Public Services unit lead by AUL Dennis Clark. We frequently collaborate with our Library colleagues, including Digital Preservation, Special Collections, Teaching & Learning, and subject liaison librarians. Although we're not just a DH center, we're also part of the [DH@UVA](http://digitalhumanities.virginia.edu) ecosystem of teams and people doing digital and cultural work on Grounds.
 
 ## How do I contact you?
 For GIS-specific questions, contact [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
