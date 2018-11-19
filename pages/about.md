@@ -25,8 +25,8 @@ Scholars' Lab is the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for
 We offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches. We're foremost a space for learning together—about anything—by trying stuff. Think of us as friends and colleagues who can help you teach yourself new ways of approaching your interests.
 
 We are an internationally recognized scholarly [team](/people/), with strengths including:
-- the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
-- GIS, mapping, & other spatial technologies
+* the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
+* GIS, mapping, & other spatial technologies
 - cultural heritage informatics (including photogrammetry, scanning, and modeling of artifacts and historic architecture; and exploring virtual reality and augmented reality approaches to this data)
 - pedagogy, training, & mentorship in the digital humanities and spatial technologies, practiced with our 40-55 formally supported students each year (plus additional, informal support of students via consultation & public programming)
 - research & development (e.g. programming and design)
