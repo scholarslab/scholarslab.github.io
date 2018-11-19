@@ -78,4 +78,4 @@ The Scholars’ Lab is committed to advancing more equitable, ethical, and just 
 
 We teach in public, meaning that we talk openly about our pedagogical process. When possible, we write about it as well. If something is not working, we will change it and adapt based on the needs of the students and our colleagues. Accordingly, we expect our students to talk and write about their work and the learning process for them, to engage in the experience, and help us shape a pedagogical experience that works for them.
 
-2018-08-24
+_2018-08-24_
