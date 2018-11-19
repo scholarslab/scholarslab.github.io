@@ -5,9 +5,9 @@ permalink: /digital-humanities-fellows/
 nav: false
 ---
 
-We are now accepting applications for the 2018-2019 DH Fellows Cohort. Please visit [https://tinyurl.com/SLabDHFellows2018-2019](https://tinyurl.com/SLabDHFellows2018-2019) for complete information.
+We are now accepting applications for the 2019-2020 DH Fellows Cohort. Please visit **TBD** for complete information.
 
-The application deadline for 2018 is **TBD**.
+The application deadline for 2019 is **TBD**.
 
 The Digital Humanities Fellowship supports advanced doctoral students doing innovative work in the digital humanities at the University of Virginia. The Scholars’ Lab offers Grad Fellows advice and assistance with the creation and analysis of digital content, as well as consultation on intellectual property issues and best practices in digital scholarship and DH software development.
 
