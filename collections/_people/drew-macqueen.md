@@ -16,3 +16,4 @@ people-category:
 roles:
 - staff
 ---
+Drew MacQueen is a GIS Specialist in the Scholars’ Lab where he focuses on spatial data collection and analysis, and web-based GIS and visualization; occasionally dipping a toe into the waters of scripting and spatial database design.
