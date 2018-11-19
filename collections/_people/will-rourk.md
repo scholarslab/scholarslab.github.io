@@ -16,5 +16,4 @@ people-category:
 roles:
 - staff
 ---
-
-
+Will Rourk scans historic buildings, monuments, and objects and renders the scans into 3D data. He thinks about metadata for virtual objects a lot. Ask him about Tibet and Irish tin whistles.
