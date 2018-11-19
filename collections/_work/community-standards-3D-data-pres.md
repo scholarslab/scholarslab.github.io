@@ -2,7 +2,7 @@
 collaborators: 
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Technologies and Architectural Specialist
+    role: 3D Data and Content Specialist
   - name: CS3DP Best Practices working group
 layout: work
 slug: community-standards-3d-data-pres

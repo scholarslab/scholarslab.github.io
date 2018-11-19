@@ -4,7 +4,7 @@ collaborators:
     role: Project Lead
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Technologies and Architectural Specialist
+    role: 3D Data and Content Specialist
   - name: Chris Gist
     slug: chris-gist
     role: GIS Specialist
