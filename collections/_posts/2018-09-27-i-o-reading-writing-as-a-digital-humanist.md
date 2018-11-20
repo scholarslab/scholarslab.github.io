@@ -1,6 +1,5 @@
 ---
-author: amanda
-comments: true
+author: amanda-visconti
 date: 2018-09-27 11:58:06+00:00
 layout: post
 permalink: /digital-humanities/i-o-reading-writing-as-a-digital-humanist/
