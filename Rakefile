@@ -1,6 +1,3 @@
-sh 'gem install bundler'
-sh 'bundle install'
-
 require 'date'
 require 'time'
 require 'html-proofer'
@@ -9,29 +6,31 @@ require 'json'
 require 'front_matter_parser'
 require 'open3'
 require 'jekyll'
-require 'ruby-progressbar'
 require 'fileutils'
+require 'kramdown'
 
 class String
   def titlecase
     split(/([[:alpha:]]+)/).map(&:capitalize).join
   end
+
+  def striphtml
+    split(/\<.*?\>/)
+    .map(&:strip)
+   .reject(&:empty?)
+   .join(' ')
+   .gsub(/\s,/,',')
+  end
 end
 
 desc "Install dependencies"
 task :install_dependencies do
-    progressbar = ProgressBar.create(
-                    :title => "install dependencies",
-                    :format => "\e[0;33m%t: |%B|\e[0m",
-                    :starting_at => 10)
-    50.times { progressbar.increment; sleep 0.1 }
+    sh 'bundle install'
     sh 'npm install'
-    progressbar.finish
 end
 
-
-desc "Run travis tests"
-task :test_travis do
+desc "Run tests on the build."
+task :test_build do
     sh 'bundle exec jekyll build'
     options = {
       :assume_extension => true,
@@ -48,6 +47,11 @@ task :test_travis do
   
   HTMLProofer.check_directory("./_site", options).run
   sh 'bundle exec jekyll serve --incremental --skip-initial-build'
+end
+
+desc "Build the site."
+task :build_site do
+    sh 'bundle exec jekyll build'
 end
 
 desc "Make a research project"
@@ -162,11 +166,6 @@ end
 
 desc "Delete corpus files to regenerate"
 task :delete_corpus do
-    progressbar = ProgressBar.create(
-                    :title => "deleting existing files",
-                    :format => "\e[0;34m%t: |%B|\e[0m",
-                    :starting_at => 10)
-    50.times { progressbar.increment; sleep 0.1 }
     if File.file?('./corpus.json')
         File.delete('./corpus.json')
     end
@@ -176,21 +175,16 @@ task :delete_corpus do
     if File.exist?('./_site')
         FileUtils.rm_rf('./_site')
     end
-    progressbar.finish
 end
 
 desc "Create corpus for search"
 file './corpus.json' => ['./', *Rake::FileList['collections/**/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
-    progressbar = ProgressBar.create(
-                    :title => "creating corpus",
-                    :format => "\e[0;35m%t: |%B|\e[0m",
-                    :starting_at => 10)
-    50.times { progressbar.increment; sleep 0.1 }
     unsafe_loader = ->(string) { YAML.load(string) }
     corpus = md_file.sources.grep(/\.md$/)
       .map do |path|
         file_path = './' + path
         parsed = FrontMatterParser::Parser.parse_file(file_path, loader: unsafe_loader)
+        contentHtml = Kramdown::Document.new(parsed.content).to_html
         {
           id: path.pathmap('%n'),
           title: parsed.front_matter["title"],
@@ -199,27 +193,22 @@ file './corpus.json' => ['./', *Rake::FileList['collections/**/*.md'].exclude('.
           categories: parsed.front_matter["categories"],
           url: parsed.front_matter["slug"],
           layout: parsed.front_matter["layout"],
-          content: parsed.content,
+          content: contentHtml.striphtml,
         }
       end
   File.open(md_file.name, 'w') do |f|
     f << JSON.generate(corpus)
   end
-  progressbar.finish
 end
 
 file './search_index.json' => ['./corpus.json'] do |t|
-  progressbar = ProgressBar.create(
-                    :title => "creating search index",
-                    :format => "\e[0;36m%t: |%B|\e[0m",
-                    :starting_at => 10)
-    50.times { progressbar.increment; sleep 0.1 }
   Open3.popen2('node script/build-index') do |stdin, stdout, wt|
     IO.copy_stream(t.source, stdin)
     stdin.close
     IO.copy_stream(stdout, t.name)
   end
-  progressbar.finish
 end
 
-task :default => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :test_travis]
+task :generate_search => [:delete_corpus, './corpus.json', './search_index.json']
+task :default => [:install_dependencies, :generate_search, :test_build]
+task :publish => [:install_dependencies, :generate_search, :build_site]

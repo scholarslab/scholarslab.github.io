@@ -11,4 +11,4 @@ An important aspect of Maker culture is apprenticeship and supporting makers in 
 
 Candidates should be able to work up to 10 hours per week. Applications should consist of a cover letter discussing their interest in working in the Scholars’ Lab, any experience or interest in participating in a maker space, and any previous experience with public service or assisting others in using technology. Please send inquiries and applications to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
 
-Multiple openings are available for the Spring 2018 semester, and review of applicants is ongoing until filled. In general, positions are available on a regular basis subject to need.
+In general, positions are available on a regular basis subject to need. Review of applicants is ongoing until filled. 
