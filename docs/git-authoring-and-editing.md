@@ -2,6 +2,8 @@
 
 Also note: this is a copy of the under-construction GitHub drafting documentation. Feel free to cut stuff that isn't specific to git/command line/local Jekyll documentation.
 
+And! remove any references to maybe.scholarslab.org as the main site.
+
 First, you'll need to create a new branch to work on. You will want your branch to have a name descriptive of the work that you are doing on it. For example, this file was added on a branch called documentation Then we'll switch to that branch. You do so using the following commands (branch-name-here being substituted with the branch of your choice).
 
 
