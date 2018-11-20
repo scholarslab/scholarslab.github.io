@@ -1,6 +1,3 @@
-sh 'gem install bundler'
-sh 'bundle install'
-
 require 'date'
 require 'time'
 require 'html-proofer'
@@ -19,6 +16,7 @@ end
 
 desc "Install dependencies"
 task :install_dependencies do
+    sh 'bundle install'
     sh 'npm install'
 end
 
