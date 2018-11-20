@@ -1,11 +1,10 @@
 ---
-author: mes2tf
-comments: true
+author: mathilda-shepard
 date: 2018-09-28 13:19:49+00:00
 layout: post
 permalink: /uncategorized/a-toolkit-the-public-domain/
 slug: a-toolkit-the-public-domain
-title: A Toolkit [...?] the Public Domain
+title: "A Toolkit [...?] the Public Domain"
 categories:
 - Digital Humanities
 - Grad Student Research

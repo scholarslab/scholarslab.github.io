@@ -1,5 +1,5 @@
 ---
-author: zj3av
+author: cho-jiang
 comments: true
 date: 2018-09-28 10:33:20+00:00
 layout: post
@@ -8,6 +8,7 @@ slug: text-mining-and-digital-humanities
 title: Text Mining and Digital Humanities
 categories:
 - Digital Humanities
+- Grad Student Research
 tags:
 - praxis program
 ---
