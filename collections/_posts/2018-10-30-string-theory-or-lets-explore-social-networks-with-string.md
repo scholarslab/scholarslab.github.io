@@ -1,22 +1,26 @@
 ---
-author: ctw2cs
-comments: true
+author: chris-whitehead
 date: 2018-10-30 07:53:28+00:00
 layout: post
 permalink: /uncategorized/string-theory-or-lets-explore-social-networks-with-string/
 slug: string-theory-or-lets-explore-social-networks-with-string
 title: 'String Theory, or: Let''s Explore Social Networks with String!'
+categories:
+- Digital Humanities
+- Grad Student Research
 ---
 
 For the last few weeks, the Praxis Fellows have been workshopping workshops designed to render the digital humanities methods we use in our own research accessible (and useful) to undergraduates. If that sounds meta, it's because it is! But the process has also helped distill some interesting digital humanities methods into their fundamental concepts. In this blog post, I will share the outline of an analog workshop to help convey the basics of social network analysis to undergraduates.
 
 By the end of the workshop, the seminar room should look something like this:
 
-[caption id="attachment_14652" align="aligncenter" width="425"]![](http://scholarslab.org/wp-content/uploads/2018/10/Holmes-String-300x219.jpg) Photo from "Sherlock Holmes: A Game of Shadows" (2011)[/caption]
+![](http://scholarslab.org/wp-content/uploads/2018/10/Holmes-String-300x219.jpg)  
+Photo from "Sherlock Holmes: A Game of Shadows" (2011)
 
 And students should look more or less like this:
 
-[caption id="attachment_14656" align="aligncenter" width="425"]![](http://scholarslab.org/wp-content/uploads/2018/10/Pepe-Silvia-300x225.jpg) Photo from "It's Always Sunny in Philadelphia"[/caption]
+![](http://scholarslab.org/wp-content/uploads/2018/10/Pepe-Silvia-300x225.jpg)  
+Photo from "It's Always Sunny in Philadelphia"
 
 Because, friends, we're examining social network analysis. With string!
 
@@ -78,7 +82,8 @@ To conduct this workshop, the presenter will need the following:
 
 I envision the following workshop taking between 60-75 minutes to complete. However, it is possible to adapt the workshop to fill more or less time by the number of examples pursued for each analysis. Furthermore, the presenter could augment the final part of the workshop, "Applications," with examples from their own work.
 
-[caption id="attachment_14678" align="aligncenter" width="402"]![](http://scholarslab.org/wp-content/uploads/2018/10/kitten-playing-with-red-yarn-300x189.jpg) Photo from playrightmeow.com[/caption]
+![](http://scholarslab.org/wp-content/uploads/2018/10/kitten-playing-with-red-yarn-300x189.jpg)  
+Photo from playrightmeow.com
 
 
 #### **Now...Time to Play with Yarn**
