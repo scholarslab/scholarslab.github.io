@@ -1,6 +1,5 @@
 ---
-author: ca2bb
-comments: true
+author: catherine-addington
 date: 2018-10-27 22:05:41+00:00
 layout: post
 permalink: /grad-student-research/teaching-transcription-and-secretly-metaphysics/
