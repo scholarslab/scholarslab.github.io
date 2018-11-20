@@ -1,6 +1,5 @@
 ---
-author: laura
-comments: true
+author: laura-miller
 date: 2018-09-04 19:10:30+00:00
 layout: post
 permalink: /geospatial-and-temporal/fall-2018-virtual-reality-workshop-series/
