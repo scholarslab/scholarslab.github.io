@@ -20,8 +20,8 @@ task :install_dependencies do
     sh 'npm install'
 end
 
-desc "Run travis tests"
-task :test_travis do
+desc "Run tests on the build."
+task :test_build do
     sh 'bundle exec jekyll build'
     options = {
       :assume_extension => true,
@@ -194,4 +194,4 @@ file './search_index.json' => ['./corpus.json'] do |t|
   end
 end
 
-task :default => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :test_travis]
+task :default => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :test_build]
