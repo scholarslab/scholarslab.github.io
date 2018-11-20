@@ -1,6 +1,5 @@
 ---
-author: amanda
-comments: true
+author: amanda-visconti
 date: 2018-09-24 16:36:44+00:00
 layout: post
 permalink: /announcements/job-opening-developer-outreach-testing-coordinator/
@@ -13,7 +12,7 @@ tags:
 - job
 ---
 
-[_As of 9/28/2018, we updated the length of the User Advocate position’s appointment to 18 months (with the possibility of 6 months’ renewal). __This post has been edited significantly since its original posting to reflect this change. Contact jeremy@virginia.edu with any questions._]
+(_As of 9/28/2018, we updated the length of the User Advocate position’s appointment to 18 months (with the possibility of 6 months’ renewal). This post has been edited significantly since its original posting to reflect this change. Contact jeremy@virginia.edu with any questions._)
 
 We're seeking an additional colleague for our R&D team: **Development and Testing Outreach Coordinator**! Come be our advocate for the users of our DH projects, working on documentation, design, development, and project management approaches to champion user needs. [Apply now](http://jobs.virginia.edu/applicants/Central?quickFind=85543) (or search UVA Jobs for posting #0624083), or read on for more info.
 

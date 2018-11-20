@@ -2,12 +2,12 @@
 department: Spanish
 email: None
 first_name: Mathilda
-last_name: Shepherd
+last_name: Shepard
 layout: people
-title: Mathilda Shepherd
+title: Mathilda Shepard
 position:
 short_bio:
-slug: mathilda-shepherd
+slug: mathilda-shepard
 status: current
 twitter: None
 website: None

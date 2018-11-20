@@ -28,7 +28,9 @@ Unfortunately, the benefits of WYSIWYG (what you see is what you get) blog post 
 
 After much discussion and work, these initial goals yielded a more important goal: reimagining our website to more clearly focus on making the lab accessible to folks who wouldn't otherwise already know about or feel welcome to join us. We already have some friendly and well-trodden paths to reaching the lab, such as through our work and fellowship CFPs, consultations, events, and open office hours; so we decided to aim the website at reaching folks who weren't already coming into our space.
 
-[![Screenshot of frequently asked Scholars' Lab questions](/assets/post-media/2018-11-05-FAQs.png)](/about)
+
+[![Screenshot of frequently asked Scholars' Lab questions](/assets/post-media/2018-11-21-FAQlist.png)](/about)
+
 
 Some ways we approached this goal:
 1. **Encouraging site visitors to feel they're in the right place**, by updating textual content and photos to be more explicitly welcoming. For example, we reorganized our [Makerspace](/makerspace) and [Spatial Tech](/spatial-technologies) equipment and software inventories into named categories; you might not know what a serger is, but where you'd probably just skim past the word before, you can now see that it's part of a set of equipment and supplies aimed at making things with fabric. The hope is that by grouping resources like the serger into clearer categories, you might realize that our Makerspace has some resources and folks you can talk to about, for example, your interests in making stuff from textiles, historical costuming, and/or other fabric art approaches.  

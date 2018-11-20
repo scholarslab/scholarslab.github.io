@@ -1,6 +1,5 @@
 ---
-author: ca2bb
-comments: true
+author: catherine-addington
 date: 2018-09-13 14:10:47+00:00
 layout: post
 permalink: /grad-student-research/building-ourselves-up-to-build-things/

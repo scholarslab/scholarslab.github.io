@@ -209,5 +209,6 @@ file './search_index.json' => ['./corpus.json'] do |t|
   end
 end
 
-task :default => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :test_build]
-task :publish => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :build_site]
+task :generate_search => [:delete_corpus, './corpus.json', './search_index.json']
+task :default => [:install_dependencies, :generate_search, :test_build]
+task :publish => [:install_dependencies, :generate_search, :build_site]
