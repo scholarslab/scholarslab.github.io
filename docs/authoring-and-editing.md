@@ -40,7 +40,7 @@ If the workflow in this lesson doesn't work for your needs, there are two simple
 1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to TBD, and they'll post your content for you.
 2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let TBD know when you're finished, and they'll post your content for you.
 
-Already comfortable with the command line and git? You may prefer to switch to [this tutorial](/docs/git-authoring-and-editing.md) for doing your authoring/editing of the site locally; this tutorial instead allows you to do everything from the GitHub.com interface.
+Already comfortable with the command line and git? You may prefer to switch to [this tutorial](/docs/git-authoring-and-editing.md) for doing your authoring/editing of the site locally instead. The tutorial you're currently reading instead allows you to do everything through the GitHub.com interface.
 
 ## Let's get started!
 
@@ -48,8 +48,6 @@ There are **two pieces** to authoring/editing on our website:
 
 1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#make-a-new-branch).
 2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo).
-
-(*A third review step may be added here, when we've finalized our editorial guidelines and process. See [this GitHub issue](https://github.com/scholarslab/scholarslab.org/issues/511) to volunteer work on this.*)
 
 ## Branch and write/edit!
 
