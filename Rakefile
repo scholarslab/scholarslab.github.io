@@ -7,10 +7,19 @@ require 'front_matter_parser'
 require 'open3'
 require 'jekyll'
 require 'fileutils'
+require 'kramdown'
 
 class String
   def titlecase
     split(/([[:alpha:]]+)/).map(&:capitalize).join
+  end
+
+  def striphtml
+    split(/\<.*?\>/)
+    .map(&:strip)
+   .reject(&:empty?)
+   .join(' ')
+   .gsub(/\s,/,',')
   end
 end
 
@@ -175,6 +184,7 @@ file './corpus.json' => ['./', *Rake::FileList['collections/**/*.md'].exclude('.
       .map do |path|
         file_path = './' + path
         parsed = FrontMatterParser::Parser.parse_file(file_path, loader: unsafe_loader)
+        contentHtml = Kramdown::Document.new(parsed.content).to_html
         {
           id: path.pathmap('%n'),
           title: parsed.front_matter["title"],
@@ -183,7 +193,7 @@ file './corpus.json' => ['./', *Rake::FileList['collections/**/*.md'].exclude('.
           categories: parsed.front_matter["categories"],
           url: parsed.front_matter["slug"],
           layout: parsed.front_matter["layout"],
-          content: parsed.content,
+          content: contentHtml.striphtml,
         }
       end
   File.open(md_file.name, 'w') do |f|
