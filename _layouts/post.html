@@ -38,8 +38,8 @@ layout: default
       <div class="post-meta__categories">Filed to:
         {% for c in page.categories %}
         {% assign last = page.categories | last %}
-        {% if c == last %} <a href="#">{{ c | downcase }}</a>
-        {% else %} <a href="#">{{ c | downcase }}</a>,
+        {% if c == last %} {{ c | downcase }}
+        {% else %} {{ c | downcase }},
         {% endif %}{% endfor %}
       </div>
       {% endif %}
