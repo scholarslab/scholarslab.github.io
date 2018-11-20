@@ -40,6 +40,11 @@ task :test_build do
   sh 'bundle exec jekyll serve --incremental --skip-initial-build'
 end
 
+desc "Build the site."
+task :build_site do
+    sh 'bundle exec jekyll build'
+end
+
 desc "Make a research project"
 task :new_project, [:title] do |t, args|
   title_slug = args.title.downcase.gsub(' ', '-')
@@ -195,3 +200,4 @@ file './search_index.json' => ['./corpus.json'] do |t|
 end
 
 task :default => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :test_build]
+task :publish => [:install_dependencies, :delete_corpus, './corpus.json', './search_index.json', :build_site]
