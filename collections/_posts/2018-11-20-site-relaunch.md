@@ -1,6 +1,6 @@
 ---
 author: amanda-visconti
-date: 2018-11-21 12:00:00+00:00
+date: 2018-11-20 12:00:00+00:00
 layout: post
 slug: site-relaunch
 permalink: site-relaunch
