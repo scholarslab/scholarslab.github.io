@@ -1,6 +1,5 @@
 ---
-author: Kelli
-comments: true
+author: kelli-shermeyer
 date: 2018-10-31 10:51:20+00:00
 layout: post
 permalink: /grad-student-research/starting-off-on-the-right-foot-part-one/
@@ -28,6 +27,6 @@ Further examples of this can be found in the ways that some theatre- and film-ma
 
 This is all to say explicitly something that choreographers, actors, and directors understand intimately: movement is an essential part of theatrical expression. We find meaning in and interpret it, as we do the social gestures we make and observe in our everyday lives. In Digital Skriker, I’m mulling over the implications of motion capture technology on the documentation (and potential re-creation) of performance. The Cleveland State study provides empirical evidence that confirms existing wisdom about film composition; I wonder to what extent motion capture can do the same for theatre?
 
-_ _In the next post in this series, I will discuss the limitations of thinking about movement and composition in the terms I’ve outlined and explore other systems for documenting movement and digital projects that play with stage movement, choreography, and motion capture. Stay tuned, friends!
+_In the next post in this series, I will discuss the limitations of thinking about movement and composition in the terms I’ve outlined and explore other systems for documenting movement and digital projects that play with stage movement, choreography, and motion capture. Stay tuned, friends!_
 
 
