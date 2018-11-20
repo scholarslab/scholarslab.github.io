@@ -1,11 +1,12 @@
 ---
-author: em6ks
-comments: true
+author: emily-mellen
 date: 2018-11-06 15:47:51+00:00
 layout: post
 permalink: /uncategorized/sounding-scholarship-a-workshop-on-making-your-research-sing/
 slug: sounding-scholarship-a-workshop-on-making-your-research-sing
 title: 'Sounding Scholarship: A Workshop on Making Your Research Sing'
+categories:
+- Grad Student Research
 ---
 
 Hello! My name is Emily and I’m part of the 2018-19 Praxis cohort. This month, we’ve been thinking about pedagogy and specifically about how to translate our research interests into teachable workshops. If (fellow Praxis member) Catherine’s workshop is [secretly about metaphysics](http://scholarslab.org/grad-student-research/teaching-transcription-and-secretly-metaphysics/), mine might be secretly about sound studies. The workshop revolves around the central question of sound studies, “What can we get from sound that we can’t get from other things?” However, while the discipline of sound studies looks at using sound as subject and evidence, this workshop seeks to encourage practitioners to explore what sound can do for _presenting_ or _interpreting_ research.
