@@ -50,13 +50,6 @@ title: Home
 
 <div class="home-faq__cta"><!--Find answers to these questions and more:<br/--><a href="/about/">About Scholars' Lab</a></div>
 </section>
-
-<!-- open office hours: -->
-<section class="home__office-hours">
-			<div class="home-hours__title">Open Office Hours</div>
-			<div class="home-hours__when">Every Wednesday during fall and spring term,<br/>10am-11:30am.</div>
-			<div class="home-hours__info">Stop by the <a href="/hours-and-spaces/#the-common-room">discussion area</a> just inside the Scholars' Lab Common Room to chat with our experts about your ideas, from your earliest questions and broad ideas through formal projects.</div>
-		</section>
 		
 		<!-- library: -->
 		<section class="home__library">
@@ -129,7 +122,7 @@ title: Home
 					<li data-fill="teal" data-name="offices"><span>Staff offices</span></li>
 				</ul>
 			</div>
-			<p class="home-find__link">See full list of <a href="/hours-and-spaces/" aria-label="hours and spaces page">hours &amp; spaces</a>.</p>
+			<p class="home-hours__cta""><a href="/hours-and-spaces/" aria-label="hours and spaces page">All hours &amp; spaces</a></p>
 		</section>
 
 		<!-- events: -->
@@ -147,7 +140,6 @@ title: Home
                 {% endif %}
             {% endfor %}
 			<!-- event layout: -->
-			
 			<div class="home-events__upcoming">
 				{% for event in events limit: 3 %}
 				<div>
@@ -161,9 +153,19 @@ title: Home
 					</div>
 				</div>
 				{% endfor %}
+<!-- open office hours: -->	
+<div>		
+				<h2>Open Office Hours?</h2>
+				<ul>
+				<li><span>When:</span> 10-11:30am Wednesdays, during fall and spring term</li>
+				<li><span>Where:</span> Scholars' Lab's <a href="/hours-and-spaces/#the-common-room">discussion area</a> just inside our Common Room.</li>
+				Come chat with our experts about anything, from your getting started through advanced projects.
+				</ul>
+				<div class="events-item__cta">
+				<a href="/hours-and-spaces/#the-common-room">Location &rsaquo;</a>
+</div>
 			</div>
-			<p><a href="{{ site.url }}/events/">All events</a></p>
-			<!--div class="home-events__cta"><a href="/events">All Events</a></div-->
+			<div class="home-events__cta"><a href="/events">All events</a></div>
 		</section>
 
 		<!-- section 3: -->
@@ -177,9 +179,11 @@ title: Home
 					<p>We offer a variety of <a href="/for-students/">fellowships and opportunities</a> to this end, which collectively aim to support graduate students during the full measure of their time at UVA.</p>
 					<p>From the innovative <a href="http://praxis.scholarslab.org/">Praxis Program</a> to professionalization training for students on the DH job market, we're here to help whether you're looking to answer a specific call for applications or simply looking to discuss your research.</p>
 				</div>
+				
+				<div class="home-student__cta"><a href="/for-students/">See all</a></div>
+				
 			</div>
 			<div class="home-student__img" title="Placeholder image"></div>
-			<div class="home-student__cta"><a href="/for-students/">See All</a></div>
 		</section>
 
 		<!-- makerspace -->
