@@ -7,6 +7,19 @@ collaborators:
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Head of Research and Development
+  - name: Tim Stevens
+  - name: Molly Schwartzburg  
+  - name: Brandon Butler  
+  - name: Amber Reichert  
+  - name: Elizabeth Wilkinson  
+  - name: Steven Villereal  
+  - name: Daniel Cavanaugh  
+  - name: Jeremy Bartczak  
+  - name: Ivey Glendon  
+  - name: Edward Gaynor  
+  - name: Loren Moulds  
+  - name: Brenda Gunn  
+  - name: Zeke Crater  
 link: http://digitalcollecting.lib.virginia.edu/rally/
 layout: work
 slug: augustcollecting
