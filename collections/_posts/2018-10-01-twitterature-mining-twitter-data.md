@@ -2,7 +2,6 @@
 author: christian-howard
 date: 2018-10-01 13:43:26+00:00
 layout: post
-permalink: /digital-humanities/twitterature-mining-twitter-data/
 slug: twitterature-mining-twitter-data
 title: 'Twitterature: Mining Twitter Data'
 categories:

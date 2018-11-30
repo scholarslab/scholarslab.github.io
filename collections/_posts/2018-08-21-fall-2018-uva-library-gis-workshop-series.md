@@ -2,7 +2,6 @@
 author: chris-gist
 date: 2018-08-21 13:03:30+00:00
 layout: post
-permalink: /geospatial-and-temporal/fall-2018-uva-library-gis-workshop-series/
 slug: fall-2018-uva-library-gis-workshop-series
 title: Fall 2018 UVa Library GIS Workshop Series
 categories:

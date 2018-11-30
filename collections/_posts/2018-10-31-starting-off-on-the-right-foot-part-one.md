@@ -2,7 +2,6 @@
 author: kelli-shermeyer
 date: 2018-10-31 10:51:20+00:00
 layout: post
-permalink: /grad-student-research/starting-off-on-the-right-foot-part-one/
 slug: starting-off-on-the-right-foot-part-one
 title: Starting off on the Right Foot (Part One)
 categories:

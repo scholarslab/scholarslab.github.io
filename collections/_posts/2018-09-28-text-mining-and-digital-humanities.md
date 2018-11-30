@@ -3,7 +3,6 @@ author: cho-jiang
 comments: true
 date: 2018-09-28 10:33:20+00:00
 layout: post
-permalink: /digital-humanities/text-mining-and-digital-humanities/
 slug: text-mining-and-digital-humanities
 title: Text Mining and Digital Humanities
 categories:

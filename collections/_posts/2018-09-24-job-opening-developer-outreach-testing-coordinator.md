@@ -2,7 +2,6 @@
 author: amanda-visconti
 date: 2018-09-24 16:36:44+00:00
 layout: post
-permalink: /announcements/job-opening-developer-outreach-testing-coordinator/
 slug: job-opening-developer-outreach-testing-coordinator
 title: 'Job opening: Come advocate for our users!'
 categories:
