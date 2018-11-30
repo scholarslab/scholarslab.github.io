@@ -10,14 +10,14 @@ order: 1
 <a href="#what-is-the-scholars-lab">What is the Scholars' Lab?</a>  
 <a href="#how-can-the-scholars-lab-fit-into-my-work-what-do-you-do">How can the Scholars' Lab fit into my work? What does the Scholars' Lab do?</a>  
 <a href="#can-you-build-me-a-thing">Can you build me a thing?</a>  
-<a href="#can-we-collaborate">Can we collaborate?</a> 
-<a href="#what-academic-fields-do-you-support">What academic fields do you support?</a>   
+<a href="#can-we-collaborate">Can we collaborate?</a>  
+<a href="#what-academic-fields-do-you-support">What academic fields do you support?</a>  
 <a href="#how-does-the-lab-fit-into-the-uva-library">How does the Lab fit into the UVA Library?</a>  
-<a href="#who-are-the-scholars-in-scholars-lab">Who are the scholars in "Scholars' Lab"?</a> 
+<a href="#who-are-the-scholars-in-scholars-lab">Who are the scholars in "Scholars' Lab"?</a>  
 <a href="#ive-heard-that-people-over-projects-is-a-scholars-lab-motto-what-does-that-mean-do-you-do-projects">I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects?</a>  
 <a href="#where-are-you">Where are you?</a>  
 <a href="#how-do-i-contact-you">How do I contact you?</a>  
-<a href="#how-was-this-website-made">How was this website made?</a>
+<a href="#how-was-this-website-made">How was this website made?</a>  
 
 ## What is the Scholars' Lab?
 Scholars' Lab is the <a href="http://lib.virginia.edu">UVA Library</a>'s lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches. 
