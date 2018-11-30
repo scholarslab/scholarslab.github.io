@@ -87,7 +87,7 @@ The page will reload, and you'll notice a few changes:
 
 ![docs-on-new-branch](/docs/docs-images/docs-on-new-branch.png)
 
-Now you are on a branch—a parrallel universe of sorts!—where you can work without affecting the main state of the project (in this case, the SLab.org website). You're ready to do one of the following (click to jump to that part of the tutorial): [create a new post](#add-a-new-post), [create a new page](#add-a-new-page), or [edit an existing post or page](#edit-existing-content).
+Now you are on a branch—a parallel universe of sorts!—where you can work without affecting the main state of the project (in this case, the SLab.org website). You're ready to do one of the following (click to jump to that part of the tutorial): [create a new post](#add-a-new-post), [create a new page](#add-a-new-page), or [edit an existing post or page](#edit-existing-content).
 
 ### Add new content
 
