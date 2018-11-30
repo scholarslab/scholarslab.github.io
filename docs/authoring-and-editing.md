@@ -1,4 +1,4 @@
-This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. 
+This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. Any questions you have while using this tutorial or while blogging can be sent to Amanda via SLab Slack or email; you're also welcome to join the SLab Slack #slab-org channel and post any questions or suggestions there.
 
 - [Tutorial difficulty level](#tutorial-difficulty-level)
 - [Let's get started!](#lets-get-started)
@@ -33,27 +33,27 @@ We tried to make this tutorial very detailed, marking actual do-something-now st
 
 You'll learn some new terms and get familiar with the GitHub.com interface. You will *not* need to use the command line nor understand git/versioning. (We'll discuss two versioning concepts briefly, but you will not need to understand these to use this tutorial.)
 
-We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website. [See this note below](#important-alert-save-your-work) for more info what can and can't go wrong.
+We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website. [See this note below](#important-alert-save-your-work) for more info what can and can't go wrong—it's very safe to experiment.
 
 If the workflow in this lesson doesn't work for your needs, there are two simpler options for authoring blog posts on SLab.org:
 
-1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to TBD, and they'll post your content for you.
-2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let TBD know when you're finished, and they'll post your content for you.
+1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to Amanda, and they'll post your content for you.
+2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let Amanda know when you're finished, and they'll post your content for you.
 
-Already comfortable with the command line and git? You may prefer to switch to [this tutorial](/docs/git-authoring-and-editing.md) for doing your authoring/editing of the site locally instead. The tutorial you're currently reading instead allows you to do everything through the GitHub.com interface.
+Already comfortable with the command line and git? We may finish [this draft](/docs/git-authoring-and-editing.md) at some point; it will provide instructions for doing your authoring/editing of the site locally instead (let Amanda know if you'd like help learning to do this). The tutorial you're currently reading allows you to do everything through the GitHub.com interface.
 
 ## Let's get started!
 
 There are **two pieces** to authoring/editing on our website:
 
 1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#make-a-new-branch).
-2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live site** ([maybe.scholarslab.org](http://maybe.scholarslab.org) before the public launch, ScholarsLab.org after the public launch). The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo).
+2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live ScholarsLab.org site**. The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo).
 
 ## Branch and write/edit!
 
 ### Make a new branch
 
-0. Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Share your GitHub username with Amanda (email or Slack) and she'll make sure you have the right permissions to access SLab things on GitHub.
+0. Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Share your GitHub username with Amanda (email/SLab Slack) and she'll make sure you have the right permissions to access SLab things on GitHub.
 
 A repo is a collection of code, and this repo in particular is the place on GitHub.com where we store all the files that make up the SLab.org website.
 
@@ -93,7 +93,7 @@ Now you are on a branch—a parallel universe of sorts!—where you can work wit
 
 #### Important alert: save your work
 
-GitHub is very forgiving; the whole magic of using git to keeping many versions of text (e.g. code) over time is that you can always roll things back to how they were. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—options are set such that it's possible for you to accidentally (or on purpose, DH Darksider!) do anything that we can't easily undo. 
+GitHub is very forgiving; the whole magic of using git to keeping many versions of text (e.g. code) over time is that you can always roll things back to how they were. We've set up the website repository such that folks who aren't comfortable with GitHub yet, do *not* need to worry about deleting other folks' work or the whole website—permissions are set such that isn't possible for you to accidentally (or on purpose, DH Darksider!) do anything affecting the live ScholarsLab.org website. And even if you could, using git versioning means we can easily roll back any changes you make to how the site previously looked/functioned. 
 
 **The one way GitHub is not forgiving is that you can lose text you're currently drafting in the GitHub.com text editor**, if your tab/browser/computer closes/restarts when you've added new text to the file, but not committed it yet. (The text editor looks like the screenshot below—it's the place we'll be drafting text on GitHub.com.)
 
@@ -289,7 +289,7 @@ Some terminology:
 
 ![docs-add-reviewers-pr2](/docs/docs-images/docs-add-reviewers-pr2.png)
 
-This notifies the set of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website.
+This notifies the set of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website; one of them will briefly review your changes to check for anything that might break part of the site (highly unlikely with a blog post, more likely with changes to other repo code).
 
 1. Click on the green "Create pull request" button in the lower right
 
@@ -301,11 +301,11 @@ This notifies the set of SLab staff comfortable with Jekyll that you're making a
 
 ![docs-pr-checks-start](/docs/docs-images/docs-pr-checks-start.png)
 
-1. When all checks have passed, click the green "Merge pull request" button on the lower left.
+1. ~~When all checks have passed, click the green "Merge pull request" button on the lower left.~~ This step will be slightly different, as folks new to the site will need to wait for a reviewer before their code is merged. I'm not sure if there will be a button to push at this point, or what it will look like. We'll fix this after we meet to walk through this documentation together!
 
 ![docs-pr-checks-passed](/docs/docs-images/docs-pr-checks-passed.png)
 
-1. Click the green "Confirm merge" button.
+1. ~~Click the green "Confirm merge" button.~~
 
 ![docs-pr-confirm-merge](/docs/docs-images/docs-pr-confirm-merge.png)
 
