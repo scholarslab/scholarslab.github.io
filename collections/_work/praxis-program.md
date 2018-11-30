@@ -76,11 +76,11 @@ start-year: 2011
 end-year: current
 ---
 
-The Praxis Program is a project of the [Scholars' Lab](http://lib.virginia.edu/scholarslab) at the University of Virginia Library. In its first two pilot years (2011-2013), it was generously funded by a grant from the Andrew W. Mellon Foundation to the [Scholarly Communication Institute](http://uvasci.org). Praxis is now fully supported by the University of Virginia Library. 
+The Praxis Program is a project of the [Scholars' Lab](http://scholarslab.org) at the University of Virginia Library. In its first two pilot years (2011-2013), it was generously funded by a grant from the Andrew W. Mellon Foundation to the [Scholarly Communication Institute](http://uvasci.org). Praxis is now fully supported by the University of Virginia Library. 
 
 The Praxis Program funds a team of six University of Virginia graduate students from a variety of disciplines to apprentice with us each academic year. Under the guidance of Scholars’ Lab faculty and staff, they design and create a full-fledged digital humanities project or software tool.
 
-It’s a radical re-imagining of the annual teaching and training we offer, and is is meant to complement our work with [Graduate Fellows in Digital Humanities](http://www2.lib.virginia.edu/scholarslab/about/fellowship.html), a program now in its fifth year at UVa Library. 
+It’s a radical re-imagining of the annual teaching and training we offer, and is is meant to complement our work with [Graduate Fellows in Digital Humanities](http://www2.scholarslab.org/about/fellowship.html), a program now in its fifth year at UVa Library. 
 
 Recognizing that up-to-date methodological training is often absent or catch-as-catch-can for humanities graduate students, we see the early years of the Praxis Program as an opportunity to experiment with an action-oriented curriculum _live and in public._ We situate our program in a [larger conversation](http://uvasci.org/activities-2012-2013/) about the changing demands of the humanities in a digital age.
 

@@ -10,14 +10,14 @@ tags:
 - career opportunities
 ---
 
-We're excited to announce a fantastic job opportunity: a faculty-level position at the University of Virginia Library with responsibility for running public services in our growing and well-respected [Scholars' Lab](http://lib.virginia.edu/scholarslab).  
+We're excited to announce a fantastic job opportunity: a faculty-level position at the University of Virginia Library with responsibility for running public services in our growing and well-respected [Scholars' Lab](http://scholarslab.org).  
 
 
 
 ### Head of Outreach and Consulting
 
 
-Are you an excellent and enthusiastic communicator with a strong background in technological approaches to humanities and social science scholarship? UVa Library seeks a **Head of Outreach and Consulting** to coordinate public services in our internationally-recognized Scholars' Lab. The ideal candidate is detail-oriented, eager to work collaboratively, and able to represent -- to internal and external audiences -- UVa Library’s involvement in the digital humanities. This supervisory position is responsible for day-to-day operations in the Scholars’ Lab (overseeing staff dedicated to geospatial, data-driven, and text-based research consultation) and plays a key role in our program for [Graduate Fellows in the Digital Humanities](http://www2.lib.virginia.edu/scholarslab/about/fellowship.html).  This position reports to the Library's Director of Digital Research & Scholarship.
+Are you an excellent and enthusiastic communicator with a strong background in technological approaches to humanities and social science scholarship? UVa Library seeks a **Head of Outreach and Consulting** to coordinate public services in our internationally-recognized Scholars' Lab. The ideal candidate is detail-oriented, eager to work collaboratively, and able to represent -- to internal and external audiences -- UVa Library’s involvement in the digital humanities. This supervisory position is responsible for day-to-day operations in the Scholars’ Lab (overseeing staff dedicated to geospatial, data-driven, and text-based research consultation) and plays a key role in our program for [Graduate Fellows in the Digital Humanities](http://www2.scholarslab.org/about/fellowship.html).  This position reports to the Library's Director of Digital Research & Scholarship.
 
 The position is for a true “hybrid" or "alternative academic” &mdash; someone with a strong service ethic and sense of hospitality who can also collaborate as a true intellectual partner with faculty and graduate students, enabling next-generation DH in the Scholars’ Lab. The Head of Outreach and Consulting should also be able to take good advantage of the “20% time” that all Department of Digital Research & Scholarship faculty and staff are granted to pursue professional development and their own (often collaborative) R&D; projects.  This is a full-time, permanent general faculty position at UVa.
 

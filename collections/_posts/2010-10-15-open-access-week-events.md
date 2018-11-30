@@ -8,7 +8,7 @@ categories:
 - Announcements
 ---
 
-![OA Week](http://www2.lib.virginia.edu/scholarslab/images/OA120-240webbanner.jpg)You are cordially invited to an
+![OA Week](http://www2.scholarslab.org/images/OA120-240webbanner.jpg)You are cordially invited to an
 
 **Open Access Week Luncheon**
 Monday, October 18 at noon in the Scholars' Lab

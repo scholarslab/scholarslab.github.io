@@ -99,7 +99,7 @@ The folks at the Public Laboratory also created an online georeferencing tool ca
 ![](http://static.scholarslab.org/wp-content/uploads/2012/03/MapKnitter.png)
 
 
-This is all in our preparation for our [DIY Aerials workshops](http://www.lib.virginia.edu/scholarslab/resources/class/Spring2012GIS/) (on April 18 & 19) and [THATCamp](http://virginia2012.thatcamp.org/) (April 20 & 21).
+This is all in our preparation for our [DIY Aerials workshops](http://www.scholarslab.org/resources/class/Spring2012GIS/) (on April 18 & 19) and [THATCamp](http://virginia2012.thatcamp.org/) (April 20 & 21).
 
 Guess what else we can do?  We can make 3D models with our shots!  A site called Hypr3D lets you upload images and then calculates the 3D geometry for you.  It's magic.
 

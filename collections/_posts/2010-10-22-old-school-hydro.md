@@ -13,7 +13,7 @@ tags:
 ---
 
 Please join us on November 4th (or look for our podcast) to get your feet wet with _Old School Hydro: Modern and Historic Surveying Aboard the NOAA Ship “Thomas Jefferson!”_
-![rumsey map](http://www2.lib.virginia.edu/scholarslab/images/rumsey-edelson.jpg)
+![rumsey map](http://www2.scholarslab.org/images/rumsey-edelson.jpg)
 Thursday, November 4
 3:00 p.m.
 Scholars' Lab
@@ -24,4 +24,4 @@ This talk describes the art and science of surveying and mapmaking in and around
 
 All Scholars' Lab events are free and open to all. No registration is required.
 
-We hope to see you in the Scholars' Lab! And check out our full [calendar of events](http://www2.lib.virginia.edu/scholarslab/about/events.html) for the Fall semester.
+We hope to see you in the Scholars' Lab! And check out our full [calendar of events](http://www2.scholarslab.org/about/events.html) for the Fall semester.
