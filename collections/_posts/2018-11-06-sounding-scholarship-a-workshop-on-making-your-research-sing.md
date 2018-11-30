@@ -2,7 +2,6 @@
 author: emily-mellen
 date: 2018-11-06 15:47:51+00:00
 layout: post
-permalink: /uncategorized/sounding-scholarship-a-workshop-on-making-your-research-sing/
 slug: sounding-scholarship-a-workshop-on-making-your-research-sing
 title: 'Sounding Scholarship: A Workshop on Making Your Research Sing'
 categories:
