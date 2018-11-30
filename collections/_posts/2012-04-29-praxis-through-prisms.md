@@ -14,7 +14,7 @@ tags:
 
 _[Cross-posted from [nowviskie.org](http://nowviskie.org).]_
 
-This is just a quick post to share two bits of news about our [Praxis Program](http://praxis.scholarslab.org) at the [Scholars' Lab](http://lib.virginia.edu/scholarslab). The first is that I've written an op-ed on Praxis and our Fellows' practicum project for this year's [Digital Campus special issue](http://chronicle.com/section/The-Digital-Campus/491/) of the _Chronicle of Higher Education_.
+This is just a quick post to share two bits of news about our [Praxis Program](http://praxis.scholarslab.org) at the [Scholars' Lab](http://scholarslab.org). The first is that I've written an op-ed on Praxis and our Fellows' practicum project for this year's [Digital Campus special issue](http://chronicle.com/section/The-Digital-Campus/491/) of the _Chronicle of Higher Education_.
 
 The piece was originally titled "Praxis, Through Prisms" -- now "[A Digital Boot Camp for Grad Students in the Humanities](http://chronicle.com/article/A-Digital-Boot-Camp-for-Grad/131665/)." It's pay-walled, for now, but I'll re-publish it in open access format in 30 days.<figure>
   ![prismatic badge](http://nowviskie.org/wp-content/uploads/2012/04/photo_20266_portrait_wide-e1335738451834-214x300.jpg)

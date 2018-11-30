@@ -10,7 +10,7 @@ tags:
 - career opportunities
 ---
 
-Building on a nearly twenty-year history in digital humanities and spatial and data-driven scholarship at the University of Virginia, the [Scholars' Lab](http://lib.virginia.edu/scholarslab) has developed [great projects](http://www.scholarslab.org/) and hosted [amazing events](http://www2.lib.virginia.edu/scholarslab/about/events.html) at UVa Library over the past three years.  In addition to our current search for a full-time, permanent [Senior Developer](http://www.scholarslab.org/announcements/senior-developer-position/), we now have the opportunity to add some UX love to the work of our R&D; division.
+Building on a nearly twenty-year history in digital humanities and spatial and data-driven scholarship at the University of Virginia, the [Scholars' Lab](http://scholarslab.org) has developed [great projects](http://www.scholarslab.org/) and hosted [amazing events](http://www2.scholarslab.org/about/events.html) at UVa Library over the past three years.  In addition to our current search for a full-time, permanent [Senior Developer](http://www.scholarslab.org/announcements/senior-developer-position/), we now have the opportunity to add some UX love to the work of our R&D; division.
 
 We're looking for a Humanities Design (UX) Architect who can create and guide exciting, professional user experiences, is passionate about the quality of his or her HTML and CSS, and wants to be part of a team that does great work in the digital humanities. 
 

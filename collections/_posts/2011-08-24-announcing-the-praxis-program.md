@@ -11,7 +11,7 @@ tags:
 - praxis program
 ---
 
-We've radically re-imagined the teaching and training we do in Scholars' Lab R&D, and today are excited to launch the [Praxis Program](http://praxis.scholarslab.org)! This is a pilot, we hope, of big things to come, and it is meant to complement our work with [Graduate Fellows in Digital Humanities](http://www2.lib.virginia.edu/scholarslab/about/fellowship.html), a program now entering its fifth year at UVa Library.
+We've radically re-imagined the teaching and training we do in Scholars' Lab R&D, and today are excited to launch the [Praxis Program](http://praxis.scholarslab.org)! This is a pilot, we hope, of big things to come, and it is meant to complement our work with [Graduate Fellows in Digital Humanities](http://www2.scholarslab.org/about/fellowship.html), a program now entering its fifth year at UVa Library.
 
 In pilot mode, the Praxis Program will fund six University of Virginia graduate students from a variety of disciplines to apprentice with us for an academic year as we design and build _Prism,_ a new tool for "crowd-sourced" textual analysis, visualization, and humanities interpretation. (More about that, later.)
 

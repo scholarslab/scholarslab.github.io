@@ -18,7 +18,7 @@ Summary:
 What do you get when you cross texts and archival collections with rich, interactive maps and timelines? Neatline. Join us for a demo of current Neatline projects and upcoming features and to learn why Neatline emphasizes hand-crafted visualization and “small data” in a big-data world.
 
 Speaker Bio:
-Bethany Nowviskie: Computing humanist/humane computationalist since 1996. Director of Digital Research & Scholarship at the [University of Virginia Library](http://lib.virginia.edu/scholarslab) and Associate Director of the [Scholarly Communication Institute](http://uvasci.org/). President, [Association for Computers and the Humanities](http://ach.org/) and current chair of [MLA](http://mla.org/)‘s Committee on Information Technology.
+Bethany Nowviskie: Computing humanist/humane computationalist since 1996. Director of Digital Research & Scholarship at the [University of Virginia Library](http://scholarslab.org) and Associate Director of the [Scholarly Communication Institute](http://uvasci.org/). President, [Association for Computers and the Humanities](http://ach.org/) and current chair of [MLA](http://mla.org/)‘s Committee on Information Technology.
 
 David McClure: Web Applications Developer on the Scholars’ Lab R&D team, David graduated from Yale University with a degree in the [Humanities](http://www.yale.edu/humanities/) in 2009 and worked as an independent web developer in San Francisco, New York, and Madison, Wisconsin before joining the lab in 2011. David is the lead developer on [Neatline](http://neatline.scholarslab.org/) and works on research projects that use software as a tool to advance traditional lines of inquiry in literary theory and aesthetics.
 
