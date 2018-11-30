@@ -4,7 +4,7 @@ title: Digital Humanities Fellows Program
 permalink: /digital-humanities-fellows/
 nav: false
 ---
-We are now accepting applications for the 2019-2020 DH Fellows Cohort. More information in our [CFP announcement or below](http://scholarslab.org/uncategorized/call-for-digital-humanities-fellows-applications-2019-2020/).
+We are now accepting applications for the 2019-2020 DH Fellows Cohort. More information in our [CFP announcement or below](/assets/post-media/fellowsappform.pdf).
 
 The application deadline for the 2019-2020 cohort is **November 30, 2018**.
 
