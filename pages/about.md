@@ -8,7 +8,7 @@ order: 1
 ---
 
 <a href="#what-is-the-scholars-lab">What is the Scholars' Lab?</a>  
-<a href="#how-can-the-scholars-lab-fit-into-my-work-what-do-you-do">How can the Scholars' Lab fit into my work? What do you do?</a> 
+<a href="#how-can-the-scholars-lab-fit-into-my-work-what-do-you-do">How can the Scholars' Lab fit into my work? What does the Scholars' Lab do?</a> 
 <a href="#can-you-build-me-a-thing">Can you build me a thing?</a>  
 <a href="#can-we-collaborate">Can we collaborate?</a> 
 <a href="#what-academic-fields-do-you-support">What academic fields do you support?</a>   
