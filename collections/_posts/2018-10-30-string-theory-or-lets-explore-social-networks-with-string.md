@@ -2,7 +2,6 @@
 author: chris-whitehead
 date: 2018-10-30 07:53:28+00:00
 layout: post
-permalink: /uncategorized/string-theory-or-lets-explore-social-networks-with-string/
 slug: string-theory-or-lets-explore-social-networks-with-string
 title: 'String Theory, or: Let''s Explore Social Networks with String!'
 categories:
