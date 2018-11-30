@@ -4,7 +4,7 @@ title: Digital Humanities Fellows Program
 permalink: /digital-humanities-fellows/
 nav: false
 ---
-We are now accepting applications for the 2019-2020 DH Fellows Cohort. More information in our [CFP announcement or below](/assets/post-media/fellowsappform.pdf).
+We are now accepting applications for the 2019-2020 DH Fellows Cohort. More information in our [CFP announcement or below](http://scholarslab.org/uncategorized/call-for-digital-humanities-fellows-applications-2019-2020/).
 
 The application deadline for the 2019-2020 cohort is **November 30, 2018**.
 
@@ -34,7 +34,7 @@ A complete application package will include the following materials, all of whic
   * a summary of the applicant’s plan for use of digital technologies in his or her dissertation research;
   * a summary of the applicant’s experience with digital projects;
   * and a description of UVa library digital resources (content or expertise) that are relevant to the proposed project;
-* a [Graduate Fellowship Application Form](http://scholarslab.org/wp-content/uploads/2018/09/dhfellowsappform2019-2020.pdf);
+* a [Graduate Fellowship Application Form](/assets/post-media/fellowsappform.pdf);
 * a dissertation abstract;
 * 2-3 letters of nomination and support, at least one being from the applicant’s dissertation director who can attest to the project’s scholarly rigor and integration within the dissertation;
 * and your availability for interviews on **December 5th from 10:30AM-12:00PM or 1:00-2:00PM**. We’re aiming for a quicker process this year by announcing those interview times in advance, though we can work out alternatives if scheduling difficulties arise. If you are unavailable then, please suggest other times on the 5th or 6th of December.
