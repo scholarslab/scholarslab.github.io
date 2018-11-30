@@ -16,4 +16,4 @@ Through the generosity of the National Endowment for the Humanities, the Scholar
 
 The Scholars' Lab also will develop and host an online information clearinghouse and fund visiting fellows in an effort to promote ongoing scholarly engagement, software development, and information sharing by Institute attendees around the theme of Enabling Geospatial Scholarship.
 
-See the [Institute web site](http://www2.lib.virginia.edu/scholarslab/geospatial/index.html) for more information -- including application deadlines for each of our three "tracks," on Stewardship, Software, and Scholarship.
+See the [Institute web site](http://www2.scholarslab.org/geospatial/index.html) for more information -- including application deadlines for each of our three "tracks," on Stewardship, Software, and Scholarship.

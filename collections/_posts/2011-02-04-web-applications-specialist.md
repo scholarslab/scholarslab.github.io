@@ -10,7 +10,7 @@ tags:
 - career opportunities
 ---
 
-Are you an enthusiastic Web developer with an interest in the humanities or cultural heritage? UVa Library seeks a Web Applications Specialist to help develop software in our internationally-recognized [Scholars' Lab](http://lib.virginia.edu/scholarslab). The ideal candidate is detail-oriented, eager to work collaboratively, and stays involved with the latest Web and digital humanities technologies.
+Are you an enthusiastic Web developer with an interest in the humanities or cultural heritage? UVa Library seeks a Web Applications Specialist to help develop software in our internationally-recognized [Scholars' Lab](http://scholarslab.org). The ideal candidate is detail-oriented, eager to work collaboratively, and stays involved with the latest Web and digital humanities technologies.
 
 We're seeking someone passionate about tackling technical problems in the digital humanities – preferably a person with both a technical and liberal arts background, prepared to build next-generation DH interfaces and tools. Our new Web Application Specialist will also be able to take advantage of the “20% time” that all Department of Digital Research & Scholarship faculty and staff are granted to pursue professional development and their own (often collaborative) R&D projects. This is a full-time, permanent position at UVa.
 

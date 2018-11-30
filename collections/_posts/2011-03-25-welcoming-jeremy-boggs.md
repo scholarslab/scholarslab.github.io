@@ -12,7 +12,7 @@ tags:
 - staffing
 ---
 
-We're thrilled to announce that Jeremy Boggs will be joining the [Scholars' Lab](http://lib.virginia.edu/scholarslab) and the staff of UVa Library's Digital Research & Scholarship department this June, in the role of Humanities Design Architect.
+We're thrilled to announce that Jeremy Boggs will be joining the [Scholars' Lab](http://scholarslab.org) and the staff of UVa Library's Digital Research & Scholarship department this June, in the role of Humanities Design Architect.
 
 [![](http://static.scholarslab.org/wp-content/uploads/2011/03/jeremy.jpg)](http://www.scholarslab.org/announcements/welcoming-jeremy-boggs/attachment/jeremy/)[Jeremy](http://clioweb.org) comes to us from the wonderful [Center for History and New Media](http://chnm.gmu.edu/) (CHNM) at George Mason University, where he serves as Associate Director of Research and as development manager for [Omeka](http://omeka.org), an open-source web publishing system for cultural heritage collections.  Jeremy was also one of the originators of [THATCamp](http://thatcamp.org), the popular technology and humanities "unconference." 
 

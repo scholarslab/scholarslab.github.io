@@ -2,8 +2,6 @@
 
 Also note: this is a copy of the under-construction GitHub drafting documentation. Feel free to cut stuff that isn't specific to git/command line/local Jekyll documentation.
 
-And! remove any references to maybe.scholarslab.org as the main site.
-
 First, you'll need to create a new branch to work on. You will want your branch to have a name descriptive of the work that you are doing on it. For example, this file was added on a branch called documentation Then we'll switch to that branch. You do so using the following commands (branch-name-here being substituted with the branch of your choice).
 
 
@@ -36,7 +34,7 @@ This tutorial covers authoring and editing new pages and posts in detail. You ca
 There are **two big steps** to authoring/editing on our website:
 1. Create a new "branch" and do your authoring/editing there—[instructions on Step 1]
 
-2. Move that work back to the main repo (aka master branch) so it shows up on [maybe.scholarslab.org](http://maybe.scholarslab.org)—[instructions on Step 2]  
+2. Move that work back to the main repo (aka master branch) so it shows up on [scholarslab.org](http://scholarslab.org)—[instructions on Step 2]  
 *3rd step, coming soon!* on how to move this work from the development site to the production (public) site.
 
 # 1. Do your writing!

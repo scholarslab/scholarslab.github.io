@@ -17,4 +17,4 @@ tags:
 
 We'll be showing real-time [Twitter](http://twitter.com) and [Flickr](http://flickr.com) feeds that record people's responses to the event and their efforts at citizen-journalism. We've also created a home-grown geospatial visualization so that you can follow the worldwide conversation!
 
-Visit the Lab for a little social interaction of your own, or [access the site](http://www2.lib.virginia.edu/scholarslab/inauguration/) (which includes more information and related links) online.
+Visit the Lab for a little social interaction of your own, or [access the site](http://www2.scholarslab.org/inauguration/) (which includes more information and related links) online.

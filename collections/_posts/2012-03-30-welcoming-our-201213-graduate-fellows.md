@@ -8,7 +8,7 @@ categories:
 - Announcements
 ---
 
-The Scholars' Lab is very excited to announce the recipients of the 2012-13 [UVA Library Graduate Fellowships in the Digital Humanities](http://www2.lib.virginia.edu/scholarslab/about/fellowship-apply.html):
+The Scholars' Lab is very excited to announce the recipients of the 2012-13 [UVA Library Graduate Fellowships in the Digital Humanities](http://www2.scholarslab.org/about/fellowship-apply.html):
 
 **David Flaherty**
 _Corcoran Department of History_

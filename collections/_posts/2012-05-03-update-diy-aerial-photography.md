@@ -10,7 +10,7 @@ tags:
 - gis
 ---
 
-It's been over a month since [our last post](https://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography/) re DIY aerial photography. Since then, we hosted two [GIS workshops](http://www.lib.virginia.edu/scholarslab/resources/class/Spring2012GIS/), a [THATCamp Virginia](http://virginia2012.thatcamp.org/) session, and our first real "job" flight for an [art installation](http://www.virginia.edu/uvatoday/newsRelease.php?id=17953).
+It's been over a month since [our last post](https://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography/) re DIY aerial photography. Since then, we hosted two [GIS workshops](http://www.scholarslab.org/resources/class/Spring2012GIS/), a [THATCamp Virginia](http://virginia2012.thatcamp.org/) session, and our first real "job" flight for an [art installation](http://www.virginia.edu/uvatoday/newsRelease.php?id=17953).
 
 Our workshops were scheduled for Wednesday morning, April 18 and Thursday afternoon, April 19.  Unfortunately, it started raining hard just before our Wednesday session and we were forced to go to Plan B. We decided to fly the balloon in the mural hall located inside Clark Hall.  The ceiling there is two stories tall.  We did get some interesting images from that "flight."
 
