@@ -2,7 +2,6 @@
 author: laura-miller
 date: 2018-09-05 14:41:30+00:00
 layout: post
-permalink: /makerspace/fall-2018-maker-code-workshop-series/
 slug: fall-2018-maker-code-workshop-series
 title: Fall 2018 Maker & Code Workshop Series
 categories:
