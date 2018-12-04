@@ -90,15 +90,12 @@ task :new_event, [:title] do |t, args|
   current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
   File.open(fn, 'w'){|f|
     f.puts("---
-all_day: 0
 author: first-last
 start_date: 2016-03-08
 start_time: '15:00:00'
 end_date: '2016-03-08'
 end_time: '16:00:00'
 layout: events
-published-date: #{current_time}
-rsvp: 0
 slug: #{title_slug}
 title: '#{titlecase_title}'
 location: 'Alderman 423'
