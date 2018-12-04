@@ -9,7 +9,7 @@ published-date: 2018-10-10 12:57:54+00:00
 rsvp: 0
 slug: kate-compton-creative-coding-workshop
 start_date: 2018-10-26
-start_time: 09:00:00
+start_time: '09:00:00'
 title: 'Workshop with Kate Compton: Making Things That Make Things: The Surprisingly
   Friendly World of Generative Programs'
 ---
