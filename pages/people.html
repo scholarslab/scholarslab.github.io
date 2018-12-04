@@ -66,14 +66,14 @@ nav: true
             {% if profile_pic == empty %}
               {% assign num = forloop.index | modulo:4 %}
               {% if num == 0 %}
-              <img src="{{ site.baseurl }}/assets/img/people/grid/elizabeth-mitchell.jpg" alt="[Default image] Screwdrivers close-up">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/default-screwdrivers.jpg" alt="[Default image] Screwdrivers close-up">
               {% elsif num == 1 %}
-              <img src="{{ site.baseurl }}/assets/img/people/grid/marysia-serafin.jpg" alt="[Default image] Cute toy">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/default-toy.jpg" alt="[Default image] Cute toy">
               {% elsif num == 2 %}
-              <img src="{{ site.baseurl }}/assets/img/people/grid/tanner-greene.jpg" alt="[Default image] Clamps close-up">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/default-clamps.jpg" alt="[Default image] Clamps close-up">
               {% else %}
-              <img src="{{ site.baseurl }}/assets/img/people/grid/nic-dalton.jpg" alt="[Default image] Screwdrivers close-up">
-              {% endif %}
+              <img src="{{ site.baseurl }}/assets/img/people/grid/defaul-dino.jpg" alt="[Default image] dino close-up">
+              {% endif %} 
             {% else %}
               {% for pic in profile_pic %}
               {% if pic.path contains 'grid' %}
