@@ -71,6 +71,7 @@ layout: default
 
         <div class="post-credits__author">
           <!-- display person pic if exists. break statement means the loop will end once the if statement runs once.  -->
+          {{ profile_pic }}
           {% for image in site.static_files %}
             {% if image.basename == page.author and image.path contains 'cropped' %}
                 <div class="post-author__image">
@@ -79,7 +80,12 @@ layout: default
             {% break %}
             {% endif %}
           {% endfor %}
-
+          {% assign image_array_size = site.static_files | where: "basename", page.author | size %}
+          {% if image_array_size == 0 %}
+          <div class="post-author__image">
+            <img src="{{ site.baseurl }}/assets/img/people/cropped/scholarslab.png" alt="Scholars' Lab Lab">
+          </div>
+          {% endif %}
           <!-- link to author's person page -->
           <div class="post-author__name">
             <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.title }}</a>
