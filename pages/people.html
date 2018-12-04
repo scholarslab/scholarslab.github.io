@@ -113,13 +113,13 @@ nav: true
             {% if profile_pic == empty %}
               {% assign num = forloop.index | modulo:4 %}
               {% if num == 0 %}
-              <img src="{{ site.baseurl }}/assets/img/people/nic-dalton.jpg" alt="[Default image] Screwdrivers close-up">
+              <img src="{{ site.baseurl }}/assets/img/people/default-screwdrivers.jpg" alt="[Default image] Screwdrivers close-up">
               {% elsif num == 1 %}
-              <img src="{{ site.baseurl }}/assets/img/people/marysia-serafin.jpg" alt="[Default image] Cute toy">
+              <img src="{{ site.baseurl }}/assets/img/people/default-toy.jpg" alt="[Default image] Cute toy">
               {% elsif num == 2 %}
-              <img src="{{ site.baseurl }}/assets/img/people/tanner-greene.jpg" alt="[Default image] Clamps close-up">
+              <img src="{{ site.baseurl }}/assets/img/people/default-clamps.jpg" alt="[Default image] Clamps close-up">
               {% else %}
-              <img src="{{ site.baseurl }}/assets/img/people/elizabeth-mitchell.jpg" alt="[Default image] Screwdrivers close-up">
+              <img src="{{ site.baseurl }}/assets/img/people/default-dino.jpg" alt="[Default image] Dino close-up">
               {% endif %}
             {% else %}
               {% for pic in profile_pic %}
