@@ -4,7 +4,7 @@ email: None
 first_name: Tamika
 last_name: Richeson
 layout: people
-name: Tamika Richeson
+title: Tamika Richeson
 position:
 short_bio: ''
 slug: tamika-richeson

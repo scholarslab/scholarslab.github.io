@@ -4,7 +4,7 @@ email: None
 first_name: Ryan
 last_name: Maguire
 layout: people
-name: Ryan Maguire
+title: Ryan Maguire
 position:
 short_bio:
 slug: ryan-maguire

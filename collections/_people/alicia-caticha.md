@@ -4,7 +4,7 @@ email: None
 first_name: Alicia
 last_name: Caticha
 layout: people
-name: Alicia Caticha
+title: Alicia Caticha
 position:
 short_bio: ''
 slug: alicia-caticha

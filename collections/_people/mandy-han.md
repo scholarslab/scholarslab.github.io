@@ -4,7 +4,7 @@ email: yh3fd@virginia.edu
 first_name: Mandy
 last_name: Han
 layout: people
-name: Mandy Han
+title: Mandy Han
 position: Student Assistant
 short_bio: ''
 slug: mandy-han

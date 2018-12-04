@@ -4,7 +4,7 @@ collaborators:
     role: Project Lead
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Technologies and Architectural Specialist
+    role: 3D Data and Content Specialist
   - name: Chris Gist
     slug: chris-gist
     role: GIS Specialist
@@ -16,7 +16,7 @@ slug: mapping-afidna
 title: Mapping Afidna
 thumb-img: default-thumb.png
 banner-img: default-banner.png
-research-category: Scholarly Collaborations
+research-category: Collaborations
 start-year: (before 2018)
 end-year: current
 ---

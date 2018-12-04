@@ -21,7 +21,7 @@ tags:
 - web development
 ---
 
-The[ Scholars' Lab](http://lib.virginia.edu/scholarslab/) at the University of Virginia Library and the Center for History and New Media ([CHNM](http://chnm.gmu.edu)) at George Mason University are pleased to announce a collaborative "Omeka + Neatline" initiative, supported by $665,248 in funding from the [Library of Congress](http://loc.gov/).
+The[ Scholars' Lab](http://scholarslab.org/) at the University of Virginia Library and the Center for History and New Media ([CHNM](http://chnm.gmu.edu)) at George Mason University are pleased to announce a collaborative "Omeka + Neatline" initiative, supported by $665,248 in funding from the [Library of Congress](http://loc.gov/).
 
 The Omeka + Neatline project's goal is to enable scholars, students, and library and museum professionals to create geospatial and temporal visualizations of archival collections using a [Neatline toolset](http://www.scholarslab.org/projects/neatline/) within CHNM's popular, open source [Omeka](http://omeka.org/) exhibition platform.  Neatline, a "contribution to interpretive humanities scholarship in the visual vernacular," is a project of the UVa Library Scholars' Lab, originally bolstered by a Start-Up Grant from the [Office of Digital Humanities](http://neh.gov/odh) at the National Endowment for the Humanities. Omeka is an award-winning web-publishing platform for the display of cultural heritage and scholarly collections and exhibits, funded by the Institute of Museum and Library Services, Alfred P. Sloan Foundation, Andrew W. Mellon Foundation, and Samuel H. Kress Foundation.
 

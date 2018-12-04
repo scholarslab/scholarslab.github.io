@@ -4,7 +4,7 @@ email: None
 first_name: Kelly
 last_name: Johnston
 layout: people
-name: Kelly Johnston
+title: Kelly Johnston
 position: GIS Specialist
 short_bio: ''
 slug: kelly-johnston

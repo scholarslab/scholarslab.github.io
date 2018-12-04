@@ -5,7 +5,7 @@ first_name: Carlos
 last_name: Paramo
 layout: people
 location: None
-name: Carlos Paramo
+title: Carlos Paramo
 position: None
 short_bio: "Carlos Paramo is a rising senior majoring in Economics and Mathematics at the University of California Berkeley and a 2018 LAMI Scholar."
 slug: carlos-paramo

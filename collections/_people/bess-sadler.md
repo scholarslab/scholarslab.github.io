@@ -4,7 +4,7 @@ email: bess.sadler@gmail.com
 first_name: Bess
 last_name: Sadler
 layout: people
-name: Bess Sadler
+title: Bess Sadler
 position: 'R&D Librarian'
 short_bio: ''
 slug: bess-sadler

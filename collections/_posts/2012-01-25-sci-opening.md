@@ -19,7 +19,7 @@ Please note new URL below!
 
 <blockquote>**Senior Research Specialist, SCI**
 
-The [Scholars' Lab](http://lib.virginia.edu/scholarslab) at the University of Virginia Library [seeks a senior research specialist](http://jobs.virginia.edu/applicants/Central?quickFind=66407) for a full-time, 18-month position with the [Scholarly Communication Institute](http://uvasci.org/) (SCI).  The ideal candidate will have: excellent research, writing, and organizational skills; familiarity with humanities scholarship at the graduate level; and an interest in experimental approaches to digital authoring and publication or the education of emerging scholars and knowledge workers. Some travel is required, and there is a possibility of a work-from-home arrangement for a professional and thoroughly reliable candidate.
+The [Scholars' Lab](http://scholarslab.org) at the University of Virginia Library [seeks a senior research specialist](http://jobs.virginia.edu/applicants/Central?quickFind=66407) for a full-time, 18-month position with the [Scholarly Communication Institute](http://uvasci.org/) (SCI).  The ideal candidate will have: excellent research, writing, and organizational skills; familiarity with humanities scholarship at the graduate level; and an interest in experimental approaches to digital authoring and publication or the education of emerging scholars and knowledge workers. Some travel is required, and there is a possibility of a work-from-home arrangement for a professional and thoroughly reliable candidate.
 
 Reporting to UVa Library's [director of digital research and scholarship](http://www.uvasci.org/about-us/steering-committee/bethany-nowviskie/), the SCI research specialist will:
 

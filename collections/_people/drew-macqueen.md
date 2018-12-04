@@ -4,7 +4,7 @@ email: aam6g@virginia.edu
 first_name: Drew
 last_name: Macqueen
 layout: people
-name: Drew Macqueen
+title: Drew Macqueen
 position: GIS Specialist
 short_bio: 'Drew MacQueen is a GIS Specialist in the Scholars’ Lab where he focuses on spatial data collection and analysis, and web-based GIS and visualization; occasionally dipping a toe into the waters of scripting and spatial database design.'
 slug: drew-macqueen
@@ -16,3 +16,4 @@ people-category:
 roles:
 - staff
 ---
+Drew MacQueen is a GIS Specialist in the Scholars’ Lab where he focuses on spatial data collection and analysis, and web-based GIS and visualization; occasionally dipping a toe into the waters of scripting and spatial database design.

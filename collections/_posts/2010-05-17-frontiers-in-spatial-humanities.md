@@ -14,9 +14,9 @@ tags:
 - speaker series
 ---
 
-**[UPDATE: [video for the "Frontiers" event](/2010/06/01/frontiers-in-spatial-humanities-video/) is now available!]**
+**[UPDATE: [video for the "Frontiers" event](/blog/frontiers-in-spatial-humanities-video/) is now available!]**
 
-We're crowd-sourcing the keynote to the final round of the Scholars' Lab/NEH 2009-2010 [Institute for Enabling Geospatial Scholarship](http://lib.virginia.edu/scholarslab/geospatial).  With all of these fantastic [attendees](http://www2.lib.virginia.edu/scholarslab/geospatial/participants.html#scholarship) on hand -- not to mention the [Institute faculty](http://www2.lib.virginia.edu/scholarslab/geospatial/index.html#faculty) -- how could we let the opportunity slip by?
+We're crowd-sourcing the keynote to the final round of the Scholars' Lab/NEH 2009-2010 [Institute for Enabling Geospatial Scholarship](http://scholarslab.org/geospatial).  With all of these fantastic [attendees](http://www2.scholarslab.org/geospatial/participants.html#scholarship) on hand -- not to mention the [Institute faculty](http://www2.scholarslab.org/geospatial/index.html#faculty) -- how could we let the opportunity slip by?
 
 
 
@@ -37,4 +37,4 @@ Harrison-Small Auditorium
 [![](http://rclslab.files.wordpress.com/2010/05/geoinst-poster.jpg?w=194)](http://rclslab.files.wordpress.com/2010/05/geoinst-poster.jpg)
 
 For more information about the SLab and our NEH-funded [Institute for Advanced Topics in the Digital Humanities](http://www.neh.gov/grants/guidelines/IATDH.html), please visit: 
-[http://lib.virginia.edu/scholarslab/geospatial/](http://www2.lib.virginia.edu/scholarslab/geospatial/)
+[http://scholarslab.org/geospatial/](http://www2.scholarslab.org/geospatial/)

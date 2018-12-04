@@ -31,7 +31,7 @@ nav: true
         {% for person in staff %}
         {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
         <div class="people-item-wrapper">
-          <a href="{{ site.url }}/people/{{ person.slug }}/" aria-label="{{ person.name }}">
+          <a href="{{ site.url }}/people/{{ person.slug }}/" aria-label="{{ person.title }}">
             <div class="people-item__img">
             {% if profile_pic == empty %}
               <img src="{{ site.baseurl }}/assets/img/people/grid/scholarslab.png" alt="Scholars' Lab Lab">
@@ -43,7 +43,7 @@ nav: true
               {% endfor %}
             {% endif %}
             </div>
-            <div class="people-item__name">{{ person.name }}</div>
+            <div class="people-item__name">{{ person.title }}</div>
             <div class="people-item__position">{{ person.position }}</div>
           </a>
         </div>
@@ -61,7 +61,7 @@ nav: true
         {% for person in students %}
         {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
         <div class="people-item-wrapper">
-          <a href="{{ site.url }}/people/{{ person.slug }}/" aria-label="{{ person.name }}">
+          <a href="{{ site.url }}/people/{{ person.slug }}/" aria-label="{{ person.title }}">
             <div class="people-item__img">
             {% if profile_pic == empty %}
               {% assign num = forloop.index | modulo:4 %}
@@ -82,7 +82,7 @@ nav: true
               {% endfor %}
             {% endif %}
             </div>
-            <div class="people-item__name">{{ person.name }}</div>
+            <div class="people-item__name">{{ person.title }}</div>
             <div class="people-item__position">
 <!-- new logic for displaying list of current & past roles, if person is current student  -->
 <ul>
@@ -107,7 +107,7 @@ nav: true
         {% for person in alumni %}
         {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
         <div class="people-item-wrapper">
-          <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.name }}">
+          <a href="{{ site.url }}/people/{{ person.slug }}" aria-label="{{ person.title }}">
             <!-- image: -->
             <div class="people-item__img">
             {% if profile_pic == empty %}
@@ -130,7 +130,7 @@ nav: true
             {% endif %}
             </div>
             <!-- name: -->
-            <div class="people-item__name">{{ person.name }}</div>
+            <div class="people-item__name">{{ person.title }}</div>
             <!-- position(s) -->
             <ul class="people-item__position">
               {% assign pr = person.role %}

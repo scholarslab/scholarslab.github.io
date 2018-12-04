@@ -4,7 +4,7 @@ email: mam3tc@virginia.edu
 first_name: Matt
 last_name: Munson
 layout: people
-name: Matt Munson
+title: Matt Munson
 position: PhD Candidate, Department of Religious Studies | Digital Humanities Fellow
   2009-2010
 short_bio: ''

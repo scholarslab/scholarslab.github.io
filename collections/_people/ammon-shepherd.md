@@ -4,7 +4,7 @@ email: aes9h@virginia.edu
 first_name: Ammon
 last_name: Shepherd
 layout: people
-name: Ammon Shepherd
+title: Ammon Shepherd
 position: Digital Humanities Developer
 short_bio: "Ammon is a Digital Humanities Developer and Makerspace Technologist at the Scholars' Lab where he codes projects, builds tools to fix old projects, does some systems administration, 3D prints and plays with Arduinos and Raspberry Pis."
 slug: ammon-shepherd

@@ -4,7 +4,7 @@ email: None
 first_name: Elizabeth
 last_name: Fox
 layout: people
-name: Elizabeth Fox
+title: Elizabeth Fox
 position:
 short_bio: ''
 slug: elizabeth-fox

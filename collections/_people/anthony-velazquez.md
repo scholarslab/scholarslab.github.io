@@ -4,7 +4,7 @@ email: None
 first_name: Anthony
 last_name: Velázquez
 layout: people
-name: Anthony Velázquez
+title: Anthony Velázquez
 position:
 short_bio: ''
 slug: anthony-velazquez

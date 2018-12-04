@@ -4,7 +4,7 @@ email: None
 first_name: Julia
 last_name: Schrank
 layout: people
-name: Julia Schrank
+title: Julia Schrank
 position:
 short_bio: ''
 slug: julia-schrank

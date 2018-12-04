@@ -4,7 +4,7 @@ email: None
 first_name: Madison
 last_name: Choi
 layout: people
-name: Madison Choi
+title: Madison Choi
 position:
 short_bio: ''
 slug: madison-choi

@@ -4,7 +4,7 @@ email: None
 first_name: Nic
 last_name: Dalton
 layout: people
-name: Nic Dalton
+title: Nic Dalton
 position:
 short_bio:
 slug: nic-dalton

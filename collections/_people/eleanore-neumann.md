@@ -4,7 +4,7 @@ email: None
 first_name: Eleanore
 last_name: Neumann
 layout: people
-name: Eleanore Neumann
+title: Eleanore Neumann
 position:
 short_bio:
 slug: eleanore-neumann

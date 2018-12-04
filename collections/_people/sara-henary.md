@@ -4,7 +4,7 @@ email: henarysm@wfu.edu
 first_name: Sara
 last_name: Henary
 layout: people
-name: Sara Henary
+title: Sara Henary
 position:
 short_bio: ''
 slug: sara-henary

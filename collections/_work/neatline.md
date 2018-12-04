@@ -39,6 +39,9 @@ collaborators:
   - name: Amanda Visconti
     slug: amanda-visconti
     role: Managing Director
+  - name: Beth Mitchell
+    slug: elizabeth-mitchell
+    role: Research Assistant
   - name: Performant Software
     role: Development Consulting
 layout: work

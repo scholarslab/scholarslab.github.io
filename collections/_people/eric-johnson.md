@@ -4,7 +4,7 @@ email: None
 first_name: Eric
 last_name: Johnson
 layout: people
-name: Eric Johnson
+title: Eric Johnson
 position: Head, Outreach & Public Services
 short_bio: ''
 slug: eric-johnson

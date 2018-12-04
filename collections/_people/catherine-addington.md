@@ -4,7 +4,7 @@ email: None
 first_name: Catherine
 last_name: Addington
 layout: people
-name: Catherine Addington
+title: Catherine Addington
 position:
 short_bio:
 slug: catherine-addington

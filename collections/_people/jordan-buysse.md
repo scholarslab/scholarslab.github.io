@@ -4,7 +4,7 @@ email: jdbuysse@gmail.com
 first_name: Jordan
 last_name: Buysse
 layout: people
-name: Jordan Buysse
+title: Jordan Buysse
 position:
 short_bio: ''
 slug: jordan-buysse

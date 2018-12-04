@@ -4,7 +4,7 @@ email: None
 first_name: Sara
 last_name: Castro
 layout: people
-name: Sara Castro
+title: Sara Castro
 position:
 short_bio: ''
 slug: sara-castro

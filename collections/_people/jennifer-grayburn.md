@@ -4,7 +4,7 @@ email: jng3au@virginia.edu
 first_name: Jennifer
 last_name: Grayburn
 layout: people
-name: Jennifer Grayburn
+title: Jennifer Grayburn
 position:
 short_bio: ''
 slug: jennifer-grayburn

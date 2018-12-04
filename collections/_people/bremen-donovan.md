@@ -4,7 +4,7 @@ email: bkd3p@virginia.edu
 first_name: Bremen
 last_name: Donovan
 layout: people
-name: Bremen Donovan
+title: Bremen Donovan
 position:
 short_bio: ''
 slug: bremen-donovan

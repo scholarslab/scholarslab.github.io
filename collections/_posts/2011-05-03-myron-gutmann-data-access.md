@@ -20,7 +20,7 @@ Friday, May 6
 4:00pm (reception follows)
 Monroe Hall, Room 120
 
-This talk is co-sponsored by [IATH](http://iath.virginia.edu), [SHANTI](http://uvashanti.org), the [Scholars' Lab](http://lib.virginia.edu/scholarslab), and the College of Arts & Sciences Quantitative Collaborative Lecture Series
+This talk is co-sponsored by [IATH](http://iath.virginia.edu), [SHANTI](http://uvashanti.org), the [Scholars' Lab](http://scholarslab.org), and the College of Arts & Sciences Quantitative Collaborative Lecture Series
 
 <!-- more -->
 

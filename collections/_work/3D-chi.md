@@ -2,7 +2,7 @@
 collaborators: 
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Technologies and Architectural Specialist
+    role: 3D Data and Content Specialist
   - name: IATH
 layout: work
 slug: 3d-chi
@@ -10,7 +10,7 @@ title: 3D Cultural Heritage Informatics
 url: https://pages.shanti.virginia.edu/Cultural_Heritage_Data/data-2/
 thumb-img: default-thumb.png
 banner-img: default-banner.png
-research-category: Scholarly Collaborations
+research-category: Collaborations
 start-year: (before 2018)
 end-year: current
 ---

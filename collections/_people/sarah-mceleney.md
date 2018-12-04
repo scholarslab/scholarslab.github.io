@@ -4,7 +4,7 @@ email: None
 first_name: Sarah
 last_name: McEleney
 layout: people
-name: Sarah McEleney
+title: Sarah McEleney
 position:
 short_bio: ''
 slug: sarah-mceleney

@@ -3,21 +3,20 @@ collaborators:
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Head of Research and Development
-link: http://digitalcollecting.lib.virginia.edu/rally/
+link:
 layout: work
-slug: augustcollecting
-title: Unite the Right Rally and Community Response
-thumb-img: augustcollecting-thumb.png
-banner-img: augustcollecting-banner.png
-research-category: Internal Projects and Community Service
+slug: the-slug
+title: 
+thumb-img: default-thumb.png
+banner-img: default-banner.png
+research-category: 
 start-year:
 end-year: current
 ---
 
-end-year can say:
+year options if not known:
 current
 (before 2018)
-if exact year not known
 
 collaborators: 
   - name: TBD

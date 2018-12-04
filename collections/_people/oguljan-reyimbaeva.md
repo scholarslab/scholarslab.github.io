@@ -4,7 +4,7 @@ email: None
 first_name: Oguljan
 last_name: Reyimbaeva
 layout: people
-name: Oguljan Reyimbaeva
+title: Oguljan Reyimbaeva
 position: Student Assistant
 short_bio: ''
 slug: oguljan-reyimbaeva

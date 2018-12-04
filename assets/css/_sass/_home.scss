@@ -215,6 +215,18 @@ html, body {
 
 .home__library {
 	grid-area: lib;
+
+    .uva-library-logo-link {
+        display:block;
+        float:right;
+        width: 170px;
+        padding: 1px 5px;
+        border:0;
+        img {
+            max-width:100%;
+            width: auto;
+        }
+    }
 }
 
 .home-lib__title {
@@ -224,6 +236,7 @@ html, body {
 .home-lib__content {
 
 }
+
 
 /* FAQ: */
 
@@ -410,12 +423,12 @@ html, body {
 
 }
 
-.home-events__upcoming {
+.home-events__upcoming:not(.home-events__cta) {
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: center;
 	justify-content: flex-start;
-	div:not(.events-item__cta) {
+	div:not(.events-item__cta):not(.home-events__cta) {
 		width: 100%;
 		border: 1px solid $textgray !important;
 		margin-top: 1em;
@@ -447,11 +460,17 @@ html, body {
 
 }
 
+.home-hours__cta {
+	bottom: 0;
+	left: 0;
+}
+
 /* Student Opportunities: */
 
 .home__student-opps {
 	grid-area: students;
 	position: relative;
+	padding-right: 5px;
 	display: grid;
 	grid-template-columns: 1fr;
 	grid-template-rows: auto auto;
@@ -486,7 +505,6 @@ html, body {
 }
 
 .home-student__cta {
-	position: absolute;
 	bottom: 0;
 	left: 0;
 }

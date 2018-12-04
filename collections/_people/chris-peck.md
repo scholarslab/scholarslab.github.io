@@ -4,7 +4,7 @@ email: cp3ee@virginia.edu
 first_name: Chris
 last_name: Peck
 layout: people
-name: Chris Peck
+title: Chris Peck
 position: PhD Candidate, McIntire Department of Music | Praxis Fellow 2012-2013
 short_bio: ''
 slug: chris-peck

@@ -20,7 +20,7 @@ Friday, March 25
 3:00pm (reception follows)
 South Lawn Auditorium (NAU 101)
 
-This talk is co-sponsored by [IATH](http://iath.virginia.edu), [SHANTI](http://uvashanti.org), and the [Scholars' Lab](http://lib.virginia.edu/scholarslab)
+This talk is co-sponsored by [IATH](http://iath.virginia.edu), [SHANTI](http://uvashanti.org), and the [Scholars' Lab](http://scholarslab.org)
 
 
 

@@ -4,7 +4,7 @@ email: None
 first_name: Matthew
 last_name: Gibson
 layout: people
-name: Matthew Gibson
+title: Matthew Gibson
 position:
 short_bio: ''
 slug: matthew-gibson

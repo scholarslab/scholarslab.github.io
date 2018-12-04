@@ -2,14 +2,14 @@
 collaborators: 
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Technologies and Architectural Specialist
+    role: 3D Data and Content Specialist
   - name: Henry Lovejoy
 layout: work
 slug: slavery-images
 title: Slavery Images
 thumb-img: default-thumb.png
 banner-img: default-banner.png
-research-category: Scholarly Collaborations
+research-category: Collaborations
 start-year: (before 2018)
 end-year: (before 2018)
 ---

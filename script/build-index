@@ -14,12 +14,12 @@ stdin.on('data', function (data) {
 
 stdin.on('end', function () {
   var corpus = JSON.parse(buffer.join(''))
-  // console.log(corpus)
   var idx = lunr( (builder) => {
     builder.ref('id')
     builder.field('title')
     builder.field('content')
     builder.field('author')
+    builder.field('layout')
     builder.field('categories')
     builder.field('url')
     builder.field('date')

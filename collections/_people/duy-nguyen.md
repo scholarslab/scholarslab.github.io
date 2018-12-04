@@ -4,7 +4,7 @@ email: None
 first_name: Duy
 last_name: Nguyen
 layout: people
-name: Duy Nguyen
+title: Duy Nguyen
 position:
 short_bio: ''
 slug: duy-nguyen

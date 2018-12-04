@@ -4,10 +4,9 @@ title: Digital Humanities Fellows Program
 permalink: /digital-humanities-fellows/
 nav: false
 ---
+We are now accepting applications for the 2019-2020 DH Fellows Cohort. More information in our [CFP announcement or below](http://scholarslab.org/uncategorized/call-for-digital-humanities-fellows-applications-2019-2020/).
 
-We are now accepting applications for the 2018-2019 DH Fellows Cohort. Please visit [https://tinyurl.com/SLabDHFellows2018-2019](https://tinyurl.com/SLabDHFellows2018-2019) for complete information.
-
-The application deadline for 2018 is **TBD**.
+The application deadline for the 2019-2020 cohort is **November 30, 2018**.
 
 The Digital Humanities Fellowship supports advanced doctoral students doing innovative work in the digital humanities at the University of Virginia. The Scholars’ Lab offers Grad Fellows advice and assistance with the creation and analysis of digital content, as well as consultation on intellectual property issues and best practices in digital scholarship and DH software development.
 
@@ -35,9 +34,10 @@ A complete application package will include the following materials, all of whic
   * a summary of the applicant’s plan for use of digital technologies in his or her dissertation research;
   * a summary of the applicant’s experience with digital projects;
   * and a description of UVa library digital resources (content or expertise) that are relevant to the proposed project;
-* a [Graduate Fellowship Application Form](http://scholarslab.org/wp-content/uploads/2017/09/dhfellowsappform.pdf);
+* a [Graduate Fellowship Application Form](/assets/post-media/fellowsappform.pdf);
 * a dissertation abstract;
-* and 2-3 letters of nomination and support, at least one being from the applicant’s dissertation director who can attest to the project’s scholarly rigor and integration within the dissertation.
+* 2-3 letters of nomination and support, at least one being from the applicant’s dissertation director who can attest to the project’s scholarly rigor and integration within the dissertation;
+* and your availability for interviews on **December 6th from 10:30AM-12:00PM or 1:00-2:00PM**. We’re aiming for a quicker process this year by announcing those interview times in advance, though we can work out alternatives if scheduling difficulties arise. If you are unavailable then, please suggest other times on the 6th of December.
 
 Questions about Grad Fellowships and the application process should be directed to [Brandon Walsh](mailto:bmw9t@virginia.edu). Applicants concerned about their eligibility, for whatever reason, are strongly encouraged to write as well.
 
