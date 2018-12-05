@@ -87,9 +87,6 @@ ul[class*="flexnav"] {
 	height: 100%;
 	max-width: 50vw;
 	text-align: center;
-	@media screen and (min-width: 600px) {
-		max-width: 33vw;
-	}
 }
 
 /* Outer item: */
