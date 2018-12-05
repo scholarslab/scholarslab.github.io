@@ -1,13 +1,14 @@
 [![Build Status](https://travis-ci.org/scholarslab/scholarslab.org.svg?branch=master)](https://travis-ci.org/scholarslab/scholarslab.org)
-# Scholarslab.org Site Migration
 
-Repo for stuff related to ScholarsLab.org upgrade &amp; static site
-migration.
+# Scholarslab.org
+The code that forms our ScholarsLab.org site, and stuff related to improving the site (documentation, issue list of future work)
+
+We've tried to cover stuff below, but definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. (It's fine if you haven't read through all the documentation below first—there's a lot, but that makes it harder to quickly find answers and we're happy to point you to what you need.)
 
 ## Table of Contents
 
 1. [Greatest Hits](#greatest-hits)
-	* [View the New Site](#view-the-new-site)
+	* [View the Site](#view-the-site)
 	* [Contribute to the New Site](#contribute-to-the-new-site)
 	* [Add an Issue](#add-an-issue)
 2. [Getting Started](#getting-started)
@@ -21,35 +22,43 @@ migration.
 
 ## Greatest Hits
 
-### View the New Site
+### View the site
 
-Current build: http://maybe.scholarslab.org/
-* What this *is*:
-	* Live preview of the unfinished new site
-	* A way to see our progress without setting up a local development environment
-	* Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
-* What this is *not*:
-	* The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
+1. ScholarsLab.org
+* Our "live" (aka production) website that the world can see.
+* We change code in this repo, a script that Ammon created updates the UVA web server hosting our site, and the change appears on ScholarsLab.org a couple minutes later
 
-"Old" site: http://scholarslab.org
-* What this *is*:
-	* The Wordpress site
-	* What students and visitors currently see
+2. Maybe.ScholarsLab.org
+* _Not_ our live site; lives on GitHub Pages server
+* Gets updated when the repo gets updated, but! lacks some stuff that can't work on GitHub Pages (some Jekyll plugins, the nginx redirects that point old URLs to the current page locations (e.g. scholarslab.org/about/charter moved to scholarslab.org/charter when we moved from WordPress to Jekyll)
+* So, maybe just ignore that this exists? I guess we could take it down?
+
+3. "Old" WordPress site will live at: https://old.scholarslab.org (hasn't been moved there yet; #531 will accomplish this)
+	* The Wordpress site that was ScholarsLab.org up until the end of 2018
+	* No longer updated, but available in case we need to grab stuff from it
 
 ### Contribute to the New Site
 
-This part depends on what you're contributing, so we'll go a little Choose Your Own Adventure here. Are you...
+Check out the appropriate documentation for:
+editing or adding a new post or page
+template for new posts
+template for new pages
+template for new events
 
-1. Adding or changing language on the homepage? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#homepage-contribution)
-2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "topic homepage", e.g. the Makerspace homepage, the Praxis homepage, etc.). [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#topic-page-contribution)
-3. Submitting an image, including both photographs and digital illustrations? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#image-submission)
-4. Looking for how to submit info to (one or more of) Laura, Katherine, or Ronda? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#information-submission)
+...and then locate where you need to go in the repo:
 
-If none of the above fit or you're not sure, definitely feel free to hit up Katherine, Ronda, or Laura on Slack and we'll figure out what works best for that particular situation. These options are just a starting point.
+1. Adding or changing language on the homepage? [Try here.]()
+2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "static page", e.g. the Makerspace homepage, the Praxis homepage, etc.). [Try here.]()
+3. Alerting folks to a snow day or other surprise/emergency notice? [Try here.]()
+4. Updating the "Open Office Hours" sticky notice (in the homepage "upcoming events" list), e.g. when it's summer and we pause office hours until fall? [Try here.]()
+
+If none of the above fit or you're not sure, definitely feel free to either ask in the SLab Slack #slab-org channel, or talk with Amanda.
 
 ### Add an Issue
 
-* If you find a problem with the site or something new we should add, please add it to our [Issues page](https://github.com/scholarslab/scholarslab.org/issues).
+* Alerting the team to a bug, requested feature, possible future site work, or other fix? [Add to our issues list](https://github.com/scholarslab/scholarslab.org/issues).
+
+Documentation for adding an issue will go here!
 
 ## Getting Started
 
