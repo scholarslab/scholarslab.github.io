@@ -17,12 +17,12 @@ tags:
 - praxis program
 ---
 
-[![Screen Shot 2014-03-01 at 10.40.56 AM](http://www.scholarslab.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-01-at-10.40.56-AM-300x87.png)](http://www.scholarslab.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-01-at-10.40.56-AM.png)
+[![Screen Shot 2014-03-01 at 10.40.56 AM](http://static.scholarslab.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-01-at-10.40.56-AM-300x87.png)](http://static.scholarslab.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-01-at-10.40.56-AM.png)
 
 So this is a git network graph. Specifically, [it is the network graph for Ivanhoe](https://github.com/scholarslab/ivanhoe/network) from c. 20 February to 1 March. The blue line is our Develop branch and the various branches are features, projects, etc. The first little pink dot is [my first branch](https://github.com/scholarslab/ivanhoe/tree/feature/zachcss).  While programming development is far from complete, I forked off a branch to begin styling completed features with CSS. The next little pink dot was my introduction to the world of merge conflict. [Gross](https://github.com/scholarslab/ivanhoe/commit/732aae83d3b67a182daad60a357ef9e927ea61dc).
 
 <figure>
-  [![Stemma](http://www.scholarslab.org/wp-content/uploads/2014/03/Stemma-300x111.png)](http://www.digitalmedievalist.org/journal/9/hall/)
+  [![Stemma](http://static.scholarslab.org/wp-content/uploads/2014/03/Stemma-300x111.png)](http://www.digitalmedievalist.org/journal/9/hall/)
   <figcaption>
  © Alaric Hall and Katelin Parsons, 2013. Creative Commons Attribution-NonCommercial licence
 </figcaption>

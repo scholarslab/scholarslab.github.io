@@ -19,14 +19,14 @@ Skip forward a decade, and I now use a dizzying array of frameworks, tools, occa
 
 Just to give you an idea of the complexity of the things swimming around in the various heads of the team that developed [Prism](http://prism.scholarslab.org), this is a visualization of the library dependencies in the project:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/05/gem_graph1-300x30.png)](http://www.scholarslab.org/wp-content/uploads/2012/05/gem_graph1.png)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/05/gem_graph1-300x30.png)](http://static.scholarslab.org/wp-content/uploads/2012/05/gem_graph1.png)
 
 With a system this complex, true collaboration is needed, with different people taking on different tasks and responsibility for sections of the code, and working together.
 
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/05/impact-300x176.png)](http://www.scholarslab.org/wp-content/uploads/2012/05/impact.png)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/05/impact-300x176.png)](http://static.scholarslab.org/wp-content/uploads/2012/05/impact.png)
 
 You can see in this [impact graph](https://github.com/scholarslab/prism/graphs/impact) that there isn't just one person making all the changes. You also see experiments that were started (and ended). Not only are experiments waxing and waning, there is also no single contributor who dominates the code base. I feel this is an exceptionally important take away from this last year; no one collaborator on [Prism](http://prism.scholarslab.org) would have been able to execute this project alone.
 

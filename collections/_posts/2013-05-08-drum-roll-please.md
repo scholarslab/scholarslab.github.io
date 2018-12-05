@@ -14,7 +14,7 @@ tags:
 
 After many months of brainstorming, debating, dreaming big, getting down to business, panicking, refocusing, programming, and fine tuning, [Prism](http://prism.scholarslab.org/) is here!
 
-[![LOGO](http://www.scholarslab.org/wp-content/uploads/2013/05/LOGO-300x126.png)](http://prism.scholarslab.org/)
+[![LOGO](http://static.scholarslab.org/wp-content/uploads/2013/05/LOGO-300x126.png)](http://prism.scholarslab.org/)
 
 It has been a great journey, and I think [my fellow Praxers](http://praxis.scholarslab.org/) would agree when I say that we have learned a lot.  Not only have we been introduced to the world of DH and received hands-on training in things like HTML, CSS, Ruby on Rails, database construction, and a smidge of JavaScript and Coffee Script, but we have also learned a great deal about working in a team environment and collaboration.
 

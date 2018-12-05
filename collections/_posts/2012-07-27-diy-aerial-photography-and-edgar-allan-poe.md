@@ -23,7 +23,7 @@ From street level, viewers see small cats painted on the parking lot.
 But when we gain the larger view by lofting a camera attached to a helium balloon several hundred feet into the air we get our first views of the entire work in progress.
 [![](http://static.scholarslab.org/wp-content/uploads/2012/07/IMG_3349-1024x768.jpg)](http://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography-and-edgar-allan-poe/attachment/img_3349/)
 
-"'Hello Pluto, Good-bye Kitty" was off to a fine start but much work was still to be done.[![Mural Under Construction](http://www.scholarslab.org/wp-content/uploads/2012/05/6976147874_138445fffa_b.jpg)](http://www.scholarslab.org/geospatial-and-temporal/update-diy-aerial-photography/attachment/6976147874_138445fffa_b/)
+"'Hello Pluto, Good-bye Kitty" was off to a fine start but much work was still to be done.[![Mural Under Construction](http://static.scholarslab.org/wp-content/uploads/2012/05/6976147874_138445fffa_b.jpg)](http://www.scholarslab.org/geospatial-and-temporal/update-diy-aerial-photography/attachment/6976147874_138445fffa_b/)
 
 When Professor Marlatt and her students completed their work a few weeks later we returned with our [aerial photography rig](http://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography-in-a-crowd/) to document the finished product.[![](http://static.scholarslab.org/wp-content/uploads/2012/07/GOPR1610-1024x768.jpg)](http://www.scholarslab.org/geospatial-and-temporal/diy-aerial-photography-and-edgar-allan-poe/attachment/dcim100gopro-11/)
 

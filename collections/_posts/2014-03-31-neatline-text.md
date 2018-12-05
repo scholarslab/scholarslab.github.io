@@ -14,7 +14,7 @@ tags:
 
 
 
-[![nltext-detail](http://www.scholarslab.org/wp-content/uploads/2014/03/nltext-detail-1024x442.jpg)](http://omeka.org/add-ons/plugins/neatlinetext)
+[![nltext-detail](http://static.scholarslab.org/wp-content/uploads/2014/03/nltext-detail-1024x442.jpg)](http://omeka.org/add-ons/plugins/neatlinetext)
 
 Today we're pleased to announce the first public release of **[NeatlineText](http://omeka.org/add-ons/plugins/neatlinetext)**, which makes it possible to create interactive, Neatline-enhanced editions of text documents - literary and historical texts, articles, book chapters, dissertations, blog posts, etc. - by connecting individual paragraphs, sentences, and words with objects in Neatline exhibits. Once the associations are established, the plugin wires up two-way linkages in the user interface between the highlighted sections in the text and the imagery in the exhibit. Click on the text, and the exhibit focuses around the corresponding location or annotation. Or, click on the map, and the text scrolls to show the corresponding sections in the text.
 
@@ -26,16 +26,16 @@ Another option is to chop the prose narrative up into little chunks and build it
 
 NeatlineText tries to solves the problem by just plunking the two next to each other and making it easy for the reader (and the writer!) to move back and forth between the two. For example, NeatlineText powers the interactions between the text and imagery in [these](http://neatline.dclure.org/neatline/show/gemini-over-baja-california) [two](http://neatline.dclure.org/neatline/show/saturn-v-stage-2) exhibits of NASA photograph from the 1960s:
 
-[![nltext-gemini](http://www.scholarslab.org/wp-content/uploads/2014/03/nltext-gemini-1024x619.jpg)](http://dclure.org/logs/project-gemini-over-baja-california/)
+[![nltext-gemini](http://static.scholarslab.org/wp-content/uploads/2014/03/nltext-gemini-1024x619.jpg)](http://dclure.org/logs/project-gemini-over-baja-california/)
 
-[![nltext-saturn-v](http://www.scholarslab.org/wp-content/uploads/2014/03/nltext-saturn-v-1024x615.jpg)](http://neatline.dclure.org/neatline/show/saturn-v-stage-2)
+[![nltext-saturn-v](http://static.scholarslab.org/wp-content/uploads/2014/03/nltext-saturn-v-1024x615.jpg)](http://neatline.dclure.org/neatline/show/saturn-v-stage-2)
 
 (Yes, I know - I'm a space nerd.) NeatlineText is also great for creating interactive editions of primary texts. An earlier version of this code powers the [Mapping the Catalog of Ships](http://ships.lib.virginia.edu/neatline-editions/271) project by Jenny Strauss Clay, Courtney Evans, and Ben Jasnow (winner of the Fortier Prize prize at DH2013!), which connects the contingents in the Greek army mentioned in Book 2 of the Iliad with locations on the map:
 
-[![nltext-ships](http://www.scholarslab.org/wp-content/uploads/2014/03/nltext-ships-1024x614.jpg)](http://ships.lib.virginia.edu/neatline-editions/271)
+[![nltext-ships](http://static.scholarslab.org/wp-content/uploads/2014/03/nltext-ships-1024x614.jpg)](http://ships.lib.virginia.edu/neatline-editions/271)
 
 And NeatlineText was also used in this interactive edition of the [first draft of the Gettysburg Address](http://neatline.dclure.org/neatline/show/gettysburg-address):
 
-[![nltext-gettysburg](http://www.scholarslab.org/wp-content/uploads/2014/03/nltext-gettysburg-1024x611.jpg)](http://dclure.org/logs/nicolay-copy-gettysburg-address/)
+[![nltext-gettysburg](http://static.scholarslab.org/wp-content/uploads/2014/03/nltext-gettysburg-1024x611.jpg)](http://dclure.org/logs/nicolay-copy-gettysburg-address/)
 
 Anyway, grab the code from the [Omeka add-ons repository](http://omeka.org/add-ons/plugins/neatlinetext) and check out the [documentation](https://github.com/scholarslab/nl-widget-Text#neatlinetext) for step-by-step instructions about how to get up and running. And, as always, be sure to [file a ticket](https://github.com/scholarslab/nl-widget-Text/issues) if you run into problems!

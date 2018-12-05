@@ -13,7 +13,7 @@ tags:
 
 While playing around with the CSS gradients that put the highlighting for each "facet" into lanes over the text, I think I've come up with an interesting new proposal for what the highlighting might look like:
 
-[![Screen Shot 2013-03-03 at 10.55.23 PM](http://www.scholarslab.org/wp-content/uploads/2013/03/Screen-Shot-2013-03-03-at-10.55.23-PM.png)](http://www.scholarslab.org/wp-content/uploads/2013/03/Screen-Shot-2013-03-03-at-10.55.23-PM.png)
+[![Screen Shot 2013-03-03 at 10.55.23 PM](http://static.scholarslab.org/wp-content/uploads/2013/03/Screen-Shot-2013-03-03-at-10.55.23-PM.png)](http://static.scholarslab.org/wp-content/uploads/2013/03/Screen-Shot-2013-03-03-at-10.55.23-PM.png)
 
 I like this because it allows each facet's highlight to be full height&mdash;thus feeling more like a highlighter pen and clearly bonding visually with its text&mdash;while still allowing the colors to be distinct in the areas of overlap. I think this approach might work well with up to four or five colors, and maybe that's what I'll try next.
 

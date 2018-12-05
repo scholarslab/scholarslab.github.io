@@ -17,22 +17,22 @@ I feel that I have a much clearer idea of what needs to be done now that I've se
 
 Here's how we imagine the site might work. The Homepage will have two large buttons, something like DEMO and PLAY.
 
-[![FRONT PAGE 2](http://www.scholarslab.org/wp-content/uploads/2013/02/FRONT-PAGE-2-1024x682.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/02/FRONT-PAGE-2.jpg)
+[![FRONT PAGE 2](http://static.scholarslab.org/wp-content/uploads/2013/02/FRONT-PAGE-2-1024x682.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/02/FRONT-PAGE-2.jpg)
 
 The DEMO button will hopefully lead to a tutorial page.
 
-[![DEMO](http://www.scholarslab.org/wp-content/uploads/2013/02/DEMO-1024x682.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/02/DEMO.jpg)
+[![DEMO](http://static.scholarslab.org/wp-content/uploads/2013/02/DEMO-1024x682.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/02/DEMO.jpg)
 
 The PLAY button will lead to a pop-up window where users can login. Brandon is working on open authentication as we speak.
 
-[![LOGIN](http://www.scholarslab.org/wp-content/uploads/2013/02/LOGIN-1024x682.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/02/LOGIN.jpg)
+[![LOGIN](http://static.scholarslab.org/wp-content/uploads/2013/02/LOGIN-1024x682.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/02/LOGIN.jpg)
 
 Once a user has logged in, she'll have the choice to UPLOAD or BROWSE texts.
 
-[![RETURNING SIDE CLICK](http://www.scholarslab.org/wp-content/uploads/2013/02/RETURNING-SIDE-CLICK1-1024x682.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/02/RETURNING-SIDE-CLICK1.jpg)
+[![RETURNING SIDE CLICK](http://static.scholarslab.org/wp-content/uploads/2013/02/RETURNING-SIDE-CLICK1-1024x682.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/02/RETURNING-SIDE-CLICK1.jpg)
 
 The UPLOAD button might lead to some simple interface like the one below.
 
-[![UPLOAD](http://www.scholarslab.org/wp-content/uploads/2013/02/UPLOAD-1024x682.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/02/UPLOAD.jpg)
+[![UPLOAD](http://static.scholarslab.org/wp-content/uploads/2013/02/UPLOAD-1024x682.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/02/UPLOAD.jpg)
 
 Any thoughts? Revisions? Likes? Dislikes? I imagine Cecelia and I will start with the homepage over the next week, so it might be good to start our conversation there. The rest of this will certainly change as others on the team start to take on particular tasks.

@@ -12,7 +12,7 @@ categories:
 _Are you a UVA graduate student or upper-level undergraduate in the humanities?  Interested working in our new Makerspace?_
 
 <figure>
-  [![133799283_8e9ab4cd6e_b](http://www.scholarslab.org/wp-content/uploads/2014/06/133799283_8e9ab4cd6e_b-300x232.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/06/133799283_8e9ab4cd6e_b.jpg)
+  [![133799283_8e9ab4cd6e_b](http://static.scholarslab.org/wp-content/uploads/2014/06/133799283_8e9ab4cd6e_b-300x232.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/06/133799283_8e9ab4cd6e_b.jpg)
   <figcaption>
  photo courtesy of flicker user marymactavish
 </figcaption>

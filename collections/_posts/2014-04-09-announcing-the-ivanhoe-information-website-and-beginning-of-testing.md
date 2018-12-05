@@ -16,7 +16,7 @@ tags:
 
 Yesterday we celebrated the Day of DH by preparing for internal testing of the Ivanhoe Game WP Theme.  The entire team is now scurrying to make some finishing touches to the theme, info site, and documentation before our testers begin their games.  Development has been working to stabilize roles and the role journal features, and they have reported success.  The following image indicates Development's glee at this and similar recent successes:
 
-[![wheee](http://www.scholarslab.org/wp-content/uploads/2014/04/wheee-225x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/04/wheee.jpg)
+[![wheee](http://static.scholarslab.org/wp-content/uploads/2014/04/wheee-225x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/04/wheee.jpg)
 
 Design continues to reflect on and tweak the aesthetics of Ivanhoe, while Support (now consisting of Francesca and myself) work on the website.  Francesca just finished drafting documentation; see her recent post on the process of walking through Ivanhoe and imagining where users will need guidance.  Also see [Veronica's post](http://www.scholarslab.org/grad-student-research/all-together-now/) reflecting on equal credit, a tenet from our charter; now that we have a product we can begin taking credit for, figuring out how to apportion that credit will start to become a bigger deal, so it's a good time to start thinking about it.
 

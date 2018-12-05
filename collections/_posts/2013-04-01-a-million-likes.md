@@ -17,7 +17,7 @@ A [new social media campaign](https://www.facebook.com/scholarslab) is taking Fa
 **[PHOTO: Smiling staff gather around a whiteboard that reads: "If the SLab page gets a million "likes," Bethany will buy us an EMP doomsday device! *Zap!* Lights OUT! (Sci-Fi 4-EVA) *Bye-bye, DH!* (She doesn't think we can do it!) Please LIKE!"]**
 
 
-[![A Million Likes](http://www.scholarslab.org/wp-content/uploads/2013/04/photo-1024x768.jpg)](https://www.facebook.com/scholarslab)
+[![A Million Likes](http://static.scholarslab.org/wp-content/uploads/2013/04/photo-1024x768.jpg)](https://www.facebook.com/scholarslab)
 
 
 **SEAL:** It all began in the early hours of March 28th, when Wayne Graham, head of Scholar's Lab R&D, received a call from systems administrators informing him he was to spend the next 16 hours tracking down the source of unusual activity on one of the lab's servers.

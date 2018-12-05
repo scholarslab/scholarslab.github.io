@@ -14,7 +14,7 @@ tags:
 ---
 
 <figure>
-  [![The 1907 Massie Map of Albemarle Co., VA](http://www.scholarslab.org/wp-content/uploads/2010/01/Massie1907_thumb500.jpg)](http://www.scholarslab.org/geospatial-and-temporal/the-1907-massie-map-of-albemarle-co-is-now-in-the-portal/attachment/massie1907_thumb500-2/)
+  [![The 1907 Massie Map of Albemarle Co., VA](http://static.scholarslab.org/wp-content/uploads/2010/01/Massie1907_thumb500.jpg)](http://www.scholarslab.org/geospatial-and-temporal/the-1907-massie-map-of-albemarle-co-is-now-in-the-portal/attachment/massie1907_thumb500-2/)
   <figcaption>
  The 1907 Massie Map of Albemarle Co., VA
 </figcaption>

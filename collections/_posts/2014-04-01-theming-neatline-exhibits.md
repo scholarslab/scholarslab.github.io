@@ -18,7 +18,7 @@ One of the coolest but most under-documented features in Neatline is the ability
 
 In other cases, though, this can be a real hindrance. Sometimes it can make sense to host a number of self-contained Neatline exhibits in the same installation of Omeka. For example, imagine you're using Neatline in a big lecture course, and you split the class up into 10-15 groups of students, all working on separate exhibits. As the semester draws to an end, some of the groups want to use the [NeatlineText](http://www.scholarslab.org/announcements/neatline-text/) plugin, and need a layout that positions the exhibit narrative on the side of the screen, flush with the edge of the window. But other groups are just threading the text content into the record bodies, and don't want a big, empty container element taking up space on the screen. How to handle both at once? Or, for a concrete example, take a look at the [Neatline Labs](http://neatline.dclure.org/) site, which I use a sandbox for little Neatline-powered experiments and feature demos. By design, these projects are all totally different - different content, different layouts, different Javascript interactions, etc:
 
-[![panorama](http://www.scholarslab.org/wp-content/uploads/2014/03/panorama-1024x88.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/03/panorama.jpg)
+[![panorama](http://static.scholarslab.org/wp-content/uploads/2014/03/panorama-1024x88.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/03/panorama.jpg)
 
 It would be annoying to have to spin up a completely new instance of Omeka for each of these projects. To get around this, Neatline implements its own "sub-theming" system, piggybacking on top of the capabilities provided by Omeka, that makes it possible to customize part or all of the appearance, layout, or behavior of each exhibit on an individual basis. This is an opt-in system that can be mixed with the regular, site-wide theming system - if you have 10 Neatline exhibits on your site, you could write exhibit-specific themes for three of them, and leave the other seven unchanged, allowing them to continue to inherit the generic Omeka theme. And, within the three exhibit-specific themes, you have full control over which parts of the theme you override - for one, you could leave the layout unchanged, but modify the CSS; for another, you could leave the CSS the same but change the layout and add some custom Javascript interactions. Exhibit-specific themes are also highly portable - once you've built one to your liking, it can be adapted for new exhibits just by copying and renaming the directory.
 
@@ -36,7 +36,7 @@ Neatline themes are created as directories that sit inside of the Omeka theme. F
 
 For example, here's the layout of [my fork of the Neatlight theme](https://github.com/davidmcclure/neatlight), with the theme directories for a handful of exhibits at [neatline.dclure.org](http://neatline.dclure.org/):
 
-[![nltheme-tree](http://www.scholarslab.org/wp-content/uploads/2014/03/nltheme-tree.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/03/nltheme-tree.jpg)
+[![nltheme-tree](http://static.scholarslab.org/wp-content/uploads/2014/03/nltheme-tree.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/03/nltheme-tree.jpg)
 
 
 
@@ -128,7 +128,7 @@ And Neatline will automatically use that template instead of the default. What i
 
 First, add tags to the records in Neatline:
 
-[![nltheme-tag](http://www.scholarslab.org/wp-content/uploads/2014/03/nltheme-tag-300x214.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/03/nltheme-tag.jpg)
+[![nltheme-tag](http://static.scholarslab.org/wp-content/uploads/2014/03/nltheme-tag-300x214.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/03/nltheme-tag.jpg)
 
 Then, just create two template in the exhibit theme - one called **`item-image.php`** (the same as above), the other called **`item-letter.php`**. In the letter template, just display the title and text:
 
@@ -144,7 +144,7 @@ Neatline will automatically use the tag-specific templates for any records tagge
 
 So far, we've just been entering all of our custom CSS and Javascript directly into the **`style.css`** and **`script.js`** and  files. This works fine for simple themes, but it can start to get a little clunky as the theme grows more complex - nobody likes to see a big heap of Javascript snippets, all doing different things, crammed into the same file. So, how to decompose **`style.css`** and **`script.js`** into separate files? One good solution is to use a task runner like [Grunt](http://gruntjs.com/) to concatenate multiple source files into the **`style.css`** and **`script.js`** files, which, instead of being edited directly, become compiled payload files that are updated automatically by the task runner.
 
-[![file-concatenation](http://www.scholarslab.org/wp-content/uploads/2014/03/file-concatenation.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/03/file-concatenation.jpg)
+[![file-concatenation](http://static.scholarslab.org/wp-content/uploads/2014/03/file-concatenation.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/03/file-concatenation.jpg)
 
 To make it easy to get started, I've created a little starter theme, based on the theme used for the [Project Gemini over Baja California](http://dclure.org/logs/project-gemini-over-baja-california/) project, with all of the configuration and file structure in place to build out themes for exhibits that use the NeatlineText extension. This includes all of the layout, styling, and UX interactions from the Gemini project, like the little yellow lines that wire up the text with the map.
 

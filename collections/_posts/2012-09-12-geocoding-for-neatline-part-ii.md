@@ -126,7 +126,7 @@ After running this script, when you log on to Omeka, you should see newly create
 
 Assuming you've read the [documentation on creating Neatline exhibits](http://neatline.org/plugins/neatline/), you can now simply add these items and have them placed spatially by clicking on the **Map** icon in the Neatline editor.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/09/neatline_features-300x199.png)](http://www.scholarslab.org/wp-content/uploads/2012/09/neatline_features.png)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/09/neatline_features-300x199.png)](http://static.scholarslab.org/wp-content/uploads/2012/09/neatline_features.png)
 
 
 

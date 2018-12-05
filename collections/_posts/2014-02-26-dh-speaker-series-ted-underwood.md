@@ -20,7 +20,7 @@ March 10 update: Due to technical difficulties, we are not able to post the podc
 **Thursday, March 6 at 10:00 am**
 in Alderman Library, Room 421
 
-[![underwood_teacup](http://www.scholarslab.org/wp-content/uploads/2014/02/underwood_teacup.png)](http://www.scholarslab.org/wp-content/uploads/2014/02/underwood_teacup.png)
+[![underwood_teacup](http://static.scholarslab.org/wp-content/uploads/2014/02/underwood_teacup.png)](http://static.scholarslab.org/wp-content/uploads/2014/02/underwood_teacup.png)
 
 The phrase "digital humanities" suggests an encounter with digital technology itself -- which might seem to involve departments of computer science only insofar as they build tools for us to use. But as collaborations between humanists and computer scientists grow more common, it's becoming clear that these disciplines are working on shared, surprisingly fundamental questions. For instance, computer scientists want to understand how we learn to generalize about latent categories from limited evidence, which is a good part of what humanists do when we "interpret an archive" or "develop a theory." Instead of treating CS as a source of tools, some humanists are starting to approach the discipline as a theoretical interlocutor, analogous to linguistics or anthropology. What might this conversation look like concretely? I'll flesh out some possibilities, briefly describing a collaboration with David Bamman at Carnegie Mellon (we're attempting to model character in nineteenth-century novels), and reflecting more generally on the humanistic value of model-building. I'll also acknowledge some of the social divisions that make this conversation risky.
 

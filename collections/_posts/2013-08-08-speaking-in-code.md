@@ -16,7 +16,7 @@ tags:
 
 We're pleased to announce that applications are open for a 2-day, [NEH-funded](http://neh.gov) symposium and summit to be held at the Scholars' Lab this November 4th and 5th.
 
-[![Speaking in Code](http://www.scholarslab.org/wp-content/uploads/2013/08/Screen-shot-2013-08-08-at-10.35.09-AM.png)](http://codespeak.scholarslab.org/)
+[![Speaking in Code](http://static.scholarslab.org/wp-content/uploads/2013/08/Screen-shot-2013-08-08-at-10.35.09-AM.png)](http://codespeak.scholarslab.org/)
 
 "[Speaking in Code](http://codespeak.scholarslab.org/)" will bring together a small cohort of accomplished digital humanities software developers. Together, we will give voice to what is almost always tacitly expressed in DH development work: expert knowledge about the intellectual and interpretive dimensions of code-craft, and unspoken understandings about the relation of our labor and its products to ethics, scholarly method, and humanities theory.
 

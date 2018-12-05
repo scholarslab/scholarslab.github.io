@@ -46,7 +46,7 @@ In the [first part](http://dclure.org/?p=948) of this series, we brought a stati
 
 If you open up the newly-generated .tif file in a regular image editing program, you'll see that ArcMap added in regions of black around the actual map to make it fill the rectangular aspect ratio of the file. This happens almost every time, since the process of rectification usually involves rotating the image away from its original orientation.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/borders-296x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/borders.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/borders-296x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/borders.jpg)
 
 In the context of a Neatline exhibit, this is problematic because the black borders will completely occlude the real-geography base layer (or underlying historical maps) immediately surrounding the image. Fortunately, former Scholars' Lab GIS assistant Dave Richardson figured out how to strip out the borders in Photoshop by converting them into transparencies. This step is a bit of a nuisance, but we've found that it dramatically improves the final appearance of the map.
 
@@ -61,7 +61,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)
 
 
 
@@ -71,7 +71,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background-300x248.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/layer-from-background.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background-300x248.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background.jpg)
 
 
 
@@ -81,7 +81,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete-300x280.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/border-delete.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete-300x280.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete.jpg)
 
 
 
@@ -91,7 +91,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/alpha-300x183.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/alpha.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/alpha-300x183.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/alpha.jpg)
 
 
 
@@ -101,7 +101,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/inverse-170x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/inverse.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/inverse-170x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/inverse.jpg)
 
 
 
@@ -111,7 +111,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection-300x280.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/black-selection.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection-300x280.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection.jpg)
 
 
 
@@ -121,7 +121,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection-300x281.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/white-selection.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection-300x281.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection.jpg)
 
 
 
@@ -131,7 +131,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/save-as-300x198.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/save-as.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/save-as-300x198.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/save-as.jpg)
 
 
 
@@ -141,7 +141,7 @@ Here's how to do it:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/tiff-options-222x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/tiff-options.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/tiff-options-222x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/tiff-options.jpg)
 
 
 

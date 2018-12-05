@@ -13,12 +13,12 @@ For the last few weeks, the Praxis Fellows have been workshopping workshops desi
 
 By the end of the workshop, the seminar room should look something like this:
 
-![](http://scholarslab.org/wp-content/uploads/2018/10/Holmes-String-300x219.jpg)  
+![](http://static.scholarslab.org/wp-content/uploads/2018/10/Holmes-String-300x219.jpg)  
 Photo from "Sherlock Holmes: A Game of Shadows" (2011)
 
 And students should look more or less like this:
 
-![](http://scholarslab.org/wp-content/uploads/2018/10/Pepe-Silvia-300x225.jpg)  
+![](http://static.scholarslab.org/wp-content/uploads/2018/10/Pepe-Silvia-300x225.jpg)  
 Photo from "It's Always Sunny in Philadelphia"
 
 Because, friends, we're examining social network analysis. With string!
@@ -81,7 +81,7 @@ To conduct this workshop, the presenter will need the following:
 
 I envision the following workshop taking between 60-75 minutes to complete. However, it is possible to adapt the workshop to fill more or less time by the number of examples pursued for each analysis. Furthermore, the presenter could augment the final part of the workshop, "Applications," with examples from their own work.
 
-![](http://scholarslab.org/wp-content/uploads/2018/10/kitten-playing-with-red-yarn-300x189.jpg)  
+![](http://static.scholarslab.org/wp-content/uploads/2018/10/kitten-playing-with-red-yarn-300x189.jpg)  
 Photo from playrightmeow.com
 
 
@@ -94,7 +94,7 @@ After a few minutes of the students identifying and working through these proble
 
 With the social network taped down to the table, ask students about their preliminary observations. Does the social network look like what they would expect? If not, what is surprising? Does seeing the web of string, yarn, and ropes raise any questions for the students? Allow some flexibility to raise questions and discuss potential ideas before moving on to the analysis segment of the workshop.
 
-![](http://scholarslab.org/wp-content/uploads/2018/10/powers.jpeg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/10/powers.jpeg)
 
 
 #### **Social Network Analysis**

@@ -41,7 +41,7 @@ A complete application package will include the following materials:
   * a cover letter, addressed to the selection committee;
 
 	
-  * a [Graduate Fellowship Application Form;](http://www.scholarslab.org/wp-content/uploads/2012/10/fellowsapp2013.pdf)
+  * a [Graduate Fellowship Application Form;](http://static.scholarslab.org/wp-content/uploads/2012/10/fellowsapp2013.pdf)
 
 	
   * a dissertation abstract;

@@ -76,7 +76,7 @@ A complete application package will include the following materials, all of whic
 
 
  	
-  * a [Graduate Fellowship Application Form;](http://scholarslab.org/wp-content/uploads/2018/09/dhfellowsappform2019-2020.pdf)
+  * a [Graduate Fellowship Application Form;](http://static.scholarslab.org/wp-content/uploads/2018/09/dhfellowsappform2019-2020.pdf)
 
  	
   * a dissertation abstract;

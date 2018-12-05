@@ -16,7 +16,7 @@ We hold regular Open Office Hours during fall and spring term at the discussion 
 
 Here is where you will also find our [Makerspace](http://www.scholarslab.org/makerspace/).
 
-[![](http://www.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom001-110x110.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom001.jpg) [![](http://www.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom01-110x110.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom01.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom001-110x110.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom001.jpg) [![](http://static.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom01-110x110.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/10/slabcommonroom01.jpg)
 
 <!--
   * **Size:** seating for 66

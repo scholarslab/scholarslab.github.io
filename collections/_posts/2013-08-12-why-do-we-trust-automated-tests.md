@@ -37,6 +37,6 @@ In the real world, tests are never this easy - the "complexity cliff" will almos
 
 It becomes an optimization problem - instead of just trying to make the tests _wider_ (higher coverage), I've also started trying to make the tests _lower_, to drive down complexity as far towards the quicksort-like tests as possible. It's sort of like trying to boost the "profit margin" of the tests - more value is captured as the difficulty of the tests dips further and further below the difficulty of the application:
 
-[![complexity-cliff-web](http://www.scholarslab.org/wp-content/uploads/2013/08/complexity-cliff-web-1024x584.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/08/complexity-cliff-web.jpg)
+[![complexity-cliff-web](http://static.scholarslab.org/wp-content/uploads/2013/08/complexity-cliff-web-1024x584.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/08/complexity-cliff-web.jpg)
 
 **[1]** Dangerously false, perhaps, since it basically gives you free license to to write careless, kludgy tests - if a good test is a test that exists, then why bother putting in the extra effort to make it concise, semantic, readable?

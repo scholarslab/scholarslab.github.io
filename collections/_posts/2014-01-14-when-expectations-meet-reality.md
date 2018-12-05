@@ -22,4 +22,4 @@ What could this post possibly do with Praxis? Well, for one it helps to explain 
 
 I'll wrap this up here with a bit of humor[ (](http://www.youtube.com/watch?v=4YIj4rLYo0c)[courtesy of PhD comics](http://www.phdcomics.com/comics/archive.php?comicid=1500))
 
-[![phd060112s](http://www.scholarslab.org/wp-content/uploads/2014/01/phd060112s-300x130.gif)](http://www.scholarslab.org/wp-content/uploads/2014/01/phd060112s.gif)
+[![phd060112s](http://static.scholarslab.org/wp-content/uploads/2014/01/phd060112s-300x130.gif)](http://static.scholarslab.org/wp-content/uploads/2014/01/phd060112s.gif)

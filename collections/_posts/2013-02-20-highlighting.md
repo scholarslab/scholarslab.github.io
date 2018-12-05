@@ -11,4 +11,4 @@ tags:
 - praxis program
 ---
 
-[![](http://static.scholarslab.org/wp-content/uploads/2013/02/hilight_tool_sketches.gif)](http://www.scholarslab.org/wp-content/uploads/2013/02/hilight_tool_sketches.gif)
+[![](http://static.scholarslab.org/wp-content/uploads/2013/02/hilight_tool_sketches.gif)](http://static.scholarslab.org/wp-content/uploads/2013/02/hilight_tool_sketches.gif)

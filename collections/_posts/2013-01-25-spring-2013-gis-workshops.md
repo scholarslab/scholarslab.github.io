@@ -13,7 +13,7 @@ tags:
 
 Every semester Kelly Johnston and I teach a workshop series around specific topics in GIS.   Typically, we stick to the basics for fall but branch out and mix it up a little by teaching new topics in spring.  Our sessions are one hour long and generally designed to be hands-on and don't require prior knowledge to participate.  Preregistration is not required. All sessions are free and open to the UVa and larger Charlottesville community.
 
-Please find a PDF of the below schedule [here](http://www.scholarslab.org/wp-content/uploads/2013/01/spring13GISworkshops.pdf).
+Please find a PDF of the below schedule [here](http://static.scholarslab.org/wp-content/uploads/2013/01/spring13GISworkshops.pdf).
 
 **Acquiring and Using US Census Data in GIS**
 

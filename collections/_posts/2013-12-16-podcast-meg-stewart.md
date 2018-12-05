@@ -13,7 +13,7 @@ categories:
 
 On December 3, 2013, Meg Stewart, Academic Technology Consultant and Fulbright Ambassador, spoke in the Scholars' Lab about her experiences as a geospatial technologist in the Caribbean and about the Fulbright Scholar program and encouraged applications for a Fulbright grant.
 
-Ms. Stewart's presentation slides can be [viewed by clicking here](http://www.scholarslab.org/wp-content/uploads/2013/12/Stewart_slides_Fulbright_ScholarsLab.pdf).
+Ms. Stewart's presentation slides can be [viewed by clicking here](http://static.scholarslab.org/wp-content/uploads/2013/12/Stewart_slides_Fulbright_ScholarsLab.pdf).
 
 As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 

@@ -31,6 +31,6 @@ It's inefficient to run a separate `INSERT` query for each row; better to clump 
 
 This can build out a 500,000-record exhibit in about 10 seconds:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/11/neatline-big-exhibit.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/11/neatline-big-exhibit.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/11/neatline-big-exhibit.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/11/neatline-big-exhibit.jpg)
 
 Full code [here](https://github.com/scholarslab/Neatline/blob/f0b9bc8626177ac9a21d6f9e72ed4d8af033a3fe/.dev/insert.js).

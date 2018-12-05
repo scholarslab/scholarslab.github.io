@@ -30,6 +30,6 @@ My conclusion from all this is three-fold: 1) that human beings always function 
 
 [gallery ids="9422,9592,9573,9586,9581,9588,9593,9560,10253,10252,10255,10254,10256,10261,10258"]
 
-[![image_11](http://www.scholarslab.org/wp-content/uploads/2014/04/image_11-300x225.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/04/image_11.jpg)
+[![image_11](http://static.scholarslab.org/wp-content/uploads/2014/04/image_11-300x225.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/04/image_11.jpg)
 
 Thanks to the entire Praxis team, Fellows and SLab mentors, for a wonderful year!

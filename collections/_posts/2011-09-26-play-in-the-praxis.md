@@ -19,7 +19,7 @@ I third [Lindsay](http://www.scholarslab.org/praxis-program/the-pleasures-of-pro
 My pseudo-catholic reaction to code was very revealing to me. After all, why should anyone feel guilty to learn a new language? Why does it feel like a forbidden art? These questions got me thinking about the alleged differences between natural languages and computer languages. In the English Department, nobody would bat an eyelid if you said you were learning Farsi. Somehow Farsi could be integrated to your work as a scholar. Coding on the other hand still feels alien. It shouldn't. The fact that it does speaks to that imaginary border between scholarship and service. As English graduate students, well-steeped in the scholarship of Benedict Anderson or Walter Mignolo, we should recognize by now that borders are reified in the performance of a nationalism. _I belong to the literary scholar nation_, _you belong to the librarian nation_, etc. I am a migrant in the fullest sense of the word. To me these borders seem silly... and dangerous.
 
 <figure>
-  [![Git Languages](http://www.scholarslab.org/wp-content/uploads/2011/09/git-lang-300x136.png)](http://www.scholarslab.org/praxis-program/play-in-the-praxis/attachment/git-lang/)
+  [![Git Languages](http://static.scholarslab.org/wp-content/uploads/2011/09/git-lang-300x136.png)](http://www.scholarslab.org/praxis-program/play-in-the-praxis/attachment/git-lang/)
   <figcaption>
 The languages of Git
 </figcaption>

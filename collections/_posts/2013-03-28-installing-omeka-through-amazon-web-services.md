@@ -252,7 +252,7 @@ cd /
 ls
 ```
 
-[![Screen Shot 2013-02-21 at 7.13.47 PM](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.13.47-PM-300x80.png)](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.13.47-PM.png)
+[![Screen Shot 2013-02-21 at 7.13.47 PM](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.13.47-PM-300x80.png)](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.13.47-PM.png)
 
 ```
 sudo apt-get -y install apache2 php5 php5-xsl php5-mysql php5-curl mysql-server zip imagemagick sendmail
@@ -261,7 +261,7 @@ sudo a2enmod rewrite
 
 As part of the installation process, you'll be asked to create a 'root' account for the MySQL server. Just remember whatever you use for this account as you'll need it later to create the database and user for Omeka.
 
-[![Screen Shot 2013-02-14 at 1.56.58 PM](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-14-at-1.56.58-PM-300x239.png)](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-14-at-1.56.58-PM.png)
+[![Screen Shot 2013-02-14 at 1.56.58 PM](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-14-at-1.56.58-PM-300x239.png)](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-14-at-1.56.58-PM.png)
 
 After the installation and configuration has finished, you can test that the web server is running by pointing your browser at the server name you have (it'll be something like http://ec2_123.345.56.78/, whatever the server connection in the AWS panel is). If everything is correctly to this point, you should see a page in the browser that says "It Works!"
 
@@ -328,7 +328,7 @@ password = "(password generated in step 20)"
 dbname = "omeka"
 ```
 
-[![Screen Shot 2013-02-21 at 7.24.47 PM](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.24.47-PM-300x226.png)](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.24.47-PM.png)
+[![Screen Shot 2013-02-21 at 7.24.47 PM](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.24.47-PM-300x226.png)](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.24.47-PM.png)
 Leave everything else the same. Hit control + c to exit the edit mode and :wq to write and quit out of the program.
 
 Now restart apache
@@ -351,7 +351,7 @@ sudo vim default
 
 Now you'll see the default file. You need to change the allow from to all under <Directory /var/www/> using the vim commands you used to change the db.ini file (see image)
 
-[![Screen Shot 2013-02-21 at 7.38.21 PM](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.38.21-PM-275x300.png)](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.38.21-PM.png)
+[![Screen Shot 2013-02-21 at 7.38.21 PM](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.38.21-PM-275x300.png)](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-21-at-7.38.21-PM.png)
 
 Now you need to change the .htaccess file in the Install directory
 
@@ -362,13 +362,13 @@ sudo vim .htaccess
 
 Find the instruction in this document which tells you to uncomment a line and add your own directory. Make the changes using the vim commands from above.
 
-[ ](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.26.51-AM.png)
+[ ](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.26.51-AM.png)
 
 [
-](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.27.57-AM.png)[![Screen Shot 2013-02-22 at 9.26.51 AM](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.26.51-AM-300x224.png)](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.26.51-AM.png)
+](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.27.57-AM.png)[![Screen Shot 2013-02-22 at 9.26.51 AM](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.26.51-AM-300x224.png)](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.26.51-AM.png)
 
 
-[![Screen Shot 2013-02-22 at 9.27.57 AM](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.27.57-AM-300x222.png)](http://www.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.27.57-AM.png)
+[![Screen Shot 2013-02-22 at 9.27.57 AM](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.27.57-AM-300x222.png)](http://static.scholarslab.org/wp-content/uploads/2013/02/Screen-Shot-2013-02-22-at-9.27.57-AM.png)
 
 
 Then restart apache.

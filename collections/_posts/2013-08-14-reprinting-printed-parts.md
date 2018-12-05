@@ -19,7 +19,7 @@ Then last month, I hauled the printer halfway across the country to use in a wor
 Yesterday I finally got around to printing a replacement arm. After taking the old arm and mount off, and comparing the old arm with the new one, it seems like my initial thought that I had broken the arm were incorrect:
 
 <figure>
-  [![IMG_0334](http://www.scholarslab.org/wp-content/uploads/2013/08/IMG_0334-768x1024.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/08/IMG_0334.jpg)
+  [![IMG_0334](http://static.scholarslab.org/wp-content/uploads/2013/08/IMG_0334-768x1024.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/08/IMG_0334.jpg)
   <figcaption>
  Comparing printed arms for the drive block. The black arm is the replacement, and the orange arm is the old one.
 </figcaption>
@@ -29,7 +29,7 @@ Yesterday I finally got around to printing a replacement arm. After taking the o
 Upon further inspection, the old one isn't broken as I had first suspected. Comparing the two (The orange arm is the first one I printed, and the black arm is the replacement I just printed) , it looks like the orange one has warped, very likely due the plastic arm being so close to the heated extruder.  It could also be that the spring was strong enough to warp the plastic arm bit by bit over time. I'm sure the proximity to the heated extruder helped with that too.
 
 <figure>
-  [![Assembled drive block with spring-loaded arm.](http://www.scholarslab.org/wp-content/uploads/2013/08/IMG_0338-1024x768.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/08/IMG_0338.jpg)
+  [![Assembled drive block with spring-loaded arm.](http://static.scholarslab.org/wp-content/uploads/2013/08/IMG_0338-1024x768.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/08/IMG_0338.jpg)
   <figcaption>
  Assembled drive block with spring-loaded arm.
 </figcaption>

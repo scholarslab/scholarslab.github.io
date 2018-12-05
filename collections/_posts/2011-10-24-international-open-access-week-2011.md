@@ -11,7 +11,7 @@ tags:
 - Digital Humanities
 ---
 
-[![Open Access Week poster](http://www.scholarslab.org/wp-content/uploads/2011/10/openaccessweek20118.5x11-164x300.png)](http://www.scholarslab.org/uncategorized/international-open-access-week-2011/attachment/openaccessweek20118-5x11/)
+[![Open Access Week poster](http://static.scholarslab.org/wp-content/uploads/2011/10/openaccessweek20118.5x11-164x300.png)](http://www.scholarslab.org/uncategorized/international-open-access-week-2011/attachment/openaccessweek20118-5x11/)
 
 October 24 - 30 is International Open Access Week 2011. Now in its fifth year, International Open Access Week, sponsored by [openaccessweek.org](http://openaccessweek.org/), is dedicated to educating scholars and university administrators about authors' rights, copyright, and the importance of creating and maintaining free access to scholarship.
 

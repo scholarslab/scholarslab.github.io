@@ -27,7 +27,7 @@ My design consists of three major elements: a color scheme, a set of three icons
 2. Consider an opening from a copy of Gatian’s _Decretals_:
 
 <figure>
-  [![Bologna, s. xiii Cesena, Biblioteca Malatestiana, Pluteo II sin. cod. 1, fol. 2r](http://www.scholarslab.org/wp-content/uploads/2014/03/glossed-199x300.jpg)](http://classes.maxwell.syr.edu/his311/Lecture%20Three/manuscript_of_gratian.htm)
+  [![Bologna, s. xiii Cesena, Biblioteca Malatestiana, Pluteo II sin. cod. 1, fol. 2r](http://static.scholarslab.org/wp-content/uploads/2014/03/glossed-199x300.jpg)](http://classes.maxwell.syr.edu/his311/Lecture%20Three/manuscript_of_gratian.htm)
   <figcaption>
 Bologna, s. xiii  Cesena, Biblioteca Malatestiana, Pluteo II sin. cod. 1, fol. 2r
 </figcaption>

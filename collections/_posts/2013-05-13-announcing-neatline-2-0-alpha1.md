@@ -10,7 +10,7 @@ tags:
 - neatline
 ---
 
-![neatline-2.0-alpha1-small](http://www.scholarslab.org/wp-content/uploads/2013/05/neatline-2.0-alpha1-small.png)
+![neatline-2.0-alpha1-small](http://static.scholarslab.org/wp-content/uploads/2013/05/neatline-2.0-alpha1-small.png)
 
 _[Cross-posted with [dclure.org](http://dclure.org/logs/announcing-neatline-2-0-alpha1/)]_
 

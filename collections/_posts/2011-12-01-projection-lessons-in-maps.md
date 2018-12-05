@@ -126,7 +126,7 @@ A [Tufte](http://www.edwardtufte.com/tufte/) favorite.  [More information on sm
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/11/image7a-1024x629.jpg)](http://www.scholarslab.org/wp-content/uploads/2011/11/image7a-1024x629.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/11/image7a-1024x629.jpg)](http://static.scholarslab.org/wp-content/uploads/2011/11/image7a-1024x629.jpg)
 [![](http://www.fulltable.com/vts/f/fortune/reh/SH512.jpg)](http://www.fulltable.com/vts/f/fortune/reh/SH512.jpg)
 
 
@@ -143,7 +143,7 @@ The last two maps have very interesting projection lessons embedded in them.
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/12/gnomonic-1024x549.jpg)](http://www.scholarslab.org/wp-content/uploads/2011/12/gnomonic-1024x549.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/12/gnomonic-1024x549.jpg)](http://static.scholarslab.org/wp-content/uploads/2011/12/gnomonic-1024x549.jpg)
 
 
 
@@ -153,7 +153,7 @@ How nice is that?  Having a clear, concise description of projection and scale 
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/12/longitude-1024x331.jpg)](http://www.scholarslab.org/wp-content/uploads/2011/12/longitude-1024x331.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/12/longitude-1024x331.jpg)](http://static.scholarslab.org/wp-content/uploads/2011/12/longitude-1024x331.jpg)
 
 
 
@@ -163,7 +163,7 @@ In this map, Harrison used comparative scales to show changes in distance across
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/12/centerfuge.jpg)](http://www.scholarslab.org/wp-content/uploads/2011/12/centerfuge.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/12/centerfuge.jpg)](http://static.scholarslab.org/wp-content/uploads/2011/12/centerfuge.jpg)
 
 
 
@@ -173,7 +173,7 @@ This one is the best.  A clear description with a visual that anyone can unders
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/12/simplifiedCenterfuge.jpg)](http://www.scholarslab.org/wp-content/uploads/2011/12/simplifiedCenterfuge.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/12/simplifiedCenterfuge.jpg)](http://static.scholarslab.org/wp-content/uploads/2011/12/simplifiedCenterfuge.jpg)
 
 
 
@@ -188,7 +188,7 @@ A few weeks ago, I came across the following map.
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/12/r001bbp6-1024x696.jpg)](http://www.scholarslab.org/wp-content/uploads/2011/12/r001bbp6-1024x696.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/12/r001bbp6-1024x696.jpg)](http://static.scholarslab.org/wp-content/uploads/2011/12/r001bbp6-1024x696.jpg)
 
 
 

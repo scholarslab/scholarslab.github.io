@@ -40,10 +40,10 @@ If your file is small enough to be uploaded through Omeka, the Neatline Maps plu
 	
   1. With Neatline Maps installed, click on the "Neatline Maps" tab in the top toolbar of the Omeka administrative interface and click on "Create Server." Fill in the URL, Username, and Password for your GeoServer. In the Name section, enter a plaintext identifier for the server (used for content management in Omeka) and use the Workspace field to specify the workspace on the GeoServer installation that will house the new stores and layers. Click "Save" to create the server record.(**Note**: If you want to upload files to more than one installation of GeoServer, you can create as many server records as you want. At any given point, though, only one of the record can be marked as the "Active" server - this the server that the plugin will use to handle new .tif uploads).
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/create-server-300x245.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/create-server.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/create-server-300x245.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/create-server.jpg)
 
 	
-  2. Create an item to associate the web map service with (or edit an existing item). In the Item add/edit form, click on the "Files" tab, click on "Choose File," and select the .tiff file as you would for a regular file upload. When you save the item, Neatline Maps will automatically detect that you're trying to upload a georeferenced .tif file and create a corresponding web map service by way of the GeoServer API.[![](http://static.scholarslab.org/wp-content/uploads/2012/07/upload-file-300x124.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/upload-file.jpg)
+  2. Create an item to associate the web map service with (or edit an existing item). In the Item add/edit form, click on the "Files" tab, click on "Choose File," and select the .tiff file as you would for a regular file upload. When you save the item, Neatline Maps will automatically detect that you're trying to upload a georeferenced .tif file and create a corresponding web map service by way of the GeoServer API.[![](http://static.scholarslab.org/wp-content/uploads/2012/07/upload-file-300x124.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/upload-file.jpg)
 
 Once you've saved the file, if you go back into the Item edit form and click on the "Web Map Service" tab, you'll notice that "WMS Address" and "Layers" fields have been automatically updated to point to the new web map service. On the show page for the item, the map will be displayed in a small, interactive widget below the default metadata fields.
 
@@ -58,22 +58,22 @@ Once you've saved the file, if you go back into the Item edit form and click on 
 	
   2. In the GeoServer administrative interface, click on "Stores" in the left column and then click "Add new Store." On the next screen, click GeoTIFF under the "Raster Data Sources" heading.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/new-data-store-300x159.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/new-data-store.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/new-data-store-300x159.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/new-data-store.jpg)
 
 	
   3. Select a workspace for the store and enter a name. Under "Connection Parameters," click the "Browse.." link, and use the pop-up window to navigate to the file. Click "Save" to create the store.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/connection-parameters-300x162.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/connection-parameters.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/connection-parameters-300x162.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/connection-parameters.jpg)
 
 	
   4. Next, we have to publish the store as a public-facing layer. On the next screen, click the "Publish" link.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/publish-300x158.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/publish.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/publish-300x158.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/publish.jpg)
 
 	
   5. Now, the tricky part. We have to manually tell GeoServer to deliver the layer using a coordinate projection system that Neatline can use to layer the map on top of the real-geography base layers in OpenLayers. Scroll down to the "Coordinate Reference Systems" heading and enter `EPSG:900913` into the "Declared SRS" field. Under "SRS handling," select "Force declared." Under the "Bounding Boxes" heading, click both the "Compute from data" and "Compute from native bound" links.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/coordinates-274x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/coordinates.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/coordinates-274x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/coordinates.jpg)
 
 
 Now, with the layer created, we can associate the new web map service with an item in your Omeka collection by manually filling in the two fields in the "Web Map Services" tab:
@@ -86,7 +86,7 @@ Now, with the layer created, we can associate the new web map service with an it
 
 `hotchkiss:chancellorsville,hotchkiss:fredericksburg`.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/wms-tab-300x181.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/wms-tab.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/wms-tab-300x181.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/wms-tab.jpg)
 
 	
   3. Save the item.
@@ -98,8 +98,8 @@ The two methods both have the end result of filling in the two fields in the "We
 
 Once an item is linked to a web map service, Neatline automatically detects the map and loads it into an exhibit when the item is activated on the map. With the item queried into the editing environment for an exhibit, just check the middle of the three checkboxes next to the listing for the item in the content management panel:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/08/map-activation-300x178.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/08/map-activation.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/08/map-activation-300x178.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/08/map-activation.jpg)
 
 ...and the WMS layer will appear on the map:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/08/map-in-exhibit-300x195.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/08/map-in-exhibit.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/08/map-in-exhibit-300x195.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/08/map-in-exhibit.jpg)

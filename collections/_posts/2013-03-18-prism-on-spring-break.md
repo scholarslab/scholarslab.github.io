@@ -18,7 +18,7 @@ tags:
 Last week I was in Little Rock, Arkansas for the Society for American Music conference, but Prism seemed to be following me:
 
 <figure>
-  [![peerless](http://www.scholarslab.org/wp-content/uploads/2013/03/peerless_little_rock-1024x764.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/03/peerless_little_rock.jpg)
+  [![peerless](http://static.scholarslab.org/wp-content/uploads/2013/03/peerless_little_rock-1024x764.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/03/peerless_little_rock.jpg)
   <figcaption>
  peerless rainbow logo
 </figcaption>

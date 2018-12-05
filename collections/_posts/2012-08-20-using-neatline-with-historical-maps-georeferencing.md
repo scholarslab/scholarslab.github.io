@@ -39,7 +39,7 @@ With the image in hand, let's fire up ArcMap and get the environment set up:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/base-layer-300x240.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/base-layer.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/base-layer-300x240.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/base-layer.jpg)
 
 
 
@@ -49,7 +49,7 @@ With the image in hand, let's fire up ArcMap and get the environment set up:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/add-data-300x207.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/add-data.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/add-data-300x207.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/add-data.jpg)
 
 
 
@@ -57,7 +57,7 @@ With the image in hand, let's fire up ArcMap and get the environment set up:
 
   3. **Enable the Georeferencing toolbar** by clicking `Customize > Toolbars > Georeferencing`. The toolbar will appear at the top of the screen, and can be merged into the main top bar by dragging it upwards in the direction of the main navigation controls.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/georeferencing-toolbar-300x54.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/georeferencing-toolbar.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/georeferencing-toolbar-300x54.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/georeferencing-toolbar.jpg)
 
 
 
@@ -67,7 +67,7 @@ With the image in hand, let's fire up ArcMap and get the environment set up:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/initial-focus-300x203.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/initial-focus.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/initial-focus-300x203.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/initial-focus.jpg)
 
 
 
@@ -77,7 +77,7 @@ With the image in hand, let's fire up ArcMap and get the environment set up:
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/fit-to-display-300x204.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/fit-to-display.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/fit-to-display-300x204.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/fit-to-display.jpg)
 
 
 
@@ -93,7 +93,7 @@ Now, the actual rectification. All this entails is creating a series of associat
 
 Once you've clicked for a second time, the dotted line between the two clicks will disappear. Display the historical map again by checking the box next to its title in the "Table of Contents." The image will now be anchored onto the base layer around the location of the first point association.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/first-point-300x203.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/first-point.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/first-point-300x203.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/first-point.jpg)
 
 
 
@@ -101,7 +101,7 @@ Once you've clicked for a second time, the dotted line between the two clicks wi
 
   2. **Lay a scaling and rotation point**: Next, pick another easily-mappable point on the historical map, this time ideally near the edges of the image, or at least some significant distance from the first point. Follow the same steps of clicking on the historical map, hiding the historical map, clicking on the corresponding location on the base layer, and then re-enabling the historical map to see the effect.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/second-point-300x204.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/second-point.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/second-point-300x204.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/second-point.jpg)
 
 
 
@@ -118,7 +118,7 @@ As you work (especially in cases where you're laying down a lot points) experime
 
 Once you're done laying points, save off the image as a georeferenced .tiff file by clicking `Georeferencing > Rectify`. As desired, change the filename and target directory, and click "Save."
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/rectify-300x223.jpg)](http://www.scholarslab.org/wp-content/uploads/2012/07/rectify.jpg)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/rectify-300x223.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/rectify.jpg)
 
 **Links**
 

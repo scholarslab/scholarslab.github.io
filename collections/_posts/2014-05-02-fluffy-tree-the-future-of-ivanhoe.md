@@ -21,7 +21,7 @@ Now that Ivanhoe 1.0 is out in the world, Scott and I have settled down to tackl
 
 
 
-[![IMAG1333](http://www.scholarslab.org/wp-content/uploads/2014/05/IMAG1333-300x169.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/05/IMAG1333.jpg)
+[![IMAG1333](http://static.scholarslab.org/wp-content/uploads/2014/05/IMAG1333-300x169.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/05/IMAG1333.jpg)
 
 
 

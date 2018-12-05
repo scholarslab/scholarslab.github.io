@@ -12,7 +12,7 @@ tags:
 - praxis program
 ---
 
-[![PrismDraft](http://www.scholarslab.org/wp-content/uploads/2013/03/PrismDraft-300x157.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/03/PrismDraft.jpg)
+[![PrismDraft](http://static.scholarslab.org/wp-content/uploads/2013/03/PrismDraft-300x157.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/03/PrismDraft.jpg)
 
 
 

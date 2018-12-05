@@ -17,7 +17,7 @@ In this year’s round, each speaker will be given five minutes with a maximum o
 
 If you wish to participate in the lightning round talks, please email [cgist[at]virginia.edu](mailto:cgist@virginia.edu).  If you cannot participate, please come to enjoy the talks and GIS Day cake and see what we concocted this years’ cake.  [Previous years’ cakes](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/) are documented on our blog.
 
-![2010 cake](http://www.scholarslab.org/wp-content/uploads/2011/11/2010-cake-300x225.png)
+![2010 cake](http://static.scholarslab.org/wp-content/uploads/2011/11/2010-cake-300x225.png)
 
 We will wrap up the event by 3:30PM.
 

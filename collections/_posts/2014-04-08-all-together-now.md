@@ -23,4 +23,4 @@ Every member of a musical ensemble is responsible for practicing and developing 
 
 And look how much fun it is to work together! When you close an issue, Eric might even draw you a unicorn fighting Pegasos before crossing off the issue from our whiteboard:
 
-[![Eric_Pegasos_Unicorn](http://www.scholarslab.org/wp-content/uploads/2014/04/Eric_Pegasos_Unicorn-169x300.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/04/Eric_Pegasos_Unicorn.jpg)
+[![Eric_Pegasos_Unicorn](http://static.scholarslab.org/wp-content/uploads/2014/04/Eric_Pegasos_Unicorn-169x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/04/Eric_Pegasos_Unicorn.jpg)

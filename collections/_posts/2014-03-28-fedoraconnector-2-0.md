@@ -11,7 +11,7 @@ tags:
 - omeka
 ---
 
-[![fedora](http://www.scholarslab.org/wp-content/uploads/2014/03/fedora.png)](http://www.scholarslab.org/wp-content/uploads/2014/03/fedora.png)
+[![fedora](http://static.scholarslab.org/wp-content/uploads/2014/03/fedora.png)](http://static.scholarslab.org/wp-content/uploads/2014/03/fedora.png)
 
 Hot on the heels of yesterday's update to the [SolrSearch](http://www.scholarslab.org/announcements/solrsearch-2-0/) plugin, today we're happy to announce version 2.0 of the [FedoraConnector](http://omeka.org/add-ons/plugins/fedoraconnector/) plugin, which makes it possible to link items in Omeka with objects in [Fedora Commons](http://www.fedora-commons.org/) repositories! The workflow is simple - just register the location of one or more installations of Fedora, and then individual items in the Omeka collection can be associated with a Fedora PID. Once the link is established, any combination of the datastreams associated with the PID can be selected for import. For each of the datastreams, FedoraConnector proceeds in one of two ways:
 
@@ -41,4 +41,4 @@ For now, FedoraConnector is a pretty simple plugin. We've gone back and forth ov
 
 So, to that end, if you're use Fedora and Omeka and interested in wiring them together - we'd love to hear from you! Specifically, how exactly do you use Fedora, and what type of relationship between the two services would be most useful? With a more complete picture of what would be useful, I suspect that a handful of pretty surgical interventions would be enough to accommodate most use patterns. In the meantime, be sure to file a ticket on the [issue tracker](https://github.com/scholarslab/SolrSearch/issues) if you find bugs or think of other features that would be useful.
 
-[![fedora](http://www.scholarslab.org/wp-content/uploads/2014/03/fedora-352x1024.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/03/fedora.jpg)
+[![fedora](http://static.scholarslab.org/wp-content/uploads/2014/03/fedora-352x1024.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/03/fedora.jpg)

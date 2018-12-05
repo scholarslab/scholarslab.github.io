@@ -21,11 +21,11 @@ Humans love maps.  Every day in the Scholars' Lab we help aspiring cartographer
 
 That's instant gratification mapping via plane table methods.  So let's "_go directly into the field and do them_"!
 
-[![UVA plane table mapping 1](http://www.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-1-Kelly-Charles-Kromkowski-1024x768.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-1-Kelly-Charles-Kromkowski.jpg)
+[![UVA plane table mapping 1](http://static.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-1-Kelly-Charles-Kromkowski-1024x768.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-1-Kelly-Charles-Kromkowski.jpg)
 
 We're talking about old-school cartography.  As early as the 16th-century, writers [described the plane table method](http://en.wikipedia.org/wiki/Plane_table#cite_note-kiely-2) in detail.  Long before computers and software, early 2oth-century school boys in knickers were taught to [map distant church steeples](http://books.google.com/books?id=Uf0BAAAAYAAJ&dq=the%20school%20world%20plane%20table%20mapping%201905&pg=PA25#v=onepage&q=the%20school%20world%20plane%20table%20mapping%201905&f=false) by "screwing your drawing board to a camera tripod".
 
-[![Plane Table School World](http://www.scholarslab.org/wp-content/uploads/2014/04/PlaneTableSchoolWorld.png)](http://www.scholarslab.org/wp-content/uploads/2014/04/PlaneTableSchoolWorld.png)
+[![Plane Table School World](http://static.scholarslab.org/wp-content/uploads/2014/04/PlaneTableSchoolWorld.png)](http://static.scholarslab.org/wp-content/uploads/2014/04/PlaneTableSchoolWorld.png)
 
 <figure>
   ![](http://celebrating200years.noaa.gov/foundations/mapping/image2_650.jpg) Plane table mapping from [NOAA](http://celebrating200years.noaa.gov/foundations/mapping/image2.html)
@@ -39,13 +39,13 @@ Historic resources like Low's [_Plane Table Mapping_](https://archive.org/detail
 
 We developed our [Scholars' Lab plane table mapping workshop](http://teaching.scholarslab.org/courses/2014_Spring_GIS_Workshops/Plane_Table_Mapping_Workshop_Presentation.pdf) with a low-cost do-it-yourself mindset.  For our work surface (or plane table) my Scholars' Lab colleague Chris Gist attached a plywood table top to a camera tripod.  Rather than invest in an expensive [alidade](http://www.ebay.com/bhp/alidade) for sighting distant objects, we used the edge of a triangular architect's scale.  A second-hand compass pointed to magnetic north.  A smartphone app helped level the table, as will a marble.  A set of keys on a string served as a plumb line.  A pencil and eraser completed our mapping toolkit.
 
-[![Plane table mapping 5](http://www.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-5-1024x768.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-5.jpg)
+[![Plane table mapping 5](http://static.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-5-1024x768.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-5.jpg)
 
 In our [workshop introduction](http://teaching.scholarslab.org/courses/2014_Spring_GIS_Workshops/Plane_Table_Mapping_Workshop_Presentation.pdf) we covered the basics of establishing a baseline, then sighting from multiple stations toward each visible landscape feature to create intersecting lines.   The map began to emerge on the paper without taking a single distance measurement.  Lines and angles were drawn using only visual methods.  If we could see it, we could map it from afar even if the feature was behind a locked gate, across a busy street, or otherwise inaccessible.
 
 We're beginners, so in our one-hour workshop we had our hands full making a simple map on level ground.  We didn't expand into the complexities of plane table mapping on uneven terrain. Even on flat ground we made mistakes.  We struggled with leveling, sighting, slipping scales, and tilting tables.  We learned that when something is wrong, it's quickly apparent while still on-site and can be corrected.  Mistakes are discovered and corrected in real-time, not later back in the office.
 
-[![Plane Table Map](http://www.scholarslab.org/wp-content/uploads/2014/04/Plane-Table-Map-1024x768.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/04/Plane-Table-Map.jpg)
+[![Plane Table Map](http://static.scholarslab.org/wp-content/uploads/2014/04/Plane-Table-Map-1024x768.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/04/Plane-Table-Map.jpg)
 
 This new cohort of plane tablers commented on their experience:
 
@@ -61,7 +61,7 @@ _I'm seeing the world with new eyes._</blockquote>
 
 Happy mapping!
 
-[![plane table mapping 10](http://www.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-10-Chris-Gist-Charles-Kromkowski-Kelly-1024x768.jpg)](http://www.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-10-Chris-Gist-Charles-Kromkowski-Kelly.jpg)
+[![plane table mapping 10](http://static.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-10-Chris-Gist-Charles-Kromkowski-Kelly-1024x768.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/04/20140416-UVA-plane-table-mapping-10-Chris-Gist-Charles-Kromkowski-Kelly.jpg)
 
 Thanks to Schaeffer Somers, University of Virginia School of Architecture, for the equipment loan.
 

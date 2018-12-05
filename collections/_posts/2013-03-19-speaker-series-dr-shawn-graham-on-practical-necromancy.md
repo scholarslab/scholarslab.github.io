@@ -13,7 +13,7 @@ On Thursday, the Scholars' Lab will have the pleasure of hosting Dr. Shawn Graha
 Details:
 
 
-**[![Practical Necromancy](http://www.scholarslab.org/wp-content/uploads/2013/03/shawngraham21.jpg)](http://www.scholarslab.org/wp-content/uploads/2013/03/shawngraham21.jpg)Thursday, March 21**
+**[![Practical Necromancy](http://static.scholarslab.org/wp-content/uploads/2013/03/shawngraham21.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/03/shawngraham21.jpg)Thursday, March 21**
 _2:00pm - 3:00pm_
 _Scholars' Lab, Alderman Library 4th floor_
 

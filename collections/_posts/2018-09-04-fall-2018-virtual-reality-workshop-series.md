@@ -11,7 +11,7 @@ categories:
 
 
 
-![](http://scholarslab.org/wp-content/uploads/2018/08/Image-from-iOS-768x1024.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/08/Image-from-iOS-768x1024.jpg)
 
 
 **Oct. 2** [**VR Workshop: Creating Virtual M****useums**](https://cal.lib.virginia.edu/event/4562045) (6 seats available; [register](https://cal.lib.virginia.edu/event/4562045))

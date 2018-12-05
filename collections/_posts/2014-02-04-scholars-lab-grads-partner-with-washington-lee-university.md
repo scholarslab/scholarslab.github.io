@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure>
-  [![quinn_anya_photo](http://www.scholarslab.org/wp-content/uploads/2014/02/quinn_anya_photo-e1391521680507-300x179.jpeg)]( http://www.flickr.com/photos/quinnanya/7744258278/sizes/z/ )
+  [![quinn_anya_photo](http://static.scholarslab.org/wp-content/uploads/2014/02/quinn_anya_photo-e1391521680507-300x179.jpeg)]( http://www.flickr.com/photos/quinnanya/7744258278/sizes/z/ )
   <figcaption>
  Photo by Anya Quinn
 </figcaption>

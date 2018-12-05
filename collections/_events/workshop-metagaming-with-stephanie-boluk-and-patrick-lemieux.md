@@ -15,7 +15,7 @@ title: 'Workshop: 1001 Game Engines with Stephanie Boluk and Patrick LeMieux'
 
 **Bring your own laptop** for a **HANDS-ON workshop** led by Stephanie Boluk and Patrick LeMieux, authors of [_Metagaming: Playing, Competing, Spectating, Cheating, Trading, Making, and Breaking Videogames._](https://www.upress.umn.edu/book-division/books/metagaming)
 
-![](http://scholarslab.org/wp-content/uploads/2018/03/metagaming-194x300.jpg)
+![](http://static.scholarslab.org/wp-content/uploads/2018/03/metagaming-194x300.jpg)
 
 How do you start making videogames? Do you begin by learning a suite of software from Photoshop to Maya to Unity to Steam? Or, echoing Melbourne’s local trashgame curators, Moshboy and BarSK, should we “make trashgames”? On http://itch.io hundreds of trashgames are uploaded every day by made on the fly, with no expertise, using tiny game engines built by and for individual makers. From Flick Game to Pling Pling, TinyChoice to Twine, and Bitsy to Bravitzlana, this hands-on workshop will introduce participants to a wide array of tools for making small, one-sitting games. Not quite 1001, in this a rapid prototyping and production pipeline demonstration will conclude by publishing at least three original videogames.
 
