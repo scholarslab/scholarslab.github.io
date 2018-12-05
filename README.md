@@ -18,7 +18,7 @@ We've tried to cover stuff below, but definitely feel free to either ask any que
 
 ## View the site
 
-1. ScholarsLab.org
+1. [ScholarsLab.org]()
 * Our "live" (aka production) website that the world can see.
 * We change code in this repo, a script that Ammon created updates the UVA web server hosting our site, and the change appears on ScholarsLab.org a couple minutes later
 
@@ -27,32 +27,45 @@ We've tried to cover stuff below, but definitely feel free to either ask any que
 * Gets updated when the repo gets updated, but! lacks some stuff that can't work on GitHub Pages (some Jekyll plugins, the nginx redirects that point old URLs to the current page locations (e.g. scholarslab.org/about/charter moved to scholarslab.org/charter when we moved from WordPress to Jekyll)
 * So, maybe just ignore that this exists? I guess we could take it down?
 
-3. "Old" WordPress site will live at: https://old.scholarslab.org (hasn't been moved there yet; #531 will accomplish this)
+3. "Old" WordPress site will live at: [https://old.scholarslab.org]() (hasn't been moved there yet; #531 will accomplish this)
 	* The Wordpress site that was ScholarsLab.org up until the end of 2018
 	* No longer updated, but available in case we need to grab stuff from it
 
 ## Contribute to the site
 
 Check out the appropriate documentation for:
-editing or adding a new post or page
-template for new posts
-template for new pages
-template for new events
+* [editing or adding a new post or page](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md)  
+* [template for new posts](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) * [template for new pages](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing)  
+* [template for new events](https://docs.google.com/document/d/1qLncvRa6aqQPpf2BtZwGJFf_vqrLTG6EB6qoyenZxLc/edit?usp=sharing)
 
 ...and then locate where you need to go in the repo:
 
-1. Adding or changing language on the homepage? [Try here.]()
-2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "static page", e.g. the Makerspace homepage, the Praxis homepage, etc.). [Try here.]()
-3. Alerting folks to a snow day or other surprise/emergency notice? [Try here.]()
-4. Updating the "Open Office Hours" sticky notice (in the homepage "upcoming events" list), e.g. when it's summer and we pause office hours until fall? [Try here.]()
+1. Adding or changing language on the homepage? Edit [the repo's top-level index.html file](https://github.com/scholarslab/scholarslab.org/blob/master/index.html)
+2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "static page", e.g. the Makerspace homepage, the Praxis homepage, etc.). All such pages are in [this "pages" folder](https://github.com/scholarslab/scholarslab.org/tree/master/pages)
+
+If you can't find the text you want to alter, it may be something that lives in a separate file:
+3. [/_includes](https://github.com/scholarslab/scholarslab.org/tree/master/_includes) covers things like our footer, navbar, and  
+	A. Alerting folks to a snow day or other surprise/emergency notice: [/_includes/snowday.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/snowday.html)  
+	B. Updating the "Open Office Hours" sticky notice (in the homepage "upcoming events" list), e.g. when it's summer and we pause office hours until fall: [/_includes/open-office-hours.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/open-office-hours.html)  
+4. [/_layouts](https://github.com/scholarslab/scholarslab.org/tree/master/_layouts) covers structural stuff that is the same on a bunch of pages, e.g. setting all our project pages to list the title of the project, years, and collaborator names happens in [/layouts/work.html](https://github.com/scholarslab/scholarslab.org/blob/master/_layouts/work.html)  
+5. [/collections](https://github.com/scholarslab/scholarslab.org/tree/master/collections) contain the following files, which get pulled into layouts to form posts or pages:
+	A. events
+	B. people
+	C. posts
+	D. spaces
+	E. work
 
 If none of the above fit or you're not sure, definitely feel free to either ask in the SLab Slack #slab-org channel, or talk with Amanda.
 
-## Add an issue
+## Get help or add an issue
+
+* Need assistance? Definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. And, it's totally fine to just ask rather than hunt through our documentation trying to see if you question is already answered.
 
 * Alerting the team to a bug, requested feature, possible future site work, or other fix? [Add to our issues list](https://github.com/scholarslab/scholarslab.org/issues).
 
-Documentation for adding an issue will go here!
+* Check out our [list of frequent error messages](https://github.com/scholarslab/scholarslab.org/blob/readme-rebooot/docs/common-jekyll-problems.md) encountered when working with Jekyll locally. Please add any you encounter (even if you can't document how to solve it.)
+
+Documentation for adding an issue will go here soon!
 
 ## Working with the site locally
 
