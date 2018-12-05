@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/scholarslab/scholarslab.org.svg?branch=master)](https://travis-ci.org/scholarslab/scholarslab.org)
 
 # Scholarslab.org
-The code that forms our ScholarsLab.org site, and stuff related to improving the site (documentation, issue list of future work)
+The code that forms our [ScholarsLab.org] site, and stuff related to improving the site (documentation, issue list of future work)
 
 We've tried to cover stuff below, but definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. (It's fine if you haven't read through all the documentation below first—there's a lot, but that makes it harder to quickly find answers and we're happy to point you to what you need.)
 
