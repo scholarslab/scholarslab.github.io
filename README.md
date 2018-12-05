@@ -49,11 +49,11 @@ If you can't find the text you want to alter, it may be something that lives in 
 	B. Updating the "Open Office Hours" sticky notice (in the homepage "upcoming events" list), e.g. when it's summer and we pause office hours until fall: [/_includes/open-office-hours.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/open-office-hours.html)  
 4. [/_layouts](https://github.com/scholarslab/scholarslab.org/tree/master/_layouts) covers structural stuff that is the same on a bunch of pages, e.g. setting all our project pages to list the title of the project, years, and collaborator names happens in [/layouts/work.html](https://github.com/scholarslab/scholarslab.org/blob/master/_layouts/work.html)  
 5. [/collections](https://github.com/scholarslab/scholarslab.org/tree/master/collections) contain the following files, which get pulled into layouts to form posts or pages:
-	A. events
-	B. people
-	C. posts
-	D. spaces
-	E. work
+	A. `/collections/_events`: one file per event, containing all the info about the event (pulled into scholarslab.org/events, indvidual event pages, and places like the homepage list of upcoming events)
+	B. `/collections/_people`: a file for every person currently or formerly part of the lab (used on scholarslab.org/people, individual bio pages, and places like the Spatial Tech page's gallery of SpIn staff photos)
+	C. `/collections/_posts`: our blog posts! (appear on scholarslab.org/blog, individual blog post webpages, and possibly in future places like a list of student-authored posts on the /student-opportunities page)
+	D. `/collections/_spaces`: info about some of our physical locations
+	E. `/collections/_work`: our projects/chunks of work (on scholarslab.org/work and individual project pages)
 
 If none of the above fit or you're not sure, definitely feel free to either ask in the SLab Slack #slab-org channel, or talk with Amanda.
 
@@ -69,7 +69,7 @@ Documentation for adding an issue will go here soon!
 
 ## Working with the site locally
 
-How to get the site up and running on your computer.
+How to get the site up and running on your computer:
 
 ### Prerequisites
 
