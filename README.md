@@ -7,22 +7,16 @@ We've tried to cover stuff below, but definitely feel free to either ask any que
 
 ## Table of Contents
 
-1. [Greatest Hits](#greatest-hits)
-	* [View the Site](#view-the-site)
-	* [Contribute to the New Site](#contribute-to-the-new-site)
-	* [Add an Issue](#add-an-issue)
-2. [Getting Started](#getting-started)
+1. [View the site](#view-the-site)
+2. [Contribute to the site](#contribute-to-the-site)
+3. [Add an issue](#add-an-issue)
+4. [Working with the site locally](#working-with-the-site-locally)
 	* [Prerequisites](#prerequisites)
 	* [Installation](#installation)
-	* [Building the Site](#building-the-site)
-3. [Managing Site Content](#managing-site-content)
-4. [Contribution Guidelines](#contribution-guidelines)
-	* [Instructions and Documentation](#instructions-and-documentation)
-	* [Submitting Issues](#submitting-issues)
+	* [Building the site](#building-the-site)
+	* [Rake tasks](#rake-tasks)
 
-## Greatest Hits
-
-### View the site
+## View the site
 
 1. ScholarsLab.org
 * Our "live" (aka production) website that the world can see.
@@ -37,7 +31,7 @@ We've tried to cover stuff below, but definitely feel free to either ask any que
 	* The Wordpress site that was ScholarsLab.org up until the end of 2018
 	* No longer updated, but available in case we need to grab stuff from it
 
-### Contribute to the New Site
+## Contribute to the site
 
 Check out the appropriate documentation for:
 editing or adding a new post or page
@@ -54,13 +48,13 @@ template for new events
 
 If none of the above fit or you're not sure, definitely feel free to either ask in the SLab Slack #slab-org channel, or talk with Amanda.
 
-### Add an Issue
+## Add an issue
 
 * Alerting the team to a bug, requested feature, possible future site work, or other fix? [Add to our issues list](https://github.com/scholarslab/scholarslab.org/issues).
 
 Documentation for adding an issue will go here!
 
-## Getting Started
+## Working with the site locally
 
 How to get the site up and running on your computer.
 
@@ -95,7 +89,7 @@ npm install
 ```
 If this results in an error message, make sure you have Node.js and npm installed. Check out this [guide](http://blog.teamtreehouse.com/install-node-js-npm-mac), or go straight to the [download page](https://nodejs.org/en/).
 
-### Building the Site
+### Building the site
 
 To build the site and search corpus, run Rake:
 ```bash
@@ -109,42 +103,28 @@ bundle exec jekyll serve --watch
 
 The site should build, and be locally accessible at [http://localhost:4000](http://localhost:4000).
 
-## Managing Site Content
+### Rake tasks
 
 The project includes several Rake tasks for creating new content.
 
-### Make a new person
+#### Make a new person
 ```bash
 rake new_person["First","Last"]
 rake new_person["Brandon","Walsh"]
 ```
 
-### Make a new post given a title and an author name in the form of first_name last_name
+#### Make a new post given a title and an author name in the form of first_name last_name
 ```bash
 rake new_post["Title here","First Last"]
 ex.
 rake new_post["Brandon's best blog post ever","Brandon Walsh"]
 ```
 
-### Make a new research project given a title
+#### Make a new research project given a title
 ```bash
 rake new_project["The name of your project goes here"]
 ```
 
-### Make a new event project given a title
+#### Make a new event project given a title
 ```bash
 rake new_event["The name of your event goes here"]
-```
-
-
-## Contribution Guidelines
-
-### Instructions and Documentation
-
-* See our [documentation](docs/README.md) section for instructions on contributing, style guides, and other miscellaneous documentation about the project. 
-
-* *NB: This documentation mostly covers one-time contributions, like language changes on the homepage of the site. Instructions for frequently-repeated actions, like creating new posts, can be found above.*
-
-### Submitting Issues
-
-* We use [Issues](https://github.com/scholarslab/scholarslab.org/issues) for bug reports and feature requests and such. If you find a problem with the site or thing we should add something new, please share it in an issue!
