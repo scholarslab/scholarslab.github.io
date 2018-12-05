@@ -1,10 +1,12 @@
+<div id="library-banner">
+    <a href="https://www.library.virginia.edu" aria-label="University of Virginia Library" id="library-link">{% include library-logotype.html %}</a>
+</div>
 <div class="flexnav-wrapper">
 	<div class="flexnav-main">
 		<div class="flexnav__home-icon">
-			<a href="{{ site.url }}" aria-label="Scholars' Lab home">
-				<img id='slab-logo' src="/assets/img/logo.png" alt="SLab logo">
-				{% comment %}{% include nav-logo.html %} {% endcomment %}
-			</a>
+			<a href="{{ site.url }}" id="slab-logo" aria-label="Scholars' Lab home">
+				{% include nav-logo.html %}
+            </a>
 		</div>
 
 		<ul class="flexnav-main-grid">
