@@ -5,4 +5,7 @@ If there's something missing that you'd like to see documented, please add it to
 * [Writing & editing posts & pages](authoring-and-editing.md)  
 * [Contributing visual styles](css-submission.md)  
 * [Common Jekyll problems](common-jekyll-problems.md): Command line errors we've encountered & how to solve them  
+
+# Future documentation
 * Creating a GitHub Issue: future home of how to record a bug, feature request, etc. as a GitHub issue  
+* [Using Gulp](gulp-setup.md) to do things like build/minify the javascript assets (AV 12/5/2018: I'm not sure whether this is up-to-date?)
