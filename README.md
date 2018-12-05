@@ -42,7 +42,8 @@ Check out the appropriate documentation for:
 2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "static page", e.g. the Makerspace homepage, the Praxis homepage, etc.). All such pages are in [this "pages" folder](https://github.com/scholarslab/scholarslab.org/tree/master/pages).  
 
 If you can't find the text you want to alter, it may be something that lives in a separate file:  
-3. [/_includes](https://github.com/scholarslab/scholarslab.org/tree/master/_includes) covers things like our footer, navbar, and   
+
+3. [/_includes](https://github.com/scholarslab/scholarslab.org/tree/master/_includes) covers things like our footer, navbar, and     
 	A. Alerting folks to a snow day or other surprise/emergency notice: [/_includes/snowday.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/snowday.html)  
 	B. Updating the "Open Office Hours" sticky notice (in the homepage "upcoming events" list), e.g. when it's summer and we pause office hours until fall: [/_includes/open-office-hours.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/open-office-hours.html)  
 	
