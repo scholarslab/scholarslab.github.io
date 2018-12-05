@@ -1,59 +1,75 @@
-[![Build Status](https://travis-ci.org/scholarslab/scholarslab.org.svg?branch=master)](https://travis-ci.org/scholarslab/scholarslab.org)
-# Scholarslab.org Site Migration
+# Scholarslab.org
+The code that forms our [ScholarsLab.org]() site, and stuff related to improving the site (documentation, issue list of future work)
 
-Repo for stuff related to ScholarsLab.org upgrade &amp; static site
-migration.
+We've tried to cover stuff below, but definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. (It's fine if you haven't read through all the documentation below first—there's a lot, but that makes it harder to quickly find answers and we're happy to point you to what you need.)
 
 ## Table of Contents
 
-1. [Greatest Hits](#greatest-hits)
-	* [View the New Site](#view-the-new-site)
-	* [Contribute to the New Site](#contribute-to-the-new-site)
-	* [Add an Issue](#add-an-issue)
-2. [Getting Started](#getting-started)
+1. [View the site](#view-the-site)
+2. [Contribute to the site](#contribute-to-the-site)
+3. [Add an issue](#add-an-issue)
+4. [Working with the site locally](#working-with-the-site-locally)
 	* [Prerequisites](#prerequisites)
 	* [Installation](#installation)
-	* [Building the Site](#building-the-site)
-3. [Managing Site Content](#managing-site-content)
-4. [Contribution Guidelines](#contribution-guidelines)
-	* [Instructions and Documentation](#instructions-and-documentation)
-	* [Submitting Issues](#submitting-issues)
+	* [Building the site](#building-the-site)
+	* [Rake tasks](#rake-tasks)
 
-## Greatest Hits
+## View the site
 
-### View the New Site
+1. [ScholarsLab.org]()
+* Our "live" (aka production) website that the world can see.
+* We change code in this repo, a script that Ammon created updates the UVA web server hosting our site, and the change appears on ScholarsLab.org a couple minutes later
 
-Current build: http://maybe.scholarslab.org/
-* What this *is*:
-	* Live preview of the unfinished new site
-	* A way to see our progress without setting up a local development environment
-	* Built from our current `master` branch (any unincorporated changes to other branches won't render live in this link)
-* What this is *not*:
-	* The site that students and visitors see - the [old site](http://scholarslab.org) is still the public-facing one!
+2. Maybe.ScholarsLab.org
+* _Not_ our live site; lives on GitHub Pages server
+* Gets updated when the repo gets updated, but! lacks some stuff that can't work on GitHub Pages (some Jekyll plugins, the nginx redirects that point old URLs to the current page locations (e.g. scholarslab.org/about/charter moved to scholarslab.org/charter when we moved from WordPress to Jekyll)
+* So, maybe just ignore that this exists? I guess we could take it down?
 
-"Old" site: http://scholarslab.org
-* What this *is*:
-	* The Wordpress site
-	* What students and visitors currently see
+3. "Old" WordPress site will live at: [https://old.scholarslab.org]() (hasn't been moved there yet; #531 will accomplish this)  
+	* The Wordpress site that was ScholarsLab.org up until the end of 2018  
+	* No longer updated, but available in case we need to grab stuff from it
 
-### Contribute to the New Site
+## Contribute to the site
 
-This part depends on what you're contributing, so we'll go a little Choose Your Own Adventure here. Are you...
+Check out the appropriate documentation for:  
+* [editing or adding a new post or page](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md)  
+* [template for new posts](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing)   * [template for new pages](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing)  
+* [template for new events](https://docs.google.com/document/d/1qLncvRa6aqQPpf2BtZwGJFf_vqrLTG6EB6qoyenZxLc/edit?usp=sharing)  
 
-1. Adding or changing language on the homepage? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#homepage-contribution)
-2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "topic homepage", e.g. the Makerspace homepage, the Praxis homepage, etc.). [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#topic-page-contribution)
-3. Submitting an image, including both photographs and digital illustrations? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#image-submission)
-4. Looking for how to submit info to (one or more of) Laura, Katherine, or Ronda? [Try here.](https://github.com/scholarslab/scholarslab.org/blob/master/docs/CONTRIBUTING.md#information-submission)
+...and then locate where you need to go in the repo:  
 
-If none of the above fit or you're not sure, definitely feel free to hit up Katherine, Ronda, or Laura on Slack and we'll figure out what works best for that particular situation. These options are just a starting point.
+1. Adding or changing language on the homepage? Edit [the repo's top-level index.html file](https://github.com/scholarslab/scholarslab.org/blob/master/index.html)  
+2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "static page", e.g. the Makerspace homepage, the Praxis homepage, etc.). All such pages are in [this "pages" folder](https://github.com/scholarslab/scholarslab.org/tree/master/pages).  
 
-### Add an Issue
+If you can't find the text you want to alter, it may be something that lives in a separate file:  
 
-* If you find a problem with the site or something new we should add, please add it to our [Issues page](https://github.com/scholarslab/scholarslab.org/issues).
+3. [/_includes](https://github.com/scholarslab/scholarslab.org/tree/master/_includes) covers things like our footer, navbar, and     
+	A. Alerting folks to a snow day or other surprise/emergency notice: [/_includes/snowday.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/snowday.html)  
+	B. Updating the "Open Office Hours" sticky notice (in the homepage "upcoming events" list), e.g. when it's summer and we pause office hours until fall: [/_includes/open-office-hours.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/open-office-hours.html)  
+	
+4. [/_layouts](https://github.com/scholarslab/scholarslab.org/tree/master/_layouts) covers structural stuff that is the same on a bunch of pages, e.g. setting all our project pages to list the title of the project, years, and collaborator names happens in [/layouts/work.html](https://github.com/scholarslab/scholarslab.org/blob/master/_layouts/work.html)  
+5. [/collections](https://github.com/scholarslab/scholarslab.org/tree/master/collections) contain the following files, which get pulled into layouts to form posts or pages:  
+	A. `/collections/_events`: one file per event, containing all the info about the event (pulled into scholarslab.org/events, indvidual event pages, and places like the homepage list of upcoming events)  
+	B. `/collections/_people`: a file for every person currently or formerly part of the lab (used on scholarslab.org/people, individual bio pages, and places like the Spatial Tech page's gallery of SpIn staff photos)  
+	C. `/collections/_posts`: our blog posts! (appear on scholarslab.org/blog, individual blog post webpages, and possibly in future places like a list of student-authored posts on the /student-opportunities page)  
+	D. `/collections/_spaces`: info about some of our physical locations  
+	E. `/collections/_work`: our projects/chunks of work (on scholarslab.org/work and individual project pages)  
 
-## Getting Started
+If none of the above fit or you're not sure, definitely feel free to either ask in the SLab Slack #slab-org channel, or talk with Amanda.
 
-How to get the site up and running on your computer.
+## Get help or add an issue
+
+* Need assistance? Definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. And, it's totally fine to just ask rather than hunt through our documentation trying to see if you question is already answered.
+
+* Alerting the team to a bug, requested feature, possible future site work, or other fix? [Add to our issues list](https://github.com/scholarslab/scholarslab.org/issues).
+
+* Check out our [list of frequent error messages](https://github.com/scholarslab/scholarslab.org/blob/readme-rebooot/docs/common-jekyll-problems.md) encountered when working with Jekyll locally. Please add any you encounter (even if you can't document how to solve it.)
+
+Documentation for adding an issue will go here soon!
+
+## Working with the site locally
+
+How to get the site up and running on your computer:
 
 ### Prerequisites
 
@@ -86,7 +102,7 @@ npm install
 ```
 If this results in an error message, make sure you have Node.js and npm installed. Check out this [guide](http://blog.teamtreehouse.com/install-node-js-npm-mac), or go straight to the [download page](https://nodejs.org/en/).
 
-### Building the Site
+### Building the site
 
 To build the site and search corpus, run Rake:
 ```bash
@@ -100,42 +116,28 @@ bundle exec jekyll serve --watch
 
 The site should build, and be locally accessible at [http://localhost:4000](http://localhost:4000).
 
-## Managing Site Content
+### Rake tasks
 
 The project includes several Rake tasks for creating new content.
 
-### Make a new person
+#### Make a new person
 ```bash
 rake new_person["First","Last"]
 rake new_person["Brandon","Walsh"]
 ```
 
-### Make a new post given a title and an author name in the form of first_name last_name
+#### Make a new post given a title and an author name in the form of first_name last_name
 ```bash
 rake new_post["Title here","First Last"]
 ex.
 rake new_post["Brandon's best blog post ever","Brandon Walsh"]
 ```
 
-### Make a new research project given a title
+#### Make a new research project given a title
 ```bash
 rake new_project["The name of your project goes here"]
 ```
 
-### Make a new event project given a title
+#### Make a new event project given a title
 ```bash
 rake new_event["The name of your event goes here"]
-```
-
-
-## Contribution Guidelines
-
-### Instructions and Documentation
-
-* See our [documentation](docs/README.md) section for instructions on contributing, style guides, and other miscellaneous documentation about the project. 
-
-* *NB: This documentation mostly covers one-time contributions, like language changes on the homepage of the site. Instructions for frequently-repeated actions, like creating new posts, can be found above.*
-
-### Submitting Issues
-
-* We use [Issues](https://github.com/scholarslab/scholarslab.org/issues) for bug reports and feature requests and such. If you find a problem with the site or thing we should add something new, please share it in an issue!
