@@ -25,33 +25,34 @@ We've tried to cover stuff below, but definitely feel free to either ask any que
 * Gets updated when the repo gets updated, but! lacks some stuff that can't work on GitHub Pages (some Jekyll plugins, the nginx redirects that point old URLs to the current page locations (e.g. scholarslab.org/about/charter moved to scholarslab.org/charter when we moved from WordPress to Jekyll)
 * So, maybe just ignore that this exists? I guess we could take it down?
 
-3. "Old" WordPress site will live at: [https://old.scholarslab.org]() (hasn't been moved there yet; #531 will accomplish this)
-	* The Wordpress site that was ScholarsLab.org up until the end of 2018
+3. "Old" WordPress site will live at: [https://old.scholarslab.org]() (hasn't been moved there yet; #531 will accomplish this)  
+	* The Wordpress site that was ScholarsLab.org up until the end of 2018  
 	* No longer updated, but available in case we need to grab stuff from it
 
 ## Contribute to the site
 
-Check out the appropriate documentation for:
+Check out the appropriate documentation for:  
 * [editing or adding a new post or page](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md)  
-* [template for new posts](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) * [template for new pages](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing)  
-* [template for new events](https://docs.google.com/document/d/1qLncvRa6aqQPpf2BtZwGJFf_vqrLTG6EB6qoyenZxLc/edit?usp=sharing)
+* [template for new posts](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing)   * [template for new pages](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing)  
+* [template for new events](https://docs.google.com/document/d/1qLncvRa6aqQPpf2BtZwGJFf_vqrLTG6EB6qoyenZxLc/edit?usp=sharing)  
 
-...and then locate where you need to go in the repo:
+...and then locate where you need to go in the repo:  
 
-1. Adding or changing language on the homepage? Edit [the repo's top-level index.html file](https://github.com/scholarslab/scholarslab.org/blob/master/index.html)
-2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "static page", e.g. the Makerspace homepage, the Praxis homepage, etc.). All such pages are in [this "pages" folder](https://github.com/scholarslab/scholarslab.org/tree/master/pages)
+1. Adding or changing language on the homepage? Edit [the repo's top-level index.html file](https://github.com/scholarslab/scholarslab.org/blob/master/index.html)  
+2. Adding or changing language on other *non-repeating* pages? (NB: A "non-repeating page" is hereafter referred to as a "static page", e.g. the Makerspace homepage, the Praxis homepage, etc.). All such pages are in [this "pages" folder](https://github.com/scholarslab/scholarslab.org/tree/master/pages).  
 
-If you can't find the text you want to alter, it may be something that lives in a separate file:
-3. [/_includes](https://github.com/scholarslab/scholarslab.org/tree/master/_includes) covers things like our footer, navbar, and  
+If you can't find the text you want to alter, it may be something that lives in a separate file:  
+3. [/_includes](https://github.com/scholarslab/scholarslab.org/tree/master/_includes) covers things like our footer, navbar, and   
 	A. Alerting folks to a snow day or other surprise/emergency notice: [/_includes/snowday.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/snowday.html)  
 	B. Updating the "Open Office Hours" sticky notice (in the homepage "upcoming events" list), e.g. when it's summer and we pause office hours until fall: [/_includes/open-office-hours.html](https://github.com/scholarslab/scholarslab.org/blob/master/_includes/open-office-hours.html)  
+	
 4. [/_layouts](https://github.com/scholarslab/scholarslab.org/tree/master/_layouts) covers structural stuff that is the same on a bunch of pages, e.g. setting all our project pages to list the title of the project, years, and collaborator names happens in [/layouts/work.html](https://github.com/scholarslab/scholarslab.org/blob/master/_layouts/work.html)  
-5. [/collections](https://github.com/scholarslab/scholarslab.org/tree/master/collections) contain the following files, which get pulled into layouts to form posts or pages:
-	A. `/collections/_events`: one file per event, containing all the info about the event (pulled into scholarslab.org/events, indvidual event pages, and places like the homepage list of upcoming events)
-	B. `/collections/_people`: a file for every person currently or formerly part of the lab (used on scholarslab.org/people, individual bio pages, and places like the Spatial Tech page's gallery of SpIn staff photos)
-	C. `/collections/_posts`: our blog posts! (appear on scholarslab.org/blog, individual blog post webpages, and possibly in future places like a list of student-authored posts on the /student-opportunities page)
-	D. `/collections/_spaces`: info about some of our physical locations
-	E. `/collections/_work`: our projects/chunks of work (on scholarslab.org/work and individual project pages)
+5. [/collections](https://github.com/scholarslab/scholarslab.org/tree/master/collections) contain the following files, which get pulled into layouts to form posts or pages:  
+	A. `/collections/_events`: one file per event, containing all the info about the event (pulled into scholarslab.org/events, indvidual event pages, and places like the homepage list of upcoming events)  
+	B. `/collections/_people`: a file for every person currently or formerly part of the lab (used on scholarslab.org/people, individual bio pages, and places like the Spatial Tech page's gallery of SpIn staff photos)  
+	C. `/collections/_posts`: our blog posts! (appear on scholarslab.org/blog, individual blog post webpages, and possibly in future places like a list of student-authored posts on the /student-opportunities page)  
+	D. `/collections/_spaces`: info about some of our physical locations  
+	E. `/collections/_work`: our projects/chunks of work (on scholarslab.org/work and individual project pages)  
 
 If none of the above fit or you're not sure, definitely feel free to either ask in the SLab Slack #slab-org channel, or talk with Amanda.
 
