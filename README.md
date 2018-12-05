@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/scholarslab/scholarslab.org.svg?branch=master)](https://travis-ci.org/scholarslab/scholarslab.org)
-
 # Scholarslab.org
 The code that forms our [ScholarsLab.org]() site, and stuff related to improving the site (documentation, issue list of future work)
 
