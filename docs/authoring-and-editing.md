@@ -101,6 +101,10 @@ GitHub is very forgiving; the whole magic of using git to keeping many versions 
 
 Commit (aka save; described in detail below) about as often as you'd save a word document. Or, draft your text elsewhere (e.g. in a GoogleDoc), then paste the final text into the GitHub text editor just when ready to publish. 
 
+You can always switch to the "Preview changes" tab to see how your writing formatting looks (especially helpful if you're new to using Markdown formatting):  
+
+![](https://github.com/scholarslab/scholarslab.org/blob/master/docs/docs-images/docs-issues-preview-changes.png)
+
 #### Add a new blog post
 
 After creating and switching [to a new branch](#branch), we'll navigate to the folder that holds blog posts, then create a new blog post file there.
