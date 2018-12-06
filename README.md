@@ -1,7 +1,9 @@
 # Scholarslab.org
 The code that forms our [ScholarsLab.org]() site, and stuff related to improving the site (documentation, issue list of future work)
 
-We've tried to cover stuff below, but definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. (It's fine if you haven't read through all the documentation below first—there's a lot, but that makes it harder to quickly find answers and we're happy to point you to what you need.)
+There's a [homepage for all our SLab.org-related documentation here](https://github.com/scholarslab/scholarslab.org/blob/master/docs/README.md), but we've tried to also cover the most frequently useful info below.
+
+**Want help?** Definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. (It's fine if you haven't read through all the documentation below first—there's a lot, but that makes it harder to quickly find answers and we're happy to point you to what you need.)
 
 ## Table of Contents
 
@@ -33,7 +35,7 @@ We've tried to cover stuff below, but definitely feel free to either ask any que
 
 Check out the appropriate documentation for:  
 * [editing or adding a new post or page](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md)  
-* [template for new posts](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing)   * [template for new pages](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing)  
+* [template for new posts](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing)    * [template for new pages](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing)  
 * [template for new events](https://docs.google.com/document/d/1qLncvRa6aqQPpf2BtZwGJFf_vqrLTG6EB6qoyenZxLc/edit?usp=sharing)  
 
 ...and then locate where you need to go in the repo:  
