@@ -1,6 +1,6 @@
-This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org.
+This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. 
 
-Any questions you have while using this tutorial or while blogging can be sent to Amanda via SLab Slack or [email](mailto:visconti@virginia.edu); SLab affiliates also welcome to join the SLab Slack #slab-org channel and post any questions or suggestions there.
+Any questions you have while using this tutorial or while blogging can be sent to Amanda via SLab Slack or [email](mailto:visconti@virginia.edu); SLab affiliates are also welcome to join the SLab Slack #slab-org channel and post any questions or suggestions there. A [future version of this documentation](https://github.com/scholarslab/scholarslab.org/issues/605) will cover how folks who are not Scholars' Lab affiliates can submit blog posts for possible publiction on this site.
 
 We also maintain [documentation for other needs](https://github.com/scholarslab/scholarslab.org/blob/master/docs/README.md) related to the ScholarsLab.org website.
 
