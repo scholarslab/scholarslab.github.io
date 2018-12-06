@@ -13,7 +13,7 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
 - [Editorial process](#editorial-process)
 - [Cheatsheet](#cheatsheet)
   * [Concise set of steps](#concise-set-of-steps)
-  * [Commonly used terms:](#commonly-used-terms)
+  * [Commonly used terms](#commonly-used-terms)
   * [Markdown & formatting](#markdown--formatting)
     + [Links](#links)
     + [Embed images](#embed-images)
@@ -334,7 +334,7 @@ For folks who've read the longer explanations above already and just want a chec
 7. Delete branch
 8. Wait up to 10 minutes to see your work on the live site
 
-### Commonly used terms:
+### Commonly used terms
 
 - **Repo** (aka repository): A collection (aka set) of code. This repo in particular (GitHub.com/ScholarsLab/ScholarsLab.org) is the place on GitHub.com where we store all the files that make up the SLab.org website
 - **Branch:** A copy of the website files where you can make changes without affecting the live website or other folks' development or authoring work
