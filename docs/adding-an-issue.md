@@ -1,9 +1,13 @@
+1. [What's an issue?]()  
+2. [Looking at existing issues]()  
+3. [Adding an issue]()
+
 # What's an issue?
 
 An **issue** (aka ticket) is how GitHub lets us make a note about a bug we've identified and need to fix, a feature request, ideas for future site features, and similar tasks. If you have something you want someone (or yourself) to fix, or an idea for future work on the site, issues keep track and help us prioritize this work.
 
 We try to  
-* keep these to single tasks when possible (one task per issue)  
+* keep these to single tasks when possible (one task per issue), or use checklists if an issue has multiple steps (checklists use this markdown: `- [ ]` for incomplete steps or `- [x]` for completed steps)  
 * include enough info so anyone on the team can address the issue  
 * add a few pieces of metadata to each issue: ID if a specific person needs to address the issue  
 * label what kind of work it requires, if known (e.g. fixing a bug, content writing/editing, design/development work, documentation writing)  
@@ -27,11 +31,11 @@ The [main issues page](https://github.com/scholarslab/scholarslab.org/issues) fo
   * Assignee (e.g. see only issues with no assigned to take care of them, or only issues assigned to you)   
 * On the far right, the "New issue" button (for creating new issues)  
 
-Individual issues in the list display some info:  
-![https://github.com/scholarslab/scholarslab.org/blob/master/docs/docs-images/docs-issues-overview-bottom.png]()
-*
-*
-*
+Looking below these options, you'll see:  
+![https://github.com/scholarslab/scholarslab.org/blob/master/docs/docs-images/docs-issues-overview-bottom.png]()  
+* On the left, you can select-all or check off multiple issues; the filter options on the upper right change when you've selected issues to allow you to bulk mark an issue closed or bulk-change the label(s), milestone, or assignee(s)  
+* Avatars of folks assigned to work on an issue appear on the right of each issue
+* Colored labels appear on the nearer right of each issue
 
 # Adding an issue
 1. Navigate to the [issues page](https://github.com/scholarslab/scholarslab.org/issues) for this repo and click the green "New issue" button on the right:  
