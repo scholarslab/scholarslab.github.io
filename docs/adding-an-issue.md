@@ -1,1 +1,3 @@
-Docs approacheth
+# Adding an issue
+
+# Looking at existing issues
