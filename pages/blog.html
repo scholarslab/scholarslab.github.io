@@ -81,13 +81,27 @@ order: 2
 				</div>
 			</section>
 			{% endfor %} <!-- end post -->
-            <section id="previous_posts">
-                <h2>Previous Posts</h2>
-                <ul class="page-previous_posts">
-			{% for post in site.posts offset:4 %}
-                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-                </ul>
+			
+<section id="previous_posts">
+<h2>Previous Posts</h2>
+<ul class="page-previous_posts">
+{% for post in site.posts offset:4 %}
+
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
+    <ul>
+    {% assign date = currentdate %}
+  {% endif %}
+  
+    <li><a href="{{ post.url }}">"{{ post.title }}"</a> by {% assign author_object = site.people | where: 'slug', post.author %}{% for author in author_object %}<a href="{{ site.baseurl }}/people/{{post.author}}/">{{ author.title }}</a>
+{% endfor %}</li>
+  {% if forloop.last %}</ul>{% endif %}
+
+{% endfor %}
+</ul>
+
 		</div> <!-- end gallery -->
 	</div> <!-- end main content -->
 </div> <!-- end wrapper -->
