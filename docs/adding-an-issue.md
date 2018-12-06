@@ -16,7 +16,7 @@ We try to
 An "open" issue is one that hasn't been completed; a "closed" issue has been completed.
 
 You can view the [list of all open SLab.org issues](https://github.com/scholarslab/scholarslab.org/issues), or simply click the "Issues" tab at the top-left of the repo:  
-![/docs-images/docs-issues-switch-to-issues-tab.png]()
+![](/docs-images/docs-issues-switch-to-issues-tab.png)
 
 # Looking at existing issues
 The [main issues page](https://github.com/scholarslab/scholarslab.org/issues) for this repo looks something like this:  
