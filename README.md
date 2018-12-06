@@ -7,7 +7,7 @@ We've tried to cover stuff below, but definitely feel free to either ask any que
 
 1. [View the site](#view-the-site)
 2. [Contribute to the site](#contribute-to-the-site)
-3. [Add an issue](#add-an-issue)
+3. [Add an issue](#get-help-or-add-an-issue)
 4. [Working with the site locally](#working-with-the-site-locally)
 	* [Prerequisites](#prerequisites)
 	* [Installation](#installation)
@@ -59,13 +59,11 @@ If none of the above fit or you're not sure, definitely feel free to either ask 
 
 ## Get help or add an issue
 
-* Need assistance? Definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. And, it's totally fine to just ask rather than hunt through our documentation trying to see if you question is already answered.
+* Need assistance? Definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. And: it's totally fine to just ask, rather than hunt through our documentation trying to see if you question is already answered.
 
-* Alerting the team to a bug, requested feature, possible future site work, or other fix? [Add to our issues list](https://github.com/scholarslab/scholarslab.org/issues).
+* Alerting the team to a bug, requested feature, possible future site work, or other fix? [Add to our issues list](https://github.com/scholarslab/scholarslab.org/issues); here's [how to add an issue](https://github.com/scholarslab/scholarslab.org/blob/readme-rebooot/docs/adding-an-issue.md), plus how to look through our (often long) list of existing issues.
 
 * Check out our [list of frequent error messages](https://github.com/scholarslab/scholarslab.org/blob/readme-rebooot/docs/common-jekyll-problems.md) encountered when working with Jekyll locally. Please add any you encounter (even if you can't document how to solve it.)
-
-Documentation for adding an issue will go here soon!
 
 ## Working with the site locally
 
