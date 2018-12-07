@@ -86,7 +86,7 @@ Everyone! We define scholarship as one part critical thinking plus one part comm
 Check out our [people](/people/) page for current staff, students, and alums.
 
 ## I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects?
-We express this in [our charter](/charter/) as "We build up people and practices more than products." We prioritize the process of learning and discovery: sometimes that results in named "projects" with communities of users and shiny laptop stickers (e.g. [Neatline](http://neatline.org), and sometimes that means trying something, failing, and sharing that learning so you and others can build on it. 
+We express this in [our charter](/charter/) as "We build up people and practices more than products." We prioritize the process of learning and discovery: sometimes that results in named "projects" with communities of users and shiny laptop stickers (e.g. [Neatline](http://neatline.org)), and sometimes that means trying something, failing, and sharing that learning so you and others can build on it. 
 
 In the process of working together, we've found that collaborators learn from one another; students benefit from training, practice, and mentoring; and faculty discover new directions in their teaching and research. "People over projects" means that we care more about such outcomes, than about whether a formal "project" happens.
 
