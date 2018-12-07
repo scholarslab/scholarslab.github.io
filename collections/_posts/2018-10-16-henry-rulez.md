@@ -8,3 +8,4 @@ categories:
 - Digital Humanities
 - Announcements
 ---
+Henry is a good dog! (What else is there to say?)
