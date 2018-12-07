@@ -19,9 +19,9 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 [More information](/praxis-program-fellowships/)
 
 ## Digital Humanities Prototyping Fellowships
-**Call issued:** Annually in December
+**Call issued:** Annually in December **subject to availability**
 
-**Deadline:** February 15th, 2018 for the 2018-2019 year
+**Deadline:** No call will be issued for the 2019-2020 academic year.
 [More information](/digital-humanities-prototyping-fellowships/)
 
 ## Digital Humanities Fellowship Program

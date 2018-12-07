@@ -5,7 +5,7 @@ permalink: /digital-humanities-prototyping-fellowships/
 nav: false
 ---
 
-**Applications were due February 15th, 2018 for the 2018-2019 cohort.**
+**CFP is subject to funding availability. There will be no call for fellows the 2019-2020 cycle.**
 
 The Digital Humanities Prototyping Fellowship allows UVa graduate students to work with our R&D team for a single semester to rapidly develop their digital project ideas and position themselves for future work in digital humanities. The Scholars’ Lab offers these fellows advice and assistance with the creation and analysis of digital content, as well as consultation on best practices in digital scholarship and DH software development. This program offers support to projects that might not fit the normal scope of the other fellowship programs: proposed projects may be collaborative, offer unusual outcomes, or represent significant departures from previous research. The fellowship is meant to help students rapidly aquire skills, to wireframe or prototype a project, and perhaps implement the first stages of a plan for further study.
 
