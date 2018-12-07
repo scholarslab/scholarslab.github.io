@@ -66,8 +66,9 @@ We capture the Scholars' Lab's values and goals in our team-authored [charter](/
 - Internal research shaping the scholarly fields we're part of (e.g. developing our Neatline tool for critical storytelling in time and space) and connecting UVA folks to these fields
 
 ## Can you build me a thing?
-We strongly believe investment in the direct practice of experimental methods is the key to transformative experiences for individual scholars, as well as the best leveraging of our resources on behalf of UVA. Therefore, we do not provide general design, web development, or technical services. We build things _with_ people (e.g. as peer scholars, co-PIs on grant proposals), but we do not build things _for_ people: 
-- As a <a href="http://library.virginia.edu">Library</a> unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods.  
+We strongly believe investment in the direct practice of experimental methods is the key to transformative experiences for individual scholars, as well as the best leveraging of our resources on behalf of UVA. Therefore, we do not provide general design, web development, or technical services. We build things _with_ people (e.g. as peer scholars, co-PIs on grant proposals), but we do not build things _for_ people:  
+
+- As a Library unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods.  
 - As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other scholars. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties, and are usually an outgrowth of shorter consultations and SLab community involvement.  
 We do our best to help folks stuck on technical questions during our regular Open Office Hours, and are happy to refer to expertise and facilities around UVA (e.g. DH@UVA, Research Data Services, Teaching & Learning team, Data Sciences Institute, IATH), or recommend developer and consultants at UVA and beyond seeking paid work (if you're looking for someone to build something for you). 
 
