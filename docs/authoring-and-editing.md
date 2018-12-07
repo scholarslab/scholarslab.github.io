@@ -1,7 +1,4 @@
 This tutorial explains how to author and edit new pages and posts on ScholarsLab.org. You can easily get back to this page by clicking the "how to blog" link in the footer of every ScholarsLab.org page (lower right, under the "back to top" link):  
-
-![](https://github.com/scholarslab/scholarslab.org/blob/master/docs/docs-images/docs-footer-blogging-link.png)
-
 Any questions you have while using this tutorial or while blogging can be sent to Amanda via SLab Slack or email; SLab affiliates are also welcome to join the SLab Slack #slab-org channel and post any questions or suggestions there. A [future version of this documentation](https://github.com/scholarslab/scholarslab.org/issues/605) will cover how folks who are not Scholars' Lab affiliates can submit blog posts for possible publiction on this site.
 
 We also maintain [documentation for other needs](https://github.com/scholarslab/scholarslab.org/blob/master/docs/README.md) related to the ScholarsLab.org website.
@@ -13,11 +10,11 @@ We also maintain [documentation for other needs](https://github.com/scholarslab/
   * [Add new content](#add-new-content)
     + [Important alert: save your work](#important-alert-save-your-work)
     + [Add a new blog post](#add-a-new-blog-post)  
-    + [Add an event](#add-an-event)
-    + [Add a new page](#add-a-new-page)
-  * [Edit existing content](#edit-existing-content)
-- [Move your writing to the main repo!](#move-your-writing-to-the-main-repo)
-- [Editorial process](#editorial-process)
+    + [Add an event](#add-an-event)  
+    + [Add a new page](#add-a-new-page)  
+  * [Edit existing content](#edit-existing-content)  
+- [Move your writing to the main repo!](#move-your-writing-to-the-main-repo)  
+  * [Merging as an admin](#merging-as-an-admin)  
 - [Cheatsheet](#cheatsheet)
   * [Concise set of steps](#concise-set-of-steps)
   * [Commonly used terms](#commonly-used-terms)
@@ -302,11 +299,11 @@ Some terminology:
 
 ![docs-file-ready-to-commit-message](/docs/docs-images/docs-file-ready-to-commit-message.png)
 
-1. Click the "Pull request" link in the upper-right of your screen.
+1. Click the "Pull requests" tab in the upper-left of your screen. A beige rectangle near the top of the page displays your branch name; click the green "Compare & pull request" button to the far right.
 
 ![docs-click-pr-link](/docs/docs-images/docs-click-pr-link.png)
 
-1. You're now on the "Open a pull request" page. You may see a bunch of text in the text field (like the text "# Description..." below). If so, you can ignore it; or, select it all and delete it to make room for any notes you'd like to leave about what the changes you made in your separate branch are. 
+1. You're now on the "Open a pull request" page. You'll see a bunch of template text in the text field (like the text "# Description..." below). This template isn't very useful for publishing a new blog post or page; it's there for when folks are adding more complex code changes. You can ignore it, or select it all and delete it to make room for any notes you'd like to leave about what changes you're making to the site. 
 
 ![docs-new-pr-template](/docs/docs-images/docs-new-pr-template.png)
 
@@ -318,35 +315,17 @@ Some terminology:
 
 ![docs-add-reviewers-pr2](/docs/docs-images/docs-add-reviewers-pr2.png)
 
-This notifies the subset of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website; one of them will briefly review your changes to check for anything that might break part of the site (highly unlikely with a blog post, more likely with changes to other repo code).
+![docs-add-reviewers-pr2](/docs/docs-images/docs-add-reviewers-pr3.png)
 
-1. Click on the green "Create pull request" button in the lower right
+This will notify the subset of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website; one of them will briefly review your changes to check for anything that might break part of the site (highly unlikely with a blog post, more likely with changes to other repo code), and then they'll push your content to the live website.
 
-![docs-new-pr-2](/docs/docs-images/docs-new-pr-2.png)
+You're done!
 
-1. Wait for the yellow "Some checks haven't completed yet" text to change to green "All checks have passed" text. If you get a message that checks have failed, email/Slack someone on the R&D team for troubleshooting assistance.
+### Merging as an admin
 
-*What's taking so long?* Our pull request process runs two tools over code you're hoping to merge: *Travis* makes sure your changes don't break anything on the main website, and *Netlify* lets you take a peek at how your changes will look on the website, before we actually publish those changes for the world to see.
+Once you've made changes to the site and feel comfortable with how GitHub and Jekyll work, let Amanda or the #slab-org channel now, and we'll give you admin permissions. This means that you won't need to wait for someone else to review your pull request before merging it (i.e. making it appear on the live website), although you can always wait for that if you have any concerns.
 
-![docs-pr-checks-start](/docs/docs-images/docs-pr-checks-start.png)
-
-1. (This step may be slightly different, as folks new to the site will need to wait for a reviewer before their code is merged. We'll fix this after we meet to walk through this documentation together!)
-
-![docs-pr-checks-passed](/docs/docs-images/docs-pr-checks-passed.png)
-
-1. ~~Click the green "Confirm merge" button.~~
-
-![docs-pr-confirm-merge](/docs/docs-images/docs-pr-confirm-merge.png)
-
-1. You've successfully merged your changes! You can now click the "Delete branch" button on the right. You'll need to wait from 1-10 minutes to see your work appear on the updated live website.
-
-Getting rid of branches once we're done with them helps us keep the repo clean, as we may have multiple branches open at one time that are seeing active work.
-
-![docs-pr-done-delete-branch](/docs/docs-images/docs-pr-done-delete-branch.png)
-
-## Editorial process
-
-(*A third step will be added here, when we've finalized our editorial guidelines and process.*)
+Here are instructions for folks with admin privileges who don't wish for someone else to review their code. Pick up right after Step ??? above:  
 
 ## Cheatsheet
 
