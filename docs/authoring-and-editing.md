@@ -157,7 +157,7 @@ You can copy the front matter from [this GoogleDoc](https://docs.google.com/docu
 author: firstname-lastname
 date: 2018-10-16 01:00:00+00:00
 layout: post
-slug: henry-hacked-slab
+slug: henry-rulez
 title: "10 Reasons Henry Rules: A Digital Humanities Blessay"
 categories:
 - Digital Humanities
@@ -184,9 +184,9 @@ The first line of the post and the line after the final line of front matter sho
 - Leave **layout: post** as is
   - This tells the site to use our standard template for laying out a blog post
 - **slug:**
-  - The slug is the bit that goes after scholarslab.org/YYYY/MM/DD/ in the URL for your new post, with the date filled in from what you wrote above.
+  - The slug is the bit that goes after scholarslab.org/blog/ in the URL for your new post
   - The slug should be short (preferably 1-3 words) and refer to the post's title and/or content. 
-  - Past post slugs include transcription-is-complicated, site-relaunch, and music-theory-in-ruby—you have a sense of what's in these posts from reading these slugs, and they don't include a bunch of words that don't add to that info.
+  - Past post slugs include `transcription-is-complicated`, `site-relaunch`, and `music-theory-in-ruby`. You have a sense of what's in these posts from reading these slugs, and they don't include a bunch of words that don't add to that info.
 - **title:**
   - The title of your blog post, e.g. "Teaching Black Arts Poetry and Computational Methods"
   - Put quotation marks around your title—this keeps the site from breaking when your title includes things like colons
