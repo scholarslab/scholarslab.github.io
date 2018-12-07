@@ -41,7 +41,8 @@ We've set up the website repository such that folks who aren't comfortable with 
 
 If the workflow in this lesson doesn't work for your needs, there are two simpler options for authoring blog posts on SLab.org:
 
-1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to Amanda, and they'll post your content for you.
+1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to Amanda, and they'll post your content for you.  
+
 2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let Amanda know when you're finished, and they'll post your content for you.
 
 Already comfortable with the command line and git? We may finish [this draft](/docs/git-authoring-and-editing.md) at some point; it will provide instructions for doing your authoring/editing of the site locally instead (let Amanda know if you'd like help learning to do this). The tutorial you're currently reading allows you to do everything through the GitHub.com interface.
@@ -50,29 +51,30 @@ Already comfortable with the command line and git? We may finish [this draft](/d
 
 There are **two pieces** to authoring/editing on our website:
 
-1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#make-a-new-branch).
+1. **Create a new "branch", and create/edit your post/page there.** A branch is a copy of the website files, where you can make changes without affecting the live website or other folks' development or authoring work. [Instructions here](#make-a-new-branch).  
+
 2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live ScholarsLab.org site**. The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo).
 
-## Branch and write/edit!
-
-### Make a new branch
-
-0. Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Next, share your GitHub username with Amanda or the SLab Slack #slab-org channel. 
+Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Next, share your GitHub username with Amanda or the SLab Slack #slab-org channel. 
 
 An existing ScholarsLab GitHub org member needs to visit the [members page](https://github.com/orgs/scholarslab/people), click the green "Invite member" button, and invite you as a "member" (not "owner"). You'll receive an email invite; follow the link in that email to gain access to making changes to our website.
 
 Then, they also need to add you to the ScholarsLab.org repo [here](https://github.com/scholarslab/scholarslab.org/settings/collaboration) (with "write", not "admin" privileges).
 
-A repo is a collection of code, and this repo in particular is the place on GitHub.com where we store all the files that make up the SLab.org website.
+## Branch and write/edit!
 
+### Make a new branch  
 1. Visit the SLab.org "repo" (repository) at https://github.com/scholarslab/scholarslab.org
+
+A repo is a collection of code, and this repo in particular is the place on GitHub.com where we store all the files that make up the SLab.org website.
 
 Now we'll create a new "branch" of this repo. A branch is just a copy of the repo (i.e. the set of files that = our website). We create this copy so you can make changes to the website (draft a new blog post, edit a page, play with the site's visual design...) without affecting how the live website looks (your changes won't appear on ScholarsLab.org until you're ready!), *and* without conflicting with other folks' work on the site.
 
 When you visit https://github.com/scholarslab/scholarslab.org, you're seeing, by default, the default repo branch named "master"*. This "master" branch contains the code making up the site that's publicly visible at ScholarsLab.org. *A glimpse into the future:* When we finish our work at a new branch, we'll be moving that work back to the "master" branch so it shows up at ScholarsLab.org.
 
-1. In the mid-left of your browser window, click on the grey "Branch: master 🔽" button. A dropdown appears! 
-2. In the empty text field (it says "Find or create a branch..." in light grey text in the text field's background), write some name for your new branch... 
+2. In the mid-left of your browser window, click on the grey "Branch: master 🔽" button. A dropdown appears!  
+
+3. In the empty text field (it says "Find or create a branch..." in light grey text in the text field's background), write some name for your new branch... 
 
 ![docs-gonna-name-branch](/docs/docs-images/docs-gonna-name-branch.png)
 
@@ -86,7 +88,7 @@ When you're creating your own branch, please substitute your chosen branch name 
 
 Now that we've created our branch, we need to switch to working there.
 
-1. Once you've finished typing your new branch name in the field, you'll see a blue rectangle just below with the words "Create branch: henry-blog-takeover". Click anywhere on that blue rectangle.
+4. Once you've finished typing your new branch name in the field, you'll see a blue rectangle just below with the words "Create branch: henry-blog-takeover". Click anywhere on that blue rectangle.
 
 The page will reload, and you'll notice a few changes:
 
@@ -123,13 +125,13 @@ This navigates you into where we keep "collections" of similar files for the web
 
 ![docs-nav-to-collections](/docs/docs-images/docs-nav-to-collections.png)
 
-1. Click on the "_posts" link in the list of files (should be near the mid left of your browser window). 
+2. Click on the "_posts" link in the list of files (should be near the mid left of your browser window). 
 
 This is the folder where we keep all the blog posts.
 
 ![docs-nav-to-posts](/docs/docs-images/docs-nav-to-posts.png)
 
-1. In the upper-right quarter of the page, click on the grey "Create new file" button.
+3. In the upper-right quarter of the page, click on the grey "Create new file" button.
 
 ![docs-create-new-post](/docs/docs-images/docs-create-new-post.png)
 
@@ -139,7 +141,7 @@ We now see a text editor for creating a new post!
 
 We'll start by giving our post a filename Jekyll understands.
 
-1. In the text field near the top middle of the screen (see screenshot just above), type in a filename matching our naming conventions, then press enter:
+4. In the text field near the top middle of the screen (see screenshot just above), type in a filename matching our naming conventions, then press enter:
 
 - The filename must start with the date, using the format YYYY-MM-DD, e.g. 2018-10-17. Note that the year comes first; hyphens separate the year, month, and day; and that dates with leading zeroes (e.g. 2018-02-05) need to include those zeroes.
 - After the formatted date and an ending hyphen, a short (1-5 word) "slug", with any spaces replaced with hyphens. This is going to be part of the URL for your finished post, so something that summarizes your title or otherwise briefly refers to what your post is about is good. 
@@ -148,7 +150,7 @@ We'll start by giving our post a filename Jekyll understands.
 
 Now we're ready to write our post. Before we write our content, though, we need to put some text at the top that helps Jekyll know how to display, sort, and otherwise deal with our post. This post metadata is called "front matter" (cuz it's at the front of the file); it's also sometimes referred to as YAML ("yeah-mole"), which seriously stands for Yet Another Markup Language and is the language the front matter uses.
 
-1. Paste in and customize the post's front matter.
+5. Paste in and customize the post's front matter.
 
 You can copy the front matter from [this GoogleDoc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) (which uses color highlighting to differentiate between things you could and must customize). An example of post front matter and explanation of each line follows:
 
@@ -192,7 +194,7 @@ The first line of the post and the line after the final line of front matter sho
 
 ![docs-post-yaml-example](/docs/docs-images/docs-post-yaml-example.png)
 
-1. Once you've got your front matter added, you can start writing your post on the line below the final front matter `---`. 
+6. Once you've got your front matter added, you can start writing your post on the line below the final front matter `---`. 
 
 There are some formatting examples at the bottom of [the post template Doc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing), or you can check out our [Markdown formatting cheatsheet](#markdown) below.
 
@@ -200,7 +202,7 @@ You can click on the "No wrap" dropdown in the upperish right to select "Soft wr
 
 ![docs-post-body-wrapping](/docs/docs-images/docs-post-body-wrapping.png)
 
-1. Scroll all the way down the page to see the commit area—this is git's version of "save". 
+7. Scroll all the way down the page to see the commit area—this is git's version of "save". 
 
 Once you commit, what you've written is hypothetically publicly visible (to anyone who thinks to visit our repo, switch to your particular branch, and look at your commits).
 
@@ -212,7 +214,7 @@ When changing code or editing existing webpages, writing a commit message helps 
 
 ![docs-commit-area-empty](/docs/docs-images/docs-commit-area-empty.png)
 
-1. Two choices! 
+8. Two choices! 
 
    A. If you want to do more work on your blog post after saving (right away, or some time way in the future), leave the radio buttons as-is and click the green "Commit new file" button and continue reading the tutorial immediately after 8B.
 
@@ -220,8 +222,9 @@ When changing code or editing existing webpages, writing a commit message helps 
 
 If you followed step 8A ("commit new file"), you're now back in the directory that holds all the blog post files on our henry-blog-takeover branch.
 
-1. To make additional edits to your blog post, scroll down to find your post in the list (they're organized by oldest-newest, so a new post will appear at the bottom of the list). Click on the linked file name (e.g. 2018-10-16-henry-rulez.md).
-2. Near the middle of the right side of the page, click on the small pencil icon. 
+9. To make additional edits to your blog post, scroll down to find your post in the list (they're organized by oldest-newest, so a new post will appear at the bottom of the list). Click on the linked file name (e.g. 2018-10-16-henry-rulez.md).  
+
+10. Near the middle of the right side of the page, click on the small pencil icon. 
 
 If you hover over the pencil icon, you'll see the words "edit this file" appear. 
 
@@ -270,18 +273,21 @@ When you've finished creating your new page, jump to [Step 2](#move-your-writing
 
 If you want to edit a blog post or page that already exists on our live website:
 
-1. Create and switch to a new branch using the [instructions in the Branch section](#branch) above.
-2. Find the file you want to edit:
-   1. If it's a blog post, follow Steps 1 & 2 under the [Adding a New Blog Post section](#add-a-new-blog-post), then click on the name of the post you want to edit.
-   2. If it's a page, click the "pages" link in the list of website files, then click on the name of the file you want to edit.
+1. Create and switch to a new branch using the [instructions in the Branch section](#branch) above.  
+
+2. Find the file you want to edit:  
+   A. If it's a blog post, follow Steps 1 & 2 under the [Adding a New Blog Post section](#add-a-new-blog-post), then click on the name of the post you want to edit.  
+   B. If it's a page, click the "pages" link in the list of website files, then click on the name of the file you want to edit.  
+   
 3. Near the middle of the right side of the page, click on the small pencil icon. This brings you to a text editor.
 
 If you hover over the pencil icon, you'll see the words "edit this file" appear. 
 
 ![docs-edit-existing-file-icon](/docs/docs-images/docs-edit-existing-file-icon.png)
 
-1. At the top of the file, you'll notice three hyphens `---`, followed by a couple lines of text, followed by three more hyphens. You can read more about what this "front matter" does for a post (in the Add a new blog post [instructions](#add-a-new-blog-post)) or page (in the Add a new page [instructions](#add-a-new-blog-post)), but basically just leave that text as-is to avoid breaking things.
-2. Go to Step 7 under [creating a new blog post](#add-a-new-blog-post) for instructions on "committing"—saving a draft of your text.
+4. At the top of the file, you'll notice three hyphens `---`, followed by a couple lines of text, followed by three more hyphens. You can read more about what this "front matter" does for a post (in the Add a new blog post [instructions](#add-a-new-blog-post)) or page (in the Add a new page [instructions](#add-a-new-blog-post)), but basically just leave that text as-is to avoid breaking things.  
+
+5. Go to Step 7 under [creating a new blog post](#add-a-new-blog-post) for instructions on "committing"—saving a draft of your text.
 
 ## Move your writing to the main repo!
 
@@ -299,19 +305,19 @@ Some terminology:
 
 ![docs-file-ready-to-commit-message](/docs/docs-images/docs-file-ready-to-commit-message.png)
 
-1. Click the "Pull requests" tab in the upper-left of your screen. A beige rectangle near the top of the page displays your branch name; click the green "Compare & pull request" button to the far right.
+2. Click the "Pull requests" tab in the upper-left of your screen. A beige rectangle near the top of the page displays your branch name; click the green "Compare & pull request" button to the far right.
 
 ![docs-click-pr-link](/docs/docs-images/docs-click-pr-link.png)
 
-1. You're now on the "Open a pull request" page. You'll see a bunch of template text in the text field (like the text "# Description..." below). This template isn't very useful for publishing a new blog post or page; it's there for when folks are adding more complex code changes. You can ignore it, or select it all and delete it to make room for any notes you'd like to leave about what changes you're making to the site. 
+3. You're now on the "Open a pull request" page. You'll see a bunch of template text in the text field (like the text "# Description..." below). This template isn't very useful for publishing a new blog post or page; it's there for when folks are adding more complex code changes. You can ignore it, or select it all and delete it to make room for any notes you'd like to leave about what changes you're making to the site. 
 
 ![docs-new-pr-template](/docs/docs-images/docs-new-pr-template.png)
 
-1. On the right, click the "Reviewers" link to make a dropdown appear.
+4. On the right, click the "Reviewers" link to make a dropdown appear.
 
 ![docs-add-reviewers-pr](/docs/docs-images/docs-add-reviewers-pr.png)
 
-1. Start typing the word "reviewers", then click on the option "scholar slab/reviewers" when it appears.
+5. Start typing the word "reviewers", then click on the option "scholar slab/reviewers" when it appears.
 
 ![docs-add-reviewers-pr2](/docs/docs-images/docs-add-reviewers-pr2.png)
 
@@ -325,7 +331,9 @@ You're done!
 
 Once you've made changes to the site and feel comfortable with how GitHub and Jekyll work, let Amanda or the #slab-org channel now, and we'll give you admin permissions. This means that you won't need to wait for someone else to review your pull request before merging it (i.e. making it appear on the live website), although you can always wait for that if you have any concerns.
 
-Here are instructions for folks with admin privileges who don't wish for someone else to review their code. Pick up right after Step ??? above:  
+Here are instructions for folks with admin privileges who don't wish for someone else to review their code. Pick up right after Step 3 above:  
+
+4. woof!
 
 ## Cheatsheet
 
