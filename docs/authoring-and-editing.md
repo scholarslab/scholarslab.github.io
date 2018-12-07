@@ -333,7 +333,29 @@ Once you've made changes to the site and feel comfortable with how GitHub and Je
 
 Here are instructions for folks with admin privileges who don't wish for someone else to review their code. Pick up right after Step 3 above:  
 
-4. woof!
+4. Scroll down to see the checks area of the page:
+
+![](/docs/docs-images/docs-admin-checks-running.png)
+
+The yellow "Some checks haven't completed yet" text displays while some scripts check your code for anything that may break part of the site. Wait for this yellow text to change to green "All checks have passed" text. (If you instead get a message that checks have failed, email/Slack someone on the R&D team for troubleshooting assistance.)
+
+*What's taking so long?* Our pull request process runs two tools over code you're hoping to merge: *Travis* makes sure your changes don't break anything on the main website, and *Netlify* lets you take a peek at how your changes will look on the website, before we actually publish those changes for the world to see.
+
+Once the Netlify check is done running, you can click on the "details" link to its right (where red arrow is pointing in above screenshot) to see how the site will look when your changes are merged.
+
+5. Once you see green text displaying "All checks have passed", click on the "Merge pull request" button (to the lower left).
+
+![](/docs/docs-images/docs-pr-done-admin-merge.png)
+
+6. Click the checkbox next to "Use your administrator privileges to merge this pull request", then click the "Confirm merge" button just beneath it.
+
+![](/docs/docs-images/docs-pr-done-admin-merge-checkbox.png)
+
+7. You've successfully merged your changes! You'll need to wait from 1-10 minutes to see your work appear on the updated live website. 
+
+8. You can now click the "Delete branch" button on the right. Getting rid of branches once we're done with them helps us keep the repo clean, as we may have multiple branches open at one time that are seeing active work.
+
+![docs-pr-done-delete-branch](/docs/docs-images/docs-pr-done-delete-branch.png)  
 
 ## Cheatsheet
 
