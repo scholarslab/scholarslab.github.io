@@ -12,7 +12,8 @@ We also maintain [documentation for other needs](https://github.com/scholarslab/
   * [Make a new branch](#make-a-new-branch)
   * [Add new content](#add-new-content)
     + [Important alert: save your work](#important-alert-save-your-work)
-    + [Add a new blog post](#add-a-new-blog-post)
+    + [Add a new blog post](#add-a-new-blog-post)  
+    + [Add an event](#add-an-event)
     + [Add a new page](#add-a-new-page)
   * [Edit existing content](#edit-existing-content)
 - [Move your writing to the main repo!](#move-your-writing-to-the-main-repo)
@@ -236,6 +237,27 @@ Return to Step 7 when you're ready to commit (aka save) your changes again.
 When you've finished drafting the post and you're ready to publish, jump down to ["instructions on moving your writing to the main repo"](#2-move-your-writing-to-the-main-repo).
 
 *Want a sneak peak at the final visual appearance of your post?* Although this isn't the same as seeing what your post will look like when published to our website, you can always look at the GitHub repo version of your post to see whether your Markdown formatting looks right (Step 9 above, except don't click on the edit icon, just scroll down to see your post). To see what your post looks like on the final website (i.e. incorporating all our special website design/styling), you'll either need to [follow this other tutorial](/docs/git-authoring-and-editing.md) to learn to edit the site locally, or wait until you're ready to publish. (There's a tool called Netlify that lets you see what your webpage will look like, but we only have it set up to work when you're moving your page to the live site—not when you're still drafting.)
+
+#### Add an event
+Events are similar to blog posts, except for two things:  
+
+1. They live in a different place: from the main repo page [https://github.com/scholarslab/scholarslab.org](), navigate to the `collections` folder, and then into the `_events` folder (or just bookmark this link to the [events folder](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_events)).  
+
+2. The YAML is slightly different (see below, or visit our [Event template GoogleDoc](https://docs.google.com/document/d/1qLncvRa6aqQPpf2BtZwGJFf_vqrLTG6EB6qoyenZxLc/edit?usp=sharing) and go to `File` > `Make a copy...` to draft an event. The GoogleDoc also explains what each metadata field does.
+
+```
+---
+author: firstname-lastname
+end_date: '2018-11-19'
+end_time: '14:00:00'
+layout: events
+location: 'Alderman Library, Room 421'
+slug: code-workshop-basics-of-version-control-with-git-2
+start_date: 2018-11-19
+start_time: '13:00:00'
+title: 'Code Workshop: Basics of Version Control with Git'
+---
+```
 
 #### Add a new page
 
