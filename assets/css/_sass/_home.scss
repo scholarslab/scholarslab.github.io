@@ -438,7 +438,6 @@ html, body {
 .home-events__upcoming:not(.home-events__cta) {
 	display: flex;
 	flex-flow: column nowrap;
-	align-items: center;
 	justify-content: flex-start;
 	div:not(.events-item__cta):not(.home-events__cta) {
 		width: 100%;
