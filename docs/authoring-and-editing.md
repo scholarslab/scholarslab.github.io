@@ -2,7 +2,7 @@ This tutorial explains, in detail, how to author and edit new pages and posts on
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/master/docs/docs-images/docs-footer-blogging-link.png)
 
-Any questions you have while using this tutorial or while blogging can be sent to Amanda via SLab Slack or [email](mailto:visconti@virginia.edu); SLab affiliates are also welcome to join the SLab Slack #slab-org channel and post any questions or suggestions there. A [future version of this documentation](https://github.com/scholarslab/scholarslab.org/issues/605) will cover how folks who are not Scholars' Lab affiliates can submit blog posts for possible publiction on this site.
+Any questions you have while using this tutorial or while blogging can be sent to Amanda via SLab Slack or email; SLab affiliates are also welcome to join the SLab Slack #slab-org channel and post any questions or suggestions there. A [future version of this documentation](https://github.com/scholarslab/scholarslab.org/issues/605) will cover how folks who are not Scholars' Lab affiliates can submit blog posts for possible publiction on this site.
 
 We also maintain [documentation for other needs](https://github.com/scholarslab/scholarslab.org/blob/master/docs/README.md) related to the ScholarsLab.org website.
 
@@ -299,7 +299,7 @@ Some terminology:
 
 ![docs-add-reviewers-pr2](/docs/docs-images/docs-add-reviewers-pr2.png)
 
-This notifies the set of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website; one of them will briefly review your changes to check for anything that might break part of the site (highly unlikely with a blog post, more likely with changes to other repo code).
+This notifies the subset of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website; one of them will briefly review your changes to check for anything that might break part of the site (highly unlikely with a blog post, more likely with changes to other repo code).
 
 1. Click on the green "Create pull request" button in the lower right
 
@@ -311,7 +311,7 @@ This notifies the set of SLab staff comfortable with Jekyll that you're making a
 
 ![docs-pr-checks-start](/docs/docs-images/docs-pr-checks-start.png)
 
-1. ~~When all checks have passed, click the green "Merge pull request" button on the lower left.~~ This step will be slightly different, as folks new to the site will need to wait for a reviewer before their code is merged. I'm not sure if there will be a button to push at this point, or what it will look like. We'll fix this after we meet to walk through this documentation together!
+1. (This step may be slightly different, as folks new to the site will need to wait for a reviewer before their code is merged. We'll fix this after we meet to walk through this documentation together!)
 
 ![docs-pr-checks-passed](/docs/docs-images/docs-pr-checks-passed.png)
 
