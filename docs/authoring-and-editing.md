@@ -133,7 +133,7 @@ This is the folder where we keep all the blog posts.
 
 We now see a text editor for creating a new post! 
 
-![docs-new-post-empty](/docs/docs-images/docs-new-post-empty.png)
+![docs-new-post-empty-filename](/docs/docs-images/docs-new-post-empty-filename.png)
 
 We'll start by giving our post a filename Jekyll understands.
 
@@ -143,8 +143,6 @@ We'll start by giving our post a filename Jekyll understands.
 - After the formatted date and an ending hyphen, a short (1-5 word) "slug", with any spaces replaced with hyphens. This is going to be part of the URL for your finished post, so something that summarizes your title or otherwise briefly refers to what your post is about is good. 
 - End the file name with **.md**, which is the file ending for Markdown files (we'll be using [Markdown formatting](#markdown) to format our posts... more on that below!)
 - In our example, the date is **2018-10-16**, the slug is **henry-rulez**, and putting it all together gives us a filename of **2018-10-16-henry-rulez.md**
-
-![docs-new-post-empty-filename](/docs/docs-images/docs-new-post-empty-filename.png)
 
 Now we're ready to write our post. Before we write our content, though, we need to put some text at the top that helps Jekyll know how to display, sort, and otherwise deal with our post. This post metadata is called "front matter" (cuz it's at the front of the file); it's also sometimes referred to as YAML ("yeah-mole"), which seriously stands for Yet Another Markup Language and is the language the front matter uses.
 
