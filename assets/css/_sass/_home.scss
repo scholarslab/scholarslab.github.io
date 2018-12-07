@@ -320,6 +320,18 @@ html, body {
 		}
 		input {
 			font-family: "Raleway", sans-serif;
+			&.button {
+				font-weight: bold;
+				letter-spacing: 1px;
+				height: auto !important;
+				font-size: 1.1em !important;
+				padding: 4px 16px !important;
+				background-color: #555 !important;
+				&:hover,
+				&:focus {
+					background-color: #333 !important;
+				}
+			}
 		}
 	}
 }
@@ -356,7 +368,7 @@ html, body {
 		padding-left: 0 !important;
 		margin-left: 0 !important;
 	}
-	
+
 }
 
 .home-find__title {
@@ -482,7 +494,7 @@ html, body {
 }
 
 .home-student__content {
-	
+
 }
 
 .home-student__title {
