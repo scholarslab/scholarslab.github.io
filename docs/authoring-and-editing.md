@@ -59,7 +59,11 @@ There are **two pieces** to authoring/editing on our website:
 
 ### Make a new branch
 
-0. Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Next, share your GitHub username with Amanda or the SLab Slack #slab-org channel. An existing ScholarsLab GitHub org member needs to visit the [members page](https://github.com/orgs/scholarslab/people), click the green "Invite member" button, and invite you as a "member" (not "owner"). You'll receive an email invite; follow the link in that email to gain access to making changes to our website.
+0. Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Next, share your GitHub username with Amanda or the SLab Slack #slab-org channel. 
+
+An existing ScholarsLab GitHub org member needs to visit the [members page](https://github.com/orgs/scholarslab/people), click the green "Invite member" button, and invite you as a "member" (not "owner"). You'll receive an email invite; follow the link in that email to gain access to making changes to our website.
+
+Then, they also need to add you to the ScholarsLab.org repo [here](https://github.com/scholarslab/scholarslab.org/settings/collaboration) (with "write", not "admin" privileges).
 
 A repo is a collection of code, and this repo in particular is the place on GitHub.com where we store all the files that make up the SLab.org website.
 
