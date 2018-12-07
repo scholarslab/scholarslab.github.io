@@ -1,4 +1,4 @@
-This tutorial explains, in detail, how to author and edit new pages and posts on ScholarsLab.org. You can easily get back to this page by clicking the "how to blog" link in the footer of every ScholarsLab.org page (lower right, under the "back to top" link):  
+This tutorial explains how to author and edit new pages and posts on ScholarsLab.org. You can easily get back to this page by clicking the "how to blog" link in the footer of every ScholarsLab.org page (lower right, under the "back to top" link):  
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/master/docs/docs-images/docs-footer-blogging-link.png)
 
@@ -137,7 +137,7 @@ We now see a text editor for creating a new post!
 
 We'll start by giving our post a filename Jekyll understands.
 
-1. In the text field near the top middle of the screen (see screenshot below), type in a filename matching our naming conventions, then press enter:
+1. In the text field near the top middle of the screen (see screenshot just above), type in a filename matching our naming conventions, then press enter:
 
 - The filename must start with the date, using the format YYYY-MM-DD, e.g. 2018-10-17. Note that the year comes first; hyphens separate the year, month, and day; and that dates with leading zeroes (e.g. 2018-02-05) need to include those zeroes.
 - After the formatted date and an ending hyphen, a short (1-5 word) "slug", with any spaces replaced with hyphens. This is going to be part of the URL for your finished post, so something that summarizes your title or otherwise briefly refers to what your post is about is good. 
@@ -148,7 +148,7 @@ Now we're ready to write our post. Before we write our content, though, we need 
 
 1. Paste in and customize the post's front matter.
 
-You can copy the front matter from [this GoogleDoc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) (which also uses color highlighting to ID which things you can customize, and which you *must* customize). An example of post front matter and explanation of each line follows:
+You can copy the front matter from [this GoogleDoc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) (which uses color highlighting to differentiate between things you could and must customize). An example of post front matter and explanation of each line follows:
 
 ```markdown
 ---
@@ -159,12 +159,7 @@ slug: henry-rulez
 title: "10 Reasons Henry Rules: A Digital Humanities Blessay"
 categories:
 - Digital Humanities
-- Research and Development
 - Announcements
-- Job Announcements
-- Makerspace
-- Grad Student Research
-- Podcasts
 ---
 ```
 
@@ -173,7 +168,7 @@ The first line of the post and the line after the final line of front matter sho
 - **author:** 
   - Your sluggified name (firstname-lastname, keep the hyphen between)
   - For example, alison-booth or shane-lin
-  - This must match the biographical file the site has for you (if you're not sure what this is because you have multiple ways of writing your name, [check here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people)). If you want to change the name shown as the author of your post on the website (to a new name, nickname, etc.), please contact someone on the R&D team and they'll update your biographical file or show you how. Using a name other than the firstname-lastname [listed here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people) will break things.
+  - This must match the biographical file the site has for you (if you're not sure what this is because you have multiple ways of writing your name, [check here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people)). We can change the name that's shown as the author of your post on the website (to a new name, nickname, etc.); please contact Amanda or ask on the Slack #slab-org channel, and they'll update your biographical file or show you how. Using a name other than the firstname-lastname [listed here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people) will break things.
 - **date:**
   - The date the post is to be listed as published, using the YYYY-MM-DD  01:00:00+00:00 format, e.g. 2018-10-17 01:00:00+00:00. Note that the year comes first; hyphens separate the year, month, and day, followed by a space and then time info. 
   - Dates with leading zeros (e.g. 2018-02-05) need to include those zeros.
