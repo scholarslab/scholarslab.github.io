@@ -1,5 +1,5 @@
 ---
-author: brandon-walsh
+author: catherine-addington
 date: 2018-04-02 16:48:37+00:00
 layout: post
 slug: writing-in-public-on-purpose-at-washington-lee-university
