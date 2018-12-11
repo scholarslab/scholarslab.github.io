@@ -140,4 +140,4 @@ rake new_project["The name of your project goes here"]
 
 #### Make a new event project given a title
 ```bash
-rake new_event["The name of your event goes here"]
+rake new_event["The name of your event goes here"] 
