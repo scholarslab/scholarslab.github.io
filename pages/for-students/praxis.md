@@ -7,7 +7,7 @@ nav: false
 
 **Applications are now open for the 2019-2020 cohort. Applications are due February 28th**. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
 
-The [Praxis Program](http://praxis.scholarslab.org/) is a radical re-imagining of the annual teaching and training we offer in the Scholars' Lab. Its fellowships support a team of six University of Virginia PhD students from a variety of disciplines, who work collaboratively on a shared digital humanities project. Under the guidance of Scholars' Lab faculty and staff, Praxis fellows conceive, develop, publish, and promote a digital project over the course of an academic year.
+The [Praxis Program](http://praxis.scholarslab.org/) is a radical re-imagining of the annual teaching and training we offer in the Scholars' Lab. Its fellowships support a team of six University of Virginia PhD students from a variety of disciplines, who work collaboratively on a shared digital humanities project. Under the guidance of Scholars' Lab faculty and staff, Praxis fellows conceive, develop, publish, and promote a digital project over the course of an academic year. In the process, they gain a variety of different technical skills as well as experience with project management, digital humanities praxis, grant writing, digital pedagogy, and more.
 
 Our first two cohorts designed and built [Prism](http://prism.scholarslab.org/), a digital tool for crowd-sourced humanities interpretation, visualization, and textual analysis. Our third and fourth cohorts re-imagined [Ivanhoe](http://ivanhoe.scholarslab.org/), a WordPress theme enabling collaborative criticism through roleplay. Our fifth cohort explored sonification of humanities data with the project [Clockwork](http://clockwork.scholarslab.org/). More recently, cohorts have worked on [Dash-Amerikan](http://dashamerikan.scholarslab.org/), a social media ecology of the Kardashian family], and [UVA Reveal](http://reveal.scholarslab.org), an augmented reality project that layers contextual information on contested public spaces on UVA's campus, and a Public Domain Toolkit for documenting the affects of legal changes on our ability to teach and research with free culture.
 
@@ -33,6 +33,6 @@ The application process for Praxis is simple! You apply individually, and we ass
 * summary of the applicant's plan for use of digital technologies in your research;
 * summary of what skills, interests, methods the applicant will bring to the Praxis Program;
 * summary of what the applicant hopes to gain as a Praxis Fellow;
-* and your availability on the days we've identified for group interviews (TBD). We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
+* and your availability on the days we've identified for group interviews March 18th from 11:00 to 12:00 and March 19th from 9:00 to 11:30. We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
 
 Questions about Praxis Fellowships and the application process as well as completed application materials should be directed to [Brandon Walsh](mailto:bmw9t@virginia.edu).
