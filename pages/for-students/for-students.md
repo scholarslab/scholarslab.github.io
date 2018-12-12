@@ -13,9 +13,9 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 ## Praxis Program Fellowships
 
-**Call issued:** Annually in December
+**Call issued:** Annually in December, typically by December 15th.
 
-**Deadline:** February 15th, 2018 for the 2018-2019 year
+**Deadline:** February 28th, 2019 for the 2019-2020 fellowship year.
 [More information](/praxis-program-fellowships/)
 
 ## Digital Humanities Prototyping Fellowships
@@ -25,9 +25,9 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 [More information](/digital-humanities-prototyping-fellowships/)
 
 ## Digital Humanities Fellowship Program
-**Call issued:** Annually in August
+**Call issued:** Annually in October, typically by October 1
 
-**Deadline:** Open for the 2019-2020 year; due November 30th, 2019
+**Deadline:** November 30th, 2018 for the 2019-2020 fellowship year.
 [More information](/digital-humanities-fellows/)
 
 ## Makerspace Technologist
