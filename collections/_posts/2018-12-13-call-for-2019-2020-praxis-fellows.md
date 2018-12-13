@@ -26,7 +26,7 @@ Beginning as a 2011-2013 pilot project supported by a grant from the Andrew W. 
 
 ### Eligibility
 
-All University of Virginia graduate students working within or committed to humanities disciplines are eligible to apply. We particularly encourage applications from women, LGBT students, and people of color, and will be working to put together an interdisciplinary and intellectually diverse team.
+All University of Virginia doctoral students working within or committed to humanities disciplines are eligible to apply. We particularly encourage applications from women, LGBT students, and people of color, and will be working to put together an interdisciplinary and intellectually diverse team.
 
 Applicants must be enrolled full time in the year for which they are applying.
 
