@@ -1,0 +1,31 @@
+{% assign authors = site.people | where: 'slug', include.authorid %}
+{% assign profile_image = '/assets/img/people/cropped/scholarslab.png' %}
+
+{% if authors != nil %}
+{% for author in authors %}
+          {% assign images = site.static_files | limit: 1 | where: 'basename', author.slug | where_exp:"image","image.path contains 'cropped'" %}
+          {% if images %}
+          {% for image in images %}
+          {% assign profile_image = image.path %}
+          {% endfor %}
+          {% endif %}
+
+        <div class="post-credits__author">
+
+          <div class="post-author__image">
+              <img src="{{ profile_image }} " alt="">
+          </div>
+          <!-- link to author's person page -->
+          <div class="post-author__name">
+            <a href="{{ author.url | relative_url }}">{{ author.title }}</a>
+            <!-- list position if relevant: -->
+            {% if author.position %}
+              {% if author.status == 'current' %}is{% else %}was{% endif %}
+                {{ author.position }} in the {{ site.title }}.
+            {% endif %}
+          </div>
+        </div>
+
+{% endfor %}
+{% else %}
+{% endif %}

@@ -17,6 +17,9 @@ order: 2
 		<div class="blog-gallery">
 			<!-- post layout: -->
 			{% for post in site.posts limit:4 %}
+            {% capture authorstring %}
+            {% include author-name.html authorid=post.author %}
+            {% endcapture %}
 			<section class="blog-gallery__item">
 				<div class="blog-item__title">
 					<span>
@@ -60,19 +63,9 @@ order: 2
 				<div class="blog-item__quote">{{ post.content | truncatewords: 25 | markdownify | strip_html }}</div>
 				{% endif %}
 				<div class="blog-item__metadata">
-					<!-- fetch author object, link to their page -->
-					{% assign author_object = site.people | where: 'slug', post.author %}
 					<div class="blog-meta__author">
-						{% for author in author_object %}
-						    <a href="{{ site.baseurl }}/people/{{post.author}}/">{{ author.title }}</a>
-						{% endfor %}
-						{% if author_object == empty %}
-						    {% assign author = post.author | split: '-' %}
-						        {% for name in author %}
-						            {{ name | capitalize}}
-						        {% endfor %}
-						{% endif %}
-					</div>
+                    {{ authorstring | strip }}
+                    </div>
 					<span>&#124;</span> <!-- pipe -->
 					<div class="blog-meta__date">
 						<span class="blog-date__small">{{ post.date | date: "%m.%d.%Y" }}</span>
@@ -86,7 +79,9 @@ order: 2
 <h2>Previous Posts</h2>
 <ul class="page-previous_posts">
 {% for post in site.posts offset:4 %}
-
+{% capture authorstring %}
+{% include author-name.html authorid=post.author %}
+{% endcapture %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
@@ -94,9 +89,7 @@ order: 2
     <ul>
     {% assign date = currentdate %}
   {% endif %}
-  
-    <li><a href="{{ post.url }}">"{{ post.title }}"</a> by {% assign author_object = site.people | where: 'slug', post.author %}{% for author in author_object %}<a href="{{ site.baseurl }}/people/{{post.author}}/">{{ author.title }}</a>
-{% endfor %}</li>
+    <li><a href="{{ post.url }}">"{{ post.title }}"</a> by {{ authorstring | strip }}</li>
   {% if forloop.last %}</ul>{% endif %}
 
 {% endfor %}
