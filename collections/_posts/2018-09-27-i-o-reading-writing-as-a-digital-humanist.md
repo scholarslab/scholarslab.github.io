@@ -1,5 +1,8 @@
 ---
-author: amanda-visconti
+author:
+ - amanda-visconti
+ - ammon-shepherd
+ - brandon-walsh
 date: 2018-09-27 11:58:06+00:00
 layout: post
 slug: i-o-reading-writing-as-a-digital-humanist
