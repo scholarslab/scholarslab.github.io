@@ -481,19 +481,21 @@ html, body {
 .home__student-opps {
 	grid-area: students;
 	position: relative;
-	padding-right: 5px;
 	display: grid;
 	grid-template-columns: 1fr;
 	grid-template-rows: auto auto;
 	max-width: 100%;
-	@media screen and (min-width: 600px) {
-		grid-template-columns: 3fr 2fr;
+	@media screen and (min-width: 1055px) {
+		grid-template-columns: 2fr 2fr;
 		grid-template-rows: auto;
 	}
 }
 
 .home-student__content {
-
+	@media screen and (min-width: 1055px) {
+		margin-right: 1em;
+		padding-right: 1em;
+	}
 }
 
 .home-student__title {
@@ -507,12 +509,19 @@ html, body {
 	}
 }
 
-.home-student__img {
+.home-student__img-container {
+	margin-left: 1em;
+	margin-top: 2em;
+	padding-left: 1em;
 	position: relative;
-	background-image: url('../img/decorative/for-students.jpg');
-	background-size: 150%;
-	background-position: left bottom;
-	background-repeat: no-repeat;
+	@media only screen and (max-width: 1055px){
+			display: none;
+	}
+}
+
+#for-students-image{
+	max-width: 100%;
+	max-height: 100%;
 }
 
 .home-student__cta {
