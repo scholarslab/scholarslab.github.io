@@ -7,6 +7,8 @@ title: 'Augmenting an Iconic Structure: The Rotunda'
 categories:
 - Digital Humanities
 - Grad Student Research
+tags:
+- UVA Reveal
 ---
 
 The Praxis team has been hard at work developing our project, and we’re now beginning to unite the various aspects of _UVA Reveal_, including our work in Unity, our work on linked data, and our work on a website. Part of this unification has involved crafting stories about the university: what do we see, and what remains hidden? How can we visually represent spaces of the university, especially spaces that have been erased or largely forgotten? Is it as simple as using augmented reality to display images that are otherwise not there, or is there another way that we can utilize the space?

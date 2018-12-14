@@ -7,6 +7,8 @@ title: 'Inktober 10/5: Three Sketches'
 categories:
 - Digital Humanities
 - Grad Student Research
+tags:
+- ClockWork
 ---
 
 [Cross-posted from [my post on our Praxis page](http://praxis.scholarslab.org/blog/2015/10/05/inktober-10-5-three-sketches/).]

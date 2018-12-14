@@ -7,11 +7,11 @@
 ### {{ project.student }}'s Project
   {% endif %}
 * Student(s): {{ project.student }}
-* Type: {{ project.type }}
-* Dates: {{ project.years }}
+* <strong>Type</strong>: {{ project.type }}
+* <strong>Dates</strong>: {{ project.years }}
 * Description: {{ project.description }} {% if project.url %} More info at the <a href="{{ project.url }}">project website</a>.{% endif %}
 
-{% if project.title == 'Prism' or project.title == 'Ivanhoe' or project.title == 'ClockWork' or project.title == 'Dash-Amerikan' or project.title == 'UVA-Reveal' %}
+{% if project.title == 'Prism' or project.title == 'Ivanhoe' or project.title == 'ClockWork' or project.title == 'Dash-Amerikan' or project.title == 'UVA Reveal' %}
 
 {% assign project_posts = site_posts | where: 'tags', project.title %}
 {% if project_posts != empty %}
