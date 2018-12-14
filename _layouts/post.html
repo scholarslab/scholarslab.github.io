@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-{% assign authors = site.people | where: "slug", page.author %}
+{% capture authorstring %}{% include author-name.html authorid=page.author %}{% endcapture %}
 
 <article class="post-wrapper">
 
@@ -19,33 +18,22 @@ layout: default
       {% endif %}
 
       <div class="post-meta__author">
-        <span>By</span>
-        {% for author in authors %}
-            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
-        {% endfor %}
-        {% if authors == empty %}
-            {% assign author = page.author | split: '-' %}
-                {% for name in author %}
-                    {{ name | capitalize}}
-                {% endfor %}
-        {% endif %}
-        <!-- date: -->
-        on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        <span>By</span> {{ authorstring | strip }} on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       </div>
 
       {% assign catsize = page.categories | size %}
-      {% if catsize >= 1 %}
+<!--  {% if catsize >= 1 %}
       <div class="post-meta__categories">Filed to:
         {% for c in page.categories %}
         {% assign last = page.categories | last %}
-        {% if c == last %} <a href="#">{{ c | downcase }}</a>
-        {% else %} <a href="#">{{ c | downcase }}</a>,
+        {% if c == last %} {{ c | downcase }}
+        {% else %} {{ c | downcase }},
         {% endif %}{% endfor %}
       </div>
       {% endif %}
-
-      {% assign tagsize = page.tags | size %}
-      {% if tagsize >= 1 %}
+-->
+{% assign tagsize = page.tags | size %}
+<!--    {% if tagsize >= 1 %}
       <div class="post-meta__tags">Tagged as:
         {% for t in page.tags%}
         {% assign last = page.tags | last %}
@@ -54,6 +42,8 @@ layout: default
         {% endif %}{% endfor %}
       </div>
       {% endif %}
+-->
+    {% include old-post-alert.html %}
 
     </div> <!-- end metadata -->
 
@@ -63,34 +53,14 @@ layout: default
     </div>
 
     <footer class="post__credits">
-      <!-- START BLOCK -->
-      {% for author in authors %} <!-- if there is a listed author -->
-        {% assign author_categories = author.people-category | join: "," %}
-
-        <div class="post-credits__author">
-          <!-- display person pic if exists -->
-          {% for image in site.static_files %}
-            {% if image.path contains page.author and image.path contains 'cropped' %}
-                <div class="post-author__image">
-                  <img src="{{ site.baseurl }}/assets/img/people/cropped/{{ page.author }}.jpg" alt="{{ author.name }}">
-                </div>
-            {% endif %}
-          {% endfor %}
-
-          <!-- link to author's person page -->
-          <div class="post-author__name">
-            <a href="{{ site.baseurl }}/people/{{page.author}}/">{{ author.name }}</a>
-            <!-- list position if relevant: -->
-            {% if author_categories contains 'Staff' %}
-              {% if author.status == 'current' %}is{% else %}was{% endif %}
-                {{ author.position }} in the {{ site.title }}.
-            {% endif %}
-          </div>
-        </div>
-
+      {% comment %}
+      {% for author in page.author %} <!-- if there is a listed author -->
+      {% include author-profile.html authorid=page.author %}
+      {% endfor %}
+      {% endcomment %}
         <!-- cite post -->
         <div class="post-credits__citation">
-            <span>Cite this post: </span>{{ author.name }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on 
+            <span>Cite this post: </span>{{ authorstring | strip }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on 
 <script>
 <!-- 
 var now = new Date();
@@ -106,36 +76,6 @@ document.write(today);
 -->
 </script>.
         </div>
-      {% endfor %}
-      <!-- END BLOCK -->
-
-      <!-- START ALTERNATE BLOCK -->
-      {% if authors == empty %} <!-- if there is no listed author -->
-        <div class="post-author__image">
-          <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
-        </div>
-
-        <div class="post-author__citation">
-          <span>Cite this post: </span>
-		  <p>Scholars' Lab Blog. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on
-<script>
-<!-- 
-var now = new Date();
-var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
-var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
-function fourdigits(number) {
-    return (number < 1000) ? number + 1900 : number;
-}
-today =  months[now.getMonth()] + " " +
-         date + ", " +
-         (fourdigits(now.getYear())) ;
-document.write(today);
--->
-</script>.
-          </p>
-        </div>
-      {% endif %}
-      <!-- END BLOCK -->
 
     </footer> <!-- end post footer -->
   </div> <!-- end post-main-content -->

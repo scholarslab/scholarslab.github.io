@@ -1,0 +1,19 @@
+{% capture authorstring %}
+{% assign authors = include.authorid %}
+{% if authors.size > 0 %}
+{% for author in authors %}
+  {% assign people = site.people | where: 'slug', author %}
+  {% if people.size > 0 %}
+  {% for person in people %}
+  <a href="{{ site.baseurl }}/people/{{ person.slug }}/">{{ person.title }}</a>,
+  {% endfor %}
+  {% else %}
+  {{ author }},
+  {% endif %}
+{% endfor %}
+{% else %}
+Scholars’ Lab
+{% endif %}
+{% endcapture %}
+{% assign authorarray =  authorstring | strip | split: "," %}
+{{ authorarray | array_to_sentence_string }}

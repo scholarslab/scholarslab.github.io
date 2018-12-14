@@ -66,7 +66,7 @@ ul[class*="flexnav"] {
 	a {
 		position: relative;
 		display: inline-block;
-		font-family: "base-mono-wide", monospace;
+		font-family: monospace;
 		font-weight: 200;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -87,9 +87,6 @@ ul[class*="flexnav"] {
 	height: 100%;
 	max-width: 50vw;
 	text-align: center;
-	@media screen and (min-width: 600px) {
-		max-width: 33vw;
-	}
 }
 
 /* Outer item: */
@@ -134,7 +131,7 @@ ul[class*="flexnav"] {
 	align-items: center;
 	height: 60px;
 	padding-right: 1em;
-	font-family: "base-mono-wide", monospace;
+	font-family: monospace;
 	font-weight: 200;
 	text-transform: uppercase;
 	color: $medskyblue;
@@ -239,6 +236,13 @@ ul[class*="flexnav"] {
 .show-more-menu--js {
 	display: initial;
 	opacity: 1;
+}
+
+/* Style for art deco logo */
+
+#slab-logo {
+	max-width: 70%;
+	vertical-align: bottom;
 }
 
 /* End navbar styles */

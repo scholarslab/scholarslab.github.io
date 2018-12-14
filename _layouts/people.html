@@ -7,7 +7,7 @@ layout: default
 <div class="person-wrapper">
 	<div class="person-main-content" aria-label="Main content">
 
-		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.name }}</div>
+		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.title }}</div>
 
 <!-- <div class="person__position">{{ person.position }}</div>  -->
 
@@ -19,34 +19,39 @@ layout: default
 		{{ page.position }}
 	{% endif %}
 {% elsif page.people-category contains "student" %}
+{% if page.roles.size == 1 %}
+{{ page.roles }}
+{% else %}
 	<ul>{% for role in page.roles %}
 		<li>{{ role }}</li>
 	{% endfor %}</ul>
 {% endif %}
+{% endif %}
 
 </div>
+{% if page.twitter != 'None' or page.website != 'None' or page.email != 'None' %}
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
 				<div>Around the Web</div>
 				{% if page.email !=  nil and page.email != 'None' %}
-				<span>Email:</span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.name }}">{{ page.email }}</a><br/>
+				<span>Email:</span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.title }}">{{ page.email }}</a><br/>
 				{% endif %}
 				{% if page.twitter and page.twitter != 'None' %}
-				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}" aria-label="{{ page.name }}'s Twitter page">{{ page.twitter }}</a><br/>
+				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}" aria-label="{{ page.title }}'s Twitter page">{{ page.twitter }}</a><br/>
 				{% endif %}
 				{% if page.website and page.website != 'None' %}
-				<span>Website:</span><a href="http://{{ page.website }}" aria-label="{{ page.name }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
+				<span>Website:</span><a href="http://{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
 				{% endif %}
 			</div>
 		</div>
-
+		{% endif %}
 		<div class="person__img">
 			{% if profile_pic == empty %}
 			    <img src="{{ site.baseurl }}/assets/img/people/scholarslab.png" alt="Scholars' Lab Lab">
 			{% else %}
 			    {% for pic in profile_pic %}
-			    {% unless pic.path contains 'cropped' %}
+			    {% unless pic.path contains 'cropped'  or pic.path contains 'grid' %}
 			      <img src="{{ pic.path }}" alt="{{ page.slug }}">
 			    {% endunless %}
 			    {% endfor %}

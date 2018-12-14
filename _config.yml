@@ -6,17 +6,20 @@ name: "Scholars’ Lab"
 email: scholarslab@virginia.edu
 description: "The Scholars’ Lab"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://maybe.scholarslab.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://scholarslab.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scholarslab
-permalink: /:year/:month/:day/:title/
-
+permalink: /blog/:title/
+timezone: America/New_York
 # Build settings
 analytics: false
 incremental: true
 sass:
   sass_dir: assets/css/_sass
-  style: expanded # temporary! change back to compressed later
+  style: compressed
 markdown: kramdown
+kramdown: 
+  parse_block_html: true
+  parse_span_html: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -30,6 +33,8 @@ exclude:
 #  - _posts # temporary! significantly reduces build time for theme testing
 #  - _people # temporary
   - assets/python # helper scripts to manipulate HTML/CSS, not used in build
+
+collections_dir: collections
 collections:
   people:
     output: true

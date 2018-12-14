@@ -5,7 +5,8 @@
         <a href="#main" aria-label="Back to top">
           <img src="{{ '/assets/img/svg/thin-up-arrow-white.svg' | relative_url }}" alt="Up arrow">
           <span>Back<br/>to top</span>
-        </a>
+        </a><br><br>
+        <a href="https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md">How to blog</a>
     </div>
 
     <div class="footer__sitemap">
@@ -53,7 +54,8 @@
 
     <div class="footer__logos">
       <a class="footer-logo__slab" href="{{ site.url }}" aria-label="Scholars' Lab home">
-        {% include nav-logo.html %}
+        <img src="/assets/img/logo-smallest.png" alt="SLab logo">
+        {% comment %}{% include nav-logo.html %}{% endcomment  %}
       </a>
       <a class="footer-logo__uva" href="https://www.library.virginia.edu/" aria-label="UVA Library home">
         <img src="{{ '/assets/img/svg/uva-library-text-block-white.svg' | relative_url }}" alt="UVA Library logo">

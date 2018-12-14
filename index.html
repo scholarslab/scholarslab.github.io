@@ -5,20 +5,25 @@ title: Home
 
 <article class="home-wrapper">
 	<header class="home-landing-wrapper">
+<!-- {% include snowday.html %} -->
 		<div class="home-landing__big-title">
 			<div class="home-title__text">
 				<span class="show-if-big--css">We are<br/>a community<br/>for experimental<br/>scholarship.</span>
 				<span class="show-if-small--css">We<br/>are a<br/>community<br/>for<br/>experimental<br/>scholarship.</span>
+				<object type="image/svg+xml" data="{{ '/assets/img/svg/thin-down-arrow-white.svg' | relative_url }}" alt="Down arrow" id="hero-arrow">
+				Your browser does not support SVG
+			</object>
 			</div>
 		</div>
 		<div class="home-landing__hero-text">
 			<div class="home-hero__hook">
 				<h3>What We Do</h3>
-				<p>Experimental & digital scholarship in all fields, informed by humanities & cultural heritage approaches.</p>
-			</div> <!-- we practice? -->
+				<p>We're <a href="http://library.virginia.edu">the UVA Library</a>'s community lab for the practice of experimental scholarship in <a href="http://scholarslab.org/about/#what-academic-fields-do-you-support">all fields</a>, informed by digital humanities, spatial technologies, & cultural heritage thinking.</p>
+				<p>We offer mentoring, collaboration, & a safe space for anyone curious about learning to push disciplinary & methodological boundaries through new approaches.</p>
+			</div>
 			<div class="home-hero__description">
 				<h3>Explore With Us</h3>
-				<p>At the Scholars' Lab, our most important scholarship is our community: <span>mentors,</span> <span>learners,</span> <span>researchers,</span> <span>teachers,</span> <span>crafters & </span><span>makers,</span> <span>collaborators.</span> Come help us explore what scholarship with an ethic of care means&mdash;we'd love you to be part of our community! </p>
+				<p>We're foremost a space for learning together—about anything—by trying stuff. Think of us as friends and colleagues who can help you teach yourself new ways of approaching your interests. We'd love you to be part of our community!</p>
 			</div>
 		</div>
 	</header>
@@ -28,25 +33,32 @@ title: Home
 		<!-- section 1: -->
 
 		<!-- faq: -->
-		<section class="home__faq">
-			<div class="home-faq__title"><a href="/about">Frequently Asked Questions</a></div>
-			<div class="home-faq__subtitle">Check out <a href="/about">answers to common questions</a> including:</div>
-			<ul class="home-faq__questions">
-				<li><a href="/about#what-is-the-scholars-lab">What is the Scholars' Lab?</a></li>
-				<li><a href="/about#how-can-the-scholars-lab-fit-into-my-work">How can you fit into my work?</a></li>
-				<li><a href="/about#how-does-the-lab-fit-into-the-uva-library">How do you fit into the UVA Library?</a></li>
-			</ul>
-			<div class="home-faq__cta"><!--Find answers to these questions and more:<br/--><a href="about">About Scholars' Lab</a></div>
-		</section>
+<section class="home__faq">
+<div class="home-faq__title"><a href="/about">Frequently Asked Questions</a></div>
+<div class="home-faq__subtitle">Check out <a href="/about/">answers to common questions</a> including:</div>
 
+<ul class="home-faq__questions">
+<li><a href="/about/#what-is-the-scholars-lab">What is the Scholars' Lab?</a></li>
+<li><a href="/about/#how-does-the-lab-fit-into-the-uva-library">How do you fit into the UVA Library?</a></li>				
+<li><a href="/about/#how-can-the-scholars-lab-fit-into-my-work-what-do-you-do">What does Scholars' Lab do? How can you fit into my work?</a></li>
+<li><a href="about/#can-you-build-me-a-thing">Can you build me a thing?</a></li>
+<li><a href="about/#can-we-collaborate">Can we collaborate on something?</a></li>
+				
+<li><a href="/about/#where-are-you">Where are you?</a></li>
+<li><a href="about/#how-do-i-contact-you">How do I contact you?</a></li>
+</ul>
+
+<div class="home-faq__cta"><!--Find answers to these questions and more:<br/--><a href="/about/">About Scholars' Lab</a></div>
+</section>
+		
 		<!-- library: -->
 		<section class="home__library">
-			<div class="home-lib__title"><a href="/library">The Library's Lab</a></div>
+			<div class="home-lib__title"><a href="/library/">The Library's Lab</a></div>
 			<div class="home-lib__content">
-				<p>We are the UVA Library's lab for experimental and digital research, teaching, and other forms of scholarship, open to all disciplines and anyone curious about getting their hands dirty.</p>
+				<a href="http://library.virginia.edu" class="uva-library-logo-link"><img src="/assets/img/decorative/uvalibrary-logo-250px.png" alt="University of Virginia Library"></a>
 				<p>We're part of the Library's mission to provide equitable access to learning to everyone, and we're proud that librarian superpowers are part of our toolkit!</p>
 				<!-- **ACCESSIBILITY NOTE:** changing link wording to be more descriptive -->
-				<p>Visit our <a href="/library">Library collaborations hub</a> to find out about the many ways we co-create with and depend on our amazing Library colleagues, or jump to the <a href="http://lib.virginia.edu">UVA Library's main website</a> to find out more about the whole Library.</p>
+				<p>Visit our <a href="/library">Library collaborations hub</a> to find out about the many ways we co-create with and depend on our amazing Library colleagues, or jump to the <a href="http://library.virginia.edu">UVA Library's main website</a>.</p>
 			</div>
 		</section>
 
@@ -57,7 +69,7 @@ title: Home
 			<div class="home-contact__wrapper">
 				<div class="home-contact__content">
 					<p>Curious? Please get in touch with us&mdash;absolutely no prior experience or fully formed ideas needed!</p>
-					<p>Email us at <a href="mailto:scholarslab@virginia.edu">ScholarsLab@Virginia.edu</a> with questions, or if you already know you want to meet with us. Or sign up for our newsletter to hear about events and opportunities.</p>
+					<p>Email us at <a href="mailto:scholarslab@virginia.edu">ScholarsLab@Virginia.edu</a> with questions, or if you already know you want to meet with us. Sign up for our newsletter to hear about events and opportunities!</p>
 				</div>
 
 				<div class="home-contact__newsletter">
@@ -79,7 +91,7 @@ title: Home
 							<div class="response" id="mce-error-response" style="display:none"></div>
 							<div class="response" id="mce-success-response" style="display:none"></div>
 						</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-					    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3ac105f4d87dddbd34542ab41_25120106cf" tabindex="-1" value=""></div>
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><label for="this-is-for-spam-bots">This is for spam bots</label><input type="text" id="this-is-for-spam-bots" name="b_3ac105f4d87dddbd34542ab41_25120106cf" tabindex="-1" value="" aria-hidden="true"></div>
 					    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 					    </div>
 					</form>
@@ -110,7 +122,7 @@ title: Home
 					<li data-fill="teal" data-name="offices"><span>Staff offices</span></li>
 				</ul>
 			</div>
-			<p class="home-find__link">See full list of <a href="/hours-and-spaces" aria-label="hours and spaces page">hours &amp; spaces</a>.</p>
+			<p class="home-hours__cta""><a href="/hours-and-spaces/" aria-label="hours and spaces page">All hours &amp; spaces</a></p>
 		</section>
 
 		<!-- events: -->
@@ -118,11 +130,18 @@ title: Home
 			<div class="home-events__title"><a href="/events">Events</a></div>
 			<!-- !! NB: events description is commented out; feel free to un-comment out if we want to use it -->
 			<!--div class="home-events__description">One-time or regular, hands-on workshops and discussion-rich symposia, a quick intro or community group&mdash;whatever your flavor, we probably have an event for it. Upcoming events below, or find the full list <a href="/events" aria-label="Events page">here</a>.</div-->
-			{% assign events = site.events | sort: 'start_date' %}
+            {% assign events = "" | split: "" %}
+            {% assign allevents = site.events | sort: 'start_date' %}
+            {% assign today = site.time | date: '%Y%m%d' | plus:0 %}
+            {% for event in allevents %}
+                {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+                {% if eventdate > today %}
+                    {% assign events = events | push: event %}
+                {% endif %}
+            {% endfor %}
 			<!-- event layout: -->
-			
 			<div class="home-events__upcoming">
-				{% for event in events reversed limit:3 %}
+				{% for event in events limit: 3 %}
 				<div>
 					<h2>{{ event.title }}</h2>
 					<ul>
@@ -130,19 +149,13 @@ title: Home
 						<li><span>Where:</span> {{ event.location }}</li>
 					</ul>
 					<div class="events-item__cta">
-						<a href="{{ site.url }}/events/{{ event.slug }}">Details &rsaquo;</a>
+						<a href="{{ site.url }}/events/{{ event.slug }}/">Details &rsaquo;</a>
 					</div>
 				</div>
 				{% endfor %}
-			</div>
-			<!--div class="home-events__cta"><a href="/events">All Events</a></div-->
-		</section>
-
-		<!-- open office hours: -->
-		<section class="home__office-hours">
-			<div class="home-hours__title">Open Office Hours</div>
-			<div class="home-hours__when">Every Monday during fall and spring term,<br/>10am-11:30am.</div>
-			<div class="home-hours__info">Stop by the discussion area just inside the Scholars' Lab Common Room to chat with our DH experts about your ideas, from your earliest questions and broad ideas through formal projects. (See diagram for where we are!)</div>
+<!-- open office hours: -->	
+{% include open-office-hours.html %}
+			<div class="home-events__cta"><a href="/events">All events</a></div>
 		</section>
 
 		<!-- section 3: -->
@@ -150,20 +163,22 @@ title: Home
 		<!-- student opportunities: -->
 		<section class="home__student-opps">
 			<div class="home-student__content">
-				<div class="home-student__title"><a href="/student-opportunities">Student Opportunities</a></div>
+				<div class="home-student__title"><a href="/for-students/">For Students</a></div>
 				<div class="home-student__text">
-					<p>One of our primary missions is to support the work of emerging scholars and digital scholarship practitioners&mdash;particularly UVa graduate students.</p>
-					<p>We offer a variety of fellowships and opportunities to this end, which collectively aim to support graduate students during the full measure of their time at UVA.</p>
+					<p>One of our primary missions is supporting the work of emerging scholars and practitioners&mdash;particularly UVa graduate students and folks interested in digital humanities and spatial technologies.</p>
+					<p>We offer a variety of <a href="/for-students/">fellowships and opportunities</a> to this end, which collectively aim to support graduate students during the full measure of their time at UVA.</p>
 					<p>From the innovative <a href="http://praxis.scholarslab.org/">Praxis Program</a> to professionalization training for students on the DH job market, we're here to help whether you're looking to answer a specific call for applications or simply looking to discuss your research.</p>
 				</div>
+				
+				<div class="home-student__cta"><a href="/for-students/">See all</a></div>
+				
 			</div>
-			<div class="home-student__img" title="Placeholder image"></div>
-			<div class="home-student__cta"><a href="/student-opportunities">See All</a></div>
+			<div class="home-student__img-container" title="Placeholder image"><img src="{{ 'assets/img/decorative/for-students.jpg' | relative_url }}" id="for-students-image"></div>
 		</section>
 
 		<!-- makerspace -->
 		<section class="home__makerspace">
-			<div class="home-maker__title"><a href="/makerspace">Makerspace</a></div>
+			<div class="home-maker__title"><a href="/makerspace/">Makerspace</a></div>
 			<div class="home-maker__hours">
 				<div>Staffed Hours</div>
 				<span>Mondays:</span>1-7pm<br/>
@@ -176,25 +191,17 @@ title: Home
 				<p><strong>The Scholars’ Lab Makerspace</strong> is a place for tinkering and experimentation with technologies like desktop fabrication, physical computing, and augmented reality. Open to everyone, we specialize in applications and research questions in the humanities and arts.</p>
 				<p>Find things like 3-D printing, wearable technologies, physical computing, & more at our space in the middle of the Scholars' Lab Common Area.</p>
 			</div>
-			<div class="home-maker__cta"><a href="/makerspace">Makerspace Home</a></div> <!-- had it as "Makerspace Page >" for a bit -->
+			<div class="home-maker__cta"><a href="/makerspace/">Makerspace Home</a></div> <!-- had it as "Makerspace Page >" for a bit -->
 		</section>
 
 		<!-- spatial tech: -->
 		<section class="home__spatial-tech">
-			<div class="home-spatial__title"><a href="/spatial-technologies">Spatial Technologies</a></div>
+			<div class="home-spatial__title"><a href="/spatial-technologies/">Spatial Technologies</a></div>
 			<div class="home-spatial__text">
 				<p><strong>Experts at thinking about space + time.</strong></p>
-				<p>We've got experts in GIS, cultural heritage informatics, augmented reality, virtual reality, 3D modeling, photogrammetry and scanning, aerial footage, and other spatial approaches (including our own <a href="http://neatline.org">Neatline</a> project for telling stories that combine timelines and maps).</p>
+				<p>We've got experts in GIS, cultural heritage informatics, augmented reality, virtual reality, 3D modeling, photogrammetry and scanning, aerial footage, and other spatial approaches (including our own <a href="http://neatline.org/">Neatline</a> project for telling stories that combine timelines and maps).</p>
 			</div>
-			<ul class="home-spatial__hours">
-				<h3>Cultural heritage informatics</h3>
-				<li>Hours: by appointment</li>
-				<li>Office: by appointment (Clemons is closed during Summer 2018)</li>
-				<h3>GIS</h3>
-				<li>Office: 417 Alderman</li>
-		  	    <li>Hours: Weekdays 9-5 in general, but <a href="mailto: slabgis@virginia.edu">email the GIS folks</a> in advance if you need us to be there</li>
-			</ul>
-			<div class="home-spatial__cta"><a href="/spatial-technologies">Spatial Tech Home</a></div>
+			<div class="home-spatial__cta"><a href="/spatial-technologies/">Spatial Tech Home</a></div>
 		</section> <!-- end sections -->
 	</main> <!-- end main content -->
 </article> <!-- end wrapper -->

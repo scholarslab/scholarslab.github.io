@@ -57,7 +57,7 @@
 	padding-bottom: .5em;
 	font-size: 1rem;
 	font-weight: 200;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	line-height: 1;
 	color: rgba(0,0,0,.5);
 //	border-bottom: 1px solid magenta;
@@ -180,7 +180,7 @@
 	position: relative;
 	grid-area: date;
 	padding-left: 1ch;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-weight: 200;
 	.blog-date__small {
 		display: initial;

@@ -1,5 +1,5 @@
 ---
-layout: no-header
+layout: default
 ---
 
 {% assign colors = site.data.work[page.slug] %}
@@ -12,10 +12,14 @@ layout: no-header
 	<div class="project-content__title">
 		<span>{{ page.title | replace: ' - ', ': ' }}</span>
 	</div>
-	<div class="project-content__metadata" {% if title_array.size <= 2 %}style="flex-flow: column nowrap;"{% endif %}>
-		<div class="project-content__year"><span>Year:</span><div>{{ page.year }}</div></div>
+	<div class="project-content__metadata" style="flex-flow: column nowrap;">
+		{% if page.start-year == page.end-year or page.end-year.blank? %}
+		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}</div></div>
+		{% else %}
+		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}-{{ page.end-year }}</div></div>
+		{% endif %}
 		<div class="project-content__category">{% if page.research-category %}<span>Work type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div>{% endif %}</div>
-		<!--div class="project-content__cta"><a href="{{ page.link }}">Visit Project</a></div-->
+		{% if page.link %}<div class="project-content__cta"><a href="{{ page.link }}">Visit project</a></div>{% endif %}
 	</div>
 	<div class="project-content__text">{{ content }}</div>
 	<div class="project-content__collaborators">
@@ -24,7 +28,7 @@ layout: no-header
 		{% for person in page.collaborators %}
 		<ul>
 			<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
-			<li>{{ person.role }}</li>
+			{% if person.role %}<li>{{ person.role }}</li>{% endif %}
 		</ul>
 		{% endfor %}
 		</div>

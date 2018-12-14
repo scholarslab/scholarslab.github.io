@@ -6,7 +6,7 @@ excerpt: "We are committed to making our projects and spaces accessible&mdash;in
 nav: true
 ---
 
-As our Scholars' Lab [charter](/charter) indicates, we are committed to making our projects and spaces accessible&mdash;in all meanings of that word&mdash;for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can&mdash;and should&mdash;always be improved.
+As our Scholars' Lab [charter](/charter/) indicates, we are committed to making our projects and spaces accessible&mdash;in all meanings of that word&mdash;for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can&mdash;and should&mdash;always be improved.
 
 We strive to make our the built environment of the Scholars' Lab pleasant, easy to access, and [ADA-compliant](http://www.ada.gov/). Please [write to us](mailto:scholarslab@virginia.edu) with suggestions for improvements.
 

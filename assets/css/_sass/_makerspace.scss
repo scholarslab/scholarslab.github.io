@@ -225,7 +225,7 @@
 
 .maker-people__students, .maker-people__staff {
 	position: relative;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-weight: 200;
 	text-align: right;
 	span {
@@ -367,7 +367,7 @@
 		}
 		li {
 			font-weight: 200;
-			font-family: "base-mono-narrow", monospace;
+			font-family:  monospace;
 			position: relative;
 			margin-bottom: .25em;
 			line-height: 1.25;
@@ -476,7 +476,7 @@
 .home-makerspace__hours {
 	position: relative;
 	border: 4px solid magenta;
-	font-family: "base-mono-narrow", monospace;
+	font-family:  monospace;
 	font-size: 20px;
 	text-align: right;
 	margin-top: calc(2em + 4px);
