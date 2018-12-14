@@ -48,7 +48,7 @@
   posts: [hearing-silent-woolf,"virginia-woolf-natural-language-processing-and-the-quotation-mark","reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark"]
 - title: Songs of the Victorians & Augmented Notes
   years: 2012-2013
-  student: Joanna Swafford
+  student: Annie Swafford
   type: Graduate Fellow
   url: http://www.songsofthevictorians.com/
   image_path: 
@@ -64,7 +64,7 @@
   posts: ["on-community-listening-1", "on-community-listening-2", "on-community-listening-3", "on-community-listening-4"]
 - title: Prism
   years: 2011-2013
-  student: Alex Gil, Brooke Lestock, Lindsay O'Connor, Sarah Storti, Annie Swafford, Ed Triplett; Shane Lin, Claire Maiers, Cecilia Márquez, Gwen Nally, Chris Peck, Brandon Walsh
+  student: [Alex Gil, Brooke Lestock, Lindsay O'Connor, Sarah Storti, Annie Swafford, Ed Triplett, Shane Lin, Claire Maiers, Cecilia Márquez, Gwen Nally, Chris Peck, Brandon Walsh]
   type: Praxis Program
   url: http://prism.scholarslab.org/
   image_path: 
@@ -72,7 +72,7 @@
   posts:
 - title: Ivanhoe
   years: 2013-2015
-  student: Scott Bailey, Elizabeth Fox, Veronica Ikeshoji-Orlati, Stephanie Kingsley, Zachary Stone, Francesca Tripodi; Amy Boyd, Swati Chawla, Andrew Ferguson, Joris Gjata, Jennifer Grayburn, Steven Lewis
+  student: [Scott Bailey, Elizabeth Fox, Veronica Ikeshoji-Orlati, Stephanie Kingsley, Zachary Stone, Francesca Tripodi, Amy Boyd, Swati Chawla, Andrew Ferguson, Joris Gjata, Jennifer Grayburn, Steven Lewis]
   type: Praxis Program
   url: http://ivanhoe.scholarslab.org/
   image_path: 
@@ -80,7 +80,7 @@
   posts: 
 - title: ClockWork
   years: 2015-2016
-  student: James Ascher, Bremen Donovan, Ethan Reed, Gillet Rosenblith, Rachel Devorah, Lydia Warren
+  student: [James P Ascher, Bremen Donovan, Ethan Reed, Gillet Rosenblith, Rachel Devorah Trapp, Lydia Warren]
   type: Praxis Program
   url: http://clockwork.scholarslab.org/
   image_path: 
@@ -88,7 +88,7 @@
   posts: 
 - title: Dash-Amerikan
   years: 2016-2017
-  student: Jordan Buysse, Alicia Caticha, Alyssa Collins, Justin Greenlee, Sarah McEleney, Joseph Thompson
+  student: [Jordan Buysse, Alicia Caticha, Alyssa Collins, Justin Greenlee, Sarah McEleney, Joseph Thompson]
   type: Praxis Program
   url: http://dashamerikan.scholarslab.org/
   image_path: 
@@ -96,7 +96,7 @@
   posts: 
 - title: "UVA Reveal"
   years: 2017-2018
-  student: Monica Blair, Ankita Chakrabarti, Victoria Clark, Tanner Greene, Christian Howard, Spyros Simotas
+  student: [Monica Blair, Ankita Chakrabarti, Victoria Clark, Tanner Greene, Christian Howard, Spyros Simotas]
   type: Praxis Program
   url: http://reveal.scholarslab.org/
   image_path: 

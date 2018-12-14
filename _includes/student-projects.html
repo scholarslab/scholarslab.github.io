@@ -6,7 +6,10 @@
   {% else %}
 ### {{ project.student }}'s Project
   {% endif %}
-* Student(s): {{ project.student }}
+{% capture studentstring %}
+{% include student-project-name.html studentid=project.student %}
+{% endcapture %}
+* Student(s): {{ studentstring | strip }}
 * <strong>Type</strong>: {{ project.type }}
 * <strong>Dates</strong>: {{ project.years }}
 * Description: {{ project.description }} {% if project.url %} More info at the <a href="{{ project.url }}">project website</a>.{% endif %}
