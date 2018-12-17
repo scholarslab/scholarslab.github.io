@@ -1,0 +1,38 @@
+{% assign projects = (site.data.student-projects | sort: 'years' | reverse) %}
+{% assign site_posts = site.posts %}
+{% for project in projects %}
+  {% if project.title %}
+### {{ project.title }}
+  {% else %}
+### {{ project.student }}'s Project
+  {% endif %}
+{% capture studentstring %}
+{% include student-project-name.html studentid=project.student %}
+{% endcapture %}
+* <strong>Student(s)</strong>: {{ studentstring | strip }}
+* <strong>Type</strong>: {{ project.type }}
+* <strong>Dates</strong>: {{ project.years }}
+* <strong>Description</strong>: {{ project.description }} {% if project.url %} More info at the <a href="{{ project.url }}">project website</a>.{% endif %}
+
+{% if project.title == 'Prism' or project.title == 'Ivanhoe' or project.title == 'ClockWork' or project.title == 'Dash-Amerikan' or project.title == 'UVA Reveal' %}
+
+{% assign project_posts = site_posts | where: 'tags', project.title %}
+{% if project_posts != empty %}
+* <strong>Recent Related Posts</strong>
+  {% for post in project_posts limit:5 %}
+  * <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  {% endfor %}
+{% endif %}
+{% else %} 
+{% if project.posts != empty %}
+* <strong>Related Posts</strong>
+  {% for post_slug in project.posts %}
+    {% for post in site_posts %}
+      {% if post_slug == post.slug %}
+  * <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endif %}
+{% endif %}
+{% endfor %}

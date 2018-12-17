@@ -9,6 +9,7 @@ categories:
 - Grad Student Research
 tags:
 - praxis program
+- Dash-Amerikan
 ---
 
 Have you ever wondered what it would be like to read the dialogue that passes between members of the Kardashian family on _Keeping Up with the Kardashians_? To have those seemingly intimate conversations and confessions in the form of a literary production that is open to analysis, interpretation, and text mining?

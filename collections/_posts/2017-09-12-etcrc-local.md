@@ -7,6 +7,8 @@ title: /etc/rc.local
 categories:
 - Digital Humanities
 - Grad Student Research
+tags:
+- UVA Reveal
 ---
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/09/ch0-300x95.png)

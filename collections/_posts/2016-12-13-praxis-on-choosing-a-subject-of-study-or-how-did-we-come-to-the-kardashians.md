@@ -6,6 +6,7 @@ slug: praxis-on-choosing-a-subject-of-study-or-how-did-we-come-to-the-kardashian
 title: Praxis on Choosing a Subject of Study, or, How did we come to the Kardashians?
 tags:
 - praxis program
+- Dash-Amerikan
 ---
 
 <figure>

@@ -8,6 +8,8 @@ categories:
 - Digital Humanities
 - Experimental Humanities
 - Grad Student Research
+tags:
+- UVA Reveal
 ---
 
 The Praxis team is in the midst of defining its project, and for the past few weeks, we’ve been playing around with augmented reality (AR), specifically by using [Vuforia](https://www.vuforia.com/) and [Unity](https://unity3d.com/). Learning about AR has been fascinating and, admittedly, a bit frustrating. I won’t go through the process of getting Vuforia and Unity to work with one another (here’s a great [intro video](https://www.youtube.com/watch?v=mjNAPCFaZ9Y) if you’re interested!), but I will briefly discuss some of the challenges and implications of trying to augment reality.
