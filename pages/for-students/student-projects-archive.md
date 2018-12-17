@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Projects Archive
-nav: false
+nav: true
 permalink: /student-projects-archive/
 ---
 
