@@ -86,7 +86,7 @@ nav: true
             <div class="people-item__position">
 <!-- new logic for displaying list of current & past roles, if person is current student  -->
 <ul>
-   {% for item in person.roles %}
+   {% for item in person.roles limit: 1 %}
       <li>{{ item }}</li>
    {% endfor %}
 </ul>
@@ -131,31 +131,6 @@ nav: true
             </div>
             <!-- name: -->
             <div class="people-item__name">{{ person.title }}</div>
-            <!-- position(s) -->
-            <ul class="people-item__position">
-              {% assign pr = person.role %}
-				<!-- former staff: -->
-                {% if pr contains 'staff' %}
-                <li>Former {{ person.position }}</li>
-                {% endif %}
-
-			    <!-- former non-staff -->
-<!-- Checking whether a role includes a comma to see if a year is listed or if we need to instead prepend with "Former" -->
-                {% unless pr contains 'staff' %}
-				{% for item in person.roles %}
-					{% if item contains "20" %}
-      					<li>{{ item }}</li>
-					{% endif %}
-					{% unless item contains '20' %}
-						{% if person.people-category contains "staff" %}
-						<li>Former {{ person.position }}</li>	
-						{% elsif person.people-category contains "student" %}
-						<li>Former {{ person.roles.first }}</li>	
-						{% endif %}
-					{% endunless %}
-				{% endfor %}
-  				{% endunless %}
-            </ul>
           </a>
         </div>
         {% endfor %} <!-- end item -->
