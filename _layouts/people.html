@@ -11,32 +11,22 @@ layout: default
 
 <!-- <div class="person__position">{{ person.position }}</div>  -->
 
-{% capture roles %}
-    {% if page.roles %}
-    {% for role in page.roles %}
-    {% if role contains 'staff' %}
-        {% continue %}
-    {% endif %}
-		<li>{{ role }}</li>
-	{% endfor %}
-    {% endif %}
-{% endcapture %}
 <div class="person__position">
-    {% if page.status == "current" %}
-    {% if page.position %}
-    {{ page.position }}
-    {% else %}
-    {% for role in page.roles limit: 1 %}
-    {{ role }}
-    {% endfor %}
-    {% endif %}
-    {% else %}
-    <ul class="person__position-previous">
-        {% if page.position %}
-        <li>Former {{ page.position }}</li>
-        {% endif %}
-
-    {% endif %}
+{% if page.people-category contains "staff" %}
+	{% if page.status contains "not_current" %}
+		Former {{ page.position }}
+	{% elsif page.status contains "current" %}
+		{{ page.position }}
+	{% endif %}
+{% elsif page.people-category contains "student" %}
+{% if page.roles.size == 1 %}
+{{ page.roles }}
+{% else %}
+	<ul>{% for role in page.roles %}
+		<li>{{ role }}</li>
+	{% endfor %}</ul>
+{% endif %}
+{% endif %}
 
 </div>
 {% if page.twitter != 'None' or page.website != 'None' or page.email != 'None' %}
