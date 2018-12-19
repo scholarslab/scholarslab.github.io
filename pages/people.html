@@ -64,13 +64,19 @@ nav: true
           <a href="/people/{{ person.slug }}/" aria-label="{{ person.title }}">
             <div class="people-item__img">
             {% if profile_pic == empty %}
-              {% assign num = forloop.index | modulo:4 %}
+              {% assign num = forloop.index | modulo:6 %}
               {% if num == 0 %}
               <img src="{{ site.baseurl }}/assets/img/people/grid/default-screwdrivers.jpg" alt="[Default image] Screwdrivers close-up">
               {% elsif num == 1 %}
               <img src="{{ site.baseurl }}/assets/img/people/grid/default-toy.jpg" alt="[Default image] Cute toy">
               {% elsif num == 2 %}
               <img src="{{ site.baseurl }}/assets/img/people/grid/default-clamps.jpg" alt="[Default image] Clamps close-up">
+              {% elsif num == 3 %}
+              <img src="{{ site.baseurl }}/assets/img/people/grid/default-eggs.jpg" alt="[Default image] Makerspace Eggs">
+              {% elsif num == 4 %}
+              <img src="{{ site.baseurl }}/assets/img/people/grid/default-widgets.jpg" alt="[Default image] Makerspace widgets">
+              {% elsif num == 5 %}
+              <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
               {% else %}
               <img src="{{ site.baseurl }}/assets/img/people/grid/default-dino.jpg" alt="[Default image] dino close-up">
               {% endif %} 
@@ -111,13 +117,19 @@ nav: true
             <!-- image: -->
             <div class="people-item__img">
             {% if profile_pic == empty %}
-              {% assign num = forloop.index | modulo:4 %}
+              {% assign num = forloop.index | modulo:7 %}
               {% if num == 0 %}
               <img src="{{ site.baseurl }}/assets/img/people/default-screwdrivers.jpg" alt="[Default image] Screwdrivers close-up">
               {% elsif num == 1 %}
               <img src="{{ site.baseurl }}/assets/img/people/default-toy.jpg" alt="[Default image] Cute toy">
               {% elsif num == 2 %}
               <img src="{{ site.baseurl }}/assets/img/people/default-clamps.jpg" alt="[Default image] Clamps close-up">
+              {% elsif num == 3 %}
+              <img src="{{ site.baseurl }}/assets/img/people/default-eggs.jpg" alt="[Default image] Makerspace Eggs">
+              {% elsif num == 4 %}
+              <img src="{{ site.baseurl }}/assets/img/people/default-widgets.jpg" alt="[Default image] Makerspace widgets">
+              {% elsif num == 5 %}
+              <img src="{{ site.baseurl }}/assets/img/people/default-printing.jpg" alt="[Default image] Makerspace printing in process">
               {% else %}
               <img src="{{ site.baseurl }}/assets/img/people/default-dino.jpg" alt="[Default image] Dino close-up">
               {% endif %}
