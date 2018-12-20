@@ -179,13 +179,10 @@ title: Home
 		<!-- makerspace -->
 		<section class="home__makerspace">
 			<div class="home-maker__title"><a href="/makerspace/">Makerspace</a></div>
+			<p><strong>We are currently running modified hours. Check our <a href="/makerspace/#calendar-link">calendar</a> for up-to-date availability.</strong></p>
 			<div class="home-maker__hours">
-				<div>Staffed Hours</div>
-				<span>Mondays:</span>1-7pm<br/>
-				<span>Tuesdays:</span>1-9pm<br/>
-				<span>Wednesdays:</span>1-7pm<br/>
-				<span>Thursdays:</span>1-9pm<br/>
-				<span>Fridays:</span>1-5pm
+			<div>Staffed Hours</div>
+			{% include makerspace-hours.html %}
 			</div>
 			<div class="home-maker__text">
 				<p><strong>The Scholars’ Lab Makerspace</strong> is a place for tinkering and experimentation with technologies like desktop fabrication, physical computing, and augmented reality. Open to everyone, we specialize in applications and research questions in the humanities and arts.</p>
