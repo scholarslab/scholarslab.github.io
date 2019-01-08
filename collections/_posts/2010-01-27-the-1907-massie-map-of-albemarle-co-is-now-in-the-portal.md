@@ -14,16 +14,16 @@ tags:
 ---
 
 <figure>
-  [![The 1907 Massie Map of Albemarle Co., VA](http://static.scholarslab.org/wp-content/uploads/2010/01/Massie1907_thumb500.jpg)](http://www.scholarslab.org/geospatial-and-temporal/the-1907-massie-map-of-albemarle-co-is-now-in-the-portal/attachment/massie1907_thumb500-2/)
+  ![The 1907 Massie Map of Albemarle Co., VA](http://static.scholarslab.org/wp-content/uploads/2010/01/Massie1907_thumb500.jpg)
   <figcaption>
  The 1907 Massie Map of Albemarle Co., VA
 </figcaption>
 
 </figure>
 
-While going through our archives of scanned maps, we recently ran across a copy of **Frank A. Massie’s 1907 “A new and historical map of Albemarle County, Virginia” **[Special Collections, University of Virginia Library], commonly referred to as the Massie map, which contains a wealth of detailed historical information for the county in which the University of Virginia sits.
+While going through our archives of scanned maps, we recently ran across a copy of **Frank A. Massie’s 1907 “A new and historical map of Albemarle County, Virginia”** [Special Collections, University of Virginia Library], commonly referred to as the Massie map, which contains a wealth of detailed historical information for the county in which the University of Virginia sits.
 
-<!-- more -->After obtaining a more recent scan of the map from Special Collections and Andrew Curly (of the Library’s Digital Production Services), we georectified the digital map and added it to our [geospatial data portal](http://gis.lib.virginia.edu/). Accessing the map through our portal ([here](http://gis.lib.virginia.edu:8080/geonetwork/srv/en/metadata.show?id=544&currTab=simple) or[ here](http://gis.lib.virginia.edu/items/544)) allows you to not only view the map at high resolution in your browser, but also to [view the Massie map in Google Earth](http://gis.lib.virginia.edu:8080/geoserver/wms/kml?layers=Massie%3AMassie1907_2483), as well as being able to overlay the Massie map over other base maps and other geospatial data layers (for example, by making a WMS call to our portal’s server from your desktop GIS; or by pulling the Massie map into your webpage-embedded dynamic map using [Open Layers](http://openlayers.org/)).
+<!-- more -->After obtaining a more recent scan of the map from Special Collections and Andrew Curly (of the Library’s Digital Production Services), we georectified the digital map and added it to our [geospatial data portal](http://gis.lib.virginia.edu/). Accessing the map through our portal ([here](http://gis.lib.virginia.edu/geonetwork/srv/en/metadata.show?id=544&currTab=simple) or [here](http://gis.lib.virginia.edu/catalog/uva-Massie:Massie1907VaRR)) allows you to not only view the map at high resolution in your browser, but also to [view the Massie map in Google Earth](http://gis.lib.virginia.edu/geoserver/wms/kml?layers=Massie%3AMassie1907_2483), as well as being able to overlay the Massie map over other base maps and other geospatial data layers (for example, by making a WMS call to our portal’s server from your desktop GIS; or by pulling the Massie map into your webpage-embedded dynamic map using [Open Layers](http://openlayers.org/)).
 
 Among the many interesting historical features on the maps, are the locations of:
 
