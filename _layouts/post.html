@@ -60,7 +60,7 @@ layout: default
       {% endcomment %}
         <!-- cite post -->
         <div class="post-credits__citation">
-            <span>Cite this post: </span>{{ authorstring | strip }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}/{{page.url}}">{{site.url}}/{{page.url}}</a>. Accessed on 
+            <span>Cite this post: </span>{{ authorstring | strip }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on 
 <script>
 <!-- 
 var now = new Date();
