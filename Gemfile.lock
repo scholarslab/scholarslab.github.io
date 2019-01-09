@@ -102,7 +102,6 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bundler (~> 2.0.1)
   front_matter_parser
   html-proofer
   jekyll (~> 3.7)
