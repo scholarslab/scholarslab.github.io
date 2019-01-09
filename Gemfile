@@ -19,4 +19,3 @@ gem "html-proofer"
 gem 'json'
 gem 'front_matter_parser'
 gem 'ruby-progressbar'
-gem 'bundler', "~>2.0.1"
