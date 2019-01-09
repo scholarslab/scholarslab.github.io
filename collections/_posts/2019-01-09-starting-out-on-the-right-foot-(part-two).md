@@ -1,0 +1,25 @@
+---
+author: kelli-shermeyer
+date: 2019-01-09 08:30:50
+layout: post
+slug: starting-out-on-the-right-foot-(part-two)
+title: Starting Out On The Right Foot (Part Two)
+categories:
+- Grad Student Research
+- Digital Humanities
+tags:
+- Digital Humanities
+---
+*This post is the second in a series that contextualizes my current project, Digital Skriker, within a larger tradition of studying and archiving stage movement. My project explores both the theoretical cruxes and archival possibilities enabled by robust and increasingly accessible motion capture and virtual reality technologies using Caryl Churchill’s play, The Skriker (1994) as a case study. I’m interested not only in how these technologies might change the way we think about documenting stage movement and gesture, but also how they may be used to create modes of (posthuman?) performance.*
+
+In my [previous post](http://scholarslab.org/blog/starting-off-on-the-right-foot-part-one/), I outlined some of the prevailing wisdom about stage and film composition as it relates to they way that audiences make meaning from what they see before them. Movement patterns are coded as winning or losing, strong or weak, good or evil in ways that, to me at least, indicate the ways that our interpretations of human movement are culturally and historically contingent, but also become strangely naturalized. 
+
+It’s here we reach what I find to be one of the most productive tensions in performance studies and theatre-making: any claims that theatre (or art, more broadly) can portray certain universal [emotional] realities collide with our general commitment to historical contingency and cultural specificity. I’m reminded of Richard Schechner’s chapter on “Magnitudes of Performance” in Performance Theory which uses Paul Eckman and Ray Birdwhitsell’s work to suggest that there is a universal language of basic emotions that exists outside of verbal language, on top of which culturally specific kinemes (tiny bits of physical language) are built. Larger movement patterns, like the ones I discussed in the previous post are perhaps best understood as aggregates of these kinemes: sentences or paragraphs of physical language. The idea that movement can (or should) be treated like a language is contested, but also foundational to many of attempts at codifying movement, either through analog means such as [Labanotation](https://user.uni-frankfurt.de/~griesbec/LABANE.HTML), or digitally in something like Bill Forsythe’s [Synchronous Objects](https://synchronousobjects.osu.edu/).
+
+Movement-as-language falls prey to the same kinds of ideologies and biases as we find embedded in verbal discourse. One blog I looked at for this post describes stage movement in a variety of binaries: “strong, winning attitudes” that are aggressive, concise, dominate, and independent, vs. “weak, struggling or failing attitudes” which are uncertain, evasive, reliant, or indecisive. It’s not hard to see the way that these categories of strong or weak also engage gendered stereotypes and speak to a particular set of values. We see aggression and directness and think “strength”, whereas caution, hesitance, and reliance on others—also practices of those of us in thought-disciplines—signify weakness. If we lived in a society that values vulnerability, would we find the three-quarter backwards position—the classically coy positioning of fashion models and femme fatales—fundamentally weak? If our society were less hierarchal and more accepting of circuity and recursivity would we find backward movement defensive, or just moving forward in a new way? 
+
+It may be an obvious point, but the common wisdom surrounding movement in stage also assumes a particular kind of performance space—a proscenium stage where the audience only views the performance from directly in front of the stage. These common principles about stage composition are complicated when a performance occurs in a thrust, stadium, round, or immersive setting, as it so often does in contemporary theatre. As we find new forms of spatial expression, so our modes of interpreting also adapt, and, I imagine, conventional compositional wisdom shifts as well. What if we could archive and track these kinds of changes in compositional style across time?
+
+Among other things, “Digital Skriker” plays with the capabilities of motion capture technology to translate human movement into another kind of stable, “readable” data. What are the implications of more empirical studies of movement? How might the technologies we use to capture and record human movement expand both creative and archival possibilities for theatre-makers and educators? What is the relationship between one’s movement data and their performance (insofar as it is intellectual property).
+
+In the final post of this introductory series, I will look at several key theatre-based projects in the digital humanities and outline what I hope “Digital Skriker” will contribute to an ongoing exploration of how we experience and interpret movement on stage. 
