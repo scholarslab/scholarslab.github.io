@@ -8,7 +8,7 @@ title: Sarah McEleney
 position:
 short_bio: ''
 slug: sarah-mceleney
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
