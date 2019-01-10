@@ -56,7 +56,7 @@ end
 
 desc "Make a research project"
 task :new_project, [:title] do |t, args|
-  title_slug = args.title.downcase.gsub(' ', '-')
+  title_slug = args.title.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
   fn = 'collections/_work/' + title_slug + '.md'
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
   titlecase_title = args.title.titlecase
@@ -82,25 +82,29 @@ Description of the project goes here")
 end
 
 desc "Make a new event"
-task :new_event, [:title] do |t, args|
-  title_slug = args.title.downcase.gsub(' ', '-')
-  fn = 'collections/_events/' + title_slug + '.md'
+task :new_event, [:title, :date] do |t, args|
+  title_slug = args.title.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
+  event_date = args.date
+  fn = 'collections/_events/' + title_slug + '-' + event_date + '.md'
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end  
   titlecase_title = args.title.titlecase
   current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
   File.open(fn, 'w'){|f|
     f.puts("---
 author: first-last
-start_date: 2016-03-08
+start_date: #{event_date}
 start_time: '15:00:00'
-end_date: '2016-03-08'
+end_date: '#{event_date}'
 end_time: '16:00:00'
 layout: events
-slug: #{title_slug}
+slug: #{title_slug + "-" + event_date}
 title: '#{titlecase_title}'
 location: 'Alderman 423'
 ---
-Description of the event. The above information is meant to offer you a template
+Description of the event - meant to be replaced with your information. The above information is meant to offer you a template. Note, you may also add the following, optional metadata by copying it to the above header on a new line after location but before the three dashes:
+
+instructor: 'Brandon and Laura'
+
     ")
   }
   puts "New event page created at #{fn}"
@@ -137,8 +141,8 @@ end
 
 desc "Make a new post, given a title and author"
 task :new_post, [:title, :author] do |t, args|
-  author_slug = args.author.downcase.gsub(' ', '-')
-  title_slug = args.title.downcase.gsub(' ', '-')
+  author_slug = args.author.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
+  title_slug = args.title.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
   date = Date.today.to_s
   fn = 'collections/_posts/' + date + '-' + title_slug + '.md'
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
