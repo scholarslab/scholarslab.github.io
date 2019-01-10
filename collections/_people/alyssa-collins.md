@@ -8,7 +8,7 @@ title: Alyssa Collins
 position: Prototyping Fellow
 short_bio: ''
 slug: alyssa-collins
-status: current
+status: not_current
 twitter: LyssaDee
 website: 
 people-category:
