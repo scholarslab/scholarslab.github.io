@@ -85,7 +85,7 @@ desc "Make a new event"
 task :new_event, [:title, :date] do |t, args|
   title_slug = args.title.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
   event_date = args.date
-  fn = 'collections/_events/' + event_date + '-' + title_slug + '.md'
+  fn = 'collections/_events/' + title_slug + '-' + event_date + '.md'
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end  
   titlecase_title = args.title.titlecase
   current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
