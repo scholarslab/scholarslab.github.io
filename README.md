@@ -138,6 +138,8 @@ rake new_post["Brandon's best blog post ever","Brandon Walsh"]
 rake new_project["The name of your project goes here"]
 ```
 
-#### Make a new event project given a title
+#### Make a new event project given a title and the date of the event
 ```bash
-rake new_event["The name of your event goes here"]
+rake new_event["The name of your event goes here","2019-01-03"]
+
+If you run into errors, double check that you are copying the syntax exactly - no extra spaces, comma outside the quotation marks, etc.
