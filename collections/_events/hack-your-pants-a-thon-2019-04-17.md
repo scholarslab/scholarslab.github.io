@@ -16,4 +16,4 @@ Drop in anytime during the workshop hours to hack your pants!
 
 Note: It usually takes 20 minutes for each pocket.
 
-Register here: https://cal.lib.virginia.edu/event/5010553
+No registration required.
