@@ -1,6 +1,10 @@
 /* Navbar 2 Styles: */
 
 .flexnav-wrapper {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 60px;
 	width: 100%;
 	padding: 0 4.167%;
 	background-color: $navgray;
@@ -10,16 +14,17 @@
 /* Main content: */
 
 .flexnav-main {
+	position: relative;
 	display: flex;
 	justify-content: space-between;
-    align-items: center;
-    height: 12vh;
-    min-height: 100px;
+	height: 60px;
 }
 
 /* Home Button: */
 
 .flexnav__home-icon {
+	align-self: center;
+	position: relative;
 	a {
 		display: block;
 		border-bottom: none !important;
@@ -236,44 +241,8 @@ ul[class*="flexnav"] {
 /* Style for art deco logo */
 
 #slab-logo {
-    line-height:0;
-    svg {
-        width: 160px;
-    }
-
-    path {
-        fill: white;
-        fill: rgba(255,255,255,.9);
-    }
+	max-width: 70%;
+	vertical-align: bottom;
 }
 
-#library-banner {
-    background: #131313;
-    padding: 0 4.167%;
-    display:flex;
-    justify-content: flex-start;
-    align-items: center;
-    height: 6vh;
-    min-height: 40px;
-    a {
-        display:block;
-        line-height:0;
-        color: white;
-        color: rgba(255,255,255,0.9);
-        text-decoration:none;
-        font-size: .9rem;
-
-        & + a {
-            margin-right: 1rem;
-        }
-    }
-    svg {
-        width: 200px;
-    }
-
-    path {
-        fill: white;
-        fill: rgba(255,255,255,.9);
-    }
-}
 /* End navbar styles */
