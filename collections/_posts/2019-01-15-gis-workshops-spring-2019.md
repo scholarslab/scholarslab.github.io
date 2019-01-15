@@ -37,10 +37,10 @@ With ArcGIS Online, you can use and create maps and scenes, access ready-to-use 
 **Using ArcGIS Online Story Maps**  
 Story Maps are templates that allow authors to give context to their ArcGIS Online maps.  Whether telling a story, giving a tour or comparing historic maps, Esri Story Maps are easy-to-use applications that create polished presentations.
 
-*March 6th*
-**Using ArcGIS Online Data Collection Tools**
+*March 6th*  
+**Using ArcGIS Online Data Collection Tools**  
 Whether you are crowd sourcing spatial data or performing survey work, having applications that automatically record location and upload data directly to a mapping application is incredibly useful.  
 
-*March 20th*
-**Using ArcGIS Online Web AppBuilder**
+*March 20th*  
+**Using ArcGIS Online Web AppBuilder**  
 Would you like to make a custom online mapping application without have to code?  Us too.  ArcGIS Web AppBuilder allows developers to use drag and drop tools to create responsive mapping applications.
