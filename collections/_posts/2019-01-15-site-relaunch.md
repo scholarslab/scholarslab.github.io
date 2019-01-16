@@ -1,6 +1,6 @@
 ---
 author: amanda-visconti
-date: 2018-01-16 01:00:00+00:00
+date: 2018-01-15 01:00:00+00:00
 layout: post
 slug: site-relaunch
 title: Website relaunch!
