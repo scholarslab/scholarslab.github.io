@@ -109,7 +109,7 @@ DEPENDENCIES
   jekyll-paginate-v2 (~> 1.9)
   jekyll-sitemap (~> 1.1)
   json
-  nokogiri (~> 1.8.2)
+  nokogiri (>= 1.8.5)
   rake
   ruby-progressbar
   tzinfo-data
