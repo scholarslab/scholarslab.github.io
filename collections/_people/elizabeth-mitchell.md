@@ -5,19 +5,18 @@ first_name: Elizabeth
 last_name: Mitchell
 layout: people
 title: Elizabeth Mitchell
-position: Community Project Manager
-short_bio: "Elizabeth Mitchell, PhD Candidate in Architectural History, assists with events and provides graphic design work for the Scholars' Lab."
+position: Community Advocate
+short_bio: "As Community Advocate, Elizabeth Mitchell (PhD Candidate in Architectural History) advocates for the users of our DH projects, working on documentation, design, development, and project management approaches to champion user needs."
 slug: elizabeth-mitchell
 status: current
 twitter: None
 website: None
 people-category:
-- student
+- staff
 roles:
-- student
-roles:
-- Community Project Manager, 2017-current
-- Research Assistant, 2018-current
+- staff
+- Community Project Manager, 2017-2019
+- Research Assistant, 2018-2019
 ---
 
-Elizabeth Mitchell, PhD Candidate in Architectural History, assists with events and provides graphic design work for the Scholars' Lab as our Community Project Manager. She also works as a research assistant on the NEH Neatline project.
+As Community Advocate, Elizabeth Mitchell (PhD Candidate in Architectural History) advocates for the users of our DH projects, working on documentation, design, development, and project management approaches to champion user needs. She previously worked as Community Project Manager and as a research assistant on the NEH Neatline project.
