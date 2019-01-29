@@ -10,7 +10,8 @@ categories:
 
 If you're looking to get into VR flight simulation, here are some starter tips on equipment and software to look into.  
 
-<b>VR headsets</b>: As for general availability Oculus and HTC Vive are still leading the pack - in my opinion Oculus is a bit more comfortable and HTC tends to have a bit better tracking. When seated in a cockpit however one tends to move around less so tracking is arguably less of an issue with this genre of software. These change every year and get slightly better with each iteration. HTC's customer service is a nightmare so if your equipment will be getting lots of usage and/or breaking often, keep that in mind.
+<b>VR headsets</b>: 
+- As for general availability Oculus and HTC Vive are still leading the pack - in my opinion Oculus is a bit more comfortable and HTC tends to have a bit better tracking. When seated in a cockpit however one tends to move around less so tracking is arguably less of an issue with this genre of software. These change every year and get slightly better with each iteration. HTC's customer service is a nightmare so if your equipment will be getting lots of usage and/or breaking often, keep that in mind.
 
 <b>Flight sim software:</b> 
 - Several flight sims are currently leading the pack with their use and integration of VR:
