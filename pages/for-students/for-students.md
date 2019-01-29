@@ -18,11 +18,13 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 **Deadline:** February 28th, 2019 for the 2019-2020 fellowship year.
 [More information](/praxis-program-fellowships/)
 
+<!-- 
+
 ## Digital Humanities Prototyping Fellowships
 **Call issued:** Annually in December **subject to availability**
 
 **Deadline:** No call will be issued for the 2019-2020 academic year.
-[More information](/digital-humanities-prototyping-fellowships/)
+[More information](/digital-humanities-prototyping-fellowships/) -->
 
 ## Digital Humanities Fellowship Program
 **Call issued:** Annually in October, typically by October 1
@@ -48,11 +50,11 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 **Deadline:** [Registration deadline](http://www.virginia.edu/registrar/calendar.html) for courses each semester
 [More information](/cultural-heritage-informatics-internship/)
 
-## Guest DH Workshop Teaching at W&L
+<!-- ## Guest DH Workshop Teaching at W&L
 **Call issued:** Ongoing
 
 **Deadline:** Rolling
-[More information](/visiting-workshops-at-washington-and-lee-university/)
+[More information](/visiting-workshops-at-washington-and-lee-university/) -->
 
 ## Professional Development
 No deadline or formal call! Delivered on an ongoing, by-request basis.
