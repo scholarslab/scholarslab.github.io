@@ -13,12 +13,12 @@ If you're looking to get into VR flight simulation, here are some starter tips o
 VR headsets: As for general availability Oculus and HTC Vive are still leading the pack - in my opinion Oculus is a bit more comfortable and HTC tends to have a bit better tracking. When seated in a cockpit however one tends to move around less so tracking is arguably less of an issue with this genre of software. These change every year and get slightly better with each iteration. HTC's customer service is a nightmare so if your equipment will be getting lots of usage and/or breaking often, keep that in mind.
 
 Flight sim software: 
-Several flight sims are currently leading the pack with their use and integration of VR:
+- Several flight sims are currently leading the pack with their use and integration of VR:
 X-Plane: https://store.steampowered.com/app/269950/XPlane_11/ This one is neat because you can (with a little manual tinkering) inject real satellite terrain so that the ground under you looks real. 
-FlyInside Flight Sim: This is a fork of the popular Microsoft Flight simulator product redesigned for VR. It's probably the most targeted to VR environments and supports finger tracking with an optional Leap Motion device. This lets you actually reach out and flip the switches and turn the knobs in the cockpit. 
-Aerofly FS2: https://store.steampowered.com/app/434030/Aerofly_FS_2_Flight_Simulator/ - A nicely polished flight sim. Not the most feature packed but worth a visit. It's my go-to when I want to quickly hop into a flight sim and don't want to tinker as much.
-DCS World https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/ This sim focuses on military aircraft, targeting systems etc. VR is supported.
-RC Sim training: Realflight 8 now supports VR headsets. This is great for learning how to pilot a RC plane or drone. You can buy their RC controller as well so that the controls feel accurate to the user. https://www.realflight.com/products/rf8/index.php?moreinfo=features
+- FlyInside Flight Sim: This is a fork of the popular Microsoft Flight simulator product redesigned for VR. It's probably the most targeted to VR environments and supports finger tracking with an optional Leap Motion device. This lets you actually reach out and flip the switches and turn the knobs in the cockpit. 
+- Aerofly FS2: https://store.steampowered.com/app/434030/Aerofly_FS_2_Flight_Simulator/ - A nicely polished flight sim. Not the most feature packed but worth a visit. It's my go-to when I want to quickly hop into a flight sim and don't want to tinker as much.
+- DCS World https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/ This sim focuses on military aircraft, targeting systems etc. VR is supported.
+- RC Simulation training: Realflight 8 now supports VR headsets. This is great for learning how to pilot a RC plane or drone. You can buy their RC controller as well so that the controls feel accurate to the user. https://www.realflight.com/products/rf8/index.php?moreinfo=features
 
 Hardware
 - You'll need a decent PC to run any of these programs. Flight simulators in particular are particularly resource-heavy. Make sure your CPU is at least an i7 or i9 (or equivalent), that you have as much RAM as you can afford and that you spend some money on a decent video card (the nVidia 2080ti model is the current leader in consumer video card performance.)
