@@ -1,9 +1,9 @@
 ---
 author: ammon-shepherd
 start_date: 2019-03-04
-start_time: '13:00:00'
+start_time: '11:00:00'
 end_date: '2019-03-04'
-end_time: '14:30:00'
+end_time: '12:30:00'
 layout: events
 slug: raspberry-pi-workshop-2019-03-04
 title: 'Raspberry Pi Workshop'
