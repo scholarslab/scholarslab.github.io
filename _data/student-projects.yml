@@ -14,6 +14,14 @@
   image_path: 
   description: '"Digital Skriker" explores both the theoretical cruxes and archival possibilities enabled by robust and increasingly accessible motion capture and virtual reality technologies using Caryl Churchill’s play, The Skriker (1994) as a case study. I’m interested not only in how these technologies might change the way we think about documenting stage movement and gesture, but also how they may enable new modes of performance, using "digital" space and nonhuman  actors as part of an immersive and/or site-specific theatre practice.'
   posts: ["starting-out-on-the-right-foot-(part-two)","starting-off-on-the-right-foot-part-one"]
+- title: Architectural Adaptation in the Roman West
+  years: 2018-2019
+  student: Sean Tennant
+  type: Graduate Fellow
+  url: 
+  image_path: 
+  description: This dissertation project employs network analysis methods and technologies to examine the archaeological remains of domestic spaces in the Roman provinces of northwestern Europe. Using spatial statistics and a multiscalar application of network theory, the study explores the idea of a culturally-specific use of space, tracked through treating each archaeological context as a network, and then following changes over time that might speak to processes of assimilation and cultural adaptation as the frontier provinces of Europe were integrated more fully into the Roman socio-political sphere of influence. In addition to network anaylsis methods, the project also employs space syntax methods for looking at architectural arrangements, as well as ArcGIS for visualization and coding in R and Python for data analysis.
+  posts: []
 - title: Measured Unrest in the Poetry of the Black Arts Movement
   years: 2017-2018
   student: Ethan Reed
