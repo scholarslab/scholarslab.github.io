@@ -21,3 +21,5 @@ Beth's work will include advocating and building for users of our [NEH-funded Ne
 - refining existing documentation through user testing and community feedback  
 - responding to requests for technical support related to the grant projects via email, the project’s forum, and in-person consultation  
 - other support for our staff doing design and development work, such as organizing and commenting on existing code, designing and coding proofs of concept, and participating in code and design reviews  
+
+Welcome, Beth!
