@@ -1,11 +1,11 @@
 ---
 author: brandon-walsh
-start_date: 2019-02-06
+start_date: 2019-02-07
 start_time: '14:00:00'
-end_date: '2019-02-06'
+end_date: '2019-02-07'
 end_time: '16:00:00'
 layout: events
-slug: minimal-computing-workshop-2019-02-06
+slug: minimal-computing-workshop-2019-02-07
 title: 'Minimal Computing Workshop'
 location: 'Alderman 421'
 instructor: "Alex Gil"

@@ -1,8 +1,8 @@
 ---
 author: Brandon-Walsh
-start_date: 2019-02-07
+start_date: 2019-02-08
 start_time: '10:00:00'
-end_date: '2019-02-07'
+end_date: '2019-02-08'
 end_time: '12:00:00'
 layout: events
 slug: nimble-tents-xpmethod-tornapart
