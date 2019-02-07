@@ -1,6 +1,6 @@
 ---
 department: Architecture
-email: None 
+email: None
 first_name: Elizabeth
 last_name: Mitchell
 layout: people
