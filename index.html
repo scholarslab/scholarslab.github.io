@@ -135,7 +135,7 @@ title: Home
             {% assign today = site.time | date: '%Y%m%d' | plus:0 %}
             {% for event in allevents %}
                 {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-                {% if eventdate > today %}
+                {% if eventdate >= today %}
                     {% assign events = events | push: event %}
                 {% endif %}
             {% endfor %}
