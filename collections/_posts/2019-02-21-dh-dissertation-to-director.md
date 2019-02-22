@@ -10,7 +10,7 @@ tags:
 - Digital Humanities
 ---
 
-A colleague recently asked me about how I draw on my DH dissertation experience ([https://dr.amandavisconti.com](https://dr.amandavisconti.com)) in my work co-directing the Scholars' Lab. Below, I share the rough notes I typed up in response about the first couple such dissertation-director connections that came to mind:
+A colleague recently asked me about how I draw on my DH dissertation experience ([dr.amandavisconti.com](https://dr.amandavisconti.com)) in my work co-directing the Scholars' Lab. Below, I share the rough notes I typed up in response about the first couple such dissertation-director connections that came to mind:
 
 ## Digital humanities < experimental humanities  
 Getting to do an [unusually shaped dissertation](http://literaturegeek.com/tag/dissertation/) meant doing a lot of meta-dissertational work analyzing and synthesizing precedents for making as scholarship, dissertations that didn’t produce written chapters, and experimental scholarly methods and formats more generally. I not only needed to prove that such work could reach the goals of a dissertation, but that my research design choices also fit tmy particular research questions. It was profoundly useful to work through what I thought was the best research design for my questions, and then also find the language to convince others of this as well. I do not want to add more barriers to the dissertation process for anyone, but it does seem mildly unfortunate to me that most humanities dissertation creators aren’t encouraged and supported to explore multiple research aproaches and argue for why their project format is the best fit for their research questions, rather than treating written chapters as the only choice.  
