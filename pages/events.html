@@ -18,11 +18,11 @@ notes:
 		<div class="events-gallery">
             <h2>Upcoming Events</h2>
 			{% assign events = site.events | sort: 'start_date' %}
-            {% assign today = site.time | date: '%Y%m%d' | plus:0 %}            
+            {% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
 			<!-- event layout: -->
 			{% for event in events %}
             {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}            
-            {% if eventdate > today %}
+            {% if eventdate >= today %}
 			<section class="events-gallery__item">
 				<div class="events-item__date">
 					<div>{{ event.start_date | date: "%b" }}<br/>{{ event.start_date | date: "%-d" }}</div>
@@ -59,13 +59,16 @@ notes:
 
 <ul class="page-previous_posts">
 {% for event in events reversed %}
-
-  {% assign currentdate = event.start_date | date: "%Y" %}
-  {% if currentdate != date %}
+  {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+  {% if eventdate >= today %}
+    {% continue %}
+  {% endif %}
+  {% assign currentyear = event.start_date | date: "%Y" %}
+  {% if currentyear != year %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h3>{{ currentdate }}</h3>
+    <h3>{{ currentyear }}</h3>
     <ul>
-    {% assign date = currentdate %}
+    {% assign year = currentyear %}
   {% endif %}
   
 <li>

@@ -5,7 +5,7 @@ title: Home
 
 <article class="home-wrapper">
 	<header class="home-landing-wrapper">
-{% include snowday.html %}
+<!-- {% include snowday.html %} -->
 		<div class="home-landing__big-title">
 			<div class="home-title__text">
 				<span class="show-if-big--css">We are<br/>a community<br/>for experimental<br/>scholarship.</span>
@@ -135,7 +135,7 @@ title: Home
             {% assign today = site.time | date: '%Y%m%d' | plus:0 %}
             {% for event in allevents %}
                 {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-                {% if eventdate > today %}
+                {% if eventdate >= today %}
                     {% assign events = events | push: event %}
                 {% endif %}
             {% endfor %}
