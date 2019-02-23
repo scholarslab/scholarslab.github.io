@@ -34,7 +34,7 @@ nav: true
           <a href="/people/{{ person.slug }}/" aria-label="{{ person.title }}">
             <div class="people-item__img">
             {% if profile_pic == empty %}
-              <img src="{{ site.baseurl }}/assets/img/people/grid/scholarslab.png" alt="Scholars' Lab Lab">
+              <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
             {% else %}
               {% for pic in profile_pic %}
               {% if pic.path contains 'grid' %}
