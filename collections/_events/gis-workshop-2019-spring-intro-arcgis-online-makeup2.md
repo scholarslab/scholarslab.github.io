@@ -6,7 +6,7 @@ end_date: '2019-03-06'
 end_time: '14:00:00'
 layout: events
 slug: gis-workshop-2019-spring-intro-arcgis-online-makeup2
-title: 'Introduction to ArcGIS Online'
+title: 'Introduction to ArcGIS Online, Snow Day Makeup'
 location: 'Alderman 421'
 ---
 
