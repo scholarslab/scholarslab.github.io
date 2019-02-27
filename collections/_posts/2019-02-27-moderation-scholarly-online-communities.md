@@ -52,16 +52,19 @@ The project team would identify and invite 10 experts in online learning communi
  
 ## Outcomes
 We will identify project staffers with expertise in ethical design practices, and charge them with holding our focus on improving online communities for marginalized identities, while also documenting and publishing the conversations and findings occurring through the planning phase to ensure others can build on our work. During this grant’s planning phase we will create:  
-An annotated bibliography and reading list  
-A symposium whitepaper covering the ideas, best practice suggestions, and conversations a diverse advisory board of experts generate during the symposium  
-A public conversation around crediting moderation labor and improving community moderation, connecting scholars interested in this work  
-A written plan outlining next steps for pilot projects designing, building, and assessing various technical and social features for their impact on online community moderation.  
+* An annotated bibliography and reading list  
+* A symposium whitepaper covering the ideas, best practice suggestions, and conversations a diverse advisory board of experts generate during the symposium  
+* A public conversation around crediting moderation labor and improving community moderation, connecting scholars interested in this work  
+* A written plan outlining next steps for pilot projects designing, building, and assessing various technical and social features for their impact on online community moderation.  
 
 Experimental approaches may include:  
-Strategies to protect users from one another, unwanted surveillance, or commercial interests  
-Documented design-driven approaches to building more ethical academic social media platforms  
-A code of conduct template in support of community design labor  
-Model a technical platform for online learning communities that is designed from the start with an ethic of care, with particular focus on making the system useful to those identities usually marginalized by commercial social media platforms  
-Text analysis results discussion from analysis of DH Slack community vocabulary and sentiment  
+* Strategies to protect users from one another, unwanted surveillance, or commercial interests  
+* Documented design-driven approaches to building more ethical academic social media platforms  
+* A code of conduct template in support of community design labor  
+* Model a technical platform for online learning communities that is designed from the start with an ethic of care, with particular focus on making the system useful to those identities usually marginalized by commercial social media platforms  
+* Text analysis results discussion from analysis of DH Slack community vocabulary and sentiment  
 
+## Interested? Know things?
 If anything in this post interests you (future collaboration?), overlaps with your current work, or could benefit from my reading and citing you or others, please let me know at visconti@virginia.edu. Thank you!
+
+_Thanks to colleagues Jeremy Boggs, Katherine Donnally, Shane Lin, Laura Miller, and Brandon Walsh for co-designing of the grant proposal, and to Ammon Shepherd for helping me think about the technical sustainability aspects of better online moderation experiences._
