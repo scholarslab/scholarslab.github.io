@@ -21,7 +21,7 @@ I write from my experiences moderating both my digital dissertation project Infi
 I do want to note that the challenges of moderating online DH and other academic/professional communities are, at least for me, privileged through my ability to choose my level of work (or opt out completely) without hurting my livelihood or family; compared with the pain, lack of compensation, lack of respect, and more evils experienced by folks like those who moderate YoutTube and Facebook, working with smaller communities that have some norms (though inequitable) and professional consequences (though often used as a weapon against rather than a protector of folks with marginalized identities) are less pressing problems. 
 
 ## Why I'm blogging today
-This post is largely drawn from a non-successful IMLS pre-proposal I PI'd (Spring 2018) for an NLG planning grant to explore, identify key challenges, and plan pilot community experiments to aid the foundational labor of moderators underpinning online learning communities, titled "**A Moderate Proposal**: Recognizing and Reinforcing Online Community Moderation to Benefit Diverse Learners" and co-designed with colleagues Jeremy Boggs, Katherine Donnally, Shane Lin, Laura Miller, and Brandon Walsh. (If you like the title pun, you may also appreciate that our proposal drafting GDoc was titled "DigitalHumanities.club", after the domain that I own because it's awesome, but that I was also using to explore Mastodon and Mattermost for better communities.)
+This post is largely drawn from a non-successful IMLS pre-proposal I PI'd (Spring 2018) for an NLG planning grant to explore, identify key challenges, and plan pilot community experimental approaches to aid the foundational labor of moderators underpinning online learning communities, titled "**A Moderate Proposal**: Recognizing and Reinforcing Online Community Moderation to Benefit Diverse Learners" and co-designed with colleagues Jeremy Boggs, Katherine Donnally, Shane Lin, Laura Miller, and Brandon Walsh. (If you like the title pun, you may also appreciate that our proposal drafting GDoc was titled "DigitalHumanities.club", after the domain that I own because it's awesome, but that I was also using to explore Mastodon and Mattermost for better communities.)
 
 I finally got around to this post due to cool stuff two DHers are up to:  
 1. [Scott Weingart's Twitter thread](https://twitter.com/scott_bot/status/1100387484930854913) on [Casey Newton's recent article](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona). 
@@ -57,7 +57,7 @@ A symposium whitepaper covering the ideas, best practice suggestions, and conver
 A public conversation around crediting moderation labor and improving community moderation, connecting scholars interested in this work  
 A written plan outlining next steps for pilot projects designing, building, and assessing various technical and social features for their impact on online community moderation.  
 
-Experiments may include:  
+Experimental approaches may include:  
 Strategies to protect users from one another, unwanted surveillance, or commercial interests  
 Documented design-driven approaches to building more ethical academic social media platforms  
 A code of conduct template in support of community design labor  
