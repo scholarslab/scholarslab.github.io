@@ -38,7 +38,7 @@ I began by simply asking the students to describe what they saw, framing the act
 
 These provocations led to an interesting conversation about accessibility, design, and assumed expertise. I especially wanted the students to note how the GUI makes immediately apparent a range of options to the user. But those options are also limited. The interface sacrifices possibility for practicality, and it can never give you every possible option. This discussion set us up well for the next image I presented to them - a terminal window.
 
-![terminal window]({{ root_url }}/assets/images/terminal.jpg)
+![terminal window]({{ root_url }}/assets/post-media/terminal.jpg)
 
 Again, I paused for discussion, asking questions that directed the students to the lack of clearly visible options in the terminal and how this suggested an assumption that its users would have a certain level of expertise. For better or for worse, it assumes that you know what you're doing. I could have just told the students all this, of course, but I wanted them to arrive at these ideas themselves. So I mostly framed the activity with questions and helped to direct discussion, just as I would in directing close reading of a passage in a novel. In some small way, I hoped the activity would show them that the close reading and analytical skills they developed in other English classes would still be applicable here, even though the objects of study might be different and even though they might feel a bit at sea.
 
