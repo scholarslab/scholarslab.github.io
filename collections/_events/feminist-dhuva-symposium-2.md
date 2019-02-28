@@ -7,7 +7,7 @@ end_time: '16:30:00'
 layout: events
 slug: feminist-dhuva-symposium-2
 title: 'Feminist DH@UVA II:Intersectionality and Doing Justice to/with Data'
-location: 'Alderman 421'
+location: 'Alderman Library, Room 421'
 ---
 
 ## A symposium at the Scholars’ Lab, University of Virginia Library
