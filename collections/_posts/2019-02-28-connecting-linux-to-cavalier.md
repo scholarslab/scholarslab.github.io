@@ -85,4 +85,4 @@ There is no gui network manager, so all entries must be done manually.
 # Final Remarks
 
 If you find any errors in this post, or would like to comment, please send an email to
-[scholarslab@vriginia.edu](mailto:scholarslab@vriginia.edu).
+[scholarslab@vriginia.edu](mailto:scholarslab@virginia.edu).
