@@ -6,7 +6,7 @@ end_date: '2019-03-29'
 end_time: '16:30:00'
 layout: events
 slug: feminist-dhuva-symposium-2
-title: 'Feminist DH@UVA II:Intersectionality and Doing Justice to/with Data'
+title: 'Feminist DH@UVA II: Intersectionality and Doing Justice to/with Data'
 location: 'Alderman Library, Room 421'
 ---
 
