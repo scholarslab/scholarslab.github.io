@@ -37,20 +37,17 @@ There is no gui network manager, so all entries must be done manually.
     1. Enter your netbadge password for all three prompts. No symbols will show as you type.
     2. Your .pem file may now be located at /home/pi/Desktop/yourNetBadgeID.pem. Make sure to note the location of your .pem file.
 5. Open terminal and type `sudo nano /etc/network/interfaces` 
-6. Add the following text to this file `iface wlan0 inet manual` next line, `wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf`
-    - It should look like this
-    - 
+6. Add the following text to this file `iface wlan0 inet manual` next line, `wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf` It should look like this:
+
     ```
     iface wlan0 inet manual
     wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf
     ```
+
 7. To save the file and quit nano, press 'Control X', Y, Enter
 8. In terminal again, type `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`
-9. Add to this file: `network={` newline, `ssid="cavalier"` newline, `eap=TLS` newline, `auth_alg=OPEN` newline, `ket_mgmt=WPA-EAP` newline, `identity="yourNetBadgeID@Virginia.EDU"` newline, `ca_cert="/home/pi/Desktop/yourNetBadgeID.pem"` newline, `client_cert="/home/pi/Desktop/yourNetBadgeID.pem"` newline, `private_key="/home/pi/Desktop/yourNetBadgeID.pem"` newline, `private_key_passwd="yourNetBadgePass"` newline, `}` Note the private_key_passwd is without the "or". 
+9. Add the following to this file:  
 
-    - Note the capitalization in the identity line. It should look like "Virginia.EDU"
-    - The file should look like this:
-    - 
     ```
     network={
         ssid="cavalier"
@@ -65,6 +62,7 @@ There is no gui network manager, so all entries must be done manually.
     }
 
     ```
+
 10. Now, Control X, Y, Enter
 11. Find the wlan0 MAC address of your Pi from typing `iwconfig wlan0` and getting the "ether" value. Register this at [http://netreg.virginia.edu ](http://netreg.virginia.edu) with your UVA account.
 12. Reboot the Pi and it should automatically connect to the 'cavalier' network. If an error shows in the Pi's network monitor, type `wpa_cli status` in terminal to see if it is really connected or searching.
