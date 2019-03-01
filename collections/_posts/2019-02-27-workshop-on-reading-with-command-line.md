@@ -10,7 +10,7 @@ tags:
 - Digital Humanities
 ---
 
-*Crossposted to my [blog](http://walshbr.com/blog/workshop-on-reading-with-command-line)*
+*Crossposted to my [blog](http://walshbr.com/blog/teaching-and-reading-with-command-line/)*
 
 Alison Booth and I are co-teaching a graduate course this semester on Digital Literary Studies. As a part of the course, we're having a series of technical workshops - command line, Python, text analysis, encoding, and markup. The scheduling worked out such that these workshops wound up being on Wednesdays, with the discussions of critical theory on digital humanities and literary method mostly on Mondays. That's all fine and good, but I worried that neatly dividing the class out in that way would create a divide between the one day of the week when the students were actively discussing the material in the course and the other when they were mostly in hands-on workshops. Rather than having a hacking day and a yacking day, I wanted to see what I could do to create an environment for hack-yacking. So when I taught the first workshop on command line, I wanted to try something slightly different from what I normally do by making more room for discussion. I wanted to bring the Monday readings and conversations back into the Wednesday workshops.
 
