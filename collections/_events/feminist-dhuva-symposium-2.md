@@ -38,4 +38,4 @@ Moderator: TBD
 
 4:30pm Reception
 
-Please contact [Alison Booth](mailto:ab6j@virginia.edu) or [Laura Miller](lam2c@virginia.edu) in the Scholars’ Lab for more information. This event is sponsored by the UVA Library’s Scholars‘ Lab, with generous support by the Carter G. Woodson Institute, Citizen Justice Initiative; Women, Gender, and Sexuality Department; the English Department; IHGC’s Humanities Informatics Lab and Network/Corpus Research Group.
+Please contact [Alison Booth](mailto:ab6j@virginia.edu) or [Laura Miller](mailto:lam2c@virginia.edu) in the Scholars’ Lab for more information. This event is sponsored by the UVA Library’s Scholars‘ Lab, with generous support by the Carter G. Woodson Institute, Citizen Justice Initiative; Women, Gender, and Sexuality Department; the English Department; IHGC’s Humanities Informatics Lab and Network/Corpus Research Group.
