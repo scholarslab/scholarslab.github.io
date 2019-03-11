@@ -4,7 +4,7 @@ author:
 - ammon-shepherd
 - amanda-visconti
 - Lauren Work
-date: 2019-03-08 15:33:18
+date: 2019-03-11 15:33:18
 layout: post
 slug: archiving-dh-part-2-the-problem-in-detail
 title: "Archiving DH Part 2: The Problem in Detail"
