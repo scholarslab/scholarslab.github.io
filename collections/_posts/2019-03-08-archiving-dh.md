@@ -1,9 +1,9 @@
 ---
 author: 
-- brandon-butler
+- Brandon Butler
 - ammon-shepherd
 - amanda-visconti
-- lauren-work
+- Lauren Work
 date: 2019-03-08 15:33:18
 layout: post
 slug: archiving-dh-part-2-the-problem-in-detail
