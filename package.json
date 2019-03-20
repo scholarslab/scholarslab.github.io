@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/scholarslab/scholarslab.org#readme",
   "dependencies": {
-    "jquery": "^3.2.1",
-    "lunr": "^2.1.4",
-    "moment": "^2.22.2"
+    "jquery": "^3.3.1",
+    "lunr": "^2.3.6",
+    "moment": "^2.24.0"
   },
   "devDependencies": {
     "gulp": "^4.0.0",
