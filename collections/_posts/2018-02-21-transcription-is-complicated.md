@@ -9,7 +9,8 @@ title: Transcription Is Complicated
 In a recent _PMLA_ issue on digital methods, Johanna Drucker concludes her article [“Why Distant Reading Isn’t”](http://www.mlajournals.org/doi/abs/10.1632/pmla.2017.132.3.628) by claiming that distant reading’s
 
 
-<blockquote>literalness makes it the closest form of reading imaginable. What distant reading lacks is distance. That distance is critical; it is the space between the literal text and the virtual text, between the inscriptional, notational surface and the rhetorical, cognitive effect that produces a text. (633)</blockquote>
+<blockquote>literalness makes it the closest form of reading imaginable. What distant reading lacks is distance. That distance is critical; it is the space between the literal text and the virtual text, between the inscriptional, notational surface and the rhetorical, cognitive effect that produces a text. (633)
+</blockquote>
 
 
 In other words, when an algorithm “reads” a corpus by scouring it for patterns of one kind or another, it doesn’t transform the text the way that a human reader does. It can get so “close” because it reads without the powerful and dynamic cognitive filters through which human readers conjure, out of the written word, literary worlds. For Drucker, closing the gap between “reader” and text in this way is one of the things that makes distant reading “the closest form of reading imaginable.”
@@ -58,7 +59,8 @@ In considering these questions, I find helpful the vocabulary used by textual sc
 Though they may seem abstract, conceptual distinctions such as these have emerged from some of the most concrete, hands-on, rubber-meets-the-road scholarship in literary thought&mdash;for example, the kind of thinking that goes into examining multiple versions of a work (like [_King Lear_](https://en.wikipedia.org/wiki/King_Lear#Date_and_text)) so as to produce a single scholarly edition. A distinction like Tanselle’s between texts of documents and texts of works offers a guiding light for scholar down in the often bewildering weeds of a given archive. As Tanselle argues in [“Textual Criticism and Deconstruction,”](https://www.jstor.org/stable/40371919)
 
 
-<blockquote>The distinction between the texts of documents (handwritten or printed, private or published) and the texts of works is basic to textual criticism. The effort to “reconstruct” or “establish” the texts of works presupposes that the texts we find in documents cannot automatically be equated with the texts of the works that those documents claim to be conveying. (1)</blockquote>
+<blockquote>The distinction between the texts of documents (handwritten or printed, private or published) and the texts of works is basic to textual criticism. The effort to “reconstruct” or “establish” the texts of works presupposes that the texts we find in documents cannot automatically be equated with the texts of the works that those documents claim to be conveying. (1)
+</blockquote>
 
 
 In other words, scholars must exercise a great deal of judgement as they try to reconcile meaningful&mdash;and sometimes extremely significant&mdash;discrepancies between versions of a given physical text as found in physical documents in their efforts to determine the text of the work itself. The role that “intentions” play in all this&mdash; as in the words that were meant to be put down&mdash;and how best to account for the mediating forces and actors at work in the publication of a book, is a point of debate in textual scholarship, often dependent on the kinds of research questions one hopes to investigate (for more reading here, see D F. McKenzie’s [_Bibliography and the Sociology of Texts_](https://www.cambridge.org/core/books/bibliography-and-the-sociology-of-texts/CF5FE52FD90E0B79D8583FF675C4923D), Jerome McGann’s [_The Textual Condition_](https://press.princeton.edu/titles/4894.html), and Tanselle’s [“Textual Criticism and Literary Sociology”](https://www.jstor.org/stable/40371938)). And as many scholars have argued, these conceptual distinctions central to textual criticism and thought extend to digital artifacts as well&mdash;see, for example, Matthew Kirschenbaum’s [“.txtual condition.”](http://www.digitalhumanities.org/dhq/vol/7/1/000151/000151.html) Scholarship such as this helps me to think through how a hand-typed .txt file of _We A BaddDDD People_ relates to a physical codex made of paper and ink.
@@ -72,7 +74,8 @@ So I want to offer a couple more examples of typographical concerns that came up
 The first has to do with stanza breaks. In my day-to-day reading practice, identifying a stanza break usually feels straightforward: lines grouped together in a poem, probably separated by white space. Digging a little deeper, [_The Princeton Encyclopedia of Poetry & Poetics_](https://press.princeton.edu/titles/9677.html) begins its entry by defining a stanza as “a unit of poetic lines organized by a specific principle or set of principles” (1358). Likewise, [_T__he Oxford Dictionary of Literary Terms_](http://www.oxfordreference.com/view/10.1093/acref/9780199208272.001.0001/acref-9780199208272-e-1080?rskey=bxV0Ev&result=1081) defines a stanza first and foremost as
 
 
-<blockquote>A group of verse lines forming a section of a poem and sharing the same structure as all or some of the other sections of the same poem, in terms of the lengths of its lines, its metre, and usually its rhyme scheme. In printed poems, stanzas are separated by spaces.</blockquote>
+<blockquote>A group of verse lines forming a section of a poem and sharing the same structure as all or some of the other sections of the same poem, in terms of the lengths of its lines, its metre, and usually its rhyme scheme. In printed poems, stanzas are separated by spaces.
+</blockquote>
 
 
 While this definition doesn’t help us much with something like Sanchez’s “a/coltrane/poem”&mdash;a poem that more or less flies in the face of traditional stanzaic form&mdash;it does seem like it would help us if we wanted to make a “stanza” a parameter in our analytical models, or even in figuring out how best to separate lines and stanzas in our text files.
@@ -88,7 +91,8 @@ dark meat will roast as fast as whi-te meat
 especially in
 the unitedstatesofamerica’s
 new
-self-cleaning ovens.</blockquote>
+self-cleaning ovens.
+</blockquote>
 
 
 For a few reasons, I decided to transcribe these two sections as a single stanza. First, at a more visual, design level, the poem has no other stanzas as short as two lines. The book as a whole, in fact, has very few two-line stanzas, and while there are a few single unattached lines, they usually come right at the end of a poem. In comparison with the rest of the poem and the other poems in the collection, then, it seemed more likely to be a larger stanza than not.
@@ -102,7 +106,8 @@ This is not to say that other poems in this volume don’t break up grammatical 
 has been replaced with a
 dashiki wearing rip-off
 who went to city college
-majoring in physical education.</blockquote>
+majoring in physical education.
+</blockquote>
 
 
 This stanza develops, from line to line, a description of&mdash;and stance towards&mdash;this “dashiki wearing rip-off” who replaces the “double-breasted hipster.” Each line builds on the last, slowly unfolding different aspects of how one figure “has been replaced” with another: the speaker discloses a skeptical attitude towards these figures, identified by what they wear, where they went to school, and what they studied. Like the stanza with the page break, this group of lines seems to me to develop a coherent line of thought that doesn’t spill over into subsequent stanzas.
@@ -118,7 +123,8 @@ One last example. Lines of poetry can get very long. Sometimes, lines get too lo
 The _CMS_ defines runovers as “the remainder of lines too long to appear as a single line,” which are “usually indented one em from the line above.” In other words, when lines get too long&mdash;as in Ginsberg’s poetry, or Walt Whitman’s&mdash;a hanging indent about an em-dash in length tells the reader that the line was too long for the book. The entry concludes, however, by indicating that it might not always be so clear when an indentation is a runover and when it’s a new line:
 
 
-<blockquote>Runover lines, although indented, should be distinct from new lines deliberately indented by the poet … Generally, a unique and uniform indent for runovers will be enough to accomplish this.</blockquote>
+<blockquote>Runover lines, although indented, should be distinct from new lines deliberately indented by the poet … Generally, a unique and uniform indent for runovers will be enough to accomplish this.
+</blockquote>
 
 
 As we’ve seen already just in this post, much of poetry in my corpus rebels against traditional poetic form, including standard indentation and spacing practices. Determining whether or not a group of words is one or two lines, however, is extremely important for my project. The “line” is the basic unit I’ve been asking sentiment analysis tools in TextBlob and NLTK to evaluate for sentiment. In short: what counts as a line really matters, and ambiguities surrounding runovers could very well add up to have a significant impact on the results of my analyses.
