@@ -31,16 +31,19 @@ Over the course of the past few weeks, I found that this hairs-breadth, closest-
 
 Take, for example, lines from “a/coltrane/poem,” the final poem from Sonia Sanchez’s 1970 collection _We A BaddDDD People_ (and a poem that got me listening to Coltrane’s music while transcribing):
 
-(soft rise up blk/people. rise up blk/people
-chant) RISE. & BE. what u can.
-MUST BE.BE.BE.BE.BE.BE.BE.BE-E-E-E-E-
-BE-E-E-E-E-E-
-yeh. john coltrane.
-my favorite things is u.
+<blockquote>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(soft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rise up blk/people.&nbsp;&nbsp;rise up blk/people<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chant)&nbsp;&nbsp;&nbsp;RISE.&nbsp;&nbsp;&amp;&nbsp;&nbsp;BE.&nbsp;&nbsp;what u can.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MUST BE.BE.BE.BE.BE.BE.BE.BE-E-E-E-E-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BE-E-E-E-E-E-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yeh. john coltrane.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my favorite things is u.<br>
+</blockquote>
 
-Like many of the poems from _We A BaddDDD People_, “a/coltrane/poem” makes dramatic use of indentation, punctuation, the spaces between words, and the spaces between lines. Even transcribing these lines to be published here on the Scholars’ Lab WordPress site, however, raises a number of technical and practical issues. For example, there is no easy way to produce this kind of whitespace in HTML. When web browsers parse the whitespace in poetry&mdash;indentation, tabs, etc.&mdash;they more or less get rid of it. While investigating the poetry of Mina Loy, Andrew Pilsch argues in [his chapter in _Reading Modernism with Machines _](https://www.palgrave.com/us/book/9781137595683)that “the nature of HTML resists&mdash;even _prevents_&mdash;the easy introduction of … typographic experimentation” (245)&mdash;something he discusses earlier on [his blog](https://andrew.pilsch.com/blog/2014/06/24/mina-loy-online-we-turn-into-machines/). Like Pilsch, I ended up having to make use of [the "&nbsp" space](https://en.wikipedia.org/wiki/Non-breaking_space)&mdash;something Pilsch discusses more in-depth&mdash;to shoehorn spaces into the poem so it would appear correctly, I hope, in web browsers. This means that, in HTML, the above section of poetry looks like this:
+Like many of the poems from _We A BaddDDD People_, “a/coltrane/poem” makes dramatic use of indentation, punctuation, the spaces between words, and the spaces between lines. Even transcribing these lines to be published here on the Scholars’ Lab WordPress site, however, raises a number of technical and practical issues. For example, there is no easy way to produce this kind of whitespace in HTML. When web browsers parse the whitespace in poetry&mdash;indentation, tabs, etc.&mdash;they more or less get rid of it. While investigating the poetry of Mina Loy, Andrew Pilsch argues in [his chapter in _Reading Modernism with Machines_](https://www.palgrave.com/us/book/9781137595683) that “the nature of HTML resists&mdash;even _prevents_&mdash;the easy introduction of…typographic experimentation” (245)&mdash;something he discusses earlier on [his blog](https://andrew.pilsch.com/blog/2014/06/24/mina-loy-online-we-turn-into-machines/). Like Pilsch, I ended up having to make use of [the "&nbsp" space](https://en.wikipedia.org/wiki/Non-breaking_space)&mdash;something Pilsch discusses more in-depth&mdash;to shoehorn spaces into the poem so it would appear correctly, I hope, in web browsers. This means that, in HTML, the above section of poetry looks like this:
 
 ![](http://static.scholarslab.org/wp-content/uploads/2018/02/snippet_from_coltrane_HTML.png)
+
+[Editor's note - in migrating this older post to the new slab.org web design the careful use of nonbreaking space characters got entirely stripped out and had to be recreated again.]
 
 In other words, a complete mess. But before trying to print parts of this poem in HTML through WordPress, at an even more basic level I had to get it into a text editor, a process which also raised a number of questions requiring practical decisions. As I type out the above lines into Atom, I have to ask: how many spaces should separate the words that seem to be a stage direction on the left&mdash; “(soft / … / chant)”&mdash;from the words on the right?
 
@@ -71,7 +74,7 @@ Again, part of the purpose of this post is to expand on just how complicated tra
 
 So I want to offer a couple more examples of typographical concerns that came up during my transcription process. Unlike extra spaces between words in a line, these issues also more directly impact the kinds of results my analysis aims to produce, as they impact what “counts” as a line or stanza in my model.
 
-The first has to do with stanza breaks. In my day-to-day reading practice, identifying a stanza break usually feels straightforward: lines grouped together in a poem, probably separated by white space. Digging a little deeper, [_The Princeton Encyclopedia of Poetry & Poetics_](https://press.princeton.edu/titles/9677.html) begins its entry by defining a stanza as “a unit of poetic lines organized by a specific principle or set of principles” (1358). Likewise, [_T__he Oxford Dictionary of Literary Terms_](http://www.oxfordreference.com/view/10.1093/acref/9780199208272.001.0001/acref-9780199208272-e-1080?rskey=bxV0Ev&result=1081) defines a stanza first and foremost as
+The first has to do with stanza breaks. In my day-to-day reading practice, identifying a stanza break usually feels straightforward: lines grouped together in a poem, probably separated by white space. Digging a little deeper, [_The Princeton Encyclopedia of Poetry & Poetics_](https://press.princeton.edu/titles/9677.html) begins its entry by defining a stanza as “a unit of poetic lines organized by a specific principle or set of principles” (1358). Likewise, [_The Oxford Dictionary of Literary Terms_](http://www.oxfordreference.com/view/10.1093/acref/9780199208272.001.0001/acref-9780199208272-e-1080?rskey=bxV0Ev&result=1081) defines a stanza first and foremost as
 
 
 <blockquote>A group of verse lines forming a section of a poem and sharing the same structure as all or some of the other sections of the same poem, in terms of the lengths of its lines, its metre, and usually its rhyme scheme. In printed poems, stanzas are separated by spaces.
@@ -85,13 +88,13 @@ But even in more traditionally stanzaic poems&mdash;of which there are many in m
 Consider, for example, a poem titled “Malcolm Spoke/ who listened?” from Haki R. Madhubuti’s 1969 collection _Don’t Cry, Scream_, published with Broadside Press. The poem is stanzaic, and distinguishes stanzas with what seem to me like normal breaks. These groupings, however, have no regular rhyme scheme, no regular use of capitalization, no regular number of lines, no tight thematic or narrative structure (i.e. a point of view that alternates from stanza to stanza), and no regular pattern in punctuation (i.e. some stanzas conclude with no punctuation while some conclude with a period). And, crucially, the poem extends partway onto a second page. These are the two groups of lines on either side of the page break:
 
 
-<blockquote>animals come in all colors.
-dark meat will roast as fast as whi-te meat
-[PAGE BREAK]
-especially in
-the unitedstatesofamerica’s
-new
-self-cleaning ovens.
+<blockquote>animals come in all colors.<br>
+dark meat will roast as fast as whi-te meat<br>
+[PAGE BREAK]<br>
+especially in<br>
+the unitedstatesofamerica’s<br>
+new<br>
+self-cleaning ovens.<br>
 </blockquote>
 
 
@@ -102,11 +105,11 @@ More convincingly, however, my feeling that these two chunks are one unit comes 
 This is not to say that other poems in this volume don’t break up grammatical expressions across stanzas&mdash;they definitely do. Other poems in this volume also develop specific metaphors or images over the course of several stanzas. But with this poem in particular, stanzas seem to be doing something else. Each has a kind of conceptual focus&mdash;they stand alongside one another as evenly-weighted, coherent units of expression. For example, the stanza preceding the one quoted above is as follows:
 
 
-<blockquote>the double-breasted hipster
-has been replaced with a
-dashiki wearing rip-off
-who went to city college
-majoring in physical education.
+<blockquote>the double-breasted hipster<br>
+has been replaced with a<br>
+dashiki wearing rip-off<br>
+who went to city college<br>
+majoring in physical education.<br>
 </blockquote>
 
 
