@@ -73,10 +73,10 @@ function resultSnippet(doc) {
     }
 
     a.dataset.field = 'title';
-    let slug = doc.id.split('-')
     a.href;
+
     if (doc.layout == 'post'){
-        a.href = '/' + slug[0] + '/' + slug[1] + '/' + slug[2] + '/' + doc.url;
+        a.href = '/blog/' + doc.url;
     } else  {
         a.href = '/' + doc.layout + '/' + doc.url;
     }
