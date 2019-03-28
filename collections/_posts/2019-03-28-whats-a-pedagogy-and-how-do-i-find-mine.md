@@ -3,7 +3,7 @@ author: brandon-walsh
 date: 2019-03-28 11:36:29
 layout: post
 slug: whats-a-pedagogy-and-how-do-i-find-mine
-title: What's A Pedagogy And How Do I Find Mine?
+title: What's A Pedagogy, and How Do I Find Mine?
 categories:
 - Digital Humanities
 tags:
