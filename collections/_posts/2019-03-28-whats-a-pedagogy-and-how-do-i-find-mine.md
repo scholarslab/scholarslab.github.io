@@ -12,7 +12,11 @@ tags:
 
 *Crossposted to my [blog](http://walshbr.com/blog/whats-a-pedagogy)*
 
-As part of the Scholars' Lab's year of blogging, Amanda asked me to write a little about my pedagogy and things that have helped me find it. When someone asks me to do such a thing, I always think about [a poll](https://twitter.com/Jessifer/status/996355913756893184?ref_src=twsrc%5Etfw) that Jesse Stommel put out on Twitter about pedagogical training in graduate programs. He asked, "Dear higher education teachers, a poll. Answer below, reply with stories, and pass along. How much training in teaching or pedagogy was/is included in your graduate program?" The majority of people responded to say their training amounted to "basically nothing."
+As part of the Scholars' Lab's year of blogging, Amanda asked me to write a little about my pedagogy and things that have helped me find it. When someone asks me to do such a thing, I always think about [a poll](https://twitter.com/Jessifer/status/996355913756893184?ref_src=twsrc%5Etfw) that Jesse Stommel put out on Twitter about pedagogical training in graduate programs. He asked:
+
+> Dear higher education teachers, a poll. Answer below, reply with stories, and pass along. How much training in teaching or pedagogy was/is included in your graduate program?
+
+The majority of people responded to say their training amounted to "basically nothing."
 
 I consider myself in the “basically nothing” category as well. My program did have a single semester course for pedagogical training, but for a variety of administrative reasons, it was possible to slip through the cracks and start teaching without any formal training. This is not to say there was no teaching _support_ - we did have the help of a faculty mentor while serving as a teaching assistant, and we graduate students had each other. But that kind of catch-as-catch-can approach to pedagogical training left me with what felt like a very spotty teaching background and loads of imposter syndrome. 
 
