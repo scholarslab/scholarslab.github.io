@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/scholarslab/scholarslab.org#readme",
   "dependencies": {
-    "jquery": "^3.2.1",
-    "lunr": "^2.1.4",
-    "moment": "^2.22.2"
+    "jquery": "^3.3.1",
+    "lunr": "^2.3.6",
+    "moment": "^2.24.0"
   },
   "devDependencies": {
     "gulp": "^4.0.0",
@@ -27,6 +27,7 @@
     "gulp-cli": "^2.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-insert": "^0.5.0",
-    "gulp-uglify-es": "^1.0.4"
+    "gulp-uglify-es": "^1.0.4",
+    "extend": "^3.0.2"
   }
 }

@@ -11,7 +11,7 @@ twitter_username: scholarslab
 permalink: /blog/:title/
 timezone: America/New_York
 # Build settings
-analytics: false
+analytics: true
 incremental: true
 sass:
   sass_dir: assets/css/_sass
