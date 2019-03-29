@@ -1,6 +1,6 @@
 ---
 author: ankita-chakrabarti
-date: 2019-03-28 01:00:00+00:00
+date: 2019-04-04 01:00:00+00:00
 layout: post
 slug: light-emitting-objects
 title: "Illumination Through Light Emitting Objects"
@@ -9,6 +9,7 @@ categories:
 - Research and Development
 tags:
 - Digital Humanities
+- Parents Fund
 ---
 # Illumination Through Light Emitting Objects in Unity 3D
 
