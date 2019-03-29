@@ -68,7 +68,7 @@ Note: Any object can be made to emit light within a scene by adding an emissive 
 
 ![Lightmapping Settings](/assets/post-media/light-emitters/9.png)
 
-- Finally, your indoor lighting scene should look something like this...
+- Finally, your indoor lighting scene should look something like this!
 
 ![Completed indoor lighting scene](/assets/post-media/light-emitters/10.png)
 
