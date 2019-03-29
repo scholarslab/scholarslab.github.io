@@ -22,8 +22,9 @@ Working collaboratively on a creative project not only makes the whole process a
 ![alt text for the image](/assets/post-media/sharing-unity/2.png)
 - This will take you to the Unity online Dashboard where you can add members to your team
 ![alt text for the image](/assets/post-media/sharing-unity/3.png)
-- Your teammates will be able to download the project once they have accepted the invitation
+- Your teammates will be able to download the project once they have accepted the invitation<br>
 ![alt text for the image](/assets/post-media/sharing-unity/4.png)
 - Remember to publish and download changes as they occur - the Collab icon will change colors to alert you of possible changes that your teammates have made
 ![alt text for the image](/assets/post-media/sharing-unity/5.png)
+<br>
 ![alt text for the image](/assets/post-media/sharing-unity/6.png)
