@@ -1,9 +1,9 @@
 ---
 author: first-last
 start_date: 2019-05-01
-start_time: '15:00:00'
+start_time: '10:30:00'
 end_date: '2019-05-01'
-end_time: '16:00:00'
+end_time: '13:00:00'
 layout: events
 slug: dh-fellows-final-presentation-spring-2019-05-01
 title: 'Dh Fellows Final Presentation - Spring 2019'
