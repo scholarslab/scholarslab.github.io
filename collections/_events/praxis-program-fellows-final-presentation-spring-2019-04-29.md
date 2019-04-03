@@ -1,9 +1,9 @@
 ---
 author: first-last
 start_date: 2019-04-29
-start_time: '15:00:00'
+start_time: '10:30:00'
 end_date: '2019-04-29'
-end_time: '16:00:00'
+end_time: '13:00:00'
 layout: events
 slug: praxis-program-fellows-final-presentation-spring-2019-04-29
 title: 'Praxis Program Fellows Final Presentation - Spring 2019'
