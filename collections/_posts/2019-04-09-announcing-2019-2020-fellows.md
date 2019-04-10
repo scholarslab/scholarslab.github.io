@@ -29,8 +29,8 @@ Look forward to more details about the Praxis Program’s new project in the fal
 
 Finally, we are looking forward to working with Jordan Buysse and Leigh Miller, our 2019-2020 Graduate Fellows in the Digital Humanities.
 
-*	Jordan Buysse's (English, GSAS) dissertation is titled, Dissertation title
-*	Leigh Miller's (Constructed Environment, School of Architecture) dissertation is titled, Dissertation title
+*	Jordan Buysse's (English, GSAS) dissertation is titled "The Word and the Bit: Information and 20th/21st Century Literature"
+*	Leigh Miller's (Constructed Environment, School of Architecture) dissertation is titled, "Being and Place in(between) Video Game Worlds"
 
 These fellows will work with our team throughout the year and over the summer on substantial research projects related to their dissertations. They join a vibrant community of students working in the lab in the coming year as Makerspace Technologists, Cultural Heritage Interns, GIS Technicians, and more.
 
