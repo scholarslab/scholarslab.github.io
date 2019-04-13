@@ -22,8 +22,10 @@ Manual sketching is the most traditional method, which uses software like Sketch
 ### Images and Informational Links
 [*Sketchup*](https://www.sketchup.com/)
 ![Sketchup image example](https://www.sketchup.com/sites/www.sketchup.com/files/su-opengraph.jpg)
+
 [*Maya*](https://www.autodesk.com/products/maya/overview)
 ![Maya image example](http://cdn.studiodaily.com/wp-content/uploads/2019/01/maya_2019_cached-playback.png)
+
 [*Rhino 3D*](https://www.rhino3d.com/)
 ![Rhino 3D image example](https://www.3dprinter.net/wp-content/uploads/2014/01/rhino-3d.jpg)
 
@@ -32,8 +34,10 @@ Similar to how the above tools are used on a traditional mouse and keyboard inte
 ### Images and Informational Links
 [*Blocks*](https://vr.google.com/blocks/)
 ![Blocks image example](https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2017/07/google-blocks.jpg)
+
 [*Tilt Brush*](https://www.tiltbrush.com/)
 ![Tilt Brush image example](https://i.ytimg.com/vi/TckqNdrdbgk/maxresdefault.jpg)
+
 [*MasterpieceVR*](https://www.masterpiecevr.com/)
 ![MasterpieceVR image example](https://i.ytimg.com/vi/bw1PoyHaCyE/maxresdefault.jpg)
 
@@ -46,6 +50,7 @@ Photogrammetry is a labor-intensive but simple way to create a 3D file of a real
 ### Images and Informational Links
 [*How Photogrammetry Works*](https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/13313/Photogrammetry-Explained-The-State-of-Reality-Capture.aspx)
 ![Photogrammetry Process image example](https://qph.fs.quoracdn.net/main-qimg-3c963a747b0552885222bbf128df7e22)
+
 [*Taking Good Pictures for Photogrammetry*](http://gmv.cast.uark.edu/photogrammetry/hardware-photogrammetry/canon-5d-mark-ii/canon-5d-checklist/good-photos-vs-bad-photos-for-close-range-photogrammetry/)
 ![Tree image example](https://www.allegorithmic.com/sites/default/files/Image2.jpg)
 
@@ -54,5 +59,6 @@ Finally, 3D scanning employs sophisticated tools that simplify the process subst
 ### Images and Informational Links
 [*How 3D Scanning Works*](https://www.engineering.com/AdvancedManufacturing/ArticleID/12390/Quality-Basics-How-Does-3D-Laser-Scanning-Work.aspx)
 ![3D Scanning image example](https://proto3000.com/wp-content/uploads/2016/08/GoSCAN-50-450x500.jpg)
+
 [*University Hall 3D Scanning News Article*](https://news.virginia.edu/content/demolition-looming-university-hall-scanned-photographed-history)
 ![Full Building image example](https://news.virginia.edu/sites/default/files/bezzo_uhall_scan_full_dome_inline.jpg)
