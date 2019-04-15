@@ -14,7 +14,7 @@ We are thrilled to announce the 2019-2020 Scholar’s Lab fellows for the Praxis
 
 ## Praxis Program
 
-We are delighted to welcome 6 diverse disciplinary team members to the 9th year of the Praxis Program, our flagship introduction to digital humanities by way of collaborative, project-based pedagogy:
+We are delighted to welcome 6 team members to the 9th year of the Praxis Program, our flagship introduction to digital humanities by way of collaborative, project-based pedagogy:
 
 *	Chloe Downe Welles, Art and Architectural History
 *	Janet Dunkelbarger, Art and Architectural History
