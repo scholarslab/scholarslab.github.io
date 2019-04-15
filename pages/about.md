@@ -20,7 +20,7 @@ order: 1
 <a href="#how-was-this-website-made">How was this website made?</a>  
 
 ## What is the Scholars' Lab?
-Scholars' Lab is the <a href="http://library.virginia.edu">UVA Library</a>'s lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches. 
+Scholars' Lab is the <a href="http://library.virginia.edu">UVA Library</a>'s community lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches. 
 
 We offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches. We're foremost a space for learning together—about anything—by trying stuff. Think of us as friends and colleagues who can help you teach yourself new ways of approaching your interests.
 
