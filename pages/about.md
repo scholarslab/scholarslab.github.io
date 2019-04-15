@@ -12,6 +12,7 @@ order: 1
 <a href="#can-you-build-me-a-thing">Can you build me a thing?</a>  
 <a href="#can-we-collaborate">Can we collaborate?</a>  
 <a href="#what-academic-fields-do-you-support">What academic fields do you support?</a>  
+<a href="#what-opportunities-are-available-for-students">What opportunities are available for students?</a>  
 <a href="#how-does-the-lab-fit-into-the-uva-library">How does the Lab fit into the UVA Library?</a>  
 <a href="#who-are-the-scholars-in-scholars-lab">Who are the scholars in "Scholars' Lab"?</a>  
 <a href="#ive-heard-that-people-over-projects-is-a-scholars-lab-motto-what-does-that-mean-do-you-do-projects">I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects?</a>  
@@ -77,6 +78,15 @@ We love to work together with other folks at UVA and beyond! Our decisions about
 
 ## What academic fields do you support?
 Although we bring library, digital humanities, spatial technologies, & cultural heritage skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field, and we regularly collaborate in almost every area on Grounds. An inexhaustive list of who we've worked with on Grounds includes folks from Biology, Environmental Science, Nursing, Media Studies, Music, Religious Studies, Spanish, Slavic, German, French, Classics, English, History, Art History, Architecture, and GIS/spatial tech support across Grounds.
+
+## What opportunities are available for students?
+We work with a number of students each year in a variety of ways!
+
+If you're interested in what we do, please get in contact with us–in addition to our formal student opportunities, we try to match known students with informal opportunities as they arise, and can help with a variety of needs including mock job interviews, career networking, and [more](/professional-development/). You can set up a friendly consultation by emailing ScholarsLab@Virginia.edu, talk to our Head of Student Programs [Brandon Walsh](/people/brandon-walsh/), speak with us before or after any of our [events](/events), drop by our [Makerspace](/makerspace) when it's open, or chat with us during our Open Office Hours (fall and spring term, Wednesdays 10-11:30am, SLab Common Area). We also share opportunities via our [@ScholarsLab Twitter account](https://twitter.com/scholarslab) and on our [blog](/blog).
+
+Training the next generation of DH, GIS, and CHI scholars is an area where we are uniquely prominent in the DH community. You can read about some of our more developed collaborations with students in our [archive of past student projects](/student-projects-archive).
+
+Each year we make a structured, formal investment in the mentorship, training, and research support of around 50 student roles, including GIS Interns, Cultural Heritage Informatics Interns, Praxis Fellows, DH Fellows, LAMI Fellows, VR/CHI Documentation Interns, and Makerspace Technicians. We support further students via consultation, collaboration, events, and teaching. Please visit our [For Students](/for-students/) page to learn more about these formal opportunities.
 
 ## How does the Lab fit into the UVA Library?
 The Scholars' Lab was founded in 2006. We’re part of <a href="http://library.virginia.edu">the UVA Library</a> and its mission to provide equitable access to knowledge and learning to everyone. Organizationally, we sit in the Library's Public Services unit led by AUL Dennis Clark. We frequently collaborate with our Library colleagues, including Preservation, Special Collections, Teaching & Learning, and subject liaison librarians. Although we're not just a DH center, we're also part of the [DH@UVA](https://dh.virginia.edu) ecosystem of teams and people doing digital humanities and cultural heritage work on Grounds.
