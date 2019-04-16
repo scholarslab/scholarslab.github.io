@@ -5,6 +5,23 @@ permalink: /hours-and-spaces/
 nav: true
 ---
 
+<div class="home-find__title"><a href="/hours-and-spaces">Find us</a></div>
+			<div class="home-find__content">
+				<div class="home-find__diagram">
+					<img src="{{ 'assets/img/svg/alderman-floorplan.svg' | relative_url }}" height="400px" alt="Floor diagram of Scholars' Lab spaces" title="Alderman Floorplan - Floor 4">
+					{% include floorplan-markup.html %}
+				</div>
+				<ul><!-- commenting out b/c messing w/ JS stuff rn! span>Spaces:</span-->
+					{% assign spaces = site.spaces | sort: 'order' %}
+					{% for space in spaces %}
+					<li data-fill="{{ space.fill-color }}" data-name="{{ space.data-name }}"><span>{{ space.title }}</span>:<br/> {{ space.room }}</li>
+					{% endfor %}
+					<li data-fill="violet" data-name="office-hrs"><span>Open Office Hours</span></li>
+					<li data-fill="teal" data-name="offices"><span>Staff offices</span></li>
+				</ul>
+			</div>
+			<p class="home-hours__cta"><a href="/hours-and-spaces/" aria-label="hours and spaces page">All hours &amp; spaces</a></p>
+
 The Common Room of the Scholars' Lab is open [whenever Alderman is](https://www.library.virginia.edu/hours), and during the semester our central [Makerspace](/makerspace/) is staffed from **1:00 pm - 7:00 pm, Monday through Thursday and 1:00 pm - 5:00 pm, Friday**. Visit the Common Room, Seminar Room (Alderman 423), and Classroom (Alderman 421)! Scholars' Lab [staff](/people/) offices are nearby, where [our grad fellows](/for-students/) also have access to a workspace and office.
 
 {% assign spaces = site.spaces | sort: 'order' %}
