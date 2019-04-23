@@ -19,3 +19,4 @@ gem "html-proofer"
 gem 'json'
 gem 'front_matter_parser'
 gem 'ruby-progressbar'
+gem 'kramdown'

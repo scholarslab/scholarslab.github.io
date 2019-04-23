@@ -14,7 +14,7 @@ categories:
 March 10 update: Due to technical difficulties, we are not able to post the podcast of this event.  Apologies for any inconvenience!
 
 
-### ___Beyond Tools: The Shared Questions about Interpretation that Link Computer Science to the Humanities___
+### _Beyond Tools: The Shared Questions about Interpretation that Link Computer Science to the Humanities_
 
 
 **Thursday, March 6 at 10:00 am**
