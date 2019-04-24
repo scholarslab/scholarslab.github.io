@@ -25,7 +25,7 @@ Given Twitter’s strict regulations on data usage, the csv files created from m
 
 Above: Screen-shot of Tweet IDs
 
-Fortunately, each of these Tweet IDs contains all the data collected from each Tweet; this data is simply encoded. The twarc tools developed by _Documenting the Now _(_DocNow_) were instrumental in de-coding this data. That is, _DocNow _has developed a tool called “Hydrate” that, when applied to a set of Tweet IDs, parses and reveals all of the information associated with each particular Tweet ID. To execute the Hydrate tool, I entered the following into the command line: Twarc hydrate [tweet_ids.txt] > [tweets.jsonl]. In order to avoid confusion, I named each of the jsonl files according to the search term and the dates of the particular query.
+Fortunately, each of these Tweet IDs contains all the data collected from each Tweet; this data is simply encoded. The twarc tools developed by _Documenting the Now_ (_DocNow_) were instrumental in de-coding this data. That is, _DocNow_ has developed a tool called “Hydrate” that, when applied to a set of Tweet IDs, parses and reveals all of the information associated with each particular Tweet ID. To execute the Hydrate tool, I entered the following into the command line: Twarc hydrate [tweet_ids.txt] > [tweets.jsonl]. In order to avoid confusion, I named each of the jsonl files according to the search term and the dates of the particular query.
 
 ![](http://static.scholarslab.org/wp-content/uploads/2018/10/Screen-Shot-2018-03-22-at-12.19.50-PM-300x114.png)
 

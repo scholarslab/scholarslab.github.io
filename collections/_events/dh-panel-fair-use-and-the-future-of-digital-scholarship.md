@@ -15,11 +15,11 @@ event-categories:
 - Scholarly Communication
 ---
 
-_Can fair use extend beyond the selection?  What if your research could include copyrighted works? What questions could you ask of a corpus of millions of digitized texts or other data? _
+_Can fair use extend beyond the selection?  What if your research could include copyrighted works? What questions could you ask of a corpus of millions of digitized texts or other data?_
 
 Explore the rich tradition of digital research at UVA, and learn how recent fair use decisions in the courts are opening up new vistas for textual scholarship. Panelists will include: Andrew Stauffer, UVA Associate Professor of English and Director of [NINES](http://www.nines.org/) and the [Book Traces](http://www.booktraces.org/) project; Jonathan Band, an expert on the Google Books litigation; and Stephen Downie, Co-Director of the [HathiTrust Research Center](https://sharc.hathitrust.org/), which facilitates digital research on a massive corpus of mostly in-copyright books. Moderated by Brandon Butler, the Library's new Director of Information Policy.
 
-![jband](http://static.scholarslab.org/wp-content/uploads/2016/02/jband-e1455921059307.jpg) Jonathan Band helps shape the laws governing intellectual property and the Internet through a combination of legislative and appellate advocacy.  He has represented clients with respect to the drafting of the Digital Millennium Copyright Act (DMCA), the PRO-IP Act, the Stop Online Piracy Act (SOPA), and other federal and state statutes relating to intellectual property and the Internet.  Mr. Band is a professor at the Georgetown University Law Center, and has written extensively on intellectual property and the Internet, including the books _Interfaces on Trial _and_ Interfaces on Trial 2.0_.
+![jband](http://static.scholarslab.org/wp-content/uploads/2016/02/jband-e1455921059307.jpg) Jonathan Band helps shape the laws governing intellectual property and the Internet through a combination of legislative and appellate advocacy.  He has represented clients with respect to the drafting of the Digital Millennium Copyright Act (DMCA), the PRO-IP Act, the Stop Online Piracy Act (SOPA), and other federal and state statutes relating to intellectual property and the Internet.  Mr. Band is a professor at the Georgetown University Law Center, and has written extensively on intellectual property and the Internet, including the books _Interfaces on Trial_ and_Interfaces on Trial 2.0_.
 
 
 
