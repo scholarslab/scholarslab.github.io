@@ -22,11 +22,11 @@ tags:
 
 Digital technologies are not new solutions to our old problems, but are new problems asking for us to return to old solutions. People have been transcribing texts for as long as there have been texts. So it is no surprise that some of the earliest applications for computers were concerned with transcribing texts. These applications built on ideas based on previous ideas which were themselves based on yet earlier ones---the genealogical chains of some going back centuries. These genealogies have their own fascinating histories, but the problem that concerns this post is finding ways to use those centuries of accumulated ideas to reproduce texts in a computerized platform that has developed its own sense of how texts should function. That is, how do we digitally transcribe using the techniques that already exist? Techniques developed in prior decades can be difficult to use with computer-based methods because these computer-based methods have only recently developed and have not yet been applied to as wide a range of sources as traditional transcription methods. The solutions that computer applications first stumbled across for one problem initially seem to be right for every problem, but on careful study it turns out they often obscure important details. We do not yet have an extensive repertoire of computer transcription to consider, so it naturally seems like the solution that exists, however idiosyncratic, is the solution for all situations. For example, `<em>` is widely used to indicate both italics and emphasis, which seems fine, but conflates two different sorts of text forms: The former could indicate poetry, summaries, Latin or citations, while the later suggests something that is an exception---a key glossary term or foreign phrase. The conventional computerized scheme is to treat the stylistic choice of italic as separate from the semantic choice of emphasis. For a non-emphasis use of italic, a style could be applied to distinguish that particular semantic meaning, but these semantic meanings would have to be carefully integrated into the existing scheme without conflicting with any other components. This integration becomes increasingly complicated as the schemes become more complete because there are more opportunities for conflict. New standards for HTML and TEI make the situation more flexible, but fundamentally transcriptions on computers must either force their intellectual goals into an existing framework---i.e. marking a distinct convention of italics as though it was the same as emphasis---or extend the framework itself---i.e. inventing a tag that distinguishes all the semantic types of italic used in the work.
 
-When I consider what digital tools could bring to the humanities, I envision new forms of writing which challenge us to reimagine traditional questions in systems with new capabilities but which accept their own limited application and eventual obsolescence in a long history of writing technologies. If a writer recognizes that eventually all technologies become obsolete, they cannot reasonably ignore the wisdom recorded by the technologies of the past. Furthermore, writing serves a wider range of uses when it collaborates with as many conventions as possible, encoding the wisdom of old and new systems and clearly seeing the goals of past writers as well-worn traditional tools, and not creating new tools when a better old one remains to be understood. Timothy Morton's idea of "ecology" serves as well as any other metaphor here: he invites a move from placing nature on a pedestal to thinking of ecology as a sort of _ambient poetics_. Rather than asking how nature writing is done, we ask about the contexts in places, space and material that surround both nature and the writing about nature. I propose that his idea of ecology can be extended to the way we think of computer tools and their relationship to the wider range of writing tools---the more widely we share tools and link to other ideas, the more comprehensible will be our approach which also sets us up for the next innovation. We ought not put a particular scheme on a pedestal but instead recognize how it interacts with all other schemes.1
+When I consider what digital tools could bring to the humanities, I envision new forms of writing which challenge us to reimagine traditional questions in systems with new capabilities but which accept their own limited application and eventual obsolescence in a long history of writing technologies. If a writer recognizes that eventually all technologies become obsolete, they cannot reasonably ignore the wisdom recorded by the technologies of the past. Furthermore, writing serves a wider range of uses when it collaborates with as many conventions as possible, encoding the wisdom of old and new systems and clearly seeing the goals of past writers as well-worn traditional tools, and not creating new tools when a better old one remains to be understood. Timothy Morton's idea of "ecology" serves as well as any other metaphor here: he invites a move from placing nature on a pedestal to thinking of ecology as a sort of _ambient poetics_. Rather than asking how nature writing is done, we ask about the contexts in places, space and material that surround both nature and the writing about nature. I propose that his idea of ecology can be extended to the way we think of computer tools and their relationship to the wider range of writing tools---the more widely we share tools and link to other ideas, the more comprehensible will be our approach which also sets us up for the next innovation. We ought not put a particular scheme on a pedestal but instead recognize how it interacts with all other schemes.[^1]
 
 Translating the physical and intellectual features of a text into a system of transcription requires judgment and I think adapting the most established technologies to the task does more good than taking on the unproven baggage of complicated new systems. A note on the scope of technology I'm talking about here: By established, I don't mean HTML or even ASCII, I mean conventions that span hundreds or even thousands of years: punctuation, glossing, words in sequence, and that sort of thing. The stability of the technology of punctuation means that it has been adopted in more recent technologies and could be used without careful consideration, but I think that people concerned with the past need to ask what questions the past has already answered well enough. Questions of how to transcribe have two components: the intellectual work of selection and description that needs to be done and the conventions available for encoding. The former requires developing judgment, the later only familiarity with a particular system.
 
-Adapting the ethos of the 1999 essay by David L. Vander Meulen and G. Thomas Tansell, "A System of Manuscript Transcription," which broke new ground by adhering as closely to common sense as possible rather than breaking new ground with a byzantine new system, we can write to foreground the historical text and our judgments about it.2 Their approach admits that a transcription re-forms a text, requiring decisions and highlighting where those decisions are made. Consider a hypothetical example in Markdown using something like the Vander Meulen-Tanselle approach:
+Adapting the ethos of the 1999 essay by David L. Vander Meulen and G. Thomas Tansell, "A System of Manuscript Transcription," which broke new ground by adhering as closely to common sense as possible rather than breaking new ground with a byzantine new system, we can write to foreground the historical text and our judgments about it.[^2] Their approach admits that a transcription re-forms a text, requiring decisions and highlighting where those decisions are made. Consider a hypothetical example in Markdown using something like the Vander Meulen-Tanselle approach:
 
     
     <code>The [?funny *conceled*] cat ran after the [*next two words
@@ -35,7 +35,7 @@ Adapting the ethos of the 1999 essay by David L. Vander Meulen and G. Thomas Tan
 
 Which renders as: "The [?funny _canceled_] cat ran after the [_next two words inserted_] big brown dog."
 
-The convention of using square brackets to mark later insertions is so well established that it requires little explanation to understand that these are editorial comments and that the text that the editor believes is correct is outside of the brackets.3 Enclosing italic text in asterisks is a Markdown convention, but is relatively familiar to most readers of digital texts. In contrast, one way to mark the same text in TEI would be:
+The convention of using square brackets to mark later insertions is so well established that it requires little explanation to understand that these are editorial comments and that the text that the editor believes is correct is outside of the brackets.[^3] Enclosing italic text in asterisks is a Markdown convention, but is relatively familiar to most readers of digital texts. In contrast, one way to mark the same text in TEI would be:
 
     
     <code> <p>The <del> <unclear> funny </unclear> </del> cat ran after the
@@ -133,7 +133,7 @@ Another:
      much in Faſhion [...]</code>
 
 
-The first three mark the lines that a the drop cap initial spreads to. This spread may be significant as drop caps in many French books of this same time period go upwards rather than downwards, extending above the line. Furthermore, the word on the next line might be confused as relating to the drop capital; resolving this confusion could be part of the reading practice. Note also, that the first and third example preserve the space between the capital and the text of the second line, the second does not (but that seems fine because the extension of the capital is already blank). The last transcription, which is based on the suggestion of Fredson Bowers in his _Principles_, uses a superscript in Markdown to signal the initial, but does not record whether or not it goes up or down.4 This choice may be fine if we are restricted to English books of a certain type where these always seem to go down, but might be a problem if developing a transcription standard that covers all types of books. Since in our case the practice is uniform across the text and merely serves to signal the reader that they have arrived at the beginning of a new section, Bower's approach seems to best preserve the readability of the text. It would render "T2HE writing of Characters." While the superscript 2 is somewhat confusing, a note could explain and the superscript follows a convention developed from early twentieth-century work on incunabula that has been used in certain serious scholarship for over a century.
+The first three mark the lines that a the drop cap initial spreads to. This spread may be significant as drop caps in many French books of this same time period go upwards rather than downwards, extending above the line. Furthermore, the word on the next line might be confused as relating to the drop capital; resolving this confusion could be part of the reading practice. Note also, that the first and third example preserve the space between the capital and the text of the second line, the second does not (but that seems fine because the extension of the capital is already blank). The last transcription, which is based on the suggestion of Fredson Bowers in his _Principles_, uses a superscript in Markdown to signal the initial, but does not record whether or not it goes up or down.[^4] This choice may be fine if we are restricted to English books of a certain type where these always seem to go down, but might be a problem if developing a transcription standard that covers all types of books. Since in our case the practice is uniform across the text and merely serves to signal the reader that they have arrived at the beginning of a new section, Bower's approach seems to best preserve the readability of the text. It would render "T2HE writing of Characters." While the superscript 2 is somewhat confusing, a note could explain and the superscript follows a convention developed from early twentieth-century work on incunabula that has been used in certain serious scholarship for over a century.
 
 
 ## Long 's' characters
@@ -221,7 +221,7 @@ A page of text includes not just the text of the work, but also what Genette wou
 
 Eighteenth-century punctuation often used spacing differently than we do now. A semicolon might have a thin space before it and a thick space after it. To fit some punctuation into a line, there might be no spaces after a period but before the next sentence begins. In another line, the space after a period might be exceptionally large, or the spaces between words exceptionally large. A compositor may put extra spaces between the letters of a word to give it emphasis as a heading, which seems like a semantic choice rather than one that aims to preserve the justification of the line. That is, there seem to be two possible reasons to have a noticeable variation in space: either the need to provide a line of type of a certain width or to indicate a type of semantic information. Experience must be the guide in distinguishing between these two, but the situation should generally be clear after some study. The problem becomes one of how to represent variations in spacing widths if it is decided that they represent semantic meaning.
 
-Since each line is justified separately, the unit of analysis must be the line. Different widths of spaces between two different lines almost certainly represent the need to justify that particular line, but different widths within a line may---if the editor judges it to have meaning---be transcribed within that line. To encode this, Unicode provides a range of spaces of different widths. The characters ["HAIR SPACE," "PUNCTUATION SPACE," "EM SPACE," "THREE-PER-EM SPACE," "FOUR-PER-EM SPACE," "SIX-PER-EM SPACE"](https://www.cs.tut.fi/~jkorpela/chars/spaces.html) cover a wide variety of types of spaces and widths of spaces (the [Unicode Standard itself](http://www.unicode.org/versions/Unicode10.0.0/ch06.pdf) covers these in far more detail). The most sensible treatment of space, since a compositor would not really be distinguishing a space used for punctuation from a similarly narrow space, would be to follow Peter Blayney's approach in the Appendix to his _Texts of King Lear._5 When different sizes of space appear in the same line, simply use different sizes of space in the transcription to indicate that. The only modification for our project is that those spacing elements ought---in the judgment of the editor---to bear some sort of semantic meaning.
+Since each line is justified separately, the unit of analysis must be the line. Different widths of spaces between two different lines almost certainly represent the need to justify that particular line, but different widths within a line may---if the editor judges it to have meaning---be transcribed within that line. To encode this, Unicode provides a range of spaces of different widths. The characters ["HAIR SPACE," "PUNCTUATION SPACE," "EM SPACE," "THREE-PER-EM SPACE," "FOUR-PER-EM SPACE," "SIX-PER-EM SPACE"](https://www.cs.tut.fi/~jkorpela/chars/spaces.html) cover a wide variety of types of spaces and widths of spaces (the [Unicode Standard itself](http://www.unicode.org/versions/Unicode10.0.0/ch06.pdf) covers these in far more detail). The most sensible treatment of space, since a compositor would not really be distinguishing a space used for punctuation from a similarly narrow space, would be to follow Peter Blayney's approach in the Appendix to his _Texts of King Lear_[^5] When different sizes of space appear in the same line, simply use different sizes of space in the transcription to indicate that. The only modification for our project is that those spacing elements ought---in the judgment of the editor---to bear some sort of semantic meaning.
 
 
 ## An Example Page
@@ -258,11 +258,11 @@ One way this would render by default would be:
 
 [_two rules_]
 
-#E X A M P L E P A G E
+# E X A M P L E P A G E
 
 T2he _text_ on this page isn't in any book, but Demonstrates some techniques you might use to tranſ-
 scribe texts as you see them. Note that each line breaks with a
-backſlash before the newline.6 This signals the difference between
+backſlash before the newline.[^6] This signals the difference between
 a newline needed to fit the text on one screen and one which rep-
 resents an actual line break. "We find that the quotes run
 " along the side for extended quotes. Just as they do in
@@ -271,35 +271,23 @@ coded as such . What a text! [_last word poorly inked, could be "hex"_]
 
 [_the letter t in "techniques" on the first line of the text is shifted upward_]
 
-
-
-
-
-
-* * *
-
-
-
-
-
+ 	
+  [^1]: Timothy Morton, _Ecology Without Nature: Rethinking Environmental Aesthetics_ (Cambridge, Mass.: Harvard University Press, 2009).↩
 
  	
-  1. Timothy Morton, _Ecology Without Nature: Rethinking Environmental Aesthetics_ (Cambridge, Mass.: Harvard University Press, 2009).↩
+  [^2]: David L. Vander Meulen and G. Thomas Tanselle, “A System of Manuscript Transcription,” _Studies in Bibliography_ 52 (1999): 201–12.↩
 
  	
-  2. David L. Vander Meulen and G. Thomas Tanselle, “A System of Manuscript Transcription,” _Studies in Bibliography_ 52 (1999): 201–12.↩
+  [^3]: For those unfamiliar, brackets are a standard symbol used to indicate editorial additions and italics distinguish descriptions and explanations of the roman text: since "big brown" is conjectured to belong to the final text, the words are placed outside of the brackets; since "funny" is conjectured to belong to an earlier version, the word is place inside the brackets.↩
 
  	
-  3. For those unfamiliar, brackets are a standard symbol used to indicate editorial additions and italics distinguish descriptions and explanations of the roman text: since "big brown" is conjectured to belong to the final text, the words are placed outside of the brackets; since "funny" is conjectured to belong to an earlier version, the word is place inside the brackets.↩
+  [^4]: Fredson Bowers, _Principles of Bibliographical Description_ (New York: Russell & Russell, 1962).↩
 
  	
-  4. Fredson Bowers, _Principles of Bibliographical Description_ (New York: Russell & Russell, 1962).↩
+  [^5]: Peter W.M. Blayney, _The Texts of King Lear and Their Origins_ (Cambridge: Cambridge University Press, 1982); Blayney is studying the recurrence of types so chooses to transcribe both semantic meaning and what evidence he finds of the typographical habits of the compositors.↩
 
  	
-  5. Peter W.M. Blayney, _The Texts of King Lear and Their Origins_ (Cambridge: Cambridge University Press, 1982); Blayney is studying the recurrence of types so chooses to transcribe both semantic meaning and what evidence he finds of the typographical habits of the compositors.↩
-
- 	
-  6. before the newline ] a newline is a special sort of chara-
+  [^6]: before the newline ] a newline is a special sort of chara-
 cter that means you begin a new line of text.↩
 
 

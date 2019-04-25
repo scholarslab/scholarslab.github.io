@@ -11,7 +11,7 @@ tags:
 - Dash-Amerikan
 ---
 
-_“When I got my first television set, I stopped caring so much about having close relationships.” &mdash; Andy Warhol _
+_“When I got my first television set, I stopped caring so much about having close relationships.” &mdash; Andy Warhol_
 
 
 [![](http://static.scholarslab.org/wp-content/uploads/2017/02/article-2517744-19D1E53000000578-676_634x755-252x300.jpg)](http://www.dailymail.co.uk/tvshowbiz/article-2519086/Kanye-West-didnt-ask-Andy-Warhols-cousin-paint-Kim-Kardashian.html)
