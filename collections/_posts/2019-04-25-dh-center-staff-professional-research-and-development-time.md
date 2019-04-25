@@ -10,6 +10,8 @@ tags:
 - Digital Humanities
 ---
 
+*Crossposted to [my blog]() and [HASTAC]().*
+
 All Scholars' Lab staff are encouraged to take 20% of their time to initiate research and professional development. In this post, we'll share some of what we've been working on, and explain the rationale behind making this 20% time a formal part of our job descriptions.
 
 ## What is 20% time?
