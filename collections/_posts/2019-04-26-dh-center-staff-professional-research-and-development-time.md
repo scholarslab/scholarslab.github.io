@@ -17,7 +17,7 @@ All Scholars' Lab staff are encouraged to take 20% of their time to initiate res
 ## What is 20% time?
 Previously also referred to as "personal R&D time", we've recently shifted to saying **"self-initiated R&D time"** to emphasize that this work is often collaborative, and always feeds back into the lab: what's unique about 20% time is special leeway to experiment and fail, and formal support for staff to initiate and direct their own professional and scholarly development on the job. Making this a specific job expectation can help folks feel comfortable pursuing learning that isn't immediately applicable to scholarship, but probably will be later on. For example, GIS Specialist Drew Macqueen's "Arduino Chris" (GIF below, courtesy of Drew) used the problem of our office lights (which turn off when folks weren't moving around much at their desks) to get some practice building electronics, which he can now apply to research consultations and collaborations as part of his spatial technologies toolkit:
 
-![GIF of Drew Macqueen's "Arduino Chris", using electronics and a photo of GIS Specialist Chris Gist to turn the office lights back on when they go off from no one moving around.](https://github.com/scholarslab/scholarslab.org/blob/master/assets/post-media/2019-01-22-Arduino-Chris.GIF)
+![GIF of Drew Macqueen's "Arduino Chris", using electronics and a photo of GIS Specialist Chris Gist to turn the office lights back on when they go off from no one moving around.](https://github.com/scholarslab/scholarslab.org/blob/master/assets/post-media/2019-01-22-Arduino-Chris.GIF?raw=true)
 
 *Above: GIF of Drew Macqueen's "Arduino Chris", using electronics and a photo of GIS Specialist Chris Gist to turn the office lights back on when they go off from no one moving around.*
 
@@ -98,4 +98,4 @@ We've also heard some questioning around staff using 20% time to work on dissert
 ## What do you think?
 If you have suggestions for improving our 20% time in policy or practice or questions, let us know! We're also interested in your own experiences pursuing research and professional development, regardless of your job role; and what, if any, policy about research and professional development your institution offers.
 
-*Special thanks to Bethany Nowviskie, whose arguments for 20% time still benefit the university today, and whose excellent 2012 rationale for 20% time, ["Too Small to Fail"](http://nowviskie.org/2012/too-small-to-fail/), is quoted liberally in this post!*
+*Special thanks to Bethany Nowviskie, whose arguments for 20% time still benefit many folks today, and whose excellent 2012 rationale for 20% time, ["Too Small to Fail"](http://nowviskie.org/2012/too-small-to-fail/), is quoted liberally in this post!*
