@@ -164,6 +164,7 @@ Here are a few more resources for planning Digital Humanities projects while kee
 - [https://sites.haa.pitt.edu/sustainabilityroadmap/ ](https://sites.haa.pitt.edu/sustainabilityroadmap/)
 - [https://openpreservation.org/ ](https://openpreservation.org/)
 - [https://dpconline.org/handbook ](https://dpconline.org/handbook)
+- [https://rc.library.uta.edu/uta-ir/handle/10106/25646 ](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 
 
 
