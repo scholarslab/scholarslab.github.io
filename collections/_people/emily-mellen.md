@@ -15,5 +15,6 @@ people-category:
   - student
 roles:
   - Praxis Fellow, 2018-2019
+  - Public History Intern, 2019
 ---
-Emily Mellen is a 2018-2018 Praxis Fellow.
+Emily Mellen is a Public History Intern (2019) as well as a Praxis Fellow (2018-2018).
