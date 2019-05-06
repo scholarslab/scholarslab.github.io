@@ -8,7 +8,7 @@ title: Ciara Horne
 position: CHI Intern
 short_bio:
 slug: ciara-horne
-status: current
+status: not_current
 twitter:
 website:
 people-category:
