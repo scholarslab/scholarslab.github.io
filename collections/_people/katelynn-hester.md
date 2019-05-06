@@ -9,7 +9,7 @@ title: Katelynn Hester
 position: None
 short_bio: "Katelynn Hester is a rising junior at Southeastern Oklahoma State University in Durant, Oklahoma and a 2018 LAMI Scholar."
 slug: katelynn-hester
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
