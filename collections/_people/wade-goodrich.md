@@ -8,7 +8,7 @@ title: Wade Goodrich
 position: CHI Intern
 short_bio:
 slug: wade-goodrich
-status: current
+status: not_current
 twitter:
 website:
 people-category:
