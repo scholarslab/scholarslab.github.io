@@ -9,7 +9,7 @@ title: Elena Maltos
 position: None
 short_bio: "Elena Maltos is a 2018 LAMI Scholar."
 slug: elena-maltos
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
