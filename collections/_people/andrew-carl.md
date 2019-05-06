@@ -8,7 +8,7 @@ title: Andrew Carl
 position:
 short_bio:
 slug: andrew-carl
-status: not_current
+status: current
 twitter: None
 website: None
 people-category:
