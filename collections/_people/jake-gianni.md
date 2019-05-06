@@ -8,7 +8,7 @@ title: Jake Gianni
 position: CHI Intern
 short_bio:
 slug: jake-gianni
-status: current
+status: not_current
 twitter:
 website:
 people-category:
