@@ -14,6 +14,6 @@ website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2018–2019
 - GIS Intern, 2017-current
+- Praxis Fellow, 2018–2019
 ---

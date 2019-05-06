@@ -9,7 +9,7 @@ title: Mia Hickman
 position: None
 short_bio: "Mia Hickman is a rising sophomore at Morgan State University in Baltimore, MD and a 2018 LAMI Scholar."
 slug: mia-hickman
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

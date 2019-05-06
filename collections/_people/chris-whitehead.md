@@ -8,7 +8,7 @@ title: Chris Whitehead
 position:
 short_bio:
 slug: chris-whitehead
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

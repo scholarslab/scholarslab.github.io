@@ -8,7 +8,7 @@ title: Kelli Shermeyer
 position: Graduate Fellow 2018-2019
 short_bio: ''
 slug: kelli-shermeyer
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
