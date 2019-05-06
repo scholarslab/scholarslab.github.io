@@ -14,7 +14,7 @@ website: None
 people-category:
 - student
 roles:
-- DH Fellow, 2017-2018
+- Graduate Fellow, 2017-2018
 - Praxis Fellow, 2015-2016
 ---
 
