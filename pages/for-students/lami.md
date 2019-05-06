@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leadership Alliance Mellon Initiative Program
+title: Leadership Alliance Mellon Initiative
 permalink: /lami/
 nav: false
 ---
