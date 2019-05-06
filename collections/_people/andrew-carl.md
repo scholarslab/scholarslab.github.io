@@ -8,12 +8,12 @@ title: Andrew Carl
 position:
 short_bio:
 slug: andrew-carl
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2017-2018
+- Makerspace Technologist, 2017-current
 ---
-Andrew Carl is a 2017-2018 Makerspace Technologist.
+Andrew Carl is a Makerspace Technologist.
