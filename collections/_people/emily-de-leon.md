@@ -9,7 +9,7 @@ title: Emily De Leon
 position: None
 short_bio: "Emily De Leon is a 2018 LAMI Fellow."
 slug: emily-de-leon
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
