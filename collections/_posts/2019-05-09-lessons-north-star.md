@@ -51,13 +51,16 @@ Overall, embarking on this journey has been extremely valuable for all club memb
  
  
  
-## UVA 
+## UVA Resources
 
 - [3D Printing Studio at Robertson Media Center in Clemons Library:](https://news.library.virginia.edu/2018/03/01/new-3d-printing-facilities-at-the-library/)
+The 3D Printing Studio is a facility for students to use 3D printers free-of-charge for academic projects or personal purposes. It has Makerbots (simple printers with equally simple interface), TAZ printers (higher-end printers that can print with flexible material), and Ultimakers (higher-end printers with dual extruders that can print with water-soluble support material).
 - [Student Experiential Center at Lacy Hall:](http://lacy.seas.virginia.edu/)
 Lacy Hall is a facility that helps students with experiential projects by providing the equipment and machinery needed to produce large mechanical components.
 - [Machine Shop at Mechanical Engineering building on Engineers’ Way:](https://engineering.virginia.edu/departments/mechanical-and-aerospace-engineering/research/undergraduate-labs)
-The Machine Shop also helps students with production of mechanical elements, but they work on smaller 
+The Machine Shop also helps students with production of mechanical elements, but they work on smaller parts due to space constraints in the lab area.
 - [Makerspace at Scholars’ Lab in Alderman library:](https://scholarslab.lib.virginia.edu/makerspace/)
 The Scholars’ Lab is a digital humanities and cultural heritage center at the UVA Alderman Library. The Makerspace is located within that area, and specializes in experimentation with technologies like 3D printing, sewing, physical computing, and augmented reality. 
-- The VR Space at Robertson Media Center in Clemons library:
+- VR Space at Robertson Media Center in Clemons library 
+[(image)](https://news.virginia.edu/sites/default/files/uhall_vr_demo_da_inline.jpg):
+The VR Space has two HTC Vive headsets, each with their own dedicated walkable area and VR-capable PC to create an immersive experience in virtual reality. 
