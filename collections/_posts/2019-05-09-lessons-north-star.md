@@ -21,8 +21,7 @@ Over the course of the spring semester of 2019, the Immersive Club at UVA built 
 
 Some inspiration for starting this project came after experiencing the Microsoft Hololens. Though it was a great first glimpse of an AR headset, the experience left much to be desired, including a larger screen area, wider field of view, and more responsive finger-tracking. From this, the club decided to take on the task of building an AR headset after reading about Project North Star. The North Star headset is a great improvement upon currently-available AR technology due to its open-source nature, larger screen area, wider field of view, and increased finger-tracking fidelity. In fact, the total costs for the entire project are approximately $300, while the Hololens costs an order of magnitude higher at $3000. The open-source aspect of it is noteworthy due to the high engagement of the community for providing feedback, support, and improvements. 
 
-[*Unveiling North Star*](http://blog.leapmotion.com/northstar/)
-
+[*Unveiling North Star*](http://blog.leapmotion.com/northstar/) and 
 [*North Star is Open-Source*](http://blog.leapmotion.com/north-star-open-source/)
 
 ![Generic picture of a completed North Star headset](https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2019/01/leap-motion-project-north-star-release-3-1.jpg)
