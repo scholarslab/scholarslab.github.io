@@ -76,9 +76,9 @@ Finally, 3D scanning employs sophisticated tools that simplify the process subst
 [*University Hall 3D Scanning News Article*](https://news.virginia.edu/content/demolition-looming-university-hall-scanned-photographed-history)
 
 ![Full Building image example](https://news.virginia.edu/sites/default/files/bezzo_uhall_scan_full_dome_inline.jpg)
-
-
-
+ 
+ 
+ 
 ## Sources
 Sketchup: https://www.sketchup.com/sites/www.sketchup.com/files/su-opengraph.jpg
 Maya: http://cdn.studiodaily.com/wp-content/uploads/2019/01/maya_2019_cached-playback.png
