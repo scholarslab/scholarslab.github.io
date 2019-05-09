@@ -124,6 +124,6 @@ Once you're done laying points, save off the image as a georeferenced .tiff file
 
 [ArcGIS georeferencing documentation](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t000000mn000000)
 [Quantum GIS georeferencing tutorial](http://qgis.spatialthoughts.com/2012/02/tutorial-georeferencing-topo-sheets.html) (open-source alternative to ArcMap)
-[Georeferencing - making historic maps spatial](http://spatial.scholarslab.org/stepbystep/making-historic-maps-spatial-georeferencing/)
+[Georeferencing - making historic maps spatial](http://spatial.scholarslab.org/making-historic-maps-spatial-georeferencing/)
 
 _[Cross-posted with [dclure.org](http://dclure.org/tutorials/neatline-maps-georeferencing/)]_
