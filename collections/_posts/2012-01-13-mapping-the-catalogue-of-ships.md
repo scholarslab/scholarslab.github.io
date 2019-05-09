@@ -18,15 +18,15 @@ tags:
 
 _I'm very pleased to share a guest post by UVa Classics professor [Jenny Strauss Clay](http://www.virginia.edu/classics/clay.html), describing a new project we've undertaken at the Scholars' Lab.  We're excited not only at the opportunity to use GIS techniques to test Professor Clay's theories about the relation of ancient geography to mnemonic devices and poetic form, but also at the possibility that this process might assist in the identification of lost archaeological sites. -- Bethany Nowviskie_
 
-Book Two of the _Iliad_ notoriously contains a list of nearly 190 place names and includes the 29 contingents and that make up the Greek expedition to Troy.  Before launching into an over 250-line catalogue of the leaders of the Greek forces and the number of their ships, Homer appeals to the Muses to aid him in this _tour-de-force _of memory.  Without their help, he says:
+Book Two of the _Iliad_ notoriously contains a list of nearly 190 place names and includes the 29 contingents and that make up the Greek expedition to Troy.  Before launching into an over 250-line catalogue of the leaders of the Greek forces and the number of their ships, Homer appeals to the Muses to aid him in this _tour-de-force_ of memory.  Without their help, he says:
 
 
 
-<blockquote>I could not recount their numbers nor name them,
-Not if I had ten tongues and ten mouths,
-And an unbreakable voice and a brazen chest within,
-If the Olympian Muses, daughters of aegis-bearing
-Zeus, would remind me how many came under Ilium.</blockquote>
+> I could not recount their numbers nor name them,<br>
+Not if I had ten tongues and ten mouths,<br>
+And an unbreakable voice and a brazen chest within,<br>
+If the Olympian Muses, daughters of aegis-bearing<br>
+Zeus, would remind me how many came under Ilium.<br>
 
 
 

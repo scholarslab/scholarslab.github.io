@@ -27,8 +27,8 @@ I started reading about _shared leadership_ in teams - where "the source of lead
 
 To conclude, _it is not always awesome to be part of a team, but it is definitely rewarding._ As sociologists Martin Ruef (2010) shows with his book _[The Entrepreneurial Group](http://press.princeton.edu/titles/9214.html)_, entrepreneurship and innovation are much more successful when they involve collective effort and collaboration in the form of teams. Teamwork is hard but worth committing too. Let's fight the ideology of individual heroes, geniuses, and lone researchers, but also let's prepare for the challenges of being part of team. Knowing and learning about how to face those challenges will help keep collaborative projects alive and make working with diverse teams truly awesome.
 
-**References:
-**
+**References:**
+
 Carson, Jay B., Paul E. Tesluk, and Jennifer A. Marrone. 2007. “Shared Leadership in Teams: An Investigation of Antecedent Conditions and Performance.” _Academy of management Journal_ 50(5):1217–34.
 
 Ruef, Martin. 2010. _The Entrepreneurial Group: Social Identities, Relations, and Collective Action_. Princeton University Press.

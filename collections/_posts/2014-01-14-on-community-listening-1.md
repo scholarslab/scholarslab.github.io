@@ -13,7 +13,7 @@ categories:
 
 During the Fall semester, Scholars Lab Design Architect, Jeremy Boggs and I spent time conceptualizing and sketching a web interface to house a perusable version of my ethnographic composition, _Community Listening in Isle Royale National Park_. Check out the project abstract below. This blog post is the first of many posts that will track our developments. 
 
-Meanwhile, check out past Scholars' Lab Fellow, [Wendy Hsu](http://beingwendyhsu.info/)'s recent series in Ethnography Matters, [On Digital Ethnography](http://ethnographymatters.net/category/series/on-digital-ethnography/). This four-part series provides a groundwork for discussing and making ethnography that exists beyond text and print. My project _Community Listening _falls nicely_ _into this category.
+Meanwhile, check out past Scholars' Lab Fellow, [Wendy Hsu](http://beingwendyhsu.info/)'s recent series in Ethnography Matters, [On Digital Ethnography](http://ethnographymatters.net/category/series/on-digital-ethnography/). This four-part series provides a groundwork for discussing and making ethnography that exists beyond text and print. My project _Community Listening _falls nicely_ into this category.
 
 Completely unrelated: I've been listening to [THIS](http://www.youtube.com/watch?v=0_Q-1u6sNgQ) and [THIS](http://www.youtube.com/watch?v=EKydgctnEDM). 
 

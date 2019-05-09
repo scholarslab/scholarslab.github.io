@@ -26,13 +26,13 @@ In the Scholars' Lab, we're all about the spatial goodness.   Inspired by Kans
 
 We calculated a score for _Life_, for _Liberty_, and for the _Pursuit of Happiness_ for each county in the continental U.S. and mapped how each county's score deviated from the mean.  So our maps highlight extremes, both high and low.
 
-**[![Life](http://static.scholarslab.org/wp-content/uploads/2011/08/Life-1024x791.jpg)](http://www.scholarslab.org/digital-humanities/life-liberty-and-the-pursuit-of-mappiness/attachment/life/)
-**
+[![Life](http://static.scholarslab.org/wp-content/uploads/2011/08/Life-1024x791.jpg)](http://www.scholarslab.org/digital-humanities/life-liberty-and-the-pursuit-of-mappiness/attachment/life/)
 
-_Life_ mapped combined male and female [Life Expectancy At Birth](http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0050066#pmed-0050066-sd002) data for 1999.** **
 
-**[![Liberty](http://static.scholarslab.org/wp-content/uploads/2011/08/Liberty-1024x791.jpg)](http://www.scholarslab.org/digital-humanities/life-liberty-and-the-pursuit-of-mappiness/attachment/liberty/)
-**
+_Life_ mapped combined male and female [Life Expectancy At Birth](http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0050066#pmed-0050066-sd002) data for 1999.
+
+[![Liberty](http://static.scholarslab.org/wp-content/uploads/2011/08/Liberty-1024x791.jpg)](http://www.scholarslab.org/digital-humanities/life-liberty-and-the-pursuit-of-mappiness/attachment/liberty/)
+
 
 _Liberty_ mapped US Census datasets for 2000 to measure the [institutionalized population](http://factfinder.census.gov/servlet/MetadataBrowserServlet?type=subject&id=GQ_USF1&dsspName=DEC_2000_SF1&back=update&_lang=en) as a percent of the total population.
 

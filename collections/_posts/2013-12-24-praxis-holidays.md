@@ -15,7 +15,7 @@ tags:
 
 Just before we departed for the break, Stephanie and I met with Jeremy to talk over some of our wireframes for Ivanhoe.  (Stephanie discussed our wireframing process in [her post](http://www.scholarslab.org/grad-student-research/turning-points-in-praxis-new-roles-wire-frames-and-programming-languages/).)  “Right,” Jeremy told us.  “You’re going to want to clone the files that I’ve already created and start from there.”
 
-We blinked at him.  “Cloning?” we said.  “Is that like forking?  Do we need another repo?  Can we _have _another repo?”
+We blinked at him.  “Cloning?” we said.  “Is that like forking?  Do we need another repo?  Can we _have_ another repo?”
 
 Thus began an epic Git recap, in which Jeremy heroically explained version control to us once again.  The result was not only a much-needed refresher on the workings of [Github](https://github.com/), but a reminder of just how much we’ve learned this semester.   In true Praxis soup-to-nuts form, we’ve considered quite a few topics&mdash;we’ve discussed Git, CSS, wireframes, and [WordPress](http://wordpress.org/) as well as PHP.  With only two meetings a week and a wealth of other commitments, we’ve all struggled with the act of learning and retaining information as we move from one subject to the next.
 

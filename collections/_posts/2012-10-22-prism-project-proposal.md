@@ -30,7 +30,7 @@ In terms of tags I guess I would have a tag that says: Region and like on Facebo
 
 ![](https://lh4.googleusercontent.com/oerjGrgUanYZIY7rHRl2E33Z_T4i4YX4ehYWzQTFrm39f0dudfqocSMlq8gnQbvN4vxxHEunoMwmvgYf3Yx4KK-rUJcNziXa_eu51hTcPcRPlDq9scz_)
 
-_Who would participate? In what context? _
+_Who would participate? In what context?_
 
 I want participation to be as open as possible.  My preference would be to maintain some demographic data of who is participating (ex. age, race, gender, location).  I could imagine, for example, splitting the responses up by region, considering what Northerners consider the South and what Southerners consider the South.  I am not interested in a closed environment setting, rather I think the more people across different regions, education status, ages, genders etc. responded the more interesting the outcomes could be.
 
