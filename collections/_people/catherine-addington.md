@@ -8,7 +8,7 @@ title: Catherine Addington
 position:
 short_bio:
 slug: catherine-addington
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

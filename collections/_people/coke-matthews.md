@@ -14,6 +14,6 @@ website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist
+- Makerspace Technologist, 2018-current
 ---
-Coke Matthews is a Makerspace Technologist in the Scholars' Lab
+Coke Matthews is a Makerspace Technologist in the Scholars' Lab.

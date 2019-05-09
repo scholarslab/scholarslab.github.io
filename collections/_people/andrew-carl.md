@@ -14,6 +14,6 @@ website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2017-2018
+- Makerspace Technologist, 2017-current
 ---
-Andrew Carl is a 2017-2018 Makerspace Technologist.
+Andrew Carl is a Makerspace Technologist.

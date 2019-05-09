@@ -9,7 +9,7 @@ title: Alexandra Sanchez
 position: None
 short_bio: 'Alex Sanchez is a 2018 LAMI Fellow.'
 slug: alexandra-sanchez
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

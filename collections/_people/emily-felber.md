@@ -8,7 +8,7 @@ title: Emily Felber
 position: CHI Intern
 short_bio:
 slug: emily-felber
-status: current
+status: not_current
 twitter:
 website:
 people-category:

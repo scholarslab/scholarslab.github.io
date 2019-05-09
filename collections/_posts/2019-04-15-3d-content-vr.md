@@ -76,3 +76,29 @@ Finally, 3D scanning employs sophisticated tools that simplify the process subst
 [*University Hall 3D Scanning News Article*](https://news.virginia.edu/content/demolition-looming-university-hall-scanned-photographed-history)
 
 ![Full Building image example](https://news.virginia.edu/sites/default/files/bezzo_uhall_scan_full_dome_inline.jpg)
+ 
+ 
+ 
+ 
+ 
+## Sources
+
+Sketchup: https://www.sketchup.com/sites/www.sketchup.com/files/su-opengraph.jpg
+
+Maya: http://cdn.studiodaily.com/wp-content/uploads/2019/01/maya_2019_cached-playback.png
+
+Rhino 3D: https://www.3dprinter.net/wp-content/uploads/2014/01/rhino-3d.jpg
+
+Blocks: https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2017/07/google-blocks.jpg
+
+Tilt Brush: https://i.ytimg.com/vi/TckqNdrdbgk/maxresdefault.jpg
+
+MasterpieceVR: https://i.ytimg.com/vi/bw1PoyHaCyE/maxresdefault.jpg
+
+Photogrammetry: https://qph.fs.quoracdn.net/main-qimg-3c963a747b0552885222bbf128df7e22
+
+Tree Example: https://www.allegorithmic.com/sites/default/files/Image2.jpg
+
+3D Scanning: https://proto3000.com/wp-content/uploads/2016/08/GoSCAN-50-450x500.jpg
+
+U-Hall Building: https://news.virginia.edu/sites/default/files/bezzo_uhall_scan_full_dome_inline.jpg

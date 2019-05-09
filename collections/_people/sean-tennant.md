@@ -8,7 +8,7 @@ title: Sean Tennant
 position:
 short_bio:
 slug: sean-tennant
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

@@ -8,7 +8,7 @@ title: Eleanore Neumann
 position:
 short_bio:
 slug: eleanore-neumann
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
