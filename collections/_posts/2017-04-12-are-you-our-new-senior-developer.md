@@ -23,10 +23,7 @@ We welcome curious, critical, and compassionate professionals with integrity and
 
 **Qualifications:**
 
-_Required:_
-
-
-
+Required:
  	
   * Graduate degree or equivalent experience
 
@@ -40,7 +37,7 @@ _Required:_
   * Experience with a number of programming languages, including PHP, Ruby, Python, Java, SQL, JavaScript, shell
 
  	
-  * Experience with version control, including Git and Subversion Systems: *nix
+  * Experience with version control, including Git and Subversion Systems
 
  	
   * Ability to scope and implement software in diverse environments
@@ -52,7 +49,7 @@ _Required:_
   * Ability to encourage and develop a community of users and developers.
 
 
-_Preferred: _
+Preferred:
 
 
 

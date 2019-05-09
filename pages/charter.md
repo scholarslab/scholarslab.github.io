@@ -48,7 +48,7 @@ This is not a manifesto. It’s a statement of our core and shared ethos in the 
   * We model [an environment](http://nowviskie.org/2012/too-small-to-fail/) conducive to stable careers for DH professionals and responsible growth of the field, resisting the larger culture of grant-driven employment and adjunctification in higher ed.
 
  	
-  * Our collaborations encourage _inter-_dependence. We prepare our collaborators to _own their own_ projects, building confidence in their skills and avoiding over-dependence on expert staff. In doing so, we also teach effective collaboration through respect for the expertise and labor of all participants.
+  * Our collaborations encourage _inter_-dependence. We prepare our collaborators to _own their own_ projects, building confidence in their skills and avoiding over-dependence on expert staff. In doing so, we also teach effective collaboration through respect for the expertise and labor of all participants.
 
  	
   * A glance at recent decades reveals that every phase of digital humanities at the University of Virginia, including Scholars' Lab, has sent forth thriving innovators and leaders whose careers and influence extend far beyond the specific project or tool.

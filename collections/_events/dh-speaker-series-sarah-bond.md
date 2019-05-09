@@ -13,7 +13,7 @@ start_time: '10:00:00'
 title: 'Linking the Ancient World: A Pleiades Workshop With Sarah Bond'
 ---
 
-What can you do with linked data for over 35,000 ancient places, locations, and names? [Pleiades.stoa.org](http://pleiades.stoa.org/) has a few answers. The gazetteer, which began as a means of digitizing the _Barrington Atlas of the Greek and Roman World _(2000)_,_ grows daily and provides extensive coverage for the Greek and Roman world. It is also expanding into Ancient Near Eastern, Byzantine, Celtic, and Early Medieval geography.
+What can you do with linked data for over 35,000 ancient places, locations, and names? [Pleiades.stoa.org](http://pleiades.stoa.org/) has a few answers. The gazetteer, which began as a means of digitizing the _Barrington Atlas of the Greek and Roman World_ (2000), grows daily and provides extensive coverage for the Greek and Roman world. It is also expanding into Ancient Near Eastern, Byzantine, Celtic, and Early Medieval geography.
 
 ![SarahBond](http://static.scholarslab.org/wp-content/uploads/2016/02/SarahBond-225x300.jpg)
 

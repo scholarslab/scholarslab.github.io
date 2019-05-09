@@ -28,7 +28,7 @@ Figure 2. Screen-grab from Blippar’s website illustrating the comic book, _Pri
 
 
 
-_Priya’s Shakti _is available for [free download on Amazon ](https://www.amazon.com/Priyas-Shakti-Ram-Devineni-ebook/dp/B00Q1YQWUG), so, curious, I downloaded the comic and read it using Blippar. Not only has _Priya’s Shakti _given India its [first female “super-hero”](http://www.bbc.com/news/world-asia-india-30288173), but the comic itself is a work of art that comes to life with Blippar’s augmented reality, providing further information, links to videos, and even sound effects. This is, I believe, just the beginning of augmented reality’s dance with literature.
+_Priya’s Shakti_ is available for [free download on Amazon ](https://www.amazon.com/Priyas-Shakti-Ram-Devineni-ebook/dp/B00Q1YQWUG), so, curious, I downloaded the comic and read it using Blippar. Not only has _Priya’s Shakti_ given India its [first female “super-hero”](http://www.bbc.com/news/world-asia-india-30288173), but the comic itself is a work of art that comes to life with Blippar’s augmented reality, providing further information, links to videos, and even sound effects. This is, I believe, just the beginning of augmented reality’s dance with literature.
 
 
 

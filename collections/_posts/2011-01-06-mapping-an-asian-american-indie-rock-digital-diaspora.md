@@ -36,7 +36,7 @@ Phase 2 - geospatial visualization – is the process of turning the harvested d
 
 To interact with the map, click on the above image. This screenshot  shows the global distribution of The Kominas’ Myspace friends. The  reddish pink clusters represent the friend density in the respective  locales. The size of the cluster is an approximate representation of the  number of friends in one location.
 
-A baselayer of the world’s regions – marked by various shades of  green in the background - helps contextualize the friend distribution  across continental boundaries. At a macro level, this map articulates a  radically transnational and inter-continental distribution of friends.  Areas of high friend density include: North America, Europe, and Asia.  The story of translocality becomes more complex as we zoom in on the map  to get more geographic detail. In my dissertation, combining maps,  music analysis, and interviews, I examine how the members of The Kominas  position themselves geographically and ethnically _vis a vis _their vastly transnational world.
+A baselayer of the world’s regions – marked by various shades of  green in the background - helps contextualize the friend distribution  across continental boundaries. At a macro level, this map articulates a  radically transnational and inter-continental distribution of friends.  Areas of high friend density include: North America, Europe, and Asia.  The story of translocality becomes more complex as we zoom in on the map  to get more geographic detail. In my dissertation, combining maps,  music analysis, and interviews, I examine how the members of The Kominas  position themselves geographically and ethnically _vis a vis_ their vastly transnational world.
 
 **Questions and Concerns**
 

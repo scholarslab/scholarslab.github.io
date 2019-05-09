@@ -44,7 +44,7 @@ Our end decision has been to build our Ivanhoe as [a WordPress plugin](http://wo
 
 Eliza, Jeremy, Zach, and I met Wednesday to draw up some wire-frames for our revised Ivanhoe.  After a couple weeks of discussion about what our Ivanhoe would be, we have a more concrete--but still highly viscous--vision of what our game will look like.  We plan to have a game which will allow players to make moves which link to other moves--a key feature.  Players will be able to incorporate text, image files, sound files, and video files into their moves.  We also have plans for a role journal which will aggregate the "Rationale" entries made every time a player makes a move.  Ivanhoe strongly resembles blogging platforms such as Tumblr and WordPress blogs, but we hope our particular setup with linking possibilities will inspire new ways of posting.  We also hope, through our design strategies, to encourage a more multimedia approach to making posts.
 
-Our journey now takes us forth into the strange world of PHP--which, if you had asked me about a month ago, I'd have guessed was some sort of chemical.  To embrace our multimedia tenet, I will conclude with a not-so-subtle _homage _to our new best friend:
+Our journey now takes us forth into the strange world of PHP--which, if you had asked me about a month ago, I'd have guessed was some sort of chemical.  To embrace our multimedia tenet, I will conclude with a not-so-subtle _homage_ to our new best friend:
 
 ![File:PHP-logo.svg](http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/450px-PHP-logo.svg.png)
 

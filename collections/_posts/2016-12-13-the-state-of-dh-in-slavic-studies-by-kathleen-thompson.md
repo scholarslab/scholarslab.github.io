@@ -169,13 +169,13 @@ Some of my main takeaway points from the convention follow:
 
 If you’re interested in seeing some of the projects we learned about, check out this list:
 
-_Digital Public Scholarship _
+_Digital Public Scholarship_
 [https://1917resources.aseees.hcommons.org/](https://1917resources.aseees.hcommons.org/) - A resource on all things 1917 for the upcoming 100th anniversary of the Russian Revolution; will eventually be open-source
 [https://notevenpast.org/](https://notevenpast.org/) - A resource on local history research at the University of Texas-Austin, which includes the popular podcast 15-Minute History ([https://15minutehistory.org](https://15minutehistory.org)) and projects that have emerged from Not Even Past ([https://thinkinginpublic.org/](https://thinkinginpublic.org/))
 [http://soviethistory.msu.edu/](http://soviethistory.msu.edu/) - 17 Moments in Soviet History, a digital archive of primary sources across Soviet history
 [http://blackseanetworks.org/](http://blackseanetworks.org/) - A collaborative initiative on the Black Sea as a network
 
-_Digital Pedagogy _
+_Digital Pedagogy_
 [http://dhrees.yale.edu/](http://dhrees.yale.edu/) - Digital Humanities and Russian and East European Studies at Yale
 [http://campuspress.yale.edu/emigres/](http://campuspress.yale.edu/emigres/) - Avant-Gardes and Émigrés: Slavic Studies and Digital Humanities
 [https://utopiaafterutopia.com/](https://utopiaafterutopia.com/) - a contemporary culture research initiative on politics and aesthetics in the post-Soviet world

@@ -25,10 +25,7 @@ BUT, the playful prank is not without use or merit, and we are laughing with you
 Furthermore,  and as David shows by example on [his recent post](http://www.scholarslab.org/?p=4279), many new avenues of research open up with Prism. The tool does not replace, but sits to the left of other hermeneutic approaches. To pick one question of the many new questions that Prism opens up:
 
 
-<blockquote>_Given that anonymity changes the way we enact readings; _and_, given that the ruling ideology in Amerika would have us believe that racial identity is a thing of the past: How does the invisible subject react to symbolic Law__?_</blockquote>
+> Given that anonymity changes the way we enact readings; _and_, given that the ruling ideology in Amerika would have us believe that racial identity is a thing of the past: How does the invisible subject react to symbolic Law?
 
 
 Obviously, that is not the only new question Prism can ask, nor the first to come to mind for most users. We worked hard to make it generic enough that many disciplines could find plug-n-play uses for it. And then again, what else could Prism lead to, but renewed interest in interpretation as a microscopic-practice?  Yes, the lovely texts! Don't be fooled by the promise of macroscopic understandings of difference. That is just a (mc)lure.
-
-**
-**
