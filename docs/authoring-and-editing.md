@@ -157,7 +157,7 @@ You can copy the front matter from [this GoogleDoc](https://docs.google.com/docu
 ```markdown
 ---
 author: firstname-lastname
-date: 2018-10-16 01:00:00+00:00
+date: 2018-10-16
 layout: post
 slug: henry-rulez
 title: "10 Reasons Henry Rules: A Digital Humanities Blessay"
@@ -174,10 +174,9 @@ The first line of the post and the line after the final line of front matter sho
   - For example, alison-booth or shane-lin
   - This must match the biographical file the site has for you (if you're not sure what this is because you have multiple ways of writing your name, [check here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people)). We can change the name that's shown as the author of your post on the website (to a new name, nickname, etc.); please contact Amanda or ask on the Slack #slab-org channel, and they'll update your biographical file or show you how. Using a name other than the firstname-lastname [listed here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people) will break things.
 - **date:**
-  - The date the post is to be listed as published, using the YYYY-MM-DD  01:00:00+00:00 format, e.g. 2018-10-17 01:00:00+00:00. Note that the year comes first; hyphens separate the year, month, and day, followed by a space and then time info. 
+  - The date the post is to be listed as published, using the YYYY-MM-DD format, e.g. 2018-10-17. Note that the year comes first; hyphens separate the year, month, and day. 
   - Dates with leading zeros (e.g. 2018-02-05) need to include those zeros.
   - This is just when the post will say it was published, in the URL and in the page metadata. Currently, it does not have anything to do when the post actually goes live on our website.
-  - Unless you care about the exact time of day the post is listed as published, just leave the  01:00:00+00:00 part as is. If you do care, the time stamp is UTC rather than EST.
 - Leave **layout: post** as is
   - This tells the site to use our standard template for laying out a blog post
 - **slug:**
