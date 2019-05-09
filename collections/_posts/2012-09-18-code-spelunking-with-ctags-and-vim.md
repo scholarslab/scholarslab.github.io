@@ -407,18 +407,7 @@ So here’s what we’ve learned today:
 
 
 
-
-
-
-<blockquote>
-
-> 
 > _With bonus content!_
-> 
-> 
-</blockquote>
-
-
 
 
 # Next Steps

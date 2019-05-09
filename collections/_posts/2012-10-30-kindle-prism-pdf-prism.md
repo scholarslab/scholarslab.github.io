@@ -16,7 +16,7 @@ It turns out that Amazon already does some (very basic) analysis of crowdsourced
 Apparently this group of readers really thinks the first sentence of Pride and Prejudice is significant for one reason or another. But far more find something highlight-worthy about this line from Catching Fire (The Second Book of The Hunger Games):
 
 
-<blockquote>Because sometimes things happen to people and they’re not equipped to deal with them.</blockquote>
+> Because sometimes things happen to people and they’re not equipped to deal with them.
 
 
 This is a bit like Prism with tens of thousands if not millions of users (the quote above was highlighted by 17784 users at this time of this post) and no constraints on the _meaning_ of highlights&mdash;no "categories." The parallel was [noted at least in passing by last year's team](http://www.scholarslab.org/praxis-program/what-ive-learned-from-my-kindle-part-ii-and-other-thoughts-on-prism-and-markers/). Kindle has come up a number of times with the current team so far, and most recently in [Katina's post this week](http://www.scholarslab.org/praxis-program/reading-socially/) about the social aspects of reading. Perhaps it's time to revisit the comparison?
