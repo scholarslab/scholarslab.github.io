@@ -25,13 +25,3 @@ His most recent book, [_Track Changes: A Literary History of Word Processing_](h
 
  With Pat Harrigan, he has also co-edited the [_Zones of Control: Perspectives on Wargaming_](https://mitpress.mit.edu/zones-control) for the MIT Press, a volume containing nearly seventy contributions (2016).  In 2010 he co-authored (with Richard Ovenden and Gabriela Redwine) _[Digital Forensics and Born-Digital Content in Cultural Heritage Collections](http://www.clir.org/pubs/abstract/pub149abst.html)_, a report published by the Council on Library and Information Resources and recognized with a commendation from the Society of American Archivists. His first book, _[Mechanisms: New Media and the Forensic Imagination](http://mechanisms-book.blogspot.com/)_, was published by the MIT Press in 2008 and won the 2009 Richard J. Finneran Award from the Society for Textual Scholarship (STS), the 2009 George A. and Jean S. DeLong Prize from the Society for the History of Authorship, Reading, and Publishing (SHARP), and the 16th annual Prize for a First Book from the Modern Language Association (MLA).  Kirschenbaum speaks and writes often on topics in the digital humanities and new media; his work has received coverage in the _Atlantic_, _Slate_, _New York Times_, _The Guardian_, National Public Radio, _Wired_, Boing Boing, Slashdot, and the _Chronicle of Higher Education_.  He is a 2011 [Guggenheim Fellow](http://www.gf.org/). See [http://www.mkirschenbaum.net](http://www.mkirschenbaum.net/) for more.
 
-
-<table >
-<tbody >
-<tr >
-
-<td >
-</td>
-</tr>
-</tbody>
-</table>

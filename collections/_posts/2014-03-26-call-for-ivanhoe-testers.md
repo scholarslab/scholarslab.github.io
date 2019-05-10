@@ -23,7 +23,7 @@ Potential uses of the Ivanhoe Game WP Theme include:
 
 
 	
-  * Critical back-and-forth game play among scholars interested in applying different theoretical schools of thought to the same work.  For instance, in a game on _The Tempest, _one scholar might elect to 'be' Freud, another a Postcolonialist, and another a feminist critic; and the 'moves' might constitute asides written by these players in response to action in the play.
+  * Critical back-and-forth game play among scholars interested in applying different theoretical schools of thought to the same work.  For instance, in a game on _The Tempest,_ one scholar might elect to 'be' Freud, another a Postcolonialist, and another a feminist critic; and the 'moves' might constitute asides written by these players in response to action in the play.
 
 	
   * Students in a course on textual editing or book history might take on roles as different people involved in the publication of a hypothetical or real book: author, editor, compositor, illustrator, printer, binder, bookseller, etc.!

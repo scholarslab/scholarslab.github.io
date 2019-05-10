@@ -21,8 +21,3 @@ Dr. Marlene Daut is an Associate Professor of African Diaspora Studies, Carter G
 
 This talk, co-sponsored by the Carter G. Woodson Institute and the Scholars' Lab, is free and open to the public.
 
-
-
-_ _
-
-

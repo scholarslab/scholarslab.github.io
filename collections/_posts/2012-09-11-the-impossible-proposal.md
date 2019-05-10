@@ -10,7 +10,7 @@ tags:
 - praxis program
 ---
 
-For my first post as a [Praxis](http://praxis.scholarslab.org/) Fellow I'd like to share an exercise that a [mentor](http://stephenjrushmusic.com/) of mine often used to kick-off [courses in interdisciplinary collaboration](http://www.music.umich.edu/current_students/perf_opps/dme/index.html): The Impossible Proposal. At the first meeting of a class of engineers, artists, musicians, dancers, writers, etc. tasked with creating a tangible project by the end of the semester, our professor would ask us to come up with a proposal for an impossible project&mdash;not just __difficult but totally and utterly _impossible_. Few of us succeeded on the first try.
+For my first post as a [Praxis](http://praxis.scholarslab.org/) Fellow I'd like to share an exercise that a [mentor](http://stephenjrushmusic.com/) of mine often used to kick-off [courses in interdisciplinary collaboration](http://www.music.umich.edu/current_students/perf_opps/dme/index.html): The Impossible Proposal. At the first meeting of a class of engineers, artists, musicians, dancers, writers, etc. tasked with creating a tangible project by the end of the semester, our professor would ask us to come up with a proposal for an impossible project&mdash;not just difficult but totally and utterly _impossible_. Few of us succeeded on the first try.
 
 The point here is not simply [inspirational](http://www.youtube.com/watch?v=RfHnzYEHAow). The practice of generating impossible ideas is like weight training for your brainstorming muscles. And on the path to the impossible are many possibilities that could otherwise be overlooked.
 

@@ -32,7 +32,7 @@ The info session will:
   * address application details - for employment and travel.
 
 
-_Meg Studer, the program manager, will __also take questions. _
+_Meg Studer, the program manager, will also take questions._
 
 **The initiative welcomes students from any discipline and department with skills in digital visualization, computation as well as research skills in the humanities.**
 

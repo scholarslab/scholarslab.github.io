@@ -18,7 +18,7 @@ Are you an experienced digital humanities scholar-practitioner with a strong bac
 
 The Head of the Scholars’ Lab should have a strong service ethic, broad technical knowledge, and ability to collaborate as a true partner with faculty and graduate students, enabling next-generation digital scholarship in a library lab setting. He or she should also be able to take good advantage of the "20% time" afforded to all in the Department of Digital Research & Scholarship to pursue professional development and their own (often collaborative) research projects related to the mission of the Scholars’ Lab. This is a full-time, permanent managerial and professional staff position at UVa.
 
-**Primary Responsibilities: **
+**Primary Responsibilities:**
 _Community-building and Leadership_: strategic leadership of digital humanities services, oversight of day-to-day operations, design of intellectual programming and instruction, and collaboration with local and national/international peers; _Project-based Collaborations_: coordinates development of high-level goals, intake processes, workplans, and MoUs for digital project collaborations, in consultation with departmental, Library, and University partners; _Research and Professional Development_: pursuit of own scholarly R&D agenda related to the humanities or social sciences with publication of results and/or presentation at appropriate venues.
 
 **Specialized Knowledge and Skills: **

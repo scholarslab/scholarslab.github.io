@@ -21,10 +21,12 @@ tags:
 - visualization
 ---
 
-Digital images both lie to us and tell us truths that exist outside of our normal perception. The lie comes about through both deliberate distortions and distortions produced by limitations in digital and in other reproduction methods. The limitations of reproductions are easy to see for anyone who considers the situation carefully, but understanding the problems that they create in our understanding of the past requires some study. The most coherent summary of the problems of the late 1980s and the problems with reproductions in general was written by G. T. Tanselle in 1989. In this essay, ["Reproductions and Scholarship"](http://xtf.lib.virginia.edu/xtf/view?docId=StudiesInBiblio/uvaBook/tei/sibv042.xml;chunk.id=vol042.02;toc.depth=1;toc.id=vol042.02;brand=default), Tanselle reminds us that "everyone knows (though many people act as if they do not know) that every form of reproduction can lie, by providing a range of possibilities for interpretation that is different from the one offered by the original."1 These reproductions can be useful supplements to the originals, but serious research ought to be checked against the originals to determine where the reproduction may mislead. He summarizes the obligation of those who study the verbal texts of the past,
+Digital images both lie to us and tell us truths that exist outside of our normal perception. The lie comes about through both deliberate distortions and distortions produced by limitations in digital and in other reproduction methods. The limitations of reproductions are easy to see for anyone who considers the situation carefully, but understanding the problems that they create in our understanding of the past requires some study. The most coherent summary of the problems of the late 1980s and the problems with reproductions in general was written by G. T. Tanselle in 1989. In this essay, ["Reproductions and Scholarship"](http://xtf.lib.virginia.edu/xtf/view?docId=StudiesInBiblio/uvaBook/tei/sibv042.xml;chunk.id=vol042.02;toc.depth=1;toc.id=vol042.02;brand=default), Tanselle reminds us that "everyone knows (though many people act as if they do not know) that every form of reproduction can lie, by providing a range of possibilities for interpretation that is different from the one offered by the original."[^1] These reproductions can be useful supplements to the originals, but serious research ought to be checked against the originals to determine where the reproduction may mislead. He summarizes the obligation of those who study the verbal texts of the past,
 
 
-<blockquote>The words that come to us from the past, transmitted by paper and ink, cannot be assumed to reflect accurately what their authors intended; in order to assess how the words that are present in documents came to be there, and indeed to try to make sure that we know what words are in fact there, we must avail ourselves of all the evidence that comes with them.2</blockquote>
+<blockquote>
+The words that come to us from the past, transmitted by paper and ink, cannot be assumed to reflect accurately what their authors intended; in order to assess how the words that are present in documents came to be there, and indeed to try to make sure that we know what words are in fact there, we must avail ourselves of all the evidence that comes with them.[^2]
+</blockquote>
 
 
 While photocopies, photographs, and microphotographs can place texts before us that we cannot always get to ourselves, they are all several steps removed from the original and each step provides opportunities to alter---intentionally and not---the final product of the reproduction process. Taking up this line of thinking, Bonnie Mak recently wrote about the problematic assumptions in doing literary research from the digitized versions of high-contrast microfilms, created under war-time expediencies.3 Her ["Archaeology of digitization"](http://onlinelibrary.wiley.com/doi/10.1002/asi.23061/abstract;jsessionid=B6DCFD7DB8E924CE0DEBF2679116FDC9.f03t04) describes the context in which the familiar database of _Early English Books Online_ was produced and how it has come to stand in for access to the original. Echoing Tanselle's objection, she notes that the expediencies of war-time microfilming and batch digitization lead to unpredictable, but often interpretable, errors that themselves are worthy of study. Rather than bemoaning the poor state of---what is for many students and scholars distant from major libraries---the "archive of record" for English books, she claims that we can study the errors in these reproductions to understand a historical moment that sees verbal texts in a certain way. Digitization, microfilming, and OCR fail us, but we can use "paratextual" clues to determine how a particular digital reproduction came to be and so compensate for actual and potential errors, albeit incompletely.
@@ -81,7 +83,7 @@ stretching the colors in the middle of the histogram to cover the whole range of
 
 Human vision can normally distinguish a bit more than sixteen-million colors, so modern digital images provide a color range that encompasses that in three channels---typically, red, green, and blue. Each pixel---that is, evenly-colored dot---in the image has three numbers associated with it that correspond with the amount of red light, green light, and blue light that must be mixed together to produce the right color on an illuminated screen. (There are many variations of this in different [color spaces](https://en.wikipedia.org/wiki/Color_space), CMYK is more useful for printing, Munsell is better for colorimetry; but this particular explanation is sufficient for this post.) A quick bit of math shows that eight bits gives 256 intensities to each channel (red, blue, or green) and that these three channels together give 256 times 256 times 256 colors, that is 16,777,216 different colors. Thus, it is simply a matter of calibration and choosing the right range of intensities for an eight-bit per channel image to reproduce the entire range of colors that can be seen. However, image detectors can distinguish more than this and digital photographers can use this extended range to mimic the large range of colors that can be perceived in the world. Let me explain how we can perceive more colors than we can see.
 
-When we look at a dark alley in the sunlight, our eyes adjust the intensity of the light as our gaze passes over the scene. When we look at the clouds around the sun, our irises constrict, reducing the amount of light that enters our eye so that we can see clouds as white on blue backgrounds rather than as just bright white light. When we stare into the alleyway, our irises expand to take in more light, so that we can see the red bricks on the side rather than just a dark alley. Normally, our eyes move over a scene quickly and take in different intensities of light and our brain combines them together into one image in our mind. Based on contextual clues, we can perceive a wider range of colors than our limited sixteen-million-color vision can see because of how our eyes adjust and our intuition about how light functions in the world. (Josef Albers explains how this visual intuition is not truly a deeper knowledge about color, but an intuition that can be manipulated into seeing colors that are not really there in his pioneering _Interaction of Color_4) Digital detectors, as of yet, do not operate quite in this way, but can mimic the process. One way is to take several digital photographs at different brightness levels and stitch them together. In our example, we could take a too-bright photograph to capture the red brick of the alley and a too-dark photograph to capture the white and blue of the clouds. Photographers call this [high-dynamic-range imaging,](https://en.wikipedia.org/wiki/High-dynamic-range_imaging) and it essentially extends the detection of color beyond the sixteen-million limit. As this method has existed for awhile, detectors have been built that can detect colors outside of the normal range to save the trouble of taking multiple exposures. (Thanks to [Shane Lin](http://scholarslab.org/people/shane-lin/) for helping me to understand this.) The commercial purpose of these detectors is to help in high-dynamic-range photography, but the result is that they can detect sixteen-bits of information per red, blue, and green channel (or equivalent) giving 65,563 colors per channel and giving trillions (281,823,012,408,547) of possible colors. One way of considering how this extended range might improve digital reproductions, is that sixteen-million times _more evidence_ captured. If the color of a page means something---and it certainly does since color is the way we distinguish the letter-forms that make up the text---then we have much, much more information in a sixteen-bit per channel image.
+When we look at a dark alley in the sunlight, our eyes adjust the intensity of the light as our gaze passes over the scene. When we look at the clouds around the sun, our irises constrict, reducing the amount of light that enters our eye so that we can see clouds as white on blue backgrounds rather than as just bright white light. When we stare into the alleyway, our irises expand to take in more light, so that we can see the red bricks on the side rather than just a dark alley. Normally, our eyes move over a scene quickly and take in different intensities of light and our brain combines them together into one image in our mind. Based on contextual clues, we can perceive a wider range of colors than our limited sixteen-million-color vision can see because of how our eyes adjust and our intuition about how light functions in the world. (Josef Albers explains how this visual intuition is not truly a deeper knowledge about color, but an intuition that can be manipulated into seeing colors that are not really there in his pioneering _Interaction of Color_[^4]) Digital detectors, as of yet, do not operate quite in this way, but can mimic the process. One way is to take several digital photographs at different brightness levels and stitch them together. In our example, we could take a too-bright photograph to capture the red brick of the alley and a too-dark photograph to capture the white and blue of the clouds. Photographers call this [high-dynamic-range imaging,](https://en.wikipedia.org/wiki/High-dynamic-range_imaging) and it essentially extends the detection of color beyond the sixteen-million limit. As this method has existed for awhile, detectors have been built that can detect colors outside of the normal range to save the trouble of taking multiple exposures. (Thanks to [Shane Lin](http://scholarslab.org/people/shane-lin/) for helping me to understand this.) The commercial purpose of these detectors is to help in high-dynamic-range photography, but the result is that they can detect sixteen-bits of information per red, blue, and green channel (or equivalent) giving 65,563 colors per channel and giving trillions (281,823,012,408,547) of possible colors. One way of considering how this extended range might improve digital reproductions, is that sixteen-million times _more evidence_ captured. If the color of a page means something---and it certainly does since color is the way we distinguish the letter-forms that make up the text---then we have much, much more information in a sixteen-bit per channel image.
 
 The [Digital Production Team](http://static.lib.virginia.edu/directory/teams/library-digital-production-team.html) at the University of Virginia graciously provided these higher-bit-per-channel images. (A special thanks belong to [Christina Deane](http://static.lib.virginia.edu/directory/staff/cmm2t.html) who approved what must have seemed like a plan hatched by the Mad Hatter and [Sam Pierceall](http://static.lib.virginia.edu/directory/staff/sbp2k.html) who joined the tea party and helped us to understand his workflow---and possibilities for digitization using his equipment.) Looking back at the histogram earlier in the article, you can see that the broadest peaks fall on the right. These correspond to the brownish color of the paper and, in the sixteen-bit per channel images, cover a range of around eleven-million colors. These eleven-million colors fall into around ten-thousand distinguishable colors under normal circumstances. However, using a similar Fauvist-like visualization to the one above, we can uncover more information. For this experiment, we focused on a traditionally bibliographical object of study, paper.
 
@@ -150,11 +152,6 @@ In other words, it is printed in octavo---that is eight pages to each side of a 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/05/border-scheme-8-mosaic-smaller-2-300x236.jpg)
 
 
-
-
-
-
-
 Sheets of the Book
 
 
@@ -162,12 +159,6 @@ In this visualization---it cannot be a reproduction since the original sheet for
 
 
 [![](http://static.scholarslab.org/wp-content/uploads/2017/05/border-paper-scheme-8-mosaic-smaller-3-300x236.jpg)](https://github.com/cacology/characters/blob/master/paper%20evidence/border-paper-scheme-8-mosaic.jpg)
-
-
-
-
-
-
 
 Visually Altered Sheets of the Book ([Download the large version](https://github.com/cacology/characters/blob/master/paper%20evidence/border-paper-scheme-8-mosaic.jpg))
 
@@ -207,37 +198,26 @@ This post, I hope, demonstrates two things. First, that information about the pa
 While our books bear silent and eloquent witness to their own production history, technology keeps changing and tomorrow's technology might let us know a little bit more of the history that books embody. For this project, this visualization suggests the range of evidence to be found in particular copies. Returning to the author's manuscript, where available, or attempting to infer what the author's manuscript must have looked like, has a great deal of value as a coherent aim for historical investigation, but---so too---has the recovery of the history of printed artifacts which first exposed readers to a composite of production processes that take an author's manuscript, edit it, revise it, order it, format it, and impress it on paper. Studying a particular edition, while not replacing editing for authorial intention, recovers the intention of compositors and correctors who also had a say in the texts that the past left to us, and so should have a voice it recovering their history.
 
 
-
-
-
-
-* * *
-
-
-
-
-
+ 	
+  [^1]: G. Thomas Tanselle, “Reproductions and Scholarship,” in _Literature and Artifacts_ (Charlottesville: The Bibliographical Society of the University of Virginia, 1998), 33.
 
  	
-  1. G. Thomas Tanselle, “Reproductions and Scholarship,” in _Literature and Artifacts_ (Charlottesville: The Bibliographical Society of the University of Virginia, 1998), 33.↩
+  [^2]: Ibid., 38--39.
 
  	
-  2. Ibid., 38--39.↩
+  [^3]: Bonnie Mak, “Archaeology of a Digitization,” _Journal of the Association for Information Science and Technology_ 65, no. 8 (2014): 151–1526, doi:[10.1002/asi.23061](https://doi.org/10.1002/asi.23061).
 
  	
-  3. Bonnie Mak, “Archaeology of a Digitization,” _Journal of the Association for Information Science and Technology_ 65, no. 8 (2014): 151–1526, doi:[10.1002/asi.23061](https://doi.org/10.1002/asi.23061).↩
+  [^4]: Josef Albers, _Interactions of Color_, Rev. ed. (New Haven: Yale University Press, 1975).
 
  	
-  4. Josef Albers, _Interactions of Color_, Rev. ed. (New Haven: Yale University Press, 1975).↩
+  [^5]: Philip Gaskell, _A New Introduction to Bibliography_ (Oxford: Oxford University Press, 1972), p. [92], fig. 50.
 
  	
-  5. Philip Gaskell, _A New Introduction to Bibliography_ (Oxford: Oxford University Press, 1972), p. [92], fig. 50.↩
+  [^6]: R. W. Chapman, _Cancels_, Bibliographia (London: Constable & Co. Ltd., 1930), 6.
 
  	
-  6. R. W. Chapman, _Cancels_, Bibliographia (London: Constable & Co. Ltd., 1930), 6.↩
-
- 	
-  7. Tanselle, “Reproductions and Scholarship,” 38.↩
+  [^7]: Tanselle, “Reproductions and Scholarship,” 38.
 
 
 

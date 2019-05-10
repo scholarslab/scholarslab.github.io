@@ -24,7 +24,7 @@ In my previous project of modeling the [House of the Faun](http://en.wikipedia.o
 
 (click for larger image)
 
-Lighting simulation and computer modeling enable us to take this a step further and create timelapse animations demonstrating how light shifted throughout the hours of the day or days of the year.  We then know when mosaics would have been exposed to direct sunlight or were in the shade.  I found it useful to create an animation of standing in the _triclinium _(dining room) of the house, looking west toward the courtyard, to see if the _triclinium _received direct sunlight at any point of the day.  So far I have found that it does on March 21st of A.D. 200, and probably throughout the spring and autumn.  In fact, the room's mosaics are illuminated quite beautifully right around dinner time.
+Lighting simulation and computer modeling enable us to take this a step further and create timelapse animations demonstrating how light shifted throughout the hours of the day or days of the year.  We then know when mosaics would have been exposed to direct sunlight or were in the shade.  I found it useful to create an animation of standing in the _triclinium_ (dining room) of the house, looking west toward the courtyard, to see if the _triclinium_ received direct sunlight at any point of the day.  So far I have found that it does on March 21st of A.D. 200, and probably throughout the spring and autumn.  In fact, the room's mosaics are illuminated quite beautifully right around dinner time.
 
 [[Link to video]](http://people.virginia.edu/~ewg4x/hotdc/caa-hdc-medium.mov).
 

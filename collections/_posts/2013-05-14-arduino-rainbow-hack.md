@@ -32,7 +32,7 @@ Next, we added an extra octave. To extend the range, we hard coded frequencies f
 
 timeHigh = period / 2 = 1 / (2 * toneFrequency)
 
-We probably could have done this in a more dynamic way. Or, as [Eric](http://www.scholarslab.org/people/eric-johnson/) and [Ronda](http://www.scholarslab.org/people/ronda-grizzle/) showed, we could have just downloaded a tone library to do this for us. They were jamming out to the Star Wars theme while we were still trying to get things working.  But eventually, we were able to program in the opening of “Mary Had a Little Lamb,”_ _Mozart’s _Lacrimosa_, John Coltrane’s “26-2,” and “Somewhere Over the Rainbow_._”
+We probably could have done this in a more dynamic way. Or, as [Eric](http://www.scholarslab.org/people/eric-johnson/) and [Ronda](http://www.scholarslab.org/people/ronda-grizzle/) showed, we could have just downloaded a tone library to do this for us. They were jamming out to the Star Wars theme while we were still trying to get things working.  But eventually, we were able to program in the opening of “Mary Had a Little Lamb,” Mozart’s _Lacrimosa_, John Coltrane’s “26-2,” and “Somewhere Over the Rainbow.”
 
 Here is where things got really ambitious, we came up with the idea to incorporate a RGB LED light that would change colors each time there was a note change in “Somewhere Over the Rainbow.” Rainbow lights for a song about rainbows.
 

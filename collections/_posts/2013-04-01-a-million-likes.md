@@ -10,7 +10,7 @@ tags:
 - Digital Humanities
 ---
 
-*** * * TRANSCRIPT * * ***
+TRANSCRIPT
 
 A [new social media campaign](https://www.facebook.com/scholarslab) is taking Facebook by storm! Staff of the [Scholars' Lab](http://scholarslab.org/), a prominent University of Virginia-based academic technology center, have gone viral with an adorable picture and charming plea. This is not the first time the SLab has captured the collective imagination of the international digital humanities community -- but it may be the last!
 
@@ -22,7 +22,7 @@ A [new social media campaign](https://www.facebook.com/scholarslab) is taking Fa
 
 **SEAL:** It all began in the early hours of March 28th, when Wayne Graham, head of Scholar's Lab R&D, received a call from systems administrators informing him he was to spend the next 16 hours tracking down the source of unusual activity on one of the lab's servers.
 
-**GRAHAM:** _I just couldn't _BEEEP_ing believe the _BEEP BEEEP BEEP-BEEP_ers _BEEP BEEEP_ed the _BEEP BEEP BEEEP BEEP_-box again. _BEEEEEEP.
+**GRAHAM:** _I just couldn't_ BEEEP_ing believe the _BEEP BEEEP BEEP-BEEP_ers_ BEEP BEEEP_ed the _BEEP BEEP BEEEP BEEP_-box again._ BEEEEEEP.
 
 Meanwhile, Ronda Grizzle, who handles communications for the SLab, was waking to a message of her own.
 

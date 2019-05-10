@@ -20,8 +20,7 @@ categories:
 
 
 
-This workshop will explore creating virtual museums using the free game engine Unity3D and found assets from the web. Participants will be guided through the initial stages of museum creation using stills, videos, audio and 3D models and will culminate with exporting projects for the web and for VR. No experience necessary. **Location:** _Clemons Library, 3rd Fl_, _Robertson Media Center Immersive Space
-_
+This workshop will explore creating virtual museums using the free game engine Unity3D and found assets from the web. Participants will be guided through the initial stages of museum creation using stills, videos, audio and 3D models and will culminate with exporting projects for the web and for VR. No experience necessary. **Location:** _Clemons Library, 3rd Fl, Robertson Media Center Immersive Space_
 
 
 

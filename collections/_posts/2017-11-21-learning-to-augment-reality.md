@@ -28,7 +28,7 @@ Not only does the target image need to have enough unique features to be easily 
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/11/Screen-Shot-2017-11-21-at-1.38.36-PM-300x207.png)
 
-Image 4: Cover of _Fish in Exile _against a mesh chair. The yellow crosses have primarily identified features of the chair – rather than the cover of the book – as unique features, and the “augmentability” of the image has declined to two stars.
+Image 4: Cover of _Fish in Exile_ against a mesh chair. The yellow crosses have primarily identified features of the chair – rather than the cover of the book – as unique features, and the “augmentability” of the image has declined to two stars.
 
 Another problem that we ran into has to do with subject matter. We’re currently experimenting with items on or around UVA’s grounds. So we’ve been taking photos of items from the Small Special Collections, buildings, memorials, and even lunchboxes sitting around in office spaces. But this becomes problematic when the photos we take are affected by the environment. For instance, I tried taking a photo of the segment of the Berlin Wall that stands on UVA’s grounds, and here’s how it turned out:
 
@@ -50,4 +50,4 @@ And on this parting note, I’d like to include a couple fun pictures of the fru
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/11/Screen-Shot-2017-11-21-at-11.45.41-AM-300x176.png)
 
-Images 6-9: Augmentations of _Fish in Exile _and the Cowboy lunchbox.
+Images 6-9: Augmentations of _Fish in Exile_ and the Cowboy lunchbox.
