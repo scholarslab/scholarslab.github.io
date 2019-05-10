@@ -44,27 +44,66 @@ To help you gather app ideas from the over three hundred HoloLens apps in the Wi
         c. [*HoloQuarium*](https://www.microsoft.com/en-us/p/holoquarium/9nblggh513pd?activetab=pivot:overviewtab) 
         
         With this app, you can have numerous tropical fish swimming in your room!
+        
+        
+## Education  
 
-        
-        
+  1. [*Holostudy Biology*](https://www.microsoft.com/en-us/p/holostudy-biology/9plknq0l9k7x?activetab=pivot:overviewtab)
 
-        
-        
-        
-        
-     
+      Holostudy Biology, created by HoloGroup, helps users learn more about cell structure. During play, parts of the cell are highlighted when the player looks at them or air taps them. It’s a very fun and informative way to learn.
       
-       
-
-      
-      
-   
-
-      
-      
- 
-      
+   2. [*Lifeliqe HoloLens*](https://www.microsoft.com/en-us/p/lifeliqe-hololens/9n471tldg054?activetab=pivot:overviewtab) 
     
+      Lifeliqe HoloLens, created by Lifeliqe, is free and supports both English and Spanish. The app contents include learning modules that discuss the formation of water, Earth’s history, stratovolcanoes, ancient astronomy, Stonehenge, and much more. The figures inside are dynamic and can be tapped to make them run.
+      
+   3. [*Holo F(x)*](https://www.microsoft.com/en-us/p/holo-f-x/9np8q94fs2sd?activetab=pivot:overviewtab) 
+    
+      Holo F(x) was created by Yungoal. Users can input a mathematical function into the app, and it visualizes the function as a 3D model that they can twist around! The app is easy to use, and voice control can even be used to input functions. It’s a great tool for in-class and at-home visualization of functions.
 
+  4. Similar Apps 
+  
+        a. [*MyLab*](https://www.microsoft.com/en-us/p/mylab/9nn8dz3j8ksx?activetab=pivot:overviewtab) 
+        
+        MyLab is an interactive chemistry app that allows the user to learn more about all the chemical elements in the periodic table.
+        
+## Entertainment & Games   
+
+  1. [*ARails*](https://www.microsoft.com/en-us/p/arails/9nblggh4xb7w?activetab=pivot:overviewtab)
+
+      ARails, created by ARails Company, allows the user to build tracks to run a roller coaster cart when in simulation mode. The best part is the highly realistic sound effects. Just listening to the sound tells the player whether the cart is quickly turning or slowly climbing the track, and there’s even a sound effect of people screaming! It’s a very fun app to play.
+      
+   2. [*Fragments*](https://www.microsoft.com/en-us/p/fragments/9nblggh5ggm8?activetab=pivot:overviewtab) 
+    
+      Fragments, created by Microsoft, is a very immersive app that allows the player to be a detective and solve crimes. To set up the environment, Fragments scans the walls, floor, and ceiling of the player’s room to decide where to place items in the game. This amazing app can also reproduce the crime scene in front the player. To solve the crime, the player works with an AI assistant and police to collect evidence and information.
+      
+   3. [*Holo Maze*](https://www.microsoft.com/en-us/p/holo-maze/9nmdm1x6xf4m?activetab=pivot:overviewtab) 
+    
+      Holo-Maze, created by Ishiyama, is a one-player game that allows the user to enter the number of rows and columns of a maze. The app then reproduces the maze in front of the user, who can walk around and play in it. This is a very fun game to play indoors, but it needs a big space because the user has to navigate the maze to collect coins. The larger the maze, the more difficult it becomes. 
+
+  4. Similar Apps 
+  
+        a. [*HoloRail*](https://www.microsoft.com/en-us/p/holorail/9nblggh519s0?activetab=pivot:overviewtab) 
+        
+        This is a rail track game similar to ARails.
+        
+        a. [*Tower Blocks*](https://www.microsoft.com/en-us/p/tower-blocks-beta/9nblggh4s3bn?activetab=pivot:overviewtab) 
+        
+        Avoid dangerous collapses while playing with virtual 3D tower blocks!
+        
+        a. [*Whac-A-Mole MR*](https://www.microsoft.com/en-us/p/whac-a-mole-mr/9nz3vr32n6w1?activetab=pivot:overviewtab) 
+        
+        Take a break from work and whack a mole at your desk!
+        
+        a. [*HoloDominos*](https://www.microsoft.com/en-us/p/holodominos/9n2vsml9ppss?activetab=pivot:overviewtab) 
+        
+        Feeling bored with walking in a maze? In this real-space chasing app, run and chase an animated character.
+
+      
+
+
+
+
+       
+        
        
       
