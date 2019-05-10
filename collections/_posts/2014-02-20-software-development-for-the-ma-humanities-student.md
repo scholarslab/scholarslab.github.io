@@ -118,13 +118,8 @@ I'm a software developer, so I've necessarily focused on that in talking about m
 
 
 
-<blockquote>
-
-> 
 > Gina Trapani has an excellent post talking about how crucial--but also how under-valued--many tasks are in a software project, especially in the open source world. You can read about it at [Designers, Women, and Hostility in Open Source](http://smarterware.org/7550/designers-women-and-hostility-in-open-source).
-> 
-> 
-</blockquote>
+
 
 
 
@@ -168,21 +163,7 @@ Let me count the ways.
 
   * **Multi-level focus** I'm not sure what to call this point, but it may be the most important one. When you analyze literature you must command details from a variety of texts and sources and synthesize them to make a larger point. This involves paying attention to both the forest and the trees. Writing software involves the same split focus: on the one hand, you spend a lot of time in the weeds thinking about semicolons; on the other hand, you must keep the big picture in mind to stay on track and on schedule.
 
-
-
-
-
-<blockquote>
-
-> 
 > For some of the same points, plus some others, see Shelby Switzer's post on [How my “impractical” humanities degree prepared me for a career in programming](http://shelbyswitzer.com/humanities_degrees_help_programmers/).
-> 
-> 
-</blockquote>
-
-
-
-
 
 # What Can you be Doing Now?
 

@@ -27,36 +27,15 @@ For most projects that I’m reasonably sure that I’ll be the only developer o
 
 
 Given Haskell’s reputation, the previous sentence probably seems to border on insanity. Hopefully this post will prove this at least partially correct and will highlight some of the nicer aspects of working in Haskell. It leverages types to provide some assurances that the data is well-formed and consistent. This means I can perform data validation quickly and easily, and that helps everyone.
-
-
-
-
-<blockquote>
-
-> 
+ 
 > This post is actually runnable Haskell. If you have the [GHC](https://www.haskell.org/ghc/) compiler installed you can copy and paste this post into a file, say `Validating.lhs`, and run it from the command line:
-> 
-> 
 
->     
 >     <code class="sourceCode bash">$ <span class="kw">runhaskell</span> Validating.lhs contribDB_1982.csv</code>
-> 
-> 
 
-> 
 > However, to follow this post, you don’t need to know Haskell. I’ll try to explain enough of the concepts and syntax that matter as they come up, so that anyone familiar with computer programming should be able to follow along without getting into the weeds of exactly what’s happening on each line.
-> 
-> 
 
-> 
 > So first some pre-amble and boilerplate. This just makes available the libraries that we’ll use.
-> 
-> 
-</blockquote>
 
-
-
-    
     <code class="sourceCode haskell">
     <span class="fu">></span> <span class="ot">{-# LANGUAGE OverloadedStrings #-}</span>
     <span class="fu">></span>

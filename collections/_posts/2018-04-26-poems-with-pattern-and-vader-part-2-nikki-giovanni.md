@@ -36,7 +36,7 @@ But rather than jump straight to Gates’ now famous definitions and theorizatio
 
 
 
-<blockquote>From a literary point of view, it is a significant, exciting aspect of today’s poetry. I know, and you know, that we have always signified. On the corners, in the poolrooms, the playgrounds, anywhere and everywhere we have had the opportunity. … However, to my knowledge, no _group_ of Black writers has ever used it as a poetic technique as much as today’s writers. It is done with polish. … Too much _signifying_ can be negative, I think; however, most of today’s poets are very conscious of how important positive vibrations are, and few have carried signification to an extreme. In the main, it is being used, for constructive destruction. (14)</blockquote>
+> From a literary point of view, it is a significant, exciting aspect of today’s poetry. I know, and you know, that we have always signified. On the corners, in the poolrooms, the playgrounds, anywhere and everywhere we have had the opportunity. … However, to my knowledge, no _group_ of Black writers has ever used it as a poetic technique as much as today’s writers. It is done with polish. … Too much _signifying_ can be negative, I think; however, most of today’s poets are very conscious of how important positive vibrations are, and few have carried signification to an extreme. In the main, it is being used, for constructive destruction. (14)
 
 
 
@@ -58,7 +58,7 @@ This may seem like a sharp left turn, but I happen to be reading I. A. Richards�
 
 
 
-<blockquote>…we are concerned, firstly, with the feeling actually aroused by the word in the poem, not with the feelings the word might have in other contexts, or the feeling it generally has, or the feeling it “ought to have,” though these may have with advantage be remembered, for a word’s feeling is often determined in part by its senses in other contexts. … Is the pull [of the word’s feeling] exerted by context … sufficient to overcome what may be described as the normal separate feeling of the questionable word? Can this pull bring it in, as an item either in accordance or in due contrast to the rest? Or does the word resist, stay outside, or wrench the rest of the poem into crudity and or confusion? (201-203)</blockquote>
+> …we are concerned, firstly, with the feeling actually aroused by the word in the poem, not with the feelings the word might have in other contexts, or the feeling it generally has, or the feeling it “ought to have,” though these may have with advantage be remembered, for a word’s feeling is often determined in part by its senses in other contexts. … Is the pull [of the word’s feeling] exerted by context … sufficient to overcome what may be described as the normal separate feeling of the questionable word? Can this pull bring it in, as an item either in accordance or in due contrast to the rest? Or does the word resist, stay outside, or wrench the rest of the poem into crudity and or confusion? (201-203)
 
 
 
