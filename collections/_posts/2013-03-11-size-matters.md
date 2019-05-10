@@ -41,14 +41,13 @@ Travel is one of the best tests of our spatial literacy.  When away from famili
 Visualizing comparative size and shape requires skill in [spatial thinking](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc2863328/). Packing a suitcase, parking a car, finding a restaurant, finding your car when leaving the restaurant...all involve visualizing spatial relationships based on size, distance, shape, and changing points of reference.  Artsy [infographics](http://static02.mediaite.com/geekosystem/uploads/2010/10/true-size-of-africa.jpg) overlay the world on Africa and [popular television](http://www.youtube.com/watch?v=n8zBC2dvERM) explores Mercator's map distortions. We're all [thinking spatially](http://convergence.ucsb.edu/article/spatial-thinking) every day.
 
 
-<blockquote>_"Spatial literacy is the competent and confident use of maps, mapping, and spatial thinking to address ideas, situations, and problems within daily life, society, and the world around us." - [Diana Stuart Sinton](http://dianamaps.com/2012/07/25/how-would-you-define-spatial-literacy/), Geographer and Spatial Thinker
-_</blockquote>
+>_"Spatial literacy is the competent and confident use of maps, mapping, and spatial thinking to address ideas, situations, and problems within daily life, society, and the world around us." - [Diana Stuart Sinton](http://dianamaps.com/2012/07/25/how-would-you-define-spatial-literacy/), Geographer and Spatial Thinker_
 
 
 Universities host spatial studies [centers](http://www.spatial.ucsb.edu/) , organize spatial studies [conferences](http://digitalcommons.bucknell.edu/bugisconf/), and offer graduate level [training in spatial literacy](http://www.redlands.edu/academics/school-of-education/9762.aspx).  And spatial literacy is a topic of growing academic focus [beyond the higher ed classroom](http://www.isat.jmu.edu/geospatialsemester/).  Kids love maps.  Using maps to illustrate comparative size promotes [spatial thinking at an early age](http://www.temple.edu/psychology/newcombe/documents/early_ed_for_spatial.pdf).
 
 
-<blockquote>_"Spatial thinking can be learned, and it can and should be taught at all levels in the education system." - [National Research Council](http://www.nap.edu/catalog.php?record_id=11019)_</blockquote>
+>_"Spatial thinking can be learned, and it can and should be taught at all levels in the education system." - [National Research Council](http://www.nap.edu/catalog.php?record_id=11019)_
 
 
 Much of [Edward Tufte's](http://www.edwardtufte.com/tufte/) brilliant work on visual literacy is centered around maps.  In [Envisioning Information](http://www.edwardtufte.com/tufte/books_ei) he writes of maps:

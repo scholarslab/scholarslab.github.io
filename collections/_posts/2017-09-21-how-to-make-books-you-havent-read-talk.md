@@ -63,13 +63,13 @@ Uzanne’s intuitions, albeit prophetic for the most part, failed to envision a 
 However, reading, despite being an unhealthy activity as we just saw, heavily taxing one’s eyes and body, forcing its muscles to atrophy, is an overall impossible task. Too much to read, too little time.
 
 
-<blockquote>"When Brandon was entering graduate school, an older student once summed up one of life’s problems as a sort of equation:
+> "When Brandon was entering graduate school, an older student once summed up one of life’s problems as a sort of equation:<br>
 
-There is an infinite of material that one could read.
+There is an infinite of material that one could read.<br>
 
-There is a finite amount of time that you can spend reading.
+There is a finite amount of time that you can spend reading.<br>
 
-The lesson was that there are limits to the amount of material that even the most voracious reader can take in. One’s eyes can only move so quickly, one’s mind only process so much. This might sound depressing, as if you’re playing a losing game. But it can also be freeing: if you cannot read everything, why feel the need to try to do so? Instead, read what you can with care." 2</blockquote>
+The lesson was that there are limits to the amount of material that even the most voracious reader can take in. One’s eyes can only move so quickly, one’s mind only process so much. This might sound depressing, as if you’re playing a losing game. But it can also be freeing: if you cannot read everything, why feel the need to try to do so? Instead, read what you can with care." 2
 
 
 The sentiment is not new. Today’s readers may feel completely crushed under the weight and the abundance of reading material, but so did the erudite from the early modern era. Compiling methods (common place books, anthologies, florilegia) were thus put in place to compress books within books and save the reader from the folly of having to read everything _in extenso_.
