@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2011-04-25 10:38:33+00:00
 layout: post
 slug: unsworth-idiosyncrasy-at-scale

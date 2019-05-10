@@ -1,5 +1,5 @@
 ---
-author: james-ascher
+author: james-p-ascher
 date: 2017-05-25 08:41:48+00:00
 layout: post
 slug: visualizing-paper-evidence-using-digital-reproductions

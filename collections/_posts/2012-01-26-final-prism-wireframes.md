@@ -1,5 +1,5 @@
 ---
-author: lindsay-o’connor
+author: lindsay-oconnor
 date: 2012-01-26 07:22:45+00:00
 layout: post
 slug: final-prism-wireframes

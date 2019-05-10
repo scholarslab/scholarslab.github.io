@@ -42,16 +42,16 @@ A typical work flow when optimizing a program goes something like this:
 
 
 
-  1. **Measure** how long it takes or now much memory it takes right now. Don’t skip this.
+1. **Measure** how long it takes or now much memory it takes right now. Don’t skip this.
 
 
-  2. If it’s good enough, **stop**; otherwise, keep going.
+2. If it’s good enough, **stop**; otherwise, keep going.
 
 
-  3. Change something.
+3. Change something.
 
 
-  4. `GOTO 1`.
+4. `GOTO 1`.
 
 
 

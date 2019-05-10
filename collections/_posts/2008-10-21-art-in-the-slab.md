@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2008-10-21 12:00:04+00:00
 layout: post
 slug: art-in-the-slab

@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2011-02-15 13:58:57+00:00
 layout: post
 slug: scholars-lab-and-chnm-partner-on-omeka-neatline

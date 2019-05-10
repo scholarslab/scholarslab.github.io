@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2008-09-12 12:24:46+00:00
 layout: post
 slug: all-good-press-is-local

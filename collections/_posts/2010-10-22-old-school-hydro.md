@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2010-10-22 14:39:05+00:00
 layout: post
 slug: old-school-hydro

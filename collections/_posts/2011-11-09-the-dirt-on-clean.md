@@ -1,5 +1,5 @@
 ---
-author: lindsay-o’connor
+author: lindsay-oconnor
 date: 2011-11-09 20:15:33+00:00
 layout: post
 slug: the-dirt-on-clean

@@ -61,13 +61,13 @@ The process I found to handle the conversion was fairly simple.
 
 
 
-  1. Get a PNG screenshot of each slide using [webkit2png](http://www.paulhammond.org/webkit2png/);
+1. Get a PNG screenshot of each slide using [webkit2png](http://www.paulhammond.org/webkit2png/);
 
 
-  2. Concatenate all of the PNGs into a PDF using the [ImageMagick](http://www.imagemagick.org/script/index.php) tool `convert`;
+2. Concatenate all of the PNGs into a PDF using the [ImageMagick](http://www.imagemagick.org/script/index.php) tool `convert`;
 
 
-  3. Clean up the PNGs.
+3. Clean up the PNGs.
 
 
 
