@@ -18,13 +18,10 @@ In partial answer to [Bethany](http://www.scholarslab.org/author/bethany/)'s cha
 
 The collaboration makes sense on many levels, but here are two that surface readily:
 
+1. These are complex technologies that function in a complex social and cultural system. We can meet the development needs because we represent institutions with different institutional missions, different (though like-minded) communities, with different resources.
 
 
-	
-  1. These are complex technologies that function in a complex social and cultural system. We can meet the development needs because we represent institutions with different institutional missions, different (though like-minded) communities, with different resources.
-
-	
-  2.  Our students, who will seek jobs in which they work collaboratively in different institutional missions, from the perspective of different (though like-minded) communities, with different resources, must be prepared to meet these challenges within a network of a the wider DH community.
+2.  Our students, who will seek jobs in which they work collaboratively in different institutional missions, from the perspective of different (though like-minded) communities, with different resources, must be prepared to meet these challenges within a network of a the wider DH community.
 
 
 If we believe in a basic DH tenet that making is a theoretically framed activity that helps deepen our understanding of our cultural artifacts and our modes of knowledge production, we must instill, as Bethany so aptly articulates, "a can-do, maker’s ethos" in students who will feel "_empowered to build and re-build_ the systems in which they and future students will operate." To further this cause, we must also instill a second basic DH tenet in our community of scholars, makers, and teachers: we must pool our resources, both technical and academic, and develop our technologies (such as the TEI and Omeka) and mentor our students, together.

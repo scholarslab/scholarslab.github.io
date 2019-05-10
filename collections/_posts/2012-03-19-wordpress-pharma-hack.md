@@ -63,23 +63,23 @@ There is a lot here, and worth explaining briefly. These commands
 
 
 
-	
-  1. Decompress the SQL file from the server that sits on the Desktop;
 
-	
-  2. Create a new directory in the user's public_html directory named hack (creating public_html/hack if it does not already exist);
+1. Decompress the SQL file from the server that sits on the Desktop;
 
-	
-  3. Changes the terminal in to the newly created directory (you can chain multiple commands together with the && operator)
 
-	
-  4. Downloads the latest version of WordPress with [cURL](http://en.wikipedia.org/wiki/CURL);
+2. Create a new directory in the user's public_html directory named hack (creating public_html/hack if it does not already exist);
 
-	
-  5. Creates a new database on you local machine named "hacked" using the [mysqladmin](http://dev.mysql.com/doc/refman/5.5/en/mysqladmin.html) command;
 
-	
-  6. Connects to the local MySQL server and inserts the contents of the SQL file generated earlier
+3. Changes the terminal in to the newly created directory (you can chain multiple commands together with the && operator)
+
+
+4. Downloads the latest version of WordPress with [cURL](http://en.wikipedia.org/wiki/CURL);
+
+
+5. Creates a new database on you local machine named "hacked" using the [mysqladmin](http://dev.mysql.com/doc/refman/5.5/en/mysqladmin.html) command;
+
+
+6. Connects to the local MySQL server and inserts the contents of the SQL file generated earlier
 
 
 If you are running some other type of system, you may need to change the location of where you put WordPress, but the rest should be pretty much the same. You can now log on to the WordPress system locally (e.g. http://localhost/~wsg4w/hacked/wordpress/wp-admin/) and reinstall your plugins. The one thing that will take a little bit of effort would be cleaning up the theme you are using if  you have made any significant changes to a theme (and not it in a [revision control system](http://en.wikipedia.org/wiki/Revision_control)), you will need to clean out the hack additions.
