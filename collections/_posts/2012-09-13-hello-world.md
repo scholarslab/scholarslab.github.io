@@ -14,9 +14,8 @@ tags:
 For some time now I have led a double life as a musician and book lover. As a third year PhD in the English department at UVA, I work primarily on twentieth-century fiction in relation to music and sound. These interests drew me to [Praxis](http://praxis.scholarslab.org/) in the first place: writing about sound is incredibly difficult in a print medium where the reader can’t hear what I describe. I am very excited to be a part of the Praxis team this year, where as a DH novitiate I hope to learn how technology can help make those two fields work together more easily. The Scholars’ Lab team seems happy to have us as well, welcoming the new team with open arms and inscrutable computer science jokes. Last year’s Praxis team reached out to us many months ago from [their charter](http://praxis.scholarslab.org/charter.html):
 
 
-<blockquote>Preparations for future cohorts
-
-In order to allow the next Praxis Program team to start work right away on a project, we will make suggestions for that project before our tenure is over.</blockquote>
+> Preparations for future cohorts <br>
+In order to allow the next Praxis Program team to start work right away on a project, we will make suggestions for that project before our tenure is over.
 
 
 How nice to be thought of! But I think this excerpt shows how our situation is fundamentally different from theirs: last year’s team had to deal only with the future, but our team also has to deal with the past. It would be easy for us to feel anxiety as latecomers to the Praxis party, so I think it’s important that our own charter reflect the ways in which our work will talk back to last year’s team.

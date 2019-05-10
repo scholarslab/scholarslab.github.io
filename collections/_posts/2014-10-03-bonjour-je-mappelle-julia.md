@@ -29,18 +29,18 @@ In my time at the Makerspace, I hope to make the untouchable touchable, and inv
 To start this mutual journey, I'd like to leave you all with a stanza from a song by Regina Spektor that addresses the consciousness of objects in a museum:
 
 
-<blockquote>"First there’s lights out, then there’s lock up
-Masterpieces serving maximum sentences
-It’s their own fault for being timeless
-There’s a price to pay and a consequence
-All the galleries, the museums
-Here’s your ticket, welcome to the tombs
-They’re just public mausoleums
-The living dead fill every room
-But the most special are the most lonely
-God, I pity the violins
-In glass coffins they keep coughing
-They’ve forgotten, forgotten how to sing"</blockquote>
+> "First there’s lights out, then there’s lock up<br>
+Masterpieces serving maximum sentences<br>
+It’s their own fault for being timeless<br>
+There’s a price to pay and a consequence<br>
+All the galleries, the museums<br>
+Here’s your ticket, welcome to the tombs<br>
+They’re just public mausoleums<br>
+The living dead fill every room<br>
+But the most special are the most lonely<br>
+God, I pity the violins<br>
+In glass coffins they keep coughing<br>
+They’ve forgotten, forgotten how to sing"<br>
 
 
 Let's free the objects from their cages and let them sing again in glorious 3D! Allons-y!

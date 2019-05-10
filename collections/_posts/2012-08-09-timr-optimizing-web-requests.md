@@ -119,18 +119,7 @@ You have no control over any of this, and they will all throw off the timings. G
 There’s one complication I haven’t mentioned yet. The biggest problem with optimizing code is this.
 
 
-
-
-<blockquote>
-
-> 
 > Your intuitions about what is so slow are **wrong**.
-> 
-> 
-</blockquote>
-
-
-
 
 Maybe not always, but often enough that you shouldn’t trust them.
 
@@ -139,29 +128,11 @@ Maybe not always, but often enough that you shouldn’t trust them.
 
 Or to put it another way:
 
-
-
-
-<blockquote>
-
-> 
 > Bottlenecks occur in surprising places, so don’t try to second guess and put in a speed hack until you have proven that’s where the bottleneck is. &mdash; Rob Pike
-> 
-> 
-</blockquote>
-
-
-
 
 (And to be fair, the tool I’m getting ready to describe, timr, doesn’t help you identify which part of your code is taking so much time, but it will tell you whether what you changed helped or not. Finding bottlenecks will be the subject of another blog post.)
 
-
-
-
 # My Kingdom for Some Data
-
-
-
 
 Because you’re going to be wrong, optimization is largely a data-driven task. What data?
 
@@ -237,16 +208,7 @@ surname=Rochester
 fetch-output.csv
 [/sourcecode]
 
-
-
-<blockquote>
-
-> 
 > _NB: Remove the extra lines around the URL. For some reason, WordPress adds those in, but they shouldn’t be there and will cause an error if they’re included._
-> 
-> 
-</blockquote>
-
 
 
 
@@ -348,13 +310,7 @@ timr fetch @google.conf -m "another session"
 
 
 
-<blockquote>
-
-> 
 > _This doesn’t actually pull up the search results. Instead, it goes to the page that looks like it should have results, but only has the search suggestion drop-down at the top of the page. I’m not going to worry about that right now. After all, trying to optimize Google search results isn’t very useful unless you work at Google._
-> 
-> 
-</blockquote>
 
 
 

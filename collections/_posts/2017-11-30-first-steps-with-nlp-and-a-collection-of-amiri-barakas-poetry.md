@@ -12,17 +12,16 @@ In this post I’ll discuss my initial foray into natural language processing (N
 
 In a prefatory note to the collection, Baraka offers an “Explanation of the Work” that touches on the three books of poetry contained within. “_Sabotage_,” he writes of the first book, “meant I had come to see the superstructure of filth Americans call their way of life, and wanted to see it fall. To sabotage it,” in a word. The second book, he argues, takes this intensity even further: “But _Target Study_ is trying to really study, like bomber crews do the soon to be destroyed cities. Less passive now, less uselessly ‘literary.’” If these comments are any indication, the poetry of _Black Magic_ has a certain level of emotional and political intensity. These poems articulate rage&mdash;they thunder, fulminate, and protest, venting a vindicated anger at racial injustice in America. Others simmer with a more restrained heat, but still tend to employ an often unsettling rhetorical violence. Consider, for example, the conclusion of a poem from _Sabotage_ titled “A POEM SOME PEOPLE WILL HAVE TO UNDERSTAND”:
 
-
-<blockquote>We have awaited the coming of a natural
-phenomenon. Mystics and romantics, knowledgeable
-workers
-of the land.
-
-But none has come.
-(repeat)
-but none has come.
-
-Will the machinegunners please step forward?</blockquote>
+> We have awaited the coming of a natural<br>
+phenomenon. Mystics and romantics, knowledgeable<br>
+workers<br>
+of the land.<br>
+<br><br>
+But none has come.<br>
+(repeat)<br>
+but none has come.<br>
+<br>
+Will the machinegunners please step forward?
 
 
 Though startling, this final image punctuates a familiar narrative: the mounting of frustration, the boiling over of feeling while waiting and waiting for justice. The speaker’s closing remark seems to respond to the question asked in [Langston Hughes’s poem "Harlem"](https://www.poetryfoundation.org/poems/46548/harlem)&mdash;"What happens to a dream deferred?”&mdash;but raises the ante of the inquiry, and shifts from Hughes’s suggestive but still open-ended conclusion (“_Or does it explode?_”) to an unsettling direct request (“Will the machinegunners please step forward?”). The poem also, however, seems aware of its high dramatic tone: it conveys the gravity of this deferred deliverance with somewhat formal rhetoric like “We have awaited” and “But none has come”, but highlights&mdash;and perhaps undercuts&mdash;its own theatricality by embedding a stage direction in the poem, “(repeat)”. We’ve waited for long enough, the poem seems to argue, but stages this claim in such a way that the final line’s delivery hangs suspended somewhere between deadpan and dead serious.
@@ -40,7 +39,7 @@ In this sense, though assembling workable data is always a challenge, scholars i
 In the case of this project, even though UVA has access to the 1969 edition of _Black Magic: Collected Poetry 1961-1967_, the text isn’t ready for NLP out-of-the-box. The page contained a lot of text beyond that of the literary work in question: page numbers, line numbers, bibliographical information, headers and footers, all kinds of weird punctuation, and so on. For example, the title of the first poem in _Sabotage_, “Three Modes of History and Culture,” appeared in this electronic edition as follows:
 
 
-<blockquote>Baraka, Imamu Amiri, 1934- : Three Modes of History and Culture [from Black Magic: Collected Poetry 1961-1967 (1969) , The Bobbs-Merrill Company ]</blockquote>
+> Baraka, Imamu Amiri, 1934- : Three Modes of History and Culture [from Black Magic: Collected Poetry 1961-1967 (1969) , The Bobbs-Merrill Company ]
 
 
 To perform sentiment analysis on _Sabotage_, then, I first needed to get the raw text. By “raw text” I mean a big bag of all of _Sabotage_’s words. My goal initially was to get this bag of words with no line numbers, no punctuation, no capitalized first letters (otherwise Python would think they were two different words), and no spaces.

@@ -11,8 +11,7 @@ tags:
 - Digital Humanities
 ---
 
-<blockquote>...the words we join have been joined before, and continue to be joined daily. So writing is largely quotation, quotation newly energized, as a cyclotron augments the energies of common particles circulating.
-
+> ...the words we join have been joined before, and continue to be joined daily. So writing is largely quotation, quotation newly energized, as a cyclotron augments the energies of common particles circulating.
 - Hugh Kenner, _The Pound Era_</blockquote>
 
 
@@ -30,7 +29,7 @@ It is this fact that explains the disparity in size between the LHC's data and t
 Martin Wattenberg at IBM's Watson Research Center puts it well in his [interview with _Wired_](http://www.wired.com/science/discoveries/magazine/16-07/pb_visualizing) when he describes language's ability to compress information:
 
 
-<blockquote>Language is one of the best data-compression mechanisms we have. The information contained in literature or email, encodes our identity as human beings. The entire literary canon may be smaller than what comes out of particle accelerators or models of the human brain, but the meaning coded into words can't be measured in bytes. It's deeply compressed. Twelve words from Voltaire can hold a lifetime of experience.</blockquote>
+> Language is one of the best data-compression mechanisms we have. The information contained in literature or email, encodes our identity as human beings. The entire literary canon may be smaller than what comes out of particle accelerators or models of the human brain, but the meaning coded into words can't be measured in bytes. It's deeply compressed. Twelve words from Voltaire can hold a lifetime of experience.
 
 
 What happens if we take this understanding of language seriously? How would it change the way we deal with textual data?

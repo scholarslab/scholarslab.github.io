@@ -15,13 +15,13 @@ _[Cross-posted on the my [personal blog](http://bmw9t.github.io/blog/2016/05/17/
 This year in the [Scholar’s Lab](https://www.scholarslab.org) I have been working with Eric on a machine learning project that studies speech in Virginia Woolf’s fiction. I have written elsewhere about the [background for the project](https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/) and [initial thoughts towards its implications](http://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/). For the purposes of this blog post, I will just present a single example to provide context. Consider the famous first line of _Mrs. Dalloway_:
 
 
-<blockquote>Mrs Dalloway said, “I will buy the flowers myself.”</blockquote>
+> Mrs Dalloway said, “I will buy the flowers myself.”
 
 
 Nothing to remark on here, except for the fact that this is not how the sentence actually comes down to us. I have modified it from the original:
 
 
-<blockquote>Mrs Dalloway said she would buy the flowers herself.</blockquote>
+> Mrs Dalloway said she would buy the flowers herself.
 
 
 My project concerns moments like these, where Woolf implies the presence of speech without marking it as such with punctuation. I have been working with Eric to lift such moments to the surface using computational methods so that I can study them more closely.
@@ -41,7 +41,7 @@ To return to Woolf, punctuation marks are an obvious feature of interest: the au
 External Model for Speech:
 
 
-<blockquote>"I love walking in London," **said Mrs. Dalloway**.  "Really it’s better than walking in the country."</blockquote>
+> "I love walking in London," **said Mrs. Dalloway**.  "Really it’s better than walking in the country."
 
 
 The external model was our initial attempt to model speech. In it, we take an interest in the narrative context around quotation marks. In any text, we can say that there exist a certain range of keywords that signal a shift into speech: said, recalled, exclaimed, shouted, whispered, etc. Words like these help the narrative attribute speech to a character and are good indicators that speech is taking place. Given a list of words like this, we could reasonably build a sense of the locations around which speech is likely to be happening. So when training the program on this model, we had the classifier first identify locations of quotation marks. Around each quotation mark, the program took note of the diction and parts of speech that occurred within a given distance from the marking. We build up a sense of the context around speech.
@@ -49,7 +49,7 @@ The external model was our initial attempt to model speech. In it, we take an in
 Internal Model for Speech:
 
 
-<blockquote>"**I love walking in London**," said Mrs. Dalloway. "**Really it’s better than walking in the country**."</blockquote>
+> "**I love walking in London**," said Mrs. Dalloway. "**Really it’s better than walking in the country**."
 
 
 The second model we have been working with works in an inverse direction: instead of taking an interest in the surrounding context of speech, an internal model assumes that there are meaningful characteristics within the quotation itself. In this example, we might notice that the shift to the first-person 'I' is a notable feature in a text that is otherwise largely written in the third person. This word suggests a shift in register. Each time this model encounters a quotation mark it continues until it finds a second quotation mark. The model then records the diction and parts of speech inside the pair of markings.

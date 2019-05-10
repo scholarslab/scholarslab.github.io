@@ -14,7 +14,7 @@ tags:
 A few weeks ago I was walking to my car and was copied on an email from the director of the IT department for the UVa Library:
 
 
-<blockquote>It appears that website redacted has been commandeered…hacked.. Beware if you use windows as there is a malware service running….</blockquote>
+> It appears that website redacted has been commandeered…hacked.. Beware if you use windows as there is a malware service running….
 
 
 Just the kind of email you love to get! By the time I got home (takes me about an hour and a half), there had been a flurry of emails between the company that had a support contract for the site, and various people who were reacting. By the time I actually had a chance to sit down, the site URL had redirected the site to UVa's home page as a stop-gap measure to not expose the site's users to malware.

@@ -17,7 +17,7 @@ I've long been a fan of the digital humanities at the University of Virginia, an
 The presentation prompt asked for a discussion of my past projects:
 
 
-<blockquote>The digital has the potential to be a disruptive force in humanities scholarship, giving scholars the means to critique, reimagine, and transform ideas, theories, material artifacts, and even interpersonal relationships. Using examples from your own collaborations with faculty, graduate students, and staff, please discuss how this disruption can be successfully embodied in scholarly inquiry, as well as in the cultivation of people and organizations.</blockquote>
+> The digital has the potential to be a disruptive force in humanities scholarship, giving scholars the means to critique, reimagine, and transform ideas, theories, material artifacts, and even interpersonal relationships. Using examples from your own collaborations with faculty, graduate students, and staff, please discuss how this disruption can be successfully embodied in scholarly inquiry, as well as in the cultivation of people and organizations.
 
 
 
