@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2009-02-22 17:25:46+00:00
 layout: post
 slug: coins-site

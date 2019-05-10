@@ -1,5 +1,5 @@
 ---
-author: lindsay-o’connor
+author: lindsay-oconnor
 date: 2011-10-17 22:35:19+00:00
 layout: post
 slug: in-the-neutral-ground

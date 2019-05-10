@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2008-09-08 17:36:19+00:00
 layout: post
 slug: digital-therapy-luncheon

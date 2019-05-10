@@ -1,5 +1,5 @@
 ---
-author: jim-ambuske
+author: james-ambuske
 date: 2014-09-22 11:25:40+00:00
 layout: post
 slug: visualizing-early-america-through-mapscholar-and-beyond

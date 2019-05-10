@@ -1,5 +1,5 @@
 ---
-author: lindsay-o’connor
+author: lindsay-oconnor
 date: 2011-09-18 23:51:59+00:00
 layout: post
 slug: imagining-end-users-for-requirements-gathering

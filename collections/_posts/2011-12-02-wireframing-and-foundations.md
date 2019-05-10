@@ -1,5 +1,5 @@
 ---
-author: lindsay-o’connor
+author: lindsay-oconnor
 date: 2011-12-02 10:40:22+00:00
 layout: post
 slug: wireframing-and-foundations

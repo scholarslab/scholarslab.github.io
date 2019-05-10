@@ -1,5 +1,5 @@
 ---
-author: lindsay-o’connor
+author: lindsay-oconnor
 date: 2012-05-15 10:52:41+00:00
 layout: post
 slug: praxis-doing-is-thinking

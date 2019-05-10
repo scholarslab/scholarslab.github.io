@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2008-11-13 12:09:14+00:00
 layout: post
 slug: place-space-maps-and-more-on-gis-day

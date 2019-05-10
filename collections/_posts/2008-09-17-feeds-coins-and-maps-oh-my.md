@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2008-09-17 13:36:47+00:00
 layout: post
 slug: feeds-coins-and-maps-oh-my

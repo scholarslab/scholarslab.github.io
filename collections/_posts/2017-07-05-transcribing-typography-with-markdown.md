@@ -1,5 +1,5 @@
 ---
-author: james-ascher
+author: james-p-ascher
 date: 2017-07-05 18:28:23+00:00
 layout: post
 slug: transcribing-typography-with-markdown
@@ -272,23 +272,23 @@ coded as such . What a text! [_last word poorly inked, could be "hex"_]
 [_the letter t in "techniques" on the first line of the text is shifted upward_]
 
  	
-  [^1]: Timothy Morton, _Ecology Without Nature: Rethinking Environmental Aesthetics_ (Cambridge, Mass.: Harvard University Press, 2009).↩
+  [^1]: Timothy Morton, _Ecology Without Nature: Rethinking Environmental Aesthetics_ (Cambridge, Mass.: Harvard University Press, 2009).
 
  	
-  [^2]: David L. Vander Meulen and G. Thomas Tanselle, “A System of Manuscript Transcription,” _Studies in Bibliography_ 52 (1999): 201–12.↩
+  [^2]: David L. Vander Meulen and G. Thomas Tanselle, “A System of Manuscript Transcription,” _Studies in Bibliography_ 52 (1999): 201–12.
 
  	
-  [^3]: For those unfamiliar, brackets are a standard symbol used to indicate editorial additions and italics distinguish descriptions and explanations of the roman text: since "big brown" is conjectured to belong to the final text, the words are placed outside of the brackets; since "funny" is conjectured to belong to an earlier version, the word is place inside the brackets.↩
+  [^3]: For those unfamiliar, brackets are a standard symbol used to indicate editorial additions and italics distinguish descriptions and explanations of the roman text: since "big brown" is conjectured to belong to the final text, the words are placed outside of the brackets; since "funny" is conjectured to belong to an earlier version, the word is place inside the brackets.
 
  	
-  [^4]: Fredson Bowers, _Principles of Bibliographical Description_ (New York: Russell & Russell, 1962).↩
+  [^4]: Fredson Bowers, _Principles of Bibliographical Description_ (New York: Russell & Russell, 1962).
 
  	
-  [^5]: Peter W.M. Blayney, _The Texts of King Lear and Their Origins_ (Cambridge: Cambridge University Press, 1982); Blayney is studying the recurrence of types so chooses to transcribe both semantic meaning and what evidence he finds of the typographical habits of the compositors.↩
+  [^5]: Peter W.M. Blayney, _The Texts of King Lear and Their Origins_ (Cambridge: Cambridge University Press, 1982); Blayney is studying the recurrence of types so chooses to transcribe both semantic meaning and what evidence he finds of the typographical habits of the compositors.
 
  	
   [^6]: before the newline ] a newline is a special sort of chara-
-cter that means you begin a new line of text.↩
+cter that means you begin a new line of text.
 
 
 

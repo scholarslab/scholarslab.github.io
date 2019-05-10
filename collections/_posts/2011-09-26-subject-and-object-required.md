@@ -1,5 +1,5 @@
 ---
-author: lindsay-o’connor
+author: lindsay-oconnor
 date: 2011-09-26 10:25:32+00:00
 layout: post
 slug: subject-and-object-required

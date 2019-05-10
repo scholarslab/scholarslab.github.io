@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Admin
 date: 2011-05-03 09:56:30+00:00
 layout: post
 slug: myron-gutmann-data-access

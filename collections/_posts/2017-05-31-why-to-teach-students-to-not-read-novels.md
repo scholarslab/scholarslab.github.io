@@ -1,5 +1,5 @@
 ---
-author: james-ascher
+author: james-p-ascher
 date: 2017-05-31 08:57:35+00:00
 layout: post
 slug: why-to-teach-students-to-not-read-novels

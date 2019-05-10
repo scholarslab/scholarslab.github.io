@@ -1,5 +1,5 @@
 ---
-author: lindsay-o’connor
+author: lindsay-oconnor
 date: 2011-08-30 13:53:20+00:00
 layout: post
 slug: chartering-the-unknown

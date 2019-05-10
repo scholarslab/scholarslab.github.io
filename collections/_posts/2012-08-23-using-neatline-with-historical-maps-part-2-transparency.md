@@ -154,7 +154,7 @@ Now, we have a second version of the .tiff file with an Alpha channel that conve
 
 We'll take care of this using a utility called `gdal`, a powerful command line library that can do a wide variety of transformations on geospatial files. Head over to [gdal.org](http://www.gdal.org/) for full documentation on how to install the command line utilities. On Mac OSX, using the [homebrew](http://mxcl.github.com/homebrew/) package manager, it should be as easy as `brew install gdal`. If you're on Windows, a binary distribution of the tool can be found [here](http://trac.osgeo.org/osgeo4w/wiki).
 
-With gdal installed, fire up the terminal and change into the directory with the original .tif, the processed .tif, and the three *.tfw files.
+With gdal installed, fire up the terminal and change into the directory with the original .tif, the processed .tif, and the three \*.tfw files.
 
 
 
