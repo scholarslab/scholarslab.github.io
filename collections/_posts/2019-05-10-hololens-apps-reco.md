@@ -91,7 +91,7 @@ To help you gather app ideas from the over three hundred HoloLens apps in the Wi
         <img src="/assets/post-media/hololens-app-reco/image6.png" width="330" height="200">
       </p>
       
-  4. Similar Apps 
+  4. Similar App 
   
         a. [*MyLab*](https://www.microsoft.com/en-us/p/mylab/9nn8dz3j8ksx?activetab=pivot:overviewtab) 
         
