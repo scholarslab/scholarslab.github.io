@@ -32,6 +32,32 @@ To help you gather app ideas from the over three hundred HoloLens apps in the Wi
       Land of Dinosaurs, created by Zengalt, is a short narrative about dinosaurs. It’s amazing to see dinosaurs walk past you while you are lying in bed. A voice introduces the dinosaurs along with the play. The app is both fun and educational. You can even create your own 3D content with an app called Vyzn from the same company.
 
   4. Similar Apps 
+  
+        a. [*Walk the World*](https://www.microsoft.com/en-us/p/walk-the-world/9p6svqqcp2sq?activetab=pivot:overviewtab) 
+        
+        Want to know what it feels like to explore the world by walking on a map? This app shows an aerial map or satellite view, and you can tell the app where you want to go. You can say “help” to bring up the Help menu when you need guidance.
+        
+        b. [*HoleLenz Gate*](https://www.microsoft.com/en-us/p/holelenz-gate/9pjkj8mtjmjf?activetab=pivot:overviewtab) 
+        
+        This app is similar to HoleLenz and is created by the same company, but instead of showing you a window view, it allows you to drill a gate to go between your location and a scene.
+        
+        c. [*HoloQuarium*](https://www.microsoft.com/en-us/p/holoquarium/9nblggh513pd?activetab=pivot:overviewtab) 
+        
+        With this app, you can have numerous tropical fish swimming in your room!
+
+        
+        
+
+        
+        
+        
+        
+     
+      
+       
+
+      
+      
    
 
       
