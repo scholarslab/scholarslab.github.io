@@ -10,3 +10,8 @@ tags:
 - Digital Humanities
 - Parents Fund 
 ---
+
+To help you gather app ideas from the over three hundred HoloLens apps in the Windows app store, we have selected a few great free apps to start with in the following categories:
+  - Exploration 
+  - Education 
+  - Entertainment & Games
