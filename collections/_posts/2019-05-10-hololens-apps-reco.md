@@ -134,15 +134,15 @@ To help you gather app ideas from the over three hundred HoloLens apps in the Wi
         
         This is a rail track game similar to ARails.
         
-        a. [*Tower Blocks*](https://www.microsoft.com/en-us/p/tower-blocks-beta/9nblggh4s3bn?activetab=pivot:overviewtab) 
+        b. [*Tower Blocks*](https://www.microsoft.com/en-us/p/tower-blocks-beta/9nblggh4s3bn?activetab=pivot:overviewtab) 
         
         Avoid dangerous collapses while playing with virtual 3D tower blocks!
         
-        a. [*Whac-A-Mole MR*](https://www.microsoft.com/en-us/p/whac-a-mole-mr/9nz3vr32n6w1?activetab=pivot:overviewtab) 
+        c. [*Whac-A-Mole MR*](https://www.microsoft.com/en-us/p/whac-a-mole-mr/9nz3vr32n6w1?activetab=pivot:overviewtab) 
         
         Take a break from work and whack a mole at your desk!
         
-        a. [*HoloDominos*](https://www.microsoft.com/en-us/p/holodominos/9n2vsml9ppss?activetab=pivot:overviewtab) 
+        d. [*HoloDominos*](https://www.microsoft.com/en-us/p/holodominos/9n2vsml9ppss?activetab=pivot:overviewtab) 
         
         Feeling bored with walking in a maze? In this real-space chasing app, run and chase an animated character.
 
