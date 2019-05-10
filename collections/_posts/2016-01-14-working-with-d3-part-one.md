@@ -118,7 +118,7 @@ This is an array (designated with square brackets `[]`) of objects (designated w
 
 
 
-<blockquote>A good tutorial on JavaScript arrays is at Lynda.com (free subscription through the [library](https://www.library.virginia.edu/lynda/)). Search for 'Introducing the JavaScript Language with Joe Chellman'.</blockquote>
+> A good tutorial on JavaScript arrays is at Lynda.com (free subscription through the [library](https://www.library.virginia.edu/lynda/)). Search for 'Introducing the JavaScript Language with Joe Chellman'.
 
 
 
@@ -301,15 +301,7 @@ The domain represents the minimum and maximum values that exist in the data. The
 
 
 
-<blockquote>For a great write up on how d3 scales work, look here:
-
-> 
-> 
-    
->   * [http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/](http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/)
-> 
-
-</blockquote>
+> For a great write up on how d3 scales work, look here: [http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/](http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/)
 
 
 
@@ -529,8 +521,7 @@ The range is the working height (the height minus the padding) to 0.
 
 
 
-<blockquote>What happens if the range is 0 to `workingHeight`</blockquote>
-
+> What happens if the range is 0 to `workingHeight`
 
 
 

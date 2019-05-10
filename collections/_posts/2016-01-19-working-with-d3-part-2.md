@@ -112,7 +112,7 @@ We need to nest the data, and group the candy by day and time. We'll use the d3 
 
 
 
-<blockquote>For more help on understanding nesting see: [http://bl.ocks.org/shancarter/raw/4748131/](http://bl.ocks.org/shancarter/raw/4748131/)</blockquote>
+> For more help on understanding nesting see: [http://bl.ocks.org/shancarter/raw/4748131/](http://bl.ocks.org/shancarter/raw/4748131/)
 
 
 
@@ -382,15 +382,15 @@ We can do this by appending an image to the `dayGroup` svg group element we crea
 
 
 
-    
-          <span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>image<span class="pl-pds">'</span></span>)
-              .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>xlink:href<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>images/<span class="pl-pds">'</span></span> <span class="pl-k">+</span> <span class="pl-smi">candyObject</span>.<span class="pl-smi">candy</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>.jpg<span class="pl-pds">'</span></span>)
-              .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>bar<span class="pl-pds">'</span></span>)
-              .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>x<span class="pl-pds">'</span></span>, xPos)
-              .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> (barH <span class="pl-k">*</span> timeIndex <span class="pl-k">+</span> <span class="pl-c1">190</span>))
-              .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>width<span class="pl-pds">'</span></span>, barW)
-              .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>height<span class="pl-pds">'</span></span>, barH);
-
+```
+<span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>image<span class="pl-pds">'</span></span>)
+    .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>xlink:href<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>images/<span class="pl-pds">'</span></span> <span class="pl-k">+</span> <span class="pl-smi">candyObject</span>.<span class="pl-smi">candy</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>.jpg<span class="pl-pds">'</span></span>)
+    .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>bar<span class="pl-pds">'</span></span>)
+    .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>x<span class="pl-pds">'</span></span>, xPos)
+    .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> (barH <span class="pl-k">*</span> timeIndex <span class="pl-k">+</span> <span class="pl-c1">190</span>))
+    .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>width<span class="pl-pds">'</span></span>, barW)
+    .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>height<span class="pl-pds">'</span></span>, barH);
+```
 
 
 
@@ -410,7 +410,7 @@ To do this we'll use the array's index number to provide a variable in a made up
 
 
 
-<blockquote>Play with the numbers to see how the boxes move up or down.</blockquote>
+> Play with the numbers to see how the boxes move up or down.
 
 
 
@@ -427,14 +427,16 @@ We need to add the time that each candy was eaten. We do this in a similar manne
 
 
     
-          <span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>text<span class="pl-pds">'</span></span>)
-             .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span>)
-             .<span class="pl-c1">text</span>(<span class="pl-smi">candyObject</span>.<span class="pl-smi">time</span>)
-             .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>x<span class="pl-pds">'</span></span>, xPos)
-             .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> (barW <span class="pl-k">*</span> <span class="pl-c1">2</span>))
-             .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>width<span class="pl-pds">'</span></span>, barW)
-             .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>height<span class="pl-pds">'</span></span>, barH);
-    
+```
+<span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>text<span class="pl-pds">'</span></span>)
+   .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span>)
+   .<span class="pl-c1">text</span>(<span class="pl-smi">candyObject</span>.<span class="pl-smi">time</span>)
+   .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>x<span class="pl-pds">'</span></span>, xPos)
+   .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> (barW <span class="pl-k">*</span> <span class="pl-c1">2</span>))
+   .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>width<span class="pl-pds">'</span></span>, barW)
+   .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>height<span class="pl-pds">'</span></span>, barH);
+```
+
 
 
 
@@ -453,7 +455,7 @@ The y position will be the same for each time period. We'll set it initially at 
 
 
 
-<blockquote>Play around with those numbers, replace the 'h' and 'barW' with actual numbers.</blockquote>
+> Play around with those numbers, replace the 'h' and 'barW' with actual numbers.
 
 
 
@@ -473,16 +475,16 @@ Hmm, that's really hard to explain, and this probably confuses more than clarifi
 
 
 
-    
-          <span class="pl-c">// add the day boxes</span>
-          <span class="pl-k">if</span> (thisDay <span class="pl-k">!==</span> prevDay) {
-            <span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>rect<span class="pl-pds">'</span></span>)
-               .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span>)
-               .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>x<span class="pl-pds">'</span></span>, xPos)
-               .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> <span class="pl-c1">110</span>)
-               .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>width<span class="pl-pds">'</span></span>, (<span class="pl-smi">dayObject</span>.<span class="pl-smi">values</span>.<span class="pl-c1">length</span> <span class="pl-k">*</span> barW <span class="pl-k">+</span> barW<span class="pl-k">/</span><span class="pl-c1">2</span>))
-               .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>height<span class="pl-pds">'</span></span>, barH);
-    
+```
+<span class="pl-c">// add the day boxes</span>
+<span class="pl-k">if</span> (thisDay <span class="pl-k">!==</span> prevDay) {
+  <span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>rect<span class="pl-pds">'</span></span>)
+     .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span>)
+     .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>x<span class="pl-pds">'</span></span>, xPos)
+     .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> <span class="pl-c1">110</span>)
+     .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>width<span class="pl-pds">'</span></span>, (<span class="pl-smi">dayObject</span>.<span class="pl-smi">values</span>.<span class="pl-c1">length</span> <span class="pl-k">*</span> barW <span class="pl-k">+</span> barW<span class="pl-k">/</span><span class="pl-c1">2</span>))
+     .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>height<span class="pl-pds">'</span></span>, barH);
+    ```
 
 
 
@@ -499,16 +501,15 @@ Making the box is only half the job. We should add some text so we know which da
 
 
 
-    
-            dateForm <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-smi">time</span>.<span class="pl-en">format</span>(<span class="pl-s"><span class="pl-pds">'</span>%b %d<span class="pl-pds">'</span></span>)
-            <span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>text<span class="pl-pds">'</span></span>)
-               .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>date<span class="pl-pds">'</span></span>)
-               .<span class="pl-c1">text</span>(<span class="pl-en">dateForm</span>(<span class="pl-k">new</span> <span class="pl-en">Date</span>(thisDayTime)) )
-               .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>x<span class="pl-pds">'</span></span>, xPos <span class="pl-k">+</span> <span class="pl-c1">5</span>)
-               .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> barW <span class="pl-k">-</span> <span class="pl-c1">10</span>);
-          }
-    
-
+  ```
+  dateForm <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-smi">time</span>.<span class="pl-en">format</span>(<span class="pl-s"><span class="pl-pds">'</span>%b %d<span class="pl-pds">'</span></span>)
+  <span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>text<span class="pl-pds">'</span></span>)
+     .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>date<span class="pl-pds">'</span></span>)
+     .<span class="pl-c1">text</span>(<span class="pl-en">dateForm</span>(<span class="pl-k">new</span> <span class="pl-en">Date</span>(thisDayTime)) )
+     .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>x<span class="pl-pds">'</span></span>, xPos <span class="pl-k">+</span> <span class="pl-c1">5</span>)
+     .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> barW <span class="pl-k">-</span> <span class="pl-c1">10</span>);
+}
+```
 
 
 
@@ -538,12 +539,12 @@ If it's the last time of the day, and the last candy for that time, add in a spa
 
 
 
-    
-          <span class="pl-k">if</span> ( ( dayIndex <span class="pl-k">==</span> (<span class="pl-smi">dayObject</span>.<span class="pl-smi">values</span>.<span class="pl-c1">length</span> <span class="pl-k">-</span> <span class="pl-c1">1</span>) ) <span class="pl-k">&&</span> ( timeIndex <span class="pl-k">==</span> (<span class="pl-smi">timeObject</span>.<span class="pl-smi">values</span>.<span class="pl-c1">length</span> <span class="pl-k">-</span><span class="pl-c1">1</span>) ))
-          {
-            xPos <span class="pl-k">=</span> xPos <span class="pl-k">+</span> barW;
-          }
-
+```  
+<span class="pl-k">if</span> ( ( dayIndex <span class="pl-k">==</span> (<span class="pl-smi">dayObject</span>.<span class="pl-smi">values</span>.<span class="pl-c1">length</span> <span class="pl-k">-</span> <span class="pl-c1">1</span>) ) <span class="pl-k">&&</span> ( timeIndex <span class="pl-k">==</span> (<span class="pl-smi">timeObject</span>.<span class="pl-smi">values</span>.<span class="pl-c1">length</span> <span class="pl-k">-</span><span class="pl-c1">1</span>) ))
+{
+  xPos <span class="pl-k">=</span> xPos <span class="pl-k">+</span> barW;
+}
+```
 
 
 
@@ -563,11 +564,11 @@ Finally, we need to increment the x position and set the `prevDayTime` variable 
 
 
 
-    
-          xPos <span class="pl-k">=</span> xPos <span class="pl-k">+</span> barW <span class="pl-k">+</span> <span class="pl-c1">5</span>;
-          prevDayTime <span class="pl-k">=</span> thisDayTime;
-          prevDay <span class="pl-k">=</span> thisDay;
-    
+```
+xPos <span class="pl-k">=</span> xPos <span class="pl-k">+</span> barW <span class="pl-k">+</span> <span class="pl-c1">5</span>;
+prevDayTime <span class="pl-k">=</span> thisDayTime;
+prevDay <span class="pl-k">=</span> thisDay;
+```
 
 
 
@@ -586,11 +587,11 @@ Close off the `forEach` loops
 
 
 
-    
-                    });
-                  });
-                });
-
+```
+      });
+    });
+  });
+```
 
 
 
@@ -602,12 +603,12 @@ Close off the encompassing d3 function, and close off the HTML tags to finish of
 
 
 
-    
-              });
-            </<span class="pl-ent">script</span>>
-        </<span class="pl-ent">body</span>>
-    </<span class="pl-ent">html</span>>
-
+  ```  
+        });
+      </<span class="pl-ent">script</span>>
+  </<span class="pl-ent">body</span>>
+</<span class="pl-ent">html</span>>
+```
 
 
 

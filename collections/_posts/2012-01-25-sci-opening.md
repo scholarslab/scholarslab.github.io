@@ -12,12 +12,12 @@ tags:
 
 I'm pleased to share a formal job posting for an 18-month research-and-writing position with the Scholarly Communication Institute. The posting is limited to current employees of the Unversity of Virginia for four business days, after which it will open more broadly.*  It's a short-term position, but an excellent opportunity to work with [SCI](http://uvasci.org/) leadership and representatives of the following groups: the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org/), [CHCI](http://chcinetwork.org/), [centerNet](http://digitalhumanities.org/centernet), [PressForward](http://pressforward.org/), the [Modern Language Association](http://mla.org), the [Alliance for Networking Visual Culture](http://scalar.usc.edu/anvc/?page_id=2), the [ACLS](http://www.acls.org/), [CLIR](http://clir.org), and more. The timeframe for our decision is very short, so interested applicants should not delay!
 
-***UPDATE: The position is now open to all qualified candidates.**
+**UPDATE: The position is now open to all qualified candidates.**
 Please note new URL below!
 
 
 
-<blockquote>**Senior Research Specialist, SCI**
+**Senior Research Specialist, SCI**
 
 The [Scholars' Lab](http://scholarslab.org) at the University of Virginia Library [seeks a senior research specialist](http://jobs.virginia.edu/applicants/Central?quickFind=66407) for a full-time, 18-month position with the [Scholarly Communication Institute](http://uvasci.org/) (SCI).  The ideal candidate will have: excellent research, writing, and organizational skills; familiarity with humanities scholarship at the graduate level; and an interest in experimental approaches to digital authoring and publication or the education of emerging scholars and knowledge workers. Some travel is required, and there is a possibility of a work-from-home arrangement for a professional and thoroughly reliable candidate.
 
@@ -44,7 +44,7 @@ Reporting to UVa Library's [director of digital research and scholarship](http:/
 
 The SCI research specialist will join a [vibrant and dedicated community](http://scholarslab.org) of faculty and staff at the Scholars' Lab, and as such will be eligible for the self-directed "20% time" that all team members are granted to pursue professional development and their own (often collaborative) R&D; projects.  This is a [grant-funded position](http://uvasci.org/current-work) with a salary of approximately $50k per annum and full benefits as a member of the managerial and professional staff of the University of Virginia. The position begins no later than March 1st, 2012 and extends no later than August 31st, 2013.
 
-**Experience and Education:** Master's degree or higher in fields related to humanities scholarship or information science. Demonstrated ability as a writer and researcher. Project management experience or experience with survey design and analysis desirable.</blockquote>
+**Experience and Education:** Master's degree or higher in fields related to humanities scholarship or information science. Demonstrated ability as a writer and researcher. Project management experience or experience with survey design and analysis desirable.
 
 
 

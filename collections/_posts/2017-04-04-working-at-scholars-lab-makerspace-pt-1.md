@@ -1,5 +1,5 @@
 ---
-author: spyridon-simotas
+author: spyros-simotas
 date: 2017-04-04 18:19:25+00:00
 layout: post
 published: false

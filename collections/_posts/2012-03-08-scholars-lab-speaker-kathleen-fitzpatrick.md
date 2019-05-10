@@ -11,7 +11,7 @@ categories:
 We are pleased to welcome Dr. Kathleen Fitzpatrick to the Scholars' Lab on Thursday, March 15 at 2:00 p.m. for the second event in our Spring 2012 Speaker Series.
 
 
-<blockquote>What if the academic monograph is a dying form? If scholarly communication is to have a future, it's clear that it lies online, and yet the most significant obstacles to such a transformation are not technological, but instead social and institutional. How must the academy and the scholars that comprise it change their ways of thinking in order for digital scholarly publishing to become a viable alternative to the university press book?</blockquote>
+> What if the academic monograph is a dying form? If scholarly communication is to have a future, it's clear that it lies online, and yet the most significant obstacles to such a transformation are not technological, but instead social and institutional. How must the academy and the scholars that comprise it change their ways of thinking in order for digital scholarly publishing to become a viable alternative to the university press book?
 
 
 Dr. Fitzpatrick's talk, entitled "Planned Obsolescence: Publishing, Technology, and the Future of the Academy," will explore some of those changes and their implications for our lives as scholars and our work within universities.

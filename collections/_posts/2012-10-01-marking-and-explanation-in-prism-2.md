@@ -14,14 +14,12 @@ tags:
 My first experience with [Prism](http://prism.scholarslab.org/) last spring brought something of an existential crisis along with it, when I was asked to mark my beloved _A Portrait of the Artist as a Young Man_ in terms of realism/modernism:
 
 
-<blockquote>He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
-
-O, the wild rose blossoms
-
-On the little green place.</blockquote>
+> He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.<br>
+O, the wild rose blossoms<br>
+On the little green place.<br>
 
 
-Considering _Portrait _as a modernist novel was nothing new, but being asked to consider individual words in that context was altogether unsettling. Words like “tuckoo” and “moocow” are easy to mark as modernist, but “baby” is perfectly reasonable within a realist text; it only begins to feel experimental as a part of the larger phrase “baby tuckoo.” And how do we account for the two lines of verse, where the words themselves are not particularly experimental but the juxtaposition between prose and poetry creates just the sort of genre bending you would expect from modernism?
+Considering _Portrait_ as a modernist novel was nothing new, but being asked to consider individual words in that context was altogether unsettling. Words like “tuckoo” and “moocow” are easy to mark as modernist, but “baby” is perfectly reasonable within a realist text; it only begins to feel experimental as a part of the larger phrase “baby tuckoo.” And how do we account for the two lines of verse, where the words themselves are not particularly experimental but the juxtaposition between prose and poetry creates just the sort of genre bending you would expect from modernism?
 
 I think this very brief analysis tells us something very important about how we make meaning: interpretive choices depend not just on the words in the text but on perceived relationships among different textual groupings within the text as a whole. Part of the perceived value of a crowdsourcing tool like Prism comes from its ability to generate conversations about these interpretive decisions. I wonder, though, if we can include these conservations in the tool itself.
 

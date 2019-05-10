@@ -59,17 +59,12 @@ Spring 2012 American Studies 3559 - Mapping Shantytowns
 In the Scholars’ Lab, we relish a “GIS Emergency”.   Typically a student visits the lab to work on a project, hits a roadblock, and contacts us for help.  So we drop what we’re doing and spring into action.
 
 
-<blockquote>“How do I use this cool historic map in my GIS project?"
-
-“I don't know exactly where it happened, but I need to show it on a map”
-
-"I have a Mac.  I want to run ArcGIS.  Help."
-
-"We're leaving for Guatemala tomorrow. May I borrow a GPS?"
-
-“US Census data from 1950…where do I find it?”
-
-"How can I compare solar exposure for my study sites in the French Alps?"</blockquote>
+> “How do I use this cool historic map in my GIS project?"<br>
+“I don't know exactly where it happened, but I need to show it on a map”<br>
+"I have a Mac.  I want to run ArcGIS.  Help."<br>
+"We're leaving for Guatemala tomorrow. May I borrow a GPS?"<br>
+“US Census data from 1950…where do I find it?”<br>
+"How can I compare solar exposure for my study sites in the French Alps?"<br>
 
 
 Combining drop-in support with email queries, our official tracking system, and pre-arranged meetings gives us a great view of how spatial topics are increasingly visible across academic disciplines.  And it means I have 1,495 emails in my GIS Support folder since Jan 1, 2012.

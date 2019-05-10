@@ -17,9 +17,7 @@ Yesterday, [Wayne](http://www.scholarslab.org/contributors/wsg4w/) tweeted [this
 
 
 
-<blockquote>
-@erochest just dropped some vim wizardry on the @scholarslab: open system fonts, set the guifont from the settings selected in gui
-</blockquote>
+> @erochest just dropped some vim wizardry on the @scholarslab: open system fonts, set the guifont from the settings selected in gui
 
 
 
@@ -46,17 +44,17 @@ Now you need to make the change permanent by adding it to your `.vimrc` file.
 Open this file using the command `:e ~/.vimrc` (on Linux, UNIX, and Mac) or `:e ~/_vimrc` (on Windows). Then add this to the bottom:
 
 
-
-<blockquote>`set guifont=`</blockquote>
-
+```
+set guifont=
+```
 
 
 At this point, you need to insert the current value of `guifont`. Do this by pressing Ctrl-R (while still in insert mode) and entering this in the command bar at the bottom of the screen:
 
 
-
-<blockquote>`=&guifont;`</blockquote>
-
+```
+=&guifont;
+```
 
 
 Hit enter. The name and size of the font should be appended to the `set guifont` line you started.
@@ -65,7 +63,9 @@ If the font name has spaces, however, you'll need to escape those. This command 
 
 
 
-<blockquote>`:s/ /\ /g`</blockquote>
+```
+:s/ /\ /g`
+```
 
 
 
@@ -75,7 +75,9 @@ Now, the line should look something like this:
 
 
 
-<blockquote>`set guifont=DejaVu Sans Mono:h13`</blockquote>
+```
+set guifont=DejaVu Sans Mono:h13
+```
 
 
 

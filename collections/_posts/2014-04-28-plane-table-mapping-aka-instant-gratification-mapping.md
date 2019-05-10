@@ -14,7 +14,7 @@ tags:
 - visualization
 ---
 
-<blockquote>_"Plane table mapping is the most interesting of all to do.  One can hardly browse through an account of its various operations without wishing to go directly into the field and do them." - Down To Earth : Mapping for Everybody, 1944_</blockquote>
+> _"Plane table mapping is the most interesting of all to do.  One can hardly browse through an account of its various operations without wishing to go directly into the field and do them." - Down To Earth : Mapping for Everybody, 1944_
 
 
 Humans love maps.  Every day in the Scholars' Lab we help aspiring cartographers navigate the complexities of geographic information systems software.  But software is expensive and requires electricity. What if we could make a cartographic masterpiece appear on an ordinary sheet of paper without installing any software or downloading any data or loading any batteries in our GPS?
@@ -50,13 +50,10 @@ We're beginners, so in our one-hour workshop we had our hands full making a simp
 This new cohort of plane tablers commented on their experience:
 
 
-<blockquote>_This was fun.  I had no idea how maps were made before GPS._
-
-_I'll use this to illustrate to my students how errors can easily creep into any data collection exercise._
-
-_I'm trying this with my kids this weekend.  It will get us outside and they'll love it. _
-
-_I'm seeing the world with new eyes._</blockquote>
+> _This was fun.  I had no idea how maps were made before GPS._<br>
+_I'll use this to illustrate to my students how errors can easily creep into any data collection exercise._<br>
+_I'm trying this with my kids this weekend.  It will get us outside and they'll love it._<br>
+_I'm seeing the world with new eyes._<br>
 
 
 Happy mapping!

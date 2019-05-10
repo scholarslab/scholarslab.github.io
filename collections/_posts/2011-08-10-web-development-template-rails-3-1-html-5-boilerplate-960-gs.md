@@ -52,12 +52,7 @@ I've taken three of these tools and put them together in a directory and tried t
 Putting these together isn't difficult, and it's not really a lot of work. But now you don't have to do any of that. You can just clone the template from GitHub and start building things:
 
 
-
-
-
-<blockquote>
 [https://github.com/scholarslab/rails31-template](https://github.com/scholarslab/rails31-template)
-</blockquote>
 
 
 

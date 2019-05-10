@@ -9,7 +9,7 @@ categories:
 - Research and Development
 ---
 
-<blockquote>_For the latest information about this system, please see the [README](https://github.com/scholarslab/cookbooks/blob/master/README.mkd) file. It contains this information, plus I'll keep it up-to-date._</blockquote>
+> _For the latest information about this system, please see the [README](https://github.com/scholarslab/cookbooks/blob/master/README.mkd) file. It contains this information, plus I'll keep it up-to-date._
 
 
 One of the biggest annoyances in a developer's life is managing the software required to work on several different projects. Usually, this doesn't just mean having different systems or programming languages, but having different versions of them as well. It isn't a chop-your-limb-off problem, but more a death-by-1000-paper-cuts.
@@ -23,7 +23,7 @@ Using Vagrant, I've been working to get an out-of-the-box Omeka VM working for d
 Here's how to use it to create a VM environment to develop a theme, plugin, or site with Omeka. These instructions work on a Mac, but they assume only that you have access to a Terminal/console window, a text editor, and a web browser, so with the right changes, it should work on any system.
 
 
-<blockquote>**Note**: Some of the resources (like the base box) aren't publicly available right now. We're working on that. Watch this space for more information.</blockquote>
+> **Note**: Some of the resources (like the base box) aren't publicly available right now. We're working on that. Watch this space for more information.
 
 
 
@@ -82,7 +82,7 @@ chmod -R a+rwx omeka/archive/
 [/sourcecode]
 
 
-<blockquote>There used to be something here about setting up your "db.ini" file. The Omeka Chef recipe now takes care of that for you.</blockquote>
+> There used to be something here about setting up your "db.ini" file. The Omeka Chef recipe now takes care of that for you.
 
 
 

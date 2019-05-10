@@ -79,16 +79,7 @@ For reference, here was what I originally wrote:
 
 Wow. That's a mess.
 
-
-
-<blockquote>
-
-> 
 > _(For better syntax color highlighting, see [this Gist](https://gist.github.com/2628865).)_
-> 
-> 
-</blockquote>
-
 
 
 Essentially, this is a [state machine](http://en.wikipedia.org/wiki/State_machine) that kind of [trampolines](http://en.wikipedia.org/wiki/Trampoline_(computers)) through the characters in a word. `count-v` walks through a vowel cluster; `count-c` walks through a consonant cluster; and `count-cluster` controls the process of alternating between these two functions. The first result passed out of each of these (usually assigned to a variable named `stage`) is what needs to happen next: either `:return` from `m` with the current count or `:break` from counting the current sequence (either vowel or consonant). The other two outputs are the character currently being considered and the number of consonant sequences seen so far.

@@ -29,9 +29,8 @@ Trip Kirkpatrick noticed the problem:
 
 
 
-<blockquote>[@clured](https://twitter.com/clured) Are jaggies on deepest zoom artifacts results of zoomed pixels or aesthetic decisions? Both?
-> 
-> -- Trip Kirkpatrick (@triplingual) [October 7, 2013](https://twitter.com/triplingual/statuses/387254660563992576)</blockquote>
+> [@clured](https://twitter.com/clured) Are jaggies on deepest zoom artifacts results of zoomed pixels or aesthetic decisions? Both?<br>
+> -- Trip Kirkpatrick (@triplingual) [October 7, 2013](https://twitter.com/triplingual/statuses/387254660563992576)
 
 
 
