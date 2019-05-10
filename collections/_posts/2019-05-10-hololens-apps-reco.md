@@ -87,7 +87,7 @@ To help you gather app ideas from the over three hundred HoloLens apps in the Wi
       
       <p align="center">
         <img src="/assets/post-media/hololens-app-reco/image9.png" width="140" height="200">
-        <img src="/assets/post-media/hololens-app-reco/image16.png" width="360" height="200">
+        <img src="/assets/post-media/hololens-app-reco/image16.png" width="350" height="200">
         <img src="/assets/post-media/hololens-app-reco/image6.png" width="330" height="200">
       </p>
       
