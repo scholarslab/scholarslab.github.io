@@ -41,9 +41,11 @@ To help you gather app ideas from the over three hundred HoloLens apps in the Wi
     
       Land of Dinosaurs, created by Zengalt, is a short narrative about dinosaurs. It’s amazing to see dinosaurs walk past you while you are lying in bed. A voice introduces the dinosaurs along with the play. The app is both fun and educational. You can even create your own 3D content with an app called Vyzn from the same company.
       
-      <img src="/assets/post-media/hololens-app-reco/image21.png" width="400" height="220">
-      <img src="/assets/post-media/hololens-app-reco/image14.png" width="400" height="200">
-
+       <p align="center">
+        <img src="/assets/post-media/hololens-app-reco/image21.png" width="430" height="220">
+        <img src="/assets/post-media/hololens-app-reco/image14.png" width="370" height="220">
+       </p>
+      
   4. Similar Apps 
   
         a. [*Walk the World*](https://www.microsoft.com/en-us/p/walk-the-world/9p6svqqcp2sq?activetab=pivot:overviewtab) 
@@ -65,24 +67,30 @@ To help you gather app ideas from the over three hundred HoloLens apps in the Wi
 
       Holostudy Biology, created by HoloGroup, helps users learn more about cell structure. During play, parts of the cell are highlighted when the player looks at them or air taps them. It’s a very fun and informative way to learn.
       
-      <img src="/assets/post-media/hololens-app-reco/image3.png" width="400" height="400">
-      <img src="/assets/post-media/hololens-app-reco/image5.png" width="400" height="400">
+       <p align="center">
+        <img src="/assets/post-media/hololens-app-reco/image3.png" width="280" height="220">
+        <img src="/assets/post-media/hololens-app-reco/image5.png" width="310" height="220">
+       </p>
       
    2. [*Lifeliqe HoloLens*](https://www.microsoft.com/en-us/p/lifeliqe-hololens/9n471tldg054?activetab=pivot:overviewtab) 
     
       Lifeliqe HoloLens, created by Lifeliqe, is free and supports both English and Spanish. The app contents include learning modules that discuss the formation of water, Earth’s history, stratovolcanoes, ancient astronomy, Stonehenge, and much more. The figures inside are dynamic and can be tapped to make them run.
       
-      <img src="/assets/post-media/hololens-app-reco/image1.png" width="400" height="400">
-      <img src="/assets/post-media/hololens-app-reco/image10.png" width="400" height="400">
+      <p align="center">
+        <img src="/assets/post-media/hololens-app-reco/image1.png" width="410" height="220">
+        <img src="/assets/post-media/hololens-app-reco/image10.png" width="220" height="220">
+      </p>
       
    3. [*Holo F(x)*](https://www.microsoft.com/en-us/p/holo-f-x/9np8q94fs2sd?activetab=pivot:overviewtab) 
     
       Holo F(x) was created by Yungoal. Users can input a mathematical function into the app, and it visualizes the function as a 3D model that they can twist around! The app is easy to use, and voice control can even be used to input functions. It’s a great tool for in-class and at-home visualization of functions.
       
-      <img src="/assets/post-media/hololens-app-reco/image9.png" width="400" height="400">
-      <img src="/assets/post-media/hololens-app-reco/image16.png" width="400" height="400">
-      <img src="/assets/post-media/hololens-app-reco/image6.png" width="400" height="400">
-
+      <p align="center">
+        <img src="/assets/post-media/hololens-app-reco/image9.png" width="140" height="200">
+        <img src="/assets/post-media/hololens-app-reco/image16.png" width="360" height="200">
+        <img src="/assets/post-media/hololens-app-reco/image6.png" width="330" height="200">
+      </p>
+      
   4. Similar Apps 
   
         a. [*MyLab*](https://www.microsoft.com/en-us/p/mylab/9nn8dz3j8ksx?activetab=pivot:overviewtab) 
@@ -95,24 +103,30 @@ To help you gather app ideas from the over three hundred HoloLens apps in the Wi
 
       ARails, created by ARails Company, allows the user to build tracks to run a roller coaster cart when in simulation mode. The best part is the highly realistic sound effects. Just listening to the sound tells the player whether the cart is quickly turning or slowly climbing the track, and there’s even a sound effect of people screaming! It’s a very fun app to play.
       
-       <img src="/assets/post-media/hololens-app-reco/image4.png" width="400" height="400">
-      <img src="/assets/post-media/hololens-app-reco/image18.png" width="400" height="400">
-      
+      <p align="center">
+        <img src="/assets/post-media/hololens-app-reco/image4.png" width="290" height="220">
+        <img src="/assets/post-media/hololens-app-reco/image18.png" width="160" height="220">
+       </p>
+       
    2. [*Fragments*](https://www.microsoft.com/en-us/p/fragments/9nblggh5ggm8?activetab=pivot:overviewtab) 
     
       Fragments, created by Microsoft, is a very immersive app that allows the player to be a detective and solve crimes. To set up the environment, Fragments scans the walls, floor, and ceiling of the player’s room to decide where to place items in the game. This amazing app can also reproduce the crime scene in front the player. To solve the crime, the player works with an AI assistant and police to collect evidence and information.
       
-      <img src="/assets/post-media/hololens-app-reco/image20.png" width="400" height="400">
-      <img src="/assets/post-media/hololens-app-reco/image8.png" width="400" height="400">
-      <img src="/assets/post-media/hololens-app-reco/image11.png" width="400" height="400">
-      <img src="/assets/post-media/hololens-app-reco/image13.png" width="400" height="400">
-      
+      <p align="center">
+        <img src="/assets/post-media/hololens-app-reco/image20.png" width="200" height="210">
+        <img src="/assets/post-media/hololens-app-reco/image8.png" width="360" height="210">
+        <img src="/assets/post-media/hololens-app-reco/image11.png" width="360" height="250">
+        <img src="/assets/post-media/hololens-app-reco/image13.png" width="200" height="250">
+       </p>
+       
    3. [*Holo Maze*](https://www.microsoft.com/en-us/p/holo-maze/9nmdm1x6xf4m?activetab=pivot:overviewtab) 
     
       Holo-Maze, created by Ishiyama, is a one-player game that allows the user to enter the number of rows and columns of a maze. The app then reproduces the maze in front of the user, who can walk around and play in it. This is a very fun game to play indoors, but it needs a big space because the user has to navigate the maze to collect coins. The larger the maze, the more difficult it becomes. 
       
-      <img src="/assets/post-media/hololens-app-reco/image17.png" width="250" height="200">
-      <img src="/assets/post-media/hololens-app-reco/image12.png" width="400" height="400">
+      <p align="center">
+        <img src="/assets/post-media/hololens-app-reco/image17.png" width="390" height="220">
+        <img src="/assets/post-media/hololens-app-reco/image12.png" width="390" height="220">
+      </p>
 
   4. Similar Apps 
   
