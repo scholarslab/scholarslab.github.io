@@ -33,8 +33,8 @@ tags:
   2. **Bloom**: a gesture that you use to bring up the home page (the Start menu); hold your fingertips together, then open them.
   
       <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Bloom.gif" width="168" height="300">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Air-Tap.gif" width="168" height="300"> 
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Bloom_Gesture.gif" width="168" height="300">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Air_Tap_Gesture.gif" width="168" height="300"> 
       </p>
   
 ## Connect to Network 
