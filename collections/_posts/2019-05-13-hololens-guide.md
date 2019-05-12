@@ -14,7 +14,7 @@ tags:
 ## Turn on HoloLens 
   1. Locate the power button at the end of the left arm, and press it for one second.
   2. If the screen doesn’t light up, charge your HoloLens for at least 30 minutes before you try it again.
-  3. You should a page titled “Adjust your device to see all edges.” Follow the tutorial presented. If the screen shows the Start menu (shown below)  instead, please go to the section below headed “Reset and Turn Off HoloLens Before Returning” to reset your HoloLens. 
+  3. You should see a page titled “Adjust your device to see all edges.” Follow the tutorial presented. If the screen shows the Start menu (shown below)  instead, please go to the section below headed “Reset and Turn Off HoloLens Before Returning” to reset your HoloLens. 
   4. In the “Who owns this HoloLens?” page, select “I own it”, and click **Next**. 
   
 ## Basic Air Tap Gestures Review 
@@ -24,7 +24,7 @@ tags:
 ## Connect to Network 
   1. Important:
   
-      a. The UVA network instructions are only for UVA faculty, staff, or students 
+      a. The UVA network instructions are only for UVA faculty, staff, or students. 
       
       b. You will need to sign in to a secure WiFi network when you first set up your device. The Welcome_to_UVA_Wireless network will not work to set up this particular device. 
       
@@ -52,7 +52,7 @@ tags:
       
       b. Tap **Request PIN** (only for the first time setting this up), and look at your HoloLens display. It should show a seven-digit Device Portal PIN.
       
-      c. Create a username and password for the Device Portal (this does not need to be a Microsoft account), and click **Pair**.
+      c. Enter the PIN in the first box. Then create a username and password for the Device Portal (this does not need to be a Microsoft account), and click **Pair**.
       
       d. In the pop-up Sign In box, re-enter the username and password you just entered. You will need to sign in every time you open the portal.
       
@@ -76,7 +76,7 @@ tags:
   3. [*HoloLens Wi-Fi*](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
   4. [*HoloLens Reset*](https://support.microsoft.com/en-us/help/13452/hololens-restart-reset-or-recover-hololens)
   5. [*UVA wahoo network*](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=ca13d12bdb8153404f32fb671d961969)
-  6. [*HoloLens Windows Portal*](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-port
+  6. [*HoloLens Windows Portal*](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-port)
 
 
 
