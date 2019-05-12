@@ -13,17 +13,28 @@ tags:
 
 ## Turn on HoloLens 
   1. Locate the power button at the end of the left arm, and press it for one second.
+      <p align="center">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Buttons.png">
+      </p>
+      
   2. If the screen doesn’t light up, charge your HoloLens for at least 30 minutes before you try it again.
   3. You should see a page titled “Adjust your device to see all edges.” Follow the tutorial presented. If the screen shows the Start menu (shown below)  instead, please go to the section below headed “Reset and Turn Off HoloLens Before Returning” to reset your HoloLens. 
-  4. In the “Who owns this HoloLens?” page, select “I own it”, and click **Next**. 
+      
+      <p align="center">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Start.png" width="172" height="220">
+      </p>
+      
+  4. Important:
+  
+     a. In the “Who owns this HoloLens?” page, select “I own it”, and click **Next**. 
   
 ## Basic Air Tap Gestures Review 
   1. **Air tap**: a gesture similar to a click; hold your finger straight out, then tap down.
   2. **Bloom**: a gesture that you use to bring up the home page (the Start menu); hold your fingertips together, then open them.
   
       <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Bloom.gif" width="225" height="400">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Air-Tap.gif" width="225" height="400"> 
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Bloom.gif" width="168" height="300">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Air-Tap.gif" width="168" height="300"> 
       </p>
   
 ## Connect to Network 
@@ -38,7 +49,11 @@ tags:
       a. **Start** →  **Settings** →  **Network & Internet** → choose your network 
   3. Connect to the UVA Wahoo network (UVA’s Unencrypted network) (after the first setup):
   
-     a. Find wahoo in your HoloLens WiFi options list under “WiFi,” and click **Connect**. if you don’t see wahoo, find “Hidden Network: open” instead and enter the SSID: wahoo.  
+     a. Find wahoo in your HoloLens WiFi options list under “WiFi,” and click **Connect**. if you don’t see wahoo, find “Hidden Network: open” instead and enter the SSID: wahoo. 
+     
+     <p align="center">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Wifi.png">
+      </p>
  
 ## Manage Device in PC (Live view)    
   1.  Windows for HoloLens allows you to manage your device over Wi-Fi or USB. One of the features is the live view, where you can see your HoloLens display live on your PC.
@@ -46,27 +61,55 @@ tags:
   3. Turn on the Developer mode and the Device Portal. 
   
       a. **Settings** → **Update & Security** → **For developers** →  Turn the **Developer mode** on and confirm → Turn **Device Portal** on 
+      
+      <p align="center">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Developer.png" width="240" height="180">
+      </p>
+      
   4. Look up your device’s IP address.
   
       b. **Start** →  **Settings** →  **Network & Internet** →  **Wi-Fi** → **Advanced Options** → Under **Properties**, get **IPv4 address**
+      
+      <p align="center">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-IP.png">
+      </p>
       
   5. Open a web browser on your PC. 
       Type in https://<YOUR_HOLOLENS_IP_ADDRESS>, and press Enter. 
 
       a. Ignore message “Your connection is not private,” and click **Advanced**, then click **Proceed** to <YOUR_HOLOLENS_IP_ADDRESS>.
       
+        <p align="center">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Privacy.png" width="300" height="220">
+        </p>
+      
       b. Tap **Request PIN** (only for the first time setting this up), and look at your HoloLens display. It should show a seven-digit Device Portal PIN.
       
+       <p align="center">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Credentials.png" width="460" height="150">
+        </p>
+      
       c. Enter the PIN in the first box. Then create a username and password for the Device Portal (this does not need to be a Microsoft account), and click **Pair**.
+      
+      <p align="center">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Login.png" width="290" height="220">
+       </p>
       
       d. In the pop-up Sign In box, re-enter the username and password you just entered. You will need to sign in every time you open the portal.
       
       e. After you are directed to the homepage, click on **Mixed Reality Capture** on the left bar, and click **Live Preview**. Then tap the white triangle **Start** button. You will see your current view in HoloLens on your PC.   
+      <p align="center">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Portal.png" width="550" height="150">
+       </p>
 
 ## Reset and turn off HoloLens before returning
   1. Please make sure the battery level is above 40 percent before you attempt to reset it. 
   
       a. **Start Menu** → **Settings** → **Update & Security** → **Reset** → select **Reset device**, and confirm it again
+      
+      <p align="center">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Reset.png" width="470" height="150">
+       </p>
       
       b. The reset process takes more than 11 minutes. Please be patient after the “Gears” page is gone; a Windows icon will appear within a minute.
       
