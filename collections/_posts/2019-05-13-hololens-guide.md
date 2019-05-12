@@ -70,6 +70,13 @@ tags:
   2. Warning: please note that resetting your personal HoloLens means that all your personal data, including your downloaded apps and settings, will be removed.
 
 
+## References and Resources
+  1. [*HoloLens Buttons*](https://support.microsoft.com/en-us/help/4028481/hololens-find-out-what-the-hololens-buttons-do)
+  2. [*HoloLens Gestures*](https://docs.microsoft.com/en-us/windows/mixed-reality/gestures)
+  3. [*HoloLens Wi-Fi*](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
+  4. [*HoloLens Reset*](https://support.microsoft.com/en-us/help/13452/hololens-restart-reset-or-recover-hololens)
+  5. [*UVA wahoo network*](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=ca13d12bdb8153404f32fb671d961969)
+  6. [*HoloLens Windows Portal*](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-portal)
 
 
 
