@@ -33,8 +33,8 @@ tags:
   2. **Bloom**: a gesture that you use to bring up the home page (the Start menu); hold your fingertips together, then open them.
   
       <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Bloom_Gesture.gif" width="168" height="300">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Air_Tap_Gesture.gif" width="168" height="300"> 
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Air_Tap_Gesture.gif" width="168" height="300">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Bloom_Gesture.gif" width="168" height="300"> 
       </p>
   
 ## Connect to Network 
@@ -78,10 +78,6 @@ tags:
       Type in https://<YOUR_HOLOLENS_IP_ADDRESS>, and press Enter. 
 
       a. Ignore message “Your connection is not private,” and click **Advanced**, then click **Proceed** to <YOUR_HOLOLENS_IP_ADDRESS>.
-      
-        <p align="center">
-          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Privacy.png" width="300" height="220">
-        </p>
       
       b. Tap **Request PIN** (only for the first time setting this up), and look at your HoloLens display. It should show a seven-digit Device Portal PIN.
       
