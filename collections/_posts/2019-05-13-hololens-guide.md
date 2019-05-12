@@ -20,7 +20,12 @@ tags:
 ## Basic Air Tap Gestures Review 
   1. **Air tap**: a gesture similar to a click; hold your finger straight out, then tap down.
   2. **Bloom**: a gesture that you use to bring up the home page (the Start menu); hold your fingertips together, then open them.
-
+  
+      <p align="center">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Bloom.gif" width="225" height="400">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Air-Tap.gif" width="225" height="400"> 
+      </p>
+  
 ## Connect to Network 
   1. Important:
   
