@@ -21,7 +21,7 @@ tags:
   3. You should see a page titled “Adjust your device to see all edges.” Follow the tutorial presented. If the screen shows the Start menu (shown below)  instead, please go to the section below headed “Reset and Turn Off HoloLens Before Returning” to reset your HoloLens. 
       
       <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Start.png" width="172" height="220">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Starts.png" width="200" height="220">
       </p>
       
   4. Important:
