@@ -68,16 +68,16 @@ tags:
       
   4. Look up your device’s IP address.
   
-      b. **Start** →  **Settings** →  **Network & Internet** →  **Wi-Fi** → **Advanced Options** → Under **Properties**, get **IPv4 address**
-      
-      <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-IP.png" width="380" height="122">
-      </p>
+      a. **Start** →  **Settings** →  **Network & Internet** →  **Wi-Fi** → **Advanced Options** → Under **Properties**, get **IPv4 address**
       
   5. Open a web browser on your PC. 
       Type in https://<YOUR_HOLOLENS_IP_ADDRESS>, and press Enter. 
 
       a. Ignore message “Your connection is not private,” and click **Advanced**, then click **Proceed** to <YOUR_HOLOLENS_IP_ADDRESS>.
+      
+        <p align="center">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Privacy.png" width="380" height="277">
+        </p>
       
       b. Tap **Request PIN** (only for the first time setting this up), and look at your HoloLens display. It should show a seven-digit Device Portal PIN.
       
