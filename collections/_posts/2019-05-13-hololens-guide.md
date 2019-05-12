@@ -14,14 +14,14 @@ tags:
 ## Turn on HoloLens 
   1. Locate the power button at the end of the left arm, and press it for one second.
       <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Buttons.png">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Buttons.png" width="260" height="190">
       </p>
       
   2. If the screen doesn’t light up, charge your HoloLens for at least 30 minutes before you try it again.
   3. You should see a page titled “Adjust your device to see all edges.” Follow the tutorial presented. If the screen shows the Start menu (shown below)  instead, please go to the section below headed “Reset and Turn Off HoloLens Before Returning” to reset your HoloLens. 
       
       <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Starts.png" width="200" height="220">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Starts.png" width="260" height="280">
       </p>
       
   4. Important:
@@ -52,7 +52,7 @@ tags:
      a. Find wahoo in your HoloLens WiFi options list under “WiFi,” and click **Connect**. if you don’t see wahoo, find “Hidden Network: open” instead and enter the SSID: wahoo. 
      
      <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Wifi.png">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Wifi.png" width="240" height="155">
       </p>
  
 ## Manage Device in PC (Live view)    
@@ -71,7 +71,7 @@ tags:
       b. **Start** →  **Settings** →  **Network & Internet** →  **Wi-Fi** → **Advanced Options** → Under **Properties**, get **IPv4 address**
       
       <p align="center">
-        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-IP.png">
+        <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-IP.png" width="380" height="122">
       </p>
       
   5. Open a web browser on your PC. 
@@ -86,7 +86,7 @@ tags:
       b. Tap **Request PIN** (only for the first time setting this up), and look at your HoloLens display. It should show a seven-digit Device Portal PIN.
       
        <p align="center">
-          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Credentials.png" width="460" height="150">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Credentials.png" width="380" height="130">
         </p>
       
       c. Enter the PIN in the first box. Then create a username and password for the Device Portal (this does not need to be a Microsoft account), and click **Pair**.
@@ -99,7 +99,7 @@ tags:
       
       e. After you are directed to the homepage, click on **Mixed Reality Capture** on the left bar, and click **Live Preview**. Then tap the white triangle **Start** button. You will see your current view in HoloLens on your PC.   
       <p align="center">
-          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Portal.png" width="550" height="150">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Portal.png" width="380" height="100">
        </p>
 
 ## Reset and turn off HoloLens before returning
@@ -108,7 +108,7 @@ tags:
       a. **Start Menu** → **Settings** → **Update & Security** → **Reset** → select **Reset device**, and confirm it again
       
       <p align="center">
-          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Reset.png" width="470" height="150">
+          <img src="/assets/post-media/2019-05-13-hololens-guide/2019-05-13-Reset.png" width="380" height="120">
        </p>
       
       b. The reset process takes more than 11 minutes. Please be patient after the “Gears” page is gone; a Windows icon will appear within a minute.
