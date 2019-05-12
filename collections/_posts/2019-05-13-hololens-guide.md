@@ -120,4 +120,4 @@ tags:
   3. [*HoloLens Wi-Fi*](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
   4. [*HoloLens Reset*](https://support.microsoft.com/en-us/help/13452/hololens-restart-reset-or-recover-hololens)
   5. [*UVA wahoo network*](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=ca13d12bdb8153404f32fb671d961969)
-  6. [*HoloLens Windows Portal*](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-port)
+  6. [*HoloLens Windows Device Portal*](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-portal)
