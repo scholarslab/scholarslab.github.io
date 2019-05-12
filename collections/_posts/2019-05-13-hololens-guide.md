@@ -40,9 +40,7 @@ tags:
 ## Connect to Network 
   1. Important:
   
-      a. The UVA network instructions are only for UVA faculty, staff, or students. 
-      
-      b. You will need to sign in to a secure WiFi network when you first set up your device. The Welcome_to_UVA_Wireless network will not work to set up this particular device. 
+      a. You will need to sign in to a secure WiFi network when you first set up your device. The Welcome_to_UVA_Wireless network will not work to set up this particular device. 
       
   2. Connect to your Home Network (after the first setup for the device): 
   
