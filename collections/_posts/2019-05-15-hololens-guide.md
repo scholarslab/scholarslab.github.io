@@ -11,7 +11,7 @@ tags:
 - Parents Fund 
 ---
 
-This guide offers instructions for how to get started with the HoloLens and also some d
+This guide offers instructions for how to get started with the HoloLens. While it is particular to using the equipment at UVA, there are probably some elements that can be transferred to other institutional contexts. Let's get started!
 
 ## Turn on HoloLens 
   1. Locate the power button at the end of the left arm, and press it for one second.
