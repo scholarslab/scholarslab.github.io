@@ -6,3 +6,4 @@ munge.py
 .jekyll-metadata
 Gemfile.lock
 node_modules
+.swp
