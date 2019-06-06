@@ -86,10 +86,9 @@ Unfortunately, it is not, in fact, Exuberant CTags, and it’s far more limited.
 You can get the correct version of `ctags` using [Homebrew](http://mxcl.github.com/homebrew/):
 
 
-
-[sourcecode language="bash"]
+```
 > brew install ctags
-[/sourcecode]
+```
 
 
 
@@ -97,10 +96,10 @@ Now you have to make sure that your shell finds the right version:
 
 
 
-[sourcecode language="bash"]
+```
 > which ctags
 /usr/bin/
-[/sourcecode]
+```
 
 
 
@@ -108,11 +107,11 @@ Well, that’s not right. Let’s rearrange our `$PATH`.
 
 
 
-[sourcecode language="bash"]
+```
 > PATH=/usr/local/bin:$PATH
 > which ctags
 /usr/local/bin
-[/sourcecode]
+```
 
 
 
@@ -130,9 +129,9 @@ Now that `ctags` is installed, let’s put it to work. First, open up a command 
 
 
 
-[sourcecode language="bash"]
+```
 > cd ~/omeka/plugins/NeatlineFeatures/
-[/sourcecode]
+```
 
 
 
@@ -140,9 +139,9 @@ Now, let’s run ctags over the code base. We want to to walk through the entire
 
 
 
-[sourcecode language="bash"]
+```
 > ctags -R ../..
-[/sourcecode]
+```
 
 
 
@@ -160,12 +159,12 @@ Let’s see what we have:
 
 
 
-[sourcecode language="bash"]
+```
 > ls -lh tags
 -rw-r--r--  1 err8n  staff    23M Sep 14 16:00 tags
 > wc -l tags
    75917 tags
-[/sourcecode]
+```
 
 
 
@@ -219,9 +218,9 @@ First let’s start Vim from the directory containing the tags file. If you want
 
 
 
-[sourcecode language="bash"]
+```
 > mvim models/NeatlineFeatureTable.php
-[/sourcecode]
+```
 
 
 
