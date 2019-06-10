@@ -67,6 +67,10 @@ No formal call for this external program, but graduate students interested in se
 
 [More information](/lami/)
 
+## Digital Humanities Programming and Departmental Language Requirements
+
+UVA departments determine language proficiency requirements for their students. Graduate students affiliated with the Scholars' Lab have at times obtained departmental approval to satisfy a component of their language proficiency requirements by demonstrating proficiency in a digital humanities programming language. If your faculty advisor and DGS endorse this concept based on the relevance of programming to your proposed research, please contact our Head of Student Programs to discuss our role in designing a proficiency exam that is appropriate for your research and meets the standards of your department.
+
 ## Professional Development
 No deadline or formal call! Delivered on an ongoing, by-request basis.
 
