@@ -211,5 +211,5 @@ file './search_index.json' => ['./corpus.json'] do |t|
 end
 
 task :generate_search => [:delete_corpus, './corpus.json', './search_index.json']
-task :default => [:install_dependencies, :generate_search, :test_build]
+task :default => [:install_dependencies, :test_build]
 task :publish => [:install_dependencies, :generate_search, :build_site]

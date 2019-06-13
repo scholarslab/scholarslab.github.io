@@ -7,3 +7,5 @@ munge.py
 Gemfile.lock
 node_modules
 .swp
+corpus.json
+search_index.json
