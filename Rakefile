@@ -44,7 +44,7 @@ task :test_build do
       :internal_domains => ['localhost:4000']
     #   :url_swap =>
   }
-  
+
   HTMLProofer.check_directory("./_site", options).run
   sh 'bundle exec jekyll serve --incremental --skip-initial-build'
 end
@@ -62,18 +62,18 @@ task :new_project, [:title] do |t, args|
   titlecase_title = args.title.titlecase
   File.open(fn, 'w'){|f|
     f.puts("---
-collaborators: 
+collaborators:
   - name: First Last
     slug: first-last
-    role: 
+    role:
 current: false
 layout: work
 link: ''
 slug: #{title_slug}
 title: #{titlecase_title}
-thumb-img: 
-banner-img: 
-research-category: 
+thumb-img:
+banner-img:
+research-category:
 year: 2018
 ---
 Description of the project goes here")
@@ -86,7 +86,7 @@ task :new_event, [:title, :date] do |t, args|
   title_slug = args.title.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
   event_date = args.date
   fn = 'collections/_events/' + title_slug + '-' + event_date + '.md'
-  if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end  
+  if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
   titlecase_title = args.title.titlecase
   current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
   File.open(fn, 'w'){|f|
@@ -114,7 +114,7 @@ desc "Make a new person"
 task :new_person, [:first_name, :last_name] do |t, args|
   slug = args.first_name.downcase.split.join('-') + '-' + args.last_name.downcase.split.join('-')
   fn = 'collections/_people/' + slug + '.md'
-  if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end  
+  if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
   File.open(fn, 'w'){|f|
     f.puts("---
 department: None
