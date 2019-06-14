@@ -8,13 +8,14 @@ title: Ciara Horne
 position: CHI Intern
 short_bio:
 slug: ciara-horne
-status: not_current
+status: current
 twitter:
 website:
 people-category:
 - student
 roles:
 - CHI Intern, Spring 2019
+- 3D Technologies Student Assistant, 2019
 ---
 
 Ciara Horne works as a Cultural Heritage Informatics Intern with Will Rourk in Spring 2019.

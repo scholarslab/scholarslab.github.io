@@ -8,12 +8,13 @@ title: Ankita Chakrabarti
 position:
 short_bio: 'Ankita Chakrabarti is a PhD Candidate in the English department with research interests in contemporary world literature and postcolonial theory and is a Praxis Fellow for 2017-18.'
 slug: ankita-chakrabarti
-status: not_current
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
   - Praxis Fellow, 2017-2018
+  - 3D Technologies Student Specialist, 2019
 ---
 Ankita Chakrabarti is a 2017-2018 Praxis Program Fellow.

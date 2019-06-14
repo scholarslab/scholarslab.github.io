@@ -12,8 +12,8 @@ status: current
 twitter: None
 website: None
 people-category:
-- Student
+- student
 roles:
-- 3D Technologies Student Specialist, 2018-2019
+- 3D Technologies Student Specialist, 2019
 ---
 Zijia is a 3D technologies student specialist working on a UVA Parents Fund grant with the Scholars' Lab.
