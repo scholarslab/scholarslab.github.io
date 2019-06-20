@@ -7,7 +7,9 @@ layout: default
 
   <div class="post-main-content">
 
-    <div class="post__big-title"><span aria-label="page type">Blog //</span>{{ page.title | replace: ' - ', ': ' }}</div>
+    <div class="post__big-title" id="print-byline"><span aria-label="page type">Scholars' Lab Blog //</span>{{ page.title | replace: ' - ', ': ' }}</div>
+
+    <div class="post__big-title" id="non-print-byline"><span aria-label="page type">Blog //</span>{{ page.title | replace: ' - ', ': ' }}</div>
 
     <!-- make span an <a> tag to blog home and put h1 tags around page.title w/ the font styles when finalizing -->
 
@@ -60,9 +62,9 @@ layout: default
       {% endcomment %}
         <!-- cite post -->
         <div class="post-credits__citation">
-            <span>Cite this post: </span>{{ authorstring | strip }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on 
+            <span>Cite this post: </span>{{ authorstring | strip }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on
 <script>
-<!-- 
+<!--
 var now = new Date();
 var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
 var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();

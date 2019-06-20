@@ -2,4 +2,15 @@
   .footer-wrapper, .flexnav-wrapper, #library-banner{
     display: none;
   }
+  img{
+    max-height: 300px;
+    text-align: center;
+    
+  }
+  #print-byline{
+    display:block;
+  }
+  #non-print-byline{
+    display: none;
+  }
 }
