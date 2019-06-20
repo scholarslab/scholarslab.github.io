@@ -2,10 +2,8 @@
   .footer-wrapper, .flexnav-wrapper, #library-banner{
     display: none;
   }
-  img{
-    max-height: 300px;
-    text-align: center;
-    
+  .post__content p img{
+    max-width: 50%;
   }
   #print-byline{
     display:block;
