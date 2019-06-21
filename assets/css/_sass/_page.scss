@@ -145,7 +145,7 @@
 		font-size: calc(1.125rem * 10/9);
 		@media screen and (min-width: 768px) {
 			margin-top: 1em;
-		}	
+		}
 	}
 	// # links
 	a {
@@ -234,7 +234,7 @@
 			}
 		}
 	}
-}	
+}
 .events-header__big-title::before {
 	content: '';
 	position: absolute;
@@ -249,4 +249,8 @@
 }
 .events-header__subtitle{
 	margin-top: 16px;
+}
+
+#print-byline{
+	display:none;
 }

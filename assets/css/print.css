@@ -1,0 +1,14 @@
+@media print {
+  .footer-wrapper, .flexnav-wrapper, #library-banner{
+    display: none;
+  }
+  .post__content p img{
+    max-width: 50%;
+  }
+  #print-byline{
+    display:block;
+  }
+  #non-print-byline{
+    display: none;
+  }
+}
