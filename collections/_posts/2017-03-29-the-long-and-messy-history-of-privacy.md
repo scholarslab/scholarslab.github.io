@@ -7,6 +7,8 @@ title: The Long and Messy History of Privacy
 categories:
 - Digital Humanities
 - Grad Student Research
+tags:
+- WLU Collab
 ---
 
 _[Cross-posted to the [Washington and Lee Digital Humanities Blog](http://digitalhumanities.wlu.edu/blog/2017/03/29/the-long-and-messy-history-of-privacy/). He came to W&L to give a workshop through a Mellon-funded collaboration with the [Scholars’ Lab](http://scholarslab.org/). More information about this initiative can be found [here](https://github.com/wludh/research-one-collab).]_

@@ -13,6 +13,7 @@ tags:
 - distant reading
 - novels
 - Pedagogy
+- WLU Collab
 ---
 
 _Scholars' Lab Fellow James Ascher went to Washington and Lee University to give a workshop in [Prof. Taylor Walle’s](https://www.wlu.edu/english-department/faculty-and-staff/profile?ID=x17053) ENGL 335 course through a Mellon-funded collaboration with the [Scholars’ Lab](http://scholarslab.org/) in the UVA Library. More information about this initiative can be found [here](https://github.com/wludh/research-one-collab). His post is [cross-listed on the W&L blog](http://digitalhumanities.wlu.edu/blog/2017/05/31/why-to-teach-students-to-not-read-novels/)._
@@ -55,41 +56,41 @@ To test this idea, I presented for Taylor Walle in her English 335 "Radical Jane
 
 After demonstrating how the method works, we turned to this chart and looked for topics that crossed the texts. The works read for the class and on the chart---from left to right---are _Emma_, _Northanger Abbey_, _Pride and Prejudice_, _Sense and Sensibility_, _A Sentimental Journey_, _A Sicilian Romance_, and _A Vindication of the Rights of Woman_. You can see, and the class immediately saw, that the topics broke at the boundaries of books. You can see that many of the topics to detect specific books, but a few cross boundaries. Now, the topic used in topic modeling isn't quite the normal sense of the word "topic." It means a list of words with probabilities that, when they occur, signal the topic that is that list of words. The topics by their top words are,
 
-    
+
     <code>time made heart letter moment feelings mind spirits happiness
     present long felt thought affection left hope return day love
     situation ...
-    
+
     elizabeth darcy bennet jane bingley wickham collins mrs sister
     lydia catherine lady lizzy longbourn gardiner father family
     netherfield kitty charlotte ...
-    
+
     miss mrs good great dear young make time room house give day
     thought friend heard man home replied pleasure hear ...
-    
+
     julia marquis door ferdinand madame hippolitus castle heart duke
     heard marchioness length appeared light night discovered time part
     count scene ...
-    
+
     man life love woman character mind world society sense opinion
     great beauty good present taste nature understanding husband
     degree subject ...
-    
+
     emma harriet weston mrs knightley elton thing jane woodhouse miss
     fairfax frank churchill body hartfield bates highbury father sort
     harriet's ...
-    
+
     fleur paris monsieur poor hand count thou man set told madame good
     french thy heart lady tis put made nature ...
-    
+
     elinor marianne mrs dashwood edward jennings sister willoughby
     colonel lucy john mother thing brandon ferrars barton middleton
     marianne's lady town ...
-    
+
     catherine tilney isabella thorpe morland allen general henry bath
     eleanor catherine's brother james father street hour northanger
     abbey john captain ...
-    
+
     women men reason virtue sex respect mind duties affection make
     heart children power render human virtues true allowed till duty
     ...</code>
@@ -106,7 +107,3 @@ By presenting a broad view of the texts, built by a computer algorithm, but out 
 
 
 Fig. 3 _Emma_ by paragraph
-
-
-
-

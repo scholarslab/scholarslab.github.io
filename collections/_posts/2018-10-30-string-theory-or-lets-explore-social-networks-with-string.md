@@ -7,6 +7,8 @@ title: 'String Theory, or: Let''s Explore Social Networks with String!'
 categories:
 - Digital Humanities
 - Grad Student Research
+tags:
+- WLU Collab
 ---
 
 For the last few weeks, the Praxis Fellows have been workshopping workshops designed to render the digital humanities methods we use in our own research accessible (and useful) to undergraduates. If that sounds meta, it's because it is! But the process has also helped distill some interesting digital humanities methods into their fundamental concepts. In this blog post, I will share the outline of an analog workshop to help convey the basics of social network analysis to undergraduates.
@@ -33,22 +35,22 @@ By the end of this workshop, students will understand the concepts of social net
 
 
 
- 	
+
   1. A **_social network_** comprises all the connections (**_edges_**) between all the actors (_**nodes**_) in a community
 
- 	
+
   2. We conduct **_social network analysis_**** **to understand the patterns underlying the network
 
 
 Specifically, students will learn the concepts of the following analyses:
 
- 	
+
   1.  _**Network Density**_: In concept, the denser the network, the more people who are connected to each other. Undergrads would be too young for the reference, but the social network of the bar in "Cheers" would be about as dense as they come, because everyone knows everyone. As an actual calculation, network density = connections/possible connections.
 
- 	
+
   2. _**Betweenness Centrality**_: This is a key measure of influential nodes within the network. Rather than merely finding the person with the most number of connections, nodes with high betweenness centrality are those that act as the shortest connection point between two other nodes.
 
- 	
+
   3. _**Modularity**_: Networks can consist of linked sub-networks. Depending on the research question a student seeks to answer, they might want to understand why sub-networks form and the attributes of those nodes linking them together in the larger network.
 
 
@@ -64,16 +66,16 @@ To conduct this workshop, the presenter will need the following:
 
 
 
- 	
+
   1. String (cut into various lengths two to ten feet long)
 
- 	
+
   2. Yarn (cut into various lengths two to ten feet long)
 
- 	
+
   3. Rope (cut into various lengths two to ten feet long)
 
- 	
+
   4. Masking or duct tape
 
 

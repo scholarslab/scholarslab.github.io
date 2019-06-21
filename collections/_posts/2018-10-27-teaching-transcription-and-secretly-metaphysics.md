@@ -11,6 +11,7 @@ tags:
 - Pedagogy
 - praxis program
 - transcription
+- WLU Collab
 ---
 
 As part of the Praxis program’s [unit on pedagogy](http://praxis.scholarslab.org/curriculum/2018-2019/), each member of the cohort has developed a low-tech workshop on a digital humanities topic. Mine focuses on print-to-digital transcription, and the materials are freely available here: [lesson plan](https://docs.google.com/document/d/1n-7xhTQA4z1D70xX7kziQ6KhRgrZ78tm4f48h4QiWdw/edit?usp=sharing) and [slides](https://docs.google.com/presentation/d/1VXXVwcuwMChoKPnAgeT_9F8IJZIV3KT9PrIoo25zQ7c/edit?usp=sharing).

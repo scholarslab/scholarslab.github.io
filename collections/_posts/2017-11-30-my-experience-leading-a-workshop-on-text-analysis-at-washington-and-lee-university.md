@@ -4,6 +4,8 @@ date: 2017-11-30 10:15:22+00:00
 layout: post
 slug: my-experience-leading-a-workshop-on-text-analysis-at-washington-and-lee-university
 title: My Experience Leading a Workshop on Text Analysis at Washington and Lee University
+tags:
+- WLU Collab
 ---
 
 _[Sarah went to Washington and Lee University to give a workshop in Prof. Mackenzie Brooks’s DH 102: Data in the Humanities course through a Mellon-funded collaboration with WLUDH. More information about this initiative can be found [here](https://github.com/wludh/research-one-collab/blob/master/wlu-faculty.md), and this piece is crossposted to the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2017/11/30/my-experience-leading-a-workshop-on-text-analysis-at-washington-and-lee-university/).]_

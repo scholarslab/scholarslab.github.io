@@ -4,6 +4,8 @@ date: 2018-02-07 12:51:48+00:00
 layout: post
 slug: all-about-the-archive-guest-teaching-at-washington-and-lee
 title: 'All About the Archive: Guest Teaching at Washington and Lee'
+tags:
+- WLU Collab
 ---
 
 _In this post Lauren Reynolds, a former PhD student in Spanish and Makerspace Technologist, describes her work with Professor Andrea LePage's course at Washington & Lee. This work is supported by an ASC grant expanding [collaboration between Washington & Lee and the Scholars' Lab](http://scholarslab.org/announcements/scholars-lab-grads-partner-with-washington-lee-university/) and supplemented by W&L's Mellon-funded grant to support digital humanities in the classroom. Cross-posted to the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2018/02/07/all-about-the-archive/)._
@@ -26,16 +28,16 @@ This digital archive also prompted interest in logistical questions, such how st
 
 
 
- 	
+
   1. Development: How to choose what to include, authenticity
 
- 	
+
   2. Retrieval and Collection
 
- 	
+
   3. Reaching the Community: Supporting Research, Learning, and Teaching
 
- 	
+
   4. Reference Information and Providing Access** **
 
 
@@ -43,22 +45,22 @@ Our last activity presented the opportunity to learn about different types of me
 
 The class concluded with small group discussions of overarching questions:
 
- 	
+
   1. Difficulties posed by the fact that technology is always changing
 
- 	
+
   2. How to establish trust between archive curators and communities
 
- 	
+
   3. Library neutrality, the library’s role in community engagement, and the line between memorial and protest
 
- 	
+
   4. Advantages and disadvantages of allowing anonymous submissions
 
- 	
+
   5. Oral Histories: Who determines what questions are asked? How are these interviews and all texts edited and by who? Can “alternative” truths be abused to represent dangerous falsehoods?
 
- 	
+
   6. How do we preserve horrific histories? Do we reproduce offensive terms?
 
 

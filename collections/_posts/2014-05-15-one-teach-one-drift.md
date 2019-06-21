@@ -12,6 +12,7 @@ tags:
 - Digital Humanities
 - One teach one drift
 - Pedagogy
+- WLU Collab
 ---
 
 Like Sarah, Brandon and Gwen, I also drove over Afton Mountain to teach at Washington & Lee a couple of weeks ago. As I played peek-a-boo with the trucks on I-64 on that rainy, foggy morning I must admit I gained a bit more respect for Wayne Graham’s daily commute – but that is a story for another time. In this post, I want to hop on to Brandon and Sarah’s discussion about team teaching and add some reflections on my experience at W&L.
