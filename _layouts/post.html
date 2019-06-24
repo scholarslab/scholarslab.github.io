@@ -51,6 +51,11 @@ layout: default
 
     <!-- text of post -->
     <div class="post__content">
+      <div class="post_crosspost">
+        {% if page.crosspost %}
+        {{ page.crosspost }}
+        {% endif %}
+      </div>
       {{ content }}
     </div>
 
