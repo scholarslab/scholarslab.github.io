@@ -13,7 +13,7 @@ This post's title is a play on Mark Sample's ["What about Blogging Keeps Me from
 
 *Excellently.* You may have noticed this blog has been more active the past few months—following up on [the Scholars' Lab website relaunch](https://scholarslab.lib.virginia.edu/blog/site-relaunch/), a variety of SLab staff and students have been actively sharing their research in all states here on the blog:
 
-![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/amanda-blog/assets/post-media/2019-06-02-YearOfBloggingPoster_May2_2019.jpg)
+![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/2019-06-02-YearOfBloggingPoster_May2_2019.jpg)
 
 Student scholars funded by [our UVA Parents Fund award](https://scholarslab.lib.virginia.edu/blog/parents-fund-award/) are using blog posts to share public, novice-friendly documentation on how we apply augmented and virtual reality technologies to learning and research (e.g. [Hololens 101](https://scholarslab.lib.virginia.edu/blog/hololens-guide/), [building your own AR headset](https://scholarslab.lib.virginia.edu/blog/lessons-north-star/), [3D content for VR](https://scholarslab.lib.virginia.edu/blog/3d-content-vr/), [collaborative Unity projects](https://scholarslab.lib.virginia.edu/blog/sharing-unity-project/), and [creating indoor illumination in Unity](https://scholarslab.lib.virginia.edu/blog/light-emitting-objects/)). 
 
