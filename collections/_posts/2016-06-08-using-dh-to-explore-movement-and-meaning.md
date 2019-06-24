@@ -6,6 +6,8 @@ slug: using-dh-to-explore-movement-and-meaning
 title: Using DH to Explore Movement and Meaning
 categories:
 - Grad Student Research
+tags:
+- WLU Collab
 ---
 
 _Enjoy this guest post by Kelli Shermeyer, Doctoral candidate in the UVA English department, in which she describes her work with Professor Holly Pickett's English 380 course at Washington & Lee. This work is supported by ASC grant expanding [collaboration between Washington & Lee and the Scholars' Lab](http://scholarslab.org/announcements/scholars-lab-grads-partner-with-washington-lee-university/). Cross-posted on the [Washington & Lee's DH blog](http://digitalhumanities.wlu.edu/blog/2016/06/08/kelli-shermeyer-on-using-dh-to-explore-movement-and-meaning/)._

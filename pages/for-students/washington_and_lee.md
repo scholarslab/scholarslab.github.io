@@ -5,6 +5,9 @@ permalink: /visiting-workshops-at-washington-and-lee-university/
 nav: false
 ---
 
+**Opportuntity is subject to funding availability. There will be no funding for the 2019-2020 cycle.**
+
+
 Funded by the Andrew W. Mellon Foundation, Washington and Lee University is collaborating with the Scholars’ Lab at the University of Virginia to bring UVA graduate students to give presentations or workshops on their digital research to enrich undergraduate courses at W&L. The grant aims to give graduate students the opportunity to develop workshop materials based on their work in digital humanities and to gain experience teaching in a liberal arts context in preparation for the job market. W&L courses and students gain contact with cutting edge digital research and pedagogy.
 
 Graduate students who participate receive a $500 honorarium in exchange for their work consulting with the W&L faculty member, preparing and delivering their materials in a course visit, and then following up with the faculty member afterwards. We will work to match interested students with appropriate W&L courses. The opportunities are numerous, and we are happy to work with you to develop something productive for both faculty member and graduate student. These framing questions might help:
@@ -24,7 +27,19 @@ Some past presentations have included:
 * Introduction to text analysis through a hands-on exercise on topic modeling for an intro to DH course
 * Lecture on the history of technology in fashion and hands-on sewing workshop for a seminar on Fashion in Global History, drawing on grad student’s own research in wearable technology
 * Design jams for helping students scope, shape, and develop their own course projects
-Participants are encouraged to cross post to both the Scholars' Lab and WLUDH blogs after participating to document their work. Here are [past posts by participants](http://digitalhumanities.wlu.edu/blog/category/uva-collaboration/).
+
+Participants are encouraged to cross post to both the Scholars' Lab and WLUDH blogs after participating to document their work. Here are past posts by participants:
+
+{% assign project_posts = site.posts | where: 'tags', 'WLU Collab' %}
+<ul>
+{% for post in project_posts %}
+{% capture authorstring %}
+{% include author-name.html authorid=post.author %}
+{% endcapture %}
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring }}</li>
+{% endfor %}
+</ul>
+
 
 Matches between W&L faculty and interested graduate students at UVA are made on a rolling basis. For more information, contact:
 

@@ -19,14 +19,6 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 [More information](/praxis-program-fellowships/)
 
-<!-- 
-
-## Digital Humanities Prototyping Fellowships
-**Call issued:** Annually in December **subject to availability**
-
-**Deadline:** No call will be issued for the 2019-2020 academic year.
-[More information](/digital-humanities-prototyping-fellowships/) -->
-
 ## Digital Humanities Fellowship Program
 **Call issued:** Annually in October, typically by October 1
 
@@ -55,15 +47,9 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 [More information](/cultural-heritage-informatics-internship/)
 
-<!-- ## Guest DH Workshop Teaching at W&L
-**Call issued:** Ongoing
-
-**Deadline:** Rolling
-[More information](/visiting-workshops-at-washington-and-lee-university/) -->
-
 ## Leadership Alliance Mellon Initiative (LAMI)
 
-No formal call for this external program, but graduate students interested in serving as mentors for the program should write to [Brandon Walsh](mailto:bmw9t@virginia.edu). 
+No formal call for this external program, but graduate students interested in serving as mentors for the program should write to [Brandon Walsh](mailto:bmw9t@virginia.edu).
 
 [More information](/lami/)
 
@@ -75,3 +61,9 @@ UVA departments determine language proficiency requirements for their students. 
 No deadline or formal call! Delivered on an ongoing, by-request basis.
 
 Check out [our offerings](/professional-development/), [drop us a line](mailto:scholarslab@virginia.edu), and let us know how we can help.
+
+## Archive of Past Opportunities
+In addition to the above, active programs, the Scholars' Lab has participated in a range of programs with limited funding that have run their course. While these initiatives are no longer active, they can give a taste of the kinds of work we get up to. We will issue regular announcements and post application deadlines should funding become available.
+
+* [Guest DH Workshop Teaching at W&L](/visiting-workshops-at-washington-and-lee-university/)
+* [Digital Humanities Prototyping Fellowships](/digital-humanities-prototyping-fellowships/)

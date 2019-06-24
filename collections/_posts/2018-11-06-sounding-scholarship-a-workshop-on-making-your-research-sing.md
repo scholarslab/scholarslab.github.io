@@ -6,13 +6,15 @@ slug: sounding-scholarship-a-workshop-on-making-your-research-sing
 title: 'Sounding Scholarship: A Workshop on Making Your Research Sing'
 categories:
 - Grad Student Research
+tags:
+- WLU Collab
 ---
 
 Hello! My name is Emily and I’m part of the 2018-19 Praxis cohort. This month, we’ve been thinking about pedagogy and specifically about how to translate our research interests into teachable workshops. If (fellow Praxis member) Catherine’s workshop is [secretly about metaphysics](http://scholarslab.org/grad-student-research/teaching-transcription-and-secretly-metaphysics/), mine might be secretly about sound studies. The workshop revolves around the central question of sound studies, “What can we get from sound that we can’t get from other things?” However, while the discipline of sound studies looks at using sound as subject and evidence, this workshop seeks to encourage practitioners to explore what sound can do for _presenting_ or _interpreting_ research.
 
 
 
-The workshop is divided into three main parts. The first is largely interactive and its intention is to demonstrate the ways in which sound can convey information differently (and sometimes more effectively or efficiently) than a written text. The second section demonstrates ways in which sound can be used to present research, by showing a series of examples. The third concludes by asking participants to contemplate how these ideas can be used in their own work, as well as other possible methods of using sound in scholarship. 
+The workshop is divided into three main parts. The first is largely interactive and its intention is to demonstrate the ways in which sound can convey information differently (and sometimes more effectively or efficiently) than a written text. The second section demonstrates ways in which sound can be used to present research, by showing a series of examples. The third concludes by asking participants to contemplate how these ideas can be used in their own work, as well as other possible methods of using sound in scholarship.
 
 
 
@@ -28,11 +30,11 @@ Writing utensils
 
 Printed copies of sound text (see below) for each participant
 
-Sound recordings and a way to play them (see below) 
+Sound recordings and a way to play them (see below)
 
 Simple musical instruments: maracas, toy piano, kazoo, small drums, etc. (optional)
 
-Ideally, this workshop will take place in a space with multiple computers that participants can use in part II. Alternatively, participants should be asked to bring laptops or similar technology. 
+Ideally, this workshop will take place in a space with multiple computers that participants can use in part II. Alternatively, participants should be asked to bring laptops or similar technology.
 
 Printed copies of information about tools/project examples (just in case)
 
@@ -48,22 +50,22 @@ Possible Prompting Questions:
 
 
 
- 	
-  * How many sounds were there? 
 
- 	
-  * How would you describe each sound? 
+  * How many sounds were there?
 
- 	
-  * How long did they last, individually and collectively? 
 
- 	
-  * How loud was the sound? Did it change over time? Were there softer and louder sounds within the collective sound? 
+  * How would you describe each sound?
 
- 	
-  * Did the combination of sounds change how you heard individual parts? 
 
- 	
+  * How long did they last, individually and collectively?
+
+
+  * How loud was the sound? Did it change over time? Were there softer and louder sounds within the collective sound?
+
+
+  * Did the combination of sounds change how you heard individual parts?
+
+
   * Did the sounds remind you of anything? Did they evoke an emotion?
 
 
@@ -73,7 +75,7 @@ Then, they will be given a few minutes (and paper and writing utensils) to write
 
 
 
-Next, they will be given a short text example describing sound. This text can come from anywhere, the only requirements are that it attempts to describe and make sense of a series of sounds and that the sounds that it describes can be reproduced for the group (probably via a recording, but other methods could be considered as well). Texts about a musical piece accompanied by recordings of the piece can be helpful here, but other ideas could include descriptions of political speeches, movie or radio dialogues, or natural phenomena (birdsong or lava flowing, for example). After reading, the participants will be played a recording (or live demonstration) of the described sounds. Then, they will be asked: Did you have a different experience reading about the sound than listening to it? How? What might be the benefits and disadvantages of using each of these ways of incorporating sound into your work? How might the fact that the sound was recorded vs. live affect your perception of it? 
+Next, they will be given a short text example describing sound. This text can come from anywhere, the only requirements are that it attempts to describe and make sense of a series of sounds and that the sounds that it describes can be reproduced for the group (probably via a recording, but other methods could be considered as well). Texts about a musical piece accompanied by recordings of the piece can be helpful here, but other ideas could include descriptions of political speeches, movie or radio dialogues, or natural phenomena (birdsong or lava flowing, for example). After reading, the participants will be played a recording (or live demonstration) of the described sounds. Then, they will be asked: Did you have a different experience reading about the sound than listening to it? How? What might be the benefits and disadvantages of using each of these ways of incorporating sound into your work? How might the fact that the sound was recorded vs. live affect your perception of it?
 
 
 
@@ -81,19 +83,19 @@ At this point, it should be possible to enter into a more conceptual conversatio
 
 
 
- 	
+
   * What sounds do or could scholars talk about?
 
- 	
+
   * Would it be helpful to hear these sounds? Why?
 
- 	
+
   * What are the benefits and disadvantages of incorporating sound into text?
 
- 	
+
   * What are the possible advantages and disadvantages of presenting research entirely through sound? (some interesting points here include cost, portability, and accessibility for oral languages and dialects)
 
- 	
+
   * What are some ways that scholars could use sound in presenting their work to the public?
 
 
@@ -105,19 +107,19 @@ This section will focus on examples of work in different formats that include so
 
 
 
- 	
+
   * Summarize the tool/project(s) that you looked at
 
- 	
+
   * What are some possible benefits to this approach?
 
- 	
+
   * What are some disadvantages?
 
- 	
+
   * Do you know of any related projects?
 
- 	
+
   * How could you use this technology in other projects or disciplines?
 
 
@@ -125,23 +127,23 @@ This list is in flux and should be adjusted to respond to the interests of works
 
 
 
- 	
-  * Sound in Online Publishing: [Soundcite](https://soundcite.knightlab.com/), [The Ballad of Geeshie and Elvie,](https://www.nytimes.com/interactive/2014/04/13/magazine/blues.html) and [Treasured Island](http://projects.aljazeera.com/2014/tangier-island/). 
+
+  * Sound in Online Publishing: [Soundcite](https://soundcite.knightlab.com/), [The Ballad of Geeshie and Elvie,](https://www.nytimes.com/interactive/2014/04/13/magazine/blues.html) and [Treasured Island](http://projects.aljazeera.com/2014/tangier-island/).
 
 
 Soundcite is a tool which allows writers to overlay text with audio, so that with the click of a button they can listen as they read. The Ballad of Geeshie and Elvie shows how this can be useful with musical examples and Treasured Island uses it to seamlessly incorporate examples of Tangier Island’s unique accent and dialect as they are discussed.
 
 
 
- 	
-  * Sound in PDFs: [Adobe Buttons](https://helpx.adobe.com/indesign/using/interactivity-5.html). 
+
+  * Sound in PDFs: [Adobe Buttons](https://helpx.adobe.com/indesign/using/interactivity-5.html).
 
 
 Similar to Soundcite, Adobe Buttons allows you to create buttons which can activate audio and video incorporated into text PDFs. I don’t currently have an example for this, but I suspect it would be great for using sound in course papers or in articles for downloadable journals.
 
 
 
- 	
+
   * Podcasts in Scholarship: Sounding Out! Podcasts ([website](https://soundstudiesblog.com/2018/11/01/so-podcast-71-everyday-sounds-of-resilience-and-being-black-joy-at-school/)/ [iTunes](https://itunes.apple.com/us/podcast/sounding-out%21/id435193796)), [Chart Chat](http://chartchat.libsyn.com/), and Ottoman History Podcast ([website](http://www.ottomanhistorypodcast.com/)/ [Soundcloud](https://soundcloud.com/ottoman-history-podcast/robson))
 
 
@@ -149,7 +151,7 @@ Workshop participants are, of course, likely to be familiar with the concept of 
 
 
 
- 	
+
   * Making Podcasts: [Garageband](https://www.apple.com/mac/garageband/) and [Audacity](https://www.audacityteam.org/)
 
 
@@ -157,7 +159,7 @@ Garageband and Audacity are two tools that students and other aspiring podcast m
 
 
 
- 	
+
   * Sound and Interactive Websites in Scholarship: [The Roaring ‘Twenties](http://vectorsdev.usc.edu/NYCsound/777b.html) and [Lynching in America](https://lynchinginamerica.eji.org/)
 
 
@@ -165,7 +167,7 @@ The Roaring Twenties is a research project about sound in New York City towards 
 
 
 
- 	
+
   * Sound and Mapping: [London Sound Survey](https://www.soundsurvey.org.uk/index.php/survey/soundmaps/more/37/35)
 
 

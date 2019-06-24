@@ -46,7 +46,7 @@ task :test_build do
   }
 
   HTMLProofer.check_directory("./_site", options).run
-  sh 'bundle exec jekyll serve --incremental --skip-initial-build'
+  sh 'bundle exec jekyll serve'
 end
 
 desc "Build the site."

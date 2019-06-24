@@ -3,7 +3,7 @@ author: zachary-stone
 date: 2014-11-19 11:55:22+00:00
 layout: post
 published: false
-slug: No Content Found
+slug: old-wine-in-new-wineskins
 title: Old Wine in New Wineskins
 ---
 

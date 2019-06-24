@@ -13,6 +13,7 @@ tags:
 - howto
 - Pedagogy
 - Scholarly Collaborations
+- WLU Collab
 ---
 
 _Makerspace Technologist Catherine Addington went to Washington and Lee University to give a workshop in digital humanities through a Mellon-funded collaboration with the [WLUDH](https://digitalhumanities.wlu.edu/). More information about this initiative can be found [here](http://scholarslab.org/visiting-workshops-at-washington-and-lee-university/). Her post is [cross-listed on the W&L blog](https://digitalhumanities.wlu.edu/blog/2018/04/03/writing-in-public-on-purpose-at-washington-lee-university/)._
@@ -23,13 +24,13 @@ Prof. Bufkin and I had three main goals for the lecture:
 
 
 
- 	
+
   1. Model both personal and professional relationships with an individual digital presence for students.
 
- 	
+
   2. Inform students about public writing careers and the publishing process, particularly as a freelancer.
 
- 	
+
   3. Lead students in brainstorming plans for their own domain name and Twitter account.
 
 
@@ -82,13 +83,13 @@ My point is: you know how sometimes a friend will comment on an old profile pict
 
 
 
- 	
+
   1. **Be able to laugh at yourself (and forgive yourself, when you need to).** Everyone has had a phase they wish everyone else would forget. Nobody cares about your embarrassing memories as much as you do. The Internet has not fundamentally changed this, we just have to laugh at ourselves a little louder.
 
- 	
+
   2. **Personality is an asset.** People actually do not want the sum total of your human existence to be a soulless LinkedIn page. I mean, you might need a LinkedIn if that’s common practice in your field, but just remember that people like people, not brands. I once interviewed a potential intern because she worked on a blueberry farm. Of course, she actually got hired because she was qualified and seemed like someone we’d enjoy working with, plus there are real professional skills from working on a blueberry farm&mdash;talk about initiative and teamwork! But being able to actually stand out from a pile of papers is a good thing. More importantly, there’s more to life than work, and you are going to want to spend it as a person, not an idea.
 
- 	
+
   3. **Kill it with excellence.** This is my main strategy, to be honest. You can’t always take things back, but you can often drown them out. The Internet is great for making a lot of noise. People are welcome to dig up my nonsense tweets but they’ll have to pass by a fair amount of intelligent conversation to get there too.
 
 
@@ -98,13 +99,13 @@ As I see it, the personal website has three main functions: _place_, _process_, 
 
 
 
- 	
+
   * **Place**: the personal website as business card. Many professionals have a website that includes a short bio, links to their social media, and ways to get in contact. Some include a print or digital version of their resume as well.
 
- 	
+
   * **Process**: the personal website as blog. Sharing “process” writing looks different for everyone. It can be a reflection on your study abroad travels, a step-by-step description of your latest experiment and results, a discussion of the readings you did for class, or even just stray observations from your day that you find interesting. Personally, I develop ideas best in conversation, and find that blogging is a good way to get feedback. I also use my newsletter, [Cartas de América](http://tinyletter.com/cartasdeamerica), for this purpose&mdash;that’s where I talk to friends and readers about my academic research.
 
- 	
+
   * **Product**: the personal website as portfolio. Sharing “finished products” will also look different for everyone. I have two of these: a “[writing & media](http://catherineaddington.com/writing)” tab for published writing and podcast episodes, which I link at the bottom of my resume; and a “[teaching portfolio](https://pages.shanti.virginia.edu/Catherine_Addington/)” with example lesson plans and a statement of teaching philosophy. For you, it might be a multimedia gallery with art or design samples, a list of relevant coursework and job experience, a web store, or photos of events you’ve planned or projects you’ve collaborated on.
 
 
@@ -148,13 +149,13 @@ So before we talk about that domain name that you bought, let’s brainstorm. Wh
 
 
 
- 	
+
   * What do you want people to know about you?
 
- 	
+
   * When someone mentions you in conversation, what do you hope it’s in reference to? What do you hope people associate with you?
 
- 	
+
   * Whom do you imagine as your target audience&mdash;the people reading your website? Family, friends, coworkers, industry experts, potential employers?
 
 
@@ -162,13 +163,13 @@ Now, let’s look at some examples of what other young professionals have done w
 
 As you look through a site or two, think about these questions:
 
- 	
+
   * Based on this person’s website, what do you know about them? What are you likely to associate with them?
 
- 	
+
   * Whom do you think is this person’s intended audience? How does their website reach that audience?
 
- 	
+
   * What do you like and dislike about the website? How could it be improved?
 
 
@@ -180,10 +181,10 @@ Now that you have an idea of your own goals and a few examples to work with, let
 
 
 
- 	
+
   * What elements of the example sites you looked at, if any, would help you achieve the goals you laid out in your brainstorm session?
 
- 	
+
   * Think about the personal website as _process_ (blog), _product_ (portfolio), and _place_ (business card). Which of those three elements would be useful to you, if any?
 
 

@@ -9,6 +9,7 @@ categories:
 - Grad Student Research
 tags:
 - praxis program
+- WLU Collab
 ---
 
 _Cross-posted at [my personal website](http://bmw9t.github.io/blog/2014/05/09/washingtonlee/)._
@@ -30,5 +31,3 @@ Sarah and I work well together, and we have presented together in the past. But
 It is one thing to learn and practice digital humanities. It is another thing entirely to turn around and help others do the same. I have only really been hacking away for two years now, so I felt a bit unqualified to talk down software development as an invited speaker. I tend to assume that the Scholars' Lab has a better sense of my own abilities than I do in most cases, though, and the invitation to W&L was no exception. The practice of putting together presentations on project management and software development was incredibly empowering. It helped me to have more confidence in myself as a digital humanist. No longer does the prospect of teaching an introduction to digital humanities course appear to be a vague and nebulous question mark. I now know that I could do it, because I have already done so in part. I also have a better sense of my own developing pedagogy of digital humanities. Opportunities to teach digital humanities like this, to perform with no net, are rare.
 
 You teach to learn, and this is as true in the digital humanities as it is anywhere else. I learned a great deal from the bright undergraduates at W&L.
-
-

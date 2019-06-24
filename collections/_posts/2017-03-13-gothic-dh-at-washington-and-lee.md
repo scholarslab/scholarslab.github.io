@@ -8,6 +8,8 @@ categories:
 - Digital Humanities
 - Experimental Humanities
 - Grad Student Research
+tags:
+- WLU Collab
 ---
 
 *Cross-posted on the [Washington and Lee DH Blog](http://digitalhumanities.wlu.edu/blog/2017/03/13/gothic-dh-at-washington-and-lee/)*
