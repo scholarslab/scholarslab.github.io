@@ -8,10 +8,8 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost: "Crossposted to my <a href=\"http://walshbr.com/blog/a-praxis-oriented-introduction-to-digital-pedagogy/\">blog</a>."
 ---
-
-*Crossposted to my [blog](http://walshbr.com/blog/a-praxis-oriented-introduction-to-digital-pedagogy/)*
-
 
 One thing I’ve realized about the Praxis Program, our year-long, soup-to-nuts introduction to digital humanities for a cohort of doctoral students, is that it changes each year. In my first year here, these changes were a source of anxiety for me. Surely, I thought, there must be a way to systematize the program, to find a format that would be more consistent, and, thus, more sustainable. Over the last two years, however, I’ve come to view these regular tweaks as a strength of the program. Rather than being locked into what we’ve done in the past, we’re committed to re-examining our assumptions and our plans. To illustrate this, I’d like to share an example of a problem we identified and some the ways we tried to address it during the past year. 
 

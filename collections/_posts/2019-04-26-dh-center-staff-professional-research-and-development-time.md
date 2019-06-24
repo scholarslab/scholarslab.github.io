@@ -8,6 +8,7 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
 ---
 
 *Crossposted to [my blog](https://literaturegeek.com/2019/04/26/dh-center-staff-professional-research-and-development-time/).*
