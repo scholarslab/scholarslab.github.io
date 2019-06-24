@@ -30,7 +30,7 @@ See past fellowship winners on our [People](/people) page. The call for applica
 
 A complete application package will include the following materials, all of which should be emailed directly to [Brandon Walsh](mailto:bmw9t@virginia.edu):
 
-* a cover letter, addressed to the selection committee, containing:
+* a cover letter (roughly 2 pages single-spaced), addressed to the selection committee, containing:
   * a summary of the applicant’s plan for use of digital technologies in his or her dissertation research;
   * a summary of the applicant’s experience with digital projects;
   * and a description of UVa library digital resources (content or expertise) that are relevant to the proposed project;

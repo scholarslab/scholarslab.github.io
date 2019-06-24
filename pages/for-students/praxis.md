@@ -27,7 +27,7 @@ Applicants must still be drawing upon their regular funding packages as part of 
 
 ### How to Apply
 
-The application process for Praxis is simple! You apply individually, and we assemble the team, through a process that includes group interviews and input from peers. To start, we only ask for a letter of intent. The letter should include:
+The application process for Praxis is simple! You apply individually, and we assemble the team, through a process that includes group interviews and input from peers. To start, we only ask for a letter of intent (roughly 1-2 pages single-spaced). The letter should include:
 
 * the applicant's research interests;
 * summary of the applicant's plan for use of digital technologies in your research;
