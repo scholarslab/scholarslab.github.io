@@ -35,11 +35,11 @@ I was genuinely surprised and excited by the depth and breadth of the "monthlies
   * At least **twenty** students from **doctoral to undergraduate (in addition to Praxis)**, in such fields as Music and Anthropology: **individual consultations**, not including hands-on aid in Makerspace; from learning Python to project design to GIS
 
 
-**Scholars’ Lab as Starting Point, Incubator, Training Center, and Curator of Projects in DH **
+**Scholars’ Lab as Starting Point, Incubator, Training Center, and Curator of Projects in DH**
 
 With a wealth of centers and nodes of digital expertise and activity at UVA, Scholars’ Lab has taken initiative to improve collaboration and communication, launching [http://dh.virginia.edu](http://dh.virginia.edu), **a website**, in May (in development).  Many faculty and student projects may be born and in due course put to rest/sustainable pasture through Scholars’ Lab, and we guide people to find the collaborators and resources they need in between.  We are a consultation hub and work closely with IATH, SHANTI, Research Data Services, Arts and Sciences and Provost’s Office administration, Library leadership, and ITS, among others.
 
-**Some of the Continuing Projects: **Neatline; Geoblacklight; Makerspace; Take Back the Archive (American Studies); Collective Biographies of Women (with IATH); For Better for Verse; Participatory Media; Salem Witch Trials; text analysis (18th-c. English); projects in NLP, GIS, 3D printing, augmented reality, data mining from social media, sonification
+**Some of the Continuing Projects:** Neatline; Geoblacklight; Makerspace; Take Back the Archive (American Studies); Collective Biographies of Women (with IATH); For Better for Verse; Participatory Media; Salem Witch Trials; text analysis (18th-c. English); projects in NLP, GIS, 3D printing, augmented reality, data mining from social media, sonification
 
 **Speakers and Events Series.**  In Spring, 2016, we held eight events open to the public and the Library, three of which focused on Praxis fellows (current or alum) or the Visiting Fellow presenting on their work.  In spring, 2016, we began planning a DH@UVA fall conference and a lecture series for 2016-2017 on diversity and access issues in DH.
 

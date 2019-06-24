@@ -49,6 +49,6 @@ Until we perfect that magic “extract all those lines from this paper map” bu
 
 October 9th
 
-**Collecting Your Own Spatial Data **
+**Collecting Your Own Spatial Data**
 
 Research projects often rely on fieldwork to build new datasets.  In this workshop we’ll focus on tools for spatial data collection. First we’ll take a quick look behind the curtain to see how GPS really works and how to use that knowledge to our advantage.  Then we’ll evaluate free or low-cost options to gather locations and associated attributes using handheld GPS devices, smartphones, and apps.  This workshop will introduce you to a range of devices and methods for mobile spatial data collection.

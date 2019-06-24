@@ -21,13 +21,13 @@ The Head of the Scholars’ Lab should have a strong service ethic, broad techni
 **Primary Responsibilities:**
 _Community-building and Leadership_: strategic leadership of digital humanities services, oversight of day-to-day operations, design of intellectual programming and instruction, and collaboration with local and national/international peers; _Project-based Collaborations_: coordinates development of high-level goals, intake processes, workplans, and MoUs for digital project collaborations, in consultation with departmental, Library, and University partners; _Research and Professional Development_: pursuit of own scholarly R&D agenda related to the humanities or social sciences with publication of results and/or presentation at appropriate venues.
 
-**Specialized Knowledge and Skills: **
+**Specialized Knowledge and Skills:**
 Strong knowledge of digital humanities history, technologies, and intellectual directions. Strong public service orientation and interest in guiding scholarly projects from conceptualization to implementation and audience-building. Excellent communication skills, including the ability to present complex technical information to non-specialists and a clear understanding of the perspectives and needs of scholars. Previous experience in public service in an academic library setting preferred.
 
-**Education: **
+**Education:**
 Graduate study (PhD preferred) in a field related to humanities scholarship or humanistic aspects of social or information science.
 
-**Experience: **
+**Experience:**
 5+ years’ experience with project management and/or hands-on development of digital projects related to digital humanities or cultural heritage. Supervisory experience preferred.
 
 **Salary and Benefits:**

@@ -18,15 +18,15 @@ This is what the whiteboard in the grad lounge looks like this week.
 
 We've been dreaming pretty big. Here are a few of the questions that we've been mulling over:
 
-**1. What will Prism look like?** What sort of interface would allow users to upload their own materials and browse other ongoing (or completed) projects? (This is where [Claire and I started thinking about different "rooms".](http://www.scholarslab.org/digital-humanities/fun-with-prism/))
+1. **What will Prism look like?** What sort of interface would allow users to upload their own materials and browse other ongoing (or completed) projects? (This is where [Claire and I started thinking about different "rooms".](http://www.scholarslab.org/digital-humanities/fun-with-prism/))
 
-**2. What kinds of things might we leave to the control of users?** Would users be able to upload different kinds of "texts", like images and music? Could users hide or display different categories to guide interpretation? How might we make for freer responses? Can freer responses be turned into usable data? Would there be some value to closing projects? Or should all projects be kept open to the public?
+2. **What kinds of things might we leave to the control of users?** Would users be able to upload different kinds of "texts", like images and music? Could users hide or display different categories to guide interpretation? How might we make for freer responses? Can freer responses be turned into usable data? Would there be some value to closing projects? Or should all projects be kept open to the public?
 
-**3. How might we visualize whatever data we collect? **
+3. **How might we visualize whatever data we collect?**   
 
-**4.  Do we want to add more features or make the features that already exist more robust? **
+4. **Do we want to add more features or make the features that already exist more robust?**
 
-**5. What should we do next?**
+5. **What should we do next?**
 
 It seems like the next big hurdle for us will be to carefully weigh our ambitions against our limited time-frame. While brainstorming, Brandon suggested that we're going to need to be careful to take on manageable goals. One way to do this might be (#4) to focus our efforts on making the existing features more robust. This is an attractive idea. We could begin by trying to realize the sorts of visualizations that last year's cohort dreamed up.
 

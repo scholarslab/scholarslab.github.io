@@ -25,7 +25,7 @@ We welcome applications from women, people of color, LGBTQ, and others who are t
 **Job type:** Full-time (40 hours/week) with benefits; not a permanent position (contract length of 18 months, with possibility of additional 6 months)
 **Salary:** $60,000/year
 **Location:** Scholars' Lab, Alderman Library, University of Virginia (Charlottesville, VA)
-**Start date: **Any time between now and January 1, 2019
+**Start date:** Any time between now and January 1, 2019
 **Benefits:** include health/dental/vision insurance, conference travel funding, 20% self-initiated R&D time
 
 
@@ -55,7 +55,7 @@ This is a non-permanent _Developer Outreach & Testing Coordinator_ role located 
 
 **Education requirements:** Either a bachelor's degree plus one year of work experience, _or_ at least five years of work experience. We prefer (but do not require) a bachelor's degree with relevance to the humanities, or graduate coursework with relevance to the humanities—but we're truly open to considering other experiences as comparable to these.
 
-**Knowledge & skills: **You _**do not**_ need to possess all of these, as we'll consider strength in some of these as compensating for lack of experience with other skills on the list. We're seeking:
+**Knowledge & skills:** You _**do not**_ need to possess all of these, as we'll consider strength in some of these as compensating for lack of experience with other skills on the list. We're seeking:
 
 
 

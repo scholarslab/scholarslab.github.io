@@ -12,7 +12,7 @@ categories:
 
 We are thrilled to announce our partnership with 9 new graduate fellows for the 2014-2015 academic year! Joining an illustrious [community of past recipients](http://www.scholarslab.org/graduate-fellowships/) of Scholars’ Lab Fellowships, the new cohort hail from 5 disciplines in the [humanities and social sciences at the University of Virginia.](http://artsandsciences.virginia.edu/home/index.html)
 
-**James Ambuske**, **Jennifer Foy** , and **Emily Senefeld **join us as our three [Digital Humanities Graduate Fellows](http://www.scholarslab.org/graduate-fellowship-in-digital-humanities/). Throughout the year, they will have the opportunity to collaborate closely with Scholars’ Lab staff to integrate digital tools and methods to their dissertation research.
+**James Ambuske**, **Jennifer Foy** , and **Emily Senefeld** join us as our three [Digital Humanities Graduate Fellows](http://www.scholarslab.org/graduate-fellowship-in-digital-humanities/). Throughout the year, they will have the opportunity to collaborate closely with Scholars’ Lab staff to integrate digital tools and methods to their dissertation research.
 
 James Ambuske's dissertation is titled "Scotland's American Revolution: Emigration and Imperial Crisis, 1763-1803."
 

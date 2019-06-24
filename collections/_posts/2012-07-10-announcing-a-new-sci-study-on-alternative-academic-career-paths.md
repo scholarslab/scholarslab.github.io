@@ -14,7 +14,7 @@ tags:
 
 I'm pleased to announce that the [Scholarly Communication Institute](http://uvasci.org/current-work/) is conducting **a study on career preparation in humanities graduate programs**. As part of this study, we have launched two confidential surveys: the [first is for people on alternative academic career paths](http://alt-academy.questionpro.com/) (that is, people with graduate training in the humanities and allied fields working beyond the professoriate); the [second survey is for their employers](http://alt-academy.employers.questionpro.com/).  The surveys will be open until October 1, 2012.
 
-Humanities scholars **come from a wide array of backgrounds and embark on a variety of careers** in areas like libraries, museums, archives, higher education and humanities administration, publishing, research and technology, and more. SCI anticipates that data collected during the study will contribute to a **deeper understanding of the diversity of career paths **we pursue after our graduate studies, while also highlighting **opportunities to better prepare students for a range of careers** beyond the tenure track.
+Humanities scholars **come from a wide array of backgrounds and embark on a variety of careers** in areas like libraries, museums, archives, higher education and humanities administration, publishing, research and technology, and more. SCI anticipates that data collected during the study will contribute to a **deeper understanding of the diversity of career paths** we pursue after our graduate studies, while also highlighting **opportunities to better prepare students for a range of careers** beyond the tenure track.
 
 The surveys **complement the** [**public database**](http://altacademy.wufoo.com/reports/who-we-are/) that we recently created as a way to clarify the breadth of the field, and to foster community among a diverse group. If your work represents the diversity of the broad #alt-ac community, it's not too late to [tell us about yourself!](http://altacademy.wufoo.com/forms/who-we-are/)
 
@@ -28,7 +28,7 @@ The survey results will help us to make curriculum recommendations so that gradu
   * **[Complete the main #alt-ac survey](http://alt-academy.questionpro.com/)**
 
 	
-  * ****[Complete the employer survey](http://alt-academy.employers.questionpro.com/)****
+  * **[Complete the employer survey](http://alt-academy.employers.questionpro.com/)**
 
 
 
@@ -36,7 +36,7 @@ The survey results will help us to make curriculum recommendations so that gradu
   * **[Add your information to the database](http://altacademy.wufoo.com/forms/who-we-are/)**
 
 	
-  * ****[View the database report](http://altacademy.wufoo.com/reports/who-we-are/)****
+  * **[View the database report](http://altacademy.wufoo.com/reports/who-we-are/)**
 
 
 

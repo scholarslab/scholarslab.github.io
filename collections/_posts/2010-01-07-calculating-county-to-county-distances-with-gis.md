@@ -23,41 +23,11 @@ For more information see the ArcGIS online help for the ‘Feature To Point’ t
 
 [http://webhelp.esri.com/arcgisdesktop/9.3/index.cfm?id=1798&pid=1790&topicname=Feature_To_Point_%28Data_Management%29](http://webhelp.esri.com/arcgisdesktop/9.3/index.cfm?id=1798&pid=1790&topicname=Feature_To_Point_%28Data_Management%29)
 
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
 **Creating a point distance table** – Given a set of point features, GIS software can calculate the straight-line distance from each point in the set to every other point in the set.   The output distance table contains one row for each point-to-point combination along with the calculated distance.  In ESRI’s ArcGIS desktop software the ‘Point Distance’ tool creates a point distance table.
 
 [![Point Distance](http://static.scholarslab.org/wp-content/uploads/2010/01/PointDistance.jpg)](http://www.scholarslab.org/geospatial-and-temporal/calculating-county-to-county-distances-with-gis/attachment/pointdistance/)
 
 For more information see the ArcGIS online help for the Point Distance tool: [http://webhelp.esri.com/arcgisdesktop/9.3/index.cfm?id=1353&pid=1347&topicname=Point_Distance_%28Analysis%29](http://webhelp.esri.com/arcgisdesktop/9.3/index.cfm?id=1353&pid=1347&topicname=Point_Distance_%28Analysis%29)
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
 
 **Example using the ‘Feature To Point’ and ‘Point Distance’ tools –** Given a polygon dataset representing boundaries of a group of US counties, calculate the distance between each county in the group and every other county in the group.
 	
