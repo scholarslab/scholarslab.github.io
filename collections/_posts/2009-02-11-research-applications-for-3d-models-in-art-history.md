@@ -32,7 +32,7 @@ Coincidentally, lighting simulation may have an impact on how we consider the ar
 
 
 
-![House of the Faun](http://farm4.static.flickr.com/3316/3300953093_53b43154c2.jpg)
+<!-- ![House of the Faun](http://farm4.static.flickr.com/3316/3300953093_53b43154c2.jpg) -->
 
 
 

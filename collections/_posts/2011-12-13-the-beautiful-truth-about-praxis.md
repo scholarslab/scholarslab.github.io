@@ -15,9 +15,11 @@ tags:
 I thought that this week I’d give you a behind-the-scenes peek at what we really do in the [Praxis Program](http://praxis.scholarslab.org) at the [Scholars' Lab](http://scholarslab.org). Brooke and I both wrote posts at the beginning of the semester about how much pressure we felt to appear polished and professional 24/7, but the reality is that 1) this is a learning process and 2) we’re only human. I applied to be part of the Praxis team because I wanted to work on DH with other people (not an opportunity that presents itself every day!) and it really is as great as I thought it would be.  At the risk of making all of you hopelessly envious of our camaraderie, I’m pleased to share below a pictorial flowchart of sorts that illustrates the way things generally happen here at the Praxis Program during Fellows’ “office hours.” 
 
 First, one of the extremely knowledgeable members of the Praxis team teaches the newbies about something. Here, that something is wireframing.
+
 [![Slab](http://farm8.staticflickr.com/7175/6505765533_5d61f95803.jpg)](http://www.flickr.com/photos/72018725@N07/6505765533/)
 
 Next, Praxis Fellows try out their own ideas on the new concept, using each other as sounding boards. We achieve various degrees of success depending on a number of factors, including that day’s caffeine intake level.
+
 [![Slab2](http://farm8.staticflickr.com/7150/6505765845_b34c006a54.jpg)](http://www.flickr.com/photos/72018725@N07/6505765845/)
 
 At some point, the knowledgeable Praxis team member usually has to avert some kind of impending crisis: “I’m going to make an intervention, because you need one.” But these interventions are always performed in a very kindly fashion. We appreciate them. (This photo actually captures two such interventions occurring simultaneously... wireframing and programming CAN happen in the same room!)

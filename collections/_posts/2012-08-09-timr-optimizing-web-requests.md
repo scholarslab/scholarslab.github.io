@@ -9,10 +9,6 @@ categories:
 ---
 
 
-[![Stopwatch](http://farm4.staticflickr.com/3443/3297205226_a12b175d49_n.jpg)](http://www.flickr.com/photos/wwarby/3297205226/)
-
-
-
 
 
 One of the fundamental tensions in programming is balancing the program’s requirements for time (programmer time and running time) against its space requirements (disk space and memory space). Optimizing one of these costs&mdash;i.e., looking for ways to shift that balance, usually to have the program run faster&mdash;is a common task.

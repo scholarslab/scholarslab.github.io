@@ -8,6 +8,5 @@ categories:
 - Announcements
 ---
 
-Today's edition of [UVA Today](http://www.virginia.edu/uvatoday/index.php) covers our Grad Fellows program and our first luncheon of the semester. [Read all about it!](http://www.virginia.edu/uvatoday/newsRelease.php?id=6418)
+Today's edition of [UVA Today](http://www.virginia.edu/uvatoday/index.php) covers our Grad Fellows program and our first luncheon of the semester. [Read all about it!](https://news.virginia.edu/content/scholars-lab-helps-uva-graduate-students-expand-their-research)
 
-[![image from UVA Today online edition](http://farm4.static.flickr.com/3131/2851294584_993036d123.jpg)](http://www.virginia.edu/uvatoday/newsRelease.php?id=6418)
