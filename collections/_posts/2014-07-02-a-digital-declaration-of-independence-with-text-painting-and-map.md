@@ -25,26 +25,21 @@ Way back in the spring of 2012, a couple months before we released the first ver
 
 For some reason, though, the idea popped back into my head a couple months ago - maybe because Menlo Park is submerged in a kind of permanent summer, and it pretty much always feels like a good time to eat ice cream and shoot off fireworks. After mulling it over for a couple weeks, I decided to resurrect it from the dead, spruce it up, and post it in time for the 4th of July. So, with two days to spare, here we go - an interactive edition of the Declaration of Independence, tightly coupled with three other "views" in an effort to add dimension to the original document:
 
-
-
-
-
-
-  1. A full-text, two-way-linked transcription of the manuscript and the signatures at the bottom. Click on sentences in the transcription to focus on the corresponding region of the scanned image, or click on annotated blocks on the image to scroll the text.
+A full-text, two-way-linked transcription of the manuscript and the signatures at the bottom. Click on sentences in the transcription to focus on the corresponding region of the scanned image, or click on annotated blocks on the image to scroll the text.
 
 [![transcript](http://dclure.org/wp-content/uploads/2014/07/transcript-1024x620.jpg)](http://dclure.org/wp-content/uploads/2014/07/transcript.jpg)
 
 
 
 
-  2. An interactive edition of [Trumbull's "Declaration of Independence" painting](http://en.wikipedia.org/wiki/Trumbull%27s_Declaration_of_Independence), with each of the faces outlined and interactively linked with the corresponding signature on the document.
+An interactive edition of [Trumbull's "Declaration of Independence" painting](http://en.wikipedia.org/wiki/Trumbull%27s_Declaration_of_Independence), with each of the faces outlined and interactively linked with the corresponding signature on the document.
 
 [![painting](http://dclure.org/wp-content/uploads/2014/07/painting1-1024x616.jpg)](http://dclure.org/wp-content/uploads/2014/07/painting1.jpg)
 
 
 
 
-  3. All of which is plastered on top of a map that plots out each of the signers' hometowns on a custom [Mapbox](https://www.mapbox.com) layer, which makes it easy to see how the layout of  the signatures maps on to the geographic layout of the colonies. Which, by extension, tracks the future division between Union and Confederate states in the Civil War - Georgia and the Carolinas look awful lonely over on the far left side of the document.
+All of which is plastered on top of a map that plots out each of the signers' hometowns on a custom [Mapbox](https://www.mapbox.com) layer, which makes it easy to see how the layout of  the signatures maps on to the geographic layout of the colonies. Which, by extension, tracks the future division between Union and Confederate states in the Civil War - Georgia and the Carolinas look awful lonely over on the far left side of the document.
 
 [![map](http://dclure.org/wp-content/uploads/2014/07/map1-1024x615.jpg)](http://dclure.org/wp-content/uploads/2014/07/map1.jpg)
 
