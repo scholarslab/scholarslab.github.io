@@ -18,6 +18,7 @@ I apologize in advance for whatever vocabulary gap there might be in the discuss
 
 For one, this set-up only uses a single octave major scale. We opened things up by expanding the range of tones the speaker could play, including both a chromatic scale and adding an extra octave. One difficulty here was in the way that way that accidentals would be read by the board. At first we tried to use standard notation – f sharp would be represented by f#. But the code finds the notes in the melody by reading character by character through an array. So when the computer sees “cc#”, it processes it as two ‘c’s and one nonsense syllable that it can’t process. There is probably a more elegant solution, but we got around this by associating the accidentals with new characters entirely
 
+```
 C#/Db             =>       l
 
 D#/Eb              =>       m
@@ -27,6 +28,7 @@ F#/Gb              =>       n
 G#/Ab             =>       o
 
 A#/Bb             =>       p
+```
 
 Next, we added an extra octave. To extend the range, we hard coded frequencies for the new notes according to the formula given by the original Arduino code:
 

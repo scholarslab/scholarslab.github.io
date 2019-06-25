@@ -185,7 +185,8 @@ This moves the pem file to the new directory named .ec2
 
 **Step 15**: Enter and run the command:
 
-```chmod 400 ~/.ec2/*.pem
+```
+chmod 400 ~/.ec2/*.pem
 ```
 
 
@@ -385,7 +386,7 @@ Then navigate in your browser back to your site and you should be able to run th
 
 To add a plugin, navigate to the plugins folder in terminal, copy the link for the plugin download, and run the following commands. This will download a .zip file, unzip the file, and delete the original .zip file. The plugin should then be available in your omeka. The code below shows how to install the Neatline plugin, but this could work for any other plugin.
 
-``````
+```
 
 
 cd /var/www/omeka/plugins
@@ -393,4 +394,4 @@ sudo curl -O http://omeka.org/wordpress/wp-content/uploads/Neatline-1.1.2.zip
 sudo unzip Neatline-1.1.2.zip
 sudo rm Neatline-1.1.2.zip
 
-``````
+```
