@@ -38,7 +38,7 @@ This digital archive also prompted interest in logistical questions, such how st
   3. Reaching the Community: Supporting Research, Learning, and Teaching
 
 
-  4. Reference Information and Providing Access** **
+  4. Reference Information and Providing Access
 
 
 Our last activity presented the opportunity to learn about different types of metadata and its role in cataloguing. We discussed social media presences as types of personal, living archives and how hashtags such as #TBT, #breakfast, and #gooddog can be seen as a means of organizing Instagram posts. In pairs, the students were then given three photos of different US Latinx artworks and asked to assign categories to each photo. They thought about specificity and accessibility: how to make the photos both accessible in broad searches, but easily found for specific inquiries. Each pair shared their selected words with a another group. After comparing their different hashtags and debating which labels were the most useful, each group came up with a definitive set of categories. We then talked about the different “data sets” created in class, noting the benefits and possible drawbacks of each one.

@@ -29,7 +29,7 @@ The Library and the Scholars’ Lab are committed to diversity, inclusion, and s
 
 The Scholars' Lab currently consists of 11 staffers (plus a senior developer role), as well as an amazing cohort of graduate fellows and makerspace technicians.
 
-**Anticipated salary range: **$65,000-75,000, plus benefits such as professional development/conference travel funding, health insurance, and retirement savings plan
+**Anticipated salary range:** $65,000-75,000, plus benefits such as professional development/conference travel funding, health insurance, and retirement savings plan
 
 **Responsibilities**
 
@@ -56,7 +56,7 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
   * creates documentation for both internal Lab and external non-technical audience use
 
 
-**Qualifications**** **
+**Qualifications**
 
 **Minimum requirements:**
 

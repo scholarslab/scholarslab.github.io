@@ -22,5 +22,3 @@ All sessions are one hour and assume participants have no previous experience us
 
 
 
-
-** **

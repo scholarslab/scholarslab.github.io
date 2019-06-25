@@ -17,7 +17,7 @@ The Scholars’ Lab is proud to celebrate [Open Access Week](http://openaccesswe
 
 Then, come back that very afternoon for...
 
-**Wine, Cheese, & Legalese **
+**Wine, Cheese, & Legalese**
 with Madelyn Wessel
 
 Monday, October 18 at 4:00 p.m. in the  Scholars' Lab

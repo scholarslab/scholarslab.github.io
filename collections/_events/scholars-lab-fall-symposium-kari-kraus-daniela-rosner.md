@@ -34,9 +34,6 @@ The project centers on an electronic quilt that materializes the work of early c
 
 **Daniela Rosner** is an Assistant Professor in Human Centered Design & Engineering (HCDE) at the University of Washington. Her research investigates the social, political, and material circumstances of technology development, with an emphasis on foregrounding marginalized histories of practice, from maintenance to needlecraft. She has worked in design research at Microsoft Research, Adobe Systems, Nokia Research and as an exhibit designer at several museums, including the Adler Planetarium and Astronomy Museum.
 
-** **
-
-
 
 
 

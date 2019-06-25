@@ -15,7 +15,7 @@ event-categories:
 - Scholarly Communication
 ---
 
-**_The Multimodal Millennium: The Future of Digital Publishing_ **
+**_The Multimodal Millennium: The Future of Digital Publishing_**
 
 This presentation will focus on the evolving landscape of digital publishing from the perspective of an editor and author of online, interactive, academic texts. The speaker will showcase digital scholarship across mediums in order to highlight innovations in interactive media (from The New York Times and Kairos), peer review (from Hybrid Pedagogy, JITP, and the Modern Language Association), and collaborative models of authorship (from JITP, Kairos, and student work).  Additionally, practical advice and useable examples of effective approaches to digital writing pedagogy will be introduced and discussed, particularly concerning sample tools used to create, evaluate, and interact with webtexts. Audience members are encouraged to bring and use their smart phones or tablet devices for an interactive element of the presentation.
 
