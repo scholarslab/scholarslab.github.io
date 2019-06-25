@@ -8,8 +8,7 @@ categories:
 - Podcasts
 ---
 
-**David McClure & Eric Rochester
-THATCampVA 2012 Neatline workshop**
+## David McClure & Eric Rochester - THATCampVA 2012 Neatline workshop
 
 [![](http://static.scholarslab.org/wp-content/uploads/2012/05/thatcamp-va-2012-logo-300x113.png)](http://www.scholarslab.org/podcasts/thatcampva-2012-neatline-workshop/attachment/thatcamp-va-2012-logo/)
 

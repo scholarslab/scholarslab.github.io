@@ -57,9 +57,9 @@ Jeremy had tried to add some Vim [mode lines](http://vim.wikia.com/wiki/Modeline
 
 
 
-[sourcecode language="php"]
+```
 /* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
-[/sourcecode]
+```
 
 
 
@@ -92,9 +92,9 @@ First, we have to load the files to process. When you open Vim from the command-
 
 
 
-[sourcecode language="bash"]
+```
 :args **/*.php
-[/sourcecode]
+```
 
 
 
@@ -141,9 +141,9 @@ With the first file loaded into the buffer, now we make the change that we want 
 
 
 
-[sourcecode language="bash"]
+```
 qt
-[/sourcecode]
+```
 
 
 
@@ -161,9 +161,9 @@ What I had Jeremy do was slightly more complicated and precise, but basically, I
 
 
 
-[sourcecode language="bash"]
+```
 :%s/softtabstop=4;/softtabstop=4:/e
-[/sourcecode]
+```
 
 
 
@@ -176,9 +176,9 @@ Once we’ve made the change, let’s save it and move to the next file.
 
 
 
-[sourcecode language="bash"]
+```
 :wn
-[/sourcecode]
+```
 
 
 
@@ -191,9 +191,9 @@ That’s all we need to do for each file. Now hit _q_ to stop recording:
 
 
 
-[sourcecode language="bash"]
+```
 q
-[/sourcecode]
+```
 
 
 
@@ -216,9 +216,9 @@ In this case, tell it to play the recorded keystrokes 100 times:
 
 
 
-[sourcecode language="bash"]
+```
 100@t
-[/sourcecode]
+```
 
 
 

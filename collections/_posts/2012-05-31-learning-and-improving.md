@@ -39,7 +39,7 @@ This function takes the word currently being stemmed, along with some other data
 
 For reference, here was what I originally wrote:
 
-[sourcecode language="clojure"]
+```
 (defn m
   "Measures the number of consonant sequences between
   the start of word and position j. If c is a consonant
@@ -75,7 +75,7 @@ For reference, here was what I originally wrote:
     (if (= stage :return)
       n
       (count-cluster n (inc i)))))
-[/sourcecode]
+```
 
 Wow. That's a mess.
 
@@ -88,7 +88,7 @@ Don't worry if that doesn't make sense. The code up there is actively obtuse. It
 
 Manuel suggested merging the three functions together to get this:
 
-[sourcecode language="clojure"]
+```
 (defn m
   "Measures the number of consonant sequences between
   the start of word and position j. If c is a consonant
@@ -102,7 +102,7 @@ Manuel suggested merging the three functions together to get this:
   "
   ([stemmer]
     (m stemmer 0 0))
-  
+
   ([stemmer num-c num-cs]
     (if (not (seq (:word stemmer))) ; Is the word empty? Then we reached the beginning of the stemmer
       (if (> num-c 1)               ; THEN1: More than 2 consonants in current counting?
@@ -113,7 +113,7 @@ Manuel suggested merging the three functions together to get this:
         (if (> num-c 1)                               ; ELSE3: If not, check if we found more than 1 consecutive consonants
           (recur (pop-word stemmer) 0 (inc num-cs))   ; THEN4: If yes, we found one more sequence
           (recur (pop-word stemmer) 0 num-cs))))))    ; ELSE4: If not, then we found only one, and start anew
-[/sourcecode]
+```
 
 It's better, but still not great. (It also doesn't work, the way it's presented here, but fixing that wouldn't be hard, so I'm neither going to make an issue of it nor fix it.)
 
@@ -125,7 +125,7 @@ In other words, I was enjoying the worst of both worlds.
 
 I decided to refactor again, this time being more functional. Here's what I ended up with:
 
-[sourcecode language="clojure"]
+```
 (defn m
   "Measures the number of consonant sequences between the start of a word an
   position j. If c is a consonant sequence and v a vowel sequence, and <...>
@@ -146,7 +146,7 @@ I decided to refactor again, this time being more functional. Here's what I ende
       (drop-while consonant-group?)         ; remove the first (was at the end of the sequence) constant group
       (filter consonant-group?)             ; filter out vowel groups
       count)))                              ; finally, count the remaining consonant groups
-[/sourcecode]
+```
 
 Better (although I already see some places that could be improved). It really doesn't need the comments I added, and if this weren't pedagogical code, I would have left them out.
 
