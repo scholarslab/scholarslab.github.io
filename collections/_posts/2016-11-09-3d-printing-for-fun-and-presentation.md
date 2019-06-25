@@ -44,11 +44,6 @@ Also it saves me a lot of money as a first year who doesn't have a car. Instead 
 </figure>
 
 
-## 
-
-
-
-
 ## Arian Azizi - Civil War Bullets
 
 
