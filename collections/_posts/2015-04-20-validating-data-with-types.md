@@ -27,7 +27,7 @@ For most projects that I’m reasonably sure that I’ll be the only developer o
 
 
 Given Haskell’s reputation, the previous sentence probably seems to border on insanity. Hopefully this post will prove this at least partially correct and will highlight some of the nicer aspects of working in Haskell. It leverages types to provide some assurances that the data is well-formed and consistent. This means I can perform data validation quickly and easily, and that helps everyone.
- 
+
 > This post is actually runnable Haskell. If you have the [GHC](https://www.haskell.org/ghc/) compiler installed you can copy and paste this post into a file, say `Validating.lhs`, and run it from the command line:
 
 >     <code class="sourceCode bash">$ <span class="kw">runhaskell</span> Validating.lhs contribDB_1982.csv</code>
@@ -36,27 +36,27 @@ Given Haskell’s reputation, the previous sentence probably seems to border on 
 
 > So first some pre-amble and boilerplate. This just makes available the libraries that we’ll use.
 
-    <code class="sourceCode haskell">
-    <span class="fu">></span> <span class="ot">{-# LANGUAGE OverloadedStrings #-}</span>
-    <span class="fu">></span>
-    <span class="fu">></span> <span class="co">-- If you want more details about the code, including brief</span>
-    <span class="fu">></span> <span class="co">-- explanations of the syntax, you've come to the right place.</span>
-    <span class="fu">></span> <span class="co">-- Pay attention to the comments. This still isn't a tutorial</span>
-    <span class="fu">></span> <span class="co">-- on Haskell, but hopefully you'll have a more detailed</span>
-    <span class="fu">></span> <span class="co">-- understanding of what's happening.</span>
-    <span class="fu">></span>
-    <span class="fu">></span> <span class="co">-- First, Haskell code is kept in modules. Executable files are</span>
-    <span class="fu">></span> <span class="co">-- in the `Main` module.</span>
-    <span class="fu">></span> <span class="kw">module</span> <span class="dt">Main</span> <span class="kw">where</span>
-    <span class="fu">></span>
-    <span class="fu">></span> <span class="co">-- Import statements make the code from these modules available</span>
-    <span class="fu">></span> <span class="co">-- in this module. Qualified imports make the code available</span>
-    <span class="fu">></span> <span class="co">-- under an alias (e.g., Data.ByteString.Lazy is aliased to B).</span>
-    <span class="fu">></span> <span class="kw">import qualified</span> <span class="dt">Data.ByteString.Lazy</span> <span class="kw">as</span> <span class="dt">B</span>
-    <span class="fu">></span> <span class="kw">import           </span><span class="dt">Data.Csv</span>
-    <span class="fu">></span> <span class="kw">import qualified</span> <span class="dt">Data.Text</span>            <span class="kw">as</span> <span class="dt">T</span>
-    <span class="fu">></span> <span class="kw">import qualified</span> <span class="dt">Data.Vector</span>          <span class="kw">as</span> <span class="dt">V</span>
-    <span class="fu">></span> <span class="kw">import           </span><span class="dt">System.Environment</span></code>
+<code class="sourceCode haskell">
+<span class="fu">></span> <span class="ot">{-# LANGUAGE OverloadedStrings #-}</span>
+<span class="fu">></span>
+<span class="fu">></span> <span class="co">-- If you want more details about the code, including brief</span>
+<span class="fu">></span> <span class="co">-- explanations of the syntax, you've come to the right place.</span>
+<span class="fu">></span> <span class="co">-- Pay attention to the comments. This still isn't a tutorial</span>
+<span class="fu">></span> <span class="co">-- on Haskell, but hopefully you'll have a more detailed</span>
+<span class="fu">></span> <span class="co">-- understanding of what's happening.</span>
+<span class="fu">></span>
+<span class="fu">></span> <span class="co">-- First, Haskell code is kept in modules. Executable files are</span>
+<span class="fu">></span> <span class="co">-- in the `Main` module.</span>
+<span class="fu">></span> <span class="kw">module</span> <span class="dt">Main</span> <span class="kw">where</span>
+<span class="fu">></span>
+<span class="fu">></span> <span class="co">-- Import statements make the code from these modules available</span>
+<span class="fu">></span> <span class="co">-- in this module. Qualified imports make the code available</span>
+<span class="fu">></span> <span class="co">-- under an alias (e.g., Data.ByteString.Lazy is aliased to B).</span>
+<span class="fu">></span> <span class="kw">import qualified</span> <span class="dt">Data.ByteString.Lazy</span> <span class="kw">as</span> <span class="dt">B</span>
+<span class="fu">></span> <span class="kw">import           </span><span class="dt">Data.Csv</span>
+<span class="fu">></span> <span class="kw">import qualified</span> <span class="dt">Data.Text</span>            <span class="kw">as</span> <span class="dt">T</span>
+<span class="fu">></span> <span class="kw">import qualified</span> <span class="dt">Data.Vector</span>          <span class="kw">as</span> <span class="dt">V</span>
+<span class="fu">></span> <span class="kw">import           </span><span class="dt">System.Environment</span></code>
 
 
 
@@ -116,11 +116,11 @@ Before we define the data types, we’ll first define some aliases. These aren�
 
 
 
-    
-    <code class="sourceCode haskell">
-    <span class="fu">></span> <span class="kw">type</span> <span class="dt">OrgName</span> <span class="fu">=</span> <span class="dt">T.Text</span>
-    <span class="fu">></span> <span class="kw">type</span> <span class="dt">Year</span>    <span class="fu">=</span> <span class="dt">Int</span>
-    <span class="fu">></span> <span class="kw">type</span> <span class="dt">Amount</span>  <span class="fu">=</span> <span class="dt">Double</span></code>
+
+<code class="sourceCode haskell">
+<span class="fu">></span> <span class="kw">type</span> <span class="dt">OrgName</span> <span class="fu">=</span> <span class="dt">T.Text</span>
+<span class="fu">></span> <span class="kw">type</span> <span class="dt">Year</span>    <span class="fu">=</span> <span class="dt">Int</span>
+<span class="fu">></span> <span class="kw">type</span> <span class="dt">Amount</span>  <span class="fu">=</span> <span class="dt">Double</span></code>
 
 
 
@@ -129,13 +129,13 @@ The first data type that we’ll create is `Party`. This will be similar to enum
 
 
 
-    
-    <code class="sourceCode haskell">
-    <span class="fu">></span> <span class="co">-- This statement says that you can make a value of type Party </span>
-    <span class="fu">></span> <span class="co">-- using any of the constructors listed (separated by pipes).</span>
-    <span class="fu">></span> <span class="co">-- In this case, none of the constructors take extra data, so</span>
-    <span class="fu">></span> <span class="co">-- the semantics comes soley from which constructor is chosen.</span>
-    <span class="fu">></span> <span class="kw">data</span> <span class="dt">Party</span> <span class="fu">=</span> <span class="dt">Dem</span> <span class="fu">|</span> <span class="dt">GOP</span> <span class="fu">|</span> <span class="dt">Independent</span> <span class="fu">|</span> <span class="dt">Unknown</span></code>
+
+<code class="sourceCode haskell">
+<span class="fu">></span> <span class="co">-- This statement says that you can make a value of type Party </span>
+<span class="fu">></span> <span class="co">-- using any of the constructors listed (separated by pipes).</span>
+<span class="fu">></span> <span class="co">-- In this case, none of the constructors take extra data, so</span>
+<span class="fu">></span> <span class="co">-- the semantics comes soley from which constructor is chosen.</span>
+<span class="fu">></span> <span class="kw">data</span> <span class="dt">Party</span> <span class="fu">=</span> <span class="dt">Dem</span> <span class="fu">|</span> <span class="dt">GOP</span> <span class="fu">|</span> <span class="dt">Independent</span> <span class="fu">|</span> <span class="dt">Unknown</span></code>
 
 
 
@@ -149,18 +149,18 @@ The following declaration states that a `ContribEntry` can be either a `Candidat
 
 
 
-    
-    <code class="sourceCode haskell">
-    <span class="fu">></span> <span class="co">-- This shows how values are given types. `contribYear ::</span>
-    <span class="fu">></span> <span class="co">-- !Year`, says that the `contribYear` field must contain</span>
-    <span class="fu">></span> <span class="co">-- values of type `Year`. The exclamation mark tells the</span>
-    <span class="fu">></span> <span class="co">-- Haskell compiler to execute this value immediately. Unlike</span>
-    <span class="fu">></span> <span class="co">-- most other languages, Haskell will normally wait to</span>
-    <span class="fu">></span> <span class="co">-- evaluate expressions until absolutely necessary.</span>
-    <span class="fu">></span> <span class="kw">data</span> <span class="dt">ContribEntry</span>
-    <span class="fu">></span>         <span class="fu">=</span> <span class="dt">Candidate</span>  {<span class="ot"> contribYear ::</span> <span class="fu">!</span><span class="dt">Year</span>,<span class="ot"> contribParty ::</span> <span class="fu">!</span><span class="dt">Party</span> }
-    <span class="fu">></span>         <span class="fu">|</span> <span class="dt">Committee</span>  {<span class="ot"> contribYear ::</span> <span class="fu">!</span><span class="dt">Year</span> }
-    <span class="fu">></span>         <span class="fu">|</span> <span class="dt">StateLevel</span> {<span class="ot"> contribYear ::</span> <span class="fu">!</span><span class="dt">Year</span>,<span class="ot"> stateCode ::</span> <span class="fu">!</span><span class="dt">T.Text</span> }</code>
+
+<code class="sourceCode haskell">
+<span class="fu">></span> <span class="co">-- This shows how values are given types. `contribYear ::</span>
+<span class="fu">></span> <span class="co">-- !Year`, says that the `contribYear` field must contain</span>
+<span class="fu">></span> <span class="co">-- values of type `Year`. The exclamation mark tells the</span>
+<span class="fu">></span> <span class="co">-- Haskell compiler to execute this value immediately. Unlike</span>
+<span class="fu">></span> <span class="co">-- most other languages, Haskell will normally wait to</span>
+<span class="fu">></span> <span class="co">-- evaluate expressions until absolutely necessary.</span>
+<span class="fu">></span> <span class="kw">data</span> <span class="dt">ContribEntry</span>
+<span class="fu">></span>         <span class="fu">=</span> <span class="dt">Candidate</span>  {<span class="ot"> contribYear ::</span> <span class="fu">!</span><span class="dt">Year</span>,<span class="ot"> contribParty ::</span> <span class="fu">!</span><span class="dt">Party</span> }
+<span class="fu">></span>         <span class="fu">|</span> <span class="dt">Committee</span>  {<span class="ot"> contribYear ::</span> <span class="fu">!</span><span class="dt">Year</span> }
+<span class="fu">></span>         <span class="fu">|</span> <span class="dt">StateLevel</span> {<span class="ot"> contribYear ::</span> <span class="fu">!</span><span class="dt">Year</span>,<span class="ot"> stateCode ::</span> <span class="fu">!</span><span class="dt">T.Text</span> }</code>
 
 
 
@@ -169,15 +169,15 @@ Each row of the data file will have information about a single contribution made
 
 
 
-    
-    <code class="sourceCode haskell">
-    <span class="fu">></span> <span class="kw">data</span> <span class="dt">OrgContrib</span>
-    <span class="fu">></span>          <span class="fu">=</span> <span class="dt">OrgContrib</span>
-    <span class="fu">></span>          {<span class="ot"> orgContribName   ::</span> <span class="fu">!</span><span class="dt">OrgName</span>
-    <span class="fu">></span>          ,<span class="ot"> orgDistrict10s   ::</span> <span class="fu">!</span><span class="dt">T.Text</span>
-    <span class="fu">></span>          ,<span class="ot"> orgContribEntry  ::</span> <span class="fu">!</span><span class="dt">ContribEntry</span>
-    <span class="fu">></span>          ,<span class="ot"> orgContribAmount ::</span> <span class="fu">!</span><span class="dt">Amount</span>
-    <span class="fu">></span>          }</code>
+
+<code class="sourceCode haskell">
+<span class="fu">></span> <span class="kw">data</span> <span class="dt">OrgContrib</span>
+<span class="fu">></span>          <span class="fu">=</span> <span class="dt">OrgContrib</span>
+<span class="fu">></span>          {<span class="ot"> orgContribName   ::</span> <span class="fu">!</span><span class="dt">OrgName</span>
+<span class="fu">></span>          ,<span class="ot"> orgDistrict10s   ::</span> <span class="fu">!</span><span class="dt">T.Text</span>
+<span class="fu">></span>          ,<span class="ot"> orgContribEntry  ::</span> <span class="fu">!</span><span class="dt">ContribEntry</span>
+<span class="fu">></span>          ,<span class="ot"> orgContribAmount ::</span> <span class="fu">!</span><span class="dt">Amount</span>
+<span class="fu">></span>          }</code>
 
 
 
@@ -216,22 +216,22 @@ In this case these type classes define what data types can be read from a row of
 
 
 
-    
-    <code class="sourceCode haskell">
-    <span class="fu">></span> <span class="co">-- This defines a instance of `FromField` for `Party`.</span>
-    <span class="fu">></span> <span class="co">-- `parseField` is the only method. Multiple listings for this</span>
-    <span class="fu">></span> <span class="co">-- function, combined with the string literals in place of the</span>
-    <span class="fu">></span> <span class="co">-- parameter, means that the method acts as a big case</span>
-    <span class="fu">></span> <span class="co">-- statement on its one parameter. When the function is passed</span>
-    <span class="fu">></span> <span class="co">-- the string "100", the first definition will be used. The</span>
-    <span class="fu">></span> <span class="co">-- last clause, with the underscore, is a catch-all, in which</span>
-    <span class="fu">></span> <span class="co">-- the parameter's value will be ignored.</span>
-    <span class="fu">></span> <span class="kw">instance</span> <span class="dt">FromField</span> <span class="dt">Party</span> <span class="kw">where</span>
-    <span class="fu">></span>     parseField <span class="st">"100"</span> <span class="fu">=</span> return <span class="dt">Dem</span>
-    <span class="fu">></span>     parseField <span class="st">"200"</span> <span class="fu">=</span> return <span class="dt">GOP</span>
-    <span class="fu">></span>     parseField <span class="st">"328"</span> <span class="fu">=</span> return <span class="dt">Independent</span>
-    <span class="fu">></span>     <span class="co">-- This catch-all is probably a bad idea....</span>
-    <span class="fu">></span>     parseField _     <span class="fu">=</span> return <span class="dt">Unknown</span></code>
+
+<code class="sourceCode haskell">
+<span class="fu">></span> <span class="co">-- This defines a instance of `FromField` for `Party`.</span>
+<span class="fu">></span> <span class="co">-- `parseField` is the only method. Multiple listings for this</span>
+<span class="fu">></span> <span class="co">-- function, combined with the string literals in place of the</span>
+<span class="fu">></span> <span class="co">-- parameter, means that the method acts as a big case</span>
+<span class="fu">></span> <span class="co">-- statement on its one parameter. When the function is passed</span>
+<span class="fu">></span> <span class="co">-- the string "100", the first definition will be used. The</span>
+<span class="fu">></span> <span class="co">-- last clause, with the underscore, is a catch-all, in which</span>
+<span class="fu">></span> <span class="co">-- the parameter's value will be ignored.</span>
+<span class="fu">></span> <span class="kw">instance</span> <span class="dt">FromField</span> <span class="dt">Party</span> <span class="kw">where</span>
+<span class="fu">></span>     parseField <span class="st">"100"</span> <span class="fu">=</span> return <span class="dt">Dem</span>
+<span class="fu">></span>     parseField <span class="st">"200"</span> <span class="fu">=</span> return <span class="dt">GOP</span>
+<span class="fu">></span>     parseField <span class="st">"328"</span> <span class="fu">=</span> return <span class="dt">Independent</span>
+<span class="fu">></span>     <span class="co">-- This catch-all is probably a bad idea....</span>
+<span class="fu">></span>     parseField _     <span class="fu">=</span> return <span class="dt">Unknown</span></code>
 
 
 
@@ -250,40 +250,40 @@ We’ll also define a utility function, `defaulting`, that defaults empty string
 
 
 
-    
-    <code class="sourceCode haskell">
-    <span class="fu">></span> <span class="co">-- This defines the function defaulting. The first line is the</span>
-    <span class="fu">></span> <span class="co">-- type value. The definition of `defaulting` is a more</span>
-    <span class="fu">></span> <span class="co">-- complicated case statement that first tests `T.null v`</span>
-    <span class="fu">></span> <span class="co">-- (i.e., that it's empty), and `otherwise` is the "else" part</span>
-    <span class="fu">></span> <span class="co">-- of the statement.</span>
-    <span class="fu">></span><span class="ot"> defaulting ::</span> <span class="dt">T.Text</span> <span class="ot">-></span> <span class="dt">T.Text</span> <span class="ot">-></span> <span class="dt">T.Text</span>
-    <span class="fu">></span> defaulting d v <span class="fu">|</span> T.null v  <span class="fu">=</span> d
-    <span class="fu">></span>                <span class="fu">|</span> otherwise <span class="fu">=</span> v
-    <span class="fu">></span>
-    <span class="fu">></span> <span class="kw">instance</span> <span class="dt">FromNamedRecord</span> <span class="dt">ContribEntry</span> <span class="kw">where</span>
-    <span class="fu">></span>     parseNamedRecord m <span class="fu">=</span> <span class="kw">do</span>
-    <span class="fu">></span>         <span class="co">-- Read the recipient_type field. The `.:` operator</span>
-    <span class="fu">></span>         <span class="co">-- reads a specific field from the CSV row.</span>
-    <span class="fu">></span>         rtype <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"recipient_type"</span>
-    <span class="fu">></span>         <span class="co">-- If recipient_type is empty, give it a default value</span>
-    <span class="fu">></span>         <span class="co">-- of "CAND", and then branch on that.</span>
-    <span class="fu">></span>         <span class="kw">case</span> defaulting <span class="st">"CAND"</span> rtype <span class="kw">of</span>
-    <span class="fu">></span>             <span class="st">"CAND"</span> <span class="ot">-></span> <span class="kw">do</span>
-    <span class="fu">></span>                 <span class="co">-- Read the cycle (year) and recipient_party fields</span>
-    <span class="fu">></span>                 cycle <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"cycle"</span>
-    <span class="fu">></span>                 party <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"recipient_party"</span>
-    <span class="fu">></span>                 <span class="co">-- Create a Candidate</span>
-    <span class="fu">></span>                 return (<span class="dt">Candidate</span> cycle party)
-    <span class="fu">></span>             <span class="st">"COMM"</span> <span class="ot">-></span> <span class="kw">do</span>
-    <span class="fu">></span>                 <span class="co">-- Read the cycle and return a Committe</span>
-    <span class="fu">></span>                 cycle <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"cycle"</span>
-    <span class="fu">></span>                 return (<span class="dt">Committee</span> cycle)
-    <span class="fu">></span>             r <span class="ot">-></span> <span class="kw">do</span>
-    <span class="fu">></span>                 <span class="co">-- Everything else is a state-level contribution.</span>
-    <span class="fu">></span>                 <span class="co">-- Get the cycle and return that.</span>
-    <span class="fu">></span>                 cycle <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"cycle"</span>
-    <span class="fu">></span>                 return (<span class="dt">StateLevel</span> cycle r)</code>
+
+<code class="sourceCode haskell">
+<span class="fu">></span> <span class="co">-- This defines the function defaulting. The first line is the</span>
+<span class="fu">></span> <span class="co">-- type value. The definition of `defaulting` is a more</span>
+<span class="fu">></span> <span class="co">-- complicated case statement that first tests `T.null v`</span>
+<span class="fu">></span> <span class="co">-- (i.e., that it's empty), and `otherwise` is the "else" part</span>
+<span class="fu">></span> <span class="co">-- of the statement.</span>
+<span class="fu">></span><span class="ot"> defaulting ::</span> <span class="dt">T.Text</span> <span class="ot">-></span> <span class="dt">T.Text</span> <span class="ot">-></span> <span class="dt">T.Text</span>
+<span class="fu">></span> defaulting d v <span class="fu">|</span> T.null v  <span class="fu">=</span> d
+<span class="fu">></span>                <span class="fu">|</span> otherwise <span class="fu">=</span> v
+<span class="fu">></span>
+<span class="fu">></span> <span class="kw">instance</span> <span class="dt">FromNamedRecord</span> <span class="dt">ContribEntry</span> <span class="kw">where</span>
+<span class="fu">></span>     parseNamedRecord m <span class="fu">=</span> <span class="kw">do</span>
+<span class="fu">></span>         <span class="co">-- Read the recipient_type field. The `.:` operator</span>
+<span class="fu">></span>         <span class="co">-- reads a specific field from the CSV row.</span>
+<span class="fu">></span>         rtype <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"recipient_type"</span>
+<span class="fu">></span>         <span class="co">-- If recipient_type is empty, give it a default value</span>
+<span class="fu">></span>         <span class="co">-- of "CAND", and then branch on that.</span>
+<span class="fu">></span>         <span class="kw">case</span> defaulting <span class="st">"CAND"</span> rtype <span class="kw">of</span>
+<span class="fu">></span>             <span class="st">"CAND"</span> <span class="ot">-></span> <span class="kw">do</span>
+<span class="fu">></span>                 <span class="co">-- Read the cycle (year) and recipient_party fields</span>
+<span class="fu">></span>                 cycle <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"cycle"</span>
+<span class="fu">></span>                 party <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"recipient_party"</span>
+<span class="fu">></span>                 <span class="co">-- Create a Candidate</span>
+<span class="fu">></span>                 return (<span class="dt">Candidate</span> cycle party)
+<span class="fu">></span>             <span class="st">"COMM"</span> <span class="ot">-></span> <span class="kw">do</span>
+<span class="fu">></span>                 <span class="co">-- Read the cycle and return a Committe</span>
+<span class="fu">></span>                 cycle <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"cycle"</span>
+<span class="fu">></span>                 return (<span class="dt">Committee</span> cycle)
+<span class="fu">></span>             r <span class="ot">-></span> <span class="kw">do</span>
+<span class="fu">></span>                 <span class="co">-- Everything else is a state-level contribution.</span>
+<span class="fu">></span>                 <span class="co">-- Get the cycle and return that.</span>
+<span class="fu">></span>                 cycle <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"cycle"</span>
+<span class="fu">></span>                 return (<span class="dt">StateLevel</span> cycle r)</code>
 
 
 
@@ -297,15 +297,15 @@ We can finally define the instance for `OrgContrib`. After the complexity of `Co
 
 
 
-    
-    <code class="sourceCode haskell">
-    <span class="fu">></span> <span class="kw">instance</span> <span class="dt">FromNamedRecord</span> <span class="dt">OrgContrib</span> <span class="kw">where</span>
-    <span class="fu">></span>     parseNamedRecord m <span class="fu">=</span> <span class="kw">do</span>
-    <span class="fu">></span>         name     <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"contributor_name"</span>
-    <span class="fu">></span>         district <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"contributor_district_10s"</span>
-    <span class="fu">></span>         contrib  <span class="ot"><-</span> parseNamedRecord m
-    <span class="fu">></span>         amount   <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"amount"</span>
-    <span class="fu">></span>         return (<span class="dt">OrgContrib</span> name district contrib amount)</code>
+
+<code class="sourceCode haskell">
+<span class="fu">></span> <span class="kw">instance</span> <span class="dt">FromNamedRecord</span> <span class="dt">OrgContrib</span> <span class="kw">where</span>
+<span class="fu">></span>     parseNamedRecord m <span class="fu">=</span> <span class="kw">do</span>
+<span class="fu">></span>         name     <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"contributor_name"</span>
+<span class="fu">></span>         district <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"contributor_district_10s"</span>
+<span class="fu">></span>         contrib  <span class="ot"><-</span> parseNamedRecord m
+<span class="fu">></span>         amount   <span class="ot"><-</span> m <span class="fu">.:</span> <span class="st">"amount"</span>
+<span class="fu">></span>         return (<span class="dt">OrgContrib</span> name district contrib amount)</code>
 
 
 
@@ -355,27 +355,24 @@ The full code for this project is in my [popvox-scrape](https://github.com/eroch
 
 
 
-    
-    <code class="sourceCode haskell">
-    <span class="fu">></span><span class="ot"> readData ::</span> FilePath <span class="ot">-></span> <span class="dt">IO</span> (<span class="dt">Either</span> <span class="dt">String</span> (<span class="dt">Header</span>, <span class="dt">V.Vector</span> <span class="dt">OrgContrib</span>))
-    <span class="fu">></span> readData filename <span class="fu">=</span> <span class="kw">do</span>
-    <span class="fu">></span>     rawData <span class="ot"><-</span> B.readFile filename
-    <span class="fu">></span>     return (decodeByName rawData)
-    <span class="fu">></span>
-    <span class="fu">></span><span class="ot"> main ::</span> <span class="dt">IO</span> ()
-    <span class="fu">></span> main <span class="fu">=</span> <span class="kw">do</span>
-    <span class="fu">></span>     args <span class="ot"><-</span> getArgs
-    <span class="fu">></span>     <span class="kw">case</span> args <span class="kw">of</span>
-    <span class="fu">></span>         [filename] <span class="ot">-></span> <span class="kw">do</span>
-    <span class="fu">></span>             dataRows <span class="ot"><-</span> readData filename
-    <span class="fu">></span>
-    <span class="fu">></span>             <span class="kw">case</span> dataRows <span class="kw">of</span>
-    <span class="fu">></span>                 <span class="dt">Left</span> err <span class="ot">-></span> putStrLn (<span class="st">"ERROR: "</span> <span class="fu">++</span> err)
-    <span class="fu">></span>                 <span class="dt">Right</span> (_, rows) <span class="ot">-></span> putStrLn (  <span class="st">"SUCCESS: "</span>
-    <span class="fu">></span>                                             <span class="fu">++</span> show (V.length rows)
-    <span class="fu">></span>                                             <span class="fu">++</span> <span class="st">" read."</span>)
-    <span class="fu">></span>
-    <span class="fu">></span>         _ <span class="ot">-></span> putStrLn <span class="st">"usage: runhaskell Validate.lhs data-file.csv"</span></code>
 
-
-
+<code class="sourceCode haskell">
+<span class="fu">></span><span class="ot"> readData ::</span> FilePath <span class="ot">-></span> <span class="dt">IO</span> (<span class="dt">Either</span> <span class="dt">String</span> (<span class="dt">Header</span>, <span class="dt">V.Vector</span> <span class="dt">OrgContrib</span>))
+<span class="fu">></span> readData filename <span class="fu">=</span> <span class="kw">do</span>
+<span class="fu">></span>     rawData <span class="ot"><-</span> B.readFile filename
+<span class="fu">></span>     return (decodeByName rawData)
+<span class="fu">></span>
+<span class="fu">></span><span class="ot"> main ::</span> <span class="dt">IO</span> ()
+<span class="fu">></span> main <span class="fu">=</span> <span class="kw">do</span>
+<span class="fu">></span>     args <span class="ot"><-</span> getArgs
+<span class="fu">></span>     <span class="kw">case</span> args <span class="kw">of</span>
+<span class="fu">></span>         [filename] <span class="ot">-></span> <span class="kw">do</span>
+<span class="fu">></span>             dataRows <span class="ot"><-</span> readData filename
+<span class="fu">></span>
+<span class="fu">></span>             <span class="kw">case</span> dataRows <span class="kw">of</span>
+<span class="fu">></span>                 <span class="dt">Left</span> err <span class="ot">-></span> putStrLn (<span class="st">"ERROR: "</span> <span class="fu">++</span> err)
+<span class="fu">></span>                 <span class="dt">Right</span> (_, rows) <span class="ot">-></span> putStrLn (  <span class="st">"SUCCESS: "</span>
+<span class="fu">></span>                                             <span class="fu">++</span> show (V.length rows)
+<span class="fu">></span>                                             <span class="fu">++</span> <span class="st">" read."</span>)
+<span class="fu">></span>
+<span class="fu">></span>         _ <span class="ot">-></span> putStrLn <span class="st">"usage: runhaskell Validate.lhs data-file.csv"</span></code>
