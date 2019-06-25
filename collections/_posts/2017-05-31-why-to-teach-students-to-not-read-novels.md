@@ -57,43 +57,45 @@ To test this idea, I presented for Taylor Walle in her English 335 "Radical Jane
 After demonstrating how the method works, we turned to this chart and looked for topics that crossed the texts. The works read for the class and on the chart---from left to right---are _Emma_, _Northanger Abbey_, _Pride and Prejudice_, _Sense and Sensibility_, _A Sentimental Journey_, _A Sicilian Romance_, and _A Vindication of the Rights of Woman_. You can see, and the class immediately saw, that the topics broke at the boundaries of books. You can see that many of the topics to detect specific books, but a few cross boundaries. Now, the topic used in topic modeling isn't quite the normal sense of the word "topic." It means a list of words with probabilities that, when they occur, signal the topic that is that list of words. The topics by their top words are,
 
 
-    <code>time made heart letter moment feelings mind spirits happiness
-    present long felt thought affection left hope return day love
-    situation ...
+```
+time made heart letter moment feelings mind spirits happiness
+present long felt thought affection left hope return day love
+situation ...
 
-    elizabeth darcy bennet jane bingley wickham collins mrs sister
-    lydia catherine lady lizzy longbourn gardiner father family
-    netherfield kitty charlotte ...
+elizabeth darcy bennet jane bingley wickham collins mrs sister
+lydia catherine lady lizzy longbourn gardiner father family
+netherfield kitty charlotte ...
 
-    miss mrs good great dear young make time room house give day
-    thought friend heard man home replied pleasure hear ...
+miss mrs good great dear young make time room house give day
+thought friend heard man home replied pleasure hear ...
 
-    julia marquis door ferdinand madame hippolitus castle heart duke
-    heard marchioness length appeared light night discovered time part
-    count scene ...
+julia marquis door ferdinand madame hippolitus castle heart duke
+heard marchioness length appeared light night discovered time part
+count scene ...
 
-    man life love woman character mind world society sense opinion
-    great beauty good present taste nature understanding husband
-    degree subject ...
+man life love woman character mind world society sense opinion
+great beauty good present taste nature understanding husband
+degree subject ...
 
-    emma harriet weston mrs knightley elton thing jane woodhouse miss
-    fairfax frank churchill body hartfield bates highbury father sort
-    harriet's ...
+emma harriet weston mrs knightley elton thing jane woodhouse miss
+fairfax frank churchill body hartfield bates highbury father sort
+harriet's ...
 
-    fleur paris monsieur poor hand count thou man set told madame good
-    french thy heart lady tis put made nature ...
+fleur paris monsieur poor hand count thou man set told madame good
+french thy heart lady tis put made nature ...
 
-    elinor marianne mrs dashwood edward jennings sister willoughby
-    colonel lucy john mother thing brandon ferrars barton middleton
-    marianne's lady town ...
+elinor marianne mrs dashwood edward jennings sister willoughby
+colonel lucy john mother thing brandon ferrars barton middleton
+marianne's lady town ...
 
-    catherine tilney isabella thorpe morland allen general henry bath
-    eleanor catherine's brother james father street hour northanger
-    abbey john captain ...
+catherine tilney isabella thorpe morland allen general henry bath
+eleanor catherine's brother james father street hour northanger
+abbey john captain ...
 
-    women men reason virtue sex respect mind duties affection make
-    heart children power render human virtues true allowed till duty
-    ...</code>
+women men reason virtue sex respect mind duties affection make
+heart children power render human virtues true allowed till duty
+...
+```
 
 
 As far as the course goes, the first topic seems to cover what all these texts have in common, but notice everything isn't perfectly lined up by novel. The topic beginning "julia marquis door" clearly comes from _Sicilian Romance_, but also hits on some later chapters of _Northanger Abbey_. Why would that be? Well, if you know the texts, you realize that some of the same Gothic themes occur in both texts and they use the same words.---"Dear students, can anyone bring us to where in the text this happens?" And, we enter the realm of the normal literature classroom.

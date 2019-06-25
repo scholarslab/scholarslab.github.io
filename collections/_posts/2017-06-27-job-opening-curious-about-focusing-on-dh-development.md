@@ -29,7 +29,7 @@ The Library and the Scholars’ Lab are committed to diversity, inclusion, and s
 
 The Scholars' Lab currently consists of 11 staffers (plus a senior developer role), as well as an amazing cohort of graduate fellows and makerspace technicians.
 
-**Anticipated salary range: **$65,000-75,000, plus benefits such as professional development/conference travel funding, health insurance, and retirement savings plan
+**Anticipated salary range:** $65,000-75,000, plus benefits such as professional development/conference travel funding, health insurance, and retirement savings plan
 
 **Responsibilities**
 
@@ -37,22 +37,22 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
 
 
 
- 	
+
   * works with scholars from the humanities and social sciences to understand their needs and define project goals
 
- 	
+
   * provides professional opinions on appropriate project deliverables and reasonable schedules for completion of projects
 
- 	
+
   * collaborates on building applications that enable scholars and library users to collect, manage, produce, manipulate, or analyze digital information resources in interesting ways
 
- 	
+
   * writes original code, and tests and improves on existing code
 
- 	
+
   * learns about and engages with new technologies toward widening and deepening the Scholars' Lab's pool of staff expertise
 
- 	
+
   * creates documentation for both internal Lab and external non-technical audience use
 
 
@@ -62,22 +62,22 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
 
 
 
- 	
+
   1. Experience equivalent to one full-time year with **either** a programming language (such as&mdash;but not limited to&mdash;PHP, Ruby, Python, Java), or HTML, CSS, and JavaScript
 
- 	
+
   2. 2 years of web development experience, with tech skills demonstrated in an accessible portfolio of work.
 
- 	
+
   3. Familiarity with a code version control system such as Git.
 
- 	
+
   4. Ability to work and communicate with technical and non-technical collaborators.
 
- 	
+
   5. Either education through the master's level **or** equivalent experience through your job, hobbies, or other activities, preferably in the humanities or library/information science.
 
- 	
+
   6. Interest in the humanities (literature, history, art, cultural heritage, etc.)
 
 
@@ -85,19 +85,19 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
 
 
 
- 	
+
   1. Graduate degree **or** equivalent professional or other experience in the humanities or social sciences.
 
- 	
+
   2. Knowledge of and interest in the digital humanities.
 
- 	
+
   3. Experience with collaborative project work.
 
- 	
+
   4. Experience with any of the following: data collections, analysis, visualization, and interpretation; front-end web development and design; back-end web development; systems and database management; text analysis or image analysis methods and tools; frameworks such as Rails, Django, and Zend; TEI, XML, Solr, Cocoon, Tomcat.
 
- 	
+
   5. Experience taking initiative to suggest or begin new projects, and to carry out projects with little supervision.
 
 
