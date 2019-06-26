@@ -18,7 +18,7 @@ After introductions, we began the lecture with a brief discussion of Jorge Luis 
 
 Next, we zoomed in to a more focused discussion of archives, their purposes, and how the internet has changed the preservation and accessibility of information. We talked about documenting history from many perspectives and, in small groups, the students reflected on the following quote from Daniel Mutibwa:
 
-“The overarching argument is that local, alternative, bottom-up approaches to telling (hi)stories and re-enacting the past not only effectively take on a socio-political dimension directed at challenging dominant, hegemonic, institutional narratives and versions of the past, but – in doing so – they also offer new and refreshingly different ways of understanding, representing, remembering, and rediscovering the past meaningfully in ways that local communities and regions can relate with.”[1]
+“The overarching argument is that local, alternative, bottom-up approaches to telling (hi)stories and re-enacting the past not only effectively take on a socio-political dimension directed at challenging dominant, hegemonic, institutional narratives and versions of the past, but – in doing so – they also offer new and refreshingly different ways of understanding, representing, remembering, and rediscovering the past meaningfully in ways that local communities and regions can relate with.”[^1]
 
 The students began to connect this quote to their own interests as we discussed the possibilities of digital archives. We specifically looked at the Hurricane Katrina collection to talk about the pros and cons of bottom-up archives: [**http://hurricanearchive.org/collections**](http://hurricanearchive.org/collections)
 
@@ -38,7 +38,7 @@ This digital archive also prompted interest in logistical questions, such how st
   3. Reaching the Community: Supporting Research, Learning, and Teaching
 
 
-  4. Reference Information and Providing Access** **
+  4. Reference Information and Providing Access
 
 
 Our last activity presented the opportunity to learn about different types of metadata and its role in cataloguing. We discussed social media presences as types of personal, living archives and how hashtags such as #TBT, #breakfast, and #gooddog can be seen as a means of organizing Instagram posts. In pairs, the students were then given three photos of different US Latinx artworks and asked to assign categories to each photo. They thought about specificity and accessibility: how to make the photos both accessible in broad searches, but easily found for specific inquiries. Each pair shared their selected words with a another group. After comparing their different hashtags and debating which labels were the most useful, each group came up with a definitive set of categories. We then talked about the different “data sets” created in class, noting the benefits and possible drawbacks of each one.
@@ -74,4 +74,4 @@ With the time remaining, the students talked about whichever question interested
 
 
 
-[1] Mutibwa, Daniel H. "Memory, Storytelling and the Digital Archive: Revitalizing Community and Regional Identities In the Virtual Age." _International Journal of Media & Cultural Politics_, vol. 12, no. 1, 2016, pp. 7-26.
+[^1]: Mutibwa, Daniel H. "Memory, Storytelling and the Digital Archive: Revitalizing Community and Regional Identities In the Virtual Age." _International Journal of Media & Cultural Politics_, vol. 12, no. 1, 2016, pp. 7-26.

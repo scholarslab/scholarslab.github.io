@@ -25,7 +25,7 @@ We welcome applications from women, people of color, LGBTQ, and others who are t
 **Job type:** Full-time (40 hours/week) with benefits; not a permanent position (contract length of 18 months, with possibility of additional 6 months)
 **Salary:** $60,000/year
 **Location:** Scholars' Lab, Alderman Library, University of Virginia (Charlottesville, VA)
-**Start date: **Any time between now and January 1, 2019
+**Start date:** Any time between now and January 1, 2019
 **Benefits:** include health/dental/vision insurance, conference travel funding, 20% self-initiated R&D time
 
 
@@ -37,50 +37,50 @@ This is a non-permanent _Developer Outreach & Testing Coordinator_ role located 
 
 
 
- 	
+
   * creating technical documentation for both developers and non-technical users
 
- 	
+
   * leading workshops or teaching modules on our projects
 
- 	
+
   * refining existing documentation through user testing and community feedback
 
- 	
+
   * responding to requests for technical support related to the grant projects via email, the project's forum, and in-person consultation
 
- 	
+
   * other support for our staff doing design and development work, such as organizing and commenting on existing code, designing and coding proofs of concept, and participating in code and design reviews
 
 
 **Education requirements:** Either a bachelor's degree plus one year of work experience, _or_ at least five years of work experience. We prefer (but do not require) a bachelor's degree with relevance to the humanities, or graduate coursework with relevance to the humanities—but we're truly open to considering other experiences as comparable to these.
 
-**Knowledge & skills: **You _**do not**_ need to possess all of these, as we'll consider strength in some of these as compensating for lack of experience with other skills on the list. We're seeking:
+**Knowledge & skills:** You _**do not**_ need to possess all of these, as we'll consider strength in some of these as compensating for lack of experience with other skills on the list. We're seeking:
 
 
 
- 	
+
   * Empathy and understanding for the technical needs of both developers and non-developers
 
- 	
+
   * Experience instructing, mentoring, or otherwise assisting other people in learning to use technology
 
- 	
+
   * Passion for interactive experiences across a variety of media (web, mobile) with a strong desire for innovation
 
- 	
+
   * Comfort with complexity and ambiguity, and readiness to take on the challenges of the humanities and social sciences
 
- 	
+
   * Understanding of user interface client-side technologies such as Javascript, HTML, and CSS; and PHP
 
- 	
+
   * Experience running user testing and conducting accessibility testing
 
- 	
+
   * Experience creating standard user experience deliverables, including site maps, personas and use cases, and wireframes and interactive prototypes
 
- 	
+
   * Solid presentation and communication skills, especially around the ability to communicate the connections between technical and cultural scholarship, and the importance of design for building relationships and supporting communities
 
 
