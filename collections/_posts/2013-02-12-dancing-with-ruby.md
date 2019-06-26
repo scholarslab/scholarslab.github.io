@@ -20,7 +20,7 @@ Last week [ a choreographer friend](http://goodmove.be) asked for help with a pr
 
 Using Ruby's ability to execute shell commands, and the CLI for Mac's speech synthesizer, I was able to come up with a solution that didn't require recording all of the instructions.
 
-`
+```
 require "csv"
 adjectives_file = "adjectives.csv"
 pause = 5`
@@ -49,5 +49,5 @@ cmd = "say "#{adjs.shuffle.pop}"; sleep #{pause};"
 %x( #{cmd} )
 end
 end
-
+```
 This little script reads in the instructions (organized into categories in a CSV file) and speaks them in a synthesized voice like [this](https://soundcloud.com/chris-peck-6/adjective-shuffle-test). Fun, right?

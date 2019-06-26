@@ -24,8 +24,11 @@ No one knows what Bamboo will become just yet.  The Princeton conference was th
 But, perhaps the best part of the conference was overhearing people talk as they walked out of the hotel.
 
 “Thanks for the tip on mashups, that is just what my project needs.”
+
 “You know, I don’t even know the name of my central IT contact.  I should look him or her up.”
+
 “Here’s my email.  Let me know when your project goes into beta, I’d love to check it out.”
+
 “I only talk with professors when their email is down.  I wonder what they’re working on.  Maybe my team could help.”
 
 UVa has developed its own Bamboo community in preparation for [Phase II](http://projectbamboo.org/workshop-two), beginning next week in San Francisco.  Watch this space to see what happens.

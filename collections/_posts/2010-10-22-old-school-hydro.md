@@ -13,7 +13,7 @@ tags:
 ---
 
 Please join us on November 4th (or look for our podcast) to get your feet wet with _Old School Hydro: Modern and Historic Surveying Aboard the NOAA Ship “Thomas Jefferson!”_
-![rumsey map](http://www2.scholarslab.org/images/rumsey-edelson.jpg)
+<!-- ![rumsey map](http://www2.scholarslab.org/images/rumsey-edelson.jpg) -->
 Thursday, November 4
 3:00 p.m.
 Scholars' Lab

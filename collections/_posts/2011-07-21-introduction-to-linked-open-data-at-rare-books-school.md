@@ -30,7 +30,7 @@ I tried to present a gentle, mostly non-technical introduction to LOD, with an e
 
 
 
-[ ![Linked Open Data cloud](http://richard.cyganiak.de/2007/10/lod/lod-datasets_2010-09-22.png) ](http://lod-cloud.net/) _Linking Open Data cloud diagram, by Richard Cyganiak and Anja Jentzsch. [http://lod-cloud.net/](http://lod-cloud.net/)_
+[ ![Linked Open Data cloud](https://lod-cloud.net/clouds/lod-cloud.svg) ](http://lod-cloud.net/) _Linking Open Data cloud diagram, by Richard Cyganiak and Anja Jentzsch. [http://lod-cloud.net/](http://lod-cloud.net/)_
 
 
 
@@ -150,9 +150,10 @@ First,
 
 
 
-    
-    <code>@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-    </code>
+
+```
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+```
 
 
 
@@ -161,9 +162,10 @@ This just says that anywhere `foaf:` appears later, replace it with the URL `htt
 
 
 
-    
-    <code>[] a <http://xmlns.com/foaf/0.1/Person>;
-    </code>
+
+```
+[] a <http://xmlns.com/foaf/0.1/Person>;
+```
 
 
 
@@ -177,12 +179,13 @@ And because the line ends in a semicolon, the rest of the statements are also ab
 
 
 
-    
-    <code>foaf:firstName "Eric";
-    foaf:surname "Rochester";
-    foaf:name "Eric Rochester";
-    foaf:nick "Eric";
-    </code>
+
+```
+foaf:firstName "Eric";
+foaf:surname "Rochester";
+foaf:name "Eric Rochester";
+foaf:nick "Eric";
+```
 
 
 
@@ -212,9 +215,10 @@ The next statement is a little different:
 
 
 
-    
-    <code>foaf:workplaceHomepage <http://www.scholarslab.org/> .
-    </code>
+
+```
+foaf:workplaceHomepage <http://www.scholarslab.org/> .
+```
 
 
 
@@ -306,7 +310,7 @@ Here’s the results of one run of the script. (I randomly pick 100 newspapers f
 
 
 
-  
+
 [View Larger Map](http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=https:%2F%2Fgithub.com%2Ferochest%2Floc-chronicling-map%2Fraw%2Fmaster%2Fdata%2Fnewspapers.kml&aq=&sll=38.063606,-78.505873&sspn=0.011741,0.016093&ie=UTF8&t=h&ll=34.64296,-115.5352&spn=26.67204,84.64626)
 
 
@@ -364,6 +368,3 @@ Throughout this post, I’ve tried to link to some resources. Here are a few mor
 
 
   * [A book on publishing LOD on the internet](http://linkeddatabook.com/book).
-
-
-

@@ -29,14 +29,14 @@ So this is a git network graph. Specifically, [it is the network graph for Ivanh
 
 </figure>
 
-This is a [stemma](http://en.wikipedia.org/wiki/Textual_criticism#Stemmatics). It is a stemma of _Konráðs saga keisarasonar.**[1]** _Up at the top we have our putative archetype, hyparchetype, or possibly even authorial holograph.[2] The myriad of branches represent various copies and what have you. I believe the similarity of these images is both obvious and salutary.
+This is a [stemma](http://en.wikipedia.org/wiki/Textual_criticism#Stemmatics). It is a stemma of _Konráðs saga keisarasonar._[^1] Up at the top we have our putative archetype, hyparchetype, or possibly even authorial holograph.[^2] The myriad of branches represent various copies and what have you. I believe the similarity of these images is both obvious and salutary.
 
 Both images map out textual iterations created by humans. Both bear witness to merge problems and variations. Both require diverse groups of human beings to work together to iterate a text. While the technological means of iteration have evolved considerably, the problem of reliable iteration across time and space remains.
 
-I am not implying that coding is just like manuscript copying. It isn’t, and digital textuality is not exactly analogous to manuscript textuality. I guess what I am saying is a bit more Eliotean. The end of all exploration will be to return home and to know it for the first time.[3] Mediums change, and as a bibliographer and book historian I certainly avow inseparability of medium and message, but it seems problems remain the same. How to meaningfully pass information from one human being to another and not to fail.
+I am not implying that coding is just like manuscript copying. It isn’t, and digital textuality is not exactly analogous to manuscript textuality. I guess what I am saying is a bit more Eliotean. The end of all exploration will be to return home and to know it for the first time.[^3] Mediums change, and as a bibliographer and book historian I certainly avow inseparability of medium and message, but it seems problems remain the same. How to meaningfully pass information from one human being to another and not to fail.
 
 
-  
+
 
 
 
@@ -49,7 +49,7 @@ I am not implying that coding is just like manuscript copying. It isn’t, and d
 
 
 
-[1] I’ve never read _Konráðs saga keisarasonar_; this is just the best stemma picture I found on the interwebs. Full credit it is from a [post by Alaric Hall Katelin Parsons](http://www.digitalmedievalist.org/journal/9/hall/) over at [_Digital Medievalist_](http://www.digitalmedievalist.org). Full citation at the foot of this note. If you want to know more about this specific text/stemma or just want to see a really rad discussion of online editing and connect with one of the best online places for manuscript-y folks, hit it up. Hall and Parsons, _Digital Medievalist _9 (2013). ISSN: 1715-0736.
+[^1]: I’ve never read _Konráðs saga keisarasonar_; this is just the best stemma picture I found on the interwebs. Full credit it is from a [post by Alaric Hall Katelin Parsons](http://www.digitalmedievalist.org/journal/9/hall/) over at [_Digital Medievalist_](http://www.digitalmedievalist.org). Full citation at the foot of this note. If you want to know more about this specific text/stemma or just want to see a really rad discussion of online editing and connect with one of the best online places for manuscript-y folks, hit it up. Hall and Parsons, _Digital Medievalist_ 9 (2013). ISSN: 1715-0736.
 
 
 
@@ -58,7 +58,7 @@ I am not implying that coding is just like manuscript copying. It isn’t, and d
 
 
 
-[2] If you are George Kane
+[^2]: If you are George Kane
 
 
 
@@ -67,9 +67,4 @@ I am not implying that coding is just like manuscript copying. It isn’t, and d
 
 
 
-[3] Loosely ["Little Gidding: V,"](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html) ll. 26-9 ish.
-
-
-
-
-
+[^3]: Loosely ["Little Gidding: V,"](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html) ll. 26-9 ish.

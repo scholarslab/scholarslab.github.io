@@ -45,7 +45,7 @@ We start this file much like the previous.
 
 
 
-    
+
     <!DOCTYPE html>
     <<span class="pl-ent">html</span> <span class="pl-e">lang</span>=<span class="pl-s"><span class="pl-pds">'</span>en<span class="pl-pds">'</span></span>>
         <<span class="pl-ent">head</span>>
@@ -58,7 +58,7 @@ We start this file much like the previous.
         <<span class="pl-ent">body</span>>
           <<span class="pl-ent">h1</span>>Track-n-Treat 2015</<span class="pl-ent">h1</span>>
           <<span class="pl-ent">p</span>>Tracking how many candies I ate in the week after Halloween.</<span class="pl-ent">p</span>>
-    
+
           <<span class="pl-ent">div</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">'</span>wrapper<span class="pl-pds">'</span></span>>
             <<span class="pl-ent">div</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">'</span>chart<span class="pl-pds">'</span></span>></<span class="pl-ent">div</span>>
           </<span class="pl-ent">div</span>>
@@ -84,12 +84,12 @@ We start the JavaScript and D3 code the same way as before.
 
 
 
-    
+
     <span class="pl-s1"><<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">'</span>text/javascript<span class="pl-pds">'</span></span>></span>
     <span class="pl-s1">  <span class="pl-smi">d3</span>.<span class="pl-en">json</span>(<span class="pl-s"><span class="pl-pds">'</span>data/track-n-treat.json<span class="pl-pds">'</span></span>, <span class="pl-k">function</span>(<span class="pl-smi">data</span>) {</span>
     <span class="pl-s1">    <span class="pl-k">var</span> w <span class="pl-k">=</span> <span class="pl-c1">2500</span>;</span>
     <span class="pl-s1">    <span class="pl-k">var</span> h <span class="pl-k">=</span> <span class="pl-c1">300</span>;</span>
-    
+
     <span class="pl-s1">    <span class="pl-k">var</span> barW <span class="pl-k">=</span> <span class="pl-c1">60</span>;</span>
     <span class="pl-s1">    <span class="pl-k">var</span> barH <span class="pl-k">=</span> <span class="pl-c1">55</span>;</span>
 
@@ -122,13 +122,13 @@ Nesting our data will reformat the array from looking like this:
 
 
 
-    
-     [ 
+
+     [
        {<span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-01<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>17:25<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>candy<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Heath Bar<span class="pl-pds">'</span></span>},
        {<span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-01<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>17:25<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>candy<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Kitkat Bar<span class="pl-pds">'</span></span>},
        {<span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-01<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>20:25<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>candy<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Kitkat Bar<span class="pl-pds">'</span></span>},
-       {<span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-02<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>17:38<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>candy<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Whopper<span class="pl-pds">'</span></span>}, 
-       <span class="pl-k">...</span> 
+       {<span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-02<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>17:38<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>candy<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Whopper<span class="pl-pds">'</span></span>},
+       <span class="pl-k">...</span>
      ]
 
 
@@ -142,7 +142,7 @@ To look like this:
 
 
 
-    
+
      [
        { <span class="pl-s"><span class="pl-pds">'</span>key<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-01<span class="pl-pds">'</span></span>,
          <span class="pl-s"><span class="pl-pds">'</span>values<span class="pl-pds">'</span></span><span class="pl-k">:</span> [
@@ -182,7 +182,7 @@ Here is the code to do that:
 
 
 
-    
+
     <span class="pl-k">var</span> nested <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-en">nest</span>()
         .<span class="pl-en">key</span>(<span class="pl-k">function</span>(<span class="pl-smi">d</span>) { <span class="pl-k">return</span> <span class="pl-smi">d</span>.<span class="pl-smi">day</span>; })
         .<span class="pl-en">key</span>(<span class="pl-k">function</span>(<span class="pl-smi">t</span>) { <span class="pl-k">return</span> <span class="pl-smi">t</span>.<span class="pl-smi">time</span>; })
@@ -205,7 +205,7 @@ Basically, this makes a group of all the lines in the original array that have t
 
 
 
-    
+
     <span class="pl-k">var</span> svg <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-c1">select</span>(<span class="pl-s"><span class="pl-pds">'</span>#chart<span class="pl-pds">'</span></span>).<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>svg<span class="pl-pds">'</span></span>)
         .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>graph<span class="pl-pds">'</span></span>)
         .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>width<span class="pl-pds">'</span></span>, w)
@@ -238,7 +238,7 @@ First we'll assign a default x position. This will determine the first position 
 
 
 
-    
+
     <span class="pl-k">var</span> xPos <span class="pl-k">=</span> <span class="pl-c1">0</span>;
 
 
@@ -252,7 +252,7 @@ Let's also declare some variables that we'll use later.
 
 
 
-    
+
     <span class="pl-k">var</span> prevDayTime, thisDayTime, thisDay, prevDay;
 
 
@@ -282,7 +282,7 @@ Here is the basic structure of the 'forEach' loops. We'll add more code in the n
 
 
 
-    
+
     <span class="pl-smi">nested</span>.<span class="pl-en">forEach</span>(<span class="pl-k">function</span>(<span class="pl-smi">dayObject</span>) {
         <span class="pl-smi">dayObject</span>.<span class="pl-smi">values</span>.<span class="pl-en">forEach</span>(<span class="pl-k">function</span>(<span class="pl-smi">timeObject</span>, <span class="pl-smi">dayIndex</span>) {
             <span class="pl-smi">timeObject</span>.<span class="pl-smi">values</span>.<span class="pl-en">forEach</span>(<span class="pl-k">function</span>(<span class="pl-smi">candyObject</span>, <span class="pl-smi">timeIndex</span>) {
@@ -309,10 +309,10 @@ The first thing we'll need to do is create an svg group element to contain each 
 
 
 
-    
+
     <span class="pl-smi">nested</span>.<span class="pl-en">forEach</span>(<span class="pl-k">function</span>(<span class="pl-smi">dayObject</span>) {
         dayGroup <span class="pl-k">=</span> <span class="pl-smi">svg</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>g<span class="pl-pds">'</span></span>);
-    
+
       <span class="pl-smi">dayObject</span>.<span class="pl-smi">values</span>.<span class="pl-en">forEach</span>(<span class="pl-k">function</span>(<span class="pl-smi">timeObject</span>, <span class="pl-smi">dayIndex</span>) {
         <span class="pl-smi">timeObject</span>.<span class="pl-smi">values</span>.<span class="pl-en">forEach</span>(<span class="pl-k">function</span>(<span class="pl-smi">candyObject</span>, <span class="pl-smi">timeIndex</span>) {
 
@@ -327,7 +327,7 @@ Then we need to pull some information from that specific instance of eating a ca
 
 
 
-    
+
           thisDayTime <span class="pl-k">=</span> <span class="pl-smi">candyObject</span>.<span class="pl-smi">day</span> <span class="pl-k">+</span><span class="pl-s"><span class="pl-pds">'</span> <span class="pl-pds">'</span></span><span class="pl-k">+</span> <span class="pl-smi">candyObject</span>.<span class="pl-smi">time</span>;
           thisDay <span class="pl-k">=</span> <span class="pl-smi">candyObject</span>.<span class="pl-smi">day</span>
 
@@ -341,13 +341,13 @@ As we loop through each of the instances, we'll need to check several things.
 
 
 
-    
+
   * Is this the last instance at this time?
 
-    
+
   * Is this the last instance for this day?
 
-    
+
   * Is this the same time and day, but a separate instance? (Sometimes I had two or three candy bars within the same minute, [ziggy-piggy](http://klipd.com/watch/bill--teds-excellent-adventure/ziggy-piggy-scene).)
 
 
@@ -358,7 +358,7 @@ If the current day and time is the same as the previous day and time, then the x
 
 
 
-    
+
           <span class="pl-k">if</span> (thisDayTime <span class="pl-k">===</span> prevDayTime) {
             xPos <span class="pl-k">=</span> xPos <span class="pl-k">-</span> barW <span class="pl-k">-</span> <span class="pl-c1">5</span>;
           }
@@ -426,7 +426,7 @@ We need to add the time that each candy was eaten. We do this in a similar manne
 
 
 
-    
+
 ```
 <span class="pl-smi">dayGroup</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>text<span class="pl-pds">'</span></span>)
    .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span>)
@@ -484,7 +484,7 @@ Hmm, that's really hard to explain, and this probably confuses more than clarifi
      .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>y<span class="pl-pds">'</span></span>, h <span class="pl-k">-</span> <span class="pl-c1">110</span>)
      .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>width<span class="pl-pds">'</span></span>, (<span class="pl-smi">dayObject</span>.<span class="pl-smi">values</span>.<span class="pl-c1">length</span> <span class="pl-k">*</span> barW <span class="pl-k">+</span> barW<span class="pl-k">/</span><span class="pl-c1">2</span>))
      .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>height<span class="pl-pds">'</span></span>, barH);
-    ```
+```
 
 
 

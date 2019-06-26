@@ -54,16 +54,16 @@ Wayne Graham has started the work of migrating a Rails 2 application to Rails 3 
 
 We are attempting to standardize our git workflow to make a bit more sense and be "safer." After reading the great piece by Vincent Driessen ("[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)" [pdf](http://github.com/downloads/nvie/gitflow/Git-branching-model.pdf)), we've begun utilizing [gitflow](https://github.com/nvie/gitflow).  Essentially it  breaks down to a master branch (the release), a develop branch (your next version), release versions (archive of past releases). You then create local "feature" branches that you merge in to the develop branch, merging up the tree as needed. I personally am digging the fact that to merge my local branches I no longer have to type:
 
-[sourcecode language="bash"]
+```
 git co develop
 git merge --no-ff mybranch
 git branch -d mybranch
 git push origin develop
-[/sourcecode]
+```
 
 There are only two lines now:
 
-[sourcecode language="bash"]
+```
 git flow feature finish mybranch
 git push origin develop
-[/sourcecode]
+```

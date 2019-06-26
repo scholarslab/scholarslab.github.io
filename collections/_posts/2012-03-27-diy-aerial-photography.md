@@ -20,13 +20,6 @@ By combining readily available products and a little ingenuity, just about any
 
 This morning, we made our maiden voyage using the balloon methods described on the Grassroots Mapping website.  With our weather balloon and [hacked Canon camera](http://chdk.wikia.com/wiki/CHDK), we headed out in front of the library and made two small flights.
 
-
-
-
-
-    ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_84711.jpg)
-
-
 <figure>
   ![](http://static.scholarslab.org/wp-content/uploads/2012/03/IMG_2379.jpg)
   <figcaption>

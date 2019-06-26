@@ -19,6 +19,3 @@ I’m excited to work collaboratively with some of my Praxis cohort.  Given how
 A group of good looking young people struggling to break into a career that is almost impossible to get into, time deadlines will likely drive us to get into some comedic fights and then reconciliations, and we have a group of calm white guys walking around the office telling us to “make it work!”  Fortunately the competitive edge that often drives Project Runway contestants to tears is not looming over our heads.  This also means we don’t have to work behind each others backs and form alliances wherein we only share code with certain members of the group.  No, I think instead this will be the best of Project Runway, the collaborative spirit that generates new ideas and capitalizes on the productivity of working across lines of difference (either disciplinary or in terms of expertise).  If all of that falls through, maybe we’ll at least get a good work out in the process...
 
 ![](https://lh5.googleusercontent.com/3OFNbHtHGAdSt8EHd3vGHlB26nTgaxk_Wfss6H3-qe3Tmg79_vJOBRvE6moLQ3MuzlVG_ZfdYw8R4ZGCr_WkVd4bvOeXbdpqQegywP3RQcf4RHOkKCde)
-
-**
-**

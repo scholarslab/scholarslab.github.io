@@ -23,24 +23,24 @@ Here’s how it works.  New importers just inherit from an abstract class called
 
 First, though, we need to tell PHP where to find the abstract class:
 
-[sourcecode language="php"]
+```
 require_once FEDORA_CONNECTOR_PLUGIN_DIR . '/libraries/FedoraConnector/AbstractImporter.php';
-[/sourcecode]
+```
 
 Next, declare your new class and tell it to inherit from the abstract base class:
 
-[sourcecode language="php"]
+```
 require_once FEDORA_CONNECTOR_PLUGIN_DIR . '/libraries/FedoraConnector/AbstractImporter.php';
 
 class NameOfFormat_Importer extends FedoraConnector_AbstractImporter
 {
 
 }
-[/sourcecode]
+```
 
 Make sure to name your class with the format [NameOfFormat]_Importer so that Fedora Connector can see it.  Now, add the declarations for the two functions:
 
-[sourcecode language="php"]
+```
 require_once FEDORA_CONNECTOR_PLUGIN_DIR . '/libraries/FedoraConnector/AbstractImporter.php';
 
 class NameOfFormat_Importer extends FedoraConnector_AbstractImporter
@@ -58,11 +58,11 @@ class NameOfFormat_Importer extends FedoraConnector_AbstractImporter
 
 }
 
-[/sourcecode]
+```
 
 In canImport(), you just need to return a true or false value depending on whether or not the passed in datastream matches the format that your importer is designed to handle.  This can be done by just checking for equality and returning the result of the evaluation:
 
-[sourcecode language="php"]
+```
 require_once FEDORA_CONNECTOR_PLUGIN_DIR . '/libraries/FedoraConnector/AbstractImporter.php';
 
 class NameOfFormat_Importer extends FedoraConnector_AbstractImporter
@@ -80,11 +80,11 @@ class NameOfFormat_Importer extends FedoraConnector_AbstractImporter
 
 }
 
-[/sourcecode]
+```
 
 Now, all that's left is to process the Dublin Core $name variable getting passed into the getQueries() function and return an array of XPath queries that will pluck the corresponding nodes out of a document marked up in the format that you need to accommodate.  Just run a switch-case on the $name and run through all the Dublin Core values:
 
-[sourcecode language="php"]
+```
 require_once FEDORA_CONNECTOR_PLUGIN_DIR . '/libraries/FedoraConnector/AbstractImporter.php';
 
 class NameOfFormat_Importer extends FedoraConnector_AbstractImporter
@@ -128,6 +128,6 @@ class NameOfFormat_Importer extends FedoraConnector_AbstractImporter
 
 }
 
-[/sourcecode]
+```
 
 Stick the file in the FedoraConnector/Importers directory and you're good to go!  We've also implemented a nifty method of adding custom "renderers" to the plugin - code that controls the display of various data formats on the public-facing Omeka site.  Check out the [README.md](https://github.com/scholarslab/FedoraConnector/blob/master/README.md) file on GitHub for details, and watch for more development on the plugin in the near future.

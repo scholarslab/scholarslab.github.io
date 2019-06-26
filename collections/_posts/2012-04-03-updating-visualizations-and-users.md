@@ -14,6 +14,8 @@ tags:
 - visualizations
 ---
 
+*Note: This post contains references to images stored on a server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*
+
 We have three new updates for Prism!  First, we slightly changed the html markup for our document files, so our James Joyce excerpt from _Portrait of the Artist as a Young Man_ is now formatted correctly!  Second, we decided to tweak our visualizations.  Originally, once users select a category for visualizations,  the entire text would turn that color and the words that had been highlighted multiple times for that category would grow in size.  We decided that it looked odd and misleading if the entire text for each category changed color, regardless of whether those words had been selected, so we changed it so that only words that have been highlighted for a category change color.
 
 Here's an example of our new visualization plan (complete with our newly complete Joyce text):

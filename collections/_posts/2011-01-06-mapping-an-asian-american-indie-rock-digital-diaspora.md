@@ -29,7 +29,7 @@ To extract and process these data sets, with the help of [Joe Gilbert](http://ww
 Phase 2 - geospatial visualization – is the process of turning the harvested data into a meaningful visualization. Using [OpenLayers](http://openlayers.org/),  an open-source mapping program, I created a dynamic map containing all  the points of the physical locations of the band’s Myspace friends and  performance tours. To contextualize the reading of the physical points, I  added various map layers. For example, I added a Google street map  layer to label the visualization with the proper name of countries and  cities. The rest of my efforts were spent to refine the map, to make it  readable and meaningful.
 
 
-## **[The Kominas' Digital Diaspora Map: GO!](http://beingwendyhsu.info/wp-content/uploads/2010/12/kominasmap3.html)**
+## [The Kominas' Digital Diaspora Map: GO!](http://beingwendyhsu.info/wp-content/uploads/2010/12/kominasmap3.html)
 
 
 [![](http://beingwendyhsu.info/wp-content/uploads/2010/11/Cluster_continent_KominasMap-300x176.png)](http://beingwendyhsu.info/wp-content/uploads/2010/12/kominasmap3.html)
@@ -62,13 +62,13 @@ These digital methods seem to have an orthogonal relation to more  conventional 
 
 
 
-	
+
   * Showing the map to the musician-informants: Asking them if  they are surprised by the results of my study. Asking them questions  about how they feel about these places in the world? Personal or musical  connections to these places?
 
-	
+
   * Toward a Geospatial Music Analysis: Many musicians that I  study are pre-occupied with geography. In their lyrics, they often  discuss being trapped or living in a limbo between two worlds. They talk  about their feelings regarding certain meaningful place and space in  their music. It’d be potentially fruitful to juxtapose the musical and  social geographies of a single band.
 
-	
+
   * Mapping genre/sonic differences: Here I suggest the  possibility of incorporating sonic qualities such as tempo, timbre,  volume, studio effects, and language/dialect into geospatial information  technology and system. Such a tool would be immensely powerful for the  study of the world’s music-cultures at the local and global level. For  example, the [World Musical Map project](http://www.musicalworldmap.org/) by Ozan Aksoy based at the [New Media Lab](http://www.newmedialab.cuny.edu/) at the Graduate Center of CUNY explores the rupture between audio  boundaries and actual national borders. Another example is Lee Byron's  visualization of the [listening history on Last.FM](http://www.visualcomplexity.com/vc/project_details.cfm?id=460&index=17&domain=Music).
 
 
@@ -83,7 +83,5 @@ Tips:
   * Double-click to zoom in on the map
 
   * Upper-left: turn on/off various layers: Google Street/Satellite;  world's regions; Muslim-majority countries; clusters (friend density);  friends (individual points); gigs.
-	
+
   * Scroll on the map by clicking + holding + moving the cursor
-
-

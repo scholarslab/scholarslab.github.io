@@ -15,6 +15,8 @@ tags:
 - waynebot
 ---
 
+*Note: This post contains references to images stored on a server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*
+
 Yesterday I [tweeted](https://twitter.com/clioweb/status/258958763975909376) asking for name suggestions for an [Omeka](http://omeka.org) theme based on the design of [Neatline.org](http://neatline.org). We've already gotten a few great responses, but we've decided to kick it up a notch. We've got a few Neatline t-shirts. They're nice t-shirts, as demonstrated by our friendly Scholars' Lab Waynebot:
 
 [gallery size="large" link="file" columns="1"]

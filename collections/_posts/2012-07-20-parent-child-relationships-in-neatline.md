@@ -53,7 +53,7 @@ You could just go through and directly set the correct colors and visibility dat
 
 Parent records make it possible to formalize the conceptual relationships and manipulate the groupings in bulk – once the correct inheritance chain is set up, you can set the style and visibility settings a single time at the top of the stack and the settings will cascade downwards to all of the children. For this exhibit, the inheritance structure looks like this:
 
-`
+```
 
 **May 2, 1863** (visible: May 2 - May 3)
 --- **[may 2 condeferate lines]** (color: #b52f2f)
@@ -91,7 +91,7 @@ Parent records make it possible to formalize the conceptual relationships and ma
 -------- May annotation 18 (" ")
 -------- (...)
 
-`
+```
 
 The top-level visibility dates are set on the three records that house the base maps. Under each of the three map records, abstract style records define the colors and opacities for the Union and Confederate lines. The actual content records then inherit from these records, receiving both the top-level visibility parameters on the map records and the styles on the abstract records.
 

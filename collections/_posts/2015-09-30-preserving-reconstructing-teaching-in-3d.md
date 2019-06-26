@@ -17,13 +17,6 @@ The destruction of historic monuments has been a frequent topic in the news late
 
 This summer, my own research took me as far as possible from the war-torn Middle East to the quiet fields of Iceland. The [Monasticism in Iceland](https://www.facebook.com/klausturrannsokn) archaeology project provided me with an opportunity to work directly with artifacts and grapple with the complicated considerations of heritage preservation for the first time. Iconoclasm is not an issue in Iceland as it is in the Middle East; rather, site isolation and exposure to Iceland’s volatile climate create difficulties for sharing and preserving Iceland’s material past. A beautifully carved twelfth-century stone from Hítardalur represents these concerns in a particularly striking way. Likely a remnant of a failed medieval monastery, this unique mustachioed face lies in the field where it was discovered, open to the elements. When first told about this unique carving, I assumed it would be safely locked in a museum, climate controlled and secured. I did not expect to find this rare stone in a field adjacent to a private farmhouse, exposed to weather, theft, and accidents. Over the years, this open exposure has weathered the details of the face and two additional sculptures of similar composition were lost. I have never worked with artifacts outside of a museum setting and it was difficult for me to grasp that there are scores of objects that museums cannot accommodate, that the removal of artifacts&mdash;even for their protection and accessibility&mdash;can be interpreted as illegitimate or even criminal overreach. In fact, it raises multiple questions about artifact and heritage ownership that I cannot even begin to answer. As the cases of the [Parthenon/Elgin Marbles](http://www.telegraph.co.uk/news/uknews/11274713/Why-are-the-Elgin-marbles-so-controversial-and-everything-else-you-need-to-know.html) and [Kennewick Man](http://www.pcc.edu/staff/pdf/818/whatisthekennewickmancontroversyabout.pdf) demonstrate, accessibility, preservation, and ownership do not always coincide.
 
-<figure>
-  [![Hítardalur steinn - Copy](http://static.scholarslab.org/wp-content/uploads/2015/09/Hítardalur-steinn-Copy.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/09/Hítardalur-steinn-Copy.jpg)
-  <figcaption>
- Hítardalur sculpture, photograph taken in the mid-twentieth century.
-</figcaption>
-
-</figure>
 
 <figure>
   [![2015-05-13 09.52.51](http://static.scholarslab.org/wp-content/uploads/2015/09/2015-05-13-09.52.51.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/09/2015-05-13-09.52.51.jpg)
@@ -97,5 +90,3 @@ The opportunity to teach historical content while simultaneously training studen
 
 [
 ](http://static.scholarslab.org/wp-content/uploads/2015/09/Screen-Shot-2015-05-16-at-1.32.36-PM.png)
-
-

@@ -29,7 +29,7 @@ We recently welcomed **Geospatial Consultant Drew MacQueen,** who has been servi
 
 
 
-**And there were cookies.  **On February 15, 2017 we held the first of a new series of **brown-bag lunches**, this one to discuss Daniel Punday's ["Space Across Narrative Media: Towards an Archeology of Narratology,](http://muse.jhu.edu/article/644085)" _Narrative_ 25 (Jan 2017): 92-112.  Some argued that architecture is a better metaphor than archeology for Punday's narratological approach, in the context of building and inhabiting things human beings make, such as the storyworlds of games or novels.
+**And there were cookies.** On February 15, 2017 we held the first of a new series of **brown-bag lunches**, this one to discuss Daniel Punday's ["Space Across Narrative Media: Towards an Archeology of Narratology,](http://muse.jhu.edu/article/644085)" _Narrative_ 25 (Jan 2017): 92-112.  Some argued that architecture is a better metaphor than archeology for Punday's narratological approach, in the context of building and inhabiting things human beings make, such as the storyworlds of games or novels.
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/02/PundayIllustration-300x253.png)
 

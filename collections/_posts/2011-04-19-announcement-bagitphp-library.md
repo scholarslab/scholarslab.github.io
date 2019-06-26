@@ -20,9 +20,9 @@ Our work on BagItPHP stems from the open source ["Omeka + Neatline"](http://www.
 
 You can download the library either as a [ZIP](http://github.com/scholarslab/BagItPHP/zipball/master) or [tarball](http://github.com/scholarslab/BagItPHP/tarball/master), or you can clone the repo with git:
 
-[sourcecode language="bash"]
+```
 git clone git://github.com/scholarslab/BagItPHP
-[/sourcecode]
+```
 
 
 #### Use: Creating Bags
@@ -30,7 +30,7 @@ git clone git://github.com/scholarslab/BagItPHP
 
 To create a bag, simply instantiate a new `BagIt` object with the name of a directory that doesn't exist, add files to it, and package it into a tarball with the name of the bag:
 
-[sourcecode language="php"]
+```
 require_once 'lib/bagit.php';
 
 $bag = new BagIt('./new-directory');
@@ -41,7 +41,7 @@ $bag->addFile('./exhibit/imgs/2.png', 'imgs/2.png');
 
 $bag->package('./new-directory');
 // The bag package will be created named ./new-directory.tgz.
-[/sourcecode]
+```
 
 
 #### Use: Reading Bags
@@ -49,7 +49,7 @@ $bag->package('./new-directory');
 
 To read a bag, simply open an existing back, validate it (optional), fetch remote resources, and iterate over the files, copying them or processing them in some other way.
 
-[sourcecode language="php"]
+```
 require_once 'lib/bagit.php';
 
 $bag = new BagIt('./existing-bag.zip');
@@ -63,7 +63,7 @@ if (count($bag->getBagErrors()) == 0) {
     }
 }
 
-[/sourcecode]
+```
 
 For more information about the methods that are available, please see the documentation.
 
