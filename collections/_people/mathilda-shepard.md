@@ -13,8 +13,8 @@ twitter: None
 website: None
 people-category:
 - student
-roles:
+roles:  
+- LAMI Program Graduate Mentor, 2019  
 - Praxis Fellow, 2018-2019
-- LAMI Program Graduate Mentor, 2019
 ---
 Mathilda Shepard was a Praxis Fellow and graduate mentor for the LAMI program.
