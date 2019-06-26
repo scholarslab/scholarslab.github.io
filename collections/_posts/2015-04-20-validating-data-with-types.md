@@ -30,7 +30,7 @@ Given Haskell’s reputation, the previous sentence probably seems to border on 
 
 > This post is actually runnable Haskell. If you have the [GHC](https://www.haskell.org/ghc/) compiler installed you can copy and paste this post into a file, say `Validating.lhs`, and run it from the command line:
 
->     <code class="sourceCode bash">$ <span class="kw">runhaskell</span> Validating.lhs contribDB_1982.csv</code>
+<code class="sourceCode bash">$ <span class="kw">runhaskell</span> Validating.lhs contribDB_1982.csv</code>
 
 > However, to follow this post, you don’t need to know Haskell. I’ll try to explain enough of the concepts and syntax that matter as they come up, so that anyone familiar with computer programming should be able to follow along without getting into the weeds of exactly what’s happening on each line.
 
