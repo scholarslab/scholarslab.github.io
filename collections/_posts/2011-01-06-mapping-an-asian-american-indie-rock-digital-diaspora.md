@@ -75,18 +75,13 @@ These digital methods seem to have an orthogonal relation to more  conventional 
 Here's my attempt to start a digital (ethno)musicology. Are there any other takers?
 
 
-## [The Kominas' Digital Diaspora Map: It's Your Turn. GO!](http://beingwendyhsu.info/wp-content/uploads/2010/12/kominasmap3.html)
+[The Kominas' Digital Diaspora Map: It's Your Turn. GO!](http://beingwendyhsu.info/wp-content/uploads/2010/12/kominasmap3.html)
 
 
 Tips:
 
-
-
-
   * Double-click to zoom in on the map
 
-
-  * Upper-left: turn on/off various layers: Google Street/Satellite;  world's regions; Muslim-majority countries; clusters (friend density);  friends (individual points);** **gigs.
-
+  * Upper-left: turn on/off various layers: Google Street/Satellite;  world's regions; Muslim-majority countries; clusters (friend density);  friends (individual points); gigs.
 
   * Scroll on the map by clicking + holding + moving the cursor

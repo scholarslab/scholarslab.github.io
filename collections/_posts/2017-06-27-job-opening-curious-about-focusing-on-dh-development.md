@@ -56,7 +56,7 @@ Under the direction of the Head of R&D for the Scholars' Lab in the UVA Library,
   * creates documentation for both internal Lab and external non-technical audience use
 
 
-**Qualifications**** **
+**Qualifications**
 
 **Minimum requirements:**
 

@@ -22,9 +22,9 @@ We've been dreaming pretty big. Here are a few of the questions that we've been 
 
 2. **What kinds of things might we leave to the control of users?** Would users be able to upload different kinds of "texts", like images and music? Could users hide or display different categories to guide interpretation? How might we make for freer responses? Can freer responses be turned into usable data? Would there be some value to closing projects? Or should all projects be kept open to the public?
 
-3. **How might we visualize whatever data we collect?**
+3. **How might we visualize whatever data we collect?**   
 
-4.  **Do we want to add more features or make the features that already exist more robust?**
+4. **Do we want to add more features or make the features that already exist more robust?**
 
 5. **What should we do next?**
 

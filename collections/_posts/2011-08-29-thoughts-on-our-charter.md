@@ -18,8 +18,6 @@ Although I have experience in designing my own digital project (through NINES) a
 Here are some thoughts on our charter:
 
 
-
-
   * **Equal Credit:** Like Alex, I think that we should find a way to have all Praxis Program participants get equal credit, although I’m not sure of the best method.  Would designating authorship with alphabetical order be the clearest, or should we just say “by the Praxis Program” and add our names in a footnote?
 
 

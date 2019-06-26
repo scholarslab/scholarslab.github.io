@@ -58,8 +58,6 @@ This is a non-permanent _Developer Outreach & Testing Coordinator_ role located 
 **Knowledge & skills:** You _**do not**_ need to possess all of these, as we'll consider strength in some of these as compensating for lack of experience with other skills on the list. We're seeking:
 
 
-
-
   * Empathy and understanding for the technical needs of both developers and non-developers
 
 

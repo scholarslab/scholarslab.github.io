@@ -22,6 +22,7 @@ One of the biggest limitations of the first version of Neatline was the relative
 
 In a certain sense, this constraint reflected the theoretical priorities of the first version of the project - small data over large data, hand-crafted exhibit-building over algorithmic visualization. But it also locks out a pretty large set of projects that need to be built on top of medium-to-large spatial data sets. In the upcoming version 1.2 release of the software (which also migrates the codebase to work with the [newly-released Omeka 2.0](http://omeka.org/blog/2013/01/24/omeka-2-0-drops-today/)) we've reworked the server-side codebase to make it possible to work with really large collections of data - as many as 1,000,000 records in a single Neatline exhibit. Three basic changes were needed to make this possible:
 
+1. **Spatial data needed to loaded "on-demand" in the browser.** When the viewport is focused on San Francisco, the map doesn't need to load data for New York. Huge performance gains can be had by loading data "as-needed" - the new version of Neatline uses the [MySQL spatial extensions](http://dev.mysql.com/doc/refman/5.5/en/spatial-extensions.html) to dynamically query the collection when the user moves or zooms the map, and just loads the specific subset of records that fall inside the current viewport.
 
 1. **Spatial data needed to loaded "on-demand" in the browser.** When the viewport is focused on San Francisco, the map doesn't need to load data for New York. Huge performance gains can be had by loading data "as-needed" - the new version of Neatline uses the [MySQL spatial extensions](http://dev.mysql.com/doc/refman/5.5/en/spatial-extensions.html) to dynamically query the collection when the user moves or zooms the map, and just loads the specific subset of records that fall inside the current viewport.
 
@@ -38,5 +39,6 @@ In a certain sense, this constraint reflected the theoretical priorities of the 
 
 
     These are big changes, and we're really excited about the new possibilities that open up with this level of scalability. At the same time, all development carries an opportunity cost - working on features A and B means you're not working on features C and D. Generally, Neatline is on a trajectory towards becoming a much more focused piece of software that hones in on a lean, extensible toolset for building interactive maps. We're taking a hard look at features that don't support that core competency.
+
 
 In the coming weeks, we'll release an alpha version of the new codebase and solicit feedback from users to figure out what works and what doesn't. What's essential? What's expendable? What assumptions are we making that nobody else is making?

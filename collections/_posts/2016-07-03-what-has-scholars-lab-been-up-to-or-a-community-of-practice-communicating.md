@@ -31,7 +31,6 @@ I was genuinely surprised and excited by the depth and breadth of the "monthlies
 
 * At least **twenty** students from **doctoral to undergraduate (in addition to Praxis)**, in such fields as Music and Anthropology: **individual consultations**, not including hands-on aid in Makerspace; from learning Python to project design to GIS
 
-
 **Scholars’ Lab as Starting Point, Incubator, Training Center, and Curator of Projects in DH**
 
 With a wealth of centers and nodes of digital expertise and activity at UVA, Scholars’ Lab has taken initiative to improve collaboration and communication, launching [http://dh.virginia.edu](http://dh.virginia.edu), **a website**, in May (in development).  Many faculty and student projects may be born and in due course put to rest/sustainable pasture through Scholars’ Lab, and we guide people to find the collaborators and resources they need in between.  We are a consultation hub and work closely with IATH, SHANTI, Research Data Services, Arts and Sciences and Provost’s Office administration, Library leadership, and ITS, among others.

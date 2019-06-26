@@ -36,6 +36,8 @@ This is a simple approach, but we think it addresses most of the basic patterns 
 
 In this release, every aspect of an exhibit's public view can be completely customized by adding an "exhibit theme" that sits inside of the regular Omeka theme. For example, if I have an exhibit called "Testing Exhibit" with a URL slug of `testing-exhibit`, I can define a custom theme for the exhibit by adding a directory in the public theme at `neatline/exhibits/themes/testing-exhibit`. With the directory in place, Neatline will automatically load any combination of custom assets:
 
+* If a `template.php` file is present in the directory, it will be used as the view template for the exhibit in place of the default `show.php` template that ships with Neatline.
+
 
 * If a `template.php` file is present in the directory, it will be used as the view template for the exhibit in place of the default `show.php` template that ships with Neatline.
 
@@ -47,8 +49,6 @@ In this release, every aspect of an exhibit's public view can be completely cust
 
 
 This gives the theme developer full control over the appearance and behavior of each individual exhibit, making it possible to build a extremely diverse collection of Neatline projects inside a single installation of Omeka.
-
-
 
 
 Check out the [change log](https://github.com/scholarslab/Neatline/blob/develop/CHANGELOG.md#v20-alpha2-commits) for more details. And let us know what you think!
