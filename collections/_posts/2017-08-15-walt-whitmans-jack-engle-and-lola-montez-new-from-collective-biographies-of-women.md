@@ -35,20 +35,9 @@ Whitman left unacknowledged his authorship of the episodic entertainment, _Jack 
 
 ![LolaMontez4337210833_78668a4725](http://pages.shanti.virginia.edu/CBW_Blog/files/2017/08/LolaMontez4337210833_78668a4725-314x400.jpg)
 
+Lola Montez in a daguerreotype (color added), 1851, by Southworth & Hawes
 
-Lola Montez in a daguerreotype (color added),
-
-
-
-
-1851, by Southworth & Hawes
-
-
-
-
-
-##             **Inez and Lola: Not Cheap**
-
+## **Inez and Lola: Not Cheap**
 
 You know the type: “Spanish,” “dancer”; theaters would be places to find all sorts of accessible women.  But Whitman’s Inez and the real Lola Montez might be called, in hard-boiled speak, _classy dames._ I intentionally hit on the sore point of typecasting, because it is almost inescapable, even in fact-based historical biography.  The surprise is not the higher quality of love object implicit in the reputations of Inez and Lola, and not even that they evince manners and education, but that they are businesswomen, capitalists.  In _Jack Engle,_ the narrator is a reluctant young apprentice in Covert’s law office, where he notices a young lady client.  Covert is advising her on a doubtful purchase of shares (happily, it turns out she never buys into the fake scheme).  “She had the stylish, self-possessed look, which sometimes marks those who follow a theatrical life. Her face, though not beautiful, was open and pleasing, with bright black eyes, and a brown complexion. Her figure, of good height and graceful movement, was dressed in a costly pale colored silk” (27).  She calls out to the pet dog, also named Jack, who jumps up and muddies her dress.  Inez is annoyed, and then laughs it off&mdash;a preview of her responses to drooling men and to Jack himself.  In chapter six of _Jack Engle_, Inez appears “really fascinating” on stage in the “short gauzy costume of a dancing girl. Her legs and feet were beautiful, and her gestures and attitudes easy and graceful” (29). These characterizing details correspond somewhat with the historical Montez.  Montez was fair, with striking blue eyes, unlike Inez.  She was frequently depicted in association with animals.  Contemporaries range between calling Montez altogether beautiful, or merely fascinating with a face that was not beautiful.  But then of course there was her figure.  Accounts usually disparage Montez’s performing ability, but those who were not too scandalized avidly praised the legs and the costume.  Images in newspapers always emphasize the tiny waist, ballooning bosom, and short skirts....
 
@@ -59,8 +48,3 @@ Notes
 [^2]: Ed Folsom and Ken Price, in their article on Whitman for _The Walt Whitman Archive,_ indicate Whitman’s affiliations with women activists Abby Price, Paulina Wright Davis, Sarah Tyndale, and Sara Payson Willis (Fanny Fern), as well as the “queen of Bohemia” Ada Clare.  CBW includes only [Fanny Fern](http://cbw.iath.virginia.edu/cbw_db/persons.php?id=9247) of these women, though abolitionists and activists for women’s rights do appear in some collections listed in our bibliography.
 
 Read more at [https://pages.shanti.virginia.edu/CBW_Blog/?p=441&preview=true#_ftn6](https://pages.shanti.virginia.edu/CBW_Blog/?p=441&preview=true#_ftn6)
-
-
-
-
-
