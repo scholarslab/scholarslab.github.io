@@ -9,7 +9,8 @@ categories:
 - Geospatial and Temporal
 ---
 
-![From David Rumsey Map Collection](http://people.virginia.edu/~jfg9x/va-md-de.jpg)Join us next Wednesday, November 19th, as we celebrate all things International GIS Day.  Anyone whose work is grounded in issues of space and place will find something of interest in these cross-disciplinary offerings, centering in cartography and geospatial technologies.
+<!-- ![From David Rumsey Map Collection](http://people.virginia.edu/~jfg9x/va-md-de.jpg) -->
+Join us next Wednesday, November 19th, as we celebrate all things International GIS Day.  Anyone whose work is grounded in issues of space and place will find something of interest in these cross-disciplinary offerings, centering in cartography and geospatial technologies.
 
 Of special note is a public lecture by [David Rumsey](http://www.davidrumsey.com/), who has worked for a decade to offer open access to his remarkable private map collection through a variety of innovative tools and interfaces. Most recently, he has made historical maps available as layers in Google Earth and on an island in Second Life.  Mr. Rumsey will speak on "Giving Maps a Second Life with Digital Technologies" at 4 o'clock in the Harrison-Small auditorium.  This event is co-sponsored by the Center for Emerging Research, Scholarship, and Arts at UVA (CERSA) and the Scholars' Lab, and a reception will follow the talk.
 
@@ -38,4 +39,4 @@ Reception
 
 
 
-_Image from the David Rumsey Map Collection_
+<!-- _Image from the David Rumsey Map Collection_ -->

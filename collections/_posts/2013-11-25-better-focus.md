@@ -18,19 +18,19 @@ For those who don't know, there are a few states of a link you can style indepen
 
 
 
-	
+
   * `:link` - The default state of the link
 
-	
+
   * `:visited` - Allows you to style links to addresses you've already visited.
 
-	
+
   * `:hover` - Allows you to update link styles when a user moves their pointer over a link.
 
-	
+
   * `:focus` - Allows you to update link styles when a user tabs or otherwise changes their focus to a link.
 
-	
+
   * `:active` - Used to update link styles when the link is activated (when clicked or when a user hits enter on a focused link).
 
 
@@ -72,14 +72,12 @@ A few lessons to take away here:
 
 
 
-	
+
   1. _If you use a CSS reset, actually read through it and see what it does._ They're meant to be just that&mdash;a reset&mdash;and still expect you to set styles appropriately. Most of them are designed to give you a consistent starting point across browsers, but they still don't supersede your responsibility to set styles appropriately for all your users. They're also meant to be tinkered with and changed for your own preferences and design goals.
 
-	
+
   2. Take particular care to style the :focus pseudoclass for both links and form elements. It's a handy way to navigate parts of a page, but without noticeable style updates, users can quickly lose track of where they've actually focused.
 
 
 
 Now I'm off to go update the styles on Speaking in Code, and just about every other project I've had my hands on around here!
-  *[HTML]: Hypertext Markup Language
-  *[CSS]: Cascading Style Sheets

@@ -30,16 +30,16 @@ I'm excited to see where the next cohort takes Ivanhoe, how they interpret it, a
 
 
 
-	
+
   1. The Text
 
-	
+
   2. Moves
 
-	
+
   3. Role Play
 
-	
+
   4. Collaboration
 
 
@@ -53,13 +53,13 @@ Any Ivanhoe game begins with a text. But what constitutes a 'text'? On [the orig
 
 [![image_2](http://static.scholarslab.org/wp-content/uploads/2014/09/image_21-300x225.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/09/image_21.jpg)
 
-The second integral feature of an Ivanhoe game is the move, which our developer Scott Bailey succinctly defined as a "self-conscious act of interpretation." These acts constitute what we like to refer to as "textual interventions." The first Ivanhoe games played by Drucker and McGann, as well as the SpecLab researchers, involved actual changes made directly into the texts: Players added text, changed it, or deleted it from works such as Sir Walter Scott's _Ivanhoe _and Henry James' _The Turn of the Screw._ Our cohort began with a game on Edgar Allen Poe's "The Tell-tale Heart," which, following its predecessors, involved changes to the text itself. As we found ourselves becoming more and more interdisciplinary in our aims, however, the typical move became more a commentary on the text than changes to it. Does mere _interpretation_ actually _intervene_ in a text?  Which term is more characteristic of an Ivanhoe move?  What are we actually doing when we make an Ivanhoe move, and how do moves make the game itself progress?
+The second integral feature of an Ivanhoe game is the move, which our developer Scott Bailey succinctly defined as a "self-conscious act of interpretation." These acts constitute what we like to refer to as "textual interventions." The first Ivanhoe games played by Drucker and McGann, as well as the SpecLab researchers, involved actual changes made directly into the texts: Players added text, changed it, or deleted it from works such as Sir Walter Scott's _Ivanhoe_ and Henry James' _The Turn of the Screw._ Our cohort began with a game on Edgar Allen Poe's "The Tell-tale Heart," which, following its predecessors, involved changes to the text itself. As we found ourselves becoming more and more interdisciplinary in our aims, however, the typical move became more a commentary on the text than changes to it. Does mere _interpretation_ actually _intervene_ in a text?  Which term is more characteristic of an Ivanhoe move?  What are we actually doing when we make an Ivanhoe move, and how do moves make the game itself progress?
 
 **Role Play**
 
 _[Actors refused to participate]_
 
-Role play has always been the cornerstone of the Ivanhoe Game: each player assumes a role&mdash;a particular voice or critical stance from which to make moves. In the SpecLab's _A Turn of the Screw_ game, players even chose aliases so that other players couldn't guess their roles; arguably, these aliases add another level of role play. But when we interpret a text, don't we automatically assume a role of some sort? When I read, I approach a text from the role of "Stephanie reading for fun" or "Stephanie reading to have brilliant ideas," for instance&mdash;and my reading styles in these roles, alas, are very different. Thus, it is important to keep in mind the _self-conscious _in the definition of a role. These are "_self-conscious_ acts of interpretation": your role must be deliberate and specific, and you must constantly be reconsidering your role and striving to make moves which develop that role. It is a more directed manner of analysis than simply trying to come up with points of interest for class discussion, as the Stephanie-bent-on-brilliance attempts to do. The element of self consciousness, therefore, is absolutely integral to the Ivanhoe Game.
+Role play has always been the cornerstone of the Ivanhoe Game: each player assumes a role&mdash;a particular voice or critical stance from which to make moves. In the SpecLab's _A Turn of the Screw_ game, players even chose aliases so that other players couldn't guess their roles; arguably, these aliases add another level of role play. But when we interpret a text, don't we automatically assume a role of some sort? When I read, I approach a text from the role of "Stephanie reading for fun" or "Stephanie reading to have brilliant ideas," for instance&mdash;and my reading styles in these roles, alas, are very different. Thus, it is important to keep in mind the _self-conscious_ in the definition of a role. These are "_self-conscious_ acts of interpretation": your role must be deliberate and specific, and you must constantly be reconsidering your role and striving to make moves which develop that role. It is a more directed manner of analysis than simply trying to come up with points of interest for class discussion, as the Stephanie-bent-on-brilliance attempts to do. The element of self consciousness, therefore, is absolutely integral to the Ivanhoe Game.
 
 Directly related to self consciousness, what about the idea of the role journal? The SpecLab _Turn of the Screw_ game included role journals in which players commented on why they made certain moves; these journals were kept secret from other players. Additionally, players also could comment on other players' moves; these comments were public. This game had two ways players could be self-conscious of game play. I particularly want to pose this question to the next cohort: is the role journal a core feature of Ivanhoe? Our own cohort spent hours debating this question (see [Scott's excellent post](http://www.scholarslab.org/grad-student-research/role-journals-texts-pedagogy-and-pragmatism/) on the issue), but after we decided to keep the role journal, it quickly was pushed to the back-burner during development and became a secondary feature in terms of importance. Must an Ivanhoe game have an actual role journal, or is the role journal merely an emblem of the self-conscious attitude of the players?  Is its function simply to keep players adhering to their roles, or does it serve other purposes?  This is a question which I would love to see this year's cohort test.
 

@@ -16,7 +16,7 @@ _[Cross-posted from [dclure.org](http://dclure.org/logs/minard-napoleon-neatline
 
 
 
-## [**Open the Exhibit**](http://dmmh.dclure.org/neatline/show/minard)
+[Open the Exhibit](http://dmmh.dclure.org/neatline/show/minard)
 
 
 

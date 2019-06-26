@@ -21,7 +21,7 @@ My point being, popular music can be difficult to pin down using genre tags. You
 
 
 
-That’s why I like musicologist Robert Walser’s definition of genre in popular music. Updating similar ideas that literary critic Tzvetan Todorov has explored, Walser argues that “Genres…come to function as horizons of expectations for readers (or listeners) and as models of composition for authors (or musicians).”[1] In other words, genres labels are modes of discourse wherein musicians, fans, and music industry workers collaborate to make meaning surrounding the music they love. And perhaps _surrounding_ is the key word, there; one can debate about styles of music with a friend all night long, or a record store employee can create increasingly hyper-specialized bin cards for various sub-genres (Psychobilly, Krautrock, etc.). We circle around the sounds we hear through discourse about them, but ultimately, on a musical-sound level, how do we _know_ that Beck belongs in the “rock” section? As Franco Fabbri has noted, problems with genre are “frontier” problems: “We meet with these whenever we attempt to indicate something which exists at the boundary of two or three zones of meaning.”[2] When considering genre tags, there seems to exist an inescapable gap between our need to accurately label a piece of music and the slippery semantic meanings of recorded sound, which may in any given moment resemble two, three, or even more genres.
+That’s why I like musicologist Robert Walser’s definition of genre in popular music. Updating similar ideas that literary critic Tzvetan Todorov has explored, Walser argues that “Genres…come to function as horizons of expectations for readers (or listeners) and as models of composition for authors (or musicians).”[^1] In other words, genres labels are modes of discourse wherein musicians, fans, and music industry workers collaborate to make meaning surrounding the music they love. And perhaps _surrounding_ is the key word, there; one can debate about styles of music with a friend all night long, or a record store employee can create increasingly hyper-specialized bin cards for various sub-genres (Psychobilly, Krautrock, etc.). We circle around the sounds we hear through discourse about them, but ultimately, on a musical-sound level, how do we _know_ that Beck belongs in the “rock” section? As Franco Fabbri has noted, problems with genre are “frontier” problems: “We meet with these whenever we attempt to indicate something which exists at the boundary of two or three zones of meaning.”[^2] When considering genre tags, there seems to exist an inescapable gap between our need to accurately label a piece of music and the slippery semantic meanings of recorded sound, which may in any given moment resemble two, three, or even more genres.
 
 
 
@@ -41,7 +41,7 @@ From the perspective of an academic studying pop music genres, the Music Genome 
 
 
 
-It just so happens that one of my other exam topics this semester concerns film music soundtracks. Having read much of the academic literature on film music, what Westergren recounts here is fascinating&mdash;and doesn’t surprise me. The specific challenges a composer faces when working on a film&mdash;How do I balance my need to please the director with my need to express personal creativity?&mdash;is a central theme of the literature. Scholars even further back than Irwin Bazelon in 1975 have remarked that the collaboration is by nature difficult, “since the composer spends his entire life _in_ music, working out specific musical relationships, while the director spends his time _out_ of music, involved full-time with films&mdash;a visual medium&mdash;and only part-time with music, as it affects his film”.[3] Even if the director is a fan of music and has interesting ideas about how she wants it used, if she’s not a musician herself she may have difficulty communicating concepts to the composer which can be actualized musically.
+It just so happens that one of my other exam topics this semester concerns film music soundtracks. Having read much of the academic literature on film music, what Westergren recounts here is fascinating&mdash;and doesn’t surprise me. The specific challenges a composer faces when working on a film&mdash;How do I balance my need to please the director with my need to express personal creativity?&mdash;is a central theme of the literature. Scholars even further back than Irwin Bazelon in 1975 have remarked that the collaboration is by nature difficult, “since the composer spends his entire life _in_ music, working out specific musical relationships, while the director spends his time _out_ of music, involved full-time with films&mdash;a visual medium&mdash;and only part-time with music, as it affects his film”.[^3] Even if the director is a fan of music and has interesting ideas about how she wants it used, if she’s not a musician herself she may have difficulty communicating concepts to the composer which can be actualized musically.
 
 
 
@@ -51,7 +51,7 @@ That challenge has interesting aspects as regards musical genre. On the one hand
 
 
 
-From another perspective, however, film music cues are also remarkably genre-bound. Not necessarily bound by _musical_ genres per se (classical, country, pop, rock, etc.), but bound by the generic conventions of film itself. Due to the standardized production practices of most movies, film as a medium tends to be more amenable to genre classification&mdash;and soundtracks can play a key role in that[4]. For instance, soaring strings sketching out an American traditional folk or “cowboy” song, and the audience suddenly knows we’re in a Western. A minor key piano melody and a sultry saxophone, and we know we’re watching a film noir. Given that these generic conventions of film music most certainly exist, it makes me wonder what sorts of films Westergren was scoring as part of his job. Perhaps offbeat indie-Sundance dramas which were aiming for a kind of transcendence of genre strictures?
+From another perspective, however, film music cues are also remarkably genre-bound. Not necessarily bound by _musical_ genres per se (classical, country, pop, rock, etc.), but bound by the generic conventions of film itself. Due to the standardized production practices of most movies, film as a medium tends to be more amenable to genre classification&mdash;and soundtracks can play a key role in that[^4]. For instance, soaring strings sketching out an American traditional folk or “cowboy” song, and the audience suddenly knows we’re in a Western. A minor key piano melody and a sultry saxophone, and we know we’re watching a film noir. Given that these generic conventions of film music most certainly exist, it makes me wonder what sorts of films Westergren was scoring as part of his job. Perhaps offbeat indie-Sundance dramas which were aiming for a kind of transcendence of genre strictures?
 
 
 
@@ -74,72 +74,18 @@ Despite the fact that Pandora _streams_ tracks instead of allowing users to ille
 In the next installment of this blog, I’ll continue my exploration of Pandora, especially the logic behind its attempt to map “genes” of music and to approach music in a mode somehow “beyond” genre.
 
 
-
-
-
-
-
-
-
 * * *
 
 
 
+[^1]: Walser, Robert. _Running with the Devil: Power, Gender, and Madness in Heavy Metal Music_. Middletown, CT: Wesleyan University Press, 1993. p. 29.
+
+
+[^2]: Fabbri, Franco and Iain Chambers. “What Kind of Music?”. _Popular Music,_ Vol. 2, Theory and Method (1982), pp. 131-143.
+
+
+[^3]: Bazelon, Irwin. _Knowing the Score: Notes on Film Music_. New York: Van Nostrand Reinhold Company, 1975.
 
 
 
-
-[1] Walser, Robert. _Running with the Devil: Power, Gender, and Madness in Heavy Metal Music_. Middletown, CT: Wesleyan University Press, 1993. p. 29.
-
-
-
-
-
-
-
-
-
-
-
-[2] Fabbri, Franco and Iain Chambers. “What Kind of Music?”. _Popular Music,_ Vol. 2, Theory and Method (1982), pp. 131-143.
-
-
-
-
-
-
-
-
-
-
-
-[3] Bazelon, Irwin. _Knowing the Score: Notes on Film Music_. New York: Van Nostrand Reinhold Company, 1975.
-
-
-
-
-
-
-
-
-
-
-
-[4] Holt, Fabian. _Genre in Popular Music_. Chicago: The University of Chicago Press, 2007. Pp. 4-5.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^4]: Holt, Fabian. _Genre in Popular Music_. Chicago: The University of Chicago Press, 2007. Pp. 4-5.

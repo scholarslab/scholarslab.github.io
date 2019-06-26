@@ -39,10 +39,10 @@ Just to be clear, forking is a _Github_ thing, not a git thing. When you fork a 
 
 
 
-	
+
   * Omeka repo - http://github.com/omeka/Omeka
 
-	
+
   * My repo - http://github.com/clioweb/Omeka
 
 
@@ -87,7 +87,7 @@ git fetch upstream
 git merge upstream/master
 ```
 
-**-or-**
+or
 
 ```
 git pull upstream master
@@ -157,40 +157,40 @@ Here's a quick rundown to get set up:
 
 
 
-	
+
   1. Fork the original repo
 
-	
+
   2. Clone your fork to your computer
 
-	
+
   3. Add the `upstream` remote pointing to the original repo
 
 
 Here's a quick rundown to send a feature or bugfix back to the original project:
 
-	
+
   1. Checkout the `master` branch.
 
-	
+
   2. Pull from the `upstream` remote to merge updates.
 
-	
+
   3. Create a topic branch for your feature or bug fix.
 
-	
+
   4. Make your commits, with good commit messages.
 
-	
+
   5. Push your topic branch back to your fork on Github
 
-	
+
   6. Send a pull request back to the original repo.
 
-	
+
   7. Converse with developers, make updates to your topic branch if necessary, and keep pushing back to your fork.
 
-	
+
   8. Repeat for a new feature or bug fix.
 
 

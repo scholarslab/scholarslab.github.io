@@ -9,15 +9,13 @@ categories:
 - Visualization and Data Mining
 ---
 
-### [_**Everything on Paper Will Be Used Against Me: Quantifying Kissinger**_](http://www.mickikaufman.com/qk/)
+[Everything on Paper Will Be Used Against Me: Quantifying Kissinger](http://www.mickikaufman.com/qk/)
 
 
 **Thursday, April 3 at 10:00 am**
 in Alderman Library, Room 421
 
-[![BombingCorrelation-small](http://static.scholarslab.org/wp-content/uploads/2014/03/BombingCorrelation-big-300x177.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/03/BombingCorrelation-big.jpg)
-
-Click for a larger image.  See [www.mickikaufman.com/qk](http://www.mickikaufman.com/qk/) for a detailed description.Scarcity  of  information  is  a  common  frustration  for  many  historians.  However,  for  researchers  of  twentieth-­ and  twenty-­first  century  history  the  opposite  problem  is  also  increasingly  common.  In  contrast  to  scholars  of ancient  history,  who  base  much  of  their  analyses  on  rare  and  unique  relics  of  antiquity,  historians  studying the  ‘Age  of  Information’  (and  the  even  more  recent  period  of  ‘Big  Data’)  increasingly  confront  a  deluge  of information,  a  vast  field  of  haystacks  within  which  they  must  locate  the  needles  -­  and  presumably,  use them  to  knit  together  a  valid  historical  interpretation.
+Scarcity  of  information  is  a  common  frustration  for  many  historians.  However,  for  researchers  of  twentieth-­ and  twenty-­first  century  history  the  opposite  problem  is  also  increasingly  common.  In  contrast  to  scholars  of ancient  history,  who  base  much  of  their  analyses  on  rare  and  unique  relics  of  antiquity,  historians  studying the  ‘Age  of  Information’  (and  the  even  more  recent  period  of  ‘Big  Data’)  increasingly  confront  a  deluge  of information,  a  vast  field  of  haystacks  within  which  they  must  locate  the  needles  -­  and  presumably,  use them  to  knit  together  a  valid  historical  interpretation.
 
 As  larger  and  larger  volumes  of  human  cultural  output are  accumulated,  historians  will  continue  to  adapt  and  innovate  new  and  existing  tools  and  methods  -­ especially  those  developed  in  other  fields,  including  computational  biology,  literary  studies,  statistics  and psychology  -­  to  overcome  the  ‘information  overload’  and  facilitate  new  historical  interpretations  of challengingly  massive  digital  archives.    The  declassification  of  Former  Secretary  of  State  Henry  Kissinger's correspondence  by  the  State  Department  and  the  hosting  of  that  material  on  the  Digital  National  Security Archive  (DNSA)’s  Kissinger  Collection  web  site  presents  just  such  a  challenge  and  concomitant  opportunity. Given  the  role  Henry  Kissinger  played  in  first  ‘computerizing’  the  State  Department  in  the  late  1960s  it  is perhaps  not  surprising  that  the  continuing  declassifications  of  large  volumes  of  material  have  made historians  of  the  Kissinger/Nixon  era  dubious  ‘beneficiaries’  of  the  'big  data'  era,  inheritors  of  countless government  mainframes’  worth  of  text.
 

@@ -33,9 +33,9 @@ Here's how to use it to create a VM environment to develop a theme, plugin, or s
 
 Vagrant's written in Ruby, so assuming you have Ruby and RubyGems installed, just do this:
 
-[sourcecode language="bash"]
+```
 gem install vagrant
-[/sourcecode]
+```
 
 Getting VirtualBox is more complicated. Check [the VirtualBox website](http://www.virtualbox.org/) for how to install it.
 
@@ -45,24 +45,24 @@ Getting VirtualBox is more complicated. Check [the VirtualBox website](http://ww
 
 Once the software is installed, you'll need to set up a working directory and initialize it for Vagrant. You'll also need to download the Chef cookbooks that you'll use.
 
-[sourcecode language="bash"]
+```
 mkdir omeka-project
 cd omeka-project
 git clone https://github.com/opscode/cookbooks.git
 git clone git://github.com/scholarslab/cookbooks.git slab-cookbooks
 vagrant init omeka-project PATH-TO/base-centos32.box
-[/sourcecode]
+```
 
 The last command created a file called "Vagrantfile". (It also pointed to a file that won't exist on your system. We're working on a URL for hosting the base box. When it's available, use that URL in place of PATH-TO.) Go ahead and open it up in your favorite text editor. Vagrantfile is just Ruby, nothing scary there. We need to add a few lines. At the bottom of the file, just before the "end," insert these:
 
-[sourcecode language="ruby"]
+```
 config.vm.provision :chef_solo do |chef|
   chef.cookbooks_path = ["cookbooks", "slab-cookbooks"]
   chef.add_recipe "omeka"
 end
 config.vm.forward_port('mysql', 3306, 3333)
 config.vm.forward_port('apache2', 80, 8080)
-[/sourcecode]
+```
 
 The first four lines tell Vagrant to set up the system using [Chef Solo](http://www.opscode.com/chef/), and they tell Chef to use the cookbooks we downloaded from GitHub and to use the "omeka" recipe. The last two lines tell Vagrant to set up port forwarding so we can access the web server and database from the host machine, without needing to log onto the VM.
 
@@ -74,12 +74,12 @@ Now we're ready to set up Omeka. By default, the system assumes that your Omeka 
 
 These commands will download the latest version of Omeka (as of the time I'm writing this) and change permissions on the archive directory so the web server can write to it.
 
-[sourcecode language="bash"]
+```
 curl -O http://omeka.org/files/omeka-1.3.2.zip
 unzip omeka-1.3.2.zip
 mv omeka-1.3.2 omeka
 chmod -R a+rwx omeka/archive/
-[/sourcecode]
+```
 
 
 > There used to be something here about setting up your "db.ini" file. The Omeka Chef recipe now takes care of that for you.
@@ -92,27 +92,27 @@ chmod -R a+rwx omeka/archive/
 
 Everything's in place. Now it's time to start the VM. From the console, just enter this command:
 
-[sourcecode language="bash"]
+```
 vagrant up
-[/sourcecode]
+```
 
 A lot of lines will scroll by. Many minutes will pass. Apache, PHP, and MySQL will be installed. When you get your prompt back, you should be ready to go.
 
 You probably missed it, but these lines were near the beginning of all that output:
 
-[sourcecode language="text"]
+```
 [default] -- mysql: 3306 => 3333 (adapter 1)
 [default] -- apache2: 80 => 8080 (adapter 1)
 [default] -- ssh: 22 => 2222 (adapter 1)
-[/sourcecode]
+```
 
 These tell how you can communicate with your newly minted VM. Since it's using port forwarding, you can pretend like you're talking to your host box, but using the ports listed above:
 
-[sourcecode language="bash"]
+```
 mysql -uomeka -pomeka --protocol=TCP --port=3333 omeka
 open http://localhost:8080/
 vagrant ssh
-[/sourcecode]
+```
 
 
 #### Finishing the Omeka Installation
@@ -133,15 +133,15 @@ The Omeka code running the site is on your host machine, in the omeka/ directory
 
 When you're done for the day and you want your resources back, you can just suspend the VM by calling this:
 
-[sourcecode language="bash"]
+```
 vagrant suspend
-[/sourcecode]
+```
 
 When you're done with the project and you want to destroy the VM, the database, and everything on it, give this command:
 
-[sourcecode language="bash"]
+```
 vagrant destroy
-[/sourcecode]
+```
 
 
 #### Next Steps, or What Can I Do Since It's Vaporware?
@@ -153,19 +153,19 @@ For me, I wrote this today in the spirit of releasing early and often, and there
 
 
 
-	
+
   * Make the base box publicly available;
 
-	
+
   * Write a README for the cookbook and Chef metadata for the Omeka Recipe;
 
-	
+
   * More recipes for more systems;
 
-	
+
   * Add phpunit, phpmd, and other PHP systems to help improve code quality; and
 
-	
+
   * Add a [Rakefile](http://rake.rubyforge.org/) with tasks for running phpunit, dumping the database, and other things.
 
 

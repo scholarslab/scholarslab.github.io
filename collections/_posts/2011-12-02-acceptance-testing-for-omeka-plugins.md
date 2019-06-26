@@ -112,10 +112,10 @@ Most of these tools are in [Ruby](http://www.ruby-lang.org/), so the first step 
 
 
 
-[sourcecode language="bash"]
+```
 rvm use 1.9.3
 bundle install
-[/sourcecode]
+```
 
 
 
@@ -123,13 +123,13 @@ The gems are listed in a `Gemfile`:
 
 
 
-[sourcecode language="ruby"]
+```
 source :rubygems
 gem 'rake'
 gem 'cucumber'
 gem 'capybara'
 gem 'selenium-webdriver'
-[/sourcecode]
+```
 
 
 
@@ -149,11 +149,11 @@ Cucumber expects a specific directory structure. I created that with these Bash 
 
 
 
-[sourcecode language="bash"]
+```
 mkdir features
 mkdir features/step_definitions
 mkdir features/support
-[/sourcecode]
+```
 
 
 
@@ -161,7 +161,7 @@ Cucumber also needs a configuration file in `features/support/env.rb`:
 
 
 
-[sourcecode language="ruby"]
+```
 require 'selenium-webdriver'
 require 'capybara'
 require 'capybara/cucumber'
@@ -170,7 +170,7 @@ Capybara.app_host = 'http://features.dev'
 Capybara.run_server = false
 Capybara.default_wait_time = 15
 Capybara.default_driver = :selenium
-[/sourcecode]
+```
 
 
 
@@ -202,7 +202,7 @@ The feature file for this is easy to read and understand, by design. I put this 
 
 
 
-[sourcecode language="ruby"]
+```
 Feature: AdminLogin
   In order to make changes to the site
   As the site administrator
@@ -215,7 +215,7 @@ Feature: AdminLogin
     When I press "Log In"
     Then I should see a page title of "Omeka Admin:"
     And I should see a header of "Dashboard"
-[/sourcecode]
+```
 
 
 
@@ -235,7 +235,7 @@ Feature files are great for people, but Cucumber/Ruby still doesn't know what to
 
 
 
-[sourcecode language="ruby"]
+```
 Given /^I visit the admin page$/ do
   visit('/admin')
 end
@@ -255,7 +255,7 @@ end
 Then /^I should see a header of "([^"]*)"$/ do |header|
   find(:xpath, '//h1').has_content?(header)
 end
-[/sourcecode]
+```
 
 
 
@@ -287,7 +287,7 @@ Put this into `Rakefile`:
 
 
 
-[sourcecode language="ruby"]
+```
 require 'cucumber/rake/task'
 
 task :default => :cucumber
@@ -295,7 +295,7 @@ task :default => :cucumber
 Cucumber::Rake::Task.new do |t|
   t.cucumber_opts = %w{--format pretty}
 end
-[/sourcecode]
+```
 
 
 
@@ -303,9 +303,9 @@ Now, as I mentioned before, the Omeka site is running in a Vagrant-managed VM. S
 
 
 
-[sourcecode language="bash"]
+```
 vagrant up
-[/sourcecode]
+```
 
 
 

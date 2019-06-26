@@ -17,9 +17,9 @@ tags:
 
 One of the reasons that testing JavaScript can be so pesky (and perhaps one of the reasons that so little JavaScript is tested...) is the fact that you have to maintain a library of HTML "fixtures" for the tests to run on. What's a fixture? Basically, just a little chunk of markup that provides a sandbox environment for a particular test, or a suite of tests. So, if you have a jQuery widget that adds some extra functionality to a form input, your fixture could be as simple as just a single input tag. And indeed, some of the time you can get away with just manually whipping up a chunk of ad-hoc HTML, dropping it directly into your suite, and testing into the sunset:
 
-[sourcecode language="html"]
+```
 <input class="simple-fixture" type="text" />
-[/sourcecode]
+```
 
 This works fine, provided that the HTML your code is working on is relatively simple. In practice, though, most front-end applications that grow beyond a certain critical mass of complexity end up with JavaScript code that makes DOM touches on large, complex markup structures that can't be so easily replicated independent of the application itself.
 
@@ -40,18 +40,18 @@ Basically, we do this:
 
 How does this work in practice? Imagine you have a template called _records.php that looks like this:
 
-[sourcecode language="php"]
+```
 <div id="container">
   <?php foreach $records as $record: ?>
     <h1><?php echo $record->title; ?></h1>
     <div><?php echo $record->description; ?></div>
   <?php endforeach; ?>
 </div>
-[/sourcecode]
+```
 
 And when it's rendered in the application, the final markup looks like this:
 
-[sourcecode language="html"]
+```
 <div id="container">
 
     <h1>Record 1 Title</h1>
@@ -61,11 +61,11 @@ And when it's rendered in the application, the final markup looks like this:
     <div>Description for record 2.</div>
 
 </div>
-[/sourcecode]
+```
 
 So, the goal here is to create a controller action that populates the template with mock records objects and renders the markup, which can then be captured and saved by an integration "test" that we'll write in just a minute (test in quotes, since we're using PHPUnit not so much as a testing framework, but more just as a mechanism for automating requests). First, add a new controller class called FixturesController, and create an action that mocks any variables that need to get pushed into the template:
 
-[sourcecode language="php"]
+```
 class YourPlugin_FixturesController extends Omeka_Controller_Action
 {
 
@@ -100,7 +100,7 @@ class YourPlugin_FixturesController extends Omeka_Controller_Action
     }
 
 }
-[/sourcecode]
+```
 
 Basically, we're just stubbing out two artificial record objects (for simplicity, we add only the attributes that are used in the template) and directly render the template file as a "partial." Note the call to `setNoRender(true)` - by default, Zend will try to automagically discover a template file with the same name as the controller action, but we're just disabling that functionality since we want direct control over which templates get rendered and in what order.
 
@@ -108,7 +108,7 @@ Next, add a directory called "fixtures" in the /tests directory, and create a fi
 
 This should look like this:
 
-[sourcecode language="php"]
+```
 class YourPlugin_FixtureBuilderTest extends YourPlugin_Test_AppTestCase
 {
 
@@ -147,13 +147,13 @@ class YourPlugin_FixtureBuilderTest extends YourPlugin_Test_AppTestCase
     }
 
 }
-[/sourcecode]
+```
 
 Note that you need to specify the location in the project directory structure that you want to save the fixtures to. In this case, I'm saving to the default location used by Jasmine, but you could point to anywhere in the filesystem relative to the AllTests.php runner file in /tests.
 
 Make sure that the /fixtures directory is included in the test discoverer in AllTests.php, run phpunit, and your fresh-out-of-the-oven fixture should be saved off and ready for action! All that's left to do now is load the fixture in your JavaScript test, run your code on the HTML, and start enumerating test cases. We use a testing framework called [Jasmine](http://pivotal.github.com/jasmine/) in conjunction with a plugin called [jasmine-jquery](https://github.com/velesin/jasmine-jquery), which provides an easy way to load fixtures into the tests:
 
-[sourcecode language="javascript"]
+```
 /*
  * Unit tests for the records Javascript.
  */
@@ -186,4 +186,4 @@ describe('Records', function() {
     });
 
 });
-[/sourcecode]
+```

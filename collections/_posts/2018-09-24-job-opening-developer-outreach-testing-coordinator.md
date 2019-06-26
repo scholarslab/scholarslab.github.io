@@ -37,19 +37,19 @@ This is a non-permanent _Developer Outreach & Testing Coordinator_ role located 
 
 
 
- 	
+
   * creating technical documentation for both developers and non-technical users
 
- 	
+
   * leading workshops or teaching modules on our projects
 
- 	
+
   * refining existing documentation through user testing and community feedback
 
- 	
+
   * responding to requests for technical support related to the grant projects via email, the project's forum, and in-person consultation
 
- 	
+
   * other support for our staff doing design and development work, such as organizing and commenting on existing code, designing and coding proofs of concept, and participating in code and design reviews
 
 
@@ -58,29 +58,27 @@ This is a non-permanent _Developer Outreach & Testing Coordinator_ role located 
 **Knowledge & skills:** You _**do not**_ need to possess all of these, as we'll consider strength in some of these as compensating for lack of experience with other skills on the list. We're seeking:
 
 
-
- 	
   * Empathy and understanding for the technical needs of both developers and non-developers
 
- 	
+
   * Experience instructing, mentoring, or otherwise assisting other people in learning to use technology
 
- 	
+
   * Passion for interactive experiences across a variety of media (web, mobile) with a strong desire for innovation
 
- 	
+
   * Comfort with complexity and ambiguity, and readiness to take on the challenges of the humanities and social sciences
 
- 	
+
   * Understanding of user interface client-side technologies such as Javascript, HTML, and CSS; and PHP
 
- 	
+
   * Experience running user testing and conducting accessibility testing
 
- 	
+
   * Experience creating standard user experience deliverables, including site maps, personas and use cases, and wireframes and interactive prototypes
 
- 	
+
   * Solid presentation and communication skills, especially around the ability to communicate the connections between technical and cultural scholarship, and the importance of design for building relationships and supporting communities
 
 

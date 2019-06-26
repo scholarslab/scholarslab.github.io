@@ -24,23 +24,17 @@ The survey results will help us to make curriculum recommendations so that gradu
 
 
 
-	
+
   * **[Complete the main #alt-ac survey](http://alt-academy.questionpro.com/)**
 
 	
   * **[Complete the employer survey](http://alt-academy.employers.questionpro.com/)**
 
 
-
-	
   * **[Add your information to the database](http://altacademy.wufoo.com/forms/who-we-are/)**
 
-	
+
   * **[View the database report](http://altacademy.wufoo.com/reports/who-we-are/)**
 
 
-
-	
   * [**Other ways to get involved**](http://mediacommons.futureofthebook.org/alt-ac/how-it-works)
-
-

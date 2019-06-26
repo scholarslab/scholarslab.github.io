@@ -159,9 +159,9 @@ Timr requires Python, and if you have [Python](http://python.org/) and [Pip](htt
 
 
 
-[sourcecode language="bash"]
+```
 pip install timr
-[/sourcecode]
+```
 
 
 
@@ -189,7 +189,7 @@ For example, save this as `fetch.conf`. It will time a POST request with my name
 
 
 
-[sourcecode autolinks="false"]
+```
 --method
 POST
 --url
@@ -202,7 +202,7 @@ first_name=Eric
 surname=Rochester
 --output
 fetch-output.csv
-[/sourcecode]
+```
 
 > _NB: Remove the extra lines around the URL. For some reason, WordPress adds those in, but they shouldn’t be there and will cause an error if they’re included._
 
@@ -222,9 +222,9 @@ Now, call `timr fetch` with the arguments from the configuration file, plus the 
 
 
 
-[sourcecode language="bash"]
+```
 timr fetch @fetch.conf -m "initial timings"
-[/sourcecode]
+```
 
 
 
@@ -247,9 +247,9 @@ Most of the time, I just dump the aggregate data out to the screen:
 
 
 
-[sourcecode language="bash"]
+```
 timr report --input=fetch-output.csv
-[/sourcecode]
+```
 
 
 
@@ -257,9 +257,9 @@ But sometimes I want a pretty chart or graph. Timr doesn’t do visualizations, 
 
 
 
-[sourcecode language="bash"]
+```
 timr report --input=fetch-output.csv --output=report-output.csv
-[/sourcecode]
+```
 
 
 
@@ -282,7 +282,7 @@ First, we’ll create a configuration file named `google.conf`:
 
 
 
-[sourcecode autolinks="false"]
+```
 --method
 GET
 --url
@@ -291,7 +291,7 @@ http://www.google.com
 q=timr
 --output
 google-timr.csv
-[/sourcecode]
+```
 
 
 
@@ -299,10 +299,10 @@ Now run it a couple of times:
 
 
 
-[sourcecode autolinks="false"]
+```
 timr fetch @google.conf -m "initial search"
 timr fetch @google.conf -m "another session"
-[/sourcecode]
+```
 
 
 
@@ -315,7 +315,7 @@ Let’s see what this outputs:
 
 
 
-[sourcecode]
+```
 2012-08-07 10:13:08.871731,03a227c0-e09a-11e1-ad5b-c82a1417b0e9,initial search,02a0f14a92b4e0070ee17275f1d78c3a7db1ba68,955,0.141083955765
 2012-08-07 10:13:08.871731,03a227c0-e09a-11e1-ad5b-c82a1417b0e9,initial search,02a0f14a92b4e0070ee17275f1d78c3a7db1ba68,955,0.0433859825134
 2012-08-07 10:13:08.871731,03a227c0-e09a-11e1-ad5b-c82a1417b0e9,initial search,02a0f14a92b4e0070ee17275f1d78c3a7db1ba68,955,0.0436539649963
@@ -324,7 +324,7 @@ Let’s see what this outputs:
 2012-08-07 10:14:03.237169,240e6f5c-e09a-11e1-962c-c82a1417b0e9,another session,02a0f14a92b4e0070ee17275f1d78c3a7db1ba68,955,0.0447700023651
 2012-08-07 10:14:03.237169,240e6f5c-e09a-11e1-962c-c82a1417b0e9,another session,02a0f14a92b4e0070ee17275f1d78c3a7db1ba68,955,0.0436999797821
 2012-08-07 10:14:03.237169,240e6f5c-e09a-11e1-962c-c82a1417b0e9,another session,02a0f14a92b4e0070ee17275f1d78c3a7db1ba68,955,0.0441081523895
-[/sourcecode]
+```
 
 
 
@@ -359,9 +359,9 @@ Now let’s generate the report, dumping it to a file:
 
 
 
-[sourcecode language="bash"]
+```
 timr report --input=google-timr.csv --output=google-report.csv
-[/sourcecode]
+```
 
 
 
@@ -369,10 +369,10 @@ And this outputs:
 
 
 
-[sourcecode]
+```
 03a227c0-e09a-11e1-ad5b-c82a1417b0e9,initial search,0.0433859825134,0.141083955765,0.0681069493294,0.0486528640897
 240e6f5c-e09a-11e1-962c-c82a1417b0e9,another session,0.0436999797821,0.389742851257,0.130580246448,0.172775632452
-[/sourcecode]
+```
 
 
 
@@ -442,6 +442,3 @@ Timr is a very new tool, and there are lots of missing features or even bugs. If
 
 
 For example, I could imagine that having the option to throw out the longest or first timing when generating the report would be helpful. What do you think?
-
-
-

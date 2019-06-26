@@ -23,24 +23,12 @@ The [Scholars' Lab](http://scholarslab.org) at the University of Virginia Librar
 
 Reporting to UVa Library's [director of digital research and scholarship](http://www.uvasci.org/about-us/steering-committee/bethany-nowviskie/), the SCI research specialist will:
 
-    
-> 
-> 
-	
->   * help design, execute, and analyze a broad-based, anonymous survey of humanities professionals (together with the perceptions of their employers) to examine graduate-level preparation for so-called "[alternative academic](http://mediacommons.futureofthebook.org/alt-ac/)" careers (20%);
-> 
-    
->   * attend and provide research support for three meetings and regular conference calls on new-model publishing and authoring environments, in order to take notes and help compile proceedings and recommendations (15%);
-> 
-    
->   * attend and provide research support for two to three meetings centering on the reform of methodological training in the humanities, involving major humanities consortia, professional associations, and funders, to take notes and help compile proceedings and recommendations (15%);
-> 
-    
->   * assist in research and organizational tasks related to the development and day-to-day operations of the [Praxis Program](http://praxis.scholarslab.org/) at the University of Virginia Library, including the hosting of a gathering to foster inter-institutional collaboration on similar initiatives (20%);
-> 
-    
->   * and perform other research and writing tasks as needed by SCI principals (10%).
-> 
+* help design, execute, and analyze a broad-based, anonymous survey of humanities professionals (together with the perceptions of their employers) to examine graduate-level preparation for so-called "[alternative academic](http://mediacommons.futureofthebook.org/alt-ac/)" careers (20%);
+* attend and provide research support for three meetings and regular conference calls on new-model publishing and authoring environments, in order to take notes and help compile proceedings and recommendations (15%);
+* attend and provide research support for two to three meetings centering on the reform of methodological training in the humanities, involving major humanities consortia, professional associations, and funders, to take notes and help compile proceedings and recommendations (15%);
+* assist in research and organizational tasks related to the development and day-to-day operations of the [Praxis Program](http://praxis.scholarslab.org/) at the University of Virginia Library, including the hosting of a gathering to foster inter-institutional collaboration on similar initiatives (20%);
+* and perform other research and writing tasks as needed by SCI principals (10%).
+ 
 
 The SCI research specialist will join a [vibrant and dedicated community](http://scholarslab.org) of faculty and staff at the Scholars' Lab, and as such will be eligible for the self-directed "20% time" that all team members are granted to pursue professional development and their own (often collaborative) R&D; projects.  This is a [grant-funded position](http://uvasci.org/current-work) with a salary of approximately $50k per annum and full benefits as a member of the managerial and professional staff of the University of Virginia. The position begins no later than March 1st, 2012 and extends no later than August 31st, 2013.
 
@@ -49,4 +37,3 @@ The SCI research specialist will join a [vibrant and dedicated community](http:/
 
 
 Please [APPLY ONLINE](http://jobs.virginia.edu/applicants/Central?quickFind=66487).
-

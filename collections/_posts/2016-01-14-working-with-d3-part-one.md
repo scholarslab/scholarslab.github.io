@@ -41,10 +41,10 @@ The best way to learn d3 is to practice it over and over. I suggest looking at o
 
 
 
-    
+
   * [https://www.dashingd3js.com/table-of-contents](https://www.dashingd3js.com/table-of-contents)
 
-    
+
   * [http://alignedleft.com/tutorials/d3/about](http://alignedleft.com/tutorials/d3/about)
 
 
@@ -52,7 +52,7 @@ The best way to learn d3 is to practice it over and over. I suggest looking at o
 After you've been through one, or both of them, try looking at my examples here:
 
 
-    
+
   * [https://github.com/mossiso/track-n-treat](https://github.com/mossiso/track-n-treat)
 
 
@@ -84,13 +84,13 @@ For d3 to use this, we have several options. CSV and JSON are the easiest to wor
 A CSV option would look like this:
 
 
-    
-    <code>2015-11-01, 13:15, Snickers
-    2015-11-01, 15:24, KitKat
-    2015-11-02, 19:33, Twix
-    2015-11-02, 17:42, KitKat
-    2015-11-03, 21:51, Snickers
-    </code>
+```
+2015-11-01, 13:15, Snickers
+2015-11-01, 15:24, KitKat
+2015-11-02, 19:33, Twix
+2015-11-02, 17:42, KitKat
+2015-11-03, 21:51, Snickers
+```
 
 
 
@@ -100,13 +100,13 @@ A JSON option is a bit more intense. Here I'm creating an array of objects.
 
 
 
-    
-     [ 
+
+     [
        {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>17:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Heath Bar<span class="pl-pds">"</span></span>},
        {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>17:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Kitkat Bar<span class="pl-pds">"</span></span>},
        {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>20:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Kitkat Bar<span class="pl-pds">"</span></span>},
-       {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>17:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>}, 
-       <span class="pl-ii">...</span> 
+       {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>17:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>},
+       <span class="pl-ii">...</span>
      ]
 
 
@@ -146,7 +146,7 @@ First off, we'll create a generic HTML page with the standard HTML
 
 
 
-    
+
     <!DOCTYPE html>
     <<span class="pl-ent">html</span> <span class="pl-e">lang</span>=<span class="pl-s"><span class="pl-pds">"</span>en<span class="pl-pds">"</span></span>>
         <<span class="pl-ent">head</span>>
@@ -174,7 +174,7 @@ Next we create a couple of divs, one for placing some text and links, and anothe
 
 
 
-    
+
           <<span class="pl-ent">div</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>wrap<span class="pl-pds">"</span></span>>
             <<span class="pl-ent">h1</span>>Track-n-Treat</<span class="pl-ent">h1</span>>
             <<span class="pl-ent">p</span>>How many candies did I eat each day the week after Halloween?</<span class="pl-ent">p</span>>
@@ -200,12 +200,12 @@ To have JavaScript in the body of the HTML document, we'll surround it with `<sc
 
 
 
-    
+
     <span class="pl-s1"><<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span>></span>
     <span class="pl-s1"> <span class="pl-c">/* Add some JavaScript here.</span></span>
     <span class="pl-s1"><span class="pl-c">    '/*' starts a multi-line comment, and the next line ends it.</span></span>
     <span class="pl-s1"><span class="pl-c">*/</span></span>
-    
+
     <span class="pl-s1"><span class="pl-c">// This is a single line comment</span></span>
     <span class="pl-s1"></<span class="pl-ent">script</span>></span>
 
@@ -217,12 +217,13 @@ To have JavaScript in the body of the HTML document, we'll surround it with `<sc
 Our first line of JavaScript, and d3, is one to pull in a file that has the data in it. It is the first line within our `<script>` tags above.
 
 
-    
-    <code>d3.json("data/track-n-treat.json", function(data) {
-      // More d3 code will go in here
-    
-    }
-    </code>
+
+```
+d3.json("data/track-n-treat.json", function(data) {
+  // More d3 code will go in here
+
+}
+```
 
 
 
@@ -236,13 +237,13 @@ It's as if we had this in the code:
 
 
 
-    
-    data <span class="pl-k">=</span> [ 
+
+    data <span class="pl-k">=</span> [
        {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>17:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Heath Bar<span class="pl-pds">"</span></span>},
        {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>17:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Kitkat Bar<span class="pl-pds">"</span></span>},
        {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>20:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Kitkat Bar<span class="pl-pds">"</span></span>},
-       {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>17:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>}, 
-       ... 
+       {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>17:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>},
+       ...
      ]
 
 
@@ -264,7 +265,7 @@ The 'margin' variable is really an object, so we can call the elements within us
 
 
 
-    
+
     <span class="pl-k">var</span> margin <span class="pl-k">=</span> {top<span class="pl-k">:</span> <span class="pl-c1">40</span>, right<span class="pl-k">:</span> <span class="pl-c1">40</span>, bottom<span class="pl-k">:</span> <span class="pl-c1">40</span>, left<span class="pl-k">:</span><span class="pl-c1">40</span>},
         width <span class="pl-k">=</span> <span class="pl-c1">700</span>,
         height <span class="pl-k">=</span> <span class="pl-c1">300</span>,
@@ -311,7 +312,7 @@ Our next line of code creates the x function and assigns the domain and range fo
 
 
 
-    
+
     <span class="pl-k">var</span> x <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-smi">time</span>.<span class="pl-en">scale</span>()
               .<span class="pl-en">domain</span>([ <span class="pl-k">new</span> <span class="pl-en">Date</span>(data[<span class="pl-c1">0</span>].<span class="pl-smi">day</span>), <span class="pl-smi">d3</span>.<span class="pl-smi">time</span>.<span class="pl-smi">day</span>.<span class="pl-en">offset</span>(<span class="pl-k">new</span> <span class="pl-en">Date</span>(data[<span class="pl-smi">data</span>.<span class="pl-c1">length</span> <span class="pl-k">-</span> <span class="pl-c1">1</span>].<span class="pl-smi">day</span>), <span class="pl-c1">1</span>)])
               .<span class="pl-en">rangeRound</span>([<span class="pl-c1">0</span>, width <span class="pl-k">-</span> <span class="pl-smi">margin</span>.<span class="pl-c1">left</span> <span class="pl-k">-</span> <span class="pl-smi">margin</span>.<span class="pl-c1">right</span>]);
@@ -341,14 +342,14 @@ A visualization of what the domain to range looks like
 
 
 
-    
+
     2015-11-1      2015-11-4         2015-11-8
        <span class="pl-k">|</span>---------------<span class="pl-k">|</span>-----------------<span class="pl-k">|</span>
       /                /                  \
      /                /                    \
     <span class="pl-k">|</span>----------------<span class="pl-k">|</span>----------------------<span class="pl-k">|</span>
     0                  88.5                620
-    
+
 
 
 
@@ -367,7 +368,7 @@ We create an x axis by calling the `d3.svg.axis` method, and assigning it to a v
 
 
 
-    
+
     <span class="pl-k">var</span> xAxis <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-smi">svg</span>.<span class="pl-c1">axis</span>()
                   .<span class="pl-en">scale</span>(x)
                   .<span class="pl-en">orient</span>(<span class="pl-s"><span class="pl-pds">"</span>bottom<span class="pl-pds">"</span></span>)
@@ -403,7 +404,7 @@ We can then use the `rollup` function to turn the values into something else. In
 
 
 
-    
+
     <span class="pl-k">var</span> timesPerDay <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-en">nest</span>()
                         .<span class="pl-en">key</span>(<span class="pl-k">function</span>(<span class="pl-smi">d</span>) { <span class="pl-k">return</span> <span class="pl-smi">d</span>.<span class="pl-smi">day</span>; })
                         .<span class="pl-en">rollup</span>(<span class="pl-k">function</span>(<span class="pl-smi">t</span>) { <span class="pl-k">return</span> <span class="pl-smi">t</span>.<span class="pl-c1">length</span>; })
@@ -420,14 +421,14 @@ The `key` part of the `nest` function turns the data from this:
 
 
 
-    
-    [ 
+
+    [
     {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>17:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Heath Bar<span class="pl-pds">"</span></span>},
     {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>17:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Kitkat Bar<span class="pl-pds">"</span></span>},
     {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-01<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>20:25<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Kitkat Bar<span class="pl-pds">"</span></span>},
-    {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>17:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>}, 
-    {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>18:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>}, 
-    ... 
+    {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>17:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>},
+    {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>18:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>},
+    ...
     ]
 
 
@@ -441,7 +442,7 @@ Into this:
 
 
 
-    
+
     [
       {<span class="pl-s"><span class="pl-pds">'</span>key<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-01<span class="pl-pds">'</span></span>,
         <span class="pl-s"><span class="pl-pds">'</span>values<span class="pl-pds">'</span></span><span class="pl-k">:</span> [
@@ -452,8 +453,8 @@ Into this:
       },
       {<span class="pl-s"><span class="pl-pds">'</span>key<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-02<span class="pl-pds">'</span></span>,
         <span class="pl-s"><span class="pl-pds">'</span>values<span class="pl-pds">'</span></span><span class="pl-k">:</span> [
-        {<span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-02<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>17:38<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>candy<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Whopper<span class="pl-pds">'</span></span>}, 
-        {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>18:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>}, 
+        {<span class="pl-s"><span class="pl-pds">'</span>day<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-02<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>17:38<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>candy<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Whopper<span class="pl-pds">'</span></span>},
+        {<span class="pl-s"><span class="pl-pds">"</span>day<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>2015-11-02<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>18:38<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>candy<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>Whopper<span class="pl-pds">"</span></span>},
         ...
         ]
       },
@@ -471,7 +472,7 @@ And the `rollup` part of the `nest` function further converts the data into this
 
 
 
-    
+
     [
       {<span class="pl-s"><span class="pl-pds">'</span>key<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-01<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>values<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-c1">3</span> },
       {<span class="pl-s"><span class="pl-pds">'</span>key<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2015-11-02<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>values<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-c1">2</span> },
@@ -491,7 +492,7 @@ Next we need to pull out the highest number from this array.
 
 
 
-    
+
     <span class="pl-k">var</span> maxEats <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-c1">max</span>(timesPerDay, <span class="pl-k">function</span>(<span class="pl-smi">v</span>) { <span class="pl-k">return</span> <span class="pl-smi">v</span>.<span class="pl-smi">values</span>; })
 
 
@@ -507,7 +508,7 @@ Since we're just using numbers (not dates), we use a regular linear scale for th
 
 
 
-    
+
     <span class="pl-k">var</span> y <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-smi">scale</span>.<span class="pl-en">linear</span>()
               .<span class="pl-en">domain</span>([<span class="pl-c1">0</span>, maxEats ])
               .<span class="pl-en">range</span>([workingHeight, <span class="pl-c1">0</span>]);
@@ -536,7 +537,7 @@ No we can create the y axis using the scale above.
 
 
 
-    
+
     <span class="pl-k">var</span> yAxis <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-smi">svg</span>.<span class="pl-c1">axis</span>()
                   .<span class="pl-en">scale</span>(y)
                   .<span class="pl-en">orient</span>(<span class="pl-s"><span class="pl-pds">'</span>left<span class="pl-pds">'</span></span>)
@@ -569,7 +570,7 @@ This is where the magic happens. First, we create a variable/object for the svg 
 
 
 
-    
+
     <span class="pl-k">var</span> svg <span class="pl-k">=</span> <span class="pl-smi">d3</span>.<span class="pl-c1">select</span>(<span class="pl-s"><span class="pl-pds">'</span>#graph<span class="pl-pds">'</span></span>)
                 .<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>svg<span class="pl-pds">'</span></span>)
                   .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>graph<span class="pl-pds">'</span></span>)
@@ -590,7 +591,7 @@ Then we append an svg group element `g` where the chart will reside. We're going
 
 
 
-    
+
   * [https://www.dashingd3js.com/svg-group-element-and-d3js](https://www.dashingd3js.com/svg-group-element-and-d3js)
 
 
@@ -607,7 +608,7 @@ We attach the graph using the [selectAll ](https://github.com/mbostock/d3/wiki/S
 
 
 
-    
+
     <span class="pl-smi">svg</span>.<span class="pl-en">selectAll</span>(<span class="pl-s"><span class="pl-pds">'</span>.graph<span class="pl-pds">'</span></span>)
         .<span class="pl-c1">data</span>(timesPerDay)
         .<span class="pl-en">enter</span>().<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>rect<span class="pl-pds">'</span></span>)
@@ -640,7 +641,7 @@ This just attaches the x axis to a svg group element
 
 
 
-    
+
     <span class="pl-smi">svg</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>g<span class="pl-pds">'</span></span>)
         .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>x axis<span class="pl-pds">'</span></span>)
         .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>transform<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>translate(0, <span class="pl-pds">'</span></span> <span class="pl-k">+</span> workingHeight <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>)<span class="pl-pds">'</span></span>)
@@ -657,7 +658,7 @@ Attach the y axis
 
 
 
-    
+
     <span class="pl-smi">svg</span>.<span class="pl-en">append</span>(<span class="pl-s"><span class="pl-pds">'</span>g<span class="pl-pds">'</span></span>)
         .<span class="pl-en">attr</span>(<span class="pl-s"><span class="pl-pds">'</span>class<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>y axis<span class="pl-pds">'</span></span>)
         .<span class="pl-c1">call</span>(yAxis);
@@ -679,10 +680,10 @@ We need to close the function we started above, and close the HTML script tag
 
 
 
-    
+
     });
     </<span class="pl-ent">script</span>>
-    
+
     </<span class="pl-ent">body</span>>
     </<span class="pl-ent">html</span>>
 

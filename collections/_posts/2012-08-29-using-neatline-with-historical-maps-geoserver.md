@@ -37,13 +37,15 @@ If your file is small enough to be uploaded through Omeka, the Neatline Maps plu
 
 
 
-	
-  1. With Neatline Maps installed, click on the "Neatline Maps" tab in the top toolbar of the Omeka administrative interface and click on "Create Server." Fill in the URL, Username, and Password for your GeoServer. In the Name section, enter a plaintext identifier for the server (used for content management in Omeka) and use the Workspace field to specify the workspace on the GeoServer installation that will house the new stores and layers. Click "Save" to create the server record.(**Note**: If you want to upload files to more than one installation of GeoServer, you can create as many server records as you want. At any given point, though, only one of the record can be marked as the "Active" server - this the server that the plugin will use to handle new .tif uploads).
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/create-server-300x245.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/create-server.jpg)
+* With Neatline Maps installed, click on the "Neatline Maps" tab in the top toolbar of the Omeka administrative interface and click on "Create Server." Fill in the URL, Username, and Password for your GeoServer. In the Name section, enter a plaintext identifier for the server (used for content management in Omeka) and use the Workspace field to specify the workspace on the GeoServer installation that will house the new stores and layers. Click "Save" to create the server record.(**Note**: If you want to upload files to more than one installation of GeoServer, you can create as many server records as you want. At any given point, though, only one of the record can be marked as the "Active" server - this the server that the plugin will use to handle new .tif uploads).
 
-	
-  2. Create an item to associate the web map service with (or edit an existing item). In the Item add/edit form, click on the "Files" tab, click on "Choose File," and select the .tiff file as you would for a regular file upload. When you save the item, Neatline Maps will automatically detect that you're trying to upload a georeferenced .tif file and create a corresponding web map service by way of the GeoServer API.[![](http://static.scholarslab.org/wp-content/uploads/2012/07/upload-file-300x124.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/upload-file.jpg)
+<img src="http://static.scholarslab.org/wp-content/uploads/2012/07/create-server-300x245.jpg">
+
+
+* Create an item to associate the web map service with (or edit an existing item). In the Item add/edit form, click on the "Files" tab, click on "Choose File," and select the .tiff file as you would for a regular file upload. When you save the item, Neatline Maps will automatically detect that you're trying to upload a georeferenced .tif file and create a corresponding web map service by way of the GeoServer API.
+
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/upload-file-300x124.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/upload-file.jpg)
 
 Once you've saved the file, if you go back into the Item edit form and click on the "Web Map Service" tab, you'll notice that "WMS Address" and "Layers" fields have been automatically updated to point to the new web map service. On the show page for the item, the map will be displayed in a small, interactive widget below the default metadata fields.
 
@@ -52,44 +54,44 @@ Once you've saved the file, if you go back into the Item edit form and click on 
 
 
 
-	
-  1. First, upload the file to the server running GeoServer with `scp` or another file transfer protocol. It's usually a good idea to get the file out of the `/tmp` directory, but it doesn't matter beyond that - GeoServer can read the entire file system. We've gotten into the habit of putting the source .tiff files in `/var/geotiff`.
 
-	
-  2. In the GeoServer administrative interface, click on "Stores" in the left column and then click "Add new Store." On the next screen, click GeoTIFF under the "Raster Data Sources" heading.
+* First, upload the file to the server running GeoServer with `scp` or another file transfer protocol. It's usually a good idea to get the file out of the `/tmp` directory, but it doesn't matter beyond that - GeoServer can read the entire file system. We've gotten into the habit of putting the source .tiff files in `/var/geotiff`.
+
+
+* In the GeoServer administrative interface, click on "Stores" in the left column and then click "Add new Store." On the next screen, click GeoTIFF under the "Raster Data Sources" heading.
 
 [![](http://static.scholarslab.org/wp-content/uploads/2012/07/new-data-store-300x159.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/new-data-store.jpg)
 
-	
-  3. Select a workspace for the store and enter a name. Under "Connection Parameters," click the "Browse.." link, and use the pop-up window to navigate to the file. Click "Save" to create the store.
+
+* Select a workspace for the store and enter a name. Under "Connection Parameters," click the "Browse.." link, and use the pop-up window to navigate to the file. Click "Save" to create the store.
 
 [![](http://static.scholarslab.org/wp-content/uploads/2012/07/connection-parameters-300x162.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/connection-parameters.jpg)
 
-	
-  4. Next, we have to publish the store as a public-facing layer. On the next screen, click the "Publish" link.
+
+* Next, we have to publish the store as a public-facing layer. On the next screen, click the "Publish" link.
 
 [![](http://static.scholarslab.org/wp-content/uploads/2012/07/publish-300x158.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/publish.jpg)
 
-	
-  5. Now, the tricky part. We have to manually tell GeoServer to deliver the layer using a coordinate projection system that Neatline can use to layer the map on top of the real-geography base layers in OpenLayers. Scroll down to the "Coordinate Reference Systems" heading and enter `EPSG:900913` into the "Declared SRS" field. Under "SRS handling," select "Force declared." Under the "Bounding Boxes" heading, click both the "Compute from data" and "Compute from native bound" links.
+
+* Now, the tricky part. We have to manually tell GeoServer to deliver the layer using a coordinate projection system that Neatline can use to layer the map on top of the real-geography base layers in OpenLayers. Scroll down to the "Coordinate Reference Systems" heading and enter `EPSG:900913` into the "Declared SRS" field. Under "SRS handling," select "Force declared." Under the "Bounding Boxes" heading, click both the "Compute from data" and "Compute from native bound" links.
 
 [![](http://static.scholarslab.org/wp-content/uploads/2012/07/coordinates-274x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/coordinates.jpg)
 
 
 Now, with the layer created, we can associate the new web map service with an item in your Omeka collection by manually filling in the two fields in the "Web Map Services" tab:
 
-	
-  1. Go back the Omeka administrative interface and find the item that you want to associate the map with (or just create a new item). Open up the edit form for the item.
 
-	
-  2. Click the "Web Map Services" tab. Fill in the the top-level WMS address for the GeoServer installation (this always ends with `/wms`, and might look something like `localhost:8080/GeoServer/wms`) and enter the list of comma-delimited layers that you want to be associated with the item. For example, if you have a workspace called "hotchkiss" with layers "chancellorsville" and "fredericksburg," you could enter:
+* Go back the Omeka administrative interface and find the item that you want to associate the map with (or just create a new item). Open up the edit form for the item.
+
+
+* Click the "Web Map Services" tab. Fill in the the top-level WMS address for the GeoServer installation (this always ends with `/wms`, and might look something like `localhost:8080/GeoServer/wms`) and enter the list of comma-delimited layers that you want to be associated with the item. For example, if you have a workspace called "hotchkiss" with layers "chancellorsville" and "fredericksburg," you could enter:
 
 `hotchkiss:chancellorsville,hotchkiss:fredericksburg`.
 
 [![](http://static.scholarslab.org/wp-content/uploads/2012/07/wms-tab-300x181.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/wms-tab.jpg)
 
-	
-  3. Save the item.
+
+* Save the item.
 
 
 **Use the map in a Neatline exhibit**

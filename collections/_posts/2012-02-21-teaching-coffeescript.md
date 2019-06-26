@@ -13,6 +13,8 @@ tags:
 - praxis program
 ---
 
+*Note: This post contains references to images stored on a server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*
+
 As the Prism project has progressed, one of the technologies we kept pushing off teaching was JavaScript. We knew this is one of the core languages that they would need to learn to actually work with the browser, but kept trying to determine the best way to actually introduce JavaScript in a way that would minimize bugs, and not discourage their development efforts. We had been working with the group as a whole introducing them to object oriented thinking with Ruby, but  recognized a huge context switch between writing in Ruby's (and Rails) [object oriented](http://en.wikipedia.org/wiki/Object-oriented_programming) programming style to JavaScript's [prototype-based](http://en.wikipedia.org/wiki/Prototype-based_programming) style.
 
 One of the other issues we discussed was how to best teach "good" practices with JavaScript. The language constructs can get you in to a lot of hot water pretty quickly. You may have seen this, but a classic example of this is in the difference in the side Doug Crockford's _JavaScript: The Good Parts_ and David Flanagan's _JavaScript: The Definitive Guide_.

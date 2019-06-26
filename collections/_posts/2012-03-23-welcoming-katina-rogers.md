@@ -12,7 +12,8 @@ tags:
 - staffing
 ---
 
-[![Katina Rogers](http://static.scholarslab.org/wp-content/uploads/2012/03/KR_photo-271x300.jpg)](http://www.scholarslab.org/announcements/welcoming-katina-rogers/attachment/kr_photo/)Today, we're very happy to announce that Dr. Katina Rogers is to join the [Scholarly Communication Institute](http://uvasci.org) and [Praxis Program](http://praxis.scholarslab.org) teams at the [Scholars' Lab](http://scholarslab.org).
+[![Katina Rogers](http://static.scholarslab.org/wp-content/uploads/2012/03/KR_photo-271x300.jpg)](http://www.scholarslab.org/announcements/welcoming-katina-rogers/attachment/kr_photo/)
+Today, we're very happy to announce that Dr. Katina Rogers is to join the [Scholarly Communication Institute](http://uvasci.org) and [Praxis Program](http://praxis.scholarslab.org) teams at the [Scholars' Lab](http://scholarslab.org).
 
 Katina comes to us from an appointment at the Alfred P. Sloan Foundation, where she has been responsible for a number of operational areas and has contributed to the strategic development of Sloan's [Digital Information Technology](http://www.sloan.org/program/28) program under the direction of Josh Greenberg. Her past work includes positions as Assistant Secretary General to the International Union of Geodesy and Geophysics, and as an instructor in language and literature courses at the University of Colorado, Boulder, where she completed her PhD in Comparative Literature in 2010.
 

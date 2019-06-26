@@ -86,8 +86,8 @@ First, some book-keeping: I have to let Haskell know that I’m going to use str
 
 
 
-    
-    <code class="sourceCode haskell"><span class="ot">{-# LANGUAGE OverloadedStrings #-}</span></code>
+
+<code class="sourceCode haskell"><span class="ot">{-# LANGUAGE OverloadedStrings #-}</span></code>
 
 
 
@@ -96,8 +96,8 @@ Also, we have to import the [Shelly](http://www.yesodweb.com/blog/2012/03/shelly
 
 
 
-    
-    <code class="sourceCode haskell"><span class="kw">import</span>           <span class="dt">Shelly</span></code>
+
+<code class="sourceCode haskell"><span class="kw">import</span>           <span class="dt">Shelly</span></code>
 
 
 
@@ -106,13 +106,13 @@ And we need some other modules for working with characters, text, and other thin
 
 
 
-    
-    <code class="sourceCode haskell"><span class="kw">import</span>           <span class="dt">Control.Monad</span> (forM_)
-    <span class="kw">import</span> <span class="kw">qualified</span> <span class="dt">Data.Char</span> <span class="kw">as</span> <span class="dt">C</span>
-    <span class="kw">import</span> <span class="kw">qualified</span> <span class="dt">Data.Text.Lazy</span> <span class="kw">as</span> <span class="dt">T</span>
-    <span class="kw">import</span>           <span class="dt">Filesystem.Path</span>
-    <span class="kw">import</span>           <span class="dt">Prelude</span> <span class="kw">hiding</span> (<span class="fu">FilePath</span>)
-    <span class="kw">import</span>           <span class="dt">System.Environment</span></code>
+
+<code class="sourceCode haskell"><span class="kw">import</span>           <span class="dt">Control.Monad</span> (forM_)
+<span class="kw">import</span> <span class="kw">qualified</span> <span class="dt">Data.Char</span> <span class="kw">as</span> <span class="dt">C</span>
+<span class="kw">import</span> <span class="kw">qualified</span> <span class="dt">Data.Text.Lazy</span> <span class="kw">as</span> <span class="dt">T</span>
+<span class="kw">import</span>           <span class="dt">Filesystem.Path</span>
+<span class="kw">import</span>           <span class="dt">Prelude</span> <span class="kw">hiding</span> (<span class="fu">FilePath</span>)
+<span class="kw">import</span>           <span class="dt">System.Environment</span></code>
 
 
 
@@ -131,7 +131,7 @@ For most things, I’m using Python 2.7, but I haven’t bothered installing `py
 
 
 
-    
+
     <code class="sourceCode bash">python2.6 <span class="ot">$(</span><span class="kw">which</span> webkit2png<span class="ot">)</span> <span class="kw"></span>
             --fullsize <span class="kw"></span>
             --filename pythongis-000 <span class="kw"></span>
@@ -144,8 +144,8 @@ First, let’s create a generic function to run commands in Python 2.6. In Shell
 
 
 
-    
-    <code class="sourceCode haskell">python26_ script args <span class="fu">=</span> run_ <span class="st">"python2.6"</span> (script<span class="fu">:</span>args)</code>
+
+<code class="sourceCode haskell">python26_ script args <span class="fu">=</span> run_ <span class="st">"python2.6"</span> (script<span class="fu">:</span>args)</code>
 
 
 
@@ -159,17 +159,17 @@ Now I’ll build on that to create a command to look for the program `webkit2png
 
 
 
-    
-    <code class="sourceCode haskell">webkit2png_ filename url <span class="fu">=</span> <span class="kw">do</span>
-        script <span class="ot"><-</span> which <span class="st">"webkit2png"</span>
-        <span class="kw">case</span> script <span class="kw">of</span>
-            <span class="kw">Nothing</span>      <span class="ot">-></span> echo <span class="st">"ERROR: webkit2png not installed."</span>
-            <span class="kw">Just</span> script' <span class="ot">-></span> <span class="kw">do</span>
-                s <span class="ot"><-</span> toTextWarn script'
-                python26_ s [ <span class="st">"--fullsize"</span>
-                            , <span class="st">"--filename"</span>, filename
-                            , url
-                            ]</code>
+
+<code class="sourceCode haskell">webkit2png_ filename url <span class="fu">=</span> <span class="kw">do</span>
+script <span class="ot"><-</span> which <span class="st">"webkit2png"</span>
+<span class="kw">case</span> script <span class="kw">of</span>
+<span class="kw">Nothing</span>      <span class="ot">-></span> echo <span class="st">"ERROR: webkit2png not installed."</span>
+<span class="kw">Just</span> script' <span class="ot">-></span> <span class="kw">do</span>
+s <span class="ot"><-</span> toTextWarn script'
+python26_ s [ <span class="st">"--fullsize"</span>
+, <span class="st">"--filename"</span>, filename
+, url
+]</code>
 
 
 
@@ -188,9 +188,9 @@ The next step is to concatenate all the PNGs into one PDF. I’m using the `conv
 
 
 
-    
-    <code class="sourceCode haskell"><span class="ot">convert ::</span> <span class="fu">FilePath</span> <span class="ot">-></span> [<span class="fu">FilePath</span>] <span class="ot">-></span> <span class="dt">ShIO</span> ()
-    convert pdf pngs <span class="fu">=</span> run_ <span class="st">"convert"</span> <span class="fu">=<<</span> <span class="fu">mapM</span> toTextWarn (pngs <span class="fu">++</span> [pdf])</code>
+
+<code class="sourceCode haskell"><span class="ot">convert ::</span> <span class="fu">FilePath</span> <span class="ot">-></span> [<span class="fu">FilePath</span>] <span class="ot">-></span> <span class="dt">ShIO</span> ()
+convert pdf pngs <span class="fu">=</span> run_ <span class="st">"convert"</span> <span class="fu">=<<</span> <span class="fu">mapM</span> toTextWarn (pngs <span class="fu">++</span> [pdf])</code>
 
 
 
@@ -204,18 +204,18 @@ Right now, `webkit2png_` (the function to download the slides as PNGs) operates 
 
 
 
-    
-    <code class="sourceCode haskell"><span class="ot">downloadSlides ::</span> <span class="dt">Int</span> <span class="ot">-></span> <span class="dt">String</span> <span class="ot">-></span> <span class="dt">ShIO</span> [<span class="fu">FilePath</span>]
-    downloadSlides slideCount baseUrl <span class="fu">=</span> <span class="kw">do</span>
-        forM_ inputs <span class="fu">$</span> (url, file) <span class="ot">-></span> webkit2png_ file url
-        <span class="fu">return</span> files'
-        <span class="kw">where</span>
-            baseUrl' <span class="fu">=</span> T.pack <span class="fu">$</span> baseUrl <span class="fu">++</span> <span class="st">"#slide"</span>
-            <span class="fu">range</span>    <span class="fu">=</span> <span class="fu">map</span> (T.pack <span class="fu">.</span> <span class="fu">show</span>) [<span class="dv">0</span><span class="fu">..</span>slideCount]
-            urls     <span class="fu">=</span> <span class="fu">map</span> (T.append baseUrl') <span class="fu">range</span>
-            files    <span class="fu">=</span> <span class="fu">map</span> (T.append <span class="st">"slide-"</span>) <span class="fu">range</span>
-            files'   <span class="fu">=</span> <span class="fu">map</span> (fromText <span class="fu">.</span> <span class="fu">flip</span> T.append <span class="st">"-full.png"</span>) files
-            inputs   <span class="fu">=</span> <span class="fu">zip</span> urls files</code>
+
+<code class="sourceCode haskell"><span class="ot">downloadSlides ::</span> <span class="dt">Int</span> <span class="ot">-></span> <span class="dt">String</span> <span class="ot">-></span> <span class="dt">ShIO</span> [<span class="fu">FilePath</span>]
+downloadSlides slideCount baseUrl <span class="fu">=</span> <span class="kw">do</span>
+forM_ inputs <span class="fu">$</span> (url, file) <span class="ot">-></span> webkit2png_ file url
+<span class="fu">return</span> files'
+<span class="kw">where</span>
+baseUrl' <span class="fu">=</span> T.pack <span class="fu">$</span> baseUrl <span class="fu">++</span> <span class="st">"#slide"</span>
+<span class="fu">range</span>    <span class="fu">=</span> <span class="fu">map</span> (T.pack <span class="fu">.</span> <span class="fu">show</span>) [<span class="dv">0</span><span class="fu">..</span>slideCount]
+urls     <span class="fu">=</span> <span class="fu">map</span> (T.append baseUrl') <span class="fu">range</span>
+files    <span class="fu">=</span> <span class="fu">map</span> (T.append <span class="st">"slide-"</span>) <span class="fu">range</span>
+files'   <span class="fu">=</span> <span class="fu">map</span> (fromText <span class="fu">.</span> <span class="fu">flip</span> T.append <span class="st">"-full.png"</span>) files
+inputs   <span class="fu">=</span> <span class="fu">zip</span> urls files</code>
 
 
 
@@ -244,17 +244,17 @@ The `main` function is the entry-point for the script. It picks three parameters
 
 
 
-    
-    <code class="sourceCode haskell"><span class="ot">main ::</span> <span class="dt">IO</span> ()
-    main <span class="fu">=</span> shelly <span class="fu">$</span> verbosely <span class="fu">$</span> <span class="kw">do</span>
-        args <span class="ot"><-</span> liftIO <span class="fu">$</span> getArgs
-        <span class="kw">case</span> args <span class="kw">of</span>
-            [slides, url, pdf] <span class="fu">|</span> <span class="fu">all</span> C.isNumber slides <span class="ot">-></span> <span class="kw">do</span>
-                pngs <span class="ot"><-</span> downloadSlides (<span class="fu">read</span> slides) url
-                convert (fromText <span class="fu">$</span> T.pack pdf) pngs
-                echo <span class="fu">.</span> T.pack <span class="fu">$</span> <span class="st">"Wrote PDF to "</span> <span class="fu">++</span> pdf
-                <span class="fu">mapM_</span> rm_f pngs
-            <span class="fu">otherwise</span> <span class="ot">-></span> echo usage</code>
+
+<code class="sourceCode haskell"><span class="ot">main ::</span> <span class="dt">IO</span> ()
+main <span class="fu">=</span> shelly <span class="fu">$</span> verbosely <span class="fu">$</span> <span class="kw">do</span>
+args <span class="ot"><-</span> liftIO <span class="fu">$</span> getArgs
+<span class="kw">case</span> args <span class="kw">of</span>
+[slides, url, pdf] <span class="fu">|</span> <span class="fu">all</span> C.isNumber slides <span class="ot">-></span> <span class="kw">do</span>
+pngs <span class="ot"><-</span> downloadSlides (<span class="fu">read</span> slides) url
+convert (fromText <span class="fu">$</span> T.pack pdf) pngs
+echo <span class="fu">.</span> T.pack <span class="fu">$</span> <span class="st">"Wrote PDF to "</span> <span class="fu">++</span> pdf
+<span class="fu">mapM_</span> rm_f pngs
+<span class="fu">otherwise</span> <span class="ot">-></span> echo usage</code>
 
 
 
@@ -263,14 +263,14 @@ This is the usage/help message.
 
 
 
-    
-    <code class="sourceCode haskell"><span class="ot">usage ::</span> <span class="dt">T.Text</span>
-    usage <span class="fu">=</span> <span class="st">"</span>
-    <span class="st">    usage: s5topdf.lhs [slides] [url] [output] n</span>
-    <span class="st">     n</span>
-    <span class="st">      slides is the number of slides in the slideshow.n</span>
-    <span class="st">      url    is the URL to access the slideshow at.n</span>
-    <span class="st">      output is the filename of the PDF file to create.n"</span></code>
+
+<code class="sourceCode haskell"><span class="ot">usage ::</span> <span class="dt">T.Text</span>
+usage <span class="fu">=</span> <span class="st">"</span>
+<span class="st">    usage: s5topdf.lhs [slides] [url] [output] n</span>
+<span class="st">     n</span>
+<span class="st">      slides is the number of slides in the slideshow.n</span>
+<span class="st">      url    is the URL to access the slideshow at.n</span>
+<span class="st">      output is the filename of the PDF file to create.n"</span></code>
 
 
 
@@ -324,8 +324,5 @@ Also, having this file double as a script _and_ the post is kind of neat, at lea
 
 
 
-    
-    <code class="sourceCode haskell"><span class="co">-- vim: set filetype=lhaskell:</span></code>
 
-
-
+<code class="sourceCode haskell"><span class="co">-- vim: set filetype=lhaskell:</span></code>

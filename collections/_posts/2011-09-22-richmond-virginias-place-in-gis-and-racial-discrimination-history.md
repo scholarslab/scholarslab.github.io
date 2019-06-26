@@ -19,14 +19,6 @@ tags:
 
 Richmond, Virginia is a city steeped in history.  It is the home of [the first commercially viable electric street car system](http://chpn.net/news/2006/02/16/a-history-of-richmonds-trolleys_336/), [the world's only triple train crossing](http://richmondthenandnow.com/Newspaper-Articles/Triple-Train-Crossing.html); [the first woman-owned and African American-owned bank](http://www.encyclopediavirginia.org/Walker_Maggie_Lena_1864-1934), and some great Americans including [Bojangles Robinson](http://atdf.org/awards/bojangles.html) and [Arthur Ashe](http://www.encyclopediavirginia.org/Ashe_Arthur_1943-1993).  Not exactly the history you were thinking about, correct?  There is much more hidden history in Richmond.
 
-<figure>
-  ![](http://www.csiss.org/classics/uploads/mcharg-image1.jpg)
-  <figcaption>
- Ian McHarg
-</figcaption>
-
-</figure>
-
 [Ian McHarg](http://www.nytimes.com/2001/03/12/arts/12MCHA.html) was born around the industrial town of Glasgow, Scotland in 1920.  After World War II, he came to the U.S. and started a career in city planning and landscape architecture.  He founded the Department of Landscape Architecture at the University of Pennsylvania and is considered innovative for his notion that design should work with the landscape instead of fighting or changing it.  He has also been credited with coming up, in the 1960s, with the idea of [map overlay](http://en.wikipedia.org/wiki/Geographic_information_system#Map_overlay) which is a fundamental GIS technique.
 
 So, what do Richmond and McHarg have in common?  Before I can tell that story, I have to tell this one.  When I was a <del>young</del> struggling grad student, I happened to be at work in the Urban Planning Department at VCU one summer day when a PhD student from the University of California, Santa Barbara -- John Cloud -- strolled in. He told a small gathering of a few grad students and professors the story of how during the Great Depression the economic conditions were similar to those we face now. There was a foreclosure crisis and banks were not offering mortgages.  In an attempt to get the industry back on track, the Federal Housing Administration seeked for ways to estimate neighborhood risk for mortgages.  They looked for indicators to predict how neighborhoods would fare at future dates. In partnership with the Richmond Planning Commission (RPC), the FHA used Richmond as one of its major study sites.  Mr. Cloud showed us a report he pulled from the National Archives (NARA) called _Statistical Data Relative to Housing and other Planning Matters_.

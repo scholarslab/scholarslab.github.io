@@ -12,6 +12,8 @@ tags:
 - Digital Humanities
 ---
 
+*Note: This post contains references to images stored on an internal server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*
+
 Following up on my [introduction](/blog/research-applications-for-3d-models-in-art-history/) to using 3D models to recreate archaeological sites and perform meaningful academic analysis on simulated virtual environments, I will discuss in further detail my current project concerning the recreation of the [House of the Drinking Contest](http://cti.itc.virginia.edu/~jjd5t/ant-pics/10/index.htm) in Seleucia Pieria, the port city of Roman Antioch.
 
 <!-- more -->
