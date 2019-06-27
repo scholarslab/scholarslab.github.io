@@ -17,7 +17,7 @@ This post is a quick update on a couple of projects by students who frequent the
 
 The project write ups are written by the students themselves. So without further introduction, here are Brandon Phan and his Pokédex phone case and Arian Azizi and civil war bullets for a class presentation.
 
-[Header image source: https://commons.wikimedia.org/wiki/File:International_Pok%C3%A9mon_logo.svg]
+![pokemon logo](https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg)
 
 
 ## Brandon Phan - Pokédex
