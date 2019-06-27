@@ -13,7 +13,7 @@ tags:
 - WLU Collab
 ---
 
-*Crossposted to [Brandon's blog](http://walshbr.com/blog/dh-pedagogy-roadshow/) and the [WLUDH blog](LINK-NEEDED)*
+*Crossposted to [Brandon's blog](http://walshbr.com/blog/dh-pedagogy-roadshow/) and the [WLUDH blog](https://digitalhumanities.wlu.edu/blog/2019/06/27/dh-pedagogy-roadshow/)*
 
 The following post was co-authored with Mackenzie Brooks, Digital Humanities Librarian at Washington and Lee University. It follows up on a [previous post](http://walshbr.com/blog/a-praxis-oriented-introduction-to-digital-pedagogy/) on digital pedagogy and the Praxis Program. So if you're just joining us, you might start there first. The first section below offers Brandon's thoughts on a sequence of collaborative events with W&L, and the second section offers Mackenzie's thoughts on the same.
 
