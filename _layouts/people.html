@@ -73,10 +73,10 @@ layout: default
 		{% assign author_posts = site.posts | where: "author", page.slug %}
 
 		<div class="person__posts">
-			<h2 class="person-posts__title">Recent Posts</h2>
+			<h2 class="person-posts__title">All Posts by {{ page.first_name }}</h2>
 			{% if author_posts.size >= 1 %}
 		    <ul class="person-posts__list">
-		    {% for post in author_posts limit:3 %}
+		    {% for post in author_posts %}
 				<li>
 					<a href="{{ post.url }}">
 						<div class="person__post-title">{{ post.title }}</div>
@@ -89,9 +89,5 @@ layout: default
 		    <p class="person-posts__none-found">There are no posts by {{ page.first_name }} at this time.</p>
 		    {% endif %}
 		</div>
-
-		{% if author_posts.size >= 1 %}
-		<div class="person__cta"><a href="{{ site.baseurl}}/blog">All Posts &rsaquo;</a></div> <!-- using components/link-button.scss -->
-		{% endif %}
 	</div>
 </div>
