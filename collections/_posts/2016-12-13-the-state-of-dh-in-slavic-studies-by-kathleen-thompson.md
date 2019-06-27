@@ -35,19 +35,18 @@ Part 3: [3D Printing in the Classroom: Outcomes and Reflections on a Slavic Cou
 Kathleen Thompson also provided three videos of printing the onion dome pictured above:
 
 
-[embed]https://youtu.be/AThw04OFa6o[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AThw04OFa6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Onion Dome movie 1
 
 
-[embed]https://youtu.be/WpUtw0_IB40[/embed]
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WpUtw0_IB40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Onion Dome movie 2
 
 
-https://youtu.be/NOVC8kWo33Y
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOVC8kWo33Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Onion Dome movie 3
