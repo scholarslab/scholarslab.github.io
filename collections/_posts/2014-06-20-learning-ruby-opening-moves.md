@@ -35,8 +35,6 @@ Creating the open directory of 'fellow traveler' programs began with a series of
 
 Simple, right? Now, the reality--I am new to Ruby and to using git. After creating the Google Form, I installed Ruby and the gems `google_drive`, `dotenv`, and `rake`. We, then, created a git repository and a `.gitignore` file. Next, Wayne and I created a `.env` file to keep passwords and form keys private. After the initial set up, I was ready to tackle the `Rakefile`.
 
-[gallery ids="10398,10399,10400"]
-
 I am still trying to wrap my head around the `Rakefile`. At the moment, I am working with metaphors, which is not best practice when thinking about the highly specific process of laying out a series of steps for the computer to follow. Even so, I think of the `Rakefile` as a scratchpad to experiment with the series of instructions. First, I defined the requirements (the gems I previously installed--`ruby-gems`, `dotenv`, and `google_drive`) and defined the necessary tasks (import data from Google Drive) and methods (loop over this data and make a Markdown file for each row passed to it). I am still working on defining the content to display online. The next step is to investigate using Jekyll categories as a way to filter programs. 
 
 My biggest challenge, so far, has been that I have not devoted regularly scheduled time to working. Chunking an hour or so when it was convient means I have not internalized basic commands. Worse, each time I return to the script, I need to re-familiarize myself with each element within it. To address this, I have scheduled daily time on my calendar (with reminders) and have begun [Ruby the Hard Way](http://ruby.learncodethehardway.org) and [Ruby Koans](http://rubykoans.com).

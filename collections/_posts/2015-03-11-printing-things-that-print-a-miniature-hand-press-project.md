@@ -20,7 +20,9 @@ So what did we make? As linked above, we started by printing a desktop hand pres
 
 We jerry-rigged a few modifications (i.e. taped-on cardboard to raise and even out the paper) and then I printed out a single set of type from [another model on Thingiverse](http://www.thingiverse.com/thing:296026), and sized it so that it would fit with our press. Printing with this type was a real pain as there was no way to keep them in place – a problem which, again, involved another series of jerry-rigged semi-solutions. Until we figured out a way to make this setting and pressing of type easier, our new press was going to be very limited in its applications.
 
-[gallery link="file" columns="2" ids="11586,11621" size="medium"]
+![](https://static.scholarslab.org/wp-content/uploads/2015/02/IMG_1075-e1425004166838.jpg)
+
+![](https://static.scholarslab.org/wp-content/uploads/2015/02/mini-press-hi-james-e1425004056929.jpg)
 
 As you can see, our goal in re-creation here wasn’t so much fidelity to a specific historical object as it was to explore the capabilities of an older technology (the hand-press) shrunk down in a new way to an individual desktop size that anyone could use on their own. Clearly, even this more modest goal led to a series of joyful problems.  It turns out stamp ink is, well, mainly meant for stamps, and that not all paper is created equal.  These may seem like obvious insights (and I’m sure they were to James, who knows much more about books as physical objects than I do) but for someone only recently beginning to learn about bibliography, textual studies, and the history of printing, these were practical concerns I had heard of but never had to really deal with before.  And they are all things we are still working on with making our press work.
 

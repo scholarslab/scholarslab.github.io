@@ -17,8 +17,6 @@ The Lab has been a busy place lately with 8 new fellows from across the arts, hu
 
 This year, we are delighted to work closely with Veronica Ikeshoji-Orlati and Brandon Walsh.
 
-[gallery columns="2" ids="12229,10140"]
-
 [Veronica](http://scholarslab.org/people/veronica-ikeshoji-orlati/) is in her 6th year of the Classical Art & Archaeology program in the McIntire Department of Art. Her dissertation project, entitled “Music, Performance, and Identity in 4th century BCE South Italian Vase-Painting,” explores connections between the iconography of musical performance and constructions of identity in Apulia. During her fellowship year, she will be working with Wayne Graham to optimize her dissertation database and develop visualizations of her research, as well as experiment with integrating digital tools into the practice of iconographical analysis.
 
 [Brandon's](http://scholarslab.org/people/brandon-walsh/) research focuses on modern and contemporary literature and digital humanities. His dissertation entitled "AudioTextual: Modernism, Sound Recording, and Networks of Reception" examines how authors, amateur readers, and sound artists have used sound recording to invent and reinvent modernist literature throughout the last century. During his fellowship year, he will be working with Eric Rochester to apply machine learning and natural language processing techniques to speech in Virginia Woolf's novels.
@@ -26,8 +24,6 @@ This year, we are delighted to work closely with Veronica Ikeshoji-Orlati and Br
 
 ## Praxis Fellows
 
-
-[gallery ids="12233,12236,10883,12234,12231,12238"]
 
 We are entering our 5th (!) year of the Praxis Program and are welcoming six talented graduate fellows:
 

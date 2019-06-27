@@ -18,4 +18,21 @@ The Scholars' Lab has a Makerbot Replicator with dual extruders, and it's become
 
 So here's a gallery of our plastic debacles. Lovely, lovely debacles:
 
-[gallery link="file" ids="6572,6571,6569,6567,6566,6565,6564,6563,6562"]
+![Failed attempts at printing some flute parts.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3184.jpg)
+
+![Inner detail of a failed teacup dragon print.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3183.jpg)
+
+![A spread of failed prints.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3179.jpg)
+
+![Rafts for a couple of attempts at printing a flute on its side.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3175.jpg)
+
+![More detail of a failed teacup dragon print.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3173.jpg)
+
+![Raft for a print of US topography.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3172.jpg)
+
+![An almost cute kitty cat.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3170.jpg)
+
+![Something bad happened here. A wad of ABS plastic.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3169.jpg)
+
+![Part of a flute.](https://static.scholarslab.org/wp-content/uploads/2012/10/IMG_3168.jpg)
+
