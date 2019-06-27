@@ -46,4 +46,4 @@ A later, unsuccessful attempt to key each frequency to a particular color result
 
 Behold our final product!
 
-[gist id=5569210]![Arduino Rainbow Circuit Map](http://static.scholarslab.org/wp-content/uploads/2013/05/photo-300x224.jpg)[![Arduino Breadboard Diagram](http://static.scholarslab.org/wp-content/uploads/2013/05/photo-1-300x224.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/05/photo-1.jpg)
+<script src="https://gist.github.com/walshbr/5569210.js"></script>

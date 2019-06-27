@@ -22,6 +22,6 @@ The changes:
 
 3) I also tweaked several small things as I went to account for differing input situations. Before the program couldn't account for certain types of input. For example, if you typed in "three" and not "3" when prompted for the number of assignments, the program would break. I still am not quite sure how best to deal with those sorts of situations; I couldn't really find a satisfactory test for whether or not input was convertible to an integer or not, so I think I invented one that seems to work (see lines 136-141 of the code). My test:
 
-[gist id=4252685]
+<script src="https://gist.github.com/anonymous/4252685.js"></script>
 
 I cast the input string to an integer. If the integer is greater than one the code works. If not, something has gone wrong (who assigns fewer than one assignments), and it will ask for the input as an integer. It works, but it feels like a particularly dirty way of doing things. Next up, three things if I should continue: 1) Make it so that quizzes can be dynamically inputted into the program interface, with the possibility to drop the lowest one if necessary. 2) Consider making a version of the program that reads out of other files so that you don't have to do all your grading in one session. After all, we keep our gradebooks as we go, so this information is all typed somewhere else. It seems like the biggest time save would be to have it open a file, examine its contents, and spit out a calculated final grade for you. 3) Maybe include a method that will convert the percentages to letter grades.

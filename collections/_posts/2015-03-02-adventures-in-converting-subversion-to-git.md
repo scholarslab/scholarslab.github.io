@@ -157,7 +157,7 @@ echo "\nYou can then compress it by cloning the repo without hard links:"
 echo "\t git clone --no-hardlinks file:///Users/yourUser/your/full/repo/path repo-clone-name"
 ```
 
-[gist id=ed6d074267e60d7fef07 file=gistfile12.sh]
+<script src="https://gist.github.com/waynegraham/ed6d074267e60d7fef07.js?file=gistfile12.sh"></script>
 
 This generates several text files, but I was concerned with the `bigtosmall.txt`. This has the file paths of the large files in the repo.
 
