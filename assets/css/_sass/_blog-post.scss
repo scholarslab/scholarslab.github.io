@@ -316,3 +316,7 @@
 img{
 	max-width:100%;
 }
+
+figcaption p:before{
+content: "Figure caption: ";
+} 
