@@ -112,11 +112,11 @@ After some more thought, maybe what's needed here is a blended approach. I liked
 
 With a little JavaScript, I take a look at the DOM and construct an audio element, passing back to the browser the smallest version of the file (ogg then mp3) the browser can play back natively.
 
-[iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"]
+<iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 So the final product results in this, which has an animation to remove the icon, replacing it with the native audio playbar: 
 
-[iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"]
+<iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 
 

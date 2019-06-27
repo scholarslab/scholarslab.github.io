@@ -26,7 +26,7 @@ Recently I was asked if there was a way to [import place names in connection wit
 
 Geocoding is a method of deriving geographic descriptions (a latitude/longitude point or series of points) from  geographic data like an address (or portion of an address) or place name. The more granular the geographic data, the more accurate the location information. For example, Charlottesville, Virginia is far more accurate than Virginia, and the center point that a geocoder would return would use different points to represent this data. As you can see, the red marker is the center point for geocoding '**Virginia**,' where the blue marker codes the center of '**Charlottesville, Virginia**.'
 
-[iframe src="http://jsfiddle.net/wsgrah/rbHhj/embedded/result,js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"]
+<iframe src="http://jsfiddle.net/wsgrah/rbHhj/embedded/result,js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 There are some complexities, as data can be a bit ambiguous (e.g. W Jefferson St. vs Jefferson St.), but clever engineers have been working on issues like that and (generally) do a good job figuring out what is intended from partial address information. It is also worth noting that different services have different algorithms for calculating the result from a partial address (center of a county, city, state, country, etc.), so be sure to check your results to make sure they're what you are expecing!
 

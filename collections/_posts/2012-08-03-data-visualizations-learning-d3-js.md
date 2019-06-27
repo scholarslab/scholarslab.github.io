@@ -18,7 +18,7 @@ The [ SCI study on humanities graduate programs and career preparation](http://u
 
 While I don't have anything that cool that to show yet, I'm excited that I do have a little something. Here's the fruit of everything I've learned so far:
 
-[iframe height="200" width="690" src="http://katinalynn.github.com/dataviz/demo_randomCircles"]
+<iframe height="200" width="690" src="http://katinalynn.github.com/dataviz/demo_randomCircles"></iframe>
 
 It might not look like much, but you guys, I drew those shapes with CODE! (And a lot of help. Mostly I drew them with a lot of help, actually.) In my [earlier post on text mining](http://katinarogers.com/2012/06/29/playing-with-visual-text-analysis-using-voyant/ ), I also included some images made from data -- but in that case, the graphics you see in the post are nothing more than links back to the tool itself, which does all the work. The image here is different. Here's what's so great about it:
 

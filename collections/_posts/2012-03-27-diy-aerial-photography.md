@@ -96,6 +96,6 @@ This is all in our preparation for our [DIY Aerials workshops](http://www.scho
 
 Guess what else we can do?  We can make 3D models with our shots!  A site called Hypr3D lets you upload images and then calculates the 3D geometry for you.  It's magic.
 
-[iframe width="700" height="600" src="http://www.hypr3d.com/models/4f74a45308c2fa0001000056/embedded_viewer"]
+<iframe width="700" height="600" src="http://www.hypr3d.com/models/4f74a45308c2fa0001000056/embedded_viewer"></iframe>
 
 [http://www.hypr3d.com/models/4f74a45308c2fa0001000056](http://www.hypr3d.com/models/4f74a45308c2fa0001000056)
