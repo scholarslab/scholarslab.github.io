@@ -2,7 +2,7 @@
 author:
 - Mackenzie Brooks
 - brandon-walsh
-date: 2019-06-26 12:59:53
+date: 2019-06-27 12:59:53
 layout: post
 slug: dh-pedagogy-roadshow
 title: DH Pedagogy Roadshow
