@@ -8,9 +8,10 @@ categories:
 - Geospatial and Temporal
 tags:
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/announcing-neatline-2-0-alpha2/
 ---
-
-_[Cross-posted with [dclure.org](http://dclure.org/logs/announcing-neatline-2-0-alpha2/)]_
 
 We're pleased to announce Neatline 2.0-alpha2, a second developer-preview version that gets us one step closer to a stable 2.0 release! For now, this is still just an testing release aimed at engineers and other folks who want to experiment with the new set of features (for more information, check out the [announcement for the first testing release](http://www.scholarslab.org/geospatial-and-temporal/announcing-neatline-2-0-alpha1/)). Grab the code here:
 

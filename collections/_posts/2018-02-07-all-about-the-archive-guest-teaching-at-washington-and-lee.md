@@ -6,9 +6,12 @@ slug: all-about-the-archive-guest-teaching-at-washington-and-lee
 title: 'All About the Archive: Guest Teaching at Washington and Lee'
 tags:
 - WLU Collab
+crosspost:
+  - title: WLUDH blog
+    url: http://digitalhumanities.wlu.edu/blog/2018/02/07/all-about-the-archive/
 ---
 
-_In this post Lauren Reynolds, a former PhD student in Spanish and Makerspace Technologist, describes her work with Professor Andrea LePage's course at Washington & Lee. This work is supported by an ASC grant expanding [collaboration between Washington & Lee and the Scholars' Lab](http://scholarslab.org/announcements/scholars-lab-grads-partner-with-washington-lee-university/) and supplemented by W&L's Mellon-funded grant to support digital humanities in the classroom. Cross-posted to the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2018/02/07/all-about-the-archive/)._
+_In this post Lauren Reynolds, a former PhD student in Spanish and Makerspace Technologist, describes her work with Professor Andrea LePage's course at Washington & Lee. This work is supported by an ASC grant expanding [collaboration between Washington & Lee and the Scholars' Lab](http://scholarslab.org/announcements/scholars-lab-grads-partner-with-washington-lee-university/) and supplemented by W&L's Mellon-funded grant to support digital humanities in the classroom._
 
 I was invited to guest lecture for Professor Andrea LePage’s undergraduate course, *Contemporary Latinx and Chicanx Art*. After discussing possible topics for the workshop, Professor LePage and I decided on the topic of “Archive as Protest.” This topic overlapped with my research on cultural memory in US Latinx texts and presented me with the opportunity to learn more about digital archives. As I developed the plan for the workshop, I organized the lesson around questions surrounding digital archives, preserving cultural memory, and cataloguing a variety of experiences.
 

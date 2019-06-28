@@ -9,9 +9,10 @@ categories:
 - Digital Humanities
 - Grad Student Research
 - Technical Training
+crosspost:
+  - title: W&L DH blog
+    url: http://digitalhumanities.wlu.edu/blog/2017/03/16/if-you-want-to-master-something-teach-it-digital-humanities-and-the-aha-moment/
 ---
-
-_[Cross-posted to the [Washington and Lee Digital Humanities Blog](http://digitalhumanities.wlu.edu/blog/2017/03/16/if-you-want-to-master-something-teach-it-digital-humanities-and-the-aha-moment/)]_
 
 I was recently invited to give a guest lecture in Caleb Dance’s Classics Course (“Blasts from the Classical Past: In Consideration of the Ancient Canon”) at Washington and Lee University as part of their [Mellon Foundation Grant for Digital Humanities](http://news.blogs.wlu.edu/2015/07/13/mellon-foundation-grants-wl-funds-for-digital-humanities-study-of-history/), which provides support for research, workshops, guest lectures, and the general development of Digital Humanities initiatives. As a contemporary Latin American scholar, who works on Jorge Luis Borges and publishing history, I was, at first, quite daunted by the task of teaching about classical canons and antiquity. Lucky for me (and the students), I was asked to work through possible avenues of investigation for their final project, “Book Biographies,” that required students to add their own text to the class’s “canon” and justify their selection with quantitative and visual data. More specifically, Caleb asked me to present students with a series of approaches for the project, including any necessary platforms and databases, and also touch on some potential problems that might arise in the process.
 
