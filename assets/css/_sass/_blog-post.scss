@@ -319,10 +319,14 @@ img{
 
 .post_crosspost{
 padding: 20px;
-border-color: #75e3f0;
-border-style: solid;
 margin-bottom: 15px;
+margin-top: 15px;
 }
+
+.post_crosspost::before {
+	content: "\2192";
+}
+
 figcaption p:before{
 content: "Figure caption: ";
 }

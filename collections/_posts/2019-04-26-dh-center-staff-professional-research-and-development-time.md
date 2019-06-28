@@ -9,9 +9,9 @@ categories:
 tags:
 - Digital Humanities
 crosspost:
+  - title: my blog
+    url: https://literaturegeek.com/2019/04/26/dh-center-staff-professional-research-and-development-time/
 ---
-
-*Crossposted to [my blog](https://literaturegeek.com/2019/04/26/dh-center-staff-professional-research-and-development-time/).*
 
 All Scholars' Lab staff are encouraged to take 20% of their time to initiate research and professional development. In this post, we'll share some of what we've been working on, and explain the rationale behind making this 20% time a formal part of our job descriptions.
 
@@ -88,7 +88,7 @@ Known issues with 20% time include:
 
 Another barrier is needing help from SLab colleagues to move forward with your self-initiated work, but we feel reluctant to ask for that help: knowing how busy everyone is, or feeling uncomfortable using resources for a personally-initiated project. Or folks actually don't have time during fall and spring terms to help, and internal collaborations needs to wait for the summer. As a small step forward over this barrier, I've been trying to recognize the importance of these self-initiated projects by helping schedule meetings where relevant SLab staff can work together to advance a project.
 
-Setting a formal amount of time for staff research shifts the conversation from whether a project can happen, to how to best make it happen. Our colleagues in other Library units don't have 20% time in their job descriptions, although a number do have language about professional development. Many of our library colleagues are very active researchers. I do see an explicit percentage of job time is different from knowing you can propose a self-initiated project to your supervisor, but they may or may not understand its application, and they may or may not support your making time for it during your work day. 20% is equivalent to one day a week, 10% is one day every two weeks; this doesn't need to happen daily or weekly, and some staff find it best for them and their community to bank this time during fall and spring and use it during winter and summers. 
+Setting a formal amount of time for staff research shifts the conversation from whether a project can happen, to how to best make it happen. Our colleagues in other Library units don't have 20% time in their job descriptions, although a number do have language about professional development. Many of our library colleagues are very active researchers. I do see an explicit percentage of job time is different from knowing you can propose a self-initiated project to your supervisor, but they may or may not understand its application, and they may or may not support your making time for it during your work day. 20% is equivalent to one day a week, 10% is one day every two weeks; this doesn't need to happen daily or weekly, and some staff find it best for them and their community to bank this time during fall and spring and use it during winter and summers.
 
 The Library supports each of its staff with at least $1k of professional development travel funding each year (and extra for the first 2 years on the job); UVA also provides university staff annual funds to take courses and attend conferences. The Library and UVA professional development funds can't be used for books or equipment, which can be difficult for folks seeking to self-teach or to learn a hands-on skill like electronics.
 

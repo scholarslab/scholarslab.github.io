@@ -10,9 +10,10 @@ tags:
 - neatline
 - omeka
 - svg
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/neatline-drawing-svg-on-maps
 ---
-
-_[Cross-posted with [dclure.org](k: http://dclure.org/logs/neatline-drawing-svg-on-maps)]_
 
 **;tldr** - The new version of Neatline makes it possible to take SVG documents created in vector editing software like Adobe Illustrator and [Inkscape](http://inkscape.org/) and "drag" them directly onto the map, just like a regular polygon. This makes it possible to create really sophisticated illustrations that go far beyond the blocky, "sharp-edge" style that we usually associate with digital maps. Check out the screencast (and scroll down for screenshots):
 

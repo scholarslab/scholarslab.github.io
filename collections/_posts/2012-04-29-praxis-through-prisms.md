@@ -10,9 +10,10 @@ categories:
 tags:
 - praxis program
 - Prism
+crosspost:
+  - title: nowviskie.org
+    url: http://nowviskie.org
 ---
-
-_[Cross-posted from [nowviskie.org](http://nowviskie.org).]_
 
 This is just a quick post to share two bits of news about our [Praxis Program](http://praxis.scholarslab.org) at the [Scholars' Lab](http://scholarslab.org). The first is that I've written an op-ed on Praxis and our Fellows' practicum project for this year's [Digital Campus special issue](http://chronicle.com/section/The-Digital-Campus/491/) of the _Chronicle of Higher Education_.
 
