@@ -13,8 +13,8 @@ twitter: None
 website: None
 people-category:
 - student
-roles:
+roles:  
+- 3D Technologies Student Assistant, 2019  
 - Graduate Fellow, 2017-2018
-- 3D Technologies Student Assistant, 2019
 ---
-Julia Haines is a 2017-2018 Graduate DH Fellow.
+Julia Haines was a 2017-2018 Graduate DH Fellow and is a 2019 3D Technologies Student Assistant.

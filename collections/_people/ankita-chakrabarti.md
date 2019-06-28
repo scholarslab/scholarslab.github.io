@@ -13,8 +13,8 @@ twitter: None
 website: None
 people-category:
 - student
-roles:
+roles:  
+  - 3D Technologies Student Specialist, 2019  
   - Praxis Fellow, 2017-2018
-  - 3D Technologies Student Specialist, 2019
 ---
-Ankita Chakrabarti is a 2017-2018 Praxis Program Fellow.
+Ankita Chakrabarti was a 2017-2018 Praxis Program Fellow and a 2019- 3D Technologies Student Specialist.
