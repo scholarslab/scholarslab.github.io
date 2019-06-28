@@ -35,6 +35,7 @@
 		padding: 0 8.33%;
 		padding-top: 3rem; // 2 line heights
 	}
+	margin-bottom: 3em;
 }
 
 .person-main-content {
@@ -274,7 +275,7 @@
 		position: relative;
 		display: inline-block;
 		width: 100%;
-		margin: .5em 0;
+		margin: .5em .5em;
 		background-color: white;
 		border: 4px solid hsla(186,80%,70%,1);
 		a {
@@ -310,7 +311,7 @@
 		font-size: 1.25rem;
 		li {
 			width: calc(100% - 1em);
-			margin: 0 .5em;
+			margin: .5em .5em;
 		}
 	}
 	@media screen and (min-width: 1024px) {
