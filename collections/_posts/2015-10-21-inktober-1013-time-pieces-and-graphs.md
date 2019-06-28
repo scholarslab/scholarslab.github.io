@@ -9,9 +9,10 @@ categories:
 - Grad Student Research
 tags:
 - ClockWork
+crosspost:
+  - title: my post on our Praxis page
+   url: http://praxis.scholarslab.org/blog/2015/10/13/inktober-10-13-time-pieces-graphs/
 ---
-
-[Cross-posted from [my post on our Praxis page.](http://praxis.scholarslab.org/blog/2015/10/13/inktober-10-13-time-pieces-graphs/)]
 
 Hello all - three more images for Inktober.
 

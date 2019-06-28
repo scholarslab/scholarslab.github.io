@@ -8,9 +8,12 @@ categories:
 - Grad Student Research
 tags:
 - WLU Collab
+crosspost:
+  - title: WLUDH blog
+    url: http://digitalhumanities.wlu.edu/blog/2016/06/08/kelli-shermeyer-on-using-dh-to-explore-movement-and-meaning/
 ---
 
-_Enjoy this guest post by Kelli Shermeyer, Doctoral candidate in the UVA English department, in which she describes her work with Professor Holly Pickett's English 380 course at Washington & Lee. This work is supported by ASC grant expanding [collaboration between Washington & Lee and the Scholars' Lab](http://scholarslab.org/announcements/scholars-lab-grads-partner-with-washington-lee-university/). Cross-posted on the [Washington & Lee's DH blog](http://digitalhumanities.wlu.edu/blog/2016/06/08/kelli-shermeyer-on-using-dh-to-explore-movement-and-meaning/)._
+_Here Kelli describes her work with Professor Holly Pickett's English 380 course at Washington & Lee. This work is supported by ASC grant expanding [collaboration between Washington & Lee and the Scholars' Lab](http://scholarslab.org/announcements/scholars-lab-grads-partner-with-washington-lee-university/)._
 
 “Playwrights write plays for the stage, not the study,” or so Roland Broude reminds us. Yet in my field of English literature, it’s quite common to study a play primarily as a textual object rather than a performance whose final form, tone, and affect all rely on extra-textual features. We don’t typically account for changes in play’s text during its first rehearsals (often these changes are implemented after the play text has been sent to print!), refinements in timing and intonation that occur during a show’s run, or even accidental line drops, forgotten words, or ad libs contrived by actors in reaction to something that happened during a particular performance. The reality of theater is that plays are constantly rewritten in a multitude of ways and we don’t have a lot of good ways to talk about that beyond acknowledgement.
 

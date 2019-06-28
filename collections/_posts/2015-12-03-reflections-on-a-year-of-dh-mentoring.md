@@ -8,9 +8,10 @@ categories:
 - Digital Humanities
 - Grad Student Research
 - Research and Development
+crosspost:
+  - title: WLUDH blog
+    url: http://digitalhumanities.wlu.edu/blog/2015/12/03/reflections-on-a-year-of-dh-mentoring/
 ---
-
-_[[Cross-posted on the Digital Humanities at Washington and Lee University blog](http://digitalhumanities.wlu.edu/blog/2015/12/03/reflections-on-a-year-of-dh-mentoring/)]_
 
 This year I am working with [Eric Rochester](http://scholarslab.org/people/eric-rochester/) on a fellowship project that has me learning natural language processing (NLP), the application of computational methods to human languages. We're adapting these techniques to study quotation marks in the novels of Virginia Woolf (read more about the project [here](http://scholarslab.org/digital-humanities/virginia-woolf-natural-language-processing-and-the-quotation-mark/)). We actually started several months before this academic year began, and, as we close out another semester, I have been spending time thinking about just what has made it such an effective learning experience for me. I already had a technical background from my time in the Scholars' Lab at the beginning of the process, but I had no experience with Python or NLP. Now I feel most comfortable with the former of any other programming language and familiar enough with the latter to experiment with it in my own work.
 

@@ -14,6 +14,9 @@ tags:
 - map
 - spatial thinking
 - visualization
+crosspost:
+  - title: johnston9494.blogspot.com
+    url: http://johnston9494.blogspot.com/2013/03/539-size-matters.html
 ---
 
 In geography, size matters.  On maps, large always wins over small.  We're human.  We're wired to quickly spot patterns and make visual comparisons.  See [Tufte, Edward](http://www.edwardtufte.com/tufte/books_vdqi).
@@ -59,5 +62,3 @@ _"No other method for the display of statistical information is so powerful."_
 Scaled maps for geographic comparison using [How Big Really](http://howbigreally.com/) or [GeoTron 5000](http://www.geotron5000.com) inform spatial reasoning by answering the key question: compared to what?
 
 Size matters.
-
-_[Cross-posted with [johnston9494.blogspot.com](http://johnston9494.blogspot.com/2013/03/539-size-matters.html)]_

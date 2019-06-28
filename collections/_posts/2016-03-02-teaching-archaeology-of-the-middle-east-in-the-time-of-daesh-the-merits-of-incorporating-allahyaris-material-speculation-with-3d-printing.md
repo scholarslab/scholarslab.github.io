@@ -12,9 +12,10 @@ categories:
 tags:
 - Digital Pedagogy
 - Makerspace
+crosspost:
+  - title: my personal blog
+    url: http://jennifergrayburn.com/2016/03/02/teaching-archaeology-of-the-middle-east-in-the-time-of-daesh-the-merits-of-incorporating-allahyaris-material-speculation-with-3d-printing/
 ---
-
-_[Cross-posted on my personal blog.](http://jennifernicolegrayburn.com/2016/03/02/teaching-archaeology-of-the-middle-east-in-the-time-of-daesh-the-merits-of-incorporating-allahyaris-material-speculation-with-3d-printing/)_
 
 Anthropology Ph.D. Candidate [Sue Ann McCarty](http://anthropology.virginia.edu/gradstudents/profile/sm9eb) frequently visits the Makerspace to print archaeological artifacts. Over multiple conversations, we've discovered that we share a similar passion for 3D modeling and printing in the classroom. Sue Ann recently applied her research to a course she taught at James Madison University, and I asked her to share more about the benefits and challenges of integrating digitally-oriented assignments and methods in the classroom:
 

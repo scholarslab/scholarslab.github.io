@@ -9,10 +9,10 @@ categories:
 tags:
 - neatline
 - yeats
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/essays/more-fun-with-interactive-typesetting-a-coat-by-yeats/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/essays/more-fun-with-interactive-typesetting-a-coat-by-yeats/)]_
-
 
 
 ## [Click here to view the exhibit](http://neatline.dclure.org/neatline/show/a-coat).

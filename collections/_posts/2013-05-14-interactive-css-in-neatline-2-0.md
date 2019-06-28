@@ -9,9 +9,10 @@ categories:
 tags:
 - CSS
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/uncategorized/interactive-css-in-neatline-2-0/
 ---
-
-_[Cross-posted with [dclure.org](http://dclure.org/uncategorized/interactive-css-in-neatline-2-0/)]_
 
 Neatline 2.0 makes it possible to work with really large collections of records - as many as about [1,000,000 in a single exhibit](http://dclure.org/logs/neatline-one-million-records/). This level of scalability opens up the door to a whole range of projects that would have been impossible with the first version of Neatline, but it also introduces some really interesting content management challenges. If the map can _display_ millions of records, it also needs utilities to effectively _manage_ content at that scale.
 

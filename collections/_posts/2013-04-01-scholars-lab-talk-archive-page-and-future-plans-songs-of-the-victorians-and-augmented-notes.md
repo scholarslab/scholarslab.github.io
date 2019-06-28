@@ -7,10 +7,10 @@ title: 'Scholars'' Lab Talk, Archive Page, and Future Plans: Songs of the Victor
   and Augmented Notes'
 categories:
 - Grad Student Research
+crosspost:
+  - title: Anglophile in Academia
+    url: http://anglophileinacademia.blogspot.com/2013/04/archive-page-available-for-balfes-come.html
 ---
-
-[Cross-posted from [Anglophile in Academia](http://anglophileinacademia.blogspot.com/2013/04/archive-page-available-for-balfes-come.html)]
-
 
 
 
@@ -55,5 +55,3 @@ Over this coming week, I will try to add two new features: 1. When users click t
 
 
  Stay tuned for a blog post later this week with my slides from my talk!
-
-
