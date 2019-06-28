@@ -13,11 +13,11 @@ tags:
 - Scholarly Communication Institute
 ---
 
-_[Cross-posted from [my personal site](http://wp.me/p2CaGd-hm).]
+_Cross-posted from [my personal site](http://wp.me/p2CaGd-hm)._
 
-I’ve had the privilege of talking about graduate education reform and career preparation for humanities scholars at several universities this spring, including Stanford, NYU, and the University of Delaware. I’ve adapted the following from those presentations. The full dataset from the study that I discuss will be available later this summer, along with a more formal report. 
+_I’ve had the privilege of talking about graduate education reform and career preparation for humanities scholars at several universities this spring, including Stanford, NYU, and the University of Delaware. I’ve adapted the following from those presentations. The full dataset from the study that I discuss will be available later this summer, along with a more formal report._
 
-Already familiar with the background of this project? Jump straight to the survey results._
+_Already familiar with the background of this project? Jump straight to the survey results._
 
 ![HumanitiesUnbound_APR13.001](http://katinarogers.com/wp-content/uploads/2013/04/HumanitiesUnbound_APR13.001.jpg) [_Image source_](http://www.flickr.com/photos/9619972@N08/2232446869/)
 

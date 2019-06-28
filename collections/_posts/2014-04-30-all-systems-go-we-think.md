@@ -19,7 +19,7 @@ Yesterday at 1PM we launched Ivanhoe 1.0. We are excited about our progress and
 
 **My favorite moment:** playing Apples-to-Apples during a holiday get together. I feel like the experience bonded our team in a cool way and renewed my enthusiasm for integrating games at work. One can never predict the unexpected outcomes of play.
 
-**What I learned about myself: **[I can't do it all](http://www.scholarslab.org/grad-student-research/when-expectations-meet-reality/), but that's ok... especially when you have a team of amazing people ready to step in and help you out.
+**What I learned about myself:** [I can't do it all](http://www.scholarslab.org/grad-student-research/when-expectations-meet-reality/), but that's ok... especially when you have a team of amazing people ready to step in and help you out.
 
 **How I would integrate Ivanhoe into the classroom:** A theoretical concept in Media Studies (among other disciplines) is the idea of "[intertextuality](http://en.wikipedia.org/wiki/Intertextuality)" - or how we make meaning of one type of media (a text, movie, television show, etc) based on our already existing knowledge of another form of media. I created a game in Ivanhoe using this concept. I uploaded a film from YouTube and inserted the following directions:
 

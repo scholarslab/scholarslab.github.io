@@ -26,24 +26,26 @@ I was genuinely surprised and excited by the depth and breadth of the "monthlies
 
 **Consultations/Collaborations, Faculty and Students, Library Colleagues&mdash;indicating people/projects, not hours or frequency of repeat sessions**
 
+* **Nineteen** consultations and collaborations with **faculty from 12 departments/programs**: Women and Gender Studies, Carter G. Woodson Center for African-American and African Studies, History, English, Curry Education School, German, Kinesiology, Religious Studies, Biology, Sociology, Archeology/Art History, Slavic
 
 
- 	
-  * **Nineteen** consultations and collaborations with **faculty from 12 departments/programs**: Women and Gender Studies, Carter G. Woodson Center for African-American and African Studies, History, English, Curry Education School, German, Kinesiology, Religious Studies, Biology, Sociology, Archeology/Art History, Slavic
+* At least **twenty** students from **doctoral to undergraduate (in addition to Praxis)**, in such fields as Music and Anthropology: **individual consultations**, not including hands-on aid in Makerspace; from learning Python to project design to GIS
 
- 	
-  * At least **twenty** students from **doctoral to undergraduate (in addition to Praxis)**, in such fields as Music and Anthropology: **individual consultations**, not including hands-on aid in Makerspace; from learning Python to project design to GIS
-
-
-**Scholars’ Lab as Starting Point, Incubator, Training Center, and Curator of Projects in DH **
+**Scholars’ Lab as Starting Point, Incubator, Training Center, and Curator of Projects in DH**
 
 With a wealth of centers and nodes of digital expertise and activity at UVA, Scholars’ Lab has taken initiative to improve collaboration and communication, launching [http://dh.virginia.edu](http://dh.virginia.edu), **a website**, in May (in development).  Many faculty and student projects may be born and in due course put to rest/sustainable pasture through Scholars’ Lab, and we guide people to find the collaborators and resources they need in between.  We are a consultation hub and work closely with IATH, SHANTI, Research Data Services, Arts and Sciences and Provost’s Office administration, Library leadership, and ITS, among others.
 
-**Some of the Continuing Projects: **Neatline; Geoblacklight; Makerspace; Take Back the Archive (American Studies); Collective Biographies of Women (with IATH); For Better for Verse; Participatory Media; Salem Witch Trials; text analysis (18th-c. English); projects in NLP, GIS, 3D printing, augmented reality, data mining from social media, sonification
+**Some of the Continuing Projects:**
 
-**Speakers and Events Series.**  In Spring, 2016, we held eight events open to the public and the Library, three of which focused on Praxis fellows (current or alum) or the Visiting Fellow presenting on their work.  In spring, 2016, we began planning a DH@UVA fall conference and a lecture series for 2016-2017 on diversity and access issues in DH.
+Neatline; Geoblacklight; Makerspace; Take Back the Archive (American Studies); Collective Biographies of Women (with IATH); For Better for Verse; Participatory Media; Salem Witch Trials; text analysis (18th-c. English); projects in NLP, GIS, 3D printing, augmented reality, data mining from social media, sonification
 
-**Teaching Courses and Support of Course Projects** Members of the staff collaborate with the Teaching and Learning group in the Library and the subject liaisons, particularly Chris Ruotolo, to offer workshops on Neatline and GIS, or to offer short and for-credit courses.  One staff member taught an undergraduate course in American Studies.  SLab staff taught workshops for undergraduate and graduate courses in English, Architecture, German, and other fields.  Staff have collaborated on a course-based project on the archeology of Flowerdew Hundred.
+**Speakers and Events Series.**
+
+In Spring, 2016, we held eight events open to the public and the Library, three of which focused on Praxis fellows (current or alum) or the Visiting Fellow presenting on their work.  In spring, 2016, we began planning a DH@UVA fall conference and a lecture series for 2016-2017 on diversity and access issues in DH.
+
+**Teaching Courses and Support of Course Projects**
+
+Members of the staff collaborate with the Teaching and Learning group in the Library and the subject liaisons, particularly Chris Ruotolo, to offer workshops on Neatline and GIS, or to offer short and for-credit courses.  One staff member taught an undergraduate course in American Studies.  SLab staff taught workshops for undergraduate and graduate courses in English, Architecture, German, and other fields.  Staff have collaborated on a course-based project on the archeology of Flowerdew Hundred.
 
 **Research, Presentations, Publications**
 

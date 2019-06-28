@@ -16,15 +16,6 @@ We have some big news! The Scholars' Lab is thrilled to welcome Alison Booth as 
 
 Professor Alison Booth, a Department of English faculty member and a preeminent scholar of digital humanities, has been appointed academic director of the University of Virginia’s Scholars’ Lab, Arts & Sciences Dean Ian Baucom and Dean of Libraries Martha Sites announced Monday.
 
-<figure>
-  ![ABooth](http://static.scholarslab.org/wp-content/uploads/2016/02/ABooth-300x206.jpg)
-  <figcaption>
- Professor Alison Booth, the new academic director of the Scholars’ Lab
-</figcaption>
-
-</figure>
-
-
 
 
 Located in Alderman Library, the Scholars’ Lab provides students and researchers from across disciplines opportunities to partner with expert staff as they explore the digital humanities, geospatial information, and other scholarly discoveries at the intersection of digital, textual and physical worlds.
@@ -43,8 +34,3 @@ Booth’s books include _Greatness Engendered: George Eliot and Virginia Woolf_ 
 Booth will begin her term as director of the Scholars’ Lab immediately and will balance this appointment with her existing responsibilities in the College.
 
 “This is a wonderful chance to refresh UVA’s pioneering role in a fast-paced field, said Booth. “The Scholars’ Lab in the Library is the right place to draw in students, fellows, and faculty for interdisciplinary collaborations across Grounds. I look forward to working with the Institute for Advanced Technology in the Humanities (IATH), Sciences, Humanities & Arts Network of Technological Initiatives (SHANTI), Advanced Research Computing Service (ARCS), and all the units and leaders who have a stake in advanced computing for research and learning.”
-
-
-
-
-

@@ -49,4 +49,4 @@ on [Sketchfab](https://sketchfab.com?utm_source=oembed&utm_medium=embed&utm_camp
 
 I also wrote a short program to help process the movies in to Lightwave (there are more instructions on this gist as well, so check it out):
 
-[gist id=0e36c812ca64291797c1 file=converter.rb]
+<script src="https://gist.github.com/waynegraham/0e36c812ca64291797c1.js?file=converter.rb"></script>

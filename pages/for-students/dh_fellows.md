@@ -4,19 +4,21 @@ title: Digital Humanities Fellows Program
 permalink: /digital-humanities-fellows/
 nav: false
 ---
-We are now accepting applications for the 2019-2020 DH Fellows Cohort. More information in our [CFP announcement or below](http://scholarslab.org/uncategorized/call-for-digital-humanities-fellows-applications-2019-2020/).
+<!-- We are now accepting applications for the 2019-2020 DH Fellows Cohort. More information in our [CFP announcement or below](http://scholarslab.org/uncategorized/call-for-digital-humanities-fellows-applications-2019-2020/).
 
-The application deadline for the 2019-2020 cohort is **November 30, 2018**.
+The application deadline for the 2019-2020 cohort is **November 30, 2018**. -->
 
-The Digital Humanities Fellowship supports advanced doctoral students doing innovative work in the digital humanities at the University of Virginia. The Scholars’ Lab offers Grad Fellows advice and assistance with the creation and analysis of digital content, as well as consultation on intellectual property issues and best practices in digital scholarship and DH software development.
+**Applications are currently closed and will reopen in fall of 2019 for the 2020-2021 academic year.**
+
+The Digital Humanities Fellowship supports advanced doctoral students doing innovative work in the digital humanities at the University of Virginia. The Scholars’ Lab offers Grad Fellows advice and assistance with the creation and analysis of digital content, as well as consultation on intellectual property issues and best practices in digital scholarship and DH software development. The highly competitive Graduate Fellowship in Digital Humanities is designed to advance the humanities and provide emerging digital scholars with an opportunity for growth.
 
 Fellows join our vibrant community, have a voice in intellectual programming for the Scholars’ Lab, make use of our dedicated grad office, and participate in one formal colloquium at the Library per fellowship year. As such, students are expected to be in residence on Grounds for the duration of the fellowship.
 
-Supported by the Jeffrey C. Walker Library Fund for Technology in the Humanities, the Matthew & Nancy Walker Library Fund, and a challenge grant from the National Endowment for the Humanities, the highly competitive Graduate Fellowship in Digital Humanities is designed to advance the humanities and provide emerging digital scholars with an opportunity for growth.
+The award provides living support in the amount of $20,000 for the academic year, as well as full remission of tuition and University fees and the student health insurance premium for single-person coverage. Living support includes wages for a half-time graduate teaching assistantship in each semester.  A graduate instructorship, particularly one with a digital humanities inflection, may be substituted for the GTA appointment based on availability within the fellow’s department. Applicants interested in such an option should indicate as such in their application and discuss the possibility in advance with [Brandon Walsh](mailto:bmw9t@virginia.edu). The call for applicants is issued annually in August.
 
-The award provides living support in the amount of $20,000 for the academic year, as well as full remission of tuition and University fees and the student health insurance premium for single-person coverage. Living support includes wages for a half-time graduate teaching assistantship in each semester.  A graduate instructorship, particularly one with a digital humanities inflection, may be substituted for the GTA appointment based on availability within the fellow’s department. Applicants interested in such an option should indicate as such in their application and discuss the possibility in advance with [Brandon Walsh](mailto:bmw9t@virginia.edu).
+**History**
 
-See past fellowship winners on our [People](/people) page. The call for applicants is issued annually in August.
+Since its beginnings in 2007, the Graduate Fellowship in Digital Humanities has supported a number of students. Past fellowship winners can be found on our [People](/people) page. In the past, the program itself has been supported by a challenge grant from the National Endowment for the Humanities. The fellowship is currently sustained by the Jeffrey C. Walker Library Fund for Technology in the Humanities, and the Matthew & Nancy Walker Library Fund.
 
 **Eligibility, Conditions, and Requirements**
 

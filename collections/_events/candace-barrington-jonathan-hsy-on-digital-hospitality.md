@@ -13,10 +13,10 @@ start_time: '14:00:00'
 title: Candace Barrington & Jonathan Hsy on Digital Hospitality
 ---
 
-The **Medieval Studies Lecture Series** and the **UVA Interdisciplinary Graduate Medieval Colloquium **present:
+The **Medieval Studies Lecture Series** and the **UVA Interdisciplinary Graduate Medieval Colloquium** present:
 
 **Candace Barrington & Jonathan Hsy**
-**_Digital Hospitality_**
+**Digital Hospitality**
 
 Barrington and Hsy’s joint presentation will outline some basic principles of archive and database creation that have been integral to the way their [Global Chaucers](https://globalchaucers.wordpress.com/) project (with its international collective of scholars, translators, and enthusiasts) has developed and the shape it has taken.  This public event is co-sponsored by UVA’s Program in Medieval Studies, the Department of English, the Scholars’ Lab, and the Classics Department.
 

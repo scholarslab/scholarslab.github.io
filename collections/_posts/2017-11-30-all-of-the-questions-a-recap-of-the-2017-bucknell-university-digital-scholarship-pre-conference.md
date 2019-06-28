@@ -18,16 +18,16 @@ How do we engage students in digital scholarship and support instructors as they
 
 Participants:
 
-• Lee Skallerup Bessette, University of Mary Washington
-• Joshua Finnell, Colgate University
-• Sarah Hartman-Caverly, Delaware County Community College
-• Aaron Mauro, Penn State, Erie
-• Megan Mitchell, Oberlin College
-• Courtney Paddick, Bucknell University
-• Carrie Pirmann, Bucknell University
-• David Pettegrew, Messiah College
-• Kelli Shermeyer, University of Virginia
-• Emily Sherwood, Bucknell University
+* Lee Skallerup Bessette, University of Mary Washington
+* Joshua Finnell, Colgate University
+* Sarah Hartman-Caverly, Delaware County Community College
+* Aaron Mauro, Penn State, Erie
+* Megan Mitchell, Oberlin College
+* Courtney Paddick, Bucknell University
+* Carrie Pirmann, Bucknell University
+* David Pettegrew, Messiah College
+* Kelli Shermeyer, University of Virginia
+* Emily Sherwood, Bucknell University
 
 **What actually happened…**
 After a fortifying breakfast of coffee and donuts, our pre-conference group proceeded to make a list of all of the questions and concerns we were stewing over in our work as scholars, teachers, librarians, and instructional technology specialists. This white board was the result:

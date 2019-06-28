@@ -20,7 +20,7 @@ The USGS has up-to-the-minute maps for earthquakes all over the world.  For the
 The USGS also has a crowd-sourced program - called Do You Feel It? - where users can gauge the quake at their location and report back to help build the map below.  More on that program [here](http://earthquake.usgs.gov/earthquakes/dyfi/).
 
 <figure>
-  [![City map](http://earthquake.usgs.gov/earthquakes/dyfi/events/se/082311a/us/se082311a_ciim.jpg)](http://earthquake.usgs.gov/earthquakes/dyfi/events/se/082311a/us/index.html)
+  [![City map](/assets/post-media/ciim.jpg)](https://web.archive.org/web/20150912145620/http://earthquake.usgs.gov/earthquakes/dyfi/events/se/082311a/us/se082311a_ciim.jpg)
   <figcaption>
  Crowd-sourced intensity map - USGS
 </figcaption>

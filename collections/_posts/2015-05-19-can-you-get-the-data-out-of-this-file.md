@@ -39,10 +39,10 @@ Installing PostgreSQL is the first step. There are many ways to do it.
 
 
 
-	
+
   * From PostgreSQL themselves: [http://www.postgresql.org/download/](http://www.postgresql.org/download/)
 
-	
+
   * Handy tutorial for different OS's: [https://www.codefellows.org/blog/three-battle-tested-ways-to-install-postgresql](https://www.codefellows.org/blog/three-battle-tested-ways-to-install-postgresql)
 
 
@@ -55,13 +55,13 @@ Since I'm using a Mac and had some issues, I'll detail that installation below.
 
 
 
-	
+
   * The easiest: [http://postgresapp.com/](http://postgresapp.com/)
 
-	
+
   * The next easiest: Use homebrew,`brew install postgresql`
 
-	
+
   * The hardest: Install from source, but that's not really needed. The PostgreSQL site has a list of install options, including the two above: [http://www.postgresql.org/download/macosx/](http://www.postgresql.org/download/macosx/)
 
 
@@ -72,16 +72,16 @@ I went the homebrew way because of a required extension that doesn't get install
 
 
 
-    
-    <code class="hljs">brew install postgres postgis
-    </code>
+
+<code class="hljs">brew install postgres postgis
+</code>
 
 
 Follow the instructions for starting and stoping the PostgreSQL server, with the addition of making life easier by installing and using `lunchy`.
 
-    
-    <code class="hljs">brew install lunchy
-    </code>
+
+<code class="hljs">brew install lunchy
+</code>
 
 
 Now you can start and stop PostgreSQL with `lunchy start postgres` and `lunchy stop postgres`
@@ -98,13 +98,13 @@ Download and unzip that file.
 
 Enter the directory created by unzipping, and do the following steps:
 
-    
-    <code class="hljs">mkdir build
-    cd build
-    cmake -DPOSTGRESQL_INCLUDE_DIR='/usr/local/Cellar/postgresql/9.4.1/include/server' -DBoost_DIR='/usr/local/Cellar/boost/1.57.0' ..
-    make
-    sudo make install
-    </code>
+
+<code class="hljs">mkdir build
+cd build
+cmake -DPOSTGRESQL_INCLUDE_DIR='/usr/local/Cellar/postgresql/9.4.1/include/server' -DBoost_DIR='/usr/local/Cellar/boost/1.57.0' ..
+make
+sudo make install
+</code>
 
 
 
@@ -116,9 +116,9 @@ After installing and starting PostgreSQL, you'll need to create/install/enable t
 
 Log into the PostgreSQL server:
 
-    
-    <code class="hljs">psql postgres
-    </code>
+
+<code class="hljs">psql postgres
+</code>
 
 
 View which extensions are already installed by typing `\dx` on the PostgreSQL command prompt.
@@ -129,22 +129,22 @@ You'll need to have the following extensions installed:
 
 
 
-	
+
   * plpgsql
 
-	
+
   * hstore
 
-	
+
   * intarray
 
-	
+
   * pgcrypto
 
-	
+
   * postgis
 
-	
+
   * pgrouting
 
 
@@ -156,26 +156,26 @@ Installing the extensions this way lets you see if there are any problems before
 
 First set up a role/user and a database.
 
-    
-    <code class="hljs">createdb dbname
-    createuser username
-    </code>
+
+<code class="hljs">createdb dbname
+createuser username
+</code>
 
 
 I needed to change the name of the user in the SQL file to match the database/username in the PostgreSQL database, or I could have created a database/user with the same name as in the SQL file. But to change all of the names I did a one line perl call:
 
-    
-    <code class="hljs">perl -pi bak -e 's/alec/test1/g' 20130930_dbdump_Alec.sql
-    </code>
+
+<code class="hljs">perl -pi bak -e 's/alec/test1/g' 20130930_dbdump_Alec.sql
+</code>
 
 
 This will change all instances of 'alec' to 'test1' in the file, and create a backup of the file.
 
 Now you can import the file by running:
 
-    
-    <code class="hljs">psql database < filename
-    </code>
+
+<code class="hljs">psql database < filename
+</code>
 
 
 
@@ -192,7 +192,7 @@ QGIS is a free alternative to ArcMaps. Install from their website. Installation 
 
 
 
-	
+
   * A tutorial: [http://gis-techniques.blogspot.com/2012/04/how-to-connect-spatial-databasepostgis.html](http://gis-techniques.blogspot.com/2012/04/how-to-connect-spatial-databasepostgis.html)
 
 
@@ -204,11 +204,12 @@ To connect to the PostgreSQL database, you'll actually add the database as a lay
 
 Under the Connections section, click on the New button.
 
-    
-    <code class="hljs">Name = anything you want
-    Host = localhost
-    User = the same as you used above in the createuser command
-    </code>
+
+<code class="hljs">
+Name = anything you want <br>
+Host = localhost<br>
+User = the same as you used above in the createuser command<br>
+</code>
 
 
 [![Screen Shot 2015-05-19 at 12.56.21 PM](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.21-PM-217x300.png)](http://static.scholarslab.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-12.56.21-PM.png)

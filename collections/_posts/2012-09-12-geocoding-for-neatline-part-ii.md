@@ -116,18 +116,17 @@ This code tells Mechanize to click on the link with the text of Items with a [re
 
 Now the program is at the new item form, and it's time to set data on the form from the CSV file. This is slightly trickier because of the way in which Omeka names its form fields. There are two areas we want to populate, the **Title** field and the elements to actually create the point for NeatlineFeatures. If you look at the source code of the **Item Add** page, you'll notice that the Title field actually has a name of '`Elements[50][0][text][/text]`,' which looks scary, but the program knows what to do with it. I also know that the **Coverage** field in Omeka is '`Elements[38][0]`' with a field name after it (`[text][/text]`, `[wkt]`, `[zoom]`, `[mapon]`, ...). We can populate this information with data from our spreadsheet now:
 
-[gist id=3307210 file=add_item_snippet.rb]
+<script src="https://gist.github.com/waynegraham/3307210.js?file=add_item_snippet.rb" file="add_item_snippet.rb"></script>
 
 This bit actually fills out the form, turning the map component on, setting a zoom level of `10` for the map, then setting a center point to focus the map. If you've been following along, your script should now look like this:
 
-[gist id=3307210 file=populate.rb]
+<script src="https://gist.github.com/waynegraham/3307210.js?file=add_item_snippet.rb" file="populate.rb"></script>
 
 After running this script, when you log on to Omeka, you should see newly created items with their locations populated and a pretty map that you can use in Neatline. **Note:** these items were not set to be 'public', but you can easily add this to the script, and can be your homework. 
 
 Assuming you've read the [documentation on creating Neatline exhibits](http://neatline.org/plugins/neatline/), you can now simply add these items and have them placed spatially by clicking on the **Map** icon in the Neatline editor.
 
 [![](http://static.scholarslab.org/wp-content/uploads/2012/09/neatline_features-300x199.png)](http://static.scholarslab.org/wp-content/uploads/2012/09/neatline_features.png)
-
 
 
 ## Summary

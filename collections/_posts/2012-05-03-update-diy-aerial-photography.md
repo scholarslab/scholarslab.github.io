@@ -35,7 +35,7 @@ The mistakenly-created video is interesting in places but is not good for those 
 
 
 
-[iframe width="600" height="450" src="http://www.youtube.com/embed/KYilJ3kDLuI"]
+<iframe width="600" height="450" src="http://www.youtube.com/embed/KYilJ3kDLuI"></iframe>
 
 
 
@@ -136,7 +136,4 @@ Our next big balloon event will be teaching some DIY aerial photography at the [
 
 Oh and by the way, someone asked how we get that large balloon though rather small doorways.
 
-
-
-
-[iframe width="600" height="450" src="http://player.vimeo.com/video/41862950" ]
+<iframe width="600" height="450" src="http://player.vimeo.com/video/41862950"></iframe>

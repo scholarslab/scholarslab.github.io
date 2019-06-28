@@ -323,3 +323,6 @@ border-color: #75e3f0;
 border-style: solid;
 margin-bottom: 15px;
 }
+figcaption p:before{
+content: "Figure caption: ";
+}

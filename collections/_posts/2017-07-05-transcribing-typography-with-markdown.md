@@ -28,26 +28,32 @@ Translating the physical and intellectual features of a text into a system of tr
 
 Adapting the ethos of the 1999 essay by David L. Vander Meulen and G. Thomas Tansell, "A System of Manuscript Transcription," which broke new ground by adhering as closely to common sense as possible rather than breaking new ground with a byzantine new system, we can write to foreground the historical text and our judgments about it.[^2] Their approach admits that a transcription re-forms a text, requiring decisions and highlighting where those decisions are made. Consider a hypothetical example in Markdown using something like the Vander Meulen-Tanselle approach:
 
-    
-    <code>The [?funny *conceled*] cat ran after the [*next two words
-    inserted*] big brown dog.</code>
+
+```
+The [?funny *conceled*] cat ran after the [*next two words
+inserted*] big brown dog.
+```
 
 
 Which renders as: "The [?funny _canceled_] cat ran after the [_next two words inserted_] big brown dog."
 
 The convention of using square brackets to mark later insertions is so well established that it requires little explanation to understand that these are editorial comments and that the text that the editor believes is correct is outside of the brackets.[^3] Enclosing italic text in asterisks is a Markdown convention, but is relatively familiar to most readers of digital texts. In contrast, one way to mark the same text in TEI would be:
 
-    
-    <code> <p>The <del> <unclear> funny </unclear> </del> cat ran after the
-     <add> big brown </add> dog </p></code>
+
+```
+<p>The <del> <unclear> funny </unclear> </del> cat ran after the
+<add> big brown </add> dog </p>
+```
 
 
 But those more familiar with TEI might be tempted to write:
 
-    
-    <code>  <p>The <del rend="strikethrough" cert="medium"> <unclear
-      reason="smudged"> funny </unclear> </del> cat ran after the <add
-      place="above"> big brown </add> dog </p></code>
+
+```
+<p>The <del rend="strikethrough" cert="medium"> <unclear
+reason="smudged"> funny </unclear> </del> cat ran after the <add
+place="above"> big brown </add> dog </p>
+```
 
 
 These tags instantiate collaboratively delineated concepts intended to be broadly applicable to a wide range of texts, which aspire to encode the document as it is. Various style sheets can cause these semantic meanings to render as floating notes, in brackets, as plain text or in nearly any other way imagined by the designer of the particular style sheet. However, there is no default rendering and no rule about which details to record. TEI users are tempted to imagine that they merely record what they see rather than applying their judgment. Does knowing that the certainty of the word "funny" is medium, that it was canceled with a strike, and that "big brown" was above the line add to the meaning of this text? I think, typically, it would not. But, if in a project the method of cancellation mattered, it could easily be included in the editorial comments in the Vander Meulen-Tanselle system in plain English. Indeed, if the method of cancellation mattered, writing it in English would emphasize it rather than hide it in the appearance of the display. Another difference between a TEI-like approach and an approach like Vander Meulen and Tanselle's is whether or not the system is expanded using the resources of plain English or by using the coding expertise of a specific community, and, by implication, whether either system encourages developing judgment appropriate to the task at hand and demonstrating where that judgment is applied---or if it encourages outsourcing judgment to experts unfamiliar with your particular problem and hiding that application of judgment under the aegis of an official standard. In one case, capable readers of English can understand the markup, while in the later case, you would need access to the TEI standards and discussions to determine how to express and understand a feature correctly according to people probably not involved with your particular project. The plain English system can be read by competent and informed readers; the TEI system requires specialist expertise.
@@ -64,39 +70,45 @@ We aim to capture features like white space and line breaks that are not current
 
 Within Butler's _Characters_, each character has its own distinct heading, so they are important to record because they structure the text and name the theme for each part. On the printed page, these headings have a different appearance from the main text: They are centered, in a larger face, use capitals and small caps, and have rules above and below them. One approach might be to transcribe thus:
 
-    
-    <code>{Double Rule}
-    
-    A {Small Caps}
-    
-    HUFFING COURTIER</code>
+
+```
+{Double Rule}
+
+A {Small Caps}
+
+HUFFING COURTIER
+```
 
 
 Or, with kerning between the letters
 
-    
-    <code>{Double Rule}
-    
-       A
-    
-    S M A L L  P O E T</code>
+
+```
+{Double Rule}
+
+   A
+
+S M A L L  P O E T
+```
 
 
 Both of these approaches recreate the layout of the text in the document and preserve the capitalization. Another approach could ignore the layout and kerning:
 
-    
-    <code>[*two rules*]
-    
-    PREFACE.</code>
+```
+[*two rules*]
 
+PREFACE.
+```
 
 Or, following the Markdown convention for signaling a heading, we could write:
 
-    
-    <code>[*two rules*]
-    
+
+```
+[*two rules*]
+
     # AN
-    # ALDERMAN</code>
+    # ALDERMAN
+```
 
 
 All four approaches, although they may seem somewhat different, are shaped by two consistent categories of decision making: first, the selection of the elements worthy of notice and, second, the system of recording those elements that have been noted. In each example, the heading is marked as different: in two cases by giving the typography and in two other cases by interpreting the typography as bearing semantically equivalent meaning to a heading. Going back to the aim of the project, recreating the reading practices of the past, since the typography of headings is fairly consistent, it seems right to merely apply semantic judgment to the text and save the reader of the transcription time---as long as we're confident of our interpretation. Sure, they could figure out that centered small caps words are headlines, but instead we could tell them every headline is like that in an introduction and just note any variation. All four transcriptions, however, regard the presence of the rules as significant. The rule seems like an element to notice since a reader of the text would come to expect the pattern and the rules interrupt the purely alphabetic text before and after. The matter of how to transcribe is more about convenience for converting the file and will be treated later.
@@ -107,30 +119,38 @@ All four approaches, although they may seem somewhat different, are shaped by tw
 
 Each section also begins with what is called a "drop cap," a capital letter that is bigger than the adjacent letters, and which drops down several lines. We have a few examples of how to record this as well (unrelated portions of the transcription are omitted):
 
-    
-    <code> [*two line initial*]HAS taken his Degree in Cheating [...]
-     [*two line initial*] the higheſt of his Faculty [...]</code>
+
+```
+[*two line initial*]HAS taken his Degree in Cheating [...]
+[*two line initial*] the higheſt of his Faculty [...]
+```
 
 
 Another:
 
-    
-    <code> [I]s one, that would fain make [...]
-     [ ]which Nature never meant him; [...]</code>
+
+```
+[I]s one, that would fain make [...]
+[ ]which Nature never meant him; [...]
+```
 
 
 Another:
 
-    
-    <code> [Two Line initial*]Is a Cypher, that has no Value himsself, but
-                        from the Place he stands in.  All his Hap-</code>
+
+```
+[Two Line initial*]Is a Cypher, that has no Value himsself, but
+                        from the Place he stands in.  All his Hap-
+```
 
 
 Another:
 
-    
-    <code> T^2^HE writing of Characters [...]
-     much in Faſhion [...]</code>
+
+```
+T^2^HE writing of Characters [...]
+much in Faſhion [...]
+```
 
 
 The first three mark the lines that a the drop cap initial spreads to. This spread may be significant as drop caps in many French books of this same time period go upwards rather than downwards, extending above the line. Furthermore, the word on the next line might be confused as relating to the drop capital; resolving this confusion could be part of the reading practice. Note also, that the first and third example preserve the space between the capital and the text of the second line, the second does not (but that seems fine because the extension of the capital is already blank). The last transcription, which is based on the suggestion of Fredson Bowers in his _Principles_, uses a superscript in Markdown to signal the initial, but does not record whether or not it goes up or down.[^4] This choice may be fine if we are restricted to English books of a certain type where these always seem to go down, but might be a problem if developing a transcription standard that covers all types of books. Since in our case the practice is uniform across the text and merely serves to signal the reader that they have arrived at the beginning of a new section, Bower's approach seems to best preserve the readability of the text. It would render "T2HE writing of Characters." While the superscript 2 is somewhat confusing, a note could explain and the superscript follows a convention developed from early twentieth-century work on incunabula that has been used in certain serious scholarship for over a century.
@@ -141,14 +161,16 @@ The first three mark the lines that a the drop cap initial spreads to. This spre
 
 Eighteenth-century printers used both the long s---i.e. 'ſ'---and the short s---i.e. 's.' Typically, the long s is used in the middle of a word and the short one at the beginnings and endings, but the practice is hardly consistent. It is not until 1785 that the short s really dominates mainstream printing as it does now. For this reason, most transcriptions note the presence of a long s in some way. We have three examples in our transcriptions: as "ſ," as "ss" or as "s*." Each transcriber seems to want to include the letter as distinct from 's,' which seems like the right choice since long s at the very least could potentially be confused with an 'f' by current, or past, readers. However, each mode of transcription emphasizes the long s in different ways. On the one hand, one marks it with an asterisk, suggesting that something unusual is going on; the asterisk is the convention for notae and footnotes, so this could work to mark and make visible all the places that this unusual letter occurs. Consider this passage,
 
-    
-    <code>    He has found out a Way to s*ave the Expence
-     of much Wit and Sens*e: For he will make
-     les*s than s*ome have prodigally laid out upon
-     five or s*ix Words s*erve forty or fifty Lines.
-     This is a thrifty Invention, and very eas*y; and,
-     if it were commonly known, would much in-
-     creas*e the Trade of Wit, and maintain a Mul-</code>
+
+```
+    He has found out a Way to s*ave the Expence
+of much Wit and Sens*e: For he will make
+les*s than s*ome have prodigally laid out upon
+five or s*ix Words s*erve forty or fifty Lines.
+This is a thrifty Invention, and very eas*y; and,
+if it were commonly known, would much in-
+creas*e the Trade of Wit, and maintain a Mul-
+```
 
 
 It makes it extremely clear that the long s occurs throughout in the beginning and middle of words, pointing out that it deviates from the convention I proposed above. On the other hand, using "ss" blends in and seems to be another spelling of a word. Since spelling was mostly normalized in this time period, a deliberate misspelling can signal special typography, but we can never be totally certain that that something might not be an error or a word we do not know. Consider "paſs" and "pasſ," which would both be transcribed in this system as "passs," which seems to conflate the common situation with the odder one. Using the [Unicode character, 'ſ,'](https://codepoints.net/U+017F) seems to both mark the letter as exceptional and to leave a readable text. Those familiar with the conventions of eighteenth-century printing will be not be surprised by it, but for those who are not familiar with the conventions, it would recommend itself for further study.
@@ -159,34 +181,40 @@ It makes it extremely clear that the long s occurs throughout in the beginning a
 
 Brief, conventional quotations provide no special problems since the quote mark in ASCII and Unicode serves well enough, but two kinds of typographic style associated with references require special attention: footnotes in smaller type at the foot of the page and running quotes. An example that combines both (slightly altered so that only those two conventions are apparent),
 
-    
-    <code>if it were commonly known, would much in-
-    crease the Trade of Wit, and maintain a Mul-
-    
-    We read that Virgil used to make, &c ] This alludes to a Passage
-    in the Life of Virgil ascribed to Donatus. " Cum Georgica scrie-
-    " traditur quotidio meditatos mane plurianos versus dic_tare so-
-    " litus, [---Illegible need to check original copy (sarah)]"</code>
+
+```
+if it were commonly known, would much in-
+crease the Trade of Wit, and maintain a Mul-
+
+We read that Virgil used to make, &c ] This alludes to a Passage
+in the Life of Virgil ascribed to Donatus. " Cum Georgica scrie-
+" traditur quotidio meditatos mane plurianos versus dic_tare so-
+" litus, [---Illegible need to check original copy (sarah)]"
+```
 
 
 While the footnote text in the original is smaller, this transcription does not document that fact, reasonably since the bracket and the verbal text itself alerts us that we are in a footnote. Additionally, skipping one line and continuing on the same page preserves the ability to make line references to both the main text and the footnotes in the same system. Yet, in comparison to our treatment of headings, it seems like we could provide some signal to the reader that the text before them has special semantic value. Following the convention of square brackets, we can adopt the Markdown notation, "`[^1]`" and "`[^1]:`," to signal, respectively, the location in the source text that is marked and the lines of the text that comment on it. The problem we run into using this notation with this particular footnote is that it comments not on the page it occurs on, but on the facing page. If several footnotes occur, the number can be incremented, but---as far as I know---footnotes commenting on a text in another file are uncommon enough as to not have been dealt with. It seems that such a linkage needs two pieces of information: a linking symbol (i.e. the footnote mark or passage footnoted) and the file that contains the proper footnote. Markdown provides such a mechanism in the "reference link"; i.e. our source passage could be `[words][^1]` and the note could read `[^1]: otherfile.md`. The problem is that to Markdown, this reference notation means the word "words" becomes a hyperlink to file "otherfile.md," which isn't quite the right linkage. A simple extension of this scheme would be to include a statement of the location at both ends of the footnote viz., for page 22,
 
-    
-    <code>[...]
-    The words were found in the notes. \*[^1]
-    
-    [^1]: [*the footnote occurs on page 23*]</code>
+
+```
+[...]
+The words were found in the notes. \*[^1]
+
+[^1]: [*the footnote occurs on page 23*]
+```
 
 
 Page 23 has an additional footnote but still refers back:
 
-    
-    <code>[...]
-    Someunrelated text with its own note, \*[^1]
-    that doesn't relate to the wrong note.
-    
-    [^1]: This is a note for this page, so no comment.
-    [^2]: [*referring to the note on page 22*] I here note.</code>
+
+```
+[...]
+Someunrelated text with its own note, \*[^1]
+that doesn't relate to the wrong note.
+
+[^1]: This is a note for this page, so no comment.
+[^2]: [*referring to the note on page 22*] I here note.
+```
 
 
 Notice a few aspects of this approach. Since the numbering for footnotes in the brackets is not part of the transcription, but merely an aid for the abstract structure, it only matters that the numbers are consistent within one document. Footnote "1" on one page could very well be footnote "2" on another page while preserving the enumeration or symbols provided by the printer. In this imaginary example, we prefixed the asterisk with a backslash so that any computerized parser would see that it is a symbol not a special character indicating an italic font.
@@ -203,8 +231,10 @@ Following the same technique, small capitals often signal different sorts of inf
 
 Lastly, we may come across a broken or damaged letter. One example transcribes a _t_ that is damaged as `<t>`, which follows the old tradition of using angle-brackets to indicate portions of the text that have been mutilated but which the editor can recover. However, given the inconsistent use of different kinds of brackets in different kinds of editions, this might be confusing. Another option is to use editorial notes, i.e. `t [*previous letter shifted*]` which interrupts the text to announce the damage. A further option would be to note the _t_ plainly and include a note at the bottom of the page, such as this one:
 
-    
-    <code>[*letter t on line 8 shifted*]</code>
+
+```
+[*letter t on line 8 shifted*]
+```
 
 
 This last approach emphasizes that the situation with the letter _t_ is totally comprehensible---it is just shifting type---and would not interrupt the reading experience. It seems that the choice between these last two approaches has to do with how prominent the mistake seems to be.
@@ -229,29 +259,30 @@ Since each line is justified separately, the unit of analysis must be the line. 
 
 This post has discussed a wide range of choices in transcribing a text to preserve the reading experience from a printed book that can be summarized simply: use Markdown and Unicode and make judgments clear in square brackets when alterations are needed to use Unicode and Markdown. Yet, it can be useful to have an example---however fabricated---that brings these elements together,
 
-    
-    <code>[*two rules*]
-    
-    #AN\
-    EXAMPLE PAGE
-    
-    T^2^he *text* on this page isn't in any book, but <span
-    style="font-variant:small-caps;">Demonstrates</span> some
-    techniques you might use to tranſ-\
-    scribe texts as you see them.  Note that each line breaks with a\
-    backſlash before the newline. [^1]  This signals the difference
-    between\
-    a newline needed to fit the text on one screen and one which rep-\
-    resents an actual line break.  "We find that the quotes run\
-    " along the side for extended quotes.  Just as they do in\
-    " eighteenth century texts." And , that punctuation spaces can be\
-    coded as such .  What a text! [*last word poorly inked, could be "hex"*]
-    
-    [^1]: before the newline ] a newline is a special sort of chara-\
-    cter that means you begin a new line of text.
-    
-    [*the letter t in "techniques" on the first line of the text is
-    shifted upward*]</code>
+```
+[*two rules*]
+
+#AN\
+EXAMPLE PAGE
+
+T^2^he *text* on this page isn't in any book, but <span
+style="font-variant:small-caps;">Demonstrates</span> some
+techniques you might use to tranſ-\
+scribe texts as you see them.  Note that each line breaks with a\
+backſlash before the newline. [^1]  This signals the difference
+between\
+a newline needed to fit the text on one screen and one which rep-\
+resents an actual line break.  "We find that the quotes run\
+" along the side for extended quotes.  Just as they do in\
+" eighteenth century texts." And , that punctuation spaces can be\
+coded as such .  What a text! [*last word poorly inked, could be "hex"*]
+
+[^1]: before the newline ] a newline is a special sort of chara-\
+cter that means you begin a new line of text.
+
+[*the letter t in "techniques" on the first line of the text is
+shifted upward*]
+```
 
 
 One way this would render by default would be:
@@ -271,24 +302,21 @@ coded as such . What a text! [_last word poorly inked, could be "hex"_]
 
 [_the letter t in "techniques" on the first line of the text is shifted upward_]
 
- 	
+
   [^1]: Timothy Morton, _Ecology Without Nature: Rethinking Environmental Aesthetics_ (Cambridge, Mass.: Harvard University Press, 2009).
 
- 	
+
   [^2]: David L. Vander Meulen and G. Thomas Tanselle, “A System of Manuscript Transcription,” _Studies in Bibliography_ 52 (1999): 201–12.
 
- 	
+
   [^3]: For those unfamiliar, brackets are a standard symbol used to indicate editorial additions and italics distinguish descriptions and explanations of the roman text: since "big brown" is conjectured to belong to the final text, the words are placed outside of the brackets; since "funny" is conjectured to belong to an earlier version, the word is place inside the brackets.
 
- 	
+
   [^4]: Fredson Bowers, _Principles of Bibliographical Description_ (New York: Russell & Russell, 1962).
 
- 	
+
   [^5]: Peter W.M. Blayney, _The Texts of King Lear and Their Origins_ (Cambridge: Cambridge University Press, 1982); Blayney is studying the recurrence of types so chooses to transcribe both semantic meaning and what evidence he finds of the typographical habits of the compositors.
 
- 	
+
   [^6]: before the newline ] a newline is a special sort of chara-
 cter that means you begin a new line of text.
-
-
-

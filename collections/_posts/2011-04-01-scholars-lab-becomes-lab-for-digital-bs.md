@@ -12,7 +12,9 @@ tags:
 
 FOR IMMEDIATE RELEASE:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/04/1bbcb4e21269fc72.jpg)](http://www.scholarslab.org/announcements/scholars-lab-becomes-lab-for-digital-bs/attachment/1bbcb4e21269fc72/)Through the generosity of an anonymous donor, the [Scholars' Lab](http://scholarslab.org) at the [University of Virginia Library](http://library.virginia.edu/) is proud to announce a change in name and concentration.  Effective April 1st, the SLab (which has hitherto supported work in GIS, qualitatitive and quantitative analysis, and interpretive and textual scholarship in the humanities and social sciences) will sharpen its focus and be known as the _Laboratory for Digital Byzantine Sigillography_.
+[![](http://static.scholarslab.org/wp-content/uploads/2011/04/1bbcb4e21269fc72.jpg)](http://www.scholarslab.org/announcements/scholars-lab-becomes-lab-for-digital-bs/attachment/1bbcb4e21269fc72/)
+
+Through the generosity of an anonymous donor, the [Scholars' Lab](http://scholarslab.org) at the [University of Virginia Library](http://library.virginia.edu/) is proud to announce a change in name and concentration.  Effective April 1st, the SLab (which has hitherto supported work in GIS, qualitatitive and quantitative analysis, and interpretive and textual scholarship in the humanities and social sciences) will sharpen its focus and be known as the _Laboratory for Digital Byzantine Sigillography_.
 
 "Among major research libraries," said University Librarian Karin Wittenborg, "UVa has made the most longstanding investments in Digital BS.  Digital BS has enriched the landscape of the humanities and social sciences immeasurably," she continued. "It's just in the air in the former Scholars' Lab.  You can almost smell it!"
 

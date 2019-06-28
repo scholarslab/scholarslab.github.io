@@ -12,7 +12,7 @@ tags:
 ---
 
 > ...the words we join have been joined before, and continue to be joined daily. So writing is largely quotation, quotation newly energized, as a cyclotron augments the energies of common particles circulating.
-- Hugh Kenner, _The Pound Era_</blockquote>
+- Hugh Kenner, _The Pound Era_
 
 
 This month marks the beginning of the complicated process of starting up the [Large Hadron Collider](http://lhc.web.cern.ch/lhc/), the world's largest particle accelerator (Kenner would haved called it a "cyclotron"), buried beneath the Franco-Swiss border. Near the top of the LHC's agenda is having a peek into the fabric of space-time to see about the Higgs-Boson, the theorized source of mass.

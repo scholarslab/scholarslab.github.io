@@ -14,7 +14,7 @@ tags:
 - speaker series
 ---
 
-**[UPDATE: [video for the "Frontiers" event](/blog/frontiers-in-spatial-humanities-video/) is now available!]**
+#### UPDATE: [video for the event](/blog/frontiers-in-spatial-humanities-video/) now available!
 
 We're crowd-sourcing the keynote to the final round of the Scholars' Lab/NEH 2009-2010 [Institute for Enabling Geospatial Scholarship](http://scholarslab.org/geospatial).  With all of these fantastic [attendees](http://www2.scholarslab.org/geospatial/participants.html#scholarship) on hand -- not to mention the [Institute faculty](http://www2.scholarslab.org/geospatial/index.html#faculty) -- how could we let the opportunity slip by?
 

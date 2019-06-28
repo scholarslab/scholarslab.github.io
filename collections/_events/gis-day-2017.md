@@ -14,19 +14,7 @@ title: GIS Day 2017 Celebration
 event-categories:
 - Geospatial
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-** **Mark your calendars! Wednesday, Nov. 15 is GIS Day ([http://www.gisday.com/](http://www.gisday.com/)). To celebrate, all are invited to the University of Virginia Library’s Scholars’ Lab for an afternoon of events.
+Mark your calendars! Wednesday, Nov. 15 is GIS Day ([http://www.gisday.com/](http://www.gisday.com/)). To celebrate, all are invited to the University of Virginia Library’s Scholars’ Lab for an afternoon of events.
 
 1PM – Presentation: ArcGIS Pro for ArcMap Users
 2PM – Lightning Round Talks

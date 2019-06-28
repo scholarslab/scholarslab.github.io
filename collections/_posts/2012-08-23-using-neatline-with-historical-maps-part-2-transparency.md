@@ -14,7 +14,7 @@ tags:
 - photoshop
 ---
 
-**Update 8/27/12:**
+Update 8/27/12
 
 After posting this last week, [a comment by KaCeBe](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/comment-page-1/#comment-23142) led me to go back and look for a way to get Geoserver to render transparent borders without having to manually add an alpha channel to the file. Although I still can't find way to make Geoserver do it automatically, I did find [this thread on the OSGeo.org forums](http://osgeo-org.1560.n6.nabble.com/Trying-to-get-nodata-in-GeoTIFF-to-display-as-transparent-td3853784.html) in which user [bovermyer](http://osgeo-org.1560.n6.nabble.com/template/NamlServlet.jtp?macro=user_nodes&user=198969) finds a solution that's much faster than the Photoshop workflow described in this post.
 
@@ -29,8 +29,6 @@ With `gdal` installed (see below), open up the terminal and run this command:
 ...which we've found is necessary to avoid errors during the Geoserver upload process. At this point, `file2_rebuilt.tif` is ready to be loaded into Geoserver and brought into a Neatline exhibit.
 
 Much faster than pointing-and-clicking in Photoshop!
-
-
 
 * * *
 
@@ -52,103 +50,43 @@ In the context of a Neatline exhibit, this is problematic because the black bord
 
 Here's how to do it:
 
+1. Go to the directory that the file was originally saved to. You'll notice that ArcMap actually generated four files - the .tif, along with a .tfw, tif.aux.xml, and .tif.ovr. Leave all the files in place, since we'll need them at the end of the process to rebuild the geospatial header information after we post-process the image. Open up the main .tif file in Photoshop.
 
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)
 
+2. In Photoshop, right click on the starting background layer and click "Layer from Background." This will delete the locked background and replace it with a regular layer with the same content.
 
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background-300x248.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background.jpg)
 
+3. Use the "Magic Wand Tool"  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/magic-wand.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/magic-wand/) to select each of the borders by holding down the shift key and clicking inside the black areas. A dotten line will snap to the edges of the borders. If the wand tool is selecting parts of the actual map image, drop down the "Tolerance" setting to 1, which will limit the selection to the exact color value of the clicked location on the image. Once the borders are selected, press the delete key to clear out the selection. At this point, the image should be surrounded by the default, checkered background graphic.
 
-  1. Go to the directory that the file was originally saved to. You'll notice that ArcMap actually generated four files - the .tif, along with a .tfw, tif.aux.xml, and .tif.ovr. Leave all the files in place, since we'll need them at the end of the process to rebuild the geospatial header information after we post-process the image. Open up the main .tif file in Photoshop.
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete-300x280.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete.jpg)
 
+4. Add an alpha channel to the image by clicking on the "Channels" tab on the top toolbar of the layers window (If the "Channels" tab isn't available by default, activate it by clicking `Window > Channels`). Click the dropdown icon at the right of the toolbar, and click "New Channel." Check the "Masked Areas" radio button, and set the color to be pure black with 0% opacity. Click "OK" to create the channel.
 
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/alpha-300x183.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/alpha.jpg)
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/files1.jpg)
+5. Now, activate the Magic Wand Tool again and select each of the checkered, transparent areas around the image (the regions that were originally filled with the black borders). Then, invert the selection by clicking on `Select > Inverse`. At this point, the selection should exactly frame the map itself (the portion of the image that should _not_ be transparent).
 
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/inverse-170x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/inverse.jpg)
 
+6. Back over in the Channels tab, click on the listing for the Alpha channel that was created in step 4 and hide the RBG channels by clicking the visibility checkbox next to the top-level RGB listing. This will cause the image to go totally black, with the selection of the map region still active on top of the alpha channel.
 
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection-300x280.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection.jpg)
 
+7. Activate the Paint Bucket Tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/paint-bucket.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/paint-bucket/) and set the foreground color to pure white (If you don't see the icon for the paint bucket in the Tools column, click and hold the icon for the "Gradient" tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/gradient-tool.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/gradient-tool/) and a drop-down select will appear with a listing for the Paint Bucket). Then apply the paint bucket on the selected area on the Alpha channel, creating a white area over the region occupied by the map.
 
-  2. In Photoshop, right click on the starting background layer and click "Layer from Background." This will delete the locked background and replace it with a regular layer with the same content.
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection-300x281.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection.jpg)
 
+8. Make sure that both the Alpha channel and all of the RGB color channels are marked as visible in the Channels window. Then go to `File > Save As`. So as not to override the name of the original file, change the name to something like `[original filename]_processed`. Uncheck "Layers," check "As a Copy" and "Alpha Channels," and click "Save."
 
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/save-as-300x198.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/save-as.jpg)
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background-300x248.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background.jpg)
+9. On the "Tiff Options" dialog box, leave "Save Image Pyramid" and "Save Transparency" unchecked and make sure "Discard Layers and Save a Copy" is checked.
 
+    [![](http://static.scholarslab.org/wp-content/uploads/2012/07/tiff-options-222x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/tiff-options.jpg)
 
-
-
-
-  3. Use the "Magic Wand Tool"  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/magic-wand.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/magic-wand/) to select each of the borders by holding down the shift key and clicking inside the black areas. A dotten line will snap to the edges of the borders. If the wand tool is selecting parts of the actual map image, drop down the "Tolerance" setting to 1, which will limit the selection to the exact color value of the clicked location on the image. Once the borders are selected, press the delete key to clear out the selection. At this point, the image should be surrounded by the default, checkered background graphic.
-
-
-
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete-300x280.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete.jpg)
-
-
-
-
-
-  4. Add an alpha channel to the image by clicking on the "Channels" tab on the top toolbar of the layers window (If the "Channels" tab isn't available by default, activate it by clicking `Window > Channels`). Click the dropdown icon at the right of the toolbar, and click "New Channel." Check the "Masked Areas" radio button, and set the color to be pure black with 0% opacity. Click "OK" to create the channel.
-
-
-
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/alpha-300x183.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/alpha.jpg)
-
-
-
-
-
-  5. Now, activate the Magic Wand Tool again and select each of the checkered, transparent areas around the image (the regions that were originally filled with the black borders). Then, invert the selection by clicking on `Select > Inverse`. At this point, the selection should exactly frame the map itself (the portion of the image that should _not_ be transparent).
-
-
-
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/inverse-170x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/inverse.jpg)
-
-
-
-
-
-  6. Back over in the Channels tab, click on the listing for the Alpha channel that was created in step 4 and hide the RBG channels by clicking the visibility checkbox next to the top-level RGB listing. This will cause the image to go totally black, with the selection of the map region still active on top of the alpha channel.
-
-
-
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection-300x280.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection.jpg)
-
-
-
-
-
-  7. Activate the Paint Bucket Tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/paint-bucket.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/paint-bucket/) and set the foreground color to pure white (If you don't see the icon for the paint bucket in the Tools column, click and hold the icon for the "Gradient" tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/gradient-tool.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/gradient-tool/) and a drop-down select will appear with a listing for the Paint Bucket). Then apply the paint bucket on the selected area on the Alpha channel, creating a white area over the region occupied by the map.
-
-
-
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection-300x281.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection.jpg)
-
-
-
-
-
-  8. Make sure that both the Alpha channel and all of the RGB color channels are marked as visible in the Channels window. Then go to `File > Save As`. So as not to override the name of the original file, change the name to something like `[original filename]_processed`. Uncheck "Layers," check "As a Copy" and "Alpha Channels," and click "Save."
-
-
-
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/save-as-300x198.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/save-as.jpg)
-
-
-
-
-
-  9. On the "Tiff Options" dialog box, leave "Save Image Pyramid" and "Save Transparency" unchecked and make sure "Discard Layers and Save a Copy" is checked.
-
-
-
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/tiff-options-222x300.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/tiff-options.jpg)
-
-
-
-
-
-
-Now, we have a second version of the .tiff file with an Alpha channel that converts the black borders into transparent regions. The problem, though, is that the process of re-saving the file strips out the critical geospatial information in the original .tiff - we'll have to insert this data back into the processed file before it can be used in Geoserver and Neatline.
+    Now, we have a second version of the .tiff file with an Alpha channel that converts the black borders into transparent regions. The problem, though, is that the process of re-saving the file strips out the critical geospatial information in the original .tiff - we'll have to insert this data back into the processed file before it can be used in Geoserver and Neatline.
 
 **Rebuilding the geotiff**
 
@@ -161,20 +99,17 @@ With gdal installed, fire up the terminal and change into the directory with the
 
 
 
-  1. First, create a copy the original .tfw file with a name that matches the processed .tif file that was created in step 8 above. So, if the original .tif was called `hotchkiss.tif`, and the processed file was saved as `hotchkiss_processed.tif`, copy `hotchkiss.tfw` as `hotchkiss_processed.tfw` (this can be done with `cp hotchkiss.tfw hotchkiss_processed.tfw`). The file names have to match in order for gdal to know where to pull information about the coordinate projection when we rebuild the header.
+1. First, create a copy the original .tfw file with a name that matches the processed .tif file that was created in step 8 above. So, if the original .tif was called `hotchkiss.tif`, and the processed file was saved as `hotchkiss_processed.tif`, copy `hotchkiss.tfw` as `hotchkiss_processed.tfw` (this can be done with `cp hotchkiss.tfw hotchkiss_processed.tfw`). The file names have to match in order for gdal to know where to pull information about the coordinate projection when we rebuild the header.
 
 
 
 
-  2. Now, still assuming we're working with files named hotchkiss_processed.tif and hotchkiss_processed.tfw, rebuild the header with this command:
+2. Now, still assuming we're working with files named hotchkiss_processed.tif and hotchkiss_processed.tfw, rebuild the header with this command:
 
 `gdal_translate -of GTiff -a_srs EPSG:4326 hotchkiss_processed.tif hotchkiss_processed_rebuilt.tif`.
 
 
 (**Note**: It doesn't actually matter what you call the derivative files at the various steps of the process. All that matters is that the .tfw file matches the name of the processed .tif file.)
-
-
-
 
 
 This will create a new file called `hotchkiss_processed_rebuilt.tif` that contains the transparency channel and the reconstructed geospatial information. At this point, the file is ready to be uploaded to Geoserver and brought into a Neatline exhibit.

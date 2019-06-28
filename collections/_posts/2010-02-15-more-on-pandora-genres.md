@@ -34,7 +34,7 @@ Pandora, through its Music Genome Project, aims to circumvent this problem, by o
 
 
 
-Instead, what the Music Genome Project entails is the company’s roughly fifty analysts sitting down in the Oakland, CA headquarters and methodically tagging a given song using these 400+ attributes. Westergren has described the process in ways akin to the scientific method, noting that a percentage of songs the analysts deconstruct are reviewed twice for quality. The songs, categorized by attributes, are added to the Project’s over 500,000 songs (and counting) accumulating in the company’s database. Songs sharing a similar musical “DNA” are then automatically matched and linked by Pandora’s search engine when you enter in a “seed” song. Westergren has called the Genome “kind of like a musical taxonomy,” and I don’t think this language is accidental. As Fabian Holt has pointed out about musical genres, “Discourse on the temporal dimensions of categories is saturated with organicist metaphors, as in discussions of how genres are _born_, how they _grow_, _mature_, _branch off_, _explode_, and _die_.”1 Even though Pandora in fact aims to get _around_ genre, it seems to me that this biologic language informs the company’s mission and direction.
+Instead, what the Music Genome Project entails is the company’s roughly fifty analysts sitting down in the Oakland, CA headquarters and methodically tagging a given song using these 400+ attributes. Westergren has described the process in ways akin to the scientific method, noting that a percentage of songs the analysts deconstruct are reviewed twice for quality. The songs, categorized by attributes, are added to the Project’s over 500,000 songs (and counting) accumulating in the company’s database. Songs sharing a similar musical “DNA” are then automatically matched and linked by Pandora’s search engine when you enter in a “seed” song. Westergren has called the Genome “kind of like a musical taxonomy,” and I don’t think this language is accidental. As Fabian Holt has pointed out about musical genres, “Discourse on the temporal dimensions of categories is saturated with organicist metaphors, as in discussions of how genres are _born_, how they _grow_, _mature_, _branch off_, _explode_, and _die_.”[^1] Even though Pandora in fact aims to get _around_ genre, it seems to me that this biologic language informs the company’s mission and direction.
 
 
 
@@ -80,12 +80,12 @@ This is not to say that Pandora explicitly makes a claim of total objectivity, o
 
 
 
-Related to this, both Pandora and Cantometrics raise questions regarding musical gatekeepers, tastemakers, and their authority. Indeed, as ethnomusicologist Steven Feld has mused in response to Lomax’s work, “What are the sources of authority, wisdom, and legitimacy about sounds and music? Who can know about sound? Is musical knowledge public, private, ritual, esoteric?”.2 Many researchers of pop music, pop culture, and genre agree that this issue of _who_ is doing the classifying, categorizing, and ranking is a really important question. For instance, snobby clerks at your local independent record store may decide that Gillian Welch’s music belongs in the “folk” rather than “rock” section of the store. But where does the authority behind their judgment come from?   Their judgment is informed by their life experiences and backgrounds as (mostly) well-educated middle-class white males.
+Related to this, both Pandora and Cantometrics raise questions regarding musical gatekeepers, tastemakers, and their authority. Indeed, as ethnomusicologist Steven Feld has mused in response to Lomax’s work, “What are the sources of authority, wisdom, and legitimacy about sounds and music? Who can know about sound? Is musical knowledge public, private, ritual, esoteric?”.[^2] Many researchers of pop music, pop culture, and genre agree that this issue of _who_ is doing the classifying, categorizing, and ranking is a really important question. For instance, snobby clerks at your local independent record store may decide that Gillian Welch’s music belongs in the “folk” rather than “rock” section of the store. But where does the authority behind their judgment come from?   Their judgment is informed by their life experiences and backgrounds as (mostly) well-educated middle-class white males.
 
 
 
 
-These gatekeepers’ judgments are also informed by a deep knowledge of various musical genres: the ability to distinguish glam from punk from grunge, and so on. Since Pandora’s fifty music analysts perform a similar function, I find this aspect of their job paradoxical: though the company seems to pride itself on getting beyond musical genre, these analysts must be extremely well-versed in genre in order to do their jobs well. In a recent video post on Pandora’s blog, Westergren states that the purpose of the Music Genome Project is ultimately to connect musicians with audiences, in ways the traditional music business can’t.3 This is notably egalitarian rhetoric; it works off the assumption that consumers and musicians are empowered enough to seek each other out, and that they don’t need tastemakers dictating what music they should like.
+These gatekeepers’ judgments are also informed by a deep knowledge of various musical genres: the ability to distinguish glam from punk from grunge, and so on. Since Pandora’s fifty music analysts perform a similar function, I find this aspect of their job paradoxical: though the company seems to pride itself on getting beyond musical genre, these analysts must be extremely well-versed in genre in order to do their jobs well. In a recent video post on Pandora’s blog, Westergren states that the purpose of the Music Genome Project is ultimately to connect musicians with audiences, in ways the traditional music business can’t.[^3] This is notably egalitarian rhetoric; it works off the assumption that consumers and musicians are empowered enough to seek each other out, and that they don’t need tastemakers dictating what music they should like.
 
 
 
@@ -105,7 +105,7 @@ This may read as though I am beating up on Pandora, but I hope the position I’
 
 
 
-"_The idea that all music is equal and deserves equal rights is somehow fundamentally a democratic idea; as is the corresponding idea that the public, and not some small cadre of experts, is the best judge of musical quality. But the fact that some music not only attracts more listeners, but also seems to mean more to more people over a longer period of time, indicates that there is actually something fundamentally unequal about music as well_."4
+>_The idea that all music is equal and deserves equal rights is somehow fundamentally a democratic idea; as is the corresponding idea that the public, and not some small cadre of experts, is the best judge of musical quality. But the fact that some music not only attracts more listeners, but also seems to mean more to more people over a longer period of time, indicates that there is actually something fundamentally unequal about music as well_.[^4]
 
 
 
@@ -149,22 +149,22 @@ Finally, closing with an idea my professor Fred Maus pointed out to me, when you
 
 
 
-1  Holt, Fabian. _Genre in Popular Music_. Chicago: University of Chicago Press, 2007. Pg. 14.
+[^1]:  Holt, Fabian. _Genre in Popular Music_. Chicago: University of Chicago Press, 2007. Pg. 14.
 
 
 
 
-2  Feld, Steven. “Sound Structure as Social Structure.” _Ethnomusicology_, Vol. 28. No. 3 (Sept. 1984), pp. 383-409.
+[^2]:  Feld, Steven. “Sound Structure as Social Structure.” _Ethnomusicology_, Vol. 28. No. 3 (Sept. 1984), pp. 383-409.
 
 
 
 
-3  http://blog.pandora.com/pandora/archives/2009/03/index.html March 15, 2009 entry.
+[^3]:  http://blog.pandora.com/pandora/archives/2009/03/index.html March 15, 2009 entry.
 
 
 
 
-4  http://blog.pandora.com/pandora/archives/2009/02/index.html      February 25, 2009 entry.
+[^4]:  http://blog.pandora.com/pandora/archives/2009/02/index.html      February 25, 2009 entry.
 
 
 

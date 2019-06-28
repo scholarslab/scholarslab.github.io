@@ -17,11 +17,11 @@ tags:
 
 Several years ago I worked on a project to take recordings made of William Faulkner while he was the Writer-in-Residence at the University of Virginia in 1957 and 1958. The project, [Faulkner at Virginia](http://faulkner.lib.virginia.edu), transcribed the audio and then keyed the main components of the audio to the text using TEI. In order to provide playback of an individual clip, we used a streaming server ([Darwin Streaming Server](https://en.wikipedia.org/wiki/Darwin_Streaming_Server)) that was being managed by another group. This allowed me to provide "random" access to the components of the audio, without needing to split up the files. Using the associated API, I could generate a clip of the data with something like this:
 
-[gist id="5830678" file="gistfile1.js"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=gistfile1.js"></script>
 
 While this is kind of a nasty bit of JavaScript, it (somewhat) abstracts the Object embed code:
 
-[gist id="5830678" file="gistfile2.html"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=gistfile2.html"></script>
 
 At the time, the [WHATWG specifications for audio](http://www.whatwg.org/specs/web-apps/current-work/) were still pretty nascent, and didn't have a lot of actual implementation saturation in browsers. At the time (late 2000s), the approach of using a third-party plugin to provide "advanced" interaction with a media element was pretty much the only game in town. 
 
@@ -35,7 +35,7 @@ As with any project that relies on web technology, eventually things start to br
 
 You know that modern browsers (everything but IE < 9) can play audio natively (i.e. without a plugin), right? Really the only really horrible thing is that not every browser handles the same "native" format. You can check out a good table for [codec support for audio](http://html5doctor.com/html5-audio-the-state-of-play/#support), but it basically boils down to needing an MP3 and an [Ogg Vorbis](http://www.vorbis.com/) version of the audio files to provide for nearly all the browsers (IE being the outlier, with this working of IE 9+).
 
-[gist id="5830678" file="gistfile3.html"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=gistfile3.html"></script>
 
 This provides something on your page like this:
 
@@ -54,15 +54,15 @@ The great thing is that this will work on a mobile device as well. Score one for
 
 My first instinct was to take the files and split them into "clips" on the page. This would allow the browser to provide its native playback mechanism, and allow individuals to grab the segments for remixing (still waiting for an auto-tuned remix of "Spotted Horses"). In the [TEI source](https://code.google.com/p/faulkneratvirginia/source/browse/trunk/cocoon/data/tei/wfaudio02_1.xml#67) are the start and end times for each of the "snippets." My go-to tool for working with media is [ffmpeg](http://www.ffmpeg.org/), and I knew I could break up the files into components, copying the bitrate into a new mp3. I wrote a quick XSLT to generate a shell script that would generate the `ffmpeg` commands to run.
 
-[gist id="5830678" file="convert_mp3.xsl"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=convert_mp3.xsl"></script>
 
 This generated a nice file of the commands to run.
 
-[gist id="5830678" file="gistfile5.sh"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=gistfile5.sh"></script>
 
 At this point, all the data has been processed, so I need to see if this this going to actually work. I wrote another XSLT to preview what was going on and make sure this approach was going to work ok. Nothing too fancy, just an HTML wrapper, with most of the "work" happening in the `div2` element.
 
-[gist id="5830678" file="htmlaudio.xsl"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=htmlaudio.xsl"></script>
 
 Since the segment file names were derived from their `id` attributes, I was able to just point at the file without a lot of poking around. Now for the test!
 
@@ -77,7 +77,7 @@ In the `audio` element, I had added the `preload="auto"` attribute to allow the 
 
 In reading the [MDN docs](https://developer.mozilla.org) on [HTML5 audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio), I came across a section on [Specifying a playback range](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_HTML5_audio_and_video#Specifying_playback_range). This looks promising! There is one file reference, and I just need to get the playback times in. It is unclear, however, from the description if the browser treats this as a single file transfer, or each segment as it's own download thread. Fortunately it's just a small tweak to the XSLT generating the `audio` elements.
 
-[gist id="5830678" file="time_ranges.xsl"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=time_ranges.xsl"></script>
 
 After checking the browser again, looks like the same issue is there; the browser treats each segment as its own download thread and chokes when it gets around 20Mb. Meh; the Internet. Ok, time to try something different.
 
@@ -93,11 +93,11 @@ Since I wanted to see how well this would work, and not necessarily write a libr
 
 The `howler.js` API defines sprites by names to allow you to refer to then as variables in your code (again, it's written for developing games). It also wants you to (in milliseconds) tell it where to start playing, and for how long to play. Ugh, my start and end times are in `hh:mm:ss.s` format. I wrote a quick function to explode the timestamps and add them together as milliseconds (actually this is a bit off, but I didn't spend the time to work in the actual conversion units, but I wanted to see if this is going to work before I put that time in). 
 
-[gist id="5830678" file="timeToMilliseconds.xsl"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=timeToMilliseconds.xsl"></script>
 
 Now I can set up JavaScript for the Howler object literal for use on the page.
 
-[gist id="5830678" file="timeToMilliseconds.xslt"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=timeToMilliseconds.xslt"></script>
 
 A few notes here, iOS devices require user interaction before an audio asset can be loaded. To handle the mobile devices, I added a button to the page that is hidden with a media query for desktop browsers. When the user clicked on it, they would see a [thumper](http://www.ajaxload.info/) and a notice when the file had been loaded. I also had to add my own "play" buttons as this API is really meant for games.
 
@@ -112,11 +112,11 @@ After some more thought, maybe what's needed here is a blended approach. I liked
 
 With a little JavaScript, I take a look at the DOM and construct an audio element, passing back to the browser the smallest version of the file (ogg then mp3) the browser can play back natively.
 
-[iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"]
+<iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 So the final product results in this, which has an animation to remove the icon, replacing it with the native audio playbar: 
 
-[iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"]
+<iframe src="http://jsfiddle.net/wsgrah/3EfAD/15/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 
 
@@ -126,11 +126,13 @@ So the final product results in this, which has an animation to remove the icon,
 
 Now that I've got a basic system for playing the audio that works on just about every browser, time to take a look at converting these audio files. There are about 60 MP3s that needed to get transcoded for this project. If it were just a handful, I may have just manually done the transcoding in something like [Audacity](http://audacity.sourceforge.net/), but there were a lot of files, and I'm a "lazy" developer. Obviously this is a another job for [ffmpeg](http://www.ffmpeg.org/). I had to recompile it from [homebrew](http://brew.sh/) (an OS X package manager) to include the `libvorbis` bindings.
 
-[gist id="5830678" file="gistfile4.txt"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=gistfile4.txt"></script>
+
 
 After getting the proper transcoding libraries installed, I wrote a quick bash script to convert all MP3s in a directory to ogg.
 
-[gist id="5830678" file="transcode_ogg.sh"]
+<script src="https://gist.github.com/waynegraham/5830678.js?file=transcode_ogg.sh"></script>
+
 
 After this ran (it took a few hours), I had a complete set of MP3 and OggVorbis files for the project. 
 

@@ -1,14 +1,7 @@
 ---
 author: wayne-graham
 date: 2010-04-14 15:19:44+00:00
-excerpt: As part of our ongoing efforts on our Neatline grant, we needed to include
-  a way of displaying temporal information and interacting with other data stored
-  in Omeka. Just about the time we were starting to write this code, CHNM announced
-  their Plugin Rush which pays an honorarium to give folks some incentive to pitch
-  in and develop a plugin or two. Since we were going to develop the plugin anyway,
-  we're donating this back to the Omeka project, but we thought this might be a good
-  opportunity to talk a little more about the development cycle for Omeka plugins,
-  and hopefully inspire others to get involved.
+excerpt: As part of our ongoing efforts on our Neatline grant, we needed to include a way of displaying temporal information and interacting with other data stored in Omeka. Just about the time we were starting to write this code, CHNM announced their Plugin Rush which pays an honorarium to give folks some incentive to pitch in and develop a plugin or two. Since we were going to develop the plugin anyway, we're donating this back to the Omeka project, but we thought this might be a good opportunity to talk a little more about the development cycle for Omeka plugins, and hopefully inspire others to get involved.
 layout: post
 slug: omeka-timeline-plugin
 title: Omeka Timeline Plugin
@@ -199,10 +192,6 @@ As you can see, not a lot of code actually needs to be written to add functional
 ## Resources
 
 
-
-
-
-	
   * [Omeka Plugin API](http://omeka.org/codex/Plugin_API)
 
 	

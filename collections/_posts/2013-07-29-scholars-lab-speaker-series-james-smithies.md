@@ -9,6 +9,7 @@ categories:
 ---
 
 **Speaker Series Brown Bag: James Smithies**
+
 **The UC CEISMIC Digital Archive: Co-ordinating Libraries, Museums, Archives, Individuals and Government Agencies in a Disaster Management Context**
 
 On July 22, Dr. James Smithies, Senior Lecturer in Digital Humanities at the University of Canterbury in Christchurch, New Zealand, spoke in the Scholars' Lab about his work designing and developing the CEISMIC Digital Archive.
