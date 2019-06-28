@@ -8,7 +8,7 @@ categories:
 - Digital Humanities
 - Grad Student Research
 crosspost:
-  - title: my own blog:
+  - title: my own blog
     url: http://walshbr.com/blog/woolf-huskey/
 ---
 
