@@ -33,7 +33,7 @@ To peruse examples of charters for DHy and library work, check out (and please a
 - [Collaborators' Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/)  
 Check out [our blog](https://scholarslab.lib.virginia.edu/blog/) for posts discussing the what and why of charters, e.g. thoughts from the [2013-2014](https://scholarslab.lib.virginia.edu/blog/2013-2014-praxis-charter-ratified/) and [2011-2018](https://scholarslab.lib.virginia.edu/blog/charter-and-design/) Praxis cohorts on their charter creation processes.
 
-![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/6-24-2019-post-staffcharter.png)
+![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/6-24-2019-post-staffcharter.png)  
 _Screenshot of beginning of Scholars' Lab staff charter, which can be read at [https://scholarslab.lib.virginia.edu/charter/](https://scholarslab.lib.virginia.edu/charter/)._
 
 ## Charters for team members, charters for teams
@@ -41,7 +41,7 @@ I've learned a lot about the purpose and crafting of charters since coming to th
 
 I've also learned a great deal, both about making charters that work and about leadership, from Laura Miller (Head of Public Services) and Jeremy Boggs (Head of R&D). I'm drafting a _personal_ management charter for my own practices as a manager, to help me do my best by folks who report to me, and to help us discuss mutual needs. The plan is to share this charter with my colleagues, and improve it until it's a document that represents their thinking and needs as well. But I'd also like to use that draft as a way to talk with other lab managers, both for my own learning and to think about ways our shared practices link back to our larger staff charter. Just from talking with Jeremy and Laura informally, I've already got a bunch of ideas for ways I can do better for our team.
 
-![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/6-24-2019-post-studentprogramscharter.png)
+![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/6-24-2019-post-studentprogramscharter.png)  
 _Screenshot of a portion of Scholars' Lab student programs charter, which can be read at [https://scholarslab.lib.virginia.edu/student-programs-charter/](https://scholarslab.lib.virginia.edu/student-programs-charter/)._
 
 Recording our shared commitments through a mutual management charter could help us continue growing policies and practices that make the lab a healthy workplace, and provide some continuity for current staff by abstracting lab management expectations from the people in management roles at any point in time. Not that any of us are leaving or aren't acting with good intent! But anything we can do to ensure lab health doesn't rely on particular individuals remaining in those roles _and_ continue acting with both good intent and impact is work toward the lab's health and justice. Such management agreement could also help us shape job ads and interview processes for future roles—both if we're hiring managers and want to discuss our approaches with candidates, and to be able to share specifics with potential non-management staff interviewing with us.
@@ -57,7 +57,7 @@ My personal management charter should communicate how I view my purpose in the l
 
 The shorthands I'm using in this post for what I want to think through—"supervision", "management", etc.—are largely defined by differences in power, so I'd also like this management charter to help me be more responsible, clear, and challengeable about how I act on and with my institutional and professional power, and around lab power differentials (useful, neutral, or harmful). This draft stakes out specific time for me to consider changes to my practices toward better lab equity, and also to design structures making it safer and more useful to other staff to point out and act (or request my action on) problems related to power differentials.
 
-![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/6-24-2019-post-praxischarters.png)
+![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/6-24-2019-post-praxischarters.png)  
 _Screenshot of list of links to charters from Scholars' Lab's past Praxis Program cohorts, which can be read by visiting and scrolling down [http://praxis.scholarslab.org/charter](http://praxis.scholarslab.org/charter)._
 
 ## Management charter goals
