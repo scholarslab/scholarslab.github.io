@@ -4,7 +4,7 @@ author:
 date: 2019-07-02 14:10:35
 layout: post
 slug: make-a-3D-keychain
-title: "Make a 3D keychain"
+title: "Make a 3D Printed Holder Thingy for Your Keychain"
 categories:
 - Makerspace
 tags:
@@ -16,7 +16,7 @@ tags:
 ---
 ![3D Printed Keychain](/assets/post-media/2019-07-02-make-a-3D-keychain/on-the-keychain.jpg)
 
-# 3D Printed Keychain USB Holder
+# 3D Printed Keychain USB Holder Thingy
 
 I have a [Yubikey 5 Nano](https://www.yubico.com/product/yubikey-5-nano) for 2
 factor authentication for sites here at work. It works pretty well, except for
