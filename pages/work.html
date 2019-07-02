@@ -50,7 +50,7 @@ order: 3
       <div class="people-staff__gallery">
         <!-- gallery item: -->
         {% for project in site.work %}
-
+				{% unless project.research-category == 'Student' %}
         <div class="people-item-wrapper">
           <a href="/work/{{ project.slug }}/" aria-label="{{ project.title }}">
             <div class="people-item__img">
@@ -64,6 +64,33 @@ order: 3
             <div class="people-item__position">{{ project.position }}</div>
           </a>
         </div>
+				{% endunless %}
         {% endfor %} <!-- end item -->
       </div> <!-- end gallery -->
     </section> <!-- end staff -->
+
+		<section class="people__staff">
+			<!-- section label: -->
+			<h2 style="padding-left: 2em; padding-top: 1em; margin-bottom: 0;">Student Projects</h2>
+			<div class="people-staff__gallery">
+				<!-- gallery item: -->
+				
+				{% assign student_projects = site.work | where:'research-category', 'Student' %}
+				{% for project in student_projects %}
+
+				<div class="people-item-wrapper">
+					<a href="/work/{{ project.slug }}/" aria-label="{{ project.title }}">
+						<div class="people-item__img">
+
+						<img src="{{ site.url }}{{ '/assets/img/work/' | append: project.thumb-img | relative_url }}" alt="{{ project.title }}">
+
+						</div>
+						<div class="people-item__name">
+	{{ project.title | replace: ' - ', ': ' }}
+	</div>
+						<div class="people-item__position">{{ project.position }}</div>
+					</a>
+				</div>
+				{% endfor %} <!-- end item -->
+			</div> <!-- end gallery -->
+		</section> <!-- end staff -->
