@@ -18,6 +18,9 @@ collaborators:
   - name: Chris Whitehead
     slug: chris-whitehead
     role: Praxis Fellow
+  - name: Brandon Walsh
+    slug: brandon-walsh
+    role: Head of Student Programs
   - name: Scholars' Lab Staff
     slug:
     role: Stewards of the Praxis Program

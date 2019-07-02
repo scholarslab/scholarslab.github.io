@@ -31,3 +31,4 @@ Internal Projects & Community Service
 Collaborations
 Events & Community Building
 Prototypes & Proofs of Concept
+Student

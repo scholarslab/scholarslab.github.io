@@ -8,7 +8,7 @@ collaborators:
     role: 3D Visualization Specialist
 link:
 layout: work
-slug: kelli-shermeyer
+slug: digital-skriker
 title: Digital Skriker
 thumb-img: digital-skriker-thumb.png
 banner-img: digital-skriker-banner.png

@@ -1,0 +1,35 @@
+---
+collaborators: 
+  - name: James P Ascher
+    slug: james-p-ascher
+    role: Praxis Fellow
+  - name: Bremen Donovan
+    slug: bremen-donovan
+    role: Praxis Fellow
+  - name: Ethan Reed
+    slug: ethan-reed
+    role: Praxis Fellow
+  - name: Gillet Rosenblith
+    slug: gillet-rosenblith
+    role: Praxis Fellow
+  - name: Rachel Devorah Trapp
+    slug: rachel-devorah-trapp
+    role: Praxis Fellow
+  - name: Lydia Warren
+    slug: lydia-warren
+    role: Praxis Fellow
+  - name: Purdom Lindblad
+    slug: purdom-lindblad
+    role: Head of Graduate Programs
+link: http://clockwork.scholarslab.org/
+layout: work
+slug: clockwork
+title: Clockwork
+thumb-img: clockwork-thumb.png
+banner-img: clockwork-banner.png
+research-category: Student
+start-year: 2015
+end-year: 2016
+---
+
+This year's cohort was asked simply to think about time in some way, and the result is ClockWork, an experiment in how temporal data might be turned into sonic artifacts, or sonified. The site offers several different sonifications of its own, serves as a platform for teaching sonification to others, and focuses on the programming language SuperCollider.
