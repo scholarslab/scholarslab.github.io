@@ -25,8 +25,8 @@ link: http://reveal.scholarslab.org/
 layout: work
 slug: uva-reveal
 title: "UVA Reveal: Augmenting the University"
-thumb-img: uva-reveal-thumb.png
-banner-img: uva-reveal-banner.png
+thumb-img: uva-reveal-thumb.jpg
+banner-img: uva-reveal-banner.jpg
 research-category: Student 
 start-year: 2017
 end-year: 2018

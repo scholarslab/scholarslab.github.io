@@ -25,8 +25,8 @@ link: http://dashamerikan.scholarslab.org/
 layout: work
 slug: dash-amerikan
 title: Dash-Amerikan
-thumb-img: dash-amerikan-thumb.png
-banner-img: dash-amerikan-banner.png
+thumb-img: dash-amerikan-thumb.jpg
+banner-img: dash-amerikan-banner.jpg
 research-category: Student
 start-year: 2016
 end-year: 2017
