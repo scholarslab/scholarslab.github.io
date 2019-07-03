@@ -29,7 +29,7 @@ layout: default
 {% endif %}
 
 </div>
-{% if page.twitter or page.website or page.email %}
+{% unless page.twitter == 'None' and page.website == 'None' and page.email == 'None' %}
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
@@ -45,7 +45,7 @@ layout: default
 				{% endif %}
 			</div>
 		</div>
-		{% endif %}
+		{% endunless %}
 		<div class="person__img">
 			{% if profile_pic == empty %}
 			    <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
