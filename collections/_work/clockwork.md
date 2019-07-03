@@ -24,7 +24,7 @@ collaborators:
 link: http://clockwork.scholarslab.org/
 layout: work
 slug: clockwork
-title: Clockwork
+title: ClockWork
 thumb-img: clockwork-thumb.png
 banner-img: clockwork-banner.png
 research-category: Student

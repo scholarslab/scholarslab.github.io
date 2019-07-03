@@ -24,7 +24,7 @@ collaborators:
 link: http://reveal.scholarslab.org/
 layout: work
 slug: uva-reveal
-title: "UVA Reveal: Augmenting the University"
+title: "UVA Reveal"
 thumb-img: uva-reveal-thumb.jpg
 banner-img: uva-reveal-banner.jpg
 research-category: Student 

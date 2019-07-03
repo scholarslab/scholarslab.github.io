@@ -27,7 +27,7 @@ collaborators:
 link: http://unclosure.scholarslab.org
 layout: work
 slug: unclosure
-title: "Unclosure: An Act for the Encouragement of Learning"
+title: "Unclosure"
 thumb-img: unclosure-thumb.jpg
 banner-img: unclosure-banner.jpg
 research-category: Student
