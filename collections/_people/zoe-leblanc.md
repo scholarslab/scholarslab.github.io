@@ -9,6 +9,7 @@ slug: zoe-leblanc
 status: not_current
 twitter: None
 website: None
+email: None
 people-category:
 - staff
 roles:

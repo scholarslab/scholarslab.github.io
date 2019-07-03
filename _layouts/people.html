@@ -29,7 +29,7 @@ layout: default
 {% endif %}
 
 </div>
-{% if page.twitter != 'None' or page.website != 'None' or page.email != 'None' %}
+{% if page.twitter or page.website or page.email %}
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
