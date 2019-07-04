@@ -55,7 +55,7 @@ order: 3
           <a href="/work/{{ project.slug }}/" aria-label="{{ project.title }}">
             <div class="people-item__img">
 
-            <img src="{{ site.url }}{{ '/assets/img/work/' | append: project.thumb-img | relative_url }}" alt="{{ project.title }}">
+            <img src="{{ site.url }}{{ '/assets/img/work/' | append: project.thumb-img }}" alt="{{ project.title }}">
 
             </div>
             <div class="people-item__name">
@@ -74,7 +74,7 @@ order: 3
 			<h2 style="padding-left: 2em; padding-top: 1em; margin-bottom: 0;">Student Projects</h2>
 			<div class="people-staff__gallery">
 				<!-- gallery item: -->
-				
+
 				{% assign student_projects = site.work | where:'research-category', 'Student' %}
 				{% for project in student_projects %}
 
@@ -82,7 +82,7 @@ order: 3
 					<a href="/work/{{ project.slug }}/" aria-label="{{ project.title }}">
 						<div class="people-item__img">
 
-						<img src="{{ site.url }}{{ '/assets/img/work/' | append: project.thumb-img | relative_url }}" alt="{{ project.title }}">
+						<img src="{{ site.url }}{{ '/assets/img/work/' | append: project.thumb-img }}" alt="{{ project.title }}">
 
 						</div>
 						<div class="people-item__name">
