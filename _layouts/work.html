@@ -7,7 +7,7 @@ layout: default
 
 <article class="project-content-wrapper">
 	<div class="project-content__img">
-		<div><img src="{{ '/assets/img/work/' | append: page.banner-img | relative_url }}" alt="{{ page.title }}"></div>
+		<div><img src="{{ '/assets/img/work/' | append: page.banner-img }}" alt="{{ page.title }}"></div>
 	</div>
 	<div class="project-content__title">
 		<span>{{ page.title | replace: ' - ', ': ' }}</span>
@@ -35,9 +35,9 @@ layout: default
 						{% endcapture %}
 					  <li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
 				  {% endfor %}
-					</ul>	
+					</ul>
 			{% endif %}
-				{% else %} 
+				{% else %}
 				{% if page.posts %}
 				<br>
 				<strong>Related Posts</strong>
@@ -55,8 +55,8 @@ layout: default
 					</ul>
 			{% endif %}
 		{% endif %}
-	
-	
+
+
 	</div>
 	<div class="project-content__collaborators">
 		<span>Collaborators:</span>
