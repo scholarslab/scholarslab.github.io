@@ -1,6 +1,6 @@
 ---
 author: ankita-chakrabarti
-date: 2019-07-07
+date: 2019-07-09
 layout: post
 slug: teleporting-in-Unity3D
 title: "Teleporting in Unity 3D"
@@ -13,7 +13,7 @@ tags:
 ---
 # Teleporting in Unity 3D
 
-This exercise shows you how you can teleport a character in Unity 3D using a simple C# script.
+This exercise shows you how you can teleport a character within a scene in Unity 3D using a simple C# script.
 
 - Set up a simple scene and add either a FirstPersonController or a ThirdPersonController to it. In this example I'm going to be using a ThirdPersonController.
 - We will need to download the Standard Assets package from the Asset Store which includes the Character Prefabs.
@@ -59,3 +59,10 @@ This exercise shows you how you can teleport a character in Unity 3D using a sim
 - It will appear at the Teleport Target at the top of the blue pillar!
 
 ![Teleportation Achieved!](/assets/post-media/teleporting/9.png)
+
+
+### Sources:
+
+[Teleporting Tutorial](https://www.youtube.com/watch?v=aZ7tFPGF28w.html) This quick tutorial gives you the basics of teleporting in Unity 3D as well as an explanation for the C# script.
+
+
