@@ -217,7 +217,7 @@ When changing code or editing existing webpages, writing a commit message helps 
 
    A. If you want to do more work on your blog post after saving (right away, or some time way in the future), leave the radio buttons as-is and click the green "Commit new file" button and continue reading the tutorial immediately after 8B.
 
-   B. If you're Totally Ready to Publish your new blog post, instead switch the radio button to "Create a new branch for this commit and start a pull request", leave the text field that appears as-is, and click the green "Propose new file" button. [Jump down this tutorial to Section 2]((#move-your-writing-to-the-main-repo!)), which covers what to do next now that you're ready to publish.
+   B. If you're Totally Ready to Publish your new blog post, instead switch the radio button to "Create a new branch for this commit and start a pull request", leave the text field that appears as-is, and click the green "Propose new file" button. [Jump down this tutorial to Section 2](#move-your-writing-to-the-main-repo!), which covers what to do next now that you're ready to publish.
 
 If you followed step 8A ("commit new file"), you're now back in the directory that holds all the blog post files on our henry-blog-takeover branch.
 
