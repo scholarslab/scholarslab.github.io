@@ -195,7 +195,7 @@ The first line of the post and the line after the final line of front matter sho
 
 6. Once you've got your front matter added, you can start writing your post on the line below the final front matter `---`. 
 
-There are some formatting examples at the bottom of [the post template Doc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing), or you can check out our [Markdown formatting cheatsheet](#markdown) below.
+There are some formatting examples at the bottom of [the post template Doc](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing), or you can check out our [Markdown formatting cheatsheet](#cheatsheet) below.
 
 You can click on the "No wrap" dropdown in the upperish right to select "Soft wrap", which will make your text continue to the next line when it reaches the right margin, instead of extending right forever until you hit return/move to a new line.
 
