@@ -41,6 +41,7 @@ This exercise shows you how you can teleport a character within a scene in Unity
     ![Teleportation C# Script](/assets/post-media/teleporting/5.png)
 
 - Once the script is saved, we will return to the scene and drag and drop the C# script from Assets to the yellow cylinder which is going to work as the teleportation trigger.
+
 - In the cylinder's Inspector, we will need to make the following changes,
   - Enable "Is Trigger"
   - In the Teleport Script section, drag and drop the plane (which is on top of the cube) to "Teleport Target"
