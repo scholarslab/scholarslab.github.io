@@ -15,134 +15,134 @@ Once people have some 3D content that they want to experience in virtual reality
 
 To create a custom SteamVR environment, follow the steps below [associated pictures are listed as well]:
 
-1. [Step 1] Click on the SteamVR icon from the desktop (as shown in the picture) or in the upper right corner of Steam.
+1. Click on the SteamVR icon from the desktop (as shown in the picture) or in the upper right corner of Steam.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 1] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-2. [Step 2] Make sure your VR headset is connected by ensuring that the headset icon is green.
+2. Make sure your VR headset is connected by ensuring that the headset icon is green.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 2] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-3. [Step 3] Before beginning the process to create the SteamVR environment, check some settings to make sure everything is configured correctly.
+3. Before beginning the process to create the SteamVR environment, check some settings to make sure everything is configured correctly.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 3] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-4. [Step 4] Make sure that the check box for the “Use SteamVR Home” setting is on.
+4. Make sure that the check box for the “Use SteamVR Home” setting is on.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 4] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-5. [Step 5] To start the SteamVR environment process, go to the “Create/Modify an Environment” action under the “Workshop” category.
+5. To start the SteamVR environment process, go to the “Create/Modify an Environment” action under the “Workshop” category.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 5] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-6. [Step 6] If there isn’t an addon already, click “Create Empty Addon” to create the overall project for this environment.
+6. If there isn’t an addon already, click “Create Empty Addon” to create the overall project for this environment.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 6] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-7. [Step 7] Once the addon has been created and named, click on it and click the “Launch Tools” button to initiate the project. 
+7. Once the addon has been created and named, click on it and click the “Launch Tools” button to initiate the project. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 7] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-8. [Step 8] Two windows will open. The first one is the SteamVR preview window.
+8. Two windows will open. The first one is the SteamVR preview window.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 8] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-9. [Step 9] The second one is the master window for all the tools. Click the third icon from the top left, which is the one that looks like a person, to launch the Model Editor. 
+9. The second one is the master window for all the tools. Click the third icon from the top left, which is the one that looks like a person, to launch the Model Editor. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 9] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-10. [Step 11] For this tutorial, we will be using the Zebra Fish model’s .FBX files from Google Poly found at this link (https://poly.google.com/view/elRLfCW4QZB). 
+10. For this tutorial, we will be using the Zebra Fish model’s .FBX files from Google Poly found at this link (https://poly.google.com/view/elRLfCW4QZB). 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 11] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-11. [Step 14] In the .ZIP file download (second item in the folder), there is a .FBX file (first item in the folder) that will be imported into the environment. Extract that file from the .ZIP file.
+11. In the .ZIP file download (second item in the folder), there is a .FBX file (first item in the folder) that will be imported into the environment. Extract that file from the .ZIP file.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 14] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-12. [Step 15] Click “New VMDL From Mesh File” to create a new Valve Model (VMDL) file from the 3D content’s file (or in this example, the .FBX file of the zebra fish model). 
+12. Click “New VMDL From Mesh File” to create a new Valve Model (VMDL) file from the 3D content’s file (or in this example, the .FBX file of the zebra fish model). 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 15] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-13. [Step 16] Find the mesh file of the 3D content and click on it.
+13. Find the mesh file of the 3D content and click on it.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 16] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-14. [Step 17] A warning box should pop up. Click “OK” to ignore it and resume the process. 
+14. A warning box should pop up. Click “OK” to ignore it and resume the process. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 17] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-15. [Step 18] This screen is the next window that opens. The default values should be similar to the ones in the picture. A few settings need to be changed here. First, click on the button next to the “Destination Directory” text field, which should be empty.
+15. This screen is the next window that opens. The default values should be similar to the ones in the picture. A few settings need to be changed here. First, click on the button next to the “Destination Directory” text field, which should be empty.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 18] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-16. [Step 19] It should automatically direct you to the correct folder. In this folder, create a subfolder.
+16. It should automatically direct you to the correct folder. In this folder, create a subfolder.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 19] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-17. [Step 20] Click on that subfolder that was just created.
+17. Click on that subfolder that was just created.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 20] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-18. [Step 21] Upon returning to the model creation window, give the Valve Model a new name if desired. The collision type should be changed here if needed as well. The “No Collision” setting does not apply physics to the 3D model. The “Hull” setting applies a coarse boundary, like a cube or a sphere, which saves on processing power. The “Exact” setting follows the exact geometry of the 3D content, which is very resource-intensive.
+18. Upon returning to the model creation window, give the Valve Model a new name if desired. The collision type should be changed here if needed as well. The “No Collision” setting does not apply physics to the 3D model. The “Hull” setting applies a coarse boundary, like a cube or a sphere, which saves on processing power. The “Exact” setting follows the exact geometry of the 3D content, which is very resource-intensive.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 21] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-19. [Step 22] This window is what should open after completing the instructions for the previous window.
+19. This window is what should open after completing the instructions for the previous window.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 22] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-20. [Step 23] With the Model Editor still open, go back to the main screen and click on the Hammer (Map Editor) tool in the top left corner. 
+20. With the Model Editor still open, go back to the main screen and click on the Hammer (Map Editor) tool in the top left corner. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 23] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-21. [Step 24] The screen will be blank at first, so create a new map by clicking on File and New.
+21. The screen will be blank at first, so create a new map by clicking on File and New.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 24] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-22. [Step 25] A new, blank SteamVR world map has opened up now. The top-center window is the 3D view and the bottom-left-center window is the 2D overhead view. 
+22. A new, blank SteamVR world map has opened up now. The top-center window is the 3D view and the bottom-left-center window is the 2D overhead view. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 25] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-23. [Step 26] Find the file path to the Valve Model file. The picture should show the default file path.
+23. Find the file path to the Valve Model file. The picture should show the default file path.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 26] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-24. [Step 27] Once in the correct folder, drag the Valve Model file into the top-center window (the 3D view). 
+24. Once in the correct folder, drag the Valve Model file into the top-center window (the 3D view). 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 27] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-25. [Step 28] The model should appear in both the 3D and 2D views.
+25. The model should appear in both the 3D and 2D views.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 28] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-26. [Step 29] Zoom into the view until the model appears more clearly.
+26. Zoom into the view until the model appears more clearly.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 29] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-27. [Step 30] Click the light bulb icon to the left and search for the “info_player_start” item. 
+27. Click the light bulb icon to the left and search for the “info_player_start” item. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 30] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-28. [Step 31] Click in either of the view windows to place the selected item. The views should now have a person that is visible. 
+28. Click in either of the view windows to place the selected item. The views should now have a person that is visible. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 31] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-29. [Step 32] This step is optional. To restrict the movement possibilities around the object, click on the light bulb icon again and search for the “vr_teleport_marker” item. Click around the view windows to place the icons. With these markers, the user can easily jump around between the designated teleport spots. Without these markers, the user can teleport to any spot around the model, which is less restrictive, but also more power-intensive for the computer. 
+29. This step is optional. To restrict the movement possibilities around the object, click on the light bulb icon again and search for the “vr_teleport_marker” item. Click around the view windows to place the icons. With these markers, the user can easily jump around between the designated teleport spots. Without these markers, the user can teleport to any spot around the model, which is less restrictive, but also more power-intensive for the computer. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 32] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-30. [Step 33] Once finished placing any necessary teleport markers, exit the light bulb icon and click the markers that are already placed to move them around in the X-, Y-, and Z-axes. 
+30. Once finished placing any necessary teleport markers, exit the light bulb icon and click the markers that are already placed to move them around in the X-, Y-, and Z-axes. 
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 33] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-31. [Step 34] Go to File → Build Map to construct the VR map, or just hit F9.
+31. Go to File → Build Map to construct the VR map, or just hit F9.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 34] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-32. [Step 35] When the Build Map window pops up, click the Build button to initiate the process of constructing the VR environment.
+32. When the Build Map window pops up, click the Build button to initiate the process of constructing the VR environment.
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 35] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
 
-33. [Step 37] Once the process is completed, the SteamVR preview window in the [Step 8] picture should change and the window should change to show a part of the 3D view of the built environment. Now put on the VR headset and enjoy your very own custom SteamVR environment!
+33. Once the process is completed, the SteamVR preview window in the [Step 8] picture should change and the window should change to show a part of the 3D view of the built environment. Now put on the VR headset and enjoy your very own custom SteamVR environment!
 
-![Step 1](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
+![[Step 37] ](https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png)
