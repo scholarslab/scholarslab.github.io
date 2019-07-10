@@ -17,6 +17,8 @@ To create a custom SteamVR environment, follow the steps below [associated pictu
 
 1. [Step 1] Click on the SteamVR icon from the desktop (as shown in the picture) or in the upper right corner of Steam.
 
+https://scholarslab.lib.virginia.edu/assets/post-media/create-steamvr-environment/01.png
+
 2. [Step 2] Make sure your VR headset is connected by ensuring that the headset icon is green.
 
 3. [Step 3] Before beginning the process to create the SteamVR environment, check some settings to make sure everything is configured correctly.
