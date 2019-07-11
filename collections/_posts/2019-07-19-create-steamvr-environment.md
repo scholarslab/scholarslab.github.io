@@ -143,6 +143,6 @@ To create a custom SteamVR environment, follow the steps below:
 
 ![[Step 35]](/assets/post-media/create-steamvr-environment/35.png)
 
-33. Once the process is completed, the SteamVR preview window in the [Step 8] picture should change and the window should change to show a part of the 3D view of the built environment. Now put on the VR headset and enjoy your very own custom SteamVR environment!
+33. Once the process is completed, the SteamVR preview window in the Step 8 picture should change and the window should change to show a part of the 3D view of the built environment. Now put on the VR headset and enjoy your very own custom SteamVR environment!
 
 ![[Step 37]](/assets/post-media/create-steamvr-environment/37.png)
