@@ -11,7 +11,9 @@ tags:
 - Parents Fund
 ---
 
-Once people have some 3D content that they want to experience in virtual reality (VR), creating a SteamVR environment is the best option that enables people to get that experience for themselves. The default setting for the SteamVR environment is the SteamVR Home, but SteamVR allows users to change it to a custom environment that can include a virtual representation of their 3D content. 
+Now that you have created or captured some 3D content for virtual reality (VR) ([post](/collections/_posts/2019-04-15-3d-content-vr.md)), the next logical step is to experience it in VR. This is particularly useful for visualizing information about cultural heritage, since the information is easier to manipulate and distribute in a digital form. Additionally, it allows scholars all around the world to develop creative ideas using VR technology that would otherwise be impossible. For example, the University Hall (U-Hall) building, recently demolished, was the former home of the University of Virginia's basketball teams, and before demolishment, the [entire building was scanned](https://news.virginia.edu/content/demolition-looming-university-hall-scanned-photographed-history), which could pave the way to an entirely virtual U-Hall experience for new students who have never seen the building, alumni who want to remember old memories, or researchers studying the architecture and history of U-Hall.
+
+To get started, creating a SteamVR environment is the best option that enables people to get that experience for themselves. The default setting for the SteamVR environment is the SteamVR Home, but SteamVR allows users to change it to a custom environment that can include a virtual representation of their 3D content. Even though the example below uses a zebra fish model, the steps can be applied equally as well to any other model, like a building of historic architecture.
 
 To create a custom SteamVR environment, follow the steps below:
 
