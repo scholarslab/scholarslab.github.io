@@ -1,5 +1,5 @@
 ---
-author: Mathilda-Shepard
+author: mathilda-shepard
 date: 2019-07-21
 layout: post
 slug: academic-writing-resources
