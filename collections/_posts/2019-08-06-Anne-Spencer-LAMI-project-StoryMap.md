@@ -28,7 +28,7 @@ Aleyshka and I were coming to this material almost simultaneously; I relied on h
 
 I won't carry on in this post (I could really carry on) about the discoveries and potential directions for more research. But for tantalizing sample themes, consider:
 
-- Exoticism: Anne Spencer dressed as a Native American; "Japanese" furniture and wallpaper in the house
+- Exoticism or Resistance?: Anne Spencer dressed as a Native American; "Japanese" furniture and wallpaper in the house
 - Friendships and LGBTQ Flight from Lynchburg: Amaza Lee Meredith,lesbian [African American architect](https://en.wikipedia.org/wiki/Azurest_South); [Murrell Edmunds](https://www.encyclopediavirginia.org/Edmunds_Murrell_1898-1981), white writer from Lynchburg, [a gay UVA alumnus who moved to New Orleans](https://www.questia.com/library/journal/1G1-306971766/queer-antiracism-and-the-forgotten-fiction-of-murrell) and urged us to acquire Spencer papers
 - Integration and Separatist Equality: son Chauncey Spencer, who helped integrate the airforce and was ostracized as a communist before he held positions in California and Michigan high schools and police departments, argued against Black Studies in the 1970s. Anne Spencer was skeptical about integration. 
 - African American Travel and Leisure: Happyland Lake and Harrison Theater, in Lynchburg; Azurest North, Sag Harbor, Long Island
