@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2019-07-25 10:37:46
+date: 2019-08-07 10:37:46
 layout: post
 slug: five-verbs-for-open-pedagogy
 title: "Five Verbs for Open Pedagogy"
