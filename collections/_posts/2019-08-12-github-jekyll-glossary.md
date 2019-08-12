@@ -1,3 +1,15 @@
+---
+author: amanda-visconti
+date: 2019-08-12
+layout: post
+slug: github-jekyll-glossary
+title: "GitHUb & Jekyll Glossary"
+categories:
+- Digital Humanities
+tags:
+- Digital Humanities
+---
+terms you may want to know for/or hear frequently
 Brandon and I drafting
 based on many
 why
