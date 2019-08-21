@@ -1,6 +1,6 @@
 ---
 author: drew-macqueen
-start_date: '2019-09-25'
+start_date: 2019-09-25
 start_time: '10:00:00'
 end_date: '2019-09-25'
 end_time: '11:00:00'
