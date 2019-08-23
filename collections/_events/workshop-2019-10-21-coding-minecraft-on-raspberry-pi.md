@@ -13,4 +13,4 @@ title: "Coding Minecraft on the Raspberry Pi"
 Do you love Minecraft? Did you know that you can programmatically alter the Minecraft world? You can build giant structures with a few lines of code! Come to this workshop to learn how. No expereince necessary.
 
 
-Seats are limited and registration is required: https://cal.lib.virginia.edu/event/5759677
+Seats are limited and registration is required: [https://cal.lib.virginia.edu/event/5759677 ](https://cal.lib.virginia.edu/event/5759677)
