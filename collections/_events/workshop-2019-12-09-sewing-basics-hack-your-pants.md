@@ -1,6 +1,6 @@
 ---
 author: "ammon-shepherd"
-start_date: "2019-12-09"
+start_date: 2019-12-09
 end_date: "2019-12-09"
 start_time: "12:00:00"
 end_time: "14:30:00"
@@ -17,4 +17,3 @@ Drop in anytime during the workshop hours to hack your pants!
 Note: It usually takes 20 minutes for each pocket.
 
 No registration required.
-

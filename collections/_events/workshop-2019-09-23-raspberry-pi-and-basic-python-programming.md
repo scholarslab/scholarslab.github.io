@@ -1,6 +1,6 @@
 ---
 author: "ammon-shepherd"
-start_date: "2019-09-23"
+start_date: 2019-09-23
 end_date: "2019-09-23"
 start_time: "12:00:00"
 end_time: "13:00:00"
