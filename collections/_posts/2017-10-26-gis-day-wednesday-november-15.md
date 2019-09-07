@@ -21,7 +21,7 @@ Location: Alderman Library Electronic Classroom (ALD 421, just off Scholars’ L
 
 **Presentation: ArcGIS Pro for ArcMap Users**
 
-At 1PM, join us for a session on making the switch to ArcGIS Pro by our own Drew Macqueen.  This is a quick and dirty overview of the major differences between ArcMap and ArcGIS Pro. Accept your fate as we delve into the future of desktop GIS. Spoiler alert, it’s totally worth it!
+At 1PM, join us for a session on making the switch to ArcGIS Pro by our own Drew MacQueen.  This is a quick and dirty overview of the major differences between ArcMap and ArcGIS Pro. Accept your fate as we delve into the future of desktop GIS. Spoiler alert, it’s totally worth it!
 
 **Lighting Talks**
 

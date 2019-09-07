@@ -23,7 +23,7 @@ Mark your calendars! Wednesday, Nov. 15 is GIS Day ([http://www.gisday.com/](htt
 Location: Alderman Library Electronic Classroom (ALD 421, just off Scholars’ Lab)
 
 **Presentation: ArcGIS Pro for ArcMap Users**
-At 1PM, join us for a session on making the switch to ArcGIS Pro by our own Drew Macqueen. This is a quick and dirty overview of the major differences between ArcMap and ArcGIS Pro. Accept your fate as we delve into the future of desktop GIS. Spoiler alert, it’s totally worth it!
+At 1PM, join us for a session on making the switch to ArcGIS Pro by our own Drew MacQueen. This is a quick and dirty overview of the major differences between ArcMap and ArcGIS Pro. Accept your fate as we delve into the future of desktop GIS. Spoiler alert, it’s totally worth it!
 
 **Lighting Talks**
 Starting at 2PM, our annual tradition of lightning talks continues. If you have never seen lightning round talks, they can be pretty entertaining: a rapid fire succession of speakers given a set, short amount of time and PowerPoint slides. In previous years, many great presenters have shown the incredible breadth of disciplines and fields in which GIS is used in meaningful ways.

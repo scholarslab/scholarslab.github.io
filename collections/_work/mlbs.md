@@ -3,7 +3,7 @@ collaborators:
   - name: Chris Gist
     slug: chris-gist
     role: GIS Specialist
-  - name: Drew Macqueen
+  - name: Drew MacQueen
     slug: drew-macqueen
     role: GIS Specialist
   - name: Eric Nagy
