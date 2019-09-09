@@ -12,9 +12,12 @@ tags:
 - geospatial
 - gis
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/tutorials/neatline-maps-georeferencing/
+  - title: neatline.org
+    url: http://neatline.org/2012/08/20/using-neatline-with-historical-maps-part-1-georeferencing/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/tutorials/neatline-maps-georeferencing/) and [neatline.org](http://neatline.org/2012/08/20/using-neatline-with-historical-maps-part-1-georeferencing/)]_
 
 Out of the box, [Neatline](http://neatline.org/) (our recently-released framework for building geotemporal exhibits) can be used to create geo-temporal exhibits based on "modern-geography" base-layers - OpenStreetMap, Google satellite and street maps, and a collection of [beautiful, stylized layers from Stamen Design](http://maps.stamen.com/#watercolor/12/37.7706/-122.3782). For historical and literary projects, though, one of Neatline's most powerful features is its deep integration with Geoserver, an open-source geospatial server that can pipe georeferenced historical maps directly into Neatline exhibits. For some examples of this, [check](http://hotchkiss.scholarslab.org/neatline-exhibits/show/my-dear-little-nelly/fullscreen) [out](http://hotchkiss.scholarslab.org/neatline-exhibits/show/battle-of-chancellorsville/fullscreen) [these](http://hotchkiss.neatline.org/neatline-exhibits/show/chancellorsville-may-2-1863-132/fullscreen) [four](http://hotchkiss.scholarslab.org/neatline-exhibits/show/chancellorsville-may-3-4-1863-138/fullscreen) demo exhibits built on Civil War battle maps by Jedediah Hotchkiss.
 

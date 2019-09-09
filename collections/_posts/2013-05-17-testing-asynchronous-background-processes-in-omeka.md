@@ -10,9 +10,10 @@ tags:
 - omeka
 - testing philosophy
 - zend
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/testing-asynchronous-background-processes-in-omeka/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/logs/testing-asynchronous-background-processes-in-omeka/)]_
 
 I ran into an interesting testing challenge yesterday. In Neatline, there are a couple of controller actions that need to spawn off asynchronous background processes to handle operations that are too long-running to cram inside of a regular request. For example, when the user imports Omeka items into an exhibit, Neatline needs to query a (potentially quite large) collection of Omeka items and insert a corresponding Neatline record for each of them.
 

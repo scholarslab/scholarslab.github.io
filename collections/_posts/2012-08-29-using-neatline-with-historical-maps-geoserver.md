@@ -11,11 +11,14 @@ tags:
 - geospatial
 - gis
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/tutorials/neatline-maps-geoserver/
+  - title: neatline.org
+    url: http://neatline.org/2012/08/29/using-neatline-with-historical-maps-part-3-geoserver/
 ---
 
 **Note** This is specifically for Omeka/Neatline 1.x. If you are using Omeka/Neatline 2.x, you can upload your maps to Geoserver with Option 2 below. Follow [Editing Record Imagery](http://docs.neatline.org/style-tab-imagery.html) for working with the WMS layers.
-
-_[Cross-posted with [dclure.org](http://dclure.org/tutorials/neatline-maps-geoserver/) and [neatline.org](http://neatline.org/2012/08/29/using-neatline-with-historical-maps-part-3-geoserver/)]_
 
 _This is part 3 of a 3-post tutorial that walks through process of georeferencing a historical map and using it in GeoServer and Neatline._
 

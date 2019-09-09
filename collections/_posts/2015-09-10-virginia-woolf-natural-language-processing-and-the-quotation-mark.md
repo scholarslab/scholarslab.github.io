@@ -7,9 +7,10 @@ title: Virginia Woolf, Natural Language Processing, and the Quotation Mark
 categories:
 - Digital Humanities
 - Grad Student Research
+crosspost:
+  - title: my personal blog
+    url: http://walshbr.com/blog/woolf-and-the-quotation-mark/
 ---
-
-_[Cross-posted on [my personal blog](http://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/)]_
 
 For my fellowship in the Scholars' Lab this year I'll be working with [Eric](http://scholarslab.org/people/eric-rochester/) to expand a project we began last year on Virginia Woolf and natural language processing. My dissertation focuses on sound recordings and modernism, and this year I will focus on how Woolf's quotation marks offer evidence of her engagement with sound as a textual device. In my reading, the quotation mark is the most obvious point at which sound meets text, the most heavily used sound recording technology in use by writers. Patterns in quotation mark usage across large corpora can tell us a lot about the role that sound plays in literature, but, as you might expect, there are _lots_ of quotation marks - hundreds or thousands in any given text. Computational methods can help us make sense of the vast number and turn them into reasonable objects of study.
 

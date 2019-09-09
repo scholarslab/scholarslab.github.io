@@ -159,6 +159,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: if your post is crossposted, the text here will be the text of the link, while the URL key will be the link itself. If not crossposting you can delete the crossposting key.
+    url: https://yourcoollink.com
 ---
 content of your post here. The above information is meant to be a template.")
   }

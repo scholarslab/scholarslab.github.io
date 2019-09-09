@@ -8,9 +8,10 @@ categories:
 - Geospatial and Temporal
 tags:
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/essays/neighborhoods-of-san-francisco/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/essays/neighborhoods-of-san-francisco/)]_
 
 
 

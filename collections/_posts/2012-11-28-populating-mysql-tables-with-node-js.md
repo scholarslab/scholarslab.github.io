@@ -11,9 +11,10 @@ tags:
 - neatline
 - node.js
 - omeka
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/populating-mysql-tables-with-node-js/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/logs/populating-mysql-tables-with-node-js/)]_
 
 Over the course of the last week or so, I've been working on implementing "as-needed" spatial geometry loading for Neatline - the map queries for new data in real-time as the user pans and zooms on the map, just loading the geometries that fall inside the bounding box of the current viewport. Using the spatial analysis functions baked into MySQL, this makes it possible to build out exhibits with many hundreds of thousands of spatial records, provided that the content is organized (in terms of spatial distribution and min/max zoom thresholds) so that no more than a couple hundred records of visible at any given point. I needed a way to build out a _really_ big exhibit to run the new code through its paces.
 

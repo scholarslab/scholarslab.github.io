@@ -12,9 +12,10 @@ tags:
 - Digital Humanities
 - graduate training
 - Scholarly Collaborations
+crosspost:
+  - title: my personal blog
+    url: http://jennifergrayburn.com/2015/12/08/classical-archaeology-and-the-makerspace/
 ---
-
-_[Cross-posted on my personal blog.](http://jennifernicolegrayburn.com/2015/12/08/classical-archaeology-and-the-makerspace/)_
 
 A few weeks ago, [R. Benjamin Gorham](http://www.virginia.edu/art/phd-program/current-students/11/ben-gorham), a Ph.D. candidate in [Classical Art & Archaeology](http://www.virginia.edu/art/phd-program/classical-art-archaeology/) at the University of Virginia, visited the Makerspace for a consultation on photogrammetry and 3D printing. Ben has been using GIS, drones, and photogrammetry during his summer excavations in Morgantina, Sicily and wanted to experiment with 3D printing his models. The physical reconstruction of archaeological sites offers exciting opportunities for both teaching and research, and I asked Ben to share a bit about his digital project:
 

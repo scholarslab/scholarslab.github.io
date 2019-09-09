@@ -8,9 +8,10 @@ categories:
 - Announcements
 - Digital Humanities
 - Grad Student Research
+crosspost:
+  - title: my personal site
+    url: http://walshbr.com/blog/prism-heroku/
 ---
-
-_Cross-posted on_[_ my personal site_](http://bmw9t.github.io)
 
 This past year the Scholars' Lab has implemented many performance upgrades and bug fixes for [Prism](http://prism.scholarslab.org). The most recent upgrade is particularly exciting: users can now deploy their own personal Prism installations to Heroku with the click of a button. Well - it will take the click of a button and a few other commands. I've added a section detailing just how to do so under the "[Deploy to Heroku](https://github.com/scholarslab/prism#deploy-to-heroku)" section of the Prism Github's readme.
 

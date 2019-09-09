@@ -7,9 +7,10 @@ title: What Should You Do in a Week?
 categories:
 - Digital Humanities
 - Technical Training
+crosspost:
+  - title: my personal blog
+    url: http://walshbr.com/blog/2017/06/03/what-should-you-do-in-a-week/
 ---
-
-_[Cross-posted to [my personal blog](http://walshbr.com/blog/2017/06/03/what-should-you-do-in-a-week/).]_
 
 For the past several years, I've taught a [Humanities Programming](http://humanitiesprogramming.github.io) course at [HILT](http://www.dhtraining.org/). The course was piloted by Wayne Graham and Jeremy Boggs, but, these days, I co-teach the course with [Ethan Reed](http://scholarslab.org/people/ethan-reed/), one of our DH fellows in the Scholars' Lab. The course is a soup-to-nuts introduction to the kinds of methods and technologies that are useful for humanities programming. We're changing the course a fair amount this year, so I thought I'd offer a few notes on what we're doing and the pedagogical motivations for doing so. You can find our syllabus, slides, resources, and more on [the site](https://humanitiesprogramming.github.io/syllabus/).
 
@@ -17,19 +18,19 @@ We broke the course down into two halves:
 
 
 
- 	
+
   * Basics: command line, Git, GitHub, HTML/CSS
 
- 	
+
     * Project: personal website
 
 
 
 
- 	
+
   * Programming concepts: Ruby
 
- 	
+
     * Project: Rails application deployed through Heroku and up on GitHub
 
 
@@ -40,16 +41,16 @@ In the first half, people learned the basic stack necessary to work towards a p
 
 I really enjoyed teaching the Rails course, and I think there was a lot of good in it. But over the past few years it has raised a number of pedagogical questions for me:
 
- 	
+
   * What can you reasonably hope to teach in a week-long workshop?
 
- 	
+
   * Is it better to do more with less or less with more?
 
- 	
+
   * What is the upper-limit on the amount of new information students can take in during the week?
 
- 	
+
   * What will students actually use/remember from the course once the week is over?
 
 
@@ -61,13 +62,13 @@ I also wondered a lot about the outcomes of the course. I wondered how many of t
 
 So we set about redesigning the course with some of these thoughts in mind and with a few principles:
 
- 	
+
   * Less is more.
 
- 	
+
   * A single audience is better than many.
 
- 	
+
   * If you won't use it, you'll lose it.
 
 
@@ -75,19 +76,19 @@ I wondered how we might redesign the course to better reflect the kinds of work 
 
 
 
- 	
+
   * Basics: command line, git, GitHub, HTML/CSS
 
- 	
+
     * Project: personal website
 
 
 
 
- 	
+
   * Programming concepts: Python
 
- 	
+
     * Project(s): Applied Python for acquiring, processing, and analyzing humanities data
 
 
@@ -98,16 +99,16 @@ The switch from Python to Ruby reflects, in part, my own changing practices, but
 
 
 
- 	
+
   * [Working with CSV files](https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-csv.ipynb)
 
- 	
+
   * [Getting data from API's](https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-apis.ipynb)
 
- 	
+
   * [Introduction to Web Scraping](https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/intro-to-scraping.ipynb)
 
- 	
+
   * [Basic Text Analysis](https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/text-analysis.ipynb)
 
 

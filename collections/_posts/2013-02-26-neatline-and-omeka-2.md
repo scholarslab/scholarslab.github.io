@@ -9,9 +9,10 @@ categories:
 tags:
 - neatline
 - omeka
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/neatline-and-omeka-2
 ---
-
-_[Cross-posted with [dclure.org](http://dclure.org/logs/neatline-and-omeka-2)]_
 
 We've been getting a lot of questions about when Neatline plugins will be ready for the [newly-released Omeka 2.0](http://omeka.org/blog/2013/01/24/omeka-2-0-drops-today/). The answer is - very soon! In addition to migrating all of the plugins ([Neatline](http://neatline.org/plugins/neatline/), [Neatline Time](http://neatline.org/plugins/neatline-time/), [Neatline Maps](http://neatline.org/plugins/neatline-maps/), [Neatline Features](http://neatline.org/plugins/neatline-features/)) over to the new version of Omeka, we're also using this transition to roll out a major evolution of the Neatline feature-set that incorporates lots of feedback from the first version.
 

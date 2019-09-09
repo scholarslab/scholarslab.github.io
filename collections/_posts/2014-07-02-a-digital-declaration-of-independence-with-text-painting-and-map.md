@@ -9,10 +9,10 @@ categories:
 tags:
 - neatline
 - react
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/essays/a-digital-declaration-of-independence-with-text-painting-and-map/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/essays/a-digital-declaration-of-independence-with-text-painting-and-map/)]_
-
 
 
 ## [Launch the Exhibit](http://neatline.dclure.org/neatline/show/declaration-of-independence)

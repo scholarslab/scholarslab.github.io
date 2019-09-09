@@ -7,9 +7,10 @@ title: '3D Printing in the Classroom: Outcomes and Reflections on a Slavic Cours
   Experiment (1/2)'
 categories:
 - Makerspace
+crosspost:
+  - title: my personal blog
+    url: https://jennifernicolegrayburn.com/2016/05/23/3d-printing-in-the-classroom-outcomes-and-reflections-on-a-slavic-course-experiment-12/
 ---
-
-_[Cross-posted on my personal blog.](https://jennifernicolegrayburn.com/2016/05/23/3d-printing-in-the-classroom-outcomes-and-reflections-on-a-slavic-course-experiment-12/)_
 
 In a [previous post](http://scholarslab.org/uncategorized/3d-printing-in-the-classroom-course-assignments-and-the-makerspace/), UVA's Slavic Librarian, Kathleen Thompson, and Slavic Lecturer, Jill Martiniuk, outlined the early stages of a 3D printing assignment for Yuri Urbanovich’s ‘Understanding Russia: Symbols, Myths, and Archetypes of Identity’ course. Kathleen and Jill now describe the unexpected obstacles and opportunities of this assignment in a two part blog post:
 
@@ -46,5 +47,3 @@ Generally, student groups were satisfied with their objects as symbols of Russia
 As a final note, a few days after classes ended for the semester, I (Kathleen) came across a link on [my Twitter feed](https://twitter.com/rusalkat?lang=en) to a story about upcoming Victory Day celebrations in the Siberian city of Novosibirsk. (Russians celebrate Victory Day every May 9 to commemorate the end of World War II, which they refer to as “The Great Patriotic War”). The story focused on a set of billboards being erected in the city for the celebrations, [all of which prominently featured images of Joseph Stalin](https://meduza.io/en/news/2016/05/04/novosibirsk-installs-billboards-with-stalin-s-portrait-across-city-in-preparation-for-victory-day). This story adds another twist to our discussion of the use of Stalin as a symbol of Russia; for many Russians, he is still seen as a positive figure in the country, despite his treatment of Soviet citizens during his rule. Like the Russian _matryoshka_ doll, the use of Stalin as a representation of Russia is complex and multi-layered, and can be unpacked and re-arranged in a myriad of ways.
 
 In our next post, we will address which parts of this project worked and which did not, students’ and the instructor’s final thoughts on the project, and ideas for improving the implementation of such a project in the future.
-
-

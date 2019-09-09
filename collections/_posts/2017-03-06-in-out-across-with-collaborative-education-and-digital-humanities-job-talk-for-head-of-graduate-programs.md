@@ -9,9 +9,12 @@ categories:
 - Digital Humanities
 - Grad Student Research
 - Technical Training
+crosspost:
+  - title: my personal blog
+    url: http://walshbr.com/blog/2017/03/02/in-out-across-with/
+  - title: the WLUDH blog
+    url: https://digitalhumanities.wlu.edu/blog/2017/03/06/in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-scholars-lab/
 ---
-
-_[Crossposted on my [personal blog](http://walshbr.com/blog/2017/03/02/in-out-across-with/) and the [WLUDH blog](https://digitalhumanities.wlu.edu/blog/2017/03/06/in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-scholars-lab/).]_
 
 I’ve accepted a new position as the [Head of Graduate Programs in the Scholars’ Lab](http://scholarslab.org/uncategorized/brandon-walsh-is-our-new-head-of-graduate-programs-starting-april-24-2017/), and I’ll be transitioning into that role over the next few weeks! As a part of the interview process, we had to give a job talk. While putting together this presentation, I was lucky enough to have past examples to work from (as you’ll be able to tell, if you check out this past [job talk](http://literaturegeek.com/2016/02/28/DHjobtalk) by Amanda Visconti). Since my new position will involve helping graduate students through the process of applying for positions like these, it only feels right that I should post my own job talk as well as a few words on the thinking that went into it. Blemishes, jokes, and all, hopefully these materials will help someone in the future find a way in, just as the example of others did for me. And if you’re looking for more, Visconti has a great list of other examples linked from her [more recent job talk](http://scholarslab.org/digital-humanities/disrupt-the-humanities-managing-director-job-talk/) for the Scholars’ Lab.
 

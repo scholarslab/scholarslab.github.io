@@ -12,9 +12,10 @@ tags:
 - javascript
 - marionette
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/restarting-marionette-applications/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/logs/restarting-marionette-applications/)]_
 
 Over the course of the last couple months, I've been using Derick Bailey's superb [Marionette](https://github.com/marionettejs/backbone.marionette) framework for Backbone.js to build the new version of Neatline. Marionette sits somewhere in the hazy zone between a library and a framework - it's really a collection of architectural components for large front-end applications that can be composed in lots of different ways. I use Marionette mainly for the core set of message-passing utilities, which make it easy to define interactions among different parts of big applications - pub-sub event channels, command execution, request-response patterns, etc. I've come to completely rely on these structures, and can't really imagine writing non-trivial applications without them anymore.
 
@@ -28,7 +29,7 @@ But then manually calling all of the init methods in my Jasmine start-up routine
 
 
 
-This is icky - I have to exactly recreate a specific start-up order that's automatically enforced in the application itself by `before:` and `after:` initialization events. And it introduces lots of opportunities for false-negatives - if you add a module, and forget to explicitly start it in the test suite, everything falls apart. 
+This is icky - I have to exactly recreate a specific start-up order that's automatically enforced in the application itself by `before:` and `after:` initialization events. And it introduces lots of opportunities for false-negatives - if you add a module, and forget to explicitly start it in the test suite, everything falls apart.
 
 Really, I wanted to just re-call `Neatline.start()` before every test. I realized tonight, though, that the application object can be tricked into restarting itself by (a) stopping all of the modules and (b) resetting the top-level `Callbacks` on the application:
 

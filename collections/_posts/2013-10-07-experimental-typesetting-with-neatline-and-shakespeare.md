@@ -9,16 +9,13 @@ categories:
 tags:
 - neatline
 - shakespeare
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/?p=3088
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/?p=3088)]_
-
 
 
 ## [Click here to view the exhibit](http://neatline.dclure.org/neatline/show/by-the-pricking-of-my-thumbs).
-
-
-
 
 
 I've always been fascinated by the geometric structure of text - the fact that literature is encoded as physical, space-occupying symbols that can be described, measured, and manipulated just like any other two-dimensional shapes. There's something counter-intuitive about this. When I look at a letter or a word, I see particles of sound and meaning, transcendental cognitive forms, not things that could be straightforwardly described as a chunks of vector geometry. And there's definitely a truth to this - I do think that texts have a kind of extra-physical cognitive essence that's independent of their visual instantiations on pages or screens, and that it's usually this common denominator that’s most interesting when we talk about literature with other people. And yet, in the context of any individual reading, the physical structure of documents - the set of pragmatic decisions that go into the design, layout, and formatting of text on the page - can have subtle but significant effects on how a text _feels_, on the imaginative dreamscape that surrounds it in your mind when you think back on it days or weeks or years after the fact.

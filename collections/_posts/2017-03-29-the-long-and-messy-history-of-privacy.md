@@ -9,9 +9,12 @@ categories:
 - Grad Student Research
 tags:
 - WLU Collab
+crosspost:
+  - title: WLUDH blog
+    url: http://digitalhumanities.wlu.edu/blog/2017/03/29/the-long-and-messy-history-of-privacy/
 ---
 
-_[Cross-posted to the [Washington and Lee Digital Humanities Blog](http://digitalhumanities.wlu.edu/blog/2017/03/29/the-long-and-messy-history-of-privacy/). He came to W&L to give a workshop through a Mellon-funded collaboration with the [Scholars’ Lab](http://scholarslab.org/). More information about this initiative can be found [here](https://github.com/wludh/research-one-collab).]_
+_Shane to W&L to give a workshop through a Mellon-funded collaboration with the [Scholars’ Lab](http://scholarslab.org/). More information about this initiative can be found [here](https://github.com/wludh/research-one-collab).]_
 
 I was invited by Brandon Walsh, the Mellon Digital Humanities Fellow at Washington and Lee and a former Scholars' Lab Praxis fellow of my cohort, to come to W&L as part of an ongoing collaboration between W&L and the Scholars' Lab. The program pairs UVA graduate students with W&L undergraduate students studying a relevant subject and gives the former the opportunity to expose the latter to new modes of digital scholarship.
 

@@ -10,9 +10,10 @@ categories:
 - Grad Student Research
 tags:
 - WLU Collab
+crosspost:
+  - title: W&L DH blog
+    url: http://digitalhumanities.wlu.edu/blog/2017/03/13/gothic-dh-at-washington-and-lee/
 ---
-
-*Cross-posted on the [Washington and Lee DH Blog](http://digitalhumanities.wlu.edu/blog/2017/03/13/gothic-dh-at-washington-and-lee/)*
 
 Toward the beginning of the semester, I was contacted by Brandon Walsh, a UVA alumnus and the current Mellon Digital Humanities Fellow at Washington and Lee. As part of his fellowship, Brandon has been pairing UVA DH folks with professors at Washington and Lee; the initiative is aimed at integrating new developments in technology with more traditional pedagogical methods practiced at a liberal arts university (read more about it here: [http://augustafreepress.com/mellon-foundation-grants-washington-and-lee-funds-for-digital-humanities-study-of-histor/](http://augustafreepress.com/mellon-foundation-grants-washington-and-lee-funds-for-digital-humanities-study-of-histor/)). Brandon paired me with Professor Taylor Walle, who is teaching Washington and Lee’s English 232: “Frantic and Sickly, Idle and Extravagant: The Gothic Novel, 1764-2002.”
 

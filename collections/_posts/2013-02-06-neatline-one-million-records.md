@@ -10,9 +10,10 @@ tags:
 - mysql
 - neatline
 - omeka
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/neatline-one-million-records/
 ---
-
-_[Cross-posted with [dclure.org](http://dclure.org/logs/neatline-one-million-records/)]_
 
 **;tldr** - The upcoming version of Neatline makes it possible to build **huge** interactive maps with as many as 1,000,000 records in a single exhibit. It also introduces a new set of tools to search, filter, and organize geospatial data at that scale. Watch the screencast:
 
