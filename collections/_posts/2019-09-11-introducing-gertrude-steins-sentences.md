@@ -5,9 +5,9 @@ layout: post
 slug: introducing-gs-grammars
 title: "Introducing 'Gertrude Stein's Grammars'"
 categories:
--Digital Humanities
--Research and Development
--Grad Student Research
+- Digital Humanities
+- Research and Development
+- Grad Student Research
 ---
 *Crossposted to [my personal blog] (http://jordanbuysse.com/blog.html)*
 
