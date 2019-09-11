@@ -10,8 +10,10 @@ categories:
 - Grad Student Research
 tags: 
 - Digital Humanities
+crosspost:
+  - title: my personal blog
+    url: http://jordanbuysse.com/blog.html
 ---
-*Crossposted to [my personal blog] (http://jordanbuysse.com/blog.html)*
 
 Hi! I’m Jordan Buysse, a sixth year PhD candidate in the English department and one of the Scholars’ Lab fellows this year. I work on modern and contemporary literature, media studies, and text analysis. My dissertation is about the relationship between literary works and information. In math and computer science, information refers to a type of communication that has nothing to do with meaning. But this definition is at odds with the colloquial sense of the word and its longer etymological history, which is about in*form*ing people--shaping the mind. As it turns out, these two opposite senses of the term actually have a lot to say about what goes on when we read different types of literary works.
 So far I’ve written chapters about novels that work like search engines and a poet who writes all of her work algorithmically. For my fellowship project and the associated chapter, I’m working on the modernist poet Gertrude Stein. My work with Stein is a little bit different because, while the other chapters have been heavily informed by ‘data’-centric approaches to literary studies, it is the first chapter where I am doing significant computational work for the sake of my argument. I’m going to get into how that works in future blog posts, but here I actually want to look back at how my thinking has developed.
@@ -24,8 +26,7 @@ My methods back then were fairly laborious--I used the Stanford Parser with diff
 
 ![The raw grammar-tagged text from the Stanford parser](assets/post-media/2019-09-11-stein-parsed-tags)
 
-![Output from a Python script I wrote to isolate features from the text and ‘clean’ them by removing tags]
-(assets/post-media/2019-09-11-stein-parse-clean)
+![Output from a Python script I wrote to isolate features from the text and ‘clean’ them by removing tags](assets/post-media/2019-09-11-stein-parse-clean)
 
 For this initial paper, there were some fancier theoretical arguments about digital versus analog ‘reading,’ but the truth is that I was much more interested in seeing if the methods worked than making any specific literary-critical argument about Stein.
 I left the Stein project alone for a while because I wasn’t sure what to do with it. While I certainly saw a lot of potential in the methods I used here, the ability to isolate questions itself wasn’t going to do much for a larger argument about her work. As time went on, there were some remarkable advances in the tools available for grammar parsing that led me to revisit this initial work in the area. I’ll talk more about those in blog posts later this semester. In a lot of ways, what I’m working on now is a more elegant solution to questions I was posing back in 2015. Instead of tagging text files one by one and writing custom regular expressions to reassemble the text in different forms, my current work streamlines the process to make it accessible to anyone with an interest in posing questions about the shape of grammar to a given text. I’ll leave it at that for now, but watch this space for more in the coming months!
