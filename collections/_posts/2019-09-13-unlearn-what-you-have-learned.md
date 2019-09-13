@@ -12,4 +12,4 @@ Having sipped the nectar of possibility, I found myself creating other simple pr
 
 One of my personal goals as a Praxis Fellow this year is to shed any lingering traces of my “I’m not a tech person” mentality. “You must unlearn what you have learned,” Yoda might say. 
 
-It won’t be easy. I’m sure this past week won’t be the last time self-doubt creeps back. But hey, who wants a year without a little adventure? Hit it, John Williams!
+It won’t be easy. I’m sure this past week won’t be the last time self-doubt creeps back. But hey, who wants a year without a little adventure? Hit it, John Williams! 
