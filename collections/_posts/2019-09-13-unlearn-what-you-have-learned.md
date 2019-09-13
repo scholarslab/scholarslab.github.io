@@ -2,7 +2,7 @@ In the last few years, I have come to realize how digital tools can help a histo
 
 But the truth is, for much of my life I described myself as “not a tech person.” Whenever friends would talk about computers, I’d find myself struggling to follow and soon my brain would begin to wander. 
 
-As late-blooming “tech person,” I find myself especially susceptible to self-doubt when talking about digital humanities. Though I’ve found the Scholars’ Lab to be a warm and welcoming community, during the first few weeks of Praxis I have continued to question my ability to keep up. Am I asking a stupid question? Does everyone else already understand this concept? Can I actually complete this coding homework?
+As a late-blooming “tech person,” I find myself especially susceptible to self-doubt. Though I’ve found the Scholars’ Lab to be a warm and welcoming community, during the first few weeks of Praxis I have continued to question my ability to keep up. Am I asking a stupid question? Does everyone else already understand this concept? Can I actually complete this coding homework?
 
 I found myself asking that last question during our first coding assignment. The assignment was to create a program in Python that would translate a word into Pig-Latin. I didn’t know where to start. I could feel the hairs on the back of my neck beginning to rise. I was going to be found out as “not a tech person,” and it was only Week 2. 
 
