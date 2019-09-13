@@ -1,4 +1,4 @@
-In the last few years, I have come to realize how digital tools can help me, a historian, analyze and present the past in new and compelling ways. As a Praxis fellow, I want to learn more about what’s out there. What digital tools could I use to augment my teaching and research? And what are the implications of using those tools? 
+In the last few years, I have come to realize how digital tools can help a historian like me to analyze and present the past in new and compelling ways. As a Praxis fellow, I want to learn more about what’s out there. What digital tools could I use to augment my teaching and research? And what are the implications of using those tools? 
 
 But the truth is, for much of my life I described myself as “not a tech person.” Whenever friends would talk about computers, I’d find myself struggling to follow and soon my brain would begin to wander. 
 
