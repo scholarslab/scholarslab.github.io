@@ -18,7 +18,7 @@ We are delighted to welcome 6 team members to the 9th year of the Praxis Program
 
 *	Chloe Downe Welles, Art and Architectural History
 *	Janet Dunkelbarger, Art and Architectural History
-*	Conor Kenaston, History
+*	Connor Kenaston, History
 *	Natasha Roth-Rowland, History
 *	Nicholas Scott, History
 *	Lauren Van Nest, Art and Architectural History
