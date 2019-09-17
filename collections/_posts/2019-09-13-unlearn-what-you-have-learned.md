@@ -1,3 +1,15 @@
+---
+author: connor-kenaston
+date: 2019-09-17
+layout: post
+slug: unlearn-what-you-have-learned
+title: "Unlearn What You Have Learned"
+categories:
+- Digital Humanities
+- Grad Student Research
+tags: 
+- Digital Humanities
+---
 In the last few years, I have come to realize how digital tools can help historians like me to analyze the past in new and interesting ways. As a Praxis fellow, I want to learn more about what’s out there. What digital tools could I use to augment my teaching and research? And what are the implications of using those tools? 
 
 But the truth is, for much of my life I described myself as “not a tech person.” Whenever friends would talk about computers, I’d find myself struggling to follow and soon my brain would begin to wander. 
