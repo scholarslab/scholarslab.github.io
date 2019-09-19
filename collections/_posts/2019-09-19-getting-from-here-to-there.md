@@ -3,7 +3,7 @@ author: brandon-walsh
 date: 2019-09-19 15:06:10
 layout: post
 slug: getting-from-here-to-there
-title: Getting From Here To There
+title: Getting from Here To There
 categories:
 - Digital Humanities
 tags:
