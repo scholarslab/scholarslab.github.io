@@ -275,6 +275,6 @@ I've done a version of this activity for helping people develop a sense of their
 
 Now that the students have seen some examples and discussed them, it's time for them to write. They'll be in a decent place to do so, hopefully, because the mind mapping activity already asked them to think about large topics that were meaningful to them. As writing about values can sometimes feel frightening, I drew in Sean Michael Morris's great rules for timed writing prompts here to help encourage the participants. I chose eight minutes, but you could give a longer amount of time - anything would be useful. After writing, I could imagine having a productive conversation about the results. The students need not feel pressured to share their exact wording, but a general discussion of the process, the issues, and things that they gravitated towards would be useful.
 
-![Timed writing on values](/assets/post-media/getting-from-here-to-there/41.png)
+![Timed writing on values](/assets/post-media/getting-from-here-to-there/42.png)
 
 That's it for the workshop and accompanying materials! Happy to talk with anyone who might be interested in working with them. The trip to Emory was very invigorating and provocative, and I was endlessly impressed, especially, by the students at ECDS. They're a great crew. Keep an eye out for them - they're already doing important work, and you'll be hearing from them soon.
