@@ -1,3 +1,4 @@
+---
 author: julia-haines
 date: 2019-08-23
 layout: post
@@ -12,13 +13,13 @@ tags:
 - Digital Humanities
 - Photogrammetry
 - 3D Technology
-
+---
 
 # Photogrammetry Workflow using a DSLR Camera
 
 ![3D Apple with a Bite ](https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-3dapple.PNG)
 
-What is Photogrammetry? Photogrammetry is a photographic process that generates 3D data (measurements) from 2D images (photographs) to create a 3D model with accurate color and texture. Basically, you take a bunch of pictures at different angles of an object, run all the photos through a computer program called Metashape, and you end up with a very cool digital 3D object at the end! The [Smithsonian 3D Digitization](https://3d.si.edu/browser) has a whole collection of 3D models online you can browse from artifacts to structures to in-situ burials. 
+What is Photogrammetry? Photogrammetry is a photographic process that generates 3D data (measurements) from 2D images (photographs) to create a 3D model with accurate color and texture. Basically, you take a bunch of pictures at different angles of an object, run all the photos through a computer program called Metashape, and you end up with a very cool digital 3D object at the end! The [Smithsonian 3D Digitization](https://3d.si.edu/browser) has a whole collection of 3D models online you can browse from artifacts to structures to in-situ burials.
 
 
 Light is critical to this process and therefore there are certain objects that are difficult, if not impossible, to model using photogrammetry: objects with reflective or shiny surfaces, clear/transparent objects like glass, very thin objects like tree leaves, very furry or hairy things, things that move (e.g. your pet hamster or your best friend's head).
@@ -27,23 +28,23 @@ In this blog posting I go through the workflow to create a high quality, scaled 
 
 ## STEP 1: Equipment choice and setting up your photo station
 ###	Equipment
- Photogrammetry, at its core, is a photographic project. The goal is to have a set of the clearest photos possible, which means using a camera and lens that have a manual mode where you can adjust the camera’s aperture, focus, white balance, and ISO to fit your lighting environment. This doesn’t mean you can’t do photogrammetry with a point-and-shoot or your phone’s camera, but the quality will be that much better if you use a good DSLR camera. If you plan to use photogrammetry to record quantitative data, a DSLR camera is required. Lenses are measured based on focal length (the number before the mm on your lens). The wider a lens (lower mm number), the more you are able to capture in a photo, however with a 24 mm lens or lower you’ll start to see distortion around at the edges of your frame. Do not use fisheye or wide-angle lenses because they cause too much distortion. Higher numbered lenses have less distortion but are also much more expensive. Prime lenses have a fixed focal length: you cannot zoom. They can produce very high quality photographs because they minimize noise and distortion, resulting in an extra sharp image. If you have a good prime fixed-zoom lens within 24-70mm range, use it! A polarized lens cover will also help to reduce glare if your object has a shiny surface. 
+ Photogrammetry, at its core, is a photographic project. The goal is to have a set of the clearest photos possible, which means using a camera and lens that have a manual mode where you can adjust the camera’s aperture, focus, white balance, and ISO to fit your lighting environment. This doesn’t mean you can’t do photogrammetry with a point-and-shoot or your phone’s camera, but the quality will be that much better if you use a good DSLR camera. If you plan to use photogrammetry to record quantitative data, a DSLR camera is required. Lenses are measured based on focal length (the number before the mm on your lens). The wider a lens (lower mm number), the more you are able to capture in a photo, however with a 24 mm lens or lower you’ll start to see distortion around at the edges of your frame. Do not use fisheye or wide-angle lenses because they cause too much distortion. Higher numbered lenses have less distortion but are also much more expensive. Prime lenses have a fixed focal length: you cannot zoom. They can produce very high quality photographs because they minimize noise and distortion, resulting in an extra sharp image. If you have a good prime fixed-zoom lens within 24-70mm range, use it! A polarized lens cover will also help to reduce glare if your object has a shiny surface.
 
    * DSLR Camera
    * Tripod
    * Level
    * Color and White Balance cards
    * Painter’s tape
-   * Remote release 
+   * Remote release
    * Optional: lint roller (to clean the black backdrop if necessary)
 
 ### Environment
 *	White Light box: this will diffuse the light so you don’t get harsh shadows
 *	Black background and base (ideally photographers black drop cloth, or felt if necessary)
 *	Turntable
-*	Lighting: we like photographers LED lights on tripods that you can move around, add light filters etc. 
+*	Lighting: we like photographers LED lights on tripods that you can move around, add light filters etc.
 *	Scales / Ruler
-*	Optional: black pedestal for your object 
+*	Optional: black pedestal for your object
 
 
 ### Computers & Software
@@ -58,58 +59,58 @@ All cameras
 1.	Set your camera to shoot in RAW.
 2.	Turn OFF auto-rotate
 3.	Set mode to Manual or (For beginners, try using Aperture priority—AV on a Canon or A on a Nikon)
-4.	Set to never turn off 
+4.	Set to never turn off
 
 Some Cameras
 1.	Turn off GPS (you can take some photos with the GPS later if desired)
 2.	Turn off sensor cleaning on power down (if the camera shakes the sensor to remove dust on power down)
-3.	If using zoom lens set the focal distance to one end of the other of the focal length and tape it down with painters’ tape. 
+3.	If using zoom lens set the focal distance to one end of the other of the focal length and tape it down with painters’ tape.
 4.	If the lens has ‘image stabilization’ or ‘vibration reduction’ turn it OFF (usually a switch on the lens itself.)
 
 Optional Adjustments
 1. Set camera from live view to grid view
 2. Turn off AF beep when using live view (on Canon)
 3. Set back button for focus (functionality of half shutter press is transferred to back button)
-4. Set the camera to not shoot if no SD or CF card is present. 
+4. Set the camera to not shoot if no SD or CF card is present.
 
 
-###	Part II: Position your Camera. 
+###	Part II: Position your Camera.
 It is important to position your camera in the exact environment where you plan on taking photos before you change any of the following settings.
 
-![3D Apple with a Bite ]( 
+![3D Apple with a Bite ](
 https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-Photogram-lights.png)
 
 
-1.	We suggest starting with your camera and tripod positioned on the same horizontal plane as your object- e.g. your camera should be aligned directly with the center of your object. You’ll move it up and down later. Use a tripod that has an adjustable central pole so that you don’t have to move the feet of the tripod, but just the camera up or down. Make sure you position the central pole in the middle of its height range so that you are able to adjust up or down later. 
+1.	We suggest starting with your camera and tripod positioned on the same horizontal plane as your object- e.g. your camera should be aligned directly with the center of your object. You’ll move it up and down later. Use a tripod that has an adjustable central pole so that you don’t have to move the feet of the tripod, but just the camera up or down. Make sure you position the central pole in the middle of its height range so that you are able to adjust up or down later.
 2.	Check to make sure your camera base is level.
 3.	Place your object in the center of the turntable and position your camera tripod such that the entire object is visible. Make sure that when you rotate the object it doesn’t move out of the frame! If possible, avoid including the edges of the lightbox or edge of your black background in the photo frame; this will make masking much easier later on.  
-4.	Lighting: You want your object to be illuminated with diffused light to minimize shadows. LED lights with tripods and filters are available to check out. Position lights to shine towards the front of the object but still behind the white-box sides. 
-
- 
-
-### Part III: Camera Adjustments. 
-There are four critical settings on a DSLR you want to be aware of: ISO, white balance, aperture (f/stop), and shutter speed. All cameras are different and the target numbers will depend on the environment in which you are shooting. All four of these settings are inter-related. It is important to have a sense of how changing one setting will impact the others. 
+4.	Lighting: You want your object to be illuminated with diffused light to minimize shadows. LED lights with tripods and filters are available to check out. Position lights to shine towards the front of the object but still behind the white-box sides.
 
 
-1.	**Focus and Zoom**. 
+
+### Part III: Camera Adjustments.
+There are four critical settings on a DSLR you want to be aware of: ISO, white balance, aperture (f/stop), and shutter speed. All cameras are different and the target numbers will depend on the environment in which you are shooting. All four of these settings are inter-related. It is important to have a sense of how changing one setting will impact the others.
+
+
+1.	**Focus and Zoom**.
 	Zoom: Set your lens to properly frame the subject and use painters tape to tape down the setting.  (If you have a prime lens you can skip this step.)  DO NOT ZOOM your lens while shooting the subject.  Zoom to one setting and lock it down!
-	
-	Focus: Set the camera to manual focus OR use auto focus to set the focus distance then switch the camera to manual focus. Tape the focus lens with painter’s tape after setting the focus. 
+
+	Focus: Set the camera to manual focus OR use auto focus to set the focus distance then switch the camera to manual focus. Tape the focus lens with painter’s tape after setting the focus.
 	> Keeping the same focus and zoom will ensure your photos are consistent. You may need to adjust the focus when you move your camera to different heights. Just make sure you don’t change any of the other settings!
-2.	**ISO**. 
+2.	**ISO**.
 Set your camera to within the 100-200 ISO range.
 	> The ISO setting on your camera allows you to control its sensitivity to light. Typically, you set the ISO based on how bright your setting is-the brighter the environment, the lower the ISO. However, a higher ISO, i.e. more light-sensitive, the more noise you introduce into your photo. For Photogrammetry we want to reduce noise by setting a low ISO. (Note that this will increase exposure time which is OK since the camera is on a tripod.)   
-3.	**White Balance**. 
+3.	**White Balance**.
 Set your white balance.
 	>This setting helps you balance the quality of light and color. Setting white balance helps whites actually render white in your photo. The light in your environment exists on a spectrum between warmer light (toward the red end of the spectrum) and cooler (towards the blue spectrum). To adjust your white balance you’ll measure the temperature of the light on a gray card (measured in degrees Kelvin) and adjust your camera accordingly. Note that on cheaper DSLR cameras you can’t control for the white balance, but if capturing an accurate representation of the surface color of your object is important to you, then you should find a camera that has this adjustement.
-4.	**Aperture**. 
+4.	**Aperture**.
 Set your camera to a low f/stop around f8 to f11.
-	>Aperture, also called f/stop, controls the opening of the lens on your camera. The lower the aperture number, the wider the opening in the lens, which provides less depth-of-field i.e. a blurrier background. The higher the aperture number, the smaller the opening in the lens and therefore the greater the depth of field, and the sharper the background will be. We want to ensure that the entire object is fully within the depth of field. (Note there is an inverse relationship between shutter speed and aperture.) 
-	
-5.	**Shutter speed**. 
+	>Aperture, also called f/stop, controls the opening of the lens on your camera. The lower the aperture number, the wider the opening in the lens, which provides less depth-of-field i.e. a blurrier background. The higher the aperture number, the smaller the opening in the lens and therefore the greater the depth of field, and the sharper the background will be. We want to ensure that the entire object is fully within the depth of field. (Note there is an inverse relationship between shutter speed and aperture.)
+
+5.	**Shutter speed**.
 If you are working in aperture priority (A or AV) mode skip this step! The camera will adjust the shutter speed accordingly. Most likely, you’ll be setting your camera to a 1/80 shutter speed or higher depending on the light quality.  
 	> The shutter speed is the amount of time the shutter on your camera is open. Shutter speed is measured in fractions of seconds, so you’ll see on your camera screen a fraction 1/1000 to 1/8 (shown as 0“etc.  Since we’re using a tripod here, we avoid some issues with stability and slow shutter speeds resulting in blurry photos. With the tripod we want to set the shutter speed very slow (higher number) to allow for the low amount of light coming in due to the smaller apertures (high fstop) and low ISO settings. Use a quick release while taking photos so as not to shake the camera during shutter release.
-![3D Apple with a Bite ]( 
+![3D Apple with a Bite ](
 https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-photoGramsetup.png
 )
 
@@ -122,27 +123,27 @@ Take a few sample photos and check them on the view screen.
 -  Check your lighting: Is the object casting any dark shadows?
 - Is the lighting creating halos or flares?
 - Does the color on the object look accurate? Not too warm (orangey-reddish) not to cool (bluish)?
--  Is the image too dark or too light? If too dark, try to slow down the shutter speed (e.g. increase from a 1/3” shutter speed to ½”) If the object is washed out, or the background looks too. 
+-  Is the image too dark or too light? If too dark, try to slow down the shutter speed (e.g. increase from a 1/3” shutter speed to ½”) If the object is washed out, or the background looks too.
 -  Is your camera tripod positioned such that the entire object is visible, and the edges of the lightbox aren’t visible in the frame?
--  Is the object centered on the turntable so that when you rotate it, it will stay centered in your frame? 
+-  Is the object centered on the turntable so that when you rotate it, it will stay centered in your frame?
 -  Is there dust or debris on the black background? If so, use the lint roller to get rid of it!
--  Write down your ISO, F/stop and shutter speed settings for the first round of photos in case something happens with the settings when you move your camera to a new angle and change the focus. 
+-  Write down your ISO, F/stop and shutter speed settings for the first round of photos in case something happens with the settings when you move your camera to a new angle and change the focus.
 
-#### You’re ready to start shooting! 
+#### You’re ready to start shooting!
 
 ---
 ## STEP 3: Taking Photos
-For the photogrammetry software to work you need redundant subject capture, which mean you want to make sure you have overlapping data of your object. This means following a 2/3rds rule of overlapping images: 2/3rds of the previous image should be visible in each subsequent photo as you rotate the object. The same 2/3rds principle applies to the vertical axis of the object. Take three rows of overlapping images at three different heights. 
+For the photogrammetry software to work you need redundant subject capture, which mean you want to make sure you have overlapping data of your object. This means following a 2/3rds rule of overlapping images: 2/3rds of the previous image should be visible in each subsequent photo as you rotate the object. The same 2/3rds principle applies to the vertical axis of the object. Take three rows of overlapping images at three different heights.
 
 ![Capture Circuits] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-CaptureCircuits.png)
 
-1. **Central Position**. Rotate the turntable on 10 degree increments, taking 36 photos total. 
+1. **Central Position**. Rotate the turntable on 10 degree increments, taking 36 photos total.
 2. **Lower Position**. lower the central pole of the camera on the tripod to change the camera perspective. Do not move the feet. Adjust the angle of the camera to point slightly upwards so your object is still in the center of your frame. Adjust your focus if necessary. Do not change any other settings on your camera. Rotate the turntable on 10 degree increments, taking 36 photos total.
 3. **Upper Position**. Raise the camera on the tripod and adjust the angle of the camera to point downwards so your object is still in the center of your frame. Adjust your focus if necessary. Do not change any other settings on your camera. Rotate the turntable on 10 degree increments, taking 36 photos total.
-4. Take photos with Scale bars. 
+4. Take photos with Scale bars.
 5. Take photos with color bar and/or gray card
 6. Take a photo of the turntable without the object
-7. Optional: turn the object upside-down and follow steps 1-3. 
+7. Optional: turn the object upside-down and follow steps 1-3.
 
 #### You’re ready to process your photographs!
 ---
@@ -167,23 +168,23 @@ _**Using a Background Photo**_
 	Method: From Background
 	Operation: Replacement
 	Filename template: leave the default {filename}_mask.jpg
-	Apply to: Selected cameras 
+	Apply to: Selected cameras
 	```
 
 ![Masking Pop-up] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-mask-window.PNG)
 
 3. Start with the default tolerance (10) and click OK. A window will pop up where you can navigate to your background photo.
 4.  If enough of the background isn’t masked out, you’ll need to adjust the tolerance accordingly. Try to strike a balance between having the entire background masked out and cutting too far into your object. You want the number to be as low as possible with all or at least most of the background masked out. The higher the tolerance, the more it will eat into your object.
-5. Once you’re satisfied with the mask you’re ready to mask the group. 
+5. Once you’re satisfied with the mask you’re ready to mask the group.
 	In the Workspace select the entire folder and camera group.
 	Right click on the group folder and under **Masks** click **Import Masks…** and keep the same parameters you used on the single file _except:_
 
-			Filename template : file name must match exactly that of your background photo. 
-			   Copy and paste the name from your folder into the file name template box. 
+			Filename template : file name must match exactly that of your background photo.
+			   Copy and paste the name from your folder into the file name template box.
 			   Make sure the filename extension is the same also.
-			When you click OK a window will pop-up. 
+			When you click OK a window will pop-up.
 			  Select the FOLDER where the background image file is located.
-		
+
 
 6. You can check the masks by double clicking on photos in the Photos Pane.
 7.  OPTIONAL: If you still aren’t satisfied with the automatic masking and there are just a handful of unmasked areas in the photos you can do some touch-ups by hand. If you happened to start with an image with any extra objects, the program will continue to mask that area even if it disappears in other images in the circuit. You might want to go back and use a cleaner image to start the process again.
@@ -192,22 +193,22 @@ _**Using a Background Photo**_
 https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-mask-manual.png)
 
 8. Repeat the previous masking steps for every circuit
-	
+
 ---
 ### Part II: Build and Optimize Your Sparse Point Cloud
 From this point forward you’ll primarily be working down the **Workflow** menu, with some optimization steps between. It is worth saving a new back-up project file or a duplicate chunk within the same project, since most of these tasks cannot be undone or reset. This will allow you to play with some of settings.
 1. Go to the Workflow menu and click on **Align Photos**. In the pop-up window select the following:
-		
-	``` 
+
+	```
 	General		Accuracy : High
 			Select √ Generic Preselection
-				
-	Advanced 	Key point limit:  40,000 to 80,000 (points of interest) 
-			Tie point limit:   0 
+
+	Advanced 	Key point limit:  40,000 to 80,000 (points of interest)
+			Tie point limit:   0
 			(This is the number of key points that are matched on 2 or more photos. If there are too many points with 0, pick a range between 20,000 and 40,000.
-			Apply masks to:  Key Points 
+			Apply masks to:  Key Points
 			Uncheck Adaptive camera model fitting
-			
+
 
 This process will take some time depending on how many photos you’ve added. When complete, click on the Tie Points at the bottom of your workspace and you will see your object made of points. Check two things:
 
@@ -273,7 +274,7 @@ The next three steps typically take a very long time, so it is best to start thi
 	Quality:  High
 	Depth Filtering: Aggressive
 	```
-	When this is done processing, check out your dense cloud (double click on it in Workspace to get it to appear in your Model pane. 
+	When this is done processing, check out your dense cloud (double click on it in Workspace to get it to appear in your Model pane.
 
 6. Go to the Workflow menu and click on **Build Mesh**. In the pop-up window select the following:
 	```
@@ -292,7 +293,7 @@ The next three steps typically take a very long time, so it is best to start thi
 	```
 
 
-## Export your model and enjoy! 
+## Export your model and enjoy!
 Agisoft Metashape will export to most 3D formats that are usable in other 3D modeling software.  OBJ is a standard format that is commonly used.  STL is a format that most 3D printers use though keep in mind it will not include any texture information.  
 
 If you are interested in printing your new 3D object please check out the [Scholars' Lab Makerspace](https://scholarslab.lib.virginia.edu/makerspace/)! Check out Abhishek's series of postings on other ways to [create 3D content](https://scholarslab.lib.virginia.edu/blog/3d-content-vr/) for VR and AR and [how to add them to a Steam VR environment](https://scholarslab.lib.virginia.edu/blog/create-steamvr-environment/).
