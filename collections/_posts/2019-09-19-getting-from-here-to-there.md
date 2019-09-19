@@ -67,7 +67,7 @@ Those are all excellent questions. And part of the message I want you to take aw
 
 ![Pepper studying](/assets/post-media/getting-from-here-to-there/9.png)
 
-[Sidebar: insert joke about Pepper looking stressed while working. He always seeks out]
+[Sidebar: insert joke about Pepper looking stressed while working.]
 
 ![Imposter syndrome](/assets/post-media/getting-from-here-to-there/10.png)
 
