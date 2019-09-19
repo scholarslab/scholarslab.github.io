@@ -17,7 +17,7 @@ tags:
 
 # Photogrammetry Workflow using a DSLR Camera
 
-![3D Apple with a Bite ](https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-3dapple.PNG)
+![3D Apple with a Bite ](/assets/post-media/2019-09-19-3dapple.PNG)
 
 What is Photogrammetry? Photogrammetry is a photographic process that generates 3D data (measurements) from 2D images (photographs) to create a 3D model with accurate color and texture. Basically, you take a bunch of pictures at different angles of an object, run all the photos through a computer program called Metashape, and you end up with a very cool digital 3D object at the end! The [Smithsonian 3D Digitization](https://3d.si.edu/browser) has a whole collection of 3D models online you can browse from artifacts to structures to in-situ burials.
 
@@ -78,7 +78,7 @@ Optional Adjustments
 It is important to position your camera in the exact environment where you plan on taking photos before you change any of the following settings.
 
 ![3D Apple with a Bite ](
-https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-Photogram-lights.png)
+/assets/post-media/2019-09-19-Photogram-lights.png)
 
 
 1.	We suggest starting with your camera and tripod positioned on the same horizontal plane as your object- e.g. your camera should be aligned directly with the center of your object. You’ll move it up and down later. Use a tripod that has an adjustable central pole so that you don’t have to move the feet of the tripod, but just the camera up or down. Make sure you position the central pole in the middle of its height range so that you are able to adjust up or down later.
@@ -111,7 +111,7 @@ Set your camera to a low f/stop around f8 to f11.
 If you are working in aperture priority (A or AV) mode skip this step! The camera will adjust the shutter speed accordingly. Most likely, you’ll be setting your camera to a 1/80 shutter speed or higher depending on the light quality.  
 	> The shutter speed is the amount of time the shutter on your camera is open. Shutter speed is measured in fractions of seconds, so you’ll see on your camera screen a fraction 1/1000 to 1/8 (shown as 0“etc.  Since we’re using a tripod here, we avoid some issues with stability and slow shutter speeds resulting in blurry photos. With the tripod we want to set the shutter speed very slow (higher number) to allow for the low amount of light coming in due to the smaller apertures (high fstop) and low ISO settings. Use a quick release while taking photos so as not to shake the camera during shutter release.
 ![3D Apple with a Bite ](
-https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-photoGramsetup.png
+/assets/post-media/2019-09-19-photoGramsetup.png
 )
 
 
@@ -135,7 +135,7 @@ Take a few sample photos and check them on the view screen.
 ## STEP 3: Taking Photos
 For the photogrammetry software to work you need redundant subject capture, which mean you want to make sure you have overlapping data of your object. This means following a 2/3rds rule of overlapping images: 2/3rds of the previous image should be visible in each subsequent photo as you rotate the object. The same 2/3rds principle applies to the vertical axis of the object. Take three rows of overlapping images at three different heights.
 
-![Capture Circuits] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-CaptureCircuits.png)
+![Capture Circuits](/assets/post-media/2019-09-19-CaptureCircuits.png)
 
 1. **Central Position**. Rotate the turntable on 10 degree increments, taking 36 photos total.
 2. **Lower Position**. lower the central pole of the camera on the tripod to change the camera perspective. Do not move the feet. Adjust the angle of the camera to point slightly upwards so your object is still in the center of your frame. Adjust your focus if necessary. Do not change any other settings on your camera. Rotate the turntable on 10 degree increments, taking 36 photos total.
@@ -152,9 +152,9 @@ For the photogrammetry software to work you need redundant subject capture, whic
 
 Once you have completed your photos you’re ready to process the data. This workflow was written for Agisoft Metashape Professional, but the same general workflow process applies to earlier versions of Agisoft Photoscan.
 ### Part I: Preparing Your Photos
-**Import** your first circuit of images in Metashape by either dragging and dropping them into the Workspace or click  ![add photo icon] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-addphotos.PNG) the add photos icon, and navigate to your photo library. The photos will automatically be added to a new “Chunk.”  
+**Import** your first circuit of images in Metashape by either dragging and dropping them into the Workspace or click  ![add photo icon](/assets/post-media/2019-09-19-addphotos.PNG) the add photos icon, and navigate to your photo library. The photos will automatically be added to a new “Chunk.”  
 You want to keep each circuit of photos separate. Click on the arrow to the left of your _Chunk 1_ to expand the file. Right click on _Cameras_ file and click _Add Camera Group._ Add each of your image circuits to a new camera group. *rename the groups to keep track! Don’t create new Chunks for each circuit.  Use only one Chunk with multiple Camera Groups nested within.
-![Metashape with Chunk and Groups] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-metashape-overall.png)
+![Metashape with Chunk and Groups](/assets/post-media/2019-09-19-metashape-overall.png)
 
 
 **Mask Photos.** If your background has dust, bits of tape, or isn’t otherwise perfectly uniform, you’ll need to mask out the background. If you forgot to take a photo of your empty background you can either
@@ -171,7 +171,7 @@ _**Using a Background Photo**_
 	Apply to: Selected cameras
 	```
 
-![Masking Pop-up] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-mask-window.PNG)
+![Masking Pop-up](/assets/post-media/2019-09-19-mask-window.PNG)
 
 3. Start with the default tolerance (10) and click OK. A window will pop up where you can navigate to your background photo.
 4.  If enough of the background isn’t masked out, you’ll need to adjust the tolerance accordingly. Try to strike a balance between having the entire background masked out and cutting too far into your object. You want the number to be as low as possible with all or at least most of the background masked out. The higher the tolerance, the more it will eat into your object.
@@ -189,8 +189,7 @@ _**Using a Background Photo**_
 6. You can check the masks by double clicking on photos in the Photos Pane.
 7.  OPTIONAL: If you still aren’t satisfied with the automatic masking and there are just a handful of unmasked areas in the photos you can do some touch-ups by hand. If you happened to start with an image with any extra objects, the program will continue to mask that area even if it disappears in other images in the circuit. You might want to go back and use a cleaner image to start the process again.
 	- On your toolbar select the dotted rectangle icon tool. Right-click on the photo in the Model Pane. Use the Magic Wand or Rectangle Selection to select area you want to mask, right click again and select **Add Selection**. If there are parts of your object that are masked that shouldn’t be, you can also select them and click **Subtract Selection.**
-![Manual Masking] (
-https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-mask-manual.png)
+![Manual Masking](/assets/post-media/2019-09-19-mask-manual.png)
 
 8. Repeat the previous masking steps for every circuit
 
@@ -208,6 +207,7 @@ From this point forward you’ll primarily be working down the **Workflow** menu
 			(This is the number of key points that are matched on 2 or more photos. If there are too many points with 0, pick a range between 20,000 and 40,000.
 			Apply masks to:  Key Points
 			Uncheck Adaptive camera model fitting
+      ```
 
 
 This process will take some time depending on how many photos you’ve added. When complete, click on the Tie Points at the bottom of your workspace and you will see your object made of points. Check two things:
@@ -219,12 +219,12 @@ This process will take some time depending on how many photos you’ve added. Wh
 	- If a large number of photos didn’t align, create a new chuck in your work space and drag and drop the unaligned photos there. Align the photos in the new chunk. Then align chunks 1 and 2.
 
 
-![Checking Photo Alignment] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-aligned-Photos.png)
+![Checking Photo Alignment](/assets/post-media/2019-09-19-aligned-Photos.png)
 
 
 2. **Optimize**. Next step is to optimize the photo alignment, removing the worst points in sparse cloud. The goal is to remove error from the project and have a set of _very_ accurate tie points, high quality camera calibration, and image positioning. The goal is NOT to have a huge number of tie points, so do not panic if you see your points quickly disappearing through the optimization process or you need to delete a bunch of photos! Technically, you’re optimizing to achieve a low RMSE value (root mean square error… just some statistics) for the project and have a minimum of 150-200 tie points on each image. As you go through the following steps, check how your photos are doing by switching from the Workspace Pane to the Reference pane. In the top window, sort by projections, (you’ll probably need to expand the window and drag both Projections column and Error column to the left). If any photo goes below 150 you can’t use that photo. You can check that photo by double clicking on it in the Reference pane. If it is blurry, delete it from the project. If there are duplicates, delete one from the project.
 
-![Reference Pane for Optimization] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-Optomization-Check.png)
+![Reference Pane for Optimization](/assets/post-media/2019-09-19-Optomization-Check.png)
 
 
 - Go to the **Tools** menu and click on _Optimize Cameras_. Click OK with default settings.
@@ -247,7 +247,7 @@ Check your Projections numbers in the Reference pane, remembering to re-sort the
 
 5. Go to the **Tools** menu and click on _Optimize Cameras_. Click OK with default settings. Check your projections in the Reference pane again.
 6. Repeat the Projection accuracy one more time for a total of 2 times.
-OPTIONAL: If you’re using scales, at this point you can set the _scale bar accuracy_. On the Reference pane, click the ![tools icon] (https://github.com/scholarslab/scholarslab.org/blob/Julia-photogrammetry/assets/post-media/2019-09-19-settingstool-icon.png), to pull up the Reference pane settings menu.
+OPTIONAL: If you’re using scales, at this point you can set the _scale bar accuracy_. On the Reference pane, click the ![tools icon](/assets/post-media/2019-09-19-settingstool-icon.png), to pull up the Reference pane settings menu.
 7. Go to Model menu and click on **Gradual Selection** and make the following selections:
 	```
 	Criterion : Reconstruction uncertainty
