@@ -22,7 +22,7 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 ## Digital Humanities Fellowship Program
 **Call issued:** Annually in October, typically by October 1
 
-**Deadline:** November 30th, 2018 for the 2019-2020 fellowship year.
+**Deadline:** November 25th, 2019 for the 2020-2021 fellowship year.
 
 [More information](/digital-humanities-fellows/)
 
