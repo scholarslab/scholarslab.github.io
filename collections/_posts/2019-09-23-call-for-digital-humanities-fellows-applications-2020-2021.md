@@ -1,10 +1,16 @@
 ---
-layout: page
-title: Digital Humanities Fellows Program
-permalink: /digital-humanities-fellows/
-nav: false
+author: brandon-walsh
+date: 2019-09-23 10:02:40
+layout: post
+slug: call-for-digital-humanities-fellows-applications-2020-2021
+title: Call For Digital Humanities Fellows Applications - 2020-2021
+categories:
+- Announcements
+- Digital Humanities
+tags:
+- Digital Humanities
 ---
-**We are now accepting applications for the 2020-2021 Digital Humanities Fellowship Cohort.**
+We are now accepting applications for the 2020-2021 Digital Humanities Fellowship Cohort. 
 
 The application deadline for fellowships to be held during the 2020-2021 academic year is **Monday, November 25th, 2019 at 11:59 PM**. We will do our best to render decisions by late December. 
 
