@@ -17,7 +17,7 @@ tags:
 
 # Photogrammetry Workflow using a DSLR Camera
 
-![3D Apple with a Bite ](/assets/post-media/2019-09-19-3dapple.PNG)
+![3D Apple with a Bite ](/assets/post-media/2019-09-19-3dapple.png)
 
 What is Photogrammetry? Photogrammetry is a photographic process that generates 3D data (measurements) from 2D images (photographs) to create a 3D model with accurate color and texture. Basically, you take a bunch of pictures at different angles of an object, run all the photos through a computer program called Metashape, and you end up with a very cool digital 3D object at the end! The [Smithsonian 3D Digitization](https://3d.si.edu/browser) has a whole collection of 3D models online you can browse from artifacts to structures to in-situ burials.
 
@@ -78,7 +78,7 @@ Optional Adjustments
 It is important to position your camera in the exact environment where you plan on taking photos before you change any of the following settings.
 
 ![3D Apple with a Bite ](
-/assets/post-media/2019-09-19-Photogram-lights.png)
+/assets/post-media/2019-09-19-photogram-lights.png)
 
 
 1.	We suggest starting with your camera and tripod positioned on the same horizontal plane as your object- e.g. your camera should be aligned directly with the center of your object. You’ll move it up and down later. Use a tripod that has an adjustable central pole so that you don’t have to move the feet of the tripod, but just the camera up or down. Make sure you position the central pole in the middle of its height range so that you are able to adjust up or down later.
@@ -111,7 +111,7 @@ Set your camera to a low f/stop around f8 to f11.
 If you are working in aperture priority (A or AV) mode skip this step! The camera will adjust the shutter speed accordingly. Most likely, you’ll be setting your camera to a 1/80 shutter speed or higher depending on the light quality.  
 	> The shutter speed is the amount of time the shutter on your camera is open. Shutter speed is measured in fractions of seconds, so you’ll see on your camera screen a fraction 1/1000 to 1/8 (shown as 0“etc.  Since we’re using a tripod here, we avoid some issues with stability and slow shutter speeds resulting in blurry photos. With the tripod we want to set the shutter speed very slow (higher number) to allow for the low amount of light coming in due to the smaller apertures (high fstop) and low ISO settings. Use a quick release while taking photos so as not to shake the camera during shutter release.
 ![3D Apple with a Bite ](
-/assets/post-media/2019-09-19-photoGramsetup.png
+/assets/post-media/2019-09-19-photogramsetup.png
 )
 
 
@@ -135,7 +135,7 @@ Take a few sample photos and check them on the view screen.
 _**STEP 3: Taking Photos**_
 For the photogrammetry software to work you need redundant subject capture, which mean you want to make sure you have overlapping data of your object. This means following a 2/3rds rule of overlapping images: 2/3rds of the previous image should be visible in each subsequent photo as you rotate the object. The same 2/3rds principle applies to the vertical axis of the object. Take three rows of overlapping images at three different heights.
 
-![Capture Circuits](/assets/post-media/2019-09-19-CaptureCircuits.png)
+![Capture Circuits](/assets/post-media/2019-09-19-capturecircuits.png)
 
 1. **Central Position**. Rotate the turntable on 10 degree increments, taking 36 photos total.
 2. **Lower Position**. lower the central pole of the camera on the tripod to change the camera perspective. Do not move the feet. Adjust the angle of the camera to point slightly upwards so your object is still in the center of your frame. Adjust your focus if necessary. Do not change any other settings on your camera. Rotate the turntable on 10 degree increments, taking 36 photos total.
@@ -152,7 +152,7 @@ _**STEP 4: Using Agisoft Metashape Professional**_
 
 Once you have completed your photos you’re ready to process the data. This workflow was written for Agisoft Metashape Professional, but the same general workflow process applies to earlier versions of Agisoft Photoscan.
 ### Part I: Preparing Your Photos
-**Import** your first circuit of images in Metashape by either dragging and dropping them into the Workspace or click  ![add photo icon](/assets/post-media/2019-09-19-addphotos.PNG) the add photos icon, and navigate to your photo library. The photos will automatically be added to a new “Chunk.”  
+**Import** your first circuit of images in Metashape by either dragging and dropping them into the Workspace or click  ![add photo icon](/assets/post-media/2019-09-19-addphotos.png) the add photos icon, and navigate to your photo library. The photos will automatically be added to a new “Chunk.”  
 You want to keep each circuit of photos separate. Click on the arrow to the left of your _Chunk 1_ to expand the file. Right click on _Cameras_ file and click _Add Camera Group._ Add each of your image circuits to a new camera group. *rename the groups to keep track! Don’t create new Chunks for each circuit.  Use only one Chunk with multiple Camera Groups nested within.
 ![Metashape with Chunk and Groups](/assets/post-media/2019-09-19-metashape-overall.png)
 
@@ -172,7 +172,7 @@ You want to keep each circuit of photos separate. Click on the arrow to the left
   	Apply to: Selected cameras
   	```
 
-    ![Masking Pop-up](/assets/post-media/2019-09-19-mask-window.PNG)
+    ![Masking Pop-up](/assets/post-media/2019-09-19-mask-window.png)
 
 3. Start with the default tolerance (10) and click OK. A window will pop up where you can navigate to your background photo.
 4.  If enough of the background isn’t masked out, you’ll need to adjust the tolerance accordingly. Try to strike a balance between having the entire background masked out and cutting too far into your object. You want the number to be as low as possible with all or at least most of the background masked out. The higher the tolerance, the more it will eat into your object.
@@ -213,10 +213,10 @@ From this point forward you’ll primarily be working down the **Workflow** menu
     	    1. Redo the alignment with a different **Tie point limit**, making sure that you Select √ **Reset current alignment**.  
     	    2. In Workspace select the photos that didn’t align, right-click and choose **Align Selected Photos.**  
     	    3. If a large number of photos didn’t align, create a new Camera Group in your work space and drag and drop the unaligned photos there. Align the photos in the new Camera Group. Then align all Camera Groups.  
-      ![Checking Photo Alignment](/assets/post-media/2019-09-19-aligned-Photos.png)
+      ![Checking Photo Alignment](/assets/post-media/2019-09-19-aligned-photos.png)
 2. **Optimize**. Next step is to optimize the photo alignment, removing the worst points in sparse cloud. The goal is to remove error from the project and have a set of _very_ accurate tie points, high quality camera calibration, and image positioning. The goal is NOT to have a huge number of tie points, so do not panic if you see your points quickly disappearing through the optimization process or you need to delete a bunch of photos! Technically, you’re optimizing to achieve a low RMSE value (root mean square error… just some statistics) for the project and have a minimum of 150-200 tie points on each image. As you go through the following steps, check how your photos are doing by switching from the Workspace Pane to the Reference pane. In the top window, sort by projections, (you’ll probably need to expand the window and drag both Projections column and Error column to the left). If any photo goes below 150 you can’t use that photo. You can check that photo by double clicking on it in the Reference pane. If it is blurry, delete it from the project. If there are duplicates, delete one from the project.
 
-    ![Reference Pane for Optimization](/assets/post-media/2019-09-19-Optomization-Check.png)
+    ![Reference Pane for Optimization](/assets/post-media/2019-09-19-optomization-check.png)
 
 
     1. Go to the **Tools** menu and click on _Optimize Cameras_. Click OK with default settings.  
