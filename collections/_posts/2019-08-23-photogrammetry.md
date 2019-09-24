@@ -216,7 +216,8 @@ This process will take some time depending on how many photos you’ve added. Wh
 - Look at your Workspace and see that all photos are aligned. If there are some that didn’t align you can either:
 	- Redo the alignment with a different **Tie point limit**, making sure that you Select √ **Reset current alignment**.
 	- In Workspace select the photos that didn’t align, right-click and choose **Align Selected Photos.**
-	- If a large number of photos didn’t align, create a new chuck in your work space and drag and drop the unaligned photos there. Align the photos in the new chunk. Then align chunks 1 and 2.
+	- If a large number of photos didn’t align, create a new Camera Group in your work space and drag and drop the unaligned photos there. Align the photos in the new Camera Group. Then align all Camera Groups.
+
 
 
 ![Checking Photo Alignment](/assets/post-media/2019-09-19-aligned-Photos.png)
