@@ -1,6 +1,6 @@
 ---
 author: janet-dunkelbarger
-date: 2019-09-20
+date: 2019-09-24
 layout: post
 slug: very-good-place-to-start
 title: "A Very Good Place to Start"
