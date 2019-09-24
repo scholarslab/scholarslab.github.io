@@ -79,7 +79,7 @@ Optional Adjustments
 It is important to position your camera in the exact environment where you plan on taking photos before you change any of the following settings.
 
 ![3D Apple with a Bite ](
-/assets/post-media/2019-09-19-photogram-lights.png)
+/assets/post-media/2019-09-19-Photogram-lights.png)
 
 
 1.	We suggest starting with your camera and tripod positioned on the same horizontal plane as your object- e.g. your camera should be aligned directly with the center of your object. You’ll move it up and down later. Use a tripod that has an adjustable central pole so that you don’t have to move the feet of the tripod, but just the camera up or down. Make sure you position the central pole in the middle of its height range so that you are able to adjust up or down later.
@@ -174,7 +174,7 @@ You want to keep each circuit of photos separate. Click on the arrow to the left
   	Apply to: Selected cameras
   	```
 
-    ![Masking Pop-up](/assets/post-media/2019-09-19-mask-window.png)
+    ![Masking Pop-up](/assets/post-media/2019-09-19-mask-window.PNG)
 
 3. Start with the default tolerance (10) and click OK. A window will pop up where you can navigate to your background photo.
 4.  If enough of the background isn’t masked out, you’ll need to adjust the tolerance accordingly. Try to strike a balance between having the entire background masked out and cutting too far into your object. You want the number to be as low as possible with all or at least most of the background masked out. The higher the tolerance, the more it will eat into your object.
@@ -215,10 +215,10 @@ From this point forward you’ll primarily be working down the **Workflow** menu
     	    1. Redo the alignment with a different **Tie point limit**, making sure that you Select √ **Reset current alignment**.  
     	    2. In Workspace select the photos that didn’t align, right-click and choose **Align Selected Photos.**  
     	    3. If a large number of photos didn’t align, create a new Camera Group in your work space and drag and drop the unaligned photos there. Align the photos in the new Camera Group. Then align all Camera Groups.  
-      ![Checking Photo Alignment](/assets/post-media/2019-09-19-aligned-photos.png)
+      ![Checking Photo Alignment](/assets/post-media/2019-09-19-aligned-Photos.png)
 2. **Optimize**. Next step is to optimize the photo alignment, removing the worst points in sparse cloud. The goal is to remove error from the project and have a set of _very_ accurate tie points, high quality camera calibration, and image positioning. The goal is NOT to have a huge number of tie points, so do not panic if you see your points quickly disappearing through the optimization process or you need to delete a bunch of photos! Technically, you’re optimizing to achieve a low RMSE value (root mean square error… just some statistics) for the project and have a minimum of 150-200 tie points on each image. As you go through the following steps, check how your photos are doing by switching from the Workspace Pane to the Reference pane. In the top window, sort by projections, (you’ll probably need to expand the window and drag both Projections column and Error column to the left). If any photo goes below 150 you can’t use that photo. You can check that photo by double clicking on it in the Reference pane. If it is blurry, delete it from the project. If there are duplicates, delete one from the project.
 
-    ![Reference Pane for Optimization](/assets/post-media/2019-09-19-optomization-check.png)
+    ![Reference Pane for Optimization](/assets/post-media/2019-09-19-Optomization-Check.png)
 
 
     1. Go to the **Tools** menu and click on _Optimize Cameras_. Click OK with default settings.  
