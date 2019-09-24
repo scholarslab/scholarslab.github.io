@@ -18,16 +18,16 @@ There's a [homepage for all our SLab.org-related documentation here](https://git
 
 ## View the site
 
-1. [ScholarsLab.org]()
-* Our "live" (aka production) website that the world can see.
-* We change code in this repo, a script that Ammon created updates the UVA web server hosting our site, and the change appears on ScholarsLab.org a couple minutes later
+1. [ScholarsLab.org](https://scholarslab.lib.virginia.edu)
+  * Our "live" (aka production) website that the world can see.
+  * We change code in this repo, a service that Ammon created updates the UVA web server hosting our site, and the change appears on ScholarsLab.org a couple minutes later
 
-2. Maybe.ScholarsLab.org
-* _Not_ our live site; lives on GitHub Pages server
-* Gets updated when the repo gets updated, but! lacks some stuff that can't work on GitHub Pages (some Jekyll plugins, the nginx redirects that point old URLs to the current page locations (e.g. scholarslab.org/about/charter moved to scholarslab.org/charter when we moved from WordPress to Jekyll)
-* So, maybe just ignore that this exists? I guess we could take it down?
+2. [Maybe.ScholarsLab.org](http://maybe.scholarslab.org)
+  * _Not_ our live site; lives on GitHub Pages server
+  * Gets updated when the repo gets updated, but! lacks some stuff that can't work on GitHub Pages (some Jekyll plugins, the nginx redirects that point old URLs to the current page locations (e.g. scholarslab.org/about/charter moved to scholarslab.org/charter when we moved from WordPress to Jekyll)
+  * So, maybe just ignore that this exists? I guess we could take it down?
 
-3. "Old" WordPress site will live at: [https://old.scholarslab.org]() (hasn't been moved there yet; #531 will accomplish this)  
+3. "Old" WordPress site will live at: [old.scholarslab.org](http://old.scholarslab.org) (hasn't been moved there yet; #531 will accomplish this)  
 	* The Wordpress site that was ScholarsLab.org up until the end of 2018  
 	* No longer updated, but available in case we need to grab stuff from it
 
