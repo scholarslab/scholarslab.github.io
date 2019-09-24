@@ -7,12 +7,12 @@ title: "Photogrammetry Workflow using a DSLR Camera"
 categories:
 - Digital Humanities
 - Research and Development
-- Parents Fund
 - Makerspace
 tags:
 - Digital Humanities
 - Photogrammetry
 - 3D Technology
+- Parents Fund
 ---
 
 ![3D Apple with a Bite ](/assets/post-media/2019-09-19-3DApple.png)
