@@ -51,6 +51,7 @@ _**STEP 1: Equipment choice and setting up your photo station**_
 We will be processing the photos using a program called Agisoft Metashape Pro.
 
 ---
+
 _**STEP 2: Get to know the settings on your camera**_   
 For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Metashape. This means both taking photos of the object from the same position every time (you’ll change the height of the camera at least three times to take 3 circuits of photos) so that the object is consistently framed in the photograph and adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo. It is important to have a general understanding of how different settings on your DSLR camera can impact your photographs. The following steps will help you set up your camera to produce the crispest image possible with accurate color representation.
 
@@ -132,6 +133,7 @@ Take a few sample photos and check them on the view screen.
 #### You’re ready to start shooting!
 
 ---
+
 _**STEP 3: Taking Photos**_
 For the photogrammetry software to work you need redundant subject capture, which mean you want to make sure you have overlapping data of your object. This means following a 2/3rds rule of overlapping images: 2/3rds of the previous image should be visible in each subsequent photo as you rotate the object. The same 2/3rds principle applies to the vertical axis of the object. Take three rows of overlapping images at three different heights.
 
