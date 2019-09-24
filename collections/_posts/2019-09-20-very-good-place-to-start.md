@@ -3,7 +3,7 @@ author: Janet-Dunkelbarger
 date: 2019-09-20
 layout: post
 slug: very-good-place-to-start
-title: "A Verry Good Place to Start"
+title: "A Very Good Place to Start"
 categories:
 - Digital Humanities
 - Grad Student Research
