@@ -26,7 +26,7 @@ Light is critical to this process and therefore there are certain objects that a
 
 In this blog posting I go through the workflow to create a high quality, scaled model using our photogrammetry station in the Robertson Media Center on the third floor of Clemons Library and computer software called Agisoft Metashape (previously Photoscan). If you want to create a quick and less accurate model or you are working in the field or with a collection where you can't bring the physical object to Clemons, check out my posting on photogrammetry in the field with your smart phone.
 
-## STEP 1: Equipment choice and setting up your photo station
+_**STEP 1: Equipment choice and setting up your photo station**_
 ###	Equipment
  Photogrammetry, at its core, is a photographic project. The goal is to have a set of the clearest photos possible, which means using a camera and lens that have a manual mode where you can adjust the camera’s aperture, focus, white balance, and ISO to fit your lighting environment. This doesn’t mean you can’t do photogrammetry with a point-and-shoot or your phone’s camera, but the quality will be that much better if you use a good DSLR camera. If you plan to use photogrammetry to record quantitative data, a DSLR camera is required. Lenses are measured based on focal length (the number before the mm on your lens). The wider a lens (lower mm number), the more you are able to capture in a photo, however with a 24 mm lens or lower you’ll start to see distortion around at the edges of your frame. Do not use fisheye or wide-angle lenses because they cause too much distortion. Higher numbered lenses have less distortion but are also much more expensive. Prime lenses have a fixed focal length: you cannot zoom. They can produce very high quality photographs because they minimize noise and distortion, resulting in an extra sharp image. If you have a good prime fixed-zoom lens within 24-70mm range, use it! A polarized lens cover will also help to reduce glare if your object has a shiny surface.
 
@@ -51,7 +51,7 @@ In this blog posting I go through the workflow to create a high quality, scaled 
 We will be processing the photos using a program called Agisoft Metashape Pro.
 
 ---
-## STEP 2: Get to know the settings on your camera
+_**STEP 2: Get to know the settings on your camera**_   
 For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Metashape. This means both taking photos of the object from the same position every time (you’ll change the height of the camera at least three times to take 3 circuits of photos) so that the object is consistently framed in the photograph and adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo. It is important to have a general understanding of how different settings on your DSLR camera can impact your photographs. The following steps will help you set up your camera to produce the crispest image possible with accurate color representation.
 
 ### Part I: Basic Camera Settings
@@ -132,7 +132,7 @@ Take a few sample photos and check them on the view screen.
 #### You’re ready to start shooting!
 
 ---
-## STEP 3: Taking Photos
+_**STEP 3: Taking Photos**_
 For the photogrammetry software to work you need redundant subject capture, which mean you want to make sure you have overlapping data of your object. This means following a 2/3rds rule of overlapping images: 2/3rds of the previous image should be visible in each subsequent photo as you rotate the object. The same 2/3rds principle applies to the vertical axis of the object. Take three rows of overlapping images at three different heights.
 
 ![Capture Circuits](/assets/post-media/2019-09-19-CaptureCircuits.png)
@@ -148,7 +148,7 @@ For the photogrammetry software to work you need redundant subject capture, whic
 #### You’re ready to process your photographs!
 ---
 
-## STEP 4: Using Agisoft Metashape Professional
+_**STEP 4: Using Agisoft Metashape Professional**_
 
 Once you have completed your photos you’re ready to process the data. This workflow was written for Agisoft Metashape Professional, but the same general workflow process applies to earlier versions of Agisoft Photoscan.
 ### Part I: Preparing Your Photos
@@ -161,34 +161,32 @@ You want to keep each circuit of photos separate. Click on the arrow to the left
 - Create a black background by going in to photoshop and rubberstamping the object out of your photo. Proceed with the following steps.
 - Skip down to Step 7: OPTIONAL and experiment by masking manually on a few of your photos using the magic wand tool
 
-_**Using a Background Photo**_
+### Using a Background Photo
+
 1. In your Workspace, expand the file with the photos in your first circuit folder so you can see the filenames. Select one of your cleanest images so that it appears in the Model pane.
 2. Right-click on one of the photos and under **Masks** click **Import Masks…** and enter the following parameters in the pop-up box:
-	```
-	Method: From Background
-	Operation: Replacement
-	Filename template: leave the default {filename}_mask.jpg
-	Apply to: Selected cameras
-	```
+  	```
+  	Method: From Background
+  	Operation: Replacement
+  	Filename template: leave the default {filename}_mask.jpg
+  	Apply to: Selected cameras
+  	```
 
-![Masking Pop-up](/assets/post-media/2019-09-19-mask-window.PNG)
+    ![Masking Pop-up](/assets/post-media/2019-09-19-mask-window.PNG)
 
 3. Start with the default tolerance (10) and click OK. A window will pop up where you can navigate to your background photo.
 4.  If enough of the background isn’t masked out, you’ll need to adjust the tolerance accordingly. Try to strike a balance between having the entire background masked out and cutting too far into your object. You want the number to be as low as possible with all or at least most of the background masked out. The higher the tolerance, the more it will eat into your object.
-5. Once you’re satisfied with the mask you’re ready to mask the group.
-	In the Workspace select the entire folder and camera group.
-	Right click on the group folder and under **Masks** click **Import Masks…** and keep the same parameters you used on the single file _except:_
+5. Once you’re satisfied with the mask you’re ready to mask the group. In the Workspace select the entire folder and camera group. Right click on the group folder and under **Masks** click **Import Masks…** and keep the same parameters you used on the single file _except:_
 
 			Filename template : file name must match exactly that of your background photo.
-			   Copy and paste the name from your folder into the file name template box.
-			   Make sure the filename extension is the same also.
-			When you click OK a window will pop-up.
-			  Select the FOLDER where the background image file is located.
+
+    Copy and paste the name from your folder into the file name template box. Make sure the filename extension is the same also. When you click OK a window will pop-up. Select the FOLDER where the background image file is located.
 
 
 6. You can check the masks by double clicking on photos in the Photos Pane.
 7.  OPTIONAL: If you still aren’t satisfied with the automatic masking and there are just a handful of unmasked areas in the photos you can do some touch-ups by hand. If you happened to start with an image with any extra objects, the program will continue to mask that area even if it disappears in other images in the circuit. You might want to go back and use a cleaner image to start the process again.
-	- On your toolbar select the dotted rectangle icon tool. Right-click on the photo in the Model Pane. Use the Magic Wand or Rectangle Selection to select area you want to mask, right click again and select **Add Selection**. If there are parts of your object that are masked that shouldn’t be, you can also select them and click **Subtract Selection.**
+	
+    On your toolbar select the dotted rectangle icon tool. Right-click on the photo in the Model Pane. Use the Magic Wand or Rectangle Selection to select area you want to mask, right click again and select **Add Selection**. If there are parts of your object that are masked that shouldn’t be, you can also select them and click **Subtract Selection.**
 ![Manual Masking](/assets/post-media/2019-09-19-mask-manual.png)
 
 8. Repeat the previous masking steps for every circuit
@@ -198,44 +196,37 @@ _**Using a Background Photo**_
 From this point forward you’ll primarily be working down the **Workflow** menu, with some optimization steps between. It is worth saving a new back-up project file or a duplicate chunk within the same project, since most of these tasks cannot be undone or reset. This will allow you to play with some of settings.
 1. Go to the Workflow menu and click on **Align Photos**. In the pop-up window select the following:
 
-	```
-	General		Accuracy : High
-			Select √ Generic Preselection
+      ```
+      General Accuracy : High
+      Select √ Generic Preselection
 
-	Advanced 	Key point limit:  40,000 to 80,000 (points of interest)
-			Tie point limit:   0
-			(This is the number of key points that are matched on 2 or more photos. If there are too many points with 0, pick a range between 20,000 and 40,000.
-			Apply masks to:  Key Points
-			Uncheck Adaptive camera model fitting
+      Advanced Key point limit:  40,000 to 80,000 (points of interest)
+      Tie point limit:   0
+        (This is the number of key points that are matched on 2 or more photos. If there are too many points with 0, pick a range between 20,000 and 40,000.)
+      Apply masks to:  Key Points
+      Uncheck Adaptive camera model fitting
       ```
 
-
-This process will take some time depending on how many photos you’ve added. When complete, click on the Tie Points at the bottom of your workspace and you will see your object made of points. Check two things:
-
-- Zoom out and make sure your photos are all positioned correctly. If you completed each circuit evenly, you should see your object encircled by your photos.
-- Look at your Workspace and see that all photos are aligned. If there are some that didn’t align you can either:
-	- Redo the alignment with a different **Tie point limit**, making sure that you Select √ **Reset current alignment**.
-	- In Workspace select the photos that didn’t align, right-click and choose **Align Selected Photos.**
-	- If a large number of photos didn’t align, create a new Camera Group in your work space and drag and drop the unaligned photos there. Align the photos in the new Camera Group. Then align all Camera Groups.
-
-
-
-![Checking Photo Alignment](/assets/post-media/2019-09-19-aligned-Photos.png)
-
-
+    This process will take some time depending on how many photos you’ve added. When complete, click on the Tie Points at the bottom of your workspace and you will see your object made of points. Check two things:
+      1. Zoom out and make sure your photos are all positioned correctly. If you completed each circuit evenly, you should see your object encircled by your photos.
+      2. Look at your Workspace and see that all photos are aligned. If there are some that didn’t align you can either:  
+    	    1. Redo the alignment with a different **Tie point limit**, making sure that you Select √ **Reset current alignment**.  
+    	    2. In Workspace select the photos that didn’t align, right-click and choose **Align Selected Photos.**  
+    	    3. If a large number of photos didn’t align, create a new Camera Group in your work space and drag and drop the unaligned photos there. Align the photos in the new Camera Group. Then align all Camera Groups.  
+      ![Checking Photo Alignment](/assets/post-media/2019-09-19-aligned-Photos.png)
 2. **Optimize**. Next step is to optimize the photo alignment, removing the worst points in sparse cloud. The goal is to remove error from the project and have a set of _very_ accurate tie points, high quality camera calibration, and image positioning. The goal is NOT to have a huge number of tie points, so do not panic if you see your points quickly disappearing through the optimization process or you need to delete a bunch of photos! Technically, you’re optimizing to achieve a low RMSE value (root mean square error… just some statistics) for the project and have a minimum of 150-200 tie points on each image. As you go through the following steps, check how your photos are doing by switching from the Workspace Pane to the Reference pane. In the top window, sort by projections, (you’ll probably need to expand the window and drag both Projections column and Error column to the left). If any photo goes below 150 you can’t use that photo. You can check that photo by double clicking on it in the Reference pane. If it is blurry, delete it from the project. If there are duplicates, delete one from the project.
 
-![Reference Pane for Optimization](/assets/post-media/2019-09-19-Optomization-Check.png)
+    ![Reference Pane for Optimization](/assets/post-media/2019-09-19-Optomization-Check.png)
 
 
-- Go to the **Tools** menu and click on _Optimize Cameras_. Click OK with default settings.
--  Go to **Model** menu and click on _Gradual Selection_ and make the following selections:
-	```
-	Criterion: Reconstruction uncertainty
-	Level: 10
-	```
+    1. Go to the **Tools** menu and click on _Optimize Cameras_. Click OK with default settings.  
+    2.  Go to **Model** menu and click on _Gradual Selection_ and make the following selections:
+    	```
+    	Criterion: Reconstruction uncertainty
+    	Level: 10
+    	```
 
-	This will select several points. Go to Edit menu and click **Delete Selection**. (It might look like A LOT of points are selected. That is OK).
+    	This will select several points. Go to Edit menu and click **Delete Selection**. (It might look like A LOT of points are selected. That is OK).
 3. Go to the Tools menu and click on **Optimize Cameras**. Click OK with default settings. Check your projections in the Reference pane.
 4. Go to Model menu and click on **Gradual Selection** and make the following selections:
 	```
@@ -267,17 +258,17 @@ These error measure uncertainty, and whether you’re able to hit these low numb
 
 
 
-### Build Dense Cloud, Mesh, and Texture
+### Part III: Build Dense Cloud, Mesh, and Texture
 The next three steps typically take a very long time, so it is best to start this process when and where you can leave your computer work unattended, possibly for several hours. One way to streamline the process is to use the Batch Process tool in Workflow, add each of the following three steps to your Process and let it run to completion overnight.
 
-5. Go to the Workflow menu and click on **Build Dense Cloud**. In the pop-up window select the following:
+1. Go to the Workflow menu and click on **Build Dense Cloud**. In the pop-up window select the following:
 	```
 	Quality:  High
 	Depth Filtering: Aggressive
 	```
 	When this is done processing, check out your dense cloud (double click on it in Workspace to get it to appear in your Model pane.
 
-6. Go to the Workflow menu and click on **Build Mesh**. In the pop-up window select the following:
+2. Go to the Workflow menu and click on **Build Mesh**. In the pop-up window select the following:
 	```
 	Source data: Dense cloud
 	Surface type: Arbitrary (3D)
@@ -286,7 +277,7 @@ The next three steps typically take a very long time, so it is best to start thi
 	```
 	Note: The previous parameters may change depend on what you’re planning on doing with your model. For example, if you want to use it in VR, use a lower face count. These values also influence processing time, so plan accordingly. You can always duplicate your chunk and test out different parameters.
 
-7. Go to the _Workflow_ menu and click on **Build Texture**. You can accept the defaults for building the texture, but they should be as follows:
+3. Go to the _Workflow_ menu and click on **Build Texture**. You can accept the defaults for building the texture, but they should be as follows:
 	```
 	Mapping mode: Generic
 	Blending mode: Mosaic
