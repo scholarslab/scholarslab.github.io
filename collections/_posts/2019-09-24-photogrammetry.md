@@ -15,18 +15,16 @@ tags:
 - 3D Technology
 ---
 
-# Photogrammetry Workflow using a DSLR Camera
-
 ![3D Apple with a Bite ](/assets/post-media/2019-09-19-3DApple.png)
 
 What is Photogrammetry? Photogrammetry is a photographic process that generates 3D data (measurements) from 2D images (photographs) to create a 3D model with accurate color and texture. Basically, you take a bunch of pictures at different angles of an object, run all the photos through a computer program called Metashape, and you end up with a very cool digital 3D object at the end! The [Smithsonian 3D Digitization](https://3d.si.edu/browser) has a whole collection of 3D models online you can browse from artifacts to structures to in-situ burials.
-
 
 Light is critical to this process and therefore there are certain objects that are difficult, if not impossible, to model using photogrammetry: objects with reflective or shiny surfaces, clear/transparent objects like glass, very thin objects like tree leaves, very furry or hairy things, things that move (e.g. your pet hamster or your best friend's head).
 
 In this blog posting I go through the workflow to create a high quality, scaled model using our photogrammetry station in the Robertson Media Center on the third floor of Clemons Library and computer software called Agisoft Metashape (previously Photoscan). If you want to create a quick and less accurate model or you are working in the field or with a collection where you can't bring the physical object to Clemons, check out my posting on photogrammetry in the field with your smart phone.
 
-_**STEP 1: Equipment choice and setting up your photo station**_
+## Step 1: Equipment choice and setting up your photo station
+
 ###	Equipment
  Photogrammetry, at its core, is a photographic project. The goal is to have a set of the clearest photos possible, which means using a camera and lens that have a manual mode where you can adjust the camera’s aperture, focus, white balance, and ISO to fit your lighting environment. This doesn’t mean you can’t do photogrammetry with a point-and-shoot or your phone’s camera, but the quality will be that much better if you use a good DSLR camera. If you plan to use photogrammetry to record quantitative data, a DSLR camera is required. Lenses are measured based on focal length (the number before the mm on your lens). The wider a lens (lower mm number), the more you are able to capture in a photo, however with a 24 mm lens or lower you’ll start to see distortion around at the edges of your frame. Do not use fisheye or wide-angle lenses because they cause too much distortion. Higher numbered lenses have less distortion but are also much more expensive. Prime lenses have a fixed focal length: you cannot zoom. They can produce very high quality photographs because they minimize noise and distortion, resulting in an extra sharp image. If you have a good prime fixed-zoom lens within 24-70mm range, use it! A polarized lens cover will also help to reduce glare if your object has a shiny surface.
 
@@ -50,25 +48,24 @@ _**STEP 1: Equipment choice and setting up your photo station**_
 ### Computers & Software
 We will be processing the photos using a program called Agisoft Metashape Pro.
 
----
-
-_**STEP 2: Get to know the settings on your camera**_   
+## Step 2: Get to know the settings on your camera  
 For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Metashape. This means both taking photos of the object from the same position every time (you’ll change the height of the camera at least three times to take 3 circuits of photos) so that the object is consistently framed in the photograph and adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo. It is important to have a general understanding of how different settings on your DSLR camera can impact your photographs. The following steps will help you set up your camera to produce the crispest image possible with accurate color representation.
 
-### Part I: Basic Camera Settings
-All cameras
+### Basic Camera Settings
+
+#### All cameras
 1.	Set your camera to shoot in RAW.
 2.	Turn OFF auto-rotate
 3.	Set mode to Manual or (For beginners, try using Aperture priority—AV on a Canon or A on a Nikon)
 4.	Set to never turn off
 
-Some Cameras
+#### Some Cameras
 1.	Turn off GPS (you can take some photos with the GPS later if desired)
 2.	Turn off sensor cleaning on power down (if the camera shakes the sensor to remove dust on power down)
 3.	If using zoom lens set the focal distance to one end of the other of the focal length and tape it down with painters’ tape.
 4.	If the lens has ‘image stabilization’ or ‘vibration reduction’ turn it OFF (usually a switch on the lens itself.)
 
-Optional Adjustments
+#### Optional Adjustments
 1. Set camera from live view to grid view
 2. Turn off AF beep when using live view (on Canon)
 3. Set back button for focus (functionality of half shutter press is transferred to back button)
@@ -89,7 +86,7 @@ It is important to position your camera in the exact environment where you plan 
 
 
 
-### Part III: Camera Adjustments.
+### Camera Adjustments.
 There are four critical settings on a DSLR you want to be aware of: ISO, white balance, aperture (f/stop), and shutter speed. All cameras are different and the target numbers will depend on the environment in which you are shooting. All four of these settings are inter-related. It is important to have a sense of how changing one setting will impact the others.
 
 
@@ -116,7 +113,7 @@ If you are working in aperture priority (A or AV) mode skip this step! The camer
 )
 
 
-###	Part IV: Test out your settings!
+###	Test out your settings!
 Take a few sample photos and check them on the view screen.
 - Are they in focus?
 - Is the depth of field deep enough?
@@ -130,11 +127,9 @@ Take a few sample photos and check them on the view screen.
 -  Is there dust or debris on the black background? If so, use the lint roller to get rid of it!
 -  Write down your ISO, F/stop and shutter speed settings for the first round of photos in case something happens with the settings when you move your camera to a new angle and change the focus.
 
-#### You’re ready to start shooting!
+You’re ready to start shooting!
 
----
-
-_**STEP 3: Taking Photos**_
+## Step 3: Taking Photos
 For the photogrammetry software to work you need redundant subject capture, which mean you want to make sure you have overlapping data of your object. This means following a 2/3rds rule of overlapping images: 2/3rds of the previous image should be visible in each subsequent photo as you rotate the object. The same 2/3rds principle applies to the vertical axis of the object. Take three rows of overlapping images at three different heights.
 
 ![Capture Circuits](/assets/post-media/2019-09-19-CaptureCircuits.png)
@@ -147,13 +142,14 @@ For the photogrammetry software to work you need redundant subject capture, whic
 6. Take a photo of the turntable without the object
 7. Optional: turn the object upside-down and follow steps 1-3.
 
-#### You’re ready to process your photographs!
----
+*You’re ready to process your photographs!*
 
-_**STEP 4: Using Agisoft Metashape Professional**_
+## Step 4: Using Agisoft Metashape Professional
 
 Once you have completed your photos you’re ready to process the data. This workflow was written for Agisoft Metashape Professional, but the same general workflow process applies to earlier versions of Agisoft Photoscan.
-### Part I: Preparing Your Photos
+
+### Preparing Your Photos
+
 **Import** your first circuit of images in Metashape by either dragging and dropping them into the Workspace or click  ![add photo icon](/assets/post-media/2019-09-19-addphotos.PNG) the add photos icon, and navigate to your photo library. The photos will automatically be added to a new “Chunk.”  
 You want to keep each circuit of photos separate. Click on the arrow to the left of your _Chunk 1_ to expand the file. Right click on _Cameras_ file and click _Add Camera Group._ Add each of your image circuits to a new camera group. *rename the groups to keep track! Don’t create new Chunks for each circuit.  Use only one Chunk with multiple Camera Groups nested within.
 ![Metashape with Chunk and Groups](/assets/post-media/2019-09-19-metashape-overall.png)
@@ -193,8 +189,7 @@ You want to keep each circuit of photos separate. Click on the arrow to the left
 
 8. Repeat the previous masking steps for every circuit
 
----
-### Part II: Build and Optimize Your Sparse Point Cloud
+### Build and Optimize Your Sparse Point Cloud
 From this point forward you’ll primarily be working down the **Workflow** menu, with some optimization steps between. It is worth saving a new back-up project file or a duplicate chunk within the same project, since most of these tasks cannot be undone or reset. This will allow you to play with some of settings.
 1. Go to the Workflow menu and click on **Align Photos**. In the pop-up window select the following:
 
@@ -255,12 +250,8 @@ You can also check the overall RMS reprojection error for your project by right-
 If any of the Errors are greater than .3, repeat the previous 3 steps—Reconstruction uncertainty and Optimize Cameras—until all pixels above .3 have been removed.
 These error measure uncertainty, and whether you’re able to hit these low numbers will depend on the quality of your images, camera angles etc.
 
+### Build Dense Cloud, Mesh, and Texture
 
-
-
-
-
-### Part III: Build Dense Cloud, Mesh, and Texture
 The next three steps typically take a very long time, so it is best to start this process when and where you can leave your computer work unattended, possibly for several hours. One way to streamline the process is to use the Batch Process tool in Workflow, add each of the following three steps to your Process and let it run to completion overnight.
 
 1. Go to the Workflow menu and click on **Build Dense Cloud**. In the pop-up window select the following:
@@ -285,7 +276,6 @@ The next three steps typically take a very long time, so it is best to start thi
 	Blending mode: Mosaic
 	Texture size/count: 4096 x 1
 	```
-
 
 ## Export your model and enjoy!
 Agisoft Metashape will export to most 3D formats that are usable in other 3D modeling software.  OBJ is a standard format that is commonly used.  STL is a format that most 3D printers use though keep in mind it will not include any texture information.  
