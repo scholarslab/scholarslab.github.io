@@ -17,7 +17,7 @@ tags:
 
 # Photogrammetry Workflow using a DSLR Camera
 
-![3D Apple with a Bite ](/assets/post-media/2019-09-19-3dapple.png)
+![3D Apple with a Bite ](/assets/post-media/2019-09-19-3DApple.png)
 
 What is Photogrammetry? Photogrammetry is a photographic process that generates 3D data (measurements) from 2D images (photographs) to create a 3D model with accurate color and texture. Basically, you take a bunch of pictures at different angles of an object, run all the photos through a computer program called Metashape, and you end up with a very cool digital 3D object at the end! The [Smithsonian 3D Digitization](https://3d.si.edu/browser) has a whole collection of 3D models online you can browse from artifacts to structures to in-situ burials.
 
@@ -112,7 +112,7 @@ Set your camera to a low f/stop around f8 to f11.
 If you are working in aperture priority (A or AV) mode skip this step! The camera will adjust the shutter speed accordingly. Most likely, you’ll be setting your camera to a 1/80 shutter speed or higher depending on the light quality.  
 	> The shutter speed is the amount of time the shutter on your camera is open. Shutter speed is measured in fractions of seconds, so you’ll see on your camera screen a fraction 1/1000 to 1/8 (shown as 0“etc.  Since we’re using a tripod here, we avoid some issues with stability and slow shutter speeds resulting in blurry photos. With the tripod we want to set the shutter speed very slow (higher number) to allow for the low amount of light coming in due to the smaller apertures (high fstop) and low ISO settings. Use a quick release while taking photos so as not to shake the camera during shutter release.
 ![3D Apple with a Bite ](
-/assets/post-media/2019-09-19-photogramsetup.png
+/assets/post-media/2019-09-19-photoGramsetup.png
 )
 
 
@@ -137,7 +137,7 @@ Take a few sample photos and check them on the view screen.
 _**STEP 3: Taking Photos**_
 For the photogrammetry software to work you need redundant subject capture, which mean you want to make sure you have overlapping data of your object. This means following a 2/3rds rule of overlapping images: 2/3rds of the previous image should be visible in each subsequent photo as you rotate the object. The same 2/3rds principle applies to the vertical axis of the object. Take three rows of overlapping images at three different heights.
 
-![Capture Circuits](/assets/post-media/2019-09-19-capturecircuits.png)
+![Capture Circuits](/assets/post-media/2019-09-19-CaptureCircuits.png)
 
 1. **Central Position**. Rotate the turntable on 10 degree increments, taking 36 photos total.
 2. **Lower Position**. lower the central pole of the camera on the tripod to change the camera perspective. Do not move the feet. Adjust the angle of the camera to point slightly upwards so your object is still in the center of your frame. Adjust your focus if necessary. Do not change any other settings on your camera. Rotate the turntable on 10 degree increments, taking 36 photos total.
@@ -154,7 +154,7 @@ _**STEP 4: Using Agisoft Metashape Professional**_
 
 Once you have completed your photos you’re ready to process the data. This workflow was written for Agisoft Metashape Professional, but the same general workflow process applies to earlier versions of Agisoft Photoscan.
 ### Part I: Preparing Your Photos
-**Import** your first circuit of images in Metashape by either dragging and dropping them into the Workspace or click  ![add photo icon](/assets/post-media/2019-09-19-addphotos.png) the add photos icon, and navigate to your photo library. The photos will automatically be added to a new “Chunk.”  
+**Import** your first circuit of images in Metashape by either dragging and dropping them into the Workspace or click  ![add photo icon](/assets/post-media/2019-09-19-addphotos.PNG) the add photos icon, and navigate to your photo library. The photos will automatically be added to a new “Chunk.”  
 You want to keep each circuit of photos separate. Click on the arrow to the left of your _Chunk 1_ to expand the file. Right click on _Cameras_ file and click _Add Camera Group._ Add each of your image circuits to a new camera group. *rename the groups to keep track! Don’t create new Chunks for each circuit.  Use only one Chunk with multiple Camera Groups nested within.
 ![Metashape with Chunk and Groups](/assets/post-media/2019-09-19-metashape-overall.png)
 
