@@ -121,7 +121,7 @@ Take a few sample photos and check them on the view screen.
 -  Check your lighting: Is the object casting any dark shadows?
 - Is the lighting creating halos or flares?
 - Does the color on the object look accurate? Not too warm (orangey-reddish) not to cool (bluish)?
--  Is the image too dark or too light? If too dark, try to slow down the shutter speed (e.g. increase from a 1/3” shutter speed to ½”) If the object is washed out, or the background looks too.
+-  Is the image too dark or too light? If too dark, try to slow down the shutter speed (e.g. increase from a 1/3” shutter speed to ½”). If the object is washed out, or details in the background are too visible, try to speed up the shutter speed.
 -  Is your camera tripod positioned such that the entire object is visible, and the edges of the lightbox aren’t visible in the frame?
 -  Is the object centered on the turntable so that when you rotate it, it will stay centered in your frame?
 -  Is there dust or debris on the black background? If so, use the lint roller to get rid of it!
