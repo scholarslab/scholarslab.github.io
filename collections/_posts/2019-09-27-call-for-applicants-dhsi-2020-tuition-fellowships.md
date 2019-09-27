@@ -2,8 +2,8 @@
 author: brandon-walsh
 date: 2019-09-27
 layout: post
-slug: call-for-applicants-dhsi-2019-tuition-fellowships
-title: "Call For Applicants: DHSI 2019 Tuition Fellowships"
+slug: call-for-applicants-dhsi-2020-tuition-fellowships
+title: "Call For Applicants: DHSI 2020 Tuition Fellowships"
 categories:
 - Announcements
 - Digital Humanities
@@ -17,7 +17,7 @@ The University of Virginia, as a sponsoring institution of DHSI, provides 5 tuit
 
 The fellowships entirely cover the cost of course tuition for one course, using a code at the time of registration (rather than reimbursement afterward). These fellowships do not cover travel (to Victoria, B.C.), meals, or lodging, so applicants should be prepared to fund these out of pocket or by locating additional funding sources on your own.
 
-Visit <a href="http://dhsi.org/index.php">dhsi.org</a> for descriptions of the available courses. Applications are due ASAP. Selection, organized by the Scholars’ Lab, will begin on December 10th and continue on a rolling basis.
+Visit <a href="http://dhsi.org/index.php">dhsi.org</a> for descriptions of the available courses. Applications are due ASAP. Selection, organized by the Scholars’ Lab, will begin on November 10th and continue on a rolling basis.
 
 To apply, please email dhsi-fellowships@virginia.edu with the following:  
 - UVA affiliation & status (e.g. 3rd year PhD in art history, staff job title in Library/department)  
