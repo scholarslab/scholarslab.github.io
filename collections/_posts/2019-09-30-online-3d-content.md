@@ -1,6 +1,6 @@
 ---
 author: abhishek-gupta
-date: 2019-10-01 01:00:00+00:00
+date: 2019-09-30
 layout: post
 slug: online-3d-content
 title: "Online Resources for 3D Content in VR/AR"
