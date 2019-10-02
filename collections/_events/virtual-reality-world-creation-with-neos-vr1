@@ -5,7 +5,7 @@ end_time: '14:30:00'
 layout: events
 location: 'Clemons Library, 3rd Fl VR Space'
 slug: 'virtual-reality-world-creation-with-neos-vr1'
-start_date: '2019-10-22'
+start_date: 2019-10-22
 start_time: '13:00:00'
 title: 'Virtual Reality World Creation with NEOS VR'
 ---
