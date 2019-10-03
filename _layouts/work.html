@@ -7,7 +7,7 @@ layout: default
 
 <article class="project-content-wrapper">
 	<div class="project-content__img">
-		<div><img src="{{ '/assets/img/work/' | append: page.banner-img | relative_url }}" alt="{{ page.title }}"></div>
+		<div><img src="{{ '/assets/img/work/' | append: page.banner-img }}" alt="{{ page.title }}"></div>
 	</div>
 	<div class="project-content__title">
 		<span>{{ page.title | replace: ' - ', ': ' }}</span>
@@ -21,7 +21,43 @@ layout: default
 		<div class="project-content__category">{% if page.research-category %}<span>Work type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div>{% endif %}</div>
 		{% if page.link %}<div class="project-content__cta"><a href="{{ page.link }}">Visit project</a></div>{% endif %}
 	</div>
-	<div class="project-content__text">{{ content }}</div>
+	<div class="project-content__text">{{ content }}
+		{% assign site_posts = site.posts %}
+		{% if page.title == 'Prism' or page.title == 'Ivanhoe' or page.title == 'ClockWork' or page.title == 'Dash-Amerikan' or page.title == 'UVA Reveal' or page.title == 'Neatline' %}
+			{% assign project_posts = site_posts | where: 'tags', page.title %}
+			{% if project_posts != empty %}
+			<br>
+				 <strong>Related Posts</strong>
+				 <ul>
+				  {% for post in project_posts %}
+						{% capture authorstring %}
+						{% include author-name.html authorid=post.author %}
+						{% endcapture %}
+					  <li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
+				  {% endfor %}
+					</ul>
+			{% endif %}
+				{% else %}
+				{% if page.posts %}
+				<br>
+				<strong>Related Posts</strong>
+				  <ul>
+					{% for post_slug in page.posts %}
+				    {% for post in site_posts %}
+				      {% if post_slug == post.slug %}
+							{% capture authorstring %}
+							{% include author-name.html authorid=post.author %}
+							{% endcapture %}
+				  			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
+				      {% endif %}
+				    {% endfor %}
+				  {% endfor %}
+					</ul>
+			{% endif %}
+		{% endif %}
+
+
+	</div>
 	<div class="project-content__collaborators">
 		<span>Collaborators:</span>
 		<div class="project-collab__people">
