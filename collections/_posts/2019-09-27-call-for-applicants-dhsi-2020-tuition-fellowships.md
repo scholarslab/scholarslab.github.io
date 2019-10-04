@@ -11,13 +11,13 @@ tags:
 - Digital Humanities
 ---
 
-Want to learn more about digital humanities skills, methods, and inquiry? The <a href="http://dhsi.org/index.php">Digital Humanities Summer Institute (DHSI)</a> at the University of Victoria has a tradition of transformative training.
+Want to learn more about digital humanities skills, methods, and inquiry? The <a href="https://dhsi.org">Digital Humanities Summer Institute (DHSI)</a> at the University of Victoria has a tradition of transformative training.
 
-The University of Virginia, as a sponsoring institution of DHSI, provides 5 tuition-free fellowships to attend a Digital Humanities Summer Institute course or workshop during the summer of 2020. Students, staff, non-TT faculty, and those without access to research travel funds are especially encouraged to apply.
+The University of Virginia, as a sponsoring institution of DHSI, provides 10 tuition-free fellowships to attend a Digital Humanities Summer Institute course or workshop during the summer of 2020. Students, staff, non-TT faculty, and those without access to research travel funds are especially encouraged to apply.
 
 The fellowships entirely cover the cost of course tuition for one course, using a code at the time of registration (rather than reimbursement afterward). These fellowships do not cover travel (to Victoria, B.C.), meals, or lodging, so applicants should be prepared to fund these out of pocket or by locating additional funding sources on your own.
 
-Visit <a href="http://dhsi.org/index.php">dhsi.org</a> for descriptions of the available courses. Applications are due ASAP. Selection, organized by the Scholars’ Lab, will begin on November 10th and continue on a rolling basis.
+Visit <a href="https://dhsi.org/course-offerings">dhsi.org</a> for descriptions of the available courses. Applications are due ASAP. Selection, organized by the Scholars’ Lab, will begin on November 10th and continue on a rolling basis.
 
 To apply, please email dhsi-fellowships@virginia.edu with the following:  
 - UVA affiliation & status (e.g. 3rd year PhD in art history, staff job title in Library/department)  
