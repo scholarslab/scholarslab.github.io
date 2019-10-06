@@ -9,27 +9,27 @@ layout: default
 
 		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.title }}</div>
 
-<!-- <div class="person__position">{{ person.position }}</div>  -->
+		<!-- <div class="person__position">{{ person.position }}</div>  -->
 
-<div class="person__position">
-{% if page.people-category contains "staff" %}
-	{% if page.status contains "not_current" %}
-		Former {{ page.position }}
-	{% elsif page.status contains "current" %}
-		{{ page.position }}
-	{% endif %}
-{% elsif page.people-category contains "student" %}
-{% if page.roles.size == 1 %}
-{{ page.roles }}
-{% else %}
-	<ul>{% for role in page.roles %}
-		<li>{{ role }}</li>
-	{% endfor %}</ul>
-{% endif %}
-{% endif %}
+		<div class="person__position">
+			{% if page.people-category contains "staff" %}
+				{% if page.status contains "not_current" %}
+					Former {{ page.position }}
+				{% elsif page.status contains "current" %}
+					{{ page.position }}
+				{% endif %}
+			{% elsif page.people-category contains "student" %}
+			{% if page.roles.size == 1 %}
+			{{ page.roles }}
+			{% else %}
+				<ul>{% for role in page.roles %}
+					<li>{{ role }}</li>
+				{% endfor %}</ul>
+			{% endif %}
+			{% endif %}
+		</div>
 
-</div>
-{% unless page.twitter == 'None' and page.website == 'None' and page.email == 'None' %}
+		{% unless page.twitter == 'None' and page.website == 'None' and page.email == 'None' %}
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
 			<div class="person-stats__title">Around the Web</div>
 			<div class="person-stats__box">
@@ -61,11 +61,11 @@ layout: default
 		<div class="person__description">
 			<div class="person-describe__title">About</div>
 			<div class="person-describe__text">
-			{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
-				{{ content }}
-			{% else %}
-				<p>A Scholars' Lab alum.</p>
-			{% endunless %}
+				{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
+					{{ content }}
+				{% else %}
+					<p>A Scholars' Lab alum.</p>
+				{% endunless %}
 			</div>
 		</div> <!-- end 'about' -->
 
@@ -88,6 +88,7 @@ layout: default
 		    {% elsif author_posts.size < 1 %}
 		    <p class="person-posts__none-found">There are no posts by {{ page.first_name }} at this time.</p>
 		    {% endif %}
-		</div>
-	</div>
-</div>
+		</div><!-- // person__posts -->
+
+	</div><!-- // person-main-content -->
+</div><!-- // person-wrapper -->

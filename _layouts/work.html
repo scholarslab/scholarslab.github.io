@@ -6,12 +6,15 @@ layout: default
 {% assign title_array = page.title | split: ' ' %}
 
 <article class="project-content-wrapper">
+	
 	<div class="project-content__img">
 		<div><img src="{{ '/assets/img/work/' | append: page.banner-img }}" alt="{{ page.title }}"></div>
 	</div>
+
 	<div class="project-content__title">
 		<span>{{ page.title | replace: ' - ', ': ' }}</span>
 	</div>
+
 	<div class="project-content__metadata" style="flex-flow: column nowrap;">
 		{% if page.start-year == page.end-year or page.end-year.blank? %}
 		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}</div></div>
@@ -21,52 +24,62 @@ layout: default
 		<div class="project-content__category">{% if page.research-category %}<span>Work type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div>{% endif %}</div>
 		{% if page.link %}<div class="project-content__cta"><a href="{{ page.link }}">Visit project</a></div>{% endif %}
 	</div>
+
 	<div class="project-content__text">{{ content }}
 		{% assign site_posts = site.posts %}
 		{% if page.title == 'Prism' or page.title == 'Ivanhoe' or page.title == 'ClockWork' or page.title == 'Dash-Amerikan' or page.title == 'UVA Reveal' or page.title == 'Neatline' %}
 			{% assign project_posts = site_posts | where: 'tags', page.title %}
 			{% if project_posts != empty %}
 			<br>
-				 <strong>Related Posts</strong>
-				 <ul>
-				  {% for post in project_posts %}
+			 <strong>Related Posts</strong>
+			<ul>
+				{% for post in project_posts %}
+					{% capture authorstring %}
+					{% include author-name.html authorid=post.author %}
+					{% endcapture %}
+					<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
+				{% endfor %}
+			</ul>
+			{% endif %}
+			{% else %}
+			{% if page.posts %}
+			<br>
+			<strong>Related Posts</strong>
+			<ul>
+				{% for post_slug in page.posts %}
+				    {% for post in site_posts %}
+						{% if post_slug == post.slug %}
 						{% capture authorstring %}
 						{% include author-name.html authorid=post.author %}
 						{% endcapture %}
-					  <li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
-				  {% endfor %}
-					</ul>
-			{% endif %}
-				{% else %}
-				{% if page.posts %}
-				<br>
-				<strong>Related Posts</strong>
-				  <ul>
-					{% for post_slug in page.posts %}
-				    {% for post in site_posts %}
-				      {% if post_slug == post.slug %}
-							{% capture authorstring %}
-							{% include author-name.html authorid=post.author %}
-							{% endcapture %}
-				  			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
-				      {% endif %}
+			  			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
+					{% endif %}
 				    {% endfor %}
-				  {% endfor %}
-					</ul>
+			  	{% endfor %}
+			</ul>
 			{% endif %}
 		{% endif %}
-
-
 	</div>
+
 	<div class="project-content__collaborators">
 		<span>Collaborators:</span>
 		<div class="project-collab__people">
-		{% for person in page.collaborators %}
-		<ul>
-			<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
-			{% if person.role %}<li>{{ person.role }}</li>{% endif %}
-		</ul>
-		{% endfor %}
+			{% for person in page.collaborators %}
+			<ul>
+				<li>
+					{% if person.slug %}
+					<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>
+					{% else %}
+					{{ person.name }}
+					{% endif %}
+				</li>
+				{% if person.role %}
+				<li>
+					{{ person.role }}
+				</li>
+				{% endif %}
+			</ul>
+			{% endfor %}
 		</div>
 	</div>
 </article>
@@ -74,10 +87,6 @@ layout: default
 <script>
 	var textLinks = document.querySelectorAll(".project-content__text p a");
 	var hoverLinks = document.querySelectorAll(".project-content__text p a:hover");
-	for (let a of textLinks) {
-		a.style.borderBottomColor = "{{ colors[0].color }}";
-	}
-	for (let a of hoverLinks) {
-		a.style.backgroundColor = "{{ colors[0].color }}";
-	}
+	for (let a of textLinks) { a.style.borderBottomColor = "{{ colors[0].color }}"; }
+	for (let a of hoverLinks) { a.style.backgroundColor = "{{ colors[0].color }}"; }
 </script>

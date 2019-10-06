@@ -8,7 +8,7 @@ layout: default
 		<div class="event__big-title">
 			<span aria-label="page type">Events //</span>
 			<div>{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</div>
-		</div>
+		</div><!-- // event__big-title -->
 
 		<!-- NB: !!! this only exists until we restructure the YAML !!! -->
 		<!-- remove trailing seconds zeros on time -->
@@ -47,27 +47,24 @@ layout: default
 		<div class="event__description">
 			<div class="event-describe__title">About</div>
 			<div class="event-describe__text">
-			{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
-				{{ content }}
-			{% else %}
-				<p>No description has been added at this time.</p>
-			{% endunless %}
+				{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
+					{{ content }}
+				{% else %}
+					<p>No description has been added at this time.</p>
+				{% endunless %}
 			</div>
 		</div>
 
-<!-- Code to hook into YAML goes here, if we create the correct YAML. See GitHub issue #429 -->
+		<!-- Code to hook into YAML goes here, if we create the correct YAML. See GitHub issue #429 -->
 
-<div class="event__notes">
+		<div class="event__notes">
 			<div class="event-notes__title">Notes</div>
-			<div class="page--borrowed-style">
-			
-			<ul class="event-notes__content">
-				<li><span>Questions?</span><br/>Contact Scholars' Lab's Head of Public Programs <a href="mailto:lam2c@virginia.edu?subject=Question about SLab Event">Laura Miller</a>.</li>
-</ul>
-</div>
-</div>
-
-</div> <!-- end notes -->
+			<div class="page--borrowed-style">	
+				<ul class="event-notes__content">
+					<li><span>Questions?</span><br/>Contact Scholars' Lab's Head of Public Programs <a href="mailto:lam2c@virginia.edu?subject=Question about SLab Event">Laura Miller</a>.</li>
+				</ul>
+			</div>
+		</div><!-- // event__notes -->
 
 	</div> <!-- end main content -->
 </article> <!-- end wrapper -->
