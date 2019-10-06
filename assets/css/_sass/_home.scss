@@ -56,18 +56,26 @@ html, body {
 .home-landing__big-title {
 	position: relative;
 	height: calc(100vh + 1px);
+	min-height: 600px;
 	width: 100%;
-	padding: 0 4.167%;
+	// padding: 0 4.167%;
 	background-color: $navgray;
-//	border-bottom: 1px dotted rgba(255,255,255,.5);
+	// border-bottom: 1px dotted rgba(255,255,255,.5);
 }
 
 .home-title__text {
-	position: relative;
-	display: grid;
-	height: 76vh;
+	// position: relative;
+	display: flex;
+	flex-flow: column nowrap;
+    justify-content: center;
+    align-items: flex-start;
+	
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0 4.167%;
+	height: 100%; //76vh;
 	width: 100%;
-	align-items: center;
+	// align-items: center;
 	font-size: 2.25em;
 	font-weight: 900;
 	line-height: 1;
@@ -75,6 +83,7 @@ html, body {
 	color: white;
 	background-color: black;
 	mix-blend-mode: lighten;
+
 	&::before {
 		content: '';
 		position: absolute;
@@ -609,9 +618,11 @@ html, body {
 
 #hero-arrow{
 	width: 0.5em;
-	justify-self: center;
-	position: absolute;
-	bottom: 16px;
+	z-index: 1;
+	align-self: center;
+	// justify-self: center;
+	// position: absolute;
+	// bottom: 16px;
 }
 
 #makerspace-location-label{
