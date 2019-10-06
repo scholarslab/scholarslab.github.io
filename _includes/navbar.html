@@ -1,35 +1,37 @@
-<div id="library-banner">
-    <a href="https://www.library.virginia.edu" aria-label="University of Virginia Library" id="library-link">{% include library-logotype.html %}</a>
-</div>
-<div class="flexnav-wrapper">
-	<div class="flexnav-main">
-		<div class="flexnav__home-icon">
-			<a href="{{ site.url }}" id="slab-logo" aria-label="Scholars' Lab home">
-				{% include nav-logo.html %}
-            </a>
-		</div>
+<header>
+	<div id="library-banner">
+		<a href="https://www.library.virginia.edu" aria-label="University of Virginia Library" id="library-link">{% include library-logotype.html %}</a>
+	</div>
+	<div class="flexnav-wrapper">
+		<div class="flexnav-main">
+			<div class="flexnav__home-icon">
+				<a href="{{ site.url }}" id="slab-logo" aria-label="Scholars' Lab home">
+					{% include nav-logo.html %}
+				</a>
+			</div>
 
-		<ul class="flexnav-main-grid">
-		{% assign pages = site.pages | sort: 'order' %}
-		{% for page in pages %}
-		{% unless page.url contains "/page/" or page.nav == false %}
-		{% if page.layout != nil %}
-			<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
-		{% endif %}
-		{% endunless %}
-		{% endfor %}
-			<li class="flexnav__more-menu">
-				<div class="flexnav-more__prompt" aria-label="More menu items">More<span>&rsaquo;</span></div>
-				<ul class="flexnav-more__wrapper">
-				{% for page in pages %}
-				{% unless page.url contains "/page" or page.nav == false %}
-				{% if page.layout != nil %}
-					<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
-				{% endif %}
-				{% endunless %}
-				{% endfor %}
-				</ul>
-			</li>
-		</ul>
-	</div> <!-- end content -->
-</div> <!-- end wrapper -->
+			<ul class="flexnav-main-grid">
+			{% assign pages = site.pages | sort: 'order' %}
+			{% for page in pages %}
+			{% unless page.url contains "/page/" or page.nav == false %}
+			{% if page.layout != nil %}
+				<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
+			{% endif %}
+			{% endunless %}
+			{% endfor %}
+				<li class="flexnav__more-menu">
+					<div class="flexnav-more__prompt" aria-label="More menu items">More<span>&rsaquo;</span></div>
+					<ul class="flexnav-more__wrapper">
+					{% for page in pages %}
+					{% unless page.url contains "/page" or page.nav == false %}
+					{% if page.layout != nil %}
+						<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
+					{% endif %}
+					{% endunless %}
+					{% endfor %}
+					</ul>
+				</li>
+			</ul>
+		</div> <!-- end content -->
+	</div> <!-- end wrapper -->
+</header>
