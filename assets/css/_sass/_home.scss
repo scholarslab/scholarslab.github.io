@@ -152,7 +152,13 @@ html, body {
 	margin: .6em;
 	margin-top: 0;
 	padding: 0 .6em;
-	h3 {
+
+	@media screen and (min-width: 768px) {
+		font-size: 1.67em; // 3/4 scale
+		line-height: 1.2;
+	}
+	
+	.home-hero--heading {
 		position: relative;
 		margin: 0;
 		font-size: 2rem;
@@ -162,22 +168,19 @@ html, body {
 		color: $navgray;
 		padding-bottom: 4px;
 		border-bottom: 2px solid $medskyblue;
-	}
-	p:first-of-type {
-		margin-top: .5em;
-	}
-	@media screen and (min-width: 768px) {
-		font-size: 1.67em; // 3/4 scale
-		line-height: 1.2;
-		h3 {
+
+		@media screen and (min-width: 768px) {
 			font-size: 2.25rem;
 		}
-	}
-	@media screen and (min-width: 1200px) {
-		h3 {
+
+		@media screen and (min-width: 1200px) {
 			font-size: calc(18px * 2.25);
 			margin-bottom: .5em;
 		}
+	}
+
+	p:first-of-type {
+		margin-top: .5em;
 	}
 }
 
