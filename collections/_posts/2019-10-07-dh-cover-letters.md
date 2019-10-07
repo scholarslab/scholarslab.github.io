@@ -117,12 +117,12 @@ Successfully completing a non-monograph dissertation taught me how to champion o
 * As a student, it can often feel like you have no experience. But you do! It's just a matter of taking those experiences you do have and extrapolating to how they would apply to other circumstances. So in this case, Amanda does a great job of showing how working as a dissertation and webmaster apply to other circumstances and to the position for which she's applying. I often tell students to think of it like roleplaying. If you were in the position, what experiences have you had that you could imagine helping you? Write about them. Sometimes trying to imagine yourself doing the work can help you think further about how to present yourself for the work. 
 
 ```
-My work has always been interdisciplinary in both topic and methodology. A few of my diverse past DH projects include:
-Co-organizing the first digital humanities and games unconference (THATCamp Games)
-Developer on the "Making DH More Open" team's Braille Wordpress plugin
-Data visualization and topic modeling of Digital Humanities Quarterly to explore DH citation networks (recipient of the inaugural ACH Microgrant)
-Team teaching and design of a DH course for UMD's Digital Cultures and Creativity undergrads
-Librarian-aimed user testing and documentation for BitCurator's archival digital forensics tools
+My work has always been interdisciplinary in both topic and methodology. A few of my diverse past DH projects include:  
+* Co-organizing the first digital humanities and games unconference (THATCamp Games)  
+* Developer on the "Making DH More Open" team's Braille Wordpress plugin  
+* Data visualization and topic modeling of Digital Humanities Quarterly to explore DH citation networks (recipient of the inaugural ACH Microgrant)  
+* Team teaching and design of a DH course for UMD's Digital Cultures and Creativity undergrads  
+* Librarian-aimed user testing and documentation for BitCurator's archival digital forensics tools  
 
 I offer excellent communication, teaching, and presentation skills, and am especially deft at research use of social media (over 2,000 Twitter followers) and blogging (over 22,000 unique blog visitors to date). I’ve worked in a number of pertinent roles: as a librarian and digital archivist, university teacher and student, web developer, and DH center staff, as well as alongside others in these roles. This background gives me inside experience of the different needs and values of these important scholarly constituents. After working on interdisciplinary teams for six years at one of the world's top digital humanities research centers, I'm a skilled translator between tech and non-tech colleagues, and my research best thrives through collaboration.
 ```
