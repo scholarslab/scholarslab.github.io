@@ -93,7 +93,7 @@ I look forward to discussing the great potential of the position with you.
 * I like the wording in the final sentence—"great potential" reminds me that I've gotten a sense from this letter that this is someone who's thought hard about the strategy and tactics of student-focused DH, who is ready to do good in this role.
 
 ### Amanda's cover letter
-[Amanda's cover letter](https://hcommons.org/?get_group_doc=1003473/1570038081-CoverLetter.pdf), notes by Brandon
+_[Amanda's cover letter](https://hcommons.org/?get_group_doc=1003473/1570038081-CoverLetter.pdf), notes by Brandon_
 
 ```
 Dear Purdue University Libraries team,
@@ -132,8 +132,6 @@ I offer excellent communication, teaching, and presentation skills, and am espec
 I'd love to discuss how my background in digital humanities service, training, research, and building would complement the Purdue University Libraries' learner-centered mission! Thank you for your time and consideration.
 ```
 * Small point, but it's often quite clear when a single cover letter has been sent out to multiple institutions with the name of one simply subbed for another. There are small ways to flag that you actually are applying for this *specific position at this specific place*, and this is an example of them. That's to say, I like that Amanda doesn't just say she is a good fit, she connects her experience to the mission of the institution in this last moment. It can be difficult to figure out what that mission is (in the Scholars' Lab we have an explicit statement about [our values](https://scholarslab.org/charter)), but you could get clues from events, projects, research, and similar initiatives undertaken by the institution. If they're committing time and energy to it, they care about it. 
-
-
 
 ## Endnotes
 [^0] The coiner of the word "meritocracy" intended it to ridicule the very ideas folks now use the term to convey. See e.g. https://www.theguardian.com/politics/2001/jun/29/comment: "It is good sense to appoint individual people to jobs on their merit. It is the opposite when those who are judged to have merit of a particular kind harden into a new social class without room in it for others."
