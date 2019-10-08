@@ -5,7 +5,7 @@ author:
 date: 2019-10-08
 layout: post
 slug: dh-cover-letters
-title: "DH cover letters: a guided tour"
+title: "How We Talk and Write about DH Jobs"
 categories:
 - Digital Humanities
 tags:
