@@ -2,7 +2,7 @@
 author:
   - brandon-walsh
   - amanda-visconti
-date: 2019-10-08
+date: 2019-10-09
 layout: post
 slug: dh-cover-letters
 title: "How We Talk and Write about DH Jobs"
@@ -10,6 +10,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Brandon's personal blog
+    url: http://walshbr.com/blog/dh-cover-letters/
 ---
 Early this summer, we (authors Brandon and Amanda!) planned a post about job search materials, but finishing up the draft got delayed by several weeks. In the intervening time, a small Twitter debate on the subject of academic job advice occurred, and we ended up holding off this post for a few months while discussing how to do it well.
 
