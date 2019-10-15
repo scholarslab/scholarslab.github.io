@@ -119,10 +119,10 @@ task :new_person, [:first_name, :last_name] do |t, args|
     f.puts("---
 department: None
 email: None
-first_name: #{args.first_name.titleize}
-last_name: #{args.last_name.titleize}
+first_name: #{args.first_name.titlecase}
+last_name: #{args.last_name.titlecase}
 layout: people
-name: #{args.first_name.titleize + ' ' + args.last_name.titleize}
+name: #{args.first_name.titlecase + ' ' + args.last_name.titlecase}
 position: None
 short_bio: 'A short one-sentence bio.'
 slug: #{slug}
