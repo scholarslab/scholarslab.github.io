@@ -1,9 +1,9 @@
 ---
-collaborators: 
+collaborators:
   - name: Monica Blair
     slug: monica-blair
     role: Praxis Fellow
-  - name: Ankita Chakrabarti 
+  - name: Ankita Chakrabarti
     slug: ankita-chakrabarti
     role: Praxis Fellow
   - name: Victoria Clark
@@ -18,8 +18,8 @@ collaborators:
   - name: Spyros Simotas
     slug: spyros-simotas
     role: Praxis Fellow
-  - name: Brandon
-    slug: Walsh
+  - name: Brandon Walsh
+    slug: brandon-walsh
     role: Head of Student Programs
 link: http://reveal.scholarslab.org/
 layout: work
@@ -27,7 +27,7 @@ slug: uva-reveal
 title: "UVA Reveal"
 thumb-img: uva-reveal-thumb.jpg
 banner-img: uva-reveal-banner.jpg
-research-category: Student 
+research-category: Student
 start-year: 2017
 end-year: 2018
 ---

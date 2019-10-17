@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2019-10-17 14:12:19
+date: 2019-10-17
 layout: post
 slug: digital-humanities-pedagogy-and-opportunities-for-hope
 title: Digital Humanities Pedagogy And Opportunities For Hope
@@ -57,7 +57,7 @@ Given this logic of the desire path, for student programs to service your commun
 
 ![For students page of the slab site](/assets/post-media/dh-pedagogy-and-hope/8.png)
 
-We try to make our programs fit those many needs, and we try to offer a number of different ways in to do so. The phrase "for the students" that I mentioned earlier is also pretty close to a page on our website where I try to collect everything that a student might be interested in knowing about us. This is the "For Students" page of the Scholars' Lab website if you would like to check it out at [scholarslab.lib.virginia.edu/for-students](scholarslab.lib.virginia.edu/for-students). I will talk about a few of these pieces in detail first from a nuts and bolts standpoint and then a theoretical one, though I am happy to talk in more depth about any one of them.
+We try to make our programs fit those many needs, and we try to offer a number of different ways in to do so. The phrase "for the students" that I mentioned earlier is also pretty close to a page on our website where I try to collect everything that a student might be interested in knowing about us. This is the "For Students" page of the Scholars' Lab website if you would like to check it out at [scholarslab.lib.virginia.edu/for-students](/for-students/). I will talk about a few of these pieces in detail first from a nuts and bolts standpoint and then a theoretical one, though I am happy to talk in more depth about any one of them.
 
  ![Image of our makerspace](/assets/post-media/dh-pedagogy-and-hope/9.png)
 
@@ -103,11 +103,11 @@ Last year in conversation with [Jeremy Boggs](https://scholarslab.lib.virginia.e
 
 ![Image of student programs charter in particular](/assets/post-media/dh-pedagogy-and-hope/19.png)
 
-You can find the whole charter on our website at [scholarslab.org/student-programs-charter](scholarslab.org/student-programs-charter), and I'd encourage you to read it. It's a document that is not perfect, but it's one that I'm glad is out in the world. Here are a few excerpts from it that describe our approach to teaching.
+You can find the whole charter on our website at [scholarslab.org/student-programs-charter](/student-programs-charter/), and I'd encourage you to read it. It's a document that is not perfect, but it's one that I'm glad is out in the world. Here are a few excerpts from it that describe our approach to teaching.
 
 ![Excerpts from the student programs charter](/assets/post-media/dh-pedagogy-and-hope/20.png)
 
-We're here, and we care. We trust in students. We teach the whole person. We're committed to advancing pedagogical practices that are equitable, just, and ethical. It's important that our students know where we stand, and one of the first things I have our students do is read this document along with the more [general charter for the Scholars' Lab](https://scholarslab.lib.virginia.edu/charter/). Our pedagogies, the ways we think about our work with students, should be shared with them. In the Lab we believe they should be part of the conversation.
+We're here, and we care. We trust in students. We teach the whole person. We're committed to advancing pedagogical practices that are equitable, just, and ethical. It's important that our students know where we stand, and one of the first things I have our students do is read this document along with the more [general charter for the Scholars' Lab](/charter/). Our pedagogies, the ways we think about our work with students, should be shared with them. In the Lab we believe they should be part of the conversation.
 
 Lest you think this is an artifact of the quotes I chose to emphasize, the charter doesn't actually talk an awful lot about technology. It does occasionally, but only in oblique ways. We want our students to own their projects as well as their domains. We want them to fail in public in a way that pushes their comfort zone but not their safety. We all feel like imposters - many of us everyday. Some of you probably feel like imposters right now. I know I do. These points imply a certain interdisciplinary approach to technology, even though they are not specific to digital humanities.
 
