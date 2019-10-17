@@ -1,9 +1,9 @@
 ---
 author: brandon-walsh
 start_date: 2019-11-11
-start_time: '15:00:00'
+start_time: '13:00:00'
 end_date: '2019-11-11'
-end_time: '16:00:00'
+end_time: '14:00:00'
 layout: events
 slug: dh-fellows-interest-meeting-2019-11-11
 title: 'DH Fellowship Interest Meeting'
