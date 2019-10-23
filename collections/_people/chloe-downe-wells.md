@@ -9,8 +9,8 @@ position:
 short_bio: 'Chloe Downe Wells is a PhD student in the Art and Architectural History department.'
 slug: chloe-downe-wells
 status: current
-twitter:
-website:
+twitter: None
+website: None
 people-category:
 - student
 roles:
