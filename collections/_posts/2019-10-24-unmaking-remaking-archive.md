@@ -24,5 +24,7 @@ Evidently, these are not questions that can be fully explored, much less answere
 	
 
 [^1]: Jessica Goldberg, Trade Institutions in the Medieval Mediterranean: The Geniza Merchants and their Business World (New York, NY: Cambridge University Press, 2012), 8.
+
 [^2]: Ella Shohat, “Taboo Memories, Diasporic Visions: Columbus, Palestine, and Arab-Jews,” in Taboo Memories, Diasporic Voices (Durham, NC: Duke University Press, 2006), 203.
+
 [^3]: Roopika Risam, New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy (Evanston, IL: Northwestern University Press, 2019), 20.
