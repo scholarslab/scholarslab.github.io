@@ -23,6 +23,6 @@ Those two examples will take us into the final section of the workshop, and to t
 Evidently, these are not questions that can be fully explored, much less answered, in a one-hour workshop. I still haven’t fully explored them myself (and expect that exploration to continue for as long as I am working in and around archives). But I hope, at least, for us to unpack as a group how we think about archives, why, and how we have the capacity to inform an archive as much as it informs us. And I hope to put across the role that digital humanities—when administered correctly—can play in that reckoning. 
 	
 
-[^1] Jessica Goldberg, Trade Institutions in the Medieval Mediterranean: The Geniza Merchants and their Business World (New York, NY: Cambridge University Press, 2012), 8.
-[^2] Ella Shohat, “Taboo Memories, Diasporic Visions: Columbus, Palestine, and Arab-Jews,” in Taboo Memories, Diasporic Voices (Durham, NC: Duke University Press, 2006), 203.
-[^3] Roopika Risam, New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy (Evanston, IL: Northwestern University Press, 2019), 20.
+[^1]: Jessica Goldberg, Trade Institutions in the Medieval Mediterranean: The Geniza Merchants and their Business World (New York, NY: Cambridge University Press, 2012), 8.
+[^2]: Ella Shohat, “Taboo Memories, Diasporic Visions: Columbus, Palestine, and Arab-Jews,” in Taboo Memories, Diasporic Voices (Durham, NC: Duke University Press, 2006), 203.
+[^3]: Roopika Risam, New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy (Evanston, IL: Northwestern University Press, 2019), 20.
