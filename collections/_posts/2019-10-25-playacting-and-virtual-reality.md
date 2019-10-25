@@ -6,9 +6,9 @@ slug: playacting-and-virtual-reality
 title: "Exploring Power through Playacting & Virtual Reality"
 categories:
 - Digital Humanities
+- Grad Student Research
+- Praxis
 ---
-# Exploring Power through Playacting & Virtual Reality
-By Lauren Van Nest on October 25, 2019
 
 As part of this year’s Praxis Program, we are crafting workshops inspired by digital methodologies and pedagogy that we will then run for participants in the spring. In my own research, I have been inspired by the possibilities of virtual and augmented reality to re-frame my perspective of historical events and provoke new questions. I decided to create a workshop that uses virtual reality as a jumping off point. How can we use the playful and imaginary aspects of virtual reality to conceptualize the constitution and construction of power, particularly in the past? How can we bring to light biases or perspectives that shift the resulting virtual scene? What are the benefits and limits of this method? How can this particular digital conceptualization of historical scenes ignite new narratives and directions in academia? Rather than attempt to craft a virtual reality space within the constraints of a one-hour, one-off workshop, I will be pairing virtual reality with story boarding as a means to introduce the technology, its issues, and conventions for the participants. I hope to inspire curiosity in the participants so that they will continue to explore virtual reality after the workshop concludes. This blog post provides a window into my development of this workshop, in an effort to reflect more explicitly on my process and trace the crystallization of my pedagogical priorities.
 
