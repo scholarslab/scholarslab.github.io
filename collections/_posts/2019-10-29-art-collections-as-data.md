@@ -1,22 +1,25 @@
 ---
 author: chloe-downe-wells
-date: 2018-10-16
+date: 2019-10-29
 layout: post
 slug: art-collections-as-data
 title: "Thinking About [Art] Collections As Data"
 categories:
 - Digital Humanities
 - Grad Student Research
-- WLU Collab
 tags:
 - Digital Humanities
+- WLU Collab
 ---
 If you could Google search the collective holdings of the world’s art museums, or a course materials on the entire history of art, what could you learn about objects and how they relate to one another? How would this create new connections or elide certain facts? Would it change our current narratives in the history of art? As a Praxis Fellow, I’m interested in how the digital humanities can help create new insights about art objects and their history. Before pursuing my Ph.D. in Art and Architectural History, I worked with art object metadata in different formats and for varying purposes. All of this cataloguing, sorting, and researching brings up larger questions about how to store and utilize archival and object data: what elements are important to record, how should they be categorized, and how can this information be searched and/or pulled to show relationships? Is there a way it can all be “linked” together? Fortunately, I am not the only one with such Utopian [art historical] data dreams. 
 
 Currently in Praxis, we are designing workshops based on our research interests to consider and implement our own DH pedagogy. In order to begin to think about the problems and possibilities for managing metadata about art objects – including how this speaks to other forms of data – I am designing a workshop about the concept of “Collections as Data” and an introduction to Linked Open Data (LOD). An [initiative](https://collectionsasdata.github.io/statement/) led by the Institute of Museum and Library Services and Always Already Computational: Collections as Data project team, “Collections as Data” aims to make digital collections of cultural heritage institutions (more) computational. In other words, to develop a way to make the collections available as data that is accessible to a wider audience with the ability to analyze and engage with it in different ways. Because the development of this concept and the frameworks with which one may utilize this data is still quite nebulous, we will discuss some of the elements at play in creating and working with object metadata and think about possible solutions, including the use of LOD.
 
 To initiate some ideas about the need for and possibilities of collections as data, or what it might look like, we’ll start by thinking about the way art collections are catalogued and the way that information is stored and accessed. What types of information are important to record? How should one name those categories? How does one enter the descriptions and encode them? In an activity, the group will work in pairs to describe objects by recording details and categorizing them in entry fields. Comparing results, we’ll discuss how object data is classified and recorded. 
-![](https://images.app.goo.gl/wZZtJa6xVJrqLcxx9)
+
+![cat/log](https://i.pinimg.com/236x/e6/9d/a0/e69da0dfc2c1d881c41477f90a269e6f--cat-puns-library-humor.jpg)
+
+
 Certain issues will arise when descriptions inevitably don’t all match up, especially the difference between what we as humans may think is important to mark as historical record and what a computer can read and allow you to search for. For example, how do we search for works made during a certain year when the dates of creation can be listed as circa dates or by a range of years? How does one differentiate between a date given by the artist and a more historically accurate description of the date? 
 
 Moving on to relationships between the objects, we’ll think about how these fields and entries can be searched and associated with one another. Curators have a privileged knowledge of the collections they maintain and must rely on this familiarity (in addition to existing metadata) in order to associate certain types of objects and themes and create exhibitions. If we can search more easily or more specifically within a collection, what new associations can be made, especially across the boundaries set between collection categories, such as photography and painting? What if we could add a subject field in addition to a title? Or a theme or artistic movement field where we could add different tags? In a metadata world that is often dictated by the creator/maker/artist, could this influence a move away from privileging monographic exhibitions? Finally, how can we make this type of object association more functional within a museum as well as more accessible to scholars and the public? 
