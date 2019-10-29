@@ -2,7 +2,7 @@
 author: connor-kenaston
 date: 2019-10-29
 layout: post
-slug: Intro-DH-and-Sound-Workshop
+slug: intro-dh-and-sound-workshop
 title: "Working on a Workshop (aka outlining a possible workshop about DH and Sound)"
 categories:
 - Digital Humanities
