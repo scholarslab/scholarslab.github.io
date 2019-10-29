@@ -8,6 +8,7 @@ categories:
 - Digital Humanities
 - Announcements
 tags:
+- Digital Humanities
 - WLU Collab
 ---
 But are we really free? How often do we think about how the built environment affects our behavior, movement through space, etc.? How often do we think about the choices and decisions that were made deliberately by others to create this built environment? How often do we think about how individual agency can be exercised in these constructed environments to facilitate life or address needs that were not considered by those architects, engineers, and planners?
