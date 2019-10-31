@@ -322,6 +322,10 @@ Some terminology:
 
 This will notify the subset of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website; one of them will briefly review your changes to check for anything that might break part of the site (highly unlikely with a blog post, more likely with changes to other repo code), and then they'll push your content to the live website.
 
+6. Click the green "Create pull request" button (it's at the bottom-right of the text field).
+
+![docs-final-PR-button](/docs/docs-images/docs-final-PR-button.png)
+
 You're done!
 
 ### Merging as an admin
