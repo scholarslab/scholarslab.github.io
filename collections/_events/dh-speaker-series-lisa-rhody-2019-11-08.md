@@ -6,9 +6,7 @@ end_date: '2019-11-08'
 end_time: '11:00:00'
 layout: events
 slug: dh-speaker-series-lisa-rhody-2019-11-08
-title: 'DH Fellowship Interest Meeting'
-location: 'Alderman 423'
+title: 'Reading Against Models: Feminist Text Analysis in Theory and Practice'
+location: 'Alderman 421'
 ---
-ICYMI, applications for the 2020-2021 Scholars’ Lab Graduate Fellowship in Digital Humanities are due November 25th! This is a chance to ask all your questions about the fellowship or the application process as you put together materials for this year-long fellowship for dissertation-level digital research. If you can’t make it or want to discuss an application sooner, don’t hesitate to reach out to Head of Student Programs Brandon Walsh at bmw9t@virginia.edu.
-
-More information about the fellowship available here - [https://scholarslab.lib.virginia.edu/digital-humanities-fellows/](https://scholarslab.lib.virginia.edu/digital-humanities-fellows/)
+Computational models increasingly and often imperceptibly shape our textually-mediated selves. From what we read and share through social media to how we find research materials to the words we choose when we write an email, algorithmic description and prediction of texts constructs much of our online (and arguably offline) activities. In this talk, Dr. Lisa Rhody will consider what it means to take a feminist approach to computational text analysis--both in the digital humanities classroom and in research. Taking seriously Sarah Ahmed's challenge to "live a feminist life," how might reading poetry computationally inform our understanding of implicit algorithmic biases? What would a feminist text analysis look like, and how might we teach it in the digital humanities classroom?
