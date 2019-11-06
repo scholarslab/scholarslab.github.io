@@ -5,7 +5,7 @@ start_time: '10:00:00'
 end_date: '2019-11-08'
 end_time: '11:00:00'
 layout: events
-slug: not-dh-fellows-interest-meeting-2019-11-11
+slug: dh-speaker-series-lisa-rhody-2019-11-08
 title: 'DH Fellowship Interest Meeting'
 location: 'Alderman 423'
 ---
