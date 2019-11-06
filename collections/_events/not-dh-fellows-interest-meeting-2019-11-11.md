@@ -1,9 +1,9 @@
 ---
-author: brandon-walsh
-start_date: 2019-11-11
-start_time: '13:00:00'
-end_date: '2019-11-11'
-end_time: '14:00:00'
+author: amanda-visconti
+start_date: 2019-11-08
+start_time: '10:00:00'
+end_date: '2019-11-08'
+end_time: '11:00:00'
 layout: events
 slug: not-dh-fellows-interest-meeting-2019-11-11
 title: 'DH Fellowship Interest Meeting'
