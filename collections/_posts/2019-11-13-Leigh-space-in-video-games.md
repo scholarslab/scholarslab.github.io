@@ -11,7 +11,7 @@ categories:
 tags:
 - Digital Humanities
 ---
-#Space→Time+Materiality=Place
+# Space→Time+Materiality=Place
 
 Hello! I’m Leigh, a fifth year PhD candidate in the Constructed Environment at the Architecture School. I also have the good fortune of being one of the Digital Humanities Fellows at the Scholars Lab for 2019-2020.
 
