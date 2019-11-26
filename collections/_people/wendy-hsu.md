@@ -9,7 +9,7 @@ position: Digital Humanities Fellow 2009-2010
 short_bio: ''
 slug: wendy-hsu
 status: not_current
-twitter: wendyfhsu
+twitter: wfumihsu
 website: http://beingwendyhsu.info
 people-category:
 - student

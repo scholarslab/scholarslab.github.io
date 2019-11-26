@@ -41,7 +41,7 @@ layout: default
 				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}" aria-label="{{ page.title }}'s Twitter page">{{ page.twitter }}</a><br/>
 				{% endif %}
 				{% if page.website != nil and page.website != 'None' %}
-				<span>Website:</span><a href="http://{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
+				<span>Website:</span><a href="{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
 				{% endif %}
 			</div>
 		</div>
