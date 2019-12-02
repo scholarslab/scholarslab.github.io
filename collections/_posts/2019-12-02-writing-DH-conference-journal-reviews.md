@@ -8,6 +8,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's personal blog  
+    url: https://literaturegeek.com/2019/12/02/writing-DH-conference-journal-reviews
 ---
 
 I am working on reviews for two DH platforms—the international DH2020 conference, and the new *Reviews in DH* journal. Below, I'm sharing my notes on how to work through writing a review—questions to ask myself, things I want to make sure to include, reminders on how to pay attention to personal bias. These aren't intended to be guidelines for other folks, so I've left out things that I know I will do without having it written down. These personal reminders are followed by some guidelines from the two platforms that I wanted to keep directly visible while reviewing. If you have similar questions, reminders, or notes you use when reviewing that you'd be willing to share, please [let me know](https://twitter.com/literature_geek)!
