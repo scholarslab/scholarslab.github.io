@@ -17,14 +17,14 @@ I am working on reviews for two DH platforms—the international DH2020 conferen
 * Everyone is smart and has ideas worth sharing; we're trying to determine how to distribute limited resources (conference slots, audience attention) to make the best possible conference, which should include things like diversity and representativeness of the speakers, amplification of those new to the field and those who are under-resourced and under-listened to elsewhere, those with lived experience the field needs to hear.
 * Write as if the author will read it, even if they won't; write as you would talk directly in-person to the author
 * My goal is to support the author in getting to share their work with the conference/journal community, and to support them in doing their best work.
-  * The conference's goal for reviewers is to assist in assessing quality of proposals, *not* to be *the* arbiter of whether something is accepted or not (the Program Committee aka PC does that). They want me to "provide expert information" to the PC, and "helpful, constructive feedback to authors, which can strengthen the quality and intellectual rigor of the conference" (DH2020 reviewer guidelines: https://dh2020.adho.org/reviewer-guidelines/)
+  * The conference's goal for reviewers is to assist in assessing quality of proposals, *not* to be *the* arbiter of whether something is accepted or not (the Program Committee aka PC does that). They want me to "provide expert information" to the PC, and "helpful, constructive feedback to authors, which can strengthen the quality and intellectual rigor of the conference" ([DH2020 reviewer guidelines](https://dh2020.adho.org/reviewer-guidelines/))
 * Note that "support the author doing their best work" is thinking that can as easily underlie a bad review: be careful about doing this, e.g. don't get stuck on how this could be a different project of more personal interest to me—evaluate *this* project. I should be careful about my assumptions of what is best or what I think the conference should accept vs. what the author and conference organizers think. My interests and biases can act as gatekeepers, and I am a reviewer, not a gatekeeper.
 * List the good, innovative, interesting pieces (at least 3 things)
 * Indicate where non-overlap of fields makes me worse at knowing how to evaluate!
 * Evaluate how the approach fits the scholar's stated goal; suggest different or additional approaches, only if those seem like a potentially better fit or interesting to the scholar (but see cautions above about how this can easily be bad)
 * If you have issues with the abstract's stated goal, be conscious and thoughtful about that; if you think they are real concerns, indicate your concerns and the reasons you could be wrong (starting with: this scholar has been working on/thinking about this longer than me and knows their subfields entirely better), and discuss alternatives. These are more likely opportunities for the author to clarify, than they are to be actual concerns with the methodology.
 * Some useful prompts:
-	* "This submission makes me wonder..."
+  * "This submission makes me wonder..."
   * "This submission taught me..."
   * "I look forward to see how the author will..."
 
