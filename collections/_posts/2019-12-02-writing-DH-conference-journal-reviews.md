@@ -28,7 +28,7 @@ I am working on reviews for two DH platforms—the international DH2020 conferen
   * "This submission taught me..."
   * "I look forward to see how the author will..."
 
-#Reviews in DH reviewing
+# *Reviews in DH* reviewing
 [*Reviews in DH*](https://reviewsindh.pubpub.org/ ), editors Roopika Risam and Jen Guiliano
 Below, I quote their [reviewer guidelines'](https://reviewsindh.pubpub.org/review-process) outline of what to respond to as part of writing a DH project review:
 ```
@@ -39,7 +39,7 @@ Below, I quote their [reviewer guidelines'](https://reviewsindh.pubpub.org/revie
 and AHA, including, where relevant: engagement of new audiences; funding, awards or other recognition; adoption and use of the output by other scholars; and citations of the project in scholarship or press identification of interesting, outstanding or problematic issues.
 ```
 
-#DH2020 reviewing
+# DH2020 reviewing
 The DH2020 reviewer guidelines remind me to pay attention to tacit assumptions about format, use of limited words, citation style and use, especially how these may be impacted by different norms in different geographic regions: "Please note that the reviewer guidelines do not penalize submissions based on length, but do require all submissions to show "explicit engagement with relevant scholarship, with references"; (references can be in any format at this stage, including naming other projects or scholars in the text of the submission)".
 
 Quoting from DH2020's [reviewer guidelines](https://dh2020.adho.org/reviewer-guidelines/):
