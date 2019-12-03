@@ -8,6 +8,15 @@ This page celebrates our successful 2019 challenge, a "Year of Blogging".
 
 ## Posts by topic
 
+## Stats!
+All authors in paragraph list linked to bio pages
+Who blogged by roles (x staff, y students, x external collaborators)
+Authored most posts? (Brandon? need to actually count)
+
+# Analysis
+Wordle?
+Voyant?
+
 ## External recognition
 Two posts were highlighted by *Digital Humanities Now* as "Editor's Choice" posts:
 <ul>
