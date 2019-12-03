@@ -16,7 +16,7 @@ We were able to reach our stretch goal of encouraging a broader revival of our b
 Brandon and Amanda tied for most posts (12 each!), followed by Ammon with 8 posts, Kelli Shermeyer (5), Abhishek Gupta (4), and Ankita Chakrabarti (3). The following folks each wrote 2 posts: Brandon Butler, Janet Dunkelbarger, Jordan Buysse, Lauren Van Nest, Lauren Work, and Zijia Zeng. The following folks each contributed one post: Chloe Downe Wells, Alison Booth, Arin Bennett, Connor Kenaston, Drew MacQueen, Julia Haines, Mackenzie Brooks, Mathilda Shepard, Natasha Roth-Rowland, Neal Curtis, Sam Lemley, and Will Rourk.
 
 More stats:
-* 26 posts authored by students
+* 13 students authored a total of 26 posts
 * 6 colleagues outside Scholars' Lab (including 1 colleague outside UVA!) authored posts on our blog: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia Haines
 * 6 posts were collaborations among multiple authors
 
