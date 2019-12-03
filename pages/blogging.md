@@ -9,8 +9,14 @@ This page celebrates our successful 2019 challenge, a "Year of Blogging".
 ## Posts by topic
 
 ## Stats!
+Starting from January 1, 2019, we're at 58 non-announcement posts (i.e. we dind't count announcements of fellowships or workshops, just essays) as of the morning of December 3rd, 2019.
+
 All authors in paragraph list linked to bio pages
+
 Who blogged by roles (x staff, y students, x external collaborators)
+
+External collaborators: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia?
+
 Authored most posts? (Brandon? need to actually count)
 
 # Analysis
