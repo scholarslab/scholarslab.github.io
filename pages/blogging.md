@@ -34,6 +34,6 @@ Three posts were highlighted by *DH+Lib* as "recommended":
   <li><a href="https://acrl.ala.org/dh/2019/05/02/recommended-archiving-dh-part-3/">DH+Lib writeup</a>, for <a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-3-the-long-view/">"Archiving DH Part 3: The Long View"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, and <a href="/people/amanda-visconti/">Amanda Visconti</a></li>
 <ul>
 
-# Analysis
+## Analysis
 Wordle?
 Voyant?
