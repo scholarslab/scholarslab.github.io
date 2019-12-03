@@ -21,10 +21,6 @@ More stats:
 * 6 colleagues outside Scholars' Lab (including 1 colleague outside UVA!) authored posts on our blog: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia Haines
 * 6 posts were collaborations among multiple authors
 
-# Analysis
-Wordle?
-Voyant?
-
 ## External recognition
 Two posts were highlighted by *Digital Humanities Now* as "Editor's Choice" posts:
 <ul>
@@ -37,3 +33,7 @@ Three posts were highlighted by *DH+Lib* as "recommended":
 <li><a href="https://acrl.ala.org/dh/2019/03/21/recommended-archiving-dh-parts-1-and-2/">DH+Lib writeup</a>, for Archiving DH Parts 1 (<a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-one/"The Problem"</a> by <a href="/people/ammon-shepherd/">Ammon Shepherd</a>) and 2 (<a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-2-the-problem-in-detail/>"The Problem in Detail"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, <a href="/people/amanda-visconti/">Amanda Visconti</a>, and Lauren Work)</li>
   <li><a href="https://acrl.ala.org/dh/2019/05/02/recommended-archiving-dh-part-3/">DH+Lib writeup</a>, for <a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-3-the-long-view/">"Archiving DH Part 3: The Long View"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, and <a href="/people/amanda-visconti/">Amanda Visconti</a></li>
 <ul>
+
+# Analysis
+Wordle?
+Voyant?
