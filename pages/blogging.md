@@ -17,6 +17,7 @@ Brandon and Amanda tied for most posts (12 each!), followed by Ammon with 8 post
 
 More stats:
 * 13 students authored a total of 26 posts
+* 7 Scholars' Lab staff authored posts
 * 6 colleagues outside Scholars' Lab (including 1 colleague outside UVA!) authored posts on our blog: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia Haines
 * 6 posts were collaborations among multiple authors
 
