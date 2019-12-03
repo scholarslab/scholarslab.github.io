@@ -9,16 +9,14 @@ This page celebrates our successful 2019 challenge, a "Year of Blogging".
 ## Posts by topic
 
 ## Stats!
-Starting from January 1, 2019, we're at 58 non-announcement posts (i.e. we dind't count announcements of fellowships or workshops, just essays) as of the morning of December 3rd, 2019.
+Starting from January 1, 2019, we're at **58** non-announcement posts (i.e. we dind't count announcements of fellowships or workshops, just essays) as of the morning of December 3rd, 2019.
 
-All authors in paragraph list linked to bio pages
+Brandon and Amanda tied for most posts (12 each!), followed by Ammon with 8 posts, Kelli Shermeyer (5), Abhishek Gupta (4), and Ankita Chakrabarti (3). The following folks each wrote 2 posts: Brandon Butler, Janet Dunkelbarger, Jordan Buysse, Lauren Van Nest, Lauren Work, and Zijia Zeng. The following folks each contributed one post: Chloe Downe Wells, Alison Booth, Arin Bennett, Connor Kenaston, Drew MacQueen, Julia Haines, Mackenzie Brooks, Mathilda Shepard, Natasha Roth-Rowland, Neal Curtis, Sam Lemley, and Will Rourk.
 
-26 students wrote posts
-6 colleagues outside Scholars' Lab (including 1 colleague outside UVA!) authored posts on our blog: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia Haines
-
-6 multi-author posts
-
-Authored most posts? (Brandon? need to actually count)
+More stats:
+* 26 students wrote posts
+* 6 colleagues outside Scholars' Lab (including 1 colleague outside UVA!) authored posts on our blog: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia Haines
+* 6 posts were collaborations among multiple authors
 
 # Analysis
 Wordle?
