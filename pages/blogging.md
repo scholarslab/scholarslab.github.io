@@ -6,7 +6,7 @@ nav: true
 ---
 This page celebrates our successful 2019 challenge, a "Year of Blogging". The challenge started off with Brandon Walsh and Amanda Visconti committing to write one post per month in 2019. Ammon Shepherd stepped things up early on with a series of four posts on DH archiving that were co-written with other SLab and UVA Library staff. 
 
-We were able to reach our stretch goal of encouraging a broader revival of our blog, tied into a renewal of our website (migration from WordPress to Jekyll-generated static site, new content and info structure). Between January 1, 2019 and December 3, 2019, we wrote **58** non-announcement posts (i.e. we dind't count announcements of fellowships or workshops, just essays). Below, the board where we tracked posts via author and a 3-word summary of each post:
+We were able to reach our stretch goal of encouraging a broader revival of our blog, tied into a renewal of our website (migration from WordPress to Jekyll-generated static site, new content and info structure). Between January 1, 2019 and December 3, 2019, we wrote **58** posts—that is, we dind't count any straight announcements of fellowships or workshops, just essays. The "website launch announcement" post was counted because it explains the process and reasoning behind the website renewal work; announcing the call for our fellowship applications was not counted. Below, the board where we tracked posts via author and a 3-word summary of each post:
 
 [Updated photo of board]
 
