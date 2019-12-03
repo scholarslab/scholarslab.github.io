@@ -18,9 +18,9 @@ posts by other collaborators
 
 All authors in paragraph list linked to bio pages
 
-Who blogged by roles (x staff, y students, x external collaborators)
 
-External collaborators: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia Haines
+26 students wrote posts
+6 colleagues outside Scholars' Lab (including 1 colleague outside UVA!) authored posts on our blog: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia Haines
 
 Authored most posts? (Brandon? need to actually count)
 
