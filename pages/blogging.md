@@ -6,17 +6,17 @@ nav: true
 ---
 This page celebrates our successful 2019 challenge, a "Year of Blogging". The challenge started off with Brandon Walsh and Amanda Visconti committing to write one post per month in 2019. Ammon Shepherd stepped things up early on with a series of four posts on DH archiving that were co-written with other SLab and UVA Library staff. 
 
-We were able to reach our stretch goal of encouraging a broader revival of our blog, tied into a renewal of our website (migration from WordPress to Jekyll-generated static site, new content and info structure). Between January 1, 2019 and December 3, 2019, we wrote **58** posts—that is, we dind't count any straight announcements of fellowships or workshops, just essays. The "website launch announcement" post was counted because it explains the process and reasoning behind the website renewal work; announcing the call for our fellowship applications was not counted. Below, the board where we tracked posts via author and a 3-word summary of each post:
+We were able to reach our stretch goal of encouraging a broader revival of our blog, tied into a renewal of our website (migration from WordPress to Jekyll-generated static site, new content and info structure). Between January 1, 2019 and December 3, 2019, we wrote **62** posts—that is, we dind't count any straight announcements of fellowships or workshops, just essays. The "website launch announcement" post was counted because it explains the process and reasoning behind the website renewal work; announcing the call for our fellowship applications was not counted. Below, the board where we tracked posts via author and a 3-word summary of each post:
 
 [Updated photo of board]
 
 ## Posts by topic
 
 ## Stats!
-Brandon and Amanda tied for most posts (12 each!), followed by Ammon with 8 posts, Kelli Shermeyer (5), Abhishek Gupta (4), and Ankita Chakrabarti (3). The following folks each wrote 2 posts: Brandon Butler, Janet Dunkelbarger, Jordan Buysse, Lauren Van Nest, Lauren Work, and Zijia Zeng. The following folks each contributed one post: Chloe Downe Wells, Alison Booth, Arin Bennett, Connor Kenaston, Drew MacQueen, Julia Haines, Mackenzie Brooks, Mathilda Shepard, Natasha Roth-Rowland, Neal Curtis, Sam Lemley, and Will Rourk.
+Amanda wrote 13 posts and Brandon  wrote 12, followed by Ammon with 9 posts, Kelli Shermeyer (5), Abhishek Gupta (4), and Ankita Chakrabarti (3). The following folks each wrote 2 posts: Connor Kenaston, Brandon Butler, Janet Dunkelbarger, Jordan Buysse, Lauren Van Nest, Lauren Work, and Zijia Zeng. The following folks each contributed one post: Chloe Downe Wells, Alison Booth, Arin Bennett, Drew MacQueen, Julia Haines, Mackenzie Brooks, Mathilda Shepard, Natasha Roth-Rowland, Neal Curtis, Sam Lemley, Leigh Miller, and Will Rourk.
 
 More stats:
-* 13 students authored a total of 26 posts
+* 14 students authored a total of 28 posts
 * 7 Scholars' Lab staff authored posts
 * 6 colleagues outside Scholars' Lab (including 1 colleague outside UVA!) authored posts on our blog: Neal Curtis, Sam Lemley, Mackenzie Brooks, Lauren Work, Brandon Butler, Julia Haines
 * 6 posts were collaborations among multiple authors
