@@ -15,7 +15,8 @@ Two posts were highlighted by *Digital Humanities Now* as "Editor's Choice" post
 <li><a href="/blog/dh-cover-letters/">"How We Talk and Write about DH Jobs"</a> by <a href="/people/brandon-walsh/">Brandon Walsh</a> and <a href="/people/amanda-visconti/">Amanda Visconti</a> (<a href="http://digitalhumanitiesnow.org/2019/10/editors-choice-how-we-talk-and-write-about-dh-jobs/">link on DH Now</a>)</li>
 </ul>
 
-Three posts were highlighted by *DH+Lib*:
-Archiving DH Parts 1 & 2
-Charters & Values Statements
-Archiving DH Part 3
+Three posts were highlighted by *DH+Lib* as "recommended":
+<ul>
+<li><a href="https://acrl.ala.org/dh/2019/03/21/recommended-archiving-dh-parts-1-and-2/">DH+Lib writeup</a>, for Archiving DH Parts 1 (<a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-one/"The Problem"</a> by <a href="/people/ammon-shepherd/">Ammon Shepherd</a>) and 2 (<a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-2-the-problem-in-detail/>"The Problem in Detail"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, <a href="/people/amanda-visconti/">Amanda Visconti</a>, and Lauren Work)</li>
+  <li><a href="https://acrl.ala.org/dh/2019/05/02/recommended-archiving-dh-part-3/">DH+Lib writeup</a>, for <a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-3-the-long-view/">"Archiving DH Part 3: The Long View"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, and <a href="/people/amanda-visconti/">Amanda Visconti</a></li>
+<ul>
