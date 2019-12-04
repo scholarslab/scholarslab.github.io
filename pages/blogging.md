@@ -40,8 +40,13 @@ Three posts were highlighted by *DH+Lib* as "recommended":
 </ul>
 
 ## Analysis
-Wordle?
-Voyant?
+We dropped the text of all of 2019's blog posts into [Voyant Tools](https://voyant-tools.org/). 
+
+What is digital humanities without A Wordle? Incomplete!
+![Wordle of most frequently occuring terms in 2019 blog posts on our blog](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/2019-12-04-frequentlyappearingwords-wordle.png)
+
+Seriously, though, we're pleased to see our priorities reflected in the most frequently used words in this year's blog posts. "Students" was the second most frequently appearing word (369 uses! plus 118 uses of "student" singular). "Pedagogy" appeared 123 times, "3D" 118 times, and "community" 118 times, reflecting some of our greatest strengths: student-centered pedagogy and training the next generation of experimental and digital humanities scholars, spatial technologies, and a public focus as a community lab.
+![Table of most frequently occuring terms in 2019 blog posts on our blog](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/2019-12-04-frequentlyappearingwords-table.png)
 
 ## 2019 posts by topic
 ### Teaching/pedagogy
