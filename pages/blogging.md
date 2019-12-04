@@ -21,10 +21,12 @@ More stats:
 * 6 posts were collaborations among multiple authors
 
 ## External recognition
-Three posts were highlighted by *Digital Humanities Now*! Two as "Editor's Choice" posts...
+Five posts were highlighted by *Digital Humanities Now*! Two as "Editor's Choice" posts...
 <ul>
 <li><a href="/blog/archiving-dh-part-2-the-problem-in-detail/">"Archiving DH Part 2: The Problem in Detail"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, <a href="/people/amanda-visconti/">Amanda Visconti</a>, and Lauren Work (<a href="http://digitalhumanitiesnow.org/2019/03/archiving-dh-part-2-the-problem-in-detail-scholars-lab/">link on DH Now</a>)</li>
 <li><a href="/blog/dh-cover-letters/">"How We Talk and Write about DH Jobs"</a> by <a href="/people/brandon-walsh/">Brandon Walsh</a> and <a href="/people/amanda-visconti/">Amanda Visconti</a> (<a href="http://digitalhumanitiesnow.org/2019/10/editors-choice-how-we-talk-and-write-about-dh-jobs/">link on DH Now</a>)</li>
+<li><a href="/blog/thirteen-oblique-strategies-for-digital-pedagogy/">"Thirteen Oblique Strategies For Digital Pedagogy"</a> by <a href="/people/brandon-walsh/">Brandon Walsh</a> </li>
+<li><a href="/blog/workshop-on-reading-with-command-line/">"Workshop On Reading With Command Line"</a> by <a href="/people/brandon-walsh/">Brandon Walsh</a> </li>
 </ul>
 ...and one as a recommended "resource":
 <ul>
