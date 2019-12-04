@@ -8,7 +8,7 @@ This page celebrates our successful 2019 challenge, a "Year of Blogging". The ch
 
 We were able to reach our stretch goal of encouraging a broader revival of our blog, tied into a renewal of our website (migration from WordPress to Jekyll-generated static site, new content and info structure). Between January 1, 2019 and December 3, 2019, we wrote **62** posts—that is, we dind't count any straight announcements of fellowships or workshops, just essays. The "website launch announcement" post was counted because it explains the process and reasoning behind the website renewal work; announcing the call for our fellowship applications was not counted. Below, the board where we tracked posts via author and a 3-word summary of each post:
 
-[Updated photo of board]
+![Large cardboard poster listing the authors of posts and a 3-word summary of the post content, for all essay blog posts published in 2019 on the Scholars' Lab blog](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/2019-12-04-yearofblogging1board.jpg)
 
 ## Posts by topic
 
