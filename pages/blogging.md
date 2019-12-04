@@ -22,16 +22,20 @@ More stats:
 * 6 posts were collaborations among multiple authors
 
 ## External recognition
-Two posts were highlighted by *Digital Humanities Now* as "Editor's Choice" posts:
+Three posts were highlighted by *Digital Humanities Now*! Two as "Editor's Choice" posts...
 <ul>
 <li><a href="/blog/archiving-dh-part-2-the-problem-in-detail/">"Archiving DH Part 2: The Problem in Detail"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, <a href="/people/amanda-visconti/">Amanda Visconti</a>, and Lauren Work (<a href="http://digitalhumanitiesnow.org/2019/03/archiving-dh-part-2-the-problem-in-detail-scholars-lab/">link on DH Now</a>)</li>
 <li><a href="/blog/dh-cover-letters/">"How We Talk and Write about DH Jobs"</a> by <a href="/people/brandon-walsh/">Brandon Walsh</a> and <a href="/people/amanda-visconti/">Amanda Visconti</a> (<a href="http://digitalhumanitiesnow.org/2019/10/editors-choice-how-we-talk-and-write-about-dh-jobs/">link on DH Now</a>)</li>
+</ul>
+...and one as a recommended "resource":
+<ul>
+<li><a href="https://scholarslab.lib.virginia.edu/blog/writing-DH-conference-journal-reviews/">Personal guidelines for DH journal and conference reviewing</a> by <a href="https://scholarslab.lib.virginia.edu/people/amanda-visconti/">Amanda Visconti</a></li>
 </ul>
 
 Three posts were highlighted by *DH+Lib* as "recommended":
 <ul>
 <li><a href="https://acrl.ala.org/dh/2019/03/21/recommended-archiving-dh-parts-1-and-2/">DH+Lib writeup</a>, for Archiving DH Parts 1 (<a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-one/"The Problem"</a> by <a href="/people/ammon-shepherd/">Ammon Shepherd</a>) and 2 (<a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-2-the-problem-in-detail/>"The Problem in Detail"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, <a href="/people/amanda-visconti/">Amanda Visconti</a>, and Lauren Work)</li>
-  <li><a href="https://acrl.ala.org/dh/2019/05/02/recommended-archiving-dh-part-3/">DH+Lib writeup</a>, for <a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-3-the-long-view/">"Archiving DH Part 3: The Long View"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, and <a href="/people/amanda-visconti/">Amanda Visconti</a></li>
+<li><a href="https://acrl.ala.org/dh/2019/05/02/recommended-archiving-dh-part-3/">DH+Lib writeup</a>, for <a href="https://scholarslab.lib.virginia.edu/blog/archiving-dh-part-3-the-long-view/">"Archiving DH Part 3: The Long View"</a> by Brandon Butler, <a href="/people/ammon-shepherd/">Ammon Shepherd</a>, and <a href="/people/amanda-visconti/">Amanda Visconti</a></li>
 <ul>
 
 ## Analysis
