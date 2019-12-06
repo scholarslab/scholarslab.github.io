@@ -4,7 +4,7 @@ title: Digital Humanities Fellows Program
 permalink: /digital-humanities-fellows/
 nav: false
 ---
-**We are now accepting applications for the 2020-2021 Digital Humanities Fellowship Cohort.**
+**Applications are closed for the 2020-2021 Digital Humanities Fellowship Cohort. You can expect the next application cycle to launch in Fall of 2020.**
 
 The application deadline for fellowships to be held during the 2020-2021 academic year is **Monday, November 25th, 2019 at 11:59 PM**. We will do our best to render decisions by late December.
 
@@ -21,7 +21,7 @@ Since its beginnings in 2007, the Graduate Fellowship in Digital Humanities has 
 **Eligibility, Conditions, and Requirements**
 
 * Applicants must be ABD, having completed all course requirements and been admitted to candidacy for the doctorate in the humanities, social sciences or the arts at the University of Virginia.
-* The fellowship is provided to students who have exhausted the financial support offered to them upon admission. As such, students will typically apply during their fifth year of study or beyond for a sixth year of support.[^1]
+* The fellowship is provided to students who have exhausted the financial support offered to them upon admission. As such, GSAS students will typically apply during their fifth year of study or beyond for a sixth year of support.[^1] The funding packages for Architecture School students operate on a different funding cycle. As such, Architecture PhD students should confirm their eligibility with both [Brandon Walsh](mailto:bmw9t@virginia.edu) and their program director prior to applying.
 * Applicants are expected to have digital humanities experience, though this background could take a variety of forms. Experience can include formal fellowships like the [Praxis Program](http://praxis.scholarslab.org/), but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
 * Applicants must be enrolled full time in the year for which they are applying.
 * A faculty advisor must review and approve the scholarly content of the proposal.
@@ -34,7 +34,8 @@ A complete application package will include the following materials, all of whic
   * a summary of the applicant’s plan for use of digital technologies in his or her dissertation research;
   * a summary of the applicant’s experience with digital projects;
   * a description of Scholars' Lab and UVa library digital resources (content or expertise) that are relevant to the proposed project;
-  * and a description of how the fellowship would be transformative for your work and your career.
+  * a description of how the fellowship would be transformative for your work and your career;
+  * and, most importantly, a description of what you propose to do with us over the course of the fellowship year. Typically this takes the form of a digital project with an associated research plan or proposed course of study.
 * a [Graduate Fellowship Application Form](/assets/post-media/fellowsappform.pdf);
 * a dissertation abstract;
 * 2-3 letters of nomination and support, at least one being from the applicant’s dissertation director who can attest to the project’s scholarly rigor and integration within the dissertation (these letters can be sent in by email to [Brandon Walsh](mailto:bmw9t@virginia.edu));
