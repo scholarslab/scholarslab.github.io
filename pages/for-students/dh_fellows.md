@@ -35,9 +35,10 @@ A complete application package will include the following materials, all of whic
   * a summary of the applicant’s experience with digital projects;
   * a description of Scholars' Lab and UVa library digital resources (content or expertise) that are relevant to the proposed project;
   * a description of how the fellowship would be transformative for your work and your career;
+  * a short review of relevant digital projects and scholarship with which your proposed work for the year will be in dialogue;
   * and, most importantly, a description of what you propose to do with us over the course of the fellowship year. Typically this takes the form of a digital project with an associated research plan or proposed course of study.
 * a [Graduate Fellowship Application Form](/assets/post-media/fellowsappform.pdf);
-* a dissertation abstract;
+* a dissertation abstract (no more than one page);
 * 2-3 letters of nomination and support, at least one being from the applicant’s dissertation director who can attest to the project’s scholarly rigor and integration within the dissertation (these letters can be sent in by email to [Brandon Walsh](mailto:bmw9t@virginia.edu));
 * and your availability for a 30-minute interview slot sometime on **Monday, December 9th from 9:00AM-10:00AM, 11:00AM-12:00PM, or 1:30PM-4:00PM**. This can be communicated by email or in the cover letter. These time slots will be used for finalist interviews. We’re aiming for a quicker process this year by announcing those interview times in advance, though we can work out alternatives if scheduling difficulties arise. If you are unavailable then, please suggest other times on or around the 9th or 10th of December.
 
