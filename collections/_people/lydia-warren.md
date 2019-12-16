@@ -10,7 +10,7 @@ short_bio: ''
 slug: lydia-warren
 status: not_current
 twitter: lydiaisrad
-website: www.LydiaWarren.com
+website: http://www.lydiawarren.com/
 people-category:
 - student
 roles:

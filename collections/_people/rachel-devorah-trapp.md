@@ -11,7 +11,7 @@ short_bio: ''
 slug: rachel-devorah-trapp
 status: not_current
 twitter: None
-website: racheldevorahtrapp.com
+website: http://racheldevorah.studio/
 people-category:
 - student
 roles:
