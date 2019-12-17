@@ -12,22 +12,22 @@ tags:
 ---
 # LED Watch Making
 
-![Figure 1 First sketch of LED watch in November 2016](assets/post-media/led-watch/guts_in_case.jpg)
+![Figure 1 First sketch of LED watch in November 2016](/assets/post-media/led-watch/guts_in_case.jpg)
 *[A watch?]*
 
 ## The Idea
 This project started as an idea over three years ago when I saw a watch someone was wearing at a conference I was attending, [ISAM 2016](https://project-manus.mit.edu/courses-and-symposiums), the International Symposium of Academic Makerspaces. The watch I saw was a wooden square. The face was simply holes at each hour, with LED lights underneath to illuminate the hours, minutes and seconds. I figured that would be an easy design to replicate.
  
-![First sketch of LED watch in November 2016](assets/post-media/led-watch/watch_drawings.jpg)
+![First sketch of LED watch in November 2016](/assets/post-media/led-watch/watch_drawings.jpg)
 *[First sketch of an LED watch in November 2016]*
 
 
 An attempt later the next year ended in failure, as the LEDs and boards I purchased proved to be unresponsive and too difficult to get working. The boards did not solder together well, and the code was hard to write with little documentation.
 
-![First attempt with LEDs](assets/post-media/led-watch/LEDs.jpg)
+![First attempt with LEDs](/assets/post-media/led-watch/LEDs.jpg)
 *[First attempt with just LEDs]*
 
-![Attempt with failing parts](assets/post-media/led-watch/watch_ring.jpg)
+![Attempt with failing parts](/assets/post-media/led-watch/watch_ring.jpg)
 *[2nd attempt...]*
 
 This time, I was able to find some parts from Adafruit.com that simplified the project immensely. They even had a tutorial for creating a watch! [https://learn.adafruit.com/flora-geo-watch/](https://learn.adafruit.com/flora-geo-watch/)
@@ -35,13 +35,13 @@ This time, I was able to find some parts from Adafruit.com that simplified the p
 ## The Guts
 The process of soldering the pieces together was quite simple. The only problem here was getting the wires soldered on in the right lengths and oriented in the right way for the boards to sit on top of each other correctly. I did also run into an issue where I had wrapped the wire around the holes in the board, and then soldered them in place. This proved to be an issue when trying to make a case that fit the dimensions of the board. I had to clip the excess solder and wires from the edge of the board.
 
-![The assembled FLORA, GPS module, and NeoPixel Ring](assets/post-media/led-watch/guts1.jpg)
+![The assembled FLORA, GPS module, and NeoPixel Ring](/assets/post-media/led-watch/guts1.jpg)
 *[The guts of the watch, assembled FLORA, GPS module, and NeoPixel Ring]*
 
-![The assembled FLORA, GPS module, and NeoPixel Ring, exploded view 1](assets/post-media/led-watch/guts2.jpg)
+![The assembled FLORA, GPS module, and NeoPixel Ring, exploded view 1](/assets/post-media/led-watch/guts2.jpg)
 *[The assembled FLORA, GPS module, and NeoPixel Ring, exploded view 1]*
 
-![The assembled FLORA, GPS module, and NeoPixel Ring, exploded view 2](assets/post-media/led-watch/guts3.jpg)
+![The assembled FLORA, GPS module, and NeoPixel Ring, exploded view 2](/assets/post-media/led-watch/guts3.jpg)
 *[The assembled FLORA, GPS module, and NeoPixel Ring, exploded view 2]*
 
 ## The Code
@@ -53,13 +53,13 @@ See below for the code so far, or here: [https://github.com/ammonshepherd/led-wa
 ## The Case
 With the code (mostly) working correctly. I started designing the case. The original idea of a wood case was too much to handle for the moment. So I went with a 3D printed case. I designed the case in Fusion 360. The original design is a cylinder with cut outs for the micro-USB port and the JST port. I went through eight iterations before deciding that the entire thing should be encompassed in the case, with no holes, in order to better support the PCB and to better incorporate the battery. I found a tutorial on Youtube that shows how to create the support structure that I’m looking for, so I’ll be following that to design a better case, while also incorporating a way to include a watch strap.
 
-![The first case](assets/post-media/led-watch/first_case.jpg)
+![The first case](/assets/post-media/led-watch/first_case.jpg)
 *[First case attempt]*
 
-![Different iterations of the case](assets/post-media/led-watch/cases.jpg)
+![Different iterations of the case](/assets/post-media/led-watch/cases.jpg)
 *[Various itterations of the case]*
  
-![the latest case](assets/post-media/led-watch/latest_case.jpg)
+![the latest case](/assets/post-media/led-watch/latest_case.jpg)
 *[The latest version of the case]*
 
 
