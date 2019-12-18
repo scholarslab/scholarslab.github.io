@@ -68,7 +68,7 @@ Seriously, though, we're pleased to see our priorities reflected in the most fre
 <li><a href="/blog/whats-a-pedagogy-and-how-do-i-find-mine/">"What's a Pedagogy, and How Do I Find Mine?"</a> by <a href="/people/brandon-walsh/">Brandon Walsh</a> </li>
 <li><a href="/blog/five-verbs-for-open-pedagogy/">"Five Verbs for Open Pedagogy"</a> by <a href="/people/brandon-walsh/">Brandon Walsh</a> </li>
 <li><a href="https://scholarslab.lib.virginia.edu/blog/lifes-lessons-from-a-10th-grade-career-fair/">Life's Lessons From A 10th Grade Career Fair</a> by <a href="https://scholarslab.lib.virginia.edu/people/ammon-shepherd/">Ammon Shepherd</a> </li>
-<li><a href="https://scholarslab.lib.virginia.edu/blog/intro-dh-and-sound-workshop/'>Working on a Workshop (aka outlining a possible workshop about DH and Sound)</a> by <a href="https://scholarslab.lib.virginia.edu/people/connor-kenaston/">Connor Kenaston</a> </li>
+<li><a href="https://scholarslab.lib.virginia.edu/blog/intro-dh-and-sound-workshop/">Working on a Workshop (aka outlining a possible workshop about DH and Sound)</a> by <a href="https://scholarslab.lib.virginia.edu/people/connor-kenaston/">Connor Kenaston</a> </li>
 <li><a href="/blog/workshop-on-reading-with-command-line/">"Workshop On Reading With Command Line"</a> by <a href="/people/brandon-walsh/">Brandon Walsh</a> </li>
 </ul>
 
@@ -147,5 +147,5 @@ Seriously, though, we're pleased to see our priorities reflected in the most fre
 <li><a href="/blog/theatricality-of-motion-capture/">"Some Reflections on the Theatricality of Motion Capture"</a> by <a href="/people/kelli-shermeyer/">Kelli Shermeyer</a> </li>
 <li><a href="/blog/starting-out-on-the-right-foot-part-three/">"Starting Out On The Right Foot (Part Three)"</a> by <a href="/people/kelli-shermeyer/">Kelli Shermeyer</a> </li>
 <li><a href="/blog/starting-out-on-the-right-foot-(part-two)/">"Starting Out On The Right Foot (Part Two)"</a> by <a href="/people/kelli-shermeyer/">Kelli Shermeyer</a> </li>
-<li><a href="https://scholarslab.lib.virginia.edu/blog/Leigh-space-in-video-games/">Space→Time+Materiality=Place</a> by <a href="https://scholarslab.lib.virginia.edu/people/leigh-miller/'>Leigh Miller</a> </li>
+<li><a href="https://scholarslab.lib.virginia.edu/blog/Leigh-space-in-video-games/">Space→Time+Materiality=Place</a> by <a href="https://scholarslab.lib.virginia.edu/people/leigh-miller/">Leigh Miller</a> </li>
 </ul>
