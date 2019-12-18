@@ -41,7 +41,7 @@ Three posts were highlighted by *DH+Lib* as "recommended":
 
 Some other praise for Year of Blogging posts!:
 
-![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/2019-12-17-yearofblogging_RAKarltweet.png)
+![](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/2019-12-17-yearofblogging_RAKarltweet.png)  
 <a href="https://twitter.com/RAKarl/status/1206739253553770496">@RAKarl tweet</a> about Ammon's <a href=""></a> post: "Am still figuring out how to make the script work most efficiently w/ the site I'm pulling from, but @mossiso [Ammon] has given us #twitterstorians an incredible resource"
 
 ## Analysis
