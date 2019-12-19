@@ -23,7 +23,7 @@ Start your data search with this curated collection of geographic information fr
 
 **February 4th - Spatial Analysis with ArcGIS Online**
 
-ArcGIS Online provides a select set of the most common analysis tools, all from the convenience of your browser. Perform basic analysis with tools like Buffer and Spatial Join. Or, enhance your data, taking advantage of the always up-to-date elevation, streets, and demographics data available in ArcGIS Online with tools like Create Viewshed, Find Nearest, and Enrich. Come to learn and stay for stories about the old days when we had to create all that data ourselves. Uphill. Both ways!! 
+ArcGIS Online provides a select set of the most common analysis tools, all from the convenience of your browser. Perform basic analysis with tools like Buffer and Spatial Join. Or, enhance your data, taking advantage of the always up-to-date elevation, streets, and demographics data available in ArcGIS Online with tools like Create Viewshed, Find Nearest, and Enrich. Come learn spatial analysis while we regale you with stories about the old days when we had to create all that data ourselves. Uphill. Both ways!! 
 
 **February 11th - Advanced Web Mapping and Visualization**
 
