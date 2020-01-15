@@ -39,7 +39,7 @@ The application process for Praxis is simple! You apply individually, and we ass
 * summary of the applicant's plan for use of digital technologies in your research;
 * summary of what skills, interests, methods the applicant will bring to the Praxis Program;
 * summary of what the applicant hopes to gain as a Praxis Fellow;
-* and your availability on the days we've identified for group interviews March 18th from 11:00 to 12:00 and March 19th from 9:00 to 11:30. We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
+* and your availability on the days we've identified for group interviews (**TBD! Check back before you apply.**). We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
 
 Questions about Praxis Fellowships and the application process should be directed to [Brandon Walsh](mailto:bmw9t@virginia.edu). Completed application materials can be uploaded through the [GSAS application portal](https://virginia.academicworks.com/opportunities/7434/applications/new). Please do consider this application to be part of a process - the beginning of a conversation about how we can work together. We highly encourage students to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) to express their interest and (once an application has been submitted) to let us know you have applied. Together we can begin to discuss how the Lab can be a part of your time here, with Praxis or otherwise. 
 
