@@ -3,7 +3,7 @@ author: brandon-walsh
 date: 2020-01-14 16:29:57
 layout: post
 slug: praxis-program-cfp-2020-2021-cohort
-title: Praxis Program CFP 2020-2021 Cohort
+title: Apply for the 2020-2021 Praxis Cohort!
 categories:
 - Announcements
 - Digital Humanities
