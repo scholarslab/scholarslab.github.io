@@ -1,11 +1,17 @@
 ---
-layout: page
-title: Praxis Program Fellowships
-permalink: /praxis-program-fellowships/
-nav: false
+author: brandon-walsh
+date: 2020-01-14 16:29:57
+layout: post
+slug: praxis-program-cfp-2020-2021-cohort
+title: Apply for the 2020-2021 Praxis Cohort!
+categories:
+- Announcements
+- Digital Humanities
+tags:
+- Digital Humanities
 ---
 
-**Applications are now open for the 2020-2021 cohort. Applications are due February 28th, 2020 by midnight**. The Praxis call for applications is generally issued in the winter with a mid-spring deadline. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
+Calling UVA graduate students! The spring semester is just beginning, but it's never too early to think about next year. **Applications are now open for the 2020-2021 cohort. Applications are due February 28th, 2020 by midnight**. Consider spending some time with us! 
 
 The [Praxis Program](http://praxis.scholarslab.org/) is a radical re-imagining of the annual teaching and training we offer in the Scholars' Lab. This fellowship supports a team of six University of Virginia PhD students from a variety of disciplines, who work collaboratively on a shared digital humanities project. Under the guidance of Scholars' Lab faculty and staff, Praxis fellows conceive, develop, publish, and promote a digital project over the course of an academic year. Praxis is a unique and well-known training program in the international digital humanities community. Our fellows blog about their experiences and develop increased facility with project management, collaboration, and the public humanities, even as they tackle (most for the first time, and with the mentorship of our faculty and staff) new programming languages, tools, and digital methods. Praxis aims to prepare fellows with digital methodologies to apply both to the fellowship project and their future research.
 
@@ -36,3 +42,4 @@ The application process for Praxis is simple! You apply individually, and we ass
 * and your availability on the days we've identified for group interviews March 18th from 11:00 to 12:00 and March 19th from 9:00 to 11:30. We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
 
 Questions about Praxis Fellowships and the application process should be directed to [Brandon Walsh](mailto:bmw9t@virginia.edu). Completed application materials can be uploaded through the [GSAS application portal](https://virginia.academicworks.com/opportunities/7434/applications/new). Please do consider this application to be part of a process - the beginning of a conversation about how we can work together. We highly encourage students to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) to express their interest and (once an application has been submitted) to let us know you have applied. Together we can begin to discuss how the Lab can be a part of your time here, with Praxis or otherwise. 
+
