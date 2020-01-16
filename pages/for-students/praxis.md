@@ -5,7 +5,7 @@ permalink: /praxis-program-fellowships/
 nav: false
 ---
 
-**Applications are now open for the 2020-2021 cohort. Applications are due February 28th, 2020 by midnight**. The Praxis call for applications is generally issued in the winter with a mid-spring deadline. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
+**Applications are now open for the 2020-2021 cohort. Applications are due March 1st**. The Praxis call for applications is generally issued in the winter with a mid-spring deadline. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
 
 The [Praxis Program](http://praxis.scholarslab.org/) is a radical re-imagining of the annual teaching and training we offer in the Scholars' Lab. This fellowship supports a team of six University of Virginia PhD students from a variety of disciplines, who work collaboratively on a shared digital humanities project. Under the guidance of Scholars' Lab faculty and staff, Praxis fellows conceive, develop, publish, and promote a digital project over the course of an academic year. Praxis is a unique and well-known training program in the international digital humanities community. Our fellows blog about their experiences and develop increased facility with project management, collaboration, and the public humanities, even as they tackle (most for the first time, and with the mentorship of our faculty and staff) new programming languages, tools, and digital methods. Praxis aims to prepare fellows with digital methodologies to apply both to the fellowship project and their future research.
 
