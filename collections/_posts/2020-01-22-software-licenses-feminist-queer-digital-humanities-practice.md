@@ -10,6 +10,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's blog
+    url: http://literaturegeek.com/2020/01/22/software-licenses-feminist-queer-digital-humanities-practice
 ---
 In the interest of sharing more than just our most smooth-sailing digital humanities work, we (Amanda Visconti and Jeremy Boggs) are sharing below a co-written article abstract that was not accepted by the CFP to which we initially submitted it. We're planning on doing the work described regardless, including documenting the process as described and looking for a different publication venue to share that writing. (If you have suggestions, please let us know! You can email visconti@virginia.edu. Thanks!).
 
