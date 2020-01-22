@@ -13,7 +13,7 @@ tags:
 ---
 In the interest of sharing more than just our most smooth-sailing digital humanities work, we (Amanda Visconti and Jeremy Boggs) are sharing below a co-written article abstract that was not accepted by the CFP to which we initially submitted it. We're planning on doing the work described regardless, including documenting the process as described and looking for a different publication venue to share that writing. (If you have suggestions, please let us know! You can email visconti@virginia.edu. Thanks!).
 
-## Software licenses as a feminist & queer digital humanities practice
+## Software licensing as feminist & queer digital humanities practice
 Software licenses are legal statements about the way a piece of executable code (i.e. code that can be run on a computer) may be used, governing decisions such as how to cite the code's creators, the legal responsibilities and retained rights of the code's creator, how the code may be customized to create new tools, and whether profiting from the code or its customization is allowed. Choices about software licensing can be watershed moments in the intellectual life of code-including digital humanist scholarship. Rather than defaulting to tech standards such as variants of the MIT, Apache, and GPL licenses, decisions about digital humanities software licensing deserve careful debate and research to identify the license that best advances a project's values and does the most good (and least harm) to greater DH and technical communities.
 
 Three recent events highlight the importance of feminist and queer approaches to evaluating the ethical and moral impact of software license choices:  
