@@ -1,11 +1,15 @@
 ---
-layout: page
+layout: post
+author: ronda-grizzle
+date: 2020-01-27
 title: Evaluating Scholars' Lab Interfaces and Digital Tools for Inclusivity, Accessibility, and Equity
-permalink: /evaluating-equity/
+slug: evaluating-scholars-lab-interfaces-and-digital-tools-for-inclusivity-accessibility-and-equity
+categories:
+ - Digital Humanities
 nav: true
 ---
 
-> # We Welcome Everyone
+> *We Welcome Everyone*
 > "Diversity and inclusion are not achievements; they are active and continuous strivings."
 >        	~Scholars' Lab Charter
 
