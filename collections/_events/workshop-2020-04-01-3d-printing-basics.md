@@ -2,8 +2,8 @@
 author: ammon-shepherd
 start_date: 2020-04-01
 end_date: 2020-04-01
-start_time: 11:30:00
-end_time: 13:00:00
+start_time: "11:30:00"
+end_time: "13:00:00"
 layout: events
 location: "Makerspace"
 slug: workshop-2020-04-01-3d-printing-basics
@@ -17,4 +17,6 @@ This workshop will introduce participants to the exciting world of desktop fabri
 the best practices and equipment for bringing them to life. While not necessary, participants can bring a laptop to get better acquainted with the 
 software we’ll introduce.
 
-Register for the workshop here: https://cal.lib.virginia.edu/event/6406190
+Register for the workshop here: [https://cal.lib.virginia.edu/event/6406190 ](https://cal.lib.virginia.edu/event/6406190)
+
+Contact Ammon Shepherd with any questions, <a href="mailto:ammon@virginia.edu">ammon@virginia.edu</a>.
