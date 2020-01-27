@@ -12,6 +12,7 @@ nav: true
 > *We Welcome Everyone*
 >
 > "Diversity and inclusion are not achievements; they are active and continuous strivings."
+>
 >        	~Scholars' Lab Charter
 
 Fall semester of 2018 I participated in Dr. Shaundra Walker's Library Juice Academy course *Cultural Competence for Librarians*, which gave me a foundational understanding of the work that's been done to assess diversity, accessibility, and equity in library and academic spaces, and for evaluation of digital and analog tools. The course, if you're wondering, is fantastic, and I highly recommend it. The final assignment provided me with an opportunity to design a project to apply what I'd learned in class for Scholars' Lab’s digital tools and interfaces.
