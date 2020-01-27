@@ -10,6 +10,7 @@ nav: true
 ---
 
 > *We Welcome Everyone*
+>
 > "Diversity and inclusion are not achievements; they are active and continuous strivings."
 >        	~Scholars' Lab Charter
 
