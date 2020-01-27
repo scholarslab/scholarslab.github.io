@@ -6,7 +6,6 @@ title: Evaluating Scholars' Lab Interfaces and Digital Tools for Inclusivity, Ac
 slug: evaluating-scholars-lab-interfaces-and-digital-tools-for-inclusivity-accessibility-and-equity
 categories:
  - Digital Humanities
-nav: true
 ---
 
 > *We Welcome Everyone*
