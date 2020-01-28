@@ -2,8 +2,8 @@
 author: ammon-shepherd
 start_date: 2020-02-13
 end_date: 2020-02-13
-start_time: 12:00:00
-end_time: 21:00:00
+start_time: "12:00:00"
+end_time: "21:00:00"
 layout: events
 location: "Makerspace"
 slug: valentines-2020-make-event
@@ -16,3 +16,4 @@ All for FREE!
 
 Drop in anytime between 12pm and 9pm!
 
+Contact Ammon Shepherd with any questions, <a href="mailto:ammon@virginia.edu">ammon@virginia.edu</a>.
