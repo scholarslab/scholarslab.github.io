@@ -3,14 +3,14 @@ author: brandon-walsh
 date: 2020-01-28 09:28:28
 layout: post
 slug: year-of-book-blogging-digital-humanities-pedagogy-in-kind
-title: "Year Of Book Blogging: Digital Humanities Pedagogy In Kind"
+title: "Year Of Book Blogging: Digital Humanities Pedagogy in Kind"
 categories:
 - Digital Humanities
 tags:
 - Digital Humanities
 crosspost:
   - title: Brandon's blog
-    url: https://yourcoollink.com
+    url: http://walshbr.com/blog/year-of-book-blogging-digital-humanities-pedagogy-in-kind
 ---
 Amanda, Ammon, and I have been discussing our plans for the upcoming year of blogging. While last year's blogging push was invigorating and exciting, we wanted things to be slightly different in the coming year. In particular, we've been talking about wanting more continuity in the things we publish. Speaking for myself, it often felt like I was blogging just in time and on deadline. Some good things came out of that work, but I liked the idea of putting just a little more thinking into the project ahead of time so that I could blog around a central topic for the year. Amanda and Ammon have been incredibly helpful in talking about all this with me. 
 
