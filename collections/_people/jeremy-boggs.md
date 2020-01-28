@@ -22,4 +22,5 @@ As Head of Research & Development, I focus on front-end development, user interf
 I've been a practicing digital humanist for a little over a decade now. I have a Master's degree in History, and have taught courses in history, graphic design, new media, and American studies. I'm also an instructor at [HILT](http://www.dhtraining.org/hilt/) and [Accessible Future](http://www.accessiblefuture.org/). I formerly served as the Communication Officer for the [Association for Computers and the Humanities](http://ach.org).
 
 Ari Beth's and Ella's father. Chaotic Good.
-  *[HILT]: Humanities Intensive Learning and Teaching
+
+*[HILT]: Humanities Intensive Learning and Teaching
