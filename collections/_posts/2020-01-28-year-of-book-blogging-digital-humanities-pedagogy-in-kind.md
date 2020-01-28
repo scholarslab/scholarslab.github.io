@@ -24,7 +24,7 @@ I thought I might start by close reading this provisional, draft-y title as a wa
 
 ## Digital Humanities Pedagogy in Kind
  
-1. Our pedagogy model and reflect the kind of academic community we want to see in the  world. Academia is toxic in numerous ways. Teaching and the ways we theorize and practice it can be interventions in the culture around us. The project hopes to connect classroom practice with the kinds of infrastructural changes they reflect and enact. 
+1. Our pedagogy model and reflect the kind of academic community we want to see in the  world. Academia is toxic in numerous ways. Teaching and the ways we theorize and practice it can be interventions in the culture around us. The project hopes to connect classroom practice broadly construed with the kinds of infrastructural changes they reflect and enact. 
 2. Kindness is at the core of the project. I'm trying to formulate a theory of DH pedagogy that is, at its core, one about developing a less toxic and more affirmative space for students in higher education. It's about developing empathy and kindness as teachers and how DH can (or cannot?) offer us the space to do so within and against the infrastructures of academia.
 3. Finally, at least in this title, I wanted to get at the idea of paying a debt in goods and services rather than in cash. For starters, I like this formulation because it draws in a range of topics. What do we owe our students? It raises the specter of student debt. And it draws in Paulo Freire and questions of neoliberal, zero-sum teaching. Is digital humanities fundamentally bound up in neoliberal politics of the university? Yes. How can we develop an ethical, just, and progressive pedagogy anyway and in the face of this? 
 
@@ -37,7 +37,8 @@ That's where I'm at right now at least. Lots of loose threads and jumbled though
 ## Draft Table of Contents and Ideas
 
 0. Introduction
- 
+    1. Where does DH teaching happen?
+    2. Where does infrastructural change happen? 
 1. Classroom experience
     1. Kindness and generosity as skills that require training
     2. Pedagogies of listening
