@@ -69,6 +69,7 @@ _Nice to have:_
 
 ### Notes
 * First I read [this book](https://www.amazon.com/gp/product/160774273X/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) to understand the ingredients in the bread, what’s happening during rising/baking, and how small changes to temperature, humidity, etc. change your bread (so I know how to refine to fit different house temps in summer vs. winter, or troubleshoot problems).  
-* I then adapted [this popular NYTimes No-Knead bread recipe](https://cooking.nytimes.com/recipes/11376-no-knead-bread)
+* I then adapted [this popular NYTimes No-Knead bread recipe](https://cooking.nytimes.com/recipes/11376-no-knead-bread)  
+* Thanks to fellow DH Amanda [Amanda Licastro](https://twitter.com/amandalicastro) for reminding me Robin Sloan's _Sourdough: or, Lois and Her Adventures in the Underground Market_ is a good DHy novel about breadmaking and startup culture.
 
 Bread! Hurray!
