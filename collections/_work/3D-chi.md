@@ -14,4 +14,4 @@ research-category: Collaborations
 start-year: (before 2018)
 end-year: current
 ---
-3D cultural heritage informatics in collaboration with IATH. More info coming soon!
+3D Data and Content Specialist Will Rourk specializes in 3D cultural heritage data, often working in collaboration with other Scholars' Lab staff (especially other staff on our [Spatial Technologies](https://scholarslab.lib.virginia.edu/spatial-technologies/) team) as well as with IATH staff. Read more about [Spatial Technologies](https://scholarslab.lib.virginia.edu/spatial-technologies/), or focus on 3D cultural heritage informatics [here](https://pages.shanti.virginia.edu/Cultural_Heritage_Data/).
