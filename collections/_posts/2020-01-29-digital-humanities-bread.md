@@ -28,6 +28,7 @@ A very good bread recipe appears shortly down the page, but first I wanted to br
 * One of the ways I started to get to know my colleagues, when I started this job, was by joining a SLab D&D group. My character was a Paladin of Baked Goods, and I had to make a lot of bread puns as part of the game. We've also had a series of "SLab Eats Weird Food", where staff gather to try out things including: preserved pizza rations, pickled grapes, and Miraculin—which supposedly makes sour taste sweet, you take a pill and then eat lemon wedges etc. It Did Not Work for me:  
 
 ![A person making a "this is sour" face while holding a lemon wedge](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/assets/post-media/2020-01-29-miraculinfail.jpeg)
+_Photo courtesy Shane Lin._
 
 * SLab staff sometimes hold potluck lunches and invite student fellows or library staff colleagues we want to celebrate and thank (guests don't need to bring food)  
 * We have a small kitchenette in the SLab staff offices, shared with other Library staff on the same floor. Groups of staff often end up getting a chance to see folks they wouldn't otherwise, and to check in on how colleagues are doing, while waiting for the microwave or tasting food someone's brought in to share.  
