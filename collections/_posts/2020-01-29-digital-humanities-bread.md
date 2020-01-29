@@ -44,8 +44,9 @@ A very good bread recipe appears shortly down the page, but first I wanted to br
 * 3 cups white flour (I like King Arthur brand)  
 * 0.25 tsp yeast (I use [this kind](https://www.amazon.com/gp/product/B0001CXUHW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1); single-use yeast packets don’t have the right amount; I hear it’s good to replace the yeast you use once a year?)  
 * 1.5 tsp salt  
-* 1.5 cups room-temp water (no need to check with thermometer)  
-_Nice to have_  
+* 1.5 cups room-temp water (no need to check with thermometer) 
+
+_Nice to have:_   
 * Sesame seeds (or other add-ins, e.g. raisins+cinnamon); SLab is currently going nuts over the Trader Joe's Everything Bagel Seasoning Jeremy got me to use as a bread topping  
 * Tupperware container with lid. I like [these](https://www.amazon.com/gp/product/B002PMV77G/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) because the high narrow shape makes it easy to mix without flour getting out of the bowl, and the width is okay to turn the container upside-down to cover the bread during its second rise right before putting in the oven. It’s helpful to use separate containers when simultaneously making two loaves of bread. But you just need something that will fit the dough as it expands, and protect it from air.  
 * 4 qt iron dutch oven with iron lid. (Metal that holds heat is critical in producing a good crust). A larger container is probably fine? But the pot and lid being iron or enameled iron are critical—don’t use a glass lid.  
