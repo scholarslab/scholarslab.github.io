@@ -14,7 +14,25 @@ The #GenerousThinking hashtag project was founded by Hannah Alpert-Abrams ([@hra
 
 Hannah asks ([see whole thread here](https://twitter.com/hralperta/status/1213519198636433409)): "How can we practice #GenerousThinking for a more liberatory future?... each day, we'll be using quote tweets to share how we're implementing #GenerousThinking in our teaching, research, or scholarly service. Our goal: to find tactics and strategies for generosity for those of us who are students, ec, contingent, & alt-ac... You can share your own daily practice, or modify someone else's. We'll synthesize your ideas into a practical framework for implementation."
 
-You can see all the [tweets using the hashtag](https://twitter.com/search?q=%23GenerousThinking&f=live) in reverse chronological order. Folks engaging with the project included (in no particular order):
+## My contributions
+The following are my ([@literature_geek](https://twitter.com/literature_geek)) #GenerousThinking hashtag project tweets, tweeted daily throughout January 2020.
+
+
+
+
+
+
+
+
+
+
+
+## The community's contributions
+To see tweets that quoted a particular tweet, you'll need to grab the tweet ID (string of numbers) from the URL and plug it into `https://twitter.com/search?q=quoted_tweet_id%` your tweet ID `&f=live` (that last part is only needed if you want to start off on the reverse chronological order/latest view, rather than the "top" or most engaged-with tweets view). For example, you can see tweets that quoted Hannah's first daily #GenerousThinking tweet by visiting https://twitter.com/search?q=quoted_tweet_id%3A1213519202176438273&f=live
+
+You can see all the [tweets using the hashtag](https://twitter.com/search?q=%23GenerousThinking&f=live) in reverse chronological order. 
+
+Folks and project accounts engaging with the project included (in no particular order):
 * [@hralperta](https://twitter.com/hralperta)  
 * [@mimwinick](https://twitter.com/mimwinick)  
 * [@envynoveritas](https://twitter.com/envynoveritas)   
@@ -69,14 +87,3 @@ You can see all the [tweets using the hashtag](https://twitter.com/search?q=%23G
 * [@Kayley_K_Hart](https://twitter.com/Kayley_K_Hart) 
 * [@walshbr](https://twitter.com/walshbr)  
 * [me @Literature_Geek](https://twitter.com/literature_geek)  
-
-How to see tweets that quote a hashtagged tweet
-For example, you can see tweets that quoted Hannah's first daily #GenerousThinking tweet by visiting https://twitter.com/search?q=quoted_tweet_id%3A1213519202176438273&f=live
-
-That's:
-https://twitter.com/search?q=quoted_tweet_id%
-plus the tweet's ID
-And I add the `&f=live` suffix at the end to make these display in reverse chronological order ("latest") rather than displaying by which recieved the most activity (likes/RTs/etc.)
-
-## My contributions
-The following are my ([@literature_geek](https://twitter.com/literature_geek)) #GenerousThinking hashtag project tweets, tweeted daily throughout January 2020.
