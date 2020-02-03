@@ -22,6 +22,7 @@ As a graduate student, I am used to feelings of [imposter syndrome fear of rejec
 I had heard about the Scholars’ Lab focus on students’ [professional development](https://scholarslab.lib.virginia.edu/professional-development/). A quick visit to their website and I saw: free, [shadowing](https://scholarslab.lib.virginia.edu/) opportunities. "Ok," I thought, "let’s try this, I’ll have a one-time meeting with someone who will point me in the right direction." after all, tt was almost winter break so who would be able to (or even want) to have a long meeting with a random graduate student they don't know? Correct Answer: "What is the Scholars' Lab?"
 
 I sent an introductory email on a Saturday and by the end of the week, [Dr. Brandon Walsh](https://scholarslab.lib.virginia.edu/people/brandon-walsh/), the Head of the Student Program at the Lab, had 
+
 1) already met with me and written many back and forth emails, 
 2) shared a list of helpful digital projects to look at, 
 3) sent me funding application opportunities to attend the Digital Humanities Summer Institute (DHSI), and 
@@ -43,11 +44,11 @@ The last event of the shadowing experience was an overview of the Lab’s bloggi
 
 ### Lessons Learned
 I never thought I would get the extensive time, honesty, and personalized efforts that the Scholars’ Lab has provided. Even if I do not get the job *(fingers crossed! And my fingers are crossed for all you-imposter-syndrome ridden early career academics out there!)*, **the perfect job posting has already provided me with the perfect opportunity to** 
-*1) engage with the Lab’s dedicated group of people, 
+1) engage with the Lab’s dedicated group of people, 
 2) start developing a necessary long-term skillset, 
-*3)uncover an existing interest in the digital humanities, and 
-4) understand the necessary community-focus of DH.* 
+3)uncover an existing interest in the digital humanities, and 
+4) understand the necessary community-focus of DH.
 
-Although my professional shadowing is technically over, the Scholars’ Lab’s range of open events and workshops will continue to develop my expertise in DH. And maybe, even help conquer Stressaline.  
+Although my professional shadowing is technically over, the Scholars’ Lab’s range of open events and workshops will continue to develop my expertise in DH. *And maybe, even help conquer Stressaline.*
 
 *A special thanks to the Scholars' Lab for this opportunity and to all of the people who not only let a stranger come in observe them but engaged in conversations with me about DH.*
