@@ -42,11 +42,11 @@ Furthermore, theory, Brandon said, is great but you should also know what the da
 The last event of the shadowing experience was an overview of the Lab’s blogging activities, [“A year of blogging,”](https://scholarslab.lib.virginia.edu/blog/year-of-book-blogging-digital-humanities-pedagogy-in-kind/) with several members of the Lab staff: [Professor Alison Booth, Academic Director](https://scholarslab.lib.virginia.edu/people/alison-booth/); [Ammon Shepherd, Manager of the Scholars’ Lab Makerspace](https://scholarslab.lib.virginia.edu/people/ammon-shepherd/) and [Lead Research Technologist, Drew MacQueen, GIS Specialist](https://scholarslab.lib.virginia.edu/people/drew-macqueen/), Amanda, and Brandon. Alderman 423 was filled with a balance of seriousness and laughter. I could not help but notice the Lab’s staff own sense of community, accountability, and intention on centering their projects around the Charlottesville community. Post-winter break, Brandon and I met again and he walked me through the resources to continue accessing the diverse [DH public workshops available throughout this semester](https://dh.virginia.edu/events/calendar). 
 
 ### Lessons Learned
-I never thought I would get the extensive time, honesty, and personalized efforts that the Scholars’ Lab has provided. Even if I do not get the job *(fingers crossed! And my fingers are crossed for all you-imposter-syndrome ridden early career academics out there!)*, the perfect job posting has already provided me with the perfect opportunity to 
-1) engage with the Lab’s dedicated group of people, 
+I never thought I would get the extensive time, honesty, and personalized efforts that the Scholars’ Lab has provided. Even if I do not get the job *(fingers crossed! And my fingers are crossed for all you-imposter-syndrome ridden early career academics out there!)*, **the perfect job posting has already provided me with the perfect opportunity to** 
+*1) engage with the Lab’s dedicated group of people, 
 2) start developing a necessary long-term skillset, 
-3) uncover an existing interest in the digital humanities, and 
-4) understand the necessary community-focus of DH. 
+*3)uncover an existing interest in the digital humanities, and 
+4) understand the necessary community-focus of DH.* 
 
 Although my professional shadowing is technically over, the Scholars’ Lab’s range of open events and workshops will continue to develop my expertise in DH. And maybe, even help conquer Stressaline.  
 
