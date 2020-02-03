@@ -46,7 +46,7 @@ The last event of the shadowing experience was an overview of the Lab’s bloggi
 I never thought I would get the extensive time, honesty, and personalized efforts that the Scholars’ Lab has provided. Even if I do not get the job *(fingers crossed! And my fingers are crossed for all you-imposter-syndrome ridden early career academics out there!)*, **the perfect job posting has already provided me with the perfect opportunity to** 
 1) engage with the Lab’s dedicated group of people, 
 2) start developing a necessary long-term skillset, 
-3)uncover an existing interest in the digital humanities, and 
+3) uncover an existing interest in the digital humanities, and 
 4) understand the necessary community-focus of DH.
 
 Although my professional shadowing is technically over, the Scholars’ Lab’s range of open events and workshops will continue to develop my expertise in DH. *And maybe, even help conquer Stressaline.*
