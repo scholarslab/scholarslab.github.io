@@ -6,7 +6,7 @@ start_time: "15:00"
 end_time: "16:30"
 layout: events
 location: "Clemons 407"
-slug: event-2020-00-00-silences-of-big-data-kendra-albert
+slug: event-2020-02-06-silences-of-big-data-kendra-albert
 title: "The Silences of (Big) Data"
 ---
 As bigger and bigger datasets become the substrate for human and algorithmic decision-making, data speaks louder and louder. But what can we infer when data is silent? Or should we infer anything at all?
