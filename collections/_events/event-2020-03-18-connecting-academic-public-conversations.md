@@ -6,6 +6,7 @@ start_time: "15:00"
 end_time: "16:30"
 layout: events
 location: "Clemons 407"
+rsvp: 1
 slug: event-2020-03-18-connecting-academic-public-conversations
 title: "All Research is About Stories: Connecting Your Academic Work to Public Conversations"
 ---
