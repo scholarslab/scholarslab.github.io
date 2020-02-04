@@ -9,7 +9,7 @@ position: None
 short_bio: 'Jessica Marroquín is a PhD student in the Department of Spanish, Italian, and Portuguese at the University of Virginia.'
 slug: jessica-marroquín
 status: current
-twitter: @jfm4em
+twitter: jfm4em
 website: https://spanitalport.as.virginia.edu/people/profile/jfm4em
 people-category:
 - student

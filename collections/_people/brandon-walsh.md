@@ -9,7 +9,7 @@ position: Head of Student Programs
 short_bio: "Brandon Walsh is Head of Student Programs in the Scholars’ Lab, where he consults on all things related to pedagogy."
 slug: brandon-walsh
 status: current
-twitter: None
+twitter: walshbr
 website: http://walshbr.com
 people-category:
 - staff
