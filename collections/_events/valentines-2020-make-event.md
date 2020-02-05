@@ -14,6 +14,6 @@ Come make a Valentines gift for your special someone. Projects include LED light
 
 All for FREE!
 
-Drop in anytime between 12pm and 9pm!
+Drop in anytime between 1pm and 9pm!
 
 Contact Ammon Shepherd with any questions, <a href="mailto:ammon@virginia.edu">ammon@virginia.edu</a>.
