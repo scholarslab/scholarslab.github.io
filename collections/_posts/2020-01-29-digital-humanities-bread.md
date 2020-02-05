@@ -42,7 +42,7 @@ _Photo courtesy Shane Lin._
 ### Ingredients 
 (for one loaf of bread; I usually make 2 at a time, e.g. to make small changes and compare to the control loaf, and also because bread this good goes FAST)
 
-* 3 cups white flour (I like King Arthur brand)  
+* 3 cups all-purpose flour (I like King Arthur brand; I do not use bread flour, but once you're comfortable with the recipe you can start experimenting with various flours and mix-ins like vital wheat gluten; baking one control loaf and one test loaf helps you compare and also always get at least one edible loaf out of an experiment)  
 * 0.25 tsp yeast (I use [this kind](https://www.amazon.com/gp/product/B0001CXUHW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1); single-use yeast packets don’t have the right amount; I hear it’s good to replace the yeast you use once a year?)  
 * 1.5 tsp salt  
 * 1.5 cups room-temp water (no need to check with thermometer) 
