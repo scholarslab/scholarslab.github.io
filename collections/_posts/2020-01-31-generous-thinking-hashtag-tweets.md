@@ -69,20 +69,6 @@ E.g. walking someone to their car, scanning someone's mentions for abuse, recogn
 
 Want to see the tweets in response to @hralperta @mimwinick @envynoveritas's #GenerousThinking project (bulit off @kfitz's amazing https://jhupbooks.press.jhu.edu/title/generous-thinking)? You can see everything quote-tweeting a specific tweet by using its ID like this: https://twitter.com/search?q=quoted_tweet_id%3A1213519202176438273&f=live
 
-**Non-thread tweets from various days**
-E.g. #GenerousThinking: I've seen each @ScholarsLab staffer recognize colleagues elsewhere in the library doing good or making our work possible. Potlucks, doughnuts; emailing praise to share w/supervisors of staff outside the lab + submit to library's reward+recognition system.
-
-Today for #GenerousThinking, I'm working on written review of a DH project via some guidelines I blogged last month: http://literaturegeek.com/2019/12/02/writing-DH-conference-journal-reviews @roopikarisam & @jenguiliano's generous+generative Reviews in DH guidelines are #GenerousThinking advice applicable to other spaces, too!
-
-Today in #GenerousThinking, drafting tweets re:recent conversation where I encouraged someone to accept a suggested coauthorship; but waiting to tweet until I put some work toward remembering folks' writing+tweets etc that helped me come to think this way, so I can cite them.
-
-Small things for #GenerousThinking: connected jobseeker to relevant colleagues; encouraged staff to take time off (and asking how I can help that happen); let colleagues w/o office on grounds borrow my office; checked in on how our budget allocations match our mission/values.
-
-
-
-
-
-
 **Share what you're proud of or happy about**
 .@achdotorg Exec council call reminded me how I’ve enjoyed @mkgold’s addition of inviting folks to each share something good going on in their lives before we end each call (no pressure to be about personal life, can just be something small you’re happy about) 
 
@@ -163,7 +149,7 @@ If the lab isn't the right fit for what someone needs or we don't have bandwidth
 
 Today, thinking about applying this framing to the 2nd Speaking in Code in the works: help add to an already large list of hopes + synthesize => action (SiC #1 = http://codespeak.scholarslab.org, #codespeak, 2013 @ScholarsLab symposium focused on digital humanities developer community)
  
-**The privilege of failing openly**
+**The privilege of failing openly, and how to read enough social media to amplify widely**
 Wrote a post to share a rejected article abstract today (waiting to post until tomorrow, as another post was published on our blog this morning.) Trying to share more non-successful stuff (like an IMLS grant proposal last year: https://scholarslab.lib.virginia.edu/blog/moderation-running-dh-online-communities/) as a #GenerousThinking act.
 
 Since I feel secure enough re:real potential risks of sharing failure and non-success in academia, hoping to contribute toward making it safer for others. Want to start sharing less polished stuff too vs. the "failure CV" problem of only sharing privileged/quasi successful stuff.
@@ -217,13 +203,35 @@ Re:@kfitz on celebrating the "instigating moment @ the heart of intellectual wor
 
 ...as in the XKCD comic https://xkcd.com/1053/ where learning someone doesn't know something=>not incredulous ridicule, but rather delight in getting to intro a useful thing to someone. Shorthand for responding generously+generatively to not knowing/understanding something.
 
+**Blogging, but not as a chore**  
+Rather than assigning posts to people—I've experienced blogging becoming an avoided chore—last year a few of us committed to blogging monthly, had a regular time when you could chill w/us+write, encouraged folks to write about stuff they mentioned, read drafts 
 
+And our blog flourished! (64 essay posts!): https://scholarslab.lib.virginia.edu/blogging/ Some of my #GenerousThinking tweets have been more about broader care, administrative policy, management than intellectual generosity. But those are all pieces of scholarship+necessary conditions for it.
 
+As w/our blog experiment, if you create a space + resources for people (e.g. scholars) to flourish—they can, in ways beyond what you could have imagined (or, ugh, assigned). It's also okay for people to just be! We don't need to be constantly bettering. 
 
+(The @TheNapMinistry is a great resource for thinking about how systemic injustice ties into pressures to constantly do, be more. If someone has enough going on outside their job and they just want to satisfy their job role+not more, that should be completely supported.)
+ 
+I think my most critical responsibility as a research center director is *not* vision setting or the other stuff at the top of director job ads (though I do those too!). Rather, I need to prioritize care for the conditions in which our folks can flourish. 
 
+.@ScholarsLab has amazing staff+community members. The more we can remove barriers to their wellness, value them as they are, free time from bureaucracy so they can focus, release unequally distributed power, the more good happens (including: good scholarship). 
 
+And! That work isn't something 1 person can do (but 1 person can help or hinder). Everything=a community effort. '19 Year of Blogging made possible by all involved+all who relaunched our website. @walshbr @mossiso @LadyMedieval Drew MacQueen & many more wrote+contributed momentum
 
+**#GenerousThinking as generous thinking**
+Today, I'm thinking again how much @hralperta @mimwinick @envynoveritas' #GenerousThinking hashtag project + prompts has been a gift of generous thinking in its own right. Personally, I've gotten back into tweeting new thoughts in a way I'd missed doing, and I'm learning so much.
 
+**Non-thread tweets from various days**
+E.g. #GenerousThinking: I've seen each @ScholarsLab staffer recognize colleagues elsewhere in the library doing good or making our work possible. Potlucks, doughnuts; emailing praise to share w/supervisors of staff outside the lab + submit to library's reward+recognition system.
+
+Today for #GenerousThinking, I'm working on written review of a DH project via some guidelines I blogged last month: http://literaturegeek.com/2019/12/02/writing-DH-conference-journal-reviews @roopikarisam & @jenguiliano's generous+generative Reviews in DH guidelines are #GenerousThinking advice applicable to other spaces, too!
+
+Today in #GenerousThinking, drafting tweets re:recent conversation where I encouraged someone to accept a suggested coauthorship; but waiting to tweet until I put some work toward remembering folks' writing+tweets etc that helped me come to think this way, so I can cite them.
+
+Small things for #GenerousThinking: connected jobseeker to relevant colleagues; encouraged staff to take time off (and asking how I can help that happen); let colleagues w/o office on grounds borrow my office; checked in on how our budget allocations match our mission/values.
+
+#GenerousThinking is starting off a project by attending to the community where your future work will grow:  
+![Screenshot of paragraph from Brandon Walsh's blog post about blogging toward a book-ish product; the paragraph lists the names of a variety of scholars he is imagining his work in dialogue with](/assets/post-media/2-2020_AVgenerousthinking_3.png)
 
 ## The community's contributions
 To see tweets that quoted a particular tweet, you'll need to grab the tweet ID (string of numbers) from the URL and plug it into `https://twitter.com/search?q=quoted_tweet_id%` your tweet ID `&f=live` (that last part is only needed if you want to start off on the reverse chronological order/latest view, rather than the "top" or most engaged-with tweets view). For example, you can see tweets that quoted Hannah's first daily #GenerousThinking tweet by visiting https://twitter.com/search?q=quoted_tweet_id%3A1213519202176438273&f=live
