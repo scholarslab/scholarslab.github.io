@@ -124,10 +124,32 @@ This isn't overwork (which has no virtue+real harm); I banked a couple snow day 
 
 I want folks to defend time outside work if they can*; it's helped my health to know I can't convince others of that if I don't honor my own life outside (*being able to take time outside work=a privilege requiring resources + hard for those expected to do/be twice as much/good)
 
-**Reducing stigma & sharing community wisdom**
+**Creating necessary communities**
 For #GenerousThinking today, I’m grateful for folks making spaces for people & conversations academia wasn’t supporting, e.g. @StephenGKrueger’s Gender Variant LIS network, @librarieswehere, @DHWoGeM, @chscsummit, @UMD_AADHum, @Data4BlackLives, @scholarslab’s Speaking in Code.
 
 I’m also grateful when folks (when it’s safe/healthy for them to do so) share what’s worked for their good communities, as a model for other groups, e.g. @anitaconchita teaching about SCRAM’s awesome “hang-based pedagogy” at #ACH2019. 
+
+**Fighting stigmas**  
+Thinking about the positive impact on academia when folks can choose to share about hidable unjustly stigmatized aspects of themselves. Reducing stigma & harm, seeing yourself represented.
+
+(But: folks should 100% never feel like they need to out themselves unless that's what they want. And many experiences+identities that academia stigmatizes don't have the option of being hidden...)
+
+I know of good writing & podcasts by DHy/library/other academically adjacent folks on their experiences of neurodiversity+mental illness, physical health, gender experience+transition. Happy to share these w/folks who DM or email my non-work address (amandavisconti@gmail.com).
+
+(I'm not sharing these here because I don't know how comfortable authors are w/something being reshared/spotlighted by others; but I would so happily amplify in this thread, if you've created something like this + are okay w/my RTing it.)
+
+_See, for example, the Women and Gender Minorities in DH project: "We've got anonymized write-ups (checked and edited by participants) from all of the DH-WoGeM calls on the website. Happiness / workplace dynamics, mental disability, and a couple on parenthood: http://dhwogem.org"._
+
+**Don't let the measure replace the goal**
+In the lab, we often discuss the feedback loop between the stats we record <=> how our work grows. E.g. we keep consultation stats (e.g. consultee's department, role) to help our Library + us identify+advocate for resource+community needs, but...
+
+We don't want the metrics most legible to/useful by administrators (of which I am one! and those #s can do good!) shape us more than the metrics of a more humane pedagogy+academia (HT @walshbr's #GenerousThinking). To do that, we need to be conscious of what the latter are for us
+
+Want to prevent common stats (eg # student placements) from obscuring what we should most judge lab by (eg # of students who tell us we've helped; who feel more equipped to be happy, human vs. academia's harms). Shift not just our own thinking, but maybe propagate => the academy.
+
+<3 @humetricshss project's rethinking of human+soc sci metrics, excellence: "create and support a values-based framework for understanding+evaluating all aspects of the scholarly life well-lived & promote nurturing these values in scholarly practice"
+ 
+ Good blogging along #GenerousThinking lines: http://humetricshss.org/category/blog/ Project team: @terrainsvagues @rrkennison @cplong @jasonrhody @simosacchi, Bonnie Thornton Dill, Penny Weber, @skonkiel. Website: http://humetricshss.org
 
 **Following up as scholarly care**
 If the lab isn't the right fit for what someone needs or we don't have bandwidth to collaborate w/them, @rondauva still makes sure they're connected to people/resources that move them a step closer to their goals (rather than just saying "sorry, can't help").
@@ -135,6 +157,41 @@ If the lab isn't the right fit for what someone needs or we don't have bandwidth
 .@walshbr practices this care w/applicants to student opportunities (fellowships, etc.) w/@scholarslab. We always have more stellar applicants than we can support, & we want to make sure folks know how impressed we are w/their work + how much we hope to find ways to work w/them
 
 .@walshbr puts time+care into following up w/those folks, & is always searching for other ways we can support+work w/them (e.g. fund their attending dinner w/visiting speaker in their research area) 
+
+**Envisioning alternate futures**  
+.@cassius_a's Alternate University model (https://aualternateuniversity.com) is a #GenerousThinking approach I've gotten a lot of ideas from: https://twitter.com/Literature_Geek/status/1194877795140284416
+
+Today, thinking about applying this framing to the 2nd Speaking in Code in the works: help add to an already large list of hopes + synthesize => action (SiC #1 = http://codespeak.scholarslab.org, #codespeak, 2013 @ScholarsLab symposium focused on digital humanities developer community)
+ 
+**The privilege of failing openly**
+Wrote a post to share a rejected article abstract today (waiting to post until tomorrow, as another post was published on our blog this morning.) Trying to share more non-successful stuff (like an IMLS grant proposal last year: https://scholarslab.lib.virginia.edu/blog/moderation-running-dh-online-communities/) as a #GenerousThinking act.
+
+Since I feel secure enough re:real potential risks of sharing failure and non-success in academia, hoping to contribute toward making it safer for others. Want to start sharing less polished stuff too vs. the "failure CV" problem of only sharing privileged/quasi successful stuff.
+
+_A day after those tweets..._
+Yesterday I tweeted work @jeremykboggs and I have just started, & already 8 people shared 50+ tweets making our work better—encouragement, research leads, potential conference panel +
+
+Thanks @benwbrum @CoralineAda @quinnanya @stuartayeates @pmhswe @patrick_mj @nirak @roopikarisam! I will be citing yall for how these ideas inspire+shape our in-progress research +
+
+So for #GenerousThinking today, I'm thinking about who gets to safely share in-progress research, and how we can build an academia where more can do so w/o work being uncited or stolen or harassed, where folks newer to a field see their work amplified+encouraged too.
+
+A tiny and specific-to-me action, but I've been thinking about how I might manage to read tweets by more folks in my fields, to learn about & amplify more folks' work. I manage to read most of the tweets of folks on 2 private Twitter lists, just a subset of those I follow +
+
+Nuzzle (used to?) curate high-response (likes? replies? RT #?) tweets from followed accounts; @matthewdlincoln (thanks!) showed me how to do similar w/Tweetdeck settings +
+
+But these show me very popular tweets, and I'd love to instead see 1 tweet/week from every account on a list—e.g. just the most popular tweet *relative to each account's tweets* would be okay (vs. an account for which 5 RTs is huge getting drowned out by tweets gettings 100s). +
+
+(Trying to pre-empt some helpfully intended tweets that don't assume I'm a developer: I know how to script a thing to do that for me, and am doing that!) +
+
+Wondering about what we might do to let DH/library users choose which tweet in a given period such a script grabs, e.g. users opt in by hashtag, or prioritize tweets w/certain properties (e.g. #icymi tag). "If you only have bandwidth to read 1 tweet of mine this week, this one."
+
+Usual community design caveat: depends on the effort of e.g. adding a hashtag having some value to tweeters, for traction. Could be most useful to DH/library folks seeking a wider audience for tweets than they have, or folks who tweet a lot + want 1 tweet/period to stand out?
+
+As w/anything that copies a tweet, must consider users wanting tweets to be deletable/ephemeral, or only appear alongside contextualizing conversation (things @documentnow considers)=>why I'm doing this as a script for private reading, not publishing somewhere the tweets it pulls
+ 
+Folks changing their mind which tweet=most important in a week=another design consideration, if we were trying to start a community practice of folks indicating "please read this 1 tweet if you don't have bandwidth to read others".
+
+Tweeting this in part because I bet there's a simpler answer than my approach, or I'm missing problems/harms.
 
 **Celebrating connecting folks to scholarship as a scholarly act**
 .@clancynewyork tweets much I wouldn't learn otherwise, regularly tags folks she remembers have some particular niche research interest. #GenerousThinking: cite=>ping author, & also scholarly effort+care of alerting folks to work of potential interest to them.
