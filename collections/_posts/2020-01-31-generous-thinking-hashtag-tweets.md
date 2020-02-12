@@ -67,6 +67,46 @@ Instead, I tried to see what I could do closer to home—myself, and w/colleague
 
 E.g. walking someone to their car, scanning someone's mentions for abuse, recognizing the ways the library value "we serve everyone" can be at odds w/nurturing a space that rejects hate, celebrates diversity, supports community care.
 
+Want to see the tweets in response to @hralperta @mimwinick @envynoveritas's #GenerousThinking project (bulit off @kfitz's amazing https://jhupbooks.press.jhu.edu/title/generous-thinking)? You can see everything quote-tweeting a specific tweet by using its ID like this: https://twitter.com/search?q=quoted_tweet_id%3A1213519202176438273&f=live
+
+**Non-thread tweets**
+E.g. #GenerousThinking: I've seen each @ScholarsLab staffer recognize colleagues elsewhere in the library doing good or making our work possible. Potlucks, doughnuts; emailing praise to share w/supervisors of staff outside the lab + submit to library's reward+recognition system.
+
+
+
+
+**Following up as scholarly care**
+If the lab isn't the right fit for what someone needs or we don't have bandwidth to collaborate w/them, @rondauva still makes sure they're connected to people/resources that move them a step closer to their goals (rather than just saying "sorry, can't help").
+
+.@walshbr practices this care w/applicants to student opportunities (fellowships, etc.) w/@scholarslab. We always have more stellar applicants than we can support, & we want to make sure folks know how impressed we are w/their work + how much we hope to find ways to work w/them
+
+.@walshbr puts time+care into following up w/those folks, & is always searching for other ways we can support+work w/them (e.g. fund their attending dinner w/visiting speaker in their research area) 
+
+**Celebrating connecting folks to scholarship as a scholarly act**
+.@clancynewyork tweets much I wouldn't learn otherwise, regularly tags folks she remembers have some particular niche research interest. #GenerousThinking: cite=>ping author, & also scholarly effort+care of alerting folks to work of potential interest to them.
+ 
+This paraphrases something I think @clancynewyork tweeted months back, & I wouldn't be explicitly aware of how much this kind of work teaches me w/o her discussing it. So thanks, too, for helping me pay attention to more kinds of scholarship—like yours—that build my scholarship!
+
+E.g. @balloonleap just shared w/me @helmstreet's scholarly videogame that helps you analyze choices about the medium of your scholarship: https://src-online.ca/index.php/src/article/view/333
+
+**Re:[Hook & Eye Blog celebrating](https://hookandeye.ca/2020/01/06/ten-years-of-feminist-academic-blogging/) ten years of feminist blogging**
+.@HookandEyeBlog taught me I could bring my whole self to my scholarship—and how to contribute to an academia where others could, too. 1 of the 1st places I encountered explicitly #GenerousThinking. Thanks, @digiwonk @erinwunker @meldalgleish @boydajosa @janasmithelford et al!
+
+**Work-life imbalance**
+When colleagues are ill, @ScholarsLab staff has a culture of thanking coworkers for taking time off to care for themselves + asking what they can do to help them feel comfortable taking the time they need. It's useful to actively counter pressure to overwork.
+
+Seeing this gave me a rule as a manager, to explicitly ask staff to take as much time as they need to be w/that person when a loved one is ill. So little in our work=truly an emergency that can't wait.
+
+Taking that time may be obvious, but: it's often non-obvious if your boss agrees, so it matters for managers to communicate this explicitly, have+show willingness to take on extra work to help a colleague be comfortable taking that time.
+
+**1 of 10,000**
+Re:@kfitz on celebrating the "instigating moment @ the heart of intellectual work" https://generousthinking.hcommons.org/2-on-generosity/, a #GenerousThinking part of @ScholarsLab culture (it's in our staff charter! https://scholarslab.lib.virginia.edu/charter/) is to "welcome the 10,000"...
+
+![Screenshot of XKCD comic where someone responds to a person not knowing a cool thing (in this case, what happens when you mix Diet Coke and Mentos) with excitement at getting to share the cool thing, rather than derision or disbelief that the person hadn't known about this yet](/assets/post-media/2-2020_AVgenerousthinking_2.png)
+
+...as in the XKCD comic https://xkcd.com/1053/ where learning someone doesn't know something=>not incredulous ridicule, but rather delight in getting to intro a useful thing to someone. Shorthand for responding generously+generatively to not knowing/understanding something.
+
+
 
 
 
