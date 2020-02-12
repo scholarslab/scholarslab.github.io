@@ -69,11 +69,33 @@ E.g. walking someone to their car, scanning someone's mentions for abuse, recogn
 
 Want to see the tweets in response to @hralperta @mimwinick @envynoveritas's #GenerousThinking project (bulit off @kfitz's amazing https://jhupbooks.press.jhu.edu/title/generous-thinking)? You can see everything quote-tweeting a specific tweet by using its ID like this: https://twitter.com/search?q=quoted_tweet_id%3A1213519202176438273&f=live
 
-**Non-thread tweets**
+**Non-thread tweets from various days**
 E.g. #GenerousThinking: I've seen each @ScholarsLab staffer recognize colleagues elsewhere in the library doing good or making our work possible. Potlucks, doughnuts; emailing praise to share w/supervisors of staff outside the lab + submit to library's reward+recognition system.
 
+Today for #GenerousThinking, I'm working on written review of a DH project via some guidelines I blogged last month: http://literaturegeek.com/2019/12/02/writing-DH-conference-journal-reviews @roopikarisam & @jenguiliano's generous+generative Reviews in DH guidelines are #GenerousThinking advice applicable to other spaces, too!
 
 
+
+
+
+
+**Charters motivating action**
+Charters (and other documents that help you think+discuss what you care about & how you'll try to enact those values) can be tools for #GenerousThinking policy=>practice.
+
+I'm tracking DH/library/tech charters+text on how/why to create/act on them; related docs e.g. MOUs https://docs.google.com/spreadsheets/d/1DsPTGQAMuhe3jm-b9dU9kgbiGSM_F-QrqR2LXrEAb0s/edit?usp=sharing Any links to add? Current sheet includes work by @AlliedMediaConf @CCP_org @UMD_MITH @INKEproject @UCLA_DH @PrincetonDH @design__justice
+
+In '20 I hope to blog rest of my DH manager/director charter work https://scholarslab.lib.virginia.edu/blog/management-charter-part1/ & new personal values charter (outdated 1 from during my diss http://literaturegeek.com/2013/12/02/valuespost inspired by @scott_bot's pledges http://scottbot.net/pledges/), make action on these habit
+
+Today for #GenerousThinking, prepping a team charter renewal discussion to make guidance by+checkins w/charter even more a lab routine, include new team members, rethink+renew commitments, prep for upcoming renovation change (here: http://scholarslab.lib.virginia.edu/charter/)
+
+This isn't overwork (which has no virtue+real harm); I banked a couple snow day hours this week & that was a healthy choice for me (e.g. playing w/dog in snow!). I usually bank hours the other way, to avoid extra work when I'm on a roll stealing from overall hours of rest in week
+
+I want folks to defend time outside work if they can*; it's helped my health to know I can't convince others of that if I don't honor my own life outside (*being able to take time outside work=a privilege requiring resources + hard for those expected to do/be twice as much/good)
+
+**Reducing stigma & sharing community wisdom**
+For #GenerousThinking today, I’m grateful for folks making spaces for people & conversations academia wasn’t supporting, e.g. @StephenGKrueger’s Gender Variant LIS network, @librarieswehere, @DHWoGeM, @chscsummit, @UMD_AADHum, @Data4BlackLives, @scholarslab’s Speaking in Code.
+
+I’m also grateful when folks (when it’s safe/healthy for them to do so) share what’s worked for their good communities, as a model for other groups, e.g. @anitaconchita teaching about SCRAM’s awesome “hang-based pedagogy” at #ACH2019. 
 
 **Following up as scholarly care**
 If the lab isn't the right fit for what someone needs or we don't have bandwidth to collaborate w/them, @rondauva still makes sure they're connected to people/resources that move them a step closer to their goals (rather than just saying "sorry, can't help").
