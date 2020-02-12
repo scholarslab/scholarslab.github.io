@@ -74,10 +74,42 @@ E.g. #GenerousThinking: I've seen each @ScholarsLab staffer recognize colleagues
 
 Today for #GenerousThinking, I'm working on written review of a DH project via some guidelines I blogged last month: http://literaturegeek.com/2019/12/02/writing-DH-conference-journal-reviews @roopikarisam & @jenguiliano's generous+generative Reviews in DH guidelines are #GenerousThinking advice applicable to other spaces, too!
 
+Today in #GenerousThinking, drafting tweets re:recent conversation where I encouraged someone to accept a suggested coauthorship; but waiting to tweet until I put some work toward remembering folks' writing+tweets etc that helped me come to think this way, so I can cite them.
+
+Small things for #GenerousThinking: connected jobseeker to relevant colleagues; encouraged staff to take time off (and asking how I can help that happen); let colleagues w/o office on grounds borrow my office; checked in on how our budget allocations match our mission/values.
 
 
 
 
+
+
+**Share what you're proud of or happy about**
+.@achdotorg Exec council call reminded me how I’ve enjoyed @mkgold’s addition of inviting folks to each share something good going on in their lives before we end each call (no pressure to be about personal life, can just be something small you’re happy about) 
+
+A lovely moment to pause+learn about one another beyond our research. I’m now starting some work meetings this way just w/folks interested in that. We do better work because of it, I think (it would be good even if it=good for our selves but bad for our work) 
+
+**Generosity of brainstorming**
+For #GenerousThinking today, I'm thinking about the generosity w/which we take part in conversations where someone is exploring a new idea.
+
+I enjoy strategizing w/@martofmiller bc she combines imaginative capacity & intellectual generosity in talking w/me through big what-if-we's about the futures of lab & library—which I often find lead to significantly smallerscale, but real and good changes.
+
+**Keeping focus on students & staff**
+My #GenerousThinking act sharing today: advocated to keep "staff" & "students" as explicit words in a policy draft, rather than assuming they're included by more general language—and then ending up not attending to those groups.
+
+E.g. if we just refer to "scholars", stuff often ends up being focused on TT faculty and monograph publication.
+
+Thanks @dennistclark for teaching me to notice how when an explicit group mention drops out of policy drafting, often we end up w/a policy only supporting the groups that folks in power most agree should get resources (i.e. not students or staff).
+ 
+Also appreciated colleagues @elneumann and @IATH_Virginia's Worthy Martin #GenerousThinking backing up staff recognition & inclusion as part of policy drafting.
+
+**Documentation for community use**
+My scholarship+life happiness were improved immeasurably by wonderful mentors. As #GenerousThinking, I try to pass that gift on to others, e.g. videocalls w/any students who contact me considering or doing digital dissertations. Hearing about their innovative work is a gift.
+
+1 reason I document my work publicly is to add another layer toward paving a path for others. If something would have been useful for me to read e.g. three years ago, I try to blog it.
+
+I blogged regularly as a student: the dissertation's DH+literature research questions+meta-DH Qs of choosing your methods/format, evaluation, how to show others how DH scholarship is scholarship. ~35 posts, prospectus through defense: http://literaturegeek.com/tag/dissertation/ 
+
+Now I blog other stuff of potential use to others, e.g. my job talks, doing a campus DH survey, proposing a large equipment purchase, planning a new DH lab, on my personal blog http://LiteratureGeek.com & on http://ScholarsLab.org/blog.
 
 **Charters motivating action**
 Charters (and other documents that help you think+discuss what you care about & how you'll try to enact those values) can be tools for #GenerousThinking policy=>practice.
