@@ -231,7 +231,7 @@ Today in #GenerousThinking, drafting tweets re:recent conversation where I encou
 Small things for #GenerousThinking: connected jobseeker to relevant colleagues; encouraged staff to take time off (and asking how I can help that happen); let colleagues w/o office on grounds borrow my office; checked in on how our budget allocations match our mission/values.
 
 #GenerousThinking is starting off a project by attending to the community where your future work will grow:  
-![Screenshot of paragraph from Brandon Walsh's blog post about blogging toward a book-ish product; the paragraph lists the names of a variety of scholars he is imagining his work in dialogue with](/assets/post-media/2-2020_AVgenerousthinking_3.png)
+![Screenshot of paragraph from Brandon Walsh's blog post about blogging toward a book-ish product; the paragraph lists the names of a variety of scholars he is imagining his work in dialogue with](/assets/post-media/2-2020_AVgenerousthinking_3.jpg)
 
 ## The community's contributions
 To see tweets that quoted a particular tweet, you'll need to grab the tweet ID (string of numbers) from the URL and plug it into `https://twitter.com/search?q=quoted_tweet_id%` your tweet ID `&f=live` (that last part is only needed if you want to start off on the reverse chronological order/latest view, rather than the "top" or most engaged-with tweets view). For example, you can see tweets that quoted Hannah's first daily #GenerousThinking tweet by visiting https://twitter.com/search?q=quoted_tweet_id%3A1213519202176438273&f=live
