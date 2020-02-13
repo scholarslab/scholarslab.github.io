@@ -1,9 +1,9 @@
 ---
 author: amanda-visconti
-date: 2020-02-03
+date: 2020-02-13
 layout: post
 slug: generous-thinking-hashtag-tweets
-title: #GenerousThinking: Roundup from a month of daily thinking toward a more generous academia
+title: "#GenerousThinking: A month of daily thinking toward a more generous academia"
 categories:
 - Digital Humanities
 tags:
@@ -12,7 +12,11 @@ tags:
 
 The #GenerousThinking hashtag project was founded by Hannah Alpert-Abrams ([@hralperta](https://twitter.com/hralperta); [website](http://www.halperta.com/)), Mimi Winick ([@mimwinick](https://twitter.com/mimwinick)), and Amanda Henrichs ([@envynoveritas](https://twitter.com/envynoveritas), [blog](http://akhenrichs.com/blog/)), and is based on Kathleen Fitzpatrick's [book of the same title](https://jhupbooks.press.jhu.edu/title/generous-thinking).
 
-Hannah asks ([see whole thread here](https://twitter.com/hralperta/status/1213519198636433409)): "How can we practice #GenerousThinking for a more liberatory future?... each day, we'll be using quote tweets to share how we're implementing #GenerousThinking in our teaching, research, or scholarly service. Our goal: to find tactics and strategies for generosity for those of us who are students, ec, contingent, & alt-ac... You can share your own daily practice, or modify someone else's. We'll synthesize your ideas into a practical framework for implementation."
+Hannah asks ([see whole thread here](https://twitter.com/hralperta/status/1213519198636433409)): 
+
+"How can we practice #GenerousThinking for a more liberatory future?... each day, we'll be using quote tweets to share how we're implementing #GenerousThinking in our teaching, research, or scholarly service. Our goal: to find tactics and strategies for generosity for those of us who are students, ec, contingent, & alt-ac... You can share your own daily practice, or modify someone else's. We'll synthesize your ideas into a practical framework for implementation."
+
+(You may also enjoy [Quinn Dombrowski's recent retrospective](https://digitalhumanities.stanford.edu/generous-thinking-january) on the #GenerousThinking project! And if so, you might also enjoy joining us for [our 2/28/2020 Feminist DH Symposium](https://scholarslab.lib.virginia.edu/events/event-2020-02-28-feminist-dh-uva-symposium-3/), where Quinn will be one of our invited speakers.)
 
 ## My contributions  
 The following are my ([@literature_geek](https://twitter.com/literature_geek)) #GenerousThinking hashtag project tweets, tweeted daily throughout January 2020. (I'm just pasting in the text, but you can read the tweets in order [on Twitter](https://twitter.com/search?q=from%3A%40literature_geek%20%23generousthinking&src=typed_query&f=live) if you wish to RT or bookmark.)
