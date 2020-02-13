@@ -19,7 +19,7 @@ layout: default
 		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}-{{ page.end-year }}</div></div>
 		{% endif %}
 		<div class="project-content__category">{% if page.research-category %}<span>Work type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div>{% endif %}</div>
-		{% if site.data.work.url %}<div class="project-content__cta"><a href="{{ site.data.work.url }}">Visit project</a></div>{% endif %}
+		{% if page.wesbite %}<div class="project-content__cta"><a href="{{ page.website }}">Visit project</a></div>{% endif %}
 	</div>
 	<div class="project-content__text">{{ content }}
 		{% assign site_posts = site.posts %}
