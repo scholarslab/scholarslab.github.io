@@ -5,6 +5,7 @@ collaborators:
     role: 3D Data and Content Specialist
   - name: CS3DP Best Practices working group
 layout: work
+url: http://cs3dp.org/
 slug: community-standards-3d-data-pres
 title: Community Standards for 3D Data Preservation
 thumb-img: default-thumb.png
