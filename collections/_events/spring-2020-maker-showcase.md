@@ -2,8 +2,8 @@
 author: ammon-shepherd
 start_date: 2020-04-15
 end_date: 2020-04-15
-start_time: "11:00:00"
-end_time: "13:30:00"
+start_time: "13:00:00"
+end_time: "15:30:00"
 layout: events
 location: "Makerspace"
 slug: spring-2020-maker-showcase
