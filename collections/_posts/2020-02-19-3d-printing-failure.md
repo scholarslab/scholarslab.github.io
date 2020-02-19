@@ -1,6 +1,6 @@
 ---
 author: shane-lin
-date: 2020-02-20
+date: 2020-02-19
 layout: post
 slug: 3d-printing-failure
 title: "Recovering From Failure (with g-code)"
