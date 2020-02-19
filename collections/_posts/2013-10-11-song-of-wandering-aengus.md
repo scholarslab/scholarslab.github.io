@@ -9,10 +9,10 @@ categories:
 tags:
 - neatline
 - yeats
+crosspost:
+  - title: dclure.org
+    url: http://neatline.dclure.org/neatline/show/song-of-wandering-aengus
 ---
-
-_[Cross-posted from [dclure.org](http://neatline.dclure.org/neatline/show/song-of-wandering-aengus)]_
-
 
 
 ## [Click here to view the exhibit](http://neatline.dclure.org/neatline/show/song-of-wandering-aengus).

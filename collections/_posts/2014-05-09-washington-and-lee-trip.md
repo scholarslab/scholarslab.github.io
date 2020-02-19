@@ -10,9 +10,10 @@ categories:
 tags:
 - praxis program
 - WLU Collab
+crosspost:
+  - title: my personal website
+    url: http://walshbr.com/blog/washingtonlee/
 ---
-
-_Cross-posted at [my personal website](http://bmw9t.github.io/blog/2014/05/09/washingtonlee/)._
 
 Last week [Sarah](http://www.scholarslab.org/people/sarah-storti/) and I drove to Washington and Lee University as part of [a new collaboration](http://news.blogs.wlu.edu/2014/01/30/wl-announces-digital-humanities-partnership-with-uva/) enabled by a grant from the Associated Colleges of the South. As part of the endeavor, Scholars' Lab fellows are guest teaching pieces of an Introduction to Digital Humanities course. Our task, in particular, was to co-teach for a day on the topics of project management and software development. While we each took part and taught in both conversations, Sarah took the lead on the former topic and I took the latter.
 

@@ -50,6 +50,21 @@ layout: default
 
     <!-- text of post -->
     <div class="post__content">
+        {% if page.crosspost %}
+          <div class="post_crosspost">
+              {% if page.crosspost.size == 1 %}
+              Crossposted to <a href="{{ page.crosspost[0].url }}">{{ page.crosspost[0].title }}</a>.
+              {% else %}
+            {% capture crosspostings %}
+            {% for target in page.crosspost %}
+            <a href="{{ target.url }}">{{ target.title }}</a>,
+            {% endfor %}
+            {% endcapture %}
+            {% assign crosspostarray = crosspostings | strip | split: "," %}
+            Crossposted to {{ crosspostarray | array_to_sentence_string }}.
+            {% endif %}
+          </div>
+        {% endif %}
       {{ content }}
     </div>
 

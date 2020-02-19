@@ -10,7 +10,7 @@ short_bio: ''
 slug: scott-bailey
 status: not_current
 twitter: csbailey5t
-website: csbailey.org
+website: http://csbailey.org/
 people-category:
 - staff
 roles:

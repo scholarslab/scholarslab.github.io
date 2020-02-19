@@ -9,9 +9,10 @@ categories:
 tags:
 - d3
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/project-gemini-over-baja-california
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/logs/project-gemini-over-baja-california/)]_
 
 
 

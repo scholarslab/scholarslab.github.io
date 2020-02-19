@@ -7,9 +7,10 @@ title: Music Genre and Spotify Metadata
 categories:
 - Digital Humanities
 - Grad Student Research
+crosspost:
+  - title: my personal site
+    url: http://walshbr.com/blog/music-genre-and-spotify-metadata/
 ---
-
-_Cross-posted on [my personal site](http://bmw9t.github.io/blog/2015/09/20/music-genre-and-spotify-metadata/)_
 
 For the last couple weeks, I have been exploring APIs useful to sound studies for a sound recording and poetry project I am working on with former Scholars’ Lab fellow [Annie Swafford](https://annieswafford.wordpress.com/). I was especially drawn to playing around with [Spotify](https://www.spotify.com/us/), which has an [API](https://developer.spotify.com/web-api/) that allows you to access metadata for the large catalog of music available through their service. The experiment described below focuses on genre: a notoriously messy category that we nonetheless rely on to tell us how to process the materials we read, view, or hear. Genre tells us what to expect from the art we take in, and our construction and reception of generic categories can tell us a lot about ourselves. In music, especially, genres and subgenres can activate fierce debates about authenticity and belonging. Does your favorite group qualify as "authentic" jazz? What composers do you have to know in order to think of yourself as a real classical music aficionado? Playing with an artist's metadata can expose a lot of the assumptions that were made in its collection, and I was especially interested in the ways in which Spotify models relations among artists.
 

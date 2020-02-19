@@ -37,11 +37,11 @@ layout: default
 				{% if page.email !=  nil and page.email != 'None' %}
 				<span>Email:</span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.title }}">{{ page.email }}</a><br/>
 				{% endif %}
-				{% if page.twitter and page.twitter != 'None' %}
+				{% if page.twitter != nil and page.twitter != 'None' %}
 				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}" aria-label="{{ page.title }}'s Twitter page">{{ page.twitter }}</a><br/>
 				{% endif %}
-				{% if page.website and page.website != 'None' %}
-				<span>Website:</span><a href="http://{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
+				{% if page.website != nil and page.website != 'None' %}
+				<span>Website:</span><a href="{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
 				{% endif %}
 			</div>
 		</div>

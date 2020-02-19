@@ -10,11 +10,10 @@ tags:
 - d3
 - lincoln
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/nicolay-copy-gettysburg-address/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/logs/nicolay-copy-gettysburg-address/)]_
-
-
 
 ## [Launch the Exhibit](http://neatline.dclure.org/neatline/show/gettysburg-address)
 

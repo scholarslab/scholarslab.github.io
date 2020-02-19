@@ -2,8 +2,8 @@
 author: purdom-lindblad
 date: 2015-05-14 11:55:21+00:00
 layout: post
-slug: announcing-2014-2015-fellows
-title: Announcing 2014-2015 Fellows!
+slug: announcing-2015-2016-fellows
+title: Announcing 2015-2016 Fellows!
 categories:
 - Announcements
 - Grad Student Research

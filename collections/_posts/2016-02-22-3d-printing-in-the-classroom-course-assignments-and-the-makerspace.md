@@ -10,9 +10,10 @@ categories:
 tags:
 - Digital Pedagogy
 - Makerspace
+crosspost:
+  - title: my personal blog
+    url: http://jennifergrayburn.com/2016/02/22/3d-printing-in-the-classroom-course-assignments-and-the-makerspace/
 ---
-
-_[Cross-posted on my personal blog. ](http://jennifernicolegrayburn.com/2016/02/22/3d-printing-in-the-classroom-course-assignments-and-the-makerspace/)_
 
 During the first week of the spring semester, the [Makerspace](http://scholarslab.org/makerspace/) was a flurry of activity, our Ultimaker 2 printing feverishly throughout the day. Groups of students came in and out, selecting and slicing models, checking on their 3D prints, and assembling different components. This week marked the beginning of a new semester-long assignment created by Slavic Librarian Kathleen Thompson, Slavic Lecturer Jill Martiniuk, and myself to better integrate 3D fabrication and physical computing resources in the classroom. After months of discussing course objectives and possible digital components, including website creation, Arduino programming, and 3D printing, Kathleen and Jill determined that 3D printing would allow students to engage physically with 'icons' of Russian identity for Yuri Urbanovich's 'Understanding Russia: Symbols, Myths, and Archetypes of Identity' course and to think critically about how such icons are made, circulated, and contextualized/decontextualized.
 
@@ -49,13 +50,3 @@ To answer these questions, groups of 6-7 students collaborated to choose and pri
 Students are currently designing and curating two physical exhibits of their objects: one in the Makerspace in Alderman Library, and another in the Slavic Department's hallway on the second floor of New Cabell Hall. Since creating two exhibits means that objects have to be printed twice, students may alter (or switch entirely) their objects if they choose, provided they give justification. The Rubik's cube group, for example, expressed interest in re-printing their cube to make the parts movable, which they said would better reflect the changes that "polyperipheral" Russia has experienced especially in the last twenty years. Throughout the semester, students will also revisit their objects to examine how they might function as expressions of Russian identity in various contexts, and at the end of the semester, they will write and present longer reflections on their objects as useful symbols.
 
 Starting February 25th, all printed icons of the "Bringing Symbols to Life" exhibition will be on display in the Slavic Department display case, located outside the Slavic Department offices in 258 New Cabell Hall.
-
-
-
-
-
-
-
-
-
-

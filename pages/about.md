@@ -21,7 +21,7 @@ order: 1
 <a href="#how-was-this-website-made">How was this website made?</a>  
 
 ## What is the Scholars' Lab?
-Scholars' Lab is the <a href="http://library.virginia.edu">UVA Library</a>'s community lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches. 
+Scholars' Lab is the <a href="http://library.virginia.edu">UVA Library</a>'s community lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches.
 
 We offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches. We're foremost a space for learning together—about anything—by trying stuff. Think of us as friends and colleagues who can help you teach yourself new ways of approaching your interests.
 
@@ -46,11 +46,11 @@ We capture the Scholars' Lab's values and goals in our team-authored [charter](/
 - use our GIS software, virtual/augmented reality equipment, or humanities Makerspace  
 - review your ongoing work, such as critiquing your design and code  
 
-2) **Collaboration**: As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other UVA folks. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties. 
+2) **Collaboration**: As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other UVA folks. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties.
 
-- We build things _with_ people (e.g. as peer scholars, co-PIs on grant proposals), but we do not build things _for_ people. 
+- We build things _with_ people (e.g. as peer scholars, co-PIs on grant proposals), but we do not build things _for_ people.
 - We do not provide general design, web development, or technical services. We do our best to help folks stuck on technical questions during our regular Open Office Hours, and are happy to refer to expertise and facilities around UVA (e.g. DH@UVA, Research Data Services, Teaching & Learning team, Data Sciences Institute, IATH).  
-- Our staff offer years of scholarly experience, including advanced scholarly and professional degrees. With at least one term's notice we may collaborate on syllabus design or module teaching, and after longer relationships formally co-teach courses. 
+- Our staff offer years of scholarly experience, including advanced scholarly and professional degrees. With at least one term's notice we may collaborate on syllabus design or module teaching, and after longer relationships formally co-teach courses.
 - Faculty who seek support for digital assignments in their courses or short-term tech instruction should begin with their subject librarian, well in advance. They can connect you with the Library's experts in copyright, data organization (metadata), digital project preservation, research data, and teaching and learning. We recommend consultation with the A&S Learning Design and Technology staff. The UVA Library's Course Enrichment Grants and Faculty Research Sprints are another route to collaborating with Library staff (including Scholars' Lab staff).
 
 3) **Community Lab**: In addition to the consultations and collaborations stated above, much of our time for in-depth work is spent on intentional community design...
@@ -71,20 +71,20 @@ We strongly believe investment in the direct practice of experimental methods is
 
 - As a Library unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods.  
 - As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other scholars. Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties, and are usually an outgrowth of shorter consultations and SLab community involvement.  
-- We do our best to help folks stuck on technical questions during our regular Open Office Hours, and are happy to refer to expertise and facilities around UVA (e.g. DH@UVA, Research Data Services, Teaching & Learning team, Data Sciences Institute, IATH), or recommend developer and consultants at UVA and beyond seeking paid work (if you're looking for someone to build something for you). 
+- We do our best to help folks stuck on technical questions during our regular Open Office Hours, and are happy to refer to expertise and facilities around UVA (e.g. DH@UVA, Research Data Services, Teaching & Learning team, Data Sciences Institute, IATH), or recommend developer and consultants at UVA and beyond seeking paid work (if you're looking for someone to build something for you).
 
 ## Can we collaborate?
 We love to work together with other folks at UVA and beyond! Our decisions about longer-term research collaboration are based on the resources, skills, and interests/mission of all parties, and are usually an outgrowth of shorter consultations and SLab community involvement. Please [contact us](mailto:scholarslab@virginia.edu) for an initial consult to discuss ideas for longer-term collaborations, such as working as co-PIs on a grant project.
 
 ## What academic fields do you support?
-Although we bring library, digital humanities, spatial technologies, & cultural heritage skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field, and we regularly collaborate in almost every area on Grounds. An inexhaustive list of who we've worked with on Grounds includes folks from Biology, Environmental Science, Nursing, Media Studies, Music, Religious Studies, Spanish, Slavic, German, French, Classics, English, History, Art History, Architecture, and GIS/spatial tech support across Grounds.
+Although we bring library, digital humanities, spatial technologies, & cultural heritage skills to almost everything we work on, we are open and welcoming to folks in any discipline working in any field, and we regularly collaborate in almost every area on Grounds. An inexhaustive list of who we've worked with on Grounds includes folks from Biology, Physics, Environmental Science, Nursing, Media Studies, Music, Civic Engineering, Mechanical Engineering, Religious Studies, Spanish, Slavic, German, French, Classics, English, History, Art History, Architecture, and GIS/spatial tech support across Grounds.
 
 ## What opportunities are available for students?
 We work with a number of students each year in a variety of ways!
 
 If you're interested in what we do, please get in contact with us–in addition to our formal student opportunities, we try to match known students with informal opportunities as they arise, and can help with a variety of needs including mock job interviews, career networking, and [more](/professional-development/). You can set up a friendly consultation by emailing ScholarsLab@Virginia.edu, talk to our Head of Student Programs [Brandon Walsh](/people/brandon-walsh/), speak with us before or after any of our [events](/events), drop by our [Makerspace](/makerspace) when it's open, or chat with us during our Open Office Hours (fall and spring term, Wednesdays 10-11:30am, SLab Common Area). We also share opportunities via our [@ScholarsLab Twitter account](https://twitter.com/scholarslab) and on our [blog](/blog).
 
-Training the next generation of DH, GIS, and CHI scholars is an area where we are uniquely prominent in the DH community. You can read about some of our more developed collaborations with students in our [archive of past student projects](/student-projects-archive).
+Training the next generation of DH, GIS, and CHI scholars is an area where we are uniquely prominent in the DH community. You can read about some of our more developed collaborations with students in our [archive of past student projects](/work#student-projects-archive).
 
 Each year we make a structured, formal investment in the mentorship, training, and research support of around 50 student roles, including GIS Interns, Cultural Heritage Informatics Interns, Praxis Fellows, DH Fellows, LAMI Fellows, VR/CHI Documentation Interns, and Makerspace Technicians. We support further students via consultation, collaboration, events, and teaching. Please visit our [For Students](/for-students/) page to learn more about these formal opportunities.
 
@@ -97,12 +97,12 @@ Everyone! We define scholarship as one part critical thinking plus one part comm
 Check out our [people](/people/) page for current staff, students, and alums.
 
 ## I've heard that "people over projects" is a Scholars' Lab motto. What does that mean? Do you do projects?
-We express this in [our charter](/charter/) as "We build up people and practices more than products." We prioritize the process of learning and discovery: sometimes that results in named "projects" with communities of users and shiny laptop stickers (e.g. [Neatline](http://neatline.org)), and sometimes that means trying something, failing, and sharing that learning so you and others can build on it. 
+We express this in [our charter](/charter/) as "We build up people and practices more than products." We prioritize the process of learning and discovery: sometimes that results in named "projects" with communities of users and shiny laptop stickers (e.g. [Neatline](http://neatline.org)), and sometimes that means trying something, failing, and sharing that learning so you and others can build on it.
 
 In the process of working together, we've found that collaborators learn from one another; students benefit from training, practice, and mentoring; and faculty discover new directions in their teaching and research. "People over projects" means that we care more about such outcomes, than about whether a formal "project" happens.
 
 ## Where are you?
-Our [Hours & Spaces page](/hours-and-spaces/) has more information on our physical spaces as well as maps helping you navigate to us. 
+Our [Hours & Spaces page](/hours-and-spaces/) has more information on our physical spaces as well as maps helping you navigate to us.
 
 We're in Alderman Library, which is on UVA's Central Grounds: just west of the Rotunda and chapel, and just east of Nameless Field and those tennis courts. We're the west wing of Alderman's fourth floor; because the main public entrance to Alderman opens onto the 4th floor, we're on the same floor you enter on. Turn left and walk past Greenberry's coffee shop and a water fountain to find the Scholars' Lab staff offices, then turn right to find our Common Area (including Makerspace and Open Office Hours area), Alderman 421 (electronic classroom), and Alderman 423 (smaller classroom).
 
@@ -120,7 +120,7 @@ For inquiries about our Makerspace, write to [slabmakerspace@virginia.edu](mailt
 We are also on Twitter <a hfre="https://twitter.com/ScholarsLab">@ScholarsLab</a>.
 
 ## How was this website made?
-This website contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site (?-2018) and now a Jekyll-generated static website (2018-current). 
+This website contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site (?-2018) and now a Jekyll-generated static website (2018-current).
 
 **The 2017-2018 renewal of this website** incorporates text, suggestions, and feedback from everyone on [the Scholars' Lab staff](/people). Additionally, the following folks put in significant extra effort on the site's design, coding, content, project management, and documentation: Katherine Donnally, Jeremy Boggs, Brandon Walsh, Ronda Grizzle, Laura Miller, Zoe LeBlanc, Ammon Shepherd, Shane Lin, Beth Mitchell, and Amanda Visconti.
 

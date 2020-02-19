@@ -8,18 +8,19 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: my blog
+    url: https://literaturegeek.com/2019/04/26/dh-center-staff-professional-research-and-development-time/
 ---
-
-*Crossposted to [my blog](https://literaturegeek.com/2019/04/26/dh-center-staff-professional-research-and-development-time/).*
 
 All Scholars' Lab staff are encouraged to take 20% of their time to initiate research and professional development. In this post, we'll share some of what we've been working on, and explain the rationale behind making this 20% time a formal part of our job descriptions.
 
 ## What is 20% time?
-Previously also referred to as "personal R&D time", we've recently shifted to saying **"self-initiated R&D time"** to emphasize that this work is often collaborative, and always feeds back into the lab: what's unique about 20% time is special leeway to experiment and fail, and formal support for staff to initiate and direct their own professional and scholarly development on the job. Making this a specific job expectation can help folks feel comfortable pursuing learning that isn't immediately applicable to scholarship, but probably will be later on. For example, GIS Specialist Drew Macqueen's "Arduino Chris" (GIF below, courtesy of Drew) used the problem of our office lights (which turn off when folks weren't moving around much at their desks) to get some practice building electronics, which he can now apply to research consultations and collaborations as part of his spatial technologies toolkit:
+Previously also referred to as "personal R&D time", we've recently shifted to saying **"self-initiated R&D time"** to emphasize that this work is often collaborative, and always feeds back into the lab: what's unique about 20% time is special leeway to experiment and fail, and formal support for staff to initiate and direct their own professional and scholarly development on the job. Making this a specific job expectation can help folks feel comfortable pursuing learning that isn't immediately applicable to scholarship, but probably will be later on. For example, GIS Specialist Drew MacQueen's "Arduino Chris" (GIF below, courtesy of Drew) used the problem of our office lights (which turn off when folks weren't moving around much at their desks) to get some practice building electronics, which he can now apply to research consultations and collaborations as part of his spatial technologies toolkit:
 
-![GIF of Drew Macqueen's "Arduino Chris", using electronics and a photo of GIS Specialist Chris Gist to turn the office lights back on when they go off from no one moving around.](https://github.com/scholarslab/scholarslab.org/blob/master/assets/post-media/2019-01-22-Arduino-Chris.GIF?raw=true)
+![GIF of Drew MacQueen's "Arduino Chris", using electronics and a photo of GIS Specialist Chris Gist to turn the office lights back on when they go off from no one moving around.](https://github.com/scholarslab/scholarslab.org/blob/master/assets/post-media/2019-01-22-Arduino-Chris.GIF?raw=true)
 
-*Above: GIF of Drew Macqueen's "Arduino Chris", using electronics and a photo of GIS Specialist Chris Gist to turn the office lights back on when they go off from no one moving around.*
+*Above: GIF of Drew MacQueen's "Arduino Chris", using electronics and a photo of GIS Specialist Chris Gist to turn the office lights back on when they go off from no one moving around.*
 
 Note that "R&D time" (aka 20% time, personal R&D time, self-initiated R&D time) is distinct from the work of our Research & Development (R&D) unit, which focuses on programming and design.
 
@@ -62,7 +63,7 @@ With the staff's permission, I'm sharing what each of us was working on, to give
 
 **Brandon Walsh (Head of Student Programs):** anxious pedagogies, thinking through how to expect + deal with frustration during classes, and how to apply this thinking with DH projects as well; text analysis cookbook from his frequently used code, with info on how/why cookbook snippets work; "how to learn text analysis" but with your own text
 
-**Drew Macqueen (GIS Specialist):** keeping a Notepad++ code journal; created the Arduino Chris (GIF above) for keeping the SLab office lights on and practice physical computing skills; learning about georeferencing 3D models with Will and Arin; CityEngine; wants to write a blog post e.g. on modifiable areal unit problem, why zip codes are bad locators; wants to add thermal sensor to Arduino Chris so it works better
+**Drew MacQueen (GIS Specialist):** keeping a Notepad++ code journal; created the Arduino Chris (GIF above) for keeping the SLab office lights on and practice physical computing skills; learning about georeferencing 3D models with Will and Arin; CityEngine; wants to write a blog post e.g. on modifiable areal unit problem, why zip codes are bad locators; wants to add thermal sensor to Arduino Chris so it works better
 
 **Jeremy Boggs (Head of R&D):** Thinking through distant reading of comic books, e.g. how Batman and the Joker in *The Killing Joke* become visually similar, John Walsh's TEI for Comic Books, (image recognition of?) comic book text to study gender; using Italo Calvino's writing towards a bibliography of books with their qualities ID'd being used as a framework for text analysis; interest in doing D&D homebrew mashup with other content, e.g. Sarah and James’s characters from Samuel Johnson (http://genuineremains.jeremyboggs.net/)
 
@@ -87,7 +88,7 @@ Known issues with 20% time include:
 
 Another barrier is needing help from SLab colleagues to move forward with your self-initiated work, but we feel reluctant to ask for that help: knowing how busy everyone is, or feeling uncomfortable using resources for a personally-initiated project. Or folks actually don't have time during fall and spring terms to help, and internal collaborations needs to wait for the summer. As a small step forward over this barrier, I've been trying to recognize the importance of these self-initiated projects by helping schedule meetings where relevant SLab staff can work together to advance a project.
 
-Setting a formal amount of time for staff research shifts the conversation from whether a project can happen, to how to best make it happen. Our colleagues in other Library units don't have 20% time in their job descriptions, although a number do have language about professional development. Many of our library colleagues are very active researchers. I do see an explicit percentage of job time is different from knowing you can propose a self-initiated project to your supervisor, but they may or may not understand its application, and they may or may not support your making time for it during your work day. 20% is equivalent to one day a week, 10% is one day every two weeks; this doesn't need to happen daily or weekly, and some staff find it best for them and their community to bank this time during fall and spring and use it during winter and summers. 
+Setting a formal amount of time for staff research shifts the conversation from whether a project can happen, to how to best make it happen. Our colleagues in other Library units don't have 20% time in their job descriptions, although a number do have language about professional development. Many of our library colleagues are very active researchers. I do see an explicit percentage of job time is different from knowing you can propose a self-initiated project to your supervisor, but they may or may not understand its application, and they may or may not support your making time for it during your work day. 20% is equivalent to one day a week, 10% is one day every two weeks; this doesn't need to happen daily or weekly, and some staff find it best for them and their community to bank this time during fall and spring and use it during winter and summers.
 
 The Library supports each of its staff with at least $1k of professional development travel funding each year (and extra for the first 2 years on the job); UVA also provides university staff annual funds to take courses and attend conferences. The Library and UVA professional development funds can't be used for books or equipment, which can be difficult for folks seeking to self-teach or to learn a hands-on skill like electronics.
 

@@ -8,9 +8,14 @@ categories:
 - Digital Humanities
 - Experimental Humanities
 - Grad Student Research
+crosspost:
+  - title: my personal blog
+    url: http://walshbr.com/blog/reading-speech/
+  - title: the WLUDH blog
+    url: https://digitalhumanities.wlu.edu/blog/2016/05/17/reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark/
 ---
 
-_[Cross-posted on the my [personal blog](http://bmw9t.github.io/blog/2016/05/17/reading-speech/) as well as the [WLUDH blog](https://digitalhumanities.wlu.edu/blog/2016/05/17/reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark/). What follows is a slightly more fleshed out version of what I presented this past week at [HASTAC 2016](https://hastac2016.org) (complete with my memory-inflected transcript of the Q&A). I gave a bit more context for the project at the event than I do here, so it might be helpful to read my past two posts on the project [here](https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/) and [here](http://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/) before going forward. This talk continues that conversation.]_
+_What follows is a slightly more fleshed out version of what I presented this past week at [HASTAC 2016](https://hastac2016.org) (complete with my memory-inflected transcript of the Q&A). I gave a bit more context for the project at the event than I do here, so it might be helpful to read my past two posts on the project [here](http://walshbr.com/blog/woolf-huskey/) and [here](http://walshbr.com/blog/woolf-and-the-quotation-mark/) before going forward. This talk continues that conversation.]_
 
 This year in the [Scholar’s Lab](https://www.scholarslab.org) I have been working with Eric on a machine learning project that studies speech in Virginia Woolf’s fiction. I have written elsewhere about the [background for the project](https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/) and [initial thoughts towards its implications](http://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/). For the purposes of this blog post, I will just present a single example to provide context. Consider the famous first line of _Mrs. Dalloway_:
 

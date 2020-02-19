@@ -10,9 +10,10 @@ tags:
 - d3
 - military history
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/minard-napoleon-neatline/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/logs/minard-napoleon-neatline/)]_
 
 
 

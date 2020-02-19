@@ -8,9 +8,10 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Eric's blog
+    url: http://cybernetickinkwell.com/2012/04/02/on-a-definition-of-open-humanities/
 ---
-
-_Cross-posted from [Eric's blog](http://cybernetickinkwell.com/2012/04/02/on-a-definition-of-open-humanities/):_
 
 In considering [recent definitions of digital humanities](http://dayofdh2012.artsrn.ualberta.ca/dh/), I’m often struck by some common aspects of many of them&mdash;the ones that have nothing to do with the digital:
 

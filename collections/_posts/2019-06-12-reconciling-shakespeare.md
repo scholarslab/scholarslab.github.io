@@ -1,5 +1,5 @@
 ---
-author: 
+author:
 - Neal Curtis
 - Sam Lemley
 date: 2019-06-12 09:42:46
@@ -11,8 +11,12 @@ categories:
 - Grad Student Research
 tags:
 - Digital Humanities
+crosspost:
+  - title: W&L DH blog
+    url: https://digitalhumanities.wlu.edu/blog/2019/06/12/reconciling-shakespeares-texts-collation-in-a-digital-world/
 ---
-*Enjoy this guest post by Sam Lemley and Neal Curtis, graduate students in English at University of Virginia. They came to W&L to give a workshop in Prof. Holly Pickett's sprint-term "Othello, Ourselves: Race, Religion, and Reconciliation in Shakespeare" course through a Mellon-funded collaboration with the Scholars' Lab at UVA. More information about this initiative can be found [here](https://github.com/wludh/research-one-collab/blob/master/wlu-faculty.md). Crossposted to the [W&LDH blog](https://digitalhumanities.wlu.edu/blog/2019/06/12/reconciling-shakespeares-texts-collation-in-a-digital-world/).*
+
+_Sam Lemley and Neal Curtis went to W&L to give a workshop in Prof. Holly Pickett's sprint-term "Othello, Ourselves: Race, Religion, and Reconciliation in Shakespeare" course through a Mellon-funded collaboration with the Scholars' Lab at UVA. More information about this initiative can be found <a href="https://github.com/wludh/research-one-collab/blob/master/wlu-faculty.md">here</a>._
 
 In some circles, _collation_ is a word to conjure with. While we might all know what it means 'to collate,' the practice itself is too often confined to the rarefied world of bibliographical and textual analysis. In consequence, the word has come to connote a dark art. The OED fails to clear things up, telling us only _what_ collation is rather than _how_ it's done: collation (that subtle science) is the "textual comparison of different copies of a document [...] with a view to ascertain the correct text, or the perfect condition of a particular copy."
 

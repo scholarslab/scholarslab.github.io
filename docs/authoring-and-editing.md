@@ -45,7 +45,7 @@ If the workflow in this lesson doesn't work for your needs, there are two simple
 
 2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let Amanda know when you're finished, and they'll post your content for you.
 
-Already comfortable with the command line and git? We may finish [this draft](/docs/git-authoring-and-editing.md) at some point; it will provide instructions for doing your authoring/editing of the site locally instead (let Amanda know if you'd like help learning to do this). The tutorial you're currently reading allows you to do everything through the GitHub.com interface.
+The tutorial you're currently reading allows you to do everything through the GitHub.com interface, but if you get comfortable with this and want to try something new (and possibly more pleasant), check out [this lesson](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) on how to run and make changes to a site locally, using the GitHub Desktop app (or alternatively look into using git on the command line).
 
 ## Let's get started!
 
@@ -59,7 +59,7 @@ Start by [creating a user account on GitHub.com](http://github.com/join), if you
 
 An existing ScholarsLab GitHub org member needs to visit the [members page](https://github.com/orgs/scholarslab/people), click the green "Invite member" button, and invite you as a "member" (not "owner"). You'll receive an email invite; follow the link in that email to gain access to making changes to our website. An existing ScholarsLab GitHub org member also should [add you to the SLab "core" GitHub team](https://github.com/orgs/scholarslab/teams/core/members) (we think this allows you to see the `scholarslab/reviewers` group as an option on the PR reviewers dropdown).
 
-Then, they also need to add you to the ScholarsLab.org repo [here](https://github.com/scholarslab/scholarslab.org/settings/collaboration) (with "write", not "admin" privileges).
+Then, they also need to add your username to the ScholarsLab.org repo (with "write", not "admin" privileges) at `https://github.com/scholarslab/scholarslab.org/settings/collaboration` (page only visible to repo admins).
 
 ## Branch and write/edit!
 
@@ -92,7 +92,7 @@ Now that we've created our branch, we need to switch to working there.
 
 The page will reload, and you'll notice a few changes:
 
-- The URL will have switched from https://github.com/scholarslab/scholarslab.org to https://github.com/scholarslab/scholarslab.org/tree/henry-blog-takeover
+- The URL will have switched from `https://github.com/scholarslab/scholarslab.org` to `https://github.com/scholarslab/scholarslab.org/tree/henry-blog-takeover`
 - More importantly (because it's annoying to parse the URL to check whether you're in the right branch!), you can look at the branch dropdown to verify that we're now in the branch henry-blog-takeover. This is that same grey button in the mid-left of the page we clicked before, when we created a new branch.
 
 ![docs-on-new-branch](/docs/docs-images/docs-on-new-branch.png)
@@ -203,25 +203,23 @@ You can click on the "No wrap" dropdown in the upperish right to select "Soft wr
 
 7. Scroll all the way down the page to see the commit area—this is git's version of "save". 
 
-Once you commit, what you've written is hypothetically publicly visible (to anyone who thinks to visit our repo, switch to your particular branch, and look at your commits).
-
 The **first text field** is a place to write a short description to remind you and inform others about what changes you made to the code (in our case, to your new blog post). The field will make you stop typing if you attempt to go over the character limit. If you're writing or editing a new blog post, **I recommend you type nothing here**; that accepts the grey default text already in the field ("Create 2018-10-16-henry-rulez.md" in the screenshot) as your commit message. 
 
 The **larger text box** ("Add an optional extended description...") gives you more space to explain what the code you're committing (saving) does. If you were making changes to the website's code that others needed to understand, adding text here to explain your changes would be useful, but you can **ignore it** when you're authoring a new blog post.
 
 When changing code or editing existing webpages, writing a commit message helps people looking at the log files can easily see at a glance who made what changes. These messages will be part of the public record of the repo on GitHub, so don't write anything you wouldn't want seen publicly.
 
+Once you commit, what you've written is hypothetically publicly visible (to anyone who thinks to visit our repo, switch to your particular branch, and look at your commits).
+
 ![docs-commit-area-empty](/docs/docs-images/docs-commit-area-empty.png)
 
-8. Two choices! 
+8. Ignore the radio buttons, and click the green "commit new file" button. You now have two choices!
 
-   A. If you want to do more work on your blog post after saving (right away, or some time way in the future), leave the radio buttons as-is and click the green "Commit new file" button and continue reading the tutorial immediately after 8B.
+A. If you're Totally Ready to Publish your new blog post and don't need to make further edits, [jump down to the "move your writing to the main repo!" section](#move-your-writing-to-the-main-repo), which covers what to do now that you're ready to publish.
 
-   B. If you're Totally Ready to Publish your new blog post, instead switch the radio button to "Create a new branch for this commit and start a pull request", leave the text field that appears as-is, and click the green "Propose new file" button. [Jump down this tutorial to Section 2](#move-your-writing-to-the-main-repo!), which covers what to do next now that you're ready to publish.
+B. If you want to do more work on your blog post after saving (right away, or some time way in the future), continue reading...
 
-If you followed step 8A ("commit new file"), you're now back in the directory that holds all the blog post files on our henry-blog-takeover branch.
-
-9. To make additional edits to your blog post, scroll down to find your post in the list (they're organized by oldest-newest, so a new post will appear at the bottom of the list). Click on the linked file name (e.g. 2018-10-16-henry-rulez.md).  
+9. Committing will place you back in the directory that holds all the blog post files on our henry-blog-takeover branch (the collections/_posts folder). To make additional edits to your blog post, scroll down to find your post in the list (they're organized by oldest-newest, so a new post will appear at the bottom of the list). Click on the linked file name (e.g. 2018-10-16-henry-rulez.md).  
 
 10. Near the middle of the right side of the page, click on the small pencil icon. 
 
@@ -235,7 +233,7 @@ Return to Step 7 when you're ready to commit (aka save) your changes again.
 
 When you've finished drafting the post and you're ready to publish, jump down to ["instructions on moving your writing to the main repo"](#2-move-your-writing-to-the-main-repo).
 
-*Want a sneak peak at the final visual appearance of your post?* Although this isn't the same as seeing what your post will look like when published to our website, you can always look at the GitHub repo version of your post to see whether your Markdown formatting looks right (Step 9 above, except don't click on the edit icon, just scroll down to see your post). To see what your post looks like on the final website (i.e. incorporating all our special website design/styling), you'll either need to [follow this other tutorial](/docs/git-authoring-and-editing.md) to learn to edit the site locally, or wait until you're ready to publish. (There's a tool called Netlify that lets you see what your webpage will look like, but we only have it set up to work when you're moving your page to the live site—not when you're still drafting.)
+*Want a sneak peak at the final visual appearance of your post?* Although this isn't the same as seeing what your post will look like when published to our website, you can always look at the GitHub repo version of your post to see whether your Markdown formatting looks right (Step 9 above, except don't click on the edit icon, just scroll down to see your post). To see what your post looks like on the final website (i.e. incorporating all our special website design/styling), you'll either need to [follow this other tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) to learn to edit the site locally, or wait until you're ready to publish. (There's a tool called Netlify that lets you see what your webpage will look like, but we only have it set up to work when you're moving your page to the live site—not when you're still drafting.)
 
 #### Add an event
 Events are similar to blog posts, except for two things:  
@@ -300,7 +298,7 @@ Some terminology:
   - Our repo's pull request process runs two "checks" or "tests" on your code: *Travis* makes sure your changes don't break anything on the main website, and *Netlify* lets you take a peek at how your changes will look on the website, before we actually publish those changes for the world to see.
 - **Review:** For our repo, making a pull request notifies other SLab folks that someone's making a change to our website, allowing the opportunity for feedback on your work. 
 
-1. Commit your final changes:
+1. If you've made changes to your post since last committing, commit your final changes:
 
 ![docs-file-ready-to-commit-message](/docs/docs-images/docs-file-ready-to-commit-message.png)
 
@@ -323,6 +321,10 @@ Some terminology:
 ![docs-add-reviewers-pr2](/docs/docs-images/docs-add-reviewers-pr3.png)
 
 This will notify the subset of SLab staff comfortable with Jekyll that you're making a change (e.g. adding a blog post) to the website; one of them will briefly review your changes to check for anything that might break part of the site (highly unlikely with a blog post, more likely with changes to other repo code), and then they'll push your content to the live website.
+
+6. Click the green "Create pull request" button (it's at the bottom-right of the text field).
+
+![docs-final-PR-button](/docs/docs-images/docs-final-PR-button.png)
 
 You're done!
 
@@ -398,7 +400,7 @@ Below are a few frequently used kinds of Markdown that you're likely to encounte
 
 In markdown, a link consists of the text for the link within bracks and the actual web hyperlink itself within parentheses. Remember not to leave a space between the two pieces.
 
-\`[Look, a link!\](http://scholarslab.org)`
+\`[Look, a link!\](https://scholarslab.org)`
 
 will render as... 
 
@@ -498,7 +500,7 @@ will render as...
 
 If you got stuck on any part of this tutorial, please let Amanda or Ronda know so they can improve this text (if you ran into a problem, others will run into the same one...).
 
-If you get comfortable with this process and would like to explore another way of authoring/editing the website, you can check out [this tutorial](/docs/git-authoring-and-editing) for doing your authoring/editing of the site using the command line, locally. No prior comfort with the command line is required—we'll tell you what to type, and try to anticipate common error messages you might run into (those are the downside of how the command line lets you do some stuff faster or easier). You'll also learn how to work with a "local" copy of the site—this is just like visiting ScholarsLab.org, except that it's only viewable on your machine, and you can view the site as it looks using any branch's code (ScholarsLab.org always shows the site as it looks using the "master" branch's code, so this is a nice way to check out how changes you've made to the site look, before merging your new branch into the "master" branch/main website's code.
+If you get comfortable with this process and would like to explore another way of authoring/editing the website, you can check out [this tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) for doing your authoring/editing of the site using the command line, locally. No prior comfort with the command line is required—we'll tell you what to type, and try to anticipate common error messages you might run into (those are the downside of how the command line lets you do some stuff faster or easier). You'll also learn how to work with a "local" copy of the site—this is just like visiting ScholarsLab.org, except that it's only viewable on your machine, and you can view the site as it looks using any branch's code (ScholarsLab.org always shows the site as it looks using the "master" branch's code, so this is a nice way to check out how changes you've made to the site look, before merging your new branch into the "master" branch/main website's code.
 
 Alternatively, or in addition! The information in this page's tutorial + [a friendly tutorial on creating your own Jekyll site](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (+ some help from the SLab Slack #development channel when you run into inscrutable command line errors, the deathless bane of all) are enough to not only create and maintain your own website, but to understand how it works.
 

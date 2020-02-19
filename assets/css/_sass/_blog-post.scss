@@ -316,6 +316,16 @@ img{
 	max-width:100%;
 }
 
+.post_crosspost{
+padding: 20px;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+.post_crosspost::before {
+	content: "\2192";
+}
+
 figcaption p:before{
 content: "Figure caption: ";
-} 
+}

@@ -7,9 +7,12 @@ title: Hearing Silent Woolf
 categories:
 - Digital Humanities
 - Grad Student Research
+crosspost:
+  - title: my own blog
+    url: http://walshbr.com/blog/woolf-huskey/
 ---
 
-_[This week I presented at the [2015 Huskey Research Exhibition](http://gradcouncil.com/2015-sessions/) at UVA. The talk was delivered from very schematic notes, but below is a rough recreation of what I discussed. The talk I gave is a crash course in a new project I've started working on with the generous help of the [Scholars' Lab](http://scholarslab.org) that thinks about sound in Virginia Woolf's career using computational methods. [Eric Rochester](http://scholarslab.org/people/eric-rochester/), especially, has been endlessly giving of his time and expertise, helping me think through and prototype work on this material. The talk wound up receiving first prize for the digital humanities panel of which I was a part. The project is still very much inchoate, and I'd welcome thoughts on it. Cross-posted on [my own blog](http://bmw9t.github.io/blog/2015/03/23/woolf-huskey/).]_
+_[This week I presented at the [2015 Huskey Research Exhibition](http://gradcouncil.com/2015-sessions/) at UVA. The talk was delivered from very schematic notes, but below is a rough recreation of what I discussed. The talk I gave is a crash course in a new project I've started working on with the generous help of the [Scholars' Lab](http://scholarslab.org) that thinks about sound in Virginia Woolf's career using computational methods. [Eric Rochester](http://scholarslab.org/people/eric-rochester/), especially, has been endlessly giving of his time and expertise, helping me think through and prototype work on this material. The talk wound up receiving first prize for the digital humanities panel of which I was a part. The project is still very much inchoate, and I'd welcome thoughts on it._
 
 When I talk to you, you make certain assumptions about me as a person based on what you're hearing. You decide whether or not I might be worth paying attention to, and you develop a sense of our social relations based around the sound of my voice. The voice conveys and generates assumptions about the body and about power: am I making myself heard? Am I registering as a speaking voice? Am I worth listening to?
 

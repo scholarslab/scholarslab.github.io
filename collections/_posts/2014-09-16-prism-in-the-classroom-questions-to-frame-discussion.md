@@ -7,9 +7,10 @@ title: 'Prism in the Classroom: Questions to Frame Discussion'
 categories:
 - Digital Humanities
 - Grad Student Research
+crosspost:
+  - title: my personal website
+    url: http://walshbr.com/blog/prism-pedagogy/
 ---
-
-Cross-posted on [my personal site](http://bmw9t.github.io/blog/2014/09/16/prism-pedagogy/).
 
 I have been touting the use of [Prism](http://prism.scholarslab.org) in the university classroom for some time now, but a recent exchange with [Annie Swafford](http://annieswafford.wordpress.com/) suggested to me that it might be worth explicitly outlining how I would go about doing so. With that in mind, I’ve composed the following set of questions for how I might frame discussion of Prism in the classroom. I’ve admittedly only had very brief chances to implement the tool in the classroom myself, so the thoughts come largely out of speculation and conversation. It should be noted as well that I assume below that you have already chosen a text and categories along which it should be marked (I may write on ways to approach such choices at a later date). In what follows, I move from general questions that I think would be helpful in framing any discussion of the tool to a particular use-case in [James Joyce’s A Portrait of the Artist as a Young Man](http://prism.scholarslab.org/prisms/4213c156-aea5-11e2-80bf-c82a14fffe99/visualize?locale=en). The former questions inform and engage my latter use-case.
 

@@ -12,6 +12,11 @@ tags:
 - gis
 - neatline
 - photoshop
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/tutorials/neatline-maps-transparency/
+  - title: neatline.org
+    url: http://neatline.org/2012/08/23/using-neatline-with-historical-maps-part-2-transparency/
 ---
 
 Update 8/27/12
@@ -32,9 +37,6 @@ Much faster than pointing-and-clicking in Photoshop!
 
 * * *
 
-
-
-_[Cross-posted with [dclure.org](http://dclure.org/tutorials/neatline-maps-transparency/) and [neatline.org](http://neatline.org/2012/08/23/using-neatline-with-historical-maps-part-2-transparency/)]_
 
 _This is part 2 of a 3-post tutorial that walks through process of georeferencing a historical map and using it in Geoserver and Neatline. Check out [part 1](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-georeferencing/), which covers rectification in ArcMap._
 

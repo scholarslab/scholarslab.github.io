@@ -10,9 +10,10 @@ tags:
 - javascript
 - Programming
 - visualization
+crosspost:
+  - title: katinarogers.com
+    url: http://wp.me/p2CaGd-9R
 ---
-
-_[cross-posted at [katinarogers.com](http://wp.me/p2CaGd-9R)]_
 
 The [ SCI study on humanities graduate programs and career preparation](http://uvasci.org/current-work/graduate-education/) is humming along, and while survey responses come in, I've been working on determining how best to translate the data into meaningful graphics. After a lot of experimenting, I think the winner is [d3.js](http://d3js.org/). Short for for Data-Driven Documents, D3 is Michael Bostock's creation; a quick glance at his [gallery](https://github.com/mbostock/d3/wiki/Gallery) shows the kinds of beautiful and complex visualizations it's capable of. It's a low-level tool, though, which means that learning to use it even in a rudimentary way has already involved picking up some html, css, and javascript along the way. It's a lot to chew on, but I think I'm starting to turn a corner as a blurry whirl of concepts, terms, and commands are slowly resolving themselves into some clarity.
 

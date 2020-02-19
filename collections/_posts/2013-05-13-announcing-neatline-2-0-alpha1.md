@@ -8,11 +8,12 @@ categories:
 - Geospatial and Temporal
 tags:
 - neatline
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/logs/announcing-neatline-2-0-alpha1/
 ---
 
 ![neatline-2.0-alpha1-small](http://static.scholarslab.org/wp-content/uploads/2013/05/neatline-2.0-alpha1-small.png)
-
-_[Cross-posted with [dclure.org](http://dclure.org/logs/announcing-neatline-2-0-alpha1/)]_
 
 It's here! After much hard work, we're delighted to announce the first alpha release of Neatline 2.0, which migrates the codebase to Omeka 2.0 and adds lots of exciting new things. For now, this is just an initial testing release aimed at developers and other brave folks who want to tinker around with the new set of features and help us work out the kinks. **Notably, this build doesn't yet include the migration to upgrade existing exhibits from the 1.1.x series**, which we'll ship with the first stable release in the next couple weeks once we've had a chance to field test the new code.
 

@@ -6,9 +6,12 @@ slug: my-experience-leading-a-workshop-on-text-analysis-at-washington-and-lee-un
 title: My Experience Leading a Workshop on Text Analysis at Washington and Lee University
 tags:
 - WLU Collab
+crosspost:
+  - title: the WLUDH blog
+    url: http://digitalhumanities.wlu.edu/blog/2017/11/30/my-experience-leading-a-workshop-on-text-analysis-at-washington-and-lee-university/
 ---
 
-_[Sarah went to Washington and Lee University to give a workshop in Prof. Mackenzie Brooks’s DH 102: Data in the Humanities course through a Mellon-funded collaboration with WLUDH. More information about this initiative can be found [here](https://github.com/wludh/research-one-collab/blob/master/wlu-faculty.md), and this piece is crossposted to the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2017/11/30/my-experience-leading-a-workshop-on-text-analysis-at-washington-and-lee-university/).]_
+_[Sarah went to Washington and Lee University to give a workshop in Prof. Mackenzie Brooks’s DH 102: Data in the Humanities course through a Mellon-funded collaboration with WLUDH. More information about this initiative can be found [here](https://github.com/wludh/research-one-collab/blob/master/wlu-faculty.md)]_
 
 As a graduate student participating in the University of Virginia and Washington & Lee University digital humanities collaboration, during the fall 2017 I led a guest workshop on text analysis in Mackenzie Brooks’ course DH 102: Data in the Humanities.  This workshop was an exploration of approaches to text analysis in the digital humanities, which concurrently introduced students to basic programming concepts.  For humanities students and scholars, the question of how to begin to conduct text analysis can be tricky because platforms do exist that allow one to perform basic text analyses without any programming knowledge.  However, the ability to write one’s own scripts for text analysis purposes allows for the fine-tuning and tailoring of one’s work in highly-individualized ways that goes beyond the capabilities of popular tools like Voyant. Additionally, the existence of a multitude of Python libraries allows for numerous approaches for understanding the subtleties of a given text of a corpus of them.  As the possibilities and directions for text analysis that Python enables are countless, the goal of this workshop was to introduce students to basic programming concepts in Python through the completion of simple text analysis tasks.
 

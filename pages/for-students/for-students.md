@@ -9,20 +9,20 @@ order: 5
 
 One of our primary missions is to support the work of emerging scholars and digital humanities practitioners--particularly UVa graduate students. In addition to our general consultations (grad students are invited to [write us](mailto:scholarslab@virginia.edu) for an appointment any time!), we offer three graduate fellowship programs that provide students with the time, space, and mentorship necessary to discover, explore, and build. We also offer a number of opportunities for students to gain training and experience as digital humanists. Check out our offerings below and get in touch if you have questions.
 
-For expressions of the pedagogy we bring to our work with students, explore our [student programs charter](/student-programs-charter/), the [Praxis Program charter](http://praxis.scholarslab.org/praxis-program-charter/), and the [general Scholars' Lab charter](/charter/). To see the results of some of these collaborations, check out our [archive of student projects](/student-projects-archive).
+For expressions of the pedagogy we bring to our work with students, explore our [student programs charter](/student-programs-charter/), the [Praxis Program charter](http://praxis.scholarslab.org/praxis-program-charter/), and the [general Scholars' Lab charter](/charter/). To see the results of some of these collaborations, check out our [archive of student projects](/work#student-projects-archive).
 
 ## Praxis Program Fellowships
 
-**Call issued:** Annually in December, typically by December 15th.
+**Call issued:** Annually in December, typically by the beginning of the Spring semester.
 
-**Deadline:** February 28th, 2019 for the 2019-2020 fellowship year.
+**Deadline:** March 1st, 2020 for the 2020-2021 fellowship year.
 
 [More information](/praxis-program-fellowships/)
 
 ## Digital Humanities Fellowship Program
 **Call issued:** Annually in October, typically by October 1
 
-**Deadline:** November 30th, 2018 for the 2019-2020 fellowship year.
+**Deadline:** November 25th, 2019 for the 2020-2021 fellowship year.
 
 [More information](/digital-humanities-fellows/)
 

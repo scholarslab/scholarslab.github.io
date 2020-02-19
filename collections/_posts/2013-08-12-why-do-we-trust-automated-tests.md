@@ -9,9 +9,10 @@ categories:
 tags:
 - automated testing
 - code philosophy
+crosspost:
+  - title: dclure.org
+    url: http://dclure.org/essays/why-do-we-trust-automated-tests/
 ---
-
-_[Cross-posted from [dclure.org](http://dclure.org/essays/why-do-we-trust-automated-tests/)]_
 
 I'm fascinated by this question. Really, it's more of an academic problem than a practical one - as an engineering practice, testing just _works_, for lots of simple and well-understood reasons. Tests encourage modularity; the process of describing a problem with tests makes you understand it better; testing forces you to go beyond the "happy case" and consider edge cases; they provide a kind of functional documentation of the code, making it easier for other developers to get up to speed on what the program is supposed to do; and they inject a sort of refactoring spidey-sense into the codebase, a guard against regressions when features are added.
 
