@@ -20,6 +20,11 @@ This talk will discuss the presence of US Latinas in American culture. We will p
 
 **12:00 pm** Catered lunch
 
+**1:00pm-1:15pm** Presentation by NEH Office of Digital Humanities Program Specialist Hannah Alpert-Abrams  
+Hannah will provide an overview of how the NEH ODH works with students and faculty.
+
+_Optional_: **1:15-2:00pm** Attendees will have a chance to talk one-on-one with a NEH ODH Program Specialist.
+
 **2:00 pm** Quinn Dombrowski  
 _The 2040 Plan_  
 What will universities look like in 2040 — particularly libraries and the humanities? To what extent will we shape that future through avenues we choose to pursue, and how much will we be forced into a reactionary stance when confronting crises ranging from institutional re-prioritization, to funding cuts at the highest levels of society, to climate change? In this talk, I will reflect on starting a job at Stanford University focused on supporting non-English digital humanities, with the intention of retiring from it. What can one person do in a non-academic support staff role to have some impact on the future, and make that work worth the sacrifices inherent in balancing care for students, faculty, and other staff with care for one’s own family? This talk will offer an overview of some of the projects I’ve undertaken in the last year — including courses on non-English DH and project management and ethical collaboration, the Women and Gender Minorities in DH (DH-WoGeM) group, the Textile Makerspace, a Multilingual DH working group and “Around DH 2020”, and the Data-Sitters Club, in addition to trying to reframe the relationship between my role and faculty. It will also provide a frank assessment of what’s worked and what hasn’t as I’ve tried to find a path towards building at a more humane corner of my university, with an eye towards 2040.
