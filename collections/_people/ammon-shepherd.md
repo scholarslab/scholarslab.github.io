@@ -1,12 +1,12 @@
 ---
 department: None
-email: aes9h@virginia.edu
+email: ammon@virginia.edu
 first_name: Ammon
 last_name: Shepherd
 layout: people
 title: Ammon Shepherd
-position: Digital Humanities Developer
-short_bio: "Ammon is a Digital Humanities Developer and Makerspace Technologist at the Scholars' Lab where he codes projects, builds tools to fix old projects, does some systems administration, 3D prints and plays with Arduinos and Raspberry Pis."
+position: Makerspace Manager and Lead Research Technologist
+short_bio: "Ammon is the Makerspace Manager and Lead Research Technologist at the Scholars' Lab where he oversees the day-to-day running of the Makerspace, coordinates the work of the student Technologists, 3D prints, prototypes with Arduino and Raspberry Pi, sews, develops websites, teaches various workshops, and collaborates with everyone."
 slug: ammon-shepherd
 status: current
 twitter: mossiso
@@ -17,6 +17,6 @@ roles:
 - staff
 ---
 
-Ammon is a Digital Humanities Developer and Makerspace Technologist at the Scholars' Lab where he codes projects, builds tools to fix old projects, does some systems administration, 3D prints and plays with Arduinos and Raspberry Pis.
+Ammon is the Makerspace Manager and Lead Research Technologist at the Scholars' Lab where he oversees the day-to-day running of the Makerspace, coordinates the work of the student Technologists, 3D prints, prototypes with Arduino and Raspberry Pi, sews, develops websites, teaches various workshops, and collaborates with everyone.
 
-Ammon has BA's in History and German from ASU, an MA in History from GMU and is ABD PhD in History from GMU. His dissertation in rough draft is at http://nazitunnels.org/dissertation. Research interests include making in academia particularly in the humanities, 3D printing, Arduinos, Raspberry Pis, technology, aviation, religion. He is especially interested in using technology to do humanities research and presentation, often known as Digital Humanities, and creating a field of Physical Humanities that applies physical technology to the humanities.
+Ammon has BA's in History and German from Arizona State University, an MA in Modern European History from George Mason University and is ABD PhD in Modern European History from GMU. His dissertation in rough draft is at http://nazitunnels.org/dissertation. Research interests include making in academia particularly in the humanities, 3D printing, consumer and hacker electronics, especially using the Arduino and Raspberry Pi, technology, aviation, religion. He is especially interested in using technology to do humanities research and presentation, often known as Digital Humanities, and creating a field of Physical Humanities that applies physical technology to the humanities. Particularly, he wants everyone to feel empowered to change their circumstances and their society through learning technology, and to know that any topic is available for them to learn.

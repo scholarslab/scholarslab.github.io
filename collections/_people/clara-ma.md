@@ -14,7 +14,7 @@ website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2019-2020
+- Makerspace Technologist, 2019-current
 - PHD+ Liaison in Digital Humanities, 2019-2020
 ---
 Clara Ma is a Makerspace Technologist and PHD+ Liaison in Digital Humanities.

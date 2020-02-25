@@ -8,7 +8,7 @@ name: Margaret Furr
 position: None
 short_bio: 'Margaret Furr was a Makerspace Technologist.'
 slug: margaret-furr
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

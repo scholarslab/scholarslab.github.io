@@ -8,12 +8,12 @@ title: Nic Dalton
 position:
 short_bio:
 slug: nic-dalton
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2017-current
+- Makerspace Technologist, 2017-2018
 ---
 Nic Dalton is a Makerspace Technologist.

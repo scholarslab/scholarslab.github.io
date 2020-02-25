@@ -8,12 +8,12 @@ name: Grant Kim
 position: None
 short_bio: 'Grant Kim is a Makerspace Technologist.'
 slug: grant-kim
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2018-current
+- Makerspace Technologist, 2018-2019
 ---
 Grant Kim is a Makerspace Technologist.
