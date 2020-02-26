@@ -2,8 +2,8 @@
 author: amanda-visconti
 date: 2020-02-26
 layout: post
-slug: 
-title: ""
+slug: thinking-through-bookish-project-plans
+title: "Year of Blogging 2: thinking through book-ish project plans"
 categories:
 - Digital Humanities
 tags:
