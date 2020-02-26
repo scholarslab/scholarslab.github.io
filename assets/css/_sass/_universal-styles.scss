@@ -30,6 +30,7 @@
 		background-color: transparent;
 		-webkit-transition: background-color .3s;
 		transition: background-color .3s;
+		word-break: break-word;
 		&:hover, &:focus {
 			background-color: hsla(186,80%,70%,1);
 		}
