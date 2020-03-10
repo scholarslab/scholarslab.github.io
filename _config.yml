@@ -17,6 +17,7 @@ sass:
   sass_dir: assets/css/_sass
   style: compressed
 markdown: kramdown
+highlighter: rouge
 kramdown: 
   parse_block_html: true
   parse_span_html: true
