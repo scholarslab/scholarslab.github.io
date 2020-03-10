@@ -29,7 +29,7 @@ The details of how the site works are available on the [GitHub repo](https://git
 
 ## The Workflow (high level overview)
 
-![The workflow](/assets/post-media/webhook/webhook-scholarslab.jpg)
+![The workflow](/assets/post-media/webhook/webhook-scholarslab.png)
 
 When changes need to be made, 
 
@@ -41,20 +41,24 @@ When changes need to be made,
 6. If it is a commit to the master branch, then it runs a script to clone the repository and then syncs the changes to the website directory.
 7. Nginx, the web server, serves up the static website to the world.
 
+The rest of this post looks at those steps, with the exception of the first two steps, in more detail.
 
 # 1-2. The Change
 
-This process is pretty well layed out in the documentation already, and not so relevant to this post, so see [there](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md) on how this part is done.
+This process is pretty well layed out in the documentation already, and not so relevant to this post, so see [the documentation](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md) on how this part is done.
 
 
 # 3. The GitHub
+Once a change has been made on a person's local computer, they will submit that change to the GitHub repo, either as a commit or a pull request (basically a commit that needs to be approved first). If GitHub is set up beforehand, then whenever such a commit is made, GitHub will send some data to a URL of your choosing. 
+
 ![GitHub Webhooks page](/assets/post-media/webhook/github-webhooks-page.png)
-Once a change has been made on a person's local computer, they will submit that change to the GitHub repo, either as a commit or a pull request (basically a commit that needs to be approved first).
+To set up GitHub to use a webhook, go to the GitHub 'Settings' page for the repo. Click the 'Add webhook' button and enter the URL to which GitHub should send the data. We're using the JSON data format.
 
-You set up GitHub to use a webhook in the GitHub 'Settings' page for the repo. Just click the 'Add Webhook' button and enter the URL to which GitHub should send the data. We're using the JSON data format.
+Here is where we specify what the URL is. In this case, something like http://webhook.domainname.com/payload. The domain name is arbitrary, use what you have. Then we just add on the 'payload' directory for fun. If you browse to the domain name, http://webhook.domainname.com, you would only see some text (as explained later in the Flask App section), and if you browsed to the full webhook domain, http://webhook.domainname.com/payload, you would see nothing at all. The Flask app would give you an error stating that the page is not allowed with that method (it's looking for a POST method, not a GET).
+<br class="spacer">
+
 ![GitHub Webhook Settings page](/assets/post-media/webhook/github-webhook-settings.png)
-
-So now, every time a commit is made to this repo, the webhook will send a JSON data packet to the URL we assigned above. The JSON looks something like this, with lots of data about the commit just made. The hook, that we'll look at next, only cares about the first line containing the 'refs/heads/master'.
+So now, every time a commit is made to this repo, the webhook will send a JSON data packet to the URL we assigned above. The JSON looks something like this, with lots of data about the commit just made. The hook, that we'll look at next, only cares about the first line which contains 'refs/heads/master'.
 
 ```json
   {
@@ -72,20 +76,32 @@ So now, every time a commit is made to this repo, the webhook will send a JSON d
       "email": "scholarslab@virginia.edu",
       "login": "scholarslab",
       "id": 274801,
+  ...
 ```
+<br class="spacer">
 
 # 4-5. The Hook
 ![An F-14 Tomcat jet fighter assigned to the "Diamondbacks" of Fighter Squadron One Zero Two (VF-102) descends to make an arresting gear landing on the flight deck.](/assets/post-media/webhook/US_Navy_020312-N-7265D-005_F-14.jpg)
 (source: [https://commons.wikimedia.org/wiki/File:US_Navy_020312-N-7265D-005_F-14.jpg](https://commons.wikimedia.org/wiki/File:US_Navy_020312-N-7265D-005_F-14.jpg))
 
-The image above shows an F-14 Tomcat jet fighter assigned to the "Diamondbacks" of Fighter Squadron One Zero Two (VF-102) descends to make an arresting gear landing on the flight deck. The hook on the end of the jet catches a cable stretched across the landing deck of the carrier and stops the plane faster than it could do on it's own (see the red circle). A webhook works in a similar way. The server where the website is running (the webhook URL) is like the air craft carrier. If a data packet (the jet) has the right hook to catch the cable, then the server catches it.
+The image above shows an F-14 Tomcat making an arresting gear landing on the flight deck. The hook on the end of the jet catches a cable stretched across the landing deck of the carrier and stops the plane faster than it could do on it's own (see the red circle). A webhook works in a similar way. The server where the website is running (the webhook URL) is like the air craft carrier. If a data packet (the jet) has the right hook to catch the cable, then the server catches it.
 
+This section gives an overview of the Python Flask App, and the specifics of the routing, or the determining if the site needs to be updated or not. Technically, there are four other applications needed to get the webhook working correctly, but I'll discuss those later. Those programs are Nginx, Gunicorn, Supervisord, and Ruby.
 
+![Path of the webhook domain](/assets/post-media/webhook/path-of-domain.png)
+As the image above shows:
+1. The data is sent from GitHub.
+2. Nginx is the first point of contact. The data sent from GitHub goes first through Nginx. 
+3. Nginx routes the request to Gunicorn. 
+4. Gunicorn is running the Flask App, so passes the request through to the app.
+5. The Flask app checks if the commit was to the master branch. If so it runs the update script, which uses Ruby to run the Jekyll rebuild commands.
+6. Nginx serves the static website files.
+7. Supervisord is a program that keeps Gunicorn running. Ruby is needed to rebuild the Jekyll site.
 
 ### Python Flask App
 The Flask app is just a URL, really; there are no pages to serve or anything. It just listens for a specific URL, and then if the data matches what it's looking for, it runs a script which pulls down the latest files from the GitHub repo that was just updated. Then the app runs a Rake command to build the static files.
 
-You can create the Flask app anywhere. Convention is to put it in the /var/www/ directory, or where ever you have other websites on the server.
+The Flask app can live anywhere on the server. Convention is to put it in the /var/www/ directory, or where ever you have other websites on the server.
 
 The app consists of three files
 
@@ -151,7 +167,7 @@ The next line just sets a global variable that is used... one other place. But h
 ```python
   application = Flask(__name__)
 ```
-This line creates a flask object named 'application'. All the magic starts to happen.
+This line creates a Flask object named 'application'. All the magic starts to happen.
 <br class="spacer">
 
 ```python
@@ -180,7 +196,9 @@ The first line in this code tests for the path 'payload' in the URL, coming in a
 
 The first `if...else` statement checks that the method is a POST. 
 
-The second `if...else` statement checks the JSON data that was sent from GitHub and checks that it was a commit from the 'master' branch. If it is, then it opens a subshell process to a shell script. It does this so that the webhook is not dependant on the update script completing. It then returns a 202 code with the message 'Got it!'. You can see that return message in the GitHub website interface for the webhook (go to the webhook settings page and click on the webhook).
+The second `if...else` statement checks the JSON data that was sent from GitHub and checks that it was a commit from the 'master' branch. If it is, then it opens a subshell process to a shell script. It does this so that the webhook is not dependant on the update script completing. 
+
+It then returns a 202 code with the message 'Got it!'. You can see that return message in the GitHub website interface for the webhook (go to the webhook settings page and click on the webhook).
 
 ![GitHub Webhook Got It](/assets/post-media/webhook/github-webhook-got-it.png)
 
@@ -258,7 +276,7 @@ echo "Run rake task to build the site"
 /home/webhookuser/.rvm/gems/ruby-2.4.1/wrappers/bundle install
 /home/webhookuser/.rvm/gems/ruby-2.4.1/wrappers/rake publish
 ```
-These lines use jekyll to build the static website from the brand new version pulled down from GitHub.
+These lines use Jekyll to build the static website from the brand new version pulled down from GitHub.
 <br class="spacer">
 
 ```shell
@@ -271,6 +289,8 @@ This final line copies all of the static files from the _sites directory to the 
 # 7. The Server
 ### Nginx
 Nginx is the reverse proxy. It takes the initial request for the domain name, then passes it to Gunicorn (which runs the Flask app, which runs the shell script, which clones the repo and builds the site and syncs the files into the right directory).
+
+Setting up Nginx is a bit out of the scope of this tutorial. You can find some [instructions on their documentation page](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/).
 
 #### config file
 `/etc/nginx/conf.d/webhook.domainname.com.conf`
@@ -364,7 +384,7 @@ ex.[https://rvm.io/rvm/install](https://rvm.io/rvm/install). The user
 is required by Gunicorn to run the Flask app within a virtual
 Python environment. This user will also need to have Jekyll and Python 3 installed.
 
-The user can have it's home directory in the folder where the Flask app lives (`/var/www/webhook.doainname.com` or what have you), or in the normal `/home/webookuser` location. The update script uses the path to the home directory. 
+The user can have it's home directory in the folder where the Flask app lives (`/var/www/webhook.doainname.com` or what have you), or in the normal `/home/webhookuser` location. The update script uses the path to the home directory. 
 
 I've thrown a lot in here, so let's recap:
 1. A server user with no login, but a shell
@@ -378,9 +398,8 @@ It starts the Flask app. It is started and maintained (kept running) by supervis
 
 ### Setup
 Gunicorn should be installed in the python virtual environment of the special system user set up earlier (in the website directory).
-- Follow instructions like this to install python36u from the ius yum repo
-    - https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-centos-7
-- While logged in as the special system uer, change to the Flask app directory
+- Follow [instructions like this](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-centos-7) to install python36u from the ius yum repo
+- While logged in as the special system user, change to the Flask app directory
     - Create a virtual environment in the Flask app directory
     - `python3.6 -m venv .venv` (the .venv can be any name)
 - Activate the virtual environment
@@ -400,12 +419,14 @@ Supervisord is a service that keeps Gunicorn running, even with system reboots. 
 
 ### Setup
 On the VM with CentOS 6 that we have, yum installs a very outdated and retarded version of supervisord. So, first thing to do is remove it and install the latest version with easy_install
-    - `sudo yum remove supervisor`
-    - `sudo easy_install supervisor`
 
-- Create a config file. This runs a command that creates the config file (`echo_supervisord_conf` is the command, run as sudo).
-    - `sudo echo_supervisord_conf > /etc/supervisord.conf`
-- Create an init.d script for supervisord so it starts when the server starts. This is a pretty standard file, so I won't explain it line by line.
+- `sudo yum remove supervisor`
+- `sudo easy_install supervisor`
+
+Create a config file. This runs a command that creates the config file (`echo_supervisord_conf` is the command, run as sudo).
+- `sudo echo_supervisord_conf > /etc/supervisord.conf`
+
+Create an init.d script for supervisord so it starts when the server starts. This is a pretty standard file, so I won't explain it line by line.
 
 `/etc/init.d/supervisord`
 
@@ -516,3 +537,4 @@ The icons in the overview image are from the [Noun Project](https://thenounproje
 - x mark circle by Andri Graphic from the Noun Project
 - Server by jungsang from the Noun Project
 - Gear by Wilshon Athena from the Noun Project
+- Network by Gajah Mada Studio from the Noun Project
