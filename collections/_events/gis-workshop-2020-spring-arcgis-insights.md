@@ -6,12 +6,12 @@ end_date: '2020-03-17'
 end_time: '15:00:00'
 layout: events
 slug: gis-workshop-2020-spring-arcgis-insights
-title: 'Location Analytics with ArcGIS Insights'
-location: 'Clemons 407'
+title: 'Cancelled - Location Analytics with ArcGIS Insights'
+location: 'Class Cancelled'
 ---
 
-# Update 3/11/2019 - Workshop Canceled #
-**Following the University's decision to move all classes online, this workshop session has been canceled. We apologize for any inconvenience. If you'd like to discuss Location Analytics, please contact us at** [uvagis@virginia.edu](mailto:uvagis@virginia.edu). 
+# Update 3/11/2019 - Workshop Cancelled #
+**Following the University's decision to move all classes online, this workshop session has been cancelled. We apologize for any inconvenience. If you'd like to discuss Location Analytics, please contact us at** [uvagis@virginia.edu](mailto:uvagis@virginia.edu). 
 
 
 Is “location analytics” just a catchy buzzphrase? Probably, but while trendy terminology comes and goes, understanding your data is timeless. We’ll delve into this data analytics tool that allows you to explore your data, spatial and non-spatial, in an interactive workspace. 

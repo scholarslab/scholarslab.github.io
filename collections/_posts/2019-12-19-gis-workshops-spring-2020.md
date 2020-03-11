@@ -11,6 +11,9 @@ tags:
 - Digital Humanities
 ---
 
+# Update 3/11/2019 - Sessions Cancelled 
+## Following the University's decision to move all classes online, the final two workshop sessions have been cancelled. We apologize for any inconvenience.
+
 All sessions are one hour and assume participants have no previous experience using GIS. Sessions will be hands-on with step-by-step tutorials and expert assistance. All sessions will be taught on **Tuesdays from 2PM to 3PM in the Clemons Electronic Classroom, CLEM 407** (take a left as soon as you enter Clemons, the room is sort of behind the reference desk) and are free and open to the UVa and larger Charlottesville community. No registration, just show up!
 
 **January 21st - Introduction to ArcGIS Online**

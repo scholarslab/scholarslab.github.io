@@ -6,12 +6,12 @@ end_date: '2020-03-24'
 end_time: '15:00:00'
 layout: events
 slug: gis-workshop-2020-spring-data-collection
-title: 'Using ArcGIS Online Data Collection Tools'
-location: 'Clemons 407'
+title: 'Cancelled - Using ArcGIS Online Data Collection Tools'
+location: 'Class Cancelled'
 ---
 
-# Update 3/11/2019 - Workshop Canceled #
-**Following the University's decision to move all classes online, this workshop session has been canceled. We apologize for any inconvenience. If you'd like to discuss Survey123 and data collection, please contact us at** [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
+# Update 3/11/2019 - Workshop Cancelled #
+**Following the University's decision to move all classes online, this workshop session has been cancelled. We apologize for any inconvenience. If you'd like to discuss Survey123 and data collection, please contact us at** [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
 
 Whether you are crowd sourcing spatial data or performing survey work, having applications that automatically record location and upload data directly to a mapping application is incredibly useful.   
 
