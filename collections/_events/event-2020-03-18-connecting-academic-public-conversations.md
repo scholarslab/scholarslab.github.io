@@ -8,7 +8,7 @@ layout: events
 location: "Clemons 407"
 rsvp: 1
 slug: event-2020-03-18-connecting-academic-public-conversations
-title: "All Research is About Stories: Connecting Your Academic Work to Public Conversations - Cancelled"
+title: "Cancelled - All Research is About Stories: Connecting Your Academic Work to Public Conversations"
 ---
 **Due to travel guidance from UVA related to COVID-19, this event has been cancelled and will be rescheduled for fall 2020. Stay tuned for more details as they arise.**
 
