@@ -7,8 +7,9 @@ end_time: "13:00:00"
 layout: events
 location: "Makerspace"
 slug: workshop-2020-04-01-3d-printing-basics
-title: "3D Printing"
+title: "Cancelled - 3D Printing"
 ---
+**Due to guidance from UVA related to COVID-19, this event has been cancelled and will be rescheduled for later in 2020. Stay tuned for more details as they arise.**
 
 Are you curious about 3D printing but unsure where to start? Have you had a bit of experience with modeling, but you want to continue to explore?
 
