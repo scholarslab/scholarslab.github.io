@@ -7,8 +7,9 @@ end_time: "13:00:00"
 layout: events
 location: "Makerspace"
 slug: workshop-2020-03-18-basic-electronics-with-raspberry-pi
-title: "Raspberry Pi Electronics"
+title: "Cancelled - Raspberry Pi Electronics"
 ---
+**Due to guidance from UVA related to COVID-19, this event has been cancelled and will be rescheduled for later in 2020. Stay tuned for more details as they arise.**
 
 In this workshop we’ll learn the basics of electricity using a Raspberry Pi to control electronic circuits. No experience with electronics or Raspberry Pi 
 required for this workshop. Due to limitations of hardware, this workshop only has four open spots. 
