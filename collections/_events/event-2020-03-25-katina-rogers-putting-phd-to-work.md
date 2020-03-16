@@ -7,7 +7,7 @@ end_time: "11:30"
 layout: events
 location: "Scholars' Lab Public Space"
 slug: event-2020-03-25-katina-rogers-putting-phd-to-work
-title: "Putting the Humanities Ph.D. to Work: Cancelled"
+title: "Cancelled - Putting the Humanities Ph.D. to Work"
 ---
 **Due to travel guidance from UVA and CUNY related to COVID-19, this event has been cancelled and will be rescheduled for fall 2020. Stay tuned for more details as they arise.**
 
