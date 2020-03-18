@@ -1,15 +1,15 @@
 #alert-message {
-  padding: 4rem;
+  padding: 2rem;
   display:flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 70vh;
+  min-height: 5vh;
   background: $grape;
   color: white;
 
   p {
-    font-size: 2rem;
+    font-size: 1.25rem;
     margin:0;
   }
 
