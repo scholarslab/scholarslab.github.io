@@ -1,0 +1,19 @@
+#alert-message {
+  padding: 4rem;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  background: $grape;
+  color: white;
+
+  p {
+    font-size: 2rem;
+    margin:0;
+  }
+
+  a, :link, :visited {
+    color: white !important;
+  }
+}
