@@ -17,7 +17,7 @@ I have tried to exercise outside at least once per day the last few weeks. I mak
  
 In the last couple weeks, there have been a number of sidewalk chalk messages along my favorite running route. One of the messages was “be gentle with yourself.” Recently, I have found my mind—and my feet—returning to that piece of advice.
  
-A few weeks ago, our Praxis Team was struggling. The coronavirus pandemic had recently begun escalating rapidly in the United States and institutions like UVa were taking necessary precautions. These changes affected Praxis. We would no longer be able to meet in-person as a team. We would no longer be able to present our findings in May. Many of us were struggling to remain focused on remote work. How could we continue doing schoolwork when the world outside seemed to be crumbling? Frankly, what was the point?
+A few weeks ago, our Praxis Team was struggling. The coronavirus pandemic had recently begun escalating rapidly in the United States and institutions like UVa were taking necessary precautions. These changes affected Praxis. We would no longer be able to meet in-person as a team. We would no longer be able to publicly present our findings at an in-person gathering in May. Many of us were struggling to remain focused on remote work. How could we continue doing schoolwork when the world outside seemed to be crumbling? Frankly, what was the point?
  
 Thankfully, our outgoing project manager Chloe recognized how people were feeling. Near the beginning of our first Zoom meeting, Chloe encouraged us to have a short meeting and take the rest of the week off from Praxis. Chloe may not have used the same words as my sidewalk messenger, but she might as well have. Be gentle with yourselves, she seemed to be saying.
  
