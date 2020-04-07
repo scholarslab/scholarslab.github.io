@@ -48,14 +48,16 @@ Through production of both, we found that one of the limitations of 3D printing 
 
 
 
-A more detailed set of instructions can be found here: 
+**A more detailed set of instructions can be found here:** 
 
 Directions-to-Make-3D-Printed-Mask.pdf	
 
 We used this design, though there are others available:
+
 https://www.cnn.com/2020/03/23/us/coronavirus-3d-printed-medical-supplies-trnd/index.html 
 
-*More 3D printable PPE Equipment:*
+**More 3D printable PPE Equipment:**
+
 https://www.thingiverse.com/search?q=surgical+mask&type=things&sort=relevant
 
 https://www.sabinlab.com/operation-ppe
@@ -82,11 +84,11 @@ https://www.npr.org/local/305/2020/04/01/825217523/people-are-3-d-printing-perso
 - Fold the edges of your fabric tabs over 1/2 an inch or more and stitch 1/4 an inch from the edge to create a tunnel for the elastic. - Feed the elastic through the tunnel (a safety pin attached to one end will help with threading). Try on for size, and adjust the length as needed. Stitch or tie the ends of the elastic together.
 
 
-Cotton mask design and instructions were sourced from:
+*Cotton mask design and instructions were sourced from:*
 
 https://www.washingtonpost.com/health/2020/04/05/how-sew-your-own-fabric-mask/?arc404=true
 
-*Additional Designs/Video Tutorials for Sewable PPE:*
+**Additional Designs/Video Tutorials for Sewable PPE:**
 
 https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html
 
