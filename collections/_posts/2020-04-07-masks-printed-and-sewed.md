@@ -52,8 +52,6 @@ Through production of both, we found that one of the limitations of 3D printing 
 
 Directions-to-Make-3D-Printed-Mask.pdf	
 
-We used this design, though there are others available:
-
 https://www.cnn.com/2020/03/23/us/coronavirus-3d-printed-medical-supplies-trnd/index.html 
 
 **More 3D printable PPE Equipment:**
