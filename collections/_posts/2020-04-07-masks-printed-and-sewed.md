@@ -13,8 +13,7 @@ categories:
 - Makerspace
 - Student Research
 tags:
-- Sewing
-- Mask
+- MakerSpace
 ---
 
 
@@ -25,15 +24,20 @@ Through production of both, we found that one of the limitations of 3D printing 
 Both masks have their pros and cons, but the main thing we learned is that there are a wide-range of willing people and available ways to help with the shortage of PPE. Anyone with a 3D printer or a sewing machine should consider donating their time and resources.
 
 
-Instructions for 3D Printed Masks:
+**Instructions for 3D Printed Masks:**
 
 Print the two attached .stl files using PLA plastic
 Sand the edges of the print
 Fasten elastic string, straps, chord, etc. as ties
 Place filter on the inside of the mask and push the smaller printed part into the larger mask, securing the filter
-Photos of the final 3D printed project
 
+*Photos of the final 3D printed project:*
 
+![Top View](https://lh5.googleusercontent.com/3HJyRHVPqLkKSxJZjJ7U_pVXsz-2qLiPnhpv3clILvXdahWYzipeHOXzhQ1mUIrgqRokzlrOsLl7js5LSIQ4YnYn1SgjpE6G2_nuGxOe5VwbtkyDEJtSz-xRG7LQuhG6p2SK2zcH)
+![Side View](https://lh5.googleusercontent.com/l7SJwMt0Yxrbmr3_7r5sDms9VLBnBfG5GP_dIbE1HA9nu-_HqhFw4RmmyujyyzdBhqyoXCu8TTisK-DyMo6cDkPNG3AQTwDvuTjHxMBo)
+![Bottom View](https://lh5.googleusercontent.com/h70H2-C2DZnQUJTdP55HwZYm-i7pog_AL5WyswSHRHrD0U69qjI4nK_G0QyYQ_cqjBYPACOTgyAPyLtTnWdN3S3F_F2q5F3kbaAeiDiOcA2QTGmMbAp6g83qwOnE5tTe_Iapesiw)
+![Ventilator In](https://lh3.googleusercontent.com/38pPASh2N71Jv1DOhiTIMVs-y0-8VGPD2aIhUHsZTGzc_rDoh6N0rgwLXPZXGQOndm_bi6_OJGoqs6wKdM8xGoEgbaMSYTcEMl_OUKu9m5V9z8Ca9xFe06HiNm8pd_MZpVFa8lmk)
+![Coke Wearing the Mask](https://lh6.googleusercontent.com/a3C7KUXo3RZZYw7jeM-h1msYnuWEonaTL8fPpJYnS-7szivJRJfjU03vjuBSlJQETvnDElVPsvOxmDbAz0CYzh9xuc3vO1HO2diAu1gI8MJRgI6geq6zNzQ0F2x08LJ1TEwmUahz)
 
 
 
@@ -42,13 +46,16 @@ Used this design, though there are others available:
 https://www.cnn.com/2020/03/23/us/coronavirus-3d-printed-medical-supplies-trnd/index.html 
 More 3D printable PPE Equipment
 
-Instructions for Sewed Mask:
+**Instructions for Sewed Mask:**
 
-Materials Needed:
+*Materials Needed:*
 Two pieces of 12-inch-long and 7.25-inch-wide 100 percent cotton fabric (tight-weave cotton or quilted cotton). Using different colored fabrics would be useful to indicate inside and outside of the mask.
 One piece of 12-inch-long and 7.25-inch-wide interfacing or lightweight, breathable, stiff fabric.
 Fourteen inches of 1/8-inch flat elastic, stretch yarn or additional fabric for ties.
-Instructions:
+
+![Mask Template](https://lh5.googleusercontent.com/sHYrpu5eP56QR-nO5JEJn49ufWcBv0VLYqr8G-Naxsv_knAeWlSRIB--16XlKVc8xqscrs8I8F9GVV0-qICht4uYvyC5kfPyWugetWjIvf2SryzTSOwSN5tJmtPu2tm7AUvdYD1q)
+
+*Instructions:*
 Cut your pieces and mark all lines seen above.
 Fold fabric stack in half with the top layer on the inside so that you are stitching your triangular darts on the white/inside layer. Clip or pin together.
 Stitch one 1/2-inch dart on what will become the top of your mask — for your nose. Stitch another 3/4-inch dart on the other side for the chin. Note that these can be adjusted to be smaller or larger to fit the wearer.
@@ -60,7 +67,6 @@ Fold the edges of your fabric tabs over 1/2 an inch or more and stitch 1/4 an in
 
 
 Cotton mask design and instructions were sourced from:
-
 https://www.washingtonpost.com/health/2020/04/05/how-sew-your-own-fabric-mask/?arc404=true
 
 
