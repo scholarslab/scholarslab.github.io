@@ -24,7 +24,7 @@ Through production of both, we found that one of the limitations of 3D printing 
   Both masks have their pros and cons, but the main thing we learned is that there are a wide-range of willing people and available ways to help with the shortage of PPE. Anyone with a 3D printer or a sewing machine should consider donating their time and resources.
 
 
-**Instructions for 3D Printed Masks:**
+#Instructions for 3D Printed Masks:
 
 - Print the two attached .stl files using PLA plastic
 - Sand the edges of the print
@@ -46,16 +46,16 @@ Used this design, though there are others available:
 https://www.cnn.com/2020/03/23/us/coronavirus-3d-printed-medical-supplies-trnd/index.html 
 More 3D printable PPE Equipment
 
-**Instructions for Sewed Mask:**
+#Instructions for Sewed Mask:
 
-*Materials Needed:*
+**Materials Needed:**
 - Two pieces of 12-inch-long and 7.25-inch-wide 100 percent cotton fabric (tight-weave cotton or quilted cotton). Using different colored fabrics would be useful to indicate inside and outside of the mask.
 - One piece of 12-inch-long and 7.25-inch-wide interfacing or lightweight, breathable, stiff fabric.
 - Fourteen inches of 1/8-inch flat elastic, stretch yarn or additional fabric for ties.
 
 ![Mask Template](https://lh5.googleusercontent.com/sHYrpu5eP56QR-nO5JEJn49ufWcBv0VLYqr8G-Naxsv_knAeWlSRIB--16XlKVc8xqscrs8I8F9GVV0-qICht4uYvyC5kfPyWugetWjIvf2SryzTSOwSN5tJmtPu2tm7AUvdYD1q)
 
-*Instructions:*
+**Instructions:**
 - Cut your pieces and mark all lines seen above.
 - Fold fabric stack in half with the top layer on the inside so that you are stitching your triangular darts on the white/inside layer. Clip or pin together.
 - Stitch one 1/2-inch dart on what will become the top of your mask — for your nose. Stitch another 3/4-inch dart on the other side for the chin. Note that these can be adjusted to be smaller or larger to fit the wearer.
