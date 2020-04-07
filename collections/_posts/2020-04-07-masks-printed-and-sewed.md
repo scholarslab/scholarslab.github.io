@@ -19,8 +19,11 @@ tags:
 
   3D printing and makerspace technologies present a unique opportunity to address the nationwide shortage of personal protective equipment, which is why UVA’s engineering department and hospital are currently collaborating on the development of 3D printable PPE. In addition, many community members with 3D printers are ready to get going as soon as designs are officially approved. Our own Scholar’s Lab and its Technologists are among those working toward using their 3D printing and modeling capabilities for the cause.
 In an effort to test the effectiveness of 3D-printed PPE, we printed a mask frame and attached a HEPA filter (typically meant for HVAC purposes) to it. The mask is both wearable and comfortable (after some sanding!). Listed below are instructions for the build, which only took a few hours.
-  Besides being eager to print masks, area residents are sewing them as well. Rectangular-shaped pieces of fabric are being used to make inexpensive masks in much less time than it takes to create higher-grade, surgical masks. A downside to these masks, though, is they're more labor intensive than 3D masks: Someone has to be hands-on cutting and sewing; printing masks are mostly dependent on machines. So yes, the fabric masks might take less total time, but they require more worker time. Additionally, while fabric masks could cover more area on the face, they might not last as long, because they lack the respirator’s strength.   
+
+  Besides being eager to print masks, area residents are sewing them as well. Rectangular-shaped pieces of fabric are being used to make inexpensive masks in much less time than it takes to create higher-grade, surgical masks. A downside to these masks, though, is they're more labor intensive than 3D masks: Someone has to be hands-on cutting and sewing; printing masks are mostly dependent on machines. So yes, the fabric masks might take less total time, but they require more worker time. Additionally, while fabric masks could cover more area on the face, they might not last as long, because they lack the respirator’s strength. 
+  
 Through production of both, we found that one of the limitations of 3D printing is producing a strong enough mask seal. As you'll see in our instructions, we've come up with suggestions for making the seal stronger by applying self-adhesive gasket material to the inside edge of the 3D mask.  
+
   Both masks have their pros and cons, but the main thing we learned is that there are a wide-range of willing people and available ways to help with the shortage of PPE. Anyone with a 3D printer or a sewing machine should consider donating their time and resources.
 
 
@@ -34,20 +37,29 @@ Through production of both, we found that one of the limitations of 3D printing 
 *Photos of the final 3D printed project:*
 
 ![Top View](https://lh5.googleusercontent.com/3HJyRHVPqLkKSxJZjJ7U_pVXsz-2qLiPnhpv3clILvXdahWYzipeHOXzhQ1mUIrgqRokzlrOsLl7js5LSIQ4YnYn1SgjpE6G2_nuGxOe5VwbtkyDEJtSz-xRG7LQuhG6p2SK2zcH)
+
 ![Side View](https://lh5.googleusercontent.com/l7SJwMt0Yxrbmr3_7r5sDms9VLBnBfG5GP_dIbE1HA9nu-_HqhFw4RmmyujyyzdBhqyoXCu8TTisK-DyMo6cDkPNG3AQTwDvuTjHxMBo)
+
 ![Bottom View](https://lh5.googleusercontent.com/h70H2-C2DZnQUJTdP55HwZYm-i7pog_AL5WyswSHRHrD0U69qjI4nK_G0QyYQ_cqjBYPACOTgyAPyLtTnWdN3S3F_F2q5F3kbaAeiDiOcA2QTGmMbAp6g83qwOnE5tTe_Iapesiw)
+
 ![Ventilator In](https://lh3.googleusercontent.com/38pPASh2N71Jv1DOhiTIMVs-y0-8VGPD2aIhUHsZTGzc_rDoh6N0rgwLXPZXGQOndm_bi6_OJGoqs6wKdM8xGoEgbaMSYTcEMl_OUKu9m5V9z8Ca9xFe06HiNm8pd_MZpVFa8lmk)
+
 ![Coke Wearing the Mask](https://lh6.googleusercontent.com/a3C7KUXo3RZZYw7jeM-h1msYnuWEonaTL8fPpJYnS-7szivJRJfjU03vjuBSlJQETvnDElVPsvOxmDbAz0CYzh9xuc3vO1HO2diAu1gI8MJRgI6geq6zNzQ0F2x08LJ1TEwmUahz)
 
 
 
 A more detailed set of instructions can be found here: 
+
 Directions-to-Make-3D-Printed-Mask.pdf	
+
 We used this design, though there are others available:
 https://www.cnn.com/2020/03/23/us/coronavirus-3d-printed-medical-supplies-trnd/index.html 
+
 *More 3D printable PPE Equipment:*
 https://www.thingiverse.com/search?q=surgical+mask&type=things&sort=relevant
+
 https://www.sabinlab.com/operation-ppe
+
 https://www.npr.org/local/305/2020/04/01/825217523/people-are-3-d-printing-personal-protective-equipment-to-help-hospitals-with-shortage
 
 # Instructions for Sewed Mask:
@@ -71,12 +83,17 @@ https://www.npr.org/local/305/2020/04/01/825217523/people-are-3-d-printing-perso
 
 
 Cotton mask design and instructions were sourced from:
+
 https://www.washingtonpost.com/health/2020/04/05/how-sew-your-own-fabric-mask/?arc404=true
 
 *Additional Designs/Video Tutorials for Sewable PPE:*
+
 https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html
+
 https://www.cnet.com/how-to/make-a-face-mask-or-covering-at-home-to-help-prevent-coronavirus-spread-heres-how/
+
 https://www.youtube.com/watch?v=gOKP7bFSm1I
+
 https://www.youtube.com/watch?v=4FB--BOyTiU
 
 
