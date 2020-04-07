@@ -24,7 +24,7 @@ Through production of both, we found that one of the limitations of 3D printing 
   Both masks have their pros and cons, but the main thing we learned is that there are a wide-range of willing people and available ways to help with the shortage of PPE. Anyone with a 3D printer or a sewing machine should consider donating their time and resources.
 
 
-#Instructions for 3D Printed Masks:
+# Instructions for 3D Printed Masks:
 
 - Print the two attached .stl files using PLA plastic
 - Sand the edges of the print
@@ -41,12 +41,16 @@ Through production of both, we found that one of the limitations of 3D printing 
 
 
 
-A more detailed set of instructions can be found here: Directions-to-Make-3D-Printed-Mask.pdf	
-Used this design, though there are others available:
+A more detailed set of instructions can be found here: 
+Directions-to-Make-3D-Printed-Mask.pdf	
+We used this design, though there are others available:
 https://www.cnn.com/2020/03/23/us/coronavirus-3d-printed-medical-supplies-trnd/index.html 
-More 3D printable PPE Equipment
+*More 3D printable PPE Equipment:*
+https://www.thingiverse.com/search?q=surgical+mask&type=things&sort=relevant
+https://www.sabinlab.com/operation-ppe
+https://www.npr.org/local/305/2020/04/01/825217523/people-are-3-d-printing-personal-protective-equipment-to-help-hospitals-with-shortage
 
-#Instructions for Sewed Mask:
+# Instructions for Sewed Mask:
 
 **Materials Needed:**
 - Two pieces of 12-inch-long and 7.25-inch-wide 100 percent cotton fabric (tight-weave cotton or quilted cotton). Using different colored fabrics would be useful to indicate inside and outside of the mask.
@@ -68,5 +72,12 @@ More 3D printable PPE Equipment
 
 Cotton mask design and instructions were sourced from:
 https://www.washingtonpost.com/health/2020/04/05/how-sew-your-own-fabric-mask/?arc404=true
+
+*Additional Designs/Video Tutorials for Sewable PPE:*
+https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html
+https://www.cnet.com/how-to/make-a-face-mask-or-covering-at-home-to-help-prevent-coronavirus-spread-heres-how/
+https://www.youtube.com/watch?v=gOKP7bFSm1I
+https://www.youtube.com/watch?v=4FB--BOyTiU
+
 
 
