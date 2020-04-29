@@ -29,7 +29,7 @@ We are an internationally recognized scholarly [team](/people/), with strengths 
 - the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
 - GIS, mapping, & other spatial technologies
 - cultural heritage informatics (including photogrammetry, scanning, and modeling of artifacts and historic architecture; and exploring virtual reality and augmented reality approaches to this data)
-- pedagogy, training, & mentorship in the digital humanities and spatial technologies, practiced with our 40-55 formally supported students each year (plus additional, informal support of students via consultation & public programming)
+- pedagogy, training, & mentorship in the digital humanities and spatial technologies, practiced with our ~60 formally supported students each year (plus additional, informal support of students via consultation & public programming)
 - research & development (e.g. programming and design)
 - makerspaces and making as scholarship
 - librarianship (e.g. expert consultation for experimental scholarly projects)
@@ -55,7 +55,7 @@ We capture the Scholars' Lab's values and goals in our team-authored [charter](/
 
 3) **Community Lab**: In addition to the consultations and collaborations stated above, much of our time for in-depth work is spent on intentional community design...
 - Providing GIS support to the entire university  
-- Innovating the mentorship and teaching of experimental approaches to scholarship, both in the library and in the field (e.g. via our 40-55 formal student role opportunities each year)  
+- Innovating the mentorship and teaching of experimental approaches to scholarship, both in the library and in the field (e.g. via our ~60 formal student role opportunities each year)  
 - Piloting future Library and UVA initiatives like our Praxis Program (one of the historic UVA DH strengths behind the new DH graduate certificate)  
 - Bringing speakers to Grounds, hosting events, teaching workshops series; sponsoring student- and faculty-run events; weekly Open Office Hours that anyone can join  
 - A local newsletter publicizing opportunities (sign up on the front page of ScholarsLab.org)
@@ -86,7 +86,7 @@ If you're interested in what we do, please get in contact with us–in addition 
 
 Training the next generation of DH, GIS, and CHI scholars is an area where we are uniquely prominent in the DH community. You can read about some of our more developed collaborations with students in our [archive of past student projects](/work#student-projects-archive).
 
-Each year we make a structured, formal investment in the mentorship, training, and research support of around 50 student roles, including GIS Interns, Cultural Heritage Informatics Interns, Praxis Fellows, DH Fellows, LAMI Fellows, VR/CHI Documentation Interns, and Makerspace Technicians. We support further students via consultation, collaboration, events, and teaching. Please visit our [For Students](/for-students/) page to learn more about these formal opportunities.
+Each year we make a structured, formal investment in the mentorship, training, and research support of around 60 student roles, including GIS Interns, Cultural Heritage Informatics Interns, Praxis Fellows, DH Fellows, LAMI Fellows, VR/CHI Documentation Interns, and Makerspace Technicians. We support further students via consultation, collaboration, events, and teaching. Please visit our [For Students](/for-students/) page to learn more about these formal opportunities.
 
 ## How does the Lab fit into the UVA Library?
 The Scholars' Lab was founded in 2006. We’re part of <a href="http://library.virginia.edu">the UVA Library</a> and its mission to provide equitable access to knowledge and learning to everyone. Organizationally, we sit in the Library's Public Services unit led by AUL Dennis Clark. We frequently collaborate with our Library colleagues, including Preservation, Special Collections, Teaching & Learning, and subject liaison librarians. Although we're not just a DH center, we're also part of the [DH@UVA](https://dh.virginia.edu) ecosystem of teams and people doing digital humanities and cultural heritage work on Grounds.
