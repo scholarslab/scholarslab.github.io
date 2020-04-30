@@ -1,5 +1,5 @@
 ---
-author: janet-dunkelbarger
+author: janet-s-dunkelbarger
 date: 2019-09-24
 layout: post
 slug: very-good-place-to-start

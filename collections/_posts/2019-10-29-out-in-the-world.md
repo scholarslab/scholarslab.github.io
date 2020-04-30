@@ -1,5 +1,5 @@
 ---
-author: janet-dunkelbarger
+author: janet-s-dunkelbarger
 date: 2019-10-29
 layout: post
 slug: in-the-world
