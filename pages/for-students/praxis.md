@@ -5,7 +5,7 @@ permalink: /praxis-program-fellowships/
 nav: false
 ---
 
-**Applications are now open for the 2020-2021 cohort. Applications are due March 1st**. The Praxis call for applications is generally issued in the winter with a mid-spring deadline. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
+**Applications are closed for the 2020-2021 academic year**. The Praxis call for applications is generally issued in the winter with a mid-spring deadline. Please [subscribe](https://eepurl.com/fJ9J) to the Scholars' Lab newsletter or check back here for further information.
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2020-2021 cohort on **Wednesday, February 19th from 11AM-12PM in New Cabell Hall 236**.
 
@@ -36,5 +36,7 @@ The application process for Praxis is simple! You apply individually, and we ass
 * summary of what skills, interests, methods the applicant will bring to the Praxis Program;
 * summary of what the applicant hopes to gain as a Praxis Fellow;
 * and your availability on the days we've identified for sixty-minute group interviews - **March 23rd from 1-3pm or March 24th from 10-11**. We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
+
+The best Praxis applications are the ones that go beyond listing the skills and research one hopes to bring or take away from the experience. Instead, focusing on weaving those elements into a narrative of how the program connects to your life plans and how you, in turn, connect to the spirit of the program. 
 
 Questions about Praxis Fellowships and the application process should be directed to [Brandon Walsh](mailto:bmw9t@virginia.edu). Completed application materials can be uploaded through the [GSAS application portal](https://virginia.academicworks.com/opportunities/7434/applications/new). Please do consider this application to be part of a process - the beginning of a conversation about how we can work together. We highly encourage students to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) to express their interest and (once an application has been submitted) to let us know you have applied. Together we can begin to discuss how the Lab can be a part of your time here, with Praxis or otherwise.
