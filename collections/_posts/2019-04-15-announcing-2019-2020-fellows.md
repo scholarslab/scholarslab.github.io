@@ -20,7 +20,6 @@ We are delighted to welcome 6 team members to the 9th year of the Praxis Program
 *	Janet Dunkelbarger, Art and Architectural History
 *	Connor Kenaston, History
 *	Natasha Roth-Rowland, History
-*	Nicholas Scott, History
 *	Lauren Van Nest, Art and Architectural History
 
 Look forward to more details about the Praxis Program’s new project in the fall!
