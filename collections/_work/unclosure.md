@@ -21,6 +21,9 @@ collaborators:
   - name: Brandon Walsh
     slug: brandon-walsh
     role: Head of Student Programs
+  - name: Shane Lin
+    slug: shane-lin
+    role: Senior Developer
   - name: Scholars' Lab Staff
     slug:
     role: Stewards of the Praxis Program

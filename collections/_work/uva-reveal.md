@@ -21,6 +21,12 @@ collaborators:
   - name: Brandon Walsh
     slug: brandon-walsh
     role: Head of Student Programs
+  - name: Arin Bennett
+    slug: arin-bennett
+    role: 3D Visualization Specialist
+  - name: Scholars' Lab Staff
+    slug:
+    role: Stewards of the Praxis Program
 link: http://reveal.scholarslab.org/
 layout: work
 slug: uva-reveal

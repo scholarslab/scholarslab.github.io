@@ -2,7 +2,7 @@
 author: connor-kenaston
 date: 2020-04-01
 layout: post
-slug: Praxis-in-a-Pandemic
+slug: praxis-in-a-pandemic
 title: "Praxis in a Pandemic: Be Gentle with Yourself"
 categories:
 - Digital Humanities
