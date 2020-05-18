@@ -74,7 +74,8 @@ title: #{titlecase_title}
 thumb-img:
 banner-img:
 research-category:
-year: 2018
+start-year: 2017
+end-year: 2018
 ---
 Description of the project goes here")
   }

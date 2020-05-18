@@ -2,7 +2,7 @@
 author: leigh-miller
 date: 2019-11-13
 layout: post
-slug: Leigh-space-in-video-games
+slug: leigh-space-in-video-games
 title: "Space→Time+Materiality=Place"
 categories:
 - Digital Humanities

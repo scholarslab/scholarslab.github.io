@@ -82,7 +82,7 @@ Seriously, though, we're pleased to see our priorities reflected in the most fre
 
 ### Reflections on learning to code
 <ul>
-<li><a href="/blog/in-the-world/">"To be out in the world, to be free!"</a> by <a href="/people/janet-dunkelbarger/">Janet Dunkelbarger</a> </li>
+<li><a href="/blog/in-the-world/">"To be out in the world, to be free!"</a> by <a href="/people/janet-s-dunkelbarger/">Janet S. Dunkelbarger</a> </li>
 <li><a href="/blog/coding-and-GBBO/">"An Ode to Learning to Code, Imposter Syndrome, and the Great British Bake Off"</a> by <a href="/people/lauren-van-nest/">Lauren Van Nest</a> </li>
 <li><a href="/blog/very-good-place-to-start/">"A Very Good Place to Start"</a> by <a href="/people/janet-dunkelbarger/">Janet Dunkelbarger</a> </li>
 <li><a href="/blog/unlearn-what-you-have-learned/">"Unlearn What You Have Learned"</a> by <a href="/people/connor-kenaston/">Connor Kenaston</a> </li>
