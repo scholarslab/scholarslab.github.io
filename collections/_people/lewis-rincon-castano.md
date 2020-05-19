@@ -12,7 +12,7 @@ status: current
 twitter: None
 website: None
 people-category:
-- student
+- not_current
 roles:
 - LAMI Fellow, 2019
 ---

@@ -9,7 +9,7 @@ title: Natasha Roth-Rowland
 position: None
 short_bio: 'A short one-sentence bio.'
 slug: natasha-roth-rowland
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

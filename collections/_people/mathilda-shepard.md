@@ -8,7 +8,7 @@ title: Mathilda Shepard
 position:
 short_bio:
 slug: mathilda-shepard
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

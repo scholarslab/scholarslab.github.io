@@ -8,7 +8,7 @@ name: Nathan Carbajal
 position: None
 short_bio: 'Nathan Carbajal is a 2019 LAMI fellow.'
 slug: nathan-carbajal
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

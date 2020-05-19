@@ -8,7 +8,7 @@ name: Leigh Miller
 position: None
 short_bio: "Leigh Miller is a PhD student in the Architecture School's program in the Constructed Environment."
 slug: leigh-miller
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

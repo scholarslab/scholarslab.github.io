@@ -8,7 +8,7 @@ name: Alex Crosslen
 position: None
 short_bio: 'Alex Crosslen is a 2019 Book Conservation Intern in the UVA Library.'
 slug: alex-crosslen
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

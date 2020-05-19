@@ -8,7 +8,7 @@ name: Lauren Van Nest
 position: None
 short_bio: 'Lauren Van Nest is a PhD student in the Art and Architectural History department.'
 slug: lauren-van-nest
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

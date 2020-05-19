@@ -8,7 +8,7 @@ title: Jordan Buysse
 position:
 short_bio: ''
 slug: jordan-buysse
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

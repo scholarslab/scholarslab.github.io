@@ -8,7 +8,7 @@ name: Paris Godfrey
 position: None
 short_bio: 'Paris Godfrey is a 2019 LAMI Fellow.'
 slug: paris-godfrey
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

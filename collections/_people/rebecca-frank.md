@@ -8,7 +8,7 @@ name: Rebecca Frank
 position: None
 short_bio: 'Rebecca Frank is a PHD+ Liaison for the 2019-2020 academic year.'
 slug: rebecca-frank
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

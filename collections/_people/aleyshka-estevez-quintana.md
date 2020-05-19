@@ -8,7 +8,7 @@ name: Aleyshka Estevez Quintana
 position: None
 short_bio: 'Aleyshka Estevez Quintana is a 2019 LAMI Fellow.'
 slug: aleyshka-estevez-quintana
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
