@@ -1,6 +1,6 @@
 ---
 department: Architecture
-email:
+email: None
 first_name: Charity
 last_name: Revutin
 layout: people
@@ -9,12 +9,12 @@ position: CHI Intern
 short_bio:
 slug: charity-revutin
 status: not_current
-twitter:
-website:
+twitter: None
+website: None
 people-category:
 - student
 roles:
-- CHI Intern, Fall 2018
+- CHI Intern, Fall 2018 and Spring 2020
 ---
 
 Charity Revutin worked as a Cultural Heritage Informatics Intern with Will Rourk in Fall 2018.

@@ -14,7 +14,7 @@ website:
 people-category:
 - student
 roles:
-- CHI Intern, Spring 2019
+- CHI Intern, Spring 2019 and 2020
 ---
 
-Jake Gianni works as a Cultural Heritage Informatics Intern with Will Rourk in Spring 2019.
+Jake Gianni works as a Cultural Heritage Informatics Intern with Will Rourk in Spring 2019 and 2020.
