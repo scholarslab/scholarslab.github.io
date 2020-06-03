@@ -1,6 +1,6 @@
 ---
 author: scholars-lab
-date: 2020-05-26
+date: 2020-06-03
 layout: post
 slug: supporting-black-community
 title: "Scholars' Lab affirms our commitment to anti-racism"
