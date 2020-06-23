@@ -15,7 +15,7 @@ research-category: Internal Projects and Community Service
 start-year: (before 2018)
 end-year: current
 ---
-The Scholars' Lab maintains a large set of GIS data that can be accessed from public computers in Alderman Library's Scholars' Lab and from public computers in the School of Architecture.  On those computers you will find a GIS Data link on the desktop that provides access to a long list of worldwide and US base datasets along with Virginia locality and University of Virginia datasets.  The base data includes government and census boundary layers, road network layers, etc. 
+The Scholars' Lab maintains a large set of GIS data that can be accessed from public computers in the main library's (formerly known as Alderman) Scholars' Lab and from public computers in the School of Architecture.  On those computers you will find a GIS Data link on the desktop that provides access to a long list of worldwide and US base datasets along with Virginia locality and University of Virginia datasets.  The base data includes government and census boundary layers, road network layers, etc. 
 
 The Scholars' Lab is in the process of making most of the Library's GIS data available online at [http://gis.lib.virginia.edu](http://gis.lib.virginia.edu/).  Your search results will include options to access the datasets in many standard formats.
 

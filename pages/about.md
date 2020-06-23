@@ -104,9 +104,7 @@ In the process of working together, we've found that collaborators learn from on
 ## Where are you?
 Our [Hours & Spaces page](/hours-and-spaces/) has more information on our physical spaces as well as maps helping you navigate to us.
 
-We're in Alderman Library, which is on UVA's Central Grounds: just west of the Rotunda and chapel, and just east of Nameless Field and those tennis courts. We're the west wing of Alderman's fourth floor; because the main public entrance to Alderman opens onto the 4th floor, we're on the same floor you enter on. Turn left and walk past Greenberry's coffee shop and a water fountain to find the Scholars' Lab staff offices, then turn right to find our Common Area (including Makerspace and Open Office Hours area), Alderman 421 (electronic classroom), and Alderman 423 (smaller classroom).
-
-Our cultural heritage informatics experts, Will Rourk and Arin Bennett, are currently seated on the third floor of Clemons Library, which is just southwest of Alderman; if you're standing on the Alderman front steps facing south, turn right (you'll pass the Harrison-Small Special Collections building, which has rockers on a front porch), then walk past the Aviator Statue and the outdoor terrace to find Clemons' front doors. Inside Clemons, turn right to find the elevator/stairwell; after entering the 3rd floor, turn right and walk past the DML lab area to find their offices (Will and Arin request folks <a href="mailto:spatial@virginia.edu">email them</a> first for an appointment, as they are not always working from their desks). The Clemons VizLounge spaces is also on that third floor, but you'd reach it by turning left after entering the third floor.
+Due to the renovation of UVA's main library (formerly known as Alderman Library), Scholars' Lab has moved to the third floor of Clemons during the renovation. We'll be returning to the main library once renovation is completed.
 
 ## How do I contact you?
 For general inquiries, write to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).

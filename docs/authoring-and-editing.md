@@ -248,7 +248,7 @@ author: firstname-lastname
 end_date: '2018-11-19'
 end_time: '14:00:00'
 layout: events
-location: 'Alderman Library, Room 421'
+location: 'Clemons Library, Room 322'
 slug: code-workshop-basics-of-version-control-with-git-2
 start_date: 2018-11-19
 start_time: '13:00:00'
