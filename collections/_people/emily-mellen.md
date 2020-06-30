@@ -14,6 +14,7 @@ website: None
 people-category:
   - student
 roles:
+  - PCUAS Digital Archiving Assistant, 2020
   - Public History Intern, 2019
   - Praxis Fellow, 2018-2019
 ---

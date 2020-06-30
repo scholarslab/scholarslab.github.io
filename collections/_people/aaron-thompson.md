@@ -14,7 +14,7 @@ website: None
 people-category:
 - student
 roles:
-- LAMI Program Graduate Mentor, 2019
 - Praxis Fellow, 2020-2021
+- LAMI Program Graduate Mentor, 2019
 ---
 Aaron Thompson is a graduate mentor for the 2019 LAMI program.

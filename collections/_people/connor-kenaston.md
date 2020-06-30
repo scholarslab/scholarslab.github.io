@@ -14,6 +14,7 @@ website: None
 people-category:
 - student
 roles:
+- PCUAS Digital Archiving Assistant, 2020
 - Praxis Fellow, 2019-2020
 ---
 Connor Kenaston is a PhD student in the History department.
