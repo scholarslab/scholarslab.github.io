@@ -63,7 +63,7 @@ Here's [a statue post I created](https://raw.githubusercontent.com/Gorcenski/whe
 * the person/people that were honored by the statue  
 * when/how/why it was removed  
 
-7. To cite your sources, insert [^1] at the end of a sentence (change the 1 to whatever endnote number you're on). At the bottom of the text, write [^1] (or whatever number you're on) and link to your source (don't need to use any particular citation style, could just provide a web link).
+7. To cite your sources, insert **[^1]** at the end of a sentence (change the 1 to whatever endnote number you're on). At the bottom of the text, write **[^1]** (or whatever number you're on) and link to your source (don't need to use any particular citation style, could just provide a web link).
 Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/content/english/post/company-a-capitol-guards-little-rock-ar.md), as an example.
 
 8. You'll also need to edit the special info that goes at the top of your content file (aka front matter or post metadata), which you'll see in between two sets of '+++' symbols:  
@@ -82,7 +82,7 @@ Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheyca
 
 10. Create a pull request so someone knows to check your work and add it to the live website (see [this section](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md#move-your-writing-to-the-main-repo) from Scholars' Lab's blogging documentation, but ignore the parts about assigning reviewers)
 
-## End notes:
-[^1] [https://mobile.twitter.com/EmilyGorcenski/status/1270760701678796802](https://mobile.twitter.com/EmilyGorcenski/status/1270760701678796802)
+## Footnotes:
+[^1]: [https://mobile.twitter.com/EmilyGorcenski/status/1270760701678796802](https://mobile.twitter.com/EmilyGorcenski/status/1270760701678796802)
 
 Thanks to Emily Gorcenski for creating and running this project, and to the 20+ folks who have worked on the project. Thanks also to GitHub user @ligerzero459 for starting a post template, @jonahbron for comments on that template, and @shushugah for template improvements and reviewing/merging PRs. Finally, thanks to my colleague Rebecca for encouraging us to work on this project.
