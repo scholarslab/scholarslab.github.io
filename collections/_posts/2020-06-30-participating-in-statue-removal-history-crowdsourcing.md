@@ -82,7 +82,7 @@ Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheyca
 
 10. Create a pull request so someone knows to check your work and add it to the live website (see [this section](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md#move-your-writing-to-the-main-repo) from Scholars' Lab's blogging documentation, but ignore the parts about assigning reviewers)
 
+Thanks to Emily Gorcenski for creating and running this project, as well as structuring it so volunteers can contribute; and to the 20+ folks who have worked on the project. Thanks also to GitHub user @ligerzero459 for starting a post template, @jonahbron for comments on that template, and @shushugah for template improvements and reviewing/merging PRs. Finally, thanks to my colleague Rebecca for encouraging us to work on this project.
+
 ## Footnotes:
 [^1]: [https://mobile.twitter.com/EmilyGorcenski/status/1270760701678796802](https://mobile.twitter.com/EmilyGorcenski/status/1270760701678796802)
-
-Thanks to Emily Gorcenski for creating and running this project, and to the 20+ folks who have worked on the project. Thanks also to GitHub user @ligerzero459 for starting a post template, @jonahbron for comments on that template, and @shushugah for template improvements and reviewing/merging PRs. Finally, thanks to my colleague Rebecca for encouraging us to work on this project.
