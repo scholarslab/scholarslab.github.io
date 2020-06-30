@@ -67,16 +67,16 @@ Here's [a statue post I created](https://raw.githubusercontent.com/Gorcenski/whe
 Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/content/english/post/company-a-capitol-guards-little-rock-ar.md), as an example.
 
 8. You'll also need to edit the special info that goes at the top of your content file (aka front matter or post metadata), which you'll see in between two sets of '+++' symbols:  
-'howonlyimage = true' (leave as is)  
-'draft = false' (leave as is)  
-'image = "img/company-a-capitol-guards-little-rock-ar.jpeg"' (file name of main image associated with your post, if any)  
-'date = "2020-06-18:00:00-21:29"' (year/month-day and 24-hour-format time the statue is known or estimated to have come down during)  
-'title = "Memorial to Company A, Little Rock, AR, U.S.A."' (change to name of the statue you're writing about, city, state, country)  
-'photo_credits = "unknown"' (change to name of photographer if known)  
-'photo_source_url = https://www.waymarking.com/waymarks/WM979Y_Memorial_To_Company_A_Capital_Guards_Little_Rock_Arkansas' (web link to the photo you found)  
-'categories = ["confederates", "confederate soldiers"]' (change depending on what the statue you wrote about was; the options are: colonizers, confederates, racists, rapists, slavers, war-criminals; place inside quotes as demonstrated, and use a comma to separate if using multiple category names)  
-'tags = ["municipal-action"]' (change to the appropriate one of these options: municipal-action, renaming, direct-action, private-action)  
-'weight = 1' (leave as is)  
+* **howonlyimage = true** (leave as is)  
+* **draft = false** (leave as is)  
+* **image = "img/company-a-capitol-guards-little-rock-ar.jpeg"** (file name of main image associated with your post, if any)  
+* **date = "2020-06-18:00:00-21:29"** (year/month-day and 24-hour-format time the statue is known or estimated to have come down during)  
+* **title = "Memorial to Company A, Little Rock, AR, U.S.A."** (change to name of the statue you're writing about, city, state, country)  
+* **photo_credits = "unknown"** (change to name of photographer if known)  
+* **photo_source_url = https://www.waymarking.com/waymarks/WM979Y_Memorial_To_Company_A_Capital_Guards_Little_Rock_Arkansas** (web link to the photo you found)  
+* **categories = ["confederates", "confederate soldiers"]** (change depending on what the statue you wrote about was; the options are: colonizers, confederates, racists, rapists, slavers, war-criminals; place inside quotes as demonstrated, and use a comma to separate if using multiple category names)  
+* **tags = ["municipal-action"]** (change to the appropriate one of these options: municipal-action, renaming, direct-action, private-action)  
+* **weight = 1** (leave as is)  
 
 9. Upload any images to [https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img](https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img)
 
