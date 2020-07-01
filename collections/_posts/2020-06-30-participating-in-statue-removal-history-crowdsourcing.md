@@ -1,5 +1,5 @@
 ---
-author: scholars-lab
+author: amanda-visconti
 date: 2020-06-30
 layout: post
 slug: participating-in-statue-removal-history-crowdsourcing
