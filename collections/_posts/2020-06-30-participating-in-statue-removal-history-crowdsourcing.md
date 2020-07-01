@@ -11,7 +11,7 @@ categories:
 
 The ["When They Came Down"](https://whentheycamedown.com/) crowdsourced project, run by Emily Gorcenski, is a communal effort to document info in one place as various racist monuments are removed, renamed, and/or recontextualized: "a people's history of ejecting the stained legacy of colonialism, slavery, and genocide from our public spaces"[^1]. People are invited to contribute info about related actions to research and write up for the website, which runs from the GitHub repo [https://github.com/Gorcenski/whentheycamedown](https://github.com/Gorcenski/whentheycamedown).
 
-I decided to volunteer, and have added two statue pages so far ([1](https://github.com/Gorcenski/whentheycamedown/pull/102), [2](https://github.com/Gorcenski/whentheycamedown/pull/114)). Some colleagues took me up on my offer to support their adding content as well; below, I've shared the instructions I gave them, in case any readers would like to assist with this project as well (and/or get a better sense of how group Github-hosted sites work). Note that in addition to researching content and adding it to the site, translations of content between Spanish and English, and improved details and citations on existing writing appear useful to the project.
+I volunteered to add two statue pages ([1](https://github.com/Gorcenski/whentheycamedown/pull/102), [2](https://github.com/Gorcenski/whentheycamedown/pull/114)). Some colleagues took me up on my offer to support their adding content as well; below, I've shared the instructions I gave them, in case any readers would like to assist with this project as well (and/or get a better sense of how group Github-hosted sites work). Note that in addition to researching content and adding it to the site, translations of content between Spanish and English, and improved details and citations on existing writing appear useful to the project.
 
 I wrote these instructions at 2am, and regardless would love to make them better. Please let me know if you run into trouble following them, or have suggestions for making them better.
 
@@ -37,7 +37,7 @@ Here's [a statue post I created](https://raw.githubusercontent.com/Gorcenski/whe
 
 5. Also get the following to the person who'll be posting your work to GitHub:  
 * One or more photos related to the statue or its removal, with info on who to credit for taking the photo(s)  
-* The date the statue came down, and time range if known (e.g. if the article says it came down in the evening before a 7:30 council meeting, I'd guess 5pm-7:29pm, and maybe add a note to the text about why I estimated that so future folks know whether they can adjust that time if they have better info)  
+* The date and time the statue came down  
 * Whether the statue was removed by municipal action or citizens acting on their own
 
 ## Advanced volunteering: add content via GitHub yourself
@@ -62,6 +62,7 @@ Here's [a statue post I created](https://raw.githubusercontent.com/Gorcenski/whe
 * when and where it was created/established  
 * the person/people that were honored by the statue  
 * when/how/why it was removed  
+If you write more than a sentence or two, write the first 1-2 sentences, followed by **<!--more-->**, followed by the rest of your text (as with [this example](https://raw.githubusercontent.com/amandavisconti/whentheycamedown/farmville-va-%2399/content/english/post/confederate-soldier-farmville-va.md)) to separate a summary from further detail
 
 7. To cite your sources, insert **[^1]** at the end of a sentence (change the 1 to whatever endnote number you're on). At the bottom of the text, write **[^1]** (or whatever number you're on) and link to your source (don't need to use any particular citation style, could just provide a web link).
 Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/content/english/post/company-a-capitol-guards-little-rock-ar.md), as an example.
@@ -70,7 +71,7 @@ Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheyca
 * **howonlyimage = true** (leave as is)  
 * **draft = false** (leave as is)  
 * **image = "img/company-a-capitol-guards-little-rock-ar.jpeg"** (file name of main image associated with your post, if any)  
-* **date = "2020-06-18:00:00-21:29"** (year/month-day and 24-hour-format time the statue is known or estimated to have come down during)  
+* **date = "2020-06-18:00:00-21:29"** (year/month-day and 24-hour-format time the statue came down; the -04:00 is a timezone offset from UTC)  
 * **title = "Memorial to Company A, Little Rock, AR, U.S.A."** (change to name of the statue you're writing about, city, state, country)  
 * **photo_credits = "unknown"** (change to name of photographer if known)  
 * **photo_source_url = https://www.waymarking.com/waymarks/WM979Y_Memorial_To_Company_A_Capital_Guards_Little_Rock_Arkansas** (web link to the photo you found)  
@@ -78,11 +79,11 @@ Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheyca
 * **tags = ["municipal-action"]** (change to the appropriate one of these options: municipal-action, renaming, direct-action, private-action)  
 * **weight = 1** (leave as is)  
 
-9. Upload any images to [https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img](https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img)
+9. Upload any images to [https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img](https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img). To embed images in the post content; use the following syntax, which is a relative link to a file stored in the repo's /img folder: **{{< figure src="../../img/confederate-soldier-farmville-va2.jpg" title="photo by Alexa Massey">}}**
 
 10. Create a pull request so someone knows to check your work and add it to the live website (see [this section](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md#move-your-writing-to-the-main-repo) from Scholars' Lab's blogging documentation, but ignore the parts about assigning reviewers)
 
-Thanks to Emily Gorcenski for creating and running this project, as well as structuring it so volunteers can contribute; and to the 20+ folks who have worked on the project. Thanks also to GitHub user @ligerzero459 for starting a post template, @jonahbron for comments on that template, and @shushugah for template improvements and reviewing/merging PRs. Finally, thanks to my colleague Rebecca for encouraging us to work on this project.
+Thanks to Emily Gorcenski for creating and running this project, structuring it so volunteers can contribute, and advising on how to work with the template; and to the 20+ folks who have worked on the project. Thanks also to GitHub user @ligerzero459 for starting a post template, @jonahbron for comments on that template, and @shushugah for template improvements and reviewing/merging PRs. Finally, thanks to my colleague Rebecca for encouraging us to work on this project.
 
 ## Footnotes:
 [^1]: [https://mobile.twitter.com/EmilyGorcenski/status/1270760701678796802](https://mobile.twitter.com/EmilyGorcenski/status/1270760701678796802)
