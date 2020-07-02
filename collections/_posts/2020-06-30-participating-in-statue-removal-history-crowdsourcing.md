@@ -31,7 +31,7 @@ If you haven't used GitHub before, you might want to start (or only ever partici
 * when and where it was created/established  
 * the person/people that were honored by the statue  
 * when/how/why it was removed  
-To cite your sources, insert [^1] at the end of a sentence (change the 1 to whatever endnote number you're on). At the bottom of the text, write [^1] (or whatever number you're on) and link to your source (don't need to use any particular citation style, could just provide a web link).
+To cite your sources, insert \[^1\] at the end of a sentence (change the 1 to whatever endnote number you're on). At the bottom of the text, write \[^1\] (or whatever number you're on) and link to your source (don't need to use any particular citation style, could just provide a web link).
 
 Here's [a statue post I created](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/content/english/post/company-a-capitol-guards-little-rock-ar.md), as an example. Ignore the weird text between the '+++' symbols at the top.
 
@@ -64,7 +64,7 @@ Here's [a statue post I created](https://raw.githubusercontent.com/Gorcenski/whe
 * when/how/why it was removed  
 If you write more than a sentence or two, write the first 1-2 sentences, followed by **<!--more-->**, followed by the rest of your text (as with [this example](https://raw.githubusercontent.com/amandavisconti/whentheycamedown/farmville-va-%2399/content/english/post/confederate-soldier-farmville-va.md)) to separate a summary from further detail
 
-7. To cite your sources, insert **[^1]** at the end of a sentence (change the 1 to whatever endnote number you're on). At the bottom of the text, write **[^1]** (or whatever number you're on) and link to your source (don't need to use any particular citation style, could just provide a web link).
+7. To cite your sources, insert **\[^1\]** at the end of a sentence (change the 1 to whatever endnote number you're on). At the bottom of the text, write **\[^1\]** (or whatever number you're on) and link to your source (don't need to use any particular citation style, could just provide a web link).
 Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/content/english/post/company-a-capitol-guards-little-rock-ar.md), as an example.
 
 8. You'll also need to edit the special info that goes at the top of your content file (aka front matter or post metadata), which you'll see in between two sets of '+++' symbols:  
@@ -79,8 +79,10 @@ Here's a [post I created](https://raw.githubusercontent.com/Gorcenski/whentheyca
 * **tags = ["municipal-action"]** (change to the appropriate one of these options: municipal-action, renaming, direct-action, private-action)  
 * **weight = 1** (leave as is)  
 
-9. Upload any images to [https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img](https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img). To embed images in the post content; use the following syntax, which is a relative link to a file stored in the repo's /img folder: **{{< figure src="../../img/confederate-soldier-farmville-va2.jpg" title="photo by Alexa Massey">}}**
-
+9. Upload any images to [https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img](https://github.com/Gorcenski/whentheycamedown/tree/trunk/static/img). To embed images in the post content; use the following syntax, which is a relative link to a file stored in the repo's /img folder: 
+{% raw %}
+  {{< figure src="../../img/confederate-soldier-farmville-va2.jpg" title="photo by Alexa Massey">}}
+{% endraw %}
 10. Create a pull request so someone knows to check your work and add it to the live website (see [this section](https://github.com/scholarslab/scholarslab.org/blob/master/docs/authoring-and-editing.md#move-your-writing-to-the-main-repo) from Scholars' Lab's blogging documentation, but ignore the parts about assigning reviewers)
 
 Thanks to Emily Gorcenski for creating and running this project, structuring it so volunteers can contribute, and advising on how to work with the template; and to the 20+ folks who have worked on the project. Thanks also to GitHub user @ligerzero459 for starting a post template, @jonahbron for comments on that template, and @shushugah for template improvements and reviewing/merging PRs. Finally, thanks to my colleague Rebecca for encouraging us to work on this project.
