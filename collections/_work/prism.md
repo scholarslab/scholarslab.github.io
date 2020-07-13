@@ -50,4 +50,7 @@ start-year: 2011
 end-year: 2013
 ---
 
+**Note: As of summer 2020, Prism is no longer active as a usable tool. We apologize for any inconvenience. Stay tuned for a static version of the site, unusable in the classroom, but meant for arcival purposes.**
+
+
 "Prism is a tool for collaborative interpretation of texts. Imagined as the digital instantiation of a vaporware game that was played in the Scholars' Lab and SpecLab, the site allows users to upload documents for a group to interpret along various interpretive axes. The tool has seen significant use in K-12 classrooms."
