@@ -57,6 +57,10 @@ No formal call for this external program, but graduate students interested in se
 
 UVA departments determine language proficiency requirements for their students. Graduate students affiliated with the Scholars' Lab have at times obtained departmental approval to satisfy a component of their language proficiency requirements by demonstrating proficiency in a digital humanities programming language. If your faculty advisor and DGS endorse this concept based on the relevance of programming to your proposed research, please contact our Head of Student Programs to discuss our role in designing a proficiency exam that is appropriate for your research and meets the standards of your department.
 
+## Digital Humanities Graduate Certificate
+
+The University of Virginia offers a twelve-credit graduate certificate in digital humanities. More information about the certificate and information about how to apply, including application dates, can be found on the [certificate website](https://dh.virginia.edu/certificate). Many Scholars' Lab students go on to receive the certificate, and the Lab is available for consultations pertaining to certificate work. 
+
 ## Professional Development
 No deadline or formal call! Delivered on an ongoing, by-request basis.
 
