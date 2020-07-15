@@ -39,7 +39,7 @@ collaborators:
 - name: Scholars' Lab Staff
   slug:
   role: Stewards of the Praxis Program
-link: http://prism.scholarslab.org/
+link: https://scholarslab.github.io/prism-static/
 layout: work
 slug: prism
 title: Prism
@@ -50,7 +50,11 @@ start-year: 2011
 end-year: 2013
 ---
 
-**Note: As of summer 2020, Prism is no longer active as a usable tool. We apologize for any inconvenience. Stay tuned for a static version of the site, unusable in the classroom, but meant for arcival purposes.**
+**Note: As of summer 2020, Prism is no longer active as a usable tool. We apologize for any inconvenience. A static site meant to convey the use, intervention of Prism, and some ideas for pedagogical alternatives can be found [here](https://scholarslab.github.io/prism-static/).**
 
 
-"Prism is a tool for collaborative interpretation of texts. Imagined as the digital instantiation of a vaporware game that was played in the Scholars' Lab and SpecLab, the site allows users to upload documents for a group to interpret along various interpretive axes. The tool has seen significant use in K-12 classrooms."
+Prism was a tool for collaborative interpretation of texts. Imagined as the digital instantiation of a vaporware game that was played in the Scholars' Lab and SpecLab, the site allows users to upload documents for a group to interpret along various interpretive axes. The tool has seen significant use in K-12 classrooms.
+
+**Publications**
+
+* "[Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking](https://doi.org/10.1093/llc/fqu030),” Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; Literary and Linguistic Computing 2014; https://doi.org/10.1093/llc/fqu030.
