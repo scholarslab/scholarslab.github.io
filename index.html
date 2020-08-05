@@ -17,7 +17,7 @@ title: Home
 		</div>
 		<div class="home-landing__hero-text">
 			<div class="home-hero__description">
-				<h3>What We Do</h3>
+				<h3>Who We Are</h3>
 				<p>We're <a href="http://library.virginia.edu">the UVA Library</a>'s community lab for the practice of experimental scholarship in <a href="http://scholarslab.org/about/#what-academic-fields-do-you-support">all fields</a>, informed by digital humanities, spatial technologies, & cultural heritage thinking.</p>
 				<p>We offer mentoring, collaboration, & a safe space for anyone curious about learning to push disciplinary & methodological boundaries through new approaches.</p>
 				<p>We're foremost a space for learning together—about anything—by trying stuff. Think of us as friends and colleagues who can help you teach yourself new ways of approaching your interests. We'd love you to be part of our community!</p>
@@ -65,8 +65,9 @@ title: Home
 
 			<div class="home-contact__wrapper">
 				<div class="home-contact__content">
-					<p>Curious? Please get in touch with us&mdash;absolutely no prior experience or fully formed ideas needed!</p>
-					<p>Email us at <a href="mailto:scholarslab@virginia.edu">ScholarsLab@Virginia.edu</a> with questions, or if you already know you want to meet with us. Sign up for our newsletter to hear about events and opportunities!</p>
+					<p>We’ve moved! The Scholars’ Lab offices and Makerspace are now located in <a href="https://www.library.virginia.edu/map#clemons">Clemons</a> Library (on 3rd floor in the Robertson Media Center).  We are working remotely during Fall 2020, but we look forward to getting back to Clemons when we can. It will be our home away from home until the completion of the <a href="https://www.library.virginia.edu/renovation">renovation of the main library</a>, scheduled for 2023. </p>
+					<p>Curious? Please get in touch—absolutely no prior experience or fully formed ideas needed!</p>
+					<p>Email us at <a href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a> with questions, or to set up a time to meet. Sign up for our newsletter to hear about events and opportunities!</p>
 				</div>
 
 				<div class="home-contact__newsletter">
@@ -104,8 +105,22 @@ title: Home
 
 		<!-- find us: -->
 		<section class="home__find-us">
-			<div class="home-find__title"><a href="/hours-and-spaces">Find us</a></div>
+			<div class="home-find__title"><a href="/hours-and-spaces">What We Do</a></div>
+			<p>Our staff has particular strengths in:</p>
+			<ul>
+				<li>digital humanities </li>
+				<li>web design/development instruction </li>
+				<li>collaborative project management</li>
+				<li>digital pedagogy</li>
+				<li>GIS/mapping & analysis</li>
+				<li>cultural heritage informatics</li>
+				<li>3D laser scanning & photogrammetry</li>
+				<li>3D printing, making, & electronics </li>
+				<li>and virtual/augmented reality. </li>
+			</ul>
 			<div class="home-find__content">
+
+				{% comment %}
 				<div class="home-find__diagram">
 					<img src="{{ 'assets/img/svg/alderman-floorplan.svg' | relative_url }}" height="400px" alt="Floor diagram of Scholars' Lab spaces" title="Alderman Floorplan - Floor 4">
 					{% include floorplan-markup.html %}
@@ -118,8 +133,9 @@ title: Home
 					<li data-fill="violet" data-name="office-hrs"><span>Open Office Hours</span></li>
 					<li data-fill="teal" data-name="offices"><span>Staff offices</span></li>
 				</ul>
+				{% endcomment %}
 			</div>
-			<p class="home-hours__cta"><a href="/hours-and-spaces/" aria-label="hours and spaces page">All hours &amp; spaces</a></p>
+			<p class="home-hours__cta"><a href="/work" aria-label="hours and spaces page">Our Work</a></p>
 		</section>
 
 		<!-- events: -->
@@ -127,6 +143,9 @@ title: Home
 			<div class="home-events__title"><a href="/events">Events</a></div>
 			<!-- !! NB: events description is commented out; feel free to un-comment out if we want to use it -->
 			<!--div class="home-events__description">One-time or regular, hands-on workshops and discussion-rich symposia, a quick intro or community group&mdash;whatever your flavor, we probably have an event for it. Upcoming events below, or find the full list <a href="/events" aria-label="Events page">here</a>.</div-->
+			
+			<p>We host a wide array of public events and speakers. We teach workshops on tools and methods that enhance your courses and research. However, this Fall, all our events will be virtual. Visit <a href="https://scholarslab.lib.virginia.edu/events">our Events Page</a> to see our complete calendar. </p>
+
             {% assign events = "" | split: "" %}
             {% assign allevents = site.events | sort: 'start_date' %}
             {% assign today = site.time | date: '%Y%m%d' | plus:0 %}
@@ -151,7 +170,10 @@ title: Home
 				</div>
 				{% endfor %}
 <!-- open office hours: -->
+
+{% comment %}
 {% include open-office-hours.html %}
+{% endcomment %}
 			<div class="home-events__cta"><a href="/events">All events</a></div>
 		</section>
 
