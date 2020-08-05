@@ -34,7 +34,7 @@ We are an internationally recognized scholarly [team](/people/), with strengths 
 - makerspaces and making as scholarship
 - librarianship (e.g. expert consultation for experimental scholarly projects)
 
-The SLab hosts [events](/events/) (like workshops and a popular lecture series) in our [library spaces](/hours-and-spaces), and helps to train and mentor the next generation of digital humanities scholar-practitioners through our [Graduate Fellowships in Digital Humanities](/for-students) and innovative [Praxis Program](http://praxis.scholarslab.org/). We are a founding member of [centerNet](http://digitalhumanities.org/centernet/), a worldwide alliance of digital humanities centers, and of the international [Praxis Network](http://praxis-network.org/), which takes its name from our fellowship program here at UVa.
+The SLab hosts [events](/events/) (like workshops and a popular lecture series) in our library spaces, and helps to train and mentor the next generation of digital humanities scholar-practitioners through our [Graduate Fellowships in Digital Humanities](/for-students) and innovative [Praxis Program](http://praxis.scholarslab.org/). We are a founding member of [centerNet](http://digitalhumanities.org/centernet/), a worldwide alliance of digital humanities centers, and of the international [Praxis Network](http://praxis-network.org/), which takes its name from our fellowship program here at UVa.
 
 We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter/).
 
@@ -102,7 +102,6 @@ We express this in [our charter](/charter/) as "We build up people and practices
 In the process of working together, we've found that collaborators learn from one another; students benefit from training, practice, and mentoring; and faculty discover new directions in their teaching and research. "People over projects" means that we care more about such outcomes, than about whether a formal "project" happens.
 
 ## Where are you?
-Our [Hours & Spaces page](/hours-and-spaces/) has more information on our physical spaces as well as maps helping you navigate to us.
 
 Due to the renovation of UVA's main library (formerly known as Alderman Library), Scholars' Lab has moved to the third floor of Clemons during the renovation. We'll be returning to the main library once renovation is completed.
 
