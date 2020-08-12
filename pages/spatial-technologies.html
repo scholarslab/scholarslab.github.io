@@ -76,8 +76,8 @@ order: 6
 		  	    <li>Hours: Weekdays 9-5 in general, but <a href="mailto: slabgis@virginia.edu">email the GIS folks</a> in advance if you need us to be there</li>
 				<h3>Cultural heritage informatics staff availability</h3>
 				<li>Staff: Will Rourk and Arin Bennett</li>
+				<li>Office: Clemons 3rd Floor (DML wing)</li>				
 				<li>Hours: by appointment</li>
-				<li>Office: Clemons 3rd Floor (DML wing)</li>
 			</ul>
 		</div>
 	</div>
@@ -112,21 +112,23 @@ order: 6
 		  <!-- 3D Printing -->
 		  <ul class="maker-list__3d">
 			  <span><a href="https://guides.lib.virginia.edu/gis/software">GIS software & extensions</a></span>
-		    <li>ArcMap</li>
-		    <li>ArcGIS Pro</li>
+		    <li><a href="https://guides.lib.virginia.edu/gis/software#s-lib-ctab-20595149-1">ArcGIS Pro</a></li>
+		    <li>ArcMap</li>			
 		    <li>ArcGIS Server</li>
-		    <li>Drone2Map</li>
+		    <li>Drone2Map*</li>
 			<li>City Engine*</li>
-		    <li><a href="https://guides.lib.virginia.edu/gis/data#s-lib-ctab-20595222-4">Business Analyst</a></li>
+		    <li>Business Analyst</li>
 		    <li>Network Analyst</li>
 		    <li>Spatial Analyst</li>
 		  </ul>
 		  <!-- VR/AR/3D -->
 		  <ul class="maker-list__vr-ar">
 		    <span><a href="https://guides.lib.virginia.edu/gis/software#s-lib-ctab-20595149-3">ArcGIS Online Enterprise Access</a></span>
-            <li>Story maps</li>
+            <li>Story Maps</li>
             <li>Web AppBuilder</li>
             <li>Business Analyst Online</li>
+			<li>Community Analyst Online</li>
+			<li>ArcGIS Insights</li>
 		  </ul>
 		  <!-- Physical Computing -->
 		  <ul class="maker-list__physical">
@@ -138,7 +140,7 @@ order: 6
 		  <!-- Textiles, Wearables - Learn how to take fashion into the future. -->
 		  <ul class="maker-list__wearables">
 			  <span><a href="https://guides.lib.virginia.edu/gis/data">GIS data</a></span>
-		    <li>Shared Drive</li>
+		    <li><a href="https://guides.lib.virginia.edu/gis/data#s-lib-ctab-20595222-0">Shared Drive</a></li>
 		    <li><a href="http://data-uvalibrary.opendata.arcgis.com/">Open Data Portal</a></li>
 		  </ul>
 		  <!-- Textiles, Wearables - Learn how to take fashion into the future. -->
@@ -190,7 +192,7 @@ order: 6
 		<ul class="spatial-people__list">
 			<!-- use Liquid here: -->
 			{% for person in site.people %}
-			{% if person.title == 'Will Rourk' or person.title == 'Arin Bennett' or person.title == 'Chris Gist' or person.title == 'Drew MacQueen' or person.title == 'Cho Jiang' %}
+			{% if person.title == 'Will Rourk' or person.title == 'Arin Bennett' or person.title == 'Chris Gist' or person.title == 'Drew MacQueen' %}
 			<li class="spatial-people__person">
 				<div class="spatial-person__img"><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.title }}"></div>
 				<div class="spatial-person__name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.title }}</a></div> <!-- link to their page -->
