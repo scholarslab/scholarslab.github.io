@@ -14,4 +14,4 @@ Would you like to see historical maps overlaid on modern aerial photography?  Do
 
 All sessions are one hour and assume participants have no previous experience using GIS.  Sessions will be hands-on demonstrations with step-by-step tutorials and expert assistance.  All sessions will be taught on **Wednesdays from 10AM to 11AM** and are free and open to the UVa and larger Charlottesville community. Late-comers are welcome and encouraged, registration is open until 1 hour before class.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop2
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop2](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop2)

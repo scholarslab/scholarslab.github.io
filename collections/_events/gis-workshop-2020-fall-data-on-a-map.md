@@ -14,4 +14,4 @@ Do you have a list of Lat/Lon coordinates or addresses you would like to see on 
 
 All sessions are one hour and assume participants have no previous experience using GIS.  Sessions will be hands-on demonstrations with step-by-step tutorials and expert assistance.  All sessions will be taught on **Wednesdays from 10AM to 11AM** and are free and open to the UVa and larger Charlottesville community. Late-comers are welcome and encouraged, registration is open until 1 hour before class.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop3
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop3](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop3)
