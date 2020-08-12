@@ -30,46 +30,46 @@ All sessions are one hour and assume participants have no previous experience us
 
 Here’s your chance to get started with geographic information systems software in a friendly, jargon-free environment.  This workshop introduces the skills you need to make your own maps.  Along the way you’ll get a taste of Earth’s most popular GIS software (ArcGIS) and a gentle introduction to cartography. You’ll leave with your own cartographic masterpieces and tips for learning more in your pursuit of mappiness at UVa.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop1
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop1](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop1)
 
 **September 16th - Putting Old maps and Aerial Photos on Your Map: Georeferencing in ArcGIS Pro**
 
 Would you like to see historical maps overlaid on modern aerial photography?  Do you need to extract features of a map for use in GIS?  Georeferencing is the first step.  We will show you how to take a scan of a paper map and align in it in ArcGIS.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop2
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop2](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop2)
 
 **September 23rd - Getting Your Data on a Map**
 
 Do you have a list of Lat/Lon coordinates or addresses you would like to see on a map?  We will show you how to do just that.  Through ArcGIS’s Add XY data tool and Geocoding (address matching), it is easy to take your tabular lists and generate points on a map.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop3
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop3](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop3)
 
 **September 30th - Points on Your Map: Street Addresses and More Spatial Things**
 
 Do you have a list of street addresses crying out to be mapped?  Have a list of zip codes or census tracts you wish to associate with other data?  We’ll start with addresses and other things spatial and end with points on a map, ready for visualization and analysis.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop4
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop4](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop4)
 
 **October 7th - Taking Control of Your Spatial Data: Editing in ArcGIS Pro**
 
 Until we perfect that magic “extract all those lines from this paper map” button we’re stuck using editor tools to get that job done.  If you’re lucky, someone else has done the work to create your points, lines, and polygons but maybe they need your magic touch to make them better.  This session shows you how to create and modify vector features in ArcGIS Pro, the world’s most popular geographic information systems software.  We’ll explore tools to create new points, lines, and polygons and to edit existing datasets.  
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop5
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop5](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop5)
 
 **October 14th - Easy Demographics**
 
 Need to make a quick demographic map?  This workshop will show you how easily navigate Social Explorer.  This powerful online application makes it easy to create maps with contemporary and historic census data and religious information.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop6
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop6](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop6)
 
 **October 21st - Introduction to ArcGIS Online**
 
 With ArcGIS Online, you can use and create maps and scenes, access ready-to-use maps, layers and analytics, publish data as web layers, collaborate and share, access maps from any device, make maps with your Microsoft Excel data, customize the ArcGIS Online website, and view status reports.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop7
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop7](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop7)
 
 **October 28th - ArcGIS Story Maps**
 
 Story Maps are templates that allow authors to give context to their ArcGIS Online maps.  Whether telling a story, giving a tour or comparing historical maps, ArcGIS Story Maps are easy-to-use applications that create polished presentations.
 
-Register Here: https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop8
+Register Here: [https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop8](https://cal.lib.virginia.edu/calendar/events/Fall2020GISWorkshop8)
