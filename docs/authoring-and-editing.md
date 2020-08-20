@@ -256,6 +256,8 @@ title: 'Code Workshop: Basics of Version Control with Git'
 ---
 ```
 
+Follow steps here for bulk uploading lots of events at once: [Bulk add events](https://github.com/scholarslab/bulk-add-events)
+
 #### Add a new page
 
 Pages, unlike blog posts, are intended for the kinds of big things you see listed in our website's menu: about page, makerspace page, events page. The steps to create a page are similar to [creating a new blog post](#add-a-new-blog-post), except:
