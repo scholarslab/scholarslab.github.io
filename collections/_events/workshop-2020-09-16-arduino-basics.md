@@ -5,9 +5,9 @@ end_date: 2020-09-16
 start_time: "11:00:00"
 end_time: "12:30:00"
 layout: events
-location: "virtual"
+location: "Register for zoom link"
 slug: workshop-2020-09-16-arduino-basics
-title: "Arduino"
+title: "Arduino Basics Workshop"
 ---
 
 Come learn about the Arduino micro-controller for fun or profit. No experience needed. This workshop will go through the very basics of electricity, how to setup the Arduino, and building a first circuit; an LED nightlight. 
@@ -16,7 +16,7 @@ This is a virtual, live workshop. After registration, you will recieve informati
 
 Requirements: laptop, arduino, wires, resisters, LEDs.
 
-Arduino kits can be checked out from Clemons Library prior to the workshop. Contact Ammon Shepherd at slabmakerspace@virginia.edu for information about checking out an Arduino Kit.
+Arduino kits can be checked out from Clemons Library prior to the workshop. Contact Ammon Shepherd at [slabmakerspace@virginia.edu](mailto:slabmakerspace@virginia.edu) for information about checking out an Arduino Kit.
 
 Arduino kits can be purchased from Amazon or many other sources:
 [https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4 ](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4)
