@@ -1,6 +1,6 @@
 ---
 department: Art History
-email:
+email: None
 first_name: Emily
 last_name: Felber
 layout: people
@@ -9,8 +9,8 @@ position: CHI Intern
 short_bio:
 slug: emily-felber
 status: not_current
-twitter:
-website:
+twitter: None
+website: None
 people-category:
 - student
 roles:

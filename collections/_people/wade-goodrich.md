@@ -1,16 +1,16 @@
 ---
 department: Architectural History
-email:
+email: None
 first_name: Wade
 last_name: Goodrich
 layout: people
 title: Wade Goodrich
 position: CHI Intern
-short_bio:
+short_bio: None
 slug: wade-goodrich
 status: not_current
-twitter:
-website:
+twitter: None
+website: None
 people-category:
 - student
 roles:

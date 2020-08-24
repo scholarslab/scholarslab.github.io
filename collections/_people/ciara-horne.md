@@ -1,16 +1,16 @@
 ---
 department: Civil Engineering
-email:
+email: None
 first_name: Ciara
 last_name: Horne
 layout: people
 title: Ciara Horne
 position: CHI Intern
-short_bio:
+short_bio: None
 slug: ciara-horne
 status: current
-twitter:
-website:
+twitter: None
+website: None
 people-category:
 - student
 roles:  
