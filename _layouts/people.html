@@ -31,9 +31,9 @@ layout: default
 </div>
 {% unless page.twitter == 'None' and page.website == 'None' and page.email == 'None' %}
 		<div class="person__stats"> <!-- using components/stats-box.scss -->
-			<div class="person-stats__title">Around the Web</div>
+			<div class="person-stats__title">Contact</div>
 			<div class="person-stats__box">
-				<div>Around the Web</div>
+				<div>Contact</div>
 				{% if page.email !=  nil and page.email != 'None' %}
 				<span>Email:</span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.title }}">{{ page.email }}</a><br/>
 				{% endif %}
@@ -41,7 +41,10 @@ layout: default
 				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}" aria-label="{{ page.title }}'s Twitter page">{{ page.twitter }}</a><br/>
 				{% endif %}
 				{% if page.website != nil and page.website != 'None' %}
-				<span>Website:</span><a href="{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a>
+				<span>Website:</span><a href="{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a><br>
+				{% endif %}
+				{% if page.libcal %}
+			<span>Book:</span><a href="{{ page.libcal }}">Schedule an appointment</a>
 				{% endif %}
 			</div>
 		</div>
@@ -67,9 +70,6 @@ layout: default
 				<p>A Scholars' Lab alum.</p>
 			{% endunless %}
 			</div>
-		{% if page.libcal %}
-	<a href="{{ page.libcal }}">Schedule an appointment with {{ page.title }}</a>
-		{% endif %}
 		</div> <!-- end 'about' -->
 
 		<!-- list of blog posts by person -->
