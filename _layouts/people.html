@@ -67,6 +67,9 @@ layout: default
 				<p>A Scholars' Lab alum.</p>
 			{% endunless %}
 			</div>
+		{% if page.libcal %}
+	<a href="{{ page.libcal }}">Schedule an appointment with {{ page.title }}</a>
+		{% endif %}
 		</div> <!-- end 'about' -->
 
 		<!-- list of blog posts by person -->
