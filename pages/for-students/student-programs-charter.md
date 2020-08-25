@@ -6,7 +6,7 @@ nav: false
 permalink: /student-programs-charter/
 ---
 
-The Scholars’ Lab engages in a broad number of pedagogical activities. While our primary constituency has tended to be graduate students as a strategic investment in future scholar practitioners, we also teach undergraduates, staff, faculty, and each other. To help support that work, the following document aims to lay out the shared values and ethos that underlie our engagements with students taking part in our official programs. Individual consultations are not necessarily covered in this document, and any given program might intersect with these values in unique ways. Additional statements of our core pedagogy that supplement this charter can be found in the [general lab charter](http://scholarslab.org/about/charter) and the [Praxis Program charter](http://praxis.scholarslab.org/praxis-program-charter/). 
+The Scholars’ Lab engages in a broad number of pedagogical activities. While our primary constituency has tended to be graduate students as a strategic investment in future scholar practitioners, we also teach undergraduates, staff, faculty, and each other. To help support that work, the following document aims to lay out the shared values and ethos that underlie our engagements with students taking part in our official programs. Individual consultations are not necessarily covered in this document, and any given program might intersect with these values in unique ways. Additional statements of our core pedagogy that supplement this charter can be found in the [general lab charter](http://scholarslab.org/charter) and the [Praxis Program charter](http://praxis.scholarslab.org/praxis-program-charter/). 
 
 ## Success
 
