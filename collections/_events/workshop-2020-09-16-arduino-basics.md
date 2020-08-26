@@ -18,15 +18,18 @@ This is a virtual, live workshop. After registration, you will recieve a link
 for participation. 
 
 You will need to have the following equipment: 
-- laptop, 
-- arduino, 
-- USB cable
-- wires, 
-- resisters, 
-- LEDs.
+- desktop/laptop computer (for running the Arduino software), 
+- Arduino Uno or similar board, 
+- breadboard, 
+- jumper wires, 
+- 100 Ohm resisters, 
+- red, green, and yellow LEDs (or any color you can get)
+
+The Arduino software is free to download here: [https://www.arduino.cc/en/Main/Software ](https://www.arduino.cc/en/Main/Software)
 
 Arduino kits can be purchased from Amazon or many other sources:
-[https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4 ](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4)
+- [https://www.amazon.com/ELEGOO-Starter-Tutorial-Compatible-Official/dp/B01DGD2GAO ](https://www.amazon.com/ELEGOO-Starter-Tutorial-Compatible-Official/dp/B01DGD2GAO)
+- [https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4 ](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4)
 
 Arduino kits may be available for check out from Clemons Library prior to the
 workshop. Contact Ammon Shepherd at
