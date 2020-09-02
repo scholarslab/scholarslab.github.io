@@ -2,8 +2,8 @@
 author: amanda-visconti
 start_date: 2020-10-07
 end_date: 2020-10-07
-start_time: "14:00"
-end_time: "15:30"
+start_time: "13:00"
+end_time: "14:30"
 layout: events
 location: "Register for Zoom Link"
 slug: event-2020-10-07-katina-rogers-putting-phd-to-work
