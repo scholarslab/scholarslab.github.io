@@ -14,4 +14,6 @@ Doctoral education opens doors to engaging and often unexpected pathways, with o
 
 Katina L. Rogers is Co-Director of the [Futures Initiative](https://futuresinitiative.org/) and Director of Programs and Administration of [HASTAC](https://www.hastac.org/) at The Graduate Center, City University of New York. She is joined in presenting by Cihan Tekay, a doctoral candidate in anthropology who is writing her dissertation on how people’s engagement with technology, economy and politics shape possible futures. Tekay is also a graduate fellow at the Futures Initiative.
 
+To attend this event, [please register](https://cal.lib.virginia.edu/calendar/events/PuttingHumPhDtoWork).
+
 **This event is co-sponsored by [UVA's PHD+ initiative](http://phdplus.virginia.edu/).**
