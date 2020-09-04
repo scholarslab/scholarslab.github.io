@@ -5,7 +5,7 @@ end_date: 2020-10-07
 start_time: "13:00"
 end_time: "14:30"
 layout: events
-location: "Register for Zoom Link"
+location: '<a href="https://cal.lib.virginia.edu/calendar/events/PuttingHumPhDtoWork">Register for Zoom Link</a>'
 slug: event-2020-10-07-katina-rogers-putting-phd-to-work
 title: "Putting the Humanities Ph.D. to Work"
 ---
