@@ -8,7 +8,7 @@ name: Zijia Zeng
 position: None
 short_bio: 'Zijia is a 3D technologies student specialist.'
 slug: zijia-zeng
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

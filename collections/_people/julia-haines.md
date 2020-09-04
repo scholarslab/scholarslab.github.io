@@ -8,7 +8,7 @@ title: Julia Haines
 position:
 short_bio: 'Julia Jong Haines is a DH Fellow and PhD Candidate in the Department of Anthropology studying the archaeology of slavery and indentured labor on Mauritius.'
 slug: julia-haines
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

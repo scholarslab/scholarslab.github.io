@@ -8,12 +8,12 @@ name: Hannah Wolfe
 position: CHI Intern
 short_bio: 'A short one-sentence bio.'
 slug: hannah-wolfe
-status: not_current
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- CHI Intern, Spring 2020
+- CHI Intern, Spring 2020-current
 ---
-Hannah Wolfe was a CHI Intern in spring 2020.
+Hannah Wolfe was a CHI Intern in 2020.

@@ -14,6 +14,6 @@ website: None
 people-category:
 - student
 roles:
-- CHI Intern, Spring 2020
+- CHI Intern, Spring 2020-current
 ---
 Shaheen Alikhan was a Cultural Heritage Informatics Intern in spring 2020.

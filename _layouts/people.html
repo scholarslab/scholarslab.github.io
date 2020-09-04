@@ -7,7 +7,12 @@ layout: default
 <div class="person-wrapper">
 	<div class="person-main-content" aria-label="Main content">
 
-		<div class="person__big-title"><span aria-label="page type">People //</span>{{ page.title }}</div>
+		<div class="person__big-title"><span aria-label="page type">People //</span>
+			{% if page.name %}
+			{{ page.name }}
+			{% else %}
+			{{ page.title }}
+			{% endif %}</div>
 
 <!-- <div class="person__position">{{ person.position }}</div>  -->
 

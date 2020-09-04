@@ -8,13 +8,13 @@ title: Charity Revutin
 position: CHI Intern
 short_bio:
 slug: charity-revutin
-status: not_current
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- CHI Intern, Fall 2018 and Spring 2020
+- CHI Intern, Fall 2018 and Spring 2020-current
 ---
 
-Charity Revutin worked as a Cultural Heritage Informatics Intern with Will Rourk in Fall 2018.
+Charity Revutin worked as a Cultural Heritage Informatics Intern with Will Rourk in Fall 2018 and in 2020.

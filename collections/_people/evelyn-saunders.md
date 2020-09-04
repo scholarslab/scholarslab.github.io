@@ -14,6 +14,6 @@ website: None
 people-category:
 - student
 roles:
-- CHI Intern, Spring 2020
+- CHI Intern, Spring 2020-current
 ---
 Evelyn Saunders was a Cultural heritage Informatics Intern in Spring 2020. 

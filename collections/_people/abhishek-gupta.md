@@ -8,7 +8,7 @@ name: Abhishek Gupta
 position: None
 short_bio: 'Abhishek Gupta is an undergraduate student in the School of Engineering.'
 slug: abhishek-gupta
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
