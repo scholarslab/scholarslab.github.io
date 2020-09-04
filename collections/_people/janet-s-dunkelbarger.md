@@ -14,7 +14,7 @@ website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2019-2020
 - Graduate Fellow, 2020-2021
+- Praxis Fellow, 2019-2020
 ---
 Janet S. Dunkelbarger is a PhD student in the Art and Architectural History department.

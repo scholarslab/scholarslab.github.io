@@ -8,7 +8,7 @@ title: Coke Matthews
 position: None
 short_bio: 'Coke Matthews is a Makerspace Technologist.'
 slug: coke-matthews
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
