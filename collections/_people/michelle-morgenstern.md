@@ -16,4 +16,4 @@ people-category:
 roles:
 - Graduate Fellow, 2020-2021
 ---
-Michelle Morgenstern is a 2020-2021 Graduate Fellow in DH Humanities.
+Michelle Morgenstern is a 2020-2021 Graduate Fellow in Digital Humanities.
