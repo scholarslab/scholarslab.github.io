@@ -16,4 +16,4 @@ people-category:
 roles:
 - Digital Pedagogy Consultant, 2020-2021
 ---
-Rebecca Draughon is a PhD student in religious studies and a Digital Pedagogy Consultant.
+Rebecca Draughon is a PhD student in religious studies and a Digital Pedagogy Consultant in the Lab, where she worked with Brandon Walsh on _[A Humanist's Cookbook for Natural Language Processing in Python](/work/a-humanists-cookbook-for-natural-language-processing-in-python/)_.
