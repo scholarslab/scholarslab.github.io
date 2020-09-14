@@ -13,7 +13,7 @@ tags:
 - Digital Humanities
 ---
 
-We're pleased to share the initial release of an open educational resource we worked on over the summer - _A Humanist's Cookbook for Natural Language Processing in Python_. 
+We're pleased to share the initial release of an open educational resource we worked on over the summer - _[A Humanist's Cookbook for Natural Language Processing in Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb)_.
 
 The project began with the goal of keeping Brandon from reinventing the wheel when working on natural language processing projects. By collecting together common scripts and approaches for personal use, it served as a common reference point that would be easier to consult than searching back through older repositories on GitHub when presented with new iterations of old problems. Eventually and once Rebecca came onboard the project, we started documenting the methods with a more generalized audience in mind.
 
