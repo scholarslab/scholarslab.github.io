@@ -11,6 +11,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+- title: Brandon's blog
+  url: http://walshbr.com/blog/a-humanists-cookbook-for-natural-language-processing-in-python
 ---
 
 We're pleased to share the initial release of an open educational resource we worked on over the summer - _[A Humanist's Cookbook for Natural Language Processing in Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb)_.
@@ -28,18 +31,18 @@ The initial set of notebooks covers the following topics:
 
 ### First Steps
 
-* [Set up](set_up.ipynb)
-* [Working with the file structure](file_structure.ipynb)
+* Set up
+* Working with the file structure
 
 ### Getting Data
-* [Working with plain text files](plain_text.ipynb)
-* [Getting data from websites](scraping.ipynb) 
-* [Working with TEI](tei.ipynb)
+* Working with plain text files
+* Getting data from websites
+* Working with TEI
 
 ### Preparing Data
 
-* [Stopwords](stopwords.ipynb)
-* [Dividing your text](dividing.ipynb)
-* [Preparing a corpus pipeline](corpus.ipynb)
+* Stopwords
+* Dividing your text
+* Preparing a corpus pipeline
 
 We'll periodically add news things as we get to them, and we already have plans for at least one future section that we couldn't get to yet. Issues found with the text can be logged on the issue tracker for our [GitHub repository](https://github.com/walshbr/humanists-nlp-cookbook/issues/new).
