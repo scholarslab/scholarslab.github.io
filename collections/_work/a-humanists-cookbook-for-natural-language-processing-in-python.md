@@ -8,7 +8,7 @@ collaborators:
     role: Digital Pedagogy Consultant
 current: true
 layout: work
-link: 'https://nbviewer.jupyter.org/github/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb'
+link: 'https://github.com/walshbr/humanists-nlp-cookbook/blob/main/toc.ipynb'
 slug: a-humanists-cookbook-for-natural-language-processing-in-python
 title: "A Humanist's Cookbook For Natural Language Processing In Python"
 thumb-img: default-thumb.png
