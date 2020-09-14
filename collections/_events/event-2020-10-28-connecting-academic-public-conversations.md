@@ -6,7 +6,6 @@ start_time: "14:00"
 end_time: "15:30"
 layout: events
 location: '<a href="https://cal.lib.virginia.edu/calendar/events/PublicConversations">Register for Zoom Link</a>'
-rsvp: 1
 slug: event-2020-10-28-connecting-academic-public-conversations
 title: "All Research is About Stories: Connecting Your Academic Work to Public Conversations"
 ---
