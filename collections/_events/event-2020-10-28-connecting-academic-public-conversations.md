@@ -13,4 +13,4 @@ Think journalists are usually wrong about your areas of interest, but want to ma
 
 Cassius Adair is an audio producer, writer, and researcher from Virginia. He is currently a Visiting Assistant Professor at New York University's Department of Media, Communication, and Culture.
 
-This event is open to all, but registration is required due to seating limitations. Please register at Zoom link (forthcoming).
+This event is open to all, but registration is required due to seating limitations. Please register at this <a href="https://cal.lib.virginia.edu/calendar/events/PublicConversations">Zoom Link</a>.
