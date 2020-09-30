@@ -25,6 +25,8 @@ One of the major capabilities of digital humanities generally and CBW specifical
 
 Scholars doing the recovery work (and researchers using said work) are confronted with questions like the following: What do we do with women like Henrietta? Can her contributions to Isabella’s books be noted without detriment to the reputation Isabella carefully built for herself? Does that matter? Thirteen short biographies are certainly not a large enough dataset or corpus to begin drawing conclusions, but women like Henrietta, the quiet contributors, should be kept in view as more information is added to CBW. What biographers omit carries as much weight as what they choose to include.
 
+Footnotes
+---------
 [^1]:In fact, she was the first woman to be elected a fellow of the Royal Geographical Society (1892).
 [^2]:Note that analyses for all 13 biographies may not be publicly available yet.
 [^3]:Kay Chubbuck. "Introduction." *Letters to Henrietta*. Northeastern University Press, Boston, 2002, pp. 1–25.
