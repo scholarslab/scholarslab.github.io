@@ -27,8 +27,8 @@ Scholars doing the recovery work (and researchers using said work) are confronte
 
 Footnotes
 ---------
-[^1]:In fact, she was the first woman to be elected a fellow of the Royal Geographical Society (1892).
-[^2]:Note that analyses for all 13 biographies may not be publicly available yet.
-[^3]:Kay Chubbuck. "Introduction." *Letters to Henrietta*. Northeastern University Press, Boston, 2002, pp. 1–25.
-[^4]:In a letter to her publisher, John Murray, however, Bird insists her letters have not been altered for publication.
-[^5]:After Henrietta’s death, Isabella published *Hymns and Poems of the Late Henrietta A. Bird* via James Taylor in 1881.
+[^1]: In fact, she was the first woman to be elected a fellow of the Royal Geographical Society (1892).
+[^2]: Note that analyses for all 13 biographies may not be publicly available yet.
+[^3]: Kay Chubbuck. "Introduction." *Letters to Henrietta*. Northeastern University Press, Boston, 2002, pp. 1–25.
+[^4]: In a letter to her publisher, John Murray, however, Bird insists her letters have not been altered for publication.
+[^5]: After Henrietta’s death, Isabella published *Hymns and Poems of the Late Henrietta A. Bird* via James Taylor in 1881.
