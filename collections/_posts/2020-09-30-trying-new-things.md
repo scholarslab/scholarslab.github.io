@@ -7,4 +7,4 @@ title: "Trying New Things at the End of the World"
 categories:
 - Digital Humanities
 ---
-It feels a little strange to be trying new things during the apocalypse.
+It feels a little strange to be trying out new things during the apocalypse.
