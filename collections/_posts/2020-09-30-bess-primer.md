@@ -1,5 +1,5 @@
 ---
-author: lloyd-sy
+author: Lloyd Sy
 date: 2020-09-30
 layout: post
 slug: bess-primer
