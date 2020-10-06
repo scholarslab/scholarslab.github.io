@@ -32,4 +32,4 @@ Footnotes
 [^3]: Kay Chubbuck. "Introduction." *Letters to Henrietta*. Northeastern University Press, Boston, 2002, pp. 1–25.
 [^4]: In a letter to her publisher, John Murray, however, Bird insists her letters have not been altered for publication.
 [^5]: After Henrietta’s death, Isabella published *Hymns and Poems of the Late Henrietta A. Bird* through James Taylor publishing in 1881.
-[^6]: For more information on CBW, please see Lloyd Sy's blog post, ["BESS: A Very Short Primer."](https://scholarslab.lib.virginia.edu/blog/bess-primer/)
+[^6]: For more information on CBW, please see [Lloyd Sy's](https://dh.virginia.edu/people/mr-lloyd-kevin-sy) blog post, ["BESS: A Very Short Primer."](https://scholarslab.lib.virginia.edu/blog/bess-primer/)
