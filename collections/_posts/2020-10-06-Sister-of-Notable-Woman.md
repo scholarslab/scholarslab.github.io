@@ -1,6 +1,6 @@
 ---
-author: Mikki-Stacey
-date: 2020-09-30
+author: Mikki Stacey
+date: 2020-10-06
 layout: post
 slug: Sister-of-Notable-Woman
 title: "Sister of Notable Woman: Henrietta Bird"
