@@ -1,16 +1,13 @@
 ---
-author: Zaina-Ujayli
-date: 2020-10-01
+author: Zaina Ujayli
+date: 2020-10-07
 layout: post
-slug: CBW-Indianwomen
+slug: cbw-indianwomen
 title: "Death Politics in Collections of Indian Women's Lives"
 categories:
 - Digital Humanities
 - Collective Biographies of Women 
 ---
-
-Death Politics in Collections of Indian Women's Lives
-======================================================
 
 By: [Zaina Ujayli](https://dh.virginia.edu/people/zaina-ujayli)
 
@@ -24,11 +21,11 @@ While BESS explores a range of elements, notably events, discourses, persona des
 
 Figure 01: Stage of Life and Religion Graphic for *Gems of India* by Mrs. E.J. Humphrey. [Collection a430.](http://cbw.iath.virginia.edu/books_display.php?id=1764)
 
-![Figure 01: Stage of Life and Religion Graphic for Gems of India by Mrs. E.J. Humphrey](https://github.com/scholarslab/scholarslab.org/blob/zujayli-blog/assets/post-media/2020-10-01-a430RD.jpg)
+![Figure 01: Stage of Life and Religion Graphic for Gems of India by Mrs. E.J. Humphrey](/assets/post-media/2020-10-01-a430RD.jpg)
 
 Figure 02: Stage of Life and Religion graphic for *Sketches of Distinguished Indian Women* by Mrs. E.F. Chapman. [Collection a156.](http://cbw.iath.virginia.edu/books_display.php?id=1480)
 
-![Figure 02: Stage of Life and Religion graphic for Sketches of Distinguished Indian WOmen by Mrs. E.F. Chapman](https://github.com/scholarslab/scholarslab.org/blob/zujayli-blog/assets/post-media/2020-10-01-a156RD.jpg)
+![Figure 02: Stage of Life and Religion graphic for Sketches of Distinguished Indian WOmen by Mrs. E.F. Chapman](/assets/post-media/2020-10-01-a156RD.jpg)
 
 While Chapman and Humphrey approach their sketches of Indian women differently, BESS demonstrates that both authors share a kind of “death politics” within their collections. If you look at the figures, without even reading the biographies, you can tell that while Christian and Muslim women are spared from early deaths; Hindu women are not. Using BESS to compare the two collections reveals that while across both collections only 52% of women die in sad or violent ways, 72% of the Hindu women do. Six of the eight Hindu women in *Gems of India* die violent deaths, either by murder or suicide, notably *suttee*, self-immolation on a loved one’s pyre. Two of the three Hindu women in *Sketches of Distinguished Indian Women* succumb to illness and die early. Across both collections, only one non-Hindu woman dies early — a Muslim woman, empress consort Mumtaz Mahal (1593-1631) [(Bio07)](http://cbw.iath.virginia.edu/exist/cbw/basic/a430/bio07); however, Humphrey only devotes three paragraphs to narrating the events of her life [^1].
 
@@ -39,7 +36,7 @@ This is not to say that the authors are only attempting to persuade their reader
 However, Anandibai Joshee [(Bio02)](http://cbw.iath.virginia.edu/exist/cbw/basic/a156/bio02) and Toru Dutt’s [(Bio4)](http://cbw.iath.virginia.edu/exist/cbw/basic/a156/bio04) sacrifices are not to defend India against invasion, but rather sacrifices to import Western education and ideals. After narrating the early death of Toru Dutt, Chapman draws a thought-provoking connection between travel to Europe and America and death. The two women who die young both spend a longer time in England and America than does their Hindu counterpart, Sunity Devi [(Bio03)](http://cbw.iath.virginia.edu/exist/cbw/basic/a156/bio03). While the Christian women who travel abroad survive, the two Hindu women do not. Instead, the young Hindu women are sacrificed on the altar of Westernization, martyrs for the cause of bringing English and American learning to India.  Chapman associates the cold and damp weather to the women’s deaths, and cites the poetic verse I opened this essay with: “Yet, perhaps, as we mourn these early deaths, these gifted women taken from us, as we think, all too soon, we may be at fault, and that for them as well as for their country the poets words may be true - The fairest gift that life can give/ Is to die young.” 
 
 Figure 03: Stage of Life and Travel graphic for *Sketches of Distinguished Indian Women* by Mrs. E.F. Chapman. [Collection a156.](http://cbw.iath.virginia.edu/books_display.php?id=1480)
-![Figure 03 Stage of Life and Travel graphic for Sketches of Distinguished Indian Women by Mrs. E.F. Chapman](https://github.com/scholarslab/scholarslab.org/blob/zujayli-blog/assets/post-media/2020-10-01-a156T.jpg)
+![Figure 03 Stage of Life and Travel graphic for Sketches of Distinguished Indian Women by Mrs. E.F. Chapman](/assets/post-media/2020-10-01-a156T.jpg)
 
 For both Humphrey and Chapman, the greatest gift Hindu women can give is their lives. Despite all their accomplishments, Hindu women were denied the happy endings their Christian and Muslim counterparts are otherwise allowed. 
 The emphasis on their self-sacrificing deaths recalls the martyrdom of saints in hagiography, compellingly sketching “heathen” women in the style of Christian icons. As Hermione Lee identifies as originating in stories of the lives of saints, the Indian women’s biographies exemplify “the tension that biography produces between wanting to identify and emulate, and wanting to know about a life inconceivably different to one’s own.” While Indian Christian women’s lives could be emulated, Hindu women’s lives were to be pitied,  sometimes praised, but not to be imitated. Their lives were sources of historical and cultural education about India, and their deaths evidence for the continued Orientalist belief in Western superiority over the so-called East. 
