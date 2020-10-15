@@ -1,5 +1,7 @@
 ---
-author: emma-dove, savanna-morrison
+author: 
+- emma-dove
+- savanna-morrison
 date: 2020-10-15
 layout: post
 slug: 2020-praxis-charter-blog
@@ -23,7 +25,7 @@ Co-writing the Praxis Program charter with the 2020-2021 cohort of Praxis Fellow
 
 Yeah, puppets. And also a reference to jalapeno peppers, which I’ll explain in a moment. But the most noticeably odd thing about our charter in its current form is that it has a puppet mascot right at the top. After a discussion on our relationships as group members, the importance of creating things that are multi-modal and accessible, and the reality that we may never meet in person as a group, the subject of puppets came up. You see, one department at the University of Virginia made an introductory video for its incoming and returning graduate students this fall, a small portion of which included a puppet show. I can’t remember who suggested that we follow suit, each making puppet versions of ourselves and filming our puppet-selves reading the charter, but in the spirit of improvisation (“yes, and…”) that we’re trying to embody as fellows and digital humanists, we agreed to go with it, laughing all the way. The process of puppet construction is now underway. Here’s mine: 
 
-![Emma’s medusa-looking puppet] (https://drive.google.com/file/d/1yGYUl_FNt6YSGQrAYrzMx518VRoKWyJi/view?usp=sharing)
+![Emma’s medusa-looking puppet]({{ site.baseurl}}/assets/post-media/puppet-charter.jpeg)
 
 (In the spirit of transparency and being open to constructive criticism, if you can think of a way to make puppet Emma look better, please let me know.)
 
@@ -53,4 +55,3 @@ It seems incredible to me that the kindness expressed in even the smallest of ge
 
 
 [^1]: The [Praxis Program Charter](https://praxis.scholarslab.org/praxis-program-charter/), past [cohort charters](https://praxis.scholarslab.org/charter/), the [Scholars’ Lab Charter](https://scholarslab.lib.virginia.edu/charter/), and the [Scholars’ Lab Student Programs Charter](https://scholarslab.lib.virginia.edu/student-programs-charter/), among others. 
----
