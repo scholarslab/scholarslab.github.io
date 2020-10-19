@@ -11,7 +11,7 @@ tags:
 - Digital Humanities
 crosspost:
   - title: Brandon's blog
-    url: http://walshbr.com/blog/readiing-not-writing
+    url: http://walshbr.com/blog/reading-not-writing
 ---
 Back in January, we in the Scholars’ Lab [looked back fondly](https://scholarslab.lib.virginia.edu/blog/year-of-book-blogging-digital-humanities-pedagogy-in-kind/) on all the public writing we had done together in 2019 and boldly looked ahead to all that we would do in 2020. We had big plans for putting more thoughts out in the world on a variety of topics. Then, of course, 2020 happened. In addition to the ongoing public health emergency, I have also been simmering with bottled rage about the full spectrum of political struggles related to the murder of George Floyd and subsequent protests, the ongoing climate emergency, and the Presidential election. Writing seems far less important now, with everything going on. All of this is to say that I, for one, have not been getting much blogging done. I felt a tremendous amount of guilt around this at first, as one typically does in academia when you have publicly declared yourself to be doing something that you cannot follow through on. But I have been trying to take the advice of Connor Kenaston, a former Praxis student, who advised his cohort at the beginnings of the pandemic to “[be gentle with yourself](https://scholarslab.lib.virginia.edu/blog/praxis-in-a-pandemic/).” 
 
