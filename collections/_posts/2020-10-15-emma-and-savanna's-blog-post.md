@@ -2,7 +2,7 @@
 author: 
 - emma-dove
 - savanna-morrison
-date: 2020-10-15
+date: 2020-10-19
 layout: post
 slug: 2020-praxis-charter-blog
 title: "Pandemic, Puppets, Peppers: On Writing & Performing a Praxis Program Charter in 2020"
@@ -21,7 +21,7 @@ First, let me say that I never thought I could have fun writing a charter. I was
 
 Recently, I’ve co-written two charters. The first, far more formal, charter is for the graduate student committee of a professional organization. I research and write about medieval prayer books and their users and have been a student member of this organization for a couple of years now. Neither of those things prepared me to write a committee charter, however, and when the time came to do so I found myself scrambling to sound like a lawyer, for some reason.
 
-Co-writing the Praxis Program charter with the 2020-2021 cohort of Praxis Fellows has been an altogether different experience. This charter’s starting point and purpose are different: It is relationships-based rather than rules-based and changing rather than static. Its creation was carefully guided by a common reading of other charters[^1] and a discussion of goals and ways of working led by [Ronda Grizzle](https://scholarslab.lib.virginia.edu/people/ronda-grizzle/), and expert project manager. But its creation was also delightfully organic, and even chaotic. It is the product of six individuals from different disciplines thinking and laughing on Zoom together. That’s probably why there are puppets in our charter. 
+Co-writing the Praxis Program charter with the 2020-2021 cohort of Praxis Fellows has been an altogether different experience. This charter’s starting point and purpose are different: It is relationships-based rather than rules-based and changing rather than static. Its creation was carefully guided by a common reading of other charters[^1] and a discussion of goals and ways of working led by [Ronda Grizzle](https://scholarslab.lib.virginia.edu/people/ronda-grizzle/), an expert project manager. But its creation was also delightfully organic, and even chaotic. It is the product of six individuals from different disciplines thinking and laughing on Zoom together. That’s probably why there are puppets in our charter. 
 
 Yeah, puppets. And also a reference to jalapeno peppers, which I’ll explain in a moment. But the most noticeably odd thing about our charter in its current form is that it has a puppet mascot right at the top. After a discussion on our relationships as group members, the importance of creating things that are multi-modal and accessible, and the reality that we may never meet in person as a group, the subject of puppets came up. You see, one department at the University of Virginia made an introductory video for its incoming and returning graduate students this fall, a small portion of which included a puppet show. I can’t remember who suggested that we follow suit, each making puppet versions of ourselves and filming our puppet-selves reading the charter, but in the spirit of improvisation (“yes, and…”) that we’re trying to embody as fellows and digital humanists, we agreed to go with it, laughing all the way. The process of puppet construction is now underway. Here’s mine: 
 
