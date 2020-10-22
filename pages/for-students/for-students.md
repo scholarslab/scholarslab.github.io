@@ -20,9 +20,9 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 [More information](/praxis-program-fellowships/)
 
 ## Digital Humanities Fellowship Program
-**Call issued:** Annually in October, typically by October 1
+**Call issued:** More information about 2021-2022 fellowships by December.
 
-**Deadline:** November 25th, 2019 for the 2020-2021 fellowship year.
+**Deadline:** More information about 2021-2022 fellowships by December.
 
 [More information](/digital-humanities-fellows/)
 

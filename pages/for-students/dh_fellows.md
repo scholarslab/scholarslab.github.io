@@ -4,7 +4,7 @@ title: Digital Humanities Fellows Program
 permalink: /digital-humanities-fellows/
 nav: false
 ---
-**Applications are closed for the 2020-2021 Digital Humanities Fellowship Cohort. You can expect the next application cycle to launch in Fall of 2020.**
+**Applications are closed for the 2020-2021 Digital Humanities Fellowship Cohort. More information about 2021-2022 fellowships by December.**
 
 The application deadline for fellowships to be held during the 2020-2021 academic year is **Monday, November 25th, 2019 at 11:59 PM**. We will do our best to render decisions by late December.
 
