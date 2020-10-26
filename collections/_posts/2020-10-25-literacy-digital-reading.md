@@ -8,15 +8,14 @@ categories:
 - Digital Humanities
 - Pedagogy
 - Reading 
-- Digital 
+- Digital
+- Praxis
 
 tags:
 - Digital Humanities
 - Pedagogy
+- WLU Collab
 ---
-
-
-# Literacy Gone Digital: Reading and Unreading Digital Texts 
 
 ## Background
 The Russian word po-che-m***u***-shka<sup>1</sup> means somebody who is always asking why, and it\'s never a compliment. I was always one of those people asking why and how without end, though, and that habit has affected the way I envision education. Even in the most mundane of subjects, like how to slap some words up on the internet, can make us pause and reflect on the logic, decisions, and even personality of the text. The relative freedom and customizability of the internet has offered us the opportunity to revisit our understandings of literacy and grammar as a part of the progression toward recognition of form as content and vice versa. 
