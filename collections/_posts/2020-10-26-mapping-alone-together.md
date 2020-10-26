@@ -12,13 +12,13 @@ For the past few weeks, I and my fellow Praxis Fellows have been developing teac
 
 We were challenged to develop a teaching-learning experience for a DH method or technique that did not require any digital technology to execute. I chose to do my workshop on mapping and data visualization. The workshop will have attendees use pen or pencil to map frequently visited locations in the city of Charlottesville and how they feel when they inhabit those spots. I’ll provide attendees with a printout of a rough outline of the city to help orient them and ensure that everyone’s final products can be unique while still speaking to one another. Attendees will be asked to choose five to ten frequently visited spots in the city and use color-coding to describe how being there makes them feel.
 
-[map of Charlottesville]
+![Blank map of Charlottesville](https://github.com/scholarslab/scholarslab.org/blob/crystalluo-branch/assets/post-media/2020-10-26-charlottesville-map-2.png)
 
-[color-code chart]
+![Color-code chart](https://github.com/scholarslab/scholarslab.org/blob/crystalluo-branch/assets/post-media/2020-10-26-color-code.png)
 
 (In the spirit of transparency and generosity, here's my own map:)
 
-
+![Crystal's map of Charlottesville](https://github.com/scholarslab/scholarslab.org/blob/crystalluo-branch/assets/post-media/2020-10-26-crystal-charlottesville-map.png)
 
 We’ll then come together and compare our maps with one another. We’ll begin with more obvious questions about maps’ appearances:
 1. What locations were unique to each person? 
