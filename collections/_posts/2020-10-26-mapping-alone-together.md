@@ -16,6 +16,10 @@ We were challenged to develop a teaching-learning experience for a DH method or 
 
 [color-code chart]
 
+(In the spirit of transparency and generosity, here's my own map:)
+
+
+
 We’ll then come together and compare our maps with one another. We’ll begin with more obvious questions about maps’ appearances:
 1. What locations were unique to each person? 
 2. What locations turned up over and over? 
