@@ -1,6 +1,6 @@
 ---
-author: aaron-thompson
-date: 2020-10-25
+author: aaron-m-thompson
+date: 2020-10-27
 layout: post
 slug: literacy-digital-reading
 title: "Literacy Gone Digital: Reading and Unreading Digital Texts"
@@ -8,17 +8,18 @@ categories:
 - Digital Humanities
 - Pedagogy
 - Reading 
-- Digital 
+- Digital text
 
 tags:
 - Digital Humanities
-- Pedagogy
+- Pedagogy 
+- Workshop
 ---
 
-
-# Literacy Gone Digital: Reading and Unreading Digital Texts 
+When first asked to reflect on digital pedagogy, I was far from keen on spilling my thoughts onto a blank page for the world to see. In front of the class we always want things to run perfectly. However, upon reflecting that educators and instructors of language, literature, and likewise are the forefront of public Humanities, it\'s evident that teachers have no choice but to take a side. I was asked to consider and explain what I find most important in digital pedagogy this week. Here\'s what I came up with:
 
 ## Background
+
 The Russian word po-che-m***u***-shka<sup>1</sup> means somebody who is always asking why, and it\'s never a compliment. I was always one of those people asking why and how without end, though, and that habit has affected the way I envision education. Even in the most mundane of subjects, like how to slap some words up on the internet, can make us pause and reflect on the logic, decisions, and even personality of the text. The relative freedom and customizability of the internet has offered us the opportunity to revisit our understandings of literacy and grammar as a part of the progression toward recognition of form as content and vice versa. 
 
 ### Abstract
@@ -33,7 +34,7 @@ There are numerous arguments against embracing the \'digital\' in digital pedago
 
 But let's face it, there is no future Humanities (or education or anything) that is immune to technological and ideological changes of the present and future. I do not wish to abolish the Socratic Method in the Humanities classroom but I hope to express, using the workshop as an example of new considerations and issues in the modern-day Humanities classroom and educational process. This pandemic has reminded everyone of the harm, on both incremental and massive scales, of refusing to acknowledge reality and the way things *are* instead of the way we *want* them to be. Suit up (at least as much as we can see of you on Zoom), ladies and gentlefolk; the future is now. 
     
-## Info 
+## The Goods 
 
 ### [Slides](https://docs.google.com/presentation/d/1RKLbQ35iSaTKYf5_3Y18DnGgwDtTEgJPQ6Usx3KZg_M/edit?usp=sharing)
 
