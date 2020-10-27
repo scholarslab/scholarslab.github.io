@@ -2,7 +2,7 @@
 author: 
 - emma-dove
 - savanna-morrison
-date: 2020-10-19
+date: 2020-10-27
 layout: post
 slug: 2020-praxis-charter-blog
 title: "Pandemic, Puppets, Peppers: On Writing & Performing a Praxis Program Charter in 2020"
@@ -15,7 +15,10 @@ tags:
 - Zoom
 - Praxis Fellowship 2020
 ---
-Part I: Emma Dove
+
+The 2020-2021 Praxis Cohort had launched their charter! Check it out over on the [Praxis website](http://praxis.scholarslab.org/charter/charter-2020-2021/). 
+
+## Part I: Emma Dove
 
 First, let me say that I never thought I could have fun writing a charter. I was wrong. 
 
@@ -35,7 +38,7 @@ I am grateful for this team of people, their generosity of spirit, their curiosi
 
 
 
-Part II: Savanna Morrison
+## Part II: Savanna Morrison
 
 Never did I imagine in my many years of being alive having an existential crisis over making a puppet.
 
