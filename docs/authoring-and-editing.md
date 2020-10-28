@@ -1,5 +1,5 @@
 This tutorial explains how to author and edit new pages and posts on ScholarsLab.org. You can easily get back to this page by clicking the "how to blog" link in the footer of every ScholarsLab.org page (lower right, under the "back to top" link):  
-Any questions you have while using this tutorial or while blogging can be sent to Amanda via SLab Slack or email; SLab affiliates are also welcome to join the SLab Slack #slab-org channel and post any questions or suggestions there. A [future version of this documentation](https://github.com/scholarslab/scholarslab.org/issues/605) will cover how folks who are not Scholars' Lab affiliates can submit blog posts for possible publiction on this site.
+Any questions you have while using this tutorial or while blogging can be sent to scholarslab@virginia.edu; you are also welcome to join the SLab Slack #slab-org channel and post any questions or suggestions there.
 
 We also maintain [documentation for other needs](https://github.com/scholarslab/scholarslab.org/blob/master/docs/README.md) related to the ScholarsLab.org website.
 
@@ -43,7 +43,7 @@ If the workflow in this lesson doesn't work for your needs, there are two simple
 
 1. Email the text (preferably as either a GoogleDoc or Microsoft Word file, though let us know if you prefer writing in a different format) to Amanda, and they'll post your content for you.  
 
-2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let Amanda know when you're finished, and they'll post your content for you.
+2. Visit the ["SLab.org posts & pages" GDrive folder](https://drive.google.com/drive/u/0/folders/1oVLf4TqqsxAbTuWc7J3XTJ8EqFxDiPOG) folder. You can make a copy of the [page template](https://docs.google.com/document/d/10OeLQUflD5txvjPQXFPHRgCpzfvu9_c9LC7R6nfXLl4/edit?usp=sharing) or [post template](https://docs.google.com/document/d/1OWBTybWrpZuesu8BQVQTbpXMkIC5p-nyAW26DV7r_A4/edit?usp=sharing) by going to the upper-left menu and clicking **File** > **Make a copy...** Let Amanda or the Slack #slab-org channel know when you're finished, and they'll post your content for you.
 
 The tutorial you're currently reading allows you to do everything through the GitHub.com interface, but if you get comfortable with this and want to try something new (and possibly more pleasant), check out [this lesson](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) on how to run and make changes to a site locally, using the GitHub Desktop app (or alternatively look into using git on the command line).
 
@@ -57,7 +57,7 @@ There are **two pieces** to authoring/editing on our website:
 
 Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Next, share your GitHub username with Amanda or the SLab Slack #slab-org channel. 
 
-An existing ScholarsLab GitHub org member needs to visit the [members page](https://github.com/orgs/scholarslab/people), click the green "Invite member" button, and invite you as a "member" (not "owner"). You'll receive an email invite; follow the link in that email to gain access to making changes to our website. An existing ScholarsLab GitHub org member also should [add you to the SLab "core" GitHub team](https://github.com/orgs/scholarslab/teams/core/members) (we think this allows you to see the `scholarslab/reviewers` group as an option on the PR reviewers dropdown).
+An existing ScholarsLab GitHub org member needs to visit the [members page](https://github.com/scholarslab/scholarslab.org/settings/access) and add you to the team with "write" privileges. You'll receive an email invite; follow the link in that email to gain access to making changes to our website. An existing ScholarsLab GitHub org member also should [add you to the SLab "core" GitHub team](https://github.com/orgs/scholarslab/teams/core/members) (we think this allows you to see the `scholarslab/reviewers` group as an option on the PR reviewers dropdown).
 
 Then, they also need to add your username to the ScholarsLab.org repo (with "write", not "admin" privileges) at `https://github.com/scholarslab/scholarslab.org/settings/collaboration` (page only visible to repo admins).
 
