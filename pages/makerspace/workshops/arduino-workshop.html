@@ -1,0 +1,1077 @@
+---
+layout: page
+title: Basic Arduino Workshop
+permalink: /makerspace/workshops/arduino/
+---
+<style>
+  table,
+  td,
+  th {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    padding: 8px;
+  }
+
+  td {
+    vertical-align: top;
+  }
+
+  .title {
+    font-size: 2em;
+  }
+
+  .slide {
+    background-color: rgba(76, 175, 80, 0.3);
+    padding: 2px;
+  }
+</style>
+
+<div>
+  <h2>Arduino - Basics of Electricity and Circuits</h2>
+
+  <h3>Experience</h3>
+  <ul>
+    <li>This workshop is independent of any other workshops. No prior knowledge or
+      experience is needed.</li>
+  </ul>
+
+  <h3>Requirements</h3>
+  <ul>
+    <li>If done virtually, participants will need their own laptop and Arduino
+      kit.</li>
+    <li>If done in person, provide laptops and Arduino kits.</li>
+  </ul>
+
+  <h3>Time</h3>
+  <ul>
+    <li>This workshop takes about 1 hour and 30 minutes to complete</li>
+  </ul>
+
+  <h3>Other Formats</h3>
+  <p>This content is available in these other formats:</p>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/17ZyGGMX1q9RDdsL8jENoUzzx44oKB3hSBI4ngNfksDA/edit?usp=sharing">Doc
+        File</a></li>
+    <li><a
+        href="https://docs.google.com/presentation/d/1nAePGoZULM71w17anXhqHNs5JbMpbm6SNq2v2b3B24Y/edit?usp=sharing">Slide
+        Show</a></li>
+  </ul>
+
+  <h2 id="guiding-questions">Guiding questions</h2>
+  <ul>
+    <li>How will knowing how electronics work help you understand and improve your use
+      of technology?</li>
+    <li>What can you make to enhance your life? What tool can you make to do something
+      for you, to provide information?</li>
+    <li>Where can you find out more about electronics, working with Arduino, making
+      things?</li>
+  </ul>
+
+  <h2 id="workshop-objectives">Workshop Objectives</h2>
+  <p>At the end of this workshop, participants should know the following facts and
+    procedures, understand the following concepts, and possess the following skills:</p>
+
+  <p id="objective-know">KNOW</p>
+  <p>The participant will know that...</p>
+  <ul>
+    <li>Conventional current states electrons move from positive terminal to the
+      negative.</li>
+    <li>Electron Flow is the term for the actual, real, physical flow of electrons, from
+      negative to positive terminals.</li>
+    <li>Electrical current is the rate of flow of electrons past a given point for a
+      certain time, and is measured in amps.</li>
+    <li>Resistors block/restrict flow of electrons</li>
+    <li>Good resistors are glass, ceramics, wood, air</li>
+    <li>Resistance is measured in ohms</li>
+    <li>Conductors allow the flow of electrons.</li>
+    <li>Good conductors are most metals like silver, copper, gold, aluminum, water
+    </li>
+    <li>Switches stop the flow of electrons.</li>
+    <li>Motors create motion.</li>
+    <li>LEDs create light. The long leg of an LED is positive and the short is negative.
+      LEDs allow electrons to flow in only one direction.</li>
+    <li>Photoresistors sense the amount of light.</li>
+  </ul>
+
+  <p id="objective-understand">UNDERSTAND</p>
+  <p>The participants will understand that...</p>
+  <ul>
+    <li>Electrical current can be understood similar to water flowing through
+      pipes.</li>
+    <li>Arduinos take in information from sensors (like temperature, sound, light,
+      humidity, motion), do some logic on that info, and then do some output (like light, sound, motion).</li>
+    <li>A breadboard makes it easy to put together a circuit by connecting positive
+      holes in a column, negative holes in a column, and rows of holes together. </li>
+  </ul>
+
+  <p id="objective-do">DO</p>
+  <p>The participant will be able to...</p>
+  <ul>
+    <li>Connect electrical components to a breadboard to make a functioning
+      circuit.</li>
+    <li>Write code in the Arduino IDE on a laptop.</li>
+    <li>Send code from the Arduino software to the Arduino board.</li>
+    <li>Identify several electrical components</li>
+    <li>LED, resistor, button, photoresistor</li>
+  </ul>
+
+
+  <p id="workshop-differentiation">WORKSHOP DIFFERENTIATION</p>
+  <ul>
+    <li id="differentiation-beginner">Beginner participants
+      <ul>
+        <li>
+          This workshop is geared towards those with no experience with electronics or Arduinos. The
+          workshop facilitator should go slow enough to allow all participants to complete the steps.
+        </li>
+      </ul>
+    </li>
+
+    <li id="differentiation-intermediate">Intermediate participants
+      <ul>
+        <li> This is really a workshop for beginners, so those with intermediate and expert knowledge may not find this
+          a suitable workshop. If such participants remain in &nbsp;the workshop, praise them for their hard work in
+          learning what they know and suggest that they can stay to help others who are struggling.
+        </li>
+      </ul>
+    </li>
+
+    <li id="differentiation-experienced">Experienced participants
+      <ul>
+        <li>
+          This is really a workshop for beginners, so those with intermediate and expert knowledge may not find this a
+          suitable workshop. If such participants remain in &nbsp;the workshop, praise them for their hard work in
+          learning what they know and suggest that they can stay to help others who are struggling.
+        </li>
+      </ul>
+    </li>
+
+    <li id="differentiations-remote">Participants without physical resources
+      <ul>
+        <li>Sign up for a free Autodesk account (student version) for access to TinkerCad and
+          the Arduino Simulator in the Circuits section (as of September 2020). <a target="_blank"
+            href="https://tinkercad.com">https://tinkercad.com</a>
+        </li>
+        <li>Virtual Breadboard by Microsoft (only available for Windows OS, as of September 2020). <a target="_blank"
+            href="https://www.microsoft.com/en-us/p/virtual-breadboard/9nblggh4tj3w">
+            https://www.microsoft.com/en-us/p/virtual-breadboard/9nblggh4tj3w
+          </a>
+        </li>
+      </ul>
+    </li>
+
+  </ul>
+
+
+  <h2 id="workshop-script">WORKSHOP SCRIPT</h2>
+  <p>You can follow this script verbatim, or pick and choose what to talk about
+    and how. The accompanying slide show goes along with the script. Everytime
+    you see the [Show slide #] tag, you can go to the next slide. [Progress
+    slide] tags let you know when to advance the animation/transition of the
+    current slide.</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p>Teacher Behavior </p>
+        </td>
+        <td colspan="1" rowspan="1">
+          <p>Student Behavior </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p>Introduce the Workshop Facilitator</p>
+          <p><span class="slide">[Show slide 1]</span></p>
+          <ul>
+            <li>Who you are, what you do, how you got to this point, what you hope to
+              learn in the workshop</li>
+          </ul>
+          <p>Introduce the workshop </p>
+          <p><span class="slide">[Show slide 2]</span></p>
+          <p>Objectives of the workshop</p>
+          <ul>
+            <li>In this workshop you will learn about and how to use some basic
+              electronics components: resistor, LED, photoresistor, button.</li>
+            <li>You will learn what an Arduino is and why they can be useful.</li>
+            <li>You will learn how to build a circuit and program the Arduino.</li>
+            <li>
+              And, hopefully, you will come away with a feeling that you can create your own
+              electronics projects that will improve your and other people&rsquo;s environments.
+            </li>
+          </ul>
+        </td>
+        <td colspan="1" rowspan="1">
+          <p>Listen </p>
+
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p>Participant introductions</p>
+          <p><span class="slide">[Show slide 3]</span></p>
+        </td>
+        <td colspan="1" rowspan="1">
+          <ul>
+            <li>Introduce yourself</li>
+          </ul>
+          <ul>
+            <li>Your name</li>
+            <li>What you do</li>
+            <li>Why interested in Arduino</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p><span class="slide">[Show slide 4]</span></p>
+          <p>In this workshop, we&rsquo;ll go through the basics of electricity, learn about
+            some of the components, and then put together a few circuits.</p>
+
+          <p id="script-basics">Basics of Electricity</p>
+          <p><span class="slide">[Show slide 5]</span></p>
+          <p> Sometimes it&rsquo;s hard to grasp electrical current and what
+            happens in a circuit because you can&rsquo;t see what is happening
+            inside the components. To help visualize the electrical concepts, you
+            can imagine electrical current flowing through a circuit similar to
+            water flowing through a system of pipes.
+
+          </p>
+          <p>1. Electrons = water</p>
+          <p>2. Wires = pipes</p>
+          <p>3. Battery = Reservoir and pump</p>
+          <p>4. Voltage = The pump creates pressure in the system. In a house,
+            your water pressure is usually between 50 and 80 psi. This is like
+            the difference in electrical potential between the negative and
+            positive side of the battery. This potential difference is called
+            voltage.</p>
+          <p>5. Amperage = The rate that the water flows through the pump is
+            like the rate at which the electrons travel in a circuit.</p>
+          <p>6. Resistance = making the pipe smaller or putting in a sponge or
+            filter.</p>
+
+          <p>Water pipes need to be all connected in order for the water to
+            flow. If there is a break in a pipe, then the system is broken.</p>
+
+          <p>Similarly, in an electronic circuit, all the components need to
+            connect to each other in such a way that the electrons can freely
+            flow from the negative to the positive side of the power source. If
+            there is a break, the electrons don&rsquo;t flow out like in a water
+            circuit, they just don&rsquo;t flow at all. Sometimes this is done
+            intentionally, this is called a switch.</p>
+
+          <p>Switch = intentionally opening and closing a gap in the circuit.</p>
+
+          <p>This is perhaps the most important concept for this workshop and
+            when working with Arduinos. If the circuit is not working, the
+            circuit is probably incomplete somewhere. So that is the first thing
+            to always check. Make sure everything is plugged in where it is
+            supposed to be plugged in. </p>
+
+          <p>Any questions so far?</p>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Look at slides, take notes, thoughtfully ponder how a system of water pipes is
+            like an electrical circuit.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-components">The Components</p>
+          <p><span class="slide">[Show slide 6]</span></p>
+
+          <ul>
+            <li>Power source
+              <ul>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li>An electrical circuit needs power, or a source of stored
+                  electrons. To power an Arduino, you can use a battery, a wall
+                  outlet adapter, or a USB cable to a computer. </li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul>
+            <li>Wires/conductors
+              <ul>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li> We use wires to connect the different components to each other
+                  and the Arduino. All of the wires are the same inside. The colors
+                  are to help you organize your circuit.</li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul>
+            <li>Resistors
+              <ul>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li> Resistors are bi-directional, meaning that they can be used in
+                  a circuit in any position. We use the resistors to restrict the
+                  current to certain components. &nbsp;Resistors have colored bands
+                  on them to denote how much resistance they have. </li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul>
+            <li>Photoresistor
+              <ul>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li>A photoresistor is a special kind of resistor. It changes
+                  resistance based on how much light is detected. In our pipe
+                  analogy, you can think of it like a sponge that grows more dense or
+                  more porous depending on the light.
+                </li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul>
+            <li>LED (light emitting diode)
+              <ul>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li>The LED, or Light Emitting Diode, is a component that is
+                  directional, meaning it allows electrons to flow through in only
+                  one direction. This would be like a one-way valve in a water pipe.
+                  As electrons flow through the diode, they lose energy in the form
+                  of light. Because LEDs are directional, there are two ways to
+                  determine the negative or positive side.
+                  <br>
+                  First, there is a flat spot on the &ldquo;brim&rdquo; of the LED to
+                  denote the negative side. Second, the &ldquo;leads&rdquo; or legs
+                  of the LED are different lengths. The positive, or
+                  &ldquo;cathode&rdquo; side is longer. The negative, or
+                  &ldquo;anode&rdquo; side is shorter. Just as a plus sign has more
+                  to it than a negative sign, the positive lead is longer than the
+                  negative.
+                </li>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li>In a wiring diagram, the positive side of the LED is denoted
+                  with a bent lead. </li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul>
+            <li>Breadboard
+              <ul>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li>The breadboard is simply an easy way to connect a bunch of
+                  components together. The holes are connected in the back by rows of
+                  metal. If you were to remove the protective paper from the back,
+                  you would see the image on the left, how the rows are connected and
+                  the two columns on either side are connected.
+                </li>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li>For instance, the holes a, b, c, d, e in row 1 are all
+                  connected to each other, but nothing else.</li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul>
+            <li>Arduino
+              <ul>
+                <li><span class="slide">[Progress slide]</span></li>
+                <li>Arduinos are small mico-controllers that allow you to gather
+                  input from sensors (like sound, motion, temperature, humidity,
+                  light, etc), through code impart some logic based on that input,
+                  and then generate some kind of output (like sound, motion, light,
+                  etc).
+                </li>
+                <li>For example, you can have a sensor that detects light, then
+                  your code can determine to turn on or off an LED based on how much
+                  light was detected. That&rsquo;s the basics of a nightlight, which
+                  we will construct at the end of this workshop.
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Get out arduino kits and look at all the components as they are
+            discussed.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-assessment-1">Assessment</p>
+          <p>Pause for questions and assessment of knowledge and understanding. Ask
+            questions like:</p>
+
+          <ul>
+            <li>Is there any confusion about any of the components talked about
+              so far?</li>
+            <li>What&rsquo;s the difference between a resistor and a
+              diode?
+              <ul>
+                <li>Resistor = restricts flow of electrons</li>
+                <li>Diode = only allows electrons to flow in one direction</li>
+              </ul>
+            </li>
+
+            <li>How does a photoresistor affect a circuit?
+              <ul>
+                <li>It changes resistance based on the amount of light.</li>
+              </ul>
+            </li>
+            <li>How would you use the breadboard to connect an LED to a resistor?
+              <ul>
+                <li>One lead of the LED should be in the same row as a lead of
+                  the resistor. For example, one lead from the LED in hole 1A,
+                  and one lead from the resistor in hole 1D.</li>
+              </ul>
+            </li>
+
+            <li>What do you think would happen to the brightness of an LED if you
+              changed a small resistor for a larger resistor?
+              <ul>
+                <li>The brightness would decrease.</li>
+              </ul>
+            </li>
+          </ul>
+
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Ask questions or answer questions</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-arduino-ide">The Arduino IDE</p>
+          <p><span class="slide">[Show slide 7]</span></p>
+          <ul>
+            <li>The Arduino IDE is the interface we use to write the code, or the logic,
+              that we will then send to the Arduino board.</li>
+          </ul>
+          <p><span class="slide">[Show slide 8]</span></p>
+          <ul>
+            <li>The software is free and available at <a
+                href="https://www.arduino.cc/en/Main/Software">https://www.arduino.cc/en/Main/Software</a>
+            </li>
+            <li>There is a download version (for any operating system), or a
+              web version.</li>
+            <li>While you install the IDE, we&rsquo;ll go over some of the
+              basics of the interface.</li>
+          </ul>
+          <p><span class="slide">[Show slide 9]</span></p>
+          <ul>
+            <li>
+              The two most important things to check after opening the Arduino
+              software are 1) the board, and 2) the port.
+            </li>
+            <li>If you go to the Tools menu, you&rsquo;ll see a submenu
+              for Board: and a submenu for Port.
+            </li>
+          </ul>
+
+          <p>Check The Board</p>
+          <ul>
+            <li>Click on the Board submenu to see the various types of Arduino
+              boards you can connect to. For this workshop, you&rsquo;ll either
+              use the Arduino Uno or the Arduino 101.
+            </li>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>You may need to look down at the very bottom of the list to
+              find your board.</li>
+          </ul>
+          <p><span class="slide">[Show slide 10]</span></p>
+          <ul>
+            <li>If your specific Arduino board is not present, click on the
+              Board Manager&hellip; menu to bring up the board manager.</li>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>Search for your board and click the Install button.</li>
+          </ul>
+
+          <p>Check The Port</p>
+          <p><span class="slide">[Show slide 11]</span></p>
+          <ul>
+            <li>Next, make sure the Arduino is plugged into the computer with the USB port.
+              There is only one way the cable can go.</li>
+            <li>Select the Tools menu, then the Port submenu.
+              There should be an option there that has the name of the Arduino
+              board. Select that port.
+            </li>
+          </ul>
+
+          <p>Check Code and Upload</p>
+          <p><span class="slide">[Show slide 12]</span></p>
+          <ul>
+            <li>Next we&rsquo;ll look at two buttons in the IDE that are useful.</li>
+            <li><span class="slide">[Progress slide]</span> Zoom in to the buttons..</li>
+            <li>First is the code check button. This checks your code for
+              errors, and if there are any errors, it will let you know.</li>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>The second button checks your code, and then sends it to the
+              Arduino if there are no errors.</li>
+            <li>You usually just need the second button.</li>
+          </ul>
+
+          <p>Writing Your Code</p>
+          <p><span class="slide">[Show slide 13]</span></p>
+          <ul>
+            <li>Each new document you start is pre-filled with a couple of
+              pieces of code. In Arduino language, these documents are called
+              sketches. They can also be called scripts, or code files.
+            </li>
+            <li><span class="slide">[Progress slide]</span>&nbsp;</li>
+            <li>The first piece of code is called the setup function. A
+              function is like a bunch of code you write that can be used again
+              later, just by using the function&rsquo;s name.
+            </li>
+            <li>Line 1 starts our function. Here we use the word
+              &lsquo;void&rsquo; to tell Arduino what kind of function it is. It
+              is a function that doesn&rsquo;t return any information, it just
+              does something, so it is a &lsquo;void&rsquo; function. The name of
+              the function is &lsquo;setup&rsquo;. The parentheses designate if
+              we can pass information to the variable when it is called/run/used.
+              In this case there is nothing. Then finally, we have an open curly
+              brace to say, this is where the function&rsquo;s code starts, and a
+              closing curly brace on line 4 to say, this is where the setup
+              function&rsquo;s code ends.
+            </li>
+            <li>Line 2 is just a comment. The Arduino just ignores this line.
+              It&rsquo;s just there for us humans.</li>
+            <li>Line 3 is left blank.</li>
+            <li>Line 5 is just an empty line.</li>
+            <li> We would use the setup function to tell the Arduino to do
+              stuff as soon as it loads the code. It does all of the stuff in the
+              function once, then moves on to the next function.
+            </li>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>The second piece of code is another &lsquo;void&rsquo; function called
+              loop.</li>
+            <li>Line 6 starts the function, it&rsquo;s type is void, there are no
+              parameters passed into the function (nothing between the parentheses). </li>
+            <li>Line 7 is another comment.</li>
+            <li>Line 8 is blank.</li>
+            <li>And line 9 is the closing curly brace.</li>
+            <li>When the Arduino gets to this function, it runs the code inside
+              over and over again as fast as it can. It loops over the code
+              continuously until the Arduino loses power or you send it new code.
+            </li>
+          </ul>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Download the Arduino IDE for your operating system and install.</p>
+
+          <p>Select the correct board from the Board submenu.</p>
+
+          <p>Connect the Arduino to the computer.</p>
+
+          <p>Select the correct port from the Port submenu.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-circuit">Make a Circuit!</p>
+          <p><span class="slide">[Show slide 14]</span></p>
+          <p>Finally, we get to do what we came here to do. Make a circuit!</p>
+          <p><span class="slide">[Show slide 15]</span></p>
+          <p>Put together a circuit like this. An LED connected to a 100Ohm resistor
+            connected to pin 12, and one lead connected to GND on the Arduino.</p>
+          <ul>
+            <li>Reminder: the LED might start blinking, depending on what code
+              already is on the Arduino.</li>
+          </ul>
+
+          <p><span class="slide">[Show slide 16]</span></p>
+          <p>Next, write the code needed to turn on the LED. </p>
+          <ul>
+            <li><span class="slide">[Progress slide]</span>&nbsp;</li>
+            <li>In the setup function, you&rsquo;ll tell the Arduino to send
+              out a current on pin 12 using a new function called pinMode. This
+              tells the Arduino that a specific pin is either sending out current
+              (OUTPUT) or receiving current (INPUT).
+            </li>
+            <li><span class="slide">[Progress slide]</span>&nbsp;</li>
+            <li>In the loop function, you&rsquo;ll use a new function to tell
+              the Arduino to actually send current to the specified pin using the
+              digitalWrite function. This function needs a pin number and a value
+              of HIGH or LOW. (See the Deeper Understanding section for more on
+              why HIGH or LOW instead of ON or OFF.)
+            </li>
+            <li><span class="slide">[Progress slide]</span>&nbsp;</li>
+            <li>And this is how you could write those two functions inside the setup and
+              loop functions.</li>
+          </ul>
+          <p>Allow time for participants to put together the circuit, write the code, and
+            troubleshoot any issues.</p>
+
+          <p>Check in with each participant to make sure the LED turns on.</p>
+
+          <p>Troubleshooting:</p>
+          <ul>
+            <li>Check Board and Port settings</li>
+            <li>Check that wires are plugged in firmly</li>
+            <li>Make sure all connections are made</li>
+            <li>Check that the correct pin # is used in the code</li>
+          </ul>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Connect the circuit.</p>
+
+          <p>Write the code.</p>
+
+          <p>Ask questions if it doesn&rsquo;t work.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-blinking">Blinking Light!</p>
+          <p><span class="slide">[Show slide 17]</span></p>
+          <p>Next, we&rsquo;ll make the light blink. With just one more function and a few
+            lines of code we can turn the LED into a blinking light.</p>
+          <ul>
+            <li>The delay function allows us to pause the script for a set number of
+              milliseconds. 1000 seconds = 1 second.</li>
+            <li>See if you can write the code that will allow the LED to blink.
+              That means it will turn on for 1 second, then turn off for 1
+              second, then turn on for 1 second, then turn off for 1 second, etc.
+            </li>
+          </ul>
+
+          <p>After sufficient time for participants to try to write the code,
+            and after working with participants individually to get their code
+            working, you can progress the slide to show the solution.
+          </p>
+          <ul>
+            <li><span class="slide">[Progress slide]</span>&nbsp;</li>
+            <li>Here is one way to write the code.</li>
+          </ul>
+
+          <p>Offer a challenge or exercise for further study:</p>
+          <ul>
+            <li>Play around with the number in the delay function to see what that does to
+              the blinking light.</li>
+          </ul>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Write code to make the LED blink.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-assessment-2">Assessment</p>
+          <ul>
+            <li>What is the least number of lines of code needed to blink the LED?
+            </li>
+            <li>Is the order of the delay and digitalWrite arbitrary? How can you reorder
+              the code and still get the LED to blink?</li>
+            <li>What happens if the LED is flipped in the circuit?</li>
+            <li>Why can you put the resistor on the negative or positive side of the
+              LED?</li>
+          </ul>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Answer assessment questions.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-night-light">Night Light Circuit!</p>
+          <p>Now we move on to the next component needed for making our
+            nightlight, the photoresistor. Remember the photoresistor changes its
+            resistance based on the amount of light it senses. We&rsquo;ll use
+            this ability to determine when to turn the LED on or off.
+          </p>
+          <p><span class="slide">[Show slide 18]</span></p>
+          <p>First, you&rsquo;ll need to add the photoresistor to your circuit.
+            This will need to be connected to a voltage output, the 5v pin, and
+            to ground, the GND pin, with a 10K Ohm resistor. A third wire will
+            connect to the photoresistor at the point where the resistor connects
+            and then connect to analog pin zero on the Arduino, marked as A0.
+          </p>
+
+          <p>The Arduino can&rsquo;t actually detect the amount of resistance a
+            component is contributing to the circuit, but it can detect the
+            difference in current or voltage. The photoresistor and the 10K Ohm
+            resistor create a circuit called a voltage divider. Think of it as
+            two sponges in a water pipe. If you know the flow of water going into
+            the pipe and the &ldquo;resistance&rdquo; of one spong, then as the
+            other sponge changes and you observe the new flow rate, you can
+            calculate the resistance of the second sponge. In any case, we are
+            able to use the change in potential current (the voltage) using the
+            photoresistor and a second resistor, which allows us to calculate the
+            change in resistance.
+          </p>
+
+          <p>We then use that number in the logic of our software to determine
+            when to turn on the LED.</p>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Connect the photoresistor and 10K Ohm resistor to the Arduino following the
+            diagram given.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-nightlight-code">Night Light Code!</p>
+          <p><span class="slide">[Show slide 19]</span></p>
+          <p>Now we can update our code in the Arduino IDE program. This sketch introduces
+            two new programming concepts; variables and the if...else logic structure.</p>
+          <p>The first, as seen on lines 3, 4, and 5 is that of creating a
+            variable. A variable, in programming, is like a box that we put
+            information in. There are four parts to making a variable in the
+            Arduino language.
+          </p>
+          <ul>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>First, we must specify what kind of information can be stored in this
+              variable. In this case we need a number, so we use integer, or int. </li>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>Some of the most used options are
+              <ul>
+                <li>int = numbers</li>
+                <li>float = numbers with a decimal point</li>
+                <li>char = &nbsp;all characters</li>
+              </ul>
+            </li>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>Second, the label, or name, of the variable.</li>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>Third, we use the single equal sign to assign a value to the variable. This
+              is what puts the information into the box.</li>
+            <li><span class="slide">[Progress slide]</span></li>
+            <li>Fourth, the value that we want to store in the variable.</li>
+          </ul>
+
+          <p>On line 3, we create a variable to hold the sensitivity value. The
+            higher the number the more sensitive the nightlight is. The
+            photoresistor will send a value from 0 to 1023. Let&rsquo;s say that
+            the amount of light in the room means the photoresistor gives us a
+            value of 500. A value of 100 for the threshold means that when the
+            value of the sensor drops below 400, then the LED will turn on. If we
+            set the threshold to 20, then the LED would turn on when the
+            photoresistor sends a value of 480.
+          </p>
+
+          <p>On lines 4 and 5, we create two variables that have no value. We
+            create, or &lsquo;instantiate&rsquo;, the variables here so that we
+            can use them later. This has to do with the scope of the variable, or
+            which parts of the code can &lsquo;see&rsquo; or recognize the
+            variable and its value or not. The &lsquo;resistance&rsquo; variable
+            will eventually hold the value of the photoresistor everytime the
+            code checks for it. The &lsquo;initialPhotoValue&rsquo; will hold the
+            value of the photoresistor when the code runs for the first time.
+          </p>
+
+          <p>On line 7, we start the setup function.</p>
+
+          <p>On line 8, we set the mode for pin 12 to be output, we&rsquo;ll be
+            sending current to the LED on pin 12.</p>
+
+          <p>On line 9, we grab the value of the photoresistor and assign the
+            value to the variable &lsquo;initialPhotoValue&rsquo; that we created
+            on line 5. We want to grab the value of the photoristor here because
+            this value totally depends on how much light there is in the room.
+            This value is dependent upon the amount of light in the room each
+            time the Arduino is turned on and the code is run.
+          </p>
+
+          <p>We use the analogRead() function, and pass zero as the parameter.
+            This means we will read in the value of the photoresistor that is
+            plugged into pin A0 on the Arduino. The A stands for Analog.
+          </p>
+
+          <p>On line 12, we start the loop function.</p>
+
+          <p>On line 15, we read the current value of the photoresistor. This
+            value possibly changes each time the code loops through.</p>
+
+          <p>On line 19, we start the other new programming concept, the
+            if...else statement. This is a logic statement that allows us to make
+            a test of some values, and then based on the result the Arduino will
+            run certain code. This line starts the if statement with the word
+            &lsquo;if&rsquo;. Then in parenthesis we put the condition that is
+            tested. In this case, we want to see if the current value of the
+            photoresistor is less than the initial value minus the threshold.
+            Let&rsquo;s say that the current value of the photoresistor is 400,
+            and the initial value was 645, and our threshold is 100. We can
+            substitute those values in for the variables to test whether the
+            equation is true or not. Is 400 less than 645 - 100?
+          </p>
+
+          <p>If that is true, the code on line 20 is run, or executed, and
+            lines 21-23 are ignored. If that is false, then line 20 is ignored,
+            and line 22 is executed.</p>
+
+          <p>Notice the curly braces on lines 19, 21 and 23. Their purpose is
+            similar to the curly braces used by the functions setup and loop.
+            They let the program know what code is encapsulated, or enclosed, or
+            belongs, to the &lsquo;if&rsquo; or the &lsquo;else&rsquo; part of
+            the statement.
+          </p>
+
+          <p>So, if the current value of the photoresistor is less than the
+            initial value minus the threshold, then line 20 is executed. The
+            digitalWrite function, or method, is used to send current to pin 12
+            which is connected to the LED.
+          </p>
+
+          <p>Else/otherwise, line 22 is executed, and the digitalWrite method
+            is used to stop current to pin 12.</p>
+
+          <p>Troubleshooting Tips:</p>
+          <ul>
+            <li>Check that the circuit is correct. Plug each wire and component in exactly
+              as shown on the diagram if necessary.</li>
+            <li>Check that there are no missing semicolons. The Arduino IDE will give visual
+              clues in the code (squiggle underlines, etc). </li>
+            <li>Check for errors in the output section of the IDE.</li>
+            <li>Double check that the Board and Port are correct.</li>
+          </ul>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Type code into the Arduino IDE and send it to the Arduino.</p>
+
+          <p>Cover the photoresistor with your hand, and the LED should light up.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-assessment-3">Assessment</p>
+          <ul>
+            <li>What happens when you change the sensitivity of the circuit by
+              changing the value of the &lsquo;threshold&rsquo; variable in the
+              code, line 3?</li>
+            <li>Can you make it so the LED turns on when a shadow passes over the
+              photoresistor? </li>
+          </ul>
+
+        </td>
+        <td colspan="1" rowspan="1">
+          <p>Change the sensitivity of the circuit by changing the value of the
+            &lsquo;threshold&rsquo; variable in the code, line 3. </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="1" rowspan="1">
+          <p id="script-proclamation">Proclamation</p>
+          <p><span class="slide">[Show slide 20]</span></p>
+
+          <p>Proclaim that the participants are not bonafide electrical engineers and
+            coders!</p>
+
+          <p>Thank each participant for coming. Answer any questions.</p>
+        </td>
+
+        <td colspan="1" rowspan="1">
+          <p>Pack up and fill out survey.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2 id="resources">Resources</h2>
+
+  <ul>
+    <li>Equipment Needed (determine beforehand if the instructor provides the equipment
+      or if the participants must bring their own)</li>
+    <li>Arduino kit, or Arduino with
+      <ul>
+        <li>1 USB cable</li>
+        <li>5 jumper wires, any color</li>
+        <li>1 LED </li>
+        <li>1 10K Ohm resistor</li>
+        <li>1 100 Ohm resistor</li>
+        <li>1 photoresistor</li>
+        <li>1 breadboard</li>
+      </ul>
+    </li>
+    <li>Laptop with Arduino IDE installed</li>
+    <li>Power cable if needed and access to power outlet</li>
+    <li> Slides: <a
+        href="https://docs.google.com/presentation/d/1nAePGoZULM71w17anXhqHNs5JbMpbm6SNq2v2b3B24Y/edit%23slide%3Did.g97cc113b5f_0_287">
+        https://docs.google.com/presentation/d/1nAePGoZULM71w17anXhqHNs5JbMpbm6SNq2v2b3B24Y/edit#slide=id.g97cc113b5f_0_287
+      </a>
+    </li>
+  </ul>
+
+
+  <h2 id="assessment">Assessment</h2>
+  <ul>
+    <li>See assessment questions in the workshop script.</li>
+    <li>Post Workshop Assessment Questions.
+      <ul>
+        <li>These can be asked or presented as a survey on paper for quick feedback.
+        </li>
+        <li>What other things do you want to learn about?</li>
+        <li>Was there anything you were hoping we would cover that we didn&rsquo;t?</li>
+        <li>Are you confused about anything that we did cover.</li>
+      </ul>
+    </li>
+  </ul>
+
+
+  <h2 id="homework">Homework</h2>
+  <p>Take this project to the next level!</p>
+  <ul>
+    <li>Make the LED blink using the delay() function.</li>
+    <li>Make a traffic light with red, green and yellow LEDs.</li>
+    <li>Complete more experiments from
+      <ul>
+        <li><a
+            href="https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41">https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41</a>
+        </li>
+        <li><a
+            href="https://create.arduino.cc/projecthub/projects/tags/arduino">https://create.arduino.cc/projecthub/projects/tags/arduino</a>
+        </li>
+        <li><a
+            href="https://www.instructables.com/Arduino-Projects/">https://www.instructables.com/Arduino-Projects/</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2 id="promote">Promote</h2>
+  <ul>
+    <li>This workshop showed you how to use an Arduino Micro controller. We
+      have other workshops that show you how to use a Raspberry Pi. It&rsquo;s
+      very similar to a micro-controller, but the Raspberry Pi is a full computer
+      but the size of an Arduino. So it opens up so many more possibilities.
+    </li>
+    <li>Throw in the DH angle, give examples of how technology is used in the
+      humanities fields </li>
+  </ul>
+
+
+
+  <h2 id="further-resources">Further Resources</h2>
+  <ul>
+    <li>Arduino Guides and Projects
+      <ul>
+        <li><a
+            href="https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board/all%23experiment-1-blinking-an-led">
+            https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board/all#experiment-1-blinking-an-led
+          </a>
+        </li>
+        <li><a
+            href="https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/all%23project-1-light">
+            https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/all#project-1-light
+          </a>
+        </li>
+        <li><a href="https://create.arduino.cc/projecthub/projects/tags/arduino">
+            https://create.arduino.cc/projecthub/projects/tags/arduino
+          </a>
+        </li>
+        <li> <a href="https://www.instructables.com/Arduino-Projects/">
+            https://www.instructables.com/Arduino-Projects/
+          </a>
+        </li>
+        <li><a href="https://maker.pro/arduino">https://maker.pro/arduino</a> &nbsp;
+        </li>
+        <li><a href="https://www.hackster.io/arduino">https://www.hackster.io/arduino</a>
+        </li>
+      </ul>
+    </li>
+
+    <li>Arduino Software IDE
+      <ul>
+        <li><a href="https://www.arduino.cc/en/Main/Software">https://www.arduino.cc/en/Main/Software</a></li>
+      </ul>
+    </li>
+
+    <li>ELEGOO Arduino Kit
+      <ul>
+        <li><a
+            href="https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4">https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4</a>
+        </li>
+      </ul>
+    </li>
+
+    <li>Online Arduino Simulator
+      <ul>
+        <li><a href="https://www.tinkercad.com/learn/circuits">https://www.tinkercad.com/learn/circuits</a></li>
+      </ul>
+    </li>
+
+    <li>Dig deeper into how electricity works
+      <ul>
+        <li><a
+            href="https://sites.google.com/a/acsbr.org/mr-leong-chuen-kit-physics-resources-site/17-current-of-electricity">https://sites.google.com/a/acsbr.org/mr-leong-chuen-kit-physics-resources-site/17-current-of-electricity</a>
+        </li>
+        <li><a
+            href="https://theengineeringmindset.com/how-electricity-works/">https://theengineeringmindset.com/how-electricity-works/</a>
+        </li>
+        <li><a href="https://www.youtube.com/watch?v%3Dmc979OhitAg">https://www.youtube.com/watch?v=mc979OhitAg</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2 id="deeper-understanding">Deeper Understanding</h2>
+  <p>Q: Why are HIGH and LOW used to designate a pin as on or off?</p>
+  <p>A: <a
+      href="https://www.arduino.cc/reference/en/language/variables/constants/constants/">https://www.arduino.cc/reference/en/language/variables/constants/constants/</a>
+  </p>
+
+  <p>Defining Pin Levels: HIGH and LOW</p>
+  <p>When reading or writing to a digital pin there are only two possible
+    values a pin can take/be-set-to: HIGH and LOW.</p>
+  <p>HIGH</p>
+  <p>The meaning of HIGH (in reference to a pin) is somewhat different
+    depending on whether a pin is set to an INPUT or OUTPUT. When a pin is
+    configured as an INPUT with pinMode(), and read with digitalRead(), the
+    Arduino (ATmega) will report HIGH if: </p>
+  <ul>
+    <li>a voltage greater than 3.0V is present at the pin (5V boards)</li>
+    <li>a voltage greater than 2.0V volts is present at the pin (3.3V boards)
+    </li>
+  </ul>
+
+  <p>A pin may also be configured as an INPUT with pinMode(), and subsequently
+    made HIGH with digitalWrite(). This will enable the internal 20K pullup
+    resistors, which will pull up the input pin to a HIGH reading unless it is
+    pulled LOW by external circuitry. This can be done alternatively by passing
+    INPUT_PULLUP as argument to the pinMode() function, as explained in more
+    detail in the section &quot;Defining Digital Pins modes: INPUT, INPUT_PULLUP,
+    and OUTPUT&quot; further below. </p>
+
+  <p>When a pin is configured to OUTPUT with pinMode(), and set to HIGH with
+    digitalWrite(), the pin is at:</p>
+  <ul>
+    <li>5 volts (5V boards)</li>
+    <li>3.3 volts (3.3V boards)</li>
+  </ul>
+
+  <p>In this state it can source current, e.g. light an LED that is connected
+    through a series resistor to ground.</p>
+
+  <p>LOW</p>
+  <p>The meaning of LOW also has a different meaning depending on whether a pin
+    is set to INPUT or OUTPUT. When a pin is configured as an INPUT with
+    pinMode(), and read with digitalRead(), the Arduino (ATmega) will report LOW
+    if:</p>
+
+  <ul>
+    <li>a voltage less than 1.5V is present at the pin (5V boards)</li>
+    <li>a voltage less than 1.0V (Approx) is present at the pin (3.3V boards)
+    </li>
+  </ul>
+
+  <p>When a pin is configured to OUTPUT with pinMode(), and set to LOW with
+    digitalWrite(), the pin is at 0 volts (both 5V and 3.3V boards). In this
+    state it can sink current, e.g. light an LED that is connected through a
+    series resistor to +5 volts (or +3.3 volts). </p>
+</div>
