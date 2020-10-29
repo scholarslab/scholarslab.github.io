@@ -25,7 +25,7 @@ order: 3
   <div class="makerspace__ethos">
   <div class="banner" style="border: 5px solid #00FFFF; padding: 20px;">
     <h2>New Location!</h2>
-    <p>The Main Library is being renovated and is currently closed. The
+    <p>The main library is being renovated and is currently closed. The
     Scholars' Lab and the Makerspace have moved next door to the Clemons
     Library 3rd Floor.</p>
   </div>
@@ -58,6 +58,35 @@ order: 3
     consultation is needed, it may be available by appointment. Please send all
     inquiries to <a
       href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>.</p>
+
+    <p>Or schedule an online consulation with Ammon.</p>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script>
+jQuery.getScript("https://api3.libcal.com/js/myscheduler.min.js", function() {
+    jQuery("#mysched_41069").LibCalMySched({iid: 863, lid: 4868, gid: 0, uid: 41069, width: 560, height: 680, title: 'Schedule a Consultation with Ammon -', domain: 'https://api3.libcal.com'});
+});
+</script>
+
+<!-- Place the following link anywhere in your page. Make sure the id "mysched_41069" matches with the above code: jQuery("#mysched_41069")  //-->
+<button id="mysched_41069" href="#">Schedule Consultation</button>
+<!-- Below is optional button styling  //-->
+<style>
+#mysched_41069 {
+  background: #00FFFF;
+  border: 2px solid #088;
+  box-shadow: 2px 2px 2px 1px rgba(135, 60, 221, .2);
+  border-radius: 4px;
+  color: #333333;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#mysched_41069:hover, #mysched_41069:active, #mysched_41069:focus {
+  opacity: 0.6;
+}
+</style>
+
+
   </div>
 
   <div class="makerspace__people">
@@ -69,7 +98,8 @@ order: 3
       </div>
       <div class="maker-students__label">Student Technologists</div>
       <div class="maker-students__list">
-        <span>Andrew Carl:</span>3D Printing, 3D Modeling, Electronics, Wearables<br/>
+        <!-- <span>Andrew Carl:</span>3D Printing, 3D Modeling, Electronics,
+             Wearables<br/> -->
         <span>Nora Dale:</span>3D Printing, Textiles, Buttons</br/>
         <span>Brandon Phan:</span>3D Printing, 3D Modeling<br/>
       </div>
@@ -113,8 +143,10 @@ order: 3
       href="https://cal.lib.virginia.edu/equipment?lid=241&gid=8343">https://cal.lib.virginia.edu/equipment?lid=241&gid=8343</a> And see
     here for available training: or email <a
       href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a>
+    <!--
     <p>Check here for printer availability.</p>
     <a href="https://cal.lib.virginia.edu/reserve/SLab3DPrinters">https://cal.lib.virginia.edu/reserve/SLab3DPrinters</a>
+    -->
 
   </div>
 
