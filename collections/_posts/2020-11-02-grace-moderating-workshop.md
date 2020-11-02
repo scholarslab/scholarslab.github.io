@@ -55,4 +55,4 @@ As far as what texts I would use, I of course already knew I’d be asking my au
 
 So, what do you think? If you’ve read this far—and again, major kudos for doing so—I’d love to hear your thoughts on my proposed workshop. Is it too long? Too involved? Not clear on what it’s trying to show? Is there anything you’d do differently (especially if you have experience running workshops—but even if you don’t)? Let me know!
 
-* This is not to draw a moral equivalency between the New Left and Riot Grrrls with white nationalists, of course!
+* This is not to draw a moral equivalency between the New Left or Riot Grrrls and white nationalists, of course!
