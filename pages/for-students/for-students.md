@@ -61,6 +61,10 @@ UVA departments determine language proficiency requirements for their students. 
 
 The University of Virginia offers a twelve-credit graduate certificate in digital humanities. More information about the certificate and information about how to apply, including application dates, can be found on the [certificate website](https://dh.virginia.edu/certificate). Many Scholars' Lab students go on to receive the certificate, and the Lab is available for consultations pertaining to certificate work. 
 
+## Outside Experts for Theses and Dissertations
+
+The Scholars’ Lab staff are, by and large, not graduate faculty and so cannot serve on dissertation committees as one of your UVA faculty representatives or as your fourth reader (Dean’s representative). But we do want to support you if your work can benefit from our expertise, and that support can extend to the writing that you do about your digital project. We can read, comment and consult on your project, and, in some cases, attend your defense as an outside expert. Your Director and Director of Graduate Studies would be the first people to ask about approval for the latter. If your dissertation (or part of it) would benefit from the perspective of someone in the Scholars’ Lab, talk to us to see how we can help.
+
 ## Professional Development
 No deadline or formal call! Delivered on an ongoing, by-request basis.
 
