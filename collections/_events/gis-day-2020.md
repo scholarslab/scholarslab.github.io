@@ -7,7 +7,7 @@ end_time: '15:00:00'
 layout: events
 slug: gis-day-2020
 title: 'GIS Day!'
-location: '[Register for Zoom Link](https://cal.lib.virginia.edu/calendar/events/GISDay2020)'
+location: '<a href="https://cal.lib.virginia.edu/calendar/events/GISDay2020">Register for Zoom Link</a>'
 ---
 
 Come celebrate international GIS Day on November 18th with the UVA Library Scholars' Lab. This year's event will be virtual and will be limited to a one hour session of short presentations. Unfortunately, we can’t provide a GIS Day cake, but feel free to enjoy your own sweet treat while we collectively celebrate all that is GIS.
