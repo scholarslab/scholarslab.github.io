@@ -15,7 +15,7 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 **Call issued:** Annually in December, typically by the beginning of the Spring semester.
 
-**Deadline:** March 1st, 2021 for the 2020-2021 fellowship year.
+**Deadline:** March 1st, 2021 for the 2021-2022 fellowship year.
 
 [More information](/praxis-program-fellowships/)
 
