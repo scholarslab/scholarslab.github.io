@@ -270,7 +270,7 @@ When you've finished creating your new page, jump to [Step 2](#move-your-writing
 
 ### Edit existing content
 
-If you want to edit a blog post or page that already exists on our live website:
+If you want to edit a blog post or page that has already been published to our live website:
 
 1. Create and switch to a new branch using the [instructions in the Branch section](#branch) above.  
 
