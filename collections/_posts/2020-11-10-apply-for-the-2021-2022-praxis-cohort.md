@@ -1,13 +1,19 @@
 ---
-layout: page
-title: Praxis Program Fellowships
-permalink: /praxis-program-fellowships/
-nav: false
+author: brandon-walsh
+date: 2020-11-10 14:32:30
+layout: post
+slug: apply-for-the-2021-2022-praxis-cohort
+title: Apply For The 2021-2022 Praxis Cohort!
+categories:
+- Announcements
+- Digital Humanities
+tags:
+- Digital Humanities
 ---
 
-**Applications are now open for the 2021-2022 cohort. Applications are due March 1st, 2021. More details on how to apply at the end of this note**. 
+Calling UVA graduate students! We're still thinking about 2020, but it's never too early to think about next year. **Applications are now open for the 2021-2022 Praxis Program cohort. Applications are due March 1st, 2021**. Consider spending some time with us next year!
 
-If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2021-2022 cohort - **February 1st, 2021 from 2:00-3:00 on Zoom. Please [register](https://virginia.zoom.us/meeting/register/tJAkfuiqqzIiGNNUoJODsImvzCB8Cm_JUyJB) to attend**. You are, of course, welcome to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) separately and/or sooner for an individual meeting to discuss your application.
+If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2021-2022 cohort - **February 1st, 2021 from 2:00-3:00 on Zoom. Please [register](https://virginia.zoom.us/meeting/register/tJAkfuiqqzIiGNNUoJODsImvzCB8Cm_JUyJB) to attend**.
 
 The [Praxis Program](http://praxis.scholarslab.org/) is a radical re-imagining of the annual teaching and training we offer in the Scholars' Lab. This fellowship supports a team of University of Virginia PhD students from a variety of disciplines, who work collaboratively on a shared digital humanities project. Under the guidance of Scholars' Lab faculty and staff, Praxis fellows conceive, develop, publish, and promote a digital project over the course of an academic year. Praxis is a unique and well-known training program in the international digital humanities community. Our fellows blog about their experiences and develop increased facility with project management, collaboration, and the public humanities, even as they tackle (most for the first time, and with the mentorship of our faculty and staff) new programming languages, tools, and digital methods. Praxis aims to prepare fellows with digital methodologies to apply both to the fellowship project and their future research.
 
