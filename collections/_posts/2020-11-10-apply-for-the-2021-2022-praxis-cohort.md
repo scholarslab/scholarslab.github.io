@@ -41,7 +41,7 @@ The application process for Praxis is simple! You apply individually, and we ass
 * summary of the applicant's plan for use of digital technologies in your research;
 * summary of what skills, interests, methods the applicant will bring to the Praxis Program;
 * summary of what the applicant hopes to gain as a Praxis Fellow, both in the short and the long term;
-* and your availability on the days we've identified for interviews - **TBD the week of March 22nd - check back soon**. We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
+* and your availability on the day and times we've identified for interviews - **March 22nd 2-4; March 23rd 10-2; or March 24th 10-11**. We're aiming for a quicker process this year by announcing those group interview times in advance, though they may be subject to change if scheduling difficulties arise.
 
 The best Praxis applications are the ones that go beyond listing the skills and research one hopes to bring or take away from the experience. Instead, focusing on weaving those elements into a narrative of how the program connects to your life plans and how you, in turn, connect to the spirit of the program. 
 
