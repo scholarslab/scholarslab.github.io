@@ -3,7 +3,7 @@ author: emma-dove
 date: 2020-11-21
 layout: post
 slug: engaging-books
-title: “A Workshop about Engaging Books”
+title: A Workshop about Engaging Books
 categories: 
 - Digital Humanities
 - Grad Student Research
