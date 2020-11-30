@@ -1,12 +1,17 @@
 ---
-layout: page
-title: Digital Humanities Fellows Program
-permalink: /digital-humanities-fellows/
-nav: false
+author: brandon-walsh
+date: 2020-11-10 14:37:19
+layout: post
+slug: apply-to-be-a-digital-humanities-fellow-2021-2022-cohort
+title: Apply to our 2021-2022 cohort of Digital Humanities Fellows!
+categories:
+- Announcements
+- Digital Humanities
+tags:
+- Digital Humanities
 ---
-**Applications are now open for the 2021-2022 cohort. Applications are due Monday, February 15th, 2021. More details on how to apply at the end of this page**.
 
-The application deadline for fellowships to be held during the 2021-2022 academic year is **Monday, February 15th, 2021**. We will do our best to render decisions by March 1st.
+The application deadline for fellowships to be held during the 2021-2022 academic year is **Monday, February 15th, 2021**. More details on how to apply at the end of this page. 
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2021-2022 cohort - **January 19th, 2021 from 2:00-3:00 on Zoom. Please [register](https://virginia.zoom.us/meeting/register/tJYtdeqrrDIuE9e9tDl_IKivyhpj6VBCJAFv) to attend**. You are, of course, welcome to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) separately and/or sooner for an individual meeting to discuss your application so that you can get working.
 
