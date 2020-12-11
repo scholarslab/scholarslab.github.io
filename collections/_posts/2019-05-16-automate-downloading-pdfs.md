@@ -5,12 +5,11 @@ layout: post
 slug: automate-downloading-pdf-files
 title: Automate Downloading PDF Files
 categories:
-- Digital Humanities
+  - Digital Humanities
 tags:
-- Digital Humanities
+  - Digital Humanities
 ---
 
-# PDFs for free
 Don't you hate it when a website offers a PDF of their content (scanned
 archival files, for example) but on a page per page basis? And the process for
 downloading is several mouse clicks for each download.
@@ -18,6 +17,10 @@ downloading is several mouse clicks for each download.
 Shouldn't computers be able to solve this problem?
 
 Well, yes, they can.
+
+[Updated Dec 11, 2020 to show the updated Kantu icon and link to documentation.]
+
+# PDFs for free
 
 Here are the steps to set up your web browser (Chrome or Firefox) to automate
 the process of downloading PDF files (or to do whatever you want, filling out a
@@ -28,6 +31,7 @@ bad, morally wrong, or illegal things. If you do, and you get caught, don't
 blame me. :) ]
 
 # Set up
+
 To get this process working, you'll need to install a browser plugin called
 Kantu, made by a9t9 and available at [https://ui.vision/kantu ](https://ui.vision/kantu).
 
@@ -37,8 +41,10 @@ You can get those here: [https://ui.vision/kantu/x/download ](https://ui.vision/
 And that's all you need for the set up.
 
 # Create the workflow
+
 The next step is to notice all of the steps to down load the files you want.
 For example:
+
 - open the correct webpage in the browser
 - click on the 'Download' link
 - click on the 'Entire page' button
@@ -60,12 +66,13 @@ So now my steps look like this:
   - click on the 'next' arrow to bring up the next page for downloading
 
 # Code the Workflow
+
 Now that we have our workflow sorted out, we can create the code to do the work
 for us.
 
 Open the Kantu extension in your browser (the icon for it looks like this:
 
-![Kantu extension icon](/assets/post-media/2019-05-16-automate-downloading-pdf-files/kantu-icon.png) ).
+![Kantu extension icon](/assets/post-media/2019-05-16-automate-downloading-pdf-files/kantu-icon.png)
 
 You'll see a window like the one below. Click on the section marked with a red
 square to activate that step. You'll type in the command (or what the
@@ -74,7 +81,15 @@ blue and purple sections.
 
 ![Kantu window](/assets/post-media/2019-05-16-automate-downloading-pdf-files/kantu-window.png)
 
+## Documentation
+
+The Kantu interface has a link to find out more information about each of the commands available, but if you don't know what the commands are first, it's hard to know which command to use! So here is the list of commands that are available.
+Kantu Commands (based on the Selenium automation software): [https://ui.vision/rpa/docs/selenium-ide ](https://ui.vision/rpa/docs/selenium-ide)
+
+![Kantu documentation link](/assets/post-media/2019-05-16-automate-downloading-pdf-files/documentation.png)
+
 ## Open the page
+
 The first step is to have the browser open the correct page. In the green box,
 or the 'command' section, type in `open`, and in the blue box, or the 'target'
 section' type in the URL of the web page.
@@ -82,12 +97,13 @@ section' type in the URL of the web page.
 ![Enter the URL to open](/assets/post-media/2019-05-16-automate-downloading-pdf-files/open-url.png)
 
 ## While Loop
+
 Next we'll start the repeatable section. In coding we call that a loop. The
 computer loops through a section of code for a specified number of times. We'll
 use a 'while' loop. This means we'll set up a condition to test, and while the
 result of that test is true, the computer will run the code within it's
 section. Every time it finishes running the code, it tests the condition again,
-if it is still true, it will run the code again. 
+if it is still true, it will run the code again.
 
 We'll set up a counter, so that each time the code is run, the counter will
 increment by one. The condition will test if the counter is less than or equal
@@ -105,16 +121,16 @@ while counter <= 55
 ```
 
 So the next component we need to create is the counter. Create a new line, by
-clicking on the plus sign. 
+clicking on the plus sign.
 
 ![Click the plus](/assets/post-media/2019-05-16-automate-downloading-pdf-files/plus-sign.png)
 
-This will duplicate the 'open' command. 
+This will duplicate the 'open' command.
 
 ![Open duplicated](/assets/post-media/2019-05-16-automate-downloading-pdf-files/duplicated.png)
 
 Type in `store` in the 'command' section, `1` in the 'target' section, and
-`loopcount` in the 'value' section.
+`loopcounter` in the 'value' section.
 
 ![Store the value](/assets/post-media/2019-05-16-automate-downloading-pdf-files/store-loopcounter.png)
 
@@ -126,7 +142,7 @@ together.
 
 `${loopcounter}` is the counter that we set up on the previous line. This is a
 variable named 'loopcounter'. The '$' and '{' and '}' tell the system that
-'loopcounter' is acting as a variable and not regular words. 
+'loopcounter' is acting as a variable and not regular words.
 
 A variable is like a bucket. We can put a label on the bucket so we know what's
 inside. In this case we label the bucket 'loopcounter'. The content of the
@@ -147,19 +163,21 @@ You should now have three lines, open, store, and while.
 ![While loop started](/assets/post-media/2019-05-16-automate-downloading-pdf-files/while-loop.png)
 
 ## Looped Code
+
 Now we start the code that gets repeated, the code 'inside' the while loop. In
 the example from above, it will take three mouse clicks to download the file,
 then another mouse click to get to the next page.
 
 There are a number of ways to get the information needed to find the right
 place for the mouse to click. Kantu has some documentation for many of these,
-but we'll focus on just two ways that are just about foolproof. 
+but we'll focus on just two ways that are just about foolproof.
 
 The first two lines in this repeated code actually have nothing to do with the
 mouse clicks, but they are important to the while loop, and offer more
 functionality.
 
 ### File Name
+
 First we'll add a line to tell the program to wait until a file is downloaded
 before proceeding with the next steps. This also provides us a way to offer a
 custom name to the files that we download.
@@ -178,6 +196,7 @@ times the code has looped through the while loop. So the first time through
 ![onDownload](/assets/post-media/2019-05-16-automate-downloading-pdf-files/onDownload.png)
 
 ### Incrementor
+
 The next line will increment the counter by one. I like to put this as close to
 the 'while' line as possible, to make sure it is not forgotten. If we forget to
 add the increment, then the value of the loopcounter bucket remains at 1. And
@@ -204,8 +223,8 @@ the way it is.
 ![onDownload](/assets/post-media/2019-05-16-automate-downloading-pdf-files/storeEval.png)
 
 ### Click Version 1
-This first way of clicking is the best. It looks for an anchor tag (`<a
-href="url">Click here</a>`) in the HTML and looks for the text in between the
+
+This first way of clicking is the best. It looks for an anchor tag (`<a href="url">Click here</a>`) in the HTML and looks for the text in between the
 opening and closing tag. This is great, as long as you don't have multiple
 links with the same text on the page.
 
@@ -217,6 +236,7 @@ the link).
 ![click 1](/assets/post-media/2019-05-16-automate-downloading-pdf-files/click1.png)
 
 ### Click Version 2
+
 This second way is a bit trickier, but works very well, too. You'll need to use
 the developer tools that come with your browser. For this option, we'll use the
 XPath of the link for the program to know what to click on. No need to get into
@@ -231,7 +251,7 @@ Fortunately, we don't have to figure out the XPath ourselves. To get the XPath
 of the element, bring up the web page to show that element on the screen. In my
 case, I hover the mouse over a section that shows a thumbnail image with some
 text underneath it. Right-mouse-clicking on this section opens a browser menu.
-Look for the 'Inspect' option, and click on it. 
+Look for the 'Inspect' option, and click on it.
 
 ![Inspect the Entire Page button](/assets/post-media/2019-05-16-automate-downloading-pdf-files/inspect-entire-page.png)
 
@@ -267,7 +287,8 @@ next page.
 ![All the Clicks](/assets/post-media/2019-05-16-automate-downloading-pdf-files/all-the-clicks.png)
 
 ### The End of a While
-The final line of our program is to end the while loop. 
+
+The final line of our program is to end the while loop.
 
 Click on the plus sign of the last 'click' line to duplicate it. Then change
 the 'command' to `endWhile`. The 'target' and 'value' should be empty.
@@ -277,6 +298,7 @@ the 'command' to `endWhile`. The 'target' and 'value' should be empty.
 And that's it! The automation of downloading may commence to begin.
 
 # Run the program
+
 Kantu calls this program we just created a 'macro', so to run this macro, we
 just click the 'Play Macro' button.
 
@@ -288,6 +310,7 @@ website to start on, and the number of times to loop through the code, and any
 specific places to click.
 
 # Errors
+
 Like all computer programs, this macro will not run perfectly every time. I
 found that sometimes it would download 30 or 100 pages in a row just fine, but
 then suddenly stop. Sometimes it would download just 4 and then stop. If this
@@ -302,8 +325,8 @@ happens, I found that two things can fix it.
 
 Good luck, and happy scripting!
 
-
 # All the PDFs
+
 But wait! What about all of those PDF files of single pages! Isn't there a way
 to combine them all into one single PDF?
 
@@ -312,4 +335,3 @@ script to do it for me. I call it, PDF Combiner! It is available on my GitHub
 page, [https://github.com/ammonshepherd/pdfCombiner
 ](https://github.com/ammonshepherd/pdfCombiner). I'll describe the process of
 using this script in a forthcoming post.
-
