@@ -102,3 +102,7 @@ If I haven't scared you off with my last slide, I wanted to close with a resourc
 That’s it for me – thank you very much!
 
 Addendum: I got one question during the Q&A about how to convince other people to adopt this sort of stack for their own work. My response was to lean on the "costs" slide that I offered towards the end of the talk. Rather than assuming everyone needs to develop a pipeline like this in GitHub, I think any project team needs to look at their needs and the abilities of their group before committing to a system like this. To a large degree, this decision becomes a question of where your team wants to invest their energy. For some, that might very well be the kind of minimal computing setup we have here. For others, WordPress might make more sense. Our Programming Historian article has [a short section](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github#why-might-this-setup-fit-your-needs) on how to diagnose these needs and think about the costs and benefits of each. 
+
+Jojo put together an incredible sketch of the panel participants as we spoke. Sharing with her permission!
+
+![Jojo's sketch](/assets/post-media/mla-2021/jojo.jpg)  
