@@ -2,8 +2,8 @@
 author: ammon-shepherd
 date: 2020-11-13 13:27:09
 layout: post
-slug: docker-development-environtments-for-everyone
-title: Docker Development Environtments For Everyone
+slug: docker-development-environments-for-everyone
+title: Docker Development Environments For Everyone
 categories:
 - Digital Humanities
 - Research and Development
@@ -34,7 +34,7 @@ but two (2) different development environments; one for PHP, MySQL, Apache and
 phpMyAdmin, and one for Python (Flask) and PostgreSQL with pgAdmin. Each of
 these in a Docker container for ease of use.</p>
 
-<h2>Pre-requisits</h2>
+<h2>Pre-requisites</h2>
 
 <p>For any of this to work, make sure you have <a
 href="https://www.docker.com/get-started" data-type="URL"
