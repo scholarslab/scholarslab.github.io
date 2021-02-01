@@ -4,7 +4,7 @@ start_date: 2021-04-28
 end_date: 2021-04-28
 start_time: "11:00"
 end_time: "12:30"
-layout: workshop
+layout: makerspace
 location: "virtual"
 slug: workshop-2021-04-28-workshop-make-a-website
 title: "Make a Website"

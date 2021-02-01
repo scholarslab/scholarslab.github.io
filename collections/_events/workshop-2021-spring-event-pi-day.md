@@ -4,7 +4,7 @@ start_date: 2021-03-08
 end_date: 2021-03-12
 start_time: ""
 end_time: ""
-layout: events
+layout: makerspace
 location: "Clemons 320"
 slug: workshop-2021-spring-event-pi-day
 title: "Pi Day"

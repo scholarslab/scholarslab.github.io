@@ -4,7 +4,7 @@ start_date: 2021-05-03
 end_date: 2021-05-05
 start_time: ""
 end_time: ""
-layout: events
+layout: makerspace
 location: "Clemons 320"
 slug: workshop-2021-spring-event-mothers-day
 title: "Mother's Day"

@@ -1,10 +1,10 @@
 ---
 author: ammon-shepherd
-start_date: 2021-02-08
+start_date: 2021-02-010
 end_date: 2021-02-12
 start_time: ""
 end_time: ""
-layout: events
+layout: makerspace
 location: "Clemons 320"
 slug: workshop-2021-spring-event-valentines-day
 title: "Valentine's Day"
@@ -14,7 +14,7 @@ title: "Valentine's Day"
 
 Have a special someone in mind this year? Make them a light up Valentines card.
 
-Drop in anytime between 12pm and 9pm, Monday, February 8 through Friday, February 12.
+Drop in anytime between 12pm and 9pm, Wednesday, February 10 through Friday, February 12.
 
 Register to make sure a kit is available for you. You can pick up the kit anytime Clemons Library is open at the RMC info desk in Clemons 3rd floor.
 
