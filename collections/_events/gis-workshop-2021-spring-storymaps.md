@@ -5,7 +5,7 @@ start_time: '13:00:00'
 end_date: '2021-03-23'
 end_time: '14:00:00'
 layout: events
-slug: gis-workshop-2021-spring-new-storymaps
+slug: gis-workshop-2021-spring-storymaps
 title: 'Introduction to ArcGIS StoryMaps'
 location: 'Register for Zoom Link'
 ---
