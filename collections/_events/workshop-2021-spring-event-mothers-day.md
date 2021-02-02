@@ -18,4 +18,5 @@ Drop in anytime between 12pm and 9pm, Monday, April 3 and Wednesday, April 5.
 
 Register to make sure a kit is available for you. You can pick up the kit anytime Clemons Library is open at the RMC info desk in Clemons 3rd floor.
 
+
 Register here: [https://cal.lib.virginia.edu/event/7514251 ](https://cal.lib.virginia.edu/event/7514251)
