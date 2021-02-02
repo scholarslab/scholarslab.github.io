@@ -4,7 +4,7 @@ start_date: 2021-04-07
 end_date: 2021-04-07
 start_time: "11:00"
 end_time: "12:30"
-layout: makerspace
+layout: events
 location: "virtual"
 slug: workshop-2021-04-07-workshop-python-on-raspberry-pi
 title: "Python on the Raspberry Pi"
