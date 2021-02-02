@@ -4,9 +4,9 @@ start_date: 2021-02-10
 end_date: 2021-02-12
 start_time: ""
 end_time: ""
-layout: events
+layout: makerspace
 location: "Clemons 320"
-slug: workshop-2021-spring-event-valentines-day
+slug: workshop-2021-spring-event-valentines
 title: "Valentine's Day"
 ---
 

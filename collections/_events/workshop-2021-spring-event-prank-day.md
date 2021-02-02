@@ -4,7 +4,7 @@ start_date: 2021-03-29
 end_date: 2021-04-01
 start_time: ""
 end_time: ""
-layout: events
+layout: makerspace
 location: "Clemons 320"
 slug: workshop-2021-spring-event-prank-day
 title: "April Fools' Make-a-Prank"
