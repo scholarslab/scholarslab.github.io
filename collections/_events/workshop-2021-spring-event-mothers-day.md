@@ -14,7 +14,7 @@ title: "Mother's Day"
 
 She's the most important person in your life! Why not make a light up Mother's Day card this year to show you care?
 
-Drop in anytime between 12pm and 9pm, Monday, April 3 and Wednesday, April 5.
+Drop in anytime between 12pm and 9pm, Monday, May 3 and Wednesday, May 5.
 
 Register to make sure a kit is available for you. You can pick up the kit anytime Clemons Library is open at the RMC info desk in Clemons 3rd floor.
 
