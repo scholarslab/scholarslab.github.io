@@ -8,11 +8,11 @@ name: Lewis Rincon Castano
 position: None
 short_bio: 'Lewis Rincon Castano is a 2019 LAMI Fellow.'
 slug: lewis-rincon-castano
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
-- not_current
+- student
 roles:
 - LAMI Fellow, 2019
 ---
