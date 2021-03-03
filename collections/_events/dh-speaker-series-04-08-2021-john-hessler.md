@@ -5,7 +5,7 @@ start_time: '11:00:00'
 end_date: '2021-04-08'
 end_time: '12:30:00'
 layout: events
-slug: dh-speaker-series-04-08-2021-John-Hessler
+slug: dh-speaker-series-04-08-2021-john-hessler
 title: 'Video Ergo Scio: Using Markov Random Fields to Reconstruct Ancient Maya Ceramics and Inscriptions'
 location: '<a href="https://cal.lib.virginia.edu/calendar/events/JHessler2021">Register for Zoom Link</a>'
 ---
