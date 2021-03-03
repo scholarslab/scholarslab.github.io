@@ -1,6 +1,6 @@
 ---
 author: amanda-visconti
-start_date: '2021-04-08'
+start_date: 2021-04-08
 start_time: '11:00:00'
 end_date: '2021-04-08'
 end_time: '12:30:00'
