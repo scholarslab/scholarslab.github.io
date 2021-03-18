@@ -261,7 +261,10 @@ title: 'Code Workshop: Basics of Version Control with Git'
 ---
 ```
 
-Location can just a text field, so it can be whatever you want. If you have a zoom link that you want included there for a remote event, you can include HTML there like by copyting this template to the the location field - '<a href="https://virginia.zoom.us/meeting/register/tJYtdeqrrDIuE9e9tDl_IKivyhpj6VBCJAFv">Register for Zoom Link</a>'
+Location can just a text field, so it can be whatever you want. If you have a zoom link that you want included there for a remote event, you can include HTML there like by copyting this template to the the location field - 
+```
+location: '<a href="https://virginia.zoom.us/meeting/register/tJYtdeqrrDIuE9e9tDl_IKivyhpj6VBCJAFv">Register for Zoom Link</a>'
+```
 
 Follow steps here for bulk uploading lots of events at once: [Bulk add events](https://github.com/scholarslab/bulk-add-events)
 
