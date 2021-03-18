@@ -125,7 +125,7 @@ This navigates you into where we keep "collections" of similar files for the web
 
 ![docs-nav-to-collections](/docs/docs-images/docs-nav-to-collections.png)
 
-2. Click on the "_posts" link in the list of files (should be near the mid left of your browser window). 
+2. Click on the "\_posts" link in the list of files (should be near the mid left of your browser window). 
 
 This is the folder where we keep all the blog posts.
 
@@ -219,7 +219,7 @@ A. If you're Totally Ready to Publish your new blog post and don't need to make 
 
 B. If you want to do more work on your blog post after saving (right away, or some time way in the future), continue reading...
 
-9. Committing will place you back in the directory that holds all the blog post files on our henry-blog-takeover branch (the collections/_posts folder). To make additional edits to your blog post, scroll down to find your post in the list (they're organized by oldest-newest, so a new post will appear at the bottom of the list). Click on the linked file name (e.g. 2018-10-16-henry-rulez.md).  
+9. Committing will place you back in the directory that holds all the blog post files on our henry-blog-takeover branch (the collections/\_posts folder). To make additional edits to your blog post, scroll down to find your post in the list (they're organized by oldest-newest, so a new post will appear at the bottom of the list). Click on the linked file name (e.g. 2018-10-16-henry-rulez.md).  
 
 10. Near the middle of the right side of the page, click on the small pencil icon. 
 
@@ -236,11 +236,16 @@ When you've finished drafting the post and you're ready to publish, jump down to
 *Want a sneak peak at the final visual appearance of your post?* Although this isn't the same as seeing what your post will look like when published to our website, you can always look at the GitHub repo version of your post to see whether your Markdown formatting looks right (Step 9 above, except don't click on the edit icon, just scroll down to see your post). To see what your post looks like on the final website (i.e. incorporating all our special website design/styling), you'll either need to [follow this other tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) to learn to edit the site locally, or wait until you're ready to publish. (There's a tool called Netlify that lets you see what your webpage will look like, but we only have it set up to work when you're moving your page to the live site—not when you're still drafting.)
 
 #### Add an event
+
 Events are similar to blog posts, except for two things:  
 
 1. They live in a different place: from the main repo page [https://github.com/scholarslab/scholarslab.org](), navigate to the `collections` folder, and then into the `_events` folder (or just bookmark this link to the [events folder](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_events)).  
 
-2. The YAML is slightly different (see below, or visit our [Event template GoogleDoc](https://docs.google.com/document/d/1qLncvRa6aqQPpf2BtZwGJFf_vqrLTG6EB6qoyenZxLc/edit?usp=sharing) and go to `File` > `Make a copy...` to draft an event. The GoogleDoc also explains what each metadata field does.
+2. Each event lives in its own file within collections/\_events. So, as with blog posts, you first start by creating a new file for your new event by selecting "add a file" -> "create new file"
+
+3. The site will redirect to a new page and highlight a text box for you to name your event. While these names can be more flexible than blog posts, most conform to this convention - "3d-modeling-printing-meetup-2016-03-22.md" At the very least, the name of the file must have no spaces in it. When you are done with the name, hit enter to be taken to the text box below where you will put the content of your new file. 
+
+5. The YAML is slightly different for events (see below, or visit our [Event template GoogleDoc](https://docs.google.com/document/d/1qLncvRa6aqQPpf2BtZwGJFf_vqrLTG6EB6qoyenZxLc/edit?usp=sharing) and go to `File` > `Make a copy...` to draft an event. The GoogleDoc also explains what each metadata field does).
 
 ```
 ---
@@ -255,6 +260,8 @@ start_time: '13:00:00'
 title: 'Code Workshop: Basics of Version Control with Git'
 ---
 ```
+
+Location can just a text field, so it can be whatever you want. If you have a zoom link that you want included there for a remote event, you can include HTML there like by copyting this template to the the location field - '<a href="https://virginia.zoom.us/meeting/register/tJYtdeqrrDIuE9e9tDl_IKivyhpj6VBCJAFv">Register for Zoom Link</a>'
 
 Follow steps here for bulk uploading lots of events at once: [Bulk add events](https://github.com/scholarslab/bulk-add-events)
 
