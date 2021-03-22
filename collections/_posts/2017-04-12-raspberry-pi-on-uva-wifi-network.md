@@ -15,7 +15,7 @@ The easiest way to get your Raspberry Pi connected to the Internet at the Univer
 
 This is a quick tutorial for getting your Raspberry Pi to connect to the "wahoo" WiFi network at the University of Virginia.
 
-I'm starting with a clean install of [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/) (follow the link for a great tutorial on installing Raspbian OS).
+I'm starting with a clean install of [Raspberry Pi OS](https://www.raspberrypi.org/software/) (follow the link for instructions on installing Raspberry Pi OS).
 
 
 
