@@ -19,6 +19,7 @@ banner-img: default-banner.png
 research-category: Student
 start-year: 2020
 end-year: current
+posts: ["finish-line","standing-on-pumpkin"]
 ---
 The inhabitants of Pompeii in the 1st century AD dined outside in gardens, reclined on couches arranged around a central table or fountain, eating and drinking from vessels that rested nearby. The diners were shaded by a pergola, often covered in grapevines invoking the god Bacchus, whose wine they also enjoyed. Scents of flowers and fruit trees of the garden wafted through the air, accompanied by the smell of food cooking on the hearth. In the background, one might hear the gentle strumming of a lyre, the whistle from a pan flute, or the clacking of castanets. As the diners conversed, their attention may have shifted from the bubbling water fountains to the frescoes of extended garden scenes or hunts, or to the altars, niches, and statues of the gods that adorned the outdoor space. These are the Garden Dining Spaces created by the inhabitants of ancient Pompeii in their houses, inns, restaurants, and tombs. 
 
