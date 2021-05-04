@@ -12,6 +12,9 @@ collaborators:
   - name: Natasha Roth-Rowland
     slug: natasha-roth-rowland
     role: Praxis Fellow
+  - name: Lauren Van Nest
+    slug: lauren-van-nest
+    role: Praxis Fellow
   - name: Brandon Walsh
     slug: brandon-walsh
     role: Head of Student Programs
