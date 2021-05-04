@@ -19,5 +19,6 @@ John Hessler is the Curator of the Jay I. Kislak Collections of the Archaeology 
 
 This event co-sponsored by the Scholars’ Lab, the Interdisciplinary Archaeology Program, and the Institute for Advanced Technology in the Humanities (IATH). It is open to all, but advance registration is required. Please visit <a href="https://cal.lib.virginia.edu/calendar/events/JHessler2021">the event signup page</a> to register.
 
-<iframe title="Building Barboursville : 3D Scanning and Modeling the Ruins" src="https://avalon.lib.virginia.edu/master_files/0c483j577/embed" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe title="John Hessler: Video Ergo Scio - Computational Reconstruction of Ancient Ceramics and Inscriptions" src="https://avalon.lib.virginia.edu/master_files/xw42n8124/embed" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      
       
