@@ -17,4 +17,4 @@ roles:
 - Graduate Fellow, 2020-2021
 - Praxis Fellow, 2019-2020
 ---
-Janet S. Dunkelbarger is a PhD student in the Art and Architectural History department.
+Janet S. Dunkelbarger is a PhD student in the Art and Architectural History department. She is also a Graduate Fellow in Digital Humanities for the 2020-2021 academic year working on a project on [virtual garden dining in Pompeii](https://scholarslab.lib.virginia.edu/work/virtual-garden-dining-in-pompeii/).
