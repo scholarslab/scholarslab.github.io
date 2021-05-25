@@ -3,8 +3,8 @@ collaborators:
   - name: Brandon Walsh
     slug: brandon-walsh
     role: Head of Student Programs
-  - name: Rebecca Draughon
-    slug: rebecca-draughon
+  - name: Rebecca Bultman
+    slug: rebecca-bultman
     role: Digital Pedagogy Consultant
 current: true
 layout: work

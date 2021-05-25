@@ -1,7 +1,7 @@
 ---
 author: 
 - brandon-walsh
-- rebecca-draughon
+- rebecca-bultman
 date: 2020-09-10 15:12:00
 layout: post
 slug: a-humanists-cookbook-for-natural-language-processing-in-python
