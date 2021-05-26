@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2021-04-08 09:46:26
+date: 2021-05-26 09:46:26
 layout: post
 slug: announcing-2021-2022-fellows
 title: Announcing 2021-2022 Fellows
@@ -30,7 +30,7 @@ Look forward to more details about the Praxis Program’s new project in the fal
 Finally, we are looking forward to working with Alexander Christie and Connor Kenaston, our 2021-2022 Graduate Fellows in the Digital Humanities.
 
 *	Alexander Christie's (Music, Composition & Computer Technologies) dissertation is titled "Reconfiguring Performer-Instrument Relationships in Experimental Electronic Music"
-*	Connor Kenaston's (History) dissertation is titled "Faith Networks: National Broadcasting and the Making of American Religion"
+*	Michael VanHoose's (English) dissertation is titled "The Economics of the Novel in Britain, 1780–1836"
 
 These fellows will work with our team throughout the year and over the summer on substantial research projects related to their dissertations. They join a vibrant community of students working in the lab in the coming year as Makerspace Technologists, Cultural Heritage Interns, GIS Technicians, and more.
 
