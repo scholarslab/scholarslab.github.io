@@ -27,7 +27,7 @@ Look forward to more details about the Praxis Program’s new project in the fal
 
 ## Graduate Fellows in the Digital Humanities
 
-Finally, we are looking forward to working with Alexander Christie and Connor Kenaston, our 2021-2022 Graduate Fellows in the Digital Humanities.
+Finally, we are looking forward to working with Alexander Christie and Michael VanHoose, our 2021-2022 Graduate Fellows in the Digital Humanities.
 
 *	Alexander Christie's (Music, Composition & Computer Technologies) dissertation is titled "Reconfiguring Performer-Instrument Relationships in Experimental Electronic Music"
 *	Michael VanHoose's (English) dissertation is titled "The Economics of the Novel in Britain, 1780–1836"
