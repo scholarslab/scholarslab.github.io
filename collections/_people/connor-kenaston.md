@@ -8,7 +8,7 @@ name: Connor Kenaston
 position: None
 short_bio: 'Connor Kenaston is a PhD student in the History department.'
 slug: connor-kenaston
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

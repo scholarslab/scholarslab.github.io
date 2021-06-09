@@ -8,7 +8,7 @@ name: Elise Foote
 position: None
 short_bio: 'Elise Foote is a 2020-2021 Praxis Fellow.'
 slug: elise-foote
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

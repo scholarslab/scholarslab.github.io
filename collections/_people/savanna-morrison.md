@@ -8,7 +8,7 @@ name: Savanna Morrison
 position: None
 short_bio: 'Savanna Morrison is a 2020-2021 Praxis Fellow.'
 slug: savanna-morrison
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

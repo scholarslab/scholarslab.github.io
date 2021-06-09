@@ -8,7 +8,7 @@ title: Emily Mellen
 position: 
 short_bio:
 slug: emily-mellen
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

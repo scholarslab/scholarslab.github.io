@@ -8,7 +8,7 @@ name: Aaron M. Thompson
 position: None
 short_bio: 'Aaron M. Thompson is a graduate mentor for the 2019 LAMI program.'
 slug: aaron-m-thompson
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

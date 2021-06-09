@@ -8,7 +8,7 @@ name: Crystal Luo
 position: None
 short_bio: 'Crystal Luo is a 2020-2021 Praxis Fellow.'
 slug: crystal-luo
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

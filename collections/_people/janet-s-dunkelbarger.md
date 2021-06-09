@@ -8,7 +8,7 @@ title: Janet S. Dunkelbarger
 position: None
 short_bio: 'Janet S. Dunkelbarger is a PhD student in the Art and Architectural History department.'
 slug: janet-s-dunkelbarger
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
