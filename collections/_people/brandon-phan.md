@@ -8,12 +8,12 @@ title: Brandon Phan
 position:
 short_bio:
 slug: brandon-phan
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2017-current
+- Makerspace Technologist, 2017-2021
 ---
 Brandon Phan is a Makerspace Technologist.
