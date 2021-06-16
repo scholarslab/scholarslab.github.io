@@ -23,7 +23,6 @@ In the fall, the students were asked to consider the nature of the Praxis Progra
 
 The students did extensive work to ground *Connection Established* in reality, researching their local context and incorporating real, collected digital materials into the narrative. They also worked hard to build empathy - connections - into their project: they incorporated fonts made from their own handwriting, the design of the project also showcased a great deal of beautiful hand-drawn art, and the interactive nature of the story asks the reader to place themselves in difficult decisions and reflect on the consequences of their actions during ongoing health crisis. This emphasis on closeness was intentional and a theme throughout the year. The students developed their project remotely, and they never actually met in person. As a result, they prioritized intentional connections with each other and worked hard to give depth to the otherwise flat, digital representations of each other from a distance. The group worked hard to develop a generous community over the course of the year under extraordinarily difficult circumstances. The result is a powerful call to action for all of us involved in teaching and learning.
 
-
 The members of the 2020-2021 Praxis cohort are:
 
 * Grace Alvino, English
