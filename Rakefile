@@ -147,7 +147,7 @@ task :new_post, [:title, :author] do |t, args|
   date = Date.today.to_s
   fn = 'collections/_posts/' + date + '-' + title_slug + '.md'
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
-  current_time = Time.new.strftime("%Y-%m-%d %H:%M:%S")
+  current_time = Time.new.strftime("%Y-%m-%d")
   File.open(fn, 'w'){|f|
     f.puts("---
 author: #{author_slug}
