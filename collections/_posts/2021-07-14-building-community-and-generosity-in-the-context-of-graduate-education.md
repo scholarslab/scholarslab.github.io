@@ -13,6 +13,8 @@ tags:
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/building-community-and-generosity-in-the-context-of-graduate-education
+  - title: Amanda Wyatt's blog
+    url: https://literaturegeek.com/2021/07/14/building-community-and-generosity-in-the-context-of-graduate-education
 ---
 We'd like to specifically acknowledge Ronda Grizzle as a key contributor to this work. Even though she was not co-author of this particular talk for ACH 2021, her work is central to this material, foundational to it, and in many ways hers. 
 
