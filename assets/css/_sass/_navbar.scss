@@ -254,7 +254,7 @@ ul[class*="flexnav"] {
     justify-content: flex-start;
     align-items: center;
     height: 6vh;
-    min-height: 40px;
+    min-height: 60px;
     a {
         display:block;
         line-height:0;
@@ -262,18 +262,11 @@ ul[class*="flexnav"] {
         color: rgba(255,255,255,0.9);
         text-decoration:none;
         font-size: .9rem;
+		width: 190px;
 
         & + a {
             margin-right: 1rem;
         }
-    }
-    svg {
-        width: 200px;
-    }
-
-    path {
-        fill: white;
-        fill: rgba(255,255,255,.9);
     }
 }
 /* End navbar styles */
