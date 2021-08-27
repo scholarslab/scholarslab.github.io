@@ -17,15 +17,8 @@ Our GIS workshop series will continue virtually this semester. Unfortunately, be
 - For our **attendees with a Mac computer**, ArcGIS Pro is not Mac compatible. There are several ways to run Windows on a Mac, including a multi-boot utility like [BootCamp](https://support.apple.com/boot-camp) or a virtual machine, both of which require expertise we’re unable to provide. For UVA affiliates, the simplest solution is to take advantage of [UVA's Remote Apps](https://virginia.service-now.com/its/?id=itsweb_kb_article&sys_id=f9dc08eddb1d1380f032f1f51d96192d) which provides access to Pro.
 
 Workshops will be recorded and made available for asynchronous learning, virtually (see what I did there?) eliminating the ever-problematic scheduling conflict. If you can't attend in real-time, give them a watch when your schedule allows. Hit a snag and need a refresher? Feel free to watch again, as many times as you want. Tune in for some GIS learnin' and chortle freely at our WFH hair and terrible jokes. 
-  
-The short of it is:
 
-- All sessions will be taught virtually, via Zoom. Unfortunately, there will be no in-class sessions this semester. 
-- Registration is required, links below. 
-- Sessions will be recorded and made available, along with our usual slides and hand-outs.
-
-
-All sessions are one hour and assume participants have no previous experience using GIS.  Sessions will be hands-on demonstrations with step-by-step tutorials and expert assistance.  All sessions will be taught on **Tuesdays from 2PM to 3PM** and are free and open to the UVa and larger Charlottesville community. Late-comers are welcome and encouraged, registration is open until 1 hour before class. Use the links below to register and get a Zoom link. 
+All sessions are one hour and assume participants have no previous experience using GIS. Sessions will be hands-on demonstrations with step-by-step tutorials and expert assistance. All sessions will be taught on **Tuesdays from 2PM to 3PM** and are free and open to the UVa and larger Charlottesville community. **Registration is required**, please use the links below to sign up and get a Zoom link. Late-comers are welcome and encouraged, registration remains open until 1 hour before class. 
 
 **September 7th - Making Your First Map with ArcGIS Pro**
 
