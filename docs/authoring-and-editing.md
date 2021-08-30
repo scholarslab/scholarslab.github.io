@@ -55,7 +55,7 @@ There are **two pieces** to authoring/editing on our website:
 
 2. **Move ("merge") your work back to the main website branch, which makes your work show up on the live ScholarsLab.org site**. The "main website" is the website consisting of the code in the "master" branch; that is, the main website/master branch is the copy of the website files ("branch") from which we've told the live website to get its data. "Merging" means adding any changes/additions you've made in your new branch to another branch (in our case, back to the master branch).  [Instructions here](#move-your-writing-to-the-main-repo).
 
-Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Next, share your GitHub username with Amanda or the SLab Slack #slab-org channel. 
+Start by [creating a user account on GitHub.com](http://github.com/join), if you don't already have one. Next, share your GitHub username with the SLab Slack #slab-org channel with a message asking if someone can give you the needed GitHub permissions. 
 
 An existing ScholarsLab GitHub org member needs to visit the [members page](https://github.com/scholarslab/scholarslab.org/settings/access) and add you to the team with "write" privileges. You'll receive an email invite; follow the link in that email to gain access to making changes to our website. An existing ScholarsLab GitHub org member also should [add you to the SLab "core" GitHub team](https://github.com/orgs/scholarslab/teams/core/members) (we think this allows you to see the `scholarslab/reviewers` group as an option on the PR reviewers dropdown).
 
@@ -510,7 +510,7 @@ will render as...
 
 ## What comes next?
 
-If you got stuck on any part of this tutorial, please let Amanda or Ronda know so they can improve this text (if you ran into a problem, others will run into the same one...).
+If you got stuck on any part of this tutorial, please let Amanda, Ronda, or Brandon know so they can improve this text (if you ran into a problem, others will run into the same one...).
 
 If you get comfortable with this process and would like to explore another way of authoring/editing the website, you can check out [this tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) for doing your authoring/editing of the site using the command line, locally. No prior comfort with the command line is required—we'll tell you what to type, and try to anticipate common error messages you might run into (those are the downside of how the command line lets you do some stuff faster or easier). You'll also learn how to work with a "local" copy of the site—this is just like visiting ScholarsLab.org, except that it's only viewable on your machine, and you can view the site as it looks using any branch's code (ScholarsLab.org always shows the site as it looks using the "master" branch's code, so this is a nice way to check out how changes you've made to the site look, before merging your new branch into the "master" branch/main website's code.
 
