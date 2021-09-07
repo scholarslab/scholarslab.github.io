@@ -51,43 +51,16 @@ order: 3
   </div>
 
   <div class="makerspace__hours">
+    <div id="makerspace-hours" class="maker-hours__title">2021-2022 Hours and Access</div>
+    <div id="api_hours_today_iid863_lid15029"></div>
+    <script src="https://cal.lib.virginia.edu/api_hours_today.php?iid=863&lid=15029&format=js&systemTime=0&context=object"> </script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
       $(document).ready(function () {
-
-        const getJSON = async url => {
-          const response = await fetch(url);
-          if (!response.ok) // check if response worked (no 404 errors etc...)             
-            throw new Error(response.statusText);
-
-          const data = await response.json(); // get JSON from the response               
-          return data; // returns a promise, which resolves to this data value            
-        }
-
-        /* lid 15029 is the TinkerTank ID */
-        getJSON("https://cal.lib.virginia.edu/api_hours_today.php?iid=863&lid=15029&format=json&systemTime=0").then(data => {
-          var tday_time;
-          if (data.locations[0].times.status == "open") {
-            tday_time = data.locations[0].rendered;
-          } else {
-            tday_time = "Closed";
-          }
-
-          $("#todays-hours").append("Todays Hours: " + tday_time);
-        }).catch(error => {
-          console.error(error);
-        });
-
-        /* testing
-        data = { "locations": [{ "lid": 15029, "name": "Scholars' Lab TinkerTank", "category": "department", "desc": "", "url": "https:\/\/ scholarslab.lib.virginia.edu\/makerspace\/", "contact": "", "lat": "", "long": "", "color": "#000000", "parent_lid": 3638, "day": "Friday", "times": { "status": "open", "hours": [{ "from": "11am", "to": "5pm" }], "currently_open": true }, "rendered": "11am - 5pm" }] }
-        console.log(data.locations[0].rendered);
-        console.log(data.locations[0].times.status);
-        */
+        $(".hours-col-loc").text("Today's Hours: ");
       });
     </script>
 
-    <div id="makerspace-hours" class="maker-hours__title">2021-2022 Hours and Access</div>
-    <div id="todays-hours"></div>
     <p>The TinkerTank staff provides consultations and instruction for all your electronics, crafting, and textiles projects <a href="https://www.library.virginia.edu/hours/">whenever the TinkerTank is open</a>, or by appointment. Please drop in, or send inquiries to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>. </p>
 
     <p>Or schedule a consultation with Ammon, manager of our TinkerTank.</p>
