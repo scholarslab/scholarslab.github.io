@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Makerspace
+title: TinkerTank
 permalink: /makerspace/
 excerpt: "Our makerspace is a place for crafting, tinkering, and experimentation with technologies like 3D printing,
 textiles, electronics and physical computing. Open to everyone."
@@ -10,7 +10,7 @@ order: 3
 
 <div class="makerspace-landing-grid">
   <div class="maker-landing__big-title">
-    <div class="maker-title__text">Makerspace</div>
+    <div class="maker-title__text">TinkerTank</div>
   </div>
   <div class="maker-landing__pics">
     <div></div>
@@ -18,7 +18,7 @@ order: 3
     <div></div>
     <!--img src="http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-1024x682.jpg" alt="Partially assembled Sparkfun Inventor&#039;s Kit, with an Arduino board, breadboard, and soldering iron" srcset="http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px">
     <img src="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-1024x682.jpg" alt="Details of Makerbot Replicator printer" srcset="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px">
-    <img src="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-1024x682.jpg" alt="The Makerspace printer desk" srcset="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"-->
+    <img src="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-1024x682.jpg" alt="The TinkerTank printer desk" srcset="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"-->
   </div>
 </div>
 
@@ -26,19 +26,17 @@ order: 3
   <div class="makerspace__ethos">
     <div class="banner" style="border: 5px solid #00FFFF; padding: 20px;">
       <h2>New Location!</h2>
-      <p>The main library is being renovated and is currently closed. The
-        Scholars' Lab and the Makerspace have moved next door to the Clemons
-        Library 3rd Floor.</p>
+      <p>Until the <a href="https://www.library.virginia.edu/renovation">main library is renovated</a>, the Scholars' Lab and the TinkerTank (formerly Makerspace) have moved next door to Clemons Library, 3rd Floor, in the Robertson Media Center.</p>
     </div>
     <div class="maker-ethos__title">Vision</div>
     <div class="maker-ethos__text">
-      <p>The Scholars’ Lab Makerspace is strategically situated within the UVA
-        Library to be open, provide a low barrier to entry, and be a helpful
+      <p>The Scholars’ Lab TinkerTank is strategically situated within the UVA
+        Library to be open, provide a low barrier of entry to making, and be a helpful
         resource of information, technology and support. The space invites all
         people, and proactively encourages those in underrepresented academic
         studies, ethnicities, genders, economic classes and skill levels to come,
         learn, make, and be empowered to improve their education, research, and
-        community. The Makerspace is an active participant in academic research
+        community. The TinkerTank is an active participant in academic research
         through independent and collaborative work with scholars to explore,
         understand, and report on emerging technologies, methodologies and
         pedagogies in a variety of disciplines.
@@ -53,31 +51,62 @@ order: 3
   </div>
 
   <div class="makerspace__hours">
-    <div id="makerspace-hours" class="maker-hours__title">2020-2021 Hours and Access</div>
-    <p>The Makerspace staff will be delivering consultation and instruction
-      remotely, via Zoom or pre-recorded video tutorials. If in person
-      consultation is needed, it may be available by appointment. Please send all
-      inquiries to <a
-         href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>.</p>
-
-    <p>Or schedule an online consulation with Ammon.</p>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
-      jQuery.getScript("https://api3.libcal.com/js/myscheduler.min.js", function () {
-        jQuery("#mysched_41069").LibCalMySched({ iid: 863, lid: 4868, gid: 0, uid: 41069, width: 560, height: 680, title: 'Schedule a Consultation with Ammon -', domain: 'https://api3.libcal.com' });
+      $(document).ready(function () {
+
+        const getJSON = async url => {
+          const response = await fetch(url);
+          if (!response.ok) // check if response worked (no 404 errors etc...)             
+            throw new Error(response.statusText);
+
+          const data = await response.json(); // get JSON from the response               
+          return data; // returns a promise, which resolves to this data value            
+        }
+
+        /* lid 15029 is the TinkerTank ID */
+        getJSON("https://cal.lib.virginia.edu/api_hours_today.php?iid=863&lid=15029&format=json&systemTime=0").then(data => {
+          var tday_time;
+          if (data.locations[0].times.status == "open") {
+            tday_time = data.locations[0].rendered;
+          } else {
+            tday_time = "Closed";
+          }
+
+          $("#todays-hours").append("Todays Hours: " + tday_time);
+        }).catch(error => {
+          console.error(error);
+        });
+
+        /* testing
+        data = { "locations": [{ "lid": 15029, "name": "Scholars' Lab TinkerTank", "category": "department", "desc": "", "url": "https:\/\/ scholarslab.lib.virginia.edu\/makerspace\/", "contact": "", "lat": "", "long": "", "color": "#000000", "parent_lid": 3638, "day": "Friday", "times": { "status": "open", "hours": [{ "from": "11am", "to": "5pm" }], "currently_open": true }, "rendered": "11am - 5pm" }] }
+        console.log(data.locations[0].rendered);
+        console.log(data.locations[0].times.status);
+        */
+      });
+    </script>
+
+    <div id="makerspace-hours" class="maker-hours__title">2021-2022 Hours and Access</div>
+    <div id="todays-hours"></div>
+    <p>The TinkerTank staff provides consultations and instruction for all your electronics, crafting, and textiles projects <a href="https://www.library.virginia.edu/hours/">whenever the TinkerTank is open</a>, or by appointment. Please drop in, or send inquiries to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>. </p>
+
+    <p>Or schedule a consultation with Ammon, manager of our TinkerTank.</p>
+
+    <script>
+      jQuery.getScript("https://cal.lib.virginia.edu/js/myscheduler.min.js", function () {
+        jQuery("#mysched_41069").LibCalMySched({ iid: 863, lid: 0, gid: 0, uid: 41069, width: 560, height: 680, title: 'Make an Appointment - ', domain: 'https://cal.lib.virginia.edu' });
       });
     </script>
 
     <!-- Place the following link anywhere in your page. Make sure the id "mysched_41069" matches with the above code: jQuery("#mysched_41069")  //-->
-    <button id="mysched_41069" href="#">Schedule Consultation</button>
+    <button id="mysched_41069" href="#">Schedule Appointment</button>
     <!-- Below is optional button styling  //-->
     <style>
       #mysched_41069 {
-        background: #00FFFF;
-        border: 2px solid #088;
-        box-shadow: 2px 2px 2px 1px rgba(135, 60, 221, .2);
+        background: #702dbe;
+        border: 1px solid #CCCCCC;
         border-radius: 4px;
-        color: #333333;
+        color: #ffffff;
         font: 14px Arial, Helvetica, Verdana;
         padding: 8px 20px;
         cursor: pointer;
@@ -86,7 +115,7 @@ order: 3
       #mysched_41069:hover,
       #mysched_41069:active,
       #mysched_41069:focus {
-        opacity: 0.6;
+        opacity: 0.9;
       }
     </style>
 
@@ -94,17 +123,19 @@ order: 3
   </div>
 
   <div class="makerspace__people">
-    <div class="maker-people__title">Makerspace Technologists</div>
+    <div class="maker-people__title">TinkerTank Techs</div>
     <div class="maker-people__students">
+      <div class="maker-students__label">Student Technologists</div>
+      <div class="maker-students__list">
+        <span>Kavya Annapareddy:</span>3D Printing, Textiles, Buttons</br />
+        <span>Tyler Campbell:</span>3D Modeling, Crafting, Buttons</br />
+        <span>Nora Dale:</span>3D Printing, Textiles, Sewing, Buttons</br />
+        <span>Annabel Gleason:</span>Crafting, Textiles, Buttons</br />
+        <span>Leah Phan:</span>3D Printing, Crafting, Buttons</br />
+      </div>
       <div class="maker-students__label">Makerspace Manager &amp; Lead Research Technologist</div>
       <div class="maker-staff__list">
         <span>Ammon Shepherd:</span>3D Printing, Electronics, Programming, Digital Humanities, Sewing<br />
-      </div>
-      <div class="maker-students__label">Student Technologists</div>
-      <div class="maker-students__list">
-        <!-- <span>Andrew Carl:</span>3D Printing, 3D Modeling, Electronics,
-             Wearables<br/> -->
-        <span>Nora Dale:</span>3D Printing, Textiles, Buttons</br />
       </div>
       <div class="maker-people__staff">
         <div class="maker-staff__label">Scholars’ Lab Staff Technologists</div>
@@ -118,37 +149,18 @@ order: 3
   </div>
 
   <div class="makerspace__usage">
-    <div class="maker-usage__title">Using the Makerspace</div>
+    <div class="maker-usage__title">Using the TinkerTank</div>
     <div class="maker-usage__content">
       <!-- split internally per prototype drawing -->
-      <p>Interested in exploring the Makerspace? Have an idea to use
+      <p>Interested in exploring the TinkerTank? Have an idea to use
         microcontrollers or 3D modeling to enhance your research or differently
         interrogate your assumptions? Contact us at <a
            href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>
-        to schedule an appointment with a Makerspace Technologist or
-        Scholars&#8217; Lab staff to discuss your planned project.
+        to schedule an appointment with a TinkerTank Technologist or
+        Scholars&#8217; Lab staff to discuss your planned project.</p>
 
-        <!--Stop by to talk to one of our
-      Technologists, attend our maker <a
-        href="http://scholarslab.org/events/">workshops</a>, or contact us at
-      <a
-        href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>
-      to schedule an appointment with a Makerspace Technologist or
-      Scholars&#8217; Lab staff to discuss your planned project.
-      -->
-      </p>
       <h3>3D Printing</h3>
-      <p>All 3D printing is now available through the 3D Printing Studio in the
-        Robertson Media Center (just across the room). To schedule training and
-        reserve a printer, please see here for available printers: <a
-           href="https://cal.lib.virginia.edu/equipment?lid=241&gid=8343">https://cal.lib.virginia.edu/equipment?lid=241&gid=8343</a>
-        or email <a
-           href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a> with
-        questions.
-        <!--
-        <p>Check here for printer availability.</p>
-        <a href="https://cal.lib.virginia.edu/reserve/SLab3DPrinters">https://cal.lib.virginia.edu/reserve/SLab3DPrinters</a>
-        -->
+      <p>All 3D printing is now available through the <a href="https://www.library.virginia.edu/services/3d-printing/">3D Printing Studio</a> in the Robertson Media Center (just across the room). <a href="https://www.library.virginia.edu/services/3d-printing/">Complete your online training, reserve a 3D printer</a> during their <a href="https://www.library.virginia.edu/hours">open hours</a>. Email <a href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a> with any questions.
     </div>
   </div>
 
@@ -178,8 +190,8 @@ order: 3
   </div>
 
   <div class="makerspace__inventory">
-    <div class="maker-inventory__title">What&#8217;s in the Makerspace?</div>
-    <!-- insert subtitle saying that this is a rundown of the inventory. Note here about where the software is located (i.e., on fancy computers located in the Makerspace - anyone is welcome to come use.) -->
+    <div class="maker-inventory__title">What&#8217;s in the TinkerTank?</div>
+    <!-- insert subtitle saying that this is a rundown of the inventory. Note here about where the software is located (i.e., on fancy computers located in the TinkerTank - anyone is welcome to come use.) -->
     <div class="maker-inventory__list">
       <!-- Physical Computing -->
       <ul class="maker-list__physical">
@@ -228,18 +240,13 @@ order: 3
       </ul>
     </div>
     <div class="maker-inventory__rules">
-      <p>All equipment is maintained for use in the Makerspace and is not available for check out at this time. Don’t
-        see the equipment you need here? Visit <a
-           href="http://makergrounds.virginia.edu">http://makergrounds.virginia.edu</a> for other shops, labs, and places
-        for making at UVA.</p>
+      <p>All equipment is maintained for use in the TinkerTank and is not available for check out at this time. Don’t see the equipment you need here? Visit <a href="http://makergrounds.virginia.edu">http://makergrounds.virginia.edu</a> for other shops, labs, and places for making at UVA.</p>
+      <p>Questions? Hesitant about joining us in the TinkerTank? You belong here, and we're happy to meet with you, answer questions, and give you a tour to help you feel more at home. Email <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a> to let us know you're curious about our makerspace.</p>
     </div>
   </div>
 
 
   <div class="makerspace__questions">
-    <div class="maker-questions__text">Questions? Hesitant about joining us in the Makerspace? You belong here, and
-      we're happy to meet with you, answer questions, and give you a tour to help you feel more at home. Email <a
-         href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a> to let us know you're curious about
-      our Makerspace.</div>
+    <div class="maker-questions__text"></div>
   </div>
 </div> <!-- end main content -->
