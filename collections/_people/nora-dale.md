@@ -16,4 +16,11 @@ people-category:
 roles:
 - Makerspace Technologist, 2020-current
 ---
-Andrew Carl is a Makerspace Technologist.
+
+University of Virginia '22
+
+Systems Engineering
+
+Urban and Environmental Planning
+
+Nora specializes in sewing, 3D printing, Textiles and Button making
