@@ -25,14 +25,14 @@ nearly 3 years of mimicking the toxic practices promoted within the academy, whi
 depression and stress-related neurological issues, I re-prioritized my physical, emotional, and mental
 health.  
 <br />
- 
+
 Despite the obvious struggles, my time at UVA has been enriching beyond measure. My experiences
 teaching over the past three years reinforced my desire to become an educator. Although it has been difficult
 for me to communicate in the same academic language as most of my colleagues, the undergraduates
 have made the entire process worthwhile. Additionally, my advisor has become one of the most
 influential mentors I have ever had.  
 <br />
- 
+
 Throughout my four years at UVA, I have heard countless positive testaments about the Scholars’ Lab
 from colleagues, students and faculty. Although I have only been a Praxis Fellow for several weeks, my
 experience with the Scholars’ Lab staff has been refreshing and heartening. My technological skills are
@@ -41,7 +41,7 @@ been unlike anything I have experienced within academia. Despite knowing much le
 my particular field of scholarship, I have been treated like a colleague rather than a ‘grad student’ — an
 incredibly rare dynamic within the academy.  
 <br />
- 
+
 If I could pass a message to future Praxis’ Fellows, it would be to get in some coding practice in the
 summer (especially if you have limited experience like myself), but regardless of your expertise, expect to
 be treated with respect and compassion by the Scholars’ Lab staff. I have already been reprimanded by
