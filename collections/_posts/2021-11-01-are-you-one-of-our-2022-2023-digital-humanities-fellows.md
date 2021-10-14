@@ -33,6 +33,7 @@ Since its beginnings in 2007, the Graduate Fellowship in Digital Humanities has 
 * Applicants are expected to have digital humanities experience, though this background could take a variety of forms. Experience can include formal fellowships like the [Praxis Program](http://praxis.scholarslab.org/), but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
 * Applicants must be enrolled full time in the year for which they are applying.
 * A faculty advisor must review and approve the scholarly content of the proposal.
+* The Scholars' Lab particularly encourages and will prioritize participation of students who are women, Black, Indigenous, people of color, LGBTQIA+, disabled, undocumented, international, first-generation, or from other under-represented groups. 
 
 **How to Apply**
 

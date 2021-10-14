@@ -25,7 +25,7 @@ Beginning as a 2011-2013 pilot project supported by a grant from the Andrew W. 
 
 ### Eligibility
 
-All University of Virginia doctoral students working within or committed to humanities disciplines are eligible to apply. We particularly encourage applications from women, LGBT students, and people of color, and will be working to put together an interdisciplinary and intellectually diverse team.
+All University of Virginia doctoral students working within or committed to humanities disciplines are eligible to apply. The Scholars' Lab particularly encourages and will prioritize participation of students who are women, Black, Indigenous, people of color, LGBTQIA+, disabled, undocumented, international, first-generation, or from other under-represented groups. We will be working to put together an interdisciplinary and intellectually diverse team.
 
 Applicants must be enrolled full time in the year for which they are applying. In addition, applicants must be capable of attending weekly in-person meetings in both the fall and spring semesters of their fellowship year (though we are flexible and can certainly accommodate travel needs). We will monitor public health to ensure such meetings are possible–we have successfully held the program remotely during the pandemic.
 
