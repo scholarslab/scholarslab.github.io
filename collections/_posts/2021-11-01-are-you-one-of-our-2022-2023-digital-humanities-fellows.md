@@ -11,7 +11,8 @@ tags:
 - Digital Humanities
 ---
 
-The application deadline for fellowships to be held during the 2021-2022 academic year is **Monday, February 15th, 2021**. More details on how to apply at the end of this page. 
+Have a digital project you'd like to work on in conjunction with your dissertation? **Applications are now open for the 2022-2023 Digital Humanities Fellowship cohort.**
+The application deadline for fellowships to be held during the 2021-2022 academic year is **Monday, February 15th, 2022**. More details on how to apply at the end of this page. 
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2021-2022 cohort - **Tuesday, January 18th, 2022 from 10:00-11:00 on Zoom. Please [register](https://virginia.zoom.us/meeting/register/tJAkc-uqrTkuHdFZG8fY9etmDyxaqmAly_1t) to attend**. You are, of course, encouraged to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) separately and/or sooner for an individual meeting to discuss your application so that you can get working.
 
