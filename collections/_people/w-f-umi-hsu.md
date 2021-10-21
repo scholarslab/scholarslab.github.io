@@ -1,13 +1,13 @@
 ---
 department: Music
 email: hsuw@oxy.edu
-first_name: Wendy
+first_name: "W.F. Umi"
 last_name: Hsu
 layout: people
-title: Wendy Hsu
+title: "W.F. Umi Hsu"
 position: Digital Humanities Fellow 2009-2010
 short_bio: ''
-slug: wendy-hsu
+slug: w-f-umi-hsu
 status: not_current
 twitter: wfumihsu
 website: http://beingwendyhsu.info
