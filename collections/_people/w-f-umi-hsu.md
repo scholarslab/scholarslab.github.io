@@ -1,7 +1,7 @@
 ---
 department: Music
 email: hsuw@oxy.edu
-first_name: "W.F. Umi"
+first_name: "WF Umi"
 last_name: Hsu
 layout: people
 title: "WF Umi Hsu"
