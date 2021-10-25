@@ -4,7 +4,7 @@ email: hsuw@oxy.edu
 first_name: "W.F. Umi"
 last_name: Hsu
 layout: people
-title: "W.F. Umi Hsu"
+title: "WF Umi Hsu"
 position: Digital Humanities Fellow 2009-2010
 short_bio: ''
 slug: w-f-umi-hsu
