@@ -7,7 +7,6 @@ title: "A Heartening New Perspective"
 categories:
 - Digital Humanities
 - Research and Development
-- Makerspace
 tags:
 - Digital Humanities
 ---
