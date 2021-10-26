@@ -1,6 +1,6 @@
 ---
 author: joseph-foley
-date: 2021-09-12
+date: 2021-10-26
 layout: post
 slug: foley-first-blog
 title: "A Heartening New Perspective"
