@@ -1,5 +1,5 @@
 ---
-author: wendy-hsu
+author: w-f-umi-hsu
 date: 2009-02-04 15:04:12+00:00
 layout: post
 slug: on-asian-american-digital-identity-politics

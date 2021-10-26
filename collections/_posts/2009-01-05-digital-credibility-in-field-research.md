@@ -1,5 +1,5 @@
 ---
-author: wendy-hsu
+author: w-f-umi-hsu
 date: 2009-01-05 14:37:05+00:00
 layout: post
 slug: digital-credibility-in-field-research
