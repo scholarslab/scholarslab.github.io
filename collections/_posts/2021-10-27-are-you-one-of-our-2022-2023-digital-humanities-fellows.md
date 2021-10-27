@@ -1,11 +1,17 @@
 ---
-layout: page
-title: Digital Humanities Fellows Program
-permalink: /digital-humanities-fellows/
-nav: false
+author: brandon-walsh
+date: 2021-10-27
+layout: post
+slug: are-you-one-of-our-2022-2023-digital-humanities-fellows
+title: Are you one of our 2022-2023 Digital Humanities Fellows?
+categories:
+- Announcements
+- Digital Humanities
+tags:
+- Digital Humanities
 ---
 
-**Applications are now open for the 2022-2023 Digital Humanities Fellowship cohort.**
+Have a digital project you'd like to work on in conjunction with your dissertation? **Applications are now open for the 2022-2023 Digital Humanities Fellowship cohort.**
 The application deadline for fellowships to be held during the 2022-2023 academic year is **Monday, February 15th, 2022**. More details on how to apply at the end of this page. 
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2022-2023 cohort - **Tuesday, January 18th, 2022 from 10:00-11:00 on Zoom. Please [register](https://virginia.zoom.us/meeting/register/tJAkc-uqrTkuHdFZG8fY9etmDyxaqmAly_1t) to attend**. You are, of course, encouraged to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) separately and/or sooner for an individual meeting to discuss your application so that you can begin your application.
@@ -48,4 +54,3 @@ Questions about Grad Fellowships and the application process should be directed 
 
 
 [^1]: Please note that, per University policy, a student who has undertaken affiliate status and ceased to enroll full time is not eligible to resume full-time enrollment or hold a graduate teaching assistantship.  Because GTA appointments are a component of the DH Fellowship, students who have already undertaken affiliate status are not eligible to be considered for this award.
-
