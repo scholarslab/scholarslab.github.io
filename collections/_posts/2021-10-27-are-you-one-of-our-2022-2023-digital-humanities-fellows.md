@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2021-11-01
+date: 2021-10-27
 layout: post
 slug: are-you-one-of-our-2022-2023-digital-humanities-fellows
 title: Are you one of our 2022-2023 Digital Humanities Fellows?
