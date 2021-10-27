@@ -1,0 +1,20 @@
+---
+department: Music
+email: hsuw@oxy.edu
+first_name: "WF Umi"
+last_name: Hsu
+layout: people
+title: "WF Umi Hsu"
+position: Digital Humanities Fellow 2009-2010
+short_bio: ''
+slug: w-f-umi-hsu
+status: not_current
+twitter: wfumihsu
+website: http://beingwendyhsu.info
+people-category:
+- student
+roles:
+- Graduate Fellow, 2009–2010
+---
+
+WF Umi Hsu is Mellon Digital Scholarship Postdoctoral Fellow in the [Center of Digital Learning & Research](http://college.oxy.edu/cdlr/) at Occidental College. They received their PhD in the Critical and Comparative Studies in Music program in the [McIntire Department of Music](http://artsandsciences.virginia.edu/music/) at the University of Virginia. Their research interests lie at the intersection of popular music performance and the transnational contacts between Asia and America, focusing on issues related to race/ethnicity, gender/sexuality, and migration.

@@ -1,5 +1,5 @@
 ---
-author: wendy-hsu
+author: w-f-umi-hsu
 date: 2011-01-06 13:59:57+00:00
 layout: post
 slug: mapping-an-asian-american-indie-rock-digital-diaspora

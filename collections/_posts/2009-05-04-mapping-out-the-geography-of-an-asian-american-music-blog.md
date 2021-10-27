@@ -1,5 +1,5 @@
 ---
-author: wendy-hsu
+author: w-f-umi-hsu
 date: 2009-05-04 10:32:00+00:00
 layout: post
 slug: mapping-out-the-geography-of-an-asian-american-music-blog
