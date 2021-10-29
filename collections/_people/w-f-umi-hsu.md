@@ -1,7 +1,7 @@
 ---
 department: Music
 email: wf.umi.hsu@gmail.com
-first_name: "Umi"
+first_name: Umi
 last_name: Hsu
 layout: people
 title: "Umi Hsu"
