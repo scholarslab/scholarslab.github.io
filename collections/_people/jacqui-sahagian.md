@@ -1,13 +1,13 @@
 ---
 department: None
 email: None
-first_name: Jacqueline
+first_name: Jacqui
 last_name: Sahagian
 layout: people
-name: Jacqueline Sahagian
+name: Jacqui Sahagian
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: jacqueline-sahagian
+slug: jacqui-sahagian
 status: current
 twitter: None
 website: None
@@ -16,4 +16,4 @@ people-category:
 roles:
 - Praxis Fellow, 2021-2022
 ---
-Jacqueline Sahagian is a 2021-2022 Praxis Fellow.
+Jacqui Sahagian is a 2021-2022 Praxis Fellow.
