@@ -1,20 +1,20 @@
 ---
 department: None
 email: None
-first_name: Nora
-last_name: Dale
+first_name: Leah
+last_name: Phan
 layout: people
-title: Nora Dale
+title: Leah Phan
 position: TinkerTank Technologist
 short_bio:
-slug: nora-dale
+slug: leah-phan
 status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2020-current
+- Makerspace Technologist, 2021-current
 ---
 
 University of Virginia '22
