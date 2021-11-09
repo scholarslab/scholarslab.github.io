@@ -144,10 +144,10 @@ These key points will help you tremendously in the long run, especially as you s
 8. Once you have centerlines, select the Text sketch tool and a new menu will appear on the left side of the screen. Notice the Curves box is highlighted. Select one centerline where you would like your text to be. Then type into the textbox. To edit the font or size, first uncheck “Use Document Font.” (When printing such small text, it’s best to avoid fancy fonts and use as much surface area as possible.)
 9. Repeat the same process if you have more than one centerline.
 ![centerline](/assets/post-media/cad/image4.jpg)
-![centerline](/assets/post-media/cad/image6.jpg)
+![two centerlines](/assets/post-media/cad/image6.jpg)
 10. Once you’re finished with the text, head over to the Features tab, click on Extruded Boss/Base, and extrude it by 0.125 inch.
-![centerline](/assets/post-media/cad/image2.jpg)
-![centerline](/assets/post-media/cad/image5.jpg)
+![extrude words](/assets/post-media/cad/image2.jpg)
+![extruded words](/assets/post-media/cad/image5.jpg)
 11. You now have a personalized keychain that’s ready to be printed!
 
 I hope this guide was helpful and a jump in the right direction. Learning new things can be tricky, especially when you can’t watch someone do it first, but I have faith in all of you!!!
