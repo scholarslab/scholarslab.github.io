@@ -17,10 +17,4 @@ roles:
 - Makerspace Technologist, 2021-current
 ---
 
-University of Virginia '22
-
-Systems Engineering
-
-Urban and Environmental Planning
-
-Nora specializes in sewing, 3D printing, Textiles and Button making
+Expert in 3D Printing, 3D Scanner, Silhouette Cameo, Laminator, Mini Printing Press, Adobe Creative Suite

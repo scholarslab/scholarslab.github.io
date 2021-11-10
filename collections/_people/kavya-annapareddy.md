@@ -17,4 +17,4 @@ roles:
 - Makerspace Technologist, 2021-current
 ---
 
-
+Expert in Button Making, 3D Printing, Sewing, Wacom Drawing Tablet, Adobe Creative Suite

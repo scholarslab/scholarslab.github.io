@@ -18,3 +18,4 @@ roles:
 ---
 
 
+Expert in Adobe Creative Suite, Arduino, Raspberry Pi, Textiles
