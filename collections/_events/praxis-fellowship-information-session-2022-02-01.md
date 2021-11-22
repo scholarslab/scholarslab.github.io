@@ -1,11 +1,11 @@
 ---
-author: first-last
+author: brandon-walsh
 start_date: 2022-02-01
 start_time: '10:00:00'
 end_date: '2022-02-01'
 end_time: '11:00:00'
 layout: events
-slug: praxis-fellowship-information-session-2022-2022-02-01
+slug: praxis-fellowship-information-session-2022-02-01
 title: 'Praxis Fellowship Information Session 2022'
 location: '<a href="https://cal.lib.virginia.edu/calendar/events/PraxisProgramInfo2023">Register for Zoom Link</a>'
 ---
