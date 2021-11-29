@@ -21,3 +21,4 @@ gem 'front_matter_parser'
 gem 'ruby-progressbar'
 gem 'kramdown'
 gem "ffi", ">=1.15"
+gem 'kramdown-parser-gfm'
