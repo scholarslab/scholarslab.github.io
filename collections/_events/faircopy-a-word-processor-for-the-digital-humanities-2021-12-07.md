@@ -1,11 +1,11 @@
 ---
 author: brandon-walsh
-start_date: 2021-12-03
+start_date: 2021-12-07
 start_time: '14:00:00'
-end_date: '2021-12-03'
+end_date: '2021-12-07'
 end_time: '15:00:00'
 layout: events
-slug: faircopy-a-word-processor-for-the-digital-humanities-2021-12-03
+slug: faircopy-a-word-processor-for-the-digital-humanities-2021-12-07
 title: 'FairCopy: A Word Processor For The Digital Humanities'
 location: '<a href="https://cal.lib.virginia.edu/calendar/events/FairCopy">Register for Zoom Link</a>'
 ---
