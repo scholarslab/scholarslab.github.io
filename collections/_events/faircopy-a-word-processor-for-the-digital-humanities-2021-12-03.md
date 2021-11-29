@@ -6,7 +6,7 @@ end_date: '2021-12-03'
 end_time: '15:00:00'
 layout: events
 slug: faircopy-a-word-processor-for-the-digital-humanities-2021-12-03
-title: 'Faircopy: A Word Processor For The Digital Humanities'
+title: 'FairCopy: A Word Processor For The Digital Humanities'
 location: '<a href="https://cal.lib.virginia.edu/calendar/events/FairCopy">Register for Zoom Link</a>'
 ---
 Come learn about [FairCopy](https://www.faircopyeditor.com/en/), a new tool for studying and transcribing primary sources in literature and history. You can use FairCopy on a variety of texts, from novel-length works, to written correspondence, audio transcripts, dramatic productions, and more. It works on Windows, Mac, and Linux systems.
