@@ -11,9 +11,9 @@ tags:
 - Digital Humanities
 ---
 
-It's Spring semester, which means we'll be shifting our focus to ArcGIS Online (AGOL), Esri's GIS solution for the cloud. AGOL is browser-based, eliminating any Windows vs. Mac shenanigans, and allowing us to provide temporary access to members of the Charlottesville community that don't have UVA credentials. 
+Spring term is upon us, which means we'll be shifting the focus of our workshop series to ArcGIS Online (AGOL), Esri's GIS solution for the cloud. AGOL is browser-based, eliminating any Windows vs. Mac shenanigans, and enabling us to provide temporary access to members of the Charlottesville community that don't have UVA credentials. 
 
-All sessions are one hour and assume participants have no previous experience using GIS. Sessions will be hands-on demonstrations with step-by-step tutorials and expert assistance. All sessions will be taught on **Tuesdays from 1PM to 2PM** and are free and open to the UVa and larger Charlottesville community. Late-comers are welcome and encouraged, registration will remain open until the conclusion of the workshop. Use the links below to register and get a Zoom link. 
+Each session is one hour and assumes participants have no previous experience using GIS. These will be hands-on demonstrations with step-by-step tutorials and expert assistance. All sessions will be taught on **Tuesdays from 1PM to 2PM** and are free and open to the UVA and larger Charlottesville community. Late-comers are welcome and encouraged, registration will remain open until the conclusion of the workshop. Use the links below to register and get a Zoom link. 
 
 **February 1st - Introduction to ArcGIS Online**
 
