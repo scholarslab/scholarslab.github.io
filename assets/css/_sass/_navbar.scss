@@ -248,7 +248,7 @@ ul[class*="flexnav"] {
 }
 
 #library-banner {
-    background: #131313;
+    background: $brand-blue;
     padding: 0 4.167%;
     display:flex;
     justify-content: flex-start;
@@ -269,4 +269,5 @@ ul[class*="flexnav"] {
         }
     }
 }
+
 /* End navbar styles */

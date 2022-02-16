@@ -26,25 +26,10 @@
 		font-weight: 700;
 		text-decoration: none;
 		color: $textgray;
-		border-bottom: 2px solid hsla(186,80%,70%,1);
 		background-color: transparent;
 		-webkit-transition: background-color .3s;
 		transition: background-color .3s;
 		word-break: break-word;
-		&:hover, &:focus {
-			background-color: hsla(186,80%,70%,1);
-		}
-	}
-}
-
-// in-text links v2.0
-[class*="post-"],
-[class*="person-"] {
-	a {
-		border-bottom: 2px solid hsla(186,80%,70%,1) !important;
-		&:hover, &:focus {
-			background-color: hsla(186,80%,70%,1) !important;
-		}
 	}
 }
 
@@ -63,7 +48,6 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		color: hsla(186,80%,30%,1);
-		border: 2px solid hsla(186,80%,60%,1);
 		&:hover, &:focus {
 			background-color: transparent !important;
 		}

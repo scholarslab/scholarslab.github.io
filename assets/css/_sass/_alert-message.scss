@@ -5,15 +5,11 @@
   justify-content: center;
   align-items: center;
   min-height: 5vh;
-  background: $grape;
-  color: white;
+  background: $teal-light;
 
   p {
     font-size: 1.25rem;
     margin:0;
   }
 
-  a, :link, :visited {
-    color: white !important;
-  }
 }

@@ -6,10 +6,6 @@
 	a, #anonymous {
 		font-family: "Raleway", sans-serif !important;
 		font-weight: bold;
-		border-bottom: 2px solid hsla(186,80%,70%,1) !important;
-		&:hover, &:focus {
-			background-color: hsla(186,80%,70%,1) !important;
-		}
 	}
 }
 

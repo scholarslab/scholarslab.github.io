@@ -14,12 +14,12 @@
 		font-family:  monospace;
 		text-decoration: none;
 		color: black;
-		border-bottom: 2px solid magenta;
+		border-bottom: 1px solid $brand-orange-dark;
 		background-color: transparent;
 		-webkit-transition: background-color .3s;
 		transition: background-color .3s;
 		&:hover, &:focus {
-			background-color: magenta;
+			background-color: $brand-orange;
 		}
 	}
 }
