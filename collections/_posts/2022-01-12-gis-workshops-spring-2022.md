@@ -39,15 +39,15 @@ Pop-ups, filters, clustering, advanced symbology. There are many ways to persona
 
 [Register Here!](https://cal.lib.virginia.edu/calendar/events/Spring2022GISWorkshop4)
 
-**March 1st - Spring Break, No Workshop!**
-
-Enjoy a short break. We'll see you next week!
-
-**March 8th - App Your Map with Web AppBuilder**
+**March 1st - App Your Map with Web AppBuilder**
 
 Would you like to make a custom online mapping application without have to code?  Us too.  ArcGIS Web AppBuilder allows developers to use drag and drop tools to create responsive mapping applications.  
 
 [Register Here!](https://cal.lib.virginia.edu/calendar/events/Spring2022GISWorkshop5)
+
+**March 8th - Spring Break, No Workshop!**
+
+Enjoy a short break. We'll see you next week!
 
 **March 15th - Introduction to ArcGIS StoryMaps**
 
