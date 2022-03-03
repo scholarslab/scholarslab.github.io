@@ -1,12 +1,12 @@
 ---
 author: ammon-shepherd
-start_date: 2022-03-29
-end_date: 2022-03-29
-start_time: "13:30"
-end_time: "15:00"
+start_date: 2022-03-31
+end_date: 2022-03-31
+start_time: "12:00"
+end_time: "13:30"
 layout: makerspace
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
-slug: workshop-2022-03-29-wearable-electronics
+slug: workshop-2022-03-31-wearable-electronics
 title: "Wearable Electronics"
 ---
 
