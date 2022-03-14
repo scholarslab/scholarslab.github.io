@@ -12,7 +12,7 @@ title: 'Praxis Fellows 2022 Final Presentation'
 
 Please save the date for a final presentation by fellows in The Scholars' Lab's Praxis Program. 
 
-More information soon to come! '<a href="https://cal.lib.virginia.edu/calendar/events/Praxis2022">Please register to attend</a>.'
+More information soon to come! <a href="https://cal.lib.virginia.edu/calendar/events/Praxis2022">Please register to attend</a>.
 
 **2021-2022 Praxis Program Fellows**
 
