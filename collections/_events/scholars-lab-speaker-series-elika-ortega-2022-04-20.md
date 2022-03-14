@@ -7,7 +7,7 @@ end_time: '15:15:00'
 layout: events
 slug: scholars-lab-speaker-series-elika-ortega-2022-04-20
 title: "Scholars' Lab Speaker Series: Elika Ortega"
-location: '<a href="https://cal.lib.virginia.edu/event/8989698">Registration is required for this zoom event</a>
+location: '<a href="https://cal.lib.virginia.edu/event/8989698">Registration is required for this zoom event</a>'
 ---
 _The eternal return of print-digital literary publishing_
 
