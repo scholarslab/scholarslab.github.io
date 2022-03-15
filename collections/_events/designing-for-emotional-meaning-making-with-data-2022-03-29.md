@@ -1,9 +1,9 @@
 ---
 author: brandon-walsh
 start_date: 2022-03-29
-start_time: '15:00:00'
+start_time: '10:30:00'
 end_date: '2022-03-29'
-end_time: '16:00:00'
+end_time: '12:00:00'
 layout: events
 slug: designing-for-emotional-meaning-making-with-data-2022-03-29
 title: 'Noura Howell: "Designing For Emotional Meaning-Making With Data"'
