@@ -19,7 +19,7 @@
   "dependencies": {
     "jquery": "^3.4.0",
     "lunr": "^2.3.6",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "extend": "^3.0.2",
