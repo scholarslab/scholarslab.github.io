@@ -14,3 +14,5 @@ The field of electronic literature has long been dominated by white practitioner
 Leonardo Flores is Chair of the English Department at Appalachian State University and President of the [Electronic Literature Organization](http://eliterature.org/). His research areas are electronic literature, with a focus on digital poetry, and the history and strategic growth of the field. He’s known for [I ♥ E-Poetry](http://iloveepoetry.org/), the [Electronic Literature Collection, Volume 3](https://collection.eliterature.org/3/), “[Third Generation Electronic Literature](https://electronicbookreview.com/essay/third-generation-electronic-literature/)” and the [Antología Lit(e)Lat, Volume 1](http://antologia.litelat.net/). For more information on his current work, visit [leonardoflores.net](https://leonardoflores.net/).
 
 This program is open to all, but registration is required. The Zoom link to join will be sent via email before the event.  
+
+A [video of this talk](https://avalon.lib.virginia.edu/media_objects/1v53jx19r) is available.
