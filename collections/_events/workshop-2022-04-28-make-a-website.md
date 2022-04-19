@@ -18,4 +18,4 @@ This is an in person workshop, all you need is a computer with Internet connecti
 
 The Scholars' Lab TinkerTank is located in Clemons Library on the 3rd floor.
 
-Register here: [https://cal.lib.virginia.edu/event/8846959 ](https://cal.lib.virginia.edu/event/8846959)
+Register here: [https://cal.lib.virginia.edu/event/8846966 ](https://cal.lib.virginia.edu/event/8846966)
