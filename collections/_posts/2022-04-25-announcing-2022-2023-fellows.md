@@ -18,7 +18,7 @@ We are delighted to welcome 5 team members to the 12th (!) year of the Praxis Pr
 
 *	Malcolm Cammeron, History
 *	Caroline Carter, Art and Architectural History
-*	Lauren Garcia, Anthropology
+*	Lauren Garcia, Sociology
 *	Winnie Pérez Martínez, Spanish
 *	Samantha Stephens, English
 
