@@ -14,7 +14,7 @@ We are thrilled to announce the 2022-2023 Scholar’s Lab fellows for the Praxis
 
 ## Praxis Program
 
-We are delighted to welcome 6 team members to the 12th (!) year of the Praxis Program, our flagship introduction to digital humanities by way of collaborative, project-based pedagogy:
+We are delighted to welcome 5 team members to the 12th (!) year of the Praxis Program, our flagship introduction to digital humanities by way of collaborative, project-based pedagogy:
 
 *	Malcolm Cammeron, History
 *	Caroline Carter, Art and Architectural History
