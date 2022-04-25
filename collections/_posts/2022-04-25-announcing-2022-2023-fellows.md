@@ -31,6 +31,6 @@ Finally, we are looking forward to working with Rebecca Brown and Eleanore Neuma
 *	Rebecca Brown's (Music, Composition & Computer Technologies) dissertation is titled "*Fireside seats at the Star Chamber*, a multimedia composition"
 *	Eleanore Neumann's (Art and Architectural History) dissertation is titled "Maria Graham (1785-1842) and the Gendered Landscape"
 
-These fellows will work with our team throughout the year and over the summer on substantial research projects related to their dissertations. They join a vibrant community of students working in the lab in the coming year as Makerspace Technologists, Cultural Heritage Interns, GIS Technicians, and more.
+These fellows will work with our team throughout the year and over the summer on substantial research projects related to their dissertations. They join a vibrant community of students working in the lab in the coming year.
 
 Special thanks to everyone who served on the application committees that selected these fantastic students. We are looking forward to working with all of them in the coming year!
