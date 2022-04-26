@@ -10,9 +10,7 @@ slug: dh-fellows-final-presentation-2022-05-11
 title: 'DH Fellows 2022 Final Presentations'
 ---
 
-Please save the date for a final presentation by the Scholars' Lab Graduate Fellows in Digital Humanities. 
-
-More information soon to come! <a href="https://cal.lib.virginia.edu/calendar/events/DHFellows2022">Please register to receive Zoom information</a>.
+Please save the date for a final presentation by the Scholars' Lab Graduate Fellows in Digital Humanities. <a href="https://cal.lib.virginia.edu/calendar/events/DHFellows2022">Please register to receive Zoom information</a>.
 
 **2021-2022 Graduate Fellows in Digital Humanities**
 
