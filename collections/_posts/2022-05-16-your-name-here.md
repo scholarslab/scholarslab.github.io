@@ -3,6 +3,9 @@ layout: post
 title: Your Name Here
 author: joseph-foley
 date: 2022-05-16
+categories:
+- Digital Humanities
+- Grad Student Research
 ---
 
 At the beginning of our Praxis Fellowship in August, we were excited, overwhelmed and everything in-between. After wading through the initial awkwardness of introductions and building trust, we found relief in realizing that most of us felt exactly the same way. Similarly, while we did our best to warn the Scholars’ Lab staff of our inadequacies, they met us with support, love and confidence in our potential.
