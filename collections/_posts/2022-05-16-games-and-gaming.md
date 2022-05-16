@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scholars' Lab, Games, and Gaming
+title: "Scholars' Lab, Games, and Gaming"
 author: ronda-grizzle
 date: 2022-05-16
 categories:
