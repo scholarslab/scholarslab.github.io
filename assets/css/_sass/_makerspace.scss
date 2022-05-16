@@ -321,11 +321,13 @@
 	position: relative;
 	display: grid;
 	grid-template-areas: "title"
+	"subtitle"
 	"list"
 	"notes"
 	"contact";
 	@media screen and (min-width: 768px) {
 		grid-template-areas: "title title"
+		"subtitle subtitle"
 		"list list"
 		"notes contact";
 	}
@@ -333,6 +335,10 @@
 
 .maker-inventory__title {
 	grid-area: title;
+}
+
+.maker-inventory__subtitle {
+	grid-area: subtitle;
 }
 
 // contains all sub-lists
