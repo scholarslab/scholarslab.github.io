@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+	{% include head.html %}
+
+	<body>
+		{% include navbar.html %}
+
+		<main id="main" role="main">
+			{{ content }}
+		</main>
+
+		{% include footer.html %}
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="{{ '/assets/js/lib/hammer.min.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>
+		<script src="{{ '/assets/js/main.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>
+        {% if page.title == 'Search' %}
+		<script src="https://unpkg.com/lunr/lunr.js" type="text/javascript" charset="utf-8"></script>
+		<script src="{{ '/assets/js/search.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>
+        {% endif %}
+
+	</body>
+
+</html>
