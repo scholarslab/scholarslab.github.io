@@ -8,7 +8,7 @@ name: Michelle Morgenstern
 position: 
 short_bio: 'Michelle Morgenstern is a 2020-2021 Graduate Fellow in DH Humanities.'
 slug: michelle-morgenstern
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

@@ -14,5 +14,6 @@ website: None
 people-category:
 - student
 roles:
+- Graduate Fellow, 2022-2023
 - Praxis Fellow, 2018-2019
 ---

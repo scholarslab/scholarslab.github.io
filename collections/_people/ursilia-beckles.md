@@ -1,19 +1,19 @@
 ---
 department: None
 email: None
-first_name: Joseph
-last_name: Foley
+first_name: Ursilia
+last_name: Beckles
 layout: people
-name: Joseph Foley
+name: Ursilia Beckles
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: joseph-foley
-status: not_current
+slug: ursilia-beckles
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2021-2022
+- LAMI FELLOW, 2022
 ---
-Joseph Foley is a 2021-2022 Praxis Fellow.
+Ursilia Beckles is a 2022 LAMI Fellow.

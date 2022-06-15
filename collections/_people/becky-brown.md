@@ -1,19 +1,19 @@
 ---
 department: None
 email: None
-first_name: Joseph
-last_name: Foley
+first_name: Becky
+last_name: Brown
 layout: people
-name: Joseph Foley
+name: Becky Brown
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: joseph-foley
-status: not_current
+slug: becky-brown
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2021-2022
+- Graduate Fellow, 2022-2023
 ---
-Joseph Foley is a 2021-2022 Praxis Fellow.
+

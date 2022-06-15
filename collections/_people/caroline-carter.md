@@ -1,19 +1,19 @@
 ---
 department: None
 email: None
-first_name: Joseph
-last_name: Foley
+first_name: Caroline
+last_name: Carter
 layout: people
-name: Joseph Foley
+name: Caroline Carter
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: joseph-foley
-status: not_current
+slug: caroline-carter
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2021-2022
+- LAMI FELLOW, 2022-2023
 ---
-Joseph Foley is a 2021-2022 Praxis Fellow.
+Caroline Carter is a 2022-2023 Praxis Fellow

@@ -8,7 +8,7 @@ name: Yasmin Mendoza
 position: None
 short_bio: 'A short one-sentence bio.'
 slug: yasmin-mendoza
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

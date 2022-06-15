@@ -1,19 +1,19 @@
 ---
 department: None
 email: None
-first_name: Joseph
-last_name: Foley
+first_name: Lauren
+last_name: Garcia
 layout: people
-name: Joseph Foley
+name: Lauren Garcia
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: joseph-foley
-status: not_current
+slug: lauren-garcia
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2021-2022
+- Praxis Fellow, 2022-2023
 ---
-Joseph Foley is a 2021-2022 Praxis Fellow.
+Lauren Garcia is a 2022-2023 Praxis Fellow.
