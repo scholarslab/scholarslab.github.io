@@ -8,7 +8,7 @@ name: Brianna DeMan
 position: None
 short_bio: 'A short one-sentence bio.'
 slug: brianna-deman
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

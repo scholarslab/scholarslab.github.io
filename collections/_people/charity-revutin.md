@@ -8,7 +8,7 @@ title: Charity Revutin
 position: CHI Intern
 short_bio:
 slug: charity-revutin
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
