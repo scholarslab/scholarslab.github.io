@@ -51,8 +51,10 @@ thumb-img: neatline-thumb.png
 banner-img: neatline-banner.png
 research-category: Internal Projects and Community Service
 start-year: 2011
-end-year: current
+end-year: 2021
 ---
+
+_Please note that Neatline user/developer support and development is on hiatus while we seek a different institution to take over its future maintenance, development, and support. Current UVA Neatline users are requested to contact ScholarsLab@Virginia.edu for assistance planning the future of existing projects and teaching plans._
 
 Neatline is a mix-and-match toolset for the creation of interlinked timelines and maps as interpretive expressions of the literary or historical content of archival collections. It allows scholars and archivists to build on standard descriptive metadata and georectified maps to produce rich, evocative – even theoretical – spatial and temporal visualizations of the textual content of catalogued letters, manuscripts, and artifacts.
 
