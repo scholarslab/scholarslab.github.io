@@ -16,4 +16,4 @@ people-category:
 roles:
 - Praxis Fellow, 2022-2023
 ---
-A flashy bio goes here. The above information is meant to give you a template.
+Malcolm Cammeron is a 2022-2023 Praxis Fellow.
