@@ -6,7 +6,7 @@ last_name: Lin
 layout: people
 title: Shane Lin
 position: Senior Developer
-short_bio: 'Shane Lin, Senior Developer, randomly presses buttons on his keyboard, but we live in a universe where this results in mostly compilable code.'
+short_bio: 'Shane Lin, Senior Developer, randomly presses buttons on his keyboard, but we live in a universe where this results in mostly compilable code. All bugs not my own and represent those of Jeremy Boggs.'
 slug: shane-lin
 status: current
 twitter: shane-et-al
@@ -22,4 +22,4 @@ roles:
 
 Shane writes codes for Scholars' Lab, teaches Code Lab for the Praxis Program, and co-directs the Slab Coffee Studies Program with Jeremy Boggs. On the academic side, he works on the history of computing and the impact of digital technology on culture and politics.
 
-Shane was previously a Praxis Fellow (2012), Makerspace Technologist (2015-2017), Digital Humanities Fellow (2016), and the sole recipient of the Scholars' Lab's prestigious Shane Lin Memorial Fellowship (2013).
+Shane was previously a Praxis Fellow (2012), Makerspace Technologist (2014-2017), Digital Humanities Fellow (2016), and the sole recipient of the Scholars' Lab's prestigious Shane Lin Memorial Fellowship (2013).

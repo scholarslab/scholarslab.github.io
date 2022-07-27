@@ -1,5 +1,5 @@
 ---
-department: None
+department: History
 email: None
 first_name: Jacqui
 last_name: Sahagian
@@ -10,7 +10,7 @@ short_bio: 'A short one-sentence bio.'
 slug: jacqui-sahagian
 status: not_current
 twitter: None
-website: None
+website: http://https://jacquisahagian.com/
 people-category:
 - student
 roles:
