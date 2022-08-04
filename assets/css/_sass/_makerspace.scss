@@ -342,6 +342,11 @@
 	}
 }
 
+#equipment-btn:hover {
+  background: #2dd;
+  border-color: #ba7fff;
+}
+
 .makerspace__inventory {
 	grid-area: invent;
 	position: relative;
