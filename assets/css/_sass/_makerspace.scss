@@ -316,6 +316,32 @@
 
 /* Inventory: */
 
+#equipment-btn {
+  background: #0ff;
+  padding: 4px;
+  margin: 4px;
+  line-height: 2.5em;
+  border-radius: 10px;
+  border: 3px solid #873cdd;
+  box-shadow: 2px 2px 2px gray;
+  white-space: nowrap;
+
+	@media screen and (min-width: 900px) {
+    padding: 14px;
+    margin: 4px;
+    margin-right: 6px;
+    line-height: 3em;
+    box-shadow: 3px 3px 3px gray;
+	}
+	@media screen and (min-width: 1024px) {
+    padding: 14px;
+    margin: 4px;
+    margin-right: 6px;
+    line-height: 3em;
+    box-shadow: 5px 5px 5px gray;
+	}
+}
+
 .makerspace__inventory {
 	grid-area: invent;
 	position: relative;
