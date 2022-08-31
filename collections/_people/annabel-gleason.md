@@ -8,13 +8,13 @@ title: Annabel Gleason
 position: TinkerTank Technologist
 short_bio:
 slug: annabel-gleason
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2021-current
+- Makerspace Technologist, 2021-2022
 ---
 
 
