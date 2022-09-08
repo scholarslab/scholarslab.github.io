@@ -51,13 +51,13 @@ thumb-img: neatline-thumb.png
 banner-img: neatline-banner.png
 research-category: Internal Projects and Community Service
 start-year: 2011
-end-year: 2021
+end-year: 2022
 ---
 
-_Please note that Neatline user/developer support and development is on hiatus while we seek a different institution to take over its future maintenance, development, and support. Current UVA Neatline users are requested to contact ScholarsLab@Virginia.edu for assistance planning the future of existing projects and teaching plans._
+_Neatline is currently in the process of moving to a new home with Performant Software! More info will be forthcoming from Performant; you can direct any questions in the mean time to [Performant’s contact page](https://www.performantsoftware.com/contact.html)._
 
 Neatline is a mix-and-match toolset for the creation of interlinked timelines and maps as interpretive expressions of the literary or historical content of archival collections. It allows scholars and archivists to build on standard descriptive metadata and georectified maps to produce rich, evocative – even theoretical – spatial and temporal visualizations of the textual content of catalogued letters, manuscripts, and artifacts.
 
-Neatline is therefore a geo-temporal framework for fruitful interchange among scholars and the stewards of primary resources. It builds on Omeka, OpenLayers, GeoServer, and SIMILE Timeline. Adam Soroka and Bethany Nowviskie conceived Neatline as a contribution to interpretive humanities scholarship in the visual vernacular.  Their initial work was funded by an [NEH Digital Humanities Start-Up Grant](http://neh.gov/odh/), and the whole Scholars' Lab team has taken the project forward with funding from the [Library of Congress](http://loc.gov) and in collaboration with the [Omeka](http://omeka.org) team at the Rosenzweig Center for History and New Media. David McClure is currently lead developer on Neatline.
+Neatline is therefore a geo-temporal framework for fruitful interchange among scholars and the stewards of primary resources. It builds on Omeka, OpenLayers, GeoServer, and SIMILE Timeline. Adam Soroka and Bethany Nowviskie conceived Neatline as a contribution to interpretive humanities scholarship in the visual vernacular.  Their initial work was funded by an [NEH Digital Humanities Start-Up Grant](http://neh.gov/odh/), and the whole Scholars' Lab team has taken the project forward with funding from the [Library of Congress](http://loc.gov) and in collaboration with the [Omeka](http://omeka.org) team at the Rosenzweig Center for History and New Media. David McClure was a lead developer on Neatline.
 
 Learn more about our Neatline-related [Omeka plugins](/work/omeka-plugins/), or visit the [Neatline page](http://neatline.org/).
