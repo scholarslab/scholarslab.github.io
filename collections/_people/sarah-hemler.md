@@ -16,3 +16,5 @@ people-category:
 roles:
 - Makerspace Technologist, 2022
 ---
+
+Sarah is a 2022 Makerspace Technologist. She is pursuing a Bachelor's in Mechanical Engineering, with a focus on robotics, mechatronics, and materials.
