@@ -53,6 +53,12 @@ No formal call for this external program, but graduate students interested in se
 
 [More information](/lami/)
 
+## DHSI Tuition Fellowships
+
+[More information](/dhsi-tuition-fellowships/)
+
+The University of Virginia, as a sponsoring institution of [DHSI](https://dhsi.org/), provides a handful of tuition-free fellowships to attend a Digital Humanities Summer Institute course or workshop each year. UVA students, staff, non-TT faculty, and those without access to research travel funds are especially encouraged to apply. A call is typically issued in the fall and fellowships are awarded on a first-come-first-served basis.
+
 ## Digital Humanities Programming and Departmental Language Requirements
 
 UVA departments determine language proficiency requirements for their students. Graduate students affiliated with the Scholars' Lab have at times obtained departmental approval to satisfy a component of their language proficiency requirements by demonstrating proficiency in a digital humanities programming language. If your faculty advisor and DGS endorse this concept based on the relevance of programming to your proposed research, please contact our Head of Student Programs to discuss our role in designing a proficiency exam that is appropriate for your research and meets the standards of your department.
