@@ -54,56 +54,47 @@ order: 3
   </div>
 
   <div class="makerspace__hours">
-    <div id="makerspace-hours" class="maker-hours__title">2022 Summer Hours and Access</div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
-<script src="https://cal.lib.virginia.edu/js/hours_grid.js?002"></script> 
-<div id="s-lc-whw15029"></div> 
-<script>
-$(function(){ 
-var week15029 = new $.LibCalWeeklyGrid( $("#s-lc-whw15029"), { iid: 863, lid: 15029, systemTime: false }); 
-});
-</script> 
+    <!-- Please note: The following styles are optional, feel free to modify! //-->
+    <style>
+      .s-lc-whw-sublocname {visibility: hidden;}
+      .s-lc-whw thead { background-color: #F5F5F5; }
+      .s-lc-whw-head-date { color: #5F5F5F; }
+      .s-lc-whw-today-h {  background-color: #ddd; }
+      .s-lc-whw-today { background-color: #F5F5F5; }
+      .s-lc-whw-bh { text-align: right; white-space: nowrap; }
+      .s-lc-whw-locname { font-weight: bold;}
+      .s-lc-whw-sublocname{ padding-left: 10px!important; }
+      .s-lc-whw-footnote { color: #555; font-size: 80%; }
+      .s-lc-whw-footnote td:hover { background-color:#fff!important;}
+      /* Below styles can be removed if you are already using Bootstap v3 in host page */
+      .s-lc-whw-cont {font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 12px;}
+      .s-lc-whw-pr, .s-lc-whw-ne{ padding: 5px 10px; font-size: 12px; line-height: 1.5; border-radius: 3px; color: #333; background-color: #fff; border-color: #ccc; display: inline-block; margin-bottom: 0; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; background-image: none; border: 1px solid transparent; white-space: nowrap; }
+      .s-lc-whw-pr:disabled { background-color: #efefef; }
+      .s-lc-whw-ne:disabled { background-color: #efefef; }
+      .s-lc-whw { width: 100%; margin-bottom: 20px; max-width: 100%; background-color: transparent; border-bottom: none; border-left: none; border-collapse: collapse; border-spacing: 0; }
+      .s-lc-whw>tbody>tr>td { padding: 5px; }
+      .s-lc-whw>thead>tr>th { vertical-align: bottom; border-bottom: 2px solid #ddd; padding: 5px;}
+      .s-lc-whw th { border-top: none; border-bottom: none; border-right: none;}
+      .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+      @media (max-width: 768px) {
+        .s-lc-whw-cont .table-responsive { width: 100%; margin-bottom: 15px; overflow-y: hidden; overflow-x: scroll; -ms-overflow-style: -ms-autohiding-scrollbar; border: 1px solid #ddd; -webkit-overflow-scrolling: touch; }
+        .s-lc-whw td { white-space: nowrap; }
+    }
+    </style>
+    <div id="makerspace-hours" class="maker-hours__title">Fall 2022 Hours and Access</div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
+    <script src="https://cal.lib.virginia.edu/js/hours_grid.js?002"></script> 
+    <div id="s-lc-whw15029"></div> 
+    <script>
+      $(function(){ 
+        var week15029 = new $.LibCalWeeklyGrid( $("#s-lc-whw15029"), { iid: 863, lid: 15029, systemTime: false }); 
+      });
+    </script> 
 
-<!-- Please note: The following styles are optional, feel free to modify! //-->
-<style>
-.s-lc-whw-sublocname {visibility: hidden;}
-.s-lc-whw thead { background-color: #F5F5F5; }
-.s-lc-whw-head-date { color: #5F5F5F; }
-.s-lc-whw-today-h {  background-color: #ddd; }
-.s-lc-whw-today { background-color: #F5F5F5; }
-.s-lc-whw-bh { text-align: right; white-space: nowrap; }
-.s-lc-whw-locname { font-weight: bold;}
-.s-lc-whw-sublocname{ padding-left: 10px!important; }
-.s-lc-whw-footnote { color: #555; font-size: 80%; }
-.s-lc-whw-footnote td:hover { background-color:#fff!important;}
-/* Below styles can be removed if you are already using Bootstap v3 in host page */
-.s-lc-whw-cont {font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 12px;}
-.s-lc-whw-pr, .s-lc-whw-ne{ padding: 5px 10px; font-size: 12px; line-height: 1.5; border-radius: 3px; color: #333; background-color: #fff; border-color: #ccc; display: inline-block; margin-bottom: 0; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; background-image: none; border: 1px solid transparent; white-space: nowrap; }
-.s-lc-whw-pr:disabled { background-color: #efefef; }
-.s-lc-whw-ne:disabled { background-color: #efefef; }
-.s-lc-whw { width: 100%; margin-bottom: 20px; max-width: 100%; background-color: transparent; border-bottom: none; border-left: none; border-collapse: collapse; border-spacing: 0; }
-.s-lc-whw>tbody>tr>td { padding: 5px; }
-.s-lc-whw>thead>tr>th { vertical-align: bottom; border-bottom: 2px solid #ddd; padding: 5px;}
-.s-lc-whw th { border-top: none; border-bottom: none; border-right: none;}
-.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
-@media (max-width: 768px) {
-   .s-lc-whw-cont .table-responsive { width: 100%; margin-bottom: 15px; overflow-y: hidden; overflow-x: scroll; -ms-overflow-style: -ms-autohiding-scrollbar; border: 1px solid #ddd; -webkit-overflow-scrolling: touch; }
-   .s-lc-whw td { white-space: nowrap; }
-}
-</style>
     <p>The TinkerTank staff provides consultations and instruction for all your electronics, crafting, and textiles projects <a href="https://www.library.virginia.edu/hours/">whenever the TinkerTank is open</a>, or by appointment. Please drop in, or send inquiries to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>. </p>
 
     <p>Or schedule a consultation with Ammon, manager of our TinkerTank.</p>
 
-    <script>
-      jQuery.getScript("https://cal.lib.virginia.edu/js/myscheduler.min.js", function () {
-        jQuery("#mysched_41069").LibCalMySched({ iid: 863, lid: 0, gid: 0, uid: 41069, width: 560, height: 680, title: 'Make an Appointment - ', domain: 'https://cal.lib.virginia.edu' });
-      });
-    </script>
-
-    <!-- Place the following link anywhere in your page. Make sure the id "mysched_41069" matches with the above code: jQuery("#mysched_41069")  //-->
-    <button id="mysched_41069" href="#">Schedule Appointment</button>
-    <!-- Below is optional button styling  //-->
     <style>
       #mysched_41069 {
         background: #702dbe;
@@ -121,29 +112,37 @@ var week15029 = new $.LibCalWeeklyGrid( $("#s-lc-whw15029"), { iid: 863, lid: 15
         opacity: 0.9;
       }
     </style>
-
-
+    <script>
+      jQuery.getScript("https://cal.lib.virginia.edu/js/myscheduler.min.js", function () {
+        jQuery("#mysched_41069").LibCalMySched({ iid: 863, lid: 0, gid: 0, uid: 41069, width: 560, height: 680, title: 'Make an Appointment - ', domain: 'https://cal.lib.virginia.edu' });
+      });
+    </script>
+    <!-- Place the following link anywhere in your page. Make sure the id "mysched_41069" matches with the above code: jQuery("#mysched_41069")  //-->
+    <button id="mysched_41069" href="#">Schedule Appointment</button>
+    <!-- Below is optional button styling  //-->
   </div>
 
   <div class="makerspace__people">
-    <div class="maker-people__title">TinkerTank Techs</div>
+    <div class="maker-people__title" id="tinkertank-techs">TinkerTank Techs</div>
     <div class="maker-people__students">
       <div class="maker-students__label">Student Technologists</div>
       <div class="maker-students__list">
-        <span>Kavya Annapareddy:</span>Button Making, 3D Printing, Sewing, Wacom Drawing Tablet, Adobe Creative Suite</br />
-        <span>Nora Dale:</span>3D Printing, Textiles, Sewing, Button Making</br />
-        <span>Annabel Gleason:</span>Adobe Creative Suite, Arduino, Raspberry Pi, Textiles</br />
-        <span>Leah Phan:</span>3D Printing, 3D Scanner, Silhouette Cameo, Laminator, Mini Printing Press, Adobe Creative Suite</br />
+        <span>Kavya Annapareddy:</span>Button Making, 3D Printing, Sewing, Wacom Drawing Tablet, Adobe Creative Suite<br>
+        <span>Sarah Hemler</span>3D Printing, Solidworks and AutoDesk, Electronics, Photoshop Software and Drawing Tablets, Audacity and Musescore<br>
+        <span>Yejung (Henry) Kim</span>Electronics, CAD<br>
+        <span>Alexa Luborsky:</span>Digital Humanities, Button Making, Silhouette Cameo<br>
+        <span>Leah Phan:</span>3D Printing, 3D Scanner, Silhouette Cameo, Laminator, Mini Printing Press, Adobe Creative Suite<br>
+        <span>Tingyo Tan:</span>CAD, 3D Printing, Electronics, Photogrammetry<br>
       </div>
       <div class="maker-students__label">Makerspace Manager &amp; Lead Research Technologist</div>
       <div class="maker-staff__list">
-        <span>Ammon Shepherd:</span>3D Printing, Electronics, Programming, Web Development, Digital Humanities, Sewing<br />
+        <span>Ammon Shepherd:</span>3D Printing, Electronics, Programming, Web Development, Digital Humanities, Sewing<br>
       </div>
       <div class="maker-people__staff">
         <div class="maker-staff__label">Scholars’ Lab Staff Technologists</div>
         <div class="maker-staff__list">
-          <span>Laura Miller:</span>3D Printing, Photogrammetry, Digital Humanities<br />
-          <span>Shane Lin:</span>3D Printing, Programming, Digital Humanities<br />
+          <span>Laura Miller:</span>3D Printing, Photogrammetry, Digital Humanities<br>
+          <span>Shane Lin:</span>3D Printing, Programming, Digital Humanities<br>
           <span>Jeremy Boggs:</span>3D Printing, Electronics, Programming, Digital Humanities
         </div>
       </div>

@@ -1,9 +1,9 @@
 ---
 author: drew-macqueen
 start_date: 2022-09-20
-start_time: '2:00:00'
+start_time: '14:00:00'
 end_date: '2022-09-20'
-end_time: '3:00:00'
+end_time: '15:00:00'
 layout: events
 slug: gis-workshop-2022-fall-data-on-a-map
 title: 'Getting Your Data on a Map'

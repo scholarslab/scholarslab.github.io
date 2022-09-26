@@ -8,13 +8,13 @@ title: Nora Dale
 position: TinkerTank Technologist
 short_bio:
 slug: nora-dale
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2020-current
+- Makerspace Technologist, 2020-2022
 ---
 
 University of Virginia '22
