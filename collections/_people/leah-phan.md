@@ -17,4 +17,4 @@ roles:
 - Makerspace Technologist, 2021-current
 ---
 
-Expert in 3D Printing, 3D Scanner, Silhouette Cameo, Laminator, Mini Printing Press, Adobe Creative Suite
+Leah Phan is a second-year undergraduate majoring in Mechanical Engineering and a TinkerTank Technologist (2021-present). With interest in media studies and a background in STEM, she hopes to work on creative projects, such as printmaking, bookbinding, and film production with the use of CAD and FDM & SLA 3D printing.
