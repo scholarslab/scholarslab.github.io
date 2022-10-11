@@ -15,14 +15,14 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 **Call issued:** Annually late in the fall semester, typically by November 1st if all goes well.
 
-**Deadline:** March 1st, 2022 for the 2022-2023 fellowship year.
+**Deadline:** March 1st, 2023 for the 2023-2024 fellowship year.
 
 [More information](/praxis-program-fellowships/)
 
 ## Digital Humanities Fellowship Program
 **Call issued:** Annually late in the fall semester, typically by November 1st if all goes well.
 
-**Deadline:** Feburary 15th, 2022 for the 2022-2023 fellowship year.
+**Deadline:** Feburary 15th, 2023 for the 2022-2024 fellowship year.
 
 [More information](/digital-humanities-fellows/)
 
