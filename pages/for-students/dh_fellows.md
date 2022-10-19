@@ -39,9 +39,9 @@ A complete application package will include the following materials:
   * a summary of the applicant’s experience with digital projects;
   * a description of Scholars' Lab staff whose expertise will be relevant and useful to the proposed project;
   * a description of how the fellowship would be transformative for your work and your career;
-  * a short review of relevant digital projects and scholarship with which your proposed work for the year will be in dialogue;
   * and, most importantly, a description of what you propose to do with us over the course of the fellowship year. Typically this takes the form of a digital project with an associated research plan or proposed course of study.
 * a dissertation abstract (no more than one page);
+* a short review of relevant digital projects and scholarship with which your proposed work for the year will be in dialogue (no more than two pages);
 * a brief note (a PDF or screenshot of an email is fine) from the applicant’s dissertation director attesting to the fact that applicant has discussed the project with them and they support the application;
 * a brief note (a PDF or screenshot of an email is fine) from the applicant's department chair stating that they are aware the student is applying for the fellowship and support the application (given that holding the fellowship can affect teaching rosters);
 * and your availabilities for a 30-minute interview slot, **TBD**. This can be communicated by email or in the cover letter. These time slots will be used for finalist interviews. We’re aiming for a quicker process this year by announcing those interview times in advance, though we can work out alternatives if scheduling difficulties arise. If you are unavailable then, please suggest other times on or around those days.
