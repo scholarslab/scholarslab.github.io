@@ -8,13 +8,13 @@ nav: false
 **Applications are now open for the 2022-2023 Digital Humanities Fellowship cohort.**
 The application deadline for fellowships to be held during the 2023-2024 academic year is **February 15th, 2023**. More details on how to apply at the end of this page. 
 
-If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2023-2024 cohort - **Tuesday, January 17th, 2023 from 10:00-11:00 on Zoom. Please [register](https://cal.lib.virginia.edu/calendar/events/slab-dh-fellows-info-session-2023) to attend**. You are, of course, encouraged to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) for an individual meeting to discuss your application so that you can begin your application.
+If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2023-2024 cohort - **Tuesday, January 17th, 2023 from 10:00-11:00 on Zoom.** Please [register](https://cal.lib.virginia.edu/calendar/events/slab-dh-fellows-info-session-2023) to attend. You are, of course, encouraged to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) for an individual meeting to discuss your application so that you can begin your application.
 
 The Digital Humanities Fellowship supports advanced doctoral students doing innovative work in the digital humanities at the University of Virginia. The Scholars’ Lab offers Grad Fellows advice and assistance with the creation and analysis of digital content, as well as consultation on intellectual property issues and best practices in digital scholarship and DH software development. The highly competitive Graduate Fellowship in Digital Humanities is designed to advance the humanities and provide emerging digital scholars with an opportunity for growth.
 
 Fellows join our vibrant community, have a voice in intellectual programming for the Scholars’ Lab, and participate in one formal colloquium at the Library per fellowship year. As such, students are expected to be in residence on Grounds for the duration of the fellowship.
 
-The award provides living support in the amount of $20,000 for the academic year, as well as full remission of tuition and University fees and the student health insurance premium for single-person coverage. The fellowship during the 2023-2024 academic year will carry no teaching obligations.
+For the 2023-2024 cycle, the award provides living support in the amount of $20,000 for the academic year, as well as full remission of tuition, coverage of University fees, and the student health insurance premium for single-person coverage. The fellowship during the 2023-2024 academic year will carry no teaching obligations.
 
 **History**
 
@@ -22,7 +22,7 @@ Since its beginnings in 2007, the Graduate Fellowship in Digital Humanities has 
 
 **Eligibility, Conditions, and Requirements**
 
-* Applicants must be ABD, having completed all course requirements and been admitted to candidacy for the doctorate in the humanities, social sciences or the arts at the University of Virginia.* The fellowship is provided to students who have exhausted the financial support offered to them upon admission. As such, GSAS students will typically apply during their 
+* Applicants must be ABD, having completed all course requirements and been admitted to candidacy for the doctorate in the humanities, social sciences or the arts at the University of Virginia. The fellowship is provided to students who have exhausted the financial support offered to them upon admission. As such, GSAS students will typically apply during their 
 fifth year of study or beyond for a sixth year of support. The funding packages for Architecture School students operate on a different funding cycle. As such, Architecture PhD students should confirm their eligibility with both [Brandon Walsh](mailto:bmw9t@virginia.edu) and their program director prior to applying.
 * Applicants are expected to have digital humanities experience, though this background could take a variety of forms. Experience can include formal fellowships like the [Praxis Program](http://praxis.scholarslab.org/), but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
 * Applicants must be enrolled full time in the year for which they are applying.
