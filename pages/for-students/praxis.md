@@ -35,7 +35,7 @@ The application process for Praxis is simple! You apply individually, and we ass
 * **How do you work?** - a narrative about how the applicant approaches collaboration and learning;
 * **What do you bring to the table?** - summary of what skills, interests, methods the applicant will bring to the Praxis Program;
 * **What do you want out of this?** - summary of what the applicant hopes to gain as a Praxis Fellow, both in the short and the long term;
-* **When can you meet?** - and your availability on the days and times we've identified for group interviews: **Monday, March 21st from 1-3; Tuesday, March 22nd from 10-12 or 3-4** (you will only have to participate in one hour-long group interview). Shortly after these group interviews, we will notify applicants who advance to schedule follow-up interviews to take place on March 28th and 29th.
+* **When can you meet?** - your availability on the days and times we've identified for group interviews: **TBD - check back in before you submit your application!** (you will only have to participate in one hour-long group interview). Shortly after these group interviews, we will notify applicants who advance to schedule follow-up interviews should we decide such a round is necessary.
 
 **In addition, we ask for a brief note (a PDF or screenshot of an email is fine) from the applicant's department chair stating that they are aware the student is applying for the fellowship and support the application (given that the application can affect teaching rosters).**
 
