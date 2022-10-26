@@ -5,7 +5,7 @@ permalink: /digital-humanities-fellows/
 nav: false
 ---
 
-**Applications are now open for the 2022-2023 Digital Humanities Fellowship cohort.**
+**Applications are now open for the 2023-2024 Digital Humanities Fellowship cohort.**
 The application deadline for fellowships to be held during the 2023-2024 academic year is **February 15th, 2023**. More details on how to apply at the end of this page. 
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2023-2024 cohort - **Tuesday, January 17th, 2023 from 10:00-11:00 on Zoom.** Please [register](https://cal.lib.virginia.edu/calendar/events/slab-dh-fellows-info-session-2023) to attend. You are, of course, encouraged to write to [Brandon Walsh](mailto:bmw9t@virginia.edu) for an individual meeting to discuss your application so that you can begin your application.
