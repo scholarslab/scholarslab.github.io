@@ -1,10 +1,15 @@
 ---
-layout: page
-title: Praxis Program Fellowships
-permalink: /praxis-program-fellowships/
-nav: false
+author: brandon-walsh
+date: 2022-11-01
+layout: post
+slug: apply-for-next-years-praxis-cohort
+title: Apply For Next Year's Praxis Cohort
+categories:
+- Announcements
+- Digital Humanities
+tags:
+- Digital Humanities
 ---
-
 **Applications are now open for the 2023-2024 Praxis Program cohort. Applications are due March 1st, 2023**. Consider spending some time with us next year!
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2023-2024 cohort - **Tuesday, January 31st, 2023 from 10:00-11:00 on Zoom**. Please [register](https://cal.lib.virginia.edu/calendar/events/slab-praxis-information-session-2023) to attend.

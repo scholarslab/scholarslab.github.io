@@ -1,10 +1,15 @@
 ---
-layout: page
-title: Digital Humanities Fellows Program
-permalink: /digital-humanities-fellows/
-nav: false
+author: brandon-walsh
+date: 2022-11-01
+layout: post
+slug: call-for-dh-fellows-applications
+title: Call For 2023-2024 DH Fellows Applications
+categories:
+- Announcements
+- Digital Humanities
+tags:
+- Digital Humanities
 ---
-
 **Applications are now open for the 2023-2024 Digital Humanities Fellowship cohort.**
 The application deadline for fellowships to be held during the 2023-2024 academic year is **February 15th, 2023**. More details on how to apply at the end of this page. 
 
