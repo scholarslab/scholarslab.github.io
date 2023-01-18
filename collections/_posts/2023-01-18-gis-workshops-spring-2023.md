@@ -2,7 +2,7 @@
 author: drew-macqueen
 date: 2023-01-18
 layout: post
-title: Paranormal Maptivity. GIS Workshops That Won't Keep You Up At Night.
+title: Paranormal Maptivity. GIS Workshops That Aren't Scary.
 slug: gis-workshops-spring-2023
 categories:
 - Digital Humanities
