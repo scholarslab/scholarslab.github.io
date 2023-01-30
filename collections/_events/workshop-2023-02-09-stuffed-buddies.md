@@ -23,5 +23,7 @@ Slots are varied by 30 minutes due to the availability of our equipment. Sign
 up for one of the time slots below:
 
 2:00pm - 4:00 pm Register here: [https://cal.lib.virginia.edu/event/10294236](https://cal.lib.virginia.edu/event/10294236)
+
 2:30pm - 4:30 pm Register here: [https://cal.lib.virginia.edu/event/10294249](https://cal.lib.virginia.edu/event/10294249)
+
 3:00pm - 5:00 pm Register here: [https://cal.lib.virginia.edu/event/10294267](https://cal.lib.virginia.edu/event/10294267)
