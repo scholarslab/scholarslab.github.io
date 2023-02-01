@@ -1,4 +1,5 @@
 ---
+instructor: Ammon Shepherd
 author: ammon-shepherd
 start_date: 2023-04-18
 end_date: 2023-04-18

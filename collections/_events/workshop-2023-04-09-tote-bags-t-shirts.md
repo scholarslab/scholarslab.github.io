@@ -1,4 +1,5 @@
 ---
+instructor: Jordan Phan
 author: jordan-phan
 start_date: 2023-04-09
 end_date: 2023-04-09

@@ -1,4 +1,5 @@
 ---
+instructor: Sarah Hemler
 author: sarah-hemler
 start_date: 2023-04-28
 end_date: 2023-04-28

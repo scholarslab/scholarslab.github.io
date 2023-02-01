@@ -1,4 +1,5 @@
 ---
+instructor: Tingyo Tan
 author: tingyo-tan
 start_date: 2023-02-15
 end_date: 2023-02-15

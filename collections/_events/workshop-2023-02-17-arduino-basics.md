@@ -1,4 +1,5 @@
 ---
+instructor: Yejun Kim
 author: yejun-kim
 start_date: 2023-02-17
 end_date: 2023-02-17
