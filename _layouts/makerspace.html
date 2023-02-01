@@ -28,26 +28,30 @@ layout: default
 		<div class="event__stats">
 			<div class="event-stats__title">Event Info</div>
 			<div class="event-stats__box">
-        {% if page.start_date != page.end_date %}
-        <span>Date:</span>{{ page.start_date | date: "%A, %b %d" }} - {{
-        page.end_date | date: "%A, %b %d" }}<br/>
+                {% if page.start_date != page.end_date %}
+                    <span>Date:</span>{{ page.start_date | date: "%A, %b %d" }} - {{page.end_date | date: "%A, %b %d" }}<br/>
 				{% elsif page.start_date %}
-				<span>Date:</span>{{ page.start_date | date: "%A, %m/%-d/%Y" }}<br/>
+                    <span>Date:</span>{{ page.start_date | date: "%A, %m/%-d/%Y" }}<br/>
 				{% endif %}
-        {% if page.start_time == "" %}
-        <span>Time:</span>During Open Hours<br/>
+
+                {% if page.start_time == "" %}
+                    <span>Time:</span>During Open Hours<br/>
 				{% elsif page.start_time and page.end_time  %}
-				<span>Time:</span>{{ start_time }}-{{ end_time }}<br/>
+                    <span>Time:</span>{{ start_time }}-{{ end_time }}<br/>
 				{% endif %}
+
 				<!--span>Length:</span>1hr<br/-->
+
 				{% if page.location %}
-				<span>Place:</span>{{ page.location }}<br/>
+                    <span>Place:</span>{{ page.location }}<br/>
 				{% endif %}
+
 				{% if page.instructor %}
-				<span>Instructor(s):</span>{{ page.instructor }}<br/>
+                    <span>Instructor(s):</span>{{ page.instructor }}<br/>
 				{% endif %}
+
 				{% if page.rsvp %}
-				<span>Registration:</span>Required! Details below.<br/>
+                    <span>Registration:</span>Required! Details below.<br/>
 				{% endif %}
 			</div>
 		</div> <!-- end stats -->
