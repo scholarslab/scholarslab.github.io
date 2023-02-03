@@ -13,9 +13,11 @@ title: "Build Your Own Butterfly"
 
 ![Build Your Own Butterfly](/assets/post-media/workshops/butterfly.png)
 
-Use our CNC paper cutter to make beautiful butterflies.
+## BYOB!
 
-All materials are provided and no prior experience needed.
+Learn how to use a CNC paper cutter to give your decor some wings! Come in and make a beautiful butterfly, and get a feel for how to make your own papercraft designs.
+
+All materials are provided and no prior experience needed. 
 
 The Scholars' Lab TinkerTank is located in Clemons Library on the 3rd floor.
 
