@@ -19,7 +19,7 @@ The Digital Humanities Fellowship supports advanced doctoral students doing inno
 
 Fellows join our vibrant community, have a voice in intellectual programming for the Scholars’ Lab, and participate in one formal colloquium at the Library per fellowship year. As such, students are expected to be in residence on Grounds for the duration of the fellowship.
 
-For the 2023-2024 cycle, the award provides living support in the amount of $20,000 for the academic year, as well as full remission of tuition, coverage of University fees, and the student health insurance premium for single-person coverage. The fellowship during the 2023-2024 academic year will carry no teaching obligations.
+We have received some questions about how the Scholars’ Lab Graduate Fellowship in Digital Humanities will be affected by new departmental support packages. Going forward, including for the coming academic year, the Scholars’ Lab fellowship will provide $24,000 in living support during the academic year, and the package will include health insurance, fees, and tuition remission. No teaching is required as a part of the fellowship. Students will apply to this fellowship in their fifth year of the PhD for a sixth year of funding in conjunction with the Scholars’ Lab.
 
 **History**
 
@@ -27,8 +27,7 @@ Since its beginnings in 2007, the Graduate Fellowship in Digital Humanities has 
 
 **Eligibility, Conditions, and Requirements**
 
-* Applicants must be ABD, having completed all course requirements and been admitted to candidacy for the doctorate in the humanities, social sciences or the arts at the University of Virginia. The fellowship is provided to students who have exhausted the financial support offered to them upon admission. As such, GSAS students will typically apply during their 
-fifth year of study or beyond for a sixth year of support. The funding packages for Architecture School students operate on a different funding cycle. As such, Architecture PhD students should confirm their eligibility with both [Brandon Walsh](mailto:bmw9t@virginia.edu) and their program director prior to applying.
+* Applicants must be ABD, having completed all course requirements and been admitted to candidacy for the doctorate in the humanities, social sciences or the arts at the University of Virginia. We have received some questions about how the Scholars’ Lab Graduate Fellowship in Digital Humanities will be affected by new departmental support packages. Going forward, including for the coming academic year, the Scholars’ Lab fellowship will provide $24,000 in living support during the academic year, and the package will include health insurance, fees, and tuition remission. No teaching is required as a part of the fellowship. Students will apply to this fellowship in their fifth year of the PhD for a sixth year of funding in conjunction with the Scholars’ Lab. As such, Architecture PhD students should confirm their eligibility with both [Brandon Walsh](mailto:bmw9t@virginia.edu) and their program director prior to applying.
 * Applicants are expected to have digital humanities experience, though this background could take a variety of forms. Experience can include formal fellowships like the [Praxis Program](http://praxis.scholarslab.org/), but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
 * Applicants must be enrolled full time in the year for which they are applying.
 * A faculty advisor must review and approve the scholarly content of the proposal.
