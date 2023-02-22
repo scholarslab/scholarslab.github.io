@@ -1,8 +1,8 @@
 ---
 instructor: Ammon Shepherd
 author: ammon-shepherd
-start_date: 2023-04-01
-end_date: 2023-04-01
+start_date: 2023-03-26
+end_date: 2023-03-31
 start_time: ""
 end_time: ""
 layout: makerspace
@@ -15,7 +15,8 @@ title: "April Fools' Make-a-Prank"
 
 Make a trick for April Fools day.
 
-Drop in during open times on Monday, April 1 to make a prank or pick up a kit to take and make.
+Get ready all week long for April 1. Come to the TinkerTank during open hours
+this week to make a prank to fool your friends.
 
 The Scholars' Lab TinkerTank is located in Clemons Library on the 3rd floor.
 
