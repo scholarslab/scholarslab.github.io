@@ -13,6 +13,6 @@ tags:
 
 Sorry for the tiny embed. While I figure this out, [Click Here](https://storymaps.arcgis.com/stories/6f56f976d9fb47a19fd92e5cec96a809) to see the post in a more readable size. 
 
-<iframe src="https://storymaps.arcgis.com/stories/6f56f976d9fb47a19fd92e5cec96a809?cover=false" width="100%" height="100%" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/6f56f976d9fb47a19fd92e5cec96a809?cover=false" width="100%" height="2000px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 
 
