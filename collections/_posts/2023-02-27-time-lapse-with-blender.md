@@ -11,6 +11,6 @@ tags:
 - Digital Humanities
 ---
 
-<iframe src="https://storymaps.arcgis.com/stories/6f56f976d9fb47a19fd92e5cec96a809?cover=false" width="100%" height="7700px" frameborder="0" allowfullscreen allow="geolocation" scrolling="no"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/6f56f976d9fb47a19fd92e5cec96a809?cover=false" width="100%" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 
 
