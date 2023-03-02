@@ -43,9 +43,9 @@ It seemed weird for this thing to essentially be a shameless self promotion with
 
 Blender stabilization works on the frames of a video, so step one is to create a raw time lapse video of your pictures. I found this tutorial useful, though it assumes a level of Blender experience I did not possess. If you're like me, the notes below might be helpful. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2kbz-rpSKng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" style="padding:0px 50px;" src="https://www.youtube.com/embed/2kbz-rpSKng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img alt="Set the Output Type and Location" src="/assets/post-media/timelapse/timelapse-output.png" width="334" height="482" style="float: right;">
+<img alt="Set the Output Type and Location" src="/assets/post-media/timelapse/timelapse-output.png" width="334" height="482" style="float: right; margin 0px 0px 0px 5px;">
 
 <p>&nbsp;</p>
 
@@ -58,17 +58,16 @@ Blender stabilization works on the frames of a video, so step one is to create a
 - Once your video has rendered, I strongly suggest saving your Blender project and opening a new, separate **Video Editing** project for the stabilization process.
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ### Video Stabilization
 
 Now that you have a time lapse video, you can work on stabilizing the individual frames. This tutorial by Oliver Villar is excellent and thorough. The biggest obstacles I rant into were version changes (Blender at 3.4.1 looks very different) and some things I'm going to clarify below. For starters, you want to open the Movie Clip Editor to enable the ability to create tracks for stabilization. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nU8zqn091rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<img alt="Movie Clip Editor" src="/assets/post-media/timelapse/timelapse-mce.png" width="395" height="271" style="float: right;">
+<iframe width="560" height="315" style="padding:0px 50px;" src="https://www.youtube.com/embed/nU8zqn091rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p>&nbsp;</p>
+
+<img alt="Movie Clip Editor" src="/assets/post-media/timelapse/timelapse-mce.png" width="395" height="271" style="float: right; margin: 0px 0px 0px 5px;">
 
 In your new Video Editing project, change one of your panels to **Movie Clip Editor** by clicking the **Editor Type** pulldown. I like to use the **Preview** pane because it leaves the **Sequencer**, which is useful for scanning through your video. You can now Drag/Drop your video into the Movie Clip Editor window. 
 
@@ -76,14 +75,9 @@ In the tutorial above, he's working with a video that was shot over a short span
 
 <p>&nbsp;</p>
 
-<a href="/assets/post-media/timelapse/timelapse-tracking.png"><img alt="Tracking Window"  width="444" height="295" src="/assets/post-media/timelapse/timelapse-tracking.png" style="float: left;"></a>
-
-<p>&nbsp;</p>
+<a href="https://scholarslab.lib.virginia.edu/assets/post-media/timelapse/timelapse-tracking.png"><img alt="Tracking Window" width="444" height="295" src="/assets/post-media/timelapse/timelapse-tracking.png" style="float: left; margin: 0px 5px 0px 0px;"></a>
 
 However, if your video is made of pictures shot over different days at different times of day, the differences from image to image make it difficult for the software to track the marker. In my case the solution was to hand-place the marker on each frame. While tedious, it went pretty fast and ultimately made for a much more watchable time lapse. I recommend using the small window on the **Track** panel to fine-tune your marker placement. There, the track isn't blocking the image, and it's easier to make small changes. 
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 - In the video, he references the Nodes window. In Blender 3.4.1, you want to open **Compositor**.
 
@@ -97,4 +91,4 @@ I had it in my mind that I'd just throw this video up and embed it. However, it'
 
 Short story long, here are the results of my potentially questionable efforts. I'm not completely happy with the results, but I needed to get this post completed, and if I have to place another track marker, I might need to spend another year climbing that mountain. Tip: if it's pixelated, click the Settings button and force 1080p resolution. 
 
-<iframe width="1039" height="584" src="https://www.youtube.com/embed/oUa0w420m-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="584" src="https://www.youtube.com/embed/oUa0w420m-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>in
