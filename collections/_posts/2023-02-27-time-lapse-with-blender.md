@@ -31,7 +31,7 @@ What really struck me was the statement, and I'm paraphrasing, that nothing like
 
 Now, I had no intention of trying to do it thousands of times like the guy in the video. In fact, initially, my goal was just to hike every day until I got sick of it. Weirdly, that never happened, and I kept going through the year, sometimes multiple times in a day. I wasn't obsessive about it. We still traveled and took vacations, so I had plenty of days off, but whenever I was able, I did the hike. Now, I know to many, my wife included, the idea of hiking up and down the same trail time and again seems kinda crazy, and I can't argue with that. I can't tell you why this clicked, but it did. It was comforting to discover, over the course of the year, that I was not alone in my weirdness.
 
-With each new opportunity to look out at the view beyond my little town, I was moved by the changing scenery as snow accumulated and melted, so into the first month, I found a suitable location and began taking a picture of that view every time I hiked. Unfortunately, this idea came to me late enough in the month that I missed out on most of the beautiful snow days, but here are some snowy pics from other viewpoints, and some random shots I just like. 
+With each new opportunity to look out at the view beyond my little town, I was moved by the changing scenery as snow accumulated and melted, so into the first month, I found a suitable location and began taking a picture of that view every time I hiked. I knew I wanted to create some sort of time lapse GIF or video to try and capture the changes I was seeing and experiencing. Unfortunately, this idea came to me late enough in the month that I missed out on most of the beautiful snow days, but here are some snowy pics from other viewpoints, and some random shots I just like. 
 
 <iframe src="https://storymaps.arcgis.com/stories/29fe5204a0794405aa96fadd53c6f5df?cover=false" width="100%" height="1060px" frameborder="0"></iframe>
 
@@ -65,7 +65,7 @@ Blender stabilization works on the frames of a video, so step one is to create a
 
 ### Video Stabilization
 
-Now that you have a time lapse video, you can work on stabilizing the individual frames. This tutorial by Oliver Villar is excellent and thorough. The biggest obstacles I rant into were version changes (Blender at 3.4.1 looks very different) and some things I'm going to clarify below. For starters, you want to open the Movie Clip Editor to enable the ability to create tracks for stabilization. 
+Now that you have a time lapse video, you can work on stabilizing the individual frames. This tutorial by Oliver Villar is excellent and thorough. The biggest obstacles I ran into were version changes (Blender at 3.4.1 looks very different) and some things I'm going to clarify below. For starters, you want to open the Movie Clip Editor to enable the ability to create tracks for stabilization. 
 
 <iframe width="560" height="315" style="padding:0px 50px;" src="https://www.youtube.com/embed/nU8zqn091rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -73,7 +73,7 @@ Now that you have a time lapse video, you can work on stabilizing the individual
 
 <img alt="Movie Clip Editor" src="/assets/post-media/timelapse/timelapse-mce.png" width="395" height="271" style="float: right; margin: 0px 0px 0px 5px;">
 
-In your new Video Editing project, change one of your panels to **Movie Clip Editor** by clicking the **Editor Type** pulldown. I like to use the **Preview** pane because it leaves the **Sequencer**, which is useful for scanning through your video. You can now Drag/Drop your video into the Movie Clip Editor window. 
+In your new Video Editing project, change one of your panels to **Movie Clip Editor** by clicking the **Editor Type** pulldown. I like to use the **Preview** pane because it leaves the **Sequencer**, which is useful for scanning through your video. You can now Drag/Drop your raw time lapse video into the Movie Clip Editor window. 
 
 In the tutorial above, he's working with a video that was shot over a short span of time (seconds). This means each frame is going to be very similar far as shadowing, color, and exposure, which makes it easy for the software to track a marker through the entire video. 
 
