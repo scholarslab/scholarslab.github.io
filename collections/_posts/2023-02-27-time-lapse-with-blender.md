@@ -35,6 +35,8 @@ With each new opportunity to look out at the view beyond my little town, I was m
 
 <iframe src="https://storymaps.arcgis.com/stories/29fe5204a0794405aa96fadd53c6f5df?cover=false" width="100%" height="1060px" frameborder="0"></iframe>
 
+<p>&nbsp;</p>
+
 ## A Blender Tutorial, Brought To You By Somebody Else
 
 It seemed weird for this thing to essentially be a shameless self promotion with a shaky time lapse video tacked to the end, so I thought I'd disguise this post as a tutorial. Fortunately, there are hundreds of good Blender time lapse tutorials out there. So, rather than try and duplicate those efforts, I'm just going to share the work-throughs I found the most useful, and try to provide a little guidance in the places that I needed it. 
@@ -44,6 +46,8 @@ It seemed weird for this thing to essentially be a shameless self promotion with
 Blender stabilization works on the frames of a video, so step one is to create a raw time lapse video of your pictures. I found this tutorial useful, though it assumes a level of Blender experience I did not possess. If you're like me, the notes below might be helpful. 
 
 <iframe width="560" height="315" style="padding:0px 50px;" src="https://www.youtube.com/embed/2kbz-rpSKng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>&nbsp;</p>
 
 <img alt="Set the Output Type and Location" src="/assets/post-media/timelapse/timelapse-output.png" width="334" height="482" style="float: right; margin 0px 0px 0px 5px;">
 
@@ -73,11 +77,9 @@ In your new Video Editing project, change one of your panels to **Movie Clip Edi
 
 In the tutorial above, he's working with a video that was shot over a short span of time (seconds). This means each frame is going to be very similar far as shadowing, color, and exposure, which makes it easy for the software to track a marker through the entire video. 
 
-<p>&nbsp;</p>
+However, if your video is made of pictures shot over different days at different times of day, the differences from image to image make it difficult for the software to track the marker. In my case the solution was to hand-place the marker on each frame. While tedious, it went pretty fast and ultimately made for a much more watchable time lapse. I recommend using the small window on the **Track** panel to fine-tune your marker placement. There, the track isn't blocking the image, and it's easier to make small changes.
 
-<a href="https://scholarslab.lib.virginia.edu/assets/post-media/timelapse/timelapse-tracking.png"><img alt="Tracking Window" width="444" height="295" src="/assets/post-media/timelapse/timelapse-tracking.png" style="float: left; margin: 0px 5px 0px 0px;"></a>
-
-However, if your video is made of pictures shot over different days at different times of day, the differences from image to image make it difficult for the software to track the marker. In my case the solution was to hand-place the marker on each frame. While tedious, it went pretty fast and ultimately made for a much more watchable time lapse. I recommend using the small window on the **Track** panel to fine-tune your marker placement. There, the track isn't blocking the image, and it's easier to make small changes. 
+<a href="https://scholarslab.lib.virginia.edu/assets/post-media/timelapse/timelapse-tracking.png"><img alt="Tracking Window"  src="/assets/post-media/timelapse/timelapse-tracking.png"></a> 
 
 - In the video, he references the Nodes window. In Blender 3.4.1, you want to open **Compositor**.
 
@@ -87,8 +89,8 @@ However, if your video is made of pictures shot over different days at different
 
 ## Step 3, Profit!
 
-I had it in my mind that I'd just throw this video up and embed it. However, it's massive, weirdly so, and sharing with the usual suspects makes for a clunky embed. In the end, I settle for YouTube. While I'm more familiar with YouTube content than I'd care to admit, I've always been insistent that I'd never create an account. Well, rule broken. Though, now that I have a channel, I'm assuming the ad bucks will start rolling in. That's how it works, right?
+I had it in my mind that I'd just throw this video up and embed it. However, it's massive, weirdly so, and sharing with the usual suspects makes for a clunky embed. In the end, I settled for YouTube. While I'm more familiar with YouTube content than I'd care to admit, I've always been insistent that I'd never create an account. Well, rule broken. Though, now that I have a channel, I'm assuming the ad bucks will start rolling in. That's how it works, right?
 
 Short story long, here are the results of my potentially questionable efforts. I'm not completely happy with the results, but I needed to get this post completed, and if I have to place another track marker, I might need to spend another year climbing that mountain. Tip: if it's pixelated, click the Settings button and force 1080p resolution. 
 
-<iframe width="100%" height="584" src="https://www.youtube.com/embed/oUa0w420m-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>in
+<iframe width="100%" height="584" src="https://www.youtube.com/embed/oUa0w420m-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
