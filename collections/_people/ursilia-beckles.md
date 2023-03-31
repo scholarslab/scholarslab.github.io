@@ -14,6 +14,6 @@ website: None
 people-category:
 - student
 roles:
-- LAMI FELLOW, 2022
+- LAMI Fellow, 2022
 ---
 Ursilia Beckles is a 2022 LAMI Fellow.
