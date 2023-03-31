@@ -14,6 +14,6 @@ website: None
 people-category:
 - student
 roles:
-- Praxis FELLOW, 2022-2023
+- Praxis Fellow, 2022-2023
 ---
-Caroline Carter is a 2022-2023 Praxis Fellow
+Caroline Carter is a 2022-2023 Praxis Fellow.
