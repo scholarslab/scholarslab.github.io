@@ -5,7 +5,7 @@ collaborators:
     role: Curator
 layout: work
 slug: zine-library
-title: Scholars' Lab Zine Library
+title: "Scholars' Lab Zine Library"
 url: https://airtable.com/shr3DDj5X1uNPUzyn/tbl88Svfsrkg3YV5Z
 thumb-img: default-thumb.png
 banner-img: default-banner.png
