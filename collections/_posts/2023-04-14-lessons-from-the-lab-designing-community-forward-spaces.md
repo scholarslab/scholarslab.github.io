@@ -144,7 +144,7 @@ The close connections between our two fellowship programs and the PhD experience
 
 ![Slide: A Humanist's Cookbook for Natural Language Processing title page](/assets/post-media/chicago-slab/slide22.jpeg)
 
-I’ve personally engaged one student off our waitlist in a book project, for example, which you can see before you. We couldn't offer Rebecca Bultman a fellowship, but she and I entered into a really fruitful publishing collaboration over the course of the next two years. All of this is to day we try to pull these students into our community in various ways.
+Part of this just involves keeping an eye open for members of the broader UVA community who might be interested in collaborating. I’ve personally engaged one student from our broader community in a book project, for example, which you can see before you. Rebecca Bultman and I entered into a really fruitful publishing collaboration over the course of a couple years, and this emerged from our shared interests rather than through any specific fellowship program. All of this is to day we try to pull these students into our community in various ways.
 
 ![Slide: ways to build community](/assets/post-media/chicago-slab/slide23.jpeg)
 
