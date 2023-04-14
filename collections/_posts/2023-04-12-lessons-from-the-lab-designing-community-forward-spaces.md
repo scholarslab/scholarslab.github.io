@@ -13,6 +13,8 @@ tags:
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/lessons-from-the-lab-designing-community-forward-spaces
+  - title: Amanda's blog
+    url: http://literaturegeek.com/2023/04/14/lessons-from-the-lab-designing-community-forward-spaces
 ---
 
 SLab's [Amanda Visconti](https://scholarslab.lib.virginia.edu/people/amanda-visconti/) and [Brandon Walsh](https://scholarslab.lib.virginia.edu/people/brandon-walsh/) recently gave an invited talk for the University of Chicago's Library Futures series. What follows is a lightly edited version of that talk; the context was a largely librarian audience, and UChicago's Center for Digital Scholarship moving into a new phase.  
