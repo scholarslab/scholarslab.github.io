@@ -15,31 +15,33 @@ crosspost:
     url: http://walshbr.com/blog/lessons-from-the-lab-designing-community-forward-spaces
 ---
 
-Amanda Visconti and Brandon Walsh were asked to present to the University of Chicago Library Staff as part of their Library Futures series. What follows is a lightly edited version of that talk.
+SLab's [Amanda Visconti](https://scholarslab.lib.virginia.edu/people/amanda-visconti/) and [Brandon Walsh](https://scholarslab.lib.virginia.edu/people/brandon-walsh/) recently gave an invited talk for the University of Chicago's Library Futures series. What follows is a lightly edited version of that talk; the context was a largely librarian audience, and UChicago's Center for Digital Scholarship moving into a new phase.  
 
 ![Title slide](/assets/post-media/chicago-slab/slide1.jpeg)
 
 ## Amanda
 
-Good afternoon! Today we'll start off by telling you about what Scholars' Lab is and does, before going into more depth around a couple practices we find especially effective in nurturing digital and other scholarship that takes new and experimental approaches to learning. For any resources we mention in our talk, or if you'd like a rough text version of what' we'll be saying to help follow along, you can visit tinyurl.com slash chicago hyphen slab (that's one word, lowercase, no spaces, slab like a slab of rock). Thank you!
+Good afternoon! Today we'll start off by telling you about what Scholars' Lab is and does, before going into more depth around a couple practices we find especially effective in nurturing digital and other scholarship that takes new and experimental approaches to learning. You can visit this [talk like GDoc](https://docs.google.com/document/d/1VH1KP2ToRKNIOsGB_FrqF-__DgS96rskoXPrrMwLv_E/edit?usp=sharing) for any resources we mention in our talk, or if you'd like a rough text version of what we'll be saying to help follow along. Thank you!
 
 ![Scholars' Lab Mission Statement](/assets/post-media/chicago-slab/slide2.jpeg)
 
-The Scholars’ Lab is the University of Virginia Library's community lab / for experimental practice in and critical exploration of technology and its scholarly interventions. SLab specializes in experimental, creative, and digital approaches to the humanistic research questions that are found in all fields of study. Since everyone has research questions informed by humanities areas including history, ethics, how we tell and understand stories, creativity and performance, we work with folks everywhere on campus including our medical center, and we also have a strong digital humanities (or "DH") audience.
+The Scholars’ Lab is the University of Virginia Library's community lab for experimental practice in, and critical exploration of, technology and its scholarly interventions. SLab specializes in experimental, creative, and digital approaches to the humanistic research questions that are found in all fields of study. Since everyone has research questions informed by humanities areas including history, ethics, how we tell and understand stories, creativity and performance, we work with folks everywhere on campus including our medical center, and we also have a strong digital humanities (or "DH") audience.
 
 ![Slide: defining DH under the lab mission](/assets/post-media/chicago-slab/slide3.jpeg)
 
-Scholars' Lab was founded in 2006 (17 years ago) and has a long history of work in the digital humanities. You can visit whatisdigitalhumanities.com to see over 800 definitions! A quick one is that DH work asks humanities research questions using tech, and asks humanities research questions about tech. 
+Scholars' Lab was founded in 2006 (17 years ago!) and has a long history of work in the digital humanities. What is DH? You can visit [whatisdigitalhumanities.com](whatisdigitalhumanities.com) to see over 800 definitions! A quick one is that DH work asks humanities research questions _using_ tech, and asks humanities research questions _about_ tech. 
 
-For example, humanities using tech could look like a collaboration of SLab staff and a local community research center using digital mapping and coding to take print historical real estate documents, and trace where and who was impacted by racist redlining and how that's reflected in the geography of our city today. 
+For example, humanities _using_ tech could look like using digital mapping and coding to take print historical real estate documents and trace where and who was impacted by racist redlining, and how that's reflected in the geography of our city today. 
 
-An example of humanities questions about tech is looking at the biases inherent in what machine learning tools were trained on; e.g. past SLab Fellow Ethan Reed worked with Brandon to use a tool for finding patterns of emotional sentiment in large amounts of text. His large amount of text was Black Arts Movement poetry, and it turned out that the training dataset underlying the tool he explored was Rotten Tomato movie reviews, so he spent some time looking at what kind of biases that could introduce in how the code labeled what text signaled what emotions.
+One example of humanities questions about tech is looking at the biases inherent in what machine learning tools were trained on. Past SLab Fellow Ethan Reed worked with Brandon Walsh to use a tool for finding patterns of emotional sentiment in large amounts of text. His large amount of text was Black Arts Movement poetry, and it turned out that the training dataset underlying the tool he explored was Rotten Tomato movie reviews, so he spent some time looking at what kind of biases that could introduce in how the code determined what words meant what emotions.
 
 ![Slide: Lab was founded in 2006](/assets/post-media/chicago-slab/slide4.jpeg)
 
 As a founding member of the international organization of DH centers Centernet, we're kind of auto-defined as a digital humanities (or "DH") center, from being involved in early discussions and definitions of what DH centers could look like, then serving as a model for many more recently-started centers. 
 
 We are an internationally recognized research center and scholarly team, with alumni who've gone off to found DH centers and nodes of their own elsewhere. Our staff hold elected and appointed leadership and service positions in national and international scholarly orgs and editorial boards. We're often cited as a model for digital scholarship initiatives; our lab is asked to do informal advising meetings or formal external reviews for other universities around the world interested in digital scholarship, around once a month on average.
+
+(Amanda editing to add: I am uncomfortable being like "hey! we're great!" in a way that might imply others are not, or that these are the activties or significers that matter most. But since how we approach things is sometimes different from other research centers, I do think it helps to know how long we've been doing things this way, that we're not disadvantaged by our approach, etc.)
 
 We are part of UVA's Library. We have a large area with private offices and public spaces in UVA's main library building, which is just finishing a multi-year renovation this coming fall—so we'd be happy to chat more about your own renovations.
 
@@ -53,11 +55,11 @@ The backgrounds, skills, and evolving interests of our staff also have a big imp
 
 Our strengths include:
 * GIS, mapping, & other spatial technologies
+* research makerspaces and making as humanities scholarship
 * cultural heritage informatics (including photogrammetry and scanning of artifacts and historic architecture; and modeling and exploring approaches to this data in virtual and augmented reality)
 * Pedagogy, training, & mentorship in DH and spatial tech
 * DH research & development (such as programming and design)
-* research makerspaces and making as humanities scholarship
-* librarianship for digital scholarship
+* Librarianship for digital scholarship
 
 ![Slide: gallery of SLab Staff](/assets/post-media/chicago-slab/slide6.jpeg)
 
@@ -65,25 +67,25 @@ Our core resource is 11 full-time library staff who bring expertise in all these
 
 We've found it effective to strive for as flat a organizational structure as possible, trusting and expecting each staffer to lead and influence our trajectory from their area of disciplinary and methodological expertise. 
 
-A group of five leads work when leaders and advocates are needed: I direct the lab in partnership with English Professor and Academic Director Alison Booth, and we're joined by Brandon as Head of Student Programs, Laura Miller as Assistant Director for SLab's Public Services, and Jeremy Boggs as Head of Research and Development. We also have loose "units" for times when areas of work overlap: for example, treating our 2 GIS Specialists, 3D Tech expert, and VR/AR expert as a Spatial Technologies team, has helped them notice opportunities to collaborate, and share info about past experiences with the same or relevant projects and people.
+A group of five leads work when leaders and advocates are needed: I codirect the lab in partnership with English Professor and Academic Director [Alison Booth](https://scholarslab.lib.virginia.edu/people/alison-booth/), and we're joined by Brandon as Head of Student Programs, [Laura Miller](https://scholarslab.lib.virginia.edu/people/laura-miller/) as Assistant Director for SLab's Public Services, and [Jeremy Boggs](https://scholarslab.lib.virginia.edu/people/jeremy-boggs/) as Head of Research and Development. We also have loose "units" for times when areas of work overlap: for example, our GIS Specialists, 3D Tech expert, and VR/AR expert chose to gather as a Spatial Technologies unit to help them notice opportunities to collaborate with one another, and share useful info among the group about past experiences with the same or relevant projects, tools, and people.
 
 ![Slide: slab areas of teaching and research](/assets/post-media/chicago-slab/slide7.jpeg)
 
-We don't all cover all these areas—e.g. only 2 of us are GIS experts, and we routinely collaborate with UVA Library experts outside the lab who do overlapping or adjacent work around areas like digital media production and research data. Each of our staff roles include the same 2 kinds of work. There are pros and cons to this, but rather than having e.g. some staff who keep their head down coding and don't work directly with faculty and students, all of our staff practice public-facing librarianship: consultation, class visits, training and career mentorship, teaching (including for credit) in the staffers' areas of expertise. And second, all our staff are also tasked with staying up to date on, identifying, and/or setting trends in technical, academic, and library fields to prepare for and advise on coming UVA faculty/student needs, including through self-initiated scholarly learning and publication of their own.
+We don't each cover all of these topical areas, and we routinely collaborate with UVA Library experts outside the lab who do overlapping or adjacent work around areas like digital media production and research data. But each of SLab's staff roles do include the same two areas of work. There are pros and cons to this, but rather than e.g. having some staff who keep their head down coding and don't work directly with faculty and students, all of our staff practice public-facing librarianship: consultation, class visits, training and career mentorship, teaching (including for credit) in the staffers' areas of expertise. And second, all our staff are also tasked with staying up to date on, identifying, and/or setting trends in technical, academic, and library fields to prepare for and advise on coming UVA faculty/student needs—including through self-initiated scholarly learning and publication of their own.
 
 ![Slide: three c's to summarize the lab](/assets/post-media/chicago-slab/slide8.jpeg)
 
-I can shorthand "what does SLab's daily work look like?" with three Cs: consultation, collaboration, and community building. We do a ton of short-term consultations on DH, mapping, 3D/VR and makerspace projects open to all, on the library reference model. These can include helping someone:
+I can shorthand "what does SLab's daily work look like?" with three Cs: consultation, collaboration, and community building. We do a ton of short-term consultations on DH, mapping, 3D/VR and makerspace projects, and other methods open to all, on the library reference model. These can include helping someone:
 * get started practicing experimental methods including digital humanities or spatial technologies, e.g. connecting you to resources for self-teaching and our scholarly networks at UVA and internationally
 * conceptualize and scope a digital research project; or review your ongoing work, such as critiquing your design and code
 * create or find, manage, and analyze data
-* use our GIS software, virtual/augmented reality equipment, or humanities Makerspace
+* use our GIS software, virtual/augmented reality equipment, or humanities makerspace
 
 We do longer-term collaborations with students, researchers, or instructors interested in integrating experimental or digital approaches into their research projects or teaching, or with folks who have existing digital research that would benefit from peer collaborators and mentors (e.g. paired programming). And we purposefully attend to our scholarly community to help it flourish—I'll say more about how and why later in this talk.
 
 ![Slide: photo of old lab space](/assets/post-media/chicago-slab/slide9.jpeg)
 
-A significant number of our collaborations are with students. In years when we haven't had a dual pandemic and building renovation, we have around 65 students per year in named roles like fellowships and internships, giving us a core of folks regularly around the lab beyond our staff and other entry points like consultations and attending our events. Supporting the next generation of DH and experimental scholarship practitioners is a major piece of our mission. I'll turn you over now to our Head of Student Programs Brandon to tell you more about that!
+A significant number of our collaborations are with students. In years when we haven't had a dual pandemic and building renovation, we have around 65 students per year in named roles like fellowships and internships, giving us a core of folks regularly around the lab beyond our staff and folks who join us via other entry points like consultations and attending our events. Supporting the next generation of DH and experimental scholarship practitioners is a major piece of our mission. I'll turn you over now to our Head of Student Programs Brandon to tell you more about that.
 
 ## Brandon
 
@@ -134,7 +136,6 @@ This is all in the service of helping students design the futures they want. We 
 
 I often use this image from Futurama as a short-hand for this concept. We're not in the business of treating students like heads in jars, isolated from the broader world. Teaching DH, for us, does not mean just teaching DH. It means teaching the whole student. And students right not are dealing with *a lot*. This means we have an obligation to engage in the broader struggle for justice and equity at the university. It means we have a responsibility to situate DH for our students in the broader context of what they want to achieve with it and why. 
 
-
 ![Slide: Community breakdown again](/assets/post-media/chicago-slab/slide21.jpeg)
 
 The close connections between our two fellowship programs and the PhD experience come from strategic attempts to stretch our own resources, but it of course is a choice that excludes MA students. This point of exclusion is one worth dwelling on further as I start to talk a little more about how we cultivate our community specifically in a library context. We are fortunate to have a generous amount of funding that we can direct towards students. It is never enough. For every data point that went to this graph, every person, there are two or more good people we had to turn away. This has been a point of tension at times with some of our library colleagues who rightly see the mission of the library more generally as one of equitable access to all. If we take both our library context and our goals of ethical and inclusive education seriously, we have as much an obligation to the students we cannot take into our named fellowships as much as we can. We work hard to try to remember, make space for, and invite into the space those who we have to reject. The professional development options that I mentioned above? They’re available to everyone at the university. We specifically reach out to rejected students and offer opportunities when we can. 
@@ -145,7 +146,7 @@ I’ve personally engaged one student off our waitlist in a book project, for ex
 
 ![Slide: ways to build community](/assets/post-media/chicago-slab/slide23.jpeg)
 
-Just as a practical point, here are some examples of the ways that we try to develop community with our students. We ask them to co-sponsor and co-plan events with invited speakers. We offer them space for activities when it might otherwise be difficult to secure locations to do what they want to do. We of course offer funding for a variety of things. But there are also things on this list that might seem to map less clearly on what we might describe as essential library services. Board game lunches. free coffee. dog hangouts. Food labs. Hackathons. This is to say - while funding is one very important way we can support students, we work hard to use the fellowship application process as a litmus test for who has interest in our community. And we try to connect the broader range of our services to those who can't be included in our fellowships for whatever reason.
+Just as a practical point, here are some examples of the ways that we try to develop community with our students. We ask them to co-sponsor and co-plan events with invited speakers. We offer them space for activities when it might otherwise be difficult to secure locations to do what they want to do. We of course offer funding for a variety of things. But there are also things on this list that might seem to map less clearly on what we might describe as essential library services. Board game lunches. Free coffee. Dog hangouts. Food labs. Hackathons. This is to say - while funding is one very important way we can support students, we work hard to use the fellowship application process as a litmus test for who has interest in our community. And we try to connect the broader range of our services to those who can't be included in our fellowships for whatever reason.
 
 ![Slide: image of library stacks](/assets/post-media/chicago-slab/slide24.jpeg)
 
@@ -167,13 +168,13 @@ More than any specific technical program or skills acquisition, our students oft
 
 ![Slide: defining our terms](/assets/post-media/chicago-slab/slide28.jpeg)
 
-Now that we've given you an overview of what Scholars' Lab is, we'd like to go into more depth on how we define several terms we've used repeatedly today—experimentation, scholarship, community, and collaboration. How we think about these terms and build them into our daily practices, gets into the whys and hows of interventions like the ones Brandon just described.
+Now that we've given you an overview of what Scholars' Lab is, we'd like to go into more depth on how we define several terms we've used repeatedly today: experimentation, scholarship, community, and collaboration. How we think about these terms and build them into our daily practices, gets into the whys and hows of interventions like the ones Brandon just described.
 
 ![Slide: term 1 - experimentation](/assets/post-media/chicago-slab/slide29.jpeg)
 
-Digital humanities work has taken the form of early computing punchcards and CD-ROMs decades ago, or database and website interface heavy work more recently. But I'm personally not attached to whatever comes next needing to necessarily be "digital" (or called "DH"). As I mentioned before, there are research questions in all fields that rely on humanistic expertise, and we want to make sure our expertise is available to anyone regardless of where their work sits or what they call their field.
+Digital humanities work has taken the form of early computing punchcards and CD-ROMs decades ago, or database and website interface heavy work more recently. But I'm personally not attached to whatever comes next needing to necessarily be "digital" (or called "DH"). As I mentioned before, there are research questions in all fields that rely on humanistic expertise, and we want to make sure our expertise is available to anyone, regardless of where their work sits or what they call their field.
 
-To me, an experimental mindset is even closer to the core of what SLab is, than DH or digital scholarship (but it was DH that got us to this thinking!). In particular, three areas of experimental approach are behind our best, most effective scholarship:
+To me, an experimental mindset is even closer to the core of what SLab is, than DH or digital scholarship (but it was DH that got us to this thinking, and one of the key ways we experiment!). Three areas of experimental approach are key to what we offer:
 
 ![Slide: Three approaches to experimentation](/assets/post-media/chicago-slab/slide30.jpeg)
 
@@ -201,9 +202,9 @@ These definitions of "scholarship" carry with them implicit belief that the work
 
 ![Slide: community](/assets/post-media/chicago-slab/slide33.jpeg)
 
-Community carework is a necessary task of fully being a scholar, and participating in the scholarly project of collective knowledge-making. We need to strive for the conditions that make learning and sharing knowledge more accessible to everyone, extending beyond more obvious "life of the mind" requirements toward all aspects that impact learning, like a thriving wage and steady access to healthy food. In SLab, we've seen impressive work made possible when we're able to fund a student so they don't need to balance studying with us with also working a job, or getting faculty a course release so they can work with us throughout the academic year instead of needing to drop work when it isn't summer. 
+Community carework is a necessary task of fully being a scholar, and participating in the scholarly project of collective knowledge-making. We need to strive for the conditions that make learning and sharing knowledge more accessible to everyone, extending beyond more obvious "life of the mind" requirements toward all aspects that impact learning, like a thriving wage and steady access to healthy food. In SLab, we've seen impressive work made possible when we're able to fund a student so they don't need to balance studying with us with also working a job, or able to make certain the university has disbursed their stipends or paychecks [on time](https://ucwva.org/news/cutthechecks-fight-against-wage-insecurity-uva-continues), or getting faculty a course release so they can work with us throughout the academic year instead of needing to drop work when it isn't summer. 
 
-We've seen that workplaces that are safe and affirming of every person's expertise allow staff to create fantastic services and scholarship. When we work to get people an environment with their material needs met, where they see their contributions and knowledge valued, where there are safe ways to ask for learning and resources without losing status, where experimentation and failure are understood as good steps toward learning, good scholarship and research follow. Scholars' Lab is not anywhere near perfect at this, but striving toward better workplace and learning conditions is part of what we understand and resource as scholarship, rather than an unrelated matter.
+We've seen that workplaces that are safe and affirming of every person's expertise allow staff to create fantastic services and scholarship. When we work to get people an environment with their material needs met, where they see their contributions and knowledge valued, where there are safe ways to ask for learning and resources without losing status, where experimentation and failure are understood as good steps toward learning, good scholarship and research follow. Scholars' Lab is not anywhere near perfect at this, nor am I, but striving toward better workplace and learning conditions _is_ part of what we understand and resource _as scholarship_, rather than an unrelated matter.
 
 So, what can attention to justice and care look like in the digital humanities, and in Scholars' Lab?
 
@@ -213,22 +214,22 @@ For just a handful of examples, DH was where I found people doing work like the 
 
 Our DH scholarly org, the Association for Computers and the Humanities (or ACH), was the first scholarly org I'd been part of that really forefronted social justice advocacy in how it defined its mission and the main actions supporting that mission, rather than as side projects and reports. 
 
-At a recent ACH conference, Brandon partnered with SLab Fellow Crystal Luo to speak about opportunities they'd identified for building collective power and recognizing labor rights within DH. Multiple DHers at UVA are members of our state higher ed union or other worker collectives, and bring attention to power dynamics in the library and academy, to how we design and improve policies and practices shaping experimental scholarship at UVA.
+At a recent ACH conference, Brandon partnered with SLab Fellow Crystal Luo to speak about opportunities they'd identified for building collective power and recognizing labor rights within DH. Multiple DHers at UVA are members of [our state higher ed union](https://ucwva.org/) or other worker collectives, and bring attention to power dynamics in the library and academy to how we design and improve policies and practices shaping experimental scholarship at UVA.
 
 ![Slide: collaboration](/assets/post-media/chicago-slab/slide36.jpeg)
 
-Over the history of the lab, we've moved from closer to a traditional model of "drop-off" service or concentrating on providing technical work behind the scenes for faculty-led grant projects, to focusing on truer collaborations among staff and faculty. 
+Over the history of the lab, we've moved from closer to a traditional model of service like concentrating on providing technical work behind the scenes for faculty-led grant projects, to focusing on truer research collaborations among staff and faculty. 
 
-We strongly believe investment in the direct practice of experimental methods is the key to transformative experiences for individual scholars. It's also the best leveraging of our limited resources on behalf of our community. We frame this as building things with people (e.g. as peer scholars, co-PIs on grant proposals), not for people.
+We strongly believe investment in the direct practice of experimental methods is the key to transformative experiences for individual scholars. It's also the best leveraging of our limited resources on behalf of our community. We frame this as building things _with_ people (e.g. as peer scholars, co-PIs on grant proposals), not _for_ people.
 
 We try to prepare our collaborators to own their own projects for many reasons:
 
 * building confidence in their skills, so people can be practitioners in their own right
 * increasing the number of folks on campus who can help train others
 * helping everyone grow their collaboration skills, modeling respecting the expertise and labor of all research participants
-* avoiding over-dependence on expert staff when you want to do something with your project
+* avoiding over-dependence on expert staff when you want to do something with your own project
 
-Because we are always working at capacity nowadays, we additionally try to use our staff values charter to prioritize potential longer-term collaborations that match our values. The public-facing version of our charter on our website needs an update to match how our work has evolved over the past 5 years, but it still captures our current shared belief in helping folks take agency and ownership over their DH work, our shared commitment toward improving social equity and care, and our continuous framing of our focus being foremost on people rather than on projects.
+Because we are always working at capacity nowadays, we additionally try to use our staff values charter to prioritize potential longer-term collaborations that match our values. The public-facing version of our charter on our website needs an update to match how our work has evolved over the past 5 years, but it still captures our current shared belief in helping folks take agency and ownership over their DH work, our shared commitment toward improving social equity and care, and our continuous framing of our focus being foremost on people, rather than on projects.
 
 ## Brandon
 
