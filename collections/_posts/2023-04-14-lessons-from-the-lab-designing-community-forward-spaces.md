@@ -2,7 +2,7 @@
 author: 
 - amanda-visconti
 - brandon-walsh
-date: 2023-04-12
+date: 2023-04-14
 layout: post
 slug: lessons-from-the-lab-designing-community-forward-spaces
 title: "Lessons From The Lab: Designing Community-Forward Spaces"
@@ -218,7 +218,7 @@ Our DH scholarly org, the Association for Computers and the Humanities (or ACH),
 
 At a recent ACH conference, Brandon partnered with SLab Fellow Crystal Luo to speak about opportunities they'd identified for building collective power and recognizing labor rights within DH. Multiple DHers at UVA are members of [our state higher ed union](https://ucwva.org/) or other worker collectives, and bring attention to power dynamics in the library and academy to how we design and improve policies and practices shaping experimental scholarship at UVA.
 
-![Slide: collaboration](/assets/post-media/chicago-slab/slide36.jpeg)
+![Slide: collaboration](/assets/post-media/chicago-slab/slide35.jpeg)
 
 Over the history of the lab, we've moved from closer to a traditional model of service like concentrating on providing technical work behind the scenes for faculty-led grant projects, to focusing on truer research collaborations among staff and faculty. 
 
