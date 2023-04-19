@@ -114,7 +114,7 @@ For GIS-specific questions, contact [uvagis@virginia.edu](mailto:uvagis@virginia
 
 For inquiries about our Makerspace, write to [slabmakerspace@virginia.edu](mailto:slabmakerspace@virginia.edu).
 
-We are also on Twitter [@ScholarsLab](https://twitter.com/ScholarsLab) and on Mastodon at [hcommons.social/@scholarslab](https://hcommons.social/@scholarslab)), though we do not currently monitor replies nor DMs to those accounts.
+We are also on Twitter [@ScholarsLab](https://twitter.com/ScholarsLab) and on Mastodon at [hcommons.social/@scholarslab](https://hcommons.social/@scholarslab), though we do not currently monitor replies nor DMs to those accounts.
 
 ## How was this website made?
 This website contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site (?-2018) and now a Jekyll-generated static website (2018-current).
