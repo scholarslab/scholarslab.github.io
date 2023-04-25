@@ -14,7 +14,7 @@ Please join us for a final presentation for this year's DH Fellows:
 * Becky Brown, Music CCT
 * Eleanore Neumann, Art and Architectural History
 
-The students will provide presentations about their work for the year, and lunch will be served following Q&A. We will also offer a hybrid option for those unable to attend in person. Please register at the zoom link provided to receive the zoom link if needed **check back for the zoom link soon!**. Information about the talks follows.
+The students will provide presentations about their work for the year, and lunch will be served following Q&A. We will also offer a hybrid option for those unable to attend in person. Please register at the zoom link provided to receive the link if you plan to be remote - [https://cal.lib.virginia.edu/calendar/events/DHFellows2023](https://cal.lib.virginia.edu/calendar/events/DHFellows2023). Information about the talks follows.
 
 **Becky Brown**
 

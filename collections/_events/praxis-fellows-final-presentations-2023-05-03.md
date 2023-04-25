@@ -19,4 +19,4 @@ The 2022-2023 Praxis Fellows are
 * Winnie Pérez Martínez, Spanish
 * Samantha Stephens, English
 
-Presentation will take place from 10:30-12:00 with lunch to follow. This event can serve as a great introduction to digital humanities, the experience of working with the lab, and ways to fulfill the DH certificate. We will also be offering a hybrid option for those unable to make it. Please register at the link provided to receive a zoom link **check back for zoom link soon!**.
+Presentation will take place from 10:30-12:00 with lunch to follow. This event can serve as a great introduction to digital humanities, the experience of working with the lab, and ways to fulfill the DH certificate. We will also be offering a hybrid option for those unable to make it. Please register at the link provided to receive zoom information - [https://cal.lib.virginia.edu/calendar/events/Praxis2023](https://cal.lib.virginia.edu/calendar/events/Praxis2023).
