@@ -7,7 +7,7 @@ end_time: '12:30:00'
 layout: events
 slug: dh-fellows-final-presentations-2023-05-10
 title: 'DH Fellows Final Presentations 2023'
-location: 'Harrison Small / Byrd Morris'
+location: 'Harrison/Small Rm 318 and Hybrid'
 ---
 Please join us for a final presentation for this year's DH Fellows:
 
