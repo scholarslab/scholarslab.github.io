@@ -10,7 +10,7 @@ tags:
 - Digital Humanities
 crosspost:
   - title: Brandon's Blog
-    url: https://walshbr.com/blog/origin-story
+    url: https://walshbr.com/blog/jekyll-tag-clouds
 ---
 
 Blogging more this summer has unsurprisingly meant that I have spent a lot of time on my blog. I noticed that the way I had my site generate category pages had stopped working at some point. I set the whole thing up so long ago that troubleshooting it was hard. My old way involved using a plugin to generate categories, which meant that I needed to host my Jekyll site separately from GitHub Pages. Searching around for other options eventually took me to [Long Qian's post on generating tags in Jekyll](https://longqian.me/2017/02/09/github-jekyll-tag/), which promised to do a similar approach but with vanilla Jekyll and liquid syntax.
