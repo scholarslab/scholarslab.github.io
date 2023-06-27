@@ -28,8 +28,8 @@ Below I'm sharing my "themed reading list card deck" prototype ("card deck"), wi
 **tl;dr** I created a deck of playing cards that collects recommended zine readings about DH making and other topics of interest to me. Each card displays a work's title, creators/authors, and a QR code; scanning the QR code with a smartphone brings you to the page where you can the zine for free online[^1]. A public [card deck Gsheet](https://docs.google.com/spreadsheets/d/1USj6KsqbjzsfDA0ddV7onWkRhvTo3RpVAWqnPNH8vDU/edit?usp=sharing) lists the titles and metadata the cards cover. 
 
 I was inspired by SLab colleagues' past projects:
-* Ammon Shepherd blogged the RFID storyteller machine he built (https://scholarslab.lib.virginia.edu/blog/rfid-media-player/)
-* Arin Bennett made a short video of using the RFID jukebox he created that opens Spotify links (https://photos.google.com/share/AF1QipP8OBMONkkBcnG-C7I4PRNLTJKhbjElm9VRLBIzsyyiF7ccX9FVEJdKOtNZ8-mpmA/photo/AF1QipN2tTwcg0qfXezM1NEoztrCVVbHH0wFZGj9fu4n?key=RUxnc3Z4bWprZ0JweUJVMXFIcHZOQjV1b1hXTkJR\
+* Ammon Shepherd blogged the [RFID storyteller machine](https://scholarslab.lib.virginia.edu/blog/rfid-media-player) he built
+* Arin Bennett made a [short video of using the RFID jukebox](https://photos.google.com/share/AF1QipP8OBMONkkBcnG-C7I4PRNLTJKhbjElm9VRLBIzsyyiF7ccX9FVEJdKOtNZ8-mpmA/photo/AF1QipN2tTwcg0qfXezM1NEoztrCVVbHH0wFZGj9fu4n?key=RUxnc3Z4bWprZ0JweUJVMXFIcHZOQjV1b1hXTkJR) he created that opens Spotify links
 
 This zine selection pulled from my collection’s thematic tags, including the following:
 creativity, art, crafting, making/makerspace • social justice • GLAM • academia • about zines • LGBTQIA+ • anti-racism • labor • tech • tutorial • maintenance/care/attention • feminist • collective & alternative power & group structures • activism, resistance, abolition • generative art • coding • design • creativity, art, crafting, making/makerspace
@@ -67,7 +67,7 @@ I wanted any of my time spent on tagging and otherwise cleaning metadata to be f
 * My zine catalogue lives in AirTable, but AirTable's printing extension is not great. I exported info from to a CSV, then uploaded it to a Gsheet as that's my most comfortable spreadsheet manipulation place. 
 	* You will need at least one column containing the URLs you want QR codes to bring you to.
 * To generate the QR codes from your column of URLs: 
-	* Refer to each cell in the URL column like "F3" in this example, to call the Google API and create the QR code: `=IMAGE("``[https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=)``"&ENCODEURL(F3))`
+	* Refer to each cell in the URL column like "F3" in this example, to call the Google API and create the QR code: ```=IMAGE("``[https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=)``"&ENCODEURL(F3))```
 	* If you've got the sheet set to display formulae, toggle that off to see the QR codes
 	* Copy-"paste as value" the generated QR codes to stop them from being tied to underlying formula/references.
 	* Download as CSV
