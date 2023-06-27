@@ -1,19 +1,19 @@
 ---
 department: None
 email: None
-first_name: Ursilia
-last_name: Beckles
+first_name: Olga
+last_name: Mourgelas
 layout: people
-name: Ursilia Beckles
+name: Olga Mourgelas
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: ursilia-beckles
-status: not_current
+slug: olga-mourgelas
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- LAMI Fellow, 2022
+- LAMI FELLOW, 2023
 ---
-Ursilia Beckles is a 2022 LAMI Fellow.
+Olga Mourgelas is a 2023 SR-EIP / LAMI Fellow.

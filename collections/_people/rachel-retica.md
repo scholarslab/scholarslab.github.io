@@ -1,19 +1,20 @@
 ---
 department: None
 email: None
-first_name: Ursilia
-last_name: Beckles
+first_name: Rachel
+last_name: Retica
 layout: people
-name: Ursilia Beckles
+name: Rachel Retica
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: ursilia-beckles
-status: not_current
+slug: rachel-retica
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- LAMI Fellow, 2022
+- Praxis Fellow, 2023-2024
 ---
-Ursilia Beckles is a 2022 LAMI Fellow.
+Rachel Retica is a 2023-2024 Praxis Fellow
+

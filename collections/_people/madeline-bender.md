@@ -1,19 +1,19 @@
 ---
 department: None
 email: None
-first_name: Ursilia
-last_name: Beckles
+first_name: Madeline
+last_name: Bender
 layout: people
-name: Ursilia Beckles
+name: Madeline Bender
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: ursilia-beckles
-status: not_current
+slug: madeline-bender
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- LAMI Fellow, 2022
+- LAMI FELLOW, 2023
 ---
-Ursilia Beckles is a 2022 LAMI Fellow.
+Madeline Bender is a 2023 SR-EIP / LAMI Fellow.

@@ -1,19 +1,19 @@
 ---
 department: None
 email: None
-first_name: Ursilia
-last_name: Beckles
+first_name: Lilianna
+last_name: Kelly
 layout: people
-name: Ursilia Beckles
+name: Lilianna Kelly
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: ursilia-beckles
-status: not_current
+slug: lilianna-kelly
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- LAMI Fellow, 2022
+- LAMI FELLOW, 2023
 ---
-Ursilia Beckles is a 2022 LAMI Fellow.
+Lilianna Kelly is a 2023 SR-EIP / LAMI Fellow.
