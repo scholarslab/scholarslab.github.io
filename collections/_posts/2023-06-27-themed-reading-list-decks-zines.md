@@ -67,26 +67,27 @@ I wanted any of my time spent on tagging and otherwise cleaning metadata to be f
 * My zine catalogue lives in AirTable, but AirTable's printing extension is not great. I exported info from to a CSV, then uploaded it to a Gsheet as that's my most comfortable spreadsheet manipulation place. 
 	* You will need at least one column containing the URLs you want QR codes to bring you to.
 * To generate the QR codes from your column of URLs: 
-	* Refer to each cell in the URL column like "F3" in this example, to call the Google API and create the QR code: ```=IMAGE("``[https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=)``"&ENCODEURL(F3))```
+	* Refer to each cell in the URL column like "F3" in this example, to call the Google API and create the QR code: ```=IMAGE("[https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=)``"&ENCODEURL(F3))```
 	* If you've got the sheet set to display formulae, toggle that off to see the QR codes
 	* Copy-"paste as value" the generated QR codes to stop them from being tied to underlying formula/references.
 	* Download as CSV
 	* I wasn't able to get the QR codes into the Avery program (didn't see a way to download/import a Gsheet/CSV that preserves the QR images), so I just took a screenshot of each QR code and dropped it onto the labels, when at the editing individual labels stage
 
 ## Design layout
- I used [Avery's online tool](https://app.print.avery.com/) for layouts on their label products, as I don't have good alternative software installed right now. 
-	* Being certain about the tool printing correctly re:label edges/margins for error was helpful; you input the Item # of the Avery product and choose or create templates to lay out using those dimensions.
-	* I had trouble getting the text size settings I wanted—some of my zine titles are short, some are very long; ditto creators names list.So for this first time, I limited the text to title and creators. I'll see if I can fix that next time I make the cards, and may move to a different tool (e.g. document program with mail merge, if not design program).
-	* I picked a template that would work with a non-color printer, merged in my CSV, placed the title and creators data, and finished making edits to the default template.
-	* Switching to editing the label individually, I pasted in the QR code screenshot for each.
-	* I printed 4 different layouts, to cover:
-		* Card Zine info labels (the titles, creators, QR codes)
-		* A label for the outside of the deck case
-		* A label for one "info" card to include in the deck, with some text about what the deck is
-		* Labeling the backs of all the cards (same design for each, in case you want to play a card game... somehow...)
+I used [Avery's online tool](https://app.print.avery.com/) for layouts on their label products, as I don't have good alternative software installed right now. 
+* Being certain about the tool printing correctly re:label edges/margins for error was helpful; you input the Item # of the Avery product and choose or create templates to lay out using those dimensions.
+* I had trouble getting the text size settings I wanted—some of my zine titles are short, some are very long; ditto creators names list.So for this first time, I limited the text to title and creators. I'll see if I can fix that next time I make the cards, and may move to a different tool (e.g. document program with mail merge, if not design program).
+* I picked a template that would work with a non-color printer, merged in my CSV, placed the title and creators data, and finished making edits to the default template.
+* Switching to editing the label individually, I pasted in the QR code screenshot for each.
+* I printed 4 different layouts, to cover:
+** Card Zine info labels (the titles, creators, QR codes)
+** A label for the outside of the deck case
+** A label for one "info" card to include in the deck, with some text about what the deck is
+** Labeling the backs of all the cards (same design for each, in case you want to play a card game... somehow...)
+  
 ## Printing
- This may be specific to my printer (a Brother HL-L2350DW) and its defaults, but here's what I did:
- * Put Avery sheets in so that the "front" (the part you'll look at when peeling the stickers off) faces DOWN (not upward toward you)
+This may be specific to my printer (a Brother HL-L2350DW) and its defaults, but here's what I did:
+* Put Avery sheets in so that the "front" (the part you'll look at when peeling the stickers off) faces DOWN (not upward toward you)
 * Make sure double-sided printing is off
 * Make sure scale is set to 100%, not auto-rotating/best fit
 * Use the setting for media/quality heavyweight paper + best quality
