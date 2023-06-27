@@ -100,6 +100,6 @@ Cards + DH = something like below, right?
 
 I'll add more info about that session once the group is all publicly sharing, but it's going to be something very cool, especially if you're into making, crafting, and/or dataviz 👀 For now, I'll just say that it's about those topics, and the card deck was my contribution. If you saw the call to share logos from dead DH projects, that is also involved. As was this:
 
-![Screenshot of a Mastodon post where Quinn Dombrowski writes, "Send good delivery truck vibes, please: I've got until ~4 PM to sew a dress and photograph it on a lifesize plastic skeleton and the box with the fabric is in the metro area but not yet out for delivery. 😬 #DHMakes #ACH2023"][/assets/post-media/2023-06-29-themed-reading-list-decks-zines/quinn-tweet.png]
+![Screenshot of a Mastodon post where Quinn Dombrowski writes, "Send good delivery truck vibes, please: I've got until ~4 PM to sew a dress and photograph it on a lifesize plastic skeleton and the box with the fabric is in the metro area but not yet out for delivery. 😬 #DHMakes #ACH2023"](/assets/post-media/2023-06-29-themed-reading-list-decks-zines/quinn-tweet.png)
 
 [^1] Technically, I included 1 zine you can't currently read for free (although I think I heard there will be a free digital copy eventually?). But it's really awesome, so I included it hoping to spread the word :)
