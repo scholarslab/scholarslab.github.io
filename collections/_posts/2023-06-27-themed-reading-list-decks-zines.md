@@ -8,6 +8,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's Blog
+    url: https://literaturegeek.com/2023/06/29/themed-reading-list-decks-zines
 ---
 
 I've got several in-progress makerspace experiments exploring inclusion of non-book "reads"/scholarship into the same visibility, amplification, browsability, and community building efforts as print book collections/displays.
