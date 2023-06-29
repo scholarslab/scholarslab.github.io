@@ -106,4 +106,11 @@ I'll add more info about that session once the group is all publicly sharing, bu
 
 ![Screenshot of a Mastodon post where Quinn Dombrowski writes, "Send good delivery truck vibes, please: I've got until ~4 PM to sew a dress and photograph it on a lifesize plastic skeleton and the box with the fabric is in the metro area but not yet out for delivery. 😬 #DHMakes #ACH2023"](/assets/post-media/2023-06-29-themed-reading-list-decks-zines/quinn-tweet.png)
 
+*Update*: Our [post describing the cross-country scholarly collaboration](https://textilemakerspace.stanford.edu/blog/dhmakes-at-ach2023/) this #ACH2023 project contributed to is up! The overarching project includes:
+* a miniature quilt patch that visualized the top terms in ACH 2023 session titles, with metadata for each section on the backside (attached photo)
+loop fastenings for the vest made out of finger-woven craft loops that will visualize the #DHMakes contributions from across social media during the conference
+* fabric printed with the crowdsourced logos of departed DH projects
+* drawings by one DHer, turned into a knitting machine creation by another DHer
+* a felted ACH logo, which I think was made from one DHer’s sheep’s wool, dyed by another DHer, and felted by a third?
+
 [^1] Technically, I included 1 zine you can't currently read for free (although I think I heard there will be a free digital copy eventually?). But it's really awesome, so I included it hoping to spread the word :)
