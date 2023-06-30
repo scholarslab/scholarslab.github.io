@@ -5,7 +5,7 @@ permalink: /praxis-program-fellowships/
 nav: false
 ---
 
-**Applications are now open for the 2023-2024 Praxis Program cohort. Applications are due March 1st, 2023**. Consider spending some time with us next year!
+**Applications are now closed for the upcoming years. Applications for the 2024-2025 Praxis Program cohort will go live in fall of 2023**. 
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2023-2024 cohort - **Tuesday, January 31st, 2023 from 10:00-11:00 on Zoom**. Please [register](https://cal.lib.virginia.edu/calendar/events/slab-praxis-information-session-2023) to attend.
 
