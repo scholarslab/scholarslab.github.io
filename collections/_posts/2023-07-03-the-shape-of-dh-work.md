@@ -9,7 +9,7 @@ categories:
 tags:
 - Digital Humanities
 crosspost:
-  - title: Brandon's blog.
+  - title: Brandon's blog
     url: https://walshbr.com/blog/the-shape-of-dh-work
 ---
 
