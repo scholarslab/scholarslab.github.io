@@ -15,7 +15,7 @@ crosspost:
 
 DH is teaching. 
 
-End of talk. Can you imagine? The courage to give a whole talk that is less than five words long.
+End of talk. Can you imagine? A whole talk that is less than five words long.
 
 ***
 
