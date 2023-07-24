@@ -35,7 +35,7 @@ The comic assumes that acts of teaching are explicit and intentional moments of 
 
 What are you teaching? To whom? What kind of student evals would you get?
 
-The cat has finished, so that's a good a sign as any to go back to sleep and see what other blog posts visit me in dreams.
+The cat has finished, so that's as good a sign as any to go back to sleep and see what other blog posts visit me in dreams.
 
 [^1]: Perhaps a sign that my subconscious would really like to stop posting once a week?
 
