@@ -1,11 +1,17 @@
 ---
-layout: page
-title: Praxis Program Fellowships
-permalink: /praxis-program-fellowships/
-nav: false
+author: brandon-walsh
+date: 2023-08-08
+layout: post
+slug: apply-for-the-2024-2025-praxis-cohort
+title: Apply For The 2024-2025 Praxis Cohort
+categories:
+- Announcements
+- Digital Humanities
+tags:
+- Digital Humanities
 ---
 
-**Applications are open for Praxis Fellowships to be held during the 2024-2025 academic year. Further details below about this application cycle, which has applications due November 1st, 2023.** 
+**Applications are now open for Praxis Fellowships to be held during the 2024-2025 academic year. Further details below about this application cycle, which has applications due November 1st, 2023.** Consider spending time with us next year!
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2024-2025 cohort - **Monday, September 11th, 2023 from 11:00-12:00 on Zoom**. Please [register](https://cal.lib.virginia.edu/calendar/events/slab-praxis-information-session-fall-2023) to attend.
 
@@ -15,7 +21,7 @@ Praxis training takes a variety of shapes meant to reflect the full-range of DH 
 
 Beginning as a 2011-2013 pilot project supported by a grant from the Andrew W. Mellon Foundation to UVa Library's [Scholarly Communication Institute](http://uvasci.org), the Praxis Program is now generously supported by [UVa Library](http://www.library.virginia.edu/) and [GSAS](http://gsas.virginia.edu/). The Praxis Program is a core module of [PHD+](http://phdplus.virginia.edu), a university-wide initiative to prepare PhD students across all disciplines for long-term career success. The work Praxis Fellows undertake over the course of their fellowship year may be submitted in partial fulfillment of the practicum requirement for UVA’s Graduate Certificate in Digital Humanities.
 
-**The Praxis fellowship replaces recipients' teaching responsibilities for the academic year. Fellows are expected to devote roughly 10 hours per week in the Scholars' Lab.** 
+The Praxis fellowship replaces recipients' teaching responsibilities for the academic year. Fellows are expected to devote roughly 10 hours per week in the Scholars' Lab.
 
 ### Eligibility
 
