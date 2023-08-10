@@ -1,0 +1,63 @@
+---
+layout: default
+title: Digital Humanities
+permalink: /digital-humanities/
+nav: true
+order: 6
+---
+
+<div class="dh-landing-wrapper">
+	<div class="dh-landing-grid">
+		<div class="dh-landing__page-title" aria-label="Landing page">
+			<div class="dh-title__text">Digital Humamities</div>
+		</div>
+	</div> <!-- end landing grid -->
+</div> <!-- end landing wrapper -->
+
+<div class="dh-main-content">
+
+	<div class="dh__mission">
+		<div class="dh__title">What We Do</div>
+		<!-- insert relevant links in this text: -->
+		<div class="dh__text">
+			<p>For faculty and students interested in digitial humanities, we provide research and teaching consultation on a variety of concepts, approaches, and tools, including digital collections & exhibitions, data collection and management, machine learning, text analysis, and more. Our familiarity with a variety of technologies is broad and diverse, but our particular strengths lie in the critical pedagogical and scholarly application of those technologies for the humanities.</p>
+			<p>In addition to individual consultations, we provide active support for the Scholars' Lab's graduate fellowship programs and for the University's graduate certificate in Digital Humanities.</p>
+		</div>
+	</div>
+	<div class="dh__people">
+		<div class="dh-people__title">Research &amp; Development Team</div>
+		<ul class="dh-people__list">
+			<!-- use Liquid here: -->
+			{% for person in site.people %}
+			{% if person.title == 'Jeremy Boggs' or person.title == 'Shane Lin' %}
+			<li class="dh-people__person">
+				<div class="dh-person__img"><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.title }}"></div>
+				<div class="dh-person__name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.title }}</a></div> <!-- link to their page -->
+				<div class="dh-person__position">{{ person.position }}</div>
+			</li>
+			{% endif %}
+			{% endfor %}
+		</ul> <!-- end person list -->
+	</div>
+
+	<!--
+		1. Getting started with DH
+		2. Scheduling a consult
+		3. DH Certificate support
+		4. Scholars' Lab fellowship support
+		5. R&D activity
+	-->
+	<div class="dh__faq">
+		<div class="dh-faq__title"></div>
+		<dl class="dh-faq__list">
+			<dt></dt>
+			<dd></dd>
+		</dl>
+		<div class="dh-faq__title"></div>
+		<dl class="dh-faq__list">
+			<dt></dt>
+			<dd></dd>
+		</dl>
+	</div>
+
+</div> <!-- end main content -->
