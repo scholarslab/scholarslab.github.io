@@ -1,0 +1,216 @@
+/* Spatial Tech Page */
+
+/* Landing: */
+
+.dh-landing-wrapper {
+	position: relative;
+	display: flex; // 1 item: landing
+	background-color: rgb(40, 50, 80);
+	height: 75vh;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 4rem;
+	padding: 0;
+}
+
+.dh-landing-grid {
+	position: relative;
+	display: grid;
+	justify-content: start;
+	align-items: center;
+	overflow: hidden;
+	width: 100%;
+	padding: 0 4.167%;
+}
+
+// 'big-' -> attr selector on '__title'
+.dh-landing__page-title {
+	grid-area: title;
+	position: relative;
+	display: grid; // 1 item: title
+	justify-content: start;
+	&::after {
+		content: '';
+		position: absolute;
+		bottom: 0; // -4px;
+		left: 0;
+		display: block;
+		height: 4px;
+		width: 50vw;
+		background-color: rgba(255,255,255,.9); // hsla(186,80%,70%, 1); // $brightgrape;
+//		background-image: linear-gradient(to right, $brightgrape 0%, $brightgrape 4.167%, black 4.167%, black 8.33%, $brightgrape 8.33%, $brightgrape 12.5%, black 12.5%, black 16.67%, $brightgrape 16.67%, $brightgrape 25%, black 25%, black 27.5%, $brightgrape 27.5%, $brightgrape 33.33%, black 33.33%, black 41.33%, $brightgrape 41.33%, $brightgrape 100%);
+	}
+	@media screen and (min-width: 768px) {
+		align-self: end;
+		align-items: end;
+		justify-content: end;
+	//	padding-right: 20px;
+		margin-right: 20px;
+		&::after {
+			width: 100%;
+		}
+	}
+	@media screen and (min-width: 1200px) {
+		&::after {
+		//	left: -16px;
+		}
+	}
+}
+
+.dh-title__text {
+	position: relative;
+	padding-bottom: 20px;
+	font-family: "Oswald", sans-serif;
+	font-size: 3.5rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	line-height: .9;
+	color: white;
+	z-index: 1;
+	@media screen and (min-width: 600px) {
+		font-size: 4rem;
+	}
+	@media screen and (min-width: 768px) {
+		justify-self: end;
+		width: 100%;
+		font-size: 5rem;
+		text-align: right;
+	}
+	@media screen and (min-width: 900px) {
+		font-size: 6rem;
+	}
+	@media screen and (min-width: 1024px) {
+		font-size: 7rem;
+	}
+}
+
+/*### Main Content: ###*/
+
+.dh-main-content {
+	position: relative;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-areas: "mission"
+						 "start"
+						 "people"
+						 "faq"
+						 "contact"
+						 "resource"
+						 "invent"
+						 "include"
+						 "workshop"
+						 "show";
+	padding: 0 4.167%;
+	color: $textgray;
+	@media screen and (min-width: 600px) {
+		padding: 0 8.33%;
+	} // back to 4% b/t 768 & 1200, + set max width
+	@media screen and (min-width: 768px) {
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas: "mission mission"
+							 "people people"
+							 "faq start"
+							 "faq ....."
+							 "contact resource"
+							 "invent invent"
+							 "include workshop"
+							 "show show";
+	}
+}
+
+/* Mission: */
+
+.dh__mission {
+	grid-area: mission;
+	justify-self: center; // extra width
+	position: relative;
+	padding: 0;
+	@media screen and (min-width: 768px) {
+		font-size: 1.5rem;
+	}
+}
+
+.dh__mission .dh__title {
+	font-weight: bold;
+}
+
+.dh-mission .dh__text {
+	p {
+		font-family: monospace;
+		font-size: 1.5rem;
+		color: rgba(0,0,0,.5);
+	}
+}
+
+
+/* Contact: */
+
+.dh__contact {
+	grid-area: contact;
+}
+
+/* People: */
+
+.dh__people {
+	margin-top: 2rem;
+	grid-area: people;
+	position: relative;
+}
+
+.dh__people .dh__title {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+// <ul>
+.dh-people__list {
+	position: relative;
+	display: flex;
+	flex-flow: column nowrap;
+	width: calc(100% + 2rem); // acct for flexbox padding
+	padding: 0;
+	transform: translate(-1rem, 0); // re-center
+	list-style-type: none;
+	@media screen and (min-width: 768px) {
+		flex-flow: row nowrap;
+		justify-content: space-between;
+	}
+}
+
+// <li>
+.dh-people__person {
+	position: relative;
+	display: inline-block;
+	padding: 1em;
+	margin: 0 .5rem;
+	text-transform: uppercase;
+	background-color: white;
+	border: 2px solid black;
+	box-shadow: 4px 4px 0 0 rgba(0,0,0,.5);
+	@media screen and (min-width: 768px) {
+		width: calc(50% - 1rem);
+	}
+}
+
+.dh-person__img {
+	position: relative;
+	width: 100%;
+	img {
+		max-width: 100%;
+	}
+
+}
+
+.dh-person__name {
+	a {
+		display: inline-block;
+		margin: .5em 0;
+		font-size: 1.5rem;
+		line-height: 1;
+		font-weight: bold;
+	}
+}
+
+.dh-person__position {
+	font-family:  monospace;
+}
