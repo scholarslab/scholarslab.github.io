@@ -3,7 +3,7 @@ author: drew-macqueen
 date: 2023-08-17
 layout: post
 slug: gis-workshops-fall-2023
-title: Spider-Map: Across the Spatial-verse. Swing in to our Fall GIS workshop series.
+title: "Spider-Map: Across the Spatial-verse. Swing in to our Fall GIS workshop series."
 categories:
 - GIS
 tags:
