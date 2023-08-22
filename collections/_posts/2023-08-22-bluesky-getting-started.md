@@ -41,6 +41,7 @@ Searching for people to follow uses your profile text, so consider using broader
       * This means that you'll see all replies to posts in a given feed, e.g. if you're following [Mark Sample's DH feed](https://bsky.app/profile/did:plc:gpmpz7xi4k5efyma3cfuxen3/feed/aaalwvh2pggsc) you're see all the conversations around posts made by people included in this feed.
       * You can change this to only see replies that meet a certain threshold of likes instead, if you prefer. Ditto quotes and reposts (RTs).
    * Do an introduction post so folks can find you!
+
 ### Feeds
 Some similarities to Twitter lists, but not the same thing. Currently no way to easily make a private list of just specific people (e.g. the subset of your follows you want to make sure to read every day).
 * Feeds can just collect posts from specific users, or collect things filtered in fancier ways (e.g. posts that meet a threshold of x likes,posts that use y emoji). More difficult to set up than lists.
@@ -57,6 +58,7 @@ Some similarities to Twitter lists, but not the same thing. Currently no way to 
    * Team Rhetoric (rhetcomp folks)
    * medievalists
    * "What's Hot Classic" (to see popular posts from across Bluesky)
+
 ### Following
 In addition to just searching for names and profile phrases to find folks to follow, you can:
 * Check who people you already follow are following/followed by
@@ -78,8 +80,10 @@ In addition to just searching for names and profile phrases to find folks to fol
    * E.g. [https://bsky.app/profile/skywatch.bsky.social](https://bsky.app/profile/skywatch.bsky.social) > lists to see several mutelists you can subscribe to to avoid hate, bots, spammers
 * You are trusting the mutelist maker's future discretion; if you subscribe to a mutelist, you automatically mute/won't see messages from anyone currently or later on added to the mutelist
    * There are some sites that try to provide better search/browse interfaces to mutelists and feeds. I removed the ones I'd previously linked; I didn't see much added value vs. Bluesky's search, and these tend to forefront "top"/"hot" without curation, meaning e.g. the second highest mutelist on one was from someone muting people who didn't think ivermectin was an unjustly suppressed viral cure (but the language made this easy to misread).
+
 ### Blocks
 * Are public
+
 ### Posting
 * Post limit = 300 characters
 * Posts and likes are public
