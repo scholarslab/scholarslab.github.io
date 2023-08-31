@@ -15,9 +15,11 @@ crosspost:
 
 DH Twitter community seems to be reconstituting over on Bluesky, in ways I haven't felt yet on Mastodon. I created a guide to using Bluesky aimed at other DHy/GLAM/academic folks—answers to things I wanted to know about Bluesky when I started (very recently!). 
 
-There's a quickstart version at the top (3 specific steps to get going), followed by more details, example feeds to follow, mutelists, etc. I'm sharing that guide below, but I'll only keep editing the GDoc version as I discover new things or Bluesky changes, so you may wish to read there instead: [tinyurl.com/DHBluesky](https://tinyurl.com/DHBluesky)
+There's a quickstart version at the top (3 specific steps to get going), followed by more details, example feeds to follow, mutelists, etc. I'm sharing that guide below, but I'll only keep editing the GDoc version as I discover new things or Bluesky changes, so you may wish to read there instead: [tinyurl.com/DHBluesky](https://tinyurl.com/DHBluesky) _(Editing ~2 weeks later: already lots of new info at the GDoc, so do consider reading that!)_
 
 Social media has been integral to my scholarship and professional life. I'm no longer posting on Twitter (where I tweeted as [@literature_geek](https://twitter.com/literature_geek) from 2009-2023!?), and am now posting on Bluesky ([@literaturegeek.bsky.social](https://bsky.app/profile/literaturegeek.bsky.social); you'll need to be signed into Bluesky) and via Mastodon ([hcommons.social/@literature_geek](https://hcommons.social/@literature_geek)). You're welcome to shoot me a message if you join or are already on either, as I'd like to follow more folks! (And I don't always notice new follower notifications.)
+
+Scholars' Lab has made a similar move—we've still got [our Twitter account (@ScholarsLab)](https://twitter.com/scholarslab) but aren't monitoring that regularly, and we're testing out a [SLab Mastodon account (@scholarslab@hcommons.social)](https://hcommons.social/@scholarslab) and a [SLab Bluesky account (@scholarslab.bsky.social)](https://bsky.app/profile/scholarslab.bsky.social).
 
 ## Bluesky quickstart guide
 1. **Join** If you're not on Bluesky yet, [sign up for Bluesky's waitlist](https://bsky.app/), but also [fill out this quick form](https://docs.google.com/forms/d/e/1FAIpQLScLFxq9h9NzPq5KVYYKFqL5gH7rjK0lp46Rf_G2lgd39u44Rw/viewform?usp=send_form) if you're DH-adjacent (organized by Quinn Dombrowski and Brandon Walsh; someone may be able to send you an invite code sooner than the waitlist will—this is how I got on Bluesky)
