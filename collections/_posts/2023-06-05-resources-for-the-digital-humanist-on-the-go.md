@@ -17,6 +17,12 @@ I've always been someone who learns best while listening. And as I've gotten old
 What follows is my running list of recordings. There's no real distinction made below between, say, podcasts you could download on your phone and videos that need to be run in the browser. Such a difference is meaningful but doesn't really fit my own particular purposes here, so if you have need or one or the other you will have to poke around a bit. I'm using a service called [BibBase](https://bibbase.org/) to embed my Zotero collection on this page, so this post should be updated in the future as that collection updates. You can also explore the collection [directly on Zotero's website](https://www.zotero.org/bmw9t/collections/GYNETXY7). I would recommend [this guide](https://yvonneseale.org/blog/2016/10/23/how-to-embed-a-zotero-bibliography-in-a-web-page/
 ) by Yvonne Seale if you want to embed a Zotero bibliography in this same way on a page of your own. I also particularly want to shout out Merisa Martinez who shared a [list of their favorite DH podcasts](https://dhcommons.hypotheses.org/451) a few years ago. Thanks also to Amanda Visconti for suggesting some links on Mastodon. I've included those links in the Zotero collection below. 
 
-## Digital Humanities Recordings
+## Free Digital Humanities Recordings
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1308245%2Fcollections%2FGYNETXY7%2Fitems%3Fkey%3Dugllva0qJZGF14zBthiBVLaV%26format%3Dbibtex%26limit%3D100&msg=embed&jsonp=1&hidemenu=true&theme=dividers&groupby=&authorFirst=true&sort=author_short&urlLabel=Link to Recording(s)"></script>
+
+## DH-relevant Audiobooks
+
+These are longer texts that exist out there as audiobooks. Worth noting, though, that they may or may not be freely available. I found them either through a subscription service (like Audible) or rental from a library. 
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1308245%2Fcollections%2F4UC5FNDK%2Fitems%3Fkey%3DHt4fm57C7FbNbOaINowL9vg4%26format%3Dbibtex%26limit%3D100&msg=embed&jsonp=1&hidemenu=true&theme=dividers&groupby=&authorFirst=true&sort=author_short&urlLabel=Link to Recording(s)"></script>
