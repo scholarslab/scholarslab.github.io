@@ -1,8 +1,8 @@
 ---
 instructor: Tingyo Tan
 author: tingyo-tan
-start_date: 2023-11-1
-end_date: 2023-11-1
+start_date: 2023-11-01
+end_date: 2023-11-01
 start_time: "12:00"
 end_time: "14:00"
 layout: makerspace

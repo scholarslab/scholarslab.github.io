@@ -7,11 +7,11 @@ start_time: ""
 end_time: ""
 layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
-slug: event-2023-thanksgiving-craft
-title: "Thanksgiving Craft Event"
+slug: event-2023-thanksgiving-crafts
+title: "Thanksgiving Crafts Event"
 ---
 
-![Thanksgiving Craft Event](/assets/post-media/workshops/Happy-Thanksgiving-Animation-small.gif)
+![Thanksgiving Crafts Event](/assets/post-media/workshops/Happy-Thanksgiving-Animation-small.gif)
 
 Make a Thanksgiving themed electronic craft!
 

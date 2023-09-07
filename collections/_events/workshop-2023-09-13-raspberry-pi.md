@@ -7,7 +7,7 @@ start_time: "12:00"
 end_time: "14:00"
 layout: makerspace
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
-slug: workshop-2023-09-13-raspberry-pi-01
+slug: workshop-2023-09-13-raspberry-pi
 title: "Raspberry Pi Workshop"
 ---
 

@@ -7,7 +7,7 @@ start_time: "12:00"
 end_time: "14:00"
 layout: makerspace
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
-slug: workshop-2023-08-30-arduino-01
+slug: workshop-2023-08-30-arduino
 title: "Arduino Workshop"
 ---
 

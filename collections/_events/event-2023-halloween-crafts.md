@@ -7,11 +7,11 @@ start_time: ""
 end_time: ""
 layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
-slug: event-2023-halloween-craft
-title: "Haunted Halloween Electronic Craft"
+slug: event-2023-halloween-crafts
+title: "Halloween Crafts"
 ---
 
-![Haunted Halloween Electronic Craft](/assets/post-media/workshops/happy-monster-animation.gif)
+![Halloween Crafts](/assets/post-media/workshops/happy-monster-animation.gif)
 
 Come to the Scholars’ Lab TinkerTank the week before Halloween, and on Halloween Day to create a light up craft.
 
