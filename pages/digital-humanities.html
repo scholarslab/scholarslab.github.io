@@ -25,15 +25,15 @@ order: 6
 		</div>
 	</div>
 	<div class="dh__people">
-		<div class="dh__title">Research &amp; Development Team</div>
+		<div class="dh__title">Digital Humanities Staff</div>
 		<ul class="dh-people__list">
 			<!-- use Liquid here: -->
 			{% for person in site.people %}
-			{% if person.title == 'Jeremy Boggs' or person.title == 'Shane Lin' %}
+			{% if person.title == 'Jeremy Boggs' or person.title == 'Ronda Grizzle' or person.title == 'Shane Lin' or person.title == 'Brandon Walsh' %}
 			<li class="dh-people__person">
 				<div class="dh-person__img"><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.title }}"></div>
 				<div class="dh-person__name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.title }}</a></div> <!-- link to their page -->
-				<div class="dh-person__position">{{ person.position }}</div>
+				<div class="dh-person__position">Lorem ipsum dolor sit amet</div>
 			</li>
 			{% endif %}
 			{% endfor %}
