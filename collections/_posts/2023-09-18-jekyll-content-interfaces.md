@@ -13,14 +13,13 @@ crosspost:
     url: TBD
 ---
 
-We want ScholarsLab.org to be easier for everyone to update; I'm sharing my research notes from looking into some options.
+We want our DH/DS research center's collaborative website ([ScholarsLab.org](https://scholarslab.org/) to be easier for everyone to edit/author on; this post shares my research notes from looking into some improvement options.
 
 Scholars' Lab migrated its website ([ScholarsLab.org](https://scholarslab.org/)) from WordPress to a Jekyll-generated static site back in early 2019. We [blogged our reasons](https://scholarslab.lib.virginia.edu/blog/site-relaunch/): less developer maintenance time, more ownership and portability of our work, a way to make the labor (and learning) of maintaining our site shared across more folks (e.g. Praxis Fellows who learn GitHub versioning with us can apply those skills/familiarity when blogging for our site too). Brandon Walsh, me, and the Scholars' Lab community published a peer-reviewed piece with _The Programming Historian_ (["Running a Collaborative Research Website and Blog with Jekyll and GitHub"](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github)) that builds on my previous _Programming Historian_ publication (["Building a static website with Jekyll and GitHub Pages"](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)), teaching how to move from a basic individual blog site to one that can handle collaborative authoring and editing workflows. 
 
 I'm referenced in Quinn Dombrowski's _Digital Humanities Quarterly_ piece ["Minimizing Computing Maximizes Labor"](https://www.digitalhumanities.org/dhq/vol/16/2/000594/000594.html) on the main downside for us: "Despite buy-in from the Scholars’ Lab community on a Jekyll-based site relaunch, ongoing uneasiness with the interface has reduced the number of website contributions by community members who have run into technical difficulties in the past and who feel like they 'should' understand the technology after reading the documentation but continue to struggle with making it work". 
 
 It isn't that learning to author and edit on the site is difficult. For folks who don't get to work with GitHub or coding regularly, these skills decay from disuse, and thus relearning presents a barrier to posting or updating the site when people wish.
-
 I recently had time to complete some research on options to make authoring/editing lower barrier to folks who don't work with the site or similar activities regularly. This post shares my notes, particular to our specific context (library-based DH research center with an active collaborative blog) and goals.
 
 Things we're looking to improve:
