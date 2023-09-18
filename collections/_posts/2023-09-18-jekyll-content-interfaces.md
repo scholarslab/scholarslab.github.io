@@ -2,8 +2,8 @@
 author: amanda-visconti
 date: 2023-09-18
 layout: post
-slug: jekyll-content-interface
-title: "Jekyll content interfaces: a review of tools for friendlier authoring/editing of collabrorative Jekyll sites"
+slug: jekyll-content-interfaces
+title: "Jekyll content interfaces: a review of tools for friendlier authoring/editing on collabrorative Jekyll sites"
 categories:
 - Digital Humanities
 tags:
