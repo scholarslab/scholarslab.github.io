@@ -10,7 +10,7 @@ tags:
 - Digital Humanities
 crosspost:
   - title: Amanda's blog
-    url: TBD
+    url: https://literaturegeek.com/2023/09/18/jekyll-content-interfaces
 ---
 
 We want our DH/DS research center's collaborative website ([ScholarsLab.org](https://scholarslab.org/) to be easier for everyone to edit/author on; this post shares my research notes from looking into some improvement options.
