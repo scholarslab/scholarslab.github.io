@@ -19,4 +19,6 @@ You will need to commit to the whole workshop time 4pm-6pm.
 
 The Scholars' Lab TinkerTank is located in Clemons Library on the 3rd floor. See here for TinkerTank open hours: <a href="https://www.library.virginia.edu/hours">https://www.library.virginia.edu/hours</a>
 
-Register here: [https://cal.lib.virginia.edu/event/11245670 ](https://cal.lib.virginia.edu/event/11245670)
+Register here:
+
+[https://cal.lib.virginia.edu/event/11245670 ](https://cal.lib.virginia.edu/event/11245670)

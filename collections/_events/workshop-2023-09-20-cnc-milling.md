@@ -17,4 +17,6 @@ Computer Numerical Control (CNC) machining is a manufacturing operation that aut
 
 The Scholars' Lab TinkerTank is located in Clemons Library on the 3rd floor. See here for TinkerTank open hours: <a href="https://www.library.virginia.edu/hours">https://www.library.virginia.edu/hours</a>
 
-Register here: [https://cal.lib.virginia.edu/event/11233711 ](https://cal.lib.virginia.edu/event/11233711)
+Register here:
+
+[https://cal.lib.virginia.edu/event/11233711 ](https://cal.lib.virginia.edu/event/11233711)

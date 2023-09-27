@@ -25,4 +25,6 @@ The Scholars' Lab TinkerTank is located in Clemons Library on the 3rd floor. See
 
 (Templates and images from by https://makerspaces.com/)
 
-Register here: [https://cal.lib.virginia.edu/event/11215328 ](https://cal.lib.virginia.edu/event/11215328)
+Register here:
+
+[https://cal.lib.virginia.edu/event/11215328 ](https://cal.lib.virginia.edu/event/11215328)

@@ -20,8 +20,10 @@ Come to the Tinker tank to make a stuffed buddy! Learn how to create, cut, and s
 
 The Scholars' Lab TinkerTank is located in Clemons Library on the 3rd floor. See here for TinkerTank open hours: <a href="https://www.library.virginia.edu/hours">https://www.library.virginia.edu/hours</a>
 
-Register here: [https://cal.lib.virginia.edu/event/11262570
-https://cal.lib.virginia.edu/event/11262574
-https://cal.lib.virginia.edu/event/11262578 ](https://cal.lib.virginia.edu/event/11262570
-https://cal.lib.virginia.edu/event/11262574
-https://cal.lib.virginia.edu/event/11262578)
+Register here:
+
+[https://cal.lib.virginia.edu/event/11262570 ](https://cal.lib.virginia.edu/event/11262570)
+
+[https://cal.lib.virginia.edu/event/11262574 ](https://cal.lib.virginia.edu/event/11262574)
+
+[https://cal.lib.virginia.edu/event/11262578 ](https://cal.lib.virginia.edu/event/11262578)
