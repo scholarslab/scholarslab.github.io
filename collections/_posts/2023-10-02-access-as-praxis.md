@@ -10,7 +10,7 @@ categories:
 tags:
 - Digital Humanities
 ---
-"Access is love but love is complicated." -- Andy Slater, blind media artist
+"Access is love but love is complicated." -- Andy Slater, blind media artist (<https://www.thisisandyslater.net/>)
 
 The above quote is one of my favorite summations of the challenge and opportunity with access and accessibility. These are common buzzwords in disability-oriented spaces, yet it can take time to pinpoint precisely what they denote, and their frequent use makes it even more challenging to understand precisely what they entail since there are several different interpretations and possibilities. Under the Americans with Disabilities Act (ADA), accessibility commonly refers to ensuring that disabled individuals have the same access as anyone to all areas of their premises (<https://adatile.com/a-guide-to-ada-compliance-in-california/#:~:text=Being%20ADA%20compliant%20means%20that,committing%20a%20civil%20rights%20violation>). Further, writer Mia Mingus extends it to a concept of "access intimacy," defined as "that elusive, hard to describe feeling when someone else 'gets' your access needs." (<https://leavingevidence.wordpress.com/2011/05/05/access-intimacy-the-missing-link/>)
 
