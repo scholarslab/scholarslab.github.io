@@ -50,7 +50,7 @@ title: Neatline
 thumb-img: neatline-thumb.png
 banner-img: neatline-banner.png
 research-category: Internal Projects and Community Service
-start-year: 2011
+start-year: 2010
 end-year: 2022
 ---
 
