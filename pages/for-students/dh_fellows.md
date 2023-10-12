@@ -49,4 +49,4 @@ A complete application package will include the following materials:
 
 Completed application materials can be uploaded through the [GSAS application portal](https://virginia.academicworks.com/). Please do consider this application to be part of a process - the beginning of a conversation about how we can work together.
 
-Applicants with questions about Grad Fellowships, the application process, or their eligibility are encouraged to write soon for clarification. During the 2024-2025 cycle, Brandon will be on leave starting January 15th, 2024. Applicants are encouraged to reach out to him ASAP with questions. After January 15th, correspondence regarding DH project proposals can be directed to [Ronda Grizzle](mailto:rag9b@virginia.edu).
+During the 2024-2025 cycle, Brandon will be on leave starting January 15th, 2024. Applicants with questions about Grad Fellowships, the application process, or their eligibility are encouraged to write soon for clarification. After January 15th, correspondence regarding DH project proposals can be directed to [Ronda Grizzle](mailto:rag9b@virginia.edu).
