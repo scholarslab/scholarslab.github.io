@@ -95,12 +95,23 @@ Figure 8: Second 3D printed heart model with some revisions.
 ![Final heart model](/assets/post-media/five-ps/heart3.jpg)
 Figure 9: Final version of the 3D printed heart model.
 
+Other finished products come from the many workshops designed and run by our student workers, who we call Makerspace Technologists. From totebags, stuffed buddies, jewelry from spoons and forks, stamps, book safes, stickers and many others, our Technologists provide workshops that get students making usable products.
+
+![Custom totebags](/assets/post-media/five-ps/totes.jpg)
+Figure 10: Tote bags from the totebag workshop.
+
+![Stamps from the workshop](/assets/post-media/five-ps/stamps.jpg)
+Figure 11: Custom made stamps.
+
+![Homemade stuffed animals](/assets/post-media/five-ps/stuffed-buddies.jpg)
+Figure 11: Students make their own stuffed buddy.
+
 ## Partnerships: 
 
 Arguably one of the most important aspects of a makerspace is creating connections, building networks, fostering collaboration. The Scholars’ Lab makerspace is a space where architects and engineers, medical students and gamers, musicians and historians have come to collaborate and build solutions and experiments. As shown in each of the previous four Ps, projects in the Makerspace usually involve collaboration with other groups from differing departments. Not all collaborations involve 3D printing, or even happen in the Makerspace. For several years, we collaborated with an Architecture professor to provide Arduinos and training on Arduinos for the course ARCH 5424 Direct Cinema Media Fabrics [5]. A co-worker and I recently worked with an Archeology professor to provide her class with the option to either create a VR representation or a 3D printed model of ancient Roman buildings [6]. Before the pandemic, a Library co-worker’s mother would knit hats for newborns at the UVA Hospital. She found that the looms she could purchase in the store created hats with holes too large to be effective for tiny newborn heads. A student employee worked with her to design and 3D print an appropriately sized loom for knitting the perfect baby hats [7]! 
 
 ![Knitted hats and custom loom](/assets/post-media/five-ps/loom-knitt-hats.jpg)
-Figure 10: Custom designed baby hat knitting looms.
+Figure 12: Custom designed baby hat knitting looms.
 
 As a final example of collaboration, student employees hold at least two workshops each semester. Workshops are open to everyone at the University. Each workshop brings a mix of students from a variety of disciplines, from the hard sciences to social sciences to the humanities. This mixing of disciplines provides a great opportunity for scholars to share ideas across otherwise siloed school experiences. This unique mixing of disciplines led to collaboration between an English PhD student [8] and a Computer Science PhD student [9]. While both worked as Makerspace Technologists for the Scholars’ Lab, they combined interests in Humanities and technology to do research in robotics and humanities [10]. After discovering their combined interest in research, they also discovered interest in each other and eventually married! While not all makerspace collaborations lead to such unions, this example does show the inherent desire for all collaborations is the development and growth of mutually meaningful person-to-person relationships.
 
