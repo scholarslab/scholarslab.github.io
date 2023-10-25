@@ -1,0 +1,64 @@
+---
+layout: default
+title: "Research &amp; Development"
+permalink: /research-and-development/
+nav: true
+order: 6
+---
+
+<div class="rd-landing-wrapper">
+	<div class="rd-landing-grid">
+		<div class="rd-landing__page-title" aria-label="Landing page">
+			<div class="rd-title__text">Research &amp; Development</div>
+		</div>
+	</div> <!-- end landing grid -->
+</div> <!-- end landing wrapper -->
+
+<div class="rd-main-content">
+	<div class="rd__mission">
+		<div class="rd__title">What We Do</div>
+		<!-- insert relevant links in this text: -->
+		<div class="rd__text">
+			<p>For faculty and students interested in digitial humanities, we provide research and teaching consultation on a variety of concepts, approaches, and tools, including digital collections & exhibitions, data collection and management, machine learning, text analysis, and more. Our familiarity with a variety of technologies is broad and diverse, but our particular strengths lie in the critical pedagogical and scholarly application of those technologies for the humanities. In addition to individual consultations, we provide active support for the Scholars' Lab's graduate fellowship programs and for the University's graduate certificate in Digital Humanities.</p>
+			<p>Whether you're a student working on a digital humanities project for a class, or you're an instructor wishing to learn more about using particular DH methods or tools in course or research, we can help you find appropriate resources for your work.</p>
+			</p>
+		</div>
+	</div>
+
+	<div class="rd__work">
+		<div class="rd__title">Example Work & Resources</div>
+		<div class="rd__text">
+			<p>Our <a href="/work/">Work</a> page lists all the projects Scholars' Lab staff have supported over the years. Here are a few examples:</p>
+			<ul>
+				<li><a href="https://digitalcollecting.lib.virginia.edu">Take Back the Archive</a></li>
+				<li><a href="https://salem.lib.virginia.edu">Salem Witch Trials Documentary Archive</a></li>
+				<li><a href="https://jeffersons-notes.org">Notes on the State of Virginia</a></li>
+				<li><a href="https://connection.scholarslab.org/">Connection Established</a></li>
+			</ul>
+
+		<p>Related resources at UVA</p>
+		<ul class="rd-resources__list">
+			<li><a href="https://guides.lib.virginia.edu/dh">Digital Humanities LibGuide</a></li>
+			<li><a href="https://dh.library.virginia.edu">DH@UVA Website</a></li>
+			<li><a href="https://datascience.virginia.edu/degrees/digital-humanities-certificate">Digital Humanities Graduate Certificate</a></li>
+
+		</ul>
+	</div>
+	</div>
+	<div class="rd__people">
+		<div class="rd__title">Get In Touch!</div>
+		<ul class="rd-people__list">
+			<!-- use Liquid here: -->
+			{% for person in site.people %}
+			{% if person.title == 'Jeremy Boggs' or person.title == 'Shane Lin' %}
+			<li class="rd-people__person">
+				<div class="rd-person__img"><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.title }}"></div>
+				<div class="rd-person__name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.title }}</a></div> <!-- link to their page -->
+				<div class="rd-person__position">{{ person.position }}</div>
+			</li>
+			{% endif %}
+			{% endfor %}
+		</ul> <!-- end person list -->
+	</div>
+
+</div> <!-- end main content -->

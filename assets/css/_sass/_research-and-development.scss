@@ -2,7 +2,7 @@
 
 /* Landing: */
 
-.dh-landing-wrapper {
+.rd-landing-wrapper {
 	position: relative;
 	display: flex; // 1 item: landing
 	background-color: rgb(40, 50, 80);
@@ -13,7 +13,7 @@
 	padding: 0;
 }
 
-.dh-landing-grid {
+.rd-landing-grid {
 	position: relative;
 	display: grid;
 	justify-content: start;
@@ -24,7 +24,7 @@
 }
 
 // 'big-' -> attr selector on '__title'
-.dh-landing__page-title {
+.rd-landing__page-title {
 	grid-area: title;
 	position: relative;
 	display: grid; // 1 item: title
@@ -57,7 +57,7 @@
 	}
 }
 
-.dh-title__text {
+.rd-title__text {
 	position: relative;
 	padding-bottom: 20px;
 	font-family: "Oswald", sans-serif;
@@ -86,18 +86,15 @@
 
 /*### Main Content: ###*/
 
-.dh-main-content {
+.rd-main-content {
 	position: relative;
 	display: grid;
 	grid-template-columns: 1fr;
 	grid-template-areas: "mission"
-						 "start"
+						 "work"
 						 "people"
 						 "faq"
 						 "contact"
-						 "resource"
-						 "invent"
-						 "include"
 						 "workshop"
 						 "show";
 	padding: 0 4.167%;
@@ -108,21 +105,15 @@
 	@media screen and (min-width: 768px) {
 		grid-template-columns: 1fr 1fr;
 		grid-template-areas: "mission mission"
-							 "people people"
-							 "faq start"
-							 "faq ....."
-							 "contact resource"
-							 "invent invent"
-							 "include workshop"
-							 "show show";
+							 "work people";
 	}
 }
 
 /* Mission: */
 
-.dh__mission {
+.rd__mission {
 	grid-area: mission;
-	justify-self: center; // extra width
+	justify-content: center;
 	position: relative;
 	padding: 0;
 	@media screen and (min-width: 768px) {
@@ -130,40 +121,32 @@
 	}
 }
 
-.dh__mission .dh__title {
+.rd__mission .rd__title {
 	font-weight: bold;
-}
-
-.dh-mission .dh__text {
-	p {
-		font-family: monospace;
-		font-size: 1.5rem;
-		color: rgba(0,0,0,.5);
-	}
 }
 
 
 /* Contact: */
 
-.dh__contact {
+.rd__contact {
 	grid-area: contact;
 }
 
 /* People: */
 
-.dh__people {
-	margin-top: 2rem;
+.rd__people {
+	margin-top: 1rem;
 	grid-area: people;
 	position: relative;
 }
 
-.dh__people .dh__title {
+.rd__people .rd__title {
 	font-size: 1.5rem;
 	font-weight: bold;
 }
 
 // <ul>
-.dh-people__list {
+.rd-people__list {
 	position: relative;
 	display: flex;
 	flex-flow: column nowrap;
@@ -178,7 +161,7 @@
 }
 
 // <li>
-.dh-people__person {
+.rd-people__person {
 	position: relative;
 	display: inline-block;
 	padding: 1em;
@@ -192,7 +175,7 @@
 	}
 }
 
-.dh-person__img {
+.rd-person__img {
 	position: relative;
 	width: 100%;
 	img {
@@ -201,7 +184,7 @@
 
 }
 
-.dh-person__name {
+.rd-person__name {
 	a {
 		display: inline-block;
 		margin: .5em 0;
@@ -211,6 +194,23 @@
 	}
 }
 
-.dh-person__position {
+.rd-person__position {
 	font-family:  monospace;
+}
+
+.rd__work {
+	grid-area: work;
+	margin-top: 1rem;
+	position: relative;
+}
+
+.rd__work .rd__title {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.rd__work .rd__text {
+	p,ul {
+		font-size: 1.125rem;
+	}
 }
