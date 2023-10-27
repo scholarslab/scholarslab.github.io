@@ -18,7 +18,7 @@ sass:
   style: compressed
 markdown: kramdown
 highlighter: rouge
-kramdown: 
+kramdown:
   parse_block_html: true
   parse_span_html: true
 plugins:
@@ -61,18 +61,13 @@ defaults:
     values:
       image: true
   - scope:
-      path: "pages"
-    values:
-      order: 10
-  - scope:
       path: ""
       type: "posts"
     values:
-      is_post: true
       og_type: "article"
   - scope:
-      path: ""
-      type: "pages"
+      path: "pages"
     values:
-      is_page: true
+      order: 10
+      type: "pages"
       og_type: "website"
