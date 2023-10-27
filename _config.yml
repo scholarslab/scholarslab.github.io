@@ -8,7 +8,7 @@ description: "The Scholars’ Lab"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scholarslab.lib.virginia.edu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scholarslab
-permalink: /blog/:title/
+permalink: /:title/
 timezone: America/New_York
 # Build settings
 analytics: true
@@ -65,9 +65,10 @@ defaults:
       type: "posts"
     values:
       og_type: "article"
+      permalink: /blog/:title/
   - scope:
       path: "pages"
+      type: "pages"
     values:
       order: 10
-      type: "pages"
       og_type: "website"
