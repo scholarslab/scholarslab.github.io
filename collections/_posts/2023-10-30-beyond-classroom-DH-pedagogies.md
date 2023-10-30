@@ -10,7 +10,7 @@ tags:
 - Digital humanities
 crosspost:
   - title: Amanda's blog
-    url: https://literaturegeek.com
+    url: https://literaturegeek.com/2023/10/30/beyond-classroom-DH-pedagogies
 ---
 
 Last week, [Brandon Walsh](https://scholarslab.lib.virginia.edu/people/brandon-walsh/) taught how to develop a DH pedagogy to our Praxis Fellows (Scholars' Lab's annual interdisciplinary graduate DH cohort). In my next few posts, I'm exploring how that class refreshed my own DH pedagogy, with the goal of updating my teaching statement and polishing several new academic course and research workshop ideas.
