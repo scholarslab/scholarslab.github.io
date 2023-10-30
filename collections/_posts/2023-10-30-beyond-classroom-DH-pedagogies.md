@@ -1,6 +1,6 @@
 ---
 author: amanda-visconti
-date: 2023-10-26
+date: 2023-10-30
 layout: post
 slug: beyond-classroom-DH-pedagogies
 title: "DH pedagogies beyond the classroom"
