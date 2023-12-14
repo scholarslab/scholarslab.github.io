@@ -1,9 +1,10 @@
 source "https://rubygems.org"
-ruby '2.7.3'
+ruby '3.0.4'
 
 gem "jekyll", "~>3.7"
 gem "nokogiri", ">= 1.8.5"
 gem "jekyll-paginate-v2", "~>1.9"
+gem "webrick"
 
 # Jekyll Plugins
 group :jekyll_plugins do
