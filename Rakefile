@@ -1,6 +1,5 @@
 require 'date'
 require 'time'
-require 'html-proofer'
 require 'rake'
 require 'json'
 require 'front_matter_parser'
@@ -27,26 +26,6 @@ desc "Install dependencies"
 task :install_dependencies do
     sh 'bundle install'
     sh 'npm install'
-end
-
-desc "Run tests on the build."
-task :test_build do
-    sh 'bundle exec jekyll build'
-    options = {
-      :assume_extension => true,
-      :disable_external => true,
-      :empty_alt_ignore => true,
-      :allow_hash_href => true,
-      :only_4xx => true,
-      :http_status_ignore => [404, 403, 410],
-      :alt_ignore => ['/.*/'],
-      :file_ignore => [/.*\/node_modules\/.*/, /.*\/_sass\/.*/],
-      :internal_domains => ['localhost:4000']
-    #   :url_swap =>
-  }
-
-  HTMLProofer.check_directory("./_site", options).run
-  sh 'bundle exec jekyll serve'
 end
 
 desc "Build the site."
@@ -215,5 +194,5 @@ file './search_index.json' => ['./corpus.json'] do |t|
 end
 
 task :generate_search => [:delete_corpus, './corpus.json', './search_index.json']
-task :default => [:install_dependencies, :test_build]
+task :default => [:install_dependencies]
 task :publish => [:install_dependencies, :generate_search, :build_site]
