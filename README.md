@@ -3,7 +3,7 @@ The code that forms our [ScholarsLab.org]() site, and stuff related to improving
 
 There's a [homepage for all our SLab.org-related documentation here](https://github.com/scholarslab/scholarslab.org/blob/master/docs/README.md), but we've tried to also cover the most frequently useful info below.
 
-**Want help?** Definitely feel free to either ask any questions in the SLab Slack #slab-org channel, or talk with Amanda. (It's fine if you haven't read through all the documentation below first—there's a lot, but that makes it harder to quickly find answers and we're happy to point you to what you need.)
+**Want help?** Definitely feel free to ask any questions in the SLab Slack #slab-org channel.
 
 ## Table of Contents
 
