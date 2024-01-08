@@ -55,9 +55,9 @@ No formal call for this external program, but graduate students interested in se
 
 ## DHSI Tuition Fellowships
 
-[More information](/dhsi-tuition-fellowships/)
-
 The University of Virginia, as a sponsoring institution of [DHSI](https://dhsi.org/), provides a handful of tuition-free fellowships to attend a Digital Humanities Summer Institute course or workshop each year. UVA students, staff, non-TT faculty, and those without access to research travel funds are especially encouraged to apply. A call is typically issued in the fall and fellowships are awarded on a first-come-first-served basis.
+
+[More information](/dhsi-tuition-fellowships/)
 
 ## Digital Humanities Programming and Departmental Language Requirements
 
