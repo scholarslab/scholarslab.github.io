@@ -14,6 +14,15 @@ GEM
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     front_matter_parser (1.0.1)
+    html-proofer (4.4.3)
+      addressable (~> 2.3)
+      mercenary (~> 0.3)
+      nokogiri (~> 1.13)
+      parallel (~> 1.10)
+      rainbow (~> 3.0)
+      typhoeus (~> 1.3)
+      yell (~> 2.0)
+      zeitwerk (~> 2.5)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -50,7 +59,9 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    parallel (1.23.0)
+    nokogiri (1.16.0-arm64-darwin)
+      racc (~> 1.4)
+    parallel (1.24.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.4)
@@ -77,6 +88,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-22
 
 DEPENDENCIES
   ffi (>= 1.15)
