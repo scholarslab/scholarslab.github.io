@@ -46,15 +46,15 @@ order: 3
     <div id="makerspace-hours" class="maker-hours__title">Open Hours and Access</div>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
     <script src="https://cal.lib.virginia.edu/js/hours_grid.js?002"></script> 
-    <div id="s-lc-whw15029"></div> 
+    <div id="s-lc-whw2093"></div> 
     <script>
       $(function(){ 
-        var week15029 = new $.LibCalWeeklyGrid( $("#s-lc-whw15029"), { iid: 863, lid: 15029, systemTime: false }); 
+        var week2093= new $.LibCalWeeklyGrid( $("#s-lc-whw2093"), { iid: 863, lid: 2093, systemTime: false }); 
       });
     </script> 
 
     <p>The Makerspace staff provides consultations and instruction for all your
-    electronics, crafting, and textiles projects <a
+    electronics, crafting, textiles, laser cutting, and 3D printing projects <a
     href="https://www.library.virginia.edu/hours/">whenever the Makerspace is open</a>, or by appointment. Please drop in, or send inquiries to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>. </p>
 
     <p>Or schedule a consultation with Ammon, manager of our Makerspace.</p>
@@ -118,17 +118,35 @@ order: 3
     <div class="maker-usage__title">Using the Makerspace</div>
     <div class="maker-usage__content">
       <!-- split internally per prototype drawing -->
-      <p>Interested in exploring the Makerspace? Have an idea to use
-        microcontrollers or 3D modeling to enhance your research or differently
-        interrogate your assumptions? Contact us at <a
+      <p>The Makerspace is open to all UVA students, staff and faculty, 
+        regardless of department, major, academic or personal interests, 
+        or any other characteristic. We hope you will find the equipment, 
+        resources and support to help you MAKE anything (within reason) 
+        you want to make.</p>
+        <p>You can stop in any time during our open hours, or contact us at <a
            href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>
         to schedule an appointment with a Makerspace Technologist or
-        Scholars&rsquo; Lab staff to discuss your planned project.</p>
+        Scholars&rsquo; Lab staff to discuss your project.</p>
+        <p>We love working with faculty to support class projects! Send your requests 
+          and ideas to our Makerspace Manager, Ammon Shepherd, at 
+          <a href="mailto:ammon@virginia.edu">ammon@virginia.edu</a></p>
+
+      
+      <div class="maker-inventory__subtitle">
+        <p>Use the <a id="equipment-btn" href="https://cal.lib.virginia.edu/equipment?lid=264">Library
+          Equipment Reservation site</a> to reserve equipment.</p>
+      </div>
+
+      <h3>Textiles</h3>
+      <p>We have two Bernina 350 Series sewing machines and a Juki MO-644D serger available for reservation or walk-in use.</p>
 
       <h3>3D Printing</h3>
-      <p>3D printing will be available in Spring 2024 as we build and set up
-      our new printers. </p>
-      <p>3D printing is still available through the <a href="https://www.library.virginia.edu/services/3d-printing/">3D Printing Studio</a> in the Robertson Media Center (just across the room). To use the printers, you need to complete an <a href="https://www.library.virginia.edu/services/3d-printing/">online training</a>, then reserve a 3D printer during their <a href="https://www.library.virginia.edu/hours">open hours</a>. Email <a href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a> with any questions.
+      <p>We have four <a href="https://en.wikipedia.org/wiki/Fused_filament_fabrication">FFF</a> style printers and one <a href="https://en.wikipedia.org/wiki/Stereolithography">SLA</a> printer available for reservation. To use the printers, you can come in during open hours for in-person training and on-the-spot reservation. After the in-person training, you will need to complete an on-line training to be able to reserve the printers in the future. Alternatively, you can take the online training HERE, then reserve the printer for use during our open hours. When you come for your reservation, you'll receive the in-person training.</p>
+      
+      <p>3D printing is still available through the <a href="https://www.library.virginia.edu/services/3d-printing/">3D Printing Studio</a> in the Robertson Media Center in Clemons Library. To use the printers there, you need to complete an <a href="https://www.library.virginia.edu/services/3d-printing/">online training</a>, then reserve a 3D printer during their <a href="https://www.library.virginia.edu/hours">open hours</a>. Email <a href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a> with any questions.
+
+      <h3>Laser Cutting</h3>
+      <p>We have a Universal VLS 6.75 laser cutter available for reservation. To use the laser cutter, you must <a href="https://youtu.be/2fp6pSZoJ9Q?feature=shared&t=85">watch this video</a> to learn the process of using the laser cutter. (We use the same laser cutter as the A School Fablab.) After watching the video, you will receive an in-person training before you can reserve and use the laser cutter.</p>
     </div>
   </div>
 
@@ -208,6 +226,16 @@ order: 3
          here about where the software is located (i.e., on fancy computers
     located in the Makerspace - anyone is welcome to come use.) -->
     <div class="maker-inventory__list">
+      <!-- 3D Printing -->
+      <ul class="maker-list__prototyping">
+        <span>Prototyping</span>
+        <li>Prusa Mini</li>
+        <li>Prusa i3 MK3S+ (x2)</li>
+        <li>Prusa i3 MK3S+ w/ MMU3</li>
+        <li>Prusa XL (coming soon)</li>
+        <li>FormLabs Form 2</li>
+        <li>Universal VLS 6.75, 75 watt Laser cutter</li>
+      </ul>
       <!-- Physical Computing -->
       <ul class="maker-list__physical">
         <span>Physical Computing and Electronics</span>
@@ -238,16 +266,18 @@ order: 3
       <ul class="maker-list__visual">
         <span>Graphics</span>
         <li>Wacom Cintiq 22HD graphics tablet</li>
-        <li>Adobe Creative Suite</li>
+        <li>Adobe Creative Suite, Gimp, InkScape, Krita</li>
       </ul>
       <!-- Software Suites: -->
       <ul class="maker-list__software">
         <span>Software</span>
-        <li>Agisoft PhotoScan</li>
-        <li>ArcGIS, qGIS</li>
         <li>Arduino</li>
-        <li>Fusion 360, MeshMixer, Tinkercad, SketchUp, Maya</li>
-        <li>Rhinocerous</li>
+        <li>Audacity</li>
+        <li>DaVinci Resolve</li>
+        <li>Fusion 360, MeshMixer, Tinkercad, SketchUp</li>
+        <li>PreForm, PrusaSlicer</li>
+        <li>Processing</li>
+        <li>R</li>
       </ul>
       <!-- Miscellaneous -->
       <ul class="maker-list__misc">
