@@ -1,2 +1,66 @@
-(function() {if(document.querySelector(".post-wrapper")){var postContent=document.querySelector(".post__content"),elems=postContent.children,first=elems[0];first.querySelector("em")&&first.innerText.length===first.querySelector("em").innerText.length&&(first.classList.add("post-content__letter--default"),elems[1].classList.add("post-content__letter--styled"));for(let e of elems)e.querySelector("strong")&&1===e.children.length&&e.innerText.length===e.querySelector("strong").innerText.length&&e.classList.add("post__section-title")}if(function(){var e=document.querySelector(".flexnav-main-grid"),t=e.children,r=document.querySelector(".flexnav-more__prompt"),s=document.querySelector(".flexnav-more__wrapper"),l=s.children;function resizeMenu(){for(let e of t)e.classList.remove("hidden--js");for(let e of l)e.classList.remove("hidden--js");for(var s=Array.from(t,e=>parseInt(e.offsetWidth)),a=0,o=-1;a<e.offsetWidth-r.offsetWidth;)a+=s[++o];for(var n=o;o<t.length-1;o++)t[o].classList.add("hidden--js");for(var i=0;i<n;i++)l[i].classList.add("hidden--js")}document.addEventListener("DOMContentLoaded",resizeMenu),window.addEventListener("resize",resizeMenu),r.addEventListener("click",function showSubMenu(){s.classList.toggle("show-more-menu--js"),2==s.classList.length&&window.addEventListener("click",function(e){0==e.target.classList.contains("flexnav-more__item")&&0==e.target.classList.contains("flexnav-more__prompt")&&(console.log("this is when it should hide again"),s.classList.remove("show-more-menu--js"))})})}(),document.querySelector(".home__find-us")){var spaceList=document.querySelector(".home-find__content ul"),spaceItems=document.querySelectorAll(".home-find__content ul li"),dataNames=Array.from(spaceItems,e=>e.getAttribute("data-name")),svg=document.querySelector(".home-find__diagram svg"),svgElems=document.querySelectorAll(".home-find__diagram svg g"),svgFiltered=Array.prototype.filter.call(svgElems,e=>dataNames.find(t=>t==e.id)),touchEv=new Hammer(spaceList);function highlightMatchingElem(e){if(e.target!==e.currentTarget){let t=e.target,r=svgFiltered.find(e=>e.id==t.getAttribute("data-name")).querySelectorAll('[class*="fill__"]');e.target.classList.add("highlight-text--js");for(let e of r)e.classList.add("highlight-svg--js");"tap"==e.type?touchEv.on("tap",()=>{e.target.classList.remove("highlight-text--js");for(let e of r)e.classList.remove("highlight-svg--js")}):t.addEventListener("mouseleave",()=>{e.target.classList.remove("highlight-text--js");for(let e of r)e.classList.remove("highlight-svg--js")})}"tap"!==e.type&&e.stopPropagation()}console.log(dataNames),console.log(svgElems),console.log(svgFiltered),spaceList.addEventListener("mouseover",highlightMatchingElem),touchEv.on("tap",highlightMatchingElem)}if(document.querySelector(".progress-main-wrapper"))for(var statusElems=document.querySelectorAll(".progress-item__status div"),statuses=Array.from(statusElems,e=>e.innerText.slice(1)),titleElems=document.querySelectorAll(".progress-item__name a"),numElems=document.querySelectorAll(".progress-item__num"),i=0;i<statuses.length;i++)if(console.log(statuses[i]),statuses[i].includes("prototype done")){var span=statusElems[i].querySelector("span");"rgb(255, 0, 255)"==window.getComputedStyle(span,null).getPropertyValue("color")?(statusElems[i].style.color="magenta",numElems[i].style.color="magenta",titleElems[i].style.borderBottomColor="magenta"):(statusElems[i].style.color="hsla(186,80%,70%,1)",numElems[i].style.color="hsla(186,80%,70%,1)",titleElems[i].style.borderBottomColor="hsla(186,80%,70%,1)")}if(document.querySelector(".research-landing-wrapper")){var widthOnLoad=window.innerWidth,galleryParent=document.querySelector(".research-folio__gallery-wrapper"),gallery=document.querySelector(".research-folio__gallery"),galleryItems=gallery.children,btnLeft=document.querySelector(".research-nav__btn--left"),btnRight=document.querySelector(".research-nav__btn--right"),mc=new Hammer(gallery);function moveGalleryRight(){var e=galleryItems[0].offsetWidth*Math.floor(galleryParent.offsetWidth/galleryItems[0].offsetWidth),t=galleryItems[0].offsetWidth*galleryItems.length,r=parseInt(gallery.getAttribute("data-translateX")),s=Math.floor(t/e)*e-(e-t%e);Math.floor(Math.abs(r)/e)==Math.floor(t/e)-2?(gallery.style.transform=`translateX(-${s}px)`,gallery.setAttribute("data-translateX",`-${s}`)):Math.abs(r)+e<t&&(gallery.style.transform=`translateX(-${Math.abs(r)+e}px)`,gallery.setAttribute("data-translateX",`-${Math.abs(r)+e}`))}function moveGalleryLeft(){var e=galleryItems[0].offsetWidth*Math.floor(galleryParent.offsetWidth/galleryItems[0].offsetWidth),t=parseInt(gallery.getAttribute("data-translateX"));t+e>=0?(gallery.style.transform="translateX(0px)",gallery.setAttribute("data-translateX","0")):t<0&&(gallery.style.transform=`translateX(${t+e}px)`,gallery.setAttribute("data-translateX",`${t+e}`))}function adjustForWidth(){var e=parseInt(gallery.getAttribute("data-translateX"));window.innerWidth<=500&&widthOnLoad>=500?gallery.style.transform=`translateX(-${Math.abs(e)+0}px)`:gallery.style.transform=`translateX(-${Math.abs(e)}px)`}gallery.setAttribute("data-translateX","0"),gallery.style.width=parseInt(galleryItems[0].offsetWidth*galleryItems.length)+"px",btnRight.addEventListener("click",moveGalleryRight),btnLeft.addEventListener("click",moveGalleryLeft),window.addEventListener("resize",adjustForWidth)}
+// 1. Flexible Nav:
+(function() {
+	var menu 	  = document.querySelector(".flexnav-main-grid");
+	var menuItems = menu.children;
+	var prompt 	  = document.querySelector(".flexnav-more__prompt");
+	var moreList  = document.querySelector(".flexnav-more__wrapper");
+	var moreItems = moreList.children;
+
+	// display only # items that fit, hide rest in sub-menu
+	document.addEventListener("DOMContentLoaded", resizeMenu)
+
+	// repeat on resize
+	window.addEventListener("resize", resizeMenu)
+
+	// show/hide sub-menu
+	prompt.addEventListener("click", showSubMenu);
+
+	// function definitions:
+	function resizeMenu() {
+		// un-hide all items
+		for (let item of menuItems) {
+			item.classList.remove("hidden--js");
+		}
+		for (let item of moreItems) {
+			item.classList.remove("hidden--js");
+		}
+
+		var menuItemWidths = Array.from(menuItems, item => parseInt(item.offsetWidth));
+		var sumWidth 	   = 0;
+		var i 			   = -1;
+
+		// add more items to menu until run out of room
+		while (sumWidth < (menu.offsetWidth - prompt.offsetWidth)) {
+			i++;
+			sumWidth += menuItemWidths[i];
+		}
+
+		// mark where that happens
+		var splitIndex 	  = i;
+
+		// hide post-split on main menu
+		for (i; i < (menuItems.length - 1); i++) {
+			menuItems[i].classList.add("hidden--js");
+		}
+		// hide pre-split on sub-menu
+		for (var j=0; j < splitIndex; j++) {
+			moreItems[j].classList.add("hidden--js");
+		}
+	}
+
+	function showSubMenu() {
+		// toggle if click directly
+		moreList.classList.toggle("show-more-menu--js");
+
+		// if showing and user clicks outside of it, hide again
+		if (moreList.classList.length == 2) {
+			window.addEventListener("click", function(e) {
+				if (e.target.classList.contains("flexnav-more__item") == false &&
+					e.target.classList.contains("flexnav-more__prompt") == false) {
+					console.log("this is when it should hide again");
+					moreList.classList.remove("show-more-menu--js");
+				}
+			});
+		}
+	}
 })();

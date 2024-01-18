@@ -18,6 +18,14 @@ iframe {
     width: 100%;
 }
 
+/*
+ * Possibly prevents horizontal scroll on any
+ * embeded Github gists.
+ */
+.gist td {
+	max-width: 600px;
+}
+
 /* Partials: */
 
 @import "_colors/slab-palette";
