@@ -1,9 +1,9 @@
 ---
 author: drew-macqueen
 start_date: 2024-03-14
-start_time: '2:00:00'
+start_time: '14:00:00'
 end_date: '2024-03-14'
-end_time: '3:00:00'
+end_time: '15:00:00'
 layout: events
 slug: gis-workshop-2024-spring-data-collection
 title: 'Collect Spatial Data in the Field'

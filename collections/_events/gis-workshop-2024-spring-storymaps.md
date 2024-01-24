@@ -1,9 +1,9 @@
 ---
 author: drew-macqueen
 start_date: 2024-03-27
-start_time: '2:00:00'
-end_date: '2024-03-27'
-end_time: '3:00:00'
+start_time: '14:00:00'
+end_date: '2024-03-27
+end_time: '15:00:00'
 layout: events
 slug: gis-workshop-2024-spring-storymaps
 title: 'Introduction to ArcGIS StoryMaps'

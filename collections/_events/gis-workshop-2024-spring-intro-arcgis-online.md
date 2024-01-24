@@ -1,9 +1,9 @@
 ---
 author: drew-macqueen
 start_date: 2024-01-31
-start_time: '2:00:00'
+start_time: '14:00:00'
 end_date: '2024-01-31'
-end_time: '3:00:00'
+end_time: '15:00:00'
 layout: events
 slug: gis-workshop-2024-spring-intro-arcgis-online
 title: 'Introduction to ArcGIS Online'
