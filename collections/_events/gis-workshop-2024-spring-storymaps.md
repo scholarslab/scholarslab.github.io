@@ -2,7 +2,7 @@
 author: drew-macqueen
 start_date: 2024-03-27
 start_time: '14:00:00'
-end_date: '2024-03-27
+end_date: '2024-03-27'
 end_time: '15:00:00'
 layout: events
 slug: gis-workshop-2024-spring-storymaps
