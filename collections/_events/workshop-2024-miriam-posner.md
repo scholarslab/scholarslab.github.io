@@ -7,7 +7,7 @@ end_time: '14:00:00'
 layout: events
 slug: workshop-2024-miriam-posner
 title: "Intro to DH Workshop with Miriam Posner"
-location: "Alderman 308 (Scholars' Lab Common Room)"
+location: "Alderman 330"
 ---
 
 Please join us (and especially invite any potentially interested students!) to an Intro to DH workshop by Miriam Posner. The event is open to all to join, and we will have sandwiches! Anyone is welcome, especially those who are tech or DH-curious, and perhaps not yet experienced with working with data.
