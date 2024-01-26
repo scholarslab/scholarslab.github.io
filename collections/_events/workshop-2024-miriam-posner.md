@@ -10,7 +10,7 @@ title: "Intro to DH Workshop with Miriam Posner"
 location: "Alderman 308 (Scholars' Lab Common Room)"
 ---
 
-Please join us (and especially invite any potentially interested students!) to an Intro to DH workshop by Miriam Posner. Dr. Posner will be speaking to Alison Booth’s Introduction to DH class, but the event is open to all to join, and we will have sandwiches! Anyone is welcome, especially those who are tech or DH-curious, and perhaps not yet experienced with working with data.
+Please join us (and especially invite any potentially interested students!) to an Intro to DH workshop by Miriam Posner. The event is open to all to join, and we will have sandwiches! Anyone is welcome, especially those who are tech or DH-curious, and perhaps not yet experienced with working with data.
 
 To get a sense of Dr. Posner's teaching, check out her vast tutorials list: <a href="https://miriamposner.com/blog/tutorials-ive-written/">https://miriamposner.com/blog/tutorials-ive-written/</a>
 
