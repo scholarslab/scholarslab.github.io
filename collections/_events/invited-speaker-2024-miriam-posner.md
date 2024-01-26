@@ -7,7 +7,7 @@ end_time: '11:30:00'
 layout: events
 slug: invited-speaker-2024-miriam-posner
 title: "DH Speaker Series: Miriam Posner: Seeing Like a Supply Chain"
-location: "Alderman 308 (Scholars' Lab Common Room)"
+location: "Alderman 330"
 ---
 
 Please join us for a conversation with Miriam Posner, co-sponsored by the Scholars' Lab, New Literary History, and the Institute for Humanities & Global Cultures.
