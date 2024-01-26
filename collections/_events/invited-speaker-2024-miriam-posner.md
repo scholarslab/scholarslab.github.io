@@ -6,8 +6,8 @@ end_date: '2024-02-02'
 end_time: '11:30:00'
 layout: events
 slug: invited-speaker-2024-miriam-posner
-title: 'DH Speaker Series — Miriam Posner: Seeing Like a Supply Chain'
-location: 'Alderman 308 (Scholars' Lab Common Room)'
+title: "DH Speaker Series: Miriam Posner: Seeing Like a Supply Chain"
+location: "Alderman 308 (Scholars' Lab Common Room)"
 ---
 
 Please join us for a conversation with Miriam Posner, co-sponsored by the Scholars' Lab, New Literary History, and the Institute for Humanities & Global Cultures.
@@ -18,4 +18,4 @@ Miriam Posner is an assistant professor at the UCLA Department of Information St
 
 This event is free and open to the public. All all welcome. 
 
-This is an in-person event; please register at <a href="https://cal.lib.virginia.edu/calendar/events/MiriamPosner">https://cal.lib.virginia.edu/calendar/events/MiriamPosner</a> to help us prepare for audience size.
+This is an in-person event; please register at <a href="https://cal.lib.virginia.edu/calendar/events/MiriamPosner">cal.lib.virginia.edu/calendar/events/MiriamPosner</a> to help us prepare for audience size.
