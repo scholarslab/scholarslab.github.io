@@ -25,7 +25,7 @@ end
 desc "Install dependencies"
 task :install_dependencies do
     sh 'bundle install'
-    sh 'npm install'
+    sh 'npm install --loglevel verbose'
 end
 
 desc "Build the site."
