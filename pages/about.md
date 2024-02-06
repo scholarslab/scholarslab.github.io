@@ -103,7 +103,7 @@ In the process of working together, we've found that collaborators learn from on
 
 ## Where are you?
 
-Due to the renovation of UVA's main library (formerly known as Alderman Library), Scholars' Lab has moved to the third floor of Clemons during the renovation. We'll be returning to the main library once renovation is completed.
+Scholars' Lab has returned to UVA's Main Library (formerly known as Alderman Library)! We are located in Room 308, in the East Wing of the 3rd floor.
 
 ## How do I contact you?
 For general inquiries, write to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
