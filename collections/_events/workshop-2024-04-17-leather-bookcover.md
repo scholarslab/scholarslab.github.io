@@ -11,7 +11,7 @@ slug: workshop-2024-04-17-leather-bookcover
 title: "Make a leather book cover"
 ---
 
-![Make a leather book cover](/assets/post-media/workshops/bookcover.jpg)
+![Make a leather book cover](/assets/post-media/workshops/leather-book-cover.jpg)
 
 Do you have a favorite book you want to keep protected? Come make a leather bookcover! 
 
