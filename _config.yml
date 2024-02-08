@@ -12,7 +12,6 @@ permalink: /:title/
 timezone: America/New_York
 # Build settings
 analytics: true
-incremental: true
 sass:
   sass_dir: assets/css/_sass
   style: compressed
@@ -72,4 +71,3 @@ defaults:
     values:
       order: 10
       og_type: "website"
-      regenerate: true
