@@ -23,7 +23,7 @@ order: 1
 ## What is the Scholars' Lab?
 Scholars' Lab is the <a href="http://library.virginia.edu">UVA Library</a>'s community lab for the practice of experimental scholarship in all disciplines, informed by digital humanities, spatial technologies, and cultural heritage approaches.
 
-We offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches. We're foremost a space for learning together—about anything—by trying stuff. Think of us as friends and colleagues who can help you teach yourself new ways of approaching your interests.
+As a research center, we offer mentoring, collaboration, and a safe and supportive community experience for anyone curious about learning to push disciplinary and methodological boundaries through new approaches. We're foremost a space for learning together—about anything—by trying stuff. Think of us as friends and colleagues who can help you teach yourself new ways of approaching your interests.
 
 We are an internationally recognized scholarly [team](/people/), with strengths including:
 - the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
@@ -82,14 +82,14 @@ Although we bring library, digital humanities, spatial technologies, & cultural 
 ## What opportunities are available for students?
 We work with a number of students each year in a variety of ways!
 
-If you're interested in what we do, please get in contact with us–in addition to our formal student opportunities, we try to match known students with informal opportunities as they arise, and can help with a variety of needs including mock job interviews, career networking, and [more](/professional-development/). You can set up a friendly consultation by emailing ScholarsLab@Virginia.edu, talk to our Head of Student Programs [Brandon Walsh](/people/brandon-walsh/), speak with us before or after any of our [events](/events), or drop by our [Makerspace](/makerspace) when it's open. We also share opportunities via our [@ScholarsLab Twitter account](https://twitter.com/scholarslab) and on our [blog](/blog).
+If you're interested in what we do, please get in contact with us–in addition to our formal student opportunities, we try to match known students with informal opportunities as they arise, and can help with a variety of needs including mock job interviews, career networking, and [more](/professional-development/). You can set up a friendly consultation by emailing ScholarsLab@Virginia.edu, talk to our Head of Student Programs [Brandon Walsh](/people/brandon-walsh/), speak with us before or after any of our [events](/events), or drop by our [Makerspace](/makerspace) when it's open. We also share opportunities via our [@ScholarsLab Bluesky account](https://bsky.app/profile/scholarslab.bsky.social) and on our [blog](/blog).
 
 Training the next generation of DH, GIS, and CHI scholars is an area where we are uniquely prominent in the DH community. You can read about some of our more developed collaborations with students in our [archive of past student projects](/work#student-projects-archive).
 
 Each year we make a structured, formal investment in the mentorship, training, and research support of around 60 student roles, including GIS Interns, Cultural Heritage Informatics Interns, Praxis Fellows, DH Fellows, LAMI Fellows, VR/CHI Documentation Interns, and Makerspace Technicians. We support further students via consultation, collaboration, events, and teaching. Please visit our [For Students](/for-students/) page to learn more about these formal opportunities.
 
 ## How does the Lab fit into the UVA Library?
-The Scholars' Lab was founded in 2006. We’re part of <a href="http://library.virginia.edu">the UVA Library</a> and its mission to provide equitable access to knowledge and learning to everyone. Organizationally, we sit in the Library's Research & Learning Services unit led by Mira Waller. We frequently collaborate with our Library colleagues, including Preservation, Special Collections, Teaching & Learning, and subject liaison librarians. Although we're not just a DH center, we're also part of the [DH@UVA](https://dh.virginia.edu) ecosystem of teams and people doing digital humanities and cultural heritage work on Grounds.
+The Scholars' Lab was founded in 2006. We’re part of <a href="http://library.virginia.edu">the UVA Library</a> and its mission to provide equitable access to knowledge and learning to everyone. Organizationally, we sit in the Library's Research & Learning Services unit led by Mira Waller. We frequently collaborate with our Library colleagues, including Preservation, Special Collections, Teaching & Learning, and subject liaison librarians.
 
 ## Who are the scholars in "Scholars' Lab"?
 Everyone! We define scholarship as one part critical thinking plus one part communicating the results of that thinking. Critical thinking can be accomplished through many methods, including research, writing, coding, building, designing, experimenting, and play. Communicating critical thinking can take the form of traditional publishing or other forms of “making public” such as tweeting and blogging, teaching, sharing open source code, or any other way for your intellectual community to learn from, critique, evaluate, and/or build on your work. When we refer to scholars, that includes anyone critically engaging with a concept: students, staff, faculty, and community members. On our website, the page that often gets titled "Projects" or "Research" or "Scholarship" on similar websites is titled "Our Work", to better reflect that our scholarship covers a broad variety of work.
@@ -103,7 +103,7 @@ In the process of working together, we've found that collaborators learn from on
 
 ## Where are you?
 
-Scholars' Lab has returned to UVA's Main Library (formerly known as Alderman Library)! We are located in Room 308, in the East Wing of the 3rd floor.
+Scholars' Lab has returned to UVA's Alderman Library! We are located on the East Wing of the 3rd floor; our Common Room is Alderman 308, and our various other public and private offices are adjacent (and labeled as 308A-308L). 
 
 ## How do I contact you?
 For general inquiries, write to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
@@ -114,7 +114,7 @@ For GIS-specific questions, contact [uvagis@virginia.edu](mailto:uvagis@virginia
 
 For inquiries about our Makerspace, write to [slabmakerspace@virginia.edu](mailto:slabmakerspace@virginia.edu).
 
-We are also on Twitter [@ScholarsLab](https://twitter.com/ScholarsLab) and on Mastodon at [hcommons.social/@scholarslab](https://hcommons.social/@scholarslab), though we do not currently monitor replies nor DMs to those accounts.
+We are active posting on [Bluesky](https://bsky.app/profile/scholarslab.bsky.social), though we do not currently monitor replies to that account.
 
 ## How was this website made?
 This website contains the collective effort of our [staff and collaborators](/people), past and present. The website has existed in multiple forms: most recently, as a WordPress site (?-2018) and now a Jekyll-generated static website (2018-current).
