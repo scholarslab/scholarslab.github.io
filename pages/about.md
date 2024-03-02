@@ -103,7 +103,7 @@ In the process of working together, we've found that collaborators learn from on
 
 ## Where are you?
 
-Scholars' Lab has returned to UVA's Alderman Library! We are located on the East Wing of the 3rd floor; our Common Room is Alderman 308, and our various other public and private offices are adjacent (and labeled as 308A-308L). 
+Scholars' Lab has returned to UVA's Edgar Shannon Library (formerly Alderman Library)! We are located on the East Wing of the 3rd floor; our Common Room is Shannon 308, and our various other public and private offices are adjacent (and labeled as 308A-308L). 
 
 ## How do I contact you?
 For general inquiries, write to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu).
