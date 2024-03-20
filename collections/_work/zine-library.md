@@ -26,3 +26,6 @@ The project includes:
 * The project began pre-pandemic as a "Zine Wall" in a semi-public space that offered free copies of interesting zines as we happened upon them, and via cross-Library working group meetings and a Slack channel.
 * The zine project was virtual-only during the renovation of SLab's physical space in the Main Library (2020-2023).
 * In 2024, zines will return to our public space in the renovated Shannon Library (SLab Common Room, Shannon 308).
+
+## Policy
+We welcome visitors to leave zines in our Common Room (Shannon 308) that they'd like us to distribute there, and/or include a copy in our non-public zine backup archive; you are also welcome to email us digital versions of zines. We reserve the right to remove and recycle any zines left in our public space for any reason, or to decline to print zine copies or include a zine in our catalogue. This includes if we find zines too unrelated to or antithetical to our values or work. If you have zines you'd like to share but are uncertain whether they'll fit our policy, you can email <a href="https://scholarslab.lib.virginia.edu/people/amanda-visconti/">Amanda Wyatt Visconti</a> to check.
