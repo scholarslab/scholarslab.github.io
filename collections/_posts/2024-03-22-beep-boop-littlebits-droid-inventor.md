@@ -6,6 +6,9 @@ slug: beep-boop-littlebits-droid-inventor
 title: Beep-boop: littleBits Droid Inventor
 categories:
 - Makerspace
+tags:
+- electronics
+- programming
 ---
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-r2.JPG)
 
