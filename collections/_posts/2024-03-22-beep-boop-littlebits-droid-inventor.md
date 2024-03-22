@@ -96,3 +96,5 @@ Now that it's built, all that’s left is to drive it. Again, the app that was m
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-03-23-driving1.png)
 
 This will allow you to drive the droid around and have it make various sounds. However, it seems without the official app a lot of functionality is no longer available. I was unable to get the proximity sensor to work, so the ability of the droid to learn and navigate a room on its own has been lost with the app.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8G5DyvODO8U?si=hFSTgBKwroF-RSJr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
