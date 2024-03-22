@@ -91,7 +91,7 @@ Note: I have no idea where to put these parts, the box came with no mounting mec
 
 ## Driving
 
-Now that it is built, all that’s left is to drive it. Again, the app that was meant to control the astromech droid no longer exists. Luckily, I was able to find a program that deals with this issue, to an extent. [Meetar](https://github.com/meetar/littlebits-r2d2-controls/tree/main/HTML-Joysticks-master) on github  has created an open source program to drive the droid. Once the files are downloaded, run the bluetoothtest.html file to see if your device can sync to the droid (I used my laptop). If successful, begin testing the different interface versions to see which one works best for you, personally I found interface6 to be the most reliable. Some of the other iterations would not let me drive backwards.
+Now that it's built, all that’s left is to drive it. Again, the app that was meant to control the astromech droid no longer exists. Luckily, I was able to find a program that deals with this issue, to an extent. [Meetar](https://github.com/meetar/littlebits-r2d2-controls/tree/main/HTML-Joysticks-master) on github  has created an open source program to drive the droid. Once the files are downloaded, run the bluetoothtest.html file to see if your device can sync to the droid (I used my laptop). If successful, begin testing the different interface versions to see which one works best for you, personally I found interface6 to be the most reliable. Some of the other iterations would not let me drive backwards.
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-03-23-driving1.png)
 
