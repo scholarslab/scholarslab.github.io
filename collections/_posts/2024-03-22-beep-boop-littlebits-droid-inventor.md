@@ -3,7 +3,7 @@ author: kroesna-chour
 date: 2024-03-22
 layout: post
 slug: beep-boop-littlebits-droid-inventor
-title: Beep-boop: littleBits Droid Inventor
+title: "Beep-boop: littleBits Droid Inventor"
 categories:
 - Makerspace
 tags:
@@ -19,18 +19,18 @@ There are three main sections of the droid: the electronics, the chassis, and th
 ## Electronics
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-electronics-1.JPG)
 
-1. Connect the adapter to the 9 volt battery and plug the adapter into the port on the dark blue component labeled P4 Power
+* Connect the adapter to the 9 volt battery and plug the adapter into the port on the dark blue component labeled P4 Power
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-electronics2.JPG)
 
-2. Attach the P4 Power module to the control hub, on the side with a singular adapter
+* Attach the P4 Power module to the control hub, on the side with a singular adapter
 
-3. There will be a longer connector with Wire In and Wire Out labels. The W1 Wire Out connector will plug into the top port (1) on the control hub and the W1 Wire Out connector will plug into the pink component labeled Proximity Sensor
+* There will be a longer connector with Wire In and Wire Out labels. The W1 Wire Out connector will plug into the top port (1) on the control hub and the W1 Wire Out connector will plug into the pink component labeled Proximity Sensor
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-electronics-3.JPG)
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-electronics-4.JPG)
 
-4. Connect the component labeled 011 Servo to the middle connector (2) of the control hub and the component labeled 025 dc motor to the bottom connector (3) of the control hub. This setup will make mounting the electronics to the chassis easier. 
+* Connect the component labeled 011 Servo to the middle connector (2) of the control hub and the component labeled 025 dc motor to the bottom connector (3) of the control hub. This setup will make mounting the electronics to the chassis easier. 
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-electronics-5.JPG)
 
@@ -38,32 +38,32 @@ There are three main sections of the droid: the electronics, the chassis, and th
 ## Chassis
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-1.JPG)
 
-1. The box like section of the chassis has a rectangular opening, this slots into the other section of the chassis
+* The box like section of the chassis has a rectangular opening, this slots into the other section of the chassis
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-2.JPG)
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-3.JPG)
 
-2. The gear has a larger side and a smaller side that corresponds with the openings on the chassis. Secure the gear with the axle, then secure the wheels on the ends of the axle.
+* The gear has a larger side and a smaller side that corresponds with the openings on the chassis. Secure the gear with the axle, then secure the wheels on the ends of the axle.
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-4.JPG)
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-5.JPG)
 
-3. Attach the small wheel to the peg on the servo and connect the cover shown below to the top of the servo, this is how it will mount to the rest of the chassis.
+* Attach the small wheel to the peg on the servo and connect the cover shown below to the top of the servo, this is how it will mount to the rest of the chassis.
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-6.JPG)
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-7.JPG)
 
-4. Attach the battery holder to the battery, this is how the battery will mount to the chassis.
+* Attach the battery holder to the battery, this is how the battery will mount to the chassis.
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-8.JPG)
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-9.JPG)
 
-5. Attach the dc motor to the bottom of the chassis, make sure the gears on the motor mesh with the gears on the chassis, this will power the wheels. Attach the servo to the front of the chassis, there will be a section with four holes for the servo mount to attach to, this will allow the droid to turn.
+* Attach the dc motor to the bottom of the chassis, make sure the gears on the motor mesh with the gears on the chassis, this will power the wheels. Attach the servo to the front of the chassis, there will be a section with four holes for the servo mount to attach to, this will allow the droid to turn.
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-10.JPG)
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-11.JPG)
 
-6. Mount the battery to the back of the chassis and the rest of the electronics to the front, this will allow the lights to shine through the front like a real astromech droid. It also just looks cooler with the electronics visible in the front
+* Mount the battery to the back of the chassis and the rest of the electronics to the front, this will allow the lights to shine through the front like a real astromech droid. It also just looks cooler with the electronics visible in the front
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-12.JPG)
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-chassis-13.JPG)
@@ -71,20 +71,20 @@ There are three main sections of the droid: the electronics, the chassis, and th
 ## Frame
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-frame-1.JPG)
 
-1. Carefully attach the bottom of the frame to the bottom of the chassis. There is a locking mechanism that will secure it. Make sure to avoid clamping any cables when attaching the frame. 
+* Carefully attach the bottom of the frame to the bottom of the chassis. There is a locking mechanism that will secure it. Make sure to avoid clamping any cables when attaching the frame. 
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-frame-2.JPG)
 
-2. Slot the main section of the frame over the chassis, connect it to the bottom section of the frame
+* Slot the main section of the frame over the chassis, connect it to the bottom section of the frame
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-frame-3.JPG)
 
-3. Attach the arms to the frame. They will be labeled with L and R. L goes into L and R goes into R. Make sure there is clearance between the bottom sections of the arms and the wheels, so the wheels can spin unimpeded.
+* Attach the arms to the frame. They will be labeled with L and R. L goes into L and R goes into R. Make sure there is clearance between the bottom sections of the arms and the wheels, so the wheels can spin unimpeded.
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-frame-4.JPG)
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-frame-5.JPG)
 
-4. Once you put the head on, you will have completed the astromech droid. You can put stickers on it now to give it more character. It comes with red, white and blue stickers. I ended up using straight blue because R2D2 is canonically blue.  
+* Once you put the head on, you will have completed the astromech droid. You can put stickers on it now to give it more character. It comes with red, white and blue stickers. I ended up using straight blue because R2D2 is canonically blue.  
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/Kroesna-blog-draft/assets/post-media/2024-05-23-frame-6.JPG)
 
