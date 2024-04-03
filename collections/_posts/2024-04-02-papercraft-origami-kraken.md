@@ -183,6 +183,6 @@ If you've ever been to the Scholar's Lab Makerspace, you have at one point or an
 
 ![](https://github.com/scholarslab/scholarslab.org/blob/kroesna-blog-post/assets/post-media/2024-04-02%20Octo%2051.JPG)
 
-Congrats!!! You have created an origami kraken.
+Congrats!!! You have successfully made an origami kraken. 
 
 
