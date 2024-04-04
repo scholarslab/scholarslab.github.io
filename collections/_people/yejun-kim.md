@@ -1,13 +1,13 @@
 ---
 department: None
 email: None
-first_name: Henry
+first_name: Yejun
 last_name: Kim
 layout: people
-title: Henry Kim
-position:
+title: Yejun Kim
+position: Makerspace Technologist
 short_bio:
-slug: henry-tim
+slug: yejun-tim
 status: current
 twitter: None
 website: None
@@ -16,3 +16,5 @@ people-category:
 roles:
 - Makerspace Technologist, 2022
 ---
+
+Electronics, CAD

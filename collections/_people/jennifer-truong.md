@@ -1,13 +1,13 @@
 ---
 department: None
 email: None
-first_name: Jordan
-last_name: Phan
+first_name: Jennifer
+last_name: Truong
 layout: people
-title: Jordan Phan
+title: Jennifer Truong
 position: Makerspace Technologist
 short_bio:
-slug: Jordan-phan
+slug: jennifer-truong
 status: current
 twitter: None
 website: None
@@ -17,4 +17,4 @@ roles:
 - Makerspace Technologist, 2023-current
 ---
 
-Expert in sewing, textiles, Button Maker, Silhouette Cameo 4 Plus Desktop Cutting Machine
+Expert in Button Making, Stickers, Wacom Drawing Tablet, Digital Artwork

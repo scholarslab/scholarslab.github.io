@@ -8,7 +8,7 @@ title: Sarah Hemler
 position:
 short_bio:
 slug: sarah-hemler 
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
