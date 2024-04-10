@@ -2,7 +2,7 @@
 author: amanda-visconti
 date: 2024-04-10
 layout: post
-slug: zine-metadata
+slug: zine-collecting-metadata
 title: "Metadata for Zine Collecting"
 categories:
 - Digital Humanities
