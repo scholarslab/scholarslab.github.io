@@ -11,6 +11,9 @@ tags:
 - alt-ac
 - altac
 - career opportunities
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2017/06/27/inclusive-tech-hiring-digital-humanities-developer
 ---
 
 _Note: Applications for this position have closed. [Welcome to new Scholars' Lab DH Developer Zoe LeBlanc](http://scholarslab.org/announcements/welcome-new-dh-developer-zoe-leblanc/)!_

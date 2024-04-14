@@ -8,6 +8,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2020/01/29/digital-humanities-bread
 ---
 This is a talky and unpolished post, and I think it's good to sometimes share thinking in that format. I will try to... rise to the occasion.
 
