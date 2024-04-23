@@ -51,7 +51,7 @@ Charlottesville is on the east coast so select New York as the Time Zone.
 ![](/assets/post-media/pitime/2024-04-23-pi12.png)
 
 Hit finish.
-![](/assets/post-media/pitime/2024-04-23-pi34.png)
+![](/assets/post-media/pitime/2024-04-23-pi4.png)
 
 Congrats!!! You have set up your Raspberry Pi to its accurate date and time. You should be able to freely access the web now. 
 
