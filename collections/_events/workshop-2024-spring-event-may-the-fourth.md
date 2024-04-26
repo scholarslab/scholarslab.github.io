@@ -2,11 +2,11 @@
 instructor: Ammon Shepherd
 author: ammon-shepherd
 start_date: 2024-05-03
-end_date: 2024-05-03
-start_time: ""
-end_time: ""
+end_date: '2024-05-03'
+start_time: "11:00:00"
+end_time: "16:00:00"
 layout: makerspace
-location: "Scholars' Lab Makerspace - Alderman 308i"
+location: "Scholars' Lab Makerspace - Shannon 308i"
 slug: workshop-2024-spring-event-may-the-fourth
 title: "May the 4th"
 ---
