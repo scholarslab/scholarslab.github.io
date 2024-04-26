@@ -20,7 +20,11 @@ The first thing you want to do is open up your terminal. The command: man date, 
 
 Don't worry, you won't be forced to read through all of that documentation.
 
-The following code will allow you to set the time to whatever you desire, ideally the current time. Follow this format: sudo date -s "WeekDay Month NumericDay hour:minute:second timezone year". Do not forget to put quotations before the day of the week and after the year. The time also needs to be based off a 24 hour clock so that am and pm are accurate. 
+The following code will allow you to set the time to whatever you desire, ideally the current time. Follow this format: 
+
+<code>sudo date -s "WeekDay Month NumericDay hour:minute:second timezone year"</code> 
+
+Do not forget to put quotations before the day of the week and after the year. The time also needs to be based off a 24 hour clock so that am and pm are accurate. 
 
 ![](/assets/post-media/pitime/2024-04-23-pi3.png)
 
@@ -28,7 +32,9 @@ Wait a few seconds and the clock and calendar in the corner of your screen shoul
 
 If your timezone is still wrong, follow the next steps. If your timezone is accurate, you are good to go. 
 
-Go back to the terminal and enter:sudo raspi-config
+Go back to the terminal and enter:
+
+<code>sudo raspi-config</code>
 
 ![](/assets/post-media/pitime/2024-04-23-pi7.png)
 
