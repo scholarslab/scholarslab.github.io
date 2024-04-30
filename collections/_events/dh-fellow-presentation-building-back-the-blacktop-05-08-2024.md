@@ -1,9 +1,9 @@
 ---
 author: brandon-walsh
-start_date: 2024-05-08
-start_time: '10:30:00'
+start_date: 2024-05-09
+start_time: '12:00:00'
 end_date: '2024-05-08'
-end_time: '12:00:00'
+end_time: '13:30:00'
 layout: events
 slug: dh-fellow-presentation-building-back-the-blacktop-05-08-2024
 title: 'DH Fellow Presentation: "Building Back The Blacktop: Digital Humanities, Historic Preservation, and Activating the Archive"'
