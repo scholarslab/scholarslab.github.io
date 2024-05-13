@@ -3,7 +3,7 @@ author: kroesna-chour
 date: 2024-05-07
 layout: post
 slug: mechanical-keyboards-switch-basics
-title: "Mechanical Keyboards:Switch Basics"
+title: "Mechanical Keyboards: Switch Basics"
 categories:
 - Makerspace
 tags:
