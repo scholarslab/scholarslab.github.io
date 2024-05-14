@@ -60,7 +60,7 @@ Stitch wins with 16 votes. Thread Lasso comes in second with 8 votes. There was 
 
 Sergent Pepper wins a tie breaker with Judge Juki, each had 8 votes. 
 
-[![Stitch wins!](/assets/post-media/equipment-names/stitch.png)](/assets/post-media/equipment-names/sergent-pepper.png)
+[![Stitch wins!](/assets/post-media/equipment-names/sergent-pepper.png)](/assets/post-media/equipment-names/sergent-pepper.png)
 
 </div>
 
