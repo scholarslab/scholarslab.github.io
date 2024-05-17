@@ -2,8 +2,8 @@
 author: kroesna-chour
 date: 2024-05-17
 layout: post
-slug: new-equipment-prusa-xl
-title: "New Equipment: Prusa XL"
+slug: new-in-the-makerspace-prusa-xl
+title: "New in the Makerspace: Prusa XL"
 categories:
 - Makerspace
 tags:
