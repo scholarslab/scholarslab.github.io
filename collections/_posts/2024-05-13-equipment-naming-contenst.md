@@ -143,6 +143,19 @@ Vader wins with 9 votes. Major Lazer comes in second with 8 votes. Both cool nam
 
 </div>
 
+<div class="vote">
+
+## Othermill Desktop CNC
+
+![Desktop CNC](/assets/post-media/equipment-names/othermill.jpg)
+
+Whittle Prince wins with 9 votes. Jill the Drill Mill comes in second with 8 votes.
+
+[![Whittle Prince wins!](/assets/post-media/equipment-names/whittle-prince.png)](/assets/post-media/equipment-names/whittle-prince.png)
+
+</div>
+
+
 
 <div class="vote">
 
