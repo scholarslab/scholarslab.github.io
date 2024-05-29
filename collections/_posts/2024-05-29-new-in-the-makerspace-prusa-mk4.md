@@ -11,3 +11,9 @@ tags:
 - prusa
 - equipment
 ---
+
+![](/assets/post-media/2024-05-29-mk4/2024-05-29-mk41.jpg)
+
+
+
+![](/assets/post-media/2024-05-29-mk4/2024-05-29-mk42.JPG)
