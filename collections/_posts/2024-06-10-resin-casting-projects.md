@@ -10,10 +10,10 @@ tags:
 - resin
 ---
 
+I completed two resin casting projects recently: a full-size skull, and a light-up TTRPG dice necklace.
+
 ![Photo of a full-size-skull (front half) made of translucent resin, with embedded ramen noodle block in the brain area, and chatter teeth in the teeth area, held up to the sun so the light shines through the translucent resin from the back.](https://www.amandavisconti.com/wp-content/uploads/2024/05/IMG_7885-768x1024.png)
 ![Photo of a person in a dark room, wearing a necklace of TTRPG transparent resin dice lit up from inside with LEDs in various colors](https://www.amandavisconti.com/wp-content/uploads/2024/05/IMG_7870-769x1024.png)
-
-I completed two resin casting projects recently: a full-size skull, and a light-up TTRPG dice necklace.
 
 # Memento mori (skull)
 
