@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
 	{% include head.html %}
 
 	<body>
+		<header role="banner" id="banner">
+		{% include library-banner.html %}
+		{% include title.html %}
 		{% include navbar.html %}
-
+		</header>
 		<main id="main" role="main">
 			{{ content }}
 		</main>
-
 		{% include footer.html %}
 
 		<script src="{{ '/assets/js/main.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>

@@ -1,40 +1,8 @@
-<div id="library-banner">
-    <a href="https://www.library.virginia.edu" aria-label="University of Virginia Library" id="library-link">{% include library-logotype.html %}</a>
-</div>
-<div class="flexnav-wrapper">
-	<div class="flexnav-main">
-		<div class="flexnav__home-icon">
-			<a href="{{ site.url }}" id="slab-logo" aria-label="Scholars' Lab home">
-				{% include nav-logo.html %}
-            </a>
-		</div>
-
-		<ul class="flexnav-main-grid">
-		{% assign pages = site.pages | sort: 'order' %}
-		{% for page in pages %}
-		{% unless page.url contains "/page/" or page.nav == false %}
-		{% if page.layout != nil %}
-			<li class="flexnav__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
-		{% endif %}
-		{% endunless %}
-		{% endfor %}
-			<li class="flexnav__more-menu">
-				<div class="flexnav-more__prompt" aria-label="More menu items">More<span>&rsaquo;</span></div>
-				<ul class="flexnav-more__wrapper">
-				{% for page in pages %}
-				{% unless page.url contains "/page" or page.nav == false %}
-				{% if page.layout != nil %}
-					<li class="flexnav-more__item"><a href="{{ page.url }}">{{ page.title | replace: ' and ', ' &amp; ' }}</a></li>
-				{% endif %}
-				{% endunless %}
-				{% endfor %}
-				</ul>
-			</li>
-		</ul>
-	</div> <!-- end content -->
-</div> <!-- end wrapper -->
-<div id="alert-message">
-<p>The Scholars’ Lab staff is offering a mix of remote and in-person
-consultations, workshops, and events. Visit our <a
-href="https://scholarslab.lib.virginia.edu/makerspace/">Makerspace</a> or contact us at <a href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a> to schedule a GIS, VR, or digital project consultation.</p>
-</div>
+<nav id="primary-navigation">
+<a href="">Opportunities</a>
+<a href="">Code + Design</a>
+<a href="">Makerspace</a>
+<a href="">Spatial Tech</a>
+<a href="">Our Work</a>
+<a href="">More</a>
+</nav>
