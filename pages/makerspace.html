@@ -1,5 +1,5 @@
 ---
-layout: makerspace-home
+layout: page
 title: Makerspace
 permalink: /makerspace/
 excerpt: "Our makerspace is a place for crafting, tinkering, and experimentation with technologies like 3D printing,
@@ -8,30 +8,13 @@ nav: true
 order: 3
 ---
 
-<div class="makerspace-landing-grid">
-  <div class="maker-landing__big-title">
-    <div class="maker-title__text">Makerspace</div>
-  </div>
-  <div class="maker-landing__pics">
-    <div></div>
-    <div></div>
-    <div></div>
-    <!--img src="http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-1024x682.jpg" alt="Partially assembled Sparkfun Inventor&#039;s Kit, with an Arduino board, breadboard, and soldering iron" srcset="http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px">
-    <img src="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-1024x682.jpg" alt="Details of Makerbot Replicator printer" srcset="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px">
-    <img
-    src="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-1024x682.jpg"
-    alt="The Makerspace printer desk" srcset="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"-->
-  </div>
-</div>
-
-<div class="makerspace-main-content">
   <div class="makerspace__ethos">
-    <div class="banner" style="border: 5px solid #00FFFF; padding: 20px;">
+    <div class="banner">
       <h2>New Location!</h2>
       <p>The Scholars&rsquo; Lab and the Makerspace (formerly TinkerTank) have
       moved back to the Edgar Shannon Library (formerly Alderman), 3rd Floor.</p>
       <p>Look to our <a
-          href="https://scholarslab.lib.virginia.edu/events/">events page</a> 
+          href="https://scholarslab.lib.virginia.edu/events/">events page</a>
       for upcoming workshops and events!</p>
       <p><img
       src="/assets/img/makerspace/3rd-floor.png"
@@ -44,14 +27,14 @@ order: 3
 
   <div class="makerspace__hours">
     <div id="makerspace-hours" class="maker-hours__title">Open Hours and Access</div>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
-    <script src="https://cal.lib.virginia.edu/js/hours_grid.js?002"></script> 
-    <div id="s-lc-whw2093"></div> 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cal.lib.virginia.edu/js/hours_grid.js?002"></script>
+    <div id="s-lc-whw2093"></div>
     <script>
-      $(function(){ 
-        var week2093= new $.LibCalWeeklyGrid( $("#s-lc-whw2093"), { iid: 863, lid: 2093, systemTime: false }); 
+      $(function(){
+        var week2093= new $.LibCalWeeklyGrid( $("#s-lc-whw2093"), { iid: 863, lid: 2093, systemTime: false });
       });
-    </script> 
+    </script>
 
     <p>The Makerspace staff provides consultations and instruction for all your
     electronics, crafting, textiles, laser cutting, and 3D printing projects <a
@@ -118,20 +101,20 @@ order: 3
     <div class="maker-usage__title">Using the Makerspace</div>
     <div class="maker-usage__content">
       <!-- split internally per prototype drawing -->
-      <p>The Makerspace is open to all UVA students, staff and faculty, 
-        regardless of department, major, academic or personal interests, 
-        or any other characteristic. We hope you will find the equipment, 
-        resources and support to help you MAKE anything (within reason) 
+      <p>The Makerspace is open to all UVA students, staff and faculty,
+        regardless of department, major, academic or personal interests,
+        or any other characteristic. We hope you will find the equipment,
+        resources and support to help you MAKE anything (within reason)
         you want to make.</p>
         <p>You can stop in any time during our open hours, or contact us at <a
            href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>
         to schedule an appointment with a Makerspace Technologist or
         Scholars&rsquo; Lab staff to discuss your project.</p>
-        <p>We love working with faculty to support class projects! Send your requests 
-          and ideas to our Makerspace Manager, Ammon Shepherd, at 
+        <p>We love working with faculty to support class projects! Send your requests
+          and ideas to our Makerspace Manager, Ammon Shepherd, at
           <a href="mailto:ammon@virginia.edu">ammon@virginia.edu</a></p>
 
-      
+
       <div class="maker-inventory__subtitle">
         <p>Use the <a id="equipment-btn" href="https://cal.lib.virginia.edu/equipment?lid=264">Library
           Equipment Reservation site</a> to reserve equipment.</p>
@@ -142,9 +125,9 @@ order: 3
 
       <h3>3D Printing</h3>
       <p>We have four <a href="https://en.wikipedia.org/wiki/Fused_filament_fabrication">FFF</a> style printers and one <a href="https://en.wikipedia.org/wiki/Stereolithography">Resin (SLA)</a> printer available for reservation. To use the printers, you can come in during open hours for in-person training and on-the-spot reservation. In order to reserve printers for future use, you will need to complete an on-line certification. The on-line certification is forthcoming, so the only way to use the 3D printers for now is to come in during open hours and speak with a Technologist to reserve a printer after in-person training.</p>
-      
+
       <p>3D printing is still available through the <a href="https://www.library.virginia.edu/services/3d-printing/">3D Printing Studio</a> in the Robertson Media Center in Clemons Library. To use the printers there, you need to complete an <a href="https://www.library.virginia.edu/services/3d-printing/">online training</a>, then reserve a 3D printer during their <a href="https://www.library.virginia.edu/hours">open hours</a>. Email <a href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a> with any questions. </p>
-      
+
       <p>The 3D printers are completely different from each other in each space, so training on 3D Printing Studio printers does not automatically grant access to the Makerspace printers, although the on-line training is similar.</p>
 
       <h3>Laser Cutting</h3>
@@ -180,7 +163,7 @@ order: 3
     </ul>
   </div>
 
-    
+
   <div class="makerspace__people">
     <div class="maker-people__title" id="tinkertank-techs">Makerspace Techs</div>
     <div class="maker-people__students">
@@ -297,9 +280,3 @@ order: 3
       <p>Questions? Hesitant about joining us in the Makerspace? You belong here, and we're happy to meet with you, answer questions, and give you a tour to help you feel more at home. Email <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a> to let us know you're curious about our makerspace.</p>
     </div>
   </div>
-
-
-  <div class="makerspace__questions">
-    <div class="maker-questions__text"></div>
-  </div>
-</div> <!-- end main content -->

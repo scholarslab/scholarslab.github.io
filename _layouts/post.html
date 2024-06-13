@@ -2,54 +2,21 @@
 layout: default
 ---
 {% capture authorstring %}{% include author-name.html authorid=page.author %}{% endcapture %}
-<article class="post-wrapper">
+<article>
+<header>
+    <hgroup>
+    <span aria-label="page type">Blog</span>
+    <h1>{{ page.title | replace: ' - ', ': ' }}</h1>
+    </hgroup>
 
-  <div class="post-main-content">
-
-    <div class="post__big-title" id="print-byline"><span aria-label="page type">Scholars' Lab Blog //</span>{{ page.title | replace: ' - ', ': ' }}</div>
-
-    <div class="post__big-title" id="non-print-byline"><span aria-label="page type">Blog //</span>{{ page.title | replace: ' - ', ': ' }}</div>
-
-    <!-- make span an <a> tag to blog home and put h1 tags around page.title w/ the font styles when finalizing -->
-
-    <div class="post__metadata">
-
-      {% if page.pull-quote != nil %}
-      <div class="post-meta__quote">&ldquo;{{ page.pull-quote }}&rdquo;</div>
-      {% endif %}
-
-      <div class="post-meta__author">
-        <span>By</span> {{ authorstring | strip }} on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-      </div>
-
-      {% assign catsize = page.categories | size %}
-<!--  {% if catsize >= 1 %}
-      <div class="post-meta__categories">Filed to:
-        {% for c in page.categories %}
-        {% assign last = page.categories | last %}
-        {% if c == last %} {{ c | downcase }}
-        {% else %} {{ c | downcase }},
-        {% endif %}{% endfor %}
-      </div>
-      {% endif %}
--->
-{% assign tagsize = page.tags | size %}
-<!--    {% if tagsize >= 1 %}
-      <div class="post-meta__tags">Tagged as:
-        {% for t in page.tags%}
-        {% assign last = page.tags | last %}
-        {% if t == last %} <a href="{{ site.url }}/posts-by-tag/#{{ t | slugify }}">{{ t }}</a>
-        {% else %} <a href="{{ site.url }}/posts-by-tag/#{{ t | slugify }}">{{ t }}</a>,
-        {% endif %}{% endfor %}
-      </div>
-      {% endif %}
--->
+    <p class="metadata">
+        By <span class="author">{{ authorstring | strip }}</span> on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    </p>
     {% include old-post-alert.html %}
-
-    </div> <!-- end metadata -->
+</header> <!-- end metadata -->
 
     <!-- text of post -->
-    <div class="post__content">
+    <div class="content">
         {% if page.crosspost %}
           <div class="post_crosspost">
               {% if page.crosspost.size == 1 %}
@@ -64,6 +31,9 @@ layout: default
             Crossposted to {{ crosspostarray | array_to_sentence_string }}.
             {% endif %}
           </div>
+        {% endif %}
+        {% if page.pull-quote != nil %}
+        <aside class="quote">&ldquo;{{ page.pull-quote }}&rdquo;</aside>
         {% endif %}
       {{ content }}
     </div>
@@ -94,5 +64,4 @@ document.write(today);
         </div>
 
     </footer> <!-- end post footer -->
-  </div> <!-- end post-main-content -->
 </article> <!-- end post wrapper -->

@@ -1,15 +1,11 @@
 ---
 layout: default
 ---
-<article class="page-wrapper">
+<header>
+  <h1>{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</h1>
+  <p>{{ page.excerpt }}</p>
+</header>
 
-  <header class="page-header-wrapper">
-    <h1 class="page-header__big-title"><span>{{ page.title | escape | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</span></h1>
-    <h3 class="page-header__subtitle">{{ page.excerpt }}</h3>
-  </header>
-
-  <div class="page-main-content">
-    {{ content }}
-  </div>
-
-</article>
+<div class="content">
+  {{ content }}
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Blog
 permalink: /blog/
 pagination:
@@ -7,23 +7,19 @@ pagination:
 nav: true
 order: 2
 regenerate: true
+excerpt: "Our thoughts, from rough new ideas to polished arguments. Scholars’ Lab team and collaborators write about their scholarship."
+
 ---
 
-<div class="blog-wrapper">
-	<header class="blog-page-header">
-		<div class="blog-header__big-title">Blog</div>
-		<div class="blog-header__subtitle">Our thoughts, from rough new ideas to polished arguments. Scholars’ Lab team and collaborators write about their scholarship.</div>
-	</header>
-	<div class="blog-main-content">
-		<div class="blog-gallery">
 			<!-- post layout: -->
 			{% for post in site.posts limit:4 %}
             {% capture authorstring %}
             {% include author-name.html authorid=post.author %}
             {% endcapture %}
-			<section class="blog-gallery__item">
-				<div class="blog-item__title">
-					<span>
+			<article class="post">
+				<header>
+					<hgroup>
+						<span class="eyebrow">
 {% if post.categories contains 'Events' %}
 	Events
 	{% elsif post.categories contains 'Job Announcements' %}
@@ -55,27 +51,25 @@ regenerate: true
 {% endif %}
 					</span>
 					<!-- # NB: no slash in href b/c included in post.url -->
-					<a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a>
-				</div>
-				<!-- # pull quote, or 1st 25 words of post content. -->
+					<h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h2>
+				</hgroup>
+			</header>
+				<div class="content">
 				{% if post.pull-quote %}
-				<div class="blog-item__quote">{{ post.pull-quote | prepend: '"' | append: '"' | smartify }}</div>
+				{{ post.pull-quote | prepend: '"' | append: '"' | smartify }}
 				{% else %}
-				<div class="blog-item__quote">{{ post.content | truncatewords: 25 | markdownify | strip_html }}</div>
+				{{ post.content | truncatewords: 25 | markdownify | strip_html }}
 				{% endif %}
-				<div class="blog-item__metadata">
-					<div class="blog-meta__author">
+				</div>
+				<footer class="byline">
+					<div class="author">
                     {{ authorstring | strip }}
                     </div>
-					<span>&#124;</span> <!-- pipe -->
-					<div class="blog-meta__date">
-						<span class="blog-date__small">{{ post.date | date: "%m.%d.%Y" }}</span>
-						<span class="blog-date__big">{{ post.date | date: "%B %-d, %Y" }}</span>
-					</div>
-				</div>
-			</section>
+					<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+				</footer>
+			</article>
 			{% endfor %} <!-- end post -->
-			
+
 <section id="previous_posts">
 <h2>Previous Posts</h2>
 <ul class="page-previous_posts">

@@ -2,18 +2,18 @@
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
 	{% include head.html %}
-
-	<body>
+	<body class="{{ page.title | slugify }}{% if page.og_type == 'article' %}
+	post{% endif %}">
 		<header role="banner" id="banner">
 		{% include library-banner.html %}
 		{% include title.html %}
-		{% include navbar.html %}
 		</header>
 		<main id="main" role="main">
 			{{ content }}
 		</main>
-		{% include footer.html %}
-
+		<footer role="contentinfo" id="footer">
+			<p>Footer Stuff</p>
+		</footer>
 		<script src="{{ '/assets/js/main.js' | relative_url }}" type="text/javascript" charset="utf-8"></script>
         {% if page.title == 'Search' %}
 		<script src="https://unpkg.com/lunr/lunr.js" type="text/javascript" charset="utf-8"></script>

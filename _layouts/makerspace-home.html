@@ -4,12 +4,14 @@
 	{% include head.html %}
 
 	<body>
-		{% include navbar.html %}
-
+		<header role="banner" id="banner">
+			{% include library-banner.html %}
+			{% include title.html %}
+			{% include navbar.html %}
+		</header>
 		<main id="main" role="main">
 			{{ content }}
 		</main>
-
 		{% include footer.html %}
 
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js" type="text/javascript" charset="utf-8"></script>
