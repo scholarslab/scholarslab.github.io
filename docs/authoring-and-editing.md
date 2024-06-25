@@ -508,11 +508,6 @@ will render as...
 
 ![docs-markdown-headings-rendered](/docs/docs-images/docs-markdown-headings-rendered.png)
 
-#### Further resources
-
-[Footnotes](https://www.markdownguide.org/extended-syntax/#footnotes)
-[Blockquotes](https://www.markdowntutorial.com/lesson/5/)
-
 ## What comes next?
 
 If you got stuck on any part of this tutorial, please let Amanda, Ronda, or Brandon know so they can improve this text (if you ran into a problem, others will run into the same one...).
@@ -521,7 +516,8 @@ If you get comfortable with this process and would like to explore another way o
 
 Alternatively, or in addition! The information in this page's tutorial + [a friendly tutorial on creating your own Jekyll site](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (+ some help from the SLab Slack #development channel when you run into inscrutable command line errors, the deathless bane of all) are enough to not only create and maintain your own website, but to understand how it works.
 
-/* The "Master" branch name was the original default name for a repository's initial branch across the git ecosystem. Although there is not typically a contrasting notion of "slave" within the git standard or git services and the use of "master" in the sense of mastery or a master recording make sense in the context of git branches, the "master/slave" dichotomy has a long history in other areas of computing and in other version control systems that influenced git. As a consequence, there was a broad movement across the software development community in the early 2020s to change the default initial branch name to "main." This is now the standard, including on github.
+/* The "Master" branch name was the original default name for a repository's initial branch across the git ecosystem. Although there is not typically a contrasting notion of "slave" within the git standard or git services and the use of "master" in the sense of mastery or a master recording makes sense in the context of branches and merges, the "master/slave" dichotomy has a long history in other areas of computing and specifically in some version control systems that influenced git. As a consequence, there was a broad effort across the software development community in the early 2020s to deprecate all uses of the word "master". 
+The default initial branch name in the most popular git repo hosting services (including github and gitlab) is now "main", although git clients still defaults to the "master" name.
 
 Since the scholarslab.org repo predates this shift, it still uses the obsolete branch name. We have tried to rename this default branch name, but have run into difficulty, but we're hoping to revist this after launching the new site.
 
