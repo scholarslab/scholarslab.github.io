@@ -8,6 +8,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2020/02/26/thinking-through-bookish-project-plans
 ---
 Thanks to conversations with Brandon and his plan for his blogging (see his very good ["Year Of Book Blogging: Digital Humanities Pedagogy in Kind" post](https://scholarslab.lib.virginia.edu/blog/year-of-book-blogging-digital-humanities-pedagogy-in-kind/)), I am also experimenting with my 2020 blog posts building into a larger project: possibly a book, or a book-like project trying to add to the many excellent argumenrs for non-book scholarship being better acknowledged, supported, credited; possibly something where I try to reject pressures to write a book and instead make another sustained piece of my scholarship in its best form. (Possibly something very weird shaped: I have a vague vision of something involving a mock-command-line interface on a website supporting choosing your own path through my research material, and something involving... bread recipes???)
 

@@ -6,7 +6,10 @@ slug: participating-in-statue-removal-history-crowdsourcing
 title: "When They Came Down: Participating in crowdsourced documentation of racist statue removals"
 categories:
 - digital humanities  
-- tutorial  
+- tutorial
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2020/06/30/participating-in-statue-removal-history-crowdsourcing
 ---
 
 The ["When They Came Down"](https://whentheycamedown.com/) crowdsourced project, run by Emily Gorcenski, is a communal effort to document info in one place as various racist monuments are removed, renamed, and/or recontextualized: "a people's history of ejecting the stained legacy of colonialism, slavery, and genocide from our public spaces"[^1]. People are invited to contribute info about related actions to research and write up for the website, which runs from the GitHub repo [https://github.com/Gorcenski/whentheycamedown](https://github.com/Gorcenski/whentheycamedown).

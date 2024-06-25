@@ -9,6 +9,9 @@ categories:
 - Job Announcements
 tags:
 - job
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2018/09/24/inclusive-tech-hiring-digital-humanities-community-tech-engagement
 ---
 
 (_As of 9/28/2018, we updated the length of the User Advocate position’s appointment to 18 months (with the possibility of 6 months’ renewal). This post has been edited significantly since its original posting to reflect this change. Contact jeremy@virginia.edu with any questions._)

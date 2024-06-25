@@ -8,6 +8,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2019/06/02/why-keep-blogging
 ---
 This post's title is a play on Mark Sample's ["What about Blogging Keeps Me from Blogging"](http://www.samplereality.com/2018/07/24/what-about-blogging-keeps-me-from-blogging/)—a meditation on design aspects that reduce the pleasure of blogging. None of my blog drafts felt ready to publish this week. But revisiting Mark's blog this afternoon reminded me it's useful to jump up a level of thinking (blogging => metablogging) and record how things are going, something I've tried to do with both my [literary studies](http://literaturegeek.com/tag/grad-advice/) and more recent [DH research](http://literaturegeek.com/tag/meta-dh/). So: how is our Year of Blogging going?
 

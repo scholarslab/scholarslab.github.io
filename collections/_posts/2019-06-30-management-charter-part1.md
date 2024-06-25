@@ -8,6 +8,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2019/06/30/digital-humanities-management-charter-part1
 ---
 I want to improve how my actions are guided by my values. Charters are written statements that can provide a public way to explore what matters and hold yourself accountable to that thinking; I've been thinking about writing personal charters to help me reflect on, remember, and explain my daily professional practices, as part of larger goals for how I live as part of my local and larger communities.
 

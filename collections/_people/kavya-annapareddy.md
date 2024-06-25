@@ -8,13 +8,13 @@ title: Kavya Annapareddy
 position: TinkerTank Technologist
 short_bio:
 slug: kavya-annapareddy
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2021-current
+- Makerspace Technologist, 2021-2023
 ---
 
 Expert in Button Making, 3D Printing, Sewing, Wacom Drawing Tablet, Adobe Creative Suite

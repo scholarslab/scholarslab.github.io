@@ -11,6 +11,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2019/06/28/archiving-digital-humanities-solutions
 ---
 ![Library](/assets/post-media/2019-06-28-archiving-dh-part-4-solutions/max-langelott-wWQ760meyWI-unsplash.jpg)
 [Photo by Max Langelott](https://unsplash.com/photos/wWQ760meyWI)

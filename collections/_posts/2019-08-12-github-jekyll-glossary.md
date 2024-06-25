@@ -8,6 +8,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2019/08/12/github-jekyll-glossary
 ---
 [Brandon Walsh](https://scholarslab.lib.virginia.edu/people/brandon-walsh/) and I are writing a _[Programming Historian](https://programminghistorian.org/)_ lesson on how to run a collaborative research blog, picking up from [my previous _Programming Historian_ lesson](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) on setting up a scholarly blog using Jekyll and GitHub Pages. We're building on documentation written, tested, and improved by the Scholars' Lab community (staff and students) for use with this ScholarsLab.org website, which we [recently migrated](https://scholarslab.lib.virginia.edu/blog/site-relaunch/) from WordPress to Jekyll. In this post, I'll share our glossary for some commonly used terms when using GitHub to publish blog posts and other webpages.
 

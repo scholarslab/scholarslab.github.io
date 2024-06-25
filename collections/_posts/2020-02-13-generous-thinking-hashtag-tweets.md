@@ -8,6 +8,9 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2020/02/13/generous-thinking-hashtag-tweets
 ---
 
 The #GenerousThinking hashtag project was founded by Hannah Alpert-Abrams ([@hralperta](https://twitter.com/hralperta); [website](http://www.halperta.com/)), Mimi Winick ([@mimwinick](https://twitter.com/mimwinick)), and Amanda Henrichs ([@envynoveritas](https://twitter.com/envynoveritas), [blog](http://akhenrichs.com/blog/)), and is based on Kathleen Fitzpatrick's [book of the same title](https://jhupbooks.press.jhu.edu/title/generous-thinking).
