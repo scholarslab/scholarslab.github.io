@@ -508,6 +508,11 @@ will render as...
 
 ![docs-markdown-headings-rendered](/docs/docs-images/docs-markdown-headings-rendered.png)
 
+#### Further resources
+
+[Footnotes](https://www.markdownguide.org/extended-syntax/#footnotes)
+[Blockquotes](https://www.markdowntutorial.com/lesson/5/)
+
 ## What comes next?
 
 If you got stuck on any part of this tutorial, please let Amanda, Ronda, or Brandon know so they can improve this text (if you ran into a problem, others will run into the same one...).
