@@ -15,7 +15,7 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 **Call issued:** Annually in August.
 
-**Deadline:** November 1st, 2023 for fellowships to be held during the 2024-2025 academic year.
+**Deadline:** November 1st, 2024 for fellowships to be held during the 2025-2026 academic year.
 
 [More information](/praxis-program-fellowships/)
 
