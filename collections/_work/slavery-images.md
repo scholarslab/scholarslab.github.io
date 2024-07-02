@@ -1,5 +1,7 @@
 ---
 collaborators: 
+  - name: Jerome Handler
+  - name: Michael Tuite
   - name: Will Rourk
     slug: will-rourk
     role: 3D Data and Content Specialist
@@ -12,5 +14,6 @@ banner-img: default-banner.png
 research-category: Collaborations
 start-year: (before 2018)
 end-year: (before 2018)
+link: "https://slaveryimages.org/public/index.php"
 ---
-More info coming soon!
+More info to come.
