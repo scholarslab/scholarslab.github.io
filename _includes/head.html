@@ -1,3 +1,4 @@
+<!-- Contains the HTML <head> info that needs to go at the top of every HTML page file; does things like link to CSS files -->
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,13 +27,6 @@
     {% endif %}
   {% endfor %}
   {% endif %}
-
-  <!-- Twitter Cards https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="{{ site.twitter_username }}">
-  <meta name="twitter:title" content="{{ fulltitle }}">
-  <meta name="twitter:description" content="{{ description }}">
-  {% if page.image %}<meta property="twitter:image" content="{{ page.image }}">{% endif %}
 
   <link href="https://fonts.googleapis.com/icon?family=Raleway:200,400,400i,600,700,700i,900|Oswald:200,400,600,700|Inconsolata:400,700|VT323" rel="stylesheet">
   <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
