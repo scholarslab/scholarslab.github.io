@@ -12,7 +12,7 @@ status: current
 twitter: literature_geek
 website: http://www.AmandaVisconti.com
 people-category:
-- staff
+- director
 roles:
 - staff
 ---

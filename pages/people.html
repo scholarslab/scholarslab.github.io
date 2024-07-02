@@ -5,7 +5,8 @@ permalink: /people/
 nav: true
 ---
 
-<!-- people categories: staff, students, & alumni -->
+<!-- pull staff directors & staff -->
+{% assign directors = site.people | where: 'people-category', 'director' | where: 'status', 'current' | sort: 'first_name' %}
 {% assign staff = site.people | where: 'people-category', 'staff' | where: 'status', 'current' | sort: 'last_name' %}
 <!-- filter to ensure they're not in staff when printing: -->
 {% assign students = site.people | where: 'people-category', 'student' | where: 'status', 'current' | sort: 'last_name' %}
@@ -14,20 +15,37 @@ nav: true
 <div class="people-wrapper">
   <header class="people-page-header">
     <div class="people-header__big-title">People</div>
-    <!--div class="people-header__subtitle"><!-- unsure if needed, but leaving structure in case -></div-->
   </header>
 
   <article class="people-main-content">
     <!-- staff: -->
     <section class="people__staff">
-      <!-- section label: -->
       <div class="people-staff__title">
         <div></div><span>Staff</span><div></div>
       </div>
-      <!-- NB: insert number of ppl; maybe color code by what we do (r&d, spatial tech, etc.) -->
       <!-- staff gallery: -->
       <div class="people-staff__gallery">
-        <!-- gallery item: -->
+      {% for person in directors %}
+        {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
+        <div class="people-item-wrapper">
+          <a href="/people/{{ person.slug }}/" aria-label="{{ person.title }}">
+            <div class="people-item__img">
+            {% if profile_pic == empty %}
+              <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
+            {% else %}
+              {% for pic in profile_pic %}
+              {% if pic.path contains 'grid' %}
+                <img src="{{ pic.path }}" alt="{{ person.slug }}">
+              {% endif %}
+              {% endfor %}
+            {% endif %}
+            </div>
+            <div class="people-item__name">{{ person.title }}</div>
+            <div class="people-item__position">{{ person.position }}</div>
+          </a>
+        </div>
+        {% endfor %} <!-- end item -->
+        <!-- staff gallery item: -->
         {% for person in staff %}
         {% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
         <div class="people-item-wrapper">

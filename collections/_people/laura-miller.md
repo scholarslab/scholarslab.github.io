@@ -12,7 +12,7 @@ status: current
 twitter: martofmiller
 website: None
 people-category:
-- staff
+- director
 roles:
 - staff
 ---
