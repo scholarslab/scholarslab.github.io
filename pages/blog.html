@@ -58,7 +58,7 @@ excerpt: "Our thoughts, from rough new ideas to polished arguments. Scholars’ 
 				{% if post.pull-quote %}
 				{{ post.pull-quote | prepend: '"' | append: '"' | smartify }}
 				{% else %}
-				{{ post.content | truncatewords: 25 | markdownify | strip_html }}
+				{{ post.content | strip_html | truncatewords: 25 | markdownify }}
 				{% endif %}
 				</div>
 				<footer class="byline">
