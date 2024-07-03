@@ -6,27 +6,27 @@ We also maintain [documentation for other needs](https://github.com/scholarslab/
 - [Tutorial difficulty level](#tutorial-difficulty-level)
 - [Let's get started!](#lets-get-started)
 - [Branch and write/edit!](#branch-and-writeedit)
-  * [Make a new branch](#make-a-new-branch)
-  * [Add new content](#add-new-content)
-    + [Important alert: save your work](#important-alert-save-your-work)
-    + [Add a new blog post](#add-a-new-blog-post)  
-    + [Add an event](#add-an-event)  
-    + [Add a new page](#add-a-new-page)  
-  * [Edit existing content](#edit-existing-content)  
-- [Move your writing to the main repo!](#move-your-writing-to-the-main-repo)  
-  * [Merging as an admin](#merging-as-an-admin)  
+  - [Make a new branch](#make-a-new-branch)
+  - [Add new content](#add-new-content)
+    - [Important alert: save your work](#important-alert-save-your-work)
+    - [Add a new blog post](#add-a-new-blog-post)
+    - [Add an event](#add-an-event)
+    - [Add a new page](#add-a-new-page)
+  - [Edit existing content](#edit-existing-content)
+- [Move your writing to the main repo!](#move-your-writing-to-the-main-repo)
+  - [Merging as an admin](#merging-as-an-admin)
 - [Cheatsheet](#cheatsheet)
-  * [Concise set of steps](#concise-set-of-steps)
-  * [Commonly used terms](#commonly-used-terms)
-  * [Markdown & formatting](#markdown--formatting)
-    + [Links](#links)
-    + [Embed images](#embed-images)
-    + [Uploading media](#uploading-media)
-    + [Bold](#bold)
-    + [Italic](#italic)
-    + [Bulleted lists](#bulleted-lists)
-    + [Numbered lists](#numbered-lists)
-    + [Headings](#headings)
+  - [Concise set of steps](#concise-set-of-steps)
+  - [Commonly used terms](#commonly-used-terms)
+  - [Markdown \& formatting](#markdown--formatting)
+    - [Links](#links)
+    - [Embed images](#embed-images)
+    - [Uploading media](#uploading-media)
+    - [Bold](#bold)
+    - [Italic](#italic)
+    - [Bulleted lists](#bulleted-lists)
+    - [Numbered lists](#numbered-lists)
+    - [Headings](#headings)
 - [What comes next?](#what-comes-next)
 
 ## Tutorial difficulty level
@@ -516,6 +516,9 @@ If you get comfortable with this process and would like to explore another way o
 
 Alternatively, or in addition! The information in this page's tutorial + [a friendly tutorial on creating your own Jekyll site](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (+ some help from the SLab Slack #development channel when you run into inscrutable command line errors, the deathless bane of all) are enough to not only create and maintain your own website, but to understand how it works.
 
-/* We tried to rename our default branch from "master" to something else to get away from the “master”/“slave” naming that gets used in other tech places, and to rename that default branch into something it's clearer is what the public sees on our production website. Unfortunately, as long as we stay hosted on GitHub Pages, GH forces us to use either "master" or "gh-pages". We lost some time reconfiguring stuff before realizing this limitation and were worried "gh-pages" was confusing as a default branch, so reverted to "master" for the time being. We're hoping to revist this after launching the new site, possibly by making the restriction moot by moving the site to our own server.
+/* The "Master" branch name was the original default name for a repository's initial branch across the git ecosystem. Although there is not typically a contrasting notion of "slave" within the git standard or git services and the use of "master" in the sense of mastery or a master recording makes sense in the context of branches and merges, the "master/slave" dichotomy has a long history in other areas of computing and specifically in some version control systems that influenced git. As a consequence, there was a broad effort across the software development community in the early 2020s to deprecate all uses of the word "master". 
+The default initial branch name in the most popular git repo hosting services (including github and gitlab) is now "main", although git clients still defaults to the "master" name.
+
+Since the scholarslab.org repo predates this shift, it still uses the obsolete branch name. We have tried to rename this default branch name, but have run into difficulty, but we're hoping to revist this after launching the new site.
 
 *Thanks to Ronda, Brandon, Laura, and Amanda for work on this tutorial!*
