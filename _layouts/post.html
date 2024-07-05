@@ -14,10 +14,6 @@ layout: default
 
     <div class="post__metadata">
 
-      {% if page.pull-quote != nil %}
-      <div class="post-meta__quote">&ldquo;{{ page.pull-quote }}&rdquo;</div>
-      {% endif %}
-
       <div class="post-meta__author">
         <span>By</span> {{ authorstring | strip }} on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       </div>

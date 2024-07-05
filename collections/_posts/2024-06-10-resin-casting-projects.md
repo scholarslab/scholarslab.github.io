@@ -4,6 +4,7 @@ date: 2024-06-10
 layout: post
 slug: resin-casting-projects
 title: "Resin casting projects"
+summary: "I completed two resin casting projects recently: a full-size skull, and a light-up TTRPG dice necklace."
 categories:
 - Makerspace
 tags:
