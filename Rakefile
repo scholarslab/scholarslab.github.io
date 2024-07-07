@@ -107,7 +107,6 @@ position: None
 short_bio: 'A short one-sentence bio.'
 slug: #{slug}
 status: current or not_current
-twitter: None
 website: None
 people-category:
 - Pick one of student or staff

@@ -9,12 +9,10 @@ layout: default
 
 		<div class="person__big-title"><span aria-label="page type">People //</span>
 			{% if page.name %}
-			{{ page.name }}
+				{{ page.name }}
 			{% else %}
-			{{ page.title }}
+				{{ page.title }}
 			{% endif %}</div>
-
-<!-- <div class="person__position">{{ person.position }}</div>  -->
 
 <div class="person__position">
 {% if page.people-category contains "staff" %}
@@ -23,61 +21,64 @@ layout: default
 	{% elsif page.status contains "current" %}
 		{{ page.position }}
 	{% endif %}
+{% elsif page.people-category contains "director" %}
+	{% if page.status contains "not_current" %}
+		Former {{ page.position }}
+	{% elsif page.status contains "current" %}
+		{{ page.position }}
+	{% endif %}
 {% elsif page.people-category contains "student" %}
-{% if page.roles.size == 1 %}
-{{ page.roles }}
+	{% if page.roles.size == 1 %}
+	{{ page.roles }}
+	{% endif %}
 {% else %}
 	<ul>{% for role in page.roles %}
 		<li>{{ role }}</li>
 	{% endfor %}</ul>
 {% endif %}
-{% endif %}
+
 
 </div>
-{% unless page.twitter == 'None' and page.website == 'None' and page.email == 'None' %}
-		<div class="person__stats"> <!-- using components/stats-box.scss -->
-			<div class="person-stats__title">Contact</div>
-			<div class="person-stats__box">
-				<div>Contact</div>
-				{% if page.email !=  nil and page.email != 'None' %}
-				<span>Email:</span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.title }}">{{ page.email }}</a><br/>
-				{% endif %}
-				{% if page.twitter != nil and page.twitter != 'None' %}
-				<span>Twitter:</span>@<a href="https://twitter.com/{{ page.twitter }}" aria-label="{{ page.title }}'s Twitter page">{{ page.twitter }}</a><br/>
-				{% endif %}
-				{% if page.website != nil and page.website != 'None' %}
-				<span>Website:</span><a href="{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a><br>
-				{% endif %}
-				{% if page.libcal %}
-			<span>Book:</span><a href="{{ page.libcal }}">Schedule an appointment</a>
-				{% endif %}
-			</div>
-		</div>
-		{% endunless %}
-		<div class="person__img">
-			{% if profile_pic == empty %}
-			    <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
-			{% else %}
-			    {% for pic in profile_pic %}
-			    {% unless pic.path contains 'cropped'  or pic.path contains 'grid' %}
-			      <img src="{{ pic.path }}" alt="{{ page.slug }}">
-			    {% endunless %}
-			    {% endfor %}
-			{% endif %}
-		</div>
 
-		<div class="person__description">
-			<div class="person-describe__title">About</div>
-			<div class="person-describe__text">
-			{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
-				{{ content }}
-			{% else %}
-				<p>A Scholars' Lab alum.</p>
-			{% endunless %}
-			</div>
-		</div> <!-- end 'about' -->
+{% unless page.libcal == 'None' and page.website == 'None' and page.email == 'None' %}
+<div class="person__stats"> <!-- using components/stats-box.scss -->
+	<div class="person-stats__title">Contact</div>
+	<div class="person-stats__box">
+		{% if page.email !=  nil and page.email != 'None' %}
+			<span>Email: </span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.title }}">{{ page.email }}</a><br/>
+		{% endif %}
+		{% if page.website != nil and page.website != 'None' %}
+			<span>Website: </span><a href="{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a><br>
+		{% endif %}
+		{% if page.libcal %}
+			<span>Book: </span><a href="{{ page.libcal }}">Schedule an appointment</a>
+		{% endif %}
+	</div>
+</div>
+{% endunless %}
 
-		<!-- list of blog posts by person -->
+<div class="person__img">
+	{% if profile_pic == empty %}
+		 <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
+	{% else %}    
+		  <img src="{{ pic.path }}" alt="{{ page.slug }}">
+	{% endif %}
+</div>
+
+<div class="person__description">
+	<div class="person-describe__title">About</div>
+	<div class="person-describe__text">
+	{% if page.content.size == 1 or page.content == blank or page.content == empty %}
+		<p>A Scholars' Lab alum.</p>
+	{% else %}
+		{{ content }}
+	{% endif %}
+	</div>
+</div> 
+<!-- end 'about' -->
+
+
+<!-- list of blog posts by person -->
 		{% assign author_posts = site.posts | where: "author", page.slug %}
 
 		<div class="person__posts">

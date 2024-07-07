@@ -7,7 +7,6 @@ email: scholarslab@virginia.edu
 description: "The Scholars’ Lab"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scholarslab.lib.virginia.edu" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: scholarslab
 permalink: /:title/
 timezone: America/New_York
 # Build settings
@@ -30,8 +29,8 @@ exclude:
   - docs
   - node_modules
   - theme-testing
-#  - _posts # temporary! significantly reduces build time for theme testing
-#  - _people # temporary
+#  - _posts # temporary! uncomment to significantly reduce build time for theme testing
+#  - _people # temporary, uncomment to reduce testing build time
   - assets/python # helper scripts to manipulate HTML/CSS, not used in build
 
 collections_dir: collections
