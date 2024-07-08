@@ -1,9 +1,9 @@
 ---
-author:  las2hs
+author: Lloyd Sy
 date: 2024-07-08
 layout: post
 slug: cbw-about1919-2-lloyd
-title: "Segregated Biographical Collections and Documentary Social Networks: *Portraits of American Women* and *Women of Distinction*"
+title: "Segregated Biographical Collections and Documentary Social Networks: <i>Portraits of American Women</i> and <i>Women of Distinction</i>"
 categories:
 - Digital Humanities
 - Grad Student Research
@@ -18,16 +18,19 @@ tags:
 
 
 
-[Collective Biographies of Women’s](https://cbw.iath.virginia.edu] eponymous genre almost naturally gives rise to network analysis. In the same way that researchers today look at social networks (online or otherwise) and think about the meanings of "connections" or "nodes" within them, so too can we look at  collective biography as a mode of textual and social connection. Collective biography is sometimes called *prosopography*, a method of studying sets of people as "parallel lives," to echo the title of Plutarch’s classic prosopography of the lives of Greeks and Romans (widely read in the nineteenth century). Each time we look at a table of contents in CBW, we are presented with a suggested grouping. Here, the author and publisher say, are women who *belong* together. Yet we call these connections a *documentary* social network, unlike an actual one built by letters, meetings, relationships. The subjects of the chapters in a collection often had no interaction with each other but lived in different centuries, countries, or social circles. Nevertheless, prosopography strives for measurable comparison by carefully documenting as much as can be known about individuals in the comparative network.
+[Collective Biographies of Women’s](https://cbw.iath.virginia.edu) eponymous genre almost naturally gives rise to network analysis. In the same way that researchers today look at social networks (online or otherwise) and think about the meanings of "connections" or "nodes" within them, so too can we look at  collective biography as a mode of textual and social connection. Collective biography is sometimes called *prosopography*, a method of studying sets of people as "parallel lives," to echo the title of Plutarch’s classic prosopography of the lives of Greeks and Romans (widely read in the nineteenth century). Each time we look at a table of contents in CBW, we are presented with a suggested grouping. Here, the author and publisher say, are women who *belong* together. Yet we call these connections a *documentary* social network, unlike an actual one built by letters, meetings, relationships. The subjects of the chapters in a collection often had no interaction with each other but lived in different centuries, countries, or social circles. Nevertheless, prosopography strives for measurable comparison by carefully documenting as much as can be known about individuals in the comparative network.
 
-A woman's life narrative may belong in more than one place. One of the main ways researchers at UVA have been using the CBW database has been to compare the *recognition rate*, our term for how many times an individual appears in tables of contents across the database. This rough measure of person A’s and person B’s relative usefulness as examples can be even more revealing in our study of networks, discussed in a moment: how often do A and B get placed together in a book of women’s lives? For now, think of a woman like Abigail Adams, who predictably appears in collections of revolutionary women, of first ladies, of the mothers of presidents, and of American women more generally. See: the prolific historian Elizabeth Fries Lummis Ellet’s *The Women of the American Revolution*, first published 1848 a259; almost a century later, Kathleen Prindiville’s *First Ladies* in 1932 [a654](http://cbw.iath.virginia.edu/books_display.php?id=1996). During World War I, Adams resurfaces in William Judson Hampton’s 1918 collection, *Our Presidents and Their Mothers* ([a374] (http://cbw.iath.virginia.edu/books_display.php?id=1705); and again in Gamaliel Bradford's *Portraits of American Women* in 1919 ([a102] (http://cbw.iath.virginia.edu/books_display.php?id=1425). Bradford's distinctive career as a biographer is featured in Mackenzie Daly's post, third in this series.
+A woman's life narrative may belong in more than one place. One of the main ways researchers at UVA have been using the CBW database has been to compare the *recognition rate*, our term for how many times an individual appears in tables of contents across the database. This rough measure of person A’s and person B’s relative usefulness as examples can be even more revealing in our study of networks, discussed in a moment: how often do A and B get placed together in a book of women’s lives? For now, think of a woman like Abigail Adams, who predictably appears in collections of revolutionary women, of first ladies, of the mothers of presidents, and of American women more generally. See: the prolific historian Elizabeth Fries Lummis Ellet’s *The Women of the American Revolution*, first published 1848 a259; almost a century later, Kathleen Prindiville’s *First Ladies* in 1932 [a654](http://cbw.iath.virginia.edu/books_display.php?id=1996). During World War I, Adams resurfaces in William Judson Hampton’s 1918 collection, *Our Presidents and Their Mothers* ([a374] (http://cbw.iath.virginia.edu/books_display.php?id=1705); and again in Gamaliel Bradford's *Portraits of American Women* in 1919 ([a102](http://cbw.iath.virginia.edu/books_display.php?id=1425)). Bradford's distinctive career as a biographer is featured in Mackenzie Daly's post, third in this series.
 
 What might it mean for a person–versions of a historic woman–to occupy various positions, inherent in the tables of contents she appears in? What kinds of documentary social networks arise? In the realm of collective biography, how can we quantifiably discuss "connectivity"? Probably, a high "recognition rate" (RR) will indicate that a person was (at the times when the collections were published) far from obscure. But this measure of status may not correlate with the actual rank or power of a particular woman during her life. We see some isolated, single-biography subjects in CBW were once upon a time queens. Some 6000 women appear only once in CBW’s 15,000+ biographical chapters. All of these measures resonate with the narratives themselves as our team tags them with an XML schema. Does a person’s relative connectivity correspond to that murkier (but perhaps more intuitive) notion of "obscurity"? Do either of these aspects of a person make any difference to how their story is told?
 
 In this blog, I’ll try to answer each of these questions in turn. As examples we’ll look at two collections both published 1919, just in the aftermath of World War I. The first was noted above for including Abigail Adams: [a102](http://cbw.iath.virginia.edu/books_display.php?id=1425) *Portraits of American Women* by Gamaliel Bradford (Houghton Mifflin, Boston). Its counterpart here is [a108](http://cbw.iath.virginia.edu/books_display.php?id=1431) *Women of Achievement* by Benjamin Griffith Brawley (Women’s American Baptist Home Mission Society, Chicago). These volumes make different claims to speak for the mainstream, by highly educated men, one an academic historian, addressing general readers.
 
+![Table of Contents for Portraits of American Women -HathiTrust](/assets/post-media/segregated-bio-collections/cbw-1.png)
 
 Table of Contents for [a102](http://cbw.iath.virginia.edu/books_display.php?id=1425) *Portraits of American Women* (HathiTrust)
+
+![Table of Contents for Women of Achievement -HathiTrust](/assets/post-media/segregated-bio-collections/cbw-2.png)
 
 
 Table of Contents for [a108](http://cbw.iath.virginia.edu/books_display.php?id=1431) *Women of Achievement* (HathiTrust)
@@ -49,135 +52,37 @@ For each woman in the two collections I looked at, I determined their connectivi
 Thus, Abigail Adams has 601 siblings, 3994 cousins, and so on. Here are the results for *Portraits* and *Achievement* represented in tabular form:
 
 A102 Bradford, *Portraits*
-Person
-1
-2
-3
-4
-5
-6
-d-factor
-ADAMS
-601
-3994
-2783
-148
-0
-0
-2.32925857
-RIPLEY
-7
-1416
-5600
-487
-16
-0
-2.878952963
-LYON
-201
-4893
-2347
-85
-0
-0
-2.307733192
-STOWE
-588
-6218
-691
-29
-0
-0
-2.021392506
-FULLER
-418
-5700
-1340
-68
-0
-0
-2.140579325
-ALCOTT
-467
-6105
-903
-51
-0
-0
-2.071485517
-WILLARD
-224
-5375
-1875
-52
-0
-0
-2.233191602
-DICKINSON
-180
-4766
-2467
-113
-0
-0
-2.333909115
 
+| Person | 1 | 2 | 3 | 4 | 5 | 6 | d-factor |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ADAMS | 601 | 3994 | 2783 | 148 | 0 | 0 | 2.32925857 |
+| RIPLEY | 7 | 1416 | 5600 | 487 | 16 | 0 | 2.878952963 |
+| LYON | 201 | 4893 | 2347 | 85 | 0 | 0 |2.307733192 |
+| STOWE | 588 | 6218 | 691 | 29 | 0 | 0 | 2.021392506 |
+| FULLER | 418 | 5700 | 1340 | 68 | 0 | 0 | 2.140579325 |
+| ALCOTT | 467 | 6105 | 903 | 51 | 0 | 0 | 2.071485517 |
+| WILLARD | 224 | 5375 | 1875 | 52 | 0 | 0 | 2.233191602 |
+| DICKINSON | 180 | 4766 | 2467 | 113 | 0 | 0 | 2.333909115 |
 
 A108 Brawley, *Achievement*
-Person
-1
-2
-3
-4
-5
-6
-d-factor
-TUBMAN
-482
-4716
-2244
-85
-0
-0
-2.256675967
-GORDON
-187
-580
-5281
-1422
-57
-0
-3.077321642
-FULLER
-30
-797
-5245
-1420
-35
-0
-3.08409725
-BETHUNE
-341
-4786
-2284
-116
-0
-0
-2.288959745
-TERRELL
-188
-579
-5281
-1422
-57
-0
-3.077188787
+
+| Person | 1 | 2 | 3 | 4 | 5 | 6 | d-factor |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| TUBMAN | 482 | 471 | 2244 | 85 | 0 | 0 | 2.256675967 |
+| GORDON | 187 | 580 | 5281 | 1422 | 57 | 0 | 3.077321642 |
+| FULLER | 30 | 797 | 5245 | 1420 | 35 | 0 | 3.08409725 |
+| BETHUNE | 341 | 4786 | 2284 | 116 | 0 | 0 | 2.288959745 |
+| TERRELL | 188 | 579 | 5281 | 1422 | 57 | 0 | 3.077188787 |
 
 
 
 Stowe and Alcott have the lowest d-factors of this array of women, that is, we might say the highest connectivity. And here is the data presented graphically. In the graphs below, the X axis represents degrees of separation and the Y axis represents the number of connections at that degree of separation.
 
+![A102 Bradford, *Portraits*](/assets/post-media/segregated-bio-collections/cbw-3.png)
+
 A102 Bradford, *Portraits*
+
+![A10A108 Brawley, *Achievements*](/assets/post-media/segregated-bio-collections/cbw-4.png)
 
 A108 Brawley, *Achievement*
 
