@@ -37,13 +37,15 @@
 }
 
 body {
-	margin: 0;
+	margin: 0 auto;
 	padding: 0;
 	font-family: var(--franklin-gothic-urw);
     font-weight: 300;
 	font-size: 20px;
 	line-height: 1.5; // if 16px, = 24px line height
 	color: var(--uvalib-text-almost-black);
+	max-width: 1200px;
+	background: white;
 }
 
 iframe {
@@ -174,12 +176,19 @@ body.our-work a.our-work {
 }
 
 
+html,
 #banner,
 #main > header,
-#main > article header
+#main > article header,
+#main > header:first-of-type,
+body.post #main article header:first-of-type
  {
-	background: rgba($blue-alt, 1);
+	background-color: rgba($blue-alt, 1);
 	color: white;
+	background-image: url('/assets/img/makerspace/blue-waves.jpg');
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
 }
 
 #newsletter {
@@ -239,7 +248,6 @@ section.feature {
 	& > header:first-of-type,
 	body.post & article header:first-of-type
 	{
-		background: rgba($blue-alt, 1);
 		color: white;
 		padding: 2rem 0;
 		display:flex;
