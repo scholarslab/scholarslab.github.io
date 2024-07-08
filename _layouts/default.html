@@ -3,7 +3,8 @@
 
 	{% include head.html %}
 	<body class="{{ page.title | slugify }}{% if page.og_type == 'article' %}
-	post{% endif %}">
+	post{% endif %}{% if page.path contains 'for-students' %} for-students{%
+	endif %}">
 		<header role="banner" id="banner">
 		{% include library-banner.html %}
 		{% include title.html %}

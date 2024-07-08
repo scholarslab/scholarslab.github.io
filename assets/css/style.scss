@@ -84,15 +84,58 @@ img {
 	max-width:100%;
 }
 
-nav a {
-	text-decoration:none;
-	margin-right: 1rem;
-	color: white;
+#global-navigation {
+	text-align: right;
 }
 
 #primary-navigation {
-
+	font-size: 1.2rem;
+	font-weight: 100;
 }
+
+#secondary-navigation {
+	font-size: 0.9rem;
+	font-weight: 100;
+}
+
+nav a {
+	display:inline-block;
+	text-decoration:none;
+	padding: 0.5rem;
+}
+
+nav a:link,
+nav a:visited {
+	color: white;
+	color: rgba(255,255,255,0.875);
+}
+
+nav a:hover,
+nav a:focus,
+nav a:active,
+#secondary-navigation a {
+	color: white;
+}
+
+#secondary-navigation a {
+	padding-top: 0.5rem;
+}
+
+
+body.for-students a.opportunities,
+body.research-and-development a.code-design,
+body.makerspace a.makerspace,
+body.spatial-tech a.spatial-tech,
+body.our-work a.our-work {
+	font-weight: 600;
+	color: white;
+	border-bottom: 5px solid rgba($blue-alt-light,0.5);
+}
+
+#secondary-navigation {
+	border-top: 2px solid rgba($blue-alt-light,0.5);
+}
+
 
 #banner,
 #main > header,

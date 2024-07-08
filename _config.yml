@@ -53,6 +53,7 @@ header_pages:
   - work.md
   - search.html
 
+
 defaults:
   - scope:
       path: "assets/img"
@@ -70,3 +71,21 @@ defaults:
     values:
       order: 10
       og_type: "website"
+
+## Nested list for primary navigation.
+primary-navigation:
+  - label: "Opportunities"
+    url: "for-students"
+  - label: "Code + Design"
+    url: "research-and-development"
+  - label: "Makerspace"
+    url: "makerspace"
+  - label: "Spatial Tech"
+    url: "spatial-technologies"
+  - label: "Our Work"
+    url: "work"
+
+for-students-navigation:
+  - "dh_fellows.md"
+  - "praxis.md"
+  - "lami.md"
