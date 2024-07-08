@@ -7,30 +7,46 @@ title: Home
     <div id="upcoming-events">
         <h2>Upcoming Events</h2>
         <ul>
-        <li>DH Fellow Presentation: "Building Back The Blacktop: Digital Humanities, Historic Preservation, and Activating the Archive" (Thursday, May 9, 2024)</li>
-        <li>Mother's Day (Monday, May 6, 2024)</li>
-        <li>Praxis Program 2023-2024: Year In Review (Monday, May 6, 2024)</li>
-    </ul>
+            <li>DH Fellow Presentation: "Building Back The Blacktop: Digital
+                Humanities, Historic Preservation, and Activating the Archive"
+                (Thursday, May 9, 2024)</li>
+            <li>Mother's Day (Monday, May 6, 2024)</li>
+            <li>Praxis Program 2023-2024: Year In Review (Monday, May 6, 2024)
+            </li>
+        </ul>
+        <p><a href="/events/">See all our events</a>.</p>
     </div>
     <div id="recent-posts">
         <h2>Recent Blog Posts</h2>
         <ul>
-            <li>Lorem Ipsum Dolor Sit Amet</li>
-            <li>Philosophi autem in suis lectulis plerumque moriuntur.</li>
-            <li>Hoc non est positum in nostra actione.</li>
-            <li>Nummus in Croesi divitiis obscuratur, pars est tamen divitiarum.</li>
+            {% for post in site.posts limit:4 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
         </ul>
+        <p><a href="/blog/">See all our blog posts</a>.</p>
     </div>
 </section>
 
 <section id="newsletter">
-    <p>Learn about events, news, and more in <a href="http://eepurl.com/h_riIP">our newsletter</a>!</p>
+    <p>Learn about events, news, and more in <a
+            href="http://eepurl.com/h_riIP">our newsletter</a>!</p>
 </section>
 
 <section id="about-us" class="feature">
     <div>
-    <h2>About Us</h2>
-    <p>The Scholars' Lab is an interdisciplinary research lab for critical, creative, and anti-oppressive explorations of the intersections of technology and culture. We offer mentoring, collaboration, and supportive space for anyone curious about pushing scholarly boundaries through creative, computational research practice. While much of our work deals with cultural and humanities questions, we welcome and routinely collaborate with all disciplines. Our staff offer deep expertise in digital humanities, computer and information science, spatial technologies, maker, and cultural heritage approaches. Our international scholarly leadership lets us connect UVA colleagues to the forefront of digital and experimental scholarship, collaborators, and opportunities.</p>
+        <h2>About Us</h2>
+        <p>The Scholars' Lab is an interdisciplinary research lab for critical,
+            creative, and anti-oppressive explorations of the intersections of
+            technology and culture. We offer mentoring, collaboration, and
+            supportive space for anyone curious about pushing scholarly
+            boundaries through creative, computational research practice. While
+            much of our work deals with cultural and humanities questions, we
+            welcome and routinely collaborate with all disciplines. Our staff
+            offer deep expertise in digital humanities, computer and information
+            science, spatial technologies, maker, and cultural heritage
+            approaches. Our international scholarly leadership lets us connect
+            UVA colleagues to the forefront of digital and experimental
+            scholarship, collaborators, and opportunities.</p>
     </div>
     <figure>
         <img src="" alt="">
@@ -42,19 +58,23 @@ title: Home
 <section id="our-spaces" class="feature">
     <div>
         <h2>Our Work</h2>
-        <p>Curious? Please get in touch — absolutely no prior experience or fully formed ideas needed! Email us at <a href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a> with questions, or to schedule a teaching or research consultation. Our staff has particular strengths in:		
-<ul>
-<li>digital humanities</li>
-<li>DH project design & development</li> 
-<li>collaborative project management</li>
-<li>digital pedagogy</li>
-<li>GIS/mapping & analysis</li>
-<li>cultural heritage informatics</li>
-<li>3D laser scanning & photogrammetry</li>
-<li>3D printing, making, & electronics</li>
-<li>and virtual/augmented reality</li>
-</ul>
-</p>
+        <p>Curious? Please get in touch — absolutely no prior experience or
+            fully formed ideas needed! Email us at <a
+                href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a>
+            with questions, or to schedule a teaching or research consultation.
+            Our staff has particular strengths in:
+        <ul>
+            <li>digital humanities</li>
+            <li>DH project design & development</li>
+            <li>collaborative project management</li>
+            <li>digital pedagogy</li>
+            <li>GIS/mapping & analysis</li>
+            <li>cultural heritage informatics</li>
+            <li>3D laser scanning & photogrammetry</li>
+            <li>3D printing, making, & electronics</li>
+            <li>and virtual/augmented reality</li>
+        </ul>
+        </p>
     </div>
     <figure>
         <img src="/assets/img/makerspace/printmaking1.jpg" alt="">
@@ -68,21 +88,39 @@ title: Home
     <div>
         <h2>Lab Space & Makerspace</h2>
         <h3>THE LAB</h3>
-        <p>The Scholars’ Lab includes staff offices, co-working areas, an event space, a VR immersion space (<< LINK #tk), and data processing workstations. Appointments are encouraged if you want to meet a particular staff member or ensure access to specific equipment (<< Reservation info LINK #tk), though the space itself is open whenever Shannon Library is open.</p>
-		<h3>THE LAB'S MAKERSPACE</H3>
-<p>The Makerspace is a place for tinkering and experimentation with technologies like circuitry, 3D printing, and laser cutting. Open to everyone, we specialize in applications and research questions in the humanities and arts. The Makerspace staff provides consultation and instruction whenever the Makerspace is open, or by appointment. Please drop in, or send inquiries to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>.</p>
-</p>
+        <p>The Scholars’ Lab includes staff offices, co-working areas, an event
+            space, a VR immersion space (<< LINK #tk), and data processing
+                workstations. Appointments are encouraged if you want to meet a
+                particular staff member or ensure access to specific equipment
+                (<< Reservation info LINK #tk), though the space itself is open
+                whenever Shannon Library is open.</p>
+                <h3>THE LAB'S MAKERSPACE</H3>
+                <p>The Makerspace is a place for tinkering and experimentation
+                    with technologies like circuitry, 3D printing, and laser
+                    cutting. Open to everyone, we specialize in applications and
+                    research questions in the humanities and arts. The
+                    Makerspace staff provides consultation and instruction
+                    whenever the Makerspace is open, or by appointment. Please
+                    drop in, or send inquiries to <a
+                        href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>.
+                </p>
+        </p>
     </div>
     <figure>
         <img src="" alt="">
-            <figcaption></figcaption>
+        <figcaption></figcaption>
         </img>
     </figure>
 </section>
 <section class="feature">
     <div>
         <h2>Digital Humanities Code + Design</h2>
-        <p>We provide research and teaching consultation on a variety of digital humanities concepts, approaches, and tools, including digital collections & exhibitions, data collection and management, machine learning, text analysis, and more. Our particular strengths lie in the critical pedagogical and scholarly application of those technologies for the humanities.</p>
+        <p>We provide research and teaching consultation on a variety of digital
+            humanities concepts, approaches, and tools, including digital
+            collections & exhibitions, data collection and management, machine
+            learning, text analysis, and more. Our particular strengths lie in
+            the critical pedagogical and scholarly application of those
+            technologies for the humanities.</p>
     </div>
     <figure>
         <img src="" alt=""></img>
@@ -92,22 +130,34 @@ title: Home
 <section class="feature">
     <div>
         <h2>Spatial Technologies</h2>
-        <p>We've got experts in mapping, GIS data, cultural heritage laser scanning & preservation, augmented & virtual reality, and other spatial approaches (including ArcGIS StoryMaps) for representing our world across space + time. Contact us at <a href="mailto:spatial@virginia.edu">spatial@virginia.edu</a> to schedule an individual consultation or course instruction session. </p>
+        <p>We've got experts in mapping, GIS data, cultural heritage laser
+            scanning & preservation, augmented & virtual reality, and other
+            spatial approaches (including ArcGIS StoryMaps) for representing our
+            world across space + time. Contact us at <a
+                href="mailto:spatial@virginia.edu">spatial@virginia.edu</a> to
+            schedule an individual consultation or course instruction session.
+        </p>
     </div>
     <figure>
         <img src="" alt="">
-            <figcaption></figcaption>
+        <figcaption></figcaption>
         </img>
     </figure>
 </section>
 <section class="feature">
     <div>
         <h2>Fellowships + Training</h2>
-        <p>We support the work of emerging scholars and digital humanities practitioners. In addition to our general consultations, we offer three graduate fellowship programs that provide students with the time, space, and mentorship necessary to discover, explore, and build. We also offer a wide variety of opportunities for students and faculty to gain training and experience as digital humanists.</p>
+        <p>We support the work of emerging scholars and digital humanities
+            practitioners. In addition to our general consultations, we offer
+            three graduate fellowship programs that provide students with the
+            time, space, and mentorship necessary to discover, explore, and
+            build. We also offer a wide variety of opportunities for students
+            and faculty to gain training and experience as digital humanists.
+        </p>
     </div>
     <figure>
         <img src="" alt="">
-            <figcaption></figcaption>
+        <figcaption></figcaption>
         </img>
     </figure>
 </section>
