@@ -15,4 +15,4 @@ Please join us for a showcase of the work undertaken by the Scholars' Lab's 2023
 
 For more details about the Scholars' Lab's [DH Fellowship program](https://scholarslab.lib.virginia.edu/digital-humanities-fellows/), please see our website.
 
-![image of VR project in process to reconstruct the laptop](/assets/img/saunders.png)
+![image of VR project in process to reconstruct the laptop](/assets/img/work/jennifer-saunders-vr-project.png)

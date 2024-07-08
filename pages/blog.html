@@ -55,8 +55,9 @@ excerpt: "Our thoughts, from rough new ideas to polished arguments. Scholars’ 
 				</hgroup>
 			</header>
 				<div class="content">
-				{% if post.pull-quote %}
-				{{ post.pull-quote | prepend: '"' | append: '"' | smartify }}
+				<!-- # Summary from YAML, or 1st 25 words of post content. -->
+				{% if post.summary %}
+				{{ post.summary | smartify }}
 				{% else %}
 				{{ post.content | strip_html | truncatewords: 25 | markdownify }}
 				{% endif %}
