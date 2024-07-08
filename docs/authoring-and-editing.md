@@ -233,6 +233,10 @@ Return to Step 7 when you're ready to commit (aka save) your changes again.
 
 When you've finished drafting the post and you're ready to publish, jump down to ["instructions on moving your writing to the main repo"](#2-move-your-writing-to-the-main-repo).
 
+*Troubleshooting*: Our scholarslab.org/blog page displays blog post titles followed by the 1st 25 words of the blog post. If this excerpt for your post looks weird to you for some reason (e.g. if you've got a heading within the first 25 words of your post, it will look confusing); or if you want to have that excerpt say something else than the first 25 words of your post (e.g. "A post about xyz") you can add a line to the YAML (info between the ```---``` section at top of your post) that looks like this:
+```summary: "The summary I want to appear on the /blog page, instead of an excerpt of the first 25 words of my post."```
+You can check out [the YAML on this post](https://raw.githubusercontent.com/scholarslab/scholarslab.org/master/collections/_posts/2024-06-10-resin-casting-projects.md) for an example of how that should look.
+
 *Want a sneak peak at the final visual appearance of your post?* Although this isn't the same as seeing what your post will look like when published to our website, you can always look at the GitHub repo version of your post to see whether your Markdown formatting looks right (Step 9 above, except don't click on the edit icon, just scroll down to see your post). To see what your post looks like on the final website (i.e. incorporating all our special website design/styling), you'll either need to [follow this other tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) to learn to edit the site locally, or wait until you're ready to publish. (There's a tool called Netlify that lets you see what your webpage will look like, but we only have it set up to work when you're moving your page to the live site—not when you're still drafting.)
 
 #### Add an event
