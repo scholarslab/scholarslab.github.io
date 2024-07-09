@@ -3,8 +3,6 @@ layout: page
 title: For Faculty
 permalink: /for-faculty/
 nav: true
-order: 5
-# slug: faculty
 ---
 
 We frequently work with UVA faculty, and are especially interested in assisting:

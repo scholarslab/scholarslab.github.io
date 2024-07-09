@@ -48,11 +48,52 @@ collections:
 
 header_pages:
   - about.md
-  - people.md
-  - blog.md
-  - work.md
-  - search.html
+  - expertise.md
+  - collaborate.md
+  - community.md
+  - scholarship.html
 
+## Nested list for primary navigation.
+primary-navigation:
+  - label: "Opportunities"
+    url: "for-students"
+  - label: "Expertise"
+    url: "expertise"
+  - label: "Collaborate"
+    url: "collaborate"
+  - label: "Community"
+    url: "community"
+  - label: "Scholarship"
+    url: "scholarship"
+
+for-students-navigation:
+  - "dh_fellows.md"
+  - "praxis.md"
+  - "lami.md"
+
+about-navigation:
+  - "about.md"
+  - "charter.md"
+  
+expertise-navigation:
+  - "dh-code-design.md"
+  - "spatial-technologies.md"
+  - "makerspace.md"
+  
+collaborate-navigation:
+  - "for-students.md"
+  - "for-faculty.md"
+  - "for-everyone.md"
+  
+community-navigation:
+  - "people.md"
+  - "events.md"
+  - "news.md"
+  - "spaces-equipment.md"
+  
+scholarship-navigation:
+  - "work.md"
+  - "blog.md"
 
 defaults:
   - scope:
@@ -71,21 +112,3 @@ defaults:
     values:
       order: 10
       og_type: "website"
-
-## Nested list for primary navigation.
-primary-navigation:
-  - label: "Opportunities"
-    url: "for-students"
-  - label: "Code + Design"
-    url: "research-and-development"
-  - label: "Makerspace"
-    url: "makerspace"
-  - label: "Spatial Tech"
-    url: "spatial-technologies"
-  - label: "Our Work"
-    url: "work"
-
-for-students-navigation:
-  - "dh_fellows.md"
-  - "praxis.md"
-  - "lami.md"

@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 nav: true
-order: 1
+# order: 1
 ---
 
 <!-- Old text is still below this new text; please leave there while we figure out whether FAQ etc. goes on this page vs. other pages -->
