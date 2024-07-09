@@ -55,7 +55,7 @@ header_pages:
 
 ## Nested list for primary navigation.
 primary-navigation:
-  - label: "Opportunities"
+  - label: "About"
     url: "for-students"
   - label: "Expertise"
     url: "expertise"
@@ -66,34 +66,28 @@ primary-navigation:
   - label: "Scholarship"
     url: "scholarship"
 
-for-students-navigation:
-  - "dh_fellows.md"
-  - "praxis.md"
-  - "lami.md"
-
 about-navigation:
-  - "about.md"
-  - "charter.md"
+  - "about/about.md"
+  - "about/people.md"
+  - "about/charter.md"
   
 expertise-navigation:
-  - "dh-code-design.md"
-  - "spatial-technologies.md"
-  - "makerspace.md"
+  - "expertise/dh-code-design/dh-code-design.md"
+  - "expertise/spatial-technologies/spatial-technologies.md"
+  - "expertise/makerspace/makerspace.md"
   
 collaborate-navigation:
-  - "for-students.md"
-  - "for-faculty.md"
-  - "for-everyone.md"
+  - "collaborate/for-students/for-students.md"
+  - "collaborate/for-faculty/for-faculty.md"
+  - "collaborate/for-everyone.md"
   
 community-navigation:
-  - "people.md"
-  - "events.md"
-  - "news.md"
-  - "spaces-equipment.md"
+  - "community/events.md"
+  - "community/spaces-equipment.md"
   
 scholarship-navigation:
-  - "work.md"
-  - "blog.md"
+  - "scholarship/work.md"
+  - "scholarship/blog.md"
 
 defaults:
   - scope:
