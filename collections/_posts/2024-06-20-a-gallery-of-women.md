@@ -4,6 +4,7 @@ date: 2024-06-20
 layout: post
 slug: cbw-about1919-alison
 title: "A World War I Gallery of Women, or, a 1919 Project"
+summary: "We noticed that collections of chapter-length biographies of women show the impact of wars across centuries, even though it is widely assumed that politics and the military are exclusively male."
 categories:
 - Digital Humanities
 - Grad Student Research
