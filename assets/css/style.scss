@@ -72,24 +72,27 @@ img {
 @import "_colors/slab-palette";
 
 #library-banner {
-	padding: 1rem;
-	background: var(--uvalib-secondary-web-blue);
+	position: absolute;
+	padding-left: 2rem;
 }
 
 #library-link {
 	display: block;
-	width: 150px;
+	width: 200px;
+	background-color: var(--uvalib-secondary-web-blue);
+	padding: 0.5rem 1rem 0;
+
 }
 
 #scholarslab-header {
-	padding: 2rem;
+	padding: 0.5rem 2rem 2rem;
 	display:flex;
 	flex-direction: row;
 	justify-content: space-between;
 	flex-wrap:nowrap;
-
+	background-color: rgba($blue-alt,0.5);
 	.home & {
-		min-height: 40vh;
+		min-height: 30vh;
 
 		hgroup {
 			align-self:flex-end;
@@ -185,10 +188,10 @@ body.post #main article header:first-of-type
  {
 	background-color: rgba($blue-alt, 1);
 	color: white;
-	background-image: url('/assets/img/makerspace/blue-waves.jpg');
-	background-size: cover;
-	background-position: center center;
-	background-attachment: fixed;
+	// background-image: url('/assets/img/makerspace/blue-waves.jpg');
+	// background-size: cover;
+	// background-position: center center;
+	// background-attachment: fixed;
 }
 
 #newsletter {
