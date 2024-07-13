@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Expertise
-permalink: /expertise/
 nav: true
 order: 2
 ---

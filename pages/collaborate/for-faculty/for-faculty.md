@@ -1,7 +1,6 @@
 ---
 layout: page
 title: For Faculty
-permalink: /for-faculty/
 nav: true
 ---
 
@@ -17,5 +16,6 @@ Opportunities with SLab include:
 * Connection to our international scholarly network for conferences, collaborators, job searches, scholarly communication and amplification, and other opportunities 
 * DHSI tuition waivers (limited number each year, by application announced on blog)
 * SLab staff partnership with other expert Library colleagues on the Library's Course Enrichment Grants and Faculty Research Sprints
+* For faculty considering applying to other roles with some digital scholarship inflection, [our professional development opportunities](/professional-development)
 
 See also our DH Center partners <a href="https://www.iath.virginia.edu/">IATH</a>, for their annual faculty fellowship opportunities.

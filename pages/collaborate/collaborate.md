@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Collaborate
-permalink: /collaborate/
 nav: true
 order: 3
 ---

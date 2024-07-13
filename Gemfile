@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '~>3.0.4'
+ruby '3.2.2'
 
 gem "jekyll", "~>3.7"
 gem "jekyll-paginate-v2", "~>1.9"
@@ -22,3 +22,4 @@ gem 'ruby-progressbar'
 gem 'kramdown'
 gem "ffi", ">=1.15"
 gem 'kramdown-parser-gfm'
+gem 'jekyll-redirect-from'

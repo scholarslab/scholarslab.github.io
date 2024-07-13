@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Charter
-permalink: /charter/
 nav: true
+redirect_from:
+  - /charter
+  - /accessibility
 ---
 
 [_The following charter dates back to pre-2017; updates are in the works, but we leave this page up for now as it still captures many core values of the lab._]

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Makerspace Technologists
-permalink: /makerspace-technologists/
 nav: false
+redirect_from:
+  - /makerspace-technologists
 ---
 
 Our [Makerspace](/makerspace) is designed to foster experimentation with 3D printing, modeling, and digitization, physical computing (e.g. Arduino, wearables), virtual reality, and more. For humanists, it is a good way to learn more about experimental and digital humanities by exploring new uses for digital technologies in fields that do not traditionally integrate them. No prior experience with electronics or 3D printing is needed. Successful candidates will be trained on these tools and will in turn pass on their training to disciplinarily diverse students, faculty, and staff interested in using them for fun, teaching, and research. We also strongly encourage technologists to work on their own personal projects and to develop expertise based on their own scholarly interests.

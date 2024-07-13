@@ -7,6 +7,8 @@ title: Celebrating a Year of Blogging
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2019/12/17/year-of-blogging-digital-humanities
+redirect_from:
+  - /blogging
 ---
 We are proud of our 2019 "Year of Blogging"'s success! We invite you to read our blogging challenge debrief of the year's process and posts, below. We'll be sharing our plans for taking our blogging To The Next Level in early 2020.
 

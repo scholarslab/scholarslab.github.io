@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Leadership Alliance Mellon Initiative
-permalink: /lami/
 nav: false
+redirect_from:
+  - /lami
 ---
 The Scholars’ Lab and the University of Virginia Library regularly contribute programming for summer fellows from the [Leadership Alliance Mellon Initiative (LAMI)](https://graddiversity.virginia.edu/initiatives/leadership-alliance) in residence at UVA. 
 

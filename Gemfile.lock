@@ -43,6 +43,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate-v2 (1.9.4)
       jekyll (~> 3.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.4.0)
@@ -100,6 +102,7 @@ DEPENDENCIES
   jekyll (~> 3.7)
   jekyll-feed (~> 0.9)
   jekyll-paginate-v2 (~> 1.9)
+  jekyll-redirect-from
   jekyll-sitemap (~> 1.1)
   json
   kramdown
@@ -110,7 +113,7 @@ DEPENDENCIES
   webrick
 
 RUBY VERSION
-   ruby 3.0.4p208
+   ruby 3.2.2p53
 
 BUNDLED WITH
    2.2.33

@@ -1,8 +1,24 @@
 ---
-layout: page
-title: Cultural Heritage Informatics Documentation
-permalink: /cultural-heritage-informatics-documentation/
-nav: false
+collaborators: 
+  - name: Will Rourk
+    slug: will-rourk
+    role: 3D Data and Content Specialist
+  - name: Arin Bennett
+    slug: arin-bennett
+    role: 3D Visualization Specialist
+  - name: Brandon Walsh
+    slug: brandon-walsh
+    role: Head of Student Programs
+layout: work
+slug: cultural-heritage-informatic-documentation
+title: 3D Cultural Heritage Informatics Documentation
+thumb-img: default-thumb.png
+banner-img: default-banner.png
+research-category: Student
+start-year: 2019
+end-year: 2019
+redirect_from:
+  - /cultural-heritage-informatics-documentation
 ---
 
 In 2019, the Scholars' Lab and UVA Library received funding from the <a href="https://uvaparents.virginia.edu/parents-fund/projects-funded/">UVA Parents Fund</a> to create documentation for working with augmented and virtual reality technologies on campus. The following posts were produced as an outcome from that project.
