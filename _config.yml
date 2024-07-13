@@ -57,7 +57,7 @@ header_pages:
 ## Nested list for primary navigation.
 primary-navigation:
   - label: "About"
-    url: "for-students"
+    url: "about"
   - label: "Expertise"
     url: "expertise"
   - label: "Collaborate"

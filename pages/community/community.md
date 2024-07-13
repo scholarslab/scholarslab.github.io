@@ -8,4 +8,4 @@ order: 4
 
 * [People](/people)
 * [Events](/events)
-* [Spaces & equipment](/spaces-equipment)
+* [Spaces & equipment](/spaces-and-equipment)
