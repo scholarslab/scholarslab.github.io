@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Scholarship
+permalink: /scholarship/
 nav: true
 order: 5
 ---

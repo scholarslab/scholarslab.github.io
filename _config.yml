@@ -73,22 +73,23 @@ about-navigation:
   - "about/charter.md"
   
 expertise-navigation:
-  - "expertise/dh-code-design/dh-code-design.md"
-  - "expertise/spatial-technologies/spatial-technologies.md"
-  - "expertise/makerspace/makerspace.md"
+  - "dh-code-design.md"
+  - "spatial-technologies.md"
+  - "makerspace.md"
+  - "expertise/dh-pedagogy" # folder, no page; for-students has redirect-from
   
 collaborate-navigation:
-  - "collaborate/for-students/for-students.md"
-  - "collaborate/for-faculty/for-faculty.md"
-  - "collaborate/for-everyone.md"
+  - "for-students.md"
+  - "for-faculty.md"
+  - "for-everyone.md"
   
 community-navigation:
-  - "community/events.md"
-  - "community/spaces-equipment.md"
+  - "events.md"
+  - "spaces-equipment.md"
   
 scholarship-navigation:
-  - "scholarship/work.md"
-  - "scholarship/blog.md"
+  - "work.md"
+  - "blog.md"
 
 defaults:
   - scope:

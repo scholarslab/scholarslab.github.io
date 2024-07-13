@@ -1,6 +1,7 @@
 ---
 layout: page
 title: For Everyone
+permalink: /for-everyone/
 nav: true
 ---
 

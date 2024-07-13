@@ -1,6 +1,7 @@
 ---
 layout: page
 title: For Faculty
+permalink: /for-faculty/
 nav: true
 ---
 

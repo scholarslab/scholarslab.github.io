@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Scholars' Lab
+permalink: /about/
 nav: true
 # order: 1
 redirect_from:
-  - /about
   - /library
 ---
 

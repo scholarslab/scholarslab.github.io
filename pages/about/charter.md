@@ -2,8 +2,8 @@
 layout: page
 title: Charter
 nav: true
+permalink: /charter/
 redirect_from:
-  - /charter
   - /accessibility
   - /about/charter
 ---
