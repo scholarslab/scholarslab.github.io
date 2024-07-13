@@ -10,6 +10,8 @@ categories:
 crosspost:
   - title: my personal blog
     url: https://jennifergrayburn.com/2016/06/08/3d-printing-in-the-classroom-outcomes-and-reflections-on-a-slavic-course-experiment-22/
+redirect_from:
+  - /makerspace/3d-printing-in-the-classroom-outcomes-and-reflections-on-a-slavic-course-experiment-22
 ---
 
 UVA's Slavic Librarian, Kathleen Thompson, and Slavic Lecturer, Jill Martiniuk, conclude their [two-part evaluation](http://scholarslab.org/makerspace/3d-printing-in-the-classroom-outcomes-and-reflections-on-a-slavic-course-experiment-12/) of the [3D printing assignment for Yuri Urbanovich's 'Understanding Russia' course](http://scholarslab.org/uncategorized/3d-printing-in-the-classroom-course-assignments-and-the-makerspace/). Considering both student and professor feedback, Kathleen and Jill offer suggestions to continue and improve this interactive assignment for future courses:

@@ -6,6 +6,8 @@ slug: hack-your-pants-video
 title: Hack your pants - video
 categories:
 - Makerspace
+redirect_from:
+  - /makerspace/hack-your-pants-video
 ---
 
 Here's a quick video to show you how to make your pants pockets bigger!

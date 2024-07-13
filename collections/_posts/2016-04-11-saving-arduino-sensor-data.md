@@ -9,6 +9,8 @@ categories:
 tags:
 - Arduino
 - Raspberry Pi
+redirect_from:
+  - /makerspace/saving-arduino-sensor-data
 ---
 
 ![IMG_20160411_103622522_HDR](http://static.scholarslab.org/wp-content/uploads/2016/04/IMG_20160411_103622522_HDR-1024x768.jpg)

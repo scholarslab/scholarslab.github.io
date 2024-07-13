@@ -7,6 +7,8 @@ title: Raspberry Pi on UVa WiFi Network
 categories:
 - Makerspace
 - Technical Training
+redirect_from:
+  - /makerspace/raspberry-pi-on-uva-wifi-network
 ---
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/04/raspberry-pi-logo-254x300.png)

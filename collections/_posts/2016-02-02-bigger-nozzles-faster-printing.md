@@ -6,6 +6,8 @@ slug: bigger-nozzles-faster-printing
 title: Bigger nozzles, faster printing
 categories:
 - Makerspace
+redirect_from:
+  - /makerspace/bigger-nozzles-faster-printing
 ---
 
 This week at the SLab Makerspace, we've been experimenting with faster 3D printing at lowering resolutions with larger extruder nozzles.

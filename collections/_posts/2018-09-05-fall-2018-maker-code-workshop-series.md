@@ -7,6 +7,8 @@ title: Fall 2018 Maker & Code Workshop Series
 categories:
 - Makerspace
 - Technical Training
+redirect_from:
+  - /makerspace/fall-2018-maker-code-workshop-series
 ---
 
 **Makerspace Workshop: Programming Electronics on the Raspberry Pi**

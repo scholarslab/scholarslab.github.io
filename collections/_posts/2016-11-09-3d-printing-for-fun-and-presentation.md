@@ -11,6 +11,8 @@ tags:
 - pokemon
 - presentation
 - student
+redirect_from:
+  - /makerspace/3d-printing-for-fun-and-presentation
 ---
 
 This post is a quick update on a couple of projects by students who frequent the makerspace. All of the students who use the space are doing amazing things, and we hope to highlight some of those projects like this more often.

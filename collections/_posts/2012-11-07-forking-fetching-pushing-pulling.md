@@ -15,6 +15,8 @@ tags:
 - open source
 - praxis program
 - pull requests
+redirect_from:
+  - /dh-developer/forking-fetching-pushing-pulling
 ---
 
 Even though a lot of open source projects encourage folks to look at the code and modify it, they don't just let anyone add anything back to the original project. Projects usually have one or several people with direct commit access, who don't need permission to do commits. This doesn't mean you can't contribute to the project; you'll just need to get your own copy of the code, make changes there, and then send them back to the original project for review.

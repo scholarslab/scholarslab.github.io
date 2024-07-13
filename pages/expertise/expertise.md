@@ -10,3 +10,12 @@ While much of our work investigates cultural and humanities questions, we are op
 * [Code + Design](/dh-code-design)
 * [Spatial Technologies](/spatial-technologies)
 * [Makerspace](/makerspace)
+
+We are an internationally recognized scholarly [team](/people/), with strengths including:
+- the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)
+- GIS, mapping, & other spatial technologies
+- cultural heritage informatics (including photogrammetry, scanning, and modeling of artifacts and historic architecture; and exploring virtual reality and augmented reality approaches to this data)
+- pedagogy, training, & mentorship in the digital humanities and spatial technologies, practiced with our ~60 formally supported students each year (plus additional, informal support of students via consultation & public programming)
+- research & development (e.g. programming and design)
+- makerspaces and making as scholarship
+- librarianship (e.g. expert consultation for experimental scholarly projects)

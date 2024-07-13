@@ -6,6 +6,8 @@ slug: 1st-annual-makerspace-hackontest
 title: 1st Annual Makerspace Hackontest
 categories:
 - Makerspace
+redirect_from:
+  - /makerspace/1st-annual-makerspace-hackontest
 ---
 
 The Scholars' Lab staff and Makerspace Technologists completed the first ever annual/biannual/semesterly SLab Makerspace Hackontest. The brain-child of Shane Lin, this contest, in short, was to get SLab staff and Makerspace techs together to create something that would keep an egg from cracking; a spin on the traditional egg drop competitions you may have had in middle or high school.
