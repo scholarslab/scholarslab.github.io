@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Digital Humanities Fellows Program
+permalink: /digital-humanities-fellows/
 nav: false
-redirect_from:
-  - /digital-humanities-fellows
 ---
 
 **Applications are now open for the 2024-2025 Digital Humanities Fellowship cohort.**

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Cultural Heritage Informatics Internship
+permalink: /cultural-heritage-informatics-internship/
 nav: false
-redirect_from:
-  - /cultural-heritage-informatics-internship
 ---
 
 The University of Virginia Library has the unique opportunity and expertise to acquire data of sites and objects in and around the Academical Village. Opportunities afforded to the Library include collaborative projects to scan and 3D print artifacts with the Fralin Museum and University Library Special Collections, and to 3D scan historic sites such as Montpelier, Monticello, and the Academical Village. Each semester, students are invited to train with Library experts on advanced documentation technologies that will quite likely enable them to transform their professional field.

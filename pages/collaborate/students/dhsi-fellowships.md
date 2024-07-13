@@ -1,9 +1,8 @@
 ---
 layout: page
 title: DHSI Tuition Fellowships
+permalink: /dhsi-tuition-fellowships/
 nav: false
-redirect_from:
-  - /dhsi-tuition-fellowships
 ---
 
 **Opportunity is subject to funding availability.**

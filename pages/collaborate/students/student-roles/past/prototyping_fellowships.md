@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Digital Humanities Prototyping Fellowships
+permalink: /digital-humanities-prototyping-fellowships/
 nav: false
-redirect_from:
-  - /digital-humanities-prototyping-fellowships
 ---
 
 **CFP is subject to funding availability. There is not a current or planned call for fellows.**
