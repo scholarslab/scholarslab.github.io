@@ -20,6 +20,8 @@ banner-img: default-banner.png
 research-category: Internal Projects
 start-year: 2019
 end-year: 2020
+redirect_from:
+  - /blogging
 ---
 
 The "Year of Blogging" was our successful 2019 challenge to increase our blog publications. The challenge started off with Brandon Walsh and Amanda Visconti committing to write one post per month throughout all of 2019. Ammon Shepherd stepped things up early on with a series of four posts on DH archiving that were co-written with other SLab and UVA Library staff. 

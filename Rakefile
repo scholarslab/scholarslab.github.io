@@ -107,9 +107,9 @@ position: None
 short_bio: 'A short one-sentence bio.'
 slug: #{slug}
 status: current or not_current
-website: None
+website: 
 people-category:
-- Pick one of student or staff
+- Pick one of student, director, or staff
 roles:
 - LAMI FELLOW, 2018 (for example)
 ---
@@ -147,51 +147,5 @@ content of your post here. The above information is meant to be a template.")
   puts "New post created at #{fn}"
 end
 
-desc "Delete corpus files to regenerate"
-task :delete_corpus do
-    if File.file?('./corpus.json')
-        File.delete('./corpus.json')
-    end
-    if File.file?('./search_index.json')
-        File.delete('./search_index.json')
-    end
-    if File.exist?('./_site')
-        FileUtils.rm_rf('./_site')
-    end
-end
-
-desc "Create corpus for search"
-file './corpus.json' => ['./', *Rake::FileList['collections/**/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
-    unsafe_loader = ->(string) { YAML.load(string) }
-    corpus = md_file.sources.grep(/\.md$/)
-      .map do |path|
-        file_path = './' + path
-        parsed = FrontMatterParser::Parser.parse_file(file_path, loader: unsafe_loader)
-        contentHtml = Kramdown::Document.new(parsed.content).to_html
-        {
-          id: path.pathmap('%n'),
-          title: parsed.front_matter["title"],
-          author: parsed.front_matter["author"],
-          date: parsed.front_matter["date"],
-          categories: parsed.front_matter["categories"],
-          url: parsed.front_matter["slug"],
-          layout: parsed.front_matter["layout"],
-          content: contentHtml.striphtml,
-        }
-      end
-  File.open(md_file.name, 'w') do |f|
-    f << JSON.generate(corpus)
-  end
-end
-
-file './search_index.json' => ['./corpus.json'] do |t|
-  Open3.popen2('node script/build-index') do |stdin, stdout, wt|
-    IO.copy_stream(t.source, stdin)
-    stdin.close
-    IO.copy_stream(stdout, t.name)
-  end
-end
-
-task :generate_search => [:delete_corpus, './corpus.json', './search_index.json']
 task :default => [:install_dependencies]
-task :publish => [:install_dependencies, :generate_search, :build_site]
+task :publish => [:install_dependencies, :build_site]
