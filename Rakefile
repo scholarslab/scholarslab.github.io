@@ -79,7 +79,7 @@ end_time: '16:00:00'
 layout: events
 slug: #{title_slug + "-" + event_date}
 title: '#{titlecase_title}'
-location: 'Alderman 423'
+location: 'Shannon 308 (SLab Common Room)'
 ---
 Description of the event - meant to be replaced with your information. The above information is meant to offer you a template. Note, you may also add the following, optional metadata by copying it to the above header on a new line after location but before the three dashes:
 
@@ -133,11 +133,6 @@ date: #{current_time}
 layout: post
 slug: #{title_slug}
 title: #{args.title.titlecase}
-categories:
-- Example category
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: if your post is crossposted, the text here will be the text of the link, while the URL key will be the link itself. If not crossposting you can delete the crossposting key.
     url: https://yourcoollink.com
