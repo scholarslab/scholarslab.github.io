@@ -5,10 +5,7 @@ layout: post
 slug: gis-workshops-fall-2020
 title: GIS Workshops for Fall 2020, We're Going Virtual
 categories:
-- Digital Humanities
-- GIS
-tags:
-- Digital Humanities
+- Geospatial and Temporal
 ---
 
 Feel free to scroll past all the extra words for a course schedule and registration links, below. 

@@ -4,10 +4,6 @@ date: 2023-07-03
 layout: post
 slug: the-shape-of-dh-work
 title: The Shape Of DH Work
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/the-shape-of-dh-work

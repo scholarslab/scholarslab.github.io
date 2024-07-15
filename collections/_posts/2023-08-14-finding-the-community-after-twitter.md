@@ -4,10 +4,8 @@ date: 2023-08-14
 layout: post
 slug: finding-the-community-after-twitter
 title: Finding The Community After Twitter
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
+- social media
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/finding-the-community-after-twitter

@@ -6,10 +6,6 @@ date: 2023-07-31
 layout: post
 slug: a-meeting-toolkit-for-new-facilitators
 title: A Meeting Toolkit For New Facilitators
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/a-meeting-toolkit-for-new-facilitators

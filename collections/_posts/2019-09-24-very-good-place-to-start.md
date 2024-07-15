@@ -5,10 +5,7 @@ layout: post
 slug: very-good-place-to-start
 title: "A Very Good Place to Start"
 categories:
-- Digital Humanities
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 The last few weeks we (the 2019-20 Praxis Fellows) have started learning to code. Our first assignment ([as Connor already mentioned](https://scholarslab.lib.virginia.edu/blog/unlearn-what-you-have-learned/)) was to write code that turned a word into Pig Latin. I’m sure it was a technically-simple exercise, but as I (we) have learned, coding is challenging and is like learning a new language. Not even “like” learning a new language -- it is learning a new language. We have to learn how to configure various elements (variables, functions, arguments, etc.) to work together in a series, using the appropriate “punctuation,” to convey information and produce a desired outcome. Any missing or misplaced ( ) or “ ” throws off the entire process. It is like writing a good sentence or crafting a good essay. If you don’t follow the grammatical and syntaxial rules, you don’t get your point across to the reader. 
 

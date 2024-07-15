@@ -5,11 +5,10 @@ layout: post
 slug: dice-used-for-games-prophecies-and-learning
 title: "Dice Used for Games, Prophecies, and Learning: 3D Printing Ancient Knucklebones"
 categories:
-- Digital Humanities
 - Makerspace
 - Grad Student Research
 tags:
-- Digital Humanities
+- games
 ---
 
 If you are a fan of D&D, you know that there are countless different shapes, colors, and sizes of dice out there. Honestly, it can be a bit overwhelming for a beginner looking to buy their first set. This was my experience when I first learned to play D&D (virtually) with a group of friends during the Pandemic, and I became interested in learning the history of these little objects. Perhaps surprisingly, I discovered that cultures across the globe and across time have developed their own versions of dice. The ancient Greeks and Romans were no exception.

@@ -5,10 +5,7 @@ layout: post
 slug: how-do-stories-speak-to-us
 title: How Do Stories Speak To Us?
 categories:
-- Digital Humanities
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 ## How Do Stories Speak to Us?
 

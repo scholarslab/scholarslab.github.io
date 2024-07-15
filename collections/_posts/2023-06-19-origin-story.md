@@ -4,10 +4,6 @@ date: 2023-06-19
 layout: post
 slug: origin-story
 title: Origin Story
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/origin-story

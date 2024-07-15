@@ -5,10 +5,8 @@ layout: post
 title: Map out of it! GIS workshops with no messy commitment. 
 slug: gis-workshops-spring-2024
 categories:
-- Digital Humanities
-- GIS
-tags:
-- Digital Humanities
+- Geospatial and Temporal
+type: announcement
 ---
 
 What do [obscure Gen-X movie references](https://www.youtube.com/watch?v=Uz95y3gLNA4) have to do with GIS workshops?  Nothing at all, just go with it. 

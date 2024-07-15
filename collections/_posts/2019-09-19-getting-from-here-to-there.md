@@ -4,10 +4,6 @@ date: 2019-09-19 15:06:10
 layout: post
 slug: getting-from-here-to-there
 title: Getting from Here To There
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: my personal blog
     url: http://walshbr.com/blog/getting-from-here-to-there/

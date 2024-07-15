@@ -8,10 +8,6 @@ slug: putting-the-humanities-phd-to-work-efforts-at-uva
 title: "Putting The Humanities Phd To Work: Efforts At UVA"
 categories:
 - Pedagogy
-- Digital Humanities
-tags:
-- Digital Humanities
-- Pedagogy
 crosspost:
 - title: the PHD+ Blog
   url: https://phdplus.virginia.edu/putting-humanities-phd-work-efforts-uva

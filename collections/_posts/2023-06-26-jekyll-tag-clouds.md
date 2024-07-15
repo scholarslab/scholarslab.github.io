@@ -4,10 +4,6 @@ date: 2023-06-26
 layout: post
 slug: jekyll-tag-clouds
 title: Jekyll Tag Clouds
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's Blog
     url: https://walshbr.com/blog/jekyll-tag-clouds

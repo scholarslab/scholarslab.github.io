@@ -5,9 +5,7 @@ layout: post
 slug: free-writing-about-pedagogy
 title: Free Writing About Pedagogy
 categories:
-- Digital Humanities
-tags:
-- Digital humanities
+- Pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/free-writing-about-pedagogy

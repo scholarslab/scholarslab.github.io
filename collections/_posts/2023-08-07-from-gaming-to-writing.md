@@ -4,10 +4,8 @@ date: 2023-08-07
 layout: post
 slug: from-gaming-to-writing
 title: From Gaming To Writing
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
+- games
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/from-gaming-to-writing

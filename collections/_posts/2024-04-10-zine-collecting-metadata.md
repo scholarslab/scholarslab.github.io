@@ -4,10 +4,9 @@ date: 2024-04-10
 layout: post
 slug: zine-collecting-metadata
 title: "Metadata for Zine Collecting"
-categories:
-- Digital Humanities
 tags:
-- Digital humanities
+- zines
+- metadata
 ---
 
 I've been focused on internal-facing zine work the last couple years, due in part to Scholars' Lab lacking public zine space due to our building's renovation (but we're open in a renovated new location as of earlier this year—come hang out!). I've added zines to [my zine catalogue](https://airtable.com/appY7WyBFjSzLXQd6/shr3DDj5X1uNPUzyn), both from acquiring physical copies and from researching zines in my areas of interest. I've improved my catalogue, moving to Airtable from a spreadsheet so that I can use a relational setup to interlink various reading data, and added/described/filled in many metadata fields per zine. I've written about this Airtable setup, and my multiple makerspace and data physicalization projects fueled by my database, in a forthcoming peer-reviewed article for a _dh+lib_ special issue (Spring 2024!).

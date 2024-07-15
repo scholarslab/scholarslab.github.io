@@ -4,10 +4,6 @@ date: 2023-07-10
 layout: post
 slug: digital-humanities-and-the-ellington-effect
 title: Digital Humanities And The Ellington Effect
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/digital-humanities-and-the-ellington-effect

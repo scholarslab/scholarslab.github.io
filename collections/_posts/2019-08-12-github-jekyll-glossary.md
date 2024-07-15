@@ -4,10 +4,6 @@ date: 2019-08-12
 layout: post
 slug: github-jekyll-glossary
 title: "Running a collaborative blog: A glossary for GitHub & Jekyll"
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2019/08/12/github-jekyll-glossary

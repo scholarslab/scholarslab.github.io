@@ -4,10 +4,8 @@ date: 2023-11-08
 layout: post
 slug: jekyll-crossposting-with-rake
 title: Jekyll Crossposting with Rake
-categories:
-- Digital Humanities
 tags:
-- Digital humanities
+- jekyll
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/jekyll-crossposting-with-rake

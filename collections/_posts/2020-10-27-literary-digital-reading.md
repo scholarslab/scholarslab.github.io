@@ -5,14 +5,11 @@ layout: post
 slug: literacy-digital-reading
 title: "Literacy Gone Digital: Reading and Unreading Digital Texts"
 categories:
-- Digital Humanities
 - Pedagogy
+- Grad Student Research
+tags:
 - Reading 
 - Digital text
-
-tags:
-- Digital Humanities
-- Pedagogy 
 - Workshop
 ---
 

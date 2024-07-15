@@ -5,11 +5,8 @@ layout: post
 slug: leigh-space-in-video-games
 title: "Space→Time+Materiality=Place"
 categories:
-- Digital Humanities
 - Research
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 # Space→Time+Materiality=Place
 

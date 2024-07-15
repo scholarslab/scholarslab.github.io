@@ -4,10 +4,8 @@ date: 2023-08-22
 layout: post
 slug: bluesky-getting-started
 title: "Getting started with Bluesky: social media scholarly community"
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
+- social media
 crosspost:
   - title: Amanda's blog
     url: http://literaturegeek.com/2023/08/22/bluesky-getting-started

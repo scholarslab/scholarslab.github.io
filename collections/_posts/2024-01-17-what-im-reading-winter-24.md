@@ -4,10 +4,6 @@ date: 2024-01-17
 layout: post
 slug: what-im-reading---winter-24
 title: What I'm Reading - Winter 24
-categories:
-- Digital Humanities
-tags:
-- Digital humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/what-im-reading---winter-24

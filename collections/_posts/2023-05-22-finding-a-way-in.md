@@ -4,10 +4,6 @@ date: 2023-05-22
 layout: post
 slug: finding-a-way-in
 title: Finding A Way In
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/finding-a-way-in/

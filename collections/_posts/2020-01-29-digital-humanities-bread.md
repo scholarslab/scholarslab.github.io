@@ -4,10 +4,6 @@ date: 2020-01-29
 layout: post
 slug: digital-humanities-bread
 title: "A digital humanist can have a little bread, as a treat"
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2020/01/29/digital-humanities-bread

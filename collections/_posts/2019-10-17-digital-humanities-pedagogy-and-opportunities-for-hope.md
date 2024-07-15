@@ -6,9 +6,6 @@ slug: digital-humanities-pedagogy-and-opportunities-for-hope
 title: Digital Humanities Pedagogy And Opportunities For Hope
 categories:
 - pedagogy
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: my personal blog
     url: https://walshbr.com/blog/digital-humanities-pedagogy-and-opportunities-for-hope

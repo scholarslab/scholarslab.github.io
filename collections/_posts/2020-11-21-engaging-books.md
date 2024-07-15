@@ -5,10 +5,8 @@ layout: post
 slug: engaging-books
 title: A Workshop about Engaging Books
 categories: 
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - Bibliography
 - Workshop
 - Zoom

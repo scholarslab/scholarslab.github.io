@@ -4,10 +4,6 @@ date: 2023-05-12
 layout: post
 slug: breadth-and-depth-in-dh-professional-development
 title: Breadth And Depth in DH Professional Development
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/breadth-and-depth-in-dh-professional-development

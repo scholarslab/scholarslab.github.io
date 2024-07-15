@@ -6,10 +6,6 @@ date: 2021-07-14
 layout: post
 slug: building-community-and-generosity-in-the-context-of-graduate-education
 title: Building Community And Generosity In The Context Of Graduate Education
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/building-community-and-generosity-in-the-context-of-graduate-education

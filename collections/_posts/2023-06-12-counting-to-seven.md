@@ -4,10 +4,6 @@ date: 2023-06-12
 layout: post
 slug: counting-to-seven
 title: Counting To Seven
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/counting-to-seven

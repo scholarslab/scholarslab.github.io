@@ -5,10 +5,7 @@ layout: post
 slug: gis-workshops-spring-2020
 title: Announcing our GIS Workshop Series for Spring 2020
 categories:
-- Digital Humanities
-- GIS
-tags:
-- Digital Humanities
+- Geospatial and Temporal
 ---
 
 # Update 3/11/2019 - Sessions Cancelled 

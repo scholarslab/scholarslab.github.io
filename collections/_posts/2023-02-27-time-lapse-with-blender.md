@@ -5,10 +5,7 @@ layout: post
 title: "A Midlife Crisis Blender Tutorial: Creating and Stabilizing a Time Lapse Video"
 slug: time-lapse-with-blender
 categories:
-- Digital Humanities
-- GIS
-tags:
-- Digital Humanities
+- Geospatial and Temporal
 ---
 
 ## Smooth Large Series of Pictures of the Same Thing

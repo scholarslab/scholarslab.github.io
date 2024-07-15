@@ -5,11 +5,9 @@ layout: post
 slug: documentation-photogrammetry
 title: "Photogrammetry Workflow using a DSLR Camera"
 categories:
-- Digital Humanities
 - Research and Development
 - Makerspace
 tags:
-- Digital Humanities
 - Photogrammetry
 - 3D Technology
 - Parents Fund

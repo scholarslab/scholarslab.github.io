@@ -7,10 +7,8 @@ layout: post
 slug: 2020-praxis-charter-blog
 title: "Pandemic, Puppets, Peppers: On Writing & Performing a Praxis Program Charter in 2020"
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - Puppets
 - Zoom
 - Praxis Fellowship 2020

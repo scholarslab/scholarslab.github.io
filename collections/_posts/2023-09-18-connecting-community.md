@@ -4,10 +4,6 @@ date: 2023-09-18
 layout: post
 slug: connecting-community
 title: Connecting Community
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/connecting-community

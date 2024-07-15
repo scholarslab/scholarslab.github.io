@@ -5,10 +5,7 @@ layout: post
 slug: gis-workshops-spring-2022
 title: Virtual GIS Workshop Series for Spring 2022
 categories:
-- Digital Humanities
-- GIS
-tags:
-- Digital Humanities
+- Geospatial and Temporal
 ---
 
 Spring term is upon us, which means we'll be shifting the focus of our workshop series to ArcGIS Online (AGOL), Esri's GIS solution for the cloud. AGOL is browser-based, eliminating any Windows vs. Mac shenanigans, and enabling us to provide temporary access to members of the Charlottesville community that don't have UVA credentials. 

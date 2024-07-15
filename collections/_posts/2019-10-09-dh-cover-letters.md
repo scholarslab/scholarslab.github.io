@@ -6,10 +6,6 @@ date: 2019-10-09
 layout: post
 slug: dh-cover-letters
 title: "How We Talk and Write about DH Jobs"
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's personal blog
     url: http://walshbr.com/blog/dh-cover-letters/

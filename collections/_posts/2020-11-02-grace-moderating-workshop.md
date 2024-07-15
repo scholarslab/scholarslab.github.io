@@ -5,10 +5,8 @@ layout: post
 slug: content-moderation-workshop
 title: "Content Moderation Workshop"
 categories:
-- Digital Humanities
+- Pedagogy
 tags:
-- Digital Humanities
-- Pedagogy 
 - Workshop
 ---
 # Who am I, and How Did I Develop the Workshop?

@@ -5,10 +5,7 @@ layout: post
 slug: praxis-in-a-pandemic
 title: "Praxis in a Pandemic: Be Gentle with Yourself"
 categories:
-- Digital Humanities
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 
 *[Before I begin this mostly self-focused blog post, I want to acknowledge that the coronavirus pandemic has affected so many people more than me. My heart goes out to all who are sick, suffering, or have died, and to their friends and families. I want to thank all those responding to the crisis and making sure people’s needs are met. You are appreciated.]*

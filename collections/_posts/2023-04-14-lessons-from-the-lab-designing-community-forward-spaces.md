@@ -6,10 +6,6 @@ date: 2023-04-14
 layout: post
 slug: lessons-from-the-lab-designing-community-forward-spaces
 title: "Lessons From The Lab: Designing Community-Forward Spaces"
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/lessons-from-the-lab-designing-community-forward-spaces

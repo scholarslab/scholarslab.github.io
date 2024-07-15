@@ -4,10 +4,6 @@ date: 2019-08-30
 layout: post
 slug: I-need-to-write-a-blog-post
 title: I need to write a blog post
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 ---
 
 I really need to write a blog post. It's difficult because, I've never blogged before. It's something I've wanted to do since I started working in the [Scholars' Lab](https://scholarslab.lib.virginia.edu/) almost three years ago...Wow, almost three years in the Scholars' Lab. That shouldn't be surprising, but it is, and a lot has happened in that short time. Plenty to write a blog post about.

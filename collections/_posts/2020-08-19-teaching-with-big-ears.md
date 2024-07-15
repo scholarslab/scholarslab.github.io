@@ -6,9 +6,6 @@ slug: teaching-with-big-ears
 title: Teaching With Big Ears
 categories:
 - pedagogy
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
 - title: Brandon's blog
   url: http://walshbr.com/blog/teaching-with-big-ears

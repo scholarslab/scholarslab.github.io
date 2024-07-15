@@ -4,10 +4,6 @@ date: 2023-05-30
 layout: post
 slug: questions-to-ask-when-applying
 title: Questions to Ask When Applying
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/questions-to-ask-when-applying

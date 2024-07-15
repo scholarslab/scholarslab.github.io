@@ -5,10 +5,7 @@ layout: post
 slug: reading-not-writing
 title: Reading, Not Writing
 categories:
-- Digital Humanities
 - pedagogy
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/reading-not-writing

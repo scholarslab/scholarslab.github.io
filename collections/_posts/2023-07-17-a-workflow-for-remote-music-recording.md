@@ -4,10 +4,6 @@ date: 2023-07-17
 layout: post
 slug: a-workflow-for-remote-music-recording
 title: A Workflow For Remote Music Recording
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/a-workflow-for-remote-music-recording

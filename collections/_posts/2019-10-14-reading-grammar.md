@@ -5,11 +5,8 @@ layout: post
 slug: reading-grammar
 title: "Reading Grammar: First Attempts"
 categories:
-- Digital Humanities
 - Research and Development
 - Grad Student Research
-tags:
-- Digital Humanities
 crosspost:
   - title: my personal blog
     url: http://jordanbuysse.com/blog.html

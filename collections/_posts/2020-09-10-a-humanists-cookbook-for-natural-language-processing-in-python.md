@@ -8,9 +8,6 @@ slug: a-humanists-cookbook-for-natural-language-processing-in-python
 title: A Humanist's Cookbook For Natural Language Processing In Python
 categories:
 - Pedagogy
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
 - title: Brandon's blog
   url: http://walshbr.com/blog/a-humanists-cookbook-for-natural-language-processing-in-python

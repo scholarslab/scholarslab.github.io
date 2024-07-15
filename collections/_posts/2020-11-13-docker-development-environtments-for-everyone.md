@@ -5,10 +5,8 @@ layout: post
 slug: docker-development-environments-for-everyone
 title: Docker Development Environments For Everyone
 categories:
-- Digital Humanities
 - Research and Development
 tags:
-- Digital Humanities
 - Web Development
 - Development Environments
 - Python 

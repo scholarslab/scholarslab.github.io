@@ -4,10 +4,6 @@ date: 2023-09-06
 layout: post
 slug: listening-at-length
 title: Listening At Length
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Brandon's Blog
     url: https://walshbr.com/blog/listening-at-length

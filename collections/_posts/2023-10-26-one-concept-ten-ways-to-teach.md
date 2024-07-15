@@ -3,11 +3,6 @@ author: brandon-walsh
 date: 2023-10-26
 layout: post
 slug: one-concept-ten-ways-to-teach
-title: "One Concept: Ten Ways to Teach"
-categories:
-- Digital Humanities
-tags:
-- Digital humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/one-concept-ten-ways-to-teach

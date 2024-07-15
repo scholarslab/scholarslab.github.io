@@ -6,10 +6,6 @@ date: 2020-01-22
 layout: post
 slug: software-licenses-feminist-queer-digital-humanities-practice
 title: "Software licensing as feminist & queer digital humanities practice"
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Amanda's blog
     url: http://literaturegeek.com/2020/01/22/software-licenses-feminist-queer-digital-humanities-practice
