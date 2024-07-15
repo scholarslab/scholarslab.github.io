@@ -161,9 +161,6 @@ date: 2018-10-16
 layout: post
 slug: henry-rulez
 title: "10 Reasons Henry Rules: A Digital Humanities Blessay"
-categories:
-- Digital Humanities
-- Announcements
 ---
 ```
 
@@ -186,12 +183,9 @@ The first line of the post and the line after the final line of front matter sho
 - **title:**
   - The title of your blog post, e.g. "Teaching Black Arts Poetry and Computational Methods"
   - Put quotation marks around your title—this keeps the site from breaking when your title includes things like colons
-- **categories:**
-  - Always leave the Digital Humanities category as is (unless your post really isn't at all DHy)
-  - Delete the entire line (hyphen, space, category name) for categories that don't apply to your post
-  - In addition to allowing us to filter posts by category (e.g. all our job announcements in one place), category is used in the visual design of a post
 
 ![docs-post-yaml-example](/docs/docs-images/docs-post-yaml-example.png)
+(Ignore the categories part, currently leaving those out until we update site use and how they're used in all existing post files)
 
 6. Once you've got your front matter added, you can start writing your post on the line below the final front matter `---`. 
 
