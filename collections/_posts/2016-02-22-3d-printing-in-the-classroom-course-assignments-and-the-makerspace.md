@@ -5,11 +5,10 @@ layout: post
 slug: 3d-printing-in-the-classroom-course-assignments-and-the-makerspace
 title: '3D Printing in the Classroom: Course Assignments and the Makerspace'
 categories:
-- Digital Humanities
 - Makerspace
 tags:
 - Digital Pedagogy
-- Makerspace
+- pedagogy
 crosspost:
   - title: my personal blog
     url: http://jennifergrayburn.com/2016/02/22/3d-printing-in-the-classroom-course-assignments-and-the-makerspace/

@@ -7,6 +7,7 @@ title: 'Sounding Scholarship: A Workshop on Making Your Research Sing'
 categories:
 - Grad Student Research
 tags:
+- pedagogy
 - WLU Collab
 ---
 

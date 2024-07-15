@@ -8,6 +8,7 @@ slug: dh-pedagogy-roadshow
 title: DH Pedagogy Roadshow
 tags:
 - WLU Collab
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/dh-pedagogy-roadshow/

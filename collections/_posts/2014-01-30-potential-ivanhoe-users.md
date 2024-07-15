@@ -4,12 +4,11 @@ date: 2014-01-30 17:00:47+00:00
 layout: post
 slug: potential-ivanhoe-users
 title: Help us design the Ivanhoe Game!
-categories:
-- Grad Student Research
 tags:
 - Ivanhoe
 - praxis program
 - wordpress
+type: announcement
 ---
 
 Attention, game players and digital-pedagogy enthusiasts!

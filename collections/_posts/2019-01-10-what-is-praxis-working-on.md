@@ -8,6 +8,7 @@ categories:
 - Grad Student Research
 tags:
 - praxis program
+- pedagogy
 crosspost:
   - title: my blog
     url: http://walshbr.com/blog/what-is-praxis-working-on

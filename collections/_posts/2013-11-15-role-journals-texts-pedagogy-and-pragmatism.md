@@ -10,6 +10,7 @@ tags:
 - Ivanhoe
 - praxis program
 - wireframes
+- pedagogy
 ---
 
 In [her recent post](http://www.scholarslab.org/grad-student-research/two-ivanhoes-one-direction/) on the Scholars' Lab, Francesca gave a quick rundown on some of the similarities and differences between the approaches of our two wire-framing teams. I have to confess that I was surprised by a couple of her concerns, and I'd like here to clarify the reasoning behind our strong focus on the role journal and our sense of Ivanhoe as a textually centered game with significant multimedia capabilities. I'll do so with two concerns in mind: teaching goals and practice and pragmatic concerns.

@@ -9,6 +9,7 @@ categories:
 tags:
 - praxis program
 - WLU Collab
+- pedagogy
 crosspost:
   - title: my personal website
     url: http://walshbr.com/blog/washingtonlee/

@@ -8,7 +8,7 @@ categories:
 - Grad Student Research
 tags:
 - Digital Pedagogy
-- Pedagogy
+- pedagogy
 - praxis program
 - transcription
 - WLU Collab

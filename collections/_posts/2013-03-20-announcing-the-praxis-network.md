@@ -6,9 +6,9 @@ slug: announcing-the-praxis-network
 title: Announcing the Praxis Network
 categories:
 - Grad Student Research
-- Pedagogy
 tags:
 - praxis program
+- pedagogy
 ---
 
 How can humanities graduate programs better equip students for a wider range of careers, without sacrificing the core values or approaches of the discipline? **We are delighted to announce the launch of the [Praxis Network](http://praxis-network.org/)**, a new partnership of innovative graduate and undergraduate programs that are making effective interventions in the traditional models of humanities pedagogy and research.

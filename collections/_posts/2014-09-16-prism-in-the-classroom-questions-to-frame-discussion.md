@@ -5,8 +5,9 @@ layout: post
 slug: prism-in-the-classroom-questions-to-frame-discussion
 title: 'Prism in the Classroom: Questions to Frame Discussion'
 categories:
-- Digital Humanities
 - Grad Student Research
+tags :
+- pedagogy
 crosspost:
   - title: my personal website
     url: http://walshbr.com/blog/prism-pedagogy/

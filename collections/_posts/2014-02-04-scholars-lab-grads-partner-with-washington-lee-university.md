@@ -6,6 +6,7 @@ slug: scholars-lab-grads-partner-with-washington-lee-university
 title: Scholars' Lab Grads partner with Washington & Lee University
 tags:
 - praxis program
+- pedagogy
 ---
 
 <figure>

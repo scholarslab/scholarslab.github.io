@@ -6,12 +6,11 @@ slug: teaching-archaeology-of-the-middle-east-in-the-time-of-daesh-the-merits-of
 title: 'Teaching Archaeology of the Middle East in the Time of Daesh: the Merits of  Incorporating
   Allahyari’s “Material Speculation” with 3D Printing'
 categories:
-- Digital Humanities
 - Grad Student Research
 - Makerspace
 tags:
 - Digital Pedagogy
-- Makerspace
+- pedagogy
 crosspost:
   - title: my personal blog
     url: http://jennifergrayburn.com/2016/03/02/teaching-archaeology-of-the-middle-east-in-the-time-of-daesh-the-merits-of-incorporating-allahyaris-material-speculation-with-3d-printing/

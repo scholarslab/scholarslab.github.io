@@ -9,6 +9,7 @@ tags:
 - Praxis Network
 - praxis program
 - Scholarly Communication Institute
+- pedagogy
 crosspost:
   - title: my personal site
     url: http://wp.me/p2CaGd-i

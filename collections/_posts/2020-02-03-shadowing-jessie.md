@@ -4,9 +4,8 @@ date: 2020-02-03
 layout: post
 slug: shadowing
 title: "Two Days of Shadowing Going on Thirty"
-categories:
-- Digital Humanities
-- Professional Development
+tags:
+- professional development
 ---
 ### The Goals (or so I thought...)
 I came to the [UVa Scholars' Lab](https://scholarslab.lib.virginia.edu/) to learn about the digital humanities and leave with a new set of tools under my academic belt, ready to implement my own digital project, and apply for a competitive position. I have to confess; I had a short-term goal: develop a new tool and done. In-and-out. I’d build my technological capabilities and be able to participate in the digital world I had always been intimidated by. Thanks to the leaders and participants of the [Lab](https://scholarslab.lib.virginia.edu/), the shadowing experience made me want to learn more. I did not realize I’d be hooked, instead, on trying to answer the complex questions that surround the creation of responsible digital projects: **Are these projects including or excluding voices? How can we de-colonize the digital landscape? As a Latina scholar, what could be my role in this digital world?.**

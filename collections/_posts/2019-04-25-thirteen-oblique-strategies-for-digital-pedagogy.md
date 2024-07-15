@@ -4,6 +4,8 @@ date: 2019-04-25 09:09:55
 layout: post
 slug: thirteen-oblique-strategies-for-digital-pedagogy
 title: Thirteen Oblique Strategies For Digital Pedagogy
+tags:
+- pedagogy
 crosspost:
   - title: my blog
     url: http://walshbr.com/blog/oblique-digital-pedagogy/

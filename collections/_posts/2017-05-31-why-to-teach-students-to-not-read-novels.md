@@ -5,14 +5,13 @@ layout: post
 slug: why-to-teach-students-to-not-read-novels
 title: Why To Teach Students to Not-Read Novels
 categories:
-- Digital Humanities
 - Experimental Humanities
 - Grad Student Research
 - Visualization and Data Mining
 tags:
 - distant reading
 - novels
-- Pedagogy
+- pedagogy
 - WLU Collab
 ---
 

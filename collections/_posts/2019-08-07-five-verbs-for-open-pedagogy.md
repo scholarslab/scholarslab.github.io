@@ -4,6 +4,8 @@ date: 2019-08-07 10:37:46
 layout: post
 slug: five-verbs-for-open-pedagogy
 title: "Five Verbs for Open Pedagogy"
+tags:
+- pedagogy
 ---
 
 *Crossposted to my [personal blog](http://walshbr.com/blog/five-verbs-for-open-pedagogy/).*

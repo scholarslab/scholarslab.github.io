@@ -5,13 +5,10 @@ layout: post
 slug: one-teach-one-drift
 title: One Teach, One Drift
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
 - 3D Modeling
-- Digital Humanities
-- One teach one drift
-- Pedagogy
+- pedagogy
 - WLU Collab
 ---
 

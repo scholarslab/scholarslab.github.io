@@ -6,8 +6,8 @@ slug: a-practical-prism-pedagogy-proposal
 title: 'A Practical Prism Pedagogy Proposal  '
 categories:
 - Grad Student Research
-- Pedagogy
 tags:
+- pedagogy
 - praxis program
 ---
 
