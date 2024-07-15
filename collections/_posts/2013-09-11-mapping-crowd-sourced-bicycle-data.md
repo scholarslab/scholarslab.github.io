@@ -6,10 +6,8 @@ slug: mapping-crowd-sourced-bicycle-data
 title: Mapping Crowd Sourced Bicycle Data
 categories:
 - Geospatial and Temporal
-- Visualization and Data Mining
 tags:
 - gis
-- spatial
 - spatial analysis
 ---
 

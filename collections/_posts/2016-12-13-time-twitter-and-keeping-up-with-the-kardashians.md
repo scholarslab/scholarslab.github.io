@@ -9,6 +9,7 @@ categories:
 tags:
 - praxis program
 - Dash-Amerikan
+- social media
 ---
 
 We started this semester thinking about time and the ways time is structured, pathologized, and altered. And when it came to finding an access point for these questions, a project, if you will, we found it in an unlikely source:

@@ -6,6 +6,7 @@ slug: kathleen-fitzpatrick-planned-obsolescence
 title: 'Kathleen Fitzpatrick: Planned Obsolescence'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Kathleen Fitzpatrick**

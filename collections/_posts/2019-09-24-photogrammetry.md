@@ -9,8 +9,8 @@ categories:
 - Makerspace
 tags:
 - Photogrammetry
-- 3D Technology
 - Parents Fund
+- 3DCHI
 ---
 
 ![3D Apple with a Bite ](/assets/post-media/2019-09-19-3DApple.png)

@@ -6,6 +6,7 @@ slug: graduate-fellows-forum-david-flaherty
 title: 'Graduate Fellows Forum: David Flaherty'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Graduate Fellows Forum: David Flaherty**

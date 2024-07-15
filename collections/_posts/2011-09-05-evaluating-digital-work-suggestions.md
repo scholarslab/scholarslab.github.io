@@ -7,7 +7,6 @@ title: 'Evaluating Digital Work: Suggestions'
 categories:
 - Grad Student Research
 tags:
-- digital-work
 - praxis program
 ---
 

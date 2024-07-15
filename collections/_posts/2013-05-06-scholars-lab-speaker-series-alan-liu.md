@@ -6,6 +6,7 @@ slug: scholars-lab-speaker-series-alan-liu
 title: 'Scholars'' Lab Speaker Series: Alan Liu'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Scholars' Lab Speaker Series: Alan Liu**

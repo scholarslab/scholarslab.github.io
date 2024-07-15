@@ -7,6 +7,7 @@ title: Fall 2018 Virtual Reality Workshop Series
 categories:
 - Geospatial and Temporal
 - Technical Training
+type: announcement
 ---
 
 

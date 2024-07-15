@@ -8,6 +8,7 @@ categories:
 - Grad Student Research
 tags:
 - praxis program
+- games
 ---
 
 For the past few weeks, we've been trying to get a feel for what Ivanhoe is and what one does when playing Ivanhoe. Francesca has already [posted](http://www.scholarslab.org/grad-student-research/are-we-gaming-or-just-simulating/) on the question of whether we are gaming or actually running simulations, so I'd like to focus on something else: the various media through which we have tried to play Ivanhoe games and how those games gently fizzled out.

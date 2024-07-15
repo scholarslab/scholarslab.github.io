@@ -6,6 +6,7 @@ slug: scholars-lab-speaker-series-jeremy-dibbell
 title: 'Scholars'' Lab Speaker Series: Jeremy Dibbell'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Scholars' Lab Speaker Series: Jeremy Dibbell**

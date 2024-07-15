@@ -6,6 +6,8 @@ slug: hololens-guide
 title: "HoloLens 101: A New User’s Guide"
 tags:
 - Parents Fund 
+- VR
+- tutorial
 ---
 
 This guide offers instructions for how to get started with the HoloLens. While it is particular to using the equipment at UVA, there are probably some elements that can be transferred to other institutional contexts. Let's get started!

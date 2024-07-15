@@ -6,6 +6,7 @@ slug: narrative-form-and-digital-tools
 title: Narrative Form and Digital Tools
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Suzanne Keen & Alison Booth: Narrative Form and Digital Tools Workshop**

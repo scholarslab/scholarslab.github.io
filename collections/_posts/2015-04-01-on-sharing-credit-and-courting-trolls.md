@@ -4,6 +4,8 @@ date: 2015-04-01 11:19:55+00:00
 layout: post
 slug: on-sharing-credit-and-courting-trolls
 title: On Sharing Credit and Courting Trolls
+tags:
+- about-collaboration
 ---
 
 The Praxis team was invited to two presentations the last week. The first at the [Moving People/ Linking Lives Page-Barbour Symposium](http://movingpeoplelinkinglives.org), and then at[ UVa’s Huskey Research Exhibition](http://gradcouncil.com/2015-sessions/). With a lot of help from Praxis teammate [Jennifer Grayburn](http://scholarslab.org/people/jennifer-grayburn/), I prepared a slideshow showcasing a brief history of Ivanhoe and the work of [the two Praxis cohorts](http://praxis.scholarslab.org/people/).

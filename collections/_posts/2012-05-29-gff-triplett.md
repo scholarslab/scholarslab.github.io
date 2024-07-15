@@ -6,6 +6,7 @@ slug: gff-triplett
 title: 'Graduate Fellows Forum: Edward Triplett'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Edward Triplett**

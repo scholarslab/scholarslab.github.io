@@ -6,6 +6,7 @@ slug: digital-humanities-speaker-series-dr-w-gardner-campbell
 title: 'Digital Humanities Speaker Series: Dr. W. Gardner Campbell'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Digital Humanities Speaker Series: Dr. W. Gardner Campbell**

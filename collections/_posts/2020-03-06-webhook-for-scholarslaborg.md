@@ -9,6 +9,7 @@ categories:
 tags:
 - website
 - server
+- jekyll
 ---
 
 <style>

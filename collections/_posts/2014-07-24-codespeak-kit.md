@@ -8,7 +8,6 @@ categories:
 - Research and Development
 tags:
 - development
-- Digital Humanities
 - Programming
 ---
 

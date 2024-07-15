@@ -6,6 +6,7 @@ slug: thatcampva-2012-neatline-workshop
 title: 'THATCampVA 2012: Neatline Workshop'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 ## David McClure & Eric Rochester - THATCampVA 2012 Neatline workshop

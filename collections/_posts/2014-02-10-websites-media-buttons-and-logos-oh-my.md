@@ -7,7 +7,6 @@ title: 'Websites, Media Buttons, and Logos - oh my! '
 categories:
 - Grad Student Research
 tags:
-- CSS
 - design
 - Ivanhoe
 - praxis program

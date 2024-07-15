@@ -4,9 +4,8 @@ date: 2020-10-07
 layout: post
 slug: cbw-indianwomen
 title: "Death Politics in Collections of Indian Women's Lives"
-categories:
-- Digital Humanities
-- Collective Biographies of Women 
+tags:
+- CBW
 ---
 
 While reflecting on the early deaths of poet Toru Dutt (1856—1877) and doctor Anandibai Joshee (1865-1887),  Mrs. E.F. Chapman notes that “for them as well as for their country the poet’s words may be true —The fairest gift that life can give/ Is to die young.” Alone, Chapman’s musings on the early deaths of two of the five Indian female subjects in her biographical collection *[Sketches of Some Distinguished Indian Women](http://cbw.iath.virginia.edu/books_display.php?id=1480)* seems inconsequential. Using [BESS analysis](https://scholarslab.lib.virginia.edu/blog/bess-primer/), however, to compare Chapman’s 1891 *Sketches of Some Distinguished Indian Women* with Mrs. E.J. Humphrey’s similarly titled 1875 *[Gems of India, Sketches of Distinguished Hindoo and Mahomedan Women](http://cbw.iath.virginia.edu/books_display.php?id=1764)* reveals a preoccupation with Hindu women’s deaths which betrays the biographers’ rhetorical purpose: encouraging Christian women to save Hindu women from their faith traditions.  

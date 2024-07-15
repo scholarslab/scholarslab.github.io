@@ -5,10 +5,10 @@ layout: post
 slug: standing-on-pumpkin
 title: "Today, I stood on top of a giant pumpkin"
 categories:
-- Digital Humanities
-- 3D
+- Geospatial and Temporal
+tags:
+- 3DCHI
 - VR
-- Collaboration
 ---
 Today, I stood on top of a giant pumpkin in the middle of a mountain range. I was a gnome, a pirate, a tube of toothpaste, and a carrot. Today was my first day in virtual reality. 
 

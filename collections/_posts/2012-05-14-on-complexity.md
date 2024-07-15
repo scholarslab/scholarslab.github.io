@@ -10,7 +10,6 @@ tags:
 - praxis program
 - Prism
 - Programming
-- Scholarly Collaborations
 ---
 
 When I wrote my first "real" code for a website, things were a lot simpler. I was taking SGML TEI files and running them through a DSSSL generator to create static HTML files. It was pretty straight-forward: I would tag a document, cross my fingers that it would validate, then run a script that would regenerate the entire site. CSS hadn't been invented yet, so the site layout was handled in a table, and really the only way 'discover' the content in the site was to actually read everything that was contained in the 'site.' There was a team of five of us attempting to figure all of this, and generally the feature that won was the one we figured out first.

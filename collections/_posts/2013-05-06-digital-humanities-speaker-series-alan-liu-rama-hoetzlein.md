@@ -6,6 +6,7 @@ slug: digital-humanities-speaker-series-alan-liu-rama-hoetzlein
 title: 'Digital Humanities Speaker Series: Alan Liu & Rama Hoetzlein'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Digital Humanities Speaker Series: Alan Liu & Rama Hoetlein**

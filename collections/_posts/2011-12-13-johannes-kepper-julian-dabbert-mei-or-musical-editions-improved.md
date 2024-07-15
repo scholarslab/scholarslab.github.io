@@ -6,6 +6,7 @@ slug: johannes-kepper-julian-dabbert-mei-or-musical-editions-improved
 title: 'Johannes Kepper & Julian Dabbert: MEI, or Musical Editions Improved'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **MEI, or Musical Editions Improved**

@@ -7,7 +7,7 @@ title: An Ivanhoe example and guidelines for getting started
 categories:
 - Grad Student Research
 tags:
-- gaming
+- games
 - Ivanhoe
 - praxis program
 ---

@@ -10,7 +10,6 @@ tags:
 - design
 - Ivanhoe
 - praxis program
-- Scholarly Collaborations
 - wireframes
 ---
 

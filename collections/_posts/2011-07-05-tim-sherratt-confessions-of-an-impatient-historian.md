@@ -6,6 +6,7 @@ slug: tim-sherratt-confessions-of-an-impatient-historian
 title: Tim Sherratt, Confessions of an Impatient Historian
 categories:
 - Podcasts
+type: Announcement
 ---
 
 ### Confessions of an Impatient Historian

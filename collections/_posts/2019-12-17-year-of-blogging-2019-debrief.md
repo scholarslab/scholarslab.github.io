@@ -4,6 +4,8 @@ date: 2019-12-17
 layout: post
 slug: year-of-blogging-2019-debrief
 title: Celebrating a Year of Blogging
+tags:
+- meta-blogging
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2019/12/17/year-of-blogging-digital-humanities

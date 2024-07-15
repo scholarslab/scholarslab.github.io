@@ -6,6 +6,7 @@ slug: scholarly-communication-brown-bag-series-speaker-brian-nosek
 title: 'Scholarly Communication Brown Bag Series Speaker: Brian Nosek'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Scholarly Communication Brown Bag Series Speaker: Dr. Brian Nosek**

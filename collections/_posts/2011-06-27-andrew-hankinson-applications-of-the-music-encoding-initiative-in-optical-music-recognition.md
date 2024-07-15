@@ -7,6 +7,7 @@ title: Andrew Hankinson, "Applications of the Music Encoding Initiative in Optic
   Music Recognition"
 categories:
 - Podcasts
+type: Announcement
 ---
 
 ### Applications of the Music Encoding Initiative in Optical Music Recognition

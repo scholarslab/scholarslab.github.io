@@ -7,11 +7,9 @@ title: 'Look, it''s a game, it''s a simulation, no...it''s GAMIFICATION! '
 categories:
 - Grad Student Research
 tags:
-- Games
-- Gamification
+- games
 - Ivanhoe
 - praxis program
-- Simulation
 ---
 
 Back in October [I wrote a blog post](http://www.scholarslab.org/grad-student-research/are-we-gaming-or-just-simulating/) pushing back on the idea that we were actually creating a game.* Using Gredler's (2004) work on games vs simulations I was arguing that while we were calling Ivanhoe a game we weren't incorporating essential elements of game-play (i.e. rules, goals, the ability to win, etc). [As we begin wire-framing](http://www.scholarslab.org/grad-student-research/turning-points-in-praxis-new-roles-wire-frames-and-programming-languages/), these same questions are coming into play again: should we have a role journal? what about points?

@@ -6,6 +6,7 @@ slug: graduate-fellows-forum-lydia-rodriguez
 title: 'Graduate Fellows Forum: Lydia Rodríguez'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Graduate Fellows Forum: Lydia Rodríguez**

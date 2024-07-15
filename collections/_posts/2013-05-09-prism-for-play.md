@@ -11,6 +11,7 @@ categories:
 tags:
 - praxis program
 - Prism
+- games
 crosspost:
   - title: nowviskie.org
     url: http://nowviskie.org/2013/prism-for-play/

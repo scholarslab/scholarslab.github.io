@@ -4,6 +4,8 @@ date: 2023-08-21
 layout: post
 slug: blogging-summer-2023-in-review
 title: Blogging Summer 2023 In Review
+tags:
+- meta-blogging
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/blogging-summer-2023-in-review

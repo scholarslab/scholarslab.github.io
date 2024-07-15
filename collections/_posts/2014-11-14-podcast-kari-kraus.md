@@ -7,6 +7,7 @@ title: 'Podcast: Kari Kraus on Humanistic Design'
 categories:
 - Events
 - Podcasts
+type: Announcement
 ---
 
 **F****inding Faultlines: An Approach to Humanistic Design**

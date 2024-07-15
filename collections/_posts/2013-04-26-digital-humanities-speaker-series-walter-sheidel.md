@@ -6,6 +6,7 @@ slug: digital-humanities-speaker-series-walter-sheidel
 title: 'Digital Humanities Speaker Series: Walter Sheidel'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Digital Humanities Speaker Series: Walter Scheidel**

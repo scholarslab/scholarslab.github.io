@@ -11,6 +11,7 @@ While much of our work investigates cultural and humanities questions, we are op
 * [Code + Design](/dh-code-design)
 * [Spatial Technologies](/spatial-technologies)
 * [Makerspace](/makerspace)
+* [DH Pedagogy](/dh-pedagogy)
 
 We are an internationally recognized scholarly [team](/people/), with strengths including:
 - the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)

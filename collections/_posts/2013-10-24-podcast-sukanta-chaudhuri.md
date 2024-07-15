@@ -6,6 +6,7 @@ slug: podcast-sukanta-chaudhuri
 title: 'Podcast: Sukanta Chaudhuri'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Institute of the Humanities & Global Cultures Speaker: Sukanta Chaudhuri**

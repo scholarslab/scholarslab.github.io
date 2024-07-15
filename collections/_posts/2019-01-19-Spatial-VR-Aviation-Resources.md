@@ -5,7 +5,9 @@ layout: post
 slug: Spatial-VR-Aviation-Resources
 title: "How to get started with VR flight simulation"
 categories:
-- Spatial
+- Geospatial and Temporal
+tags:
+- VR
 ---
 
 If you're looking to get into VR flight simulation, here are some starter tips on equipment and software to look into.  

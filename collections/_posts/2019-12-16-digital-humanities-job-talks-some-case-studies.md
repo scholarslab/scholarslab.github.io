@@ -6,6 +6,8 @@ date: 2019-12-16
 layout: post
 slug: digital-humanities-job-talks
 title: "Digital Humanities Job Talks: Some Case Studies"
+tags:
+- professional development
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/digital-humanities-job-talks-some-case-studies

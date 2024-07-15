@@ -6,6 +6,7 @@ slug: podcast-dot-porter
 title: 'Podcast: Dot Porter'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Scholars' Lab Speaker: Dot Porter**

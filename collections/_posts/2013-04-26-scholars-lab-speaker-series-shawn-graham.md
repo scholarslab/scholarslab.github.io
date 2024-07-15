@@ -6,6 +6,7 @@ slug: scholars-lab-speaker-series-shawn-graham
 title: 'Scholars'' Lab Speaker Series: Shawn Graham'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Scholars' Lab Speaker Series: Shawn Graham**

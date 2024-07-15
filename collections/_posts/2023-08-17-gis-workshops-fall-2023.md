@@ -5,13 +5,11 @@ layout: post
 slug: gis-workshops-fall-2023
 title: "Spider-Map: Across the Spatial-verse. Swing in to our Fall GIS workshop series."
 categories:
-- Events
 - Technical Training
 - Geospatial and Temporal
 tags:
 - GIS
-- Spatial
-- Technical Training
+type: announcement
 ---
 
 No need to travel across the multi-verse to attend our GIS workshops. In fact, no need leave your house or change out of your Spider-person jammies as we'll be virtual again this semester. We can't promise any canon events, but we can promise you'll learn some GIS. Scroll down or [click here](https://guides.lib.virginia.edu/gis/home) for more deets and to read about the pluses and minuses of teaching virtually.

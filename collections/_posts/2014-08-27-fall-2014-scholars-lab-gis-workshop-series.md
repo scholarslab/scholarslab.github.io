@@ -9,8 +9,6 @@ categories:
 - Research and Development
 tags:
 - gis
-- GIS Workshops
-- spatial
 - workshop
 type: Announcement
 ---

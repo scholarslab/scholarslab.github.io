@@ -9,7 +9,6 @@ categories:
 - Grad Student Research
 - Makerspace
 tags:
-- Digital Pedagogy
 - pedagogy
 crosspost:
   - title: my personal blog

@@ -6,6 +6,8 @@ slug: lessons-north-star
 title: "Lessons Learned from Project North Star"
 tags:
 - Parents Fund
+- VR
+- makerspace
 ---
 
 Over the course of the spring semester of 2019, the Immersive Club at UVA built its own Project North Star headset. Project North Star, for those unfamiliar with it, is an open-source augmented reality (AR) headset based on the Leap Motion technology generally used for virtual reality (VR). Leap Motion is a company focused on finger tracking for VR and AR applications, and the device released from the company can be mounted onto the HTC Vive or Oculus Rift headsets without a complicated setup process. It can even be used as a standalone device connected to a computer, as shown below.

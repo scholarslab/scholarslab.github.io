@@ -7,7 +7,6 @@ title: '3D Printing in the Classroom: Course Assignments and the Makerspace'
 categories:
 - Makerspace
 tags:
-- Digital Pedagogy
 - pedagogy
 crosspost:
   - title: my personal blog

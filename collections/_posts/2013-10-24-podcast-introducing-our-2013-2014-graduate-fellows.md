@@ -6,6 +6,7 @@ slug: podcast-introducing-our-2013-2014-graduate-fellows
 title: 'Podcast: Introducing Our 2013-2014 Graduate Fellows'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Graduate Fellows Forum**

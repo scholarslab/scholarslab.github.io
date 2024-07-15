@@ -4,6 +4,8 @@ date: 2019-06-02
 layout: post
 slug: why-blogging
 title: "What about blogging keeps me blogging?"
+tags:
+- meta-blogging
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2019/06/02/why-keep-blogging

@@ -9,6 +9,7 @@ categories:
 tags:
 - Ivanhoe
 - praxis program
+- games
 ---
 
 _You can discover more about a person in an hour of play than in a year of conversation –Plato_

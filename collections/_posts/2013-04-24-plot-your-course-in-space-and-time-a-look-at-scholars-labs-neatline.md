@@ -7,6 +7,7 @@ title: 'Plot Your Course in Space and Time: A Look at Scholars’ Lab’s Neatli
 categories:
 - Geospatial and Temporal
 - Podcasts
+type: Announcement
 ---
 
 **Scholars' Lab Speaker Series: Bethany Nowviskie & David McClure**

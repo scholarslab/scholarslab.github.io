@@ -5,16 +5,11 @@ layout: post
 slug: life-liberty-and-the-pursuit-of-mappiness
 title: Life, Liberty, and the Pursuit of Mappiness
 categories:
-- Digital Humanities
 - Geospatial and Temporal
-- Visualization and Data Mining
 tags:
 - cartography
 - census
-- Digital Humanities
 - gis
-- map
-- spatial
 - visualization
 ---
 

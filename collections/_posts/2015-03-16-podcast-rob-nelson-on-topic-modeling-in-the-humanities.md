@@ -7,6 +7,7 @@ title: 'Podcast: Rob Nelson on Topic Modeling in the Humanities'
 categories:
 - Events
 - Podcasts
+type: Announcement
 ---
 
 **The Potential and Pitfalls of Topic Modeling for Humanities Research**

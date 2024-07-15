@@ -6,6 +6,7 @@ slug: scholars-lab-speaker-series-james-smithies
 title: 'Scholars'' Lab Speaker Series: James Smithies'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Speaker Series Brown Bag: James Smithies**

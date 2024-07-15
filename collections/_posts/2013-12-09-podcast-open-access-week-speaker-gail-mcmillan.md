@@ -6,6 +6,7 @@ slug: podcast-open-access-week-speaker-gail-mcmillan
 title: 'Podcast: Open Access Week Speaker - Gail McMillan'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **UVa Library Open Access Week Speaker: Gail McMillan**

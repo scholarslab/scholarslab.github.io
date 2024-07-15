@@ -6,6 +6,7 @@ slug: podcast-james-neal
 title: 'Podcast: James Neal'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Practicing Digital Humanities Speaker Series: James Neal**

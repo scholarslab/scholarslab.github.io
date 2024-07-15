@@ -10,7 +10,7 @@ tags:
 - charter
 - praxis program
 - project-management
-- Scholarly Collaborations
+- about-collaboration
 ---
 
 This week was full of excitement.  Our Development Team continued working on getting [Ivanhoe](http://www.ivanhoegame.org/?page_id=21) up and running; they will be presenting the working [WP Theme](http://wordpress.org/themes/) to our Praxis team this Tuesday.

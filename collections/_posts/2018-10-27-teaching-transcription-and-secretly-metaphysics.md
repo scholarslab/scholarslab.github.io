@@ -7,7 +7,6 @@ title: Teaching Transcription (and Secretly Metaphysics)
 categories:
 - Grad Student Research
 tags:
-- Digital Pedagogy
 - pedagogy
 - praxis program
 - transcription

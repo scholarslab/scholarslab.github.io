@@ -7,7 +7,6 @@ title: Help us design the Ivanhoe Game!
 tags:
 - Ivanhoe
 - praxis program
-- wordpress
 type: announcement
 ---
 

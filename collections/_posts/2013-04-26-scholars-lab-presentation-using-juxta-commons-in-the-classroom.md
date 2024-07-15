@@ -6,6 +6,7 @@ slug: scholars-lab-presentation-using-juxta-commons-in-the-classroom
 title: 'Scholar''s Lab Presentation: Using Juxta Commons in the Classroom'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Scholars' Lab Speaker Series: Andrew Stauffer & Dana Wheeles**

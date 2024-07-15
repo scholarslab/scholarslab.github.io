@@ -7,6 +7,7 @@ title: 'Podcast: Ben Wright and Joesph Locke on Creating American Yawp'
 categories:
 - Events
 - Podcasts
+type: Announcement
 ---
 
 Democratizing the Digital Humanities: The American Yawp as Case Study

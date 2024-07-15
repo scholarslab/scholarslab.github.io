@@ -7,11 +7,9 @@ title: Writing in Public (on Purpose) at Washington & Lee University
 categories:
 - Grad Student Research
 tags:
-- Digital Pedagogy
-- howto
-- Pedagogy
-- Scholarly Collaborations
+- pedagogy
 - WLU Collab
+- meta-blogging
 ---
 
 _Makerspace Technologist Catherine Addington went to Washington and Lee University to give a workshop in digital humanities through a Mellon-funded collaboration with the [WLUDH](https://digitalhumanities.wlu.edu/). More information about this initiative can be found [here](http://scholarslab.org/visiting-workshops-at-washington-and-lee-university/). Her post is [cross-listed on the W&L blog](https://digitalhumanities.wlu.edu/blog/2018/04/03/writing-in-public-on-purpose-at-washington-lee-university/)._

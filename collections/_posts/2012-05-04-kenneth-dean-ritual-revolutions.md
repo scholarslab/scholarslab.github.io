@@ -6,6 +6,7 @@ slug: kenneth-dean-ritual-revolutions
 title: 'Kenneth Dean: Ritual Revolutions'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Kenneth Dean**

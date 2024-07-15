@@ -8,6 +8,7 @@ categories:
 - Events
 - Experimental Humanities
 - Podcasts
+type: Announcement
 ---
 
 ### _Remaking Victorian Miniatures: The Speculative Stitches between 2D and 3D_

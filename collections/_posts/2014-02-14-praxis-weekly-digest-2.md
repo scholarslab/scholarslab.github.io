@@ -11,7 +11,6 @@ tags:
 - Ivanhoe
 - praxis program
 - project-management
-- wordpress
 ---
 
 This week, [Praxis](http://praxis.scholarslab.org/) has made some very exciting progress.  Eliza, Scott, and Veronica continue to work on our [WordPress](http://wordpress.org/) [Theme](http://wordpress.org/themes/).  As Veronica mentioned in her post, ["Foreign Languages and Ivanhoe Progress,"](http://www.scholarslab.org/grad-student-research/foreign-languages-and-ivanhoe-progress/) the challenge the Development team faces this week is figuring out how to create links between moves which respond to other moves.  For instance, if in the Suffragette Game, a telegram from Lord Asquith is found in Mary Leigh's trunk, and "Mary Leigh" made this move in response to the newspaper article posted by "Anonymous Suffragette," then we want those two moves to be linked together in the WordPress database.  Then, when a user views one of those moves on the front end, each move needs to display links to its associated move.  This system of networking moves is a central feature of our Ivanhoe, so Development's successful execution of this complex task will be a major breakthrough in the programming of the Ivanhoe Theme overall.  Take a look at an [extract of the Suffragette Game](http://scholarslab.github.io/ivanhoe-mockups/game.html) on our mockups, hosted by [GitHub](https://github.com/), to see examples of this network.

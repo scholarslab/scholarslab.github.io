@@ -5,17 +5,11 @@ layout: post
 slug: an-ivanhoe-design-idea
 title: An Ivanhoe Design Idea
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- CSS
 - design
-- Digital Humanities
-- graduate training
-- historic
 - Ivanhoe
 - praxis program
-- Scholarly Collaborations
 ---
 
 So last week Francesca and I each pitched design for our informational website. While the bulk of our pitches focused on the look of the website, I formulated [my website design](https://zacharyestone.github.io/ivanhoefont/index.html) (ps, as this was just a mock up it isn't cross browser tested, sorry) to be as transferable as possible (or desired).  Had we gone this direction, certain elements of my design--colors, font, iconography--could have been exported to the finished game so as to give an aesthetic continuity to the entire project. Whether or not this is a good idea--i.e. using the aesthetics of the finished game to make an active and explicit intervention into the game itself--is a topic we are still working through (more anon).  In the end, we went more Francesca's way than mine--for reasons that may become clear below and in consultation with her post on the design pitches--but the exercise in coming up with a design was generative and opened up new ways to think about the game. Below is a verbatim copy of my rough pitch. Please pardon spelling , grammar, gross generalizations, etc. I will say that the major strength of my design was also its weakness. We all thought (myself included) that it overdetermined the nature and use of the game and might discourage potential (non medieval [well what did you expect?]) users.

@@ -6,6 +6,7 @@ slug: gff-hankins
 title: 'Graduate Fellows Forum: Gabriel Hankins'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Gabriel Hankins**

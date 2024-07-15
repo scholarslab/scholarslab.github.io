@@ -5,7 +5,6 @@ layout: post
 slug: chartering-our-project
 title: Chart(er)ing Our Project
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
 - charter

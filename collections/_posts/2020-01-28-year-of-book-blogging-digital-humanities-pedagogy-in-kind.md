@@ -4,6 +4,9 @@ date: 2020-01-28 09:28:28
 layout: post
 slug: year-of-book-blogging-digital-humanities-pedagogy-in-kind
 title: "Year Of Book Blogging: Digital Humanities Pedagogy in Kind"
+tags:
+- meta-blogging
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/year-of-book-blogging-digital-humanities-pedagogy-in-kind

@@ -7,7 +7,7 @@ title: A review of the suffragette game
 categories:
 - Grad Student Research
 tags:
-- gaming
+- games
 - Ivanhoe
 - praxis program
 ---

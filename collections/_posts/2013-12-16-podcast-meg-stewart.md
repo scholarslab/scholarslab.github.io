@@ -6,6 +6,7 @@ slug: podcast-meg-stewart
 title: 'Podcast: Meg Stewart'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Scholars' Lab Speaker: Meg Stewart**

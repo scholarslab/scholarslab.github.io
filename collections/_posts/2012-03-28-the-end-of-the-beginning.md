@@ -5,14 +5,11 @@ layout: post
 slug: the-end-of-the-beginning
 title: The end of the beginning
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
 - dhsi
-- Digital Humanities
 - graduate training
 - praxis program
-- Scholarly Collaborations
 ---
 
 Graduate study in the humanities can be a lonely business. Enter my knight in shining armor, commonly referred to around these parts as the Praxis Program.

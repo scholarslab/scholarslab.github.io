@@ -6,11 +6,10 @@ slug: crafting-our-charter-praxis-program-2017-2018
 title: Crafting Our Charter - Praxis Program 2017-2018
 tags:
 - charter
-- Digital Humanities
 - graduate training
 - praxis program
 - project-management
-- Scholarly Collaborations
+- about-collaboration
 ---
 
 As a historian, when I think of charters, the first things I think of are royal charters.

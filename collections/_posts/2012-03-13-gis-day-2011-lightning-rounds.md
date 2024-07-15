@@ -6,6 +6,7 @@ slug: gis-day-2011-lightning-rounds
 title: GIS Day 2011 Lightning Rounds
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **GIS Day 2011 Lightning Rounds**

@@ -6,13 +6,10 @@ slug: size-matters
 title: Size Matters
 categories:
 - Geospatial and Temporal
-- Visualization and Data Mining
 tags:
 - cartography
 - geographic literacy
 - gis
-- map
-- spatial thinking
 - visualization
 crosspost:
   - title: johnston9494.blogspot.com

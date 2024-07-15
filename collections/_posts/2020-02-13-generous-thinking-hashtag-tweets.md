@@ -4,6 +4,8 @@ date: 2020-02-13
 layout: post
 slug: generous-thinking-hashtag-tweets
 title: "#GenerousThinking: A month of daily thinking toward a more generous academia"
+tags:
+- social media
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2020/02/13/generous-thinking-hashtag-tweets

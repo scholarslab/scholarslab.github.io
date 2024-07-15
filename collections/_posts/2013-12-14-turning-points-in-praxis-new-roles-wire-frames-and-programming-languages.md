@@ -9,7 +9,6 @@ categories:
 tags:
 - praxis program
 - Programming
-- Scholarly Collaborations
 - wireframes
 ---
 

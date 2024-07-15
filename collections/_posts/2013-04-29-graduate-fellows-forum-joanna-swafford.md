@@ -6,6 +6,7 @@ slug: graduate-fellows-forum-joanna-swafford
 title: 'Graduate Fellows Forum: Joanna Swafford'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Graduate Fellows Forum: Joanna Swafford**

@@ -6,6 +6,7 @@ slug: create-steamvr-environment
 title: "Creating a Steam VR Environment"
 tags:
 - Parents Fund
+- VR
 ---
 
 Now that you have created or captured some 3D content for virtual reality (VR) ([post](/blog/3d-content-vr/)), the next logical step is to experience it in VR. This is particularly useful for visualizing information about cultural heritage, since the information is easier to manipulate and distribute in a digital form. Additionally, it allows scholars all around the world to develop creative ideas using VR technology that would otherwise be impossible. For example, the University Hall (U-Hall) building, the former home of the University of Virginia's basketball teams, [was scanned](https://news.virginia.edu/content/demolition-looming-university-hall-scanned-photographed-history) before its recent demolishment. After processing, this data could pave the way to creating an entirely virtual U-Hall experience for new students who have never seen the building, alumni who want to remember old memories, or researchers studying the architecture and history of U-Hall.

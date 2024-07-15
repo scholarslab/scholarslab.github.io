@@ -8,8 +8,7 @@ categories:
 - Grad Student Research
 tags:
 - praxis program
-- Scholarly Collaborations
-- team work
+- about-collaboration
 ---
 
 Last week [Francesca posted](http://www.scholarslab.org/grad-student-research/forming-norming-storming-performing/) on Bruce Tuckman's model of group work on a collaborative project.  To recap, a group passes through four phases: Forming, Storming, Norming, Performing, and Adjourning.  I find this an intriguing model, and I agree with Francesca that we are currently in a sort of "Forming" stage, but I also find myself revisiting our work on the charter a few weeks ago and thinking, "Wasn't there a some Storming going on then?"  It was relatively courteous storming, but I think in working to establish our deepest desires for this project and the experience of the coming year, frustrations did occur and personalities clashed.  Encouraged by our SLab mentors, we determined to hastily conclude work on the charter and thus enabled ourselves to focus on game play, which we did for a spell with a vigor which I would consider... Formative Performing.  Now that we spend more time in the less emotionally charged world of command line and CSS, we have relaxed, are peaceful, take turns speaking, and have probably slipped into more casual Forming; but there was disagreement in the charter-writing days, and I wonder if Tuckman's model might not require some rethinking.

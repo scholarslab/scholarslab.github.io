@@ -4,11 +4,10 @@ date: 2018-02-28 06:30:07+00:00
 layout: post
 slug: digital-humanities-dissertation-starter-kit
 title: Starter kit for considering a DH dissertation
-categories:
-- Digital Humanities
 tags:
 - dissertation
 - graduate training
+- pedagogy
 crosspost:
   - title: the Modern Languages Association (MLA) Committee on Info Tech blog
     url: https://infotech.mla.hcommons.org/2018/digital-humanities-dissertation-starter-kit/

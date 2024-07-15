@@ -7,10 +7,7 @@ title: "A World War I Gallery of Women, or, a 1919 Project"
 categories:
 - Grad Student Research
 tags:
-- Women
-- Nationality
-- War
-- Biography
+- CBW
 ---
 
 *A Co-authored Series of Posts ‘About 1919,’ that is, about English-language books published from 1914 to 1921, according to the online bibliography and database, [Collective Biographies of Women](https://cbw.iath.virginia.edu).*

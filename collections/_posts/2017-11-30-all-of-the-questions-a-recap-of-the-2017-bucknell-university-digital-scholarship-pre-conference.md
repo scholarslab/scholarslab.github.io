@@ -5,8 +5,6 @@ layout: post
 slug: all-of-the-questions-a-recap-of-the-2017-bucknell-university-digital-scholarship-pre-conference
 title: “All of the Questions:” A Recap of the 2017 Bucknell University Digital Scholarship
   Pre-Conference
-tags:
-- Scholarly Collaborations
 ---
 
 In early October I was sent to represent the Scholars’ Lab at the [Bucknell University Digital Scholarship Conference](http://budsc17.scholar.bucknell.edu/) and the pre-conference meeting. This conference brings together an interdisciplinary group of students, teachers, scholars, librarians, and instructional technologists for a weekend of conversation about many aspects of digital scholarship including pedagogy, community outreach/social justice, and institutional best practices. This year’s conference was called “Looking Forward, Looking Back: The Evolution of Digital Scholarship" and featured keynotes by Stephen Cartwright, Kalev H. Leetaru, and UVA’s on A.D. Carson.

@@ -9,7 +9,6 @@ categories:
 tags:
 - speaker series
 type: Announcement
-type: Announcement
 ---
 
 Linda Bree from Cambridge University Press talks about "Scholarly Publishing Today and Tomorrow"

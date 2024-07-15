@@ -6,6 +6,7 @@ slug: humanities-in-a-digital-age-symposium-podcast
 title: Humanities in a Digital Age Symposium podcast
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Institute of the Humanities and Global Cultures: Humanities in a Digital Age Symposium**

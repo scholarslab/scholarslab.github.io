@@ -6,6 +6,7 @@ slug: 3d-content-vr
 title: "3D Content for Virtual Reality"
 tags:
 - Parents Fund
+- VR
 ---
 
 Designing the best virtual reality (VR) experience requires having the best 3-dimensional (3D) content that is suitable for your VR experience. Not all 3D content forms are equal, so it is important to distinguish between them. A helpful way to look at a project or experience is to first determine whether it seeks to **create** spatial content or whether it seeks to **capture** spatial content.

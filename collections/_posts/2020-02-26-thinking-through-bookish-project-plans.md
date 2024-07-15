@@ -4,6 +4,8 @@ date: 2020-02-26
 layout: post
 slug: thinking-through-bookish-project-plans
 title: "Year of Book Blogging: thinking through a bookish project as potentially scary, just, and/or good"
+tags:
+- meta-blogging
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2020/02/26/thinking-through-bookish-project-plans

@@ -9,9 +9,7 @@ categories:
 tags:
 - Ivanhoe
 - praxis program
-- Scholarly Collaborations
-- wordpress
-- wordpress theme
+- games
 ---
 
 The Scholars' Lab Praxis Fellows are thrilled to announce the beta release of the [Ivanhoe Game](http://ivanhoe.scholarslab.org/)!  Ivanhoe is a collaborative role-playing game in which players make critical interventions in a text, cultural object, or topic to help them learn.  Ivanhoe is about connecting ideas, crafting new interpretations, and inspiring creative scholarship.

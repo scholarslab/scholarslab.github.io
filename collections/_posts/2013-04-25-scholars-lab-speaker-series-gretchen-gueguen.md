@@ -6,6 +6,7 @@ slug: scholars-lab-speaker-series-gretchen-gueguen
 title: 'Scholars'' Lab Speaker Series: Gretchen Gueguen'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Scholars' Lab Speaker Series: Gretchen Gueguen**

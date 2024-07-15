@@ -9,6 +9,8 @@ categories:
 - Grad Student Research
 - Makerspace
 - Technical Training
+tags:
+- pedagogy
 ---
 
 I want to share several developments from the grad programs side of the Lab this semester. It's been a busy fall, and I'm pleased with all the work the team has put into our programs!

@@ -3,10 +3,10 @@ author: alison-booth
 date: 2017-02-15 23:53:48+00:00
 layout: post
 slug: over-the-moon-and-down-to-earth-scholars-lab-versions-of-space
-title: 'Over the Moon and Down to Earth: Scholars'' Lab versions of space'
-categories:
-- Geospatial and Temporal
-- Makerspace
+title: "Over the Moon and Down to Earth: Scholars' Lab versions of space"
+tags:
+- staffing
+type: announcement
 ---
 
 ![](http://static.scholarslab.org/wp-content/uploads/2015/08/IMG_03831-300x225.jpg)![GIS data](http://static.scholarslab.org/wp-content/uploads/2017/01/gis_data-300x236.jpeg)

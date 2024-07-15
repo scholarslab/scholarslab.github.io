@@ -7,6 +7,7 @@ title: 'Playing with toast: Our first Ivanhoe game'
 tags:
 - Ivanhoe
 - praxis program
+- games
 ---
 
 [

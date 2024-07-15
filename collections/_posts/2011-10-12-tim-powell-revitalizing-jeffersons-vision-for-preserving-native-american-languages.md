@@ -7,6 +7,7 @@ title: Tim Powell, Revitalizing Jefferson's Vision for Preserving Native America
   Languages
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Revitalizing Thomas Jefferson's Vision for Preserving Native American Languages**

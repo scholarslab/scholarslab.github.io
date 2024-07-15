@@ -6,6 +6,7 @@ slug: speaker-series-dr-guoping-huang
 title: 'Speaker Series: Dr. Guoping Huang'
 categories:
 - Podcasts
+type: Announcement
 ---
 
 **Speaker Series: Dr. Guoping Huang**

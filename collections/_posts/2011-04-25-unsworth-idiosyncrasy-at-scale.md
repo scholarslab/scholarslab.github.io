@@ -6,6 +6,7 @@ slug: unsworth-idiosyncrasy-at-scale
 title: John Unsworth, "Idiosyncrasy at Scale"
 categories:
 - Podcasts
+type: Announcement
 ---
 
 ### Idiosyncrasy at Scale: Data Curation in the Humanities

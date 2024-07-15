@@ -7,6 +7,9 @@ title: "Space→Time+Materiality=Place"
 categories:
 - Research
 - Grad Student Research
+tags:
+- VR
+- games
 ---
 # Space→Time+Materiality=Place
 

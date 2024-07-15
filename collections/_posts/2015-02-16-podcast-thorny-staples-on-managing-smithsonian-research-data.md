@@ -7,6 +7,7 @@ title: 'Podcast: Thorny Staples on Managing Smithsonian Research Data'
 categories:
 - Events
 - Podcasts
+type: Announcement
 ---
 
 Managing the Record of Research at the Smithsonian

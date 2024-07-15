@@ -6,6 +6,7 @@ slug: scholars-lab-grad-fellows-digital-therapy-talks
 title: Scholars' Lab Grad Fellows, "Digital Therapy" Talks
 categories:
 - Podcasts
+type: Announcement
 ---
 
 ### Scholars' Lab Grad Fellows Chris Clapp, Tom Finger and Alex Gil
