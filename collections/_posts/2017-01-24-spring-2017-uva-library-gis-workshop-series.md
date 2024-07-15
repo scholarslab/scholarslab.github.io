@@ -5,9 +5,9 @@ layout: post
 slug: spring-2017-uva-library-gis-workshop-series
 title: Spring 2017 UVa Library GIS Workshop Series
 categories:
-- Announcements
 - Events
 - Geospatial and Temporal
+type: Announcement
 ---
 
 ![](http://coloradogeologicalsurvey.org/wp-content/uploads/2013/07/gis_data.jpg)

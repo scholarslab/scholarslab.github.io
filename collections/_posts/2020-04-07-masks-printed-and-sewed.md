@@ -7,11 +7,9 @@ layout: post
 slug: masks-printed-and-sewed
 title: "Manufacturing Masks: how Technologists can Lend both Hands and Machines"
 categories:
-- Digital Humanities
 - Sewing
 - 3D Printing
 - Research and Development
-- Announcements
 - Makerspace
 - Student Research
 tags:

@@ -11,6 +11,7 @@ categories:
 - Visualization and Data Mining
 tags:
 - Digital Humanities
+type: Announcement
 ---
 
 <!-- ![Social Media in the SLab](http://farm4.static.flickr.com/3525/3202007970_729b7e0186.jpg)  -->

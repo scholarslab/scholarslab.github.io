@@ -1,5 +1,5 @@
 ---
-author: Admin
+author: scholars-lab
 date: 2011-05-03 09:56:30+00:00
 layout: post
 slug: myron-gutmann-data-access
@@ -8,6 +8,7 @@ categories:
 - Announcements
 tags:
 - Social Sciences
+type: Announcement
 ---
 
 The UVa Digital Humanities Speaker Series presents: 

@@ -9,6 +9,7 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+type: Announcement
 ---
 
 Exactly how does one acquire the “tools of the trade” in digital humanities research?

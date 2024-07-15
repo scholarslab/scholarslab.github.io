@@ -4,14 +4,13 @@ date: 2012-11-01 11:32:18+00:00
 layout: post
 slug: neatline-release-omnibus-edition
 title: Neatline Release Omnibus Edition
-categories:
-- Announcements
 tags:
 - neatline
 - neatline features
 - neatline maps
 - neatline time
 - omeka
+type: blog
 ---
 
 For the next and final round of the [Omeka](http://omeka.org/) plugin release parade, I’m pleased to announce minor or patch releases for all [Neatline](http://neatline.org/) plugins. Neatline is an [Omeka](http://omeka.org/) plugin that helps you tell stories in time and space from your Omeka collection. For more information, see our [original announcement](http://www.scholarslab.org/announcements/announcing-neatline/) or the [Neatline site](http://neatline.org/).

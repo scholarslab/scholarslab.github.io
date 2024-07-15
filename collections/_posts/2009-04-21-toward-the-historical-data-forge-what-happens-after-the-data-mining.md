@@ -8,6 +8,7 @@ categories:
 - Podcasts
 tags:
 - speaker series
+type: Announcement
 ---
 
 Bruce Robertson of the Mount Allison University Department of Classics and the Historical Event Markup and Linking Project talks about HEML: Historical Event Markup Language

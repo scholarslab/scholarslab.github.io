@@ -5,7 +5,6 @@ layout: post
 slug: art-in-the-scholars-lab
 title: Art in the Scholars' Lab
 categories:
-- Announcements
 - Research and Development
 tags:
 - design

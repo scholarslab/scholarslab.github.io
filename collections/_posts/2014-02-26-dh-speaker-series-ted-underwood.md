@@ -5,8 +5,8 @@ layout: post
 slug: dh-speaker-series-ted-underwood
 title: 'DH Speaker Series: Ted Underwood on CS and the Humanities'
 categories:
-- Announcements
 - Podcasts
+type: Announcement
 ---
 
 

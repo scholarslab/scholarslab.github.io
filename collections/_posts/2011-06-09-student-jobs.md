@@ -9,6 +9,7 @@ categories:
 - Grad Student Research
 tags:
 - career opportunities
+type: Announcement
 ---
 
 Are you a maker? A builder? A tinkerer at heart?

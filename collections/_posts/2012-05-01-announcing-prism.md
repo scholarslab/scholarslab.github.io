@@ -5,7 +5,6 @@ layout: post
 slug: announcing-prism
 title: Announcing Prism!
 categories:
-- Announcements
 - Digital Humanities
 - Grad Student Research
 tags:

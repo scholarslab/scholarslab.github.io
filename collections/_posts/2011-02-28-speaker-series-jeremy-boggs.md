@@ -9,6 +9,7 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+type: Announcement
 ---
 
 Jeremy Boggs, last semester's scholar-in-residence at the [Scholars' Lab](http://scholarslab.org), will give a talk at **2pm** on Thursday, **March 3**. Boggs is Associate Director of Research at the [Center for History & New Media](http://chnm.gmu.edu) at George Mason University, as well as a Ph.D. candidate in GMU's Department of History.

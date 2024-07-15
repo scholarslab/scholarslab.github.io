@@ -5,8 +5,6 @@ layout: post
 slug: announcing-the-ivanhoe-information-website-and-beginning-of-testing
 title: '(Digest #6) Announcing the Ivanhoe Information Website and Beginning of Testing'
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
 tags:
 - Ivanhoe

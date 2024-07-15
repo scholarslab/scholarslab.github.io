@@ -8,6 +8,7 @@ categories:
 - Podcasts
 tags:
 - speaker series
+type: Announcement
 ---
 
 Andew Turner joined us in the SLab to discuss the neogeography movement, which has emerged from the rise of easy-to-use web-based maps and emphasizes community-led and colloquial uses of geospatial tools and techniques such as online maps, GPS, and location-aware phones, and its potential applicability to higher education.

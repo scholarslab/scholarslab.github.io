@@ -4,8 +4,6 @@ date: 2014-03-31 12:00:11+00:00
 layout: post
 slug: neatline-text
 title: 'NeatlineText: Connect Neatline exhibits to documents'
-categories:
-- Announcements
 tags:
 - neatline
 ---

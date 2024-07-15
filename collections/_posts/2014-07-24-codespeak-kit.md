@@ -5,7 +5,6 @@ layout: post
 slug: codespeak-kit
 title: 'Announcing the #Codespeak Kit!'
 categories:
-- Announcements
 - Research and Development
 tags:
 - development

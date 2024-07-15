@@ -1,11 +1,12 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-09-30 13:35:50+00:00
 layout: post
 slug: fall-2011-workshop-series
 title: Fall 2011 Workshop Series
 categories:
 - Announcements
+type: Announcement
 ---
 
 We'd like to invite you to our workshop series this fall.

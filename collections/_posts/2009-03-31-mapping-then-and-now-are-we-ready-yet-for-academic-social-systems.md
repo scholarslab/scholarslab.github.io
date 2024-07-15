@@ -8,6 +8,7 @@ categories:
 - Podcasts
 tags:
 - speaker series
+type: Announcement
 ---
 
 Ian Johnson, Director of the Archaeological Computing Laboratory at the University of Sydney and TimeMap project leader discusses "Mapping Then and Now: Are We Ready (yet) for Academic Social Systems?"

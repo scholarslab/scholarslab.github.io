@@ -8,6 +8,7 @@ categories:
 - Announcements
 tags:
 - speaker series
+type: Announcement
 ---
 
 The UVa Digital Humanities Speaker Series presents: 

@@ -8,6 +8,7 @@ categories:
 - Podcasts
 tags:
 - speaker series
+type: Announcement
 ---
 
 Graduate students Alex Gil and Ryan Cordell present their recent work on  digital editions of works by Nathaniel Hawthorne and Aimé Césaire.

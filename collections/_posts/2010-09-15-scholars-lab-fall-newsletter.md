@@ -6,6 +6,7 @@ slug: scholars-lab-fall-newsletter
 title: Scholars' Lab Fall Newsletter
 categories:
 - Announcements
+type: Announcement
 ---
 
 The Scholars’ Lab Fall 2010 newsletter (pdf) is now available for download.

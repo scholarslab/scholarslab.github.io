@@ -5,8 +5,6 @@ layout: post
 slug: prism-news-heroku-and-llc
 title: Prism News - Heroku and LLC
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
 crosspost:
   - title: my personal site

@@ -8,6 +8,7 @@ categories:
 - Podcasts
 tags:
 - speaker series
+type: Announcement
 ---
 
 Introducing our 2009/10 Digital Humanities Fellows and Scholarship Award Winners

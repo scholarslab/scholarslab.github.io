@@ -5,12 +5,12 @@ layout: post
 slug: job-opening-curious-about-focusing-on-dh-development
 title: 'Job Opening: Curious about focusing on DH development?'
 categories:
-- Announcements
 - Job Announcements
 tags:
 - alt-ac
 - altac
 - career opportunities
+type: Announcement
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2017/06/27/inclusive-tech-hiring-digital-humanities-developer

@@ -5,8 +5,8 @@ layout: post
 slug: dh-speaker-series-micki-kaufman
 title: 'DH Speaker Series: Micki Kaufman on Quantifying Kissinger'
 categories:
-- Announcements
 - Visualization and Data Mining
+type: Announcement
 ---
 
 [Everything on Paper Will Be Used Against Me: Quantifying Kissinger](http://www.mickikaufman.com/qk/)

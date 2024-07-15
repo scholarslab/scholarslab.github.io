@@ -5,9 +5,8 @@ layout: post
 slug: apply-for-2016-2017-graduate-fellowship-in-digital-humanities
 title: Apply for 2016-2017 Graduate Fellowship in Digital Humanities
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
+type: Announcement
 ---
 
 The Scholars’ Lab is proud to announce that applications for our prestigious [Graduate Fellowship in the Digital Humanities](http://scholarslab.org/graduate-fellowships/) are being accepted for the 2016-2017 academic year. Applications are due **February 26, 2016**.

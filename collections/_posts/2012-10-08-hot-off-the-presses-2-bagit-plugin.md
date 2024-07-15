@@ -4,11 +4,10 @@ date: 2012-10-08 11:41:46+00:00
 layout: post
 slug: hot-off-the-presses-2-bagit-plugin
 title: 'Hot off the Presses 2: BagIt Plugin'
-categories:
-- Announcements
 tags:
 - omeka
 - php
+type: blog
 ---
 
 [![Canvas Bag - Tutorial24](http://farm5.staticflickr.com/4058/4258185459_8cdd4ac6bd_m.jpg)](http://www.flickr.com/photos/kittybabylove/4258185459/)

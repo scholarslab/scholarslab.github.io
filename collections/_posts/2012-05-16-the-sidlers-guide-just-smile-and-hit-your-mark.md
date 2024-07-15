@@ -5,7 +5,6 @@ layout: post
 slug: the-sidlers-guide-just-smile-and-hit-your-mark
 title: 'The Sidler''s Guide: Just Smile and Hit Your Mark'
 categories:
-- Announcements
 - Digital Humanities
 - Grad Student Research
 tags:

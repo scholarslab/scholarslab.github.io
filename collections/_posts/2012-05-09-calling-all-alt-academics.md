@@ -4,8 +4,6 @@ date: 2012-05-09 13:35:19+00:00
 layout: post
 slug: calling-all-alt-academics
 title: 'Calling All #Alt-Academics!'
-categories:
-- Announcements
 tags:
 - alt-ac
 - altac

@@ -10,6 +10,7 @@ categories:
 tags:
 - praxis program
 - staffing
+type: Announcement
 ---
 
 [![Katina Rogers](http://static.scholarslab.org/wp-content/uploads/2012/03/KR_photo-271x300.jpg)](http://www.scholarslab.org/announcements/welcoming-katina-rogers/attachment/kr_photo/)

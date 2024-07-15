@@ -4,8 +4,6 @@ date: 2014-09-08 16:05:01+00:00
 layout: post
 slug: realignment
 title: Realignment
-categories:
-- Announcements
 tags:
 - charter
 ---

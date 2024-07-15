@@ -4,8 +4,7 @@ date: 2014-05-08 08:39:34+00:00
 layout: post
 slug: welcoming-ammon-and-scott
 title: Welcoming Ammon Shepherd and Scott Bailey
-categories:
-- Announcements
+type: Announcement
 ---
 
 We are thrilled to announce two new additions to the Scholars' Lab team. Scott Bailey will join our R&D; group later this month and Ammon Shepherd will join us in July, both in the roles of Digital Humanities Software Developer.

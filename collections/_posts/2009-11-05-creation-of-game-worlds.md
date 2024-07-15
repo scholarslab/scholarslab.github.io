@@ -8,6 +8,7 @@ categories:
 - Podcasts
 tags:
 - speaker series
+type: Announcement
 ---
 
 Writer, game designer, and UVa alumnus [Shane Liesegang](http://shaneliesegang.com/) talks about the "Disruptive Construction of Game Worlds"

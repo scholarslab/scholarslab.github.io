@@ -5,10 +5,10 @@ layout: post
 slug: job-opening-developer-outreach-testing-coordinator
 title: 'Job opening: Come advocate for our users!'
 categories:
-- Announcements
 - Job Announcements
 tags:
 - job
+type: Announcement
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2018/09/24/inclusive-tech-hiring-digital-humanities-community-tech-engagement

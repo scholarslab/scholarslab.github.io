@@ -5,10 +5,10 @@ layout: post
 slug: welcoming-our-2012-13-praxis-fellows
 title: Welcoming our 2012/13 Praxis Fellows
 categories:
-- Announcements
 - Grad Student Research
 tags:
 - praxis program
+type: Announcement
 ---
 
 Before things get too hectic here this week with [#prismlaunch](http://www.scholarslab.org/announcements/praxis-through-prisms/), we wanted to briefly turn our attention to next year to say how excited we are to **announce and welcome the 2012/13 Praxis Fellows** to the second year of the program! They are:

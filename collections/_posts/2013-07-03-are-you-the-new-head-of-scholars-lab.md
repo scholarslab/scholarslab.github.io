@@ -4,11 +4,10 @@ date: 2013-07-03 14:42:31+00:00
 layout: post
 slug: are-you-the-new-head-of-scholars-lab
 title: Are you the new Head of Scholars’ Lab?
-categories:
-- Announcements
 tags:
 - altac
 - career opportunities
+type: Announcement
 ---
 
 We are thrilled to announce an exciting job opportunity on the leadership team here in the [Department of Digital Research & Scholarship](http://scholarslab.org). Read on for more details!

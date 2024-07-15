@@ -5,11 +5,10 @@ layout: post
 slug: call-for-2019-2020-praxis-fellows
 title: Call For 2019-2020 Praxis Fellows!
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
 tags:
 - Digital Humanities
+type: Announcement
 ---
 
 Calling all UVA grad students! There's snow on the ground, but it's never too early to start thinking about spring. Or about what you'll be doing next year! 

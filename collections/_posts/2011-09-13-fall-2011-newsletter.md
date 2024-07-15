@@ -8,6 +8,7 @@ categories:
 - Announcements
 tags:
 - newsletter
+type: Announcement
 ---
 
 Our Fall 2011 newsletter (PDF) is now available for your reading pleasure. It's chock full of introductions: of our three new graduate fellows, of our new Praxis Program (rethinking methodological training in the digital humanities), of our new cohort of Praxis fellows, and of four new staff members. You'll also find the full schedule of fall programs and workshops and more news from and about the SLab.

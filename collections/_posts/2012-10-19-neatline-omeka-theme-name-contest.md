@@ -4,8 +4,6 @@ date: 2012-10-19 09:56:51+00:00
 layout: post
 slug: neatline-omeka-theme-name-contest
 title: Neatline Omeka Theme Name Contest
-categories:
-- Announcements
 tags:
 - hoopla
 - neatline
@@ -13,6 +11,7 @@ tags:
 - t-shirts
 - theme
 - waynebot
+type: Announcement
 ---
 
 *Note: This post contains references to images stored on a server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*

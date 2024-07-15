@@ -4,11 +4,7 @@ date: 2020-11-10 14:37:19
 layout: post
 slug: apply-to-be-a-digital-humanities-fellow-2021-2022-cohort
 title: Apply to our 2021-2022 cohort of Digital Humanities Fellows!
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
+type: Announcement
 ---
 
 The application deadline for fellowships to be held during the 2021-2022 academic year is **Monday, February 15th, 2021**. More details on how to apply at the end of this page. 

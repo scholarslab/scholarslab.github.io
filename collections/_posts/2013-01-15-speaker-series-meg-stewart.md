@@ -5,13 +5,13 @@ layout: post
 slug: speaker-series-meg-stewart
 title: Meg Stewart to talk about the Fulbright Scholar program, Thursday, Jan 17
 categories:
-- Announcements
 - Digital Humanities
 - Geospatial and Temporal
 tags:
 - Digital Humanities
 - Fulbright
 - gis
+type: Announcement
 ---
 
 [![](http://static.scholarslab.org/wp-content/uploads/2013/01/stewart201301171.jpg)](http://www.scholarslab.org/announcements/speaker-series-meg-stewart/attachment/stewart20130117-2/)

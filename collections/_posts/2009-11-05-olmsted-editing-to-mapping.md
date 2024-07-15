@@ -8,6 +8,7 @@ categories:
 - Podcasts
 tags:
 - speaker series
+type: Announcement
 ---
 
 Ethan Carr and Mandy Gagel of the Frederick Law Olmsted Papers discuss "The Papers of Frederick Law Olmsted: From Editing to Mapping?"

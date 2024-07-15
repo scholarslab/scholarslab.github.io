@@ -5,9 +5,8 @@ layout: post
 slug: call-for-applications-graduate-fellowship-in-the-digital-humanities
 title: Call for Applications, Graduate Fellowship in the Digital Humanities
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
+type: Announcement
 ---
 
 Applications for the [Scholars’ Lab](http://scholarslab.org)'s prestigious [Graduate Fellowships in the Digital Humanities](http://scholarslab.org/graduate-fellowships/) are now being accepted for the 2015-2016 academic year. **Applications are due March 23, 2015.**

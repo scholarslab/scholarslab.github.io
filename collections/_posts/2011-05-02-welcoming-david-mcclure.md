@@ -8,6 +8,7 @@ categories:
 - Announcements
 tags:
 - staffing
+type: Announcement
 ---
 
 [![](http://static.scholarslab.org/wp-content/uploads/2011/05/pic.jpg)](http://www.scholarslab.org/announcements/welcoming-david-mcclure/attachment/pic/)

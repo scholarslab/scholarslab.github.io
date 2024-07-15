@@ -8,6 +8,7 @@ categories:
 - Announcements
 tags:
 - career opportunities
+type: Announcement
 ---
 
 We're excited to announce a fantastic job opportunity: a faculty-level position at the University of Virginia Library with responsibility for running public services in our growing and well-respected [Scholars' Lab](http://scholarslab.org).  

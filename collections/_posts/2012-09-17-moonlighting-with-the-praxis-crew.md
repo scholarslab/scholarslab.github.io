@@ -5,7 +5,6 @@ layout: post
 slug: moonlighting-with-the-praxis-crew
 title: Moonlighting with the Praxis Crew
 categories:
-- Announcements
 - Grad Student Research
 tags:
 - praxis program

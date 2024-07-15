@@ -5,7 +5,6 @@ layout: post
 slug: head-graduate-programs
 title: Are you our new Head of Graduate Programs?
 categories:
-- Announcements
 - Grad Student Research
 tags:
 - career opportunities
@@ -13,6 +12,7 @@ tags:
 - graduate training
 - job
 - praxis program
+type: Announcement
 ---
 
 We are delighted to announce an exciting job opportunity here at the [Scholars’ Lab](http://www.scholarslab.org/) as the Head of Graduate Programs, which includes both the [Praxis Program](http://praxis.scholarslab.org/) and the [Graduate Fellows in Digital Humanities](http://www.scholarslab.org/graduate-fellowships/) program. Read on for more details!

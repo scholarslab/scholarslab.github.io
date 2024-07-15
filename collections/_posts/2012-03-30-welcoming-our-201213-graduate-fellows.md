@@ -4,8 +4,7 @@ date: 2012-03-30 09:11:08+00:00
 layout: post
 slug: welcoming-our-201213-graduate-fellows
 title: Welcoming our 2012/13 Graduate Fellows
-categories:
-- Announcements
+type: Announcement
 ---
 
 The Scholars' Lab is very excited to announce the recipients of the 2012-13 [UVA Library Graduate Fellowships in the Digital Humanities](http://www2.scholarslab.org/about/fellowship-apply.html):

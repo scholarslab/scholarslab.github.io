@@ -5,7 +5,6 @@ layout: post
 slug: homers-catalogue-of-ships
 title: Homer's Catalogue of Ships
 categories:
-- Announcements
 - Digital Humanities
 - Experimental Humanities
 - Geospatial and Temporal

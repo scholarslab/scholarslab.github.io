@@ -4,8 +4,7 @@ date: 2017-09-18 08:51:03+00:00
 layout: post
 slug: welcome-new-dh-developer-zoe-leblanc
 title: Welcome new DH Developer Zoe LeBlanc!
-categories:
-- Announcements
+type: Announcement
 ---
 
 We are delighted to announce that Zoe LeBlanc has accepted our [DH Developer position](http://scholarslab.org/announcements/job-opening-curious-about-focusing-on-dh-development/)!

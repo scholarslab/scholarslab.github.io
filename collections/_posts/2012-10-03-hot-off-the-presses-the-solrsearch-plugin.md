@@ -4,8 +4,7 @@ date: 2012-10-03 11:13:45+00:00
 layout: post
 slug: hot-off-the-presses-the-solrsearch-plugin
 title: 'Hot off the Presses: the SolrSearch Plugin'
-categories:
-- Announcements
+type: blog
 ---
 
 The Scholars’ Lab is pleased to announce the first release of the [SolrSearch](https://github.com/scholarslab/SolrSearch) [Omeka](http://omeka.org/) plugin.

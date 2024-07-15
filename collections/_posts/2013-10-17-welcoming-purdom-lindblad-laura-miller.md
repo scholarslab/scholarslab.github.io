@@ -4,10 +4,9 @@ date: 2013-10-17 08:33:40+00:00
 layout: post
 slug: welcoming-purdom-lindblad-laura-miller
 title: Welcoming Purdom Lindblad & Laura Miller!
-categories:
-- Announcements
 tags:
 - staffing
+type: Announcement
 ---
 
 With great pleasure, I write to announce two wonderful additions to the Scholars' Lab team!

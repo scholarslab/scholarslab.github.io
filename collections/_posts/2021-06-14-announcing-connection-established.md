@@ -7,10 +7,7 @@ layout: post
 slug: announcing-connection-established
 title: Announcing 'Connection Established'
 categories:
-- Announcements
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 The Scholars' Lab is pleased to share  *[Connection Established](http://connection.scholarslab.org/)*, the project launched by this year's Praxis cohort. 
 

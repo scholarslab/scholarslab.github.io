@@ -4,11 +4,7 @@ date: 2019-10-04
 layout: post
 slug: call-for-applicants-dhsi-2020-tuition-fellowships
 title: "Call For Applicants: DHSI 2020 Tuition Fellowships"
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
+type: Announcement
 ---
 
 Want to learn more about digital humanities skills, methods, and inquiry? The <a href="https://dhsi.org/">Digital Humanities Summer Institute (DHSI)</a> at the University of Victoria has a tradition of transformative training.

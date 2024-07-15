@@ -5,9 +5,8 @@ layout: post
 slug: call-for-digital-humanities-fellows-applications-2019-2020
 title: "Call for Digital Humanities Fellows Applications – 2019-2020"
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
+type: Announcement
 ---
 
 

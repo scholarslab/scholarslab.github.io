@@ -5,8 +5,6 @@ layout: post
 slug: mla14-roundtable-on-the-praxis-network-rethinking-humanities-education-together-and-in-public
 title: 'MLA14 Roundtable on the Praxis Network: Rethinking Humanities Education, Together
   and In Public'
-categories:
-- Announcements
 tags:
 - Praxis Network
 - praxis program

@@ -4,8 +4,7 @@ date: 2013-03-21 11:58:14+00:00
 layout: post
 slug: spring-newsletter
 title: Spring Newsletter
-categories:
-- Announcements
+type: Announcement
 ---
 
 Our Spring 2013 newsletter (pdf) is [available for download](http://static.scholarslab.org/wp-content/uploads/2013/03/2013spring-1-final.pdf).

@@ -5,8 +5,6 @@ layout: post
 slug: congratulations-to-the-praxis-2016-2017-cohort
 title: Congratulations to the Praxis 2016-2017 Cohort
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
 tags:
 - praxis program

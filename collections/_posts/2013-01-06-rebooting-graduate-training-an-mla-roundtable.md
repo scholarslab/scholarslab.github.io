@@ -5,7 +5,6 @@ layout: post
 slug: rebooting-graduate-training-an-mla-roundtable
 title: 'Rebooting Graduate Training: An MLA Roundtable'
 categories:
-- Announcements
 - Grad Student Research
 tags:
 - altac

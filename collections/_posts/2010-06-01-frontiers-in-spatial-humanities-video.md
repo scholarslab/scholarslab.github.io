@@ -11,6 +11,7 @@ categories:
 - Podcasts
 tags:
 - Digital Humanities
+type: Announcement
 ---
 
 A video stream of the final event of our NEH-funded [Institute for Enabling Geospatial Scholarship](http://scholarslab.org/geospatial) (or [#geoinst](http://search.twitter.com/search?q=%23geoinst) as it's known on Twitter) is now available!  Thanks to all our wonderful participants for making these lightning talks, collectively entitled "Frontiers in Spatial Humanities," so thought-provoking.

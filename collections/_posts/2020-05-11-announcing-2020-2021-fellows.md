@@ -4,11 +4,7 @@ date: 2020-05-11 14:23:47
 layout: post
 slug: announcing-2020-2021-fellows
 title: Announcing 2020-2021 Fellows!
-categories:
-- Grad Student Research
-- Announcements
-tags:
-- Digital Humanities
+type: Announcement
 ---
 We are thrilled to announce the 2020-2021 Scholar’s Lab fellows for the Praxis Program and the Graduate Fellowship in the Digital Humanities. We are welcoming 8 fellows from 6 disciplines from the arts, humanities, and social sciences. Our graduate fellows are joining a robust and vibrant community of past students!
 

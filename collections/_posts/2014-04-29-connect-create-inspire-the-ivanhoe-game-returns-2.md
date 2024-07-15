@@ -5,8 +5,6 @@ layout: post
 slug: connect-create-inspire-the-ivanhoe-game-returns-2
 title: 'Connect, Create, Inspire: the Ivanhoe Game returns!'
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
 tags:
 - Ivanhoe

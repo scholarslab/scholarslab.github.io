@@ -4,9 +4,6 @@ date: 2019-01-09 12:45:39
 layout: post
 slug: parents-fund-award
 title: Parents Fund Award for AR/VR Development
-categories:
-- Announcements
-- Digital Humanities
 tags:
 - Digital Humanities
 ---

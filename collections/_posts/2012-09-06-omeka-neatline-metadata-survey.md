@@ -5,10 +5,10 @@ layout: post
 slug: omeka-neatline-metadata-survey
 title: Omeka + Neatline Metadata Survey
 categories:
-- Announcements
 - Geospatial and Temporal
 tags:
 - Neatline
+type: Announcement
 ---
 
 As part of our collaboration on [Omeka](http://omeka.org/) + [Neatline](http://neatline.org/), the Scholars' Lab and Omeka development teams are seeking your assistance to help make our projects more useful across many scholarly disciplines--including beyond the humanities and cultural heritage fields in which they originated. We've developed a short survey asking questions about new data types that Omeka+Neatline could display and metadata formats that it might import and describe.

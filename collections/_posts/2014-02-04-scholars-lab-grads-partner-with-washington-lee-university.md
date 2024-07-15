@@ -4,9 +4,6 @@ date: 2014-02-04 15:46:33+00:00
 layout: post
 slug: scholars-lab-grads-partner-with-washington-lee-university
 title: Scholars' Lab Grads partner with Washington & Lee University
-categories:
-- Announcements
-- Digital Humanities
 tags:
 - praxis program
 ---

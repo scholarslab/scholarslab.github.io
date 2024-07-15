@@ -9,6 +9,7 @@ categories:
 - Digital Humanities
 tags:
 - Digital Humanities
+type: Announcement
 ---
 
 [![Open Access Week poster](http://static.scholarslab.org/wp-content/uploads/2011/10/openaccessweek20118.5x11-164x300.png)](http://www.scholarslab.org/uncategorized/international-open-access-week-2011/attachment/openaccessweek20118-5x11/)

@@ -5,8 +5,6 @@ layout: post
 slug: over-the-moon-and-down-to-earth-scholars-lab-versions-of-space
 title: 'Over the Moon and Down to Earth: Scholars'' Lab versions of space'
 categories:
-- Announcements
-- Digital Humanities
 - Geospatial and Temporal
 - Makerspace
 ---

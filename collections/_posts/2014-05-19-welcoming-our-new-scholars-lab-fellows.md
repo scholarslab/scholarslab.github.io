@@ -5,9 +5,8 @@ layout: post
 slug: welcoming-our-new-scholars-lab-fellows
 title: Welcoming our new Scholars’ Lab Fellows!
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
+type: Announcement
 ---
 
 We are thrilled to announce our partnership with 9 new graduate fellows for the 2014-2015 academic year! Joining an illustrious [community of past recipients](http://www.scholarslab.org/graduate-fellowships/) of Scholars’ Lab Fellowships, the new cohort hail from 5 disciplines in the [humanities and social sciences at the University of Virginia.](http://artsandsciences.virginia.edu/home/index.html)

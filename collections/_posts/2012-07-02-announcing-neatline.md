@@ -5,7 +5,6 @@ layout: post
 slug: announcing-neatline
 title: Announcing Neatline!
 categories:
-- Announcements
 - Geospatial and Temporal
 tags:
 - gis

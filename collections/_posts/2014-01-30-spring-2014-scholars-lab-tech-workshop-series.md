@@ -4,11 +4,10 @@ date: 2014-01-30 16:32:21+00:00
 layout: post
 slug: spring-2014-scholars-lab-tech-workshop-series
 title: Spring 2014 Scholars' Lab Tech Workshop Series
-categories:
-- Announcements
 tags:
 - training
 - workshop
+type: Announcement
 ---
 
 We're pleased to announce our Spring 2014 Tech Workshop series roster.

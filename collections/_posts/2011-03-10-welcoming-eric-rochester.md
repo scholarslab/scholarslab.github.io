@@ -8,6 +8,7 @@ categories:
 - Announcements
 tags:
 - staffing
+type: Announcement
 ---
 
 [![](http://static.scholarslab.org/wp-content/uploads/2011/03/DCP_1060-Medium-183x300.jpg)](http://www.scholarslab.org/announcements/welcoming-eric-rochester/attachment/dcp_1060-medium/)

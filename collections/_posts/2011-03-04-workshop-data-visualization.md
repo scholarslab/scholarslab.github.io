@@ -6,6 +6,7 @@ slug: workshop-data-visualization
 title: 'Workshop: Data Visualization'
 categories:
 - Announcements
+type: Announcement
 ---
 
 ### Workshop: An Introduction to VIDI

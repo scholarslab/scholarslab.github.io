@@ -4,8 +4,7 @@ date: 2014-01-29 10:08:13+00:00
 layout: post
 slug: dh-speaker-series-presents-adeline-koh-roopika-risam
 title: 'DH Speaker Series: Adeline Koh & Roopika Risam on DHpoco'
-categories:
-- Announcements
+type: Announcement
 ---
 
 Theories and Practices of Postcolonial Digital Humanities

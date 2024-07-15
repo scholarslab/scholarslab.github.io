@@ -5,7 +5,6 @@ layout: post
 slug: drum-roll-please
 title: Drum Roll Please.....
 categories:
-- Announcements
 - Grad Student Research
 tags:
 - praxis program

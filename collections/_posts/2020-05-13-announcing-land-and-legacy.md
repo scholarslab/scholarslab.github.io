@@ -7,10 +7,7 @@ layout: post
 slug: announcing-land-and-legacy
 title: Announcing 'Land And Legacy'
 categories:
-- Announcements
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 We are pleased to share *[Land and Legacy](https://landandlegacy.scholarslab.org/)*, the project launched by this year's Praxis cohort. 
 

@@ -5,9 +5,8 @@ layout: post
 slug: ready-for-praxis-apply-by-february-26-for-the-2016-2017-cohort
 title: Ready for Praxis? Apply by February 26 for the 2016-2017 cohort
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
+type: Announcement
 ---
 
 UVa grad students! Apply by  **February 26** for a unique, funded opportunity to work with an interdisciplinary group of your peers, learning digital humanities skills from the experts, and collaboratively designing and executing an innovative digital project. The 2015-2016 Praxis cohort is in full swing, thanks to a generous support by [UVa Library](http://www.library.virginia.edu) and [GSAS](http://gsas.virginia.edu).

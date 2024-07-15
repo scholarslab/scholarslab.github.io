@@ -4,11 +4,7 @@ date: 2023-08-08
 layout: post
 slug: apply-for-the-2024-2025-praxis-cohort
 title: Apply For The 2024-2025 Praxis Cohort
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
+type: Announcement
 ---
 
 **Applications are now open for Praxis Fellowships to be held during the 2024-2025 academic year. Further details below about this application cycle, which has applications due November 1st, 2023.** Consider spending time with us next year!

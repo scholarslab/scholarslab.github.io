@@ -4,8 +4,6 @@ date: 2015-02-11 15:36:38+00:00
 layout: post
 slug: new-developments-for-the-praxis-network
 title: New Developments for the Praxis Network
-categories:
-- Announcements
 ---
 
 The [Praxis Network](http://praxis-network.org) was developed as part of a 2012-2013 [Scholarly Communication Institute](http://uvasci.org/) focused on graduate education. Its goal is to share [model programs](http://praxis-network.org/compare/) that are engaged in methodological training and collaborative research in the humanities. Deeply invested in demystifying collaborative, iterative, and public work, Praxis Network programs prep students to have a broader view of the humanities.

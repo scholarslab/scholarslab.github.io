@@ -10,6 +10,7 @@ categories:
 - Grad Student Research
 tags:
 - Digital Humanities
+type: Announcement
 ---
 
 It is with great pleasure, and no small amount of trepidation, that I announce the launch of the [Early American Foreign Service Database](http://www.eafsd.org) (EAFSD to its friends).  While the EAFSD has been designed as an independent, secondary source publication, it also exists symbiotically with my dissertation "Revolution-Mongers: Launching the U.S. Foreign Service, 1775-1825."

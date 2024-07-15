@@ -1,5 +1,5 @@
 ---
-author: Admin
+author: scholars-lab
 date: 2009-02-22 17:25:46+00:00
 layout: post
 slug: coins-site
@@ -11,6 +11,7 @@ categories:
 tags:
 - Digital Humanities
 - Digital Libraries
+type: Announcement
 ---
 
 <!-- ![Ethan in the SLab](http://farm4.static.flickr.com/3614/3300810539_6e6f755e21.jpg) -->

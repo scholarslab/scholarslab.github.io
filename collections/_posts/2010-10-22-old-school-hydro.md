@@ -1,5 +1,5 @@
 ---
-author: Admin
+author: scholars-lab
 date: 2010-10-22 14:39:05+00:00
 layout: post
 slug: old-school-hydro
@@ -10,6 +10,7 @@ categories:
 tags:
 - gis
 - speaker series
+type: Announcement
 ---
 
 Please join us on November 4th (or look for our podcast) to get your feet wet with _Old School Hydro: Modern and Historic Surveying Aboard the NOAA Ship “Thomas Jefferson!”_

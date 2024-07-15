@@ -4,11 +4,7 @@ date: 2020-01-14 16:29:57
 layout: post
 slug: praxis-program-cfp-2020-2021-cohort
 title: Apply for the 2020-2021 Praxis Cohort!
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
+type: Announcement
 ---
 
 Calling UVA graduate students! The spring semester is just beginning, but it's never too early to think about next year. **Applications are now open for the 2020-2021 cohort. Applications are due March 1st, 2020**. Consider spending some time with us!

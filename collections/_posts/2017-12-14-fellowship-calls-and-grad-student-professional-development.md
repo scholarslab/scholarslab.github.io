@@ -5,8 +5,6 @@ layout: post
 slug: fellowship-calls-and-grad-student-professional-development
 title: Fellowship Calls and Grad Student Professional Development
 categories:
-- Announcements
-- Digital Humanities
 - Geospatial and Temporal
 - Grad Student Research
 - Makerspace

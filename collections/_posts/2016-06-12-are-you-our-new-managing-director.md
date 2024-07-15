@@ -4,9 +4,7 @@ date: 2016-06-12 09:10:28+00:00
 layout: post
 slug: are-you-our-new-managing-director
 title: Are you our new Managing Director?
-categories:
-- Announcements
-- Digital Humanities
+type: Announcement
 ---
 
 We are thrilled to announce an exciting job opportunity on the leadership team here in the Scholars' Lab. Read on for more details!

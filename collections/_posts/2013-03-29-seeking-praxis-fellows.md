@@ -5,10 +5,10 @@ layout: post
 slug: seeking-praxis-fellows
 title: 'Call for Applicants: Praxis Program Fellows'
 categories:
-- Announcements
 - Grad Student Research
 tags:
 - praxis program
+type: Announcement
 ---
 
 ![](http://static.scholarslab.org/images/praxis-program-logo.png)

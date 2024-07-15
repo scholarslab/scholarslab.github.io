@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2009-03-26 12:56:34+00:00
 layout: post
 slug: scholarly-publishing-today-and-tomorrow
@@ -8,6 +8,8 @@ categories:
 - Podcasts
 tags:
 - speaker series
+type: Announcement
+type: Announcement
 ---
 
 Linda Bree from Cambridge University Press talks about "Scholarly Publishing Today and Tomorrow"

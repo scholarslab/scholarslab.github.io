@@ -4,8 +4,6 @@ date: 2013-03-21 10:38:27+00:00
 layout: post
 slug: slab-out-about
 title: SLab Out & About
-categories:
-- Announcements
 ---
 
 SLab folks get out and about! Here’s where we’ve been over the last few months:

@@ -5,8 +5,8 @@ layout: post
 slug: 2017-virginia-higher-ed-gis
 title: 2017 Virginia Higher Ed GIS Meeting
 categories:
-- Announcements
 - Geospatial and Temporal
+type: Announcement
 ---
 
 **2017 Virginia Higher Ed GIS Meeting**

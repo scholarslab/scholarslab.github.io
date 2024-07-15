@@ -12,6 +12,7 @@ tags:
 - Digital Humanities
 - gis
 - speaker series
+type: Announcement
 ---
 
 #### UPDATE: [video for the event](/blog/frontiers-in-spatial-humanities-video/) now available!

@@ -5,7 +5,6 @@ layout: post
 slug: announcing-the-praxis-network
 title: Announcing the Praxis Network
 categories:
-- Announcements
 - Grad Student Research
 tags:
 - praxis program

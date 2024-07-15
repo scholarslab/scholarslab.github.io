@@ -4,11 +4,7 @@ date: 2021-10-27
 layout: post
 slug: are-you-one-of-our-2022-2023-digital-humanities-fellows
 title: Are you one of our 2022-2023 Digital Humanities Fellows?
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
+type: Announcement
 ---
 
 Have a digital project you'd like to work on in conjunction with your dissertation? **Applications are now open for the 2022-2023 Digital Humanities Fellowship cohort.**

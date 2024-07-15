@@ -5,7 +5,6 @@ layout: post
 slug: all-systems-go-we-think
 title: 'All systems go! (we think...) '
 categories:
-- Announcements
 - Grad Student Research
 tags:
 - '1.0'

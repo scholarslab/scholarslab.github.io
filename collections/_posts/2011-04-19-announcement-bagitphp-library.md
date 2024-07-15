@@ -7,6 +7,7 @@ title: 'Announcement: BagItPHP Library'
 categories:
 - Announcements
 - Research and Development
+type: Announcement
 ---
 
 The Scholars' Lab is pleased to announce the initial release of a PHP library implementing [BagIt 0.96](https://wiki.ucop.edu/display/Curation/BagIt). BagIt is a specification from the [Library of Congress](http://www.loc.gov/) for bundling and transmitting multiple files along with their meta-data. You can check out the project page at [http://github.com/scholarslab/BagItPHP/](http://github.com/scholarslab/BagItPHP/).

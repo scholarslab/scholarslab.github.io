@@ -5,9 +5,8 @@ layout: post
 slug: call-for-applications-praxis-fellowship
 title: Call for Applications, Praxis Fellowship
 categories:
-- Announcements
-- Digital Humanities
 - Grad Student Research
+type: Announcement
 ---
 
 UVa grad students! Apply by **March 2** for a unique, funded opportunity to work with an interdisciplinary group of your peers, learning digital humanities skills from the experts, and collaboratively design and execute an innovative digital project. The 2015-2016 Praxis cohort will get underway in September, thanks to generous support by the [UVa Library](http://www.library.virginia.edu/) and the endorsement of [GSAS](http://gsas.virginia.edu/).

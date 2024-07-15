@@ -8,6 +8,7 @@ categories:
 - Announcements
 tags:
 - career opportunities
+type: Announcement
 ---
 
 Building on a nearly twenty-year history in digital humanities and spatial and data-driven scholarship at the University of Virginia, the [Scholars' Lab](http://scholarslab.org) has developed [great projects](http://www.scholarslab.org/) and hosted [amazing events](http://www2.scholarslab.org/about/events.html) at UVa Library over the past three years.  In addition to our current search for a full-time, permanent [Senior Developer](http://www.scholarslab.org/announcements/senior-developer-position/), we now have the opportunity to add some UX love to the work of our R&D; division.

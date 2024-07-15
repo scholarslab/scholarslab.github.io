@@ -4,11 +4,7 @@ date: 2023-11-02
 layout: post
 slug: call-for-digital-humanities-fellows-applications-2024-2025-cohort
 title: Call For Digital Humanities Fellows Applications - 2024-2025 Cohort
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
+type: Announcement
 ---
 Applications are now open for the 2024-2025 Digital Humanities Fellowship cohort. The application deadline for fellowships to be held during the 2024-2025 academic year is **February 15th, 2024**. More details on how to apply at the end of this page. 
 

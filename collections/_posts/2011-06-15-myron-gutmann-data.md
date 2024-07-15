@@ -10,6 +10,7 @@ categories:
 tags:
 - Social Sciences
 - speaker series
+type: Announcement
 ---
 
 ### Data Access for Research and Teaching in the Twenty-First Century
