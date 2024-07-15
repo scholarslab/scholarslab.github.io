@@ -5,11 +5,8 @@ layout: post
 slug: coins-site
 title: Library Innovation Grant Yields Dividends for Numismatists
 categories:
-- Announcements
-- Digital Humanities
 - Research and Development
 tags:
-- Digital Humanities
 - Digital Libraries
 type: Announcement
 ---

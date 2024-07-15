@@ -5,10 +5,8 @@ layout: post
 slug: a-project-for-prism
 title: A Project for Prism
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 ---
 

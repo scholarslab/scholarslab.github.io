@@ -5,10 +5,8 @@ layout: post
 slug: biblical-statistics
 title: Biblical Statistics
 categories:
-- Digital Humanities
 - Visualization and Data Mining
 tags:
-- Digital Humanities
 - Statistical Analysis
 ---
 

@@ -7,7 +7,6 @@ title: Got Prism?
 categories:
 - Grad Student Research
 tags:
-- Digital Humanities
 - false binaries
 - praxis program
 - Programming

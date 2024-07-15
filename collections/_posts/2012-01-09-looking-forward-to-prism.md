@@ -5,10 +5,8 @@ layout: post
 slug: looking-forward-to-prism
 title: Looking forward to Prism
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - Prism
 - project-management

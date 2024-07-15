@@ -5,10 +5,8 @@ layout: post
 slug: crowdsourcing-interpretation
 title: Crowdsourcing Interpretation / Praxis and Prism
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - requirements-gathering
 ---

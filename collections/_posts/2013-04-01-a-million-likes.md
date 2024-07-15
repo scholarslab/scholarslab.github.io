@@ -4,8 +4,6 @@ date: 2013-04-01 09:08:43+00:00
 layout: post
 slug: a-million-likes
 title: Scholars' Lab Campaigns for a Million "Likes"
-tags:
-- Digital Humanities
 ---
 
 TRANSCRIPT

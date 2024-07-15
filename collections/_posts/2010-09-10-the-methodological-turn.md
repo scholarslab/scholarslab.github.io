@@ -4,11 +4,6 @@ date: 2010-09-10 18:26:09+00:00
 layout: post
 slug: the-methodological-turn
 title: The Methodological Turn
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
 type: Announcement
 ---
 

@@ -5,10 +5,7 @@ layout: post
 slug: more-on-pandora-genres
 title: 'More on Pandora:  genres, genomes, and musical taste...'
 categories:
-- Digital Humanities
 - Visualization and Data Mining
-tags:
-- Digital Humanities
 ---
 
 

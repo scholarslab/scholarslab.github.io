@@ -5,10 +5,8 @@ layout: post
 slug: updating-visualizations-and-users
 title: Updating Visualizations and Users
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - rails
 - visualizations

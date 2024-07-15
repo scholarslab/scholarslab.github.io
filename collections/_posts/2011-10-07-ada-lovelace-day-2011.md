@@ -5,10 +5,8 @@ layout: post
 slug: ada-lovelace-day-2011
 title: Ada Lovelace Day 2011
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - Digital Libraries
 - praxis program
 ---

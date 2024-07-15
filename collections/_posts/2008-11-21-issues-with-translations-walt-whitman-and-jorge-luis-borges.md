@@ -4,10 +4,6 @@ date: 2008-11-21 15:38:42+00:00
 layout: post
 slug: issues-with-translations-walt-whitman-and-jorge-luis-borges
 title: Issues with translations - Walt Whitman and Jorge Luis Borges
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 ---
 
 A couple of summers ago, I was desperate for a job so I caved. This was not, in fact, the first time. I remember typing _Leaves of Grass_ for a whole nickel a page before I knew how to type properly, painstakingly pecking out what was then incomprehensible text. During my summer and winter break of 2006, then a proficient typist who had learned a bit of Spanish, I got a pay increase and went to work for my dad, Ken Price, encoding Álvaro Armando Vasseur's 1912 translation of Whitman's poetry for the Walt Whitman Archive. 

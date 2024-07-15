@@ -5,10 +5,8 @@ layout: post
 slug: geocoding-for-neatline-part-ii
 title: Geocoding for Neatline - Part II
 categories:
-- Digital Humanities
 - Research and Development
 tags:
-- Digital Humanities
 - geocoding
 - geospatial
 - mechanize

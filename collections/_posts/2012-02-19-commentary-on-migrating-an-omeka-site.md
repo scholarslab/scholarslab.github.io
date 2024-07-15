@@ -5,10 +5,8 @@ layout: post
 slug: commentary-on-migrating-an-omeka-site
 title: Commentary on Migrating an Omeka Site
 categories:
-- Digital Humanities
 - Research and Development
 tags:
-- Digital Humanities
 - migration
 - omeka
 - Programming

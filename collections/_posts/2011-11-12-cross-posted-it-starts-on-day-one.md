@@ -5,10 +5,8 @@ layout: post
 slug: cross-posted-it-starts-on-day-one
 title: 'cross-posted: It Starts on Day One'
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 crosspost:
   - title: nowviskie.org

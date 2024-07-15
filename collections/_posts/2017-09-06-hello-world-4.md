@@ -5,10 +5,8 @@ layout: post
 slug: hello-world-4
 title: Hello World!
 categories:
-- Digital Humanities
 - Experimental Humanities
 tags:
-- Digital Humanities
 - praxis program
 - UVA Reveal
 ---

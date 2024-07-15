@@ -5,11 +5,7 @@ layout: post
 slug: collaborative-mentoring-at-ut-and-uva-co-developing-an-updated-teidisplay-for-omeka
 title: 'Collaborative mentoring at UT & UVa: co-developing an updated TEIDisplay for
   Omeka'
-categories:
-- Announcements
-- Digital Humanities
 tags:
-- Digital Humanities
 - omeka
 - TEI
 ---

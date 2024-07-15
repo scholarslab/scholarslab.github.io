@@ -5,10 +5,8 @@ layout: post
 slug: whiteboard-wireframing
 title: Whiteboard Wireframing
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 ---
 

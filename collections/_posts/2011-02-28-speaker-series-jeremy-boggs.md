@@ -4,11 +4,6 @@ date: 2011-02-28 11:48:28+00:00
 layout: post
 slug: speaker-series-jeremy-boggs
 title: 'Speaker Series: Jeremy Boggs'
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
 type: Announcement
 ---
 

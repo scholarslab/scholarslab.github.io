@@ -5,10 +5,8 @@ layout: post
 slug: prism-project-proposal
 title: Prism Project Proposal
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 ---
 

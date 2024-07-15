@@ -7,7 +7,6 @@ title: '...and then the Herokulypse'
 categories:
 - Grad Student Research
 tags:
-- Digital Humanities
 - Labor
 - praxis program
 - Programming

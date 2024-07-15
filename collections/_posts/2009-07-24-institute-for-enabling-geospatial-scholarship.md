@@ -5,11 +5,7 @@ layout: post
 slug: institute-for-enabling-geospatial-scholarship
 title: Institute for Enabling Geospatial Scholarship
 categories:
-- Announcements
-- Digital Humanities
 - Geospatial and Temporal
-tags:
-- Digital Humanities
 type: Announcement
 ---
 

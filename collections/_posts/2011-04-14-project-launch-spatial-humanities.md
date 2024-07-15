@@ -3,14 +3,11 @@ author: bethany-nowviskie
 date: 2011-04-14 16:24:12+00:00
 layout: post
 slug: project-launch-spatial-humanities
-title: 'project launch: "Spatial Humanities!"'
+title: 'Project launch: "Spatial Humanities!"'
 categories:
-- Announcements
-- Digital Humanities
 - Geospatial and Temporal
 - Visualization and Data Mining
 tags:
-- Digital Humanities
 - Digital Libraries
 - gis
 - map

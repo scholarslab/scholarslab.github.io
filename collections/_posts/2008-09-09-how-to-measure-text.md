@@ -5,10 +5,7 @@ layout: post
 slug: how-to-measure-text
 title: How to Measure Text?
 categories:
-- Digital Humanities
 - Visualization and Data Mining
-tags:
-- Digital Humanities
 ---
 
 > ...the words we join have been joined before, and continue to be joined daily. So writing is largely quotation, quotation newly energized, as a cyclotron augments the energies of common particles circulating.

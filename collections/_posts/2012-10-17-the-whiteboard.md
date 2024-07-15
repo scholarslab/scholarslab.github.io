@@ -5,10 +5,8 @@ layout: post
 slug: the-whiteboard
 title: The Whiteboard
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 ---
 

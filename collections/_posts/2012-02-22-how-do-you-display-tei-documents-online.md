@@ -4,10 +4,7 @@ date: 2012-02-22 15:05:23+00:00
 layout: post
 slug: how-do-you-display-tei-documents-online
 title: How do you display TEI documents online?
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - TEI
 ---
 

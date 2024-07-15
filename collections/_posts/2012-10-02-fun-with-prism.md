@@ -5,10 +5,8 @@ layout: post
 slug: fun-with-prism
 title: Fun with Prism
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - requirements-gathering
 ---

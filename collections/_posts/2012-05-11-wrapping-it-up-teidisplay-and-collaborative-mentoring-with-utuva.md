@@ -4,10 +4,7 @@ date: 2012-05-11 13:51:32+00:00
 layout: post
 slug: wrapping-it-up-teidisplay-and-collaborative-mentoring-with-utuva
 title: 'Wrapping it Up: TeiDisplay and Collaborative Mentoring with UT/UVa'
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - TEI
 ---
 

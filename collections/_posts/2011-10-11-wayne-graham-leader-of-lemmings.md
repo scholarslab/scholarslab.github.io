@@ -5,10 +5,8 @@ layout: post
 slug: wayne-graham-leader-of-lemmings
 title: 'Wayne Graham: Leader of Lemmings'
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 ---
 

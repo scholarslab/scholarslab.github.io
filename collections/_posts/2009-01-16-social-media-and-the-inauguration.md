@@ -5,12 +5,8 @@ layout: post
 slug: social-media-and-the-inauguration
 title: Social Media and the Inauguration
 categories:
-- Announcements
-- Digital Humanities
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
-- Digital Humanities
 type: Announcement
 ---
 

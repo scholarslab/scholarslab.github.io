@@ -4,11 +4,6 @@ date: 2008-09-17 13:36:47+00:00
 layout: post
 slug: feeds-coins-and-maps-oh-my
 title: Feeds, Coins, and Maps (oh, my)
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
 type: Announcement
 ---
 

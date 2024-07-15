@@ -5,11 +5,9 @@ layout: post
 slug: prism-images-and-binaries
 title: Prism, Images and Binaries
 categories:
-- Digital Humanities
 - Grad Student Research
 - Visualization and Data Mining
 tags:
-- Digital Humanities
 - praxis program
 ---
 

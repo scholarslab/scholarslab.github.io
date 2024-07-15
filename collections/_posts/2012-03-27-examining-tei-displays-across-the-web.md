@@ -4,10 +4,7 @@ date: 2012-03-27 14:00:13+00:00
 layout: post
 slug: examining-tei-displays-across-the-web
 title: Examining TEI Displays Across the Web
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - TEI
 ---
 

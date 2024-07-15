@@ -7,7 +7,6 @@ title: Onward and Upward
 categories:
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - Programming
 - rails

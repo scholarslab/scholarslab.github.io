@@ -5,10 +5,8 @@ layout: post
 slug: done-is-the-engine-of-more-2
 title: Done is the engine of more.
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - internationalization
 - praxis program
 - Prism

@@ -5,12 +5,9 @@ layout: post
 slug: mapping-the-catalogue-of-ships
 title: Mapping the Catalogue of Ships
 categories:
-- Announcements
-- Digital Humanities
 - Geospatial and Temporal
 - Visualization and Data Mining
 tags:
-- Digital Humanities
 - gis
 - map
 - visualization

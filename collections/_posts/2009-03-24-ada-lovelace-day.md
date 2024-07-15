@@ -4,10 +4,7 @@ date: 2009-03-24 18:31:27+00:00
 layout: post
 slug: ada-lovelace-day
 title: Ada Lovelace Day
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - Digital Libraries
 ---
 

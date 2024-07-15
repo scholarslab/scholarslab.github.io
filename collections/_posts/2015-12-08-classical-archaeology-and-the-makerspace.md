@@ -5,11 +5,9 @@ layout: post
 slug: classical-archaeology-and-the-makerspace
 title: Classical Archaeology and the Makerspace
 categories:
-- Digital Humanities
 - Grad Student Research
 - Makerspace
 tags:
-- Digital Humanities
 - graduate training
 - Scholarly Collaborations
 crosspost:

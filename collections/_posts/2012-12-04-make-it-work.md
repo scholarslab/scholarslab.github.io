@@ -5,10 +5,8 @@ layout: post
 slug: make-it-work
 title: Make it Work!
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - Programming
 ---

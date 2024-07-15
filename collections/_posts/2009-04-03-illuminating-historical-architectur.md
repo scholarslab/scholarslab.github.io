@@ -5,11 +5,8 @@ layout: post
 slug: illuminating-historical-architectur
 title: Illuminating Historical Architecture
 categories:
-- Digital Humanities
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
-- Digital Humanities
 ---
 
 *Note: This post contains references to images stored on an internal server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*

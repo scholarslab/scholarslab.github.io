@@ -4,11 +4,7 @@ date: 2011-03-25 13:05:43+00:00
 layout: post
 slug: welcoming-jeremy-boggs
 title: Welcoming Jeremy Boggs!
-categories:
-- Announcements
-- Digital Humanities
 tags:
-- Digital Humanities
 - staffing
 type: Announcement
 ---

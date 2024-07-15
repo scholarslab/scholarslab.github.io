@@ -5,11 +5,9 @@ layout: post
 slug: mapping-out-the-geography-of-an-asian-american-music-blog
 title: Mapping the Digital Diaspora of a Dissertation Research Blog
 categories:
-- Digital Humanities
 - Geospatial and Temporal
 - Visualization and Data Mining
 tags:
-- Digital Humanities
 - Statistical Analysis
 ---
 

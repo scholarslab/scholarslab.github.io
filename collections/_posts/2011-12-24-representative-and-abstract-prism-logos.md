@@ -5,10 +5,8 @@ layout: post
 slug: representative-and-abstract-prism-logos
 title: Representative and Abstract Prism Logos
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - Logo
 - praxis program
 - wireframes

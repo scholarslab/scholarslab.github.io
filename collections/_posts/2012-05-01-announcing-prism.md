@@ -5,10 +5,8 @@ layout: post
 slug: announcing-prism
 title: Announcing Prism!
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - graduate training
 - praxis program
 - Prism

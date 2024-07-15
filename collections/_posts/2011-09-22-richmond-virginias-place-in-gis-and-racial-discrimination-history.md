@@ -5,10 +5,8 @@ layout: post
 slug: richmond-virginias-place-in-gis-and-racial-discrimination-history
 title: Richmond, Virginia's Place in GIS and Racial Discrimination History
 categories:
-- Digital Humanities
 - Geospatial and Temporal
 tags:
-- Digital Humanities
 - gis
 - Hoyt
 - McHarg

@@ -5,11 +5,9 @@ layout: post
 slug: teasing-the-blogosphere
 title: Teasing the Blogosphere
 categories:
-- Digital Humanities
 - Grad Student Research
 - Research and Development
 tags:
-- Digital Humanities
 - praxis program
 ---
 

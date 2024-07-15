@@ -4,11 +4,6 @@ date: 2009-03-26 16:52:45+00:00
 layout: post
 slug: day-of-digital-humanities-2009
 title: Day of Digital Humanities 2009
-categories:
-- Announcements
-- Digital Humanities
-tags:
-- Digital Humanities
 type: Announcement
 ---
 

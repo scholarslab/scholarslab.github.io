@@ -4,10 +4,7 @@ date: 2009-03-30 17:09:24+00:00
 layout: post
 slug: a-kindle-for-every-student
 title: A Kindle for Every Student?
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - Digital Libraries
 ---
 

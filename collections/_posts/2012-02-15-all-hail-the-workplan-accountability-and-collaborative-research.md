@@ -5,10 +5,8 @@ layout: post
 slug: all-hail-the-workplan-accountability-and-collaborative-research
 title: 'All Hail the Workplan!: Accountability and Collaborative Research'
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - Prism
 - project-management

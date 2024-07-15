@@ -5,10 +5,7 @@ layout: post
 slug: preserving-reconstructing-teaching-in-3d
 title: Preserving, Reconstructing, & Teaching in 3D
 categories:
-- Digital Humanities
 - Grad Student Research
-tags:
-- Digital Humanities
 crosspost:
   - title: my personal blog
     url: http://jennifergrayburn.com/2015/10/13/preserving-reconstructing-and-teaching-in-3d/

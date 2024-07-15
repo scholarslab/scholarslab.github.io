@@ -5,10 +5,8 @@ layout: post
 slug: project-management-and-graduate-training
 title: Project Management and Graduate Training
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - Prism
 - project-management

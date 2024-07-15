@@ -4,10 +4,7 @@ date: 2008-09-16 16:07:59+00:00
 layout: post
 slug: normality-for-or-against
 title: 'Normality: For or Against?'
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - Social Sciences
 ---
 

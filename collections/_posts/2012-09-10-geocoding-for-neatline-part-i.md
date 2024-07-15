@@ -5,10 +5,8 @@ layout: post
 slug: geocoding-for-neatline-part-i
 title: Geocoding for Neatline - Part I
 categories:
-- Digital Humanities
 - Research and Development
 tags:
-- Digital Humanities
 - geocoding
 - hacks
 - mechanize
