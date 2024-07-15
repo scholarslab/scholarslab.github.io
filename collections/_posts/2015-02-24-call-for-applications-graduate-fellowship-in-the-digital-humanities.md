@@ -4,8 +4,6 @@ date: 2015-02-24 09:28:21+00:00
 layout: post
 slug: call-for-applications-graduate-fellowship-in-the-digital-humanities
 title: Call for Applications, Graduate Fellowship in the Digital Humanities
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

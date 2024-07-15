@@ -5,7 +5,6 @@ layout: post
 slug: a-fox-among-others
 title: A Fox... Among Others
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
 - praxis program

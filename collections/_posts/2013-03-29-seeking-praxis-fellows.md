@@ -4,8 +4,6 @@ date: 2013-03-29 14:18:23+00:00
 layout: post
 slug: seeking-praxis-fellows
 title: 'Call for Applicants: Praxis Program Fellows'
-categories:
-- Grad Student Research
 tags:
 - praxis program
 type: Announcement

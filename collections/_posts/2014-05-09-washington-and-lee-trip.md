@@ -5,7 +5,6 @@ layout: post
 slug: washington-and-lee-trip
 title: Washington and Lee Trip
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
 - praxis program

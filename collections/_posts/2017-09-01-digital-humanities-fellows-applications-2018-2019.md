@@ -4,8 +4,6 @@ date: 2017-09-01 14:36:56+00:00
 layout: post
 slug: digital-humanities-fellows-applications-2018-2019
 title: Digital Humanities Fellows Applications - 2018-2019
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

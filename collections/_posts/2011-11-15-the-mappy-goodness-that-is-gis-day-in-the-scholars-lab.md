@@ -5,14 +5,11 @@ layout: post
 slug: the-mappy-goodness-that-is-gis-day-in-the-scholars-lab
 title: The Mappy Goodness that is GIS Day in the Scholars' Lab
 categories:
-- Announcements
-- Digital Humanities
 - Geospatial and Temporal
 - Grad Student Research
 - Visualization and Data Mining
 tags:
 - cartography
-- Digital Humanities
 - gis
 - historic
 - howto

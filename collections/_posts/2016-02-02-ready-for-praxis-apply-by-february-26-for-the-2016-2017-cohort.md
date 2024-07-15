@@ -4,8 +4,6 @@ date: 2016-02-02 09:37:47+00:00
 layout: post
 slug: ready-for-praxis-apply-by-february-26-for-the-2016-2017-cohort
 title: Ready for Praxis? Apply by February 26 for the 2016-2017 cohort
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

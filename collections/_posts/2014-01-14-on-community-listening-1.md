@@ -5,7 +5,6 @@ layout: post
 slug: on-community-listening-1
 title: 'On Community Listening: 1'
 categories:
-- Digital Humanities
 - Experimental Humanities
 - Grad Student Research
 - Research and Development

@@ -4,8 +4,6 @@ date: 2015-02-09 14:02:32+00:00
 layout: post
 slug: call-for-applications-praxis-fellowship
 title: Call for Applications, Praxis Fellowship
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

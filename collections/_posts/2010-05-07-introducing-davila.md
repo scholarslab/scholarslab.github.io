@@ -5,11 +5,8 @@ layout: post
 slug: introducing-davila
 title: Introducing DAVILA
 categories:
-- Digital Humanities
 - Grad Student Research
 - Visualization and Data Mining
-tags:
-- Digital Humanities
 ---
 
 

@@ -4,8 +4,6 @@ date: 2014-02-17 12:46:16+00:00
 layout: post
 slug: call-for-graduate-fellowship-in-the-digital-humanities
 title: Call for Graduate Fellowship in the Digital Humanities
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

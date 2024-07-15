@@ -5,10 +5,8 @@ layout: post
 slug: gendering-praxis
 title: Gendering Praxis
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - Gender
 - praxis program
 - TransformDH

@@ -4,8 +4,6 @@ date: 2017-02-03 17:15:32+00:00
 layout: post
 slug: graduate-fellowships
 title: Digital Humanities Fellows
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

@@ -4,8 +4,6 @@ date: 2013-03-20 10:25:57+00:00
 layout: post
 slug: head-graduate-programs
 title: Are you our new Head of Graduate Programs?
-categories:
-- Grad Student Research
 tags:
 - career opportunities
 - graduate fellows

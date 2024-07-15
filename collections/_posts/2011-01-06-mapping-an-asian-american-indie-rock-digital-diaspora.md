@@ -5,11 +5,8 @@ layout: post
 slug: mapping-an-asian-american-indie-rock-digital-diaspora
 title: Mapping an Asian American Indie Rock Digital Diaspora
 categories:
-- Digital Humanities
 - Geospatial and Temporal
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 
 [My dissertation project](http://beingwendyhsu.info/?page_id=6) investigates the musical and social life of current independent rock  musicians of Asian descent. This research looks at the music,  interviews, and social interactions of these musicians. How do I do  this?

@@ -4,12 +4,9 @@ date: 2013-08-26 09:48:28+00:00
 layout: post
 slug: welcome-new-slab-grad-fellows
 title: Welcome, new SLab grad fellows!
-categories:
-- Announcements
-- Digital Humanities
-- Grad Student Research
 tags:
 - praxis program
+type: announcement
 ---
 
 The Scholars' Lab is pleased and proud to announce our partnership with **nine new graduate fellows** for the 2013-2014 academic year! They represent seven academic disciplines in the [humanities and social sciences](http://artsandsciences.virginia.edu/home/index.html) at the University of Virginia, and join a distinguished group of [past recipients](http://www.scholarslab.org/graduate-fellowships/) of Scholars' Lab fellowships. (Since 2007,  [UVa Library](http://library.virginia.edu) has offered 44 fellowships to deserving grad students in fields as diverse as History, Archaeology, Computer Music, Anthropology, Economics, English, Ethnomusicology, French, Religious Studies, Art History, Linguistics, and Architecture.)

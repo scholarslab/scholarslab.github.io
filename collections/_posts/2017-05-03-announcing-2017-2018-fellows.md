@@ -4,8 +4,6 @@ date: 2017-05-03 10:11:38+00:00
 layout: post
 slug: announcing-2017-2018-fellows
 title: Announcing 2017-2018 Fellows!
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

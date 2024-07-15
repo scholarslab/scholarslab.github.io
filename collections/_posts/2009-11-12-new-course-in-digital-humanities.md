@@ -5,10 +5,7 @@ layout: post
 slug: new-course-in-digital-humanities
 title: New Course in Digital Humanities!
 categories:
-- Digital Humanities
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 
 Inspired by my fellowship at the Scholars’ Lab last year, I am teaching a course in the History Department this coming spring called, HIST 4501 “From Vellum to Very Large Databases: Historical Sources Past, Present, and Future.”   The course will examine how information about the past has been (and is being) preserved.

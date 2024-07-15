@@ -5,10 +5,8 @@ layout: post
 slug: prism-is-looking-for-john-connor
 title: Prism is looking for John Connor
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 - requirements-gathering
 ---

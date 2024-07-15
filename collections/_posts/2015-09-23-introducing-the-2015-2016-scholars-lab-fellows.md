@@ -4,8 +4,6 @@ date: 2015-09-23 14:05:45+00:00
 layout: post
 slug: introducing-the-2015-2016-scholars-lab-fellows
 title: Introducing the 2015-2016 Scholars' Lab Fellows
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

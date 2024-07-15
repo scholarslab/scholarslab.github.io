@@ -4,10 +4,6 @@ date: 2018-12-13 13:40:17
 layout: post
 slug: call-for-2019-2020-praxis-fellows
 title: Call For 2019-2020 Praxis Fellows!
-categories:
-- Grad Student Research
-tags:
-- Digital Humanities
 type: Announcement
 ---
 

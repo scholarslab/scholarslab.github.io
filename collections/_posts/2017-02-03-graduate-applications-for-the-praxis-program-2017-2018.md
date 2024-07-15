@@ -4,8 +4,6 @@ date: 2017-02-03 17:04:36+00:00
 layout: post
 slug: graduate-applications-for-the-praxis-program-2017-2018
 title: Graduate Applications for the Praxis Program, 2017-2018
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

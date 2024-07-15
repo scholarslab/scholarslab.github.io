@@ -5,11 +5,9 @@ layout: post
 slug: spatial-in-the-scholars-lab-spring-2012
 title: 'Spatial In the Scholars’ Lab: Spring 2012'
 categories:
-- Digital Humanities
 - Geospatial and Temporal
 - Grad Student Research
 tags:
-- Digital Humanities
 - gis
 - howto
 - map

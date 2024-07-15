@@ -4,8 +4,6 @@ date: 2015-05-14 11:55:21+00:00
 layout: post
 slug: announcing-2015-2016-fellows
 title: Announcing 2015-2016 Fellows!
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

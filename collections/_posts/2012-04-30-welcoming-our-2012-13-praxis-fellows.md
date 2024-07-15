@@ -4,8 +4,6 @@ date: 2012-04-30 14:18:01+00:00
 layout: post
 slug: welcoming-our-2012-13-praxis-fellows
 title: Welcoming our 2012/13 Praxis Fellows
-categories:
-- Grad Student Research
 tags:
 - praxis program
 type: Announcement

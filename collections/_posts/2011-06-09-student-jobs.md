@@ -3,12 +3,7 @@ author: bethany-nowviskie
 date: 2011-06-09 15:52:40+00:00
 layout: post
 slug: student-jobs
-title: grad student jobs in Scholars' Lab R&D
-categories:
-- Announcements
-- Grad Student Research
-tags:
-- career opportunities
+title: Grad student jobs in Scholars' Lab R&D
 type: Announcement
 ---
 

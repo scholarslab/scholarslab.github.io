@@ -4,8 +4,6 @@ date: 2016-02-02 09:48:47+00:00
 layout: post
 slug: apply-for-2016-2017-graduate-fellowship-in-digital-humanities
 title: Apply for 2016-2017 Graduate Fellowship in Digital Humanities
-categories:
-- Grad Student Research
 type: Announcement
 ---
 

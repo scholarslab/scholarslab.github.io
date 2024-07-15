@@ -4,8 +4,6 @@ date: 2014-05-19 13:20:32+00:00
 layout: post
 slug: welcoming-our-new-scholars-lab-fellows
 title: Welcoming our new Scholars’ Lab Fellows!
-categories:
-- Grad Student Research
 type: Announcement
 ---
 
