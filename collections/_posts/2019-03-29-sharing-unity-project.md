@@ -5,10 +5,8 @@ layout: post
 slug: sharing-unity-project
 title: "Sharing a Unity Project"
 categories:
-- Digital Humanities
 - Research and Development
 tags:
-- Digital Humanities
 - Parents Fund
 ---
 # Sharing a Unity Project

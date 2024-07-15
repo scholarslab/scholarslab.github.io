@@ -4,10 +4,6 @@ date: 2019-02-27 11:39:13
 layout: post
 slug: workshop-on-reading-with-command-line
 title: Workshop On Reading With Command Line
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: my blog
     url: http://walshbr.com/blog/teaching-and-reading-with-command-line/

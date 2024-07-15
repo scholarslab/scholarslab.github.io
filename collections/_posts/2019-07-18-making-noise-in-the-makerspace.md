@@ -4,10 +4,6 @@ date: 2019-07-18 10:28:45
 layout: post
 slug: making-noise-in-the-makerspace
 title: Making Noise In The Makerspace
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 ---
 *Crossposted to [my personal blog](http://walshbr.com/blog/making-noise-in-the-makerspace/)*
 

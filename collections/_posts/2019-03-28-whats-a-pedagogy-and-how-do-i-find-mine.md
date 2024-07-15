@@ -4,10 +4,6 @@ date: 2019-03-28 11:36:29
 layout: post
 slug: whats-a-pedagogy-and-how-do-i-find-mine
 title: What's a Pedagogy, and How Do I Find Mine?
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: my blog
     url: http://walshbr.com/blog/whats-a-pedagogy

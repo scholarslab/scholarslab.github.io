@@ -6,8 +6,6 @@ slug: all-of-the-questions-a-recap-of-the-2017-bucknell-university-digital-schol
 title: “All of the Questions:” A Recap of the 2017 Bucknell University Digital Scholarship
   Pre-Conference
 tags:
-- Digital Humanities
-- Digital Scholarship
 - Scholarly Collaborations
 ---
 

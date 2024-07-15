@@ -8,10 +8,6 @@ date: 2019-03-11 15:33:18
 layout: post
 slug: archiving-dh-part-2-the-problem-in-detail
 title: "Archiving DH Part 2: The Problem in Detail"
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 ---
 ![Photo by Hans-Peter Gauster on Unsplash](/assets/post-media/2019-03-08-hans-peter-gauster-252751-unsplash.jpg)
 

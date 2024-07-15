@@ -6,10 +6,7 @@ date: 2019-06-27 12:59:53
 layout: post
 slug: dh-pedagogy-roadshow
 title: DH Pedagogy Roadshow
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - WLU Collab
 crosspost:
   - title: Brandon's blog

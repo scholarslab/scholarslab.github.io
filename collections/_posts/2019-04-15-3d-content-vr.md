@@ -4,10 +4,7 @@ date: 2019-04-15 01:00:00+00:00
 layout: post
 slug: 3d-content-vr
 title: "3D Content for Virtual Reality"
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - Parents Fund
 ---
 

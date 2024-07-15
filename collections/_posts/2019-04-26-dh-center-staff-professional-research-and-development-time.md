@@ -4,10 +4,6 @@ date: 2019-04-26
 layout: post
 slug: dh-center-staff-professional-research-and-development-time
 title: "20% Time: Why we make self-initiated research & development part of the job"
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: my blog
     url: https://literaturegeek.com/2019/04/26/dh-center-staff-professional-research-and-development-time/

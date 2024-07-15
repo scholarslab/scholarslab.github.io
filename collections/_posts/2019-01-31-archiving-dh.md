@@ -4,10 +4,6 @@ date: 2019-01-31 08:29:13
 layout: post
 slug: archiving-dh-part-one
 title: Archiving DH Part 1 - The Problem
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 ---
 
 # The Problem

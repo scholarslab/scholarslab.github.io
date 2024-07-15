@@ -5,10 +5,8 @@ layout: post
 slug: light-emitting-objects
 title: "Illumination Through Light Emitting Objects"
 categories:
-- Digital Humanities
 - Research and Development
 tags:
-- Digital Humanities
 - Parents Fund
 ---
 # Illumination Through Light Emitting Objects in Unity 3D

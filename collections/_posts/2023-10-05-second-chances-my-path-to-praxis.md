@@ -5,10 +5,7 @@ layout: post
 slug: second-chances-my-path-to-praxis
 title: Second Chances / My Path To Praxis
 categories:
-- Example category
 - Grad Student Research
-tags:
-- Digital Humanities
 ---
 Recently, I’ve been feeling very grateful to be a part of this year’s cohort of Praxis Program Fellows. While it’s only been a few weeks (at the time of me writing this), as a third-year PhD student with new and demanding responsibilities, I feel that the Scholars’ Lab space is becoming one of the few environments where I can breathe, slow down, and reflect on where I am and where I want to go in terms of both my personal and professional interests. And it’s exciting! It can also be nerve-racking at times, especially since the irony of *me* committing myself to learning about the different aspects of digital humanities for a year is not lost on me. 
 

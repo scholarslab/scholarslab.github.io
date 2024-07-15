@@ -5,10 +5,8 @@ layout: post
 slug: writing-in-public-on-purpose-at-washington-lee-university
 title: Writing in Public (on Purpose) at Washington & Lee University
 categories:
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - Digital Pedagogy
 - howto
 - Pedagogy

@@ -5,11 +5,8 @@ layout: post
 slug: what-is-praxis-working-on
 title: What Is Praxis Working On?
 categories:
-- Example category
-- Digital Humanities
 - Grad Student Research
 tags:
-- Digital Humanities
 - praxis program
 crosspost:
   - title: my blog

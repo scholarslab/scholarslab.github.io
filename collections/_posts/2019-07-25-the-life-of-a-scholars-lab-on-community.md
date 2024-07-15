@@ -4,11 +4,6 @@ date: 2019-07-25 10:37:46
 layout: post
 slug: the-life-of-a-scholars-lab-on-community
 title: "The Life Of A (Scholars') Lab: On Community"
-categories:
-- Example category
-- Digital Humanities
-tags:
-- Digital Humanities
 ---
 *Crossposted to [my personal blog](http://walshbr.com/blog/ach-2019/)*
 

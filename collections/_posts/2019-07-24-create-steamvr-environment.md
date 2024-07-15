@@ -4,10 +4,7 @@ date: 2019-07-24 01:00:00+00:00
 layout: post
 slug: create-steamvr-environment
 title: "Creating a Steam VR Environment"
-categories:
-- Digital Humanities
 tags:
-- Digital Humanities
 - Parents Fund
 ---
 

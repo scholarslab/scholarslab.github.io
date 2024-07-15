@@ -4,10 +4,6 @@ date: 2019-06-30
 layout: post
 slug: management-charter-part1
 title: "A management charter (part 1)"
-categories:
-- Digital Humanities
-tags:
-- Digital Humanities
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2019/06/30/digital-humanities-management-charter-part1

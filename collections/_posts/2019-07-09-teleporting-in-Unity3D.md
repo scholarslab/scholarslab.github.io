@@ -5,10 +5,8 @@ layout: post
 slug: teleporting-in-Unity3D
 title: "Teleporting in Unity 3D"
 categories:
-- Digital Humanities
 - Research and Development
 tags:
-- Digital Humanities
 - Parents Fund
 ---
 # Teleporting in Unity 3D
