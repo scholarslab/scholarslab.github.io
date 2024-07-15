@@ -4,8 +4,8 @@ date: 2024-01-09
 layout: post
 slug: teaching-statement-in-thirteen-images
 title: Teaching Statement in Thirteen Images
-categories:
-- Pedagogy
+tags:
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/teaching-statement-in-thirteen-images

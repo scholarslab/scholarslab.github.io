@@ -4,6 +4,8 @@ date: 2023-07-24
 layout: post
 slug: dh-is-teaching
 title: DH Is Teaching
+tags:
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/dh-is-teaching

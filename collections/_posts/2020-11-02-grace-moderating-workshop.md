@@ -4,9 +4,8 @@ date: 2020-11-02
 layout: post
 slug: content-moderation-workshop
 title: "Content Moderation Workshop"
-categories:
-- Pedagogy
 tags:
+- pedagogy
 - Workshop
 ---
 # Who am I, and How Did I Develop the Workshop?

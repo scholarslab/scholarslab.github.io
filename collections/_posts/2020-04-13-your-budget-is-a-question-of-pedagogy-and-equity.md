@@ -4,6 +4,8 @@ date: 2020-04-13 16:25:13
 layout: post
 slug: your-budget-is-a-question-of-pedagogy-and-equity
 title: Your Budget Is a Question of Pedagogy and Equity
+tags:
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/your-budget-is-a-question-of-pedagogy-and-equity/

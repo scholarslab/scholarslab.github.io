@@ -4,7 +4,7 @@ date: 2020-10-19 10:39:37
 layout: post
 slug: reading-not-writing
 title: Reading, Not Writing
-categories:
+tags:
 - pedagogy
 crosspost:
   - title: Brandon's blog

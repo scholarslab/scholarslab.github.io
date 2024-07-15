@@ -2,7 +2,10 @@
 author: brandon-walsh
 date: 2023-10-26
 layout: post
+title: "One Concept, Ten Ways to Teach"
 slug: one-concept-ten-ways-to-teach
+tags:
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/one-concept-ten-ways-to-teach

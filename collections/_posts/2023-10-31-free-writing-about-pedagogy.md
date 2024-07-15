@@ -4,8 +4,8 @@ date: 2023-10-31
 layout: post
 slug: free-writing-about-pedagogy
 title: Free Writing About Pedagogy
-categories:
-- Pedagogy
+tags:
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/free-writing-about-pedagogy

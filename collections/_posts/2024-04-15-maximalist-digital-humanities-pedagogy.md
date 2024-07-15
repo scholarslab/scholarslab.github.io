@@ -4,8 +4,8 @@ date: 2024-04-15
 layout: post
 slug: maximalist-digital-humanities-pedagogy
 title: Maximalist Digital Humanities Pedagogy
-categories:
-- Pedagogy
+tags:
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/maximalist-digital-humanities-pedagogy

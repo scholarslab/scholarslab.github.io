@@ -4,6 +4,8 @@ date: 2023-10-30
 layout: post
 slug: beyond-classroom-DH-pedagogies
 title: "DH pedagogies beyond the classroom"
+tags:
+- pedagogy
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2023/10/30/beyond-classroom-DH-pedagogies

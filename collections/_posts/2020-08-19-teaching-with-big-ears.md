@@ -4,7 +4,7 @@ date: 2020-08-19 09:39:34
 layout: post
 slug: teaching-with-big-ears
 title: Teaching With Big Ears
-categories:
+tags:
 - pedagogy
 crosspost:
 - title: Brandon's blog

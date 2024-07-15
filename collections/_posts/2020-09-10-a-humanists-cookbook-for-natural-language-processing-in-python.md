@@ -6,8 +6,8 @@ date: 2020-09-10 15:12:00
 layout: post
 slug: a-humanists-cookbook-for-natural-language-processing-in-python
 title: A Humanist's Cookbook For Natural Language Processing In Python
-categories:
-- Pedagogy
+tags:
+- pedagogy
 crosspost:
 - title: Brandon's blog
   url: http://walshbr.com/blog/a-humanists-cookbook-for-natural-language-processing-in-python
