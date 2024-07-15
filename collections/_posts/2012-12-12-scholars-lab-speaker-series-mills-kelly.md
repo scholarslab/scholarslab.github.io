@@ -6,6 +6,7 @@ slug: scholars-lab-speaker-series-mills-kelly
 title: 'Scholars'' Lab Speaker Series: Mills Kelly'
 categories:
 - Podcasts
+type: announcement
 ---
 
 **Scholars' Lab Speaker Series: Dr. Mills Kelly**

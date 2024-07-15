@@ -1,0 +1,22 @@
+---
+layout: page
+title: "DH Pedagogy"
+permalink: /dh-pedagogy/
+nav: true
+---
+
+The lab offers expertise in critical digital humanities and experimental scholarship pedagogies, including at the undergraduate, graduate, and post-graduate levels. We offer consultation, syllabus review, co-teaching, and other forms of support for developing digital pedagogy and implementing it in the classroom.
+
+Our research blog offers a number of pieces related to critical digital pedagogies:
+
+<ul>
+{%- for post in site.categories.pedagogy -%}
+	<li>
+		<h3>
+		<a class="post-link" href="{{ post.url | relative_url }}">
+		{{ post.title | escape }}
+		</a>
+        </h3>
+	</li>
+{%- endfor -%}
+</ul>

@@ -6,6 +6,7 @@ slug: announcing-the-praxis-network
 title: Announcing the Praxis Network
 categories:
 - Grad Student Research
+- Pedagogy
 tags:
 - praxis program
 ---
