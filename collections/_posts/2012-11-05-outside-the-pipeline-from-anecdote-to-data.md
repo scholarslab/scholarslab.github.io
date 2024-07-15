@@ -6,7 +6,6 @@ slug: outside-the-pipeline-from-anecdote-to-data
 title: 'Outside the Pipeline: From Anecdote to Data'
 tags:
 - alt-ac
-- altac
 - Praxis Network
 - Scholarly Communication Institute
 crosspost:

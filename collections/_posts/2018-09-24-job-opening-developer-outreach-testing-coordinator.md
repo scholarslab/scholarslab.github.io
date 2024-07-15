@@ -4,10 +4,8 @@ date: 2018-09-24 16:36:44+00:00
 layout: post
 slug: job-opening-developer-outreach-testing-coordinator
 title: 'Job opening: Come advocate for our users!'
-categories:
-- Job Announcements
 tags:
-- job
+- staffing
 type: Announcement
 crosspost:
   - title: Amanda's blog

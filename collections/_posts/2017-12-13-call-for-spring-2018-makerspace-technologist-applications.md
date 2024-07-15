@@ -5,8 +5,9 @@ layout: post
 slug: call-for-spring-2018-makerspace-technologist-applications
 title: Call for Spring 2018 Makerspace Technologist Applications
 categories:
-- Job Announcements
 - Makerspace
+tags:
+- staffing
 type: Announcement
 ---
 

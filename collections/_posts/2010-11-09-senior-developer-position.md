@@ -4,10 +4,8 @@ date: 2010-11-09 09:19:17+00:00
 layout: post
 slug: senior-developer-position
 title: Are you our new Senior Developer?
-categories:
-- Announcements
 tags:
-- career opportunities
+- staffing
 type: Announcement
 ---
 

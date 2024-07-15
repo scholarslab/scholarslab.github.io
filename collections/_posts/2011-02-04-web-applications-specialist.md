@@ -4,10 +4,8 @@ date: 2011-02-04 15:51:07+00:00
 layout: post
 slug: web-applications-specialist
 title: Are you our new Web Applications Specialist?
-categories:
-- Announcements
 tags:
-- career opportunities
+- staffing
 type: Announcement
 ---
 

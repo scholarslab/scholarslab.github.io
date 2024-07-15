@@ -9,7 +9,6 @@ categories:
 - Research and Development
 tags:
 - alt-ac
-- altac
 - graduate training
 - Scholarly Communication Institute
 crosspost:

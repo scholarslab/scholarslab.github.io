@@ -7,7 +7,6 @@ title: 'Rebooting Graduate Training: An MLA Roundtable'
 categories:
 - Grad Student Research
 tags:
-- altac
 - praxis program
 crosspost:
   - title: my personal website

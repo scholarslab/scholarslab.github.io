@@ -5,8 +5,7 @@ layout: post
 slug: are-you-the-new-head-of-scholars-lab
 title: Are you the new Head of Scholars’ Lab?
 tags:
-- altac
-- career opportunities
+- staffing
 type: Announcement
 ---
 

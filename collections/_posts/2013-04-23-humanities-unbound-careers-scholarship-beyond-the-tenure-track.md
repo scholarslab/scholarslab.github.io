@@ -7,7 +7,7 @@ title: 'Humanities Unbound: Careers & Scholarship Beyond the Tenure Track'
 categories:
 - Research and Development
 tags:
-- altac
+- alt-ac
 - graduate training
 - praxis program
 - Scholarly Communication Institute

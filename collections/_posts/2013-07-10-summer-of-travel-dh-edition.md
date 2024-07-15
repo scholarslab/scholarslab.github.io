@@ -4,10 +4,8 @@ date: 2013-07-10 11:32:10+00:00
 layout: post
 slug: summer-of-travel-dh-edition
 title: Summer of travel, DH edition
-categories:
-- Digital Humanities
 tags:
-- altac
+- alt-ac
 - Scholarly Communication Institute
 crosspost:
   - title: my personal website

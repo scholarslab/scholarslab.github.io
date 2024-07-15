@@ -4,12 +4,8 @@ date: 2017-06-27 14:24:54+00:00
 layout: post
 slug: job-opening-curious-about-focusing-on-dh-development
 title: 'Job Opening: Curious about focusing on DH development?'
-categories:
-- Job Announcements
 tags:
-- alt-ac
-- altac
-- career opportunities
+- staffing
 type: Announcement
 crosspost:
   - title: Amanda's blog

@@ -6,7 +6,6 @@ slug: calling-all-alt-academics
 title: 'Calling All #Alt-Academics!'
 tags:
 - alt-ac
-- altac
 ---
 
 I'm happy to announce that [a census of alternate academics](http://mediacommons.futureofthebook.org/alt-ac/who-we-are), the first public-facing component of my work with the Scholarly Communication Institute, is now open to contributions. If you have graduate training in the humanities and work outside of the tenure track, I'd like to warmly invite you to [add your information](http://altacademy.wufoo.com/forms/who-we-are/) to the growing database. Not #alt-ac? [Check out the report](http://altacademy.wufoo.com/reports/who-we-are/) to learn more about who we are and what we do.

@@ -4,10 +4,9 @@ date: 2017-02-28 06:00:12+00:00
 layout: post
 slug: disrupt-the-humanities-managing-director-job-talk
 title: Disrupt the Humanities? (Managing Director job talk)
-categories:
-- Digital Humanities
 tags:
-- altac
+- alt-ac
+- directing
 ---
 
 When scholars share their job talks after being hired, DH and libraries interviewing processes become a little less mysterious. Academia has many genres of presentation. It can be difficult to draft your first job talk without seeing how others in your field translate a job ad's requirements into a job talk's expression of their unique expertise. [Lee Skallerup Bessette](http://readywriting.org/uncategorized/faculty-development-for-the-21st-century-and-beyond/), [Celeste Tuong Vy Sharpe](http://celestesharpe.com/onward/), [Chris Bourg](https://chrisbourg.wordpress.com/2015/07/12/infrastructure-and-culture-a-job-talk/), and [Brandon Walsh](http://scholarslab.org/digital-humanities/in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-head-of-graduate-programs/) all share successful job talks on their websites (I shared the [talk](http://literaturegeek.com/2016/02/28/DHjobtalk) for my previous role, too).

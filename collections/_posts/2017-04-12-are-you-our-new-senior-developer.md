@@ -4,8 +4,8 @@ date: 2017-04-12 14:55:03+00:00
 layout: post
 slug: are-you-our-new-senior-developer
 title: Are You Our New Senior Developer?
-categories:
-- Job Announcements
+tags:
+- staffing
 type: Announcement
 ---
 

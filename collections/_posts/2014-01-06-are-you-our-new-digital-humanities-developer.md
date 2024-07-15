@@ -5,7 +5,7 @@ layout: post
 slug: are-you-our-new-digital-humanities-developer
 title: Are you our new Digital Humanities Developer?
 tags:
-- career opportunities
+- staffing
 type: Announcement
 ---
 

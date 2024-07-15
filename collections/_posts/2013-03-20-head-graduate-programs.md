@@ -5,11 +5,7 @@ layout: post
 slug: head-graduate-programs
 title: Are you our new Head of Graduate Programs?
 tags:
-- career opportunities
-- graduate fellows
-- graduate training
-- job
-- praxis program
+- staffing
 type: Announcement
 ---
 

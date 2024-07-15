@@ -6,7 +6,6 @@ slug: announcing-a-new-sci-study-on-alternative-academic-career-paths
 title: Announcing a new SCI study on alternative academic career paths
 tags:
 - alt-ac
-- altac
 - survey
 ---
 
