@@ -21,6 +21,8 @@
 * Classics
 * English
 * History
+* Fralin Museum of Art
+* Kluge-Ruhe Aboriginal Art Collection
 * Art History
 * Architecture & Architectural History
 * UVA's GIS/spatial technologies support all over campus
