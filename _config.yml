@@ -58,35 +58,66 @@ header_pages:
 primary-navigation:
   - label: "About"
     url: "about"
-  - label: "Expertise"
+    subnavigation:
+      - label: "People"
+        url: "people"
+      - label: "Charter"
+        url: "charter"
+  - label: "Consult"
     url: "expertise"
-  - label: "Collaborate"
+    subnavigation:
+      - label: "Code + Design"
+        url: "code-and-design"
+      - label: "Spatial Tech"
+        url: "spatial-technologies"
+      - label: "Makerspace"
+        url: "makerspace"
+      - label: "DH Pedagogy"
+        url: "dh-pedagogy"
+  - label: "Opportunities"
     url: "collaborate"
-  - label: "Community"
-    url: "community"
+    subnavigation:
+      - label: "For Students"
+        url: "for-students"
+      - label: "For Faculty"
+        url: "for-faculty"
+      - label: "Events"
+        url: "events"
   - label: "Scholarship"
     url: "scholarship"
+    subnavigation:
+      - label: "Work"
+        url: "work"
+      - label: "Blog"
+        url: "blog"
+  - label: "Visit"
+    url: "visit"
+    subnavigation:
+      - label: "Use the Lab"
+        url: "spaces-equipment"
+      - label: "Use the Makerspace"
+        url: "makerspace"
 
 about-navigation:
   - "about/about.md"
   - "about/people.md"
   - "about/charter.md"
-  
+
 expertise-navigation:
   - "dh-code-design.md"
   - "spatial-technologies.md"
   - "makerspace.md"
   - "expertise/dh-pedagogy" # folder, no page; for-students has redirect-from
-  
+
 collaborate-navigation:
   - "for-students.md"
   - "for-faculty.md"
   - "for-everyone.md"
-  
+
 community-navigation:
   - "events.md"
   - "spaces-equipment.md"
-  
+
 scholarship-navigation:
   - "work.md"
   - "blog.md"

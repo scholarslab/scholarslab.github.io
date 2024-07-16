@@ -120,23 +120,30 @@ img {
 }
 
 #global-navigation {
-	text-align: right;
+	text-align: left;
+	background: rgba(white, 0.2);
 }
 
-#primary-navigation {
-	font-size: 1.2rem;
-	font-weight: 100;
+#global-navigation ul {
+	list-style:none;
+	margin-left:0;
+	padding-left:0;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
 }
 
-#secondary-navigation {
-	font-size: 0.9rem;
-	font-weight: 100;
+#global-navigation > ul li {
+	padding: 0 1rem;
+}
+
+#global-navigation ul ul {
+	flex-direction: column;
 }
 
 nav a {
 	display:inline-block;
 	text-decoration:none;
-	padding: 0.5rem;
 }
 
 nav a:link,
@@ -147,13 +154,8 @@ nav a:visited {
 
 nav a:hover,
 nav a:focus,
-nav a:active,
-#secondary-navigation a {
+nav a:active {
 	color: white;
-}
-
-#secondary-navigation a {
-	padding-top: 0.5rem;
 }
 
 

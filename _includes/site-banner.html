@@ -9,18 +9,18 @@
     {% endif %}
     </hgroup>
     <nav id="global-navigation">
-        <div id="primary-navigation">
+        <ul>
             {% for nav in site.primary-navigation %}
-            <a class="{{ nav.label | slugify }}" href="{{ site.baseurl }}/{{ nav.url }}">{{ nav.label }}</a>
+            <li><a class="{{ nav.label | slugify }}" href="{{ site.baseurl }}/{{
+            nav.url }}">{{ nav.label }}</a>
+                <ul>
+                    {% for subnav in nav.subnavigation %}
+                    <li><a href="{{ site.baseurl }}/{{subnav.url }}">{{
+                    subnav.label }}</a></li>
+                    {% endfor %}
+                </ul>
+            </li>
             {% endfor %}
-        </div>
-    {% if page.path contains 'for-students' %}
-        <div id="secondary-navigation">
-            {% for item in site.for-students-navigation %}
-            {% assign subnav = site.pages | where: "name", item | first %}
-            <a href="{{ subnav.url }}">{{ subnav.title }}</a>
-            {% endfor %}
-        </div>
-    {% endif %}
+        </ul>
     </nav>
 </div>
