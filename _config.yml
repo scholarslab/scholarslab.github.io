@@ -45,83 +45,64 @@ collections:
   events:
     output: true
     permalink: /:collection/:name/
-  spaces: # output false
-
-header_pages:
-  - about.md
-  - expertise.md
-  - collaborate.md
-  - community.md
-  - scholarship.html
 
 ## Nested list for primary navigation.
 primary-navigation:
   - label: "About"
     url: "about"
     subnavigation:
+      - label: "FAQ"
+        url: "faq"
       - label: "People"
         url: "people"
       - label: "Charter"
         url: "charter"
+      - label: "Accessibility"
+        url: "accessibility"
   - label: "Consult"
-    url: "expertise"
+    url: "consult"
     subnavigation:
       - label: "Code + Design"
-        url: "code-and-design"
+        url: "code-design"
       - label: "Spatial Tech"
         url: "spatial-technologies"
       - label: "Makerspace"
         url: "makerspace"
       - label: "DH Pedagogy"
         url: "dh-pedagogy"
+      - label: "Critical DH"
+        url: "critical-dh"
   - label: "Opportunities"
-    url: "collaborate"
+    url: "opportunities"
     subnavigation:
       - label: "For Students"
         url: "for-students"
       - label: "For Faculty"
         url: "for-faculty"
-      - label: "Events"
-        url: "events"
+      - label: "For Everyone"
+        url: "for-everyone"
   - label: "Scholarship"
     url: "scholarship"
     subnavigation:
-      - label: "Work"
-        url: "work"
-      - label: "Blog"
+      - label: "Our Projects"
+        url: "our-projects"
+      - label: "Research Blog"
         url: "blog"
   - label: "Visit"
     url: "visit"
     subnavigation:
       - label: "Use the Lab"
-        url: "spaces-equipment"
+        url: "use-the-lab"
       - label: "Use the Makerspace"
         url: "makerspace"
-
-about-navigation:
-  - "about/about.md"
-  - "about/people.md"
-  - "about/charter.md"
-
-expertise-navigation:
-  - "dh-code-design.md"
-  - "spatial-technologies.md"
-  - "makerspace.md"
-  - "expertise/dh-pedagogy" # folder, no page; for-students has redirect-from
-
-collaborate-navigation:
-  - "for-students.md"
-  - "for-faculty.md"
-  - "for-everyone.md"
-
-community-navigation:
-  - "events.md"
-  - "spaces-equipment.md"
-
-scholarship-navigation:
-  - "work.md"
-  - "blog.md"
-
+  - label: "Events"
+    url: "events"
+    subnavigation:
+      - label: "News"
+        url: "news"
+      - label: "Newsletters"
+        url: "newsletters"
+        
 defaults:
   - scope:
       path: "assets/img"
