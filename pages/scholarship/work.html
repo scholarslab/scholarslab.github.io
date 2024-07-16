@@ -7,8 +7,9 @@ nav: true
 redirect_from:
   - /research
 ---
-    <!-- staff: -->
-    <section class="people__staff">
+<!-- code confusingly reuses CSS styles from /people page, is why the name are staff/peopel-related -->
+
+<section class="people__staff">
       <!-- section label: -->
       <div class="people-staff__gallery">
         <!-- gallery item: -->
@@ -56,4 +57,20 @@ redirect_from:
 				</div>
 				{% endfor %} <!-- end item -->
 			</div> <!-- end gallery -->
-		</section> <!-- end staff -->
+</section> <!-- end staff -->
+
+<section class="other-formats">
+	<div class="uva-areas">
+	<!-- Capture & markdownify code below allows us to manage the file as markdown (easier to add to list), but display within this HTML page as HTML.-->
+		<h2>Places we've collaborated at the University of Virginia</h2>
+		<!-- See /_includes/_content-includes for the editable file containing the list of places we've worked on campus-->
+	{% capture uva-areas %}{% include _content-includes/uva-areas.md %}{% endcapture %}
+	{{ uva-areas | markdownify }}
+	</div>
+	<div class="fieldwork-sites">
+		<h2>External fieldwork sites</h2>
+		<!-- See /_includes/_content-includes for the editable file containing the list of places we've done external fieldwork.-->
+	{% capture fieldwork %}{% include _content-includes/fieldwork.md %}{% endcapture %}
+	{{ fieldwork | markdownify }}
+	</div>
+</section>
