@@ -1,0 +1,62 @@
+---
+layout: default
+title: News
+permalink: /news/
+nav: true
+---
+
+<!-- need to alter to only pull in posts with announcement post type -->
+
+<p>Our latest news updates, including calls for fellowships and other opportunities, workshop series announcements, and job openings.</p>
+
+<!-- post layout: -->
+{% for post in site.posts limit:4 %}
+	{% capture authorstring %}
+		{% include author-name.html authorid=post.author %}
+	{% endcapture %}
+	<article class="post">
+		<header>
+			<hgroup>
+				<!-- # NB: no slash in href b/c included in post.url -->
+				<h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h2>
+			</hgroup>
+		</header>
+		<div class="content">
+			<!-- # Summary from YAML, or 1st 25 words of post content. -->
+			{% if post.summary %}
+				{{ post.summary | smartify }}
+				{% else %}
+				{{ post.content | strip_html | truncatewords: 25 | markdownify }}
+			{% endif %}
+			</div>
+			<footer class="byline">
+				<div class="author">
+                 {{ authorstring | strip }}
+                  </div>
+				<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+			</footer>
+	</article>
+{% endfor %} <!-- end post -->
+
+<section id="previous_posts">
+<h2>Previous Posts</h2>
+<ul class="page-previous_posts">
+{% for post in site.posts offset:4 %}
+	{% capture authorstring %}
+		{% include author-name.html authorid=post.author %}
+	{% endcapture %}
+	{% assign currentdate = post.date | date: "%Y" %}
+	{% if currentdate != date %}
+		{% unless forloop.first %}</ul>{% endunless %}
+    		<h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
+    		<ul>
+    		{% assign date = currentdate %}
+	{% endif %}
+    <li><a href="{{ post.url }}">"{{ post.title }}"</a> by {{ authorstring | strip }}</li>
+	{% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+</ul>
+
+		</div> <!-- end gallery -->
+	</div> <!-- end main content -->
+</div> <!-- end wrapper -->

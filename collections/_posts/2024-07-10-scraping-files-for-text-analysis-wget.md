@@ -4,8 +4,6 @@ date: 2024-07-10
 layout: post
 slug: scraping-files-for-text-analysis-wget
 title: "Scraping a webpage's list of linked files using wget"
-categories:
-- Digital Humanities
 tags:
 - coding
 - tutorial

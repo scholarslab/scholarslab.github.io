@@ -4,7 +4,6 @@ title: Charter
 nav: true
 permalink: /charter/
 redirect_from:
-  - /accessibility
   - /about/charter
 ---
 

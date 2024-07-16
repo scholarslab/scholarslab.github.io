@@ -4,6 +4,7 @@ title: For Faculty
 permalink: /for-faculty/
 nav: true
 ---
+<!-- could use expansion to everything we offer faculty, e.g. better description of and links to FRS/CEGs; course design and co-teaching we do, maybe with some examples of such past work? also we might add a sentence or two directing faculty to other, not-limited-to-faculty offerings such as consultations, makerspace, events? -->
 
 We frequently work with UVA faculty, and are especially interested in assisting:
 * Faculty who don't do digital work, but are curious to learn more

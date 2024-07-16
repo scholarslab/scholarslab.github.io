@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Spaces and Equipment
-permalink: /spaces-and-equipment/
+title: Use the Lab
+permalink: /use-the-lab/
 nav: true
 redirect_from:
   - /hours-and-spaces

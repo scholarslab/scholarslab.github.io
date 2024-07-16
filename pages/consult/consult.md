@@ -1,17 +1,23 @@
 ---
 layout: page
-title: Expertise
-permalink: /expertise/
+title: Consult
+permalink: /consult/
 nav: true
 order: 2
 ---
 
+<!-- Could adjust text to include more of:
+- what we do
+- how to get started
+-->
+
 While much of our work investigates cultural and humanities questions, we are open to everyone and routinely bring our skillsets to all areas of interdisciplinary research and teaching, broadly defined. Our staff offer deep expertise in digital humanities, computer and information science, spatial technologies, maker, and cultural heritage approaches. 
 
-* [Code + Design](/dh-code-design)
+* [Code + Design](/code-design)
 * [Spatial Technologies](/spatial-technologies)
 * [Makerspace](/makerspace)
 * [DH Pedagogy](/dh-pedagogy)
+* [Critical DH: Theory & Community](/critical-DH)
 
 We are an internationally recognized scholarly [team](/people/), with strengths including:
 - the digital humanities (as a founding member of [Centernet](https://dhcenternet.org/), an international network of digital humanities centers)

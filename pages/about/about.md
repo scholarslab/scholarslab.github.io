@@ -12,7 +12,7 @@ redirect_from:
 
 **Experiment in community.** The Scholars' Lab is an interdisciplinary research lab for critical, creative, and just explorations of the intersections of technology and culture. 
 
-We believe advancing social justice is both a key responsibility and opportunity of all scholarship. Digital and experimental scholarship offer particular possibilities for pursuing justice and care. In our work, we strive to create opportunities for inclusion, equity, diversity, and accessibility, including through attention (both learning and teaching) to unequal power dynamics, racism, sexism, ableism, transphobia, and other forms of oppression that limit both justice and knowledge-building. We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter).
+We believe advancing social justice is both a key responsibility and opportunity of all scholarship. Digital and experimental scholarship offer particular possibilities for pursuing justice and care. In our work, we strive to create opportunities for inclusion, equity, diversity, and [accessibility](/accessibility), including through attention (both learning and teaching) to unequal power dynamics, racism, sexism, ableism, transphobia, and other forms of oppression that limit both justice and knowledge-building. We capture the Scholars' Lab's values and goals in our team-authored [charter](/charter).
 
 **People & community.** We offer students, faculty, staff, and local community members consultation and collaboration, teaching and training, and supportive spaces for anyone curious about pushing scholarly boundaries through creative, computational research practices.
 
