@@ -17,10 +17,8 @@ nav: true
 ## How do I contact you?
 All inquires may be sent to [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu), which reaches our team and will be answered by the appropriate staff.
 
-You also have the option of contacting subsets of our experts directly using the following email addresses, but please do feel comfortable just using our [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu) address if you're not certain where your question should go.
-* Makerspace: [slabmakerspace@virginia.edu](mailto:slabmakerspace@virginia.edu)
-* Spatial technologies and cultural heritage informatics: [spatial@virginia.edu](mailto:spatial@virginia.edu)
-* GIS-specific questions: [uvagis@virginia.edu](mailto:uvagis@virginia.edu)
+## How do I hear about new events and opportunities in the Lab?
+Sign up for Scholars' Lab's [newsletter](/newsletters)!
 
 We are actively posting on [Bluesky](https://bsky.app/profile/scholarslab.bsky.social), though we do not currently monitor all replies/DMs to that account.
 
