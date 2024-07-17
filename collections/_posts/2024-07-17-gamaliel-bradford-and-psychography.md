@@ -1,8 +1,8 @@
 ---
-author: mackenzie-daly
+author: Mackenzie Daly
 date: 2024-07-05
 layout: post
-slug: daly-blog
+slug: gamaliel-bradford-and-psychography
 title: "Gamaliel Bradford and Psychography"
 categories:
 - digital humanities
@@ -14,11 +14,9 @@ tags:
 - digital humanities
 ---
 
-# A Co-authored Series of Posts 'About 1919,' that is, about English-language books published from 1914 to 1921, according to the online bibliography and database, [Collective Biographies of Women](https://cbw.iath.virginia.edu/)
+*A Co-authored Series of Posts 'About 1919,' that is, about English-language books published from 1914 to 1921, according to the online bibliography and database, [Collective Biographies of Women](https://cbw.iath.virginia.edu/)*
 
-## Post 3
-
-Gamaliel Bradford VI was born October 9, 1863 in Boston, MA to Gamaliel Bradford V (1831-1911) and Clara Crowninshield Kinsman Bradford. Three years after Bradford’s birth, his mother died of tuberculosis and he was raised by his father and his aunt Sarah Hickling Bradford. Throughout his youth, Bradford was educated at the Wellesley common schools, though his academic career would be frequently interrupted due to his chronic health issues. In 1882 he enrolled at Harvard, staying for only six weeks before deciding to withdraw. Following the withdrawal, Bradford was tutored by Marshall Livingston Perrin, a professor at Boston University. Though Bradford credited Perrin as being an excellent tutor in Greek, Latin, and math, he claimed that Perrin “knew nothing about English writing.” On his affinity for writing, Bradford stated: “I had no training whatever, except what I gave myself.” Bradford was indeed a successful writer, particularly in the genre of biography. He wrote several collective biographies in his lifetime, four of which are dedicated to exclusively female subjects and can be found in the CBW database: [a103](http://cbw.iath.virginia.edu/books_display.php?id=1426)*Portraits of Women (1916)*, [a102](http://cbw.iath.virginia.edu/books_display.php?id=1425)*Portraits of American Women (1919)*, [a104](http://cbw.iath.virginia.edu/books_display.php?id=1427)*Wives (1925)*, [a101](http://cbw.iath.virginia.edu/books_display.php?id=1424)*Daughters of Eve (1930)*
+Gamaliel Bradford VI was born October 9, 1863 in Boston, MA to Gamaliel Bradford V (1831-1911) and Clara Crowninshield Kinsman Bradford. Three years after Bradford’s birth, his mother died of tuberculosis and he was raised by his father and his aunt Sarah Hickling Bradford. Throughout his youth, Bradford was educated at the Wellesley common schools, though his academic career would be frequently interrupted due to his chronic health issues. In 1882 he enrolled at Harvard, staying for only six weeks before deciding to withdraw. Following the withdrawal, Bradford was tutored by Marshall Livingston Perrin, a professor at Boston University. Though Bradford credited Perrin as being an excellent tutor in Greek, Latin, and math, he claimed that Perrin “knew nothing about English writing.” On his affinity for writing, Bradford stated: “I had no training whatever, except what I gave myself.” Bradford was indeed a successful writer, particularly in the genre of biography. He wrote several collective biographies in his lifetime, four of which are dedicated to exclusively female subjects and can be found in the CBW database: [a103](http://cbw.iath.virginia.edu/books_display.php?id=1426) *Portraits of Women (1916)*, [a102](http://cbw.iath.virginia.edu/books_display.php?id=1425) *Portraits of American Women (1919)*, [a104](http://cbw.iath.virginia.edu/books_display.php?id=1427) *Wives (1925)*, [a101](http://cbw.iath.virginia.edu/books_display.php?id=1424) *Daughters of Eve (1930)*
 
 Bradford’s biographies are particularly notable for their unique narrative style. Throughout his career he employed and advocated for a biographical technique called *psychography*. He began experimenting with this technique in his 1912 biography of Robert E. Lee titled “Lee the American”:
 
@@ -52,7 +50,7 @@ Freud’s endeavor to illuminate the “springs of character in those whose mind
 
 To understand the kind of intimate connection Bradford was trying to build between the subject and the reader, let us compare two descriptions of Louisa May Alcott, the first from biographer George Barnett Smith and the second from Bradford.
 
-Smith from [a730](https://cbw.iath.virginia.edu/books_display.php?id=2077)*Noble Womanhood: A Series of Biographical Sketches* (1894):
+Smith from [a730](https://cbw.iath.virginia.edu/books_display.php?id=2077) *Noble Womanhood: A Series of Biographical Sketches* (1894):
 
 > Miss Alcott, doubtful of her ability to do so, wrote *Little Women*, a story of 
 her three sisters and herself in their home at Concord. The writing of the first 
@@ -60,7 +58,7 @@ part occupied two months, and it was issued in October 1868. When the second
 part came out in April 1869, success was secured: and when *Little Men* was 
 announced, fifty thousand copies were ordered in advance.
 
-Bradford from [a102](https://cbw.iath.virginia.edu/books_display.php?id=1425)*Portraits of American Women* (1919):
+Bradford from [a102](https://cbw.iath.virginia.edu/books_display.php?id=1425) *Portraits of American Women* (1919):
 
 > Nor did she lack the discouragement and depression inseparable from all 
 artistic effort. There were the endless external difficulties which every artist 
