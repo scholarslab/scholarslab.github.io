@@ -7,6 +7,7 @@ nav: true
 
 ## FAQ
 <a href="#how-do-i-contact-you">How do I contact you?</a> 
+<a href="#how-do-i-hear-about-events-and-opportunities-in-the-lab">How do I hear about new events and opportunities in the Lab?</a> 
 <a href="#where-are-you">Where are you?</a>  
 <a href="#how-can-the-scholars-lab-fit-into-my-work-what-do-you-do">How can the Scholars' Lab fit into my work? What does the Scholars' Lab do?</a>  
 <a href="#what-academic-fields-do-you-support">What academic fields do you support?</a> 
