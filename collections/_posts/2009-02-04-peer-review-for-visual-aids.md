@@ -6,6 +6,8 @@ slug: peer-review-for-visual-aids
 title: Peer Review for Visual Aids?
 categories:
 - Visualization and Data Mining
+tags:
+- accessibility
 ---
 
 How frustrating is this: You sit down to take in some form of scholarly work (be it a book, an article, or a talk) and you find yourself increasingly confused with a bombardment of information from graphs and figures and maps which don’t make sense because they either have too much or too little information contained within them or the information is poorly labeled (if at all).  Or even worse, you are the person writing the book/article or giving the talk and instead of fielding questions on your scholarly processes, you are repeatedly explaining to the audience what your visual aids _actually_ represent.

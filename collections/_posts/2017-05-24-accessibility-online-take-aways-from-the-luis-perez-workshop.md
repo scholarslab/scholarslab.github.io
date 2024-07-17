@@ -3,10 +3,11 @@ author: sarah-berkowitz
 date: 2017-05-24 09:14:49+00:00
 layout: post
 slug: accessibility-online-take-aways-from-the-luis-perez-workshop
-title: Accessibility Online--Take aways from the Luis Perez workshop
+title: "Accessibility Online--Take aways from the Luis Perez workshop"
 categories:
-- Digital Humanities
 - Grad Student Research
+tags:
+- accessibility
 ---
 
 One of our aims for our summer project is to build a product that is accessible for all users, but I realized today that James and I have a different idea of what it means for digital humanities to be “accessible.” When I think of making a digital product accessible, I imagine a home bound elderly user who still has an AOL email account. For these users, something that is straightforward and unintimidating is crucial. I think about stressing plain language and a simple interface. When James thinks about accessibility, he imagines a self-taught Linux user in her basement who has no access to software through institutions. For James, open source products and a process that leaves a digital blueprint so that it can be easily recreated by users outside the academy is essential.

@@ -2,10 +2,10 @@
 layout: post
 author: ronda-grizzle
 date: 2020-01-27
-title: Evaluating Scholars' Lab Interfaces and Digital Tools for Inclusivity, Accessibility, and Equity
+title: "Evaluating Scholars' Lab Interfaces and Digital Tools for Inclusivity, Accessibility, and Equity"
 slug: evaluating-scholars-lab-interfaces-and-digital-tools-for-inclusivity-accessibility-and-equity
-categories:
- - Digital Humanities
+tags:
+- accessibility
 ---
 
 > *We Welcome Everyone*

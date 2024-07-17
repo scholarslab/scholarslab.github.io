@@ -1,0 +1,39 @@
+---
+layout: page
+title: Web Accessibility
+nav: true
+permalink: /accessibility/
+redirect_from:
+  - /about/accessibility
+---
+
+<p>We are committed to making our projects and spaces accessible—in all meanings of that word—for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can—and should—always be improved.</p>
+
+<p>As our Scholars&#39; Lab <a href="/charter/">charter</a> indicates, we are committed to making our projects and spaces accessible&mdash;in all meanings of that word&mdash;for everyone, regardless of ability or need. We believe accessibility is not an implementation that can be finished and done, but rather a way of thinking and working that can&mdash;and should&mdash;always be improved.</p>
+
+<p>In terms of web accessibility, we strive to make our the built environment of the Scholars&#39; Lab pleasant, easy to access, and <a href="http://www.ada.gov/">ADA-compliant</a>. Please <a href="mailto:scholarslab@virginia.edu">write to us</a> with suggestions for improvements.</p>
+<p>For this website, we follow <a href="http://www.w3.org/WAI/WCAG20/quickref/">WCAG 2.0</a> and <a href="http://www.section508.gov/">Section 508</a> guidelines. Our markup and presentation adhere to W3G&#39;s standards for HTML5 and CSS3, and in doing so include many features meant to enhance the accessibility of our site, including:</p>
+	
+<ul>
+<li>Correct ordering of headings to aid in navigation;</li>
+<li>Alternative text for media where appropriate;</li>
+<li>A skip link at the beginning of each page to jump to the page's main content;</li>
+<li><a href="http://www.w3.org/TR/wai-aria/roles">ARIA roles</a> to better describe the purpose and content of various parts of our pages;</li>
+<li>Text alternatives for image links.</li>
+</ul>
+
+<p>We use several tools to assess accessibility on our site, including the <a href="http://wave.webaim.org/">Wave evaluation tool</a> by <a href="http://webaim.org">WebAIM</a> and <a href="http://pa11y.org/">Pa11y command line interface tool</a> by <a href="https://github.com/nature">Nature Publishing Group</a>.</p>
+
+<p>If you have suggestions for improvement, or encounter anything that hinders your use of the content or tool we provide, please <a href="mailto:scholarslab@virginia.edu">email us</a>.</p>
+
+<ul>
+{%- for post in site.tags.accessibility -%}
+	<li>
+		<h3>
+		<a class="post-link" href="{{ post.url | relative_url }}">
+		{{ post.title | escape }}
+		</a>
+        </h3>
+	</li>
+{%- endfor -%}
+</ul>

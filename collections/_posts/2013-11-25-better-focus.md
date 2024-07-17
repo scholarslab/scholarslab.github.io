@@ -3,12 +3,11 @@ author: jeremy-boggs
 date: 2013-11-25 13:48:52+00:00
 layout: post
 slug: better-focus
-title: Better :focus
+title: "Better :focus"
 categories:
 - Research and Development
 tags:
 - accessibility
-- CSS
 - design
 ---
 
