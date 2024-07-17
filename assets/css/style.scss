@@ -37,14 +37,13 @@
 }
 
 body {
-	margin: 0 auto;
+	margin: 0;
 	padding: 0;
 	font-family: var(--franklin-gothic-urw);
     font-weight: 300;
 	font-size: 20px;
 	line-height: 1.5; // if 16px, = 24px line height
 	color: var(--uvalib-text-almost-black);
-	max-width: 1200px;
 	background: white;
 }
 
@@ -86,11 +85,15 @@ img {
 
 #scholarslab-header {
 	padding: 0.5rem 2rem 2rem;
-	display:flex;
-	flex-direction: row;
-	justify-content: space-between;
-	flex-wrap:nowrap;
 	background-color: rgba($blue-alt,0.5);
+
+	@media screen and (min-width: 700px) {
+		// display:flex;
+		// flex-direction: row;
+		// justify-content: left;
+		// flex-wrap:nowrap;
+	}
+
 	.home & {
 		min-height: 30vh;
 
@@ -121,28 +124,30 @@ img {
 
 #global-navigation {
 	text-align: left;
-	background: rgba(white, 0.2);
 }
 
 #global-navigation ul {
 	list-style:none;
 	margin-left:0;
 	padding-left:0;
-	display:flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
+
+	// @media screen and (min-width: 700px) {
+	// 	display:flex;
+	// 	flex-direction: row;
+	// 	flex-wrap: nowrap;
+	// }
 }
 
 #global-navigation > ul li {
-	padding: 0 1rem;
 }
 
 #global-navigation ul ul {
-	flex-direction: column;
+	padding-left: 2rem;
+	list-style-type: circle;
 }
 
 nav a {
-	display:inline-block;
+	display:block;
 	text-decoration:none;
 }
 
@@ -156,28 +161,6 @@ nav a:hover,
 nav a:focus,
 nav a:active {
 	color: white;
-}
-
-
-body.for-students a.opportunities,
-body.research-and-development a.expertise,
-body.makerspace a.collaborate,
-body.spatial-tech a.community,
-body.our-work a.scholarship {
-	font-weight: 600;
-	color: white;
-	&:after {
-		display:block;
-		content: " ";
-		width: 2px;
-		height: 10px;
-		background: rgba($blue-alt-light,0.75);
-		margin: 0 auto -0.5rem;
-	}
-}
-
-#secondary-navigation {
-	border-top: 2px solid rgba($blue-alt-light,0.5);
 }
 
 
@@ -250,6 +233,8 @@ section.feature {
 }
 
 #main {
+	background: white;
+
 	& > header:first-of-type,
 	body.post & article header:first-of-type
 	{
@@ -270,6 +255,7 @@ section.feature {
 	.content {
 		max-width: 900px;
 		margin: 0 auto;
+		padding: 0 1rem;
 	}
 }
 

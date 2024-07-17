@@ -9,13 +9,13 @@
     {% endif %}
     </hgroup>
     <nav id="global-navigation">
-        <ul>
+        <ul role="menubar">
             {% for nav in site.primary-navigation %}
-            <li><a class="{{ nav.label | slugify }}" href="{{ site.baseurl }}/{{
+            <li role="none"><a role="menuitem" class="{{ nav.label | slugify }}" href="{{ site.baseurl }}/{{
             nav.url }}">{{ nav.label }}</a>
                 <ul>
                     {% for subnav in nav.subnavigation %}
-                    <li><a href="{{ site.baseurl }}/{{subnav.url }}">{{
+                    <li role="none"><a role="menuitem" href="{{ site.baseurl }}/{{subnav.url }}">{{
                     subnav.label }}</a></li>
                     {% endfor %}
                 </ul>
