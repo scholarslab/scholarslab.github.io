@@ -20,19 +20,20 @@ title: Home
         <h2>Recent Blog Posts</h2>
         <ul>           
 			{% for post in site.posts limit:4 %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% if post.category != "update" %}
+            		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            	{% endif %}
             {% endfor %}
         </ul>
         <p><a href="/blog/">See all our blog posts</a>.</p>
     </div>
     <div id="recent-posts">
         <h2>Recent Activity</h2>
-<ul>
-{%- assign updates = site.posts| where: "type", "update" -%}
-{% for update in updates limit:3 %}
-	<li>{{ update.content }}</li>
-{% endfor %}
-</ul>
+		<ul>
+		{% for post in site.categories.update limit:3 %}
+			<li>{{ post.content }}</li>
+		{% endfor %}
+		</ul>
         <p><a href="/news/">See all our quick scholarly activity updates</a>.</p>
     </div>
 </section>
