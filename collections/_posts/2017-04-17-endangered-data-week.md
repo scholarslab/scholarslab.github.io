@@ -4,6 +4,7 @@ date: 2017-04-17 10:22:37+00:00
 layout: post
 slug: endangered-data-week
 title: Endangered Data Week
+category: announcement
 ---
 
 A range of Scholars' Lab and Praxis folks are collaborating with Research Data Services and others in the Library for a series of workshops under the umbrella, [Endangered Data,](http://data.library.virginia.edu/endangered-data-week/) this week.

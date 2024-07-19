@@ -6,7 +6,7 @@ slug: lessons-north-star
 title: "Lessons Learned from Project North Star"
 tags:
 - Parents Fund
-- VR
+- VR-AR
 - makerspace
 ---
 

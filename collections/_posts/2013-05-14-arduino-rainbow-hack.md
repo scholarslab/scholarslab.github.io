@@ -8,6 +8,7 @@ category: blog
 tags:
 - electronics
 - makerspace
+- tutorial
 ---
 
 The following was co-authored and co-hacked with [Claire](http://www.scholarslab.org/people/claire-maiers/).

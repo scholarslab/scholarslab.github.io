@@ -6,7 +6,7 @@ slug: song-of-wandering-aengus
 title: '"The Song of Wandering Aengus," Neatline, and negotiation with the machine'
 category: blog
 tags:
-- Experimental Humanities
+- literature
 - neatline
 crosspost:
   - title: dclure.org

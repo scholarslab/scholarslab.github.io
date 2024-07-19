@@ -8,6 +8,7 @@ category: blog
 tags:
 - Research and Development
 - omeka
+- tutorial
 ---
 
 This set of instructions was developed, in part, during the [Digital Humanities Winter Institute](http://mith.umd.edu/dhwi/) at the University of Maryland. Under the direction of Wayne Graham, a small group set out to install [Omeka](http://omeka.org/) through [Amazon Web Services](https://aws.amazon.com/). The directions were put together collaboratively by David Kim and Cory Duclos.

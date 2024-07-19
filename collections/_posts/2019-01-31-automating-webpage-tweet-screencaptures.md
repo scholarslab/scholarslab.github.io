@@ -7,8 +7,8 @@ title: "Automating Webpage & Tweet Screencaptures"
 category: blog
 tags:
 - Tutorial
-- Documenting the Now
 - social media
+- automation
 ---
 
 Do you have a list of webpage URLs for which you'd like screencaps (aka screenshots)?

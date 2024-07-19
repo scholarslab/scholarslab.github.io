@@ -6,7 +6,8 @@ slug: online-3d-content
 title: "Online Resources for 3D Content in VR/AR"
 tags:
 - Parents Fund
-- VR
+- VR-AR
+- tutorial
 ---
 
 In the digital humanities, it is sometimes easier to acquire 3D content from external sources rather than making it, especially when under a time constraint or limited in knowledge of 3D modeling. Fortunately, people in situations like these have access to many resources, such as repositories of 3D content submitted by amateur users within the 3D-design community or by professional creators working at design studios. 

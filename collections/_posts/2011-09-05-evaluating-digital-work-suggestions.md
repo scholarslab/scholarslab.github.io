@@ -8,6 +8,7 @@ category: blog
 tags:
 - Grad Student Research
 - praxis program
+- tutorial
 ---
 
 For this week's post, we were asked to evaluate a few of the digital tools we looked at for last week's meeting. This time we were armed with a list of questions, which I was particularly eager to have as someone with a fair amount of experience evaluating literary work and none whatsoever evaluating digital work. I was relieved to find that the questions are similar to those that must be asked of any scholarly article or book. What problem does it try to solve? What contribution does it make? How would it affect yours and others' work? The big one: _Does it work?_ And so on. Following these guidelines, we were asked to identify one thing we'd like to change, how we'd change it, and who would benefit from the change.

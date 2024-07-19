@@ -6,6 +6,8 @@ slug: bluesky-getting-started
 title: "Getting started with Bluesky: social media scholarly community"
 tags:
 - social media
+- getting started
+- tutorial
 crosspost:
   - title: Amanda's blog
     url: http://literaturegeek.com/2023/08/22/bluesky-getting-started

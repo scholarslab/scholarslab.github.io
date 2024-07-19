@@ -6,7 +6,6 @@ slug: neatline-implementation-grant
 title: Neatline Implementation Grant
 category: blog
 tags:
-- grants
 - neatline
 ---
 

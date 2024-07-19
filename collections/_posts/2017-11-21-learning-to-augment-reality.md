@@ -6,7 +6,7 @@ slug: learning-to-augment-reality
 title: Learning to Augment Reality
 category: blog
 tags:
-- VR
+- VR-AR
 - Geospatial and Temporal
 - Grad Student Research
 - UVA Reveal

@@ -7,6 +7,7 @@ title: Learning and Improving
 category: blog
 tags:
 - Research and Development
+- code
 ---
 
 Mentoring and training have always been a big part of the Scholars' Lab's mission. With the [Praxis Program](http://praxis.scholarslab.org/), that focus has only intensified over the last year. All this emphasis on growth has me thinking about how I try to improve professionally myself.

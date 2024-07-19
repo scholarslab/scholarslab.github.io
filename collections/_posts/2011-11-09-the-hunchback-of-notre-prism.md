@@ -9,6 +9,7 @@ tags:
 - Grad Student Research
 - praxis program
 - code
+- prism
 ---
 
 I'm [with Annie](http://www.scholarslab.org/praxis-program/building-prism-the-darker-side-of-the-enlightenment-spectrum/). Trial and error has been part of my dissertation for a while, so there is no shattered heart at the prospect of chucking the first model. I pointed out on [my previous post](http://www.scholarslab.org/praxis-program/report-from-the-rails-trenches/) that one thing I'm getting tons of praxis on these days is working with the "unknown unknowns" hovering in the air. Throwing the first fork into the recycle bin doesn't mean it has lost its use, though. Knowing that the first model was bound to be dropped from the beginning anyway, I've used it to teach myself Rails.

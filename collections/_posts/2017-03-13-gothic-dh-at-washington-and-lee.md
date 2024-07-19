@@ -6,7 +6,7 @@ slug: gothic-dh-at-washington-and-lee
 title: “Gothic DH” at Washington and Lee
 category: blog
 tags:
-- Experimental Humanities
+- literature
 - Grad Student Research
 - WLU Collab
 crosspost:

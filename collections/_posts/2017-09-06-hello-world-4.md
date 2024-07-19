@@ -6,7 +6,7 @@ slug: hello-world-4
 title: Hello World!
 category: blog
 tags:
-- Experimental Humanities
+- hello world
 - praxis program
 - UVA Reveal
 ---

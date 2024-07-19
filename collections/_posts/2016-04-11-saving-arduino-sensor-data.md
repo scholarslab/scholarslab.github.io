@@ -7,6 +7,8 @@ title: Saving Arduino Sensor Data
 category: blog
 tags:
 - makerspace
+- tutorial
+- electronics
 redirect_from:
   - /makerspace/saving-arduino-sensor-data
 ---

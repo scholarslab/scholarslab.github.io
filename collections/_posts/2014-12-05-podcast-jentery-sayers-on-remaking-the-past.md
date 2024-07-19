@@ -6,7 +6,6 @@ slug: podcast-jentery-sayers-on-remaking-the-past
 title: 'Podcast: Jentery Sayers on Remaking the Past'
 tags:
 - Events
-- Experimental Humanities
 - Podcasts
 category: announcement
 ---

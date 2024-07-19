@@ -8,6 +8,7 @@ category: blog
 tags:
 - Research and Development
 - omeka
+- tutorial
 ---
 
 If you've done much web development, you'll know that deploying applications can be a real pain. Typically you get some code (like Omeka), FTP it to your server, run the install, then go grab some plugins and themes and FTP them to your server. If you're a bit more sophisticated, you may have put this in to an source code management (SCM) system like [git](http://git-scm.com/), [mercurial](http://mercurial.selenic.com/), or [subversion](http://subversion.apache.org/), which then changes your workflow to editing on your local machine, committing the changes to your SCM, logging on to the command line interface for your server, running an update on the code, praying nothing breaks; if it does, you then try to roll back to a working version (you remembered to run svn info on the code before updating so you know what number to go back to). Even if everything goes swimmingly, that's a lot of steps and way more applications than I like to fool with, and since it's essentially doing the same thing over and over again, wouldn't it be nice to automate this process?   <!-- more -->

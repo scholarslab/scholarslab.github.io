@@ -10,6 +10,7 @@ tags:
 - ESRI
 - gis
 - neatline
+- tutorial
 crosspost:
   - title: dclure.org
     url: http://dclure.org/tutorials/neatline-maps-georeferencing/

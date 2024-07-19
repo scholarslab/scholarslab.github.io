@@ -8,7 +8,7 @@ category: blog
 tags:
 - Grad Student Research
 - charter
-- credit
+- about-collaboration-community
 - praxis program
 ---
 

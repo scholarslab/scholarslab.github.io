@@ -6,10 +6,10 @@ slug: the-ghost-in-the-graph-a-recap-on-time-things-and-entanglement
 title: 'The Ghost in the Graph: A Recap on Time, Things, and Entanglement'
 category: blog
 tags:
-- Experimental Humanities
 - Grad Student Research
 - Visualization and Data Mining
 - ClockWork
+- praxis program
 ---
 
 _[This post is the protein-rich version of a series of related posts from [our Praxis site](http://praxis.scholarslab.org/), with fresh reflections on the process and product now that I’m done. If you want to see originals, check out [the project idea](http://praxis.scholarslab.org/memo/2015/11/02/11-2-week-project-time-through-things/), [the data itself as I recorded it](http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/), a [first attempt at a visualization](http://praxis.scholarslab.org/blog/2015/11/18/visualizing-everything-i-used/), and a [second attempt at a series of visualizatio](http://praxis.scholarslab.org/blog/2015/11/20/visualization--2-of-everything-i-used-in-a-seven-day-period/)[ns](http://praxis.scholarslab.org/blog/2015/11/20/visualization--2-of-everything-i-used-in-a-seven-day-period/).]_

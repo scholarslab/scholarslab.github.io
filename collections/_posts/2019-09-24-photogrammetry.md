@@ -7,6 +7,7 @@ title: "Photogrammetry Workflow using a DSLR Camera"
 category: blog
 tags:
 - Research and Development
+- tutorial
 - makerspace
 - Photogrammetry
 - Parents Fund

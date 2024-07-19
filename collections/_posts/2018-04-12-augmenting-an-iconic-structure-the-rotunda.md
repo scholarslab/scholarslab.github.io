@@ -8,7 +8,7 @@ category: blog
 tags:
 - Grad Student Research
 - UVA Reveal
-- VR
+- VR-AR
 - Geospatial and Temporal
 - Charlottesville and Virginia
 ---

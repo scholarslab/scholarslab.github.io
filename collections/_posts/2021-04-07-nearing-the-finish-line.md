@@ -8,7 +8,7 @@ category: blog
 tags:
 - photogrammetry
 - GIS
-- virtual reality
+- VR-AR
 - Grad Student Research
 - 3DCHI
 - archaeology

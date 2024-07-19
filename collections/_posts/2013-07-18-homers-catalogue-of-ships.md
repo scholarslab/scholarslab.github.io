@@ -6,7 +6,7 @@ slug: homers-catalogue-of-ships
 title: Homer's Catalogue of Ships
 category: blog
 tags:
-- Experimental Humanities
+- literature
 - Geospatial and Temporal
 - Grad Student Research
 - gis

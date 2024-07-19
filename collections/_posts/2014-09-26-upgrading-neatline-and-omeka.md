@@ -10,6 +10,7 @@ tags:
 - neatline
 - omeka
 - code
+- tutorial
 ---
 
 One of my first projects here at the Scholars' Lab was to help update some Omeka/Neatline sites. These are sites we keep around as examples of our [Neatline](http://neatline.org) plugin for [Omeka](http://omeka.org), and they were a few versions behind. While a pretty easy process to do by hand, having a script to take care of it makes it even easier for future upgrades, too. I call the script ONUS (Omeka Neatline Upgrade Script). While the script was written specifically for our purposes, it may be useful if you have an Omeka install using the Neatline plugin. It can be found here on github.com, feel free to use at your own risk.

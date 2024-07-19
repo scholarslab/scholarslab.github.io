@@ -6,6 +6,7 @@ nav: true
 # order: 1
 redirect_from:
   - /library
+  - /faq/
 ---
 
 ## What we are: mission & vision
@@ -25,8 +26,6 @@ We are foremost a space for learning together—about anything—by trying stuff
 We foster technology-driven research interventions; critical modes of data and algorithmic inquiry; and the ethical design, development, and uses of digital tools and methods. We prioritize public scholarship, healthy collaboration, and accurate credit for all participants. 
 
 Our staff maintain ongoing research activity and external professional and scholarly engagement, increasing our familiarity with the latest tools and methods, and informing future Scholars' Lab services. Our leadership in international scholarly and professional organizations and communities lets us connect UVA colleagues to the forefront of digital and experimental scholarship, new collaborators, and exciting opportunities.
-
-[Visit our FAQ](/faq) for answers to common questions about understanding, finding, and working with the lab.
 
 **Our history.** Since 2006, the Scholars' Lab has served as the UVA Library’s interdisciplinary digital humanities research center. In 2023, our colleagues in the longstanding Institute for Advanced Technology in the Humanities (IATH) moved into the Library, joining us as allied institutions within the umbrella of the Library's Digital Humanities Center.
 

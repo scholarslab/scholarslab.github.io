@@ -20,16 +20,6 @@ Topic modeling is type of statistical model that sorts through a large corpus of
 
 Using the program [Mallet](http://mallet.cs.umass.edu/index.php) (Machine learning for language toolkit), I was able to import the text files of tweets and run the program.  The program resulted in two documents: a list of "topics" consisting of keywords, and meta data surrounding these topics.  This meta data included the percentage of tweets that focused one each "topic" and a list of the relevant tweets.
 
-
-
-
-
-
-
-
-
-
-
 **What did we learn?**
 
 Topic modeling is often assumed to be a primary text analysis tool for digital humanists. However, the utility of topic modeling is more ambiguous.  Where topic modeling may be an integral tools for studying an enormous body of law documents, for example, does it have the same utility for a corpus of tweets?

@@ -9,7 +9,6 @@ tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
 - gis
-- grants
 - neatline
 - omeka
 - web development

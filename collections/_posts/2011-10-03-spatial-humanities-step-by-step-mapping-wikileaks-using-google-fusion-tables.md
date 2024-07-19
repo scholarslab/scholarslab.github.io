@@ -3,13 +3,14 @@ author: kelly-johnston
 date: 2011-10-03 14:03:36+00:00
 layout: post
 slug: spatial-humanities-step-by-step-mapping-wikileaks-using-google-fusion-tables
-title: Spatial Humanities Step By Step - Mapping Wikileaks using Google Fusion Tables
+title: "Spatial Humanities Step By Step - Mapping Wikileaks using Google Fusion Tables"
 category: blog
 tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
 - Social Sciences
 - Statistical Analysis
+- tutorial
 ---
 
 Are you ready to participate in the [Golden Age ](http://mapbrief.com/2011/09/01/the-new-golden-age-of-cartography-has-arrived-and-its-co-ed/)of online mapping?

@@ -13,7 +13,6 @@ tags:
 - 3D Printing
 - Research and Development
 - makerspace
-- Student Research
 - makerspace
 ---
 

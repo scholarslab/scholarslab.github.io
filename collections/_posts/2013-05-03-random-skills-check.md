@@ -8,6 +8,7 @@ category: blog
 tags:
 - Grad Student Research
 - praxis program
+- prism
 ---
 
 This week Cecilia and took a few hours and completed one of our goals for this semester: creating a tutorial video for using Prism.   Not only did this turn out to be surprisingly fun (due mostly to Cecilia’s amazing antics), but it also added a few more skills to the list of things we have learned through Praxis.
