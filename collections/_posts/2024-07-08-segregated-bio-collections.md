@@ -3,7 +3,7 @@ author: Lloyd Sy
 date: 2024-07-08
 layout: post
 slug: cbw-about1919-2-lloyd
-title: "Segregated Biographical Collections and Documentary Social Networks: <i>Portraits of American Women</i> and <i>Women of Distinction</i>"
+title: "Segregated Biographical Collections and Documentary Social Networks: *Portraits of American Women* and *Women of Distinction*"
 summary: "In the same way that researchers today look at social networks (online or otherwise) and think about the meanings of 'connections' or 'nodes' within them, so too can we look at collective biography as a mode of textual and social connection."
 category: blog
 tags:

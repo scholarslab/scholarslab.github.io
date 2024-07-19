@@ -11,6 +11,7 @@ collaborators:
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Design Architect
+  - name: IATH
 link: http://womensbios.lib.virginia.edu/
 layout: work
 slug: collective-biographies-of-women
@@ -23,3 +24,16 @@ end-year: current
 ---
 
 Alison Booth’s [Collective Biographies of Women](http://womensbios.lib.virginia.edu/about) began as a simple electronic text which, in collaboration with the Scholars’ Lab, blossomed into a rich instrument for the study of prosopography. Professor Booth has been selected as an [IATH](http://iath.virginia.edu/) and [ACLS Fellow](http://www.acls.org/research/digital.aspx?id=798) on the merit of this work.
+
+<p>Below are our research blog posts related to the CBW project:</p>
+<ul>
+{%- for post in site.tags.cbw -%}
+	<li>
+		<h3>
+		<a class="post-link" href="{{ post.url | relative_url }}">
+		{{ post.title | escape }}
+		</a>
+        </h3>
+	</li>
+{%- endfor -%}
+</ul>
