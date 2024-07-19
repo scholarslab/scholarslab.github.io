@@ -4,12 +4,10 @@ date: 2019-02-27 12:06:59
 layout: post
 slug: connecting-linux-to-cavalier
 title: Connecting Linux To Cavalier
-categories:
-- Makerspace
+category: blog
 tags:
-- Linux
-- Raspberry Pi
-- WiFi
+- makerspace
+- electronics
 - tutorial
 ---
 

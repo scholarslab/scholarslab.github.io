@@ -4,11 +4,9 @@ date: 2012-01-25 11:19:34+00:00
 layout: post
 slug: sci-opening
 title: seeking a Senior Research Specialist for SCI
-categories:
-- Announcements
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 I'm pleased to share a formal job posting for an 18-month research-and-writing position with the Scholarly Communication Institute. The posting is limited to current employees of the Unversity of Virginia for four business days, after which it will open more broadly.*  It's a short-term position, but an excellent opportunity to work with [SCI](http://uvasci.org/) leadership and representatives of the following groups: the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org/), [CHCI](http://chcinetwork.org/), [centerNet](http://digitalhumanities.org/centernet), [PressForward](http://pressforward.org/), the [Modern Language Association](http://mla.org), the [Alliance for Networking Visual Culture](http://scalar.usc.edu/anvc/?page_id=2), the [ACLS](http://www.acls.org/), [CLIR](http://clir.org), and more. The timeframe for our decision is very short, so interested applicants should not delay!

@@ -4,12 +4,13 @@ date: 2016-12-13 12:54:42+00:00
 layout: post
 slug: time-twitter-and-keeping-up-with-the-kardashians
 title: Time, Twitter, and Keeping Up with the Kardashians
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Dash-Amerikan
 - social media
+- time
 ---
 
 We started this semester thinking about time and the ways time is structured, pathologized, and altered. And when it came to finding an access point for these questions, a project, if you will, we found it in an unlikely source:

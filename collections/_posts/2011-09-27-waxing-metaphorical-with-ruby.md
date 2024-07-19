@@ -4,12 +4,11 @@ date: 2011-09-27 13:55:44+00:00
 layout: post
 slug: waxing-metaphorical-with-ruby
 title: Waxing metaphorical with Ruby
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
-- ruby
+- code
 ---
 
 I must preface this post with a few disclaimers: First, _The Wizard of Oz_ is my all-time favorite movie. Second, I am an English graduate student, so it's in my nature to wax metaphorical. And last, I'm currently in a Ruby-induced fever which has severely limited my ability to think/write clearly, so this post will be one of my more ridiculous. (I actually dreamed in code last night.)

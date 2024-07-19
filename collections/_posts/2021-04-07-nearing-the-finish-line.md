@@ -4,10 +4,15 @@ date: 2021-04-07
 layout: post
 slug: finish-line
 title: Nearing the Finish Line
-categories:
+category: blog
+tags:
 - photogrammetry
 - GIS
 - virtual reality
+- Grad Student Research
+- 3DCHI
+- archaeology
+- 3D modeling
 ---
 
 Whether I’d like to believe it or not, this academic year is nearly finished, marking the end of my time as one of the Graduate Fellows in the Digital Humanities. Even though I still have about 5 weeks before I present my final project, I’m beginning to reflect on the process and experience so far, and I’m thinking critically about how to spend the rest of my time. 

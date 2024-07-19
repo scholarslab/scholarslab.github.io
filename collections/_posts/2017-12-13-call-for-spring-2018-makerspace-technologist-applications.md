@@ -4,11 +4,10 @@ date: 2017-12-13 17:29:28+00:00
 layout: post
 slug: call-for-spring-2018-makerspace-technologist-applications
 title: Call for Spring 2018 Makerspace Technologist Applications
-categories:
-- Makerspace
 tags:
+- makerspace
 - staffing
-type: Announcement
+category: announcement
 ---
 
 _Are you a UVA graduate student or upper-level undergraduate in the humanities? Come join our team as a Makerspace technologist!_

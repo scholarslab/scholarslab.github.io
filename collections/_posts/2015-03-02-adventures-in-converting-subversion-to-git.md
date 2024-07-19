@@ -4,11 +4,10 @@ date: 2015-03-02 09:37:03+00:00
 layout: post
 slug: adventures-in-converting-subversion-to-git
 title: Adventures in Converting Subversion to Git
-categories:
-- Research and Development
+category: blog
 tags:
-- git
-- subversion
+- Research and Development
+- code
 ---
 
 While the Scholars' Lab was founded in 2006, we manage a lot of projects that had their roots in the eText Center in the late 1990s. These projects have lived through the numerous "best practices" of the various eras, many still bearing the marks of those bygone eras (you see a lot of projects that used FTP clients to manage the project as evidenced by numerous `WS_FTP.log` files for those who remember that). Most of the legacy projects we work with were migrated to Subversion by the the 2000s, but if you're one of the cool kids, you'll know that everyone uses [git](http://git-scm.com/) these days (thanks in large part to [GitHub](https://github.com)). Recently we've been working on one of these projects ([Salem Witch Trials](http://salem.lib.virginia.edu)) to help get it ready for a forthcoming book and we found that Subvesion kept getting in the way of actually doing work. Little and big issues kept nagging collaborators like flaky user permissions and issues with adding numerous files had made the Subversion repository to nearly 4Gb. Ben Ray came by my office one day and asked if there was a "better" way to do this. I suggested an experiment with `git` and GitHub and seeing if that would help ease some of the pain points he was having with Subversion.

@@ -4,7 +4,7 @@ date: 2008-09-17 13:36:47+00:00
 layout: post
 slug: feeds-coins-and-maps-oh-my
 title: Feeds, Coins, and Maps (oh, my)
-type: Announcement
+category: announcement
 ---
 
 Staff from across the Library are offering learning opportunities through the Scholars' Lab this week!

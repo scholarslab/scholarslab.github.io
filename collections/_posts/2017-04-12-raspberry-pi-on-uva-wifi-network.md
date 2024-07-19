@@ -4,9 +4,9 @@ date: 2017-04-12 12:59:24+00:00
 layout: post
 slug: raspberry-pi-on-uva-wifi-network
 title: Raspberry Pi on UVa WiFi Network
-categories:
-- Makerspace
-- Technical Training
+category: blog
+tags:
+- makerspace
 redirect_from:
   - /makerspace/raspberry-pi-on-uva-wifi-network
 ---

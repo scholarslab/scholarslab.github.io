@@ -4,14 +4,11 @@ date: 2014-04-30 10:00:32+00:00
 layout: post
 slug: all-systems-go-we-think
 title: 'All systems go! (we think...) '
-categories:
-- Grad Student Research
+category: blog
 tags:
-- '1.0'
+- Grad Student Research
 - Ivanhoe
-- launch
 - praxis program
-- wordpress theme
 ---
 
 Yesterday at 1PM we launched Ivanhoe 1.0. We are excited about our progress and hope you can take some time to [download ](http://ivanhoe.scholarslab.org/)the theme to your own WordPress accounts. We have made [documentation](http://ivanhoe.scholarslab.org/documentation.html) readily available for those new to Ivanhoe and we hope users will add to this space ([via GitHub](https://github.com/scholarslab/ivanhoe/issues?state=open)) so that we can continue to create a better product. As I reflect back on the last year I wanted to share a few things....

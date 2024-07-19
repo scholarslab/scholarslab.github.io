@@ -4,10 +4,9 @@ date: 2013-03-07 08:35:27+00:00
 layout: post
 slug: the-place-of-beauty-in-scholarly-writing
 title: The place of beauty in scholarly writing
+category: blog
 tags:
-- beauty
-- design
-- writing
+- academia
 crosspost:
   - title: my personal website
     url: http://wp.me/p2CaGd-gr

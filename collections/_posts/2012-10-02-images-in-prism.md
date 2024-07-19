@@ -4,12 +4,11 @@ date: 2012-10-02 10:46:11+00:00
 layout: post
 slug: images-in-prism
 title: Images in Prism
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Prism
-- requirements-gathering
 ---
 
 One thing we have thought about in recent weeks is the role of Prism in our goals for the semester.  As part of this brainstorming I wanted to share some of my thoughts about a potential future for Prism.

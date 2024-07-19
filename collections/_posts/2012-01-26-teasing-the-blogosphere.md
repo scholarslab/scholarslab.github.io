@@ -4,10 +4,10 @@ date: 2012-01-26 07:21:44+00:00
 layout: post
 slug: teasing-the-blogosphere
 title: Teasing the Blogosphere
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - praxis program
 ---
 

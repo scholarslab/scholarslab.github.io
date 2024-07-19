@@ -4,14 +4,13 @@ date: 2012-09-12 01:00:07+00:00
 layout: post
 slug: geocoding-for-neatline-part-ii
 title: Geocoding for Neatline - Part II
-categories:
-- Research and Development
+category: blog
 tags:
-- geocoding
-- geospatial
-- mechanize
+- Research and Development
+- Geospatial and Temporal
 - neatline
-- neatline features
+- code
+- tutorial
 ---
 
 In my last post ([Geocoding for Neatline - Part I]( http://www.scholarslab.org/digital-humanities/geocoding-for-neatline-part-i)), I covered how to programmatically geocode a set of addresses and generate a CSV file for use in Neatline. In this post, I'll go over how to actually post this information in Omeka and make it available for use in your Neatline exhibit.

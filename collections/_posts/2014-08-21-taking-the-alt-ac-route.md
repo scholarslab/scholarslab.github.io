@@ -4,9 +4,10 @@ date: 2014-08-21 09:05:01+00:00
 layout: post
 slug: taking-the-alt-ac-route
 title: Taking the Alt-Ac Route
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Research and Development
+- alt-ac
 ---
 
 I am not where I thought I’d be. A year ago I’d have told you that right about now I’d be frantically writing my dissertation, trying to get an article out, and desperately looking for professorial jobs in contemporary theology and/or continental philosophy. Instead, I’m still working on my dissertation (not quite as frantically as I perhaps should), but I’m mostly being a digital humanities developer in the [Scholars’ Lab](https://www.scholarslab.org/) at U.Va. Instead of reading book after book of theology on a daily basis, I read a lot of documentation for programming languages. Instead of hours each day writing theology deeply conditioned by years of reading Heidegger, Barth, and Jüngel, I’m writing, at the moment, rather a few lines of Javascript. Within the next few weeks I’m hoping to make that [Coffeescript](http://coffeescript.org/) instead. Why write var repeatedly when you don’t need to? Instead of days and nights spent moving between coffeeshops, library tables, and my own apartment, I sit (or stand) at my desk in the Scholars’ Lab offices for about eight hours a day, taking an occasional break from the space to work somewhere else in the library or go to a meeting in Clemons.

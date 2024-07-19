@@ -4,11 +4,10 @@ date: 2013-03-11 13:28:47+00:00
 layout: post
 slug: size-matters
 title: Size Matters
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - cartography
-- geographic literacy
 - gis
 - visualization
 crosspost:

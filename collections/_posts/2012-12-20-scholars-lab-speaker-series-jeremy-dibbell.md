@@ -4,9 +4,9 @@ date: 2012-12-20 14:13:20+00:00
 layout: post
 slug: scholars-lab-speaker-series-jeremy-dibbell
 title: 'Scholars'' Lab Speaker Series: Jeremy Dibbell'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Scholars' Lab Speaker Series: Jeremy Dibbell**

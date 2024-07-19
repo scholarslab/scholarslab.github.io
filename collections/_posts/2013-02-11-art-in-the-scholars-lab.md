@@ -4,11 +4,10 @@ date: 2013-02-11 11:29:34+00:00
 layout: post
 slug: art-in-the-scholars-lab
 title: Art in the Scholars' Lab
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - design
-- digital-work
 ---
 
 The first time I walked into the Scholars’ Lab, I was amazed by the space.  With the high ceilings, black-and-white tile floors, and the bold red wall, it looked like something out of a magazine, not a computer lab at UVA!

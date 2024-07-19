@@ -4,9 +4,10 @@ date: 2015-12-17 16:03:21+00:00
 layout: post
 slug: learning-to-use-3d-printers-for-the-digital-humanities
 title: Learning to Use 3D Printers for the Digital Humanities
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Experimental Humanities
+- makerspace
 ---
 
 As someone who was primarily educated as a humanist and has also worked on projects involving data, I have experience in courageously facing the steep curve of learning new technologies. Curious about both the arts and the sciences and seeing where the two can enhance each other to assist in better, more critical thinking, I am passionate about learning technologies for the humanities.

@@ -4,11 +4,11 @@ date: 2012-12-04 11:46:40+00:00
 layout: post
 slug: make-it-work
 title: Make it Work!
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
+- code
 ---
 
 Tomorrow, in an ongoing effort to teach us how to use Ruby, we are embarking on the adventure that is “Pair Programming.”  We are going to create a “Jotto” game, courtesy of Eric by breaking it into discrete classes and having each pair work on a different class.  The goal is to have one person as the “driver” (typing all the code) and one person as the “navigator” (reading from the ruby documentation).  We can now move from the theoretical training that we’ve mostly been doing up until now and get some “on the job” training.

@@ -4,9 +4,11 @@ date: 2019-10-14
 layout: post
 slug: reading-grammar
 title: "Reading Grammar: First Attempts"
-categories:
+category: blog
+tags:
 - Research and Development
 - Grad Student Research
+- literature
 crosspost:
   - title: my personal blog
     url: http://jordanbuysse.com/blog.html

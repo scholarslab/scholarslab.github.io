@@ -4,10 +4,9 @@ date: 2012-02-01 02:22:43+00:00
 layout: post
 slug: done-is-the-engine-of-more-2
 title: Done is the engine of more.
-categories:
-- Grad Student Research
+category: blog
 tags:
-- internationalization
+- Grad Student Research
 - praxis program
 - Prism
 ---

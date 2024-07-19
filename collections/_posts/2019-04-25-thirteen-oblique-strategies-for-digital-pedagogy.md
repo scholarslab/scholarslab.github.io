@@ -4,6 +4,7 @@ date: 2019-04-25 09:09:55
 layout: post
 slug: thirteen-oblique-strategies-for-digital-pedagogy
 title: Thirteen Oblique Strategies For Digital Pedagogy
+category: blog
 tags:
 - pedagogy
 crosspost:

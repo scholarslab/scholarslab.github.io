@@ -4,8 +4,11 @@ date: 2012-03-27 14:00:13+00:00
 layout: post
 slug: examining-tei-displays-across-the-web
 title: Examining TEI Displays Across the Web
+category: blog
 tags:
-- TEI
+- omeka
+- Grad Student Research
+- code
 ---
 
 As part of my project with [Zane](http://www.scholarslab.org/author/zschwarzlose/) to update the [TEIDisplay plugin for Omeka](http://www.scholarslab.org/digital-humanities/an-update-to-teidisplay-for-omeka/), I have been examining ways that different digital collections present TEI-encoded texts. We hope that by looking at the ways that other display tools function, we’ll be able to gain more insight into what works well and what doesn’t.

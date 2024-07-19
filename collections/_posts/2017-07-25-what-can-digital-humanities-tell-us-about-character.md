@@ -4,9 +4,12 @@ date: 2017-07-25 16:31:11+00:00
 layout: post
 slug: what-can-digital-humanities-tell-us-about-character
 title: What can digital humanities tell us about Character?
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
+- literature
+- bibliography
 ---
 
 My part of the collaboration with James has been thinking through what this text has to tell us about "Character" as a literary category and to consider how digital tools can help modern users interact with eighteenth-century characters.

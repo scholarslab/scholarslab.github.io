@@ -4,15 +4,11 @@ date: 2010-06-17 14:00:59+00:00
 layout: post
 slug: expanding-the-capabilities-of-omeka
 title: Expanding the Capabilities of Omeka
-categories:
-- Research and Development
+category: blog
 tags:
-- Digital Libraries
-- EAD
+- Research and Development
 - metadata
 - omeka
-- plugins
-- VRA Core
 ---
 
 Because I have a keen interest in the description of cultural heritage artifacts and in doing interesting things with metadata, in recent months I have developed a handful of Omeka plugins to meet these interests.  My first foray into plugin development for the application was with the [EAD Importer](https://addons.omeka.org/svn/plugins/EadImporter/).  The EAD Importer, as the name suggests, extracts item-level metadata (along with a bit of collection-level metadata, like rights) from Encoded Archival Description finding aids and generates a CSV file which can be imported through the CSV Import plugin developed by the Omeka crew.  The plugin would be useful to archivists who would like to use Omeka to build online exhibits of their collections.  I took this framework a step further to create a plugin that is capable of importing any [flat XML](https://addons.omeka.org/svn/plugins/GenericXmlImporter/trunk/) into Omeka by transforming that file into a CSV file.

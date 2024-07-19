@@ -4,7 +4,7 @@ date: 2014-02-17 12:46:16+00:00
 layout: post
 slug: call-for-graduate-fellowship-in-the-digital-humanities
 title: Call for Graduate Fellowship in the Digital Humanities
-type: Announcement
+category: announcement
 ---
 
 [![Photo by ericskiff](http://static.scholarslab.org/wp-content/uploads/2014/02/ericskiff-236x300.jpg)](http://www.flickr.com/photos/ericskiff/2925603321/sizes/l/)

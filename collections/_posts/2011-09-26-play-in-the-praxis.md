@@ -4,14 +4,11 @@ date: 2011-09-26 14:41:54+00:00
 layout: post
 slug: play-in-the-praxis
 title: jugando a praxis
-categories:
-- Grad Student Research
+category: blog
 tags:
-- hibrarians
-- language
-- migration
+- Grad Student Research
 - praxis program
-- Programming
+- code
 ---
 
 I third [Lindsay](http://www.scholarslab.org/praxis-program/the-pleasures-of-programming/)'s and [Bethany](http://www.scholarslab.org/praxis-program/ruby-slippers/)'s motion to declare coding a pleasurable activity. I have been tingling with guilty pleasure for the past couple of weeks doing [the exercises](http://praxis.scholarslab.org/exercises/) that the Slab developers have prepared for us. The guilt comes from the distance between these puzzles and the dissertation chapters I have spent the better part of this year writing. I know I will not feel guilty for long. Very soon I will begin coding for my digital edition of Aimé Césaire's _Et les chiens se taisaient_ and coding will just be what I do in lieu of writing for a while.

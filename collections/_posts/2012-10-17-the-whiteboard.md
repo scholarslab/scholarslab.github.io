@@ -4,9 +4,9 @@ date: 2012-10-17 11:26:05+00:00
 layout: post
 slug: the-whiteboard
 title: The Whiteboard
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

@@ -4,9 +4,9 @@ date: 2014-05-05 10:00:14+00:00
 layout: post
 slug: ivanhoe-and-imaginative-analysis
 title: Ivanhoe and Imaginative Analysis
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 ---

@@ -4,9 +4,9 @@ date: 2013-10-21 13:18:33+00:00
 layout: post
 slug: 2013-gis-day-wednesday-november-20th-2013
 title: 2013 GIS Day - Wednesday, November 20th, 2013
-categories:
-- Announcements
+tags:
 - Geospatial and Temporal
+category: announcement
 ---
 
 In honor of [GIS Day 2013](http://www.gisday.com/), the Scholars’ Lab at UVa Library would like to invite you to participate in our celebration on November 20th.

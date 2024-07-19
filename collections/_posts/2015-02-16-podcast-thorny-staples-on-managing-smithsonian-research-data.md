@@ -4,10 +4,10 @@ date: 2015-02-16 13:38:37+00:00
 layout: post
 slug: podcast-thorny-staples-on-managing-smithsonian-research-data
 title: 'Podcast: Thorny Staples on Managing Smithsonian Research Data'
-categories:
+tags:
 - Events
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 Managing the Record of Research at the Smithsonian

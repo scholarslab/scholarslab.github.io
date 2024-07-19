@@ -4,8 +4,10 @@ date: 2014-11-19 11:06:30+00:00
 layout: post
 slug: troubleshooting-acceptance-testing-in-rspec-and-capybara
 title: Troubleshooting Acceptance Testing in RSpec and Capybara
-categories:
+category: blog
+tags:
 - Research and Development
+- code
 ---
 
 Over the past two weeks, I’ve been pair programming with [Eric](http://scholarslab.org/people/eric-rochester/). Together, we’ve been building out a suite of acceptance tests for [Ivanhoe](http://ivanhoe.scholarslab.org) to provide a basic check on critical, user-facing functionality as we refactor parts of the [codebase](http://github.com/scholarslab/ivanhoe). While learning to write basic tests has been relatively straightfoward for me, due to the natural language character of acceptance tests with [RSpec](https://relishapp.com/rspec) and [Capybara](http://jnicklas.github.io/capybara/), we have run into a couple of hang-ups in getting the test suite functional. I want to briefly describe one of these problems and how we resolved it.

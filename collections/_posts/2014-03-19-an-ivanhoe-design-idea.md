@@ -4,9 +4,9 @@ date: 2014-03-19 12:54:45+00:00
 layout: post
 slug: an-ivanhoe-design-idea
 title: An Ivanhoe Design Idea
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
 - Ivanhoe
 - praxis program

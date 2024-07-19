@@ -4,11 +4,11 @@ date: 2011-11-26 11:39:22+00:00
 layout: post
 slug: giving-thanks
 title: giving thanks
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
+- code
 ---
 
 I love lists. Here's one I'm thankful for: The things I've learned since I started Prism (including those I learned indirectly):

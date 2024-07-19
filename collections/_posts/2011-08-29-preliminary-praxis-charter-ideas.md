@@ -4,9 +4,9 @@ date: 2011-08-29 15:54:45+00:00
 layout: post
 slug: preliminary-praxis-charter-ideas
 title: Preliminary Praxis Charter Ideas
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 ---

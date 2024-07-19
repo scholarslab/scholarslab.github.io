@@ -4,8 +4,7 @@ date: 2011-06-17 16:09:12+00:00
 layout: post
 slug: omeka-development-with-vagrant
 title: Omeka Development with Vagrant
-categories:
-- Announcements
+tags:
 - Research and Development
 ---
 

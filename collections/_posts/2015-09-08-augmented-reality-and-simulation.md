@@ -4,11 +4,12 @@ date: 2015-09-08 11:20:15+00:00
 layout: post
 slug: augmented-reality-and-simulation
 title: Augmented Reality and Simulation
-categories:
-- Research and Development
+category: blog
 tags:
-- augmented reality
-- kinect
+- Research and Development
+- VR-AR
+- 3D printing
+- makerspace
 ---
 
 A few weeks ago the Scholars' Lab went on a field trip to the School of Architecture's "[FabLab](http://www.arch.virginia.edu/fabrication)" to check out a project Chris Gist and Melissa Goldman had been working on, a sand table that has a projector and a Kinect connected to a computer that projects a topology on to the sand.

@@ -4,11 +4,8 @@ date: 2014-02-04 10:13:47+00:00
 layout: post
 slug: neatline-gettysburg-address
 title: The "Nicolay copy" of the Gettysburg Address
-categories:
-- Experimental Humanities
+category: blog
 tags:
-- d3
-- lincoln
 - neatline
 crosspost:
   - title: dclure.org

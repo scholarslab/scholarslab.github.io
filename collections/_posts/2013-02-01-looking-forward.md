@@ -4,9 +4,9 @@ date: 2013-02-01 11:52:33+00:00
 layout: post
 slug: looking-forward
 title: Looking Forward
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

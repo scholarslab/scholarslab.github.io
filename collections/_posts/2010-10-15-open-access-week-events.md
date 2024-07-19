@@ -4,9 +4,7 @@ date: 2010-10-15 16:19:42+00:00
 layout: post
 slug: open-access-week-events
 title: Open Access Week Events
-categories:
-- Announcements
-type: Announcement
+category: announcement
 ---
 
 You are cordially invited to an **Open Access Week Luncheon** Monday, October 18 at noon in the Scholars' Lab

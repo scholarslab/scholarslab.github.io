@@ -4,9 +4,9 @@ date: 2013-10-24 09:49:18+00:00
 layout: post
 slug: podcast-sukanta-chaudhuri
 title: 'Podcast: Sukanta Chaudhuri'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Institute of the Humanities & Global Cultures Speaker: Sukanta Chaudhuri**

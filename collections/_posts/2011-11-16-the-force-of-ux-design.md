@@ -4,10 +4,8 @@ date: 2011-11-16 23:30:26+00:00
 layout: post
 slug: the-force-of-ux-design
 title: The Force of UX Design
-categories:
-- Announcements
-- Grad Student Research
 tags:
+- Grad Student Research
 - design
 - praxis program
 - Prism

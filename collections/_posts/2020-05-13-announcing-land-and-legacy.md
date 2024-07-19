@@ -6,8 +6,11 @@ date: 2020-05-13 14:10:52
 layout: post
 slug: announcing-land-and-legacy
 title: Announcing 'Land And Legacy'
-categories:
+category: blog
+tags:
 - Grad Student Research
+- land and legacy
+- Charlottesville and Virginia
 ---
 We are pleased to share *[Land and Legacy](https://landandlegacy.scholarslab.org/)*, the project launched by this year's Praxis cohort. 
 

@@ -4,8 +4,11 @@ date: 2012-07-20 05:19:18+00:00
 layout: post
 slug: parent-child-relationships-in-neatline
 title: Parent-child relationships in Neatline
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
+- neatline
+- tutorial
 ---
 
 One of the most powerful features in [Neatline](http://neatline.org), our newly-released [Omeka](http://omeka.org)-based tool for geo-temporal interpretation of humanities collections, is the ability to create parent-child relationships between records in an exhibit. Any record can be the parent of any other record, and there are no limits on the depth of the nesting - a parent record can itself have a parent record, and so on and so forth.

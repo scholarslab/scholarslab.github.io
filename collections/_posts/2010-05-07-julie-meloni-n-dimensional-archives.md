@@ -4,9 +4,9 @@ date: 2010-05-07 16:03:11+00:00
 layout: post
 slug: julie-meloni-n-dimensional-archives
 title: 'Julie Meloni: N-dimensional Archives'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 Julie Meloni, Jerome McGann, and Bethany Nowviskie discuss ways of reconsidering the multivalent cultural record in a digital age

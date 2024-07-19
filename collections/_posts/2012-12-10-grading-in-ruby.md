@@ -4,12 +4,11 @@ date: 2012-12-10 10:57:34+00:00
 layout: post
 slug: grading-in-ruby
 title: Grading in Ruby
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
-- ruby
+- code
 ---
 
 [Chris](http://www.scholarslab.org/people/chris-peck/) recently posted his [very exciting experiment](http://www.scholarslab.org/praxis-program/music-theory-in-ruby/) that uses Ruby to create music theory worksheets for his students. Inspired by this, I have been playing around on Ruby with much more modest aims: I wanted to use Ruby to do my grading for me. I always do my grading with an Excel spreadsheet and a series of formulas. I am not particularly skilled at that interface, though, and it usually takes me a while to get it to work right. I thought I might as well try to do the same thing in Ruby. Admittedly, this idea also came from Chris: he has been claiming that such a thing was a very real possibility for weeks now.

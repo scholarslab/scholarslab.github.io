@@ -4,14 +4,12 @@ date: 2014-03-26 13:45:00+00:00
 layout: post
 slug: call-for-ivanhoe-testers
 title: Call for Ivanhoe Testers!
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - Ivanhoe
 - praxis program
-- wordpress
-type: blog
 ---
 
 This year's [Praxis](http://praxis.scholarslab.org/) fellows are in the last couple weeks of programming before our release of the new Ivanhoe Game (rebuilt as a [WordPress Theme](http://wordpress.org/themes/)), and we are looking for people to test the program.

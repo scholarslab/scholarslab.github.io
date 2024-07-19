@@ -4,10 +4,9 @@ date: 2016-12-13 12:50:24+00:00
 layout: post
 slug: why-not-build-another-digital-humanities-tool
 title: Why not build another digital humanities tool?
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Dash-Amerikan
 ---

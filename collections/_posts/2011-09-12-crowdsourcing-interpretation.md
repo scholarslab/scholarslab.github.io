@@ -4,11 +4,11 @@ date: 2011-09-12 12:34:10+00:00
 layout: post
 slug: crowdsourcing-interpretation
 title: Crowdsourcing Interpretation / Praxis and Prism
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- requirements-gathering
+- prism
 ---
 
 Our goal in the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) is to address methodological training in the humanities not just through workshops and courses, but by involving graduate students in digital projects from the ground up. This means learning by creating something -- together -- with all that entails: paying attention both to vision and detail; building facility with new techniques and languages not just as an academic exercise, but _of necessity,_ and in the most pragmatic framework imaginable; acquiring the softer skills of collaboration (sadly, an undiscovered country in humanities graduate education) and of leadership (that is, of credible expertise, self-governance, and effective project management). All this also involves learning to iterate and to compromise -- and when to stop and ship.

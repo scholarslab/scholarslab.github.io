@@ -4,9 +4,9 @@ date: 2011-10-02 17:08:12+00:00
 layout: post
 slug: elotroalex-re-mixed
 title: elotroalex re-mixed
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

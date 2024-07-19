@@ -4,9 +4,9 @@ date: 2014-11-06 14:02:21+00:00
 layout: post
 slug: rules-and-flexibility-learning-from-games-for-ivanhoe
 title: 'Rules and Flexibility: Learning from Games for Ivanhoe'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 - games

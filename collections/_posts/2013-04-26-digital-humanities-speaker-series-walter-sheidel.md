@@ -4,9 +4,9 @@ date: 2013-04-26 14:46:07+00:00
 layout: post
 slug: digital-humanities-speaker-series-walter-sheidel
 title: 'Digital Humanities Speaker Series: Walter Sheidel'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Digital Humanities Speaker Series: Walter Scheidel**

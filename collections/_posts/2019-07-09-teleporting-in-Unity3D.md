@@ -4,12 +4,14 @@ date: 2019-07-09
 layout: post
 slug: teleporting-in-Unity3D
 title: "Teleporting in Unity 3D"
-categories:
-- Research and Development
+category: blog
 tags:
+- Architectural History
+- Research and Development
 - Parents Fund
-- VR
+- VR-AR
 - 3D modeling
+- tutorial
 ---
 # Teleporting in Unity 3D
 

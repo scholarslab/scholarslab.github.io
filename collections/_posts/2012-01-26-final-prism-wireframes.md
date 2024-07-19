@@ -4,10 +4,10 @@ date: 2012-01-26 07:22:45+00:00
 layout: post
 slug: final-prism-wireframes
 title: '"Final" Prism Wireframes'
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - design
 - praxis program
 ---

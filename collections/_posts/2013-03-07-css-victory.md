@@ -3,13 +3,14 @@ author: cecilia-márquez
 date: 2013-03-07 12:13:27+00:00
 layout: post
 slug: css-victory
-title: CSS Victory!
-categories:
+title: "CSS Victory!"
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - design
 - praxis program
+- code
 ---
 
 [![PrismDraft](http://static.scholarslab.org/wp-content/uploads/2013/03/PrismDraft-300x157.jpg)](http://static.scholarslab.org/wp-content/uploads/2013/03/PrismDraft.jpg)

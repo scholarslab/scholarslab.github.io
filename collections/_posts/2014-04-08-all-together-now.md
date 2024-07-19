@@ -4,9 +4,9 @@ date: 2014-04-08 22:36:21+00:00
 layout: post
 slug: all-together-now
 title: All Together Now
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 ---

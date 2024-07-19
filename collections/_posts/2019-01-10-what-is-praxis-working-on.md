@@ -4,9 +4,9 @@ date: 2019-01-10 15:44:01
 layout: post
 slug: what-is-praxis-working-on
 title: What Is Praxis Working On?
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - pedagogy
 crosspost:

@@ -4,6 +4,7 @@ date: 2008-10-09 12:55:18+00:00
 layout: post
 slug: bamboo-grows-quickly
 title: Bamboo Grows Quickly
+category: blog
 tags:
 - projectbamboo
 ---

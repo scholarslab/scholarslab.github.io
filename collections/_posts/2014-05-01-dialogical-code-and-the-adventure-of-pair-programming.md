@@ -4,11 +4,11 @@ date: 2014-05-01 09:25:28+00:00
 layout: post
 slug: dialogical-code-and-the-adventure-of-pair-programming
 title: Dialogical Code and the Adventure of Pair Programming
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
+- code
 ---
 
 Near the end of last semester, as the developers of SLAB taught us Praxers to write code (PHP in this case), pushing us to learn different conditional loops and such through repeated problem solving exercises, they also encouraged us to work in pairs or in even larger groups. Coding is not something you do alone, they said. I'd say, rather, that really good, efficient, and fun coding is not something you do alone.

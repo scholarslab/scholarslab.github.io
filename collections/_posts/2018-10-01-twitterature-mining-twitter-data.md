@@ -4,11 +4,12 @@ date: 2018-10-01 13:43:26+00:00
 layout: post
 slug: twitterature-mining-twitter-data
 title: 'Twitterature: Mining Twitter Data'
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Geospatial and Temporal
 - Grad Student Research
 - Visualization and Data Mining
+- social media
 ---
 
 Hello again, everybody! I’m back this semester as a DH Prototyping Fellow, and together, Alyssa Collins and I are working on a project titled “Twitterature: Methods and Metadata.” Specifically, we’re hoping to develop a simple way of using Twitter data for literary research. The project is still in its early stages, but we’ve been collecting a lot of data and are now beginning to visualize it (I’m particularly interested in the geolocation of tweets, so I’m trying out a few mapping options). In this post, I want to layout our methods for collecting Twitter data.

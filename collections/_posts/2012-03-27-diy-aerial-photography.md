@@ -4,11 +4,11 @@ date: 2012-03-27 15:00:24+00:00
 layout: post
 slug: diy-aerial-photography
 title: DIY Aerial Photography
-categories:
-- Announcements
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - gis
+- tutorial
 ---
 
 Here in the Scholars' Lab, we've been interested for some time in having the ability to take aerial photographs on a small scale.  Many great uses exist for such techniques here at UVa.  A landscape architect could use current, high resolution photos of a work site. An environmental science student may wish to see how things have changed along the shoreline over a short period of time.  For these researchers, paying for an aerial survey would be cost prohibitive and unlikely. Flying a kite or balloon with camera attached is relatively inexpensive and can create great results.

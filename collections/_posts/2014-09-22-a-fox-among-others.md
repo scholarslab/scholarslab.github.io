@@ -4,10 +4,11 @@ date: 2014-09-22 08:19:36+00:00
 layout: post
 slug: a-fox-among-others
 title: A Fox... Among Others
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- hello world
 ---
 
 _The fox knows many things, but the hedgehog knows one big thing._

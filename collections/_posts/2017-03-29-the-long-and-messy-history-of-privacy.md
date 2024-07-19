@@ -4,10 +4,9 @@ date: 2017-03-29 08:14:27+00:00
 layout: post
 slug: the-long-and-messy-history-of-privacy
 title: The Long and Messy History of Privacy
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - WLU Collab
 crosspost:
   - title: WLUDH blog

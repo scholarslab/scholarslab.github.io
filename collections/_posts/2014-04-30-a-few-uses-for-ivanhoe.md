@@ -4,9 +4,9 @@ date: 2014-04-30 14:00:30+00:00
 layout: post
 slug: a-few-uses-for-ivanhoe
 title: An Ivanhoe example and guidelines for getting started
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - games
 - Ivanhoe
 - praxis program

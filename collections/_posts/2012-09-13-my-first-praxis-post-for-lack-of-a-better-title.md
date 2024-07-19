@@ -4,9 +4,9 @@ date: 2012-09-13 11:39:31+00:00
 layout: post
 slug: my-first-praxis-post-for-lack-of-a-better-title
 title: My First Praxis Post (for lack of a better title)
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

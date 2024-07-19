@@ -4,11 +4,10 @@ date: 2009-09-10 12:48:47+00:00
 layout: post
 slug: digital-therapy-luncheon-september-2009
 title: Digital Therapy Luncheon September 2009
-categories:
-- Podcasts
 tags:
+- Podcasts
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 Introducing our 2009/10 Digital Humanities Fellows and Scholarship Award Winners

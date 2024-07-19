@@ -4,11 +4,11 @@ date: 2012-11-14 15:09:01+00:00
 layout: post
 slug: poster-abstract-and-code-camp
 title: Poster Abstract and Code Camp
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
+- code
 ---
 
 It's been a tad quiet on the blog front over the past couple weeks. Here is what the Praxis squad has been up to.

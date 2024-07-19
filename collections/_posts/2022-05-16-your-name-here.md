@@ -3,8 +3,8 @@ layout: post
 title: Your Name Here
 author: joseph-foley
 date: 2022-05-16
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
 ---
 

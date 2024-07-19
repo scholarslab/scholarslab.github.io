@@ -4,9 +4,9 @@ date: 2013-05-03 15:07:23+00:00
 layout: post
 slug: one-day-of-praxis
 title: One day of Praxis
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - photos
 - praxis program
 ---

@@ -4,7 +4,8 @@ date: 2012-05-31 14:23:08+00:00
 layout: post
 slug: learning-and-improving
 title: Learning and Improving
-categories:
+category: blog
+tags:
 - Research and Development
 ---
 

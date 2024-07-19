@@ -4,8 +4,10 @@ date: 2013-08-14 13:29:07+00:00
 layout: post
 slug: parsing-bc-dates-with-javascript
 title: Parsing BC dates with JavaScript
-categories:
+category: blog
+tags:
 - Research and Development
+- code
 crosspost:
   - title: dclure.org
     url: http://dclure.org/logs/parsing-bc-dates-with-javascript/

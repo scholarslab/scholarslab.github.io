@@ -4,7 +4,7 @@ date: 2024-06-25
 layout: post
 slug: applications-for-the-2025-2026-praxis-fellowship-cohort-now-open
 title: Applications For The 2025-2026 Praxis Fellowship Cohort Now Open
-type: Announcement
+category: announcement
 ---
 **Applications are now open for Praxis Fellowships to be held during the 2025-2026 academic year. Further details below about this application cycle, which has applications due November 1st, 2024.** Consider spending time with us next year!
 

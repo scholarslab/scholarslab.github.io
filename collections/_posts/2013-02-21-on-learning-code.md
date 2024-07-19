@@ -4,11 +4,12 @@ date: 2013-02-21 10:44:03+00:00
 layout: post
 slug: on-learning-code
 title: On Learning Code
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- rails
+- code
+- about-learning
 ---
 
 As we gear up for [Prism](http://prism.scholarslab.org) development proper, I have been trying to get up to speed with some coding basics so that I can hit the ground running. Here are the learning aids that I have found most useful over the past couple weeks. Nearly all of these materials can be found in the [Praxis Program's scratchpad](http://praxis.scholarslab.org).

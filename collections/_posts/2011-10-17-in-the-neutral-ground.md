@@ -4,9 +4,9 @@ date: 2011-10-17 22:35:19+00:00
 layout: post
 slug: in-the-neutral-ground
 title: In the Neutral Ground
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 ---

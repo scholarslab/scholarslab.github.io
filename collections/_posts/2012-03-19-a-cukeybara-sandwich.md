@@ -4,9 +4,9 @@ date: 2012-03-19 14:55:16+00:00
 layout: post
 slug: a-cukeybara-sandwich
 title: a cukeybara sandwich
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

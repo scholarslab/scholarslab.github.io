@@ -4,11 +4,10 @@ date: 2013-02-14 11:09:26+00:00
 layout: post
 slug: rails-is-kind-of-hard-to-get-up-and-running
 title: Rails is kind of hard to get up and running
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- rails
 ---
 
 To pile onto an overrused trope: for a web framework famed for its use of use, Rails (and maybe Ruby itself) are really surprisingly difficult to get up and running. In hindsight, the very existence of tools like RVM and Bundler to handle the management of Ruby environments and libraries is a bit of a hint. I've set up Prism twice now, on my old Thinkpad running Ubuntu Precise and now on my new Thinkpad running Ubuntu Quantal and I think I've had a bit of a different experience each time.

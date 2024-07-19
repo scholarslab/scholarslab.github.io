@@ -4,10 +4,9 @@ date: 2013-05-14 12:23:53+00:00
 layout: post
 slug: interactive-css-in-neatline-2-0
 title: Interactive CSS in Neatline 2.0
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- CSS
+- Geospatial and Temporal
 - neatline
 crosspost:
   - title: dclure.org

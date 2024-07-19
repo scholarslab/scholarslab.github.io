@@ -4,12 +4,10 @@ date: 2011-09-06 12:44:01+00:00
 layout: post
 slug: temporal-mapping-crowdsourcing-and-standardization
 title: Temporal mapping, crowdsourcing, and standardization
-categories:
-- Grad Student Research
+category: blog
 tags:
-- digital-work
+- Grad Student Research
 - praxis program
-- Praxis Program Week 2
 ---
 
 For my first DH project review, I picked the [Linguistic Atlas Projects](http://www.lap.uga.edu/) because I’m interested in regional dialect and linguistic change and because I liked the idea of a linguistic map that the name “linguistic atlas” invokes.  But when I looked closer at the site, I wanted to make it into more of a globe instead of just a collection of maps. Comparison across regions could be easier and less time-consuming for the user if the analyses had more overlap or formal standardization. Right now, each study appears differently on the website. Some provide analyses and some only provide data and a basic description. The [LAMSAS Density Estimations Maps](http://us.english.uga.edu/cgi-bin/lapsite.fcgi/lamsas/de-maps/) provide density across the region while the [LAPNW maps](http://us.english.uga.edu/cgi-bin/lapsite.fcgi/lapnw/maps/) provide isolated community locations, and these two analyses map none of the same terms. The extensive data files show many similar questions and terms, so coming up with similar analyses would not require additional research. I know we’re only supposed to suggest a single change, but I want to suggest an additional change that would also serve the goal of more extensive and accessible comparisons, this time within regions instead of just between them. Much of the data is already dated, so newer surveys would make for a more current version of the Atlas as it is, and they would also give these linguistic maps an additional dimension by allowing for comparisons over time. Users could see how dialects are changing within and across regions and demographic groups.  I realize this isn’t so much a shortcoming of the project as much as it is a next step it could take, and with Scholars’ Lab developing [Neatline](http://www2.scholarslab.org/about/projects.html#project-detail) , Linguistic Atlas might be a good candidate for an update.

@@ -4,10 +4,9 @@ date: 2018-01-12 09:52:37+00:00
 layout: post
 slug: spring-2018-uva-library-gis-workshop-series
 title: Spring 2018 UVa Library GIS Workshop Series
-categories:
+category: announcement
+tags:
 - Geospatial and Temporal
-- Research and Development
-- Technical Training
 ---
 
 All sessions are one hour and assume participants have no previous experience using GIS.  Sessions will be hands-on with step-by-step tutorials and expert assistance.  All sessions will be held on **Tuesdays from 10AM to 11AM in the Alderman Electronic Classroom, ALD 421** (adjacent to the Scholars’ Lab) and are free and open to the UVa and larger Charlottesville community.  No registration, just show up!

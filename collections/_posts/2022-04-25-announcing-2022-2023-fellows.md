@@ -4,7 +4,7 @@ date: 2022-04-25
 layout: post
 slug: announcing-2022-2023-fellows
 title: Announcing 2022-2023 Fellows
-type: Announcement
+category: announcement
 ---
 We are thrilled to announce the 2022-2023 Scholar’s Lab fellows for the Praxis Program and the Graduate Fellowship in the Digital Humanities. We are welcoming 7 fellows from 6 disciplines from the arts, humanities, and social sciences. Our graduate fellows are joining a robust and vibrant community of past students!
 

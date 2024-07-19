@@ -4,11 +4,10 @@ date: 2012-08-29 09:55:07+00:00
 layout: post
 slug: using-neatline-with-historical-maps-geoserver
 title: 'Using Neatline with historical maps :: Part 3 - GeoServer'
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- arcmap
-- geospatial
+- Geospatial and Temporal
+- ESRI
 - gis
 - neatline
 crosspost:

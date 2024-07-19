@@ -5,11 +5,13 @@ date: 2022-01-14
 layout: post
 slug: workshop-zine-translation
 title: Zine-making as Critical DH Pedagogy  
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - pedagogy
 - zines
+- praxis program
+- pedagogy
 ---
 
 Last semester (sorry, this post is super late) during our pedagogy unit, I and my fellow Praxis fellows were tasked with creating our own digital humanities teaching workshops, with the challenge that the workshops use only pencil and paper, no digital technology, to complete. Our cohort’s ultimate objective for the year is to create an open educational resource (OER) to teach coding to humanists, and the pedagogy unit helped us identify the pedagogical approaches we want to bring to the project. 

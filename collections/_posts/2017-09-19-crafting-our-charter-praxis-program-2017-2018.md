@@ -4,12 +4,13 @@ date: 2017-09-19 11:28:11+00:00
 layout: post
 slug: crafting-our-charter-praxis-program-2017-2018
 title: Crafting Our Charter - Praxis Program 2017-2018
+category: blog
 tags:
 - charter
-- graduate training
+- pedagogy
 - praxis program
 - project-management
-- about-collaboration
+- about-collaboration-community
 ---
 
 As a historian, when I think of charters, the first things I think of are royal charters.

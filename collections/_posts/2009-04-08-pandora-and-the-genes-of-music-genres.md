@@ -4,7 +4,8 @@ date: 2009-04-08 16:23:39+00:00
 layout: post
 slug: pandora-and-the-genes-of-music-genres
 title: Pandora and the "genes" of music genres
-categories:
+category: blog
+tags:
 - Visualization and Data Mining
 ---
 

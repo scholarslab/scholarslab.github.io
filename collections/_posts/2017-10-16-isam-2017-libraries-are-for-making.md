@@ -4,10 +4,9 @@ date: 2017-10-16 14:47:00+00:00
 layout: post
 slug: isam-2017-libraries-are-for-making
 title: ISAM 2017 - Libraries are for making
-categories:
-- Experimental Humanities
-- Makerspace
-- Research and Development
+category: blog
+tags:
+- makerspace
 ---
 
 I recently participated in the International Symposium of Academic Makerspaces. I presented a paper, co-authored by [Jennifer Grayburn](https://jennifergrayburn.com/) (formerly a Makerspace Technologist, and now at Temple University's [Digital Scholarship Center](https://sites.temple.edu/tudsc/)). I present here the slides and talking notes of the 7 minute presentation, and a link to the full paper [[Link to PDF](http://static.scholarslab.org/wp-content/uploads/2017/10/Grayburn-Shepherd-Final.pdf)].

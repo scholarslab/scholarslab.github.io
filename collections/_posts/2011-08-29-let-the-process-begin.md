@@ -4,9 +4,9 @@ date: 2011-08-29 21:21:02+00:00
 layout: post
 slug: let-the-process-begin
 title: 'Let the process begin:'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 ---

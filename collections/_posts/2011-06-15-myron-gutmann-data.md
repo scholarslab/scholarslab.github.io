@@ -4,11 +4,10 @@ date: 2011-06-15 12:35:44+00:00
 layout: post
 slug: myron-gutmann-data
 title: Myron Gutmann, "Data Access for Research and Teaching in the Twenty-First Century"
-categories:
-- Podcasts
 tags:
+- Podcasts
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 ### Data Access for Research and Teaching in the Twenty-First Century

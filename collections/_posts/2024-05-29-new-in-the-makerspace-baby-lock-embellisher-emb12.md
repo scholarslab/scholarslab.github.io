@@ -4,13 +4,11 @@ date: 2024-05-29
 layout: post
 slug: new-in-the-makerspace-baby-lock-embellisher-emb12
 title: "New in the Makerspace: Baby Lock Embellisher EMB12"
-categories:
-- Makerspace
+category: announcement
 tags:
-- embellisher
-- felting
-- textiles
-- equipment
+- makerspace
+- fabric arts
+- expansive makerspace
 ---
 ![](/assets/post-media/2024-05-29-embellisher/IMG_5063.jpg)
 

@@ -4,6 +4,7 @@ date: 2023-07-03
 layout: post
 slug: the-shape-of-dh-work
 title: The Shape Of DH Work
+category: blog
 tags:
 - pedagogy
 crosspost:

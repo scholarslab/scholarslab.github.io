@@ -4,9 +4,9 @@ date: 2013-02-26 13:53:00+00:00
 layout: post
 slug: neatline-and-omeka-2
 title: Neatline and Omeka 2.0
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - neatline
 - omeka
 crosspost:

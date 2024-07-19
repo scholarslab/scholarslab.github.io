@@ -4,9 +4,7 @@ date: 2011-03-04 12:37:38+00:00
 layout: post
 slug: workshop-data-visualization
 title: 'Workshop: Data Visualization'
-categories:
-- Announcements
-type: Announcement
+category: announcement
 ---
 
 ### Workshop: An Introduction to VIDI

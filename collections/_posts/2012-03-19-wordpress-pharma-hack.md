@@ -4,11 +4,10 @@ date: 2012-03-19 10:04:42+00:00
 layout: post
 slug: wordpress-pharma-hack
 title: WordPress Pharma Hack
-categories:
-- Research and Development
+category: blog
 tags:
-- hacks
-- wordpress
+- Research and Development
+- web development
 ---
 
 A few weeks ago I was walking to my car and was copied on an email from the director of the IT department for the UVa Library:

@@ -4,9 +4,9 @@ date: 2013-01-16 12:06:34+00:00
 layout: post
 slug: but-i-dont-like-programming-gender-and-our-division-of-labor
 title: '...but I don''t like programming: gender and our division of labor'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

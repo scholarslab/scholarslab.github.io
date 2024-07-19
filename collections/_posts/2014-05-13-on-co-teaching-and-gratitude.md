@@ -4,11 +4,10 @@ date: 2014-05-13 12:06:32+00:00
 layout: post
 slug: on-co-teaching-and-gratitude
 title: On co-teaching and gratitude
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
-- teaching
+- Grad Student Research
+- pedagogy
 - WLU Collab
 ---
 

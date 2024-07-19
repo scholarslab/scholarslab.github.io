@@ -4,14 +4,11 @@ date: 2012-02-19 18:00:18+00:00
 layout: post
 slug: commentary-on-migrating-an-omeka-site
 title: Commentary on Migrating an Omeka Site
-categories:
-- Research and Development
+category: blog
 tags:
-- migration
+- Research and Development
 - omeka
-- Programming
-- TEI
-- TEIDisplay
+- code
 ---
 
 This week, for the TEIDisplay project, I migrated an existing Omeka installation to another server for Carin and me to use as our development sandbox. (We could have also locally installed an Omeka collection on our computers, but I wanted to make sure we were always wading through the same river.)

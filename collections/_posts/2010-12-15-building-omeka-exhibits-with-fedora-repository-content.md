@@ -4,15 +4,10 @@ date: 2010-12-15 13:53:53+00:00
 layout: post
 slug: building-omeka-exhibits-with-fedora-repository-content
 title: Building Omeka Exhibits with Fedora Repository Content
-categories:
-- Research and Development
+category: blog
 tags:
-- Digital Libraries
-- fedora
+- Research and Development
 - omeka
-- plugins
-- solr
-- TEI
 ---
 
 Our NEH-funded [Neatline](http://www.scholarslab.org/projects/neatline/) project has inspired the [Scholars' Lab](http://library.virginia.edu) to develop or enhance several new [Omeka](http://www.omeka.org) plugins recently. (See our full [list](http://www.scholarslab.org/projects/omeka-plugins/).)

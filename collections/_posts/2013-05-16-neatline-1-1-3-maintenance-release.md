@@ -4,9 +4,9 @@ date: 2013-05-16 16:17:57+00:00
 layout: post
 slug: neatline-1-1-3-maintenance-release
 title: Neatline 1.1.3 Maintenance Release
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - neatline
 ---
 

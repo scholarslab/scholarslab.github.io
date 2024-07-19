@@ -4,14 +4,12 @@ date: 2012-11-16 09:12:59+00:00
 layout: post
 slug: ruby-cat-poem
 title: Ruby Cat Poem
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - cats
-- poetry
 - praxis program
-- Programming
-- ruby
+- code
 ---
 
 AA                  line

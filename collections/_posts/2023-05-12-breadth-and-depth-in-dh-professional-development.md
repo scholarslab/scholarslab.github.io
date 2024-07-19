@@ -4,6 +4,7 @@ date: 2023-05-12
 layout: post
 slug: breadth-and-depth-in-dh-professional-development
 title: Breadth And Depth in DH Professional Development
+category: blog
 tags:
 - professional development
 crosspost:

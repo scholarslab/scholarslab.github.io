@@ -4,14 +4,14 @@ date: 2012-05-14 09:17:47+00:00
 layout: post
 slug: spatial-in-the-scholars-lab-spring-2012
 title: 'Spatial In the Scholars’ Lab: Spring 2012'
-categories:
+tags:
 - Geospatial and Temporal
 - Grad Student Research
-tags:
 - gis
-- howto
+- tutorial
 - map
 - workshop
+category: blog
 ---
 
 With classes over and finals behind us, let's look back on the Spring 2012 semester with a spatial eye.  Yes, January-May was a very mappy time in the Scholars’ Lab!

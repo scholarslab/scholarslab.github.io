@@ -4,8 +4,9 @@ date: 2016-12-13 10:42:33+00:00
 layout: post
 slug: the-state-of-dh-in-slavic-studies-by-kathleen-thompson
 title: "The state of DH in Slavic Studies, by Kathleen Thompson"
-categories:
-- Makerspace
+category: blog
+tags:
+- makerspace
 ---
 
 In a final wrap up, of what has become a four-part series of blog posts on using 3D-printing in a humanities course, Kathleen Thompson reports back on the ASEEES conference and the state of DH in Slavic studies.

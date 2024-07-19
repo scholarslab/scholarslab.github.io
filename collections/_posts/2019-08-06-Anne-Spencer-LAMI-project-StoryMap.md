@@ -4,11 +4,13 @@ date: 2019-08-06
 layout: post
 slug: Anne-Spencer-LAMI-project-StoryMap
 title: "Harlem in Lynchburg: Stories about Space in a Summer Internship and the Jim Crow South"
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Architectural History
+- Geospatial and Temporal
 - LAMI 
-- racial justice
+- race
+- literature
 ---
 
 On July 25, I presented a paper that I had proposed in November for the ACH 2019 Conference in Pittsburgh, long before I had even heard of my co-author, Aleyshka Estevez Quintana, an English major at the University of Puerto Rico. It was too late to change the program, and anyway Aleyshka, one of the small group of undergraduates of color sponsored for a summer of research training under the Leadership Alliance Mellon Initiative (LAMI), couldn’t have come to Pittsburgh because she was presenting her own research on electronic literature and geolocated narratives at the LANS national conference. Only because I had the good fortune to work with Aleyshka as my mentee in June and July did I have anything more than wishful thinking to present in Pittsburgh. Thanks to Aleyshka, and the willing experts in the Scholars’ Lab, the future tense could shift to more confident "we have prototyped" our approaches to augmenting the collections associated with [Anne Spencer, the Harlem Renaissance poet](http://annespencermuseum.com/annespencerhome2012.php).  

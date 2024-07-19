@@ -4,10 +4,9 @@ date: 2014-09-16 09:59:03+00:00
 layout: post
 slug: the-digital-sea-of-exchange
 title: 'The Digital Sea of Exchange '
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

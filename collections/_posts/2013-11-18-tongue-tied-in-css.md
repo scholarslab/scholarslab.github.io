@@ -4,9 +4,9 @@ date: 2013-11-18 12:15:14+00:00
 layout: post
 slug: tongue-tied-in-css
 title: Tongue-tied in CSS
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
 - praxis program
 ---

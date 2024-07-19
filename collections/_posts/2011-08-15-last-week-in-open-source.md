@@ -4,7 +4,8 @@ date: 2011-08-15 09:42:51+00:00
 layout: post
 slug: last-week-in-open-source
 title: Last week in Open Source
-categories:
+category: blog
+tags:
 - Research and Development
 ---
 

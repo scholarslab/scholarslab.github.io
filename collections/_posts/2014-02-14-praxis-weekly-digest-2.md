@@ -4,9 +4,9 @@ date: 2014-02-14 11:00:02+00:00
 layout: post
 slug: praxis-weekly-digest-2
 title: 'Praxis Weekly Digest #2'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
 - Ivanhoe
 - praxis program

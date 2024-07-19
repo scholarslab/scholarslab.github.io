@@ -4,9 +4,9 @@ date: 2018-09-05 14:41:30+00:00
 layout: post
 slug: fall-2018-maker-code-workshop-series
 title: Fall 2018 Maker & Code Workshop Series
-categories:
-- Makerspace
-- Technical Training
+category: announcement
+tags:
+- makerspace
 redirect_from:
   - /makerspace/fall-2018-maker-code-workshop-series
 ---

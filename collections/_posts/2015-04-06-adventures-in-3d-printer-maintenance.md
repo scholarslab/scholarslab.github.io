@@ -4,13 +4,10 @@ date: 2015-04-06 15:38:42+00:00
 layout: post
 slug: adventures-in-3d-printer-maintenance
 title: Adventures in 3D Printer Maintenance
-categories:
-- Experimental Humanities
+category: blog
 tags:
 - 3D printing
-- makerbot
-- repair
-- replicator
+- makerspace
 ---
 
 Recently, the fan on the bottom of our Makerbot Replicator Dual Extruder began to make some unhealthy noises. Per SLab desk protocol, the first attempt at a remedy was to smack the thing near where it was making the noise, which made it go away for a little while. Eventually, we got tired of hitting our printer every time we started it up, so I took off the bottom panel to oil the cheap 40mm case fan within. Here's what I found.

@@ -4,9 +4,9 @@ date: 2013-05-06 14:06:03+00:00
 layout: post
 slug: on-tasks-large-and-small
 title: On Tasks Large and Small
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

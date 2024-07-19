@@ -4,11 +4,9 @@ date: 2012-09-20 15:26:34+00:00
 layout: post
 slug: on-not-knowing
 title: On Not Knowing
-categories:
-- Grad Student Research
+category: blog
 tags:
-- CSS
-- HTML
+- Grad Student Research
 - praxis program
 ---
 

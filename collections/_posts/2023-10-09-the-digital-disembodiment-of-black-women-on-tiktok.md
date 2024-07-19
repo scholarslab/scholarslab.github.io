@@ -4,10 +4,11 @@ date: 2023-10-09
 layout: post
 slug: the-digital-disembodiment-of-black-women-on-tiktok
 title: The Digital Disembodiment Of Black Women On Tiktok
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - social media
+- race
 ---
 
 With the rise of TikTok over the past few years, I must admit, my screen time has increased dramatically. What I enjoy most about TikTok is turning off my 'academic' brain (for a shameful amount of time) to mindlessly watch funny and relatable videos that help me momentarily forget all my worries. Nonetheless, as someone whose research interests include gender, Black being, and the afterlife of slavery, it has been difficult to ignore how certain groups of people experience, and are represented on, social media platforms like TikTok. I have been disappointed to come across videos where Black women are digitally appropriated, as well as 'fragmented,' in people's digital consumption.

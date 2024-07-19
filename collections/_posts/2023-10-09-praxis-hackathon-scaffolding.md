@@ -4,8 +4,10 @@ date: 2023-10-09
 layout: post
 slug: praxis-hackathon-scaffolding
 title: Praxis Hackathon Scaffolding
+category: blog
 tags:
 - praxis program
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/praxis-hackathon-scaffolding

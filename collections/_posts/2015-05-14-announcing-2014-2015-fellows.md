@@ -4,7 +4,7 @@ date: 2015-05-14 11:55:21+00:00
 layout: post
 slug: announcing-2015-2016-fellows
 title: Announcing 2015-2016 Fellows!
-type: Announcement
+category: announcement
 ---
 
 We are thrilled to announce the 2015-2016 Scholar's Lab fellows for both the [Praxis Program](http://praxis.scholarslab.org/) and the [Graduate Fellowship in the Digital Humanities](http://scholarslab.org/graduate-fellowships/). We are welcoming 8 fellows from 5 disciplines from the [arts, humanities, and social sciences](http://gsas.virginia.edu/). Our graduate fellows are joining a robust and vibrant community of [past fellows](http://scholarslab.org/people/)!

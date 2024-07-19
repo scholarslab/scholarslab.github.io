@@ -4,12 +4,10 @@ date: 2015-06-29 10:59:37+00:00
 layout: post
 slug: todo-introduce-code-concepts
 title: //TODO - Introduce Code Concepts
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - code
-- CoffeeScript
-- software
 ---
 
 One of the most fun (and challenging) things I get to do is to introduce people to programming concepts. I've done this in a lot of different environments ranging from intensive week-long courses with [Humanities Intensive Learning and Training](http://www.dhtraining.org/hilt2015/), to year-long apprenticeships our [Praxis Program](http://praxis.scholarslab.org), to day-long intros with events like [Rails Girls](http://railsgirls.com/) and [Rails Bridge](http://www.railsbridge.org/). All of these have different trade offs in getting people introduced to writing for computers (software development). But one of the best ways I've found to work with someone who is interested in learning about how to write software is [pair programming](https://en.wikipedia.org/wiki/Pair_programming), and it's something that is done in the Scholars' Lab a lot (though I don't get to do as much as I would like).

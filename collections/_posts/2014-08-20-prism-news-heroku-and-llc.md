@@ -4,8 +4,10 @@ date: 2014-08-20 08:57:54+00:00
 layout: post
 slug: prism-news-heroku-and-llc
 title: Prism News - Heroku and LLC
-categories:
+category: blog
+tags:
 - Grad Student Research
+- prism
 crosspost:
   - title: my personal site
     url: http://walshbr.com/blog/prism-heroku/

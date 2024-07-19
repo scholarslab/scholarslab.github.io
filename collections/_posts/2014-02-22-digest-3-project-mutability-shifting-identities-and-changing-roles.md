@@ -4,13 +4,13 @@ date: 2014-02-22 15:18:47+00:00
 layout: post
 slug: digest-3-project-mutability-shifting-identities-and-changing-roles
 title: '(Digest #3) Project mutability: shifting identities and changing roles'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 - project-management
-- about-collaboration
+- about-collaboration-community
 ---
 
 This week was full of excitement.  Our Development Team continued working on getting [Ivanhoe](http://www.ivanhoegame.org/?page_id=21) up and running; they will be presenting the working [WP Theme](http://wordpress.org/themes/) to our Praxis team this Tuesday.

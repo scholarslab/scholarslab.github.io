@@ -4,12 +4,10 @@ date: 2012-08-20 09:24:20+00:00
 layout: post
 slug: using-neatline-with-historical-maps-georeferencing
 title: 'Using Neatline with historical maps :: Part 1 - Georeferencing'
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- arcmap
-- geoserver
-- geospatial
+- Geospatial and Temporal
+- ESRI
 - gis
 - neatline
 crosspost:

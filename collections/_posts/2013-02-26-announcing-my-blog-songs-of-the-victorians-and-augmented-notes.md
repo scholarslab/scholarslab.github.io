@@ -4,9 +4,11 @@ date: 2013-02-26 13:37:34+00:00
 layout: post
 slug: announcing-my-blog-songs-of-the-victorians-and-augmented-notes
 title: Announcing My Blog, Songs of the Victorians, and Augmented Notes
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
+- music
 ---
 
 I've been having an excellent and productive time as a Scholars' Lab Fellow: thanks to the amazing advice and support I've received from the Scholars' Lab staff, I've been making good progress on my two digital projects, [Songs of the Victorians](http://www.songsofthevictorians.com/) and Augmented Notes. For those of you who don't know about them, I'll give you a brief summery:

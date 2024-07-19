@@ -4,11 +4,10 @@ date: 2011-09-19 07:47:31+00:00
 layout: post
 slug: on-interventions
 title: on interventions
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- requirements-gathering
 ---
 
 I started to write this as a comment on [Lindsay's latest post](http://www.scholarslab.org/praxis-program/imagining-end-users-for-requirements-gathering/), but then thought I should boost it a bit, so that it becomes a part of the overall conversation about next steps for Prism.

@@ -4,9 +4,9 @@ date: 2013-04-26 12:13:59+00:00
 layout: post
 slug: scholars-lab-speaker-series-shawn-graham
 title: 'Scholars'' Lab Speaker Series: Shawn Graham'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Scholars' Lab Speaker Series: Shawn Graham**

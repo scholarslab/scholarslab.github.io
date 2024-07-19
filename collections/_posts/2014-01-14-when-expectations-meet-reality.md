@@ -4,12 +4,11 @@ date: 2014-01-14 10:45:06+00:00
 layout: post
 slug: when-expectations-meet-reality
 title: 'When expectations meet reality '
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Gradstudent Life
 - praxis program
-- Working Mom
 ---
 
 As with the beginning of any new year, 2014 brings with it high hopes. When the clock struck 12:01, I turned to my husband and said that one of my professional new years resolutions is to be "more productive." But as I reflect a bit more on this goal, it got me thinking, how much more productive can I actually be? This year in addition to taking on this Praxis Fellowship and TAing for the Media Studies Department (approximately 80 students each semester) I am trying to complete/defend my dissertation proposal. Since I'm finally done with coursework, I thought this year was going to be a breeze! Of course, I didn't quite consider the _reality_ of my situation - in addition to all of these professional responsibilities I was taking on another large undertaking...raising my son who was born on July 23, 2013. _Insert on-going (and extremely convoluted) debate on [if women can really have it all.](http://www.theatlantic.com/magazine/archive/2012/07/why-women-still-cant-have-it-all/309020/)_

@@ -6,7 +6,7 @@ slug: job-opening-curious-about-focusing-on-dh-development
 title: 'Job Opening: Curious about focusing on DH development?'
 tags:
 - staffing
-type: Announcement
+category: announcement
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2017/06/27/inclusive-tech-hiring-digital-humanities-developer

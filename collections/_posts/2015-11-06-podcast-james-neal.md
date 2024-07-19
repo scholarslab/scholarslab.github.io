@@ -4,9 +4,9 @@ date: 2015-11-06 10:40:39+00:00
 layout: post
 slug: podcast-james-neal
 title: 'Podcast: James Neal'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Practicing Digital Humanities Speaker Series: James Neal**

@@ -4,11 +4,9 @@ date: 2012-09-26 10:00:37+00:00
 layout: post
 slug: ignoring-your-first-child
 title: Ignoring your First Child
-categories:
-- Research and Development
+category: blog
 tags:
-- browser support
-- CSS
+- Research and Development
 ---
 
 And no, I'm not talking about human children. I'm talking about CSS selectors!

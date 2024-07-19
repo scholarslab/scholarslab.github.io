@@ -4,11 +4,9 @@ date: 2011-05-02 11:42:01+00:00
 layout: post
 slug: welcoming-david-mcclure
 title: Welcoming David McClure!
-categories:
-- Announcements
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 [![](http://static.scholarslab.org/wp-content/uploads/2011/05/pic.jpg)](http://www.scholarslab.org/announcements/welcoming-david-mcclure/attachment/pic/)

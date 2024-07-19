@@ -5,13 +5,11 @@ date: 2019-07-02 14:10:35
 layout: post
 slug: make-a-3D-keychain
 title: "Make a 3D Printed Holder Thingy for Your Keychain"
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
 - 3D printing
 - 3D modeling
-- TinkerCAD
-- Prusa Printer
 - design
 ---
 ![3D Printed Keychain](/assets/post-media/2019-07-02-make-a-3D-keychain/on-the-keychain.jpg)

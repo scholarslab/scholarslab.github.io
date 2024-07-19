@@ -4,9 +4,9 @@ date: 2013-04-17 11:14:14+00:00
 layout: post
 slug: matrix-time
 title: matrix time
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis prism
 - praxis program
 ---

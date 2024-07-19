@@ -4,9 +4,13 @@ date: 2019-01-15
 layout: post
 slug: site-relaunch
 title: Website relaunch!
+category: blog
 tags:
 - jekyll
 - mincomp
+- labor
+- code
+- design
 ---
 
 We're happy to announce that our Lab website has a new look and feel, all aimed at making Scholars' Lab more accessible and the site more useful. The website [ScholarsLab.org](http://scholarslab.org) represents the collective effort of our [staff and collaborators](/people), past and present. It's existed in multiple forms: most recently, as a WordPress site and now, as of this blog post, as a Jekyll-generated static website.

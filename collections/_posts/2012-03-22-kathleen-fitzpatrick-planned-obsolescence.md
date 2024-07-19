@@ -4,9 +4,9 @@ date: 2012-03-22 11:19:56+00:00
 layout: post
 slug: kathleen-fitzpatrick-planned-obsolescence
 title: 'Kathleen Fitzpatrick: Planned Obsolescence'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Kathleen Fitzpatrick**

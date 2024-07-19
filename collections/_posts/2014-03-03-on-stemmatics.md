@@ -4,15 +4,11 @@ date: 2014-03-03 10:00:10+00:00
 layout: post
 slug: on-stemmatics
 title: On Stemmatics
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
-- CSS
+- Grad Student Research
 - design
-- Digital Humanities
-- git
-- graduate training
+- pedagogy
 - Ivanhoe
 - praxis program
 ---

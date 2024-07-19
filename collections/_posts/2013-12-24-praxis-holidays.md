@@ -4,13 +4,11 @@ date: 2013-12-24 22:42:38+00:00
 layout: post
 slug: praxis-holidays
 title: Praxis Holidays
-categories:
-- Grad Student Research
+category: blog
 tags:
-- CSS
-- development
+- Grad Student Research
+- code
 - praxis program
-- wireframes
 ---
 
 Just before we departed for the break, Stephanie and I met with Jeremy to talk over some of our wireframes for Ivanhoe.  (Stephanie discussed our wireframing process in [her post](http://www.scholarslab.org/grad-student-research/turning-points-in-praxis-new-roles-wire-frames-and-programming-languages/).)  “Right,” Jeremy told us.  “You’re going to want to clone the files that I’ve already created and start from there.”

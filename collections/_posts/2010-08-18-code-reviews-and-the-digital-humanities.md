@@ -19,14 +19,11 @@ excerpt: 'The following was a response I made in an email exchange with Tom Elli
 layout: post
 slug: code-reviews-and-the-digital-humanities
 title: Code Reviews and the Digital Humanities
-categories:
-- Digital Humanities
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - best practices
 - code review
-- Digital Humanities
-- testing
 ---
 
 The following was a response I made in an email exchange with Tom Elliot of the [Pleiades Project](http://pleiades.stoa.org/) and Bethany Nowviskie. Our conversation was prompted by Tom's inquiry on planning, budgeting for, and conducting a code review as part of a grant-funded project. What follows is a slightly modified (and expanded) version of that email conversation.

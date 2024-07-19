@@ -4,11 +4,10 @@ date: 2011-09-20 12:57:41+00:00
 layout: post
 slug: prism-is-looking-for-john-connor
 title: Prism is looking for John Connor
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- requirements-gathering
 ---
 
 It seems the text mining issue has struck a chord with our group, so I will jump in as well. Specifically, I want to refer to Sarah’s thought that the potential danger lies with the scholar interpreting the data prism could potentially collect, not with “the machine.” This allows us to do what comes natural in the humanities: critique the conclusions a scholar makes when they attempt to make use of the data that Prism “collects.” There is a well established system in place that – especially given the growing understanding of DH processes among humanities scholars – can “sift” through scholarship that uses a tool like Prism to make poorly supported conclusions.

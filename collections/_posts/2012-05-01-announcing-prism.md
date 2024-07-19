@@ -4,10 +4,10 @@ date: 2012-05-01 09:07:44+00:00
 layout: post
 slug: announcing-prism
 title: Announcing Prism!
-categories:
-- Grad Student Research
+category: blog
 tags:
-- graduate training
+- Grad Student Research
+- pedagogy
 - praxis program
 - Prism
 ---

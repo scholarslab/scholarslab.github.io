@@ -4,7 +4,8 @@ date: 2011-02-17 09:41:15+00:00
 layout: post
 slug: dh-dev-links-for-214
 title: DH Dev Links for 2/14
-categories:
+category: blog
+tags:
 - Research and Development
 ---
 

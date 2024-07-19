@@ -4,10 +4,9 @@ date: 2008-11-13 12:09:14+00:00
 layout: post
 slug: place-space-maps-and-more-on-gis-day
 title: Place, Space, Maps, and More on GIS Day
-categories:
-- Announcements
+tags:
 - Geospatial and Temporal
-type: Announcement
+category: announcement
 ---
 
 <!-- ![From David Rumsey Map Collection](http://people.virginia.edu/~jfg9x/va-md-de.jpg) -->

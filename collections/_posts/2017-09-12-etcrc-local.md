@@ -4,10 +4,9 @@ date: 2017-09-12 13:32:11+00:00
 layout: post
 slug: etcrc-local
 title: /etc/rc.local
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - UVA Reveal
 ---
 

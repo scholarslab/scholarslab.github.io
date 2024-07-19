@@ -4,9 +4,9 @@ date: 2013-04-30 11:42:12+00:00
 layout: post
 slug: team-praxis
 title: Team Praxis!
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

@@ -4,17 +4,13 @@ date: 2012-11-07 14:45:34+00:00
 layout: post
 slug: forking-fetching-pushing-pulling
 title: Forking, Fetching, Pushing, Pulling
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
-- development
-- forking
-- git
-- Github
-- open source
+- code
 - praxis program
-- pull requests
+- tutorial
 redirect_from:
   - /dh-developer/forking-fetching-pushing-pulling
 ---

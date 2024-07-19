@@ -4,9 +4,9 @@ date: 2013-07-29 11:19:10+00:00
 layout: post
 slug: scholars-lab-speaker-series-james-smithies
 title: 'Scholars'' Lab Speaker Series: James Smithies'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Speaker Series Brown Bag: James Smithies**

@@ -4,14 +4,12 @@ date: 2011-09-20 10:55:31+00:00
 layout: post
 slug: introducing-our-digital-work-songs-of-the-victorians
 title: 'Introducing Our Digital Work: “Songs of the Victorians” '
-categories:
-- Grad Student Research
+category: blog
 tags:
-- digital-work
+- Grad Student Research
 - Literature
 - Music
 - praxis program
-- Victorian
 ---
 
 In response to [Ed’s suggestion](http://www.scholarslab.org/praxis-program/getting-to-know-our-praxis-peers-samples-of-our-digital-work/) that we introduce ourselves and our digital work, I thought I would spend some time explaining my own project on Victorian musical settings of Victorian poems, which I developed through the NINES fellowship program here at UVa.

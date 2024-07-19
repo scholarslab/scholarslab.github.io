@@ -4,12 +4,9 @@ date: 2012-01-23 14:51:32+00:00
 layout: post
 slug: why-i-love-project-management
 title: Why I love project management
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
-- dhsi
-- Digital Humanities
+- Grad Student Research
 - praxis program
 - Prism
 - project-management

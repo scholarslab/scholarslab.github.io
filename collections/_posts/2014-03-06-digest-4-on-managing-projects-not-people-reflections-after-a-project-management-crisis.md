@@ -4,9 +4,9 @@ date: 2014-03-06 10:00:20+00:00
 layout: post
 slug: digest-4-on-managing-projects-not-people-reflections-after-a-project-management-crisis
 title: '(Digest #4) On managing projects, not people'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 - project-management

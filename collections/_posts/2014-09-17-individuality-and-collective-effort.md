@@ -4,10 +4,11 @@ date: 2014-09-17 11:46:39+00:00
 layout: post
 slug: individuality-and-collective-effort
 title: Individuality and Collective Effort
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- hello world
 ---
 
 Hey everyone! My name is Steven Lewis. I’m a second-year Ph.D. candidate in Music. My research interests include late 20th century jazz neoclassicism, early jazz, and 19th century African-American secular music. In my most recent project, I explored jazz performance as a means of constructing counternarratives of black American music history. I earned a BA in Jazz Saxophone, and I see my practice as an improviser as an important extension of my research.

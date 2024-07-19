@@ -10,14 +10,12 @@ excerpt: In our work on Neatline, we have made a deliberate choice to start by r
 layout: post
 slug: wms-vs-tilecaching
 title: WMS vs. tilecaching
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
 - gis
-- historic
 - map
-- plugins
 ---
 
 In our work on [Neatline](http://neatline.org/), we have made a deliberate choice to start by constraining ourselves to map-sources that are quickly and easily provided through [WMS](http://www.opengeospatial.org/standards/wms). This leaves out (for now) two popular sources of map imagery; [Google Maps](http://maps.google.com/) and [Open Street Map](http://www.openstreetmap.org/). I'm going to explain why we made that choice, and why, when we do come to make these sources usable with Neatline, we will do so with great care and with an eye to scholarly method.  <!-- more -->

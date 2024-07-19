@@ -4,13 +4,12 @@ date: 2011-11-09 20:16:46+00:00
 layout: post
 slug: building-prism-the-darker-side-of-the-enlightenment-spectrum
 title: 'Building Prism: The Darker Side of the Enlightenment Spectrum'
-categories:
-- Grad Student Research
+category: blog
 tags:
-- Data Model
+- Grad Student Research
 - praxis program
 - Prism
-- Programming
+- code
 ---
 
 It’s finally happened&mdash;we’ve had our first setback. We knew from the start that we would probably have to scratch much of our data model, but we didn’t entirely understand why. Now we do. Apparently our model doesn’t allow for saving a highlighting session; every new visitor’s data would replace the previous entries. Also, in order to enable any sort of interaction with the text (uploading, highlighting, etc.), we need to create a user model. These are only some of the reasons that our original data model needs to be trashed.

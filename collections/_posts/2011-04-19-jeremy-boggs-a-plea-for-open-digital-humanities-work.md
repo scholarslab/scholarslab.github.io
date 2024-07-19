@@ -4,9 +4,9 @@ date: 2011-04-19 12:58:54+00:00
 layout: post
 slug: jeremy-boggs-a-plea-for-open-digital-humanities-work
 title: 'Jeremy Boggs: A Plea for Open Digital Humanities Work'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 Hello there, Scholars' Lab fans!

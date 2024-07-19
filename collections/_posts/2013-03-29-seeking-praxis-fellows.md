@@ -6,7 +6,7 @@ slug: seeking-praxis-fellows
 title: 'Call for Applicants: Praxis Program Fellows'
 tags:
 - praxis program
-type: Announcement
+category: announcement
 ---
 
 ![](http://static.scholarslab.org/images/praxis-program-logo.png)

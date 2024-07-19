@@ -4,12 +4,11 @@ date: 2013-01-29 11:31:52+00:00
 layout: post
 slug: gendering-praxis
 title: Gendering Praxis
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Gender
 - praxis program
-- TransformDH
 ---
 
 As we embark on the next semester of the Praxis Program we have begun to think about our “roles” in the Prism project.  This has led to a surprising rush of gender feelings.  Parts of these feelings feel too second-wave feministy to be appropriate in this day and age, but regardless I find myself frustrated with myself for fitting into certain gendered tropes.  We have six people in our Praxis cohort, three are men and three are women and two of these men have previous experience in the coding/programming world.  Thus as we assign jobs I find myself gravitating towards design, project management, outreach and community engagement.  While the rest of the positions have yet to be assigned, its hard not to feel a division of labor emerging that is highly gendered.

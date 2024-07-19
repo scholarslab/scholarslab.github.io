@@ -4,11 +4,10 @@ date: 2009-04-21 12:50:18+00:00
 layout: post
 slug: toward-the-historical-data-forge-what-happens-after-the-data-mining
 title: 'Toward the Historical Data Forge: What Happens After the Data-Mining?'
-categories:
-- Podcasts
 tags:
+- Podcasts
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 Bruce Robertson of the Mount Allison University Department of Classics and the Historical Event Markup and Linking Project talks about HEML: Historical Event Markup Language

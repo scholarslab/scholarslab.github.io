@@ -4,9 +4,9 @@ date: 2012-10-30 11:24:29+00:00
 layout: post
 slug: social-interpretation-repertoire
 title: Social Interpretation Repertoire
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

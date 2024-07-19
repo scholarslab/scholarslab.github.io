@@ -4,9 +4,9 @@ date: 2013-02-18 15:20:34+00:00
 layout: post
 slug: a-first-look
 title: A First Look
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
 - praxis program
 ---

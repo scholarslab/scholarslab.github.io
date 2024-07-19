@@ -4,7 +4,7 @@ date: 2018-04-11 15:47:34+00:00
 layout: post
 slug: announcing-2018-2019-fellows
 title: Announcing 2018-2019 Fellows!
-type: announcement
+category: announcement
 ---
 
 We are thrilled to announce the 2018-2019 Scholar's Lab fellows for the Praxis Program, the Digital Humanities Prototyping Fellowship, and the Graduate Fellowship in the Digital Humanities. We are welcoming 11 fellows from 6 disciplines from the arts, humanities, and social sciences and the School of Architecture. Our graduate fellows are joining a robust and vibrant community of past fellows!

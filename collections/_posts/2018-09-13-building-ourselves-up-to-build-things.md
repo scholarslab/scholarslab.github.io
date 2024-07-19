@@ -4,10 +4,11 @@ date: 2018-09-13 14:10:47+00:00
 layout: post
 slug: building-ourselves-up-to-build-things
 title: Building Ourselves Up to Build Things
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- learning
 ---
 
 I’m a [Praxis](http://praxis.scholarslab.org/) fellow this year and a PhD student in Spanish. (You might also remember me as [the one who really loves public writing](http://scholarslab.org/digital-humanities/writing-in-public-on-purpose-at-washington-lee-university/); you’re going to be reading a _lot_ of blog posts from me this year.) And I’m a coder, apparently.

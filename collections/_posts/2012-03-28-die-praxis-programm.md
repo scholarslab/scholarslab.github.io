@@ -4,12 +4,10 @@ date: 2012-03-28 09:18:50+00:00
 layout: post
 slug: die-praxis-programm
 title: Die Praxis-Programm
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - budget
-- i18n
-- money
 - praxis program
 - project-management
 - visualization

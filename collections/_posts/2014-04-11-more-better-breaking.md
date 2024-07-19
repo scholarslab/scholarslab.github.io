@@ -4,9 +4,9 @@ date: 2014-04-11 09:00:35+00:00
 layout: post
 slug: more-better-breaking
 title: More Better Breaking
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

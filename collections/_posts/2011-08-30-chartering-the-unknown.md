@@ -4,9 +4,9 @@ date: 2011-08-30 13:53:20+00:00
 layout: post
 slug: chartering-the-unknown
 title: Chartering the Unknown
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 ---

@@ -4,11 +4,11 @@ date: 2011-05-03 09:56:30+00:00
 layout: post
 slug: myron-gutmann-data-access
 title: Myron Gutmann on Data Access
-categories:
-- Announcements
 tags:
 - Social Sciences
-type: Announcement
+- Event
+- speaker series
+category: announcement
 ---
 
 The UVa Digital Humanities Speaker Series presents: 

@@ -4,12 +4,11 @@ date: 2012-12-10 10:56:33+00:00
 layout: post
 slug: fizzing-buzzing
 title: Fizzing, Buzzing
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
-- ruby
+- code
 ---
 
 Since [Gwen](http://www.scholarslab.org/people/gwen-nally/) just posted her solution to the [Fizz Buzz](http://www.scholarslab.org/praxis-program/fizz-buzz/) homework assignment,  I thought that I would throw mine up here as well. Here is my [solution](https://github.com/bmw9t/LRTHW/blob/master/praxis_exercises/fizz_buzz.rb).

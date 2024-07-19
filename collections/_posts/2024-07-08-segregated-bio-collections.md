@@ -5,15 +5,11 @@ layout: post
 slug: cbw-about1919-2-lloyd
 title: "Segregated Biographical Collections and Documentary Social Networks: <i>Portraits of American Women</i> and <i>Women of Distinction</i>"
 summary: "In the same way that researchers today look at social networks (online or otherwise) and think about the meanings of 'connections' or 'nodes' within them, so too can we look at collective biography as a mode of textual and social connection."
-categories:
-- Digital Humanities
-- Grad Student Research
-- Women
-- Race
-- War
-- Biography
+category: blog
 tags:
-- Digital Humanities
+- Grad Student Research
+- cbw
+- gender
 ---
 *A Co-authored Series of Posts ‘About 1919,’ that is, about English-language books published from 1914 to 1921, according to the online bibliography and database, [Collective Biographies of Women](https://cbw.iath.virginia.edu).*
 

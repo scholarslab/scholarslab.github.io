@@ -4,6 +4,7 @@ date: 2023-05-22
 layout: post
 slug: finding-a-way-in
 title: Finding A Way In
+category: blog
 tags:
 - pedagogy
 crosspost:

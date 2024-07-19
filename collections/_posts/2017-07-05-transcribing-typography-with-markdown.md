@@ -4,20 +4,12 @@ date: 2017-07-05 18:28:23+00:00
 layout: post
 slug: transcribing-typography-with-markdown
 title: Transcribing Typography with Markdown
-categories:
-- Digital Humanities
-- Experimental Humanities
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - bibliography
-- eighteenth century
-- long s
-- markdown
-- Samuel Butler
-- textual bibliography
 - transcription
-- typography
 ---
 
 Digital technologies are not new solutions to our old problems, but are new problems asking for us to return to old solutions. People have been transcribing texts for as long as there have been texts. So it is no surprise that some of the earliest applications for computers were concerned with transcribing texts. These applications built on ideas based on previous ideas which were themselves based on yet earlier ones---the genealogical chains of some going back centuries. These genealogies have their own fascinating histories, but the problem that concerns this post is finding ways to use those centuries of accumulated ideas to reproduce texts in a computerized platform that has developed its own sense of how texts should function. That is, how do we digitally transcribe using the techniques that already exist? Techniques developed in prior decades can be difficult to use with computer-based methods because these computer-based methods have only recently developed and have not yet been applied to as wide a range of sources as traditional transcription methods. The solutions that computer applications first stumbled across for one problem initially seem to be right for every problem, but on careful study it turns out they often obscure important details. We do not yet have an extensive repertoire of computer transcription to consider, so it naturally seems like the solution that exists, however idiosyncratic, is the solution for all situations. For example, `<em>` is widely used to indicate both italics and emphasis, which seems fine, but conflates two different sorts of text forms: The former could indicate poetry, summaries, Latin or citations, while the later suggests something that is an exception---a key glossary term or foreign phrase. The conventional computerized scheme is to treat the stylistic choice of italic as separate from the semantic choice of emphasis. For a non-emphasis use of italic, a style could be applied to distinguish that particular semantic meaning, but these semantic meanings would have to be carefully integrated into the existing scheme without conflicting with any other components. This integration becomes increasingly complicated as the schemes become more complete because there are more opportunities for conflict. New standards for HTML and TEI make the situation more flexible, but fundamentally transcriptions on computers must either force their intellectual goals into an existing framework---i.e. marking a distinct convention of italics as though it was the same as emphasis---or extend the framework itself---i.e. inventing a tag that distinguishes all the semantic types of italic used in the work.

@@ -6,7 +6,7 @@ slug: web-applications-specialist
 title: Are you our new Web Applications Specialist?
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 Are you an enthusiastic Web developer with an interest in the humanities or cultural heritage? UVa Library seeks a Web Applications Specialist to help develop software in our internationally-recognized [Scholars' Lab](http://scholarslab.org). The ideal candidate is detail-oriented, eager to work collaboratively, and stays involved with the latest Web and digital humanities technologies.

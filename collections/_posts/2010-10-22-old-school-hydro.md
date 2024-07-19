@@ -4,13 +4,11 @@ date: 2010-10-22 14:39:05+00:00
 layout: post
 slug: old-school-hydro
 title: '"Old School Hydro" in the Scholars'' Lab'
-categories:
-- Announcements
-- Geospatial and Temporal
 tags:
+- Geospatial and Temporal
 - gis
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 Please join us on November 4th (or look for our podcast) to get your feet wet with _Old School Hydro: Modern and Historic Surveying Aboard the NOAA Ship “Thomas Jefferson!”_

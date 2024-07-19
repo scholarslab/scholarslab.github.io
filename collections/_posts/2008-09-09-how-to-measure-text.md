@@ -4,7 +4,8 @@ date: 2008-09-09 00:03:13+00:00
 layout: post
 slug: how-to-measure-text
 title: How to Measure Text?
-categories:
+category: blog
+tags:
 - Visualization and Data Mining
 ---
 

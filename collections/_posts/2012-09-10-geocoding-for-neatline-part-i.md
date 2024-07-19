@@ -4,15 +4,13 @@ date: 2012-09-10 09:18:03+00:00
 layout: post
 slug: geocoding-for-neatline-part-i
 title: Geocoding for Neatline - Part I
-categories:
-- Research and Development
+category: blog
 tags:
-- geocoding
-- hacks
-- mechanize
+- Research and Development
 - neatline
-- neatline features
-- ruby
+- code
+- gis
+- Geospatial and Temporal
 ---
 
 Recently I was asked if there was a way to [import place names in connection with lat/lon points](https://twitter.com/S_moores/status/222369341390331904). Twitter's character limitation does't provide an adequate format to respond, and this technique can be quite useful outside of Neatline too, so I thought I would dive in a bit and explain a method to can get prepare place names for use in Omeka and beyond. This will be a two part series where I cover the basics of geocoding locations in a CSV file, then move to using these points with the [NeatlineFeatures](http://omeka.org/add-ons/plugins/neatlinefeatures/) and [Neatline](http://omeka.org/add-ons/plugins/neatline/) plugins for [Omeka](http://omeka.org/).

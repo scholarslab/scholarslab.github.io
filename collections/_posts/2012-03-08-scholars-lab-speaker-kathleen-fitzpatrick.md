@@ -4,7 +4,7 @@ date: 2012-03-08 16:04:30+00:00
 layout: post
 slug: scholars-lab-speaker-kathleen-fitzpatrick
 title: 'Scholars'' Lab Speaker: Kathleen Fitzpatrick'
-type: Announcement
+category: announcement
 ---
 
 We are pleased to welcome Dr. Kathleen Fitzpatrick to the Scholars' Lab on Thursday, March 15 at 2:00 p.m. for the second event in our Spring 2012 Speaker Series.

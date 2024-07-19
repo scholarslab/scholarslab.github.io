@@ -4,10 +4,12 @@ date: 2019-03-29 01:00:00+00:00
 layout: post
 slug: sharing-unity-project
 title: "Sharing a Unity Project"
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - Parents Fund
+- tutorial
+- 3D modeling
 ---
 # Sharing a Unity Project
 

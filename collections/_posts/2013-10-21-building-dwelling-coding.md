@@ -4,10 +4,11 @@ date: 2013-10-21 10:55:37+00:00
 layout: post
 slug: building-dwelling-coding
 title: Building, Dwelling, Coding
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- code
 ---
 
 Over the past week, I've become rather occupied with customizing Sublime Text 2, the editor in which I've been writing code. I've been adding packages to make it work more efficiently, to cut down on the number of keystrokes, to make it so my fingers rarely have to leave the keyboard. With [Jeremy's](http://clioweb.org/) help, I created a symbolic link between the terminal and Sublime, so I can open files in Sublime from the terminal itself. I've spent several hours watching workflow videos, trying to figure out what habits I need to cultivate to write better code more efficiently. And some it is wonderful. Why write vendor prefixes yourself when you can run your CSS through [Prefixr](http://prefixr.com/) with a simple keyboard shortcut? Why type out the basic html structure, when you can use [Emmet](http://emmet.io/), type !, and just hit tab to have it created? There are so many shortcuts to take advantage of, built in to Sublime and through the rich environment of plugins available, so many ways to be that much more efficient.

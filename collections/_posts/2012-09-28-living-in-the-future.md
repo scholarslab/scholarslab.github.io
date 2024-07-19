@@ -4,10 +4,11 @@ date: 2012-09-28 09:28:19+00:00
 layout: post
 slug: living-in-the-future
 title: Living in the Future
-categories:
-- Grad Student Research
+category: blog
 tags:
-- makerbot desktopfabrication music
+- Grad Student Research
+- makerspace
+- music
 - praxis program
 ---
 

@@ -4,12 +4,11 @@ date: 2013-12-14 09:33:56+00:00
 layout: post
 slug: turning-points-in-praxis-new-roles-wire-frames-and-programming-languages
 title: 'Turning points in Praxis: new roles, wire-frames, and programming languages'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
-- wireframes
+- code
 ---
 
 The last couple of weeks have been exciting ones in our program.  Our team has now specified our individual roles for the year.  Eliza, Scott, and Veronica will be our coders; Francesca and Zach will be the design team; and I will be performing project management duties, with assistance from Francesca.  I am excited to see these groups forming, people beginning to specialize, and a greater sense of direction inspiring everyone.

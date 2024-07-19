@@ -4,14 +4,12 @@ date: 2012-05-16 11:08:37+00:00
 layout: post
 slug: the-sidlers-guide-just-smile-and-hit-your-mark
 title: 'The Sidler''s Guide: Just Smile and Hit Your Mark'
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
-- Digital Humanities
 - praxis program
-- Programming
+- code
 ---
 
 I can't help feeling like a Seinfeldian sidler. [Prism](http://prism.scholarslab.org/) is up. The code has been written, the pages designed, and the tests passed. Everyone is gathering together getting ready for the post-prism photo-op when out of nowhere some bearded weirdo who smells like tapas and olive oil rides into the frame on a tiny horse just before the flash goes off.

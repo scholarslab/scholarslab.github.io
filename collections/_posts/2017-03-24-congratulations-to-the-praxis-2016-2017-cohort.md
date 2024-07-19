@@ -4,9 +4,9 @@ date: 2017-03-24 13:33:14+00:00
 layout: post
 slug: congratulations-to-the-praxis-2016-2017-cohort
 title: Congratulations to the Praxis 2016-2017 Cohort
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Dash-Amerikan
 ---

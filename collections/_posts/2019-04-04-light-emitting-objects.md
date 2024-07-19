@@ -4,11 +4,12 @@ date: 2019-04-04 01:00:00+00:00
 layout: post
 slug: light-emitting-objects
 title: "Illumination Through Light Emitting Objects"
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - Parents Fund
 - 3D modeling
+- tutorial
 ---
 # Illumination Through Light Emitting Objects in Unity 3D
 

@@ -4,9 +4,9 @@ date: 2012-07-31 15:19:27+00:00
 layout: post
 slug: translating-neatline
 title: Translating Neatline
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - neatline
 ---
 

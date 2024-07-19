@@ -4,7 +4,7 @@ date: 2021-10-27
 layout: post
 slug: apply-to-the-praxis-program-in-2022-2023
 title: Apply to the Praxis Program for 2022-2023!
-type: Announcement
+category: announcement
 ---
 
 Calling UVA graduate students! It's time to start thinking about next year. **Applications are now open for the 2022-2023 Praxis Program cohort. Applications are due March 1st, 2022**. Consider spending some time with us next year!

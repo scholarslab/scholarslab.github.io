@@ -4,9 +4,9 @@ date: 2012-01-17 15:39:53+00:00
 layout: post
 slug: praxis-mla-2012-and-timeliness
 title: Praxis, MLA 2012 and timeliness
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

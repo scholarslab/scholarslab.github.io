@@ -4,14 +4,13 @@ date: 2014-01-23 15:48:14+00:00
 layout: post
 slug: spring-2014-scholars-lab-gis-workshop-series
 title: Spring 2014 Scholars’ Lab GIS Workshop Series
-categories:
-- Geospatial and Temporal
 tags:
-- ArcGIS
+- Geospatial and Temporal
+- ESRI
 - cartography
 - gis
 - workshop
-type: Announcement
+category: announcement
 ---
 
 All sessions are one hour and assume attendees have no previous experience using GIS.  Sessions will be hands-on with step-by-step tutorials with expert assistance.  All sessions will be taught on **Wednesdays from 10AM to 11AM in the Alderman Electronic Classroom, ALD 421** (adjacent to the Scholars’ Lab) and are free to attend and are open to the UVa and larger Charlottesville community.

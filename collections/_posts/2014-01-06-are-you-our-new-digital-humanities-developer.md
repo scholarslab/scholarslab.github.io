@@ -6,7 +6,7 @@ slug: are-you-our-new-digital-humanities-developer
 title: Are you our new Digital Humanities Developer?
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 Are you an enthusiastic software developer with an interest in the humanities or cultural heritage? The internationally-recognized [Scholars' Lab](http://scholarslab.org) is seeking a digital humanities software engineer to join its innovative Research and Development group. At the [University of Virginia](http://www.virginia.edu/)-based Scholars' Lab, you'll work on projects like [Neatline](http://neatline.org) and collaborations with UVa faculty and students, mentor graduate fellows, and help teach in our [Praxis Program](http://praxis.scholarslab.org/). In addition to contributing to all of these facets of digital humanities work at Virginia, you will also be eligible for "20% time," where you are encouraged to pursue your own (often collaborative) R&D project or scholarship.

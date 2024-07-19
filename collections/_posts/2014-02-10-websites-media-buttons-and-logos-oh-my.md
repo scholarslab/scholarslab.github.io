@@ -4,9 +4,9 @@ date: 2014-02-10 10:00:01+00:00
 layout: post
 slug: websites-media-buttons-and-logos-oh-my
 title: 'Websites, Media Buttons, and Logos - oh my! '
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
 - Ivanhoe
 - praxis program

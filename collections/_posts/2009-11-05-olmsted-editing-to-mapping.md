@@ -4,11 +4,10 @@ date: 2009-11-05 09:00:17+00:00
 layout: post
 slug: olmsted-editing-to-mapping
 title: 'Olmsted: Editing to Mapping'
-categories:
-- Podcasts
 tags:
+- Podcasts
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 Ethan Carr and Mandy Gagel of the Frederick Law Olmsted Papers discuss "The Papers of Frederick Law Olmsted: From Editing to Mapping?"

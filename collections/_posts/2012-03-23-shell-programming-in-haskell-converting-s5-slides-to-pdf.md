@@ -4,8 +4,11 @@ date: 2012-03-23 09:09:09+00:00
 layout: post
 slug: shell-programming-in-haskell-converting-s5-slides-to-pdf
 title: 'Shell Programming in Haskell: Converting S5 Slides to PDF'
-categories:
+category: blog
+tags:
 - Research and Development
+- code
+- tutorial
 ---
 
 Recently, I gave an introduction to Python for Chris’ and Kelly’s [GIS Workshop](http://tinyurl.com/s12gis). It was a really great experience, and we had a lot of fun learning about Python and how to use it with ArcGIS.

@@ -4,7 +4,7 @@ date: 2011-03-28 13:33:26+00:00
 layout: post
 slug: welcoming-our-201112-graduate-fellows
 title: Welcoming our 2011/12 Graduate Fellows
-type: Announcement
+category: announcement
 ---
 
 The Scholars' Lab is pleased to welcome our 2011/12 cohort of [Graduate Fellows in Digital Humanities](http://www2.scholarslab.org/about/fellowship.html): 

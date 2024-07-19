@@ -4,13 +4,12 @@ date: 2011-08-31 11:25:00+00:00
 layout: post
 slug: vim-gui-font-magic
 title: Vim GUI Font Magic
-categories:
-- Grad Student Research
+category: blog
 tags:
-- howto
+- Grad Student Research
+- tutorial
 - praxis program
-- SLab Code
-- vim
+- code
 ---
 
 Yesterday, [Wayne](http://www.scholarslab.org/contributors/wsg4w/) tweeted [this](http://twitter.com/#!/wayne_graham/status/108550158442184704):

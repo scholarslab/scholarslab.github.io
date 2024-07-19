@@ -4,9 +4,9 @@ date: 2012-05-03 09:05:40+00:00
 layout: post
 slug: insert-bad-prism-pun-here
 title: '[Insert Bad Prism Pun Here]'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

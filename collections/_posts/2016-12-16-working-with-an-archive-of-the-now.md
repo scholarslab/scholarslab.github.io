@@ -4,11 +4,11 @@ date: 2016-12-16 10:28:16+00:00
 layout: post
 slug: working-with-an-archive-of-the-now
 title: Working with an Archive of the ‘Now’
-categories:
-- Experimental Humanities
-- Grad Student Research
-- Visualization and Data Mining
+category: blog
 tags:
+- social media
+- dataset
+- Grad Student Research
 - praxis program
 - Dash-Amerikan
 ---

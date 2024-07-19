@@ -4,12 +4,14 @@ date: 2021-05-13
 layout: post
 slug: building-barboursville
 title: "Building Barboursville : 3D Scanning and Modeling the Ruins"
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Grad Student Research
-tags:
 - Architectural History
 - 3DCHI
+- 3D scanning
+- 3D modeling
 ---
 In the Fall 2020 semester, ARH 5600 (3D Cultural Heritage Informatics, taught by Will Rourk) visited the site of the Barboursville Plantation House ruins to collect 3D data of the site.  Students used terrestrial 3D laser scanners to record the surface geometry and color texture information of the existing physical conditions of the ruins at Barboursville.  Barboursville Plantation house was a Thomas Jefferson designed plantation house built in the early 19th century and burned to the ground on Christmas Day in 1884 leaving only a brick masonry shell and columns which still stand today.  Bryan Clark Green’s architectural investigation team is using the 3D data collected by ARH 5600 students to recreate the mansion in its original form as it stood in the 1820s.  The raw 3D scanner data will serve as baseline geometry for a Historical Building Information Model (HBIM) which will serve as the definitive 3D model for the plantation house that once stood on the site of the Barboursville ruins.  The model will serve as a research tool for a forthcoming book on the architecture of the Barboursville Mansion to be published in the near future in collaboration with the Center for Palladian Studies in America.  Please join us on Wednesday 31 March at 3:30 to hear a presentation by Bryan Clark Green and his team to the current class of ARH 5600 students.
 

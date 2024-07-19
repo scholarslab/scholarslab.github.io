@@ -4,10 +4,9 @@ date: 2015-10-28 12:40:22+00:00
 layout: post
 slug: inktober-1021-when-things-break
 title: 'Inktober 10/21: When Things Break'
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - ClockWork
 crosspost:
   - title: my post on our Praxis page

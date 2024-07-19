@@ -4,9 +4,9 @@ date: 2021-08-27
 layout: post
 slug: gis-workshops-fall-2021
 title: GIS Workshops for Fall 2021, We're Still Virtual
-categories:
+tags:
 - Geospatial and Temporal
-type: announcement
+category: announcement
 ---
 
 Our GIS workshop series will continue virtually this semester. Unfortunately, because we can't handout laptops to our attendees, we're unable to provide ArcGIS Pro to non-UVA users. To be clear, **ArcGIS Pro is NOT required to attend the sessions**, but it is required to complete the hands-on exercises from the first six sessions on your own. The final two sessions cover ArcGIS Online, which is browser-based, and will be made available to everyone. 

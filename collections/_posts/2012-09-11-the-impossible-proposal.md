@@ -4,9 +4,9 @@ date: 2012-09-11 11:05:34+00:00
 layout: post
 slug: the-impossible-proposal
 title: The Impossible Proposal
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

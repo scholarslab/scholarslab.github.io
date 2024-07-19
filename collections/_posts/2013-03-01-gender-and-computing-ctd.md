@@ -4,10 +4,11 @@ date: 2013-03-01 10:34:54+00:00
 layout: post
 slug: gender-and-computing-ctd
 title: Gender and Computing (ctd)
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- gender
 ---
 
 To add to the conversation about gender in computing (from [Claire](http://www.scholarslab.org/praxis-program/but-i-dont-like-programming-gender-and-our-division-of-labor/) and [Cecilia](http://www.scholarslab.org/digital-humanities/gendering-praxis/)), I just wanted to very briefly point out that while the gendered culture and gender gap in computing are not recent phenomena (on the former, Jennifer Light's [brief article](https://muse.jhu.edu/journals/technology_and_culture/v040/40.3light.html) on the submerging of women's roles on ENIAC is a good read), it's actually been getting much worse in the last few decades rather than better. Women's participation in both academic computer science and the information technology industry has been on the decline since the 1980s, the exact opposite trend as the great progress women have made over this period in education and business at large. As this gender division has widened and gendered stereotypes have become crystallized,  even the iconic figures - the Ada Lovelaces and Grace Hoppers - have been shunted off into "token woman" status that robs them of the titanic contributions they made as computing pioneers.

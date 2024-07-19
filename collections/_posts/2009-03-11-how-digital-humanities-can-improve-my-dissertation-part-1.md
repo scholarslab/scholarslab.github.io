@@ -4,9 +4,9 @@ date: 2009-03-11 10:10:20+00:00
 layout: post
 slug: how-digital-humanities-can-improve-my-dissertation-part-1
 title: Mining and Mapping Apocalyptic Texts, Part 1
-categories:
-- Visualization and Data Mining
+category: blog
 tags:
+- Visualization and Data Mining
 - Statistical Analysis
 ---
 

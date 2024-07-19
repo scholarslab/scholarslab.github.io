@@ -4,10 +4,11 @@ date: 2013-11-12 15:12:40+00:00
 layout: post
 slug: sticky-situations-lessons-group-cohesion
 title: 'Sticky Situations: Lessons in Group Cohesion'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- about-collaboration-community
 ---
 
 Over the past couple of weeks, we Praxers have been wire-framing two distinct visions of the Ivanhoe game in two groups – Eliza, Scott, and Stephanie in one, Francesca, Zach, and I in the other. On Wednesday we presented our visions to each other and our dedicated Scholars' Lab mentors. (Francesca has written an [excellent summation](http://www.scholarslab.org/grad-student-research/two-ivanhoes-one-direction/) of both, highlighting some of the key similarities and differences.) As we await the second databurst from the people who know how to actually build our fuzzy visions, I thought I would share a couple of brief reflections on how our first stab at creating something together went.

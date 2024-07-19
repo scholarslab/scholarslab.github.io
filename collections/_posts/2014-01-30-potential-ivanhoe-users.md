@@ -7,7 +7,8 @@ title: Help us design the Ivanhoe Game!
 tags:
 - Ivanhoe
 - praxis program
-type: announcement
+- games
+category: announcement
 ---
 
 Attention, game players and digital-pedagogy enthusiasts!

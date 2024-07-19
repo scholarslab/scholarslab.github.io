@@ -4,11 +4,11 @@ date: 2011-10-18 12:48:49+00:00
 layout: post
 slug: charter-and-design
 title: Charter and Design
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
-- graphic design
+- design
 - praxis program
 - Prism
 ---

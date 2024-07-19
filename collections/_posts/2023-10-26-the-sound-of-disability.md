@@ -4,10 +4,11 @@ date: 2023-10-26
 layout: post
 slug: the-sound-of-disability
 title: The Sound Of Disability
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - accessibility
+- music
 ---
 What is the sound of disability? What is the sound of a body that does not conform to standards but defies and resists? And further, is disability an instrument itself?
 

@@ -4,9 +4,9 @@ date: 2018-04-02 16:48:37+00:00
 layout: post
 slug: writing-in-public-on-purpose-at-washington-lee-university
 title: Writing in Public (on Purpose) at Washington & Lee University
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - pedagogy
 - WLU Collab
 - meta-blogging

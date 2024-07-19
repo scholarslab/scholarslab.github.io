@@ -4,10 +4,11 @@ date: 2012-05-03 15:10:59+00:00
 layout: post
 slug: on-collaboration
 title: On Collaboration
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- about-collaboration-community
 ---
 
 Before I started making and sharing stuff, I always thought it was the maker who had power and authority to dispense knowledge. After I started making and sharing stuff, I began to understand that readers and users, not makers, had far more power, to take in that knowledge, critique it, and use it in new ways. At some point, though, if you're as fortunate as I have been, the lines between makers and users, teachers and students, become so porous that you just have_ collaborators._

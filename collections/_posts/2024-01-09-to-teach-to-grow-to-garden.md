@@ -4,11 +4,13 @@ date: 2024-01-09
 layout: post
 slug: to-teach-to-grow-to-garden
 title: To Teach, To Grow, To Garden
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
+- praxis program
 - pedagogy
 - care
+- hall of fame
 ---
 Teaching is one of those professions I briefly dreamed about as a child, but as I grew and learned and experienced education at the high school, then undergrad, then masters, and now PhD level, I fell out of love with the idea of teaching. I had met too many instructors who abused their power, too many that taught me nothing at all, too many that seemed to not care about my mental or emotional well-being in my pursuit of the elusive A++. Learning quickly became less about watering and harvesting knowledge, and more about achieving accolades and shiny letters on my report cards. I never wanted to be an enforcer, I wanted to be a gardener. 
 

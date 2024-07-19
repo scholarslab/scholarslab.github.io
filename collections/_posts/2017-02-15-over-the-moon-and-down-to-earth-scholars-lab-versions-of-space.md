@@ -6,7 +6,7 @@ slug: over-the-moon-and-down-to-earth-scholars-lab-versions-of-space
 title: "Over the Moon and Down to Earth: Scholars' Lab versions of space"
 tags:
 - staffing
-type: announcement
+category: announcement
 ---
 
 ![](http://static.scholarslab.org/wp-content/uploads/2015/08/IMG_03831-300x225.jpg)![GIS data](http://static.scholarslab.org/wp-content/uploads/2017/01/gis_data-300x236.jpeg)

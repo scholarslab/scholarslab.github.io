@@ -4,9 +4,9 @@ date: 2012-09-12 16:36:28+00:00
 layout: post
 slug: grad-fellows-forum-introducing-the-2012-2013-fellows
 title: 'Grad Fellows Forum: Introducing the 2012-2013 Fellows'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Graduate Fellows Forum**

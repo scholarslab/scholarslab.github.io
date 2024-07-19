@@ -4,6 +4,7 @@ date: 2016-08-12 09:29:52+00:00
 layout: post
 slug: neatline-implementation-grant
 title: Neatline Implementation Grant
+category: blog
 tags:
 - grants
 - neatline

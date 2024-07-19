@@ -4,18 +4,12 @@ date: 2020-11-13 13:27:09
 layout: post
 slug: docker-development-environments-for-everyone
 title: Docker Development Environments For Everyone
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - Web Development
-- Development Environments
-- Python 
-- Flask 
-- PostgreSQL 
-- Docker
-- PHP 
-- MySQL 
-- phpMyAdmin
+- code
+- tutorial
 crosspost:
   - title: https://mossiso.com
     url: https://mossiso.com/docker-development-environment-for-everyone/

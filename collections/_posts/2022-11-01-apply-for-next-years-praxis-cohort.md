@@ -4,7 +4,7 @@ date: 2022-11-01
 layout: post
 slug: apply-for-next-years-praxis-cohort
 title: Apply For Next Year's Praxis Cohort
-type: Announcement
+category: announcement
 ---
 **Applications are now open for the 2023-2024 Praxis Program cohort. Applications are due March 1st, 2023**. Consider spending some time with us next year!
 

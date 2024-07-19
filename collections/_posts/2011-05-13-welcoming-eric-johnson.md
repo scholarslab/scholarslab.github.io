@@ -4,11 +4,9 @@ date: 2011-05-13 14:18:42+00:00
 layout: post
 slug: welcoming-eric-johnson
 title: Welcoming Eric Johnson!
-categories:
-- Announcements
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 We're proud to announce that [Eric Johnson](http://twitter.com/#!/edmj) will join the faculty of UVa Library's Digital Research and Scholarship department this July as Head of Outreach & Consulting.  In his new role, Eric will direct day-to-day public services in the Library's vibrant [Scholars' Lab](http://scholarslab.org/) and help to coordinate our intellectual programming as well as our transformative program for Graduate Fellows in the Digital Humanities, now entering its fifth year.

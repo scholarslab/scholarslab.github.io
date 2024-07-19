@@ -4,11 +4,10 @@ date: 2010-02-18 12:17:22+00:00
 layout: post
 slug: digital-therapy-cesaire-and-hawthorne
 title: 'Digital Therapy: Cesaire and Hawthorne'
-categories:
-- Podcasts
 tags:
+- Podcasts
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 Graduate students Alex Gil and Ryan Cordell present their recent work on  digital editions of works by Nathaniel Hawthorne and Aimé Césaire.

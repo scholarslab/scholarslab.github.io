@@ -4,6 +4,7 @@ date: 2023-10-26
 layout: post
 title: "One Concept, Ten Ways to Teach"
 slug: one-concept-ten-ways-to-teach
+category: blog
 tags:
 - pedagogy
 crosspost:

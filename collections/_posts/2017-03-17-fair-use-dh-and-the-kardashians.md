@@ -4,10 +4,9 @@ date: 2017-03-17 08:21:46+00:00
 layout: post
 slug: fair-use-dh-and-the-kardashians
 title: Fair Use, DH, and the Kardashians
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Dash-Amerikan
 ---

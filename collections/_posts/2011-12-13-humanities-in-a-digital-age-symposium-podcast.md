@@ -4,9 +4,9 @@ date: 2011-12-13 15:42:22+00:00
 layout: post
 slug: humanities-in-a-digital-age-symposium-podcast
 title: Humanities in a Digital Age Symposium podcast
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Institute of the Humanities and Global Cultures: Humanities in a Digital Age Symposium**

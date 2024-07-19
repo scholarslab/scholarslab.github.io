@@ -4,13 +4,11 @@ date: 2012-03-12 18:54:45+00:00
 layout: post
 slug: who-says-i-like-right-angles
 title: Who says I like right angles?
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
-- CSS
 - design
-- HTML
 - praxis program
 ---
 

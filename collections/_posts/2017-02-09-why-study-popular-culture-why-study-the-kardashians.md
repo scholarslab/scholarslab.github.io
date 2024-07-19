@@ -4,11 +4,12 @@ date: 2017-02-09 15:27:57+00:00
 layout: post
 slug: why-study-popular-culture-why-study-the-kardashians
 title: Why Study Popular Culture? Why Study the Kardashians?
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Dash-Amerikan
+- media studies
 ---
 
 _“When I got my first television set, I stopped caring so much about having close relationships.” &mdash; Andy Warhol_

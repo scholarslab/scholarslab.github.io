@@ -4,9 +4,7 @@ date: 2008-09-08 17:36:19+00:00
 layout: post
 slug: digital-therapy-luncheon
 title: '"Digital Therapy" luncheon'
-categories:
-- Announcements
-type: Announcement
+category: announcement
 ---
 
 Please join us in the Scholars' Lab at noon on Tuesday, September 9th, as we introduce our new [Graduate Fellows in Digital Humanities](http://www.scholarslab.org/about/fellowship.html) as part of our first "Digital Therapy" Faculty and Grad Luncheon of the semester.

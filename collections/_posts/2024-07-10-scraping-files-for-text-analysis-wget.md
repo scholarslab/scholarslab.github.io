@@ -4,9 +4,11 @@ date: 2024-07-10
 layout: post
 slug: scraping-files-for-text-analysis-wget
 title: "Scraping a webpage's list of linked files using wget"
+category: blog
 tags:
-- coding
+- code
 - tutorial
+- automation
 ---
 
 I want to apply some text analysis tools to explore questions around a set of podcast interviews. There's a webpage that lists links to transcripts of these interviews, one link per podcast episode text file. Because there are many episodes (over a 100?), I don't want to manually click each link to download the episode's transcript file.

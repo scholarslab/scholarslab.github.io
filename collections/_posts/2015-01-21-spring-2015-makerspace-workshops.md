@@ -4,8 +4,9 @@ date: 2015-01-21 14:20:41+00:00
 layout: post
 slug: spring-2015-makerspace-workshops
 title: Spring 2015 Makerspace Workshops
-categories:
-- Experimental Humanities
+category: announcement
+tags:
+- makerspace
 ---
 
 **Introduction to Omeka - Wednesday, January 28**

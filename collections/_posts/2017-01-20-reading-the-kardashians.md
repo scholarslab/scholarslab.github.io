@@ -4,10 +4,9 @@ date: 2017-01-20 10:11:57+00:00
 layout: post
 slug: reading-the-kardashians
 title: Reading the Kardashians
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Dash-Amerikan
 ---

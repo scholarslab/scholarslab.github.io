@@ -4,9 +4,9 @@ date: 2015-01-08 14:29:41+00:00
 layout: post
 slug: spring-2015-scholars-lab-gis-workshop-series
 title: Spring 2015 Scholars’ Lab GIS Workshop Series
-categories:
+tags:
 - Geospatial and Temporal
-type: Announcement
+category: announcement
 ---
 
 All sessions are one hour and assume attendees have no previous experience using GIS.  Sessions will be hands-on with step-by-step tutorials with expert assistance.  All sessions, except where noted, will be taught on **Wednesdays from 1PM to 2PM in the Alderman Electronic Classroom, ALD 421** (adjacent to the Scholars’ Lab) and are free to attend and are open to the UVa and larger Charlottesville community.
@@ -27,7 +27,7 @@ Would you like to see historic map overlaid on modern aerial photography?  Do y
 
 Need to make a quick demographic map or religious adherence?  This workshop will show you how easily navigate Social Explorer.  This powerful online application makes it easy to create maps with contemporary and historic census data and religious information.
 
-**February 25th - Historic Census Data**
+**February 25th  Census Data**
 
 Would you like to map the poverty in Philadelphia around the turn of the 20th Century?  How about a racial breakdown by state in the 1860s?  This workshop will focus on how to download historic census boundary and tabular data to make historic demographic maps.
 

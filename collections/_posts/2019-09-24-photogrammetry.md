@@ -4,10 +4,10 @@ date: 2019-09-24
 layout: post
 slug: documentation-photogrammetry
 title: "Photogrammetry Workflow using a DSLR Camera"
-categories:
-- Research and Development
-- Makerspace
+category: blog
 tags:
+- Research and Development
+- makerspace
 - Photogrammetry
 - Parents Fund
 - 3DCHI

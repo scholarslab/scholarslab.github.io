@@ -4,12 +4,10 @@ date: 2024-05-29
 layout: post
 slug: new-in-the-makerspace-prusa-mk4
 title: "New in the Makerspace: Prusa MK4"
-categories:
-- Makerspace
+category: announcement
 tags:
+- makerspace
 - 3D printing
-- prusa
-- equipment
 ---
 
 ![](/assets/post-media/2024-05-29-mk4/2024-05-29-mk41.jpg)

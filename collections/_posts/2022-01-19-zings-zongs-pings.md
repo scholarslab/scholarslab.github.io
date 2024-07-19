@@ -5,8 +5,12 @@ date: 2022-01-19
 layout: post
 slug: zings-zongs-pings
 title: Here’s to the Zings, Zongs, and Pings
-categories:
+category: blog
+tags:
 - Grad Student Research
+- academia
+- care
+- meta-blogging
 ---
 
 I’ve been trying to write this blog post for about four months now. Unsuccessfully, I might add. Most of the writing has been in my head. I really struggle with writing. So much so that it has often made me question whether I’ve chosen the right career path for myself (I’m doing a Ph.D. in English Literature and writing is pretty much all that I’m supposed to do). Just to be clear: I don’t *dislike* writing; in fact, I really, really want to write. Often, it feels like I’m bursting with thoughts and feelings and zings and zongs and pings which course through my brain and I just have to, absolutely have to, get them down, make them real, make them concrete but then…woops, out this feeling goes. Mainly because writing scares me. Making things concrete, putting my thoughts out into the world scares me. Because once I put those thoughts out there, I will have to invite people’s scrutiny in; I will have to deal with *their* thoughts, *their* judgements, *their* feelings on my work. And what if they think what I’ve been thinking all this time: who gave me the right to write? What makes me think that these thoughts are worth releasing into the wide world out there? 

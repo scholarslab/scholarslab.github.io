@@ -4,10 +4,9 @@ date: 2020-02-19
 layout: post
 slug: 3d-printing-failure
 title: "Recovering From Failure (with g-code)"
-categories:
-- Makerspace
+category: blog
 tags:
-- Makerspace
+- makerspace
 ---
 
 > "Success is never final and failure never fatal. It’s courage that counts." - Commonly misattributed to Winston Churchill

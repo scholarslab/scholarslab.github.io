@@ -4,11 +4,12 @@ date: 2015-04-08 09:35:47+00:00
 layout: post
 slug: everything-is-not-always-awesome-when-youre-part-of-a-team
 title: Everything Is (Not Always) AWESOME When You're Part of a Team!
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
+- about-collaboration-community
 ---
 
 You have watched _The Lego Movie_ I hope. It is a story about an individual who seems to be happy alone with his own routine as a 'normal' person, but one day finds out he is 'the chosen one' meant to save people. He does not believe in himself and his ability to be the hero. Nevertheless, he ends up being victorious against evil because of his great team. The movie ends with a song whose refrain summarized its conclusion: ["everything is awesome, everything is cool when you're part of a team..."](https://www.youtube.com/watch?v=vx5n21zHPm8) Yes, I really appreciate the idea that individuals are social beings and heroes are the result of collective action. I value the emphasis on team work in this movie, but I would like to draw attention also to the hard work that goes into working within a team and as a team.

@@ -5,11 +5,12 @@ layout: post
 slug: in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-head-of-graduate-programs
 title: 'In, Out, Across, With: Collaborative Education and Digital Humanities (Job
   Talk for Head of Graduate Programs)'
-categories:
-- Grad Student Research
-- Technical Training
+category: blog
 tags:
+- Grad Student Research
 - pedagogy
+- professional development
+- alt-ac
 crosspost:
   - title: my personal blog
     url: http://walshbr.com/blog/2017/03/02/in-out-across-with/

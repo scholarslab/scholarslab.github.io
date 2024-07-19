@@ -4,11 +4,10 @@ date: 2014-07-02 09:56:04+00:00
 layout: post
 slug: a-digital-declaration-of-independence-with-text-painting-and-map
 title: A (Digital) Declaration of Independence
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - neatline
-- react
 crosspost:
   - title: dclure.org
     url: http://dclure.org/essays/a-digital-declaration-of-independence-with-text-painting-and-map/

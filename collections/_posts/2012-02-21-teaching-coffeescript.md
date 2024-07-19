@@ -4,12 +4,12 @@ date: 2012-02-21 09:02:47+00:00
 layout: post
 slug: teaching-coffeescript
 title: Teaching CoffeeScript
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
-- CoffeeScript
-- javascript
+- pedagogy
+- code
 - praxis program
 ---
 

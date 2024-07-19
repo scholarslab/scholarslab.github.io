@@ -4,11 +4,11 @@ date: 2018-10-30 07:53:28+00:00
 layout: post
 slug: string-theory-or-lets-explore-social-networks-with-string
 title: 'String Theory, or: Let''s Explore Social Networks with String!'
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - WLU Collab
+- visualization
 ---
 
 For the last few weeks, the Praxis Fellows have been workshopping workshops designed to render the digital humanities methods we use in our own research accessible (and useful) to undergraduates. If that sounds meta, it's because it is! But the process has also helped distill some interesting digital humanities methods into their fundamental concepts. In this blog post, I will share the outline of an analog workshop to help convey the basics of social network analysis to undergraduates.

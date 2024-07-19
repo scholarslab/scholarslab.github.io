@@ -4,13 +4,11 @@ date: 2023-10-18
 layout: post
 slug: the-5-ps-of-library-makerspaces
 title: The 5 Ps of Library Makerspaces
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
 - 3D printing
 - 3D modeling
-- rapid prototyping
-- conference poster
 ---
 <style>
   img {

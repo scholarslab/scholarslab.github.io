@@ -4,13 +4,11 @@ date: 2014-02-03 13:50:50+00:00
 layout: post
 slug: wireframing-fun
 title: Wireframing fun
-categories:
-- Grad Student Research
+category: blog
 tags:
-- Github
+- Grad Student Research
 - Ivanhoe
 - praxis program
-- Wireframing
 ---
 
 Over the last week Stephanie, Eliza, and I (with significant help from Jeremy) have been putting together a wireframe of our product. Partaking in this process has been so exciting and I've learned a few key concepts:

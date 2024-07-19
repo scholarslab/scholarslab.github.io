@@ -4,8 +4,10 @@ date: 2015-11-12 13:46:10+00:00
 layout: post
 slug: when-old-technology-meets-the-new-accessing-windows-95-cd-roms-through-wine
 title: 'When Old Technology Meets The New: Accessing Windows 95 CD-ROMs through Wine'
-categories:
+category: blog
+tags:
 - Grad Student Research
+- code
 ---
 
 Up to this point in my academic career I have worked primarily with physical books and I certainly feel most comfortable with this medium. Anything remotely technological frightens me and I’m particularly inept when it comes to simple computer issues (think: getting my computer to talk to my printer, resolving internet connectivity issues, etc.). All of this changed drastically a few weeks ago when I found myself desperately in need of an Argentine literary supplement from the 1930s for my dissertation, “The Fashioning of Jorge Luis Borges: Newspapers, Magazines, and Print Culture in Argentina (1930-1951),” which deals with the physical features of Jorge Luis Borges’s works, read through the lens of analytical bibliography and genetic criticism. I would normally InterLibrary Loan the materials, but runs of this particular periodical are very scarce (and, as a result, not circulating). That being said, while researching in Argentina this summer, I happened to purchase a book about the literary supplement in question, complete with a digital edition on CD-ROM. In my naïve state, I thought I could simply pop this disc into any PC and be able to access the files. Wrong. This was a CD-ROM for Windows 95/98 and not adequately suited for the current Windows 10!

@@ -4,9 +4,9 @@ date: 2013-09-30 13:38:02+00:00
 layout: post
 slug: are-we-gaming-or-just-simulating
 title: 'Are we gaming or just simulating? '
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - games
 - Ivanhoe
 - praxis program

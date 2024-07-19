@@ -4,8 +4,8 @@ date: 2016-12-03 14:10:04+00:00
 layout: post
 slug: hybrid-literature-ruth-ozekis-a-tale-for-the-time-being
 title: 'Hybrid Literature: Ruth Ozeki’s A Tale for the Time Being'
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Experimental Humanities
 - Grad Student Research
 ---

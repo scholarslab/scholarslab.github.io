@@ -4,11 +4,10 @@ date: 2012-09-24 13:31:57+00:00
 layout: post
 slug: omeka-capistrano-recipes
 title: Omeka Capistrano Recipes
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - automation
-- capistrano
 - omeka
 ---
 

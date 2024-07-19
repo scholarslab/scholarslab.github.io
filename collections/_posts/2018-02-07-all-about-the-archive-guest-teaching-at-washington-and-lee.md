@@ -4,8 +4,10 @@ date: 2018-02-07 12:51:48+00:00
 layout: post
 slug: all-about-the-archive-guest-teaching-at-washington-and-lee
 title: 'All About the Archive: Guest Teaching at Washington and Lee'
+category: blog
 tags:
 - WLU Collab
+- pedagogy
 crosspost:
   - title: WLUDH blog
     url: http://digitalhumanities.wlu.edu/blog/2018/02/07/all-about-the-archive/

@@ -4,10 +4,11 @@ date: 2012-10-23 13:14:53+00:00
 layout: post
 slug: prism-proposal-against-anonymity
 title: 'Prism Proposal: Against Anonymity'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- prism
 ---
 
 Jeremy asked us to offer a Prism exercise that would take the tool in a new direction. Rather than expanding the tool’s parameters, I would like to think about how we can get a more nuanced understanding of the information it already collects. In what follows I offer a vaporware exercise that we will play in person, suggest some thoughts on the disciplinary and pedagogical questions it might answer, and I conclude with some suggestions for adapting the exercise for digital use.

@@ -4,11 +4,9 @@ date: 2011-03-10 11:04:41+00:00
 layout: post
 slug: welcoming-eric-rochester
 title: Welcoming Eric Rochester!
-categories:
-- Announcements
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 [![](http://static.scholarslab.org/wp-content/uploads/2011/03/DCP_1060-Medium-183x300.jpg)](http://www.scholarslab.org/announcements/welcoming-eric-rochester/attachment/dcp_1060-medium/)

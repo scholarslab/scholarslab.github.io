@@ -4,9 +4,9 @@ date: 2012-10-18 14:05:18+00:00
 layout: post
 slug: digital-humanities-growing-pains
 title: Digital Humanities Growing Pains
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

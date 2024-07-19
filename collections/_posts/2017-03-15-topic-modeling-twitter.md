@@ -4,8 +4,12 @@ date: 2017-03-15 14:10:30+00:00
 layout: post
 slug: topic-modeling-twitter
 title: Topic Modeling Twitter
+category: blog
 tags:
 - praxis program
+- social media
+- code
+- distant reading
 ---
 
 **What is topic modeling?**

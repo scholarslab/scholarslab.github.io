@@ -4,9 +4,9 @@ date: 2011-10-18 16:27:37+00:00
 layout: post
 slug: highlighting-limitations
 title: Highlighting limitations
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
 - praxis program
 - Prism

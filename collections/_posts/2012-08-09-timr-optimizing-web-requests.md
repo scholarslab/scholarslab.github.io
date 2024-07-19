@@ -4,8 +4,10 @@ date: 2012-08-09 09:38:20+00:00
 layout: post
 slug: timr-optimizing-web-requests
 title: 'timr: Optimizing Web Requests'
-categories:
+category: blog
+tags:
 - Research and Development
+- web development
 ---
 
 

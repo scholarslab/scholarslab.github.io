@@ -4,11 +4,11 @@ date: 2012-10-02 10:44:24+00:00
 layout: post
 slug: fun-with-prism
 title: Fun with Prism
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- requirements-gathering
+- prism
 ---
 
 Prism could be a tool that we use for scholarly entertainment (like [Old Weather](http://www.oldweather.org/)). It could also be an extremely powerful tool for research--provided that we make the controls fluid enough.

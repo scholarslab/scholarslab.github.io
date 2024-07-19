@@ -4,11 +4,9 @@ date: 2014-05-02 11:05:02+00:00
 layout: post
 slug: go-litel-boke
 title: '"Go litel boke!"'
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
-- Chaucer
+- Grad Student Research
 - Ivanhoe
 - praxis program
 ---

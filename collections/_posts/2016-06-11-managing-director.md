@@ -4,7 +4,7 @@ date: 2016-06-11 09:57:51+00:00
 layout: post
 slug: managing-director
 title: Managing Director
-type: Announcement
+category: announcement
 ---
 
 We are so excited to be inviting applications for the position of Managing Director of Scholars' Lab, in the University of Virginia Library. See [posting 0618965](https://jobs.virginia.edu/applicants/Central?quickFind=79369) on the UVA HR site [jobs.virginia.edu](https://jobs.virginia.edu/applicants//jsp/shared/frameset/Frameset.jsp) for more details (if need be, go to "Search Postings" link on upper left, enter the posting number).

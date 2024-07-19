@@ -4,9 +4,9 @@ date: 2019-12-19
 layout: post
 slug: gis-workshops-spring-2020
 title: Announcing our GIS Workshop Series for Spring 2020
-categories:
+tags:
 - Geospatial and Temporal
-type: announcement
+category: announcement
 ---
 
 # Update 3/11/2019 - Sessions Cancelled 

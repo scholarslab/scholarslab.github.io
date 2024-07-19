@@ -4,8 +4,11 @@ date: 2015-03-11 14:24:19+00:00
 layout: post
 slug: printing-things-that-print-a-miniature-hand-press-project
 title: 'Printing Things That Print: A Miniature Hand-Press Project'
-categories:
-- Experimental Humanities
+category: blog
+tags:
+- makerspace
+- bibliography
+- 3D printing
 ---
 
 For the past few months, fellow English PhD candidate [James Ascher](https://twitter.com/jpsa) and I have had a small side-project going on in the Makerspace: printing a small, desktop-sized hand press, and getting it to work consistently.  The model we found calls it a “[Pocket Gutenberg](http://www.thingiverse.com/thing:113044),” but the idea of a small, hand-powered, personal “hobby” printing press is an historic one going back to Ben Lieberman and the “Liberty Press” – a history James will hopefully be posting about soon.

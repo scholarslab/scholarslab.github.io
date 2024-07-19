@@ -4,9 +4,9 @@ date: 2014-03-24 10:00:30+00:00
 layout: post
 slug: whats-in-a-name
 title: 'What''s in a name? '
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
 - Ivanhoe
 - praxis program

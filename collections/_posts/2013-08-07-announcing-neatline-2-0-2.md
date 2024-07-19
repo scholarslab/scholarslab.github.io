@@ -4,9 +4,9 @@ date: 2013-08-07 13:38:14+00:00
 layout: post
 slug: announcing-neatline-2-0-2
 title: Announcing Neatline 2.0.2!
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - neatline
 ---
 

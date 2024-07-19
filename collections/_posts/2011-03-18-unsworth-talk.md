@@ -4,11 +4,9 @@ date: 2011-03-18 18:17:25+00:00
 layout: post
 slug: unsworth-talk
 title: Unsworth to speak at UVa
-categories:
-- Announcements
 tags:
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 The UVa Digital Humanities Speaker Series presents: 

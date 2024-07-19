@@ -4,10 +4,9 @@ date: 2013-12-24 10:37:50+00:00
 layout: post
 slug: we-wish-you-a-merry-cssmas
 title: 'We wish you a merry CSSmas! '
-categories:
-- Grad Student Research
+category: blog
 tags:
-- CSS
+- Grad Student Research
 - design
 - praxis program
 ---

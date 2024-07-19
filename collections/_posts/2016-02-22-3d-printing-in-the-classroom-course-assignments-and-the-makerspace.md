@@ -4,9 +4,9 @@ date: 2016-02-22 10:08:01+00:00
 layout: post
 slug: 3d-printing-in-the-classroom-course-assignments-and-the-makerspace
 title: '3D Printing in the Classroom: Course Assignments and the Makerspace'
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
 - pedagogy
 crosspost:
   - title: my personal blog

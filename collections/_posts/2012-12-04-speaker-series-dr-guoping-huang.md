@@ -4,9 +4,9 @@ date: 2012-12-04 10:04:52+00:00
 layout: post
 slug: speaker-series-dr-guoping-huang
 title: 'Speaker Series: Dr. Guoping Huang'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Speaker Series: Dr. Guoping Huang**

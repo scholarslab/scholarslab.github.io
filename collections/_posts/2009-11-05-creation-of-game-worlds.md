@@ -4,11 +4,10 @@ date: 2009-11-05 09:43:31+00:00
 layout: post
 slug: creation-of-game-worlds
 title: Creation of Game Worlds
-categories:
-- Podcasts
 tags:
+- Podcasts
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 Writer, game designer, and UVa alumnus [Shane Liesegang](http://shaneliesegang.com/) talks about the "Disruptive Construction of Game Worlds"

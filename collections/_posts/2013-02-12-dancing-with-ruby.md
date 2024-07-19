@@ -4,14 +4,12 @@ date: 2013-02-12 15:57:13+00:00
 layout: post
 slug: dancing-with-ruby
 title: Dancing with Ruby
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - dance
 - praxis program
-- Programming
-- ruby
-- speech
+- code
 ---
 
 As the Praxis Team grapples with the necessity of making decisions (difficult decisions!) about our priorities when it comes to creating at tangible product between now and May, I continue to find new uses for Ruby in my own non-Prism-related work.

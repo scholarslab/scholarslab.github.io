@@ -4,9 +4,9 @@ date: 2010-10-19 15:42:33+00:00
 layout: post
 slug: its-alive-introducing-the-early-american-foreign-service-database
 title: 'It''s [A]live!: Introducing The Early American Foreign Service Database'
-categories:
+tags:
 - Grad Student Research
-type: Announcement
+category: announcement
 ---
 
 It is with great pleasure, and no small amount of trepidation, that I announce the launch of the [Early American Foreign Service Database](http://www.eafsd.org) (EAFSD to its friends).  While the EAFSD has been designed as an independent, secondary source publication, it also exists symbiotically with my dissertation "Revolution-Mongers: Launching the U.S. Foreign Service, 1775-1825."

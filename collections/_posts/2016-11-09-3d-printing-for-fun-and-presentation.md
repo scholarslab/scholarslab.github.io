@@ -4,13 +4,10 @@ date: 2016-11-09 09:30:56+00:00
 layout: post
 slug: 3d-printing-for-fun-and-presentation
 title: 3D printing for fun and presentation
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
 - 3D printing
-- pokemon
-- presentation
-- student
 redirect_from:
   - /makerspace/3d-printing-for-fun-and-presentation
 ---

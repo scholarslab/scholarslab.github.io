@@ -4,10 +4,10 @@ date: 2009-05-04 10:32:00+00:00
 layout: post
 slug: mapping-out-the-geography-of-an-asian-american-music-blog
 title: Mapping the Digital Diaspora of a Dissertation Research Blog
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
 - Statistical Analysis
 ---
 

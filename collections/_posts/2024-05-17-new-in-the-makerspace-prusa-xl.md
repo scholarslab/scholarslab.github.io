@@ -4,12 +4,10 @@ date: 2024-05-17
 layout: post
 slug: new-in-the-makerspace-prusa-xl
 title: "New in the Makerspace: Prusa XL"
-categories:
-- Makerspace
+category: announcement
 tags:
+- makerspace
 - 3D printing
-- prusa
-- equipment
 ---
 
 ![](/assets/post-media/2024-05-17-xl/2024-05-17-xl1.JPG)

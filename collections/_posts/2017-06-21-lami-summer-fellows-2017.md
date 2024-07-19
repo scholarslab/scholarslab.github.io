@@ -4,9 +4,7 @@ date: 2017-06-21 11:30:46+00:00
 layout: post
 slug: lami-summer-fellows-2017
 title: LAMI Summer Fellows 2017
-categories:
-- Digital Humanities
-- Technical Training
+category: announcement
 ---
 
 For the third year in a row, the Scholars' Lab and the University of Virginia Library are helping host summer fellows from the Leadership Alliance Mellon Initiative (LAMI) at UVA. The students will pursue original research this summer at UVA in consultation with a faculty mentor. For our part, the Scholars' Lab and the Library have worked with Keisha John, Director of Diversity of Programs in the [Office of Graduate and Postdoctoral Affairs](http://gradstudies.virginia.edu/about), to organize a weekly series of workshops introducing the students to digital humanities and library research methods. They'll be getting a broad introduction to digital research and the resources of the library as they think towards graduate school, and we've also coordinated weekly board game sessions over lunch (for SLab-style bonding).

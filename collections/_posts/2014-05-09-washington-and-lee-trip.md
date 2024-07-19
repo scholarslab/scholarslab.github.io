@@ -4,9 +4,9 @@ date: 2014-05-09 09:52:22+00:00
 layout: post
 slug: washington-and-lee-trip
 title: Washington and Lee Trip
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - WLU Collab
 - pedagogy

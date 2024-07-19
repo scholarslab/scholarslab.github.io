@@ -4,9 +4,9 @@ date: 2013-10-09 14:18:57+00:00
 layout: post
 slug: chartering-our-project
 title: Chart(er)ing Our Project
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 ---

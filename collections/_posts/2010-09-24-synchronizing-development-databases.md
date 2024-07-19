@@ -4,11 +4,10 @@ date: 2010-09-24 14:27:06+00:00
 layout: post
 slug: synchronizing-development-databases
 title: Synchronizing Development Databases
-categories:
-- Research and Development
+category: blog
 tags:
-- coding
-- databases
+- Research and Development
+- code
 ---
 
 As a developer, I routinely work on multiple machines during the course of a project. One of the biggest pains is working on a database-driven project is that I often need to move the data on machine X to machine Y, make changes, then move the updated data from machine Y back to machine X.

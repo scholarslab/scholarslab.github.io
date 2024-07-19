@@ -7,7 +7,7 @@ title: Spring 2014 Scholars' Lab Tech Workshop Series
 tags:
 - training
 - workshop
-type: Announcement
+category: announcement
 ---
 
 We're pleased to announce our Spring 2014 Tech Workshop series roster.

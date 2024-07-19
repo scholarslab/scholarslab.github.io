@@ -4,9 +4,9 @@ date: 2011-11-04 23:00:59+00:00
 layout: post
 slug: keeping-it-real-clean
 title: Keeping it Real… Clean
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

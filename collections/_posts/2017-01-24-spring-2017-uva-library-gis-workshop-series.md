@@ -4,10 +4,10 @@ date: 2017-01-24 10:30:42+00:00
 layout: post
 slug: spring-2017-uva-library-gis-workshop-series
 title: Spring 2017 UVa Library GIS Workshop Series
-categories:
+tags:
 - Events
 - Geospatial and Temporal
-type: Announcement
+category: announcement
 ---
 
 ![](http://coloradogeologicalsurvey.org/wp-content/uploads/2013/07/gis_data.jpg)
@@ -38,7 +38,7 @@ Until we perfect that magic “extract all those lines from this paper map” bu
 
 Need to make a quick demographic map or religious adherence?  This workshop will show you how easily navigate Social Explorer.  This powerful online application makes it easy to create maps with contemporary and historic census data and religious information.
 
-**March 22nd - Historic Census Data**
+**March 22nd  Census Data**
 
 Would you like to map the poverty in Philadelphia around the turn of the 20th Century?  How about a racial breakdown by state in the 1860s?  This workshop will focus on how to download historic census boundary and tabular data to make historic demographic maps.
 

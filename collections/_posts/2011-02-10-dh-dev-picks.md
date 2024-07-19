@@ -4,17 +4,10 @@ date: 2011-02-10 16:30:07+00:00
 layout: post
 slug: dh-dev-picks
 title: DH Dev Picks
-categories:
-- Research and Development
+category: blog
 tags:
-- algorithms
-- git
-- javascript
-- ssh
-- tips
-- web
+- Research and Development
 - web development
-- web fonts
 ---
 
 Part of mission here at the Scholars' Lab is provide guidance for folks working on digital projects. As such, I do my best to keep up with trends in software development. For a while I've just been adding these to my [delicious account](http://www.delicious.com/wsgrah) to make it a bit easier to find references later. However, recent trends in the way Yahoo! is handling its properties (specifically with delicious), made the think a bit harder about this approach and I thought I might try something else. The idea here is to have a regular series of posts with links that I find interesting and I think are are of some utility to other DH developers.

@@ -4,9 +4,10 @@ date: 2015-09-21 10:48:25+00:00
 layout: post
 slug: music-genre-and-spotify-metadata
 title: Music Genre and Spotify Metadata
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
+- music
 crosspost:
   - title: my personal site
     url: http://walshbr.com/blog/music-genre-and-spotify-metadata/

@@ -4,11 +4,9 @@ date: 2010-04-20 19:53:25+00:00
 layout: post
 slug: automating-omeka-deployment-with-capistrano
 title: Automating Omeka Deployment with Capistrano
-categories:
-- Research and Development
+category: blog
 tags:
-- capistrano
-- deployment
+- Research and Development
 - omeka
 ---
 

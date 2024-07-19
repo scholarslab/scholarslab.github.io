@@ -4,13 +4,12 @@ date: 2012-05-02 09:31:17+00:00
 layout: post
 slug: prism-and-praxis-reflections
 title: Prism and Praxis Reflections
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Visualization and Data Mining
-tags:
 - praxis program
 - Prism
-- ruby
 ---
 
 It's been a whirlwind of a year, but we finally made it! We have a fully functional tool, we've fulfilled our goals from our charter, and we can all look back on everything we've learned this year and be astonished by how far we've come.

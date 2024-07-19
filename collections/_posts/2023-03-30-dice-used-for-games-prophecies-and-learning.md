@@ -4,10 +4,12 @@ date: 2023-03-30
 layout: post
 slug: dice-used-for-games-prophecies-and-learning
 title: "Dice Used for Games, Prophecies, and Learning: 3D Printing Ancient Knucklebones"
-categories:
-- Makerspace
-- Grad Student Research
+category: blog
 tags:
+- makerspace
+- Grad Student Research
+- 3D printing
+- archaeology
 - games
 ---
 

@@ -4,13 +4,10 @@ date: 2013-03-01 09:45:25+00:00
 layout: post
 slug: restarting-marionette-applications
 title: Restarting Marionette applications
-categories:
-- Research and Development
+category: blog
 tags:
-- backbone
-- Jasmine
-- javascript
-- marionette
+- Research and Development
+- code
 - neatline
 crosspost:
   - title: dclure.org

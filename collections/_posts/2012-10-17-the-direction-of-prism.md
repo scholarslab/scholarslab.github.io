@@ -4,10 +4,11 @@ date: 2012-10-17 11:27:23+00:00
 layout: post
 slug: the-direction-of-prism
 title: The Direction of Prism
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- prism
 ---
 
 This week, the team has been throwing around a number of ideas as to how we can further develop Prism. I keep falling back on spatial metaphors to categorize the changes currently in play. I threw the following model onto the SLab white board, wherein I propose two types of changes: vertical and horizontal.

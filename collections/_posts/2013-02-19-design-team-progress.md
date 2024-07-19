@@ -4,10 +4,10 @@ date: 2013-02-19 11:47:07+00:00
 layout: post
 slug: design-team-progress
 title: Design Team Progress
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - design
 - praxis program
 ---

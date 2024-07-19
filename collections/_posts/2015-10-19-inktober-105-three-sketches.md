@@ -4,10 +4,9 @@ date: 2015-10-19 11:03:49+00:00
 layout: post
 slug: inktober-105-three-sketches
 title: 'Inktober 10/5: Three Sketches'
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - ClockWork
 crosspost:
   - title: my post on our Praxis page

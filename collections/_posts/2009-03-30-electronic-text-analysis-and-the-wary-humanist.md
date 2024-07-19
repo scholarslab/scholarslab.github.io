@@ -4,7 +4,8 @@ date: 2009-03-30 17:18:34+00:00
 layout: post
 slug: electronic-text-analysis-and-the-wary-humanist
 title: Electronic Text Analysis and the Wary Humanist
-categories:
+category: blog
+tags:
 - Visualization and Data Mining
 ---
 

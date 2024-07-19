@@ -4,9 +4,9 @@ date: 2013-03-20 09:12:08+00:00
 layout: post
 slug: announcing-the-praxis-network
 title: Announcing the Praxis Network
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - pedagogy
 ---

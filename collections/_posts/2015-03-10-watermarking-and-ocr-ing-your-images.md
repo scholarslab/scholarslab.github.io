@@ -4,13 +4,12 @@ date: 2015-03-10 10:34:00+00:00
 layout: post
 slug: watermarking-and-ocr-ing-your-images
 title: Watermarking and OCR-ing Your Images
-categories:
-- Research and Development
+category: blog
 tags:
-- bash
-- OCR
-- ruby
-- watermark
+- Research and Development
+- transcription
+- tutorial
+- bibliography
 ---
 
 In the process of my dissertation research I have accumulated over 2,000 images, nearly all scans of documents. One goal of my dissertation is to make these documents open and available (where appropriate) in an Omeka repository. In order to more correctly attribute these documents to the archives where I got them, I need to place a watermark on each image.

@@ -4,11 +4,12 @@ date: 2024-04-23
 layout: post
 slug: setting-raspberry-pis-date-and-time
 title: "Setting Raspberry Pi's Date and Time"
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
 - electronics
-- programming
+- code
+- tutorial
 ---
 
 You have finally connected your Raspberry Pi to the internet and are ready to start your project. You are then hit with an error telling you that you can't access the web. It turns out that your Pi is set to a different year in a different timezone. This is how you manually change your date and time so that you can access the internet. 

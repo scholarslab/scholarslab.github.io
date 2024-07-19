@@ -4,9 +4,9 @@ date: 2013-05-03 16:25:12+00:00
 layout: post
 slug: random-skills-check
 title: 'Random Skills: Check'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

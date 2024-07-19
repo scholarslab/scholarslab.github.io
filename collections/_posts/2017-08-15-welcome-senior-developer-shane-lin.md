@@ -4,7 +4,7 @@ date: 2017-08-15 13:32:59+00:00
 layout: post
 slug: welcome-senior-developer-shane-lin
 title: Welcome Senior Developer Shane Lin!
-type: Announcement
+category: announcement
 ---
 
 The Scholars' Lab team is thrilled to welcome [Shane Lin](/people/shane-lin) as our new Senior Developer!

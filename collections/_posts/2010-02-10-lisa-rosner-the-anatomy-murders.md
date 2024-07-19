@@ -4,11 +4,10 @@ date: 2010-02-10 12:30:06+00:00
 layout: post
 slug: lisa-rosner-the-anatomy-murders
 title: 'Lisa Rosner: the Anatomy Murders'
-categories:
-- Podcasts
 tags:
+- Podcasts
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 _Up the close

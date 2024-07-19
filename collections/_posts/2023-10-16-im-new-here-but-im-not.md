@@ -3,9 +3,11 @@ author: kathleen-king
 date: 2023-10-16
 layout: post
 slug: im-new-here-but-im-not
-title: I'm New Here (But I'm Not)
-categories:
+title: "I'm New Here (But I'm Not)"
+category: blog
+tags:
 - Grad Student Research
+- hellow world
 ---
 
 Introductions feel so forced all the time, don’t they? I’m expected to condense my selfhood into a small, digestible piece of literature for the world to devour, preferably focusing on my “work”, whatever that means. What would you like me to say now? Age, gender, life expectancy, race, religion, job title—I don’t think any of it sums up my personhood, my humanity, in a way that feels gentle. To be clear, no one asked me to do it this way, no one ever does, but when you live in the academy you come to learn that when someone asks you to “say a few words about yourself”, what they really mean is “don’t waste my time with anything small; tell me about your latest project, your dissertation, your career.” What about everything else? What about those parts of me that the university hasn’t yet commodified—my loves, my losses, my soft, harmonic inconsistencies that could never be monetized? What about those moments when I feel most human, most seen, most held, most respected? Don’t you want to know about that, rather than my latest “project”? Isn’t that more exciting than data sets and field notes? 

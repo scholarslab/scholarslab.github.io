@@ -4,9 +4,9 @@ date: 2021-01-28
 layout: post
 slug: gis-workshops-spring-2021
 title: Virtual GIS Workshop Series for Spring 2021
-categories:
+tags:
 - Geospatial and Temporal
-type: announcement
+category: announcement
 ---
 
 This Spring, we'll be focusing entirely on ArcGIS Online (AGOL), Esri's GIS solution for the cloud. AGOL is browser-based, eliminating any Windows vs. Mac shenanigans, and enabling us to provide temporary access to members of the Charlottesville community that don't have UVA credentials. 

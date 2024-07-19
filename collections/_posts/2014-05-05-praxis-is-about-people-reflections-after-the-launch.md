@@ -4,13 +4,13 @@ date: 2014-05-05 14:00:21+00:00
 layout: post
 slug: praxis-is-about-people-reflections-after-the-launch
 title: 'Praxis is about people: reflections after the launch'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 - project-management
-- about-collaboration
+- about-collaboration-community
 ---
 
 When I initially drafted the Ivanhoe launch announcement, my goal was to make it communicate in as concise a fashion as possible what Ivanhoe was and where people could download it and learn more.  I completely forgot that Ivanhoe has been as much about us, the Praxis Fellows, and our learning, as about software development.  It wasn't until Bethany pointed out that everyone might not know who we were and I might want to include a paragraph describing the program.  It then occurred to me: just as Ivanhoe is ultimately about the players--encouraging self awareness through role playing--Praxis, too, is about the players.

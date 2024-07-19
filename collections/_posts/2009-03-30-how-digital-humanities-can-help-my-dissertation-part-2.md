@@ -4,7 +4,8 @@ date: 2009-03-30 17:18:18+00:00
 layout: post
 slug: how-digital-humanities-can-help-my-dissertation-part-2
 title: Mining and Mapping Apocalyptic Texts, Part 2
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 ---
 

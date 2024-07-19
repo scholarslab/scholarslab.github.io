@@ -4,9 +4,9 @@ date: 2013-04-29 09:04:19+00:00
 layout: post
 slug: graduate-fellows-forum-joanna-swafford
 title: 'Graduate Fellows Forum: Joanna Swafford'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Graduate Fellows Forum: Joanna Swafford**

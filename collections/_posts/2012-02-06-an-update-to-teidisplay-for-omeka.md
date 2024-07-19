@@ -4,10 +4,10 @@ date: 2012-02-06 11:38:08+00:00
 layout: post
 slug: an-update-to-teidisplay-for-omeka
 title: An Update to TEIDisplay for Omeka
+category: blog
 tags:
 - omeka
-- TEI
-- TEIDisplay
+- code
 ---
 
 This spring, my colleague Zane Schwarzlose and I are working on an update to the TEIDisplay plugin for Omeka, developed by Ethan Gruber at the Scholars’ Lab. While it’s a great tool, it was developed as part of previous versions of Omeka. Even then, it was at times difficult to use, and some TEI elements did not render correctly. We’re hoping to update the plugin and iron out some of those bugs as we progress.

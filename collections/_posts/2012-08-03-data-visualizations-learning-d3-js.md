@@ -4,11 +4,10 @@ date: 2012-08-03 12:35:30+00:00
 layout: post
 slug: data-visualizations-learning-d3-js
 title: 'Data visualizations: Learning d3.js'
-categories:
-- Visualization and Data Mining
+category: blog
 tags:
-- javascript
-- Programming
+- Visualization and Data Mining
+- code
 - visualization
 crosspost:
   - title: katinarogers.com

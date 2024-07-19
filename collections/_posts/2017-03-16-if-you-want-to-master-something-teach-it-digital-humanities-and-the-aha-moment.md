@@ -5,10 +5,9 @@ layout: post
 slug: if-you-want-to-master-something-teach-it-digital-humanities-and-the-aha-moment
 title: 'If You Want to Master Something, Teach it: Digital Humanities and the ‘Aha!’
   Moment'
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
-- Technical Training
 crosspost:
   - title: W&L DH blog
     url: http://digitalhumanities.wlu.edu/blog/2017/03/16/if-you-want-to-master-something-teach-it-digital-humanities-and-the-aha-moment/

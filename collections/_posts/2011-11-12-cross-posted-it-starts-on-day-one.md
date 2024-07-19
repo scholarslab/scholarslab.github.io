@@ -4,9 +4,9 @@ date: 2011-11-12 15:13:48+00:00
 layout: post
 slug: cross-posted-it-starts-on-day-one
 title: 'cross-posted: It Starts on Day One'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 crosspost:
   - title: nowviskie.org

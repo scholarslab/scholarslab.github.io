@@ -4,9 +4,9 @@ date: 2012-03-13 15:12:48+00:00
 layout: post
 slug: gis-day-2011-lightning-rounds
 title: GIS Day 2011 Lightning Rounds
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **GIS Day 2011 Lightning Rounds**

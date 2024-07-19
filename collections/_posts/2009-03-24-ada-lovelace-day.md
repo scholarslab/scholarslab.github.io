@@ -4,8 +4,9 @@ date: 2009-03-24 18:31:27+00:00
 layout: post
 slug: ada-lovelace-day
 title: Ada Lovelace Day
+category: blog
 tags:
-- Digital Libraries
+- gender
 ---
 
 Today has been declared -- quite spontaneously, and to the cheers of a great many people -- [Ada Lovelace Day](http://www.guardian.co.uk/technology/2009/mar/24/ada-lovelace-day), a day on which to honor women working in technology by [writing blog posts](http://findingada.com/) about their often-unsung achievements, and about ways in which they inspire and challenge us.

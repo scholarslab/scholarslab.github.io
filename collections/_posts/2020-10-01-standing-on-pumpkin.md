@@ -4,11 +4,14 @@ date: 2020-10-01
 layout: post
 slug: standing-on-pumpkin
 title: "Today, I stood on top of a giant pumpkin"
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - 3DCHI
-- VR
+- VR-AR
+- 3D modeling
+- learning
+- hall of fame
 ---
 Today, I stood on top of a giant pumpkin in the middle of a mountain range. I was a gnome, a pirate, a tube of toothpaste, and a carrot. Today was my first day in virtual reality. 
 

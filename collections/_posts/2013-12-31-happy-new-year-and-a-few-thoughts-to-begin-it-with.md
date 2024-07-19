@@ -4,9 +4,9 @@ date: 2013-12-31 17:12:34+00:00
 layout: post
 slug: happy-new-year-and-a-few-thoughts-to-begin-it-with
 title: Happy New Year! -- and a few thoughts to begin it with
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - project-management
 ---

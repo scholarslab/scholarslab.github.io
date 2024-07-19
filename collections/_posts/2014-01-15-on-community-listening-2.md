@@ -4,7 +4,8 @@ date: 2014-01-15 12:05:30+00:00
 layout: post
 slug: on-community-listening-2
 title: 'On Community Listening: 2'
-categories:
+category: blog
+tags:
 - Grad Student Research
 ---
 

@@ -4,11 +4,11 @@ date: 2017-11-21 14:35:21+00:00
 layout: post
 slug: learning-to-augment-reality
 title: Learning to Augment Reality
-categories:
-- Digital Humanities
-- Experimental Humanities
-- Grad Student Research
+category: blog
 tags:
+- VR
+- Geospatial and Temporal
+- Grad Student Research
 - UVA Reveal
 ---
 

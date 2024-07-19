@@ -5,11 +5,11 @@ layout: post
 slug: alt-ac-report-and-data
 title: 'Now available: Report and data from SCI’s survey on career prep and graduate
   education'
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - alt-ac
-- graduate training
+- pedagogy
 - Scholarly Communication Institute
 crosspost:
   - title: my personal website

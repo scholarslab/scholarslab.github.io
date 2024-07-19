@@ -4,9 +4,9 @@ date: 2008-10-09 11:39:38+00:00
 layout: post
 slug: biblical-statistics
 title: Biblical Statistics
-categories:
-- Visualization and Data Mining
+category: blog
 tags:
+- Visualization and Data Mining
 - Statistical Analysis
 ---
 

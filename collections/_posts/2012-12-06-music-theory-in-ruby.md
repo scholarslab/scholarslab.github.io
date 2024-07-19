@@ -4,12 +4,12 @@ date: 2012-12-06 11:42:37+00:00
 layout: post
 slug: music-theory-in-ruby
 title: Music Theory in Ruby
-categories:
-- Grad Student Research
+category: blog
 tags:
-- praxis music
+- Grad Student Research
+- music
 - praxis program
-- Programming
+- code
 ---
 
 Learning (and playing) with Ruby these past few weeks I've been looking for ways to solve modest, day-to-day Humanities problems. Digital Humanities, after all, doesn't just have to be about big questions like crowdsourcing, right?

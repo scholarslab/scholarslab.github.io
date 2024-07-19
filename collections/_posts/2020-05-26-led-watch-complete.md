@@ -4,13 +4,10 @@ date: 2020-05-26 16:09:04
 layout: post
 slug: led-watch-complete
 title: Led Watch Done... For Now
-categories:
-- Makerspace
+category: blog
 tags:
-- led
-- arduino
-- makerspace project
-- project documentation
+- makerspace
+- electronics
 - 3D printing
 ---
 ![LED Watch in all the Glory](/assets/post-media/led-watch-complete/the-watch.jpg)

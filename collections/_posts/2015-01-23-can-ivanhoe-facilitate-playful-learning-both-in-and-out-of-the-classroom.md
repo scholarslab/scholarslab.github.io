@@ -4,9 +4,9 @@ date: 2015-01-23 11:52:52+00:00
 layout: post
 slug: can-ivanhoe-facilitate-playful-learning-both-in-and-out-of-the-classroom
 title: Can Ivanhoe facilitate playful learning both in and out of the classroom?
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 - games

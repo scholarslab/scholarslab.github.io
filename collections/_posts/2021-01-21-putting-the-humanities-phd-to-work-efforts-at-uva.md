@@ -6,8 +6,11 @@ date: 2021-01-21
 layout: post
 slug: putting-the-humanities-phd-to-work-efforts-at-uva
 title: "Putting The Humanities Phd To Work: Efforts At UVA"
-categories:
+category: blog
+tags:
 - Pedagogy
+- professional development
+- labor
 crosspost:
 - title: the PHD+ Blog
   url: https://phdplus.virginia.edu/putting-humanities-phd-work-efforts-uva

@@ -4,13 +4,12 @@ date: 2011-09-27 12:00:21+00:00
 layout: post
 slug: the-joys-of-ruby
 title: The Joys of Ruby
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Prism
-- Programming
-- ruby
+- code
 ---
 
 It’s official: I think I might like Ruby.  Granted, I think I still slightly prefer Python, but I’m reaching the point where Ruby syntax seems to make sense and I understand methods, variables, the different types of loops, conditionals, and iterators, and I’m ready to learn more about classes, attributes, and instance variables.  The exercises assigned for this week took substantially less time than those from the week before, and I hope that this is a sign that my dream of coding proficiency from my [blog post of two weeks ago ](http://www.scholarslab.org/praxis-program/programming-for-prism/)will one day come true.

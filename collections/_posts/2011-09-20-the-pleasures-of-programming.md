@@ -4,11 +4,11 @@ date: 2011-09-20 17:13:47+00:00
 layout: post
 slug: the-pleasures-of-programming
 title: The Pleasures of Programming
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
+- code
 ---
 
 Instead of continuing the text-mining debate, I want to reflect on our programming lesson last week and our [homework](http://praxis.scholarslab.org/exercises/programming1/) this week. I’m writing this from the Scholars' Lab grad fellows lounge, where about half of the Praxis team is working through some of our Ruby homework with Eric and Wayne’s expert, patient assistance. Annie just exclaimed with happiness when she figured out how to calculate grades with an array. We all smiled and Wayne seemed especially happy to see his student catching on and feeling good about her progress. There is something so satisfying about programming, about telling a computer to do something and having it do what you want, even if you’re just telling it to spit out a few numbers under certain conditions.  We are learning to create a program and make it respond to our commands, and that seems to give us a more intense or more satisfying pleasure than we get as users telling Google to execute a search or telling Windows to open a file. This satisfaction is particularly notable to me, and I presume to many of the other grad students in the Praxis program, because our work in the humanities is never so cut and dry with such easy, absolute measures of success and failure and with such ownership of the process from beginning to end.

@@ -4,8 +4,16 @@ date: 2015-09-30 15:52:49+00:00
 layout: post
 slug: preserving-reconstructing-teaching-in-3d
 title: Preserving, Reconstructing, & Teaching in 3D
-categories:
+category: blog
+tags:
 - Grad Student Research
+- 3DCHI
+- archaeology
+- makerspace
+- 3D modeling
+- photogrammetry
+- 3D printing
+- architecture
 crosspost:
   - title: my personal blog
     url: http://jennifergrayburn.com/2015/10/13/preserving-reconstructing-and-teaching-in-3d/

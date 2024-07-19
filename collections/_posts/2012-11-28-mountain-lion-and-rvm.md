@@ -4,12 +4,9 @@ date: 2012-11-28 11:32:30+00:00
 layout: post
 slug: mountain-lion-and-rvm
 title: Mountain Lion and RVM
-categories:
-- Research and Development
+category: blog
 tags:
-- os x
-- ruby
-- rvm
+- Research and Development
 ---
 
 I recently upgraded my computer to use the latest version of OS X (Mountain Lion) and I ran in to a problem with the [rvm](https://rvm.io/) package manager. Basically I would get to the point of actually compiling the version of Ruby, and get this nasty error:

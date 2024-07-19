@@ -4,9 +4,9 @@ date: 2014-03-25 01:05:14+00:00
 layout: post
 slug: development-design-and-the-distance-in-between
 title: Development, Design, and the Distance in-between
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 ---

@@ -4,8 +4,10 @@ date: 2014-10-21 17:01:11+00:00
 layout: post
 slug: come-explore-the-makerspace
 title: Come explore the Makerspace!
-categories:
-- Experimental Humanities
+category: blog
+tags:
+- makerspace
+- hello world
 ---
 
 Hello! My name is Ethan Reed. I’m a second-year PhD candidate in UVa’s Department of English, and one of the Student Assistants in the Makerspace at the Scholars’ Lab.

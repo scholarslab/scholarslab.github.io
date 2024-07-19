@@ -4,9 +4,9 @@ date: 2023-01-18
 layout: post
 title: Paranormal Maptivity. GIS Workshops That Are Scary Fun.
 slug: gis-workshops-spring-2023
-categories:
+tags:
 - Geospatial and Temporal
-type: announcement
+category: announcement
 ---
 
 Spring is springing, which means we'll be shifting our workshop focus from ArcGIS Pro to ArcGIS Online (AGOL), Esri's GIS solution for the cloud. AGOL is browser-based, eliminating any Windows vs. Mac shenanigans, and allowing us to provide temporary access to members of the community that don't have UVA credentials. 

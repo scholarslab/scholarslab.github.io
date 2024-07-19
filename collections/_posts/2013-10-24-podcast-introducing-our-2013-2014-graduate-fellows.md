@@ -4,9 +4,9 @@ date: 2013-10-24 09:48:14+00:00
 layout: post
 slug: podcast-introducing-our-2013-2014-graduate-fellows
 title: 'Podcast: Introducing Our 2013-2014 Graduate Fellows'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Graduate Fellows Forum**

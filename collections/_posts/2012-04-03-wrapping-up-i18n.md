@@ -4,11 +4,10 @@ date: 2012-04-03 15:07:38+00:00
 layout: post
 slug: wrapping-up-i18n
 title: Wrapping up i18n
-categories:
-- Grad Student Research
+category: blog
 tags:
-- development
-- i18n
+- Grad Student Research
+- code
 - praxis program
 ---
 

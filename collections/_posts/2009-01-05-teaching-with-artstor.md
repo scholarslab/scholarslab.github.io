@@ -4,8 +4,13 @@ date: 2009-01-05 14:36:48+00:00
 layout: post
 slug: teaching-with-artstor
 title: Teaching with ARTStor
+category: blog
 tags:
-- Digital Libraries
+- Grad Student Research
+- pedagogy
+- history
+- Architectural History
+- religion
 ---
 
 I am a teaching assistant for a course on the early history of Christianity. When the professor for the course asked me to lecture for him on early church art and architecture, I was excited. I had recently come upon the new ARTStor online database, and couldn’t wait to find digital images of the churches I wanted to cover in my lecture. But then he said, “I’ll go over to the slide library with you sometime next week and introduce you to the folks there, and they’ll help you pull slides.” Now I had a conflict: Do I do it the old-fashioned way, my professor’s way? Or do I take advantage of what the latest technology has to offer?

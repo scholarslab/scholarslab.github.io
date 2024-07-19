@@ -4,11 +4,11 @@ date: 2016-01-19 12:03:46+00:00
 layout: post
 slug: working-with-d3-part-2
 title: Working with D3, Part 2
-categories:
-- Visualization and Data Mining
+category: blog
 tags:
-- candy
-- d3
+- Visualization and Data Mining
+- code
+- tutorial
 ---
 
 [![candies](http://static.scholarslab.org/wp-content/uploads/2016/01/candies.png)](http://static.scholarslab.org/wp-content/uploads/2016/01/candies.png)

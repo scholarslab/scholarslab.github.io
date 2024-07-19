@@ -4,12 +4,11 @@ date: 2012-12-13 11:33:40+00:00
 layout: post
 slug: ruby-grading-2-0
 title: Ruby Grading 2.0
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
-- ruby
+- code
 ---
 
 I just recently posted my [experiment with making a Ruby program that you can use for doing your own grading](http://www.scholarslab.org/praxis-program/grading-in-ruby/). I have since made several improvements upon the first draft of the code, so I present to you [Ruby Grading 2.0.](https://github.com/bmw9t/LRTHW/blob/master/other%20stuff/grading2.0.rb)

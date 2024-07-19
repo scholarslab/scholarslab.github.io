@@ -4,9 +4,9 @@ date: 2011-09-05 22:31:42+00:00
 layout: post
 slug: evaluating-digital-work-suggestions
 title: 'Evaluating Digital Work: Suggestions'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

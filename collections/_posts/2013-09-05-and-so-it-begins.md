@@ -4,9 +4,9 @@ date: 2013-09-05 17:15:48+00:00
 layout: post
 slug: and-so-it-begins
 title: And so it begins...
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

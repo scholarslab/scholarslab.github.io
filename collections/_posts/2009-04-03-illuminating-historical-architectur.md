@@ -4,7 +4,8 @@ date: 2009-04-03 16:30:22+00:00
 layout: post
 slug: illuminating-historical-architectur
 title: Illuminating Historical Architecture
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
 ---

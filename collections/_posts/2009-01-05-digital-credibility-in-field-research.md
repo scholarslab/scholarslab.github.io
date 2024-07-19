@@ -3,7 +3,12 @@ author: w-f-umi-hsu
 date: 2009-01-05 14:37:05+00:00
 layout: post
 slug: digital-credibility-in-field-research
-title: “Digital Credibility” in Field Research
+title: “'Digital Credibility' in Field Research"
+category: blog
+tags:
+- Social Sciences
+- hello world
+- anthropology
 ---
 
 I’m an ethnographer/blogger.

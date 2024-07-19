@@ -4,7 +4,7 @@ date: 2019-04-15 10:23:43
 layout: post
 slug: announcing-2019-2020-fellows
 title: Announcing 2019-2020 Fellows!
-type: Announcement
+category: announcement
 ---
 We are thrilled to announce the 2019-2020 Scholar’s Lab fellows for the Praxis Program and the Graduate Fellowship in the Digital Humanities. We are welcoming 8 fellows from 4 disciplines from the arts, humanities, and social sciences and the School of Architecture. Our graduate fellows are joining a robust and vibrant community of past students!
 

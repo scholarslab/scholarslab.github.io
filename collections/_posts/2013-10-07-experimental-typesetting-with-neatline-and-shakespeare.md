@@ -4,11 +4,10 @@ date: 2013-10-07 10:45:05+00:00
 layout: post
 slug: experimental-typesetting-with-neatline-and-shakespeare
 title: Experimental typesetting with Neatline and Shakespeare
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - neatline
-- shakespeare
 crosspost:
   - title: dclure.org
     url: http://dclure.org/?p=3088

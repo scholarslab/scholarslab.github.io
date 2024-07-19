@@ -4,13 +4,12 @@ date: 2010-03-25 14:57:34+00:00
 layout: post
 slug: mr-voronoi-meet-the-us-state-boundaries
 title: Mr. Voronoi, meet the US state boundaries
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
 - cartography
 - gis
-- map
 - visualization
 ---
 

@@ -4,9 +4,10 @@ date: 2024-04-02
 layout: post
 slug: papercraft-origami-kraken
 title: "Papercraft: Origami Kraken"
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
+- expansive makerspace
 ---
 If you've ever been to the Scholar's Lab Makerspace, you have at one point or another seen Lionel. Lionel is our resident kraken and the mascot of the Makerspace. Through the Japanese art of origami, folding paper, you can bring Lionel to life and create your own paper kraken. All you need is a piece of paper. 
 

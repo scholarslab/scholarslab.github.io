@@ -4,8 +4,10 @@ date: 2012-09-18 10:05:54+00:00
 layout: post
 slug: code-spelunking-with-ctags-and-vim
 title: Code Spelunking with Ctags and Vim
-categories:
+category: blog
+tags:
 - Research and Development
+- code
 ---
 
 When I’m programming, I spend a lot of time code spelunking (_use the source, Luke!_). A lot of times, the best documentation for a system is the source code for it. Knowing how to get to important places in your code and in others’ code makes a huge difference in how productive you are and even in what you can figure out how to do.

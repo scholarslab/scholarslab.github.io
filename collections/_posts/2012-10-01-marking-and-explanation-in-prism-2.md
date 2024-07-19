@@ -4,11 +4,10 @@ date: 2012-10-01 15:08:17+00:00
 layout: post
 slug: marking-and-explanation-in-prism-2
 title: Marking and Explanation in Prism
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- requirements-gathering
 ---
 
 My first experience with [Prism](http://prism.scholarslab.org/) last spring brought something of an existential crisis along with it, when I was asked to mark my beloved _A Portrait of the Artist as a Young Man_ in terms of realism/modernism:

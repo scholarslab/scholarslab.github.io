@@ -4,15 +4,11 @@ date: 2013-08-15 09:19:16+00:00
 layout: post
 slug: problem-solving-with-html5-audio
 title: Problem Solving with HTML5 Audio
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - audio
-- faulkner
-- html5
-- javascript
-- mp3
-- ogg
+- code
 ---
 
 Several years ago I worked on a project to take recordings made of William Faulkner while he was the Writer-in-Residence at the University of Virginia in 1957 and 1958. The project, [Faulkner at Virginia](http://faulkner.lib.virginia.edu), transcribed the audio and then keyed the main components of the audio to the text using TEI. In order to provide playback of an individual clip, we used a streaming server ([Darwin Streaming Server](https://en.wikipedia.org/wiki/Darwin_Streaming_Server)) that was being managed by another group. This allowed me to provide "random" access to the components of the audio, without needing to split up the files. Using the associated API, I could generate a clip of the data with something like this:

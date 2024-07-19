@@ -4,8 +4,7 @@ date: 2011-07-05 10:16:31+00:00
 layout: post
 slug: fedora-connector-new-and-improved
 title: Fedora Connector - New and Improved
-categories:
-- Announcements
+tags:
 - Research and Development
 ---
 

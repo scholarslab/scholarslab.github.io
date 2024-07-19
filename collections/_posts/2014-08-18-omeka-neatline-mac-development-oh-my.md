@@ -4,8 +4,11 @@ date: 2014-08-18 09:41:08+00:00
 layout: post
 slug: omeka-neatline-mac-development-oh-my
 title: Omeka, Neatline, Mac, development, oh my!
-categories:
+category: blog
+tags:
 - Research and Development
+- omeka
+- neatline
 ---
 
 At the Scholars' Lab, we're big big advocates of Open Source. All of our projects are available freely and openly on [Github](https://github.com/), and we're always more than happy to accept pull requests. We'd like to be able to empower everyone to contribute to our projects as much as they're able to and comfortable with.

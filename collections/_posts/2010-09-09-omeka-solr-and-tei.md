@@ -4,8 +4,10 @@ date: 2010-09-09 11:50:16+00:00
 layout: post
 slug: omeka-solr-and-tei
 title: Omeka, Solr, and TEI
-categories:
+category: blog
+tags:
 - Research and Development
+- Omeka
 ---
 
 One of the most vital tools that computers bestow upon the humanities scholar is the ability to rapidly sort and group data that are relevant to the scholar's own research needs.  A digital collection of several thousand artifacts is useful, but it is even more useful if, for example, the user can filter the results for lithographs created or published by a certain person or corporate identity.  Omeka's built-in search mechanism is fairly simple, and it may suffice for most collections, but it may also fall short of providing the kind of advanced querying abilities that scholars are growing accustomed to with other digital collections, such as Northwestern's [Winterton Collection](http://repository.library.northwestern.edu/winterton/browse.html#actiontgetAllPhotos) or [modern library catalogs](http://search.lib.virginia.edu) such as the one released publicly here at the University of Virginia Library in July.  Apache Solr is an open-source Java-based search index that provides this functionality.

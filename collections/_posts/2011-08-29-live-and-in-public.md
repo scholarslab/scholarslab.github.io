@@ -4,12 +4,10 @@ date: 2011-08-29 19:19:30+00:00
 layout: post
 slug: live-and-in-public
 title: Live and in public!
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
-- Digital Humanities
 - praxis program
 ---
 

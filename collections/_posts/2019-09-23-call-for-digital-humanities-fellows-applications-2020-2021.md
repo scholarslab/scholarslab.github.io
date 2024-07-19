@@ -3,8 +3,8 @@ author: brandon-walsh
 date: 2019-09-23 10:02:40
 layout: post
 slug: call-for-digital-humanities-fellows-applications-2020-2021
-title: Call For Digital Humanities Fellows Applications - 2020-2021
-type: Announcement
+title: "Call For Digital Humanities Fellows Applications - 2020-2021"
+category: announcement
 ---
 We are now accepting applications for the 2020-2021 Digital Humanities Fellowship Cohort.
 

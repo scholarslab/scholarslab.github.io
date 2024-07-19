@@ -4,8 +4,10 @@ date: 2023-08-14
 layout: post
 slug: finding-the-community-after-twitter
 title: Finding The Community After Twitter
+category: blog
 tags:
 - social media
+- about-collaboration-community
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/finding-the-community-after-twitter

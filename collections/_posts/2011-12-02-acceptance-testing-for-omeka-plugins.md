@@ -4,12 +4,11 @@ date: 2011-12-02 16:40:58+00:00
 layout: post
 slug: acceptance-testing-for-omeka-plugins
 title: Acceptance Testing for Omeka Plugins
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - code
 - omeka
-- requirements-gathering
 ---
 
 For the month of December, I'm going to be heads-down on NeatlineFeatures ([project page](http://neatline.scholarslab.org/plugins/neatline-features/); [Github](https://github.com/scholarslab/NeatlineFeatures)). This is an [Omeka](http://omeka.org/) plugin that lets people associate geo-spatial metadata with Omeka items by drawing on a map.

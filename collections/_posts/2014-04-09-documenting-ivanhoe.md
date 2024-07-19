@@ -4,10 +4,9 @@ date: 2014-04-09 14:00:22+00:00
 layout: post
 slug: documenting-ivanhoe
 title: Documenting Ivanhoe
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - documentation
 - Ivanhoe
 - praxis program

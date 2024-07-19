@@ -4,9 +4,9 @@ date: 2013-11-25 13:48:52+00:00
 layout: post
 slug: better-focus
 title: "Better :focus"
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - accessibility
 - design
 ---

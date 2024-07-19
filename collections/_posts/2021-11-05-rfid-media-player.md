@@ -4,12 +4,11 @@ date: 2021-11-05
 layout: post
 slug: rfid-media-player
 title: Making an RFID Media Player
-categories:
-- Makerspace
+category: blog
 tags:
 - makerspace
 - electronics
-- raspberry-pi
+- tutorial
 ---
 <style>
   img {

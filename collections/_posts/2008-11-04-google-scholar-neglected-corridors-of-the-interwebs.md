@@ -4,8 +4,10 @@ date: 2008-11-04 12:20:12+00:00
 layout: post
 slug: google-scholar-neglected-corridors-of-the-interwebs
 title: 'Google Scholar:  Neglected Corridors of the Interwebs'
+category: blog
 tags:
-- Digital Libraries
+- Grad Student Research
+- hello world
 ---
 
 Welcome to my first post here on the Scholars’ Lab blog.  My name is Jason Kirby and I’m a third-year Ph.D. student in the Music department at UVa.  I’m in the “Critical and Comparative Studies” track of my program, which means I look at musical sound and musicians through a cultural studies lens.  I’m planning a dissertation on intersections between country and rock music over the past thirty years, and when considering the wide spectrum of academic musicology, I’m squarely a pop music studies guy.  I’ve written about artists ranging from Lucinda Williams to Throbbing Gristle&mdash;artists about whom there’s a fair amount of popular-press ink spilled, but not necessarily much scholarly writing (yet).  This brings me to the subject of today’s post.

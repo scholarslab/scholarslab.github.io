@@ -4,11 +4,11 @@ date: 2024-03-22
 layout: post
 slug: beep-boop-littlebits-droid-inventor
 title: "Beep-boop: littleBits Droid Inventor"
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
 - electronics
-- programming
+- code
 ---
 ![](/assets/post-media/r2-d2/2024-05-23-r2.JPG)
 

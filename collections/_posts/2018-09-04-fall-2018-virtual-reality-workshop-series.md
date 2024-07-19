@@ -4,10 +4,9 @@ date: 2018-09-04 19:10:30+00:00
 layout: post
 slug: fall-2018-virtual-reality-workshop-series
 title: Fall 2018 Virtual Reality Workshop Series
-categories:
+tags:
 - Geospatial and Temporal
-- Technical Training
-type: announcement
+category: announcement
 ---
 
 

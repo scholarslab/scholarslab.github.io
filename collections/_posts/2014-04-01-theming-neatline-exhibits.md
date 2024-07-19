@@ -4,10 +4,9 @@ date: 2014-04-01 13:16:12+00:00
 layout: post
 slug: theming-neatline-exhibits
 title: Creating themes for individual Neatline exhibits
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- grunt
+- Geospatial and Temporal
 - neatline
 - omeka
 ---

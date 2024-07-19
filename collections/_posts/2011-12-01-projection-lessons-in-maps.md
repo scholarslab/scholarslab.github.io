@@ -4,14 +4,12 @@ date: 2011-12-01 15:41:26+00:00
 layout: post
 slug: projection-lessons-in-maps
 title: Projection Lessons in Maps
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
-- cahill
 - gis
 - map
-- projections
 - Social Sciences
 ---
 

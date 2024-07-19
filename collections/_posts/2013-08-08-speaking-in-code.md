@@ -4,14 +4,13 @@ date: 2013-08-08 11:02:33+00:00
 layout: post
 slug: speaking-in-code
 title: Speaking in Code
-categories:
-- Digital Humanities
+category: blog
 tags:
 - alt-ac
 - code
 - design
 - development
-type: Announcement
+category: announcement
 ---
 
 We're pleased to announce that applications are open for a 2-day, [NEH-funded](http://neh.gov) symposium and summit to be held at the Scholars' Lab this November 4th and 5th.

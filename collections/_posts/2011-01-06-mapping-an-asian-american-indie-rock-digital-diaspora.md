@@ -4,7 +4,8 @@ date: 2011-01-06 13:59:57+00:00
 layout: post
 slug: mapping-an-asian-american-indie-rock-digital-diaspora
 title: Mapping an Asian American Indie Rock Digital Diaspora
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Grad Student Research
 ---
@@ -23,7 +24,7 @@ To create such a map, I designed and executed out a two-phase method. Phase 1 is
 
 To extract and process these data sets, with the help of [Joe Gilbert](http://www.scholarslab.org/contributors/jfg9x/),  I wrote a program using Ruby to parse out the relevant information in  the source code of the profile pages of The Kominas' Myspace friends.  The Kominas [as of April 2010] had close to 3,000 friends on Myspace.  These are all Myspace users who have requested to become friends with  The Kominas, or vice versa. Using [Mechanize](http://mechanize.rubyforge.org/mechanize/),  a Ruby gem, the program extracted all the geographically related text  from the Myspace profile pages of 2,867 friends. Using the [Geokit](http://geokit.rubyforge.org/), a ruby gem that implements the [Google Geocoder](http://www.coldfusionjedi.com/demos/googlegeocode/test.cfm), the program translated this information into a set of spatial coordinates, specifically, latitude and longitude.
 
-Phase 2 - geospatial visualization – is the process of turning the harvested data into a meaningful visualization. Using [OpenLayers](http://openlayers.org/),  an open-source mapping program, I created a dynamic map containing all  the points of the physical locations of the band’s Myspace friends and  performance tours. To contextualize the reading of the physical points, I  added various map layers. For example, I added a Google street map  layer to label the visualization with the proper name of countries and  cities. The rest of my efforts were spent to refine the map, to make it  readable and meaningful.
+Phase 2 - Geospatial and Temporal visualization – is the process of turning the harvested data into a meaningful visualization. Using [OpenLayers](http://openlayers.org/),  an open-source mapping program, I created a dynamic map containing all  the points of the physical locations of the band’s Myspace friends and  performance tours. To contextualize the reading of the physical points, I  added various map layers. For example, I added a Google street map  layer to label the visualization with the proper name of countries and  cities. The rest of my efforts were spent to refine the map, to make it  readable and meaningful.
 
 
 ## [The Kominas' Digital Diaspora Map: GO!](http://beingwendyhsu.info/wp-content/uploads/2010/12/kominasmap3.html)

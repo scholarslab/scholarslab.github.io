@@ -4,13 +4,11 @@ date: 2012-05-07 14:47:07+00:00
 layout: post
 slug: no-famous-last-words
 title: Got Prism?
-categories:
-- Grad Student Research
+category: blog
 tags:
-- false binaries
+- Grad Student Research
 - praxis program
-- Programming
-- theory
+- code
 ---
 
 Funny thing about collaborative projects in the (digital) humanities: No famous last words. A nun scholar lives and dies by her last words, but around here we're just part of an [incredibox](http://www.incredibox.com/en/#/application). On the week when we release [Prism](http://prism.scholarslab.org/), I could regale you with all the lessons I learned this year (right about doubled the stock), how wonderful this whole experience has been (I wouldn't trade your post-doc for my praxis), what exciting times we live in (don't look down), but after perusing the drafts queued up on the wp-admin, it sounds like those tunes will be sung to perfection by my fellow praxers. Let me instead play a bit.

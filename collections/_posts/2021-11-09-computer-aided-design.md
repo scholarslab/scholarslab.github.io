@@ -4,8 +4,7 @@ date: 2021-11-09
 layout: post
 slug: computer-aided-design
 title: "Computer-Aided Design Software: An Introductory Guide to Solidworks 2021" 
-categories:
-- Makerspace
+category: blog
 tags:
 - makerspace
 - tutorial

@@ -4,6 +4,7 @@ date: 2024-01-09
 layout: post
 slug: teaching-statement-in-thirteen-images
 title: Teaching Statement in Thirteen Images
+category: blog
 tags:
 - pedagogy
 crosspost:

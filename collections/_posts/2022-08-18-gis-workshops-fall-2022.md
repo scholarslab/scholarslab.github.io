@@ -4,9 +4,9 @@ date: 2022-08-18
 layout: post
 slug: gis-workshops-fall-2022
 title: You're spatial, I'm spatial, that's terrific. Let's talk about our Fall GIS Workshop series.
-categories:
+tags:
 - Geospatial and Temporal
-type: announcement
+category: announcement
 ---
 
 With apologies to the Coen Brothers for loosely borrowing a [classic Big Lebowski quote](https://movie-sounds.org/comedy-movie-sounds/quotes-with-sound-clips-from-the-big-lebowski/okay-sir-you-re-a-lebowski-i-m-a-lebowski-that-s-terrific) for the title, we're here to announce our GIS workshop series and to let you know that we will be continuing virtually this semester. And, if there's one thing we've learned from recipe blogs, it's that all the important information goes at the very end, so scroll down or [click here](https://guides.lib.virginia.edu/gis/home) for more deets about the pluses and minuses of teaching virtually.

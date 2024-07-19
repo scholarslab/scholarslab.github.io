@@ -4,17 +4,14 @@ date: 2015-06-11 14:59:18+00:00
 layout: post
 slug: summer-in-the-makerspace-mucha-smart-dress-part-i
 title: 'Summer in the Makerspace: Mucha Smart Dress, Part I'
-categories:
-- Experimental Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - 3D printing
-- Adafruit
-- Arduino
-- FLORA
-- Lilypad
-- Makerspace
-- Wearables
+- electronics
+- fabric arts
+- expansive makerspace
+- makerspace
 ---
 
 Bonjour à tous!

@@ -6,7 +6,7 @@ slug: are-you-our-new-senior-developer
 title: Are You Our New Senior Developer?
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 _Note: Applications for the Senior Developer role have closed. [Welcome to new Scholars' Lab Senior Developer Shane Lin](http://scholarslab.org/announcements/welcome-senior-developer-shane-lin/)!_

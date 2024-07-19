@@ -4,9 +4,10 @@ date: 2014-06-05 14:44:40+00:00
 layout: post
 slug: come-work-with-us-makerspace-student-consultant
 title: Come Work With Us in Our New Makerspace
-categories:
-- Experimental Humanities
-type: Announcement
+category: blog
+tags:
+- staffing
+category: announcement
 ---
 
 _Are you a UVA graduate student or upper-level undergraduate in the humanities?  Interested working in our new Makerspace?_

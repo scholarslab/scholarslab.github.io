@@ -4,7 +4,8 @@ date: 2008-11-19 11:09:46+00:00
 layout: post
 slug: map-vocabularies
 title: Map "Vocabularies"
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
 ---

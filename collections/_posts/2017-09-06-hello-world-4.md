@@ -4,9 +4,9 @@ date: 2017-09-06 12:47:33+00:00
 layout: post
 slug: hello-world-4
 title: Hello World!
-categories:
-- Experimental Humanities
+category: blog
 tags:
+- Experimental Humanities
 - praxis program
 - UVA Reveal
 ---

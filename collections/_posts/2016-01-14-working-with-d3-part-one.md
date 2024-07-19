@@ -3,13 +3,12 @@ author: ammon-shepherd
 date: 2016-01-14 13:15:41+00:00
 layout: post
 slug: working-with-d3-part-one
-title: Working with D3, Part One.
-categories:
-- Visualization and Data Mining
+title: "Working with D3, Part One."
+category: blog
 tags:
-- charts
-- d3
-- graphs
+- Visualization and Data Mining
+- code
+- tutorial
 ---
 
 [![graph](http://static.scholarslab.org/wp-content/uploads/2016/01/graph.png)](http://static.scholarslab.org/wp-content/uploads/2016/01/graph.png)

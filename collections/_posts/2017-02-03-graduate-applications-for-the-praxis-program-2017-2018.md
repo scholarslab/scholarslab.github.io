@@ -4,7 +4,7 @@ date: 2017-02-03 17:04:36+00:00
 layout: post
 slug: graduate-applications-for-the-praxis-program-2017-2018
 title: Graduate Applications for the Praxis Program, 2017-2018
-type: Announcement
+category: announcement
 ---
 
 ![2014-15 Praxis Fellows](http://static.scholarslab.org/wp-content/uploads/2017/02/Praxis15-16Fellows-300x189.jpeg)

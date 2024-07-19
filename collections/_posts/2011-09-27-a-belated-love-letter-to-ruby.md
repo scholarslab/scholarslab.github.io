@@ -4,11 +4,11 @@ date: 2011-09-27 10:02:30+00:00
 layout: post
 slug: a-belated-love-letter-to-ruby
 title: A belated love letter to Ruby
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
+- code
 ---
 
 Today in the Scholars’ Lab Grad Fellows office I had a brief conversation with Alex about learning programming.

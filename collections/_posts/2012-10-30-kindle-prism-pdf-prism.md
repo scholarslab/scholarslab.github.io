@@ -4,10 +4,10 @@ date: 2012-10-30 11:26:31+00:00
 layout: post
 slug: kindle-prism-pdf-prism
 title: Kindle Prism? PDF Prism?
-categories:
-- Grad Student Research
+category: blog
 tags:
-- praxis prism
+- Grad Student Research
+- prism
 - praxis program
 ---
 

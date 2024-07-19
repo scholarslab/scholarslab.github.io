@@ -4,9 +4,9 @@ date: 2014-09-15 15:33:18+00:00
 layout: post
 slug: about-whom-i-have-become
 title: 'About Whom I Have Become... '
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

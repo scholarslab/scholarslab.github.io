@@ -4,11 +4,11 @@ date: 2012-03-13 18:04:10+00:00
 layout: post
 slug: lets-get-visual
 title: "Let's get visual."
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
 - Visualization and Data Mining
-tags:
 - praxis program
 - Prism
 - visualization

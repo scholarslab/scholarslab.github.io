@@ -4,8 +4,8 @@ date: 2017-05-22 11:17:50+00:00
 layout: post
 slug: introductions-meet-charm-and-wit-or-wit-and-charm
 title: 'Introductions: Meet Charm and Wit, or Wit and Charm'
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
 ---
 

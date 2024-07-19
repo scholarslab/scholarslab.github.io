@@ -4,8 +4,8 @@ date: 2014-03-28 12:28:40+00:00
 layout: post
 slug: fedoraconnector-2-0
 title: FedoraConnector 2.0
+category: blog
 tags:
-- fedora
 - omeka
 ---
 

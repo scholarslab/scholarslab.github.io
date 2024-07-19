@@ -4,8 +4,10 @@ date: 2013-05-14 09:58:37+00:00
 layout: post
 slug: arduino-rainbow-hack
 title: Arduino Rainbow Hack
-categories:
-- Experimental Humanities
+category: blog
+tags:
+- electronics
+- makerspace
 ---
 
 The following was co-authored and co-hacked with [Claire](http://www.scholarslab.org/people/claire-maiers/).

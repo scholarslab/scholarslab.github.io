@@ -4,11 +4,10 @@ date: 2013-10-09 00:27:03+00:00
 layout: post
 slug: more-fun-with-interactive-typesetting-a-coat-by-yeats
 title: 'More fun with interactive typesetting: "A Coat," by Yeats'
-categories:
-- Experimental Humanities
+category: blog
 tags:
+- Experimental Humanities
 - neatline
-- yeats
 crosspost:
   - title: dclure.org
     url: http://dclure.org/essays/more-fun-with-interactive-typesetting-a-coat-by-yeats/

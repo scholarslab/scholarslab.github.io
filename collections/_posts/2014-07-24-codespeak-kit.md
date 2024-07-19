@@ -4,11 +4,11 @@ date: 2014-07-24 09:20:14+00:00
 layout: post
 slug: codespeak-kit
 title: 'Announcing the #Codespeak Kit!'
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - development
-- Programming
+- code
 ---
 
 [![screenshot from the speaking in code website](http://static.scholarslab.org/wp-content/uploads/2014/07/Screenshot-2014-07-24-09.00.36-225x300.png)](http://codespeak.scholarslab.org)

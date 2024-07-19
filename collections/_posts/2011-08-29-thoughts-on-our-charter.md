@@ -4,13 +4,12 @@ date: 2011-08-29 23:09:57+00:00
 layout: post
 slug: thoughts-on-our-charter
 title: Thoughts on our Charter
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - credit
 - praxis program
-- publishing
 ---
 
 Although I have experience in designing my own digital project (through NINES) and in working on pre-existing ones (through Documents Compass’s Adams and Madison papers projects), I’m getting my first taste of being on a team that will work together to design and manage a project.  Since my thinking tends to be more detail-oriented than abstract, the act of coming up with a charter to govern our interactions before we have a sense of the project itself is a challenge, but a welcome one.

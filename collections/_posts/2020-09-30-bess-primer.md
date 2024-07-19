@@ -4,11 +4,12 @@ date: 2020-09-30
 layout: post
 slug: bess-primer
 title: "BESS: A Very Short Primer"
-categories:
+category: blog
+tags:
 - Research and Development
 - Grad Student Research
-tags:
 - CBW
+- literature
 ---
 
 *Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?”*

@@ -6,12 +6,13 @@ date: 2020-10-27
 layout: post
 slug: 2020-praxis-charter-blog
 title: "Pandemic, Puppets, Peppers: On Writing & Performing a Praxis Program Charter in 2020"
-categories:
-- Grad Student Research
+category: blog
 tags:
-- Puppets
-- Zoom
-- Praxis Fellowship 2020
+- Grad Student Research
+- charter
+- praxis program
+- hall of fame
+- about-collaboration-community
 ---
 
 The 2020-2021 Praxis Cohort had launched their charter! Check it out over on the [Praxis website](http://praxis.scholarslab.org/charter/charter-2020-2021/). 

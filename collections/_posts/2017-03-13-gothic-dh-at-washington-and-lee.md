@@ -4,11 +4,10 @@ date: 2017-03-13 09:00:54+00:00
 layout: post
 slug: gothic-dh-at-washington-and-lee
 title: “Gothic DH” at Washington and Lee
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Experimental Humanities
 - Grad Student Research
-tags:
 - WLU Collab
 crosspost:
   - title: W&L DH blog

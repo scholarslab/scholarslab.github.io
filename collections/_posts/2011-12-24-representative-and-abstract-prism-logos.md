@@ -4,12 +4,11 @@ date: 2011-12-24 10:16:04+00:00
 layout: post
 slug: representative-and-abstract-prism-logos
 title: Representative and Abstract Prism Logos
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Logo
 - praxis program
-- wireframes
 ---
 
 The prism Logo now has four prototypes. I spent part of the Thanksgiving holiday a few weeks ago creating ten to fifteen options and presented them to the group at our Tuesday meeting two weeks ago. My initial intention was to focus on creating a cohesive, but abstract shape that could be repeated elsewhere on the site without the full text of the logo. The logo that elicited the most response from the group was a more representative option that I likely spent the least amount of time on. I was initially surprised at the group’s choice, but afterward I realized that this is pretty typical for this kind of work.

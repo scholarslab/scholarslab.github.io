@@ -4,10 +4,11 @@ date: 2023-02-27
 layout: post
 title: "A Midlife Crisis Blender Tutorial: Creating and Stabilizing a Time Lapse Video"
 slug: time-lapse-with-blender
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- video
+- Geospatial and Temporal
+- video editing
+- tutorial
 ---
 
 ## Smooth Large Series of Pictures of the Same Thing

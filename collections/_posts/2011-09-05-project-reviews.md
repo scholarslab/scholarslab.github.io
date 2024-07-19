@@ -4,10 +4,9 @@ date: 2011-09-05 23:54:08+00:00
 layout: post
 slug: project-reviews
 title: Project Reviews
-categories:
-- Grad Student Research
+category: blog
 tags:
-- digital-work
+- Grad Student Research
 - praxis program
 ---
 

@@ -4,12 +4,10 @@ date: 2011-11-09 20:15:33+00:00
 layout: post
 slug: the-dirt-on-clean
 title: The Dirt on "Clean"
-categories:
-- Grad Student Research
+category: blog
 tags:
-- CSS
+- Grad Student Research
 - design
-- HTML
 - praxis program
 - Prism
 ---

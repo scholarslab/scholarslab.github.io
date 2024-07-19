@@ -4,12 +4,10 @@ date: 2019-09-11
 layout: post
 slug: introducing-gs-grammars
 title: "Introducing 'Gertrude Stein's Grammars'"
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Research and Development
-- Grad Student Research
-tags: 
-- Digital Humanities
+- Grad Student Research 
 crosspost:
   - title: my personal blog
     url: http://jordanbuysse.com/blog.html

@@ -3,11 +3,11 @@ author: bethany-nowviskie
 date: 2012-03-23 10:39:16+00:00
 layout: post
 slug: welcoming-katina-rogers
-title: Welcoming Katina Rogers!
+title: "Welcoming Katina Rogers!"
+category: blog
 tags:
-- praxis program
 - staffing
-type: Announcement
+category: announcement
 ---
 
 [![Katina Rogers](http://static.scholarslab.org/wp-content/uploads/2012/03/KR_photo-271x300.jpg)](http://www.scholarslab.org/announcements/welcoming-katina-rogers/attachment/kr_photo/)

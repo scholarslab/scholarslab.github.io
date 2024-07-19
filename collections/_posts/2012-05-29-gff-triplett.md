@@ -4,9 +4,9 @@ date: 2012-05-29 14:14:57+00:00
 layout: post
 slug: gff-triplett
 title: 'Graduate Fellows Forum: Edward Triplett'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Edward Triplett**

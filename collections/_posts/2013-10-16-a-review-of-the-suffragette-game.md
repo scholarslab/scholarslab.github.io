@@ -4,9 +4,9 @@ date: 2013-10-16 07:55:51+00:00
 layout: post
 slug: a-review-of-the-suffragette-game
 title: A review of the suffragette game
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - games
 - Ivanhoe
 - praxis program

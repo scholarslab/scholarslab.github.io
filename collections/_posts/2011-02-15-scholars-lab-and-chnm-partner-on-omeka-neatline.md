@@ -4,19 +4,14 @@ date: 2011-02-15 13:58:57+00:00
 layout: post
 slug: scholars-lab-and-chnm-partner-on-omeka-neatline
 title: Scholars' Lab and CHNM Partner on "Omeka + Neatline"
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
-- awards
-- Digital Humanities
-- Digital Libraries
 - gis
 - grants
 - neatline
 - omeka
-- plugins
 - web development
 ---
 

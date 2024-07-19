@@ -4,7 +4,7 @@ date: 2011-06-09 15:52:40+00:00
 layout: post
 slug: student-jobs
 title: Grad student jobs in Scholars' Lab R&D
-type: Announcement
+category: announcement
 ---
 
 Are you a maker? A builder? A tinkerer at heart?

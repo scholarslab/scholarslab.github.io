@@ -4,10 +4,9 @@ date: 2014-01-07 12:00:39+00:00
 layout: post
 slug: faulty-format-or-user-error
 title: Faulty Format or User Error?
-categories:
-- Grad Student Research
+category: blog
 tags:
-- CSS
+- Grad Student Research
 - design
 - praxis program
 ---

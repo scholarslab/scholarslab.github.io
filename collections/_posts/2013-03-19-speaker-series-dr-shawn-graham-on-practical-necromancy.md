@@ -4,7 +4,7 @@ date: 2013-03-19 16:45:27+00:00
 layout: post
 slug: speaker-series-dr-shawn-graham-on-practical-necromancy
 title: 'Speaker Series: Dr. Shawn Graham on "Practical Necromancy," March 21'
-type: Announcement
+category: announcement
 ---
 
 On Thursday, the Scholars' Lab will have the pleasure of hosting Dr. Shawn Graham of Carleton University to talk about simulation and agent-based modeling in the humanities--and a bit about his life as a digital humanist.  He has provided a [preview of part one of his talk](http://electricarchaeology.ca/2013/03/19/practical-necromancy-talk-scholarslab-part-i/).

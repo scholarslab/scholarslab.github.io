@@ -4,8 +4,10 @@ date: 2015-05-04 15:53:55+00:00
 layout: post
 slug: ninjaflex-on-the-makerbot
 title: NinjaFlex on the Makerbot
-categories:
-- Experimental Humanities
+category: blog
+tags:
+- makerspace
+- 3D printing
 ---
 
 Announcing version 0.1 public beta of the [Scholars Lab Makerspace Ninjaflex profile for Makerbot Replicators](http://static.scholarslab.org/wp-content/uploads/2015/05/ninjaflex100.txt)!

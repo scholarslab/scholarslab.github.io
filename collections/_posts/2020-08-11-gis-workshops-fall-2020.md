@@ -4,9 +4,9 @@ date: 2020-08-11
 layout: post
 slug: gis-workshops-fall-2020
 title: GIS Workshops for Fall 2020, We're Going Virtual
-categories:
+tags:
 - Geospatial and Temporal
-type: announcement
+category: announcement
 ---
 
 Feel free to scroll past all the extra words for a course schedule and registration links, below. 

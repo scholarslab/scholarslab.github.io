@@ -4,9 +4,9 @@ date: 2011-10-17 10:51:45+00:00
 layout: post
 slug: praxis-program-charter-available
 title: Praxis Program Charter Available
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 ---

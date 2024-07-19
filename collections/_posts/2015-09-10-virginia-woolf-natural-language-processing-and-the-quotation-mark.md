@@ -4,8 +4,8 @@ date: 2015-09-10 11:19:52+00:00
 layout: post
 slug: virginia-woolf-natural-language-processing-and-the-quotation-mark
 title: Virginia Woolf, Natural Language Processing, and the Quotation Mark
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
 crosspost:
   - title: my personal blog

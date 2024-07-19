@@ -3,10 +3,9 @@ author: ed-triplett
 date: 2011-10-11 13:55:16+00:00
 layout: post
 slug: wayne-graham-leader-of-lemmings
-title: 'Wayne Graham: Leader of Lemmings'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

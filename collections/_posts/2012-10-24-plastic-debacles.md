@@ -4,12 +4,11 @@ date: 2012-10-24 11:00:07+00:00
 layout: post
 slug: plastic-debacles
 title: Plastic Debacles
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - 3D printing
-- desktop fabrication
-- makerbot
+- makerspace
 ---
 
 *Note: This post contains references to images stored on a server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*

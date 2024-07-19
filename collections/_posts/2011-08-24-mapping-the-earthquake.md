@@ -4,10 +4,9 @@ date: 2011-08-24 16:40:08+00:00
 layout: post
 slug: mapping-the-earthquake
 title: Mapping the Earthquake
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- earthquake
+- Geospatial and Temporal
 - gis
 - map
 - visualization

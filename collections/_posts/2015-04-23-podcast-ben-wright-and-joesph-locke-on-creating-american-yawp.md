@@ -4,10 +4,10 @@ date: 2015-04-23 10:53:38+00:00
 layout: post
 slug: podcast-ben-wright-and-joesph-locke-on-creating-american-yawp
 title: 'Podcast: Ben Wright and Joesph Locke on Creating American Yawp'
-categories:
+tags:
 - Events
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 Democratizing the Digital Humanities: The American Yawp as Case Study

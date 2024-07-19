@@ -4,9 +4,10 @@ date: 2015-01-19 08:23:00+00:00
 layout: post
 slug: getting-under-the-hood-with-arduino
 title: Getting “under the hood” with Arduino
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Experimental Humanities
+- makerspace
 ---
 
 Circuit boards, breadboards, digital inputs/output pins, analog outputs – “physical computing” can be an intimidating prospect for people with no experience.  As a person with almost no experience, I know these apprehensions first-hand.  Learning a new vocabulary, basic electronics, even basic programming? Ah!

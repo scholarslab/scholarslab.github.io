@@ -4,6 +4,7 @@ date: 2016-08-26 10:16:27+00:00
 layout: post
 slug: fall-2016-uva-library-gis-workshops-series
 title: Fall 2016 UVa Library GIS Workshops Series
+category: announcement
 ---
 
 All sessions are one hour and assume participants have no previous experience using GIS.  Sessions will be hands-on with step-by-step tutorials and expert assistance.  All sessions will be taught on **Wednesdays from 3PM to 4PM in the Alderman Electronic Classroom, ALD 421** (adjacent to the Scholars’ Lab) and are free and open to the UVa and larger Charlottesville community.

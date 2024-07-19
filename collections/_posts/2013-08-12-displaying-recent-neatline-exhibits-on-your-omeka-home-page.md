@@ -4,13 +4,11 @@ date: 2013-08-12 01:00:56+00:00
 layout: post
 slug: displaying-recent-neatline-exhibits-on-your-omeka-home-page
 title: Displaying Recent Neatline Exhibits on your Omeka Home Page
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - neatline
 - omeka
-- php
-- themes
 ---
 
 The charismatic [Alex Gil](http://www.elotroalex.com/) submitted a feature request to Neatline asking to be able to browse [Neatline exhibits on your Omeka home page](https://github.com/scholarslab/Neatline/issues/211). Turns out you can already [specify which page you want as your home page in Omeka 2.0](http://omeka.org/codex/Managing_Navigation_2.0#Choose_a_Homepage), so that helped with Alex's original query. But as we discussed the issue, Alex also wondered about putting a list of recent Neatline exhibits on the home page, much the same way Omeka already does with recent items. While we're not sure yet about putting this kind of thing in the plugin itself, I mentioned that it's fairly easy to do in your own them using one of Omeka's hooks, and promised him a blog post explaining more. Here's me making good on that promise.

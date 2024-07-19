@@ -4,12 +4,12 @@ date: 2021-11-10
 layout: post
 slug: tinkertank-jewelry
 title: "TinkerTank Jewelry"
-categories:
-- Makerspace
+category: blog
 tags:
 - makerspace
 - tutorial
 - workshop
+- expansive makerspace
 ---
 <style>
   img {

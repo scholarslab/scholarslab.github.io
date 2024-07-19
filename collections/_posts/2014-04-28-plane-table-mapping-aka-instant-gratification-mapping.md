@@ -4,13 +4,12 @@ date: 2014-04-28 10:06:53+00:00
 layout: post
 slug: plane-table-mapping-aka-instant-gratification-mapping
 title: Plane Table Mapping aka Instant Gratification Mapping
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
 - cartography
-- geospatial
-- howto
+- tutorial
 - visualization
 ---
 

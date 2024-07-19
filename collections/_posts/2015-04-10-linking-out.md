@@ -4,8 +4,10 @@ date: 2015-04-10 14:17:18+00:00
 layout: post
 slug: linking-out
 title: Linking Out
-categories:
-- Experimental Humanities
+category: blog
+tags:
+- accessibility
+- web development
 ---
 
 I'm in the [Accessible Future](http://accessiblefuture.org) workshop in Atlanta, and we'd had a interesting conversation about how, and how often, web content should "link out" to pages beyond ones own web site. I feel like we've talked about this topic every workshop, and there are lots of interesting issues that keep coming up that I never feel are really resolved or explored in depth. I've not fully resolved them myself, and since I haven't written a post here in ages I figured, in the spirit of [being flummoxed by a coconut](http://scholarslab.org/digital-humanities/monkey-mind/) I'd write something up here to see if I can't start working through this.

@@ -4,7 +4,7 @@ date: 2015-09-23 14:05:45+00:00
 layout: post
 slug: introducing-the-2015-2016-scholars-lab-fellows
 title: Introducing the 2015-2016 Scholars' Lab Fellows
-type: Announcement
+category: announcement
 ---
 
 The Lab has been a busy place lately with 8 new fellows from across the arts, humanities, and social sciences!  Our [Graduate Fellows in the Digital Humanities](http://scholarslab.org/graduate-fellowships/) and [Praxis Program Fellows](http://praxis.scholarslab.org/) join a distinguished community of [past fellows](http://scholarslab.org/people/).

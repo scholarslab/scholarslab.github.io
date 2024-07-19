@@ -4,13 +4,13 @@ date: 2012-05-06 11:11:35+00:00
 layout: post
 slug: future-possibilities-for-prism
 title: Future possibilities for Prism
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - praxis program
 - Prism
-- Programming
+- code
 ---
 
 It's been incredibly exciting to watch Annie, Alex, Lindsay, Brooke, Sarah, and Ed work together over the course of the last two semesters to take Prism from idea to [working software](http://prism.scholarslab.org). Considering the fact that most of them hadn't ever written a line of Ruby, Javascript, or CSS when they started last semester, the end result is pretty remarkable.

@@ -4,12 +4,11 @@ date: 2012-11-19 14:48:12+00:00
 layout: post
 slug: trial-by-fire
 title: Trial by Fire
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
-- rails
+- code
 ---
 
 After several weeks of dreaming big and working through some conceptual difficulties, we Praxis fellows have returned to the concrete task of learning to code and program.   Currently, we are wandering our way through the world of [Ruby on Rails](http://rubyonrails.org/).   It has been a while since I have had the opportunity to learn something completely new, and I’m finding the task both disorienting and rewarding.  Given that some of you out there might be experimenting with your own training programs, I thought I would take some time to discuss the approach to teaching and learning that we have been using.

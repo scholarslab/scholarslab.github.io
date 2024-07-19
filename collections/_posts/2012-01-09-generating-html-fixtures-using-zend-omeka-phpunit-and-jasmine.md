@@ -4,15 +4,12 @@ date: 2012-01-09 08:49:35+00:00
 layout: post
 slug: generating-html-fixtures-using-zend-omeka-phpunit-and-jasmine
 title: Generating HTML fixtures using Zend, Omeka, PHPUnit, and Jasmine
-categories:
-- Research and Development
+category: blog
 tags:
-- Jasmine
-- javascript
+- Research and Development
 - neatline
 - omeka
-- phpunit
-- zend
+- code
 ---
 
 One of the reasons that testing JavaScript can be so pesky (and perhaps one of the reasons that so little JavaScript is tested...) is the fact that you have to maintain a library of HTML "fixtures" for the tests to run on. What's a fixture? Basically, just a little chunk of markup that provides a sandbox environment for a particular test, or a suite of tests. So, if you have a jQuery widget that adds some extra functionality to a form input, your fixture could be as simple as just a single input tag. And indeed, some of the time you can get away with just manually whipping up a chunk of ad-hoc HTML, dropping it directly into your suite, and testing into the sunset:

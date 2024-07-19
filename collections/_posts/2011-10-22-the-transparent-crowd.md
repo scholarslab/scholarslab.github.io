@@ -4,9 +4,9 @@ date: 2011-10-22 10:45:29+00:00
 layout: post
 slug: the-transparent-crowd
 title: the Transparent Crowd
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Prism
 ---

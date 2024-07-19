@@ -6,7 +6,7 @@ slug: seeking-praxis-program-fellows
 title: Seeking new Praxis Program fellows!
 tags:
 - praxis program
-type: announcement
+category: announcement
 ---
 
 Last August, [we announced](http://www.scholarslab.org/praxis-program/announcing-the-praxis-program/) a new, pilot initiative for the Scholars' Lab -- the creation of a [Praxis Program](http://praxis.scholarslab.org), which would offer hands-on training to six UVa graduate students in digital humanities project creation, taking them from conception to software and interface design and development, through to deployment, communications, and analysis. Praxis is a unique training program in the international digital humanities community. The most notable thing about it was our plan to involve students as a team -- a cohort, who would intern with Scholars' Lab faculty and staff, [blog about their experiences](http://www.scholarslab.org/category/praxis-program/), and work to develop the so-called "softer skills" of collaboration and project management even as they tackled (most for the first time) new programming languages, software tools, and digital methods.

@@ -4,13 +4,11 @@ date: 2012-02-23 13:24:06+00:00
 layout: post
 slug: slightly-better-than-brain-dead
 title: 'Slightly Better than Brain Dead  '
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - design
-- Digital Humanities
 - praxis program
 ---
 

@@ -4,11 +4,10 @@ date: 2019-10-25
 layout: post
 slug: playacting-and-virtual-reality
 title: "Exploring Power through Playacting & Virtual Reality"
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
 - Praxis
-tags:
 - WLU Collab
 ---
 

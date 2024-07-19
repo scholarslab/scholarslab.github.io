@@ -4,9 +4,11 @@ date: 2012-06-12 12:01:59+00:00
 layout: post
 slug: neatline-sneak-peek
 title: Neatline Sneak-Peek
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Research and Development
+- neatline
 ---
 
 The R&D; team here at the lab has been quiet over the course of the last couple weeks, but there's been a flurry of activity under the surface - we've been hard at work putting the finishing touches on Neatline, a geotemporal exhibit-building framework that makes it possible to plot archival collections, narratives, texts, and concepts on interactive maps and timelines.

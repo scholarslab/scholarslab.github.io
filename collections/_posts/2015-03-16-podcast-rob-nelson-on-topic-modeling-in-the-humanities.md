@@ -4,10 +4,10 @@ date: 2015-03-16 16:13:21+00:00
 layout: post
 slug: podcast-rob-nelson-on-topic-modeling-in-the-humanities
 title: 'Podcast: Rob Nelson on Topic Modeling in the Humanities'
-categories:
+tags:
 - Events
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **The Potential and Pitfalls of Topic Modeling for Humanities Research**

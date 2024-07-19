@@ -4,11 +4,11 @@ date: 2020-03-06 17:30:12
 layout: post
 slug: webhook-for-scholarslab
 title: Webhook for Scholars' Lab Website
-categories:
-- Research and Development
+category: blog
 tags:
-- website
-- server
+- Research and Development
+- code
+- tutorial
 - jekyll
 ---
 

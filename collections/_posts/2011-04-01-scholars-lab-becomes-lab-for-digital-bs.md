@@ -4,10 +4,9 @@ date: 2011-04-01 10:55:01+00:00
 layout: post
 slug: scholars-lab-becomes-lab-for-digital-bs
 title: Scholars' Lab becomes Laboratory for Digital Byzantine Sigillography
-categories:
-- Announcements
+category: blog
 tags:
-- April Fools!
+- fun
 ---
 
 FOR IMMEDIATE RELEASE:

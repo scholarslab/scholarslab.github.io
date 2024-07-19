@@ -4,11 +4,10 @@ date: 2011-09-20 08:41:07+00:00
 layout: post
 slug: vive-la-difference
 title: Vive la différence!
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- requirements-gathering
 ---
 
 When I signed up for [David Hoover’s](https://files.nyu.edu/dh3/public/) “Out-of-the-Box Text Analysis” course at last summer’s Digital Humanities Summer Institute, I had absolutely no idea what I was getting into. Text analysis… with computers? Data mining? What? The first of our meetings felt akin to culture shock, I think, or to having a bucket of ice water thrown over my head (We are going to do _what_ with the texts? Cut them up into word frequency lists??), but once I recovered myself, as it were, the rest of my fast-paced DHSI week provided me with a basic understanding of not only _how_ to use text mining tools, but, perhaps more importantly, _why_ one might want to use them. I thought now might be the perfect time to share some of what I learned in Victoria.

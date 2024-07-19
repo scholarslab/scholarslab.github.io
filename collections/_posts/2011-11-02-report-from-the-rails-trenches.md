@@ -4,11 +4,11 @@ date: 2011-11-02 11:39:07+00:00
 layout: post
 slug: report-from-the-rails-trenches
 title: report from the rails trenches
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- rails
+- code
 ---
 
 As [Annie reports](http://www.scholarslab.org/praxis-program/building-prism-let-there-be-light/) we have begun hacking Prism. I am still surprised by the speed at which we are picking up the skills to build a web application. Our first model is a proof-of-concept, and as Eric Rochester pointed out in session yesterday, we will probably chuck the first model down the road. Part of re-wiring my brain is adapting to this trial and error model. The original model, as we have it now, already seems to me to be quite powerful. Here is what we have so far:

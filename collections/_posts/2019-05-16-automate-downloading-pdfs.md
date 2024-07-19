@@ -4,10 +4,10 @@ date: 2019-05-16 15:18:16
 layout: post
 slug: automate-downloading-pdf-files
 title: Automate Downloading PDF Files
-categories:
-  - Digital Humanities
+category: blog
 tags:
-  - Digital Humanities
+- automation
+- tutorial
 ---
 
 Don't you hate it when a website offers a PDF of their content (scanned

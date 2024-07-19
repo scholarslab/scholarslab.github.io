@@ -4,14 +4,12 @@ date: 2012-08-23 09:33:08+00:00
 layout: post
 slug: using-neatline-with-historical-maps-part-2-transparency
 title: 'Using Neatline with historical maps :: Part 2 - Transparency'
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- arcmap
-- geospatial
+- Geospatial and Temporal
+- ESRI
 - gis
 - neatline
-- photoshop
 crosspost:
   - title: dclure.org
     url: http://dclure.org/tutorials/neatline-maps-transparency/

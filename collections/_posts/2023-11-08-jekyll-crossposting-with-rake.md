@@ -3,9 +3,13 @@ author: brandon-walsh
 date: 2023-11-08
 layout: post
 slug: jekyll-crossposting-with-rake
-title: Jekyll Crossposting with Rake
+title: "Jekyll Crossposting with Raketags"
+category: blog
 tags:
 - jekyll
+- tutorial
+- web development
+- code
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/jekyll-crossposting-with-rake
@@ -43,7 +47,8 @@ task :new_post, :title do |t, args|
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d')}"
-    post.puts "tags: [digital-humanities]"
+    post.puts "
+tags: [digital-humanities]"
     post.puts "crosspost:
   - title: #{crosspost_title}
     url: #{crosspost_url}#{title_slug}"
@@ -63,8 +68,7 @@ The rake task will create a new post in my _drafts folder with 2023-10-23-flashy
 ---
 layout: post
 title: "Flashy title here"
-date: 2023-10-23
-tags: [digital-humanities]
+date: 2023-10-23tags: [digital-humanities]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/flasy-title-here
@@ -106,9 +110,6 @@ layout: post
 slug: #{title_slug}
 title: #{parsed.front_matter['title']}
 categories:
-- Digital Humanities
-tags:
-- Digital humanities
 crosspost:
   - title: #{blog_title}
     url: #{blog_url}/#{title_slug}

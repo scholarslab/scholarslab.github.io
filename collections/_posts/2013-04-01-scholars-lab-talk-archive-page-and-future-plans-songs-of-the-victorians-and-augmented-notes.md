@@ -5,7 +5,9 @@ layout: post
 slug: scholars-lab-talk-archive-page-and-future-plans-songs-of-the-victorians-and-augmented-notes
 title: 'Scholars'' Lab Talk, Archive Page, and Future Plans: Songs of the Victorians
   and Augmented Notes'
-categories:
+category: blog
+tags:
+- music
 - Grad Student Research
 crosspost:
   - title: Anglophile in Academia

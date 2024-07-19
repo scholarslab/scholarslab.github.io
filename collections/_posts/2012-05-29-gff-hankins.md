@@ -4,9 +4,9 @@ date: 2012-05-29 13:56:55+00:00
 layout: post
 slug: gff-hankins
 title: 'Graduate Fellows Forum: Gabriel Hankins'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Gabriel Hankins**

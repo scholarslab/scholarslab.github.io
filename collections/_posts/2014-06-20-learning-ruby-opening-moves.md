@@ -4,8 +4,8 @@ date: 2014-06-20 09:48:53+00:00
 layout: post
 slug: learning-ruby-opening-moves
 title: 'Learning Ruby: Opening Moves'
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Research and Development
 ---
 

@@ -4,9 +4,9 @@ date: 2013-05-07 08:23:24+00:00
 layout: post
 slug: graduate-fellows-forum-david-flaherty
 title: 'Graduate Fellows Forum: David Flaherty'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Graduate Fellows Forum: David Flaherty**

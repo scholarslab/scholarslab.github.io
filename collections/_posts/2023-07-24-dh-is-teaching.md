@@ -4,6 +4,7 @@ date: 2023-07-24
 layout: post
 slug: dh-is-teaching
 title: DH Is Teaching
+category: blog
 tags:
 - pedagogy
 crosspost:

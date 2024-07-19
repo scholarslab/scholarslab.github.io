@@ -4,11 +4,9 @@ date: 2016-04-11 11:16:18+00:00
 layout: post
 slug: saving-arduino-sensor-data
 title: Saving Arduino Sensor Data
-categories:
-- Makerspace
+category: blog
 tags:
-- Arduino
-- Raspberry Pi
+- makerspace
 redirect_from:
   - /makerspace/saving-arduino-sensor-data
 ---

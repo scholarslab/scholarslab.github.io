@@ -4,15 +4,11 @@ date: 2010-10-29 13:27:50+00:00
 layout: post
 slug: smarter-paper-maps
 title: Smarter Paper Maps
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
-- cataloging
-- Digital Humanities
 - gis
-- library
 - map
 - metadata
 ---

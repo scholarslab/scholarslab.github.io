@@ -4,8 +4,10 @@ date: 2013-03-28 15:56:09+00:00
 layout: post
 slug: installing-omeka-through-amazon-web-services
 title: Installing Omeka through Amazon Web Services
-categories:
+category: blog
+tags:
 - Research and Development
+- omeka
 ---
 
 This set of instructions was developed, in part, during the [Digital Humanities Winter Institute](http://mith.umd.edu/dhwi/) at the University of Maryland. Under the direction of Wayne Graham, a small group set out to install [Omeka](http://omeka.org/) through [Amazon Web Services](https://aws.amazon.com/). The directions were put together collaboratively by David Kim and Cory Duclos.

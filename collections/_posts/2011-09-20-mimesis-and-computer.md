@@ -4,12 +4,11 @@ date: 2011-09-20 13:52:22+00:00
 layout: post
 slug: mimesis-and-computer
 title: Mimesis and Computers
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
-- requirements-gathering
+- code
 ---
 
 "Computers are inherently dumb." I hear this all the time, even from folks in computer science. I like to think of them as marionettes.

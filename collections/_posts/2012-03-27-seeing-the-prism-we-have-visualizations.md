@@ -4,13 +4,13 @@ date: 2012-03-27 13:54:05+00:00
 layout: post
 slug: seeing-the-prism-we-have-visualizations
 title: 'Seeing the Prism: We Have Visualizations!!'
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Visualization and Data Mining
-tags:
 - praxis program
 - Prism
-- visualizations
+- visualization
 ---
 
 I am happy to report that we have successfully build visualization capabilities into Prism!  Once users have highlighted the text according to the set categories, the users click on the submit button, which takes them to the visualization page! The users can then click on the categories at the right-hand side of the page to see how people have marked up the text, one category at a time.  The words will all turn the color that corresponds to the category, and the words will increase in size depending on how frequently they have been marked for that category.  Here's how Jefferson's "Notes of the State of Virginia" has been marked up for "rhetoric":

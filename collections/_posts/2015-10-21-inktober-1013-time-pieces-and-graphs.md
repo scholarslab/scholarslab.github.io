@@ -4,10 +4,9 @@ date: 2015-10-21 14:04:30+00:00
 layout: post
 slug: inktober-1013-time-pieces-and-graphs
 title: 'Inktober 10/13: Time Pieces and Graphs'
-categories:
-- Digital Humanities
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - ClockWork
 crosspost:
   - title: my post on our Praxis page

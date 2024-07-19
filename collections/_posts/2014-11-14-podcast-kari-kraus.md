@@ -4,10 +4,10 @@ date: 2014-11-14 12:36:51+00:00
 layout: post
 slug: podcast-kari-kraus
 title: 'Podcast: Kari Kraus on Humanistic Design'
-categories:
+tags:
 - Events
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **F****inding Faultlines: An Approach to Humanistic Design**

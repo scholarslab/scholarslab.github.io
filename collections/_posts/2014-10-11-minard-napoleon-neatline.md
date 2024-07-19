@@ -4,11 +4,10 @@ date: 2014-10-11 09:15:56+00:00
 layout: post
 slug: minard-napoleon-neatline
 title: Minard + Napoleon + Neatline
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- d3
-- military history
+- Geospatial and Temporal
+- history
 - neatline
 crosspost:
   - title: dclure.org

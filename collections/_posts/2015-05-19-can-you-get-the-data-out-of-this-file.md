@@ -4,8 +4,11 @@ date: 2015-05-19 14:05:36+00:00
 layout: post
 slug: can-you-get-the-data-out-of-this-file
 title: Can you get the data out of this file?
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
+- code
+- tutorial
 ---
 
 That was the question I was asked by a student who came into the Scholars' Lab this semester.

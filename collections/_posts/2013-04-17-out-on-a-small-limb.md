@@ -4,9 +4,9 @@ date: 2013-04-17 10:24:45+00:00
 layout: post
 slug: out-on-a-small-limb
 title: Out on a (Small) Limb
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Prism
 ---

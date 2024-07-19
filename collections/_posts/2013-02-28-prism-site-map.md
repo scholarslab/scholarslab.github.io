@@ -4,10 +4,10 @@ date: 2013-02-28 16:20:40+00:00
 layout: post
 slug: prism-site-map
 title: Prism Site Map
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - design
 - praxis program
 ---

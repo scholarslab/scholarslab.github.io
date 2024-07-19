@@ -3,12 +3,11 @@ author: bethany-nowviskie
 date: 2013-05-09 15:31:20+00:00
 layout: post
 slug: prism-for-play
-title: Prism, for Play
-categories:
-- Digital Humanities
+title: "Prism, for Play"
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - praxis program
 - Prism
 - games

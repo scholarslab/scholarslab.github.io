@@ -4,10 +4,11 @@ date: 2012-10-25 09:08:38+00:00
 layout: post
 slug: prism-proposal-cultural-bundles
 title: 'Prism Proposal: Cultural Bundles'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- prism
 ---
 
 Prelude to a Proposal: As both [Cecelia](http://www.scholarslab.org/praxis-program/digital-humanities-growing-pains/) and [Gwen](http://www.scholarslab.org/digital-humanities/a-project-for-prism/) have indicated, our conversations from the last week have been marked by a lot of confusion, tension, and doubt about our project and goals.  In an attempt to bring some clarity back, we are each posting a potential project for Prism this week.  As I sat down to write about one such project, I began by reading through project proposals of some of my fellow team members (or  _Praxisers_?).  Given the frustration of the past week, I was surprised to discover that there is a notable amount of agreement over our concerns about Prism and possible directions that our project could take.  As I walk you through my proposal, I will touch on what I see as some emerging themes.

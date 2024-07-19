@@ -4,8 +4,7 @@ date: 2021-11-09
 layout: post
 slug: beyond-paper-and-pencil
 title: "Beyond Paper and Pencil: 3D Paper Art" 
-categories:
-- Makerspace
+category: blog
 tags:
 - makerspace
 - tutorial

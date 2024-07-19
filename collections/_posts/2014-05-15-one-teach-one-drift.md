@@ -4,9 +4,9 @@ date: 2014-05-15 15:53:02+00:00
 layout: post
 slug: one-teach-one-drift
 title: One Teach, One Drift
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - 3D Modeling
 - pedagogy
 - WLU Collab

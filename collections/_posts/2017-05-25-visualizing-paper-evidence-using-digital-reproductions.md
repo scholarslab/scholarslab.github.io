@@ -4,20 +4,13 @@ date: 2017-05-25 08:41:48+00:00
 layout: post
 slug: visualizing-paper-evidence-using-digital-reproductions
 title: Visualizing Paper Evidence Using Digital Reproductions
-categories:
-- Digital Humanities
-- Experimental Humanities
+category: blog
+tags:
+- Experimental Humanitiess
 - Grad Student Research
 - Research and Development
 - Visualization and Data Mining
-tags:
-- 16-bit
 - bibliography
-- Digital Humanities
-- high-dynamic range
-- historic
-- paper
-- photo-editing
 - visualization
 ---
 

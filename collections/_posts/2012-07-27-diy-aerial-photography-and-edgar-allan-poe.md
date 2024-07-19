@@ -4,9 +4,9 @@ date: 2012-07-27 09:21:16+00:00
 layout: post
 slug: diy-aerial-photography-and-edgar-allan-poe
 title: DIY Aerial Photography and Edgar Allan Poe
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - gis
 - map
 - visualization

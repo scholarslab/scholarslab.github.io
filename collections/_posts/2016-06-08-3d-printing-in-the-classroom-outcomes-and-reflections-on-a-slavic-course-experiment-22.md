@@ -5,8 +5,13 @@ layout: post
 slug: 3d-printing-in-the-classroom-outcomes-and-reflections-on-a-slavic-course-experiment-22
 title: '3D Printing in the Classroom: Outcomes and Reflections on a Slavic Course
   Experiment (2/2)'
-categories:
-- Makerspace
+category: blog
+tags:
+- makerspace
+- 3D printing
+- Slavic
+- multilingual
+- pedagogy
 crosspost:
   - title: my personal blog
     url: https://jennifergrayburn.com/2016/06/08/3d-printing-in-the-classroom-outcomes-and-reflections-on-a-slavic-course-experiment-22/

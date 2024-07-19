@@ -6,14 +6,15 @@ date: 2020-04-07
 layout: post
 slug: masks-printed-and-sewed
 title: "Manufacturing Masks: how Technologists can Lend both Hands and Machines"
-categories:
-- Sewing
+category: blog
+tags:
+- fabric arts
+- expansive makerspace
 - 3D Printing
 - Research and Development
-- Makerspace
+- makerspace
 - Student Research
-tags:
-- MakerSpace
+- makerspace
 ---
 
 

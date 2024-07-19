@@ -4,11 +4,11 @@ date: 2011-09-25 14:21:42+00:00
 layout: post
 slug: ruby-slippers
 title: ruby slippers
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
+- code
 ---
 
 It's been an excellent Sunday morning for posts about DH and the profession(s). 

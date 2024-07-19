@@ -4,9 +4,9 @@ date: 2012-05-04 11:57:05+00:00
 layout: post
 slug: kenneth-dean-ritual-revolutions
 title: 'Kenneth Dean: Ritual Revolutions'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Kenneth Dean**

@@ -4,9 +4,9 @@ date: 2014-04-29 12:18:53+00:00
 layout: post
 slug: connect-create-inspire-the-ivanhoe-game-returns-2
 title: 'Connect, Create, Inspire: the Ivanhoe Game returns!'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 - games

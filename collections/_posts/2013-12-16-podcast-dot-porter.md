@@ -4,9 +4,9 @@ date: 2013-12-16 09:10:47+00:00
 layout: post
 slug: podcast-dot-porter
 title: 'Podcast: Dot Porter'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Scholars' Lab Speaker: Dot Porter**

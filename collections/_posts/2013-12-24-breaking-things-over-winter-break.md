@@ -4,10 +4,10 @@ date: 2013-12-24 10:47:01+00:00
 layout: post
 slug: breaking-things-over-winter-break
 title: Breaking Things Over Winter Break
-categories:
-- Grad Student Research
+category: blog
 tags:
-- coding
+- Grad Student Research
+- code
 - praxis program
 ---
 

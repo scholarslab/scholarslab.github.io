@@ -4,9 +4,10 @@ date: 2015-07-06 10:00:38+00:00
 layout: post
 slug: physical-computing-at-dhsi-2015
 title: Physical Computing at DHSI 2015
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Experimental Humanities
+- makerspace
 ---
 
 In the beginning of June I had the pleasure of attending the [Digital Humanities Summer Institute](http://dhsi.org/) at the University of Victoria for the second year running. My experience this year was so good that I wanted to write a quick post sharing some of the highlights – so if you’re thinking of going to DHSI, are a regular interested in a class they’ve never taken, or have never heard of it and want to learn more, I hope this post sheds some light on the kinds of things people get up to at one of my favorite scholarly events of the year (and why I want to go again next summer)!

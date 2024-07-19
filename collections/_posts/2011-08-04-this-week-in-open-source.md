@@ -4,15 +4,12 @@ date: 2011-08-04 06:30:00+00:00
 layout: post
 slug: this-week-in-open-source
 title: This week in Open Source
-categories:
-- Research and Development
+category: blog
 tags:
-- fedora
+- Research and Development
 - neatline
 - omeka
-- open source
 - timeline
-- vagrant
 ---
 
 After reading a post on one of my favorite blogs, [Giant Robots Smashing Into Other Giant Robots](http://robots.thoughtbot.com/post/8221237451/this-week-in-open-source), I was inspired to start this series chronicling highlights in our Open Source development efforts.

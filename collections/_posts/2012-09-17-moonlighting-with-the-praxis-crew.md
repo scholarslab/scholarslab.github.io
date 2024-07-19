@@ -4,9 +4,9 @@ date: 2012-09-17 10:28:07+00:00
 layout: post
 slug: moonlighting-with-the-praxis-crew
 title: Moonlighting with the Praxis Crew
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 - Scholarly Communication Institute
 ---

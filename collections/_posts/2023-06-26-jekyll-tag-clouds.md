@@ -4,9 +4,11 @@ date: 2023-06-26
 layout: post
 slug: jekyll-tag-clouds
 title: Jekyll Tag Clouds
+category: blog
 tags:
 - tutorial
 - jekyll
+- code
 crosspost:
   - title: Brandon's Blog
     url: https://walshbr.com/blog/jekyll-tag-clouds

@@ -4,12 +4,11 @@ date: 2015-12-03 14:05:13+00:00
 layout: post
 slug: the-ghost-in-the-graph-a-recap-on-time-things-and-entanglement
 title: 'The Ghost in the Graph: A Recap on Time, Things, and Entanglement'
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Experimental Humanities
 - Grad Student Research
 - Visualization and Data Mining
-tags:
 - ClockWork
 ---
 

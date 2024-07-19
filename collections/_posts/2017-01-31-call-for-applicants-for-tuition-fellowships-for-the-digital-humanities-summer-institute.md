@@ -5,8 +5,7 @@ layout: post
 slug: call-for-applicants-for-tuition-fellowships-for-the-digital-humanities-summer-institute
 title: Call for Applicants for Tuition Fellowships for the Digital Humanities Summer
   Institute
-categories:
-- Technical Training
+category: announcement
 ---
 
 ![DHSI logo](http://static.scholarslab.org/wp-content/uploads/2017/01/logo-dhsi-110x110.gif)

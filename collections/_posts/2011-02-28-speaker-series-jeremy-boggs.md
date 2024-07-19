@@ -4,7 +4,7 @@ date: 2011-02-28 11:48:28+00:00
 layout: post
 slug: speaker-series-jeremy-boggs
 title: 'Speaker Series: Jeremy Boggs'
-type: Announcement
+category: announcement
 ---
 
 Jeremy Boggs, last semester's scholar-in-residence at the [Scholars' Lab](http://scholarslab.org), will give a talk at **2pm** on Thursday, **March 3**. Boggs is Associate Director of Research at the [Center for History & New Media](http://chnm.gmu.edu) at George Mason University, as well as a Ph.D. candidate in GMU's Department of History.

@@ -6,7 +6,7 @@ slug: welcoming-jeremy-boggs
 title: Welcoming Jeremy Boggs!
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 We're thrilled to announce that Jeremy Boggs will be joining the [Scholars' Lab](http://scholarslab.org) and the staff of UVa Library's Digital Research & Scholarship department this June, in the role of Humanities Design Architect.

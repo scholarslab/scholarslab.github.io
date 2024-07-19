@@ -4,8 +4,9 @@ date: 2009-03-30 17:09:24+00:00
 layout: post
 slug: a-kindle-for-every-student
 title: A Kindle for Every Student?
+category: blog
 tags:
-- Digital Libraries
+- literature
 ---
 
 The blogosphere has been abuzz with diverse opinions on the release of Amazon’s new [Kindle 2](http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Generation/dp/B00154JDAI/ref=amb_link_83624371_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-1&pf_rd_r=0NXGCFS7P9F77XA7ZMSV&pf_rd_t=101&pf_rd_p=469942651&pf_rd_i=507846). So far, most of the news has surrounded the controversial text-to-speech function and whether or not it violates copyright law (more on this [here](http://opinionator.blogs.nytimes.com/2009/02/27/kindle-2-under-fire/) and [here](http://news.cnet.com/8301-13512_3-10184974-23.html)). Regardless of its legality, the speech sounds mechanical, and I don’t see this posing a threat to genuine audio books read with intonation by real people. But my interest is not in this primarily, but in reading via ebook itself. I’ll admit, when it comes to ebooks, I’m still in the undecided camp. On the one hand, I love technology, and can’t resist the latest gadget. On the other hand, I consider myself a “book person.” And the book as physical object matters to me. I want to be able to pick it up, smell it, leaf through the pages. I’m guessing there’s not much to be said for ebook smell.

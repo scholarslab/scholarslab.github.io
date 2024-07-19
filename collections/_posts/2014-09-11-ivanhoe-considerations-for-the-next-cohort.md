@@ -4,12 +4,12 @@ date: 2014-09-11 15:17:41+00:00
 layout: post
 slug: ivanhoe-considerations-for-the-next-cohort
 title: Ivanhoe considerations for the next cohort
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
-- about-collaboration
+- about-collaboration-community
 ---
 
 Welcome to the next Praxis cohort! As Purdom mentioned yesterday [in her post](http://scholarslab.org/announcements/fellows/), the 2014-2015 Praxis Fellows will continue working on the [Ivanhoe Game](http://ivanhoe.scholarslab.org/).  As last year's Praxis project manager, I frequently found myself in the position of spokesperson for Ivanhoe. People would ask me, "What is Ivanhoe?" and I would deliver an answer like "Ivanhoe is a platform for making collaborative interventions in a text via role play." While a pretty good description of the game, this response nonetheless invites many questions&mdash;questions which my dazzled but bewildered auditors would inevitably ask:

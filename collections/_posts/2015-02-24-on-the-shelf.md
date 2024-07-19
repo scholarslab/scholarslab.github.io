@@ -4,9 +4,9 @@ date: 2015-02-24 14:04:50+00:00
 layout: post
 slug: on-the-shelf
 title: On the Shelf
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Ivanhoe
 - praxis program
 ---

@@ -4,11 +4,10 @@ date: 2011-07-21 14:15:20+00:00
 layout: post
 slug: introduction-to-linked-open-data-at-rare-books-school
 title: Introduction to Linked Open Data at Rare Book School
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - code
-- Digital Libraries
 - lod
 ---
 

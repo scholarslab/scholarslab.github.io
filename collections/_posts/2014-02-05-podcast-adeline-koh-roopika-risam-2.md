@@ -4,9 +4,9 @@ date: 2014-02-05 10:26:07+00:00
 layout: post
 slug: podcast-adeline-koh-roopika-risam-2
 title: 'Podcast: Adeline Koh & Roopika Risam'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Digital Humanities Speakers: Adeline Koh and Roopika Risam**

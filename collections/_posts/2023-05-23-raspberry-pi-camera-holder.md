@@ -4,12 +4,11 @@ date: 2023-05-23
 layout: post
 slug: raspberry-pi-camera-holder
 title: Raspberry Pi Camera Holder
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
 - 3D printing
 - 3D modeling
-- rapid prototyping
 ---
 <style>
   img {

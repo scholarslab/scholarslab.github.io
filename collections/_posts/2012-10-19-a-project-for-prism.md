@@ -4,10 +4,11 @@ date: 2012-10-19 06:48:34+00:00
 layout: post
 slug: a-project-for-prism
 title: A Project for Prism
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- prism
 ---
 
 In the last meeting we played the transparency game: Everyone highlights a transparency on top of a text according to a set of categories. At the end of the exercise, all the transparencies are stacked together.

@@ -4,11 +4,9 @@ date: 2017-10-26 13:41:34+00:00
 layout: post
 slug: gis-day-wednesday-november-15
 title: GIS Day - Wednesday, November 15
-categories:
+tags:
 - Geospatial and Temporal
-- Technical Training
-- Visualization and Data Mining
-type: Announcement
+category: announcement
 ---
 
 Mark your calendars, Wednesday, Nov. 15 is GIS Day (http://www.gisday.com/).  To celebrate, all are invited to the University of Virginia Library’s Scholars’ Lab for an afternoon of events.

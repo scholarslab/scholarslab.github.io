@@ -4,12 +4,11 @@ date: 2012-04-03 13:30:40+00:00
 layout: post
 slug: updating-visualizations-and-users
 title: Updating Visualizations and Users
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- rails
-- visualizations
+- visualization
 ---
 
 *Note: This post contains references to images stored on a server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*

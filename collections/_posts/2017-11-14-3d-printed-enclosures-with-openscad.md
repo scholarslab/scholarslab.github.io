@@ -4,11 +4,10 @@ date: 2017-11-14 12:35:03+00:00
 layout: post
 slug: 3d-printed-enclosures-with-openscad
 title: 3D Printed Enclosures with OpenSCAD
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
-- Makerspace
-- Technical Training
+- makerspace
 ---
 
 This is a tutorial on how to use OpenSCAD to design a 3D object via code instead of using a WYSIWYG editor like Tinkercad, Fusion360, etc. We are currently creating a customized media player to allow people to interact with MP3 artifacts. We've been working in Python to prepare the audio and wanted to generate the enclosure programmatically as well, ideally using open source software. OpenSCAD is a great open source solution for CAD and 3D printing projects.

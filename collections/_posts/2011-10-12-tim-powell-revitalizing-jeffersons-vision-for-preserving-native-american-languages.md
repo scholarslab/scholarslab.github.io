@@ -5,9 +5,9 @@ layout: post
 slug: tim-powell-revitalizing-jeffersons-vision-for-preserving-native-american-languages
 title: Tim Powell, Revitalizing Jefferson's Vision for Preserving Native American
   Languages
-categories:
-- Podcasts
-type: Announcement
+tags:
+- podcasts
+category: announcement
 ---
 
 **Revitalizing Thomas Jefferson's Vision for Preserving Native American Languages**

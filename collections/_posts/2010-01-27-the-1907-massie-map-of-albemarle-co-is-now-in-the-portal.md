@@ -4,13 +4,11 @@ date: 2010-01-27 15:11:57+00:00
 layout: post
 slug: the-1907-massie-map-of-albemarle-co-is-now-in-the-portal
 title: The 1907 Massie map of Albemarle Co.
-categories:
-- Geospatial and Temporal
 tags:
-- albemarle county
+- Geospatial and Temporal
+- Charlottesville and Virginia
 - gis
-- historic
-- map
+category: blog
 ---
 
 <figure>

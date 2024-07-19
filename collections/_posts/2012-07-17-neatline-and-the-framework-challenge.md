@@ -4,8 +4,10 @@ date: 2012-07-17 02:55:19+00:00
 layout: post
 slug: neatline-and-the-framework-challenge
 title: Neatline and the framework challenge
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
+- neatline
 ---
 
 With the first public release of [Neatline](http://neatline.org/) out the door, I've had the chance to take a short break from programming and think back over the nine-month development cycle that led up to the launch. In retrospect, I think that a lot of the exciting challenges we ran up against - the big, difficult questions about _what_ to program, as opposed to _how_ to program - emerged from tensions that are inherent in the task of creating frameworks as opposed to conventional applications.

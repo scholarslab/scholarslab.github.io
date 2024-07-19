@@ -4,10 +4,11 @@ date: 2013-04-22 12:46:46+00:00
 layout: post
 slug: prism-in-my-unconscious
 title: Prism in my Unconscious
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- prism
 ---
 
 As we rapidly approach the re-launch of [Prism](http://prism.scholarslab.org/) I am spending more and more of my waking hours concerned about CSS and the site redesign.  We've made a lot of exciting changes including making the site aesthetic that of a "scandanavian child's room" (thank you Eric Rochester).  However, this week Prism has finally seeped into by unconscious.

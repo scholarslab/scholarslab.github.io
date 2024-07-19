@@ -4,11 +4,12 @@ date: 2012-10-24 15:00:07+00:00
 layout: post
 slug: a-practical-prism-pedagogy-proposal
 title: 'A Practical Prism Pedagogy Proposal  '
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - pedagogy
 - praxis program
+- prism
 ---
 
 Everyone's been writing up proposals of new ways to use [Prism](http://prism.scholarslab.org/) and new functionality that can be implemented. One of the really exciting ideas (for me at least) that we've been tossing around collectively has been the idea of linking arguments to supporting evidence. In speaking with my fellow history department TAs, we've noticed that many of our students are doing poorly at uncovering how history literature connects these two things and some are not even sufficiently aware of what constitute evidence. Prism, used for pedagogy, could force a direct and individual engagement with these concepts.

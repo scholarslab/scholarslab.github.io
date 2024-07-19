@@ -6,7 +6,7 @@ slug: senior-developer-position
 title: Are you our new Senior Developer?
 tags:
 - staffing
-type: Announcement
+category: announcement
 ---
 
 Still fairly fresh on the scene, but drawing on a long history in digital humanities and spatial and data-driven work at the University of Virginia, the UVa Library's [Scholars' Lab](http://scholarslab.org) has developed [great projects](http://www.scholarslab.org/) and hosted [amazing events](http://www2.scholarslab.org/about/events.html) over the past three years. We now have an opportunity to add new collaborators to round out our team! (So stay tuned for future postings later this semester.)

@@ -5,9 +5,11 @@ layout: post
 slug: novice-struggles-and-expert-blindness-how-my-discomfort-with-php-will-make-me-a-better-instructor
 title: 'Novice struggles and expert blindness: How my discomfort with PHP will make
   me a better instructor'
+category: blog
 tags:
 - Ivanhoe
 - praxis program
+- learning
 ---
 
 It was my third blank screen. I switched back over to my text editor and tried again. I looked at the format of my PHP, looked at my functions. I looked up the PHP documentation, deleted elements that did not seem right, and saved again. Back in my browser, the screen was still blank. Last week, my computer at least gave me an error warning to let me know I had incorrect code. Today, there was nothing&mdash;even the static html components failed to appear. At this point, I had no idea what to do. I had exhausted my knowledge of PHP, exhausted my understanding of what to look for or how to fix it. After two straight hours, I was frustrated, overwhelmed, and tired, yet had nothing to show for the time and effort I put into it. It is the first time I remember feeling like I would and could never build the competency I needed to complete our remodel of [Ivanhoe.](http://ivanhoe.scholarslab.org/) I felt inadequate. I felt stupid. I made excuses that maybe I just was not 'meant' to work with computers.

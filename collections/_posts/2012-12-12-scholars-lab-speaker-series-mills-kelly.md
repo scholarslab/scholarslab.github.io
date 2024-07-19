@@ -4,9 +4,9 @@ date: 2012-12-12 10:09:16+00:00
 layout: post
 slug: scholars-lab-speaker-series-mills-kelly
 title: 'Scholars'' Lab Speaker Series: Mills Kelly'
-categories:
+tags:
 - Podcasts
-type: announcement
+category: announcement
 ---
 
 **Scholars' Lab Speaker Series: Dr. Mills Kelly**

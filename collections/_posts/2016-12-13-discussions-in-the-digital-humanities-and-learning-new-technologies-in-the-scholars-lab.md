@@ -3,8 +3,9 @@ author: sarah-mceleney
 date: 2016-12-13 11:25:55+00:00
 layout: post
 slug: discussions-in-the-digital-humanities-and-learning-new-technologies-in-the-scholars-lab
-title: Discussions in the Digital Humanities and Learning New Technologies in the
-  Scholars’ Lab
+title: "Discussions in the Digital Humanities and Learning New Technologies in the
+  Scholars’ Lab"
+category: blog
 tags:
 - praxis program
 ---

@@ -4,8 +4,8 @@ date: 2015-02-02 14:16:35+00:00
 layout: post
 slug: moving-peoplelinking-lives-dh-symposium
 title: Moving People/Linking Lives DH Symposium
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Events
 - Geospatial and Temporal
 - Grad Student Research

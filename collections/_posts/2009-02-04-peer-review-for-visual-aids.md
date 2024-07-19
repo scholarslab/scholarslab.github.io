@@ -4,9 +4,9 @@ date: 2009-02-04 15:01:20+00:00
 layout: post
 slug: peer-review-for-visual-aids
 title: Peer Review for Visual Aids?
-categories:
-- Visualization and Data Mining
+category: blog
 tags:
+- Visualization and Data Mining
 - accessibility
 ---
 

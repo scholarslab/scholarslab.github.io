@@ -4,10 +4,11 @@ date: 2012-10-22 11:17:20+00:00
 layout: post
 slug: prism-project-proposal
 title: Prism Project Proposal
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
+- prism
 ---
 
 Full disclosure: this list of questions came from a prompt by [David McClure](http://www.scholarslab.org/people/david-mcclure/).

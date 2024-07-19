@@ -4,11 +4,12 @@ date: 2015-12-08 13:06:41+00:00
 layout: post
 slug: classical-archaeology-and-the-makerspace
 title: Classical Archaeology and the Makerspace
-categories:
-- Grad Student Research
-- Makerspace
+category: blog
 tags:
-- graduate training
+- Grad Student Research
+- makerspace
+- pedagogy
+- archaeology
 crosspost:
   - title: my personal blog
     url: http://jennifergrayburn.com/2015/12/08/classical-archaeology-and-the-makerspace/

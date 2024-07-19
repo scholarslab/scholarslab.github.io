@@ -4,9 +4,12 @@ date: 2015-03-03 11:28:29+00:00
 layout: post
 slug: something-about-php
 title: Something about PHP
+category: blog
 tags:
 - Ivanhoe
 - praxis program
+- code
+- learning
 ---
 
 We’ve spent the past month and a half learning PHP. It’s an arduous task only complicated by our own busy schedules. Trying to learn a new language becomes much more difficult when also trying to wrangle sixty undergraduates every week, or finish a dissertation, or find a job.

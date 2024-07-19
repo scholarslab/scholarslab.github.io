@@ -4,9 +4,9 @@ date: 2011-06-27 10:53:05+00:00
 layout: post
 slug: scholars-lab-grad-fellows-digital-therapy-talks
 title: Scholars' Lab Grad Fellows, "Digital Therapy" Talks
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 ### Scholars' Lab Grad Fellows Chris Clapp, Tom Finger and Alex Gil

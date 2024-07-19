@@ -4,9 +4,9 @@ date: 2013-12-16 09:28:41+00:00
 layout: post
 slug: podcast-meg-stewart
 title: 'Podcast: Meg Stewart'
-categories:
+tags:
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 **Scholars' Lab Speaker: Meg Stewart**

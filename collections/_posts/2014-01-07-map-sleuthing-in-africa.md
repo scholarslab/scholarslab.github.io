@@ -4,11 +4,11 @@ date: 2014-01-07 09:36:20+00:00
 layout: post
 slug: map-sleuthing-in-africa
 title: Map Sleuthing in Africa
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
-- geospatial
+- Geospatial and Temporal
 - gis
+- map
 ---
 
 One of the many fun things we do in the [Scholars’ Lab](http://guides.lib.virginia.edu/gis) is help people find geographic datasets.

@@ -4,11 +4,10 @@ date: 2009-11-25 09:55:40+00:00
 layout: post
 slug: neogeography-from-tower-to-town-hall
 title: 'Neogeography: from Tower to Town Hall'
-categories:
-- Podcasts
 tags:
+- Podcasts
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 Andew Turner joined us in the SLab to discuss the neogeography movement, which has emerged from the rise of easy-to-use web-based maps and emphasizes community-led and colloquial uses of geospatial tools and techniques such as online maps, GPS, and location-aware phones, and its potential applicability to higher education.

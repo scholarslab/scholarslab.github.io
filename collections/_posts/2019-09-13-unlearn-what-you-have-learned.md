@@ -4,11 +4,9 @@ date: 2019-09-17
 layout: post
 slug: unlearn-what-you-have-learned
 title: "Unlearn What You Have Learned"
-categories:
-- Digital Humanities
-- Grad Student Research
-tags: 
-- Digital Humanities
+category: blog
+tags:
+- Grad Student Research 
 ---
 In the last few years, I have come to realize how digital tools can help historians like me to analyze the past in new and interesting ways. As a Praxis fellow, I want to learn more about what’s out there. What digital tools could I use to augment my teaching and research? And what are the implications of using those tools? 
 

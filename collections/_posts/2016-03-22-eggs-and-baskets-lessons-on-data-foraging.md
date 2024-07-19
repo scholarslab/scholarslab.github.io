@@ -4,8 +4,10 @@ date: 2016-03-22 09:48:00+00:00
 layout: post
 slug: eggs-and-baskets-lessons-on-data-foraging
 title: 'Eggs and Baskets: Lessons on Data Foraging'
-categories:
+category: blog
+tags:
 - Grad Student Research
+- dataset
 ---
 
 It’s been a (long) while since my inaugural post on my Data Science Fellowship project.  This post takes the form of a piece of advice for other soon-to-be data gathers, and it comes down to this: don’t put all your eggs in one basket.   

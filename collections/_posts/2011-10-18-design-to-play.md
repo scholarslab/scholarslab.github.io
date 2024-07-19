@@ -4,12 +4,12 @@ date: 2011-10-18 00:08:05+00:00
 layout: post
 slug: design-to-play
 title: design to play
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - design
 - praxis program
-- Programming
+- code
 ---
 
 Full disclosure: I have not used coloring pencils in over a decade... that is, until we got down and dirty to brainstorm some possible designs for Prism last Tuesday. Word has it, there will be some transparencies and markers tomorrow. Funny thing is my first salaried job was as a caricaturist for the newspaper _El Caribe_ in Dominican Republic. I remember sitting down with coloring pencils every night and cranking out a few designs before the 2am deadline. That was around the time when I was supposed to be an architect. _El Caribe_ paid for my full tuition to go to architecture school. I know. Why did I drop? Short answer: I didn't want to draw for the rest of my life. 

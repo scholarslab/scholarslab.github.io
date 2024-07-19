@@ -5,14 +5,12 @@ excerpt: As part of our ongoing efforts on our Neatline grant, we needed to incl
 layout: post
 slug: omeka-timeline-plugin
 title: Omeka Timeline Plugin
-categories:
-- Research and Development
+category: blog
 tags:
+- Research and Development
 - code
-- development
-- howto
+- tutorial
 - omeka
-- plugin
 - timeline
 ---
 

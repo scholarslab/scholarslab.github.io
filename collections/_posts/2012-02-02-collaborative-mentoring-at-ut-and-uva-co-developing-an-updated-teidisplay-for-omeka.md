@@ -5,9 +5,12 @@ layout: post
 slug: collaborative-mentoring-at-ut-and-uva-co-developing-an-updated-teidisplay-for-omeka
 title: 'Collaborative mentoring at UT & UVa: co-developing an updated TEIDisplay for
   Omeka'
+category: blog
 tags:
 - omeka
-- TEI
+- code
+- professional development
+- about-collaboration-community
 ---
 
 In partial answer to [Bethany](http://www.scholarslab.org/author/bethany/)'s charge in her recent ProfHacker piece "[it starts on day one](http://chronicle.com/blogs/profhacker/it-starts-on-day-one/37893)," I'm very excited to introduce a cross-institutional effort between the Scholars' Lab and the School of Information at UT-Austin to mentor two UT graduate students in the iSchool as they work to develop a DH tool for the DH community. The project will have two corresponding parts based on the background and interest of the students. [Zane Schwarzlose](http://www.scholarslab.org/author/zschwarzlose/), whose background includes extensive experience in developing with PhP and JavaScript will work to enhance [TEIDisplay](https://github.com/scholarslab/TeiDisplay), an Omeka plugin originally written by Ethan Gruber at the Scholars' Lab, that allows users to upload and display searchable [TEI texts](http://www.tei-c.org/) within the [Omeka](http://omeka.org) environment. [Carin Yavorcik](http://www.scholarslab.org/author/cyavorcik/), an emerging archivist, will create TEI templates as well as user documentation so that the new tool will be useful not only to the many cultural institutions that Omeka serves but also to instructors who are looking for an environment within which they can teach the integral ways in which a TEI text can function as a cross-platform representation of text.

@@ -4,16 +4,17 @@ date: 2012-11-05 10:24:20+00:00
 layout: post
 slug: outside-the-pipeline-from-anecdote-to-data
 title: 'Outside the Pipeline: From Anecdote to Data'
+category: blog
 tags:
 - alt-ac
 - Praxis Network
 - Scholarly Communication Institute
+- professional development
 crosspost:
   - title: SCI's website
     url: http://uvasci.org/current-work/graduate-education/rethinking-grad-ed-oct-2012/
   - title: my personal site
     url: http://wp.me/p2CaGd-cZ
-type: blog
 ---
 
 _I gave the following presentation at [SCI's recent meeting on rethinking graduate education](http://uvasci.org/current-work/graduate-education/rethinking-grad-ed-oct-2012/). It was the first time I've publicly discussed results from the [study on career preparation in humanities graduate programs](http://mediacommons.futureofthebook.org/alt-ac/who-we-are) that I've [written about previously](http://katinarogers.com/2012/07/10/announcing-a-new-sci-study-on-alternative-academic-career-paths/). I was honored to discuss the topic with our extremely knowledgeable group of [participants](http://uvasci.org/wp-content/uploads/2012/09/Participants_22OCT12.pdf), and the thoughtful questions and comments that the talk generated will inform my thinking as I work toward a more formal report and analysis. I would welcome additional comments and questions. A [PDF of the presentation](http://uvasci.org/wp-content/uploads/2012/09/SurveyReport_22OCT12_web.pdf) is also available. 

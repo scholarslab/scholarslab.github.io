@@ -4,12 +4,11 @@ date: 2012-11-28 14:31:51+00:00
 layout: post
 slug: populating-mysql-tables-with-node-js
 title: Populating MySQL tables with Node.js
-categories:
-- Research and Development
+category: blog
 tags:
-- mysql
+- Research and Development
 - neatline
-- node.js
+- code
 - omeka
 crosspost:
   - title: dclure.org

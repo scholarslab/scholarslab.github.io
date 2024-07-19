@@ -4,9 +4,9 @@ date: 2012-09-24 17:02:54+00:00
 layout: post
 slug: good-practice
 title: Good Practice
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 ---

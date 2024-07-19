@@ -4,12 +4,11 @@ date: 2012-11-20 15:58:21+00:00
 layout: post
 slug: onward-and-upward
 title: Onward and Upward
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- Programming
-- rails
+- code
 ---
 
 This week we wrapped up git and got started on Ruby. I’m starting to build the muscle memory with git. Although they are mostly simple tasks I can make a change in an html document, stage those changes, and then commit them to a repository in [github](http://github.com/). This feels like major progress given how I was feeling about git the first weeks. I’m also building up some basic skills with Terminal. I can quickly figure out where in my computer I am, move through directories, build directories and make new documents.

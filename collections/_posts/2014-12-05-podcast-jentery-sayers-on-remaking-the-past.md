@@ -4,11 +4,11 @@ date: 2014-12-05 13:11:14+00:00
 layout: post
 slug: podcast-jentery-sayers-on-remaking-the-past
 title: 'Podcast: Jentery Sayers on Remaking the Past'
-categories:
+tags:
 - Events
 - Experimental Humanities
 - Podcasts
-type: Announcement
+category: announcement
 ---
 
 ### _Remaking Victorian Miniatures: The Speculative Stitches between 2D and 3D_

@@ -4,13 +4,11 @@ date: 2012-03-02 11:18:36+00:00
 layout: post
 slug: customizing-bash
 title: Customizing Bash
-categories:
-- Research and Development
+category: blog
 tags:
-- bash
-- customization
-- development
-- tips
+- Research and Development
+- code
+- tutorial
 ---
 
 I spend a lot of time every day looking at a terminal window, and over the last decade I had been tweaking my bash profile to make the terminal act, and look, the way I wanted it to. As a systems administrator in a former life, I had collected a bunch of "useful" scripts that would help me work on a variety of operating systems, from [Solaris](http://en.wikipedia.org/wiki/Solaris_(operating_system)), to [AIX](http://www-03.ibm.com/systems/power/software/aix/index.html), to [SGI](http://www.sgi.com/),  as well as various flavors of Linux ([CentOS](http://www.centos.org/), [Fedora](http://fedoraproject.org/), [Ubuntu](http://www.ubuntu.com/), [SUSE](http://www.suse.com/), [Gentoo](http://www.gentoo.org/), etc.). I had aliases to commands (and my common typos) to log on to servers, control various services in my local development environment, and override common commands I typed all the time (e.g. ss for rails server) in my .bashrc which was [symlinked](http://en.wikipedia.org/wiki/Symbolic_link) to my .bash_profile due to an OS X quirk. This has resulted in a really long bashrc file (nearly 2000 lines long), and I wanted to take some time to clean things and get rid of a lot of the legacy cruft that was in that file.

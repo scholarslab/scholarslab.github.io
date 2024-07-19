@@ -4,9 +4,9 @@ date: 2009-02-11 17:51:23+00:00
 layout: post
 slug: research-applications-for-3d-models-in-art-history
 title: Research Applications for 3D Models in Art History
-categories:
-- Visualization and Data Mining
+category: blog
 tags:
+- Visualization and Data Mining
 - 3DCHI
 - 3D modeling
 ---

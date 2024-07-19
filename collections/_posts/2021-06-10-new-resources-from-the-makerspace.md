@@ -4,14 +4,12 @@ date: 2021-06-10 12:47:48
 layout: post
 slug: new-resources-from-the-makerspace
 title: New Resources From The Makerspace
-categories:
-- Makerspace
+category: blog
 tags:
+- makerspace
 - tutorial
 - workshop
-- Arduino
-- website
-- Git
+- electronics
 ---
 
 # Workshops and Tutorials

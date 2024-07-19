@@ -4,12 +4,11 @@ date: 2019-01-31 01:01:01
 layout: post
 slug: automating-webpage-tweet-screencaptures
 title: "Automating Webpage & Tweet Screencaptures"
-categories:
-- Tutorial
-- Digital Humanities
+category: blog
 tags:
+- Tutorial
 - Documenting the Now
-- Twitter
+- social media
 ---
 
 Do you have a list of webpage URLs for which you'd like screencaps (aka screenshots)?

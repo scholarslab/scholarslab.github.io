@@ -4,9 +4,9 @@ date: 2013-11-01 17:17:53+00:00
 layout: post
 slug: thinking-through-doing-while-losing-my-marbles
 title: Thinking Through Doing While Losing My Marbles
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
 ---
 

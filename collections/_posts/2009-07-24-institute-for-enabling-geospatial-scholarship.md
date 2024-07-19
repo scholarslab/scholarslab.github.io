@@ -4,9 +4,9 @@ date: 2009-07-24 11:17:22+00:00
 layout: post
 slug: institute-for-enabling-geospatial-scholarship
 title: Institute for Enabling Geospatial Scholarship
-categories:
+tags:
 - Geospatial and Temporal
-type: Announcement
+category: announcement
 ---
 
 Through the generosity of the National Endowment for the Humanities, the Scholars' Lab will host a three-track **Institute for Enabling Geospatial Scholarship** at the University of Virginia Library in November 2009 and May 2010. This Institute will bring scholars, cultural heritage professionals, and software developers together to support and develop geospatial projects and methods in the digital humanities. The NEH's [Institutes for Advanced Topics in the Digital Humanities](http://www.neh.gov/grants/guidelines/IATDH.html) program will support travel and lodging for 40 attendees as well as Institute faculty members. Dedicated funding is available for graduate students as well as faculty attendees. The Scholars' Lab will provide $40,000 in funding for short-term scholar- and developer-in-residencies in humanities GIS to complement the Institute.

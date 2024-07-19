@@ -4,8 +4,10 @@ date: 2014-09-26 14:07:28+00:00
 layout: post
 slug: what-the-junk
 title: What. The. Junk.
-categories:
-- Experimental Humanities
+category: blog
+tags:
+- makerspace
+- 3D printing
 ---
 
 So I had to take a sick day yesterday. Stuffy nose, scratchy throat, headache, grouchiness. Attempting to brighten my day, Wayne sent me a nice text message:

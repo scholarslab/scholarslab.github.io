@@ -4,8 +4,9 @@ date: 2012-05-11 13:51:32+00:00
 layout: post
 slug: wrapping-it-up-teidisplay-and-collaborative-mentoring-with-utuva
 title: 'Wrapping it Up: TeiDisplay and Collaborative Mentoring with UT/UVa'
+category: blog
 tags:
-- TEI
+- code
 ---
 
 I'm very excited to announce that my colleague [Zane](http://www.scholarslab.org/author/zschwarzlose/) and I have completed our work on the TeiDisplay plugin for Omeka! It's been a little while since I last posted, so if you'd like some background, check out our [previous posts](http://www.scholarslab.org/category/tei/) on this collaboration between the Scholars' Lab and the University of Texas School of Information. We have made several changes/additions, though the final product isn’t quite ready for release yet.

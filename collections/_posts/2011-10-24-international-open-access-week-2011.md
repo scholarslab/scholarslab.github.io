@@ -4,7 +4,7 @@ date: 2011-10-24 12:28:36+00:00
 layout: post
 slug: international-open-access-week-2011
 title: International Open Access Week 2011
-type: Announcement
+category: announcement
 ---
 
 [![Open Access Week poster](http://static.scholarslab.org/wp-content/uploads/2011/10/openaccessweek20118.5x11-164x300.png)](http://www.scholarslab.org/uncategorized/international-open-access-week-2011/attachment/openaccessweek20118-5x11/)

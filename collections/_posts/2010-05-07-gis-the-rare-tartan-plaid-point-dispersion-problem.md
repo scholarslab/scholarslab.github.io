@@ -4,12 +4,10 @@ date: 2010-05-07 15:07:20+00:00
 layout: post
 slug: gis-the-rare-tartan-plaid-point-dispersion-problem
 title: 'GIS: The (rare) Tartan-Plaid Point Dispersion Problem '
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - gis
-- points
-- problem
 ---
 
 Have you ever wondered what would happen to your map of points if while converting your coordinates from latitude/longitude in degrees, minutes, seconds (DMS) to decimal degrees (DD) you messed up the math?  Ever seen a weird tartan-like plaid pattern emerge on your map from points that were suppose to be uniformly spread out over the known extent?  Or wonder why coordinates are much more commonly stored as decimal degrees by computer GIS applications instead of the degrees-minutes-seconds most of us learn growing up?  If so, this blog entry from the Scholars’ Lab at the University  of Virginia Library is for you! <!-- more -->

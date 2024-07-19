@@ -4,10 +4,10 @@ date: 2011-10-18 22:55:27+00:00
 layout: post
 slug: prism-images-and-binaries
 title: Prism, Images and Binaries
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Visualization and Data Mining
-tags:
 - praxis program
 ---
 

@@ -4,12 +4,11 @@ date: 2013-03-18 11:38:31+00:00
 layout: post
 slug: prism-on-spring-break
 title: Prism on Spring Break
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
 - design
-- highlighting
 - praxis program
 - Prism
 - visualization

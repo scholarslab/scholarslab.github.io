@@ -4,12 +4,11 @@ date: 2010-05-17 18:11:29+00:00
 layout: post
 slug: frontiers-in-spatial-humanities
 title: Frontiers in Spatial Humanities
-categories:
-- Geospatial and Temporal
 tags:
+- Geospatial and Temporal
 - gis
 - speaker series
-type: Announcement
+category: announcement
 ---
 
 #### UPDATE: [video for the event](/blog/frontiers-in-spatial-humanities-video/) now available!

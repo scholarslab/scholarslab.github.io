@@ -4,8 +4,11 @@ date: 2012-09-06 08:57:25+00:00
 layout: post
 slug: bulk-editing-in-vim
 title: Bulk Editing in Vim
-categories:
+category: blog
+tags:
 - Research and Development
+- code
+- tutorial
 ---
 
 I regularly have to perform a short sequence of small, regular edits on a collection of files. If you work with computers long enough, that’s something everyone has to do.

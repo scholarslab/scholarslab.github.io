@@ -4,11 +4,10 @@ date: 2012-03-12 21:56:14+00:00
 layout: post
 slug: through-another-prism
 title: through another prism
-categories:
+category: blog
+tags:
 - Grad Student Research
 - Research and Development
-tags:
-- mark-up
 - praxis program
 - Prism
 ---

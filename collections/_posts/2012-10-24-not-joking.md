@@ -4,10 +4,10 @@ date: 2012-10-24 15:24:54+00:00
 layout: post
 slug: not-joking
 title: Not Joking
-categories:
-- Grad Student Research
+category: blog
 tags:
-- humor prism
+- Grad Student Research
+- prism
 - praxis program
 ---
 

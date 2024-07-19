@@ -4,7 +4,7 @@ date: 2010-09-10 18:26:09+00:00
 layout: post
 slug: the-methodological-turn
 title: The Methodological Turn
-type: Announcement
+category: announcement
 ---
 
 Exactly how does one acquire the “tools of the trade” in digital humanities research?

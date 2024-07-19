@@ -4,11 +4,10 @@ date: 2011-09-26 10:25:32+00:00
 layout: post
 slug: subject-and-object-required
 title: Subject and Object Required
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - praxis program
-- requirements-gathering
 ---
 
 Despite the title, this won't be about objects and coding. It's about the subject behind the requirements we gather, the people we gather those objectives from. For the past couple weeks, we’ve been bogged down in some of the practical instruction we’re getting as part of the Praxis program, so I had forgotten about some of the project planning and management instruction we got a few weeks ago. When introducing us to requirements gathering, Jeremy and Bethany modeled the methods we might use as project planners when meeting with a client for whom we’re building a tool. Jeremy asked specific questions and redirected Bethany to the issues he wanted to cover. As I wrote [a few weeks ago](http://www.scholarslab.org/praxis-program/imagining-end-users-for-requirements-gathering/), perhaps over-critically, this is how some of Prism’s history, and what I took to be its existing expectations, were revealed to the Praxis team. Now I want to step away from the content of that discussion and look at the form &mdash; what methods and approaches it modeled rather than what particular information it revealed. If we were to extend this model of client-focused project planning into project management and evaluation later on, we might continue to check back with our “client” Bethany to make sure the tool we build for her is coming along as she would like. It would be her goals as a user that would become our end goals as tool-builders. But this instruction on how requirements gathering works is at odds with the “Prism is whatever you want it to be” message of the Praxis program. Is our job to learn the many skills necessary in DH by building a tool for a given client’s needs, or is our job to create a tool for the broadest possible audience, being cautious not to assume too much about how it will be used? I wonder if this question is similar to a question about what kind of role in the DH community we want, or what role Praxis is preparing us to take. Are we collaborating on scholarship or are we in a support role, providing a technical service that shores up someone else’s scholarly project? If we're creating a tool for a very wide audience, how does this activity fit into our own scholarship? Are we academics or “alternative academics”?

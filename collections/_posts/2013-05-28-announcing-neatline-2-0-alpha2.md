@@ -4,9 +4,9 @@ date: 2013-05-28 13:30:41+00:00
 layout: post
 slug: announcing-neatline-2-0-alpha2
 title: Announcing Neatline 2.0-alpha2!
-categories:
-- Geospatial and Temporal
+category: blog
 tags:
+- Geospatial and Temporal
 - neatline
 crosspost:
   - title: dclure.org

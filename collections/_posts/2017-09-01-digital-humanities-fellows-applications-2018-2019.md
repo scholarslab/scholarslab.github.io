@@ -4,7 +4,7 @@ date: 2017-09-01 14:36:56+00:00
 layout: post
 slug: digital-humanities-fellows-applications-2018-2019
 title: Digital Humanities Fellows Applications - 2018-2019
-type: Announcement
+category: announcement
 ---
 
 _[Read closely: our menu options have changed. Note especially the changes to the application timeline, eligibility, and funding structure of the fellowship. Questions should be directed to [Brandon Walsh](mailto:bmw9t@virginia.edu), Head of Graduate Programs for the Scholars' Lab.]_

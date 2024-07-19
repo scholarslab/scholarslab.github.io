@@ -4,11 +4,12 @@ date: 2012-11-06 13:38:22+00:00
 layout: post
 slug: teaching-git
 title: Teaching Git
-categories:
-- Grad Student Research
+category: blog
 tags:
-- git
+- Grad Student Research
 - praxis program
+- code
+- pedagogy
 ---
 
 In Praxis, we just finished covering [Git](http://git-scm.com/). Everyone seemed to catch on pretty well, so I thought I’d write a bit about my thought process as I was planning the sessions. There were a few principles I tried to keep in mind:

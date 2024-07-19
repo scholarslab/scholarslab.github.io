@@ -4,8 +4,9 @@ date: 2016-07-11 11:02:53+00:00
 layout: post
 slug: lower-the-stakes
 title: Lower the Stakes
-categories:
-- Technical Training
+category: blog
+tags:
+- pedagogy
 ---
 
 I recently received the greatest compliment on my technical training ability that I've ever gotten.

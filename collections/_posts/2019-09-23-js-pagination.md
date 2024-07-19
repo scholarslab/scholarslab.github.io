@@ -4,11 +4,12 @@ date: 2019-09-23 14:03:52
 layout: post
 slug: js-pagination
 title: "JS Pagination"
-categories:
+category: blog
 tags:
-- JavaScript
-- websites
-- pagination
+- Architectural History
+- code
+- tutorial
+- web development
 crosspost:
   - title: JS Pagination
     url: https://mossiso.com/js-pagination/

@@ -4,12 +4,12 @@ date: 2012-04-23 16:21:10+00:00
 layout: post
 slug: and-then-the-light-bulb-blew
 title: '...and then the Herokulypse'
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - Labor
 - praxis program
-- Programming
+- code
 ---
 
 After two and some years hanging around the Scholars' Lab and earning my badges in the DH community, I finally learned a lesson that should be required learning for all new-comers: plumbing is real. I mean, I was more or less aware of its existence, brief-sightings, a shudder here and there from a ghostly presence. Problem is, I've been focusing on the flashy, large, important, big, fancy, loud, loud, loud uses of already-made tools or those tools I dream of, five-million dollars and the-rest-of-your-life tools. You know: The shiny stuff.

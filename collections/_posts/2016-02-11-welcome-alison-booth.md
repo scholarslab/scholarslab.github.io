@@ -4,7 +4,7 @@ date: 2016-02-11 09:03:10+00:00
 layout: post
 slug: welcome-alison-booth
 title: Welcome, Alison Booth!
-type: Announcement
+category: announcement
 ---
 
 We have some big news! The Scholars' Lab is thrilled to welcome Alison Booth as our new academic director!

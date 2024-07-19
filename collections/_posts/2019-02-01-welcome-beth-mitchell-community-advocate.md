@@ -4,9 +4,9 @@ date: 2019-02-01 01:01:01
 layout: post
 slug: welcome-beth-mitchell-community-advocate
 title: "Welcome to our new Community Advocate, Beth Mitchell!"
-categories:
-- Announcement
-- Digital Humanities
+category: announcement
+tags:
+- staffing
 ---
 
 We're pleased to welcome our new Community Advocate, [Beth Mitchell](https://scholarslab.org/people/elizabeth-mitchell/), after [a competitive national search](https://scholarslab.org/blog/job-opening-developer-outreach-testing-coordinator/).

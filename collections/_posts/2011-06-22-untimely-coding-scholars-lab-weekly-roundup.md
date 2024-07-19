@@ -4,7 +4,8 @@ date: 2011-06-22 12:00:36+00:00
 layout: post
 slug: untimely-coding-scholars-lab-weekly-roundup
 title: 'Untimely Coding: Scholars’ Lab Weekly Roundup'
-categories:
+category: blog
+tags:
 - Research and Development
 ---
 

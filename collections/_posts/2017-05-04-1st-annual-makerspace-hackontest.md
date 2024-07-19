@@ -4,8 +4,10 @@ date: 2017-05-04 10:25:22+00:00
 layout: post
 slug: 1st-annual-makerspace-hackontest
 title: 1st Annual Makerspace Hackontest
-categories:
-- Makerspace
+category: announcement
+tags:
+- makerspace
+- fun
 redirect_from:
   - /makerspace/1st-annual-makerspace-hackontest
 ---

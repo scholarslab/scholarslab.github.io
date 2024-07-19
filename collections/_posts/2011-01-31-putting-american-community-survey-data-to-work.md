@@ -4,10 +4,10 @@ date: 2011-01-31 10:33:50+00:00
 layout: post
 slug: putting-american-community-survey-data-to-work
 title: Putting American Community Survey Data to Work
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Visualization and Data Mining
-tags:
 - gis
 - Social Sciences
 ---

@@ -4,12 +4,11 @@ date: 2013-07-18 15:53:23+00:00
 layout: post
 slug: homers-catalogue-of-ships
 title: Homer's Catalogue of Ships
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Experimental Humanities
 - Geospatial and Temporal
 - Grad Student Research
-tags:
 - gis
 ---
 

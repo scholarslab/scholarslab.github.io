@@ -4,9 +4,9 @@ date: 2012-09-13 10:17:28+00:00
 layout: post
 slug: hello-world
 title: Hello World
-categories:
-- Grad Student Research
+category: blog
 tags:
+- Grad Student Research
 - charter
 - praxis program
 ---

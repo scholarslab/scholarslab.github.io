@@ -4,8 +4,8 @@ date: 2015-03-25 09:12:43+00:00
 layout: post
 slug: hearing-silent-woolf
 title: Hearing Silent Woolf
-categories:
-- Digital Humanities
+category: blog
+tags:
 - Grad Student Research
 crosspost:
   - title: my own blog

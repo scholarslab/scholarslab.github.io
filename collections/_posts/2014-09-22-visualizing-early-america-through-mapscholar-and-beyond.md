@@ -4,11 +4,13 @@ date: 2014-09-22 11:25:40+00:00
 layout: post
 slug: visualizing-early-america-through-mapscholar-and-beyond
 title: Visualizing Early America through MapScholar and Beyond
-categories:
+category: blog
+tags:
 - Geospatial and Temporal
 - Grad Student Research
 - Research and Development
 - Visualization and Data Mining
+- hello world
 ---
 
 Hello, DH World! As this is my first official post as a DH Grad Fellow in the Scholars’ Lab, I’d like to start it by thanking the folks in the Lab for the opportunity to join the team for this academic year. I feel really fortunate that I have the chance to hang out with bright and fun people for the next several months.

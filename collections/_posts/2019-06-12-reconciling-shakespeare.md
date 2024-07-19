@@ -6,8 +6,11 @@ date: 2019-06-12 09:42:46
 layout: post
 slug: reconciling-shakespeare
 title: "Reconciling Shakespeare['s texts]: Collation in a Digital World"
-categories:
+category: blog
+tags:
 - Grad Student Research
+- literature
+- bibliography
 crosspost:
   - title: W&L DH blog
     url: https://digitalhumanities.wlu.edu/blog/2019/06/12/reconciling-shakespeares-texts-collation-in-a-digital-world/

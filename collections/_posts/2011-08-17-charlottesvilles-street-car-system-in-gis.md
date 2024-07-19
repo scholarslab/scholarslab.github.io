@@ -4,16 +4,12 @@ date: 2011-08-17 09:27:38+00:00
 layout: post
 slug: charlottesvilles-street-car-system-in-gis
 title: Charlottesville's Street Car System in GIS
-categories:
-- Digital Humanities
-- Geospatial and Temporal
+category: blog
 tags:
-- albemarle county
+- Geospatial and Temporal
+- Charlottesville and Virginia
 - cartography
-- charlottesville
-- Digital Humanities
 - gis
-- historic
 - map
 ---
 
