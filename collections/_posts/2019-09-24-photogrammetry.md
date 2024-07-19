@@ -11,7 +11,7 @@ tags:
 - makerspace
 - photogrammetry
 - parents fund
-- 3DCHI
+- 3dchi
 ---
 
 ![3D Apple with a Bite ](/assets/post-media/2019-09-19-3DApple.png)

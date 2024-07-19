@@ -1,0 +1,50 @@
+---
+collaborators: 
+  - name: Amanda Visconti
+    slug: amanda-visconti
+    role: Curator
+layout: work
+slug: zine-bakery
+title: "Zine Bakery @ Scholars' Lab"
+url: https://airtable.com/shr3DDj5X1uNPUzyn/tbl88Svfsrkg3YV5Z
+thumb-img: default-thumb.png
+banner-img: default-banner.png
+research-category: Internal Projects and Community Service
+start-year: 2018
+end-year: current
+---
+<p>Amanda Wyatt Visconti maintains a collection of zines by authors and on topics of interest them (Zine Bakery), a majority subset of which are also of interest to the Lab and its community (Zine Bakery & Scholars' Lab), including zines on feminist approaches to technology, digital scholarship tutorials, creativity and making, and social justice advocacy.</p>
+
+<p>The project includes:</p>
+<ul>
+<li>Copies of print zines distributed on a rack in SLab's Common Room public space</li>
+<li>A digital catalogue of zines, combining the zines we can distribute publicly with others we cannot distribute for various reasons (including only having a single non-reproducable copy in our collection, or zines purchased with staff personal funds).</li>
+<li>A subset of zine titles and metadata in the catalogue available via a public interface: <a href="https://airtable.com/shr3DDj5X1uNPUzyn/tbl88Svfsrkg3YV5Z">Zine Bakery's public zine catalogue view</a></li>
+<li>An interest in collecting a copy of any zines authored by or about UVA and Charlottesville folks that the zines' authors wish to share (please email visconti@virginia.edu with a digital copy)</li>
+</ul>
+
+<h2>Timeline</h2>
+<li>The project began pre-pandemic as personal collecting, quickly followed by distribution of a subset of Visconti's personal zine collecting through a Scholars' Lab "Zine Wall" in a semi-public space that offered free copies of interesting zines as they happen upon them, and via cross-Library working group meetings and a Slack channel.</li>
+<li>The zine project was virtual-only during the renovation of SLab's physical space in the Main Library (2020-2023).</li>
+<li>In 2024, zines returned to our public space in the renovated Shannon Library (SLab Common Room, Shannon 308).</li>
+
+<h2>Policy</h2>
+<p>We welcome visitors to leave zines in our Common Room (Shannon 308) that they'd like us to distribute there, and/or include a copy in our non-public zine backup archive; you are also welcome to email us digital versions of zines.</p>
+
+<p>We reserve the right to remove and recycle any zines left in our public space for any reason, or to decline to print zine copies or include a zine in our catalogue. This includes if we find zines too unrelated to or antithetical to our values or work. If you have zines you'd like to share but are uncertain whether they'll fit our policy, you can email <a href="https://scholarslab.lib.virginia.edu/people/amanda-visconti/">Amanda Wyatt Visconti</a> to check.</p>
+
+<h2>Blogging</h2>
+<p>Below are posts written by Visconti about zines.</p>
+<ul>
+{%- for post in site.tags.zines -%}
+{% if post.author == "amanda-visconti" %}
+	<li>
+		<h3>
+		<a class="post-link" href="{{ post.url | relative_url }}">
+		{{ post.title | escape }}
+		</a>
+        </h3>
+	</li>
+{% endif %}
+{%- endfor -%}
+</ul>

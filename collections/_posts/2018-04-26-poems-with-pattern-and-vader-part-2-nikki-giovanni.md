@@ -4,6 +4,12 @@ date: 2018-04-26 09:38:23+00:00
 layout: post
 slug: poems-with-pattern-and-vader-part-2-nikki-giovanni
 title: 'Poems with Pattern and VADER, Part 2: Nikki Giovanni'
+category: blog
+tags:
+- grad student research
+- race
+- literature
+- text analysis
 ---
 
 _(This post is part of a two-post series&mdash;I ended up having too much to say about the poems I looked at with VADER and Pattern, so I split it up. First half can be found [here](http://scholarslab.org/uncategorized/poems-with-pattern-and-vader-part-1-quincy-troupe/)!)_

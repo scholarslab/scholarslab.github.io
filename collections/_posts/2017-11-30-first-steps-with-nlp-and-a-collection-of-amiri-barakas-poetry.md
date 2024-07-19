@@ -4,6 +4,12 @@ date: 2017-11-30 15:27:04+00:00
 layout: post
 slug: first-steps-with-nlp-and-a-collection-of-amiri-barakas-poetry
 title: First Steps with NLP and a Collection of Amiri Baraka's Poetry
+category: blog
+tags:
+- grad student research
+- text analysis
+- literature
+- race
 ---
 
 **Amiri Baraka’s _Black Magic_, 1969**

@@ -33,3 +33,16 @@ end-year: 2016
 ---
 
 This year's cohort was asked simply to think about time in some way, and the result is ClockWork, an experiment in how temporal data might be turned into sonic artifacts, or sonified. The site offers several different sonifications of its own, serves as a platform for teaching sonification to others, and focuses on the programming language SuperCollider.
+
+<p>Below are our research blog posts related to the ClockWork project:</p>
+<ul>
+{%- for post in site.tags.clockwork -%}
+	<li>
+		<h3>
+		<a class="post-link" href="{{ post.url | relative_url }}">
+		{{ post.title | escape }}
+		</a>
+        </h3>
+	</li>
+{%- endfor -%}
+</ul>

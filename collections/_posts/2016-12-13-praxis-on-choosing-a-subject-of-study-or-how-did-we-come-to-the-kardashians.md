@@ -8,6 +8,7 @@ category: blog
 tags:
 - praxis
 - dash-amerikan
+- grad student research
 ---
 
 <figure>

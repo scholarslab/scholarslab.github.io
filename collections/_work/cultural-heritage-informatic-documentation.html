@@ -21,8 +21,11 @@ redirect_from:
   - /cultural-heritage-informatics-documentation
 ---
 
-In 2019, the Scholars' Lab and UVA Library received funding from the <a href="https://uvaparents.virginia.edu/parents-fund/projects-funded/">UVA Parents Fund</a> to create documentation for working with augmented and virtual reality technologies on campus. The following posts were produced as an outcome from that project.
-{% assign project_posts = site.posts | where: 'tags', 'Parents Fund' %}
+In 2019, the Scholars' Lab and UVA Library received funding from the <a href="https://uvaparents.virginia.edu/parents-fund/projects-funded/">UVA Parents Fund</a> to create documentation for working with augmented and virtual reality technologies on campus. 
+
+The following posts were produced as an outcome from that project:
+
+{% assign project_posts = site.posts | where: 'tags', 'parents fund' %}
 <ul>
 {% for post in project_posts %}
 {% capture authorstring %}

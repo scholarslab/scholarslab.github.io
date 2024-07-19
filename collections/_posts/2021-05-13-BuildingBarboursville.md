@@ -9,7 +9,7 @@ tags:
 - geospatial and temporal
 - grad student research
 - architectural history
-- 3DCHI
+- 3dchi
 - 3d scanning
 - 3d modeling
 ---

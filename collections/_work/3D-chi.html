@@ -1,0 +1,28 @@
+---
+collaborators: 
+  - name: Will Rourk
+    slug: will-rourk
+    role: 3D Data and Content Specialist
+  - name: IATH
+layout: work
+slug: 3d-chi
+title: 3D Cultural Heritage Informatics
+url: https://wordpress.its.virginia.edu/Cultural_Heritage_Data//data-2/
+thumb-img: default-thumb.png
+banner-img: default-banner.png
+research-category: Collaborations
+start-year: (before 2018)
+end-year: current
+---
+<p>3D Data and Content Specialist Will Rourk specializes in 3D cultural heritage data, often working in collaboration with other Scholars' Lab staff (especially other staff on our <a href="https://scholarslab.lib.virginia.edu/spatial-technologies/">Spatial Technologies</a> team) as well as with IATH staff. Read more about <a href="https://scholarslab.lib.virginia.edu/spatial-technologies/">Spatial Technologies</a>, or focus on 3D cultural heritage informatics <a href="https://wordpress.its.virginia.edu/Cultural_Heritage_Data/">here</a>.</p>
+
+<p>Below are our research blog posts related to 3D CHI:</p>
+{% assign project_posts = site.posts | where: 'tags', '3dchi' %}
+<ul>
+{% for post in project_posts %}
+{% capture authorstring %}
+{% include author-name.html authorid=post.author %}
+{% endcapture %}
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring }}</li>
+{% endfor %}
+</ul>

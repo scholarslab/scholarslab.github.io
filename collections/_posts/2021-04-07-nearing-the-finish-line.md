@@ -10,7 +10,7 @@ tags:
 - gis
 - vr-ar
 - grad student research
-- 3DCHI
+- 3dchi
 - archaeology
 - 3d modeling
 ---

@@ -5,6 +5,8 @@ layout: post
 slug: supporting-black-community
 title: "Scholars' Lab affirms our commitment to anti-racism"
 category: announcement
+tags:
+- race
 ---
 Black lives matter.
 

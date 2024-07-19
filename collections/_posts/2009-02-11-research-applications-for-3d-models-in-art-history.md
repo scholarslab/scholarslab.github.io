@@ -7,7 +7,7 @@ title: Research Applications for 3D Models in Art History
 category: blog
 tags:
 - visualization and data mining
-- 3DCHI
+- 3dchi
 - 3d modeling
 ---
 

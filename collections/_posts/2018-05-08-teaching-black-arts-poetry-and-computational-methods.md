@@ -10,6 +10,8 @@ tags:
 - pedagogy
 - race
 - literature
+- grad student research
+- text analysis
 ---
 
 *Enjoy this guest post by Ethan Reed, a 2017-2018 graduate fellow as well as a Ph.D candidate in English Literature at the University of Virginia. He went to W&L to give a workshop in Prof. Lesley Wheeler’s ENGL 295_02: African-American Poetry course through a Mellon-funded collaboration with the Scholars’ Lab at UVA. More information about this initiative can be found [here](https://github.com/wludh/research-one-collab/blob/master/wlu-faculty.md). This post is cross-listed on the WLUDH [blog](https://digitalhumanities.wlu.edu/blog/2018/05/10/teaching-black-arts-poetry-and-computational-methods/).*

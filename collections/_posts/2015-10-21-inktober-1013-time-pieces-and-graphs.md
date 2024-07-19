@@ -8,6 +8,7 @@ category: blog
 tags:
 - grad student research
 - clockwork
+- labor
 crosspost:
   - title: my post on our Praxis page
     url: http://praxis.scholarslab.org/blog/2015/10/13/inktober-10-13-time-pieces-graphs/

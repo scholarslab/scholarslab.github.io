@@ -7,6 +7,9 @@ title: Transcription Is Complicated
 category: blog
 tags:
 - text analysis
+- transcription
+- literature
+- bibliography
 ---
 
 In a recent _PMLA_ issue on digital methods, Johanna Drucker concludes her article [“Why Distant Reading Isn’t”](http://www.mlajournals.org/doi/abs/10.1632/pmla.2017.132.3.628) by claiming that distant reading’s

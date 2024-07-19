@@ -7,7 +7,7 @@ title: "Today, I stood on top of a giant pumpkin"
 category: blog
 tags:
 - geospatial and temporal
-- 3DCHI
+- 3dchi
 - vr-ar
 - 3d modeling
 - learning experience

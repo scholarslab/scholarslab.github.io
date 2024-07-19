@@ -7,7 +7,7 @@ title: Preserving, Reconstructing, & Teaching in 3D
 category: blog
 tags:
 - grad student research
-- 3DCHI
+- 3dchi
 - archaeology
 - makerspace
 - 3d modeling
