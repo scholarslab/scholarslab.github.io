@@ -7,7 +7,7 @@ title: 'Scholars'' Lab Talk, Archive Page, and Future Plans: Songs of the Victor
   and Augmented Notes'
 category: blog
 tags:
-- music
+- music and sound
 - grad student research
 crosspost:
   - title: Anglophile in Academia

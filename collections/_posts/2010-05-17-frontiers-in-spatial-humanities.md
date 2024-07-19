@@ -7,7 +7,7 @@ title: Frontiers in Spatial Humanities
 tags:
 - geospatial and temporal
 - gis
-- speaker series
+- event
 category: announcement
 ---
 

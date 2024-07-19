@@ -7,7 +7,6 @@ title: Announcing a new SCI study on alternative academic career paths
 category: blog
 tags:
 - alt-ac
-- survey
 ---
 
 I'm pleased to announce that the [Scholarly Communication Institute](http://uvasci.org/current-work/) is conducting **a study on career preparation in humanities graduate programs**. As part of this study, we have launched two confidential surveys: the [first is for people on alternative academic career paths](http://alt-academy.questionpro.com/) (that is, people with graduate training in the humanities and allied fields working beyond the professoriate); the [second survey is for their employers](http://alt-academy.employers.questionpro.com/).  The surveys will be open until October 1, 2012.

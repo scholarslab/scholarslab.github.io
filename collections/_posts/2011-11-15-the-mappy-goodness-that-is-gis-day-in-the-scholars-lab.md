@@ -9,7 +9,7 @@ tags:
 - geospatial and temporal
 - grad student research
 - visualization and data mining
-- cartography
+- map
 - gis
 - tutorial
 - map

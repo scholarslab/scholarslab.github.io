@@ -9,7 +9,7 @@ tags:
 - research and development
 - neatline
 - omeka
-- timeline
+- geospatial and temporal
 ---
 
 After reading a post on one of my favorite blogs, [Giant Robots Smashing Into Other Giant Robots](http://robots.thoughtbot.com/post/8221237451/this-week-in-open-source), I was inspired to start this series chronicling highlights in our Open Source development efforts.

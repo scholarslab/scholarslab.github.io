@@ -7,7 +7,7 @@ title: Music Genre and Spotify Metadata
 category: blog
 tags:
 - grad student research
-- music
+- music and sound
 crosspost:
   - title: my personal site
     url: http://walshbr.com/blog/music-genre-and-spotify-metadata/

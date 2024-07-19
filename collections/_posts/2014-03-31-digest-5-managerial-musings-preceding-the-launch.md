@@ -9,7 +9,7 @@ tags:
 - grad student research
 - ivanhoe
 - praxis
-- project-management
+- project management
 ---
 
 It has been a couple weeks since my last digest, but as you can see from other posts, the Praxis goings-on are many! Development scurries to fix the multitude of bugs that seem to keep crawling out of the WordPress woodwork, while Design continues to apply CSS, SASS, and SUSY to bring our vision of Ivanhoe to fruition. Meanwhile, Francesca and I draft, revise, and reorganize content for our informational website, which will go up next week.

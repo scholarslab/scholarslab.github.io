@@ -4,9 +4,11 @@ date: 2023-06-27
 layout: post
 slug: themed-reading-list-decks-zines
 title: "Themed reading lists as neat card decks! A tutorial and design discussion"
+category: blog
 tags:
 - zines
 - makerspace
+- tutorial
 crosspost:
   - title: Amanda's Blog
     url: https://literaturegeek.com/2023/06/29/themed-reading-list-decks-zines

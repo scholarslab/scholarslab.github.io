@@ -9,7 +9,7 @@ tags:
 - makerspace
 - tutorial
 - fabric arts
-- expansive makerpace
+- expansive makerspace
 ---
 <style>
   img {

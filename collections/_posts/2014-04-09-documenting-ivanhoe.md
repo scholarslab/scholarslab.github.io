@@ -7,7 +7,6 @@ title: Documenting Ivanhoe
 category: blog
 tags:
 - grad student research
-- documentation
 - ivanhoe
 - praxis
 ---

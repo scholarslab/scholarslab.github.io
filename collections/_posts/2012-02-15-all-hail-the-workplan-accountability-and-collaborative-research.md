@@ -9,7 +9,7 @@ tags:
 - grad student research
 - praxis
 - prism
-- project-management
+- project management
 ---
 
 In our first official meeting as Project Managers, Sarah and I drew a line on the whiteboard that had two distinct endpoints - a start and a finish. The start point was that day's date, January 17th, and the endpoint would be whatever date we could get the group to agree on for Prism's launch. After briefing the group in [our project management crash course](http://praxis.scholarslab.org/topics/project-management/) on the elements of a good workplan, I grabbed a marker, Sarah opened a Google doc, and the great experiment began. We worked backwards from the official release of Prism into the world, setting hard dates for the feature freeze and soft launch, and then drew in key points for each aspect of the project (when the highlighting function will be coded, when the pages will be designed, etc.). And so the workplan was born. The process took something like 90 minutes, but it might have been the most productive 90 minutes I've experienced in Praxis so far.

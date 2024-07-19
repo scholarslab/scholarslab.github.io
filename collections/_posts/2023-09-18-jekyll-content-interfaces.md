@@ -4,8 +4,10 @@ date: 2023-09-18
 layout: post
 slug: jekyll-content-interfaces
 title: "Jekyll content interfaces: a review of tools for friendlier authoring/editing on collaborative Jekyll sites"
+category: blog
 tags:
 - jekyll
+- code
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2023/09/18/jekyll-content-interfaces

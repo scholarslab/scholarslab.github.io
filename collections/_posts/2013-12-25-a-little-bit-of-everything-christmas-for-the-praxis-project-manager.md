@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - praxis
-- project-management
+- project management
 ---
 
 Merry Christmas!  As you can see from [Zach](http://www.scholarslab.org/digital-humanities/lessons-for-christmas-a-sawzall-solves-all/), [Francesca](http://www.scholarslab.org/grad-student-research/we-wish-you-a-merry-cssmas/), [Veronica](http://www.scholarslab.org/grad-student-research/breaking-things-over-winter-break/), and [Eliza's](http://www.scholarslab.org/grad-student-research/praxis-holidays/) posts, we're all equally busy preparing ourselves for the thrilling upcoming semester of building Ivanhoe.  Like my fellow Fellows, I too will be practicing my HTML, CSS, and PHP, because as project manager I need to understand the challenges the group faces in coding and designing Ivanhoe.  (I also find these computing languages fun--so why not?)  Besides this practice, I am currently in the process of coordinating a group post for New Year's Day--perhaps with flashing dinosaurs.  This post will show off some of our new CSS skills--and hopefully some PHP.  So stay tuned.

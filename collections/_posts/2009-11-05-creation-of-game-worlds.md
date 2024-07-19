@@ -6,7 +6,7 @@ slug: creation-of-game-worlds
 title: Creation of Game Worlds
 tags:
 - podcast
-- speaker series
+- event
 category: announcement
 ---
 

@@ -7,6 +7,9 @@ title: "20% Time: Why we make self-initiated research & development part of the 
 crosspost:
   - title: my blog
     url: https://literaturegeek.com/2019/04/26/dh-center-staff-professional-research-and-development-time/
+category: blog
+tags:
+- research and development
 ---
 
 All Scholars' Lab staff are encouraged to take 20% of their time to initiate research and professional development. In this post, we'll share some of what we've been working on, and explain the rationale behind making this 20% time a formal part of our job descriptions.

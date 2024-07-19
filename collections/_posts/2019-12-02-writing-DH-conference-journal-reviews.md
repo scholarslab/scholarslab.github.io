@@ -4,6 +4,9 @@ date: 2019-12-02
 layout: post
 slug: writing-DH-conference-journal-reviews
 title: "Personal guidelines for DH journal and conference reviewing"
+category: blog
+tags:
+- academia
 crosspost:
   - title: Amanda's personal blog  
     url: https://literaturegeek.com/2019/12/02/writing-DH-conference-journal-reviews

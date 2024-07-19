@@ -7,7 +7,7 @@ title: Dancing with Ruby
 category: blog
 tags:
 - grad student research
-- dance
+- dance and theater
 - praxis
 - code
 ---

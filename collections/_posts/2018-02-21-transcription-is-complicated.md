@@ -4,6 +4,9 @@ date: 2018-02-21 16:15:10+00:00
 layout: post
 slug: transcription-is-complicated
 title: Transcription Is Complicated
+category: blog
+tags:
+- text analysis
 ---
 
 In a recent _PMLA_ issue on digital methods, Johanna Drucker concludes her article [“Why Distant Reading Isn’t”](http://www.mlajournals.org/doi/abs/10.1632/pmla.2017.132.3.628) by claiming that distant reading’s

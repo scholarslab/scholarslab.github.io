@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - accessibility
-- music
+- music and sound
 ---
 What is the sound of disability? What is the sound of a body that does not conform to standards but defies and resists? And further, is disability an instrument itself?
 

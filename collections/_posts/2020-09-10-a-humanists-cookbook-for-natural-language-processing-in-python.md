@@ -9,6 +9,8 @@ title: A Humanist's Cookbook For Natural Language Processing In Python
 category: blog
 tags:
 - pedagogy
+- text analysis
+- tutorial
 - code
 crosspost:
 - title: Brandon's blog

@@ -7,6 +7,7 @@ title: "When They Came Down: Participating in crowdsourced documentation of raci
 category: blog
 tags: 
 - tutorial
+- race
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2020/06/30/participating-in-statue-removal-history-crowdsourcing

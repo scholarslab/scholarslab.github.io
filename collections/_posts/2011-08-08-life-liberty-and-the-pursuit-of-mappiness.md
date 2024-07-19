@@ -7,7 +7,7 @@ title: Life, Liberty, and the Pursuit of Mappiness
 category: blog
 tags:
 - geospatial and temporal
-- cartography
+- map
 - gis
 - visualization
 ---

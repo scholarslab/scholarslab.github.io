@@ -8,7 +8,7 @@ category: blog
 tags:
 - geospatial and temporal
 - visualization and data mining
-- cartography
+- map
 - gis
 - visualization
 ---

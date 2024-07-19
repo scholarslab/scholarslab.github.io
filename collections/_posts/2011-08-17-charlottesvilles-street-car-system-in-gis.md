@@ -8,7 +8,7 @@ category: blog
 tags:
 - geospatial and temporal
 - charlottesville and virginia
-- cartography
+- map
 - gis
 - map
 ---

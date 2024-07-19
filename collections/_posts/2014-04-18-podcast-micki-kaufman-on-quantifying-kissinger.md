@@ -7,7 +7,7 @@ title: 'Podcast: Micki Kaufman on Quantifying Kissinger'
 tags:
 - podcast
 - visualization and data mining
-- speaker series
+- event
 category: announcement
 ---
 

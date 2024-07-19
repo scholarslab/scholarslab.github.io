@@ -9,7 +9,7 @@ tags:
 - grad student research
 - praxis
 - prism
-- project-management
+- project management
 ---
 
 I have saved the discussion of my biggest struggle with Project Management for my final post in this miniseries.  Much to my surprise, communication with the rest of the team was one of the more difficult aspects of this semester.  This caught me completely off guard because I actually think that I have pretty good communication skills: I don’t shy away from talking about topics just because they are uncomfortable, I write clearly, and I make an effort to be sure I am hearing and understanding others. And yet, I found communication challenging.  

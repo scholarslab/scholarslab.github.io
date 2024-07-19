@@ -4,8 +4,11 @@ date: 2019-08-12
 layout: post
 slug: github-jekyll-glossary
 title: "Running a collaborative blog: A glossary for GitHub & Jekyll"
+category: blog
 tags:
 - jekyll
+- code
+- tutorial
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2019/08/12/github-jekyll-glossary

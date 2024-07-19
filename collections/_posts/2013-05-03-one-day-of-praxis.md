@@ -7,7 +7,6 @@ title: One day of Praxis
 category: blog
 tags:
 - grad student research
-- photos
 - praxis
 ---
 

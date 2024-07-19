@@ -6,7 +6,7 @@ slug: digital-therapy-luncheon-september-2009
 title: Digital Therapy Luncheon September 2009
 tags:
 - podcast
-- speaker series
+- event
 category: announcement
 ---
 

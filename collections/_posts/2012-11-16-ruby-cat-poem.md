@@ -7,9 +7,9 @@ title: Ruby Cat Poem
 category: blog
 tags:
 - grad student research
-- cats
 - praxis
 - code
+- fun
 ---
 
 AA                  line

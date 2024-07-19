@@ -9,7 +9,7 @@ tags:
 - grad student research
 - praxis
 - prism
-- project-management
+- project management
 ---
 
 Last week Brooke and I celebrated our new roles as [co-project managers](http://praxis.scholarslab.org/topics/project-management/) by running our very first Praxis meeting. We had a fairly ambitious agenda, and I must admit that I was a little bit concerned about whether our enthusiastic (debate-loving) group would be able to get through everything we wanted to do, but thanks to Brooke's no-nonsense attitude, our pre-planned strategy, and the team's brilliant cooperation, I think we can call our first official act as co-project managers a decided success.

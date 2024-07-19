@@ -9,8 +9,8 @@ tags:
 - alt-ac
 - code
 - design
-- development
-category: announcement
+- event
+category: blog
 ---
 
 We're pleased to announce that applications are open for a 2-day, [NEH-funded](http://neh.gov) symposium and summit to be held at the Scholars' Lab this November 4th and 5th.

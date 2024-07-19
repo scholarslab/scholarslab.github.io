@@ -9,7 +9,7 @@ tags:
 - grad student research
 - visualization
 - literature
-- distant reading
+- text analysis
 - pedagogy
 - wlu collab
 ---

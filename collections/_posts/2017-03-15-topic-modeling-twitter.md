@@ -9,7 +9,7 @@ tags:
 - praxis
 - social media
 - code
-- distant reading
+- text analysis
 ---
 
 **What is topic modeling?**

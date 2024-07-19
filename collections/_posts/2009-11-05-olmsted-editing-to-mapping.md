@@ -6,7 +6,7 @@ slug: olmsted-editing-to-mapping
 title: 'Olmsted: Editing to Mapping'
 tags:
 - podcast
-- speaker series
+- event
 category: announcement
 ---
 

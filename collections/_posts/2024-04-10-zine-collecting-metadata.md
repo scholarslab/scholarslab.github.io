@@ -4,6 +4,7 @@ date: 2024-04-10
 layout: post
 slug: zine-collecting-metadata
 title: "Metadata for Zine Collecting"
+category: blog
 tags:
 - zines
 - metadata

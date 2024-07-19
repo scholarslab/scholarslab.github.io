@@ -4,6 +4,7 @@ date: 2023-10-30
 layout: post
 slug: beyond-classroom-DH-pedagogies
 title: "DH pedagogies beyond the classroom"
+category: blog
 tags:
 - pedagogy
 crosspost:

@@ -5,7 +5,7 @@ layout: post
 slug: scholarly-publishing-today-and-tomorrow
 title: Scholarly Publishing Today and Tomorrow
 tags:
-- speaker series
+- event
 category: announcement
 ---
 

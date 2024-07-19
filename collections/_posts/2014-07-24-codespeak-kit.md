@@ -7,7 +7,6 @@ title: 'Announcing the #Codespeak Kit!'
 category: blog
 tags:
 - research and development
-- development
 - code
 ---
 

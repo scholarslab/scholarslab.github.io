@@ -1,5 +1,5 @@
 ---
-author: amanda-visconti
+author: scholars-lab
 date: 2019-01-15 01:01:01
 layout: post
 slug: gis-workshops-spring-2019

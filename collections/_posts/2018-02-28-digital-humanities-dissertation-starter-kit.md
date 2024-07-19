@@ -8,7 +8,6 @@ category: blog
 tags:
 - dissertation
 - pedagogy
-- dissertation
 crosspost:
   - title: the Modern Languages Association (MLA) Committee on Info Tech blog
     url: https://infotech.mla.hcommons.org/2018/digital-humanities-dissertation-starter-kit/

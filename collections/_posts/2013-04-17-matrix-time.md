@@ -7,7 +7,7 @@ title: matrix time
 category: blog
 tags:
 - grad student research
-- praxis prism
+- prism
 - praxis
 ---
 

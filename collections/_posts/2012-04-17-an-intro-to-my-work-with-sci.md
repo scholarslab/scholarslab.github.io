@@ -7,7 +7,6 @@ title: "An intro to my work with the Scholarly Communication Institute (SCI)"
 category: blog
 tags:
 - alt-ac
-- survey
 - professional development
 ---
 

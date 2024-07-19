@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - praxis
-- project-management
+- project management
 ---
 
 In my last post, I talked through some of my experiences with the organizational aspects of project management.  Here, I want to talk about one of the aspects of project management which can be more difficult to articulate and to learn.  While each project needs a timeline, deadlines, and clear goals, a project manager does more than keep track of the organizational aspects of the project.   The way I see it now, a successful project manager is able to facilitate the coordination of her team in a way that maximizes the team’s potential. 

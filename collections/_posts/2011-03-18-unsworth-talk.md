@@ -5,7 +5,7 @@ layout: post
 slug: unsworth-talk
 title: Unsworth to speak at UVa
 tags:
-- speaker series
+- event
 category: announcement
 ---
 

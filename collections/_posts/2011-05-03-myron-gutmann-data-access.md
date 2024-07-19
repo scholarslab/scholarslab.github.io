@@ -7,7 +7,7 @@ title: Myron Gutmann on Data Access
 tags:
 - social sciences
 - event
-- speaker series
+- event
 category: announcement
 ---
 

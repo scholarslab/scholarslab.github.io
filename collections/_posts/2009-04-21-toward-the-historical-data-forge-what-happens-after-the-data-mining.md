@@ -6,7 +6,7 @@ slug: toward-the-historical-data-forge-what-happens-after-the-data-mining
 title: 'Toward the Historical Data Forge: What Happens After the Data-Mining?'
 tags:
 - podcast
-- speaker series
+- event
 category: announcement
 ---
 

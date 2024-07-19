@@ -7,7 +7,7 @@ title: '"Old School Hydro" in the Scholars'' Lab'
 tags:
 - geospatial and temporal
 - gis
-- speaker series
+- event
 category: announcement
 ---
 

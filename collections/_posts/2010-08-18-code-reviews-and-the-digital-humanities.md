@@ -4,26 +4,14 @@ date: 2010-08-18 08:47:57+00:00
 excerpt: 'The following was a response I made in an email exchange with Tom Elliot
   of the Pleiades Project  and Bethany Nowviskie. Our conversation was prompted by
   Tom''s inquiry on planning, budgeting for, and conducting a code review as part
-  of a grant-funded project. What follows is a slightly modified (and expanded) version
-  of that email conversation.
-
-
-  Testing and code review is something that has been on my mind a lot lately as our
-  shop has been shifting its focus from boutique, one-off projects, to building upon
-  frameworks maintained by other organizations. As these code bases continue to grow,
-  we need to ensure that subtle changes to the core functionality of the underlying
-  systems do not propagate into bugs in our code. We also need a way to handle this
-  situation quickly and efficiently when this does arise. This was especially reinforced
-  by two recent projects our group undertook to migrate nearly decade-old software
-  on to new servers.'
+  of a grant-funded project.'
 layout: post
 slug: code-reviews-and-the-digital-humanities
 title: Code Reviews and the Digital Humanities
 category: blog
 tags:
 - research and development
-- best practices
-- code review
+- code
 ---
 
 The following was a response I made in an email exchange with Tom Elliot of the [Pleiades Project](http://pleiades.stoa.org/) and Bethany Nowviskie. Our conversation was prompted by Tom's inquiry on planning, budgeting for, and conducting a code review as part of a grant-funded project. What follows is a slightly modified (and expanded) version of that email conversation.

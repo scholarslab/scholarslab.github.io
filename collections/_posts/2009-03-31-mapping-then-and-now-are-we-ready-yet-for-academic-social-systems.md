@@ -5,7 +5,7 @@ layout: post
 slug: mapping-then-and-now-are-we-ready-yet-for-academic-social-systems
 title: 'Mapping Then and Now: Are We Ready (yet) for Academic Social Systems?'
 tags:
-- speaker series
+- event
 category: announcement
 ---
 

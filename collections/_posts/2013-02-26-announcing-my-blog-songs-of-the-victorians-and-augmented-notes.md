@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - research and development
-- music
+- music and sound
 ---
 
 I've been having an excellent and productive time as a Scholars' Lab Fellow: thanks to the amazing advice and support I've received from the Scholars' Lab staff, I've been making good progress on my two digital projects, [Songs of the Victorians](http://www.songsofthevictorians.com/) and Augmented Notes. For those of you who don't know about them, I'll give you a brief summery:

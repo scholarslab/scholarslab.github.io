@@ -10,7 +10,7 @@ tags:
 - charter
 - ivanhoe
 - praxis
-- project-management
+- project management
 ---
 
 First, if you missed our post last week about redesigning [Ivanhoe](http://www.ivanhoegame.org/?page_id=21), we are now in the process of building the game as a [WordPress](http://wordpress.org/) [Theme](http://wordpress.org/themes/).  If you are a potential Ivanhoe user, [help us out by giving some feedback about the way you use WordPress](http://www.scholarslab.org/grad-student-research/potential-ivanhoe-users/).

@@ -10,6 +10,9 @@ tags:
 - games
 - ivanhoe
 - praxis
+- feminism
+- history
+- gender
 ---
 
 I think [Scott's review](http://www.scholarslab.org/grad-student-research/on-games-that-just-fizzle-a-chronicle-and-reflection/) of our Ivanhoe game play is insightful and timely, and it has inspired me to consider the once-thriving-but-now-dormant "citizen journalism" game.  I think it's time to really look into the successful games and, aside from the fact that we could see what was going on more immediately via the email medium, examine what else contributed to their being taken up with such vim.  I think an element of fun is paramount.  The sci-fi people (Bethany, Eliza, Eric, Scott, and Veronica all contributed) played a game on _[Galaxy Quest Chompers](http://www.youtube.com/watch?v=gqRdT8m1Suo)_ entitled "Sci-fi Fun," and the journalism people (Eliza, Francesca, Zach, Veronica, and I) began playing around with--and even revising--a major moment in history: c. 1909 women's suffrage in England.  As the beginner--and as of right now, the finisher--of this game, I would like to review the major moves made and directions our game took in anticipation of building on them in Round 2 of game play.

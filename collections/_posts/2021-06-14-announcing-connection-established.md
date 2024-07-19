@@ -11,7 +11,7 @@ tags:
 - grad student research
 - about-collaboration-community
 - academia
-- mental health
+- mental health and wellbeing
 - games
 - accessibility
 - praxis

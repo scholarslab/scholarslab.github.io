@@ -9,6 +9,7 @@ tags:
 - grad student research
 - charter
 - praxis
+- hello world
 ---
 
 For some time now I have led a double life as a musician and book lover. As a third year PhD in the English department at UVA, I work primarily on twentieth-century fiction in relation to music and sound. These interests drew me to [Praxis](http://praxis.scholarslab.org/) in the first place: writing about sound is incredibly difficult in a print medium where the reader can’t hear what I describe. I am very excited to be a part of the Praxis team this year, where as a DH novitiate I hope to learn how technology can help make those two fields work together more easily. The Scholars’ Lab team seems happy to have us as well, welcoming the new team with open arms and inscrutable computer science jokes. Last year’s Praxis team reached out to us many months ago from [their charter](http://praxis.scholarslab.org/charter.html):

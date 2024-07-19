@@ -8,7 +8,6 @@ category: blog
 tags:
 - grad student research
 - vr-ar
-- time
 - architecture
 - games
 ---

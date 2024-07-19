@@ -3,7 +3,8 @@ author: alison-booth
 date: 2016-07-03 16:57:44+00:00
 layout: post
 slug: what-has-scholars-lab-been-up-to-or-a-community-of-practice-communicating
-title: What has Scholars' Lab been up to? Or, a community of practice, communicating.
+title: "What has Scholars' Lab been up to? Or, a community of practice, communicating."
+category: blog
 ---
 
 Like any active research/development/teaching/service team, the Scholars' Lab faces a challenge keeping up with each others' diverse collaborations, and communicating what we do.  Since January, I've learned about the Library's systems of recording interactions with students and faculty, and I've encountered various applications that will somehow track our data, but I think we need more than CRM (customer relationship management).  We've grown our own self-recognition system, as simple as: monthly activity statements, in a template of categories, shared on Box.  (And Slack is working for us.)  Happily, it turns out that staff enjoy writing these very short notes (_gee, I actually have done more than I remembered!_) and reading each other's (_oh, I'm glad to know she's doing that_; or, _oh, I talked to that faculty member separately, hmmm_).  We have biweekly scrums, but there's much more detail in the shared self-reflective accounts.

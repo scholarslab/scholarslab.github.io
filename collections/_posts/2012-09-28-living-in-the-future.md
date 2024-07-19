@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - makerspace
-- music
+- music and sound
 - praxis
 ---
 

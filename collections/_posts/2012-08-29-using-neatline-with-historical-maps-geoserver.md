@@ -7,7 +7,6 @@ title: 'Using Neatline with historical maps :: Part 3 - GeoServer'
 category: blog
 tags:
 - geospatial and temporal
-- esri
 - gis
 - neatline
 - tutorial

@@ -4,6 +4,7 @@ date: 2020-02-26
 layout: post
 slug: thinking-through-bookish-project-plans
 title: "Year of Book Blogging: thinking through a bookish project as potentially scary, just, and/or good"
+category: blog
 tags:
 - meta-blogging
 crosspost:

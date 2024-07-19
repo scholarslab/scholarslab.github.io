@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - praxis
-- project-management
+- project management
 ---
 
 A better title for this post would be “The Blind leading the Slightly-less-blind.”  I thought it a little too wordy for a title, but it really does accurately express my experience of project management during these first few weeks of actually working on Prism.

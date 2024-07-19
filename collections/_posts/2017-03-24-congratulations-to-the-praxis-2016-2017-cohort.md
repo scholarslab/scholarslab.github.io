@@ -9,6 +9,7 @@ tags:
 - grad student research
 - praxis
 - dash-amerikan
+- text analysis
 ---
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/03/FullSizeRender-300x168.jpg)

@@ -7,7 +7,7 @@ title: Starting Out On The Right Foot (Part Three)
 category: blog
 tags:
 - grad student research
-- dance and theater
+- dance and theater and theater
 - motion capture
 ---
 

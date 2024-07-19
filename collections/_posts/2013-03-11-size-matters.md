@@ -7,7 +7,7 @@ title: Size Matters
 category: blog
 tags:
 - geospatial and temporal
-- cartography
+- map
 - gis
 - visualization
 crosspost:

@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - praxis
-- project-management
+- project management
 ---
 
 At our final official Praxis meeting, I shared an overview of my experience as project manager with the rest of the team, and I thought I would share some of those same reflections in a short series of blog posts.  This first post reflects on some of the more technical and organizational aspects of project management. 

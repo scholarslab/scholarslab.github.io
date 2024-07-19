@@ -6,7 +6,7 @@ slug: lisa-rosner-the-anatomy-murders
 title: 'Lisa Rosner: the Anatomy Murders'
 tags:
 - podcast
-- speaker series
+- event
 category: announcement
 ---
 

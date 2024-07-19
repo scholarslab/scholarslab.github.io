@@ -4,6 +4,7 @@ date: 2016-07-01 13:59:41+00:00
 layout: post
 slug: whats-the-scholars-lab
 title: What's the Scholars' Lab?
+category: blog
 ---
 
 Obviously, there are lots of ways to find out what this center is and does, including an exploration of this website. I encourage anyone to see our Charter (not far from here, [http://scholarslab.org/about/charter/](http://scholarslab.org/about/charter/)).

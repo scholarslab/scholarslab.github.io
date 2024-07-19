@@ -8,7 +8,6 @@ category: blog
 tags:
 - research and development
 - code
-- lod
 ---
 
 Yesterday, I was fortunate to be invited by [Andrew Stauffer](http://www.engl.virginia.edu/faculty/stauffer_andrew.shtml) and [Bethany Nowviskie](http://nowviskie.org/) to present at their [Rare Book School](http://www.rarebookschool.org/) course, [Digitizing the Historical Record](http://rarebookschool.org/courses/libraries/l65/). I talked about [Linked Open Data](http://en.wikipedia.org/wiki/Linked_Data) (LOD), and afterward, [Dana Wheeles](http://twitter.com/#!/bluesaepe) talked about the [NINES](http://www.nines.org/) project and how they use RDF and LOD.

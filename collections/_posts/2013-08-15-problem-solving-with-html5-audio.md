@@ -7,7 +7,7 @@ title: Problem Solving with HTML5 Audio
 category: blog
 tags:
 - research and development
-- audio
+- music and sound
 - code
 ---
 

@@ -8,9 +8,10 @@ category: blog
 tags:
 - grad student research
 - wlu collab
-- dance and theater
+- dance and theater and theater
 - pedagogy
 - prism
+- text analysis
 crosspost:
   - title: WLUDH blog
     url: http://digitalhumanities.wlu.edu/blog/2016/06/08/kelli-shermeyer-on-using-dh-to-explore-movement-and-meaning/

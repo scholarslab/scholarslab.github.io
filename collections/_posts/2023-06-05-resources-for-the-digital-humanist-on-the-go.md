@@ -4,6 +4,9 @@ date: 2023-06-05
 layout: post
 slug: resources-for-the-digital-humanist-on-the-go
 title: Resources for the Digital Humanist on the Go
+category: blog
+tags:
+- music and sound
 crosspost:
   - title: Brandon's Blog
     url: https://walshbr.com/blog/resources-for-the-digital-humanist-on-the-go

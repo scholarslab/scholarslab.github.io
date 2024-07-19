@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - praxis
-- project-management
+- project management
 ---
 
 To those who read [my post last week](http://www.scholarslab.org/grad-student-research/a-little-bit-of-everything-christmas-for-the-praxis-project-manager/), we do not have a flashy New Year's post to show you; however, I have drawn some useful insights from this circumstance which I would like to share as we kick off another year.

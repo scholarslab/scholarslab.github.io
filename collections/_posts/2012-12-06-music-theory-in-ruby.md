@@ -7,7 +7,7 @@ title: Music Theory in Ruby
 category: blog
 tags:
 - grad student research
-- music
+- music and sound
 - praxis
 - code
 ---
