@@ -6,8 +6,8 @@ slug: building-a-website-and-pulling-apart-wordpress-plugins
 title: Building a Website and Pulling Apart WordPress Plugins
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - web development
 ---
 

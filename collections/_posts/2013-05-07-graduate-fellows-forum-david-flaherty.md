@@ -5,7 +5,7 @@ layout: post
 slug: graduate-fellows-forum-david-flaherty
 title: 'Graduate Fellows Forum: David Flaherty'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

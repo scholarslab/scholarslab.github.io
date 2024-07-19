@@ -6,9 +6,9 @@ slug: praxis-program-week-2
 title: Praxis Program week 2
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 Tuesday saw the second weekly meeting of the team involved in the Scholars' Lab's Praxis Program.  The conversation largely revolved around coalescing the [groups' thoughts](http://www.scholarslab.org/tag/charter/) on their project charter.

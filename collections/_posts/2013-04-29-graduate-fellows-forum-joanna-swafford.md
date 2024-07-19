@@ -5,7 +5,7 @@ layout: post
 slug: graduate-fellows-forum-joanna-swafford
 title: 'Graduate Fellows Forum: Joanna Swafford'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

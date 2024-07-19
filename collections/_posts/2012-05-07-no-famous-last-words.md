@@ -6,8 +6,8 @@ slug: no-famous-last-words
 title: Got Prism?
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

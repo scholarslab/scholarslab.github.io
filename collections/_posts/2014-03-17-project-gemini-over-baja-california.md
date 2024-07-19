@@ -6,7 +6,7 @@ slug: project-gemini-over-baja-california
 title: Project Gemini over Baja California
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 - neatline
 crosspost:
   - title: dclure.org

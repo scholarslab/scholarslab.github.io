@@ -6,9 +6,9 @@ slug: on-the-shelf
 title: On the Shelf
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 The past couple weeks, we have been crash-coursing PHP via Wayne Graham’s surely famous slide decks. We’ve been doing this despite not (yet) delivering our task for the fall semester&mdash;the redesign of the Ivanhoe webpage.

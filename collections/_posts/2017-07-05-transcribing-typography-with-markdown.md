@@ -6,8 +6,8 @@ slug: transcribing-typography-with-markdown
 title: Transcribing Typography with Markdown
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - bibliography
 - transcription
 ---

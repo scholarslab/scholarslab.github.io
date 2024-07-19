@@ -6,7 +6,7 @@ slug: generating-html-fixtures-using-zend-omeka-phpunit-and-jasmine
 title: Generating HTML fixtures using Zend, Omeka, PHPUnit, and Jasmine
 category: blog
 tags:
-- Research and Development
+- research and development
 - neatline
 - omeka
 - code

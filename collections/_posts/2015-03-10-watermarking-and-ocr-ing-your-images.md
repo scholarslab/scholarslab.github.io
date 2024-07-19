@@ -6,7 +6,7 @@ slug: watermarking-and-ocr-ing-your-images
 title: Watermarking and OCR-ing Your Images
 category: blog
 tags:
-- Research and Development
+- research and development
 - transcription
 - tutorial
 - bibliography

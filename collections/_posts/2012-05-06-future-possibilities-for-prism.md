@@ -6,10 +6,10 @@ slug: future-possibilities-for-prism
 title: Future possibilities for Prism
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
-- praxis program
-- Prism
+- grad student research
+- research and development
+- praxis
+- prism
 - code
 ---
 

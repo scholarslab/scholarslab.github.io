@@ -5,8 +5,8 @@ layout: post
 slug: create-steamvr-environment
 title: "Creating a Steam VR Environment"
 tags:
-- Parents Fund
-- VR-AR
+- parents fund
+- vr-ar
 - tutorial
 ---
 

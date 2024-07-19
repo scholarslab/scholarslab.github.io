@@ -7,7 +7,7 @@ title: Summer of travel, DH edition
 category: blog
 tags:
 - alt-ac
-- Scholarly Communication Institute
+- scholarly communication institute
 crosspost:
   - title: my personal website
     url: http://wp.me/p2CaGd-iZ

@@ -6,10 +6,10 @@ slug: visualizing-early-america-through-mapscholar-and-beyond
 title: Visualizing Early America through MapScholar and Beyond
 category: blog
 tags:
-- Geospatial and Temporal
-- Grad Student Research
-- Research and Development
-- Visualization and Data Mining
+- geospatial and temporal
+- grad student research
+- research and development
+- visualization and data mining
 - hello world
 ---
 

@@ -7,7 +7,7 @@ slug: zings-zongs-pings
 title: Here’s to the Zings, Zongs, and Pings
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - academia
 - care
 - meta-blogging

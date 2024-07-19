@@ -6,9 +6,9 @@ slug: moonlighting-with-the-praxis-crew
 title: Moonlighting with the Praxis Crew
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Scholarly Communication Institute
+- grad student research
+- praxis
+- scholarly communication institute
 ---
 
 One great perk of my role with the Scholarly Communication Institute is that I have the opportunity not only to learn about how the Praxis Program functions, but also to learn alongside the team members, particularly in this second year. The semester has barely begun, and already the collective wheels are turning as the new group begins to develop its own charter, to brainstorm new directions for [Prism](http://prism.scholarslab.org/), and to learn the fundamental skills they'll need as they extend, modify, and rethink it.

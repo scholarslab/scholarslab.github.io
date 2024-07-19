@@ -6,9 +6,9 @@ slug: light-emitting-objects
 title: "Illumination Through Light Emitting Objects"
 category: blog
 tags:
-- Research and Development
-- Parents Fund
-- 3D modeling
+- research and development
+- parents fund
+- 3d modeling
 - tutorial
 ---
 # Illumination Through Light Emitting Objects in Unity 3D

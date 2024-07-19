@@ -6,8 +6,8 @@ slug: 2-about-my-research-computers-and-digital-humanities
 title: "About my research, computers and Digital Humanities"
 category: blog
 tags: 
-- UVA Reveal
-- praxis program
+- uva reveal
+- praxis
 ---
 
 In my inaugural post a few days ago, I introduced myself to the world in kind of an oblique way. Some people may wonder what I am studying or what my research interests are. This post is here to mend this omission. In large brush strokes, I will talk about my dissertation and then about some general research interests that connect me to digital humanities. Coincidentally, a brief mention of a computer prototype from the late 60’s will echo for the Praxis folks our last meeting (Sept. 5, 2017) and the lesson on the history of computers.

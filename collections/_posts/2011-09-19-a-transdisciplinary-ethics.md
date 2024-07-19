@@ -6,8 +6,8 @@ slug: a-transdisciplinary-ethics
 title: A Transdisciplinary Ethics
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Coincidentally (or maybe not-so-coincidentally), part of [Lindsay's post](http://www.scholarslab.org/praxis-program/imagining-end-users-for-requirements-gathering/) directly echoes the opening concerns of an article I'm reading for the EELS (Electronic Enabled Literary Studies) group led by Profs. Stauffer and Pasanek here at UVa. In "Learning to Read Data: Bringing out the Humanistic in the Digital Humanities," Ryan Heuser and Long Le-Khac discuss the conflict between excitement and anxiety in DH work (sentiments I echoed in my last post and feel every time I approach my computer these days). The essay asks first whether we can use the quantitative methods employed in DH work while "respect[ing] the nuance and complexity we value in the humanities," and then confronts the much deeper issue at-hand: "Under the flag of interdisciplinarity, are the digital humanities no more than the colonization of the humanities by the sciences?" (2).

@@ -6,9 +6,9 @@ slug: announcing-the-ivanhoe-information-website-and-beginning-of-testing
 title: '(Digest #6) Announcing the Ivanhoe Information Website and Beginning of Testing'
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 Yesterday we celebrated the Day of DH by preparing for internal testing of the Ivanhoe Game WP Theme.  The entire team is now scurrying to make some finishing touches to the theme, info site, and documentation before our testers begin their games.  Development has been working to stabilize roles and the role journal features, and they have reported success.  The following image indicates Development's glee at this and similar recent successes:

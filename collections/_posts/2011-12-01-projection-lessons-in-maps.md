@@ -6,11 +6,11 @@ slug: projection-lessons-in-maps
 title: Projection Lessons in Maps
 category: blog
 tags:
-- Geospatial and Temporal
-- Visualization and Data Mining
+- geospatial and temporal
+- visualization and data mining
 - gis
 - map
-- Social Sciences
+- social sciences
 ---
 
 For many years, I have used the following map in my presentations.

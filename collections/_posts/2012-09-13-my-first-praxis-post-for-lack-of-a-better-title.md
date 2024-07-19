@@ -6,8 +6,8 @@ slug: my-first-praxis-post-for-lack-of-a-better-title
 title: My First Praxis Post (for lack of a better title)
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Internet introductions are by far the weirdest introductions because you have no idea who is reading what you’re writing.  For all I know people I went to high-school with will find me here blogging about the Digital Humanities, or a future employer, more likely it will be my mother and grandmother.  So here goes internet...don’t let me down...and hi Mom!

@@ -6,8 +6,8 @@ slug: whiteboard-wireframing
 title: Whiteboard Wireframing
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Over the past few weeks, I feel our program is moving toward my, and others’ comfort zone. We are beginning to wireframe Prism on the whiteboard, so we can each come back after the Thanksgiving break with a few images of each of our main pages. There are new challenges that come from the wireframing process, but unlike some of our other tasks, the group seems more confident when articulating their thoughts about design. The whiteboard work last week got us to make a few serious choices about what the home page will contain, and how the site will be navigated. Without getting too specific, we have come to some consensus that we’d like to keep a constantly visible set of tabs at the top of each page to organize the site. This is not to say that other design schemas will not be offered in the future, but it does help us decide which elements we want visible on the home page.

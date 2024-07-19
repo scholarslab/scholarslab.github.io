@@ -5,8 +5,8 @@ layout: post
 slug: fall-2017-gis-workshops
 title: Fall 2017 UVa Library GIS Workshop Series
 tags:
-- Events
-- Geospatial and Temporal
+- event
+- geospatial and temporal
 category: announcement
 ---
 

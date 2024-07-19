@@ -6,10 +6,10 @@ slug: through-another-prism
 title: through another prism
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
-- praxis program
-- Prism
+- grad student research
+- research and development
+- praxis
+- prism
 ---
 
 A couple of weeks ago Suzanne Keen and Alison Booth offered [a workshop at the Scholars' Lab](http://www.iath.virginia.edu/news/news_2012_02_08_s53.html). The workshop was an introduction to BESS (Biographical Elements and Structure Schema), "an XML standoff markup schema designed at IATH as part of Professor Booth’s IATH Fellowship to analyze narrative structure." If you recall from [Bethany's introduction](http://www.scholarslab.org/digital-humanities/crowdsourcing-interpretation/), the original idea for Prism was inspired in part by recent discussions with Alison about her project.

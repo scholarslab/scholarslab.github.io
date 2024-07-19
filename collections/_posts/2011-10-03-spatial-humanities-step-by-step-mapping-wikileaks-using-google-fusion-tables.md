@@ -6,10 +6,10 @@ slug: spatial-humanities-step-by-step-mapping-wikileaks-using-google-fusion-tabl
 title: "Spatial Humanities Step By Step - Mapping Wikileaks using Google Fusion Tables"
 category: blog
 tags:
-- Geospatial and Temporal
-- Visualization and Data Mining
-- Social Sciences
-- Statistical Analysis
+- geospatial and temporal
+- visualization and data mining
+- social sciences
+- statistical analysis
 - tutorial
 ---
 

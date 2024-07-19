@@ -6,7 +6,7 @@ slug: neatline-and-omeka-2
 title: Neatline and Omeka 2.0
 category: blog
 tags:
-- Research and Development
+- research and development
 - neatline
 - omeka
 crosspost:

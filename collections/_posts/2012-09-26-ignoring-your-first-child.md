@@ -6,7 +6,7 @@ slug: ignoring-your-first-child
 title: Ignoring your First Child
 category: blog
 tags:
-- Research and Development
+- research and development
 ---
 
 And no, I'm not talking about human children. I'm talking about CSS selectors!

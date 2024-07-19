@@ -6,7 +6,7 @@ slug: this-week-in-open-source
 title: This week in Open Source
 category: blog
 tags:
-- Research and Development
+- research and development
 - neatline
 - omeka
 - timeline

@@ -6,9 +6,9 @@ slug: ivanhoe-considerations-for-the-next-cohort
 title: Ivanhoe considerations for the next cohort
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 - about-collaboration-community
 ---
 

@@ -8,13 +8,13 @@ slug: announcing-connection-established
 title: Announcing 'Connection Established'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - about-collaboration-community
 - academia
 - mental health
 - games
 - accessibility
-- praxis program
+- praxis
 ---
 The Scholars' Lab is pleased to share  *[Connection Established](http://connection.scholarslab.org/)*, the project launched by this year's Praxis cohort. 
 

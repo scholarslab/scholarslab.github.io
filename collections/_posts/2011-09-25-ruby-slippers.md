@@ -6,8 +6,8 @@ slug: ruby-slippers
 title: ruby slippers
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

@@ -6,8 +6,8 @@ slug: about-whom-i-have-become
 title: 'About Whom I Have Become... '
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Hi everybody! It is not easy to talk about oneself, especially when you are not sure who your audience is. Still, I will not let the amorphous ambiguous unidentifiable audience scare and silence me. For this post, I want the main audience to be the 2014-2015 Praxis Fellows.

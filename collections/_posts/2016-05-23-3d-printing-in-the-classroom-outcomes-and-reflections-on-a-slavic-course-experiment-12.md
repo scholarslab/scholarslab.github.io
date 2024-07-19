@@ -8,8 +8,8 @@ title: '3D Printing in the Classroom: Outcomes and Reflections on a Slavic Cours
 category: blog
 tags:
 - makerspace
-- 3D printing
-- Slavic
+- 3d printing
+- slavic
 - multilingual
 - pedagogy
 crosspost:

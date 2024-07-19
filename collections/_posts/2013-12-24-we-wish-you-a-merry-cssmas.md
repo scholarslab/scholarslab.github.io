@@ -6,9 +6,9 @@ slug: we-wish-you-a-merry-cssmas
 title: 'We wish you a merry CSSmas! '
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
+- praxis
 ---
 
 While I plan on taking some time off over Christmas and New Year's to be with family and friends, I also plan on fine-tuning my programing skills over the break. At the suggestion of Jeremy the first step is diving into tutorials (which involves equal part determination and motivation).

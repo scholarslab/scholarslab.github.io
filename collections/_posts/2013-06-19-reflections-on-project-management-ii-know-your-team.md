@@ -6,8 +6,8 @@ slug: reflections-on-project-management-ii-know-your-team
 title: 'Reflections on Project Management II: Know your Team'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - project-management
 ---
 

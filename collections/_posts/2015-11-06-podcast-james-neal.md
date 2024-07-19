@@ -5,7 +5,7 @@ layout: post
 slug: podcast-james-neal
 title: 'Podcast: James Neal'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

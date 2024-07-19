@@ -6,7 +6,7 @@ slug: eggs-and-baskets-lessons-on-data-foraging
 title: 'Eggs and Baskets: Lessons on Data Foraging'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - dataset
 ---
 

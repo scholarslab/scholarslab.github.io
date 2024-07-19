@@ -5,9 +5,9 @@ layout: post
 slug: praxis-through-prisms
 title: Praxis, Through Prisms
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 crosspost:
   - title: nowviskie.org
     url: http://nowviskie.org

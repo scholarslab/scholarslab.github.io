@@ -5,7 +5,7 @@ layout: post
 slug: scholars-lab-speaker-series-james-smithies
 title: 'Scholars'' Lab Speaker Series: James Smithies'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

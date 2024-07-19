@@ -6,9 +6,9 @@ slug: one-day-of-praxis
 title: One day of Praxis
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - photos
-- praxis program
+- praxis
 ---
 
 Here is a bunch of photos from our most recent team meeting!

@@ -5,7 +5,7 @@ layout: post
 title: Map out of it! GIS workshops with no messy commitment. 
 slug: gis-workshops-spring-2024
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 category: announcement
 ---
 

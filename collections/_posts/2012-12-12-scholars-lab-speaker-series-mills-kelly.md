@@ -5,7 +5,7 @@ layout: post
 slug: scholars-lab-speaker-series-mills-kelly
 title: 'Scholars'' Lab Speaker Series: Mills Kelly'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

@@ -6,8 +6,8 @@ slug: insert-bad-prism-pun-here
 title: '[Insert Bad Prism Pun Here]'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 

@@ -6,9 +6,9 @@ slug: owning-up-the-praxis-program
 title: Owning up the Praxis Program
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 On joining the Praxis Program, I knew I was in for something new. As part of the most recent generation of DH'ers at Uva, I've had time to develop a healthy dose of envy for the heroic age of SpecLab or the early years of NINES (not so long ago to be honest), when the DH demi-gods were said to roam the halls of Bryan. In the past couple of years, there have been informal attempts to revive the gall and vision of those who (just) came before us... without much success. Perhaps it was time to give up. After all, UVa continues to be a DH powerhouse without the shop-apprentice model of (not-so) yore. Perhaps the problem was that our impromptu efforts were tinged with nostalgia. When I was invited to become part of the Praxis Program, I knew this was something different, something new. Finally, we had a shop-apprentice model that I could make my own, that we could make our own.

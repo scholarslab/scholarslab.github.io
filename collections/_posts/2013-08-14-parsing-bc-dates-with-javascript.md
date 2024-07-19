@@ -6,14 +6,14 @@ slug: parsing-bc-dates-with-javascript
 title: Parsing BC dates with JavaScript
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 crosspost:
   - title: dclure.org
     url: http://dclure.org/logs/parsing-bc-dates-with-javascript/
 ---
 
-Last semester, while giving a workshop about Neatline at Beloit College in Wisconsin, [Matthew Taylor](https://twitter.com/mptaylor), a professor in the Classics department, noticed a strange bug - Neatline was ignoring negative years, and parsing BC dates as AD dates. So, if you entered "-1000" for the "Start Date" field on a Neatline record, the timeline would display a dot at 1000 AD. I was surprised by this because Neatline doesn't actually do any of its own date parsing - the code relies on the built-in `Date` object in JavaScript, which is implemented natively in the browser. Under the hood, when Neatline needs to work with a date, it just spins up a new `Date` object, passing in the raw string value entered into the record form:
+Last semester, while giving a workshop about Neatline at Beloit College in Wisconsin, [Matthew Taylor](https://twitter.com/mptaylor), a professor in the Classics department, noticed a strange bug - neatline was ignoring negative years, and parsing BC dates as AD dates. So, if you entered "-1000" for the "Start Date" field on a Neatline record, the timeline would display a dot at 1000 AD. I was surprised by this because Neatline doesn't actually do any of its own date parsing - the code relies on the built-in `Date` object in JavaScript, which is implemented natively in the browser. Under the hood, when Neatline needs to work with a date, it just spins up a new `Date` object, passing in the raw string value entered into the record form:
 
 
 

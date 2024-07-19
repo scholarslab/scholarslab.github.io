@@ -5,8 +5,8 @@ layout: post
 slug: podcast-kari-kraus
 title: 'Podcast: Kari Kraus on Humanistic Design'
 tags:
-- Events
-- Podcasts
+- event
+- podcast
 category: announcement
 ---
 

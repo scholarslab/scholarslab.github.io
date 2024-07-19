@@ -7,7 +7,7 @@ title: 'In, Out, Across, With: Collaborative Education and Digital Humanities (J
   Talk for Head of Graduate Programs)'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - pedagogy
 - professional development
 - alt-ac

@@ -6,9 +6,9 @@ slug: sounding-scholarship-a-workshop-on-making-your-research-sing
 title: 'Sounding Scholarship: A Workshop on Making Your Research Sing'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - pedagogy
-- WLU Collab
+- wlu collab
 - audio
 ---
 

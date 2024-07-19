@@ -5,7 +5,7 @@ layout: post
 slug: graduate-fellows-forum-lydia-rodriguez
 title: 'Graduate Fellows Forum: Lydia Rodríguez'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

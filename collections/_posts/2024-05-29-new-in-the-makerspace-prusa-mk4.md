@@ -7,7 +7,7 @@ title: "New in the Makerspace: Prusa MK4"
 category: announcement
 tags:
 - makerspace
-- 3D printing
+- 3d printing
 ---
 
 ![](/assets/post-media/2024-05-29-mk4/2024-05-29-mk41.jpg)

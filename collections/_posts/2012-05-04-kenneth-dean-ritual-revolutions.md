@@ -5,7 +5,7 @@ layout: post
 slug: kenneth-dean-ritual-revolutions
 title: 'Kenneth Dean: Ritual Revolutions'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

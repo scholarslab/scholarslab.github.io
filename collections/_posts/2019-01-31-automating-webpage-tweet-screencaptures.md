@@ -6,7 +6,7 @@ slug: automating-webpage-tweet-screencaptures
 title: "Automating Webpage & Tweet Screencaptures"
 category: blog
 tags:
-- Tutorial
+- tutorial
 - social media
 - automation
 ---

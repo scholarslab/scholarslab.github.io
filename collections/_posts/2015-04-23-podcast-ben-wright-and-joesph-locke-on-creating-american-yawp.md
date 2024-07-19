@@ -5,8 +5,8 @@ layout: post
 slug: podcast-ben-wright-and-joesph-locke-on-creating-american-yawp
 title: 'Podcast: Ben Wright and Joesph Locke on Creating American Yawp'
 tags:
-- Events
-- Podcasts
+- event
+- podcast
 category: announcement
 ---
 

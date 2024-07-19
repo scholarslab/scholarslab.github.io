@@ -6,8 +6,8 @@ slug: on-not-knowing-what-im-doing
 title: On Not Knowing What I'm Doing
 category: blog
 tags:
-- praxis program
-- learning
+- praxis
+- learning experience
 ---
 
 A couple of weeks ago, Jeremy and the rest of the Scholars’ Lab staff helped us learn the basics of HTML, CSS, and Git. Then I promptly forgot them. Then, with wonderfully patient help from the staff, I remembered them, only to forget them again. After putting my limited HTML and CSS knowledge to good use working on my web page, I’m cautiously optimistic that I won’t take all semester to figure out what I’m doing.

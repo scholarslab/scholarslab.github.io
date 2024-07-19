@@ -6,9 +6,9 @@ slug: the-sidlers-guide-just-smile-and-hit-your-mark
 title: 'The Sidler''s Guide: Just Smile and Hit Your Mark'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
+- praxis
 - code
 ---
 

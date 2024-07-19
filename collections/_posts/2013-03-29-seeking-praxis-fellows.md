@@ -5,7 +5,7 @@ layout: post
 slug: seeking-praxis-fellows
 title: 'Call for Applicants: Praxis Program Fellows'
 tags:
-- praxis program
+- praxis
 category: announcement
 ---
 

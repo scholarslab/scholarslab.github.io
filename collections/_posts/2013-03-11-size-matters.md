@@ -6,7 +6,7 @@ slug: size-matters
 title: Size Matters
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 - cartography
 - gis
 - visualization

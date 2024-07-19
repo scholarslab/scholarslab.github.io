@@ -8,7 +8,6 @@ category: blog
 tags:
 - makerspace
 - tutorial
-- workshop
 - expansive makerspace
 ---
 <style>

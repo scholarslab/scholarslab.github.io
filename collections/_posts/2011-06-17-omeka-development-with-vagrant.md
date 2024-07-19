@@ -5,7 +5,7 @@ layout: post
 slug: omeka-development-with-vagrant
 title: Omeka Development with Vagrant
 tags:
-- Research and Development
+- research and development
 ---
 
 > _For the latest information about this system, please see the [README](https://github.com/scholarslab/cookbooks/blob/master/README.mkd) file. It contains this information, plus I'll keep it up-to-date._

@@ -6,8 +6,8 @@ slug: social-interpretation-repertoire
 title: Social Interpretation Repertoire
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Can approaches from (experimental) music/sound to social interpretation of text shed any light on our thinking about Prism? Let's get the [Praxis Band](https://github.com/scholarslab/praxis/wiki/Praxis-Band) together and find out:

@@ -5,7 +5,7 @@ layout: post
 slug: podcast-open-access-week-speaker-gail-mcmillan
 title: 'Podcast: Open Access Week Speaker - Gail McMillan'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

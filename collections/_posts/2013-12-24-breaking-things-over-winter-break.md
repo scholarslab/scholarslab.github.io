@@ -6,9 +6,9 @@ slug: breaking-things-over-winter-break
 title: Breaking Things Over Winter Break
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - code
-- praxis program
+- praxis
 ---
 
 It has been over a month (!) since my last post, but the long delay is certainly not due to lack of activity in the Praxis-Ivanhoe world. Our PM, Stephanie, has written a [great post](http://www.scholarslab.org/grad-student-research/turning-points-in-praxis-new-roles-wire-frames-and-programming-languages/) summing up the progress we've made as a group towards defining and building Ivanhoe. I'd like to underscore her point that, now that our roles within the team have started to crystallize, it feels like we're finally all moving in the same direction.

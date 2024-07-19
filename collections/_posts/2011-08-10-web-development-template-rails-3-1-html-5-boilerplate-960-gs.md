@@ -6,7 +6,7 @@ slug: web-development-template-rails-3-1-html-5-boilerplate-960-gs
 title: 'Web Development Template: Rails 3.1, HTML 5 Boilerplate, 960.gs'
 category: blog
 tags:
-- Research and Development
+- research and development
 ---
 
 One of the best things about web development is that there are so many tools around to make the job easier.

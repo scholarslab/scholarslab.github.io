@@ -6,9 +6,9 @@ slug: done-is-the-engine-of-more-2
 title: Done is the engine of more.
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 ---
 
 (My title is not mine! It is lovingly borrowed from Bre Pettis and Kio Stark's ["Cult of Done Manifesto"](http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html))

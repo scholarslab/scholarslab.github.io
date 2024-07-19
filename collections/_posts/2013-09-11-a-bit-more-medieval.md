@@ -6,8 +6,8 @@ slug: a-bit-more-medieval
 title: a bit more medieval
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Well. I must admit to some surprise and no small degree of trepidation regarding my presence here (both in the Praxis program and _here_ online as a blogger being read by you [blog readers and, I guess, bots]). For example when, in our first meeting, I asked what a ‘wiki’ actually _was_ I found out that they are ‘like Google Docs,’ which of course only begged the question on my part: what is a Google Doc? So. As we can see, this will be a fun year. In truth, I applied to the Praxis program not because of a strong background in the Digital Humanities (hence forth ‘DH’ [incl. the definite article]) but rather on account of my relative lack of any background in DH. Lack of background, however, ought not be equated with lack of interest. As a medievalist, specifically a student of medieval books, manuscripts, and textual cultures, I have both pragmatic and theoretical interests in DH.

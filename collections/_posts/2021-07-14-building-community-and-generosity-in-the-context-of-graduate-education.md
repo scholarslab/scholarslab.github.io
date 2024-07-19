@@ -9,7 +9,7 @@ title: Building Community And Generosity In The Context Of Graduate Education
 category: blog
 tags:
 - pedagogy
-- about-community-collaboration
+- about-collaboration-community
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/building-community-and-generosity-in-the-context-of-graduate-education

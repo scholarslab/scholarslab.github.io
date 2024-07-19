@@ -6,8 +6,8 @@ slug: reflections-on-a-year-of-dh-mentoring
 title: Reflections on a Year of DH Mentoring
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - pedagogy
 crosspost:
   - title: WLUDH blog

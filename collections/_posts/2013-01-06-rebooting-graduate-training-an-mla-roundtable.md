@@ -6,8 +6,8 @@ slug: rebooting-graduate-training-an-mla-roundtable
 title: 'Rebooting Graduate Training: An MLA Roundtable'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 crosspost:
   - title: my personal website
     url: http://katinarogers.com/2013/01/06/rebooting-graduate-training-mla

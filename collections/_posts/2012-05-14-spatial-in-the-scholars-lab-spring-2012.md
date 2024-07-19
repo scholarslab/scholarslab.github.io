@@ -5,12 +5,11 @@ layout: post
 slug: spatial-in-the-scholars-lab-spring-2012
 title: 'Spatial In the Scholars’ Lab: Spring 2012'
 tags:
-- Geospatial and Temporal
-- Grad Student Research
+- geospatial and temporal
+- grad student research
 - gis
 - tutorial
 - map
-- workshop
 category: blog
 ---
 

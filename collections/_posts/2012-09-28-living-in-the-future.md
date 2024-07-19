@@ -6,10 +6,10 @@ slug: living-in-the-future
 title: Living in the Future
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - makerspace
 - music
-- praxis program
+- praxis
 ---
 
 Okay, so it can't [make tea](http://www.youtube.com/watch?v=eVUuaDXBhs4), but this [MakerBot](http://store.makerbot.com/replicator.html) gizmo is pretty dang cool. And there's a K-cup machine on the other side of the office, so I guess we can make do with a replicator that only does plastic.

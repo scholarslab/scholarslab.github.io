@@ -6,7 +6,7 @@ slug: bulk-editing-in-vim
 title: Bulk Editing in Vim
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 - tutorial
 ---

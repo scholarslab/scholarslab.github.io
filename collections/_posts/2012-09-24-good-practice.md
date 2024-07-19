@@ -6,9 +6,9 @@ slug: good-practice
 title: Good Practice
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 This week we've made major strides towards adopting a charter. It's interesting to note (as [Claire](http://www.scholarslab.org/author/cdm6zf/) does in [her post](http://www.scholarslab.org/praxis-program/praxis-the-innovator/)) that charters are often somewhat pessimistic, anticipating the problems of working in a group and setting out certain rules for managing these "inevitable" conflicts. We've decided to try for a slightly more positive document, one that focuses on our goals and group _ethos_.

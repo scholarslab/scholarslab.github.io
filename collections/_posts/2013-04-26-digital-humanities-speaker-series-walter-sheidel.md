@@ -5,7 +5,7 @@ layout: post
 slug: digital-humanities-speaker-series-walter-sheidel
 title: 'Digital Humanities Speaker Series: Walter Sheidel'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

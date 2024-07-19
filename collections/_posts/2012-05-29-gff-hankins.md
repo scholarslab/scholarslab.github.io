@@ -5,7 +5,7 @@ layout: post
 slug: gff-hankins
 title: 'Graduate Fellows Forum: Gabriel Hankins'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

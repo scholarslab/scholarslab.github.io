@@ -5,10 +5,10 @@ layout: post
 slug: the-force-of-ux-design
 title: The Force of UX Design
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
-- Prism
+- praxis
+- prism
 ---
 
 I've had design on my mind for a couple of weeks now, mainly because thinking about how Prism is going to look is so much more pleasant to me than writing code (may Annie and Alex be praised for taking the lead on that). It's been easy for me to point to websites and say "I like this," or "I don't like that," but Jeremy wisely outlawed the phrase "I like" from our design meetings, forcing us to exercise the same critical muscles we exercise in graduate study; I would get pelted with rotten vegetables and shunned from academia for life if I turned in a paper that said (or even said in a discussion), "I like Virginia Woolf because her books are good." Now we're all thinking critically about why certain sites appeal to us and why other sites make us shudder. Right on cue, the Scholars' Lab hosted a presentation last Thursday by [Joe Gilbert](http://www.scholarslab.org/contributors/jfg9x/) on the Elements of User Experience design, in which I frantically jotted down every word he said because it directly addressed the design questions we're learning to ask in Praxis. Joe established four elements that comprise UX design: user requirements, design and architecture, usability, and content strategy. We've already established our requirements for Prism, on both the user and organizational levels, and after many weeks I think we all finally agree on what we want it to do for us and the user. Now to design it.

@@ -6,8 +6,8 @@ slug: greetings-and-salutations
 title: Greetings and Salutations
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Hello all!

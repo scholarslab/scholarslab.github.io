@@ -6,10 +6,10 @@ slug: design-team-progress
 title: Design Team Progress
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - design
-- praxis program
+- praxis
 ---
 
 This week the design team, myself, [Brandon](http://www.scholarslab.org/author/bmw9t/) and [Gwen](http://www.scholarslab.org/people/gwen-nally/),  met for the first time to start to map out our vision for the exciting redesign.    This week I am spending figure out the CSS behind the Prism site and me and Gwen are working on wireframes (mostly I yell out random ideas and Gwen makes them look amazing).  We are trying to figure out how we want the site to progress etc.  This week I am also trying to figure out how to make the header work the way that we want.

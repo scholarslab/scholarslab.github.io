@@ -6,9 +6,9 @@ slug: ivanhoe-and-imaginative-analysis
 title: Ivanhoe and Imaginative Analysis
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 When I wasn’t working as a Praxis fellow this year, I taught first-year writing.  In the class, we tackled the course subject&mdash;ghost stories&mdash;through a variety of topical lenses, looking at horror stories and films, web comics, and ghost hunting TV shows.  Although the course focused on argumentative writing, at the students’ request, I ended up adding a creative component: students could, for extra credit, write and submit their own ghost story.  I assumed the assignment would be simple and fun, allowing students to let off some creative energy at the end of the semester.  What I didn’t realize at first is how helpful these stories would be to students’ engagement with the material.  Most students did not just write ghost stories; they wrote works that responded to a semester’s-worth of texts, drawing on the styles and formats that we had considered during the past few months.  They incorporated the common tropes of ghost stories, nodding at&mdash;and poking fun at&mdash;the clichés of the genre.  They creatively explored the difference between a ghost story (acknowledged fiction) and a haunted encounter (believed to be true), allowing the conventions of each type of story to dictate the structure.

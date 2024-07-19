@@ -6,7 +6,7 @@ slug: neatline-one-million-records
 title: Neatline Feature Preview - 1,000,000 records in a single exhibit
 category: blog
 tags:
-- Research and Development
+- research and development
 - neatline
 - omeka
 crosspost:

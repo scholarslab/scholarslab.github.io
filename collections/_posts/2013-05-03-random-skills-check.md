@@ -6,8 +6,8 @@ slug: random-skills-check
 title: 'Random Skills: Check'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

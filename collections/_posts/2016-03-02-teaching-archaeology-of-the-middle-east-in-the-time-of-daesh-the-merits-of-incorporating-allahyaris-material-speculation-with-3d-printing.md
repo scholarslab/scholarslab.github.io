@@ -7,7 +7,7 @@ title: 'Teaching Archaeology of the Middle East in the Time of Daesh: the Merits
   Allahyari’s “Material Speculation” with 3D Printing'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - makerspace
 - pedagogy
 crosspost:

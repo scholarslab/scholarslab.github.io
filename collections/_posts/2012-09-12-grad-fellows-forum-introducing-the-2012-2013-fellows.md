@@ -5,7 +5,7 @@ layout: post
 slug: grad-fellows-forum-introducing-the-2012-2013-fellows
 title: 'Grad Fellows Forum: Introducing the 2012-2013 Fellows'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

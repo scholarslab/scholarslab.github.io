@@ -6,7 +6,7 @@ slug: the-sound-of-disability
 title: The Sound Of Disability
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - accessibility
 - music
 ---

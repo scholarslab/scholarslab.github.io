@@ -6,9 +6,9 @@ slug: why-not-build-another-digital-humanities-tool
 title: Why not build another digital humanities tool?
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Dash-Amerikan
+- grad student research
+- praxis
+- dash-amerikan
 ---
 
 One of the recurrent issues I noticed when our Praxis cohort began discussing the meaning of the digital humanities was the field’s need to justify its existence. At the beginning of the semester, we read articles about digital humanities as a “tactical term” and the kind of institutional, financial affiliations necessary to sustain DH labs and staff. All of this background on the history of the field proved useful in understanding where DH stands within academia and why it has received so much recent criticism as an instrument in the further neoliberalization (insert your personal definition here) of the university. Scholars within and outside the field have noted, with some justification, how DH might further the financialization and quantification of, well, everything and how that might lead us further away from the inquiries that should ostensibly drive our intellectual pursuits in the humanities.

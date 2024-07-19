@@ -6,8 +6,8 @@ slug: a-cukeybara-sandwich
 title: a cukeybara sandwich
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 During Spring Break I started working on integration tests for Prism. An [integration test](http://en.wikipedia.org/wiki/Integration_testing) is a bit more involved than the regular [unit tests](http://en.wikipedia.org/wiki/Unit_testing) we've been doing with the RSpec framework so far. An integration test seeks to test the software by imitating a typical user interacting with it. In particular, we wanted to make sure that all the different translations from the i18n process were working. In order to get it right, we needed to emulate a user visiting the homepage in different languages.

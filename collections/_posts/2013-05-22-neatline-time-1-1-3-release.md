@@ -6,7 +6,7 @@ slug: neatline-time-1-1-3-release
 title: Neatline Time 1.1.3 Release
 category: blog
 tags:
-- Research and Development
+- research and development
 ---
 
 Thanks to Neatline Time user nancymou, we've addressed a bug in Neatline Time where fields added by other plugins to the advanced search form were not recognized by Neatline Time. (In nancymou's case, the other plugin was Exhibit Builder.) So we've put together a bugfix release, [version 1.1.3](http://omeka.org/add-ons/plugins/neatlinetime/), that addresses this issue. [Download Neatline Time 1.1.3](http://omeka.org/add-ons/plugins/neatlinetime/) to upgrade.

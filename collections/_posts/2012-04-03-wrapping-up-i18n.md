@@ -6,9 +6,9 @@ slug: wrapping-up-i18n
 title: Wrapping up i18n
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - code
-- praxis program
+- praxis
 ---
 
 Yesterday I was able to wrap up the internationalization of the site. It took us a while to figure out how we wanted the user to choose languages. We have several options: A setting on the browser can decide; users can indicate their preferences in the user account; we can have the location of your IP address decide for you. In the end we opted for the language link approach. No flags in our case, just links with the name.

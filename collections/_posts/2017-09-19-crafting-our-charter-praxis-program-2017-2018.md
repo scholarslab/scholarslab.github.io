@@ -3,12 +3,12 @@ author: christian-howard
 date: 2017-09-19 11:28:11+00:00
 layout: post
 slug: crafting-our-charter-praxis-program-2017-2018
-title: Crafting Our Charter - Praxis Program 2017-2018
+title: Crafting Our Charter - praxis 2017-2018
 category: blog
 tags:
 - charter
 - pedagogy
-- praxis program
+- praxis
 - project-management
 - about-collaboration-community
 ---

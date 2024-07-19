@@ -6,7 +6,7 @@ slug: update-diy-aerial-photography
 title: 'Update: DIY Aerial Photography'
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 - gis
 ---
 

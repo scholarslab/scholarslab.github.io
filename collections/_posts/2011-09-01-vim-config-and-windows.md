@@ -6,9 +6,9 @@ slug: vim-config-and-windows
 title: Vim Config (and Windows)
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - code
-- praxis program
+- praxis
 ---
 
 This is a set of instructions for configuring Vim for the Praxis Program. Most of it will only apply to Windows, but I've included some notes for any UNIX-like system (LINUX or Mac) at the bottom.

@@ -6,8 +6,8 @@ slug: gender-and-computing-ctd
 title: Gender and Computing (ctd)
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - gender
 ---
 

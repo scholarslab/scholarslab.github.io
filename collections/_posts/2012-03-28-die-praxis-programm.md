@@ -6,9 +6,9 @@ slug: die-praxis-programm
 title: Die Praxis-Programm
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - budget
-- praxis program
+- praxis
 - project-management
 - visualization
 ---

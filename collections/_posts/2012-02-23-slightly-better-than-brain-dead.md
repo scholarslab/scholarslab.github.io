@@ -6,10 +6,10 @@ slug: slightly-better-than-brain-dead
 title: 'Slightly Better than Brain Dead  '
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - design
-- praxis program
+- praxis
 ---
 
 This post was inevitable, but I can’t say I was ready for it. In exactly one week, I will be leaving for Spain on a two-month dissertation research trip. In relation to this blog, this means that my time in the Praxis Program has all but come to a close. As such, this seems like the best time to mercilessly cram my scattered experiences into a box marked “conclusion” and hope it doesn’t explode before I can tell the police that “I was in Barcelona at the time.”  

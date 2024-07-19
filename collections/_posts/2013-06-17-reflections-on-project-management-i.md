@@ -6,8 +6,8 @@ slug: reflections-on-project-management-i
 title: Reflections on Project Management I
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - project-management
 ---
 

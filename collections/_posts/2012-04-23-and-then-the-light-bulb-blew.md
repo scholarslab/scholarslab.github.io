@@ -6,9 +6,9 @@ slug: and-then-the-light-bulb-blew
 title: '...and then the Herokulypse'
 category: blog
 tags:
-- Grad Student Research
-- Labor
-- praxis program
+- grad student research
+- labor
+- praxis
 - code
 ---
 

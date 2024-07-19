@@ -8,7 +8,7 @@ category: blog
 tags:
 - makerspace
 - electronics
-- 3D printing
+- 3d printing
 ---
 ![LED Watch in all the Glory](/assets/post-media/led-watch-complete/the-watch.jpg)
 *[LED Watch in all the Glory]*

@@ -6,7 +6,7 @@ slug: populating-mysql-tables-with-node-js
 title: Populating MySQL tables with Node.js
 category: blog
 tags:
-- Research and Development
+- research and development
 - neatline
 - code
 - omeka

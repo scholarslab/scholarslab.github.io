@@ -6,10 +6,10 @@ slug: who-says-i-like-right-angles
 title: Who says I like right angles?
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - design
-- praxis program
+- praxis
 ---
 
 Last week, I started tackling what I naively assume to be some CSS issues that “real” web designers might also see as challenges.  The “box model” in CSS allows for lots of “clean” designs, but it discriminates against non-quadrilateral polygons, and against angles other than 90 degrees, for that matter. When a prism is a guiding concept and image for your design, you probably don’t just want a bunch of rectangles, and accordingly, Ed’s designs for the Prism site involve a big “prism” in the background and a number of boxes and links that invoke the prism shape with their borderlines. So, with Ani DiFranco's voice in my head, I asked the internet what to do. A few online sources for web design advice suggested creating angles and arrow shapes with empty divs with thick borders and no width and height, so I gave that a try today. It seemed strange when I first looked at it, but it turned out to be simple enough.

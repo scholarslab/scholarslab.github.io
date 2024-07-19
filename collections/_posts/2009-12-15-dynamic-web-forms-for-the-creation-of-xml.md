@@ -6,8 +6,8 @@ slug: dynamic-web-forms-for-the-creation-of-xml
 title: Dynamic web forms for the creation of XML
 category: blog
 tags:
-- Research and Development
-- xml
+- research and development
+- code
 ---
 
 Among my regular tasks in the Scholars' Lab Research and Development department, I have been developing applications to enable users to easily edit XML metadata within web forms.  As those familiar with metadata creation workflows will know, methods for creating XML documents were prone to human error and required some level of technical knowledge.  With XForms, a W3C standard for creating dynamic web forms, the technical barriers for creating robust metadata can finally be removed.

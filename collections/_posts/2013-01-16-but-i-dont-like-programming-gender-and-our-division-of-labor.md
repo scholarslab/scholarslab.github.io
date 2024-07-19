@@ -6,8 +6,8 @@ slug: but-i-dont-like-programming-gender-and-our-division-of-labor
 title: '...but I don''t like programming: gender and our division of labor'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 As last semester wound down, [Cecilia](http://www.scholarslab.org/people/cecilia-marquez/) and I  committed ourselves to honing our skills with Ruby.  During our first study session, we found ourselves talking about gender issues and the emerging role of each member within the Praxis team.  It is looking increasingly like the men will be more involved with programming, while the women of our group will focus on user interfaces, linking with social media, and management of the project.   During the last few meetings of our Ruby Boot Camp with Wayne, I’ve been aware of this emerging division, noticing that the women (perhaps mostly Cecilia and myself) have a tendency to ask more questions and to lay bare our lack of programming skills by joking about it or blatantly declaring our confusion.  In contrast, the men in our group are able to engage in two-way dialogue with Wayne in a vocabulary that is still largely foreign to me.

@@ -6,9 +6,9 @@ slug: reflections-on-project-management-iii-it-is-all-about-communication
 title: 'Reflections on Project Management III: It Is All About Communication '
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 - project-management
 ---
 

@@ -6,7 +6,7 @@ slug: learning-and-improving
 title: Learning and Improving
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 ---
 

@@ -6,7 +6,7 @@ slug: check-out-copyipsum
 title: Check Out Copyipsum
 category: blog
 tags:
-- Research and Development
+- research and development
 ---
 
 Of the bazillion lorem ipsum generators out there, the one I use most often for day to day work is [Loripsum](http://loripsum.net). It has a few great features, like choosing length of paragraph, adding other HTML elements, and only getting plain text. You can also get all this stuff through a simple API.

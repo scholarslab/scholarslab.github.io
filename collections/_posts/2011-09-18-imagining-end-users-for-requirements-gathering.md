@@ -6,8 +6,8 @@ slug: imagining-end-users-for-requirements-gathering
 title: Imagining end users for requirements gathering
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 [Bethany ](http://www.scholarslab.org/digital-humanities/crowdsourcing-interpretation/)writes, “It was important to us that the project only be in service to the program &mdash; that its intellectual agenda was one our students could shape, that they set the tone for the collaboration, and that &mdash; as much as possible &mdash; it be brand-spanking-new, free from practices and assumptions (technical or social) that might have grown organically in a pre-existing project and which we might no longer recommend.”

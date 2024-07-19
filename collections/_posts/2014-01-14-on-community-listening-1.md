@@ -6,8 +6,8 @@ slug: on-community-listening-1
 title: 'On Community Listening: 1'
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 ---
 
 During the Fall semester, Scholars Lab Design Architect, Jeremy Boggs and I spent time conceptualizing and sketching a web interface to house a perusable version of my ethnographic composition, _Community Listening in Isle Royale National Park_. Check out the project abstract below. This blog post is the first of many posts that will track our developments. 

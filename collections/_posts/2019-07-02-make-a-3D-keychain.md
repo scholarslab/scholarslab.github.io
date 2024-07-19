@@ -8,8 +8,8 @@ title: "Make a 3D Printed Holder Thingy for Your Keychain"
 category: blog
 tags:
 - makerspace
-- 3D printing
-- 3D modeling
+- 3d printing
+- 3d modeling
 - design
 ---
 ![3D Printed Keychain](/assets/post-media/2019-07-02-make-a-3D-keychain/on-the-keychain.jpg)

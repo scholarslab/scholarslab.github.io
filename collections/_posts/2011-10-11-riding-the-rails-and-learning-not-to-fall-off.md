@@ -6,8 +6,8 @@ slug: riding-the-rails-and-learning-not-to-fall-off
 title: Riding the Rails (And Learning Not to Fall Off)
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

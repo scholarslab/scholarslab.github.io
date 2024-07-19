@@ -6,8 +6,8 @@ slug: onward-and-upward
 title: Onward and Upward
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

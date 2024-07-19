@@ -7,7 +7,7 @@ title: A Praxis-Oriented Introduction to Digital Pedagogy
 category: blog
 tags:
 - pedagogy
-- praxis program
+- praxis
 crosspost:
   - title: my blog
     url: http://walshbr.com/blog/a-praxis-oriented-introduction-to-digital-pedagogy/

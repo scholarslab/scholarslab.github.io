@@ -7,7 +7,7 @@ title: What. The. Junk.
 category: blog
 tags:
 - makerspace
-- 3D printing
+- 3d printing
 ---
 
 So I had to take a sick day yesterday. Stuffy nose, scratchy throat, headache, grouchiness. Attempting to brighten my day, Wayne sent me a nice text message:

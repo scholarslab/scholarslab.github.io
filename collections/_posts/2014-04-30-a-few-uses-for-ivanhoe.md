@@ -6,10 +6,10 @@ slug: a-few-uses-for-ivanhoe
 title: An Ivanhoe example and guidelines for getting started
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - games
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 ---
 
 As [I mentioned previously](http://www.scholarslab.org/announcements/connect-create-inspire-the-ivanhoe-game-returns-2/), any Ivanhoe game can be played on any topic.  Being interdisciplinary ourselves (Classical Archaeology, English, Religious Studies, and Sociology), our group has naturally tended toward interdisciplinary games: the [suffragette journalism game](http://www.scholarslab.org/grad-student-research/a-review-of-the-suffragette-game/), the Elgin Marbles debate game, a sci-fi game, etc.  We all had a great time on these games, and I think it was because we could all find something to relate to in them within our respective fields.  However, this intense interdisciplinarity often made finding topics for games difficult, and we all agreed that a shared knowledge or experience base would help players in conceiving and playing an Ivanhoe game.  This seems to have been borne out in [Ivanhoe testing](http://www.scholarslab.org/announcements/announcing-the-ivanhoe-information-website-and-beginning-of-testing/); we had many testers volunteer, but few ended up playing extended games.  I think the reason for this is that our volunteers were individuals from different disciplines who signed up over the internet and had no face-to-face time.  Given this, I suspect that testers had a difficult time connecting with one another and having shared interests.

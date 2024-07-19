@@ -6,8 +6,8 @@ slug: digital-humanities-growing-pains
 title: Digital Humanities Growing Pains
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 This has been a tough week for me and the Digital Humanities. We are all grappling seriously with what we want to do this year with [Prism ](http://prism.scholarslab.org/)or with some other project entirely. This has led to some really amazing, but at times tense and frustrating, conversations amongst the group. Part of what is blocking me from being able to move forward is trying assess the use of Prism. Is it a pedagogical tool? is it a tool for researchers? is it a tool for entertainment? Who benefits from the production of these crowdsource interpretations?

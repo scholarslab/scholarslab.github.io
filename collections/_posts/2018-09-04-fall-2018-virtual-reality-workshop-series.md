@@ -5,7 +5,7 @@ layout: post
 slug: fall-2018-virtual-reality-workshop-series
 title: Fall 2018 Virtual Reality Workshop Series
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 category: announcement
 ---
 

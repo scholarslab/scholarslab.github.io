@@ -6,9 +6,9 @@ slug: teaching-prism-how-to-speak-spanish-and-french
 title: teaching prism how to speak spanish and french
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - code
-- praxis program
+- praxis
 ---
 
 Well, it looks like me and Annie will go on different development branches for a few weeks. I have been assigned the noble task of teaching Prism how to speak Spanish and French. The goal is to give the tool the largest possible reach on day one. Internationalization has always been one of my hot-button issues for a while, given that I hail from and engage with the global south, where [the digital divide and the digital humanities divide](http://www.insidehighered.com/blogs/globalisation-digital-humanities-uneven-promise) is more visible.    

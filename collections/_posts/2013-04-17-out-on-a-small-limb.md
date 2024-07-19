@@ -6,9 +6,9 @@ slug: out-on-a-small-limb
 title: Out on a (Small) Limb
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 ---
 
 In writing the following post, I was struck by how close it felt to one [Alex Gil](http://www.scholarslab.org/people/alex-gil/) wrote last year about a similar Prism disaster that he called the [herokulypse](http://www.scholarslab.org/grad-student-research/and-then-the-light-bulb-blew/). Alex wrote his post on April 23 of last year, so we're a few days ahead of schedule for apocalyptic project events.

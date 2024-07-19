@@ -6,8 +6,8 @@ slug: ruby-grading-2-0
 title: Ruby Grading 2.0
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

@@ -6,9 +6,9 @@ slug: development-design-and-the-distance-in-between
 title: Development, Design, and the Distance in-between
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 In the past week, Scott and I have been chipping away at the various issues Stephanie has uncovered in her testing of proto-Ivanhoe. There are [a LOT of issues](https://github.com/scholarslab/ivanhoe/issues?labels=&page=1&state=open), and there are still a handful of core features we have left to build by our April 1 deadline. Specifically, we need to work through some bugs with the display and assignment of roles to users, give a bit more thought to the role journal (which took a backseat to primary feature development earlier this semester), and set up a couple of other pages to make navigating the theme a bit more manageable.

@@ -7,7 +7,7 @@ layout: post
 slug: dh-pedagogy-roadshow
 title: DH Pedagogy Roadshow
 tags:
-- WLU Collab
+- wlu collab
 - pedagogy
 crosspost:
   - title: Brandon's blog

@@ -5,7 +5,7 @@ layout: post
 slug: olmsted-editing-to-mapping
 title: 'Olmsted: Editing to Mapping'
 tags:
-- Podcasts
+- podcast
 - speaker series
 category: announcement
 ---

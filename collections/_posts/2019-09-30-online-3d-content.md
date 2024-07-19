@@ -5,8 +5,8 @@ layout: post
 slug: online-3d-content
 title: "Online Resources for 3D Content in VR/AR"
 tags:
-- Parents Fund
-- VR-AR
+- parents fund
+- vr-ar
 - tutorial
 ---
 

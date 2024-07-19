@@ -6,10 +6,10 @@ slug: teaching-with-artstor
 title: Teaching with ARTStor
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - pedagogy
 - history
-- Architectural History
+- architectural history
 - religion
 ---
 

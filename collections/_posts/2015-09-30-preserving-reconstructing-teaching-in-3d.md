@@ -6,13 +6,13 @@ slug: preserving-reconstructing-teaching-in-3d
 title: Preserving, Reconstructing, & Teaching in 3D
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - 3DCHI
 - archaeology
 - makerspace
-- 3D modeling
+- 3d modeling
 - photogrammetry
-- 3D printing
+- 3d printing
 - architecture
 crosspost:
   - title: my personal blog

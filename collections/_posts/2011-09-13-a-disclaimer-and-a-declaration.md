@@ -6,8 +6,8 @@ slug: a-disclaimer-and-a-declaration
 title: A disclaimer and a declaration
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Kudos to Brooke for [her excellent blog post](http://www.scholarslab.org/praxis-program/processing-praxis/) this week. I believe she was writing it in the midst of a texting session with me, during which we each gave vent to plenty of grad student perfectionist angst (along the lines of "what on EARTH can I say this week that will be worthy  the highly visible platform that is the SLab/Praxis blog??"). I've been inspired by her honesty in writing about what many of us are thinking: transparency sounds great in theory but is pretty terrifying in practice, especially for those of us relatively new to both the academy and to the DH community. But Brooke is also right about the speed of the Praxis program: we're flying through the basics, and there is simply no time for perfection. This, I think, should count as our disclaimer for anything we may put up here, in the coming months, that may sound slightly crazy, impossible, or (heaven forbid) ill-written. We're doing our best to keep up, and in exchange, we appreciate your indulgence.

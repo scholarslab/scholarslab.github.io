@@ -5,7 +5,7 @@ layout: post
 slug: its-alive-introducing-the-early-american-foreign-service-database
 title: 'It''s [A]live!: Introducing The Early American Foreign Service Database'
 tags:
-- Grad Student Research
+- grad student research
 category: announcement
 ---
 

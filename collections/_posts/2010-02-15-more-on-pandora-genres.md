@@ -6,7 +6,7 @@ slug: more-on-pandora-genres
 title: 'More on Pandora:  genres, genomes, and musical taste...'
 category: blog
 tags:
-- Visualization and Data Mining
+- visualization and data mining
 ---
 
 

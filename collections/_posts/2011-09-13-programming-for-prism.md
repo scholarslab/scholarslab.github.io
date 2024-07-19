@@ -6,9 +6,9 @@ slug: programming-for-prism
 title: Programming for Prism
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 - code
 ---
 

@@ -6,8 +6,8 @@ slug: using-neatline-with-historical-maps-georeferencing
 title: 'Using Neatline with historical maps :: Part 1 - Georeferencing'
 category: blog
 tags:
-- Geospatial and Temporal
-- ESRI
+- geospatial and temporal
+- esri
 - gis
 - neatline
 - tutorial

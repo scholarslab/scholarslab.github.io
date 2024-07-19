@@ -6,7 +6,7 @@ slug: restarting-marionette-applications
 title: Restarting Marionette applications
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 - neatline
 crosspost:

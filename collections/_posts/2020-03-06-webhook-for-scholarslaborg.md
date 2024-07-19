@@ -6,7 +6,7 @@ slug: webhook-for-scholarslab
 title: Webhook for Scholars' Lab Website
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 - tutorial
 - jekyll

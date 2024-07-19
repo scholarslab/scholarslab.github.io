@@ -6,8 +6,8 @@ slug: in-which-a-novice-evaluates-digital-work
 title: In which a novice evaluates digital work
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 After spending a good forty minutes browsing the [Valley of the Shadow digital archive](http://valley.lib.virginia.edu/), I must admit that I’m defeated by the prompt Jeremy gave us last week for these blog posts. I simply could not find anything about the archive I would care to change. I approached it aggressively, determined to be disappointed or confused, or perhaps annoyed by the difficulty of navigating the project, but each time I thought “aha! that’s it!” a page scroll or more careful reading revealed the solution to my imaginary problem. In lieu, therefore, of explaining what about the archive I think could be changed to improve the user’s experience, I want to point out very briefly how the folks at the Valley of the Shadow impressed the pants off me. Firstly, the archive is prefaced with an excellent description of its _raison d'être_. Upon entering, a blueprint of sorts (oooh!) describes very succinctly and logically (in my humble opinion) how the information in the archive is organized. I dove in right away, and discovered through experimentation how to navigate the archive. Those who prefer a less visual or more guided navigational experience, however, can consult the “walking tours” for each of the topic sections. My favorite discovery, though, was the “Using the Valley Project” section, which contains examples of how previous visitors have put the material to use in various (and very different) ways. At no point did I feel confused, disappointed, or annoyed. I just felt eager to continue exploring the American Civil War as witnessed by Augusta (VA) and Franklin (PA) counties.

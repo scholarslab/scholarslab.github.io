@@ -6,7 +6,7 @@ slug: praxis-hackathon-scaffolding
 title: Praxis Hackathon Scaffolding
 category: blog
 tags:
-- praxis program
+- praxis
 - pedagogy
 crosspost:
   - title: Brandon's blog

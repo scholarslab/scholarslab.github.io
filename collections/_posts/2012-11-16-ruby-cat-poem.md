@@ -6,9 +6,9 @@ slug: ruby-cat-poem
 title: Ruby Cat Poem
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - cats
-- praxis program
+- praxis
 - code
 ---
 

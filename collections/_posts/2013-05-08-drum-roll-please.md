@@ -6,9 +6,9 @@ slug: drum-roll-please
 title: Drum Roll Please.....
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 ---
 
 After many months of brainstorming, debating, dreaming big, getting down to business, panicking, refocusing, programming, and fine tuning, [Prism](http://prism.scholarslab.org/) is here!

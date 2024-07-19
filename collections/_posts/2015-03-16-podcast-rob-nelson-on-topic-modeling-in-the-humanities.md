@@ -5,8 +5,8 @@ layout: post
 slug: podcast-rob-nelson-on-topic-modeling-in-the-humanities
 title: 'Podcast: Rob Nelson on Topic Modeling in the Humanities'
 tags:
-- Events
-- Podcasts
+- event
+- podcast
 category: announcement
 ---
 

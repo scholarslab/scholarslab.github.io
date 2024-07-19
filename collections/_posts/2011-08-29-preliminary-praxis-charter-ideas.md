@@ -6,9 +6,9 @@ slug: preliminary-praxis-charter-ideas
 title: Preliminary Praxis Charter Ideas
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 In only its second week, the Praxis Program does not yet have a well established Identity. Creating a project charter will help narrow our focus, and allow us to establish rules of operation. As a group, we are subject to a number of challenges inherent in being the first members of the program, as well as the added hurdle of learning to work in an interdisciplinary group. The umbrella of the “humanities” does a poor job of representing who we are as scholars, and we each bring something different to the Praxis table. As we discussed last week, even “English” does not properly unite the vast range of interests held by five members of our group who work in that department. We should therefore be wary of the view that we all speak the same humanist language even before we add our new “digital” vocabulary. On one hand, as someone not as well versed in textual analysis as other members of the program, I would find it very valuable to read an article each week chosen by one other member of the group that they believe represents a methodology that has been helpful in their field. On the other hand, I do not think that our individual skills should be rounded off in the desire to create a common experience and contribution for everyone. As collaborators, we do not need a formal hierarchy, but we should have individual responsibilities that play to our strengths.

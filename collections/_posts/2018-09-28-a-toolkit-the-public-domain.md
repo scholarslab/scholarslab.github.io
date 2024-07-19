@@ -6,9 +6,9 @@ slug: a-toolkit-the-public-domain
 title: "A Toolkit [...?] the Public Domain"
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - praxis
-- praxis program
+- praxis
 ---
 
 January 1, 2019 is [Public Domain Day](https://lifehacker.com/these-1923-copyrighted-works-enter-the-public-domain-in-1825241296). This means that all copyrighted works published in the year 1923 will suddenly become available for anyone to publish, distribute, or reuse in their own derivative creations. To seize the moment, our [Praxis cohort](http://praxis.scholarslab.org/) will spend the next nine months constructing a "public domain toolkit." Since the project is still in the conceptual phase when all doors are open and no one knows exactly where it’s headed, now seems like a good time to reflect on what it means to work […?] the public domain.

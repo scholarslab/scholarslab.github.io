@@ -6,10 +6,10 @@ slug: on-learning-code
 title: On Learning Code
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
-- about-learning
+- learning experience experience
 - gettin started
 ---
 

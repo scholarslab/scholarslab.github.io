@@ -5,7 +5,7 @@ layout: post
 slug: gis-workshops-fall-2023
 title: "Spider-Map: Across the Spatial-verse. Swing in to our Fall GIS workshop series."
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 category: announcement
 ---
 

@@ -6,11 +6,11 @@ slug: humanities-unbound-careers-scholarship-beyond-the-tenure-track
 title: 'Humanities Unbound: Careers & Scholarship Beyond the Tenure Track'
 category: blog
 tags:
-- Research and Development
+- research and development
 - alt-ac
 - pedagogy
-- praxis program
-- Scholarly Communication Institute
+- praxis
+- scholarly communication institute
 crosspost:
   - title: my personal site
     url: http://wp.me/p2CaGd-hm

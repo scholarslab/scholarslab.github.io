@@ -6,8 +6,8 @@ slug: more-musings-on-tuckman
 title: More Musings on Tuckman...
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - about-collaboration-community
 ---
 

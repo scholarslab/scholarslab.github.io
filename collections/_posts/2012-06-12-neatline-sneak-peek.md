@@ -6,8 +6,8 @@ slug: neatline-sneak-peek
 title: Neatline Sneak-Peek
 category: blog
 tags:
-- Geospatial and Temporal
-- Research and Development
+- geospatial and temporal
+- research and development
 - neatline
 ---
 

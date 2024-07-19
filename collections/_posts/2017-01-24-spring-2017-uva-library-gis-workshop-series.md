@@ -5,8 +5,8 @@ layout: post
 slug: spring-2017-uva-library-gis-workshop-series
 title: Spring 2017 UVa Library GIS Workshop Series
 tags:
-- Events
-- Geospatial and Temporal
+- event
+- geospatial and temporal
 category: announcement
 ---
 

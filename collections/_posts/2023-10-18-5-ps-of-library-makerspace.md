@@ -7,8 +7,8 @@ title: The 5 Ps of Library Makerspaces
 category: blog
 tags:
 - makerspace
-- 3D printing
-- 3D modeling
+- 3d printing
+- 3d modeling
 ---
 <style>
   img {

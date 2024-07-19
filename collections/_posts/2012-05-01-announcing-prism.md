@@ -6,10 +6,10 @@ slug: announcing-prism
 title: Announcing Prism!
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - pedagogy
-- praxis program
-- Prism
+- praxis
+- prism
 ---
 
 We are pleased to announce the [official beta release](http://prism.scholarslab.org/) of Prism, a tool for collecting and visualizing crowd-sourced interpretations of texts.

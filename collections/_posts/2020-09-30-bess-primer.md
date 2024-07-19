@@ -6,9 +6,9 @@ slug: bess-primer
 title: "BESS: A Very Short Primer"
 category: blog
 tags:
-- Research and Development
-- Grad Student Research
-- CBW
+- research and development
+- grad student research
+- cbw
 - literature
 ---
 

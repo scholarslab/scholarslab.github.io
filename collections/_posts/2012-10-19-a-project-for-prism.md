@@ -6,8 +6,8 @@ slug: a-project-for-prism
 title: A Project for Prism
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

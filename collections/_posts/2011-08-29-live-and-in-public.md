@@ -6,9 +6,9 @@ slug: live-and-in-public
 title: Live and in public!
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 To prepare for our meeting last week, all Praxis Program participants read the following pieces:

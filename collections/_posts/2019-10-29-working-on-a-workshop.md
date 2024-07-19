@@ -6,8 +6,8 @@ slug: intro-dh-and-sound-workshop
 title: "Working on a Workshop (aka outlining a possible workshop about DH and Sound)"
 category: blog
 tags:
-- praxis program
-- WLU Collab
+- praxis
+- wlu collab
 ---
 
 ## THE BLOG

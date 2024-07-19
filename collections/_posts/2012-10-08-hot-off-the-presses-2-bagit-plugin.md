@@ -10,7 +10,7 @@ tags:
 - code
 ---
 
-[![Canvas Bag - Tutorial24](http://farm5.staticflickr.com/4058/4258185459_8cdd4ac6bd_m.jpg)](http://www.flickr.com/photos/kittybabylove/4258185459/)
+[![Canvas Bag - tutorial24](http://farm5.staticflickr.com/4058/4258185459_8cdd4ac6bd_m.jpg)](http://www.flickr.com/photos/kittybabylove/4258185459/)
 
 Photo by [kittybabylove](http://www.flickr.com/photos/kittybabylove/) [![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 

@@ -6,8 +6,8 @@ slug: to-teach-to-grow-to-garden
 title: To Teach, To Grow, To Garden
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - pedagogy
 - care
 - hall of fame

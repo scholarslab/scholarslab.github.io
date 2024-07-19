@@ -6,8 +6,8 @@ slug: crowdsourcing-for-profit-and-pleasure
 title: Crowdsourcing for Profit and Pleasure
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 This post is in response to Claire's thoughtful writeup on [Crowdsourcing](https://www.scholarslab.org/praxis-program/to-crowdsource-or-not-to-crowdsource/), which I think raises and tries to answer some absolutely salient questions. Originally, I think the intent was to wrote a simple "con" piece, but since Claire - and Brandon in reply - have taken such nuanced and sophisticated positions, I suppose that I'll have to do the same lest I appear a rube (don't be mean, Cecilia).

@@ -6,10 +6,10 @@ slug: wireframing-and-foundations
 title: Wireframing and Foundations
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
-- Prism
+- praxis
+- prism
 ---
 
 Discussing design in the grad lounge continues to raise questions both programmatic and philosophical. Today we revisited the question of whether or not users should be able to see results or visualizations before they highlight a text themselves. Most of us grad students were concerned about this possibility, especially since we have agreed to make the first version of Prism for pedagogical use. We worried that students would either copy what others have marked, or that they would simply be influenced by others’ markings unintentionally. Jeremy and Wayne suggested that that might all be just fine; maybe what we want to find out is how a group interprets as a group, not as a collection of isolated individuals. This raises a major critical or methodological question for us. Are we “croudsourcing interpretation” by collecting many individual interpretations or by creating a space for collaborative interpretation? Do we want many separate interpretations that we can compare and contrast visually, or do we want one interpretation that is the work of many minds all together?

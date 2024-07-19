@@ -6,7 +6,7 @@ slug: code-spelunking-with-ctags-and-vim
 title: Code Spelunking with Ctags and Vim
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 ---
 

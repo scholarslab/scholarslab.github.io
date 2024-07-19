@@ -6,9 +6,9 @@ slug: vim-gui-font-magic
 title: Vim GUI Font Magic
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - tutorial
-- praxis program
+- praxis
 - code
 ---
 

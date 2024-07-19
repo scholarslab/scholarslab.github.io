@@ -6,9 +6,9 @@ slug: project-management-and-graduate-training
 title: Project Management and Graduate Training
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 - project-management
 ---
 

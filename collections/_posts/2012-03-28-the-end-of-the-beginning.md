@@ -6,9 +6,9 @@ slug: the-end-of-the-beginning
 title: The end of the beginning
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - pedagogy
-- praxis program
+- praxis
 ---
 
 Graduate study in the humanities can be a lonely business. Enter my knight in shining armor, commonly referred to around these parts as the Praxis Program.

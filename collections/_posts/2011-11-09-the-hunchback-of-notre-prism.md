@@ -6,8 +6,8 @@ slug: the-hunchback-of-notre-prism
 title: the hunchback of notre-prism
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 - prism
 ---

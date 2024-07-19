@@ -6,9 +6,9 @@ slug: building-and-texts
 title: Building and Texts
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 ---
 
 Alex and I finally have something to show for all our work! We built the document model for Prism that allows us to add new texts to the database!  It even passes the tests we built!  We're putting the finishing touches on it now, but we should easily make our deadline of this afternoon, so we can successfully pass it on to the design team.  It's exciting that we're actually able to put together our rails and ruby knowledge and produce tangible results.  This gives us hope that we will be able to continue to meet our other deadlines and eventually end up with a working project.

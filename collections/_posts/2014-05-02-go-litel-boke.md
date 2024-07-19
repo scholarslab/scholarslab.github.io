@@ -6,9 +6,9 @@ slug: go-litel-boke
 title: '"Go litel boke!"'
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 “Go, litel boke, go, litel myn tragedye,” cries Chaucer at the close of his _Troilus and Criseyde_. As he hands his book off to the vicissitudes of manuscript production&mdash;memorably evoked in his poem to Adam Scriveyn[^1]&mdash;the persistent fear that scribes may “miswrite the” or “mysmetre” the work troubles the poet’s mind.

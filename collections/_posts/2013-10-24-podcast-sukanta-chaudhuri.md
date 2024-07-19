@@ -5,7 +5,7 @@ layout: post
 slug: podcast-sukanta-chaudhuri
 title: 'Podcast: Sukanta Chaudhuri'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

@@ -7,7 +7,7 @@ title: 'If You Want to Master Something, Teach it: Digital Humanities and the â€
   Moment'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 crosspost:
   - title: W&L DH blog
     url: http://digitalhumanities.wlu.edu/blog/2017/03/16/if-you-want-to-master-something-teach-it-digital-humanities-and-the-aha-moment/

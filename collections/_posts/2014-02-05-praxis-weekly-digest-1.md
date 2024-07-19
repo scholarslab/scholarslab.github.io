@@ -6,10 +6,10 @@ slug: praxis-weekly-digest-1
 title: 'Praxis Weekly Digest #1'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 - project-management
 ---
 

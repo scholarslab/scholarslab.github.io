@@ -6,9 +6,9 @@ slug: 2013-2014-praxis-charter-ratified
 title: 2013-2014 Praxis Charter ratified!
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 Last week the new Praxis cohort ratified [its charter](http://praxis.scholarslab.org/charter.html).  This important document ended up demanding much more deliberation than we had anticipated.  Nonetheless, after a couple weeks of thinking about what really mattered to us in commencing our program, we established a set of core beliefs and structuring principles which I believe will help guide us through a very exciting year.

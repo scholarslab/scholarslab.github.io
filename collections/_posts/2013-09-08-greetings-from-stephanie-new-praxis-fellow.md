@@ -6,8 +6,8 @@ slug: greetings-from-stephanie-new-praxis-fellow
 title: Greetings from Stephanie, new Praxis Fellow!
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 I am excited to be a part of the new Praxis cohort and would like to take a few moments to introduce myself before a flurry of--ideally, great and innovative--thoughts populate the blog.  I am a second-year MA student in the English department, specializing in American literature, textual studies, and digital humanities.  My academic interests include Colonial and 19th-century American literature and history, as well as American book history.  My goal is to graduate this Spring and work in publishing or alternate academia.

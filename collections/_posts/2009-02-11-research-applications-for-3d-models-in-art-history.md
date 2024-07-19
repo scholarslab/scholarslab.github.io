@@ -6,9 +6,9 @@ slug: research-applications-for-3d-models-in-art-history
 title: Research Applications for 3D Models in Art History
 category: blog
 tags:
-- Visualization and Data Mining
+- visualization and data mining
 - 3DCHI
-- 3D modeling
+- 3d modeling
 ---
 
 These days, it is difficult to find a television documentary detailing an archaeological site that does not feature a representation in the form of a 3D model.  Computer models make good teaching tools.  A class of students may not have the opportunity to travel to Rome to view the Colosseum first-hand, and even if they did, they would have great difficulty visualizing what the mostly-ruined structure looked like 1,900 years ago.  A model based on the most recent archaeological research, however, can help fill in the gaps left by time and the elements. 

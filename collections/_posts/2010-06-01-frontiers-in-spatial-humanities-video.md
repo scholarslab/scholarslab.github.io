@@ -5,8 +5,8 @@ layout: post
 slug: frontiers-in-spatial-humanities-video
 title: Frontiers in Spatial Humanities (video)
 tags:
-- Geospatial and Temporal
-- Podcasts
+- geospatial and temporal
+- podcast
 category: announcement
 ---
 

@@ -5,7 +5,7 @@ layout: post
 slug: humanities-in-a-digital-age-symposium-podcast
 title: Humanities in a Digital Age Symposium podcast
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

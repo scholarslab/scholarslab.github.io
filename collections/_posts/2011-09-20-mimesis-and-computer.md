@@ -6,8 +6,8 @@ slug: mimesis-and-computer
 title: Mimesis and Computers
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

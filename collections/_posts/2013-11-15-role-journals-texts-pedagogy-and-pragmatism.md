@@ -6,9 +6,9 @@ slug: role-journals-texts-pedagogy-and-pragmatism
 title: Role Journals, Texts, Pedagogy, and Pragmatism
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 - pedagogy
 - games
 ---

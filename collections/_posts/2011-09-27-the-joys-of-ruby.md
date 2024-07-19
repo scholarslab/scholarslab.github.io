@@ -6,9 +6,9 @@ slug: the-joys-of-ruby
 title: The Joys of Ruby
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 - code
 ---
 

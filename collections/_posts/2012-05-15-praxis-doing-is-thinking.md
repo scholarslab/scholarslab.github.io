@@ -6,10 +6,10 @@ slug: praxis-doing-is-thinking
 title: 'Praxis: Doing is Thinking?'
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
-- praxis program
-- Prism
+- grad student research
+- research and development
+- praxis
+- prism
 ---
 
 Speaking off the cuff to a group of prospective Praxis Program applicants in March, I found myself explaining how “aesthetic provocation” isn’t the same as argument, that Prism isn’t a tool that produces criticism as much as it is a tool that might prod us to see, read, or critique in new ways. I didn’t know I knew that until I said it in front of 30 people, and that experience might serve as a nice synecdoche for what Praxis is all about. I calmed down about all those big ideas I blogged about in the fall when I started to have design deadlines. I quickly remembered my pre-graduate school ambivalence about being a manager when trying to coordinate design team tasks. I learned CSS tricks when I had things I needed to style in certain ways. Sometimes I worry that I just gave up on all the big ideas in favor of shorter-term, more immediately satisfying web design lessons and goals, that I somehow betrayed my disciplinary yack in favor of less heady but more hands-on hack. But maybe we’ve just been too busy with the latter lately, and these final blogs provide a place for the former now that Prism has been released.

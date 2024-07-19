@@ -5,7 +5,7 @@ layout: post
 slug: welcome-new-slab-grad-fellows
 title: Welcome, new SLab grad fellows!
 tags:
-- praxis program
+- praxis
 category: announcement
 ---
 

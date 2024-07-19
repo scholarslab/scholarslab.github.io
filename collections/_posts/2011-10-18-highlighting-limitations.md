@@ -6,10 +6,10 @@ slug: highlighting-limitations
 title: Highlighting limitations
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
-- Prism
+- praxis
+- prism
 ---
 
 In [his blog post](http://www.scholarslab.org/praxis-program/design-to-play/), Alex mentioned that we'll soon (I think today) be coming face to face with the Patacritical Demon - that is, we'll be doing the exercise that awoke the demon - in all of its highlighted transparency glory. I have been desperate to do this with the group since Bethany first mentioned it. Partly for a reason Alex mentions in his post in that I never highlight literature as I read. I don't necessarily have the bibliographic prejudice against it that Alex does, but highlighting literature goes against all of my instincts. I highlighted in my science, math, and history textbooks because they offered rules, laws, facts, and dates to be memorized. I highlight criticism now because there's a similar feeling that you're being offered more straightforward information that you're not necessarily interpreting. The critic, of course, is interpreting a text and you interpret the critic's argument to determine its validity or usefulness for your own purposes, but I feel more comfortable highlighting criticism because there's a sustained, usually (hopefully) unified argument, and thus there's less of a chance that I will return to it later with a different reading or highlighting for different things. Also, in those cases, I only use one highlighter because I'm not necessarily categorically interpreting the information I'm reading.

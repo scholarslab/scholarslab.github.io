@@ -6,9 +6,9 @@ slug: gradient-highlights
 title: Gradient Highlights
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
+- praxis
 ---
 
 While playing around with the CSS gradients that put the highlighting for each "facet" into lanes over the text, I think I've come up with an interesting new proposal for what the highlighting might look like:

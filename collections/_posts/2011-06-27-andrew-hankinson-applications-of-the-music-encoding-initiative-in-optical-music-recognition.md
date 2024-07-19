@@ -6,7 +6,7 @@ slug: andrew-hankinson-applications-of-the-music-encoding-initiative-in-optical-
 title: Andrew Hankinson, "Applications of the Music Encoding Initiative in Optical
   Music Recognition"
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

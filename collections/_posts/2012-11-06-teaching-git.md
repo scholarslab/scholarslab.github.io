@@ -6,8 +6,8 @@ slug: teaching-git
 title: Teaching Git
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 - pedagogy
 ---

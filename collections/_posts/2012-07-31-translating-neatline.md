@@ -6,7 +6,7 @@ slug: translating-neatline
 title: Translating Neatline
 category: blog
 tags:
-- Research and Development
+- research and development
 - neatline
 ---
 

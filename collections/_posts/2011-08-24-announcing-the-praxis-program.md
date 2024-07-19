@@ -6,9 +6,9 @@ slug: announcing-the-praxis-program
 title: Announcing the Praxis Program
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 We've radically re-imagined the teaching and training we do in Scholars' Lab R&D, and today are excited to launch the [Praxis Program](http://praxis.scholarslab.org)! This is a pilot, we hope, of big things to come, and it is meant to complement our work with [Graduate Fellows in Digital Humanities](http://www2.scholarslab.org/about/fellowship.html), a program now entering its fifth year at UVa Library.

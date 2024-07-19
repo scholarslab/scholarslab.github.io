@@ -5,7 +5,7 @@ layout: post
 slug: gis-day-2011-lightning-rounds
 title: GIS Day 2011 Lightning Rounds
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

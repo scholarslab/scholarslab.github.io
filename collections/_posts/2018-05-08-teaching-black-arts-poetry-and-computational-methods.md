@@ -6,7 +6,7 @@ slug: teaching-black-arts-poetry-and-computational-methods
 title: Teaching Black Arts Poetry and Computational Methods
 category: blog
 tags:
-- WLU Collab
+- wlu collab
 - pedagogy
 - race
 - literature

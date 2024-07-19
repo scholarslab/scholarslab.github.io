@@ -5,7 +5,7 @@ layout: post
 slug: podcast-meg-stewart
 title: 'Podcast: Meg Stewart'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

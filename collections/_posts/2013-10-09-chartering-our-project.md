@@ -6,9 +6,9 @@ slug: chartering-our-project
 title: Chart(er)ing Our Project
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 This post is a couple weeks late, but I would still like to share a few thoughts on the process of drawing up our [2013-14 Praxis charter](http://praxis.scholarslab.org/charter.html). Though we had the eloquent and insightful charters of the previous two cohorts as models, the Scholars' Lab faculty encouraged us to think about what_ our_ goals, principles, and priorities were and how _we_ could best articulate them. Reflecting on what we wanted to accomplish this year – 'accomplish' being itself a difficult term to define – was more challenging than anticipated, but the result is a charter which – in my opinion – lays out a path for all of us to learn, play, think, and work together amicably and productively.

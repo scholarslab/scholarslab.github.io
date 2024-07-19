@@ -6,8 +6,8 @@ slug: more-better-breaking
 title: More Better Breaking
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Over the course of the last few months, those of us in the development team have been hard at work writing the code to make the Ivanhoe game function. I thought I'd give a (very) brief look into our development workflow.

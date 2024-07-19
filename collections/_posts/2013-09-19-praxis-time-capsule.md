@@ -6,8 +6,8 @@ slug: praxis-time-capsule
 title: Praxis Time Capsule
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Obviously this is a little late, but comprehensive exams have a way of stealing whatever time you thought you had.  I wanted to write a post that reflected on my time in Praxis, hopefully share a bit about what I am taking away, suggestions I have for future Praxis generations and an opportunity to share some general gratitude!

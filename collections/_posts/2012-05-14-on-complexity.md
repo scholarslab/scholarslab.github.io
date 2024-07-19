@@ -6,9 +6,9 @@ slug: on-complexity
 title: On Complexity
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 - code
 ---
 

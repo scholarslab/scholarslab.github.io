@@ -5,7 +5,7 @@ layout: post
 slug: gff-triplett
 title: 'Graduate Fellows Forum: Edward Triplett'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

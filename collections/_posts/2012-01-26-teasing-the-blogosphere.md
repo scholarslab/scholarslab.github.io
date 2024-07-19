@@ -6,9 +6,9 @@ slug: teasing-the-blogosphere
 title: Teasing the Blogosphere
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
-- praxis program
+- grad student research
+- research and development
+- praxis
 ---
 
 Describing visual work in a blog without being able to reveal the images is more than challenging: it's boring. After we discussed this issue in our most recent Praxis meeting, the group suggested I post a Prism striptease. Linked below is a teasingly cropped and subtly altered image of the logo we decided on last week.

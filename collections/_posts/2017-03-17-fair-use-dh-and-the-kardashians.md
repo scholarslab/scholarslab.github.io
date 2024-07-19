@@ -6,9 +6,9 @@ slug: fair-use-dh-and-the-kardashians
 title: Fair Use, DH, and the Kardashians
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Dash-Amerikan
+- grad student research
+- praxis
+- dash-amerikan
 ---
 
 This week, the Praxis cohort heard from [Brandon Butler](https://twitter.com/bc_butler), UVA’s Director of Information Policy, who gave a fascinating talk on the evolution of copyright law and the meaning of intellectual property. He covered the U.S. Constitution’s intellectual property clause, the rolling boundaries of public domain, and the shift from monetary value to cultural value as a metric in the decision of Fair Use cases.

@@ -6,10 +6,10 @@ slug: are-we-gaming-or-just-simulating
 title: 'Are we gaming or just simulating? '
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - games
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 ---
 
 As we [Praxis Program](http://praxis.scholarslab.org/) fellows embark on just what exactly we want our version of [the Ivanhoe Game](http://nowviskie.org/2009/sketching-ivanhoe/) to accomplish we've been doing some "research" - good old fashion game playing. However, I've noticed a sense of frustration within our play, or perhaps it is just me that becomes a bit frustrated with the games at this point. I think part of my frustration comes from limited time to devote to the process of the game. Since the rules of the games we've play thus far are limited or nonexistent, I'm often unclear about what exactly I should be doing and feel like I spend more time trying to figure out what's going on than actually contributing. I'm also unsure if my "moves" are being received (and subsequently not enjoyed by the team) or just ignored all together. In the end my take away from our games is that it feels like we're all playing our own game alongside one another without communicating what we are doing, why we're doing it, and most importantly why we think it's fun.

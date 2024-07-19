@@ -6,8 +6,8 @@ slug: map-vocabularies
 title: Map "Vocabularies"
 category: blog
 tags:
-- Geospatial and Temporal
-- Visualization and Data Mining
+- geospatial and temporal
+- visualization and data mining
 ---
 
 For the past year, I have been working on the Scholars' Lab Geospatial Data Portal, the lab’s effort to make our GIS data sets readily available to UVA students, faculty, and staff via the world wide web by using a suite of open source, open standards-based applications. A particular aspect of this project that I have enjoyed exploring is the way in which we display our visual information.

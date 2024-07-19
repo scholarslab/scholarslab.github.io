@@ -5,7 +5,7 @@ layout: post
 slug: cbw-indianwomen
 title: "Death Politics in Collections of Indian Women's Lives"
 tags:
-- CBW
+- cbw
 - gender
 - literature
 ---

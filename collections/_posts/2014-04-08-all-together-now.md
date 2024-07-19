@@ -6,9 +6,9 @@ slug: all-together-now
 title: All Together Now
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 Recently, Bethany shared a [twitter conversation](https://storify.com/nowviskie/collective-authorship-and-the-praxisprogram-charte) about why “Praxis Program Team” has been listed among the authors of publications and presentations on Prism. As a member of the 2013-14 Praxis cohort, I can attest to the fact that we haven't yet given as much thought to the question of publication and presentation as previous years have. In [our charter](http://praxis.scholarslab.org/charter.html), we adopted the "Equal Credit" clause from the [2012-13 cohort's charter](http://praxis.scholarslab.org/charter-2012-2013.html), which was itself a thoughtful reiteration of the same clause in the [2011-12 cohort's charter](https://github.com/scholarslab/praxis/blob/3bf01121aff5e57172d9a2d998098a8c34b26bab/charter.md). But since ratifying our charter in mid-September, we haven't taken the time to think critically about what the "Equal Credit" clause means in the long run.

@@ -5,7 +5,7 @@ layout: post
 slug: scholars-lab-grad-fellows-digital-therapy-talks
 title: Scholars' Lab Grad Fellows, "Digital Therapy" Talks
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

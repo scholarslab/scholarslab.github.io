@@ -6,10 +6,10 @@ slug: prism-and-praxis-reflections
 title: Prism and Praxis Reflections
 category: blog
 tags:
-- Grad Student Research
-- Visualization and Data Mining
-- praxis program
-- Prism
+- grad student research
+- visualization and data mining
+- praxis
+- prism
 ---
 
 It's been a whirlwind of a year, but we finally made it! We have a fully functional tool, we've fulfilled our goals from our charter, and we can all look back on everything we've learned this year and be astonished by how far we've come.

@@ -5,7 +5,7 @@ layout: post
 slug: mark-sample-haunts-place-play-and-trauma
 title: 'Mark Sample: Haunts: Place, Play, and Trauma'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

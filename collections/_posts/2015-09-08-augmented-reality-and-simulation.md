@@ -6,9 +6,9 @@ slug: augmented-reality-and-simulation
 title: Augmented Reality and Simulation
 category: blog
 tags:
-- Research and Development
-- VR-AR
-- 3D printing
+- research and development
+- vr-ar
+- 3d printing
 - makerspace
 ---
 

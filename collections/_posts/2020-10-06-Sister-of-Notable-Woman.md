@@ -6,7 +6,7 @@ slug: Sister-of-Notable-Woman
 title: "Sister of Notable Woman: Henrietta Bird"
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - cbw
 - literature
 - gender

@@ -6,7 +6,7 @@ date: 2022-05-17
 category: blog
 tags:
 - games
-- about-community-collaboration
+- about-collaboration-community
 ---
 
 Hello Friends!

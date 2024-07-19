@@ -6,11 +6,11 @@ slug: on-stemmatics
 title: On Stemmatics
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
 - pedagogy
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 ---
 
 [![Screen Shot 2014-03-01 at 10.40.56 AM](http://static.scholarslab.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-01-at-10.40.56-AM-300x87.png)](http://static.scholarslab.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-01-at-10.40.56-AM.png)

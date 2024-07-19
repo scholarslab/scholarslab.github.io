@@ -6,8 +6,8 @@ slug: calculating-county-to-county-distances-with-gis
 title: Calculating county-to-county distances with GIS
 category: blog
 tags:
-- Geospatial and Temporal
-- ESRI
+- geospatial and temporal
+- esri
 - gis
 ---
 

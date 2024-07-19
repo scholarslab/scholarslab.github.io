@@ -6,8 +6,8 @@ slug: crowdsourcing-interpretation
 title: Crowdsourcing Interpretation / Praxis and Prism
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

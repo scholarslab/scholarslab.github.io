@@ -6,8 +6,8 @@ slug: building-prism-let-there-be-light
 title: 'Building Prism: Let There Be Light!'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

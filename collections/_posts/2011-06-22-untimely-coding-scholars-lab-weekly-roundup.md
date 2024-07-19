@@ -6,7 +6,7 @@ slug: untimely-coding-scholars-lab-weekly-roundup
 title: 'Untimely Coding: Scholars’ Lab Weekly Roundup'
 category: blog
 tags:
-- Research and Development
+- research and development
 ---
 
 Although the air conditioning here in Alderman Library keeps the office a bit cooler than the summer heat that’s descended on Charlottesville, things are definitely heating up in the Scholars’ Lab!

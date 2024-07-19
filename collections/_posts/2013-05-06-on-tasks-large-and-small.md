@@ -6,8 +6,8 @@ slug: on-tasks-large-and-small
 title: On Tasks Large and Small
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 The biggest issue that I have faced with my work with the Praxis Program has to do with how I judge the difficulty of the tasks before me. I have proven to be singularly inadequate at distinguishing quick fixes with a large payoff from larger problems that would yield only small utility. This issue surfaced early on, when I boldly suggested that I could implement [Omniauth](http://www.omniauth.org/) in a week. Two and a half months later I am still trying to get it to work: the Omniauth code structure works more generally, but each authentication service is its own unique little snowflake, different from all the other snowflakes in the code breaking eccentricities that it brings to the table. We had to jettison Twitter early on because it would not return user emails, which are central to the way that Devise handles logins. Facebook worked on local rails servers, but something whacky is happening on staging (and in deployment, for that matter) so that it throws a redirect uri failure at us that did not appear before. I feel as though I could have pounded away at these problems for ages and gotten nowhere.

@@ -8,9 +8,9 @@ slug: 2020-praxis-charter-blog
 title: "Pandemic, Puppets, Peppers: On Writing & Performing a Praxis Program Charter in 2020"
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 - hall of fame
 - about-collaboration-community
 ---

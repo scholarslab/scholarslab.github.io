@@ -6,11 +6,10 @@ slug: literacy-digital-reading
 title: "Literacy Gone Digital: Reading and Unreading Digital Texts"
 category: blog
 tags:
-- Grad Student Research
-- Workshop
+- grad student research
 - pedagogy
 - literature
-- praxis program
+- praxis
 ---
 
 When first asked to reflect on digital pedagogy, I was far from keen on spilling my thoughts onto a blank page for the world to see. In front of the class we always want things to run perfectly. However, upon reflecting that educators and instructors of language, literature, and likewise are the forefront of public Humanities, it's evident that teachers have no choice but to take a side. I was asked to consider and explain what I find most important in digital pedagogy this week. Here's what I came up with:

@@ -6,10 +6,10 @@ slug: stephen-covey-intervenes-in-wire-framing-ivanhoe
 title: Stephen Covey intervenes in wire-framing Ivanhoe
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 ---
 
 When the SLab folks recommended we split into groups and begin creating wireframes for our Ivanhoe games, my first thought was, "How can we start building when we don't really know what we're doing yet?"  However, talking about what we were doing in the abstract had been generating somewhat circular discussion, so I took a leap of faith and began drawing.  Jeremy handed out colored pencils, and we all started sketching individually.

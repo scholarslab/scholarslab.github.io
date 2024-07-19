@@ -6,7 +6,7 @@ slug: im-new-here-but-im-not
 title: "I'm New Here (But I'm Not)"
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - hellow world
 ---
 

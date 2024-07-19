@@ -7,8 +7,8 @@ slug: text-mining-and-digital-humanities
 title: Text Mining and Digital Humanities
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 I'm proud to join Praxis 18-19 cohort and pleased to begin blogging here.

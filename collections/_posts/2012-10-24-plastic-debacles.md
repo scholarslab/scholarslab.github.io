@@ -6,8 +6,8 @@ slug: plastic-debacles
 title: Plastic Debacles
 category: blog
 tags:
-- Research and Development
-- 3D printing
+- research and development
+- 3d printing
 - makerspace
 ---
 

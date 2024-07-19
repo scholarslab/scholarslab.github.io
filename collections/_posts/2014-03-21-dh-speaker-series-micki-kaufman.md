@@ -5,7 +5,7 @@ layout: post
 slug: dh-speaker-series-micki-kaufman
 title: 'DH Speaker Series: Micki Kaufman on Quantifying Kissinger'
 tags:
-- Visualization and Data Mining
+- visualization and data mining
 category: announcement
 ---
 

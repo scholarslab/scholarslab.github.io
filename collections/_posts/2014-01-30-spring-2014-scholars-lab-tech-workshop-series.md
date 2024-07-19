@@ -5,8 +5,7 @@ layout: post
 slug: spring-2014-scholars-lab-tech-workshop-series
 title: Spring 2014 Scholars' Lab Tech Workshop Series
 tags:
-- training
-- workshop
+- event
 category: announcement
 ---
 

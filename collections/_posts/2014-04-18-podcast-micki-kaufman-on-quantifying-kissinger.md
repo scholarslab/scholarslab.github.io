@@ -5,8 +5,8 @@ layout: post
 slug: podcast-micki-kaufman-on-quantifying-kissinger
 title: 'Podcast: Micki Kaufman on Quantifying Kissinger'
 tags:
-- Podcasts
-- Visualization and Data Mining
+- podcast
+- visualization and data mining
 - speaker series
 category: announcement
 ---

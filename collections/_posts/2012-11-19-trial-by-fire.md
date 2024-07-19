@@ -6,8 +6,8 @@ slug: trial-by-fire
 title: Trial by Fire
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

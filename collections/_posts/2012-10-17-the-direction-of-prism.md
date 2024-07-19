@@ -6,8 +6,8 @@ slug: the-direction-of-prism
 title: The Direction of Prism
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

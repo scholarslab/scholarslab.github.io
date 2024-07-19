@@ -6,9 +6,9 @@ slug: digest-5-managerial-musings-preceding-the-launch
 title: '(Digest #5) More Reflections on Project Management'
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 - project-management
 ---
 

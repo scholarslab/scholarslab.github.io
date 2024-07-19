@@ -6,8 +6,8 @@ slug: the-pleasures-of-programming
 title: The Pleasures of Programming
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

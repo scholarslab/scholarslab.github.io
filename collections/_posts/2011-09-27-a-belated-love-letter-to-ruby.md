@@ -6,8 +6,8 @@ slug: a-belated-love-letter-to-ruby
 title: A belated love letter to Ruby
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

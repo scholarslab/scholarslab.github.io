@@ -6,8 +6,8 @@ slug: forming-norming-storming-performing
 title: 'Forming, Norming, Storming & Performing '
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 This is my first time on a group project of this nature and as the project begins to take shape I am reminded of "The Tuckman Model." Created by Bruce Tuckman in 1965, I can't help but see the relevancy even though his findings are nearly fifty years old. For those unfamiliar with this article, here is a lovely image of his main points borrowed from [SHIFT-IT Coach](http://www.shift-it-coach.com/tag/tuckman-model/) (however the "adjourning" stage wasn't part of the original 1965 model, that part wasn't added until the 1970s).

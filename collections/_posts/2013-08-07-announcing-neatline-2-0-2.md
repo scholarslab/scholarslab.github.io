@@ -6,7 +6,7 @@ slug: announcing-neatline-2-0-2
 title: Announcing Neatline 2.0.2!
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 - neatline
 ---
 

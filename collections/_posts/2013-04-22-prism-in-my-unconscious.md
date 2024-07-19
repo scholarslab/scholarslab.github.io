@@ -6,8 +6,8 @@ slug: prism-in-my-unconscious
 title: Prism in my Unconscious
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

@@ -21,7 +21,7 @@ slug: code-reviews-and-the-digital-humanities
 title: Code Reviews and the Digital Humanities
 category: blog
 tags:
-- Research and Development
+- research and development
 - best practices
 - code review
 ---

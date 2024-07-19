@@ -6,9 +6,9 @@ slug: design-to-play
 title: design to play
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
+- praxis
 - code
 ---
 

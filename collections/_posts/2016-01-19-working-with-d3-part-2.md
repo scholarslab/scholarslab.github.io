@@ -6,7 +6,7 @@ slug: working-with-d3-part-2
 title: Working with D3, Part 2
 category: blog
 tags:
-- Visualization and Data Mining
+- visualization and data mining
 - code
 - tutorial
 ---

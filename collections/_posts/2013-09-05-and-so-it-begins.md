@@ -6,8 +6,8 @@ slug: and-so-it-begins
 title: And so it begins...
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 This is my first blog post (ever), so I have spent a good deal of time hemming and hawing over an appropriately novel and pithy title to headline my blogging debut. Needless to say, that hasn't happened.

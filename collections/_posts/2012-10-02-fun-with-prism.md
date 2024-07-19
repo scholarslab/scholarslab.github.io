@@ -6,8 +6,8 @@ slug: fun-with-prism
 title: Fun with Prism
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

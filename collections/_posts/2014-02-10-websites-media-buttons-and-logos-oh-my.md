@@ -6,10 +6,10 @@ slug: websites-media-buttons-and-logos-oh-my
 title: 'Websites, Media Buttons, and Logos - oh my! '
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 ---
 
 Last week I took a different approach to design. Instead of wireframing in html, Stephanie and I decided to break out the colored pencils and tap into our creative side.

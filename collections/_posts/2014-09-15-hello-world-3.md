@@ -6,8 +6,8 @@ slug: hello-world-3
 title: Hello world
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - hello world
 ---
 

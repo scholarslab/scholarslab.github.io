@@ -6,8 +6,8 @@ slug: on-games-that-just-fizzle-a-chronicle-and-reflection
 title: on games that just fizzle - a chronicle and reflection
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - games
 ---
 

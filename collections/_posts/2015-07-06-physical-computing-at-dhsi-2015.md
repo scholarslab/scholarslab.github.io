@@ -6,7 +6,7 @@ slug: physical-computing-at-dhsi-2015
 title: Physical Computing at DHSI 2015
 category: blog
 tags:
-- 3D printing
+- 3d printing
 - electronics
 - makerspace
 ---

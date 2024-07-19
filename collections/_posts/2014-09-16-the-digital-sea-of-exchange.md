@@ -6,8 +6,8 @@ slug: the-digital-sea-of-exchange
 title: 'The Digital Sea of Exchange '
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Greetings! My name is Jennifer Grayburn and I’m a sixth-year PhD Candidate in the History of Art and Architecture Department at the University of Virginia. My research focuses on medieval Northern architecture and its intersection with Old Icelandic texts. Using cultural memory theory and sea-basin frameworks, my dissertation explores the spread of architectural ideas, especially across the North Sea and North Atlantic. Teaching is my main passion and, over the past six years, I have worked as a library supervisor, teaching assistant, and instructor at the University of Virginia for courses like Architectural Survey I and Viking Art and Archaeology.

@@ -7,9 +7,9 @@ title: 'MLA14 Roundtable on the Praxis Network: Rethinking Humanities Education,
   and In Public'
 category: blog
 tags:
-- Praxis Network
-- praxis program
-- Scholarly Communication Institute
+- praxis network
+- praxis
+- scholarly communication institute
 - pedagogy
 - professional development
 - alt-ac

@@ -6,9 +6,9 @@ slug: prism-images-and-binaries
 title: Prism, Images and Binaries
 category: blog
 tags:
-- Grad Student Research
-- Visualization and Data Mining
-- praxis program
+- grad student research
+- visualization and data mining
+- praxis
 ---
 
 Several of us were recently asked to come up with sample texts to use for a simulated Prism experiment. As the token art historian of our group, I volunteered to find an example that included images as well as text. My initial efforts were spent imagining how I would use Prism as a teaching tool in an art history course. I thought that the clear cut nature of prism,  i.e. its requirement that the reader/viewer make a sharp distinction between ideas, would be a great method to teach students about their own preconceptions with regard to art. For example, I am very interested in what a crowd sourced application could tell us about what a group of students believe are the formal qualities that represent "Islamic" or "Christian" art or architecture. Another simple example might be for a group of students to mark up images that appear "Eastern" or "Western," or more problematically, "Oriental" versus "Occidental." How would the crowd mark up a series of deliberately multicultural images if a variety of the above terms were offered as markers?

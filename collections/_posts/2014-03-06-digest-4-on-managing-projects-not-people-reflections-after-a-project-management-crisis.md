@@ -6,9 +6,9 @@ slug: digest-4-on-managing-projects-not-people-reflections-after-a-project-manag
 title: '(Digest #4) On managing projects, not people'
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 - project-management
 ---
 

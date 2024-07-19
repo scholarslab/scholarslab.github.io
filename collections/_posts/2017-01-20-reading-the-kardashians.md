@@ -6,9 +6,9 @@ slug: reading-the-kardashians
 title: Reading the Kardashians
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Dash-Amerikan
+- grad student research
+- praxis
+- dash-amerikan
 ---
 
 Have you ever wondered what it would be like to read the dialogue that passes between members of the Kardashian family on _Keeping Up with the Kardashians_? To have those seemingly intimate conversations and confessions in the form of a literary production that is open to analysis, interpretation, and text mining?

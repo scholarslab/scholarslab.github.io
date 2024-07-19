@@ -8,9 +8,9 @@ category: blog
 tags:
 - social media
 - dataset
-- Grad Student Research
-- praxis program
-- Dash-Amerikan
+- grad student research
+- praxis
+- dash-amerikan
 ---
 
 Given our subject matter for the 2016-17 Praxis cohort, we recognized early on that we would be grappling with a very different sort of archive than we’ve grown accustomed to as humanists. Instead of the stacks, journal databases, manuscripts, and historical objects, we’d have to take a serious look at Facebook, Instagram, Vine, Snapchat, and Twitter. The following is a brief summary of some of our efforts with Twitter, a platform which we realized early on would be key in meaningfully keeping up with the Kardashians.

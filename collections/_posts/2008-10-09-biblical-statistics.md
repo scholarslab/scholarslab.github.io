@@ -6,8 +6,8 @@ slug: biblical-statistics
 title: Biblical Statistics
 category: blog
 tags:
-- Visualization and Data Mining
-- Statistical Analysis
+- visualization and data mining
+- statistical analysis
 ---
 
 The first topic that I chose for my dissertation in UVA's [Department of Religious Studies](http://artsandsciences.virginia.edu/religiousstudies/index.html) was the “School of Saint Paul.”  I hoped to show the existence of a group of followers who surrounded Paul and engaged with him in the interpretation of the Old Testament.  In order to do this, I decided to investigate how Paul used scripture in his epistles and how the followers of Paul used the same scripture in their writings.  I anticipated finding certain portions of the Old Testament that either were used exclusively in the Pauline and post-Pauline literature or were used differently in the Pauline and post-Pauline literature than in the rest of the New Testament.

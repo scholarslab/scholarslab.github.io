@@ -6,8 +6,8 @@ slug: what-can-digital-humanities-tell-us-about-character
 title: What can digital humanities tell us about Character?
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - literature
 - bibliography
 ---

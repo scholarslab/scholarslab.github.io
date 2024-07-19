@@ -6,7 +6,7 @@ slug: synchronizing-development-databases
 title: Synchronizing Development Databases
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 ---
 

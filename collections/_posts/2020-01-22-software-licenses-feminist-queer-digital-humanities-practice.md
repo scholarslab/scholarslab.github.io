@@ -9,10 +9,10 @@ title: "Software licensing as feminist & queer digital humanities practice"
 category: blog
 tags:
 - feminism
-- LGBTQIA+
+- lgbtqia+
 - gender
 - code
-- about-community-collaboration
+- about-collaboration-community
 - care
 crosspost:
   - title: Amanda's blog

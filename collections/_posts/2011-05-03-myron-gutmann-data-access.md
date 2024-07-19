@@ -5,8 +5,8 @@ layout: post
 slug: myron-gutmann-data-access
 title: Myron Gutmann on Data Access
 tags:
-- Social Sciences
-- Event
+- social sciences
+- event
 - speaker series
 category: announcement
 ---

@@ -6,7 +6,7 @@ slug: diy-aerial-photography-in-a-crowd
 title: DIY Aerial Photography In A Crowd
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 - gis
 ---
 

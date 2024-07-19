@@ -6,8 +6,8 @@ slug: reading-grammar
 title: "Reading Grammar: First Attempts"
 category: blog
 tags:
-- Research and Development
-- Grad Student Research
+- research and development
+- grad student research
 - literature
 crosspost:
   - title: my personal blog

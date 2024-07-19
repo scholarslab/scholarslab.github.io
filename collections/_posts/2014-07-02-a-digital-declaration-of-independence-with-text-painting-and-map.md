@@ -6,7 +6,7 @@ slug: a-digital-declaration-of-independence-with-text-painting-and-map
 title: A (Digital) Declaration of Independence
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 - neatline
 crosspost:
   - title: dclure.org

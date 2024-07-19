@@ -5,7 +5,7 @@ layout: post
 slug: scholars-lab-speaker-series-jeremy-dibbell
 title: 'Scholars'' Lab Speaker Series: Jeremy Dibbell'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

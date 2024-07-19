@@ -5,7 +5,7 @@ layout: post
 slug: institute-for-enabling-geospatial-scholarship
 title: Institute for Enabling Geospatial Scholarship
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 category: announcement
 ---
 

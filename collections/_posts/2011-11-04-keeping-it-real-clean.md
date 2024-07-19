@@ -6,8 +6,8 @@ slug: keeping-it-real-clean
 title: Keeping it Real… Clean
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Now that we have moved forward with our Rails programming for Prism I have been thinking this week about how our group will collectively decide on an overall aesthetic for Prism. I have been scanning the web and taking screenshots of inspiring designs for a few days as Jeremy suggested, and in the process I noticed very few common principles among them. I collected sites that had elaborate splash pages, some with minimalist styles, a hand-drawn quality, photographic backgrounds, sharp vector graphics, muted palates, and bright primary colors. When I step back and look at what I have collected, it is difficult to come up with a common thread between the pages, much less any sense of my own personal taste. I also tend to browse the web completely differently when I flip the “aesthetic judgment” switch in my head. Content fades away and the pages become more abstract. I expect most of us approached our design research with a number of aesthetic filters in mind to help sift through the mass of possible sources of inspiration, with similar disparate results.

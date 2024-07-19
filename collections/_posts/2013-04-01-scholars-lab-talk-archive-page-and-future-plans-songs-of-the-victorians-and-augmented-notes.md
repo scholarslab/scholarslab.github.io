@@ -8,7 +8,7 @@ title: 'Scholars'' Lab Talk, Archive Page, and Future Plans: Songs of the Victor
 category: blog
 tags:
 - music
-- Grad Student Research
+- grad student research
 crosspost:
   - title: Anglophile in Academia
     url: http://anglophileinacademia.blogspot.com/2013/04/archive-page-available-for-balfes-come.html

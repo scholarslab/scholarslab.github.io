@@ -6,8 +6,8 @@ slug: team-praxis
 title: Team Praxis!
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 This past week we started a soft (internal) launch of the new Prism so we could begin to work out all of the kinks. This of course meant that we spent _a lot_ of time together working out last minute concerns.  This was a really different "finals" type experience than the one I am currently experiencing.  Finals in graduate school basically means that I find a quiet place and don't leave until all of the papers have been written.  This crunch time collaboration felt exciting, dynamic, and fun.  It made me realize how much I have come to value the teamwork time that I get in Praxis each week.  Grad school can be isolating and socializing can feel like a distraction.  What was great about Praxis was that we were able to come together weekly in a work-related activity but really enjoy each other's company.

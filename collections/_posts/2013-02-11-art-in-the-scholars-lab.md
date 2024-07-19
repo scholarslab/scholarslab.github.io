@@ -6,7 +6,7 @@ slug: art-in-the-scholars-lab
 title: Art in the Scholars' Lab
 category: blog
 tags:
-- Research and Development
+- research and development
 - design
 ---
 

@@ -5,7 +5,7 @@ layout: post
 slug: podcast-dot-porter
 title: 'Podcast: Dot Porter'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

@@ -6,8 +6,8 @@ slug: on-not-knowing
 title: On Not Knowing
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 I made it [through HTML/CSS](http://praxis.scholarslab.org/topics/html-and-css/) and miraculously I still have a computer and most my sanity. These weeks of learning HTML/CSS have happened to coincide with my first weeks of being a Teaching Assistant. Having these experiences together has been invaluable for a few reasons.

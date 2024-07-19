@@ -6,8 +6,8 @@ slug: geocoding-for-neatline-part-ii
 title: Geocoding for Neatline - Part II
 category: blog
 tags:
-- Research and Development
-- Geospatial and Temporal
+- research and development
+- geospatial and temporal
 - neatline
 - code
 - tutorial

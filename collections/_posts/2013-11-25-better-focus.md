@@ -6,7 +6,7 @@ slug: better-focus
 title: "Better :focus"
 category: blog
 tags:
-- Research and Development
+- research and development
 - accessibility
 - design
 ---

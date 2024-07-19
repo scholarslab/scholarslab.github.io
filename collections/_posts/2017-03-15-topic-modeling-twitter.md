@@ -6,7 +6,7 @@ slug: topic-modeling-twitter
 title: Topic Modeling Twitter
 category: blog
 tags:
-- praxis program
+- praxis
 - social media
 - code
 - distant reading

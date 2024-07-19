@@ -7,7 +7,7 @@ title: "Discussions in the Digital Humanities and Learning New Technologies in t
   Scholars’ Lab"
 category: blog
 tags:
-- praxis program
+- praxis
 ---
 
 Over the course of the Fall 2016 semester, Praxis fellows participated in weekly meetings to discuss key topics relevant to the field of the digital humanities.  At the beginning of the academic year, we considered the numerous debates about the definition of the digital humanities, relying on the collection of articles, _Debates in the Digital Humanities_ (2016).  Digital humanities, as an academic discipline, has been a notoriously tricky field to define, and conflicting definitions abound in the literature, leading to a vast range of ways that different people understand the discipline.

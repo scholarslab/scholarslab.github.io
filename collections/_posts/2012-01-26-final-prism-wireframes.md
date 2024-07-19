@@ -6,10 +6,10 @@ slug: final-prism-wireframes
 title: '"Final" Prism Wireframes'
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - design
-- praxis program
+- praxis
 ---
 
 Despite whatever I might have said in previous blog posts, coding was quite a challenge for me and not something I could see myself devoting sustained attention to, so I was pleased to find some inkling of intuition about graphic design. My days of designing my high school newspaper on antiquated Adobe software suddenly became relevant, and all the time I waste perusing Fab.com and looking for affordable mid-century housewares on Craigslist can now be called “design research.” With lots of help from Jeremy and the internets, a Prism homepage is in development, complete with a header and footer and floated text and working links. Of course we’ll need to do a lot more than that to get this thing looking nearly as good as some of Ed’s designs in Adobe Illustrator, but I finally have some sense of what it will take, and with so many others on the Praxis team interested in design, it all seems possible.

@@ -6,8 +6,8 @@ slug: etcrc-local
 title: /etc/rc.local
 category: blog
 tags:
-- Grad Student Research
-- UVA Reveal
+- grad student research
+- uva reveal
 ---
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/09/ch0-300x95.png)

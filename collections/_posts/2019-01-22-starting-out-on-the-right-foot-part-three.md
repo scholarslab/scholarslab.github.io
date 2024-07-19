@@ -6,7 +6,7 @@ slug: starting-out-on-the-right-foot-part-three
 title: Starting Out On The Right Foot (Part Three)
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - dance and theater
 - motion capture
 ---

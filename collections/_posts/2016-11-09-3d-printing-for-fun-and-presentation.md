@@ -7,7 +7,7 @@ title: 3D printing for fun and presentation
 category: blog
 tags:
 - makerspace
-- 3D printing
+- 3d printing
 redirect_from:
   - /makerspace/3d-printing-for-fun-and-presentation
 ---

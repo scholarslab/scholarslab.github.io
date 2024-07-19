@@ -6,8 +6,8 @@ slug: the-impossible-proposal
 title: The Impossible Proposal
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 For my first post as a [Praxis](http://praxis.scholarslab.org/) Fellow I'd like to share an exercise that a [mentor](http://stephenjrushmusic.com/) of mine often used to kick-off [courses in interdisciplinary collaboration](http://www.music.umich.edu/current_students/perf_opps/dme/index.html): The Impossible Proposal. At the first meeting of a class of engineers, artists, musicians, dancers, writers, etc. tasked with creating a tangible project by the end of the semester, our professor would ask us to come up with a proposal for an impossible project&mdash;not just difficult but totally and utterly _impossible_. Few of us succeeded on the first try.

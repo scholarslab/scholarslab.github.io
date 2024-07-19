@@ -5,7 +5,7 @@ layout: post
 slug: podcast-adeline-koh-roopika-risam-2
 title: 'Podcast: Adeline Koh & Roopika Risam'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

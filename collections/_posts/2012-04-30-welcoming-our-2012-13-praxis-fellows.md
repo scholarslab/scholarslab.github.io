@@ -5,7 +5,7 @@ layout: post
 slug: welcoming-our-2012-13-praxis-fellows
 title: Welcoming our 2012/13 Praxis Fellows
 tags:
-- praxis program
+- praxis
 category: announcement
 ---
 

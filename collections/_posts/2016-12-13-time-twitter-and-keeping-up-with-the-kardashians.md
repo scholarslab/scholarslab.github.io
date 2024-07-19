@@ -6,9 +6,9 @@ slug: time-twitter-and-keeping-up-with-the-kardashians
 title: Time, Twitter, and Keeping Up with the Kardashians
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Dash-Amerikan
+- grad student research
+- praxis
+- dash-amerikan
 - social media
 - time
 ---

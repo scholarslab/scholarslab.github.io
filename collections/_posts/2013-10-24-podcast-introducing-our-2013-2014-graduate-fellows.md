@@ -5,7 +5,7 @@ layout: post
 slug: podcast-introducing-our-2013-2014-graduate-fellows
 title: 'Podcast: Introducing Our 2013-2014 Graduate Fellows'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

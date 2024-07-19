@@ -6,9 +6,9 @@ slug: spreading-the-light-prism-development-is-almost-done
 title: 'Spreading the Light: Prism Development is Almost DONE!'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 - visualization
 ---
 

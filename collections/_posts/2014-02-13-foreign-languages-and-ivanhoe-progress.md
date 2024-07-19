@@ -6,9 +6,9 @@ slug: foreign-languages-and-ivanhoe-progress
 title: Foreign Languages and Ivanhoe Progress
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 Eight years ago, I sat staring at my Latin prose composition homework. The assignment was to translate a few sentences and a couple of short, not-particularly-complex paragraphs from English into Latin. In that precise moment, however, it would have been equally effective to ask me to go find and slay a fire-breathing dragon, since the task of translating not just words, but entire thoughts into a language I had spent most of my life just reading seemed absolutely insurmountable. How did Cicero make his speeches so persuasive..._and_ _eloquent_? How did Martial write such astringent, sharp-witted satires with so few words..._in meter_? Clearly a lot of talent was involved. Or, perhaps, magic.

@@ -6,8 +6,8 @@ slug: omeka-neatline-metadata-survey
 title: Omeka + Neatline Metadata Survey
 category: blog
 tags:
-- Geospatial and Temporal
-- Neatline
+- geospatial and temporal
+- neatline
 category: announcement
 ---
 

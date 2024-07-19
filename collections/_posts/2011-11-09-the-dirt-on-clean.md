@@ -6,10 +6,10 @@ slug: the-dirt-on-clean
 title: The Dirt on "Clean"
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
-- Prism
+- praxis
+- prism
 ---
 
 Last week, when I should have been finishing up a conference paper I gave on Sunday, I instead kept messing with the webpage that Jeremy is teaching us how to design. Coding left me confused and bewildered, but now I realize that it also pretty much left me cold. I did once announce that it was satisfying, but I think only in a “I’m glad I did that” kind of way. In contrast, the _process_ of designing a webpage is fun. I like thinking about design as I go about my life both on the web and otherwise. I like making my apartment look nice in ways I can afford and maintain. I like creating and cooking meals that balance taste, texture, and color. I like bright and bold and playful fashion statements that don’t entirely forsake comfort. These are some of the things I do while procrastinating, while avoiding my academic work because I’m confused or bewildered, so I think designing for Prism will be similarly appealing and therapeutic for me.

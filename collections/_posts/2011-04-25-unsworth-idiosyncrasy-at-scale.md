@@ -5,7 +5,7 @@ layout: post
 slug: unsworth-idiosyncrasy-at-scale
 title: John Unsworth, "Idiosyncrasy at Scale"
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

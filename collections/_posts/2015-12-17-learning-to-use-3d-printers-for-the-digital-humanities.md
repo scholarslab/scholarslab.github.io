@@ -6,7 +6,7 @@ slug: learning-to-use-3d-printers-for-the-digital-humanities
 title: Learning to Use 3D Printers for the Digital Humanities
 category: blog
 tags:
-- 3D printing
+- 3d printing
 - makerspace
 ---
 

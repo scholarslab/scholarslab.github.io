@@ -6,7 +6,7 @@ slug: measured-unrest-in-the-poetry-of-the-black-arts-movement
 title: Measured Unrest in the Poetry of the Black Arts Movement
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 ---
 
 As one of the graduate fellows at the Scholars’ Lab this year, I am working on a year-long digital project (that’s also a chapter of my dissertation) in collaboration with the folks at the SLab. To sum it up in a sentence, the project hopes to offer a proof-of-concept for performing sentiment analysis on some of the most politically and affectively charged poetry of the 20th century, that of the Black Arts Movement of the 1960s and 70s. Today I wanted to post a brief overview and introduction to what I’m working on.

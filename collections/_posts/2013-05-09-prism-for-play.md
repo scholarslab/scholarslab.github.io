@@ -6,10 +6,10 @@ slug: prism-for-play
 title: "Prism, for Play"
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
-- praxis program
-- Prism
+- grad student research
+- research and development
+- praxis
+- prism
 - games
 crosspost:
   - title: nowviskie.org

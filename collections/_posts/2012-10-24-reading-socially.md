@@ -6,8 +6,8 @@ slug: reading-socially
 title: Reading Socially
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 As the Praxis team has been discussing the values and drawbacks of anonymity (or pseudonymity) in crowd-sourced interpretation, I've been thinking about what it means to read socially -- more specifically, what we rely on from other readers, and what we provide to other readers. 

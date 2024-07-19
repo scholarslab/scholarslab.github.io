@@ -6,9 +6,9 @@ slug: fluffy-tree-the-future-of-ivanhoe
 title: 'Fluffy Tree: The Future of Ivanhoe'
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 On Tuesday, we launched [Ivanhoe 1.0](http://ivanhoe.scholarslab.org/). As [Scott](https://www.scholarslab.org/grad-student-research/dialogical-code-and-the-adventure-of-pair-programming/) noted yesterday, much of the PHP which drives our Ivanhoe Wordpress theme is the product of our many hours spent in the Scholars' Lab pair-programming.

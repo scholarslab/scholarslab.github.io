@@ -6,9 +6,9 @@ slug: two-ivanhoes-one-direction
 title: 'Two Ivanhoes, One Direction '
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 Over the past few weeks our team of six divided into two subgroups to try and wireframe out our respective visions of Ivanhoe (see [Veronica's](http://www.scholarslab.org/grad-student-research/thinking-through-doing-while-losing-my-marbles/) excellent post for more details on how these groups were organized). After coming together and presenting each of our ideas, I was immediately struck by the similarities between our projects (and a bit relieved to see that we won't really need to make too many compromises in either direction). We both envisioned a central space or environment where users would come to collaborate (similar to [Prism](http://prism.scholarslab.org/pages/about) all of the play would happen in one place). We both mapped out a profile page where users can easily access games in progress, chat with other players, and have the ability to edit  their profile. Yet we also had some important differences:

@@ -6,9 +6,9 @@ slug: in-the-neutral-ground
 title: In the Neutral Ground
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 With all the coverage of Occupy Wall Street, I’m hearing a lot about urban space and how we live in it. When space arises as a site or source or critique, I always wonder about the ways DH could help analyze the spatial and make spatial thinking more available to humanities scholars, but it also makes me think about the spaces of academic work itself. I’ll leave the digital question until I have a little more technical skill to bring to it, and for now I’ll try to think through the space of collaboration. I want to do that through a story about another interesting experience of public space that seems just as relevant as the protests. I guess this is a “getting to know you” autobiographical blog post as well.

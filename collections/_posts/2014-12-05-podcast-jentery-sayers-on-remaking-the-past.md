@@ -5,8 +5,8 @@ layout: post
 slug: podcast-jentery-sayers-on-remaking-the-past
 title: 'Podcast: Jentery Sayers on Remaking the Past'
 tags:
-- Events
-- Podcasts
+- event
+- podcast
 category: announcement
 ---
 

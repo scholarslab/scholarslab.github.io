@@ -6,8 +6,8 @@ slug: building-from-scratch-then-scratching-that-build
 title: Building From Scratch Then Scratching That Build
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Over the past couple of weeks I've been working hard on building my own website. I actually began this work last summer, in the midst of a code camp for humanities graduate students being run at U.Va. with the great help of [Scholars' Lab](http://www.scholarslab.org/) staff. There, I had gotten an intro to git, found out about [Github Pages](http://pages.github.com/) and [Jekyll](http://jekyllrb.com/), and had learned enough PHP to build a couple different WordPress themes throughout July and August. But, I was never happy with what I had produced and when school started back, my priorities shifted. When the holiday break began, I knew I needed to go ahead and get something up and running.

@@ -6,8 +6,8 @@ slug: announcing-my-blog-songs-of-the-victorians-and-augmented-notes
 title: Announcing My Blog, Songs of the Victorians, and Augmented Notes
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - music
 ---
 

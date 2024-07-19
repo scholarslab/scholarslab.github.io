@@ -6,9 +6,9 @@ slug: images-in-prism
 title: Images in Prism
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 ---
 
 One thing we have thought about in recent weeks is the role of Prism in our goals for the semester.  As part of this brainstorming I wanted to share some of my thoughts about a potential future for Prism.

@@ -6,8 +6,8 @@ slug: fizzing-buzzing
 title: Fizzing, Buzzing
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

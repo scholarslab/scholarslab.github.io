@@ -6,8 +6,8 @@ slug: what-ive-learned-from-my-kindle-part-i
 title: 'What I''ve learned from my Kindle: part I'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Though I believe the idea is to fill the “getting to know you” blog spot in turns one week at a time, events conspired this week to set me up perfectly for part one of a relatively brief expostulation on Some Things I Hold Dear as a Scholar in This Age of Digital Texts, a topic I’ve been reflecting on almost nonstop ever since we learned about the basic idea behind what will become Prism.

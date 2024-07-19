@@ -6,8 +6,8 @@ slug: prism-project-proposal
 title: Prism Project Proposal
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

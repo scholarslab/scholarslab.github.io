@@ -6,8 +6,8 @@ slug: model-vocabularies
 title: Model vocabularies
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Annie drafted a new Model for Prism this week, and we had a chance to tweak it and refine it on Friday. It was our first time programming together. Heck, it was the first time I ever programmed with anyone, period. We eased into the 24-inch monitor with some takeout Chinese. Patiently maneuvering one hand on the keyboard and one on the combination fried rice, we were able to create something close to the following diagram:

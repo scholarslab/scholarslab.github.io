@@ -6,7 +6,7 @@ slug: testing-asynchronous-background-processes-in-omeka
 title: Testing asynchronous background processes in Omeka
 category: blog
 tags:
-- Research and Development
+- research and development
 - omeka
 crosspost:
   - title: dclure.org

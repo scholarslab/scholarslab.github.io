@@ -6,8 +6,8 @@ slug: greetings
 title: Greetings
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Hello! My name is Scott Bailey, and I'm one of the new Praxis Fellows. I am also a Ph.D. student in Religious Studies, writing a dissertation on vulnerability as a locus of dogmatic reflection. Taking a cue from Brené Brown's work on vulnerability, I'm asking what it means to think through the vulnerability of Christ, leading us to think of the vulnerability of God and of humanity. Much of this is done within the context of 20th Century Protestant theology, with a particular focus on Eberhard Jüngel's theology.

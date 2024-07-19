@@ -6,11 +6,11 @@ slug: teaching-coffeescript
 title: Teaching CoffeeScript
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - pedagogy
 - code
-- praxis program
+- praxis
 ---
 
 *Note: This post contains references to images stored on a server that has since been taken offline. So the images described are no longer accessible. We apologize for the inconvenience.*

@@ -6,8 +6,8 @@ slug: playing-with-toast-our-first-ivanhoe-game
 title: 'Playing with toast: Our first Ivanhoe game'
 category: blog
 tags:
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 - games
 ---
 

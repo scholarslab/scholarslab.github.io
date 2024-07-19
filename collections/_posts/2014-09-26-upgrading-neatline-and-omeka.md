@@ -6,7 +6,7 @@ slug: upgrading-neatline-and-omeka
 title: Upgrading Neatline and Omeka
 category: blog
 tags:
-- Research and Development
+- research and development
 - neatline
 - omeka
 - code

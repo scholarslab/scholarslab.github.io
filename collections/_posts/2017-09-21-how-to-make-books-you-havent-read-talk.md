@@ -8,7 +8,7 @@ category: blog
 tags:
 - audio
 - praxis
-- UVA Reveal
+- uva reveal
 ---
 
 As promised in [my previous post](http://scholarslab.org/uncategorized/2-about-my-research-computers-and-digital-humanities/), here is an idea for this year’s Praxis Program. It is uncertain at this early stage of brainstorming whether it will be retained as the one uniting everybody’s creative forces and ingenuity, but I believe it has a lot of potential of unfolding into a project where everybody’s common interests meet: library’s holdings, global culture and world languages, power and inequality, literature and sound. At its core, it is as humanistic as it can be, and its execution requires the use of common digital humanities and critical making techniques, that we are here to train for. But before I get to the idea, let me take you to a journey where books are no longer written, nor pressed into rectangular objets made out of ink and paper and they are by no means meant to be read.

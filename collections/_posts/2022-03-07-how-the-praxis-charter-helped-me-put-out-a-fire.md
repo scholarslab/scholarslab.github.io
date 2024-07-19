@@ -7,10 +7,10 @@ slug: praxis-charter-fire
 title: How The Praxis Charter Helped Me Put Out A Fire
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
 - care
-- praxis program
+- praxis
 ---
 
 I am writing this blog post mostly as an extremely belated thank-you note to everyone in the SLab and especially my fellow fellows—Susan, Joseph, Cherrie, Tarushi, and Jennifer—who helped me get through a difficult time at the end of last year. I am also writing this to explain how collaborating to create our charter allowed me to see I had people I could go to for help rather than maintaining the toxic individualism within my personal life that made me feel miserable but safe. 

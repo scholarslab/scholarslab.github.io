@@ -6,8 +6,8 @@ slug: a-fox-among-others
 title: A Fox... Among Others
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - hello world
 ---
 

@@ -6,11 +6,11 @@ slug: documentation-photogrammetry
 title: "Photogrammetry Workflow using a DSLR Camera"
 category: blog
 tags:
-- Research and Development
+- research and development
 - tutorial
 - makerspace
-- Photogrammetry
-- Parents Fund
+- photogrammetry
+- parents fund
 - 3DCHI
 ---
 

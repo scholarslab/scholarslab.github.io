@@ -6,10 +6,10 @@ slug: designed-to-touch
 title: Designed to touch
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
-- Prism
+- praxis
+- prism
 ---
 
 I enthusiastically agree with [Ed's use of the word "tangible"](http://www.scholarslab.org/praxis-program/keeping-it-real%E2%80%A6-clean/) to describe Prism. I couldn't have chosen a better word myself. To get the clearest possible definition of the word, I went old school and looked it up in the Merriam-Webster online dictionary where it's defined as "perceptible by touch." No surprise there, but the phrasing of the definition did remind me of the importance of touch to perception. From the origins of the 'Patacritical Demon in those SpecLab transparency exercises, Prism has been all about touch: touching the transparency to the text, touching the highlighter in your hand, touching the highlighter to the transparency, pressing the transparencies together onto the text and deriving some kind of information from the touching or non-touching of highlights. The physical acts of marking up a text and then seeing many markups laid on top of each other are integral to the user's perception and interpretation of the text in question. Prism's ultimate goal of "aesthetic provocation" requires the user's physical interaction with the text, so Prism can't be successful (can't "touch" its users) if it loses its tangibility.

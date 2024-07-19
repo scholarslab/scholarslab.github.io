@@ -6,10 +6,10 @@ slug: seeing-the-prism-we-have-visualizations
 title: 'Seeing the Prism: We Have Visualizations!!'
 category: blog
 tags:
-- Grad Student Research
-- Visualization and Data Mining
-- praxis program
-- Prism
+- grad student research
+- visualization and data mining
+- praxis
+- prism
 - visualization
 ---
 

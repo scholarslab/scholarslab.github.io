@@ -6,9 +6,9 @@ slug: kindle-prism-pdf-prism
 title: Kindle Prism? PDF Prism?
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - prism
-- praxis program
+- praxis
 ---
 
 It turns out that Amazon already does some (very basic) analysis of crowdsourced interpretation. They publish several [lists of most popular highlights](https://kindle.amazon.com/most_popular) from Kindle readers.

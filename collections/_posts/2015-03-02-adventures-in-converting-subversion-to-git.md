@@ -6,7 +6,7 @@ slug: adventures-in-converting-subversion-to-git
 title: Adventures in Converting Subversion to Git
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 ---
 

@@ -6,9 +6,9 @@ slug: access-as-praxis
 title: Access as Praxis
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - accessibility
-- praxis program
+- praxis
 ---
 "Access is love but love is complicated." -- Andy Slater, blind media artist (<https://www.thisisandyslater.net/>)
 

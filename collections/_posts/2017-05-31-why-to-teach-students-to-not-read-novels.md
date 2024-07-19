@@ -6,12 +6,12 @@ slug: why-to-teach-students-to-not-read-novels
 title: Why To Teach Students to Not-Read Novels
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - visualization
 - literature
 - distant reading
 - pedagogy
-- WLU Collab
+- wlu collab
 ---
 
 _Scholars' Lab Fellow James Ascher went to Washington and Lee University to give a workshop in [Prof. Taylor Walle’s](https://www.wlu.edu/english-department/faculty-and-staff/profile?ID=x17053) ENGL 335 course through a Mellon-funded collaboration with the [Scholars’ Lab](http://scholarslab.org/) in the UVA Library. More information about this initiative can be found [here](https://github.com/wludh/research-one-collab). His post is [cross-listed on the W&L blog](http://digitalhumanities.wlu.edu/blog/2017/05/31/why-to-teach-students-to-not-read-novels/)._

@@ -6,8 +6,8 @@ slug: elotroalex-re-mixed
 title: elotroalex re-mixed
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 [We recently decided to get to know each other by way of the blog. There is something really odd about auto-bio pieces.  They only have meaning at the beginning of a relationship. In the spirit of the conversation starter, I thought I'd play with the genre. If I am the subject, here are my conversations.]

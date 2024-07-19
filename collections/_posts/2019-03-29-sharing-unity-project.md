@@ -6,10 +6,10 @@ slug: sharing-unity-project
 title: "Sharing a Unity Project"
 category: blog
 tags:
-- Research and Development
-- Parents Fund
+- research and development
+- parents fund
 - tutorial
-- 3D modeling
+- 3d modeling
 ---
 # Sharing a Unity Project
 

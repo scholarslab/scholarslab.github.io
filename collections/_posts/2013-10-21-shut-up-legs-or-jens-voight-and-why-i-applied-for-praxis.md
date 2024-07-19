@@ -6,9 +6,9 @@ slug: shut-up-legs-or-jens-voight-and-why-i-applied-for-praxis
 title: 'Shut up Legs! or: Jens Voight and Why I Applied for Praxis'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 So. In [our charter](http://praxis.scholarslab.org/charter.html) we committed to a goal we called ‘Outreach.’  As part of that commitment I pushed for a firm statement of two blog posts per person per month. This seemed reasonable at the time, and still does. And yet, here we find ourselves on October 16 and, discounting my [introductory post](http://www.scholarslab.org/grad-student-research/a-bit-more-medieval/) I have yet to surface online.  This would be the moment to play the grad student ‘woe is me I am so busy grading student papers reading for orals having existential crises etc. etc.’ card but, unfortunately in my case it simply isn’t true.

@@ -6,8 +6,8 @@ slug: grading-in-ruby
 title: Grading in Ruby
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

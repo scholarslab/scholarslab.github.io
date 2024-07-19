@@ -6,11 +6,11 @@ slug: using-dh-to-explore-movement-and-meaning
 title: Using DH to Explore Movement and Meaning
 category: blog
 tags:
-- Grad Student Research
-- WLU Collab
+- grad student research
+- wlu collab
 - dance and theater
 - pedagogy
-- Prism
+- prism
 crosspost:
   - title: WLUDH blog
     url: http://digitalhumanities.wlu.edu/blog/2016/06/08/kelli-shermeyer-on-using-dh-to-explore-movement-and-meaning/

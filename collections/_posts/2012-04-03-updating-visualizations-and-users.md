@@ -6,8 +6,8 @@ slug: updating-visualizations-and-users
 title: Updating Visualizations and Users
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - visualization
 ---
 

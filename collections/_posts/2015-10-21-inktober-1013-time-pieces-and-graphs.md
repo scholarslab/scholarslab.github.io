@@ -6,8 +6,8 @@ slug: inktober-1013-time-pieces-and-graphs
 title: 'Inktober 10/13: Time Pieces and Graphs'
 category: blog
 tags:
-- Grad Student Research
-- ClockWork
+- grad student research
+- clockwork
 crosspost:
   - title: my post on our Praxis page
     url: http://praxis.scholarslab.org/blog/2015/10/13/inktober-10-13-time-pieces-graphs/

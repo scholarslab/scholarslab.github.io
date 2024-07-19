@@ -6,8 +6,8 @@ slug: prism-proposal-against-anonymity
 title: 'Prism Proposal: Against Anonymity'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - prism
 ---
 

@@ -6,8 +6,8 @@ slug: individuality-and-collective-effort
 title: Individuality and Collective Effort
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - hello world
 ---
 

@@ -6,9 +6,9 @@ slug: processing-praxis
 title: Processing Praxis
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 Since we've been let loose, prompt-free, to blog as we please this week, I'd like to take the opportunity to get back to "the process." As the Praxis Program garners more and more attention, and we begin to produce and publicize documentation, I'm realizing how little I knew when I boldly stated "Long live the process!" in my first blog post just a few weeks ago. I am still convinced that the transparency of our progress is integral to the success of the program - its success as a model for similar graduate training programs in other universities and as a model for collaborative DH work - but I'm only now understanding _why_. The process is something that makes most academics, myself included, a bit uncomfortable because we spend the majority of our time and energy, to use Bethany's term from our first meeting, "polishing." As graduate students, we are trained to cultivate increasingly more specific areas of expertise, to hold onto and constantly refine a piece of work before making it public, and even then we're often uncomfortable with releasing a work-in-progress to our peers. Sure, classrooms, conferences, and trusted advisors or colleagues are acceptable venues for "testing out" work, but there is still bound to be a considerable amount of refinement anxiety before the work is shared. Of course I'm speaking from my experience and my academic career has only just begun, but these are my impressions reinforced by what I've gleaned from more seasoned academics and professionals.

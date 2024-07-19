@@ -6,8 +6,8 @@ slug: getting-to-know-our-praxis-peers-samples-of-our-digital-work
 title: 'Getting to Know our Praxis Peers: Samples of our Digital Work'
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 I would like to mention to you all that I have added two files to our collab resources that I hope will give a better idea of the kind of work I am putting together as a Scholar's Lab fellow this year. There is a transcript of the very short presentation I gave two weeks ago which describes my GIS project and briefly outlines my dissertation topic. At some point there will also be a podcast of the presentation on the Scholar's Lab page.

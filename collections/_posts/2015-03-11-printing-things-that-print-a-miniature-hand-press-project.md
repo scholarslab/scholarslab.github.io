@@ -8,7 +8,7 @@ category: blog
 tags:
 - makerspace
 - bibliography
-- 3D printing
+- 3d printing
 ---
 
 For the past few months, fellow English PhD candidate [James Ascher](https://twitter.com/jpsa) and I have had a small side-project going on in the Makerspace: printing a small, desktop-sized hand press, and getting it to work consistently.  The model we found calls it a “[Pocket Gutenberg](http://www.thingiverse.com/thing:113044),” but the idea of a small, hand-powered, personal “hobby” printing press is an historic one going back to Ben Lieberman and the “Liberty Press” – a history James will hopefully be posting about soon.

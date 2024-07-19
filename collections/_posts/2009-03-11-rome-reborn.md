@@ -6,7 +6,7 @@ slug: rome-reborn
 title: Rome Reborn
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 ---
 
 My wife and I frequently engage in a strange kind of “culture war.” She thinks ancient Rome is the more interesting civilization, and I’m partial to ancient Greece. In these debates, I always tell her that I prefer philosophers to politicians. Still, I was excited when I first encountered [Rome Reborn](http://www.romereborn.virginia.edu/), a joint project between UVA’s [Institute for Advanced Technology in the Humanities](http://www.iath.virginia.edu/), a few other schools, and Google (who allows access to the project through [Google Earth](http://earth.google.com/)). The goal of Rome Reborn is to create a 3D digital model of ancient Rome in the year 320. There are plans to extend the project over time, so that you will be able to track the development and growth of the city over time. The buildings have all been reconstructed by computer modeling, and mapped onto Rome’s actual terrain. What a cool project.

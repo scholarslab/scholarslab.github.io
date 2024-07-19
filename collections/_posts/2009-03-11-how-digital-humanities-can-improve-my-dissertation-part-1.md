@@ -6,8 +6,8 @@ slug: how-digital-humanities-can-improve-my-dissertation-part-1
 title: Mining and Mapping Apocalyptic Texts, Part 1
 category: blog
 tags:
-- Visualization and Data Mining
-- Statistical Analysis
+- visualization and data mining
+- statistical analysis
 ---
 
 I have used computer technology to help my work in biblical interpretation for a while. I learned to do complex digital word searches with the Bibleworks software package early in my graduate career. When I started working at the Scholars’ Lab in the summer of 2006, I was introduced to digital humanities. I found these technologies fascinating. But how, I asked, could they help me interpret ancient religious texts in their original languages? I recently posed this question to some of my colleagues in the Scholars’ Lab and was pleasantly surprised by the answers. In this two-part blog, I will consider these answers in relation to my dissertation, which focuses on several passages in the Apostle Paul that speak of the final fate of humankind. Some of these passages suggest that all people will, in the end, be made right with God. Other passages suggest that some people will be permanently alienated from God. I wish to discover the central kernel of Paul’s thinking about the fate of humankind (called soteriology) that would make both of these statements true. In this first entry, I will focus on how I plan to use text-mining to enhance my ability to compare dozens of Greek, Hebrew, and Latin texts with each other more quickly and more thoroughly than I could manually. The second part will focus on how geographic information systems (GIS) will help me to place Paul’s writings in spatial relationships with other writings of the same time.

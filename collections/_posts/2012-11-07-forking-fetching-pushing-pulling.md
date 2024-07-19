@@ -6,10 +6,10 @@ slug: forking-fetching-pushing-pulling
 title: Forking, Fetching, Pushing, Pulling
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - code
-- praxis program
+- praxis
 - tutorial
 redirect_from:
   - /dh-developer/forking-fetching-pushing-pulling

@@ -6,9 +6,9 @@ slug: theatricality-of-motion-capture
 title: "Some Reflections on the Theatricality of Motion Capture"
 category: blog
 tags:
-- Research and Development
-- Grad Student Research
-- VR-AR
+- research and development
+- grad student research
+- vr-ar
 - motion capture
 - dance and theater
 ---

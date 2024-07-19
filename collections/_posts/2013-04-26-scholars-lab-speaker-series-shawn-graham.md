@@ -5,7 +5,7 @@ layout: post
 slug: scholars-lab-speaker-series-shawn-graham
 title: 'Scholars'' Lab Speaker Series: Shawn Graham'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

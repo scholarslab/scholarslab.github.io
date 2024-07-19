@@ -6,11 +6,11 @@ slug: lets-get-visual
 title: "Let's get visual."
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
-- Visualization and Data Mining
-- praxis program
-- Prism
+- grad student research
+- research and development
+- visualization and data mining
+- praxis
+- prism
 - visualization
 ---
 

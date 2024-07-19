@@ -5,7 +5,7 @@ layout: post
 slug: scholarly-communication-brown-bag-series-speaker-brian-nosek
 title: 'Scholarly Communication Brown Bag Series Speaker: Brian Nosek'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

@@ -6,7 +6,7 @@ slug: hide-and-seek-blacklights-smart-search-functionality
 title: 'Hide and Seek: Blacklight''s Smart Search Functionality'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 ---
 
 Bethany wrote [recently](http://scholarslab.lib.virginia.edu/index.php/digital-humanities/ada-lovelace-day/#more-56) in praise of Bess Sadler’s work on [Blacklight](http://blacklightopac.org/?page_id=2), and its recent [release](http://virgowww.lib.virginia.edu/) (as “VIRGObeta”). I’d like to offer my own (admittedly anecdotal, perhaps insignificant) praise.

@@ -6,9 +6,9 @@ slug: a-first-look
 title: A First Look
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
+- praxis
 ---
 
 On Friday, the design team made a few mock-ups of what we'd like Prism to look like. We started with some of the basic pages that the next version of prism will probably have, a homepage, a login pop-up, etc.

@@ -6,7 +6,7 @@ slug: prism-in-the-classroom-questions-to-frame-discussion
 title: 'Prism in the Classroom: Questions to Frame Discussion'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - prism
 - pedagogy
 crosspost:

@@ -6,10 +6,10 @@ slug: documenting-ivanhoe
 title: Documenting Ivanhoe
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - documentation
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 ---
 
 In preparation for our launch, Stephanie and I spent some time documenting Ivanhoe to help users navigate our site. For inspiration we visited [Neatline's website](http://docs.neatline.org/) because we felt that their documentation process was spectacular! Doing this was much more difficult than anticipated because I was trying to see the game from a person who had never heard of it before. While the technology is fairly intuitive (i.e. filling out fields is rather easy for most people familiar with WordPress) _why_ they want to fill out the fields gets back to the theoretical underpinnings of our game.

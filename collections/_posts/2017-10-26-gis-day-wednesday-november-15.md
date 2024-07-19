@@ -5,7 +5,7 @@ layout: post
 slug: gis-day-wednesday-november-15
 title: GIS Day - Wednesday, November 15
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 category: announcement
 ---
 

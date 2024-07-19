@@ -6,8 +6,8 @@ slug: a-simple-critique-of-tile
 title: A simple critique of TILE
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 I would like to echo Annie’s thought that I feel a little awkward critiquing DH projects of this kind given how new a lot of this is to me. I was drawn to T.I.L.E. as a user, and so while I may not yet be able to discuss the project’s inner workings, I can assess its usability. I cannot come up with any single idea that would improve the project other than that it must improve the exposition of how it works and what its purpose is. I will begin by listing a number of general mistakes that occur in the “Sandbox” version of the TILE tool:

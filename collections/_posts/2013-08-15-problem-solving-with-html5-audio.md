@@ -6,7 +6,7 @@ slug: problem-solving-with-html5-audio
 title: Problem Solving with HTML5 Audio
 category: blog
 tags:
-- Research and Development
+- research and development
 - audio
 - code
 ---

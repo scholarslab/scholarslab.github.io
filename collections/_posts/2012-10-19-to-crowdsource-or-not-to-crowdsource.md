@@ -6,8 +6,8 @@ slug: to-crowdsource-or-not-to-crowdsource
 title: To Crowdsource or Not To Crowdsource?
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Sneaking its way into many of our conversations of the last month and half has been a debate over the value of crowdsourcing.  Should we do it?  Is it useful?  My original intention with this post was to offer a defense of crowdsourcing as a valuable endeavor for academia.  While I still think that, ultimately, I am supportive of crowdsourcing or something similar, the fact that it has taken me two weeks of stops and starts to write this post speaks to my own struggles, doubts, and uncertainty about our project as a crowdsourcing project.  As I understand them, some of the concerns about crowdsourcing from our team are as follows:

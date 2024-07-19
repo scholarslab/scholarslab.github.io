@@ -6,7 +6,7 @@ slug: on-community-listening-2
 title: 'On Community Listening: 2'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 ---
 
 [Don't miss the [first part](http://www.scholarslab.org/digital-humanities/on-community-listening-1/) of Scholars' Lab graduate fellow Erik DeLuca's series on his project, continued here.]

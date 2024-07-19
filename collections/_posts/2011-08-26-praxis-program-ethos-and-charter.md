@@ -6,9 +6,9 @@ slug: praxis-program-ethos-and-charter
 title: Praxis Program Ethos and Charter
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 As Bethany already explained in her [last post](http://www.scholarslab.org/praxis-program/announcing-the-praxis-program/), the [Praxis Program](http://praxis.scholarslab.org) will give a few graduate students the opportunity to learn on-the-job in a humanities shop. The program centers around building a project, named Prism, for public use and critique. For the next academic year, students will work on that project, and in the process critically engage a host of activities we think vital for knowledge workers in the digital age.

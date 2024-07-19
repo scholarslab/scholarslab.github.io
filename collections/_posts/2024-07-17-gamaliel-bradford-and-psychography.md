@@ -6,7 +6,7 @@ slug: gamaliel-bradford-and-psychography
 title: "Gamaliel Bradford and Psychography"
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - cbw
 ---
 

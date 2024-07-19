@@ -6,7 +6,7 @@ slug: js-pagination
 title: "JS Pagination"
 category: blog
 tags:
-- Architectural History
+- architectural history
 - code
 - tutorial
 - web development

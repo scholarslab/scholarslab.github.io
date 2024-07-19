@@ -5,8 +5,8 @@ layout: post
 slug: hololens-guide
 title: "HoloLens 101: A New User’s Guide"
 tags:
-- Parents Fund 
-- VR-AR
+- parents fund 
+- vr-ar
 - tutorial
 ---
 

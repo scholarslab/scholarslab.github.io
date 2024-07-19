@@ -6,9 +6,9 @@ slug: faulty-format-or-user-error
 title: Faulty Format or User Error?
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
+- praxis
 ---
 
 As you've already learned from [Stephanie's post ](http://www.scholarslab.org/grad-student-research/turning-points-in-praxis-new-roles-wire-frames-and-programming-languages/) team delegates (Stephanie & Eliza) have been wireframing ideas for Ivanhoe since we've decided on creating a plugin for [WordPress](http://wordpress.org/). But before this happened, the entire team brainstormed the features that we would like to see included in our final product. As we became animated about our "must haves" (uploading visuals, URL linking, text options) - Bethany brought up a good point - WordPress already does all these things (Plugin not required!) Her statement got me thinking - for all of our desires to create "visual connections" - none of us do this! Perhaps some of the problem comes with the way WordPress is set up - for those of us who rarely notice here is a screen shot (click to make it larger):

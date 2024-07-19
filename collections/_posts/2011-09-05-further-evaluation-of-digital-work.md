@@ -6,8 +6,8 @@ slug: further-evaluation-of-digital-work
 title: Further Evaluation of Digital Work
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
  Although I feel a bit silly evaluating digital work when I’m still a comparative newbie to the DH world, I found that looking at these projects helped me not only improve my ability to imagine how projects could be altered to suit different purposes, but also understand what sort of features or documentation I would like us to incorporate in our own project.  In general, I’m a big believer in explicit instructions, and wherever possible, an explanation of why the project is important.  I also prefer projects that can be accessed/used in multiple ways (For Better For Verse), but I also like projects that have a single but incredible clear purpose that is easy to follow (What's on the Menu).

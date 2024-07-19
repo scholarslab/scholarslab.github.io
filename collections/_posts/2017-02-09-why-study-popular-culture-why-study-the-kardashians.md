@@ -6,9 +6,9 @@ slug: why-study-popular-culture-why-study-the-kardashians
 title: Why Study Popular Culture? Why Study the Kardashians?
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Dash-Amerikan
+- grad student research
+- praxis
+- dash-amerikan
 - media studies
 ---
 

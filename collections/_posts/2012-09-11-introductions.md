@@ -6,8 +6,8 @@ slug: introductions
 title: Introductions
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Hello All,

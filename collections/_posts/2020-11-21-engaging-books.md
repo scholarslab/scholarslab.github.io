@@ -6,11 +6,11 @@ slug: engaging-books
 title: A Workshop about Engaging Books
 category: blog
 tags:
-- Grad Student Research
-- Bibliography
-- Workshop
+- grad student research
+- bibliography
+- pedagogy
 - literature
-- Praxis program
+- praxis
 ---
 
 “The pictures are what made this book so memorable to me. When I finally got my hands on this new copy, re-reading it transported me back to my childhood. Even the colors were spot on in my memory. I could predict each next page even before I turned it. It almost felt more like a moving memory, not just a story. Because reading that book was an experience that hasn’t left me yet.” 

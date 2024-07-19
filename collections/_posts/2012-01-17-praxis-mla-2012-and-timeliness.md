@@ -6,8 +6,8 @@ slug: praxis-mla-2012-and-timeliness
 title: Praxis, MLA 2012 and timeliness
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 I'm finally settling back into my C'ville routine. My last stop this winter break was the MLA convention in Seattle. Like many of my colleagues, I also felt that "[the MLA’s heart (like a post-holiday Grinch) grew at least three sizes over the four days of the 2012 conference](http://publishing.umich.edu/2012/01/16/mpub-mla/)." While last year echoed [a prominent informer](http://chronicle.com/blogs/brainstorm/pannapacker-at-mla-digital-humanities-triumphant/30915)'s assessment that DH was "the next big thing" with anxiety, this year felt more like "Hey, I like that. How do I do it?" This was especially a good year for those in the business of [rethinking the future of graduate methods training](http://www.uvasci.org/current-work/) (ahem, ahem) and of [graduate futures in general](http://mediacommons.futureofthebook.org/alt-ac/). Needless to say, I felt really great about being part of the first cohort of [Praxis](http://praxis.scholarslab.org).

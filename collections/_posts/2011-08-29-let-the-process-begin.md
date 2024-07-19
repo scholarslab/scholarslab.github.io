@@ -6,9 +6,9 @@ slug: let-the-process-begin
 title: 'Let the process begin:'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 Hello, digital universe! (You’ll have to excuse my childlike enthusiasm; this is all fairly new to me.)

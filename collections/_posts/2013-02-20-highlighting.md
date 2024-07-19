@@ -6,9 +6,9 @@ slug: highlighting
 title: Highlighting (some design proposals for Prism)
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- praxis program
+- praxis
 - prism
 ---
 

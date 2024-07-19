@@ -6,7 +6,7 @@ slug: timr-optimizing-web-requests
 title: 'timr: Optimizing Web Requests'
 category: blog
 tags:
-- Research and Development
+- research and development
 - web development
 ---
 

@@ -6,9 +6,9 @@ slug: music-theory-in-ruby
 title: Music Theory in Ruby
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - music
-- praxis program
+- praxis
 - code
 ---
 

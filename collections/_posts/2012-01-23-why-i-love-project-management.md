@@ -6,9 +6,9 @@ slug: why-i-love-project-management
 title: Why I love project management
 category: blog
 tags:
-- Grad Student Research
-- praxis program
-- Prism
+- grad student research
+- praxis
+- prism
 - project-management
 ---
 

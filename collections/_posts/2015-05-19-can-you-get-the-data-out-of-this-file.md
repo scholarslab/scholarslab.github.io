@@ -6,7 +6,7 @@ slug: can-you-get-the-data-out-of-this-file
 title: Can you get the data out of this file?
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 - code
 - tutorial
 ---

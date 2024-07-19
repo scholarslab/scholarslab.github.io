@@ -6,8 +6,8 @@ slug: building-dwelling-coding
 title: Building, Dwelling, Coding
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

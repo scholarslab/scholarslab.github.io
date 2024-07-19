@@ -6,9 +6,9 @@ slug: dancing-with-ruby
 title: Dancing with Ruby
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - dance
-- praxis program
+- praxis
 - code
 ---
 

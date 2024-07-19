@@ -6,7 +6,7 @@ slug: pandora-and-the-genes-of-music-genres
 title: Pandora and the "genes" of music genres
 category: blog
 tags:
-- Visualization and Data Mining
+- visualization and data mining
 ---
 
 Hello, it’s been a while since I blogged. You may remember me as the music Ph.D. student who was last heard from pondering the uses of Google Scholar. I’m on a new mission this semester, studying for my comprehensive exams.  One of the topics I am researching and preparing an essay on is about genre in popular music. The concept may seem initially so self-evident, you may wonder what there is to write about it, per se. Oh, but there’s lots. This is because the issue of genre always involves the issue of classification, which inherently provokes debate. Take, for instance, a star performer like Beck. His music often includes acoustic guitar, and he’s covered Mississippi John Hurt. So he must be a folkie. Oh wait, but he also apes Prince on some funky jams. So maybe he’s a pop star. But he also headlines a bunch of big rock festivals, and we find his music in the “Rock” section at the record store (wait, what’s a record store?). So I guess we’ll call him a rocker.

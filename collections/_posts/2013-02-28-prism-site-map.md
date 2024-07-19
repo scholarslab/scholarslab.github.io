@@ -6,10 +6,10 @@ slug: prism-site-map
 title: Prism Site Map
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - design
-- praxis program
+- praxis
 ---
 
 The design team got together again this week and we have mocked up a map of how the site will proceed.  Those who are interested can see it here: [prismmap](http://static.scholarslab.org/wp-content/uploads/2013/02/prismmap.pdf)

@@ -6,7 +6,7 @@ slug: customizing-bash
 title: Customizing Bash
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 - tutorial
 ---

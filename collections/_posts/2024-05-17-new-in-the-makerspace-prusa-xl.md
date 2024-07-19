@@ -7,7 +7,7 @@ title: "New in the Makerspace: Prusa XL"
 category: announcement
 tags:
 - makerspace
-- 3D printing
+- 3d printing
 ---
 
 ![](/assets/post-media/2024-05-17-xl/2024-05-17-xl1.JPG)

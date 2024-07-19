@@ -6,9 +6,9 @@ slug: matrix-time
 title: matrix time
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - praxis prism
-- praxis program
+- praxis
 ---
 
 _From a recent e-mail exchange between Praxis team members._

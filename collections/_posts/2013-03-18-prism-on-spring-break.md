@@ -6,11 +6,11 @@ slug: prism-on-spring-break
 title: Prism on Spring Break
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - design
-- praxis program
-- Prism
+- praxis
+- prism
 - visualization
 ---
 

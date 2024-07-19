@@ -6,8 +6,8 @@ slug: make-it-work
 title: Make it Work!
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

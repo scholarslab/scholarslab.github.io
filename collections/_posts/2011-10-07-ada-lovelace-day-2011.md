@@ -6,8 +6,8 @@ slug: ada-lovelace-day-2011
 title: Ada Lovelace Day 2011
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 On this [Ada Lovelace Day](http://findingada.com), I'm looking forward and back.  Here's my full post in honor of [humanities computing pioneer Susan Hockey](http://nowviskie.org/2011/ada-lovelace-day-susan-hockey/) (where you can also find links to past years' posts on Johanna Drucker, Bess Sadler, and Leah Buechley). But I'm also spending today feeling appreciative of the a fantastic group of young women -- emerging humanities and social science scholars, technologists, and cultural heritage or scholarly communications workers -- with whom we've been privileged to collaborate in the SLab.  

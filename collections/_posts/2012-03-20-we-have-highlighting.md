@@ -6,10 +6,10 @@ slug: we-have-highlighting
 title: We Have Highlighting!
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - code
-- praxis program
-- Prism
+- praxis
+- prism
 ---
 
 We have reached an important milestone in Prism development; the highlighting functionality is now complete! A user can now color a given text in accordance with a series of categories and then submit the markings to the database! The user clicks on a category on the right-hand side of the page to select that category, and can then mark up the text.  To mark the text, the user can either click on each word individually or drag over the text and all the words the cursor touches will be marked in that category. We also have an eraser function that lets the user delete any markings! Just click the eraser and then click on the word you want to unhighlight!

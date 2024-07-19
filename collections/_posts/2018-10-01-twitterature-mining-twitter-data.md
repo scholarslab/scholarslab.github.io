@@ -6,9 +6,9 @@ slug: twitterature-mining-twitter-data
 title: 'Twitterature: Mining Twitter Data'
 category: blog
 tags:
-- Geospatial and Temporal
-- Grad Student Research
-- Visualization and Data Mining
+- geospatial and temporal
+- grad student research
+- visualization and data mining
 - social media
 ---
 

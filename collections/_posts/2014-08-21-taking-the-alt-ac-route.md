@@ -6,7 +6,7 @@ slug: taking-the-alt-ac-route
 title: Taking the Alt-Ac Route
 category: blog
 tags:
-- Research and Development
+- research and development
 - alt-ac
 ---
 

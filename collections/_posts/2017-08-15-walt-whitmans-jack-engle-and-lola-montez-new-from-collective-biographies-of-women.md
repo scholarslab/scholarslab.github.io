@@ -7,9 +7,9 @@ title: 'Walt Whitman''s Jack Engle and Lola Montez: New from Collective Biograph
   of Women'
 category: blog
 tags:
-- Research and Development
+- research and development
 - literature
-- CBW
+- cbw
 ---
 
 ![170px-Walt_Whitman,_steel_engraving,_July_1854](http://pages.shanti.virginia.edu/CBW_Blog/files/2017/08/170px-Walt_Whitman_steel_engraving_July_1854.jpeg)

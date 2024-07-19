@@ -6,9 +6,9 @@ slug: overlapping-anxieties
 title: overlapping anxieties
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 - code
 ---
 

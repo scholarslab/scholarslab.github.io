@@ -6,7 +6,7 @@ slug: the-digital-disembodiment-of-black-women-on-tiktok
 title: The Digital Disembodiment Of Black Women On Tiktok
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - social media
 - race
 ---

@@ -6,7 +6,7 @@ slug: prism-news-heroku-and-llc
 title: Prism News - Heroku and LLC
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - prism
 crosspost:
   - title: my personal site

@@ -5,7 +5,7 @@ layout: post
 slug: digital-therapy-cesaire-and-hawthorne
 title: 'Digital Therapy: Cesaire and Hawthorne'
 tags:
-- Podcasts
+- podcast
 - speaker series
 category: announcement
 ---

@@ -5,7 +5,7 @@ layout: post
 slug: neogeography-from-tower-to-town-hall
 title: 'Neogeography: from Tower to Town Hall'
 tags:
-- Podcasts
+- podcast
 - speaker series
 category: announcement
 ---

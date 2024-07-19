@@ -6,7 +6,7 @@ slug: why-do-we-trust-automated-tests
 title: Why do we trust automated tests?
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 crosspost:
   - title: dclure.org

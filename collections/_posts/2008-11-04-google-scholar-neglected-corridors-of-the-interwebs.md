@@ -6,7 +6,7 @@ slug: google-scholar-neglected-corridors-of-the-interwebs
 title: 'Google Scholar:  Neglected Corridors of the Interwebs'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - hello world
 ---
 

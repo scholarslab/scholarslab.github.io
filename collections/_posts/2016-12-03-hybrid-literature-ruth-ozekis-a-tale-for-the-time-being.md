@@ -7,7 +7,7 @@ title: 'Hybrid Literature: Ruth Ozeki’s A Tale for the Time Being'
 category: blog
 tags:
 - literature
-- Grad Student Research
+- grad student research
 ---
 
 As a scholar of contemporary literature, I have naturally been drawn to the incredible literary innovation that has exploded in the wake of digital developments. I’m certainly not alone in my interest, and critics such as Katherine Hayles, Marie-Laure Ryan, Wolfgang Hallet, and Jan-Noël Thon have discussed the role of new media in literary studies, including video games, hypertext fiction, and comic books. Yet here I want to focus on contemporary writers who have begun exploiting new technologies in even more subtle ways, using technology as a means of supplementing more traditional printed books. More specifically, these texts employ a “both-and” approach, relying upon traditional publishing platforms (no matter how international the dissemination) while including new media elements that extend beyond print to reach the burgeoning generation of digital readers. Such works range from Indra Sinha’s online stories and sketches that extend the fictional world of his _Animal’s People_ to Ali Smith’s incorporation of images and “Google poems” in _Artful_ and David Mitchell’s creation of a live Twitter account for one of his characters in _Slade House_. Even as these hybrid texts experiment with new technologies and print platforms, so do they use new technology for the purposes of publishing and branding, in order to reach a different audience, and as a means of developing a new, innovative aesthetic. So let’s look more closely at one of these hybrid texts in particular, namely, Ruth Ozeki’s 2013 novel, _A Tale for the Time Being_.

@@ -5,7 +5,7 @@ layout: post
 slug: scholars-lab-speaker-series-alan-liu
 title: 'Scholars'' Lab Speaker Series: Alan Liu'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

@@ -6,8 +6,8 @@ slug: inktober-105-three-sketches
 title: 'Inktober 10/5: Three Sketches'
 category: blog
 tags:
-- Grad Student Research
-- ClockWork
+- grad student research
+- clockwork
 crosspost:
   - title: my post on our Praxis page
     url: http://praxis.scholarslab.org/blog/2015/10/05/inktober-10-5-three-sketches/

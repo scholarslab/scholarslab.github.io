@@ -7,7 +7,7 @@ slug: omeka-timeline-plugin
 title: Omeka Timeline Plugin
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 - tutorial
 - omeka

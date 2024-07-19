@@ -6,8 +6,8 @@ slug: report-from-the-rails-trenches
 title: report from the rails trenches
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - code
 ---
 

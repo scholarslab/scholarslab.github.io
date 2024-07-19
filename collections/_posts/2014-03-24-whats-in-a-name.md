@@ -6,10 +6,10 @@ slug: whats-in-a-name
 title: 'What''s in a name? '
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - design
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 ---
 
 The week before spring break Zach and I pitched two different design strategies for Ivanhoe. [See [Zach's post](http://www.scholarslab.org/digital-humanities/an-ivanhoe-design-idea/) on a Medieval-themed design.] As part of the pitch we each designed an informational website that we could apply to the game,  but I also was trying to convince our team that we should change our name. Why? Well, even though Ivanhoe has positive associations with an existing community, I felt that the name did not convey how our game is designed to function. Also, by changing our name we were engaging in a meta-learning experience - essentially playing Ivanhoe with the name Ivanhoe! By giving Ivanhoe a new name I did not want us to abandon the old, but rather taking the original spirit of Ivanhoe, make new connections and create something new. _

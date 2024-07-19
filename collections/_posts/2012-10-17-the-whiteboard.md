@@ -6,8 +6,8 @@ slug: the-whiteboard
 title: The Whiteboard
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 This is what the whiteboard in the grad lounge looks like this week.

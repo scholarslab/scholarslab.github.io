@@ -6,7 +6,7 @@ slug: neatline-drawing-svg-on-maps
 title: Neatline Feature Preview - Importing SVG documents from Adobe Illustrator
 category: blog
 tags:
-- Research and Development
+- research and development
 - neatline
 - omeka
 crosspost:

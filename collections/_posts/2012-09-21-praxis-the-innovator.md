@@ -6,9 +6,9 @@ slug: praxis-the-innovator
 title: 'Praxis: The Innovator'
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 In addition to getting a crash course in [html and css](http://praxis.scholarslab.org/topics/html-and-css/), we’ve spent our time in the fellows’ lounge this week actually putting some prose together for our charter.  One of the great things about this process has been the way in which working on the charter has actually provided a platform for us to get to know each other and to begin to have a number of other important conversations.  Will we continue with Prism?  Who is Prism for: academics, researchers, teachers, the entire web-surfing public?  Is it possible to address the needs of all the disciplines we collectively represent in this project?

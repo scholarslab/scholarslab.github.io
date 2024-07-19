@@ -5,7 +5,7 @@ layout: post
 slug: speaker-series-dr-guoping-huang
 title: 'Speaker Series: Dr. Guoping Huang'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

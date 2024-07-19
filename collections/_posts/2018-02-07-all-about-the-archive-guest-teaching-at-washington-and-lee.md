@@ -6,7 +6,7 @@ slug: all-about-the-archive-guest-teaching-at-washington-and-lee
 title: 'All About the Archive: Guest Teaching at Washington and Lee'
 category: blog
 tags:
-- WLU Collab
+- wlu collab
 - pedagogy
 crosspost:
   - title: WLUDH blog

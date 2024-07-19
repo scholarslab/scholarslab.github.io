@@ -5,7 +5,7 @@ layout: post
 slug: kathleen-fitzpatrick-planned-obsolescence
 title: 'Kathleen Fitzpatrick: Planned Obsolescence'
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

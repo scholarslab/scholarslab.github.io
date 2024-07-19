@@ -6,10 +6,10 @@ slug: css-victory
 title: "CSS Victory!"
 category: blog
 tags:
-- Grad Student Research
-- Research and Development
+- grad student research
+- research and development
 - design
-- praxis program
+- praxis
 - code
 ---
 

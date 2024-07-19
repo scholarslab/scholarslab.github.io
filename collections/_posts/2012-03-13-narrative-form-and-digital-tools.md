@@ -5,7 +5,7 @@ layout: post
 slug: narrative-form-and-digital-tools
 title: Narrative Form and Digital Tools
 tags:
-- Podcasts
+- podcast
 category: announcement
 ---
 

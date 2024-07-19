@@ -6,8 +6,8 @@ slug: facing-the-demon
 title: Facing the Demon
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 I mentioned in [my last blog post](http://www.scholarslab.org/praxis-program/highlighting-limitations/) that many of our recent debates have been about how to productively limit Prism, but I don't think I realized how difficult that would be until I had the transparencies and highlighters in front of me last Tuesday. We started the exercise with Alex's selection from Plato's Allegory of the Cave and his parameters were something like, "Mark for allegories of the self, politics, and economics." I completely blanked. I've read the Allegory of the Cave before, but I kept wanting to ask Alex to define the parameters more clearly or asking Bethany what we're allowed to do, for example: "Can we highlight margins?"; "Can we highlight something twice?"; Or in Ed's selection of images, "Should we be looking at the captions under the images?" All of these questions either went unanswered as part of the exercise or were promptly answered by a cryptic shrug from Bethany. That's when I fully understood how frighteningly open Prism is to interpretation, not only the crowdsourced interpretation of texts  uploaded to Prism, but our personal interpretation of what Prism is and should do. I think that's why I tend to lean towards limiting Prism as much as possible while we're still defining what it is. The sky _is_ the limit at this stage as we imagine what Prism can become (when it grows up), but we need one clearly defined use of Prism to begin to build it.

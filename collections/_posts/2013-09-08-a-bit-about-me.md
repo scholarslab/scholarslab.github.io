@@ -6,8 +6,8 @@ slug: a-bit-about-me
 title: A bit about me
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Hello readers! My name is Francesca Tripodi, and I am one of the 2013/2014 Praxis Fellows at UVa. I come to academia from a more circuitous route. Unlike many graduate students that I meet, I didn't realize that I wanted to be in academia until much later in life. As a student at the Annenberg School at the University of Southern California my immediate interests were working in media. But after an extremely fulfilling internship at Fox Cable Networks Group, I caught the travel bug and took off to Australia where I spent six months backpacking "down under" followed by a month exploring New Zealand and month in Thailand. When I returned to The States, I yearned for a more global metropolis and spent the better part of my twenties working in Washington, DC.

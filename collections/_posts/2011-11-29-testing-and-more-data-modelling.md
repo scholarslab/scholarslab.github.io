@@ -6,8 +6,8 @@ slug: testing-and-more-data-modelling
 title: Testing and More Data Modelling
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Now that we've spent a few weeks focusing on wireframing, we're back to working on the data model.  We haven't actually created the models in rails yet, but we have started redesigning it, and it makes much more sense the second time around.  Currently, we're adding a user model, renaming all the other models, combining the "TextDoc" and "ImgDoc" models into a new model called "PrismObject," and adding a "Page" model.  We'll post our next version here when it's ready.

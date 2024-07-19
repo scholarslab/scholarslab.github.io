@@ -8,7 +8,7 @@ slug: putting-the-humanities-phd-to-work-efforts-at-uva
 title: "Putting The Humanities Phd To Work: Efforts At UVA"
 category: blog
 tags:
-- Pedagogy
+- pedagogy
 - professional development
 - labor
 crosspost:

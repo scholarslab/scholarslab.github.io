@@ -10,8 +10,8 @@ category: blog
 tags:
 - fabric arts
 - expansive makerspace
-- 3D Printing
-- Research and Development
+- 3d printing
+- research and development
 - makerspace
 - makerspace
 ---

@@ -5,7 +5,7 @@ layout: post
 title: Paranormal Maptivity. GIS Workshops That Are Scary Fun.
 slug: gis-workshops-spring-2023
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 category: announcement
 ---
 

@@ -6,7 +6,7 @@ slug: dh-dev-picks
 title: DH Dev Picks
 category: blog
 tags:
-- Research and Development
+- research and development
 - web development
 ---
 

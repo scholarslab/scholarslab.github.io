@@ -6,8 +6,8 @@ slug: thinking-through-doing-while-losing-my-marbles
 title: Thinking Through Doing While Losing My Marbles
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Last Monday, at the suggestion of our Scholars' Lab mentors, the Praxis cohort divided into two teams to start wire-framing some of our ideas for the Ivanhoe Game. The initial thought was to divide into groups along a theoretical Type I/Type II DH divide, as identified by [Stephen Ramsay](http://stephenramsay.us/2013/05/03/dh-one-and-two/). Many of us Praxers, however, are not absolutely committed to one or the other DH type, thereby throwing a bit of a wrench into that plan. So instead, we decided that we'd try wire-framing two versions of the Ivanhoe Game with no particular constrictions – not even feasibility.

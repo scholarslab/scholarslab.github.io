@@ -6,7 +6,7 @@ slug: wordpress-pharma-hack
 title: WordPress Pharma Hack
 category: blog
 tags:
-- Research and Development
+- research and development
 - web development
 ---
 

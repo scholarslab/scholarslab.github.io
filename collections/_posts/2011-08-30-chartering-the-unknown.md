@@ -6,9 +6,9 @@ slug: chartering-the-unknown
 title: Chartering the Unknown
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - charter
-- praxis program
+- praxis
 ---
 
 Like [Alex](http://www.scholarslab.org/praxis-program/owning-up-the-praxis-program/), I’m excited for what seems to be a true shop-apprentice approach to learning [this whole list](http://praxis.scholarslab.org/) of skills, methods, and programs. Before I came to UVa I held a few jobs with a company that hired people based on general knowledge and potential rather than specific technical know-how, and I learned to use new technological tools as my responsibility increased with each position. While I assume we’re accepted to graduate school not for our current knowledge but for our potential to do great work later on, the generally ability v. specific skills parallel doesn’t quite work for a field in which the product is criticism, scholarly writing, or humanistic knowledge (whatever that is). But DH refigures or even expands the endpoints of humanistic inquiry and allows for different forms of education and training along the way. Somebody decided I have the potential for insightful literary analysis, and I’m glad the kind folks in the SLab have decided there’s hope for me to add some technical and managerial tools to my professional toolkit. But it's also quite new and difficult to have to draft a charter for a project I know almost nothing about so far. How much will the knowledge and skills we gain through the Praxis Program's weekly workshops change our ideas about  self-governance and credit?

@@ -6,9 +6,9 @@ slug: wireframing-fun
 title: Wireframing fun
 category: blog
 tags:
-- Grad Student Research
-- Ivanhoe
-- praxis program
+- grad student research
+- ivanhoe
+- praxis
 ---
 
 Over the last week Stephanie, Eliza, and I (with significant help from Jeremy) have been putting together a wireframe of our product. Partaking in this process has been so exciting and I've learned a few key concepts:

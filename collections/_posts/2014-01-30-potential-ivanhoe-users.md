@@ -5,8 +5,8 @@ layout: post
 slug: potential-ivanhoe-users
 title: Help us design the Ivanhoe Game!
 tags:
-- Ivanhoe
-- praxis program
+- ivanhoe
+- praxis
 - games
 category: announcement
 ---

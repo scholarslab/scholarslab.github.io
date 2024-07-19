@@ -5,7 +5,7 @@ layout: post
 slug: gis-workshops-fall-2020
 title: GIS Workshops for Fall 2020, We're Going Virtual
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 category: announcement
 ---
 

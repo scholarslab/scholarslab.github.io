@@ -6,9 +6,9 @@ slug: not-joking
 title: Not Joking
 category: blog
 tags:
-- Grad Student Research
+- grad student research
 - prism
-- praxis program
+- praxis
 ---
 
 Conventional wisdom holds that nothing is quite as [un-funny](http://www.youtube.com/watch?v=RZ6KWfZz4BY) as a joke explained. I was reminded of this last week when I felt compelled to explain to a class of 18-22-year-old music theory students why [d-minor is the saddest of all keys](http://www.youtube.com/watch?v=NgViOqGJEvM).

@@ -6,7 +6,7 @@ slug: theming-neatline-exhibits
 title: Creating themes for individual Neatline exhibits
 category: blog
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 - neatline
 - omeka
 ---
@@ -61,7 +61,7 @@ Use **`style.css`** to add custom CSS to the exhibit. Neatline loads this as the
 
 Use **`script.js`** to add custom Javascript interactions to the page. Again, these can be as simple or complex as needed. The Neatline front-end application is a big chunk of code, and it's a bit beyond the scope of this article to really dive into the API in detail. The gist of it, though, is that Neatline is structured as a bunch of little mini-applications, called "modules," that communicate with one another using a [pub-sub](http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging system, powered by the superb [EventAggregator component in the Marionette framework](https://github.com/marionettejs/backbone.wreqr#event-aggregator).
 
-The cool thing about this architecture is that snippets of code in the **`script.js`** file can hook directly into this messaging system and interact with Neatline just as if they were included in the core codebase - Neatline literally won't know the difference. There's really no limit to what you could do here - the entire Neatline editing environment, for instance, is implemented as a single module (containing lots and lots of nested sub-modules), and could theoretically be grafted onto Neatline completely inside of an exhibit theme. This makes it possible to wrap up a Neatline exhibit in pretty much any kind of interface without having to modify the internals.
+The cool thing about this architecture is that snippets of code in the **`script.js`** file can hook directly into this messaging system and interact with Neatline just as if they were included in the core codebase - neatline literally won't know the difference. There's really no limit to what you could do here - the entire Neatline editing environment, for instance, is implemented as a single module (containing lots and lots of nested sub-modules), and could theoretically be grafted onto Neatline completely inside of an exhibit theme. This makes it possible to wrap up a Neatline exhibit in pretty much any kind of interface without having to modify the internals.
 
 That said, in most cases you'll probably just need a few little snippets to add in some visual bells and whistles, or to manage complex layout tasks that are tough to accomplish in CSS. For example, here are a few snippets I used in the [Project Gemini over Baja California](http://dclure.org/logs/project-gemini-over-baja-california/) project:
 

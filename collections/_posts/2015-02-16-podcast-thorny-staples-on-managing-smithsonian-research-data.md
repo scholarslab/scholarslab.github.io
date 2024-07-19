@@ -5,8 +5,8 @@ layout: post
 slug: podcast-thorny-staples-on-managing-smithsonian-research-data
 title: 'Podcast: Thorny Staples on Managing Smithsonian Research Data'
 tags:
-- Events
-- Podcasts
+- event
+- podcast
 category: announcement
 ---
 

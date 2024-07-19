@@ -6,8 +6,8 @@ slug: scholars-lab-and-chnm-partner-on-omeka-neatline
 title: Scholars' Lab and CHNM Partner on "Omeka + Neatline"
 category: blog
 tags:
-- Geospatial and Temporal
-- Visualization and Data Mining
+- geospatial and temporal
+- visualization and data mining
 - gis
 - neatline
 - omeka

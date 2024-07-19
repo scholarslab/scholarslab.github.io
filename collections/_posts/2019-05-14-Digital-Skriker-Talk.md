@@ -6,8 +6,8 @@ slug: 2019-05-14-Digital-Skriker-Talk
 title: "Digital Skriker: New Directions for Archival Practices and Performance"
 category: blog
 tags:
-- Grad Student Research
-- VR-AR
+- grad student research
+- vr-ar
 - dance and theater
 - motion capture
 ---

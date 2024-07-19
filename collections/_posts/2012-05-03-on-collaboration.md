@@ -6,8 +6,8 @@ slug: on-collaboration
 title: On Collaboration
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 - about-collaboration-community
 ---
 

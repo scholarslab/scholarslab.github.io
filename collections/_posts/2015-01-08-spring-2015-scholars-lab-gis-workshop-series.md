@@ -5,7 +5,7 @@ layout: post
 slug: spring-2015-scholars-lab-gis-workshop-series
 title: Spring 2015 Scholars’ Lab GIS Workshop Series
 tags:
-- Geospatial and Temporal
+- geospatial and temporal
 category: announcement
 ---
 
@@ -31,7 +31,7 @@ Need to make a quick demographic map or religious adherence?  This workshop wil
 
 Would you like to map the poverty in Philadelphia around the turn of the 20th Century?  How about a racial breakdown by state in the 1860s?  This workshop will focus on how to download historic census boundary and tabular data to make historic demographic maps.
 
-**March 4th - Learning Old-School Mapping Techniques**
+**March 4th - learning experience Old-School Mapping Techniques**
 
 How did folks make maps before GPS and satellite imagery?  In this workshop we’ll focus on plane table mapping.  Using just a flat surface, a sheet of paper, a straight edge, and a pencil we’ll learn techniques to create accurate maps for large geographic areas.   With plane table mapping, if you can see it, you can map it.  This technique can be particularly helpful to researchers such a biologists working in small areas under heavy tree canopy where GPS fails.
 

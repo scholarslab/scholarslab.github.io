@@ -7,8 +7,8 @@ title: 'Outside the Pipeline: From Anecdote to Data'
 category: blog
 tags:
 - alt-ac
-- Praxis Network
-- Scholarly Communication Institute
+- praxis network
+- scholarly communication institute
 - professional development
 crosspost:
   - title: SCI's website

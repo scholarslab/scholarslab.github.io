@@ -6,7 +6,7 @@ slug: todo-introduce-code-concepts
 title: //TODO - Introduce Code Concepts
 category: blog
 tags:
-- Research and Development
+- research and development
 - code
 ---
 

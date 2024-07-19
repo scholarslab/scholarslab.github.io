@@ -5,8 +5,8 @@ layout: post
 slug: wayne-graham-leader-of-lemmings
 category: blog
 tags:
-- Grad Student Research
-- praxis program
+- grad student research
+- praxis
 ---
 
 Last week from 2-4pm we jumped into a new field with the assistance of Wayne Graham. The same Wayne that has designed many of our exercises was stuffed into a corduroy jacket with leather elbow-patches and asked to do something very difficult: teach the Praxis group how to implement Rails. I want to take this opportunity to describe the challenges set before an instructor attempting to get our group up to speed.
