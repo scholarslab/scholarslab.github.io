@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - wlu collab
-- dance and theater and theater
+- - dance and theater
 - pedagogy
 - prism
 - text analysis

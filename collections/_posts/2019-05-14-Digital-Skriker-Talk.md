@@ -8,7 +8,7 @@ category: blog
 tags:
 - grad student research
 - vr-ar
-- dance and theater and theater
+- - dance and theater
 - motion capture
 ---
 In this post I share my slides and notes from my recent Scholars’ Lab talk on my Digital Skriker Project. This presentation discussed the performance possibilities, theoretical cruxes, and technical difficulties of using motion capture and augmented reality technologies in theatrical performance. My project, Digital Skriker, explores how these increasingly accessible technologies might change both the ways we think about documenting and archiving movement and the kinds of immersive and interactive performances theater artists are able to create. The talk traced the process of rendering a scene from Caryl Churchill’s The Skriker (1994) in Unity, relating the various challenges that arose to the kinds of technical and aesthetic questions frequently considered by theater artists. How do the capabilities of motion capture enable us to blur boundaries between performance, film, archive, and game?

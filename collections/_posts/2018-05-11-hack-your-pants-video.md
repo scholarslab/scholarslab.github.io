@@ -3,12 +3,11 @@ author: ammon-shepherd
 date: 2018-05-11 16:15:48+00:00
 layout: post
 slug: hack-your-pants-video
-title: "Hack your pants - video"
+title: "'Hack your pants' video"
 category: blog
 tags:
 - makerspace
 - fun
-- video
 - tutorial
 - fabric arts
 - expansive makerspace
