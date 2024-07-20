@@ -14,7 +14,7 @@ There are tons of resources for customizing how your command line looks and work
 
 What follows are some small changes I made to my command line today, that I thought might be useful to others. These work if you, like me, are using a Mac, and Applications > Utilities > Terminal app as your command line tool.
 
-![Screenshot of the author's command line app, showing the prompt now contains a rainbow emoji](/assets/post-media/2024-07-20_small-command-line-customizations.png)
+![Screenshot of the author's command line app, showing the prompt now contains a rainbow emoji](https://github.com/scholarslab/scholarslab.org/blob/master/assets/post-media/2024-07-20_small-command-line-customizations.png)
 
 ## Colors & tidiness
 **terminal > settings > profiles**
