@@ -1,0 +1,88 @@
+---
+layout: page
+title: News Blog
+pagination:
+  enabled: true
+permalink: /blog/
+nav: true
+regenerate: true
+redirect_from:
+  - /archives
+---
+
+<!-- need to alter to only pull in posts without announcement nor update types? or no, bc then no one sees announcements—instead, either make this a separate research blog only page for under scholarship; or keep together but use tag pills to emphasize essays (and maybe only show excerpts from essays?) -->
+<p>This page collects our most recent posts of all kinds, including announcements, quick activity update, and research essays.</p>
+
+<!-- post layout: -->
+{% for post in site.posts limit:4 %}
+	{% capture authorstring %}
+		{% include author-name.html authorid=post.author %}
+	{% endcapture %}
+	<article class="post">
+		<header>
+			<hgroup>
+				<!-- updates have no page links, so checks category before displaying -->
+				<!-- no slash in href b/c included in post.url -->
+				{% if post.category != "update" %}
+					<h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h2>
+				{% else %}
+					<h2>Lab Activity Update: {{ post.title }}</h2>				
+				{% endif %}
+			</hgroup>
+		</header>
+		<div class="content">
+			<!-- updates have no author and should use full content not excerpt, so checks category before displaying -->
+			<!-- # Summary from YAML, or 1st 25 words of post content. -->
+			{% if post.category != "update" %}
+				{% if post.summary %}
+					{{ post.summary | smartify }}
+					{% else %}
+					{{ post.content | strip_html | truncatewords: 25 | markdownify }}
+				{% endif %}
+				</div>
+				<footer class="byline">
+					<div class="author">
+             	    {{ authorstring | strip }}
+               	   </div>
+				<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+				</footer>
+			{% else %}
+				{{ post.content | strip_html | markdownify }}
+				</div>
+				<footer class="byline">
+				<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+				</footer>
+			{% endif %}		
+	</article>
+{% endfor %} <!-- end post -->
+
+<section id="previous_posts">
+<h2>Previous Posts</h2>
+<ul class="page-previous_posts">
+{% for post in site.posts offset:4 %}
+	{% if post.author %}
+		{% capture authorstring %}
+			{% include author-name.html authorid=post.author %}
+		{% endcapture %}
+	{% endif %}
+	{% assign currentdate = post.date | date: "%Y" %}
+	{% if currentdate != date %}
+		{% unless forloop.first %}</ul>{% endunless %}
+		<h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
+		<ul>
+		{% assign date = currentdate %}
+	{% endif %}
+	{% if post.category != "update" %}
+		<li><a href="{{ post.url }}">"{{ post.title }}"</a> by {{ authorstring | strip }}</li>
+	{% else %}
+		<li><a href="{{ post.url }}">Lab Activity Update: {{ post.title }}</a></li>	
+	{% endif %}
+	{% if forloop.last %}
+		</ul>
+	{% endif %}
+{% endfor %}
+</ul>
+
+		</div> <!-- end gallery -->
+	</div> <!-- end main content -->
+</div> <!-- end wrapper -->

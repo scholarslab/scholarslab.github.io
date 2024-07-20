@@ -51,8 +51,6 @@ primary-navigation:
   - label: "About"
     url: "about"
     subnavigation:
-      - label: "FAQ"
-        url: "faq"
       - label: "People"
         url: "people"
       - label: "Charter"
@@ -87,7 +85,7 @@ primary-navigation:
       - label: "Our Projects"
         url: "our-projects"
       - label: "Research Blog"
-        url: "blog"
+        url: "research-blog"
   - label: "Visit"
     url: "visit"
     subnavigation:
@@ -95,11 +93,11 @@ primary-navigation:
         url: "use-the-lab"
       - label: "Use the Makerspace"
         url: "makerspace"
-  - label: "Events"
+  - label: "News/Events"
     url: "events"
     subnavigation:
-      - label: "News"
-        url: "news"
+      - label: "News Blog"
+        url: "blog"
       - label: "Newsletters"
         url: "newsletters"
         

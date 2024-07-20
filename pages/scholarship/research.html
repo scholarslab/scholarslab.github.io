@@ -3,17 +3,16 @@ layout: page
 title: Research Blog
 pagination:
   enabled: true
-permalink: /blog/
+permalink: /research-blog/
 nav: true
 regenerate: true
-redirect_from:
-  - /archives
 ---
 
-<!-- need to alter to only pull in posts without announcement nor update types? or no, bc then no one sees announcements—instead, either make this a separate research blog only page for under scholarship; or keep together but use tag pills to emphasize essays (and maybe only show excerpts from essays?) -->
+<p>Our scholarly writing, from rough new ideas to polished arguments. Scholars’ Lab team and collaborators write about their research, teaching, and learning.</p>
 
 <!-- post layout: -->
 {% for post in site.posts limit:4 %}
+{% if post.category == "blog" %}
 	{% capture authorstring %}
 		{% include author-name.html authorid=post.author %}
 	{% endcapture %}
@@ -40,12 +39,14 @@ redirect_from:
 				<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
 			</footer>
 	</article>
+{% endif %}
 {% endfor %} <!-- end post -->
 
 <section id="previous_posts">
 <h2>Previous Posts</h2>
 <ul class="page-previous_posts">
 {% for post in site.posts offset:4 %}
+{% if post.category != "update" %}
 	{% capture authorstring %}
 		{% include author-name.html authorid=post.author %}
 	{% endcapture %}
@@ -58,6 +59,7 @@ redirect_from:
 	{% endif %}
     <li><a href="{{ post.url }}">"{{ post.title }}"</a> by {{ authorstring | strip }}</li>
 	{% if forloop.last %}</ul>{% endif %}
+{% endif %}
 {% endfor %}
 </ul>
 
