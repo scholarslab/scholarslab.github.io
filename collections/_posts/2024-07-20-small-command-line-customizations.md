@@ -10,7 +10,11 @@ tags:
 - code
 ---
 
-There are tons of resources for customizing how your command line looks and works, including [SLab Senior Developer Shane Lin](/people/shane-lin)'s CodeLab curriculum's [resource on environment setup](https://github.com/scholarslab/CodeLab/blob/master/Week01/environment_setup.md), [command line glossary](https://github.com/scholarslab/CodeLab/blob/master/Week01/commandline.md), and the surrounding ["Week 1: Introduction to CodeLab"](https://github.com/scholarslab/CodeLab/tree/master/Week01) lesson; and the [Oh My Zsh tool](https://ohmyz.sh/).
+There are tons of resources for customizing how your command line looks and works, including:
+
+* [SLab Senior Developer Shane Lin](/people/shane-lin)'s CodeLab curriculum's [resource on environment setup](https://github.com/scholarslab/CodeLab/blob/master/Week01/environment_setup.md), [command line glossary](https://github.com/scholarslab/CodeLab/blob/master/Week01/commandline.md), and the surrounding ["Week 1: Introduction to CodeLab"](https://github.com/scholarslab/CodeLab/tree/master/Week01) lesson;
+* the [Oh My Zsh tool](https://ohmyz.sh/) for easy appearance and function customization; and
+*  Tracy Osborn's [Really Friendly Command Line Intro zine](https://hellowebbooks.com/learn-command-line/) (free, but requires signing up for free site account to access e-reading and/or PDF download)
 
 What follows are some small changes I made to my command line today, that I thought might be useful to others. These work if you, like me, are using a Mac, and Applications > Utilities > Terminal app as your command line tool.
 
