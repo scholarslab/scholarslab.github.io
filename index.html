@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<section id="recent-activity" class="feature">
+<section id="updates" class="feature">
     <div id="upcoming-events">
         <h2>Upcoming Events</h2>
         <ul>
@@ -18,7 +18,7 @@ title: Home
     </div>
     <div id="recent-posts">
         <h2>Recent Blog Posts</h2>
-        <ul>           
+        <ul>
 			{% for post in site.posts limit:4 %}
 				{% if post.category != "update" %}
             		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -27,7 +27,7 @@ title: Home
         </ul>
         <p><a href="/blog/">See all our blog posts</a>.</p>
     </div>
-    <div id="recent-posts">
+    <div id="recent-activity">
         <h2>Recent Activity</h2>
 		<ul>
 		{% for post in site.categories.update limit:3 %}
@@ -95,35 +95,30 @@ title: Home
     </figure>
 </section>
 
-<section class="feature">
+<section class="feature" id="lab-space-and-makerspace">
+    <h2>Lab Space & Makerspace</h2>
     <div>
-        <h2>Lab Space & Makerspace</h2>
         <h3>THE LAB</h3>
         <p>The Scholars’ Lab includes staff offices, co-working areas, an event
             space, a VR immersion space (<< LINK #tk), and data processing
-                workstations. Appointments are encouraged if you want to meet a
-                particular staff member or ensure access to specific equipment
-                (<< Reservation info LINK #tk), though the space itself is open
-                whenever Shannon Library is open.</p>
-                <h3>THE LAB'S MAKERSPACE</H3>
-                <p>The Makerspace is a place for tinkering and experimentation
-                    with technologies like circuitry, 3D printing, and laser
-                    cutting. Open to everyone, we specialize in applications and
-                    research questions in the humanities and arts. The
-                    Makerspace staff provides consultation and instruction
-                    whenever the Makerspace is open, or by appointment. Please
-                    drop in, or send inquiries to <a
-                        href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>.
-                </p>
-        </p>
+            workstations. Appointments are encouraged if you want to meet a
+            particular staff member or ensure access to specific equipment
+            (<< Reservation info LINK #tk), though the space itself is open
+            whenever Shannon Library is open.</p>
     </div>
-    <figure>
-        <img src="" alt="">
-        <figcaption></figcaption>
-        </img>
-    </figure>
+    <div>
+        <h3>THE LAB'S MAKERSPACE</H3>
+        <p>The Makerspace is a place for tinkering and experimentation
+            with technologies like circuitry, 3D printing, and laser
+            cutting. Open to everyone, we specialize in applications and
+            research questions in the humanities and arts. The
+            Makerspace staff provides consultation and instruction
+            whenever the Makerspace is open, or by appointment. Please
+            drop in, or send inquiries to <a
+                href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>.</p>
+    </div>
 </section>
-<section class="feature">
+<section id="digital-humanities-code-design" class="feature">
     <div>
         <h2>Digital Humanities Code + Design</h2>
         <p>We provide research and teaching consultation on a variety of digital
@@ -138,7 +133,7 @@ title: Home
         <figcaption></figcaption>
     </figure>
 </section>
-<section class="feature">
+<section id="spatial-technologies" class="feature">
     <div>
         <h2>Spatial Technologies</h2>
         <p>We've got experts in mapping, GIS data, cultural heritage laser
@@ -155,7 +150,7 @@ title: Home
         </img>
     </figure>
 </section>
-<section class="feature">
+<section id="fellowships-and-training" class="feature">
     <div>
         <h2>Fellowships + Training</h2>
         <p>We support the work of emerging scholars and digital humanities
