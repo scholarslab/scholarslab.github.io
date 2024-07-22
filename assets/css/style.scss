@@ -189,31 +189,18 @@ body.post #main article header:first-of-type
 
 section.feature {
 	display:flex;
-	flex-direction: row;
+	flex-direction: column;
 	flex-wrap: nowrap;
 	min-height: 400px;
+	padding: 0 1rem;
+	background: rgba(0,0,0,0.125);
 
 	&:nth-child(even) {
-		flex-direction: row-reverse;
+		background: rgba($blue-alt, 0.125);
 	}
 
-	div {
-		width:50%;
-		padding: 2rem;
-		display: flex;
-		justify-content: center;
-		flex-direction: column;
-	}
-
-	&#recent-activity {
-		min-height: auto;
-		div {
-			justify-content: flex-start;
-		}
-	}
 	figure {
 		display:block;
-		width: 50%;
 		background: rgba($brand-blue, .25);
 		margin:0;
 		padding:0;
@@ -227,6 +214,41 @@ section.feature {
 			position:absolute;
 			bottom:0;
 			left:0;
+		}
+	}
+
+	@media screen and (min-width: 700px) {
+		padding: 0;
+		flex-direction: row;
+
+		&#updates {
+			min-height: auto;
+			div {
+					justify-content: flex-start;
+			}
+		}
+		&:nth-child(even) {
+			flex-direction: row-reverse;
+		}
+
+		div {
+			display: flex;
+			flex:1;
+			flex-direction: column;
+		}
+
+		figure {
+			flex:1;
+		}
+	}
+
+	&#lab-space-and-makerspace {
+		flex-wrap: wrap;
+		h2 {
+			width: 100%;
+		}
+		div:not(:first-child) {
+			flex: 1;
 		}
 	}
 
