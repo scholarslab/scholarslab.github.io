@@ -11,7 +11,7 @@ slug: amanda-visconti
 status: current
 website: http://www.AmandaVisconti.com
 people-category:
-- director
+- staff
 roles:
 - staff
 ---
