@@ -92,27 +92,12 @@ img {
 #scholarslab-header {
 	padding: 0.5rem 2rem 2rem;
 	background-color: rgba($blue-alt,0.5);
-
-	@media screen and (min-width: 700px) {
-		// display:flex;
-		// flex-direction: row;
-		// justify-content: left;
-		// flex-wrap:nowrap;
-	}
-
-	p {
-		margin:0;
-	}
-
+	position: relative;
 }
 
 #slab-logo {
-	display:block;
 	color: white;
 	text-decoration:none;
-	font-size: 1.2rem;
-	font-weight: 700;
-	padding: 0.5rem 0;
 }
 
 /* Navigation */
@@ -306,6 +291,7 @@ section.feature {
 		color: white;
 		outline:none;
 		border:none;
+		font-size: 1.5rem;
 	}
 
 	.menu-toggle {}
@@ -321,7 +307,7 @@ section.feature {
 	button {
 	  flex: 1 1;
 	  justify-content: space-between;
-	  gap: var(--am-nav-link-padding-x, 1rem);
+	  gap: var(1rem, 1.5rem);
 	}
 
 	.dropdown-toggle {
@@ -371,12 +357,29 @@ section.feature {
 
 	nav {
 		flex-direction: row;
+		flex-wrap:nowrap;
+		justify-content: space-between;
+		align-content: flex-start;
+		padding:0;
 		> ul,
 		> ul.hide {
 		  display: flex !important;
 		  flex-direction: row;
-		  justify-content: flex-start;
+		  justify-content: space-between;
+
+		  li {
+			position: relative;
+			padding: 0 0 0 0.5rem;
+			ul {
+				position: absolute;
+				top: 100%;
+				left:0;
+				padding-left:0 !important;
+			  }
+		  }
+
 		}
+
 
 	}
   }
