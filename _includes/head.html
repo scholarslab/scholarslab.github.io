@@ -28,12 +28,17 @@
   {% endfor %}
   {% endif %}
 
+
   <!-- UVA Branding Fonts -->
   <link href="https://use.typekit.net/tca4szh.css" rel="stylesheet">
   <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
   <link rel="stylesheet" type="text/css" href="{{ "assets/css/print.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}/">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+  <!-- JavaScript Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/accessible-menu/dist/top-link-disclosure-menu.iife.js"></script>
+
 
   <!--  favicon -->
 

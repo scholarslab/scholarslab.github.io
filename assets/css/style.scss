@@ -2,6 +2,12 @@
 ---
 /* Variables */
 :root {
+
+	/* Accessible Menu variables */
+	--am-interactive-min-height: 44px;
+	--am-interactive-min-width: 44px;
+
+	/* Brand Fonts */
 	--franklin-gothic-urw: franklin-gothic-urw, Arial, sans-serif;
 	--franklin-gothic-urw-comp: franklin-gothic-urw-comp, Arial, sans-serif;
 	--franklin-gothic-urw-cond: franklin-gothic-urw-cond, Arial, sans-serif;
@@ -94,15 +100,6 @@ img {
 		// flex-wrap:nowrap;
 	}
 
-	.home & {
-		min-height: 30vh;
-
-		hgroup {
-			align-self:flex-end;
-		}
-
-	}
-
 	p {
 		margin:0;
 	}
@@ -116,12 +113,9 @@ img {
 	font-size: 1.2rem;
 	font-weight: 700;
 	padding: 0.5rem 0;
-
-	.home & {
-		font-size: 3rem;
-	}
 }
 
+/* Navigation */
 #global-navigation {
 	text-align: left;
 }
@@ -130,15 +124,6 @@ img {
 	list-style:none;
 	margin-left:0;
 	padding-left:0;
-
-	// @media screen and (min-width: 700px) {
-	// 	display:flex;
-	// 	flex-direction: row;
-	// 	flex-wrap: nowrap;
-	// }
-}
-
-#global-navigation > ul li {
 }
 
 #global-navigation ul ul {
@@ -291,3 +276,107 @@ section.feature {
 	}
 
 }
+
+  nav {
+
+	ul {
+	  display: none;
+	  flex-direction: column;
+	  list-style: none;
+	  padding: 0;
+	  width: 100%;
+	  min-width: max-content;
+	}
+
+	li {
+		position: relative;
+		padding: 0;
+		min-width: min-content;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+	}
+
+	button {
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: none;
+		color: white;
+		outline:none;
+		border:none;
+	}
+
+	.menu-toggle {}
+
+	a {
+		display:flex;
+		align-items: center;
+		text-decoration:none;
+		min-width: var(--am-interactive-min-width);
+	}
+
+	a,
+	button {
+	  flex: 1 1;
+	  justify-content: space-between;
+	  gap: var(--am-nav-link-padding-x, 1rem);
+	}
+
+	.dropdown-toggle {
+	  &::after {
+		display: flex;
+		content: "▾";
+		align-items: center;
+		justify-content: center;
+		transition: transform 300ms ease;
+	  }
+	  flex-shrink: 1;
+	  flex-grow: 0;
+	  &[aria-expanded="true"]::after {
+		transform: rotate(-180deg);
+	  }
+	}
+
+	.dropdown-menu {
+	}
+  }
+
+  .hide {
+	display: none !important;
+  }
+
+  .show {
+	display: flex !important;
+	opacity: 1;
+  }
+
+  .transitioning {
+	display: flex !important;
+	opacity: 0;
+  }
+
+  @media screen and (min-width: 800px) {
+	.menu-toggle {
+	  display: none;
+	}
+
+	#scholarslab-header {
+		display:flex;
+		flex-direction: row;
+		flex-wrap:nowrap;
+		justify-content: space-between;
+	}
+
+	nav {
+		flex-direction: row;
+		> ul,
+		> ul.hide {
+		  display: flex !important;
+		  flex-direction: row;
+		  justify-content: flex-start;
+		}
+
+	}
+  }

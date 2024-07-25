@@ -8,14 +8,15 @@
     <p>Experiment in Community</p>
     {% endif %}
     </hgroup>
-    <nav id="global-navigation">
-        <ul role="menubar">
+    <nav id="global-navigation" aria-label="Website Navigation">
+        <button class="menu-toggle">☰</button>
+        <ul class="dropdown-menu">
             {% for nav in site.primary-navigation %}
-            <li role="none"><a role="menuitem" class="{{ nav.label | slugify }}" href="{{ site.baseurl }}/{{
-            nav.url }}">{{ nav.label }}</a>
-                <ul>
+            <li class="dropdown"><a class="{{ nav.label | slugify }}" href="{{ site.baseurl }}/{{
+            nav.url }}">{{ nav.label }}</a><button class="dropdown-toggle" aria-label="{{ nav.label }} submenu"></button>
+                <ul class="dropdown-menu">
                     {% for subnav in nav.subnavigation %}
-                    <li role="none"><a role="menuitem" href="{{ site.baseurl }}/{{subnav.url }}">{{
+                    <li><a href="{{ site.baseurl }}/{{subnav.url }}">{{
                     subnav.label }}</a></li>
                     {% endfor %}
                 </ul>
