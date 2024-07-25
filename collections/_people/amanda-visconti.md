@@ -5,8 +5,8 @@ first_name: Amanda Wyatt
 last_name: Visconti
 layout: people
 title: Amanda Wyatt Visconti
-position: Managing Director
-short_bio: "As Managing Director, Amanda Wyatt Visconti co-directs the Scholars’ Lab: pursuing our mission by setting strategic and daily practices, and supporting our expert staff and students through advocacy, mentorship, and policy development."
+position: Director
+short_bio: "As Director, Amanda Wyatt Visconti leads the Scholars’ Lab's vision and rsearch strategy, operations, and staff."
 slug: amanda-visconti
 status: current
 website: http://www.AmandaVisconti.com
@@ -16,7 +16,7 @@ roles:
 - staff
 ---
 
-Dr. Amanda Wyatt Visconti (they/them) is Managing Director of the Scholars' Lab. They hold a Literature Ph.D. from the University of Maryland focused on the digital humanities and textual scholarship, and an M.S. in Information from the University of Michigan focused on DH and human-computer interaction. They have also worked as a professional web developer for over a decade, with specialization in online knowledge-building communities, meaningful crowdsourcing websites, and reading/annotation interfaces. 
+Dr. Amanda Wyatt Visconti (they/them) is Director of the Scholars' Lab. They hold a Literature Ph.D. from the University of Maryland focused on the digital humanities and textual scholarship, and an M.S. in Information from the University of Michigan focused on DH and human-computer interaction. They have also worked as a professional web developer for over a decade, with specialization in online knowledge-building communities, meaningful crowdsourcing websites, and reading/annotation interfaces. 
 
 Amanda currently contributes to the scholarship of experimental and digital humanities policy and practice, bringing both critical-practical approaches to infrastructure and community design underlying scholarly innovation. They are an enthusiastic blogger, both on their [LiteratureGeek.com](https://literaturegeek.com) blog and on [the Scholars' Lab blog](https://Scholarslab.org/blog), as well as a popular speaker and advisor for institutions exploring digital and expermental scholarship initiatives.
 
