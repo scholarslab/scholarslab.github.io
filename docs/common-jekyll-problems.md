@@ -21,3 +21,5 @@ Enter `gem install bundler` to update to Bundler 2 (`sudo gem install bundler` i
 <internal:/Users/wyatt/.rubies/ruby-3.2.2/lib/ruby/site_ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require': cannot load such file -- webrick (LoadError)`
 
 Solution: `bundle add webrick`
+
+6. When nothing is working, note you can delete your gemfile.lock (NOT your gemfile), build the site locally, and it'll rebuild the gemfile.lock (sometimes fixing issues)
