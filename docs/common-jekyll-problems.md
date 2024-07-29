@@ -1,5 +1,6 @@
 *Please add problems you've run into here, even if you don't remember the solution!*
 
+## Problems & how we solved them
 1. `Your Ruby version is 2.0.0, but your Gemfile specified 2.4.1` (or other versions = your version is a lower number)  
 Your Ruby version is too old? Enter the following at the command line and press enter: `brew upgrade ruby`  
 Note! This process may cause you to have a similar-looking but *different* error message by updating your version of Ruby *past* the version specified in your Gemfile. See 1b below if so.
@@ -22,5 +23,16 @@ Enter `gem install bundler` to update to Bundler 2 (`sudo gem install bundler` i
 
 * Solution: `bundle add webrick`
 
-7. Try adding `--trace` to the command to build and run the site locally, to get more output about what's going wrong. This would look like: `bundle exec jekyll serve --trace`
-8. When nothing is working, note you can delete your gemfile.lock (NOT your gemfile), build the site locally, and it'll rebuild the gemfile.lock (sometimes fixing issues)
+## If nothing is working
+1. Try adding `--trace` to the command to build and run the site locally, to get more output about what's going wrong. This would look like: `bundle exec jekyll serve --trace`
+2. You can delete (maybe move a copy somewhere else than the site folder, rather than delete?) your gemfile.lock (NOT your gemfile); build the site locally; and it'll rebuild the gemfile.lock (sometimes fixing issues). You may need to run bundle install to reinstall things as part of this.
+3. You can try this process, which helps if there's something weird in one of your hidden site files (e.g. GH history, caches, Gemfile.lock) causing the site breakage. 
+* Make a copy of your current site folder somewhere else as a backup (e.g. on your desktop).
+* Then, install a new clean jekyll site (`jekyll new your-new-site-name`) in a different folder from your current site folder (e.g. inside your GitHub folder).
+* Check that you can locally build/run that new clean site.
+* Then, start pasting in pieces of your broken site (except do *not* copy/paste these folders/files: /_site, /.git, .gitattributes, /.github, /.jekyll-cache, /.sass-cache ), stopping and restarting the build/serve each time to see what breaks things (if anything).
+* If something you paste in breaks the site, you know where to focus on troubleshooting before pasting in more of your site.
+* If none of this breaks the new site, once you've copied over everything (except those files I listed to not copy), you're ready to replace where GitHub looks for your site. In the GH desktop app, right-click and remove the connection to your site's file folder.
+* Delete your old site folder (this is why we made a backup e.g. on your desktop, at the start of these steps, just in case something goes wrong during this process).
+* Clone the site to your computer via GH desktop app again.
+* Copy everything in the new Jekyll site you created (which had all your old site stuff pasted in), and paste it into the new clone of your site (replacing any files it tells you are duplicates). This makes GH have your working site files, without the hidden files tracking GH history and caches that can mess things up. Push the site to the repo.
