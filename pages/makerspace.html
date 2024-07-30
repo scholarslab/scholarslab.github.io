@@ -8,298 +8,565 @@ nav: true
 order: 3
 ---
 
+<style>
+  .makerspace__resources {
+    grid-area: resources;
+  }
+  .makerspace__map {
+    grid-area: map;
+  }
+  .makerspace__hours {
+    grid-area: hours;
+  }
+  .makerspace__mission {
+    grid-area: mission;
+  }
+  .makerspace__vision {
+    grid-area: vision;
+  }
+  .makerspace-main-content {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "map"
+      "hours"
+      "mission"
+      "vision"
+      "resources"
+      "people";
+    padding: 2% 8.33%;
+  }
+  div[class^="maker-resource__"] {
+    padding: 20px;
+    margin: 10px 0;
+  }
+  .maker-resource__content {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    column-gap: 8.33%;
+    padding: 20px;
+    gap: 10px;
+  }
+  .maker-resource__content li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 4px;
+  }
+  /* On mouse-over, add a deeper shadow */
+  .maker-resource__content li:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .makerspace__resources img {
+    padding: 12px;
+    max-height: 150px;
+    width: auto;
+  }
+  .maker-resource__content li .equipment_name {
+    width: 100%;
+    text-align: center;
+    padding: 12px;
+    font-weight: bolder;
+    background-color: #5bd7de;
+    border-radius: 0px 0px 4px 4px;
+  }
+  .maker-resource__content li .equipment_name:hover {
+    color: #fff;
+  }
+
+  @media screen and (min-width: 768px) {
+    .makerspace-main-content {
+      grid-template-columns: 1fr 1fr;
+      column-gap: 2.2%;
+      grid-template-areas:
+        "map map"
+        "hours hours"
+        "mission vision"
+        "resources resources"
+        "people people";
+    }
+  }
+  @media screen and (min-width: 1050px) {
+    .makerspace-main-content {
+      grid-template-columns: 1fr 1fr;
+      column-gap: 2.2%;
+      grid-template-areas:
+        "map hours"
+        "mission vision"
+        "resources resources"
+        "people people";
+    }
+    .maker-resource__content {
+      flex-flow: row wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: space-around;
+      gap: 18px;
+    }
+  }
+  @media screen and (min-width: 1150px) {
+    .makerspace__vision {
+      padding-left: 8.33%;
+    }
+  }
+  @media screen and (min-width: 1400px) {
+    .makerspace-main-content {
+      column-gap: 2.2%;
+      grid-template-areas:
+        "map hours"
+        "map mission"
+        "map vision"
+        "resources resources"
+        "people people";
+    }
+  }
+  .makerspace-landing-grid {
+    grid-auto-rows: minmax(30vh, auto);
+    background-image: linear-gradient(
+      to bottom,
+      #000,
+      #000 30vh,
+      #fff 30vh,
+      #fff
+    );
+  }
+  .maker-landing__big-title {
+    height: 30vh;
+  }
+  .banner {
+    border: 5px solid #00ffff;
+    padding: 20px;
+  }
+  #mysched_41069 {
+    background: #702dbe;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    color: #ffffff;
+    font: 14px Arial, Helvetica, Verdana;
+    padding: 8px 20px;
+    cursor: pointer;
+  }
+
+  #mysched_41069:hover,
+  #mysched_41069:active,
+  #mysched_41069:focus {
+    opacity: 0.9;
+  }
+  #eq_0 {
+    background: #702dbe;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    color: #ffffff;
+    font: 14px Arial, Helvetica, Verdana;
+    padding: 8px 20px;
+    cursor: pointer;
+  }
+  #eq_0:hover,
+  #eq_0:active,
+  #eq_0:focus {
+    opacity: 0.9;
+  }
+  #lasercutter-materials, .other-links {
+    list-style-type: disc !important;
+    margin: 0 8.33% !important;
+  }
+  .darker-background {
+    background-color: rgb(183, 249, 255);
+    border-radius: 10px;
+  }
+  .lighter-background {
+    background-color: #eee;
+    border-radius: 10px;
+  }
+</style>
+
 <div class="makerspace-landing-grid">
   <div class="maker-landing__big-title">
     <div class="maker-title__text">Makerspace</div>
   </div>
-  <div class="maker-landing__pics">
-    <div></div>
-    <div></div>
-    <div></div>
-    <!--img src="http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-1024x682.jpg" alt="Partially assembled Sparkfun Inventor&#039;s Kit, with an Arduino board, breadboard, and soldering iron" srcset="http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/09/makerspace7.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px">
-    <img src="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-1024x682.jpg" alt="Details of Makerbot Replicator printer" srcset="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace6.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px">
-    <img
-    src="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-1024x682.jpg"
-    alt="The Makerspace printer desk" srcset="http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-1024x682.jpg 1024w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4-300x200.jpg 300w, http://static.scholarslab.org/wp-content/uploads/2014/05/makerspace4.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"-->
-  </div>
 </div>
 
 <div class="makerspace-main-content">
-  <div class="makerspace__ethos">
-    <div class="banner" style="border: 5px solid #00FFFF; padding: 20px;">
-      <h2>New Location!</h2>
-      <p>The Scholars&rsquo; Lab and the Makerspace (formerly TinkerTank) have
-      moved back to the Edgar Shannon Library (formerly Alderman), 3rd Floor.</p>
-      <p>Look to our <a
-          href="https://scholarslab.lib.virginia.edu/events/">events page</a> 
-      for upcoming workshops and events!</p>
-      <p><img
-      src="/assets/img/makerspace/3rd-floor.png"
-      alt="The Makerspace is located on the 3rd floor, East Wing, in the South
-      end of the wing." >
-      <h2>Newsletter!</h2>
-      <p>Subscribe to the monthly <a href="http://eepurl.com/hXIWCb">Makerspace newsletter</a>!</p>
+  <div class="makerspace__map">
+    <div class="banner">
+      <h2>Location</h2>
+      <p>
+        The Scholars&rsquo; Lab Makerspace is on the 3rd floor of Edgar Shannon
+        Library.
+      </p>
+      <p>
+        <img
+          src="/assets/img/makerspace/3rd-floor.png"
+          alt="The Makerspace is located on the 3rd floor, East Wing, in the South
+      end of the wing."
+        />
+      </p>
     </div>
   </div>
 
   <div class="makerspace__hours">
-    <div id="makerspace-hours" class="maker-hours__title">Open Hours and Access</div>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
-    <script src="https://cal.lib.virginia.edu/js/hours_grid.js?002"></script> 
-    <div id="s-lc-whw2093"></div> 
+    <div id="makerspace-hours" class="maker-hours__title">
+      Open Hours and Access
+    </div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cal.lib.virginia.edu/js/hours_grid.js?002"></script>
+    <div id="s-lc-whw2093"></div>
     <script>
-      $(function(){ 
-        var week2093= new $.LibCalWeeklyGrid( $("#s-lc-whw2093"), { iid: 863, lid: 2093, systemTime: false }); 
-      });
-    </script> 
+      $(function () {
+        var week2093 = new $.LibCalWeeklyGrid($("#s-lc-whw2093"), {
+          iid: 863,
+          lid: 2093,
+          systemTime: false,
+        })
+      })
+    </script>
 
-    <p>The Makerspace staff provides consultations and instruction for all your
-    electronics, crafting, textiles, laser cutting, and 3D printing projects <a
-    href="https://www.library.virginia.edu/hours/">whenever the Makerspace is open</a>, or by appointment. Please drop in, or send inquiries to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>. </p>
+    <p>
+      The Makerspace staff provides consultations and instruction for all your
+      electronics, crafting, textiles, laser cutting, and 3D printing projects
+      <a href="https://www.library.virginia.edu/hours/"
+        >whenever the Makerspace is open</a
+      >, or by appointment. Please drop in, or send inquiries to
+      <a href="mailto:slabmakerspace@virginia.edu"
+        >slabmakerspace@virginia.edu</a
+      >.
+    </p>
 
     <p>Or schedule a consultation with Ammon, manager of our Makerspace.</p>
 
-    <style>
-      #mysched_41069 {
-        background: #702dbe;
-        border: 1px solid #CCCCCC;
-        border-radius: 4px;
-        color: #ffffff;
-        font: 14px Arial, Helvetica, Verdana;
-        padding: 8px 20px;
-        cursor: pointer;
-      }
-
-      #mysched_41069:hover,
-      #mysched_41069:active,
-      #mysched_41069:focus {
-        opacity: 0.9;
-      }
-    </style>
     <script>
-      jQuery.getScript("https://cal.lib.virginia.edu/js/myscheduler.min.js", function () {
-        jQuery("#mysched_41069").LibCalMySched({ iid: 863, lid: 0, gid: 0, uid: 41069, width: 560, height: 680, title: 'Make an Appointment - ', domain: 'https://cal.lib.virginia.edu' });
-      });
+      jQuery.getScript(
+        "https://cal.lib.virginia.edu/js/myscheduler.min.js",
+        function () {
+          jQuery("#mysched_41069").LibCalMySched({
+            iid: 863,
+            lid: 0,
+            gid: 0,
+            uid: 41069,
+            width: 560,
+            height: 680,
+            title: "Make an Appointment - ",
+            domain: "https://cal.lib.virginia.edu",
+          })
+        }
+      )
     </script>
     <!-- Place the following link anywhere in your page. Make sure the id "mysched_41069" matches with the above code: jQuery("#mysched_41069")  //-->
     <button id="mysched_41069" href="#">Schedule Appointment</button>
     <!-- Below is optional button styling  //-->
-  </div>
-
-
-  <div class="makerspace__vision">
-    <div class="maker-vision__title">Vision</div>
-    <div class="maker-vision__text">
-      <p>The Scholars&rsquo; Lab Makerspace is strategically situated within the UVA
-        Library to be open, provide a low barrier of entry to making, and be a helpful
-        resource of information, technology and support. The space invites all
-        people, and proactively encourages those in underrepresented academic
-        studies, ethnicities, genders, economic classes and skill levels to come,
-        learn, make, and be empowered to improve their education, research, and
-        community. The Makerspace is an active participant in academic research
-        through independent and collaborative work with scholars to explore,
-        understand, and report on emerging technologies, methodologies and
-        pedagogies in a variety of disciplines.
-      </p>
-
-    </div>
+    <h2>Newsletter!</h2>
+    <p>
+      Subscribe to the monthly
+      <a href="http://eepurl.com/hXIWCb">Makerspace newsletter</a>!
+    </p>
   </div>
 
   <div class="makerspace__mission">
     <div class="maker-mission__title">Mission</div>
     <div class="maker-mission__text">
-      <p>All humans are dreamers, creators, and achievers. Our mission is to
-        provide the place, the tools, and the support to empower people to dream,
-        create, and achieve.</p>
+      <p>
+        All humans are dreamers, creators, and achievers. Our mission is to
+        provide the place, the tools, and the support to empower people to
+        dream, create, and achieve.
+      </p>
     </div>
   </div>
 
-  <div class="makerspace__usage">
-    <div class="maker-usage__title">Using the Makerspace</div>
-    <div class="maker-usage__content">
-      <!-- split internally per prototype drawing -->
-      <p>The Makerspace is open to all UVA students, staff and faculty, 
-        regardless of department, major, academic or personal interests, 
-        or any other characteristic. We hope you will find the equipment, 
-        resources and support to help you MAKE anything (within reason) 
-        you want to make.</p>
-        <p>You can stop in any time during our open hours, or contact us at <a
-           href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>
-        to schedule an appointment with a Makerspace Technologist or
-        Scholars&rsquo; Lab staff to discuss your project.</p>
-        <p>We love working with faculty to support class projects! Send your requests 
-          and ideas to our Makerspace Manager, Ammon Shepherd, at 
-          <a href="mailto:ammon@virginia.edu">ammon@virginia.edu</a></p>
-
-      
-      <div class="maker-inventory__subtitle">
-        <p>Use the <a id="equipment-btn" href="https://cal.lib.virginia.edu/equipment?lid=264">Library
-          Equipment Reservation site</a> to reserve equipment.</p>
-      </div>
-
-      <h3>Textiles</h3>
-      <p>We have two Bernina 350 Series sewing machines and a Juki MO-644D serger available for reservation or walk-in use.</p>
-
-      <h3>3D Printing</h3>
-      <p>We have four <a href="https://en.wikipedia.org/wiki/Fused_filament_fabrication">FFF</a> style printers and one <a href="https://en.wikipedia.org/wiki/Stereolithography">Resin (SLA)</a> printer available for reservation. To use the printers, you can come in during open hours for in-person training and on-the-spot reservation. In order to reserve printers for future use, you will need to complete an on-line certification. The on-line certification is forthcoming, so the only way to use the 3D printers for now is to come in during open hours and speak with a Technologist to reserve a printer after in-person training.</p>
-      
-      <p>3D printing is still available through the <a href="https://www.library.virginia.edu/services/3d-printing/">3D Printing Studio</a> in the Robertson Media Center in Clemons Library. To use the printers there, you need to complete an <a href="https://www.library.virginia.edu/services/3d-printing/">online training</a>, then reserve a 3D printer during their <a href="https://www.library.virginia.edu/hours">open hours</a>. Email <a href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a> with any questions. </p>
-      
-      <p>The 3D printers are completely different from each other in each space, so training on 3D Printing Studio printers does not automatically grant access to the Makerspace printers, although the on-line training is similar.</p>
-
-      <h3>Laser Cutting</h3>
-      <p>Our laser cutter is not yet available. We'll update this page as soon as installation and training process is complete.</p>
-      <!-- <p>We have a Universal VLS 6.75 laser cutter available for reservation. To use the laser cutter, you must <a href="https://youtu.be/2fp6pSZoJ9Q?feature=shared&t=85">watch this video</a> to learn the process of using a laser cutter. (We use the same laser cutter as the A School Fablab, but watching the) After watching the video, you will receive an in-person training before you can reserve and use the laser cutter.</p> -->
+  <div class="makerspace__vision">
+    <div class="maker-vision__title">Vision</div>
+    <div class="maker-vision__text">
+      <p>
+        The Scholars&rsquo; Lab Makerspace is strategically situated within the
+        UVA Library to be open, provide a low barrier of entry to making, and be
+        a helpful resource of information, technology and support. The space
+        invites all people, and proactively encourages those in underrepresented
+        academic studies, ethnicities, genders, economic classes and skill
+        levels to come, learn, make, and be empowered to improve their
+        education, research, and community. The Makerspace is an active
+        participant in academic research through independent and collaborative
+        work with scholars to explore, understand, and report on emerging
+        technologies, methodologies and pedagogies in a variety of disciplines.
+      </p>
     </div>
   </div>
-
 
   <div class="makerspace__resources">
-    <div class="maker-resources__title">Resources</div>
-    <h3 id="workshop-links">Workshops</h3>
-    <p>Sign up for our events and workshops on the <a id="equipment-btn" href="https://cal.lib.virginia.edu/calendar/events?cid=4299&t=d&d=0000-00-00&cal=4299&ct=46484&inc=0">Library Calendar</a></p>
+    <div class="maker-inventory__title">Makerspace Resources</div>
+    <h3>Using the Makerspace</h3>
+    <div class="maker-usage__content">
+      <p>
+        The Makerspace is open to all UVA students, staff and faculty,
+        regardless of department, major, academic or personal interests, or any
+        other characteristic. We are also open to the general public. We hope
+        you will find the equipment, resources and support to help you MAKE
+        anything (within reason) you want to make. Everything in the space is free for you to use including 3D printer filament, resin, cloth, etc.
+      </p>
+      <p>
+        You can stop in any time during our open hours, or contact us at
+        <a href="mailto:slabmakerspace@virginia.edu"
+          >slabmakerspace@virginia.edu</a
+        >
+        to schedule an appointment with a Makerspace Technologist or
+        Scholars&rsquo; Lab staff to discuss your project.
+      </p>
+      <p>
+        We love working with faculty to support class projects! Send your
+        requests and ideas to our Makerspace Manager, Ammon Shepherd, at
+        <a href="mailto:ammon@virginia.edu">ammon@virginia.edu</a>
+      </p>
 
-    <p>Resources to teach a workshop</p>
-    <ul>
-      <li>
-        <a href="/makerspace/workshops/arduino/">Arduino Workshop - Basics of Electricity and Circuits</a>
-      </li>
-    </ul>
-    <h3 id="tutorial-links">Tutorials</h3>
-    <p>Resources to learn at your own pace</p>
-    <ul>
-      <li>
-        <a href="https://ammonshepherd.github.io/arduino-tuts/" target="_blank">Arduino Tutorials</a>
-      </li>
-      <li>
-        <a href="https://ammonshepherd.github.io/make-a-website/" target="_blank">How to make a website</a>
-      </li>
-      <li>
-        <a href="https://ammonshepherd.github.io/git-for-beginners/" target="_blank">Git for beginners</a>
-      </li>
-    </ul>
+      <p>
+        All equipment can be reserved for use in the Makerspace. Use the
+        <button id="eq_0" href="#">Book Equipment</button>
+        <script src="https://cal.lib.virginia.edu/js/widget.min.js"></script>
+        <script>
+          jQuery(function () {
+            jQuery("#eq_0").LibCalWidget({
+              iid: 863,
+              domain: "https://cal.lib.virginia.edu",
+              width: 560,
+              height: 680,
+              type: "equipment",
+              args: { lid: 264, gid: 0 },
+            })
+          })
+        </script>
+        button to book equipment, or visit
+        <a
+          target="_blank"
+          href="https://cal.lib.virginia.edu/reserve/equipment/Makerspace"
+          >the equipment page</a
+        >
+        to see a full list of our equipment.
+      </p>
+
+      <p>
+        All equipment is maintained for use in the Makerspace and is not
+        available for check out at this time. Don't see the equipment you need
+        here? Visit
+        <a href="http://makergrounds.virginia.edu"
+          >http://makergrounds.virginia.edu</a
+        >
+        for other shops, labs, and places for making at UVA.
+      </p>
+      <p>
+        Questions? Hesitant about joining us in the Makerspace? You belong here,
+        and we're happy to meet with you, answer questions, and give you a tour
+        to help you feel more at home. Email
+        <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>
+        to let us know you're curious about our Makerspace.
+      </p>
+    </div>
+
+    <div class="maker-resource__textiles darker-background">
+      <h3>Textiles</h3>
+      <div class="textiles-content">
+        <p>We have two Bernina 350 Series sewing machines and a Juki MO-644D
+          serger available for reservation or walk-in use.</p>
+        <p>Click a sewing machine below to check availability or reserve:</p>
+        <ul class="maker-resource__content">
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/29994"><img src="/assets/img/makerspace/sewing-machine.png" alt="Bernina sewing machine" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/29994">Bernina B350 <br>(Lilo)</a>
+          </li>
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/29995"><img src="/assets/img/makerspace/sewing-machine.png" alt="Bernina sewing machine" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/29995">Bernina B350 <br>(Stitch)</a>
+          </li>
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/144230"><img src="/assets/img/makerspace/juki.jpg" alt="Juki serger"></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/144230">Juki M0-644D <br>(Sergent Pepper)</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="maker-resource__3Dprinters lighter-background">
+      <h3>3D Printing</h3>
+      <div class="3Dprinter-usage">
+        <p>We have four
+          <a href="https://en.wikipedia.org/wiki/Fused_filament_fabrication">FFF</a>
+          style printers and one
+          <a href="https://en.wikipedia.org/wiki/Stereolithography">Resin (SLA)</a>
+          printer available for reservation. To use the printers, you can come in
+          during open hours for in-person training and on-the-spot reservation. In
+          order to reserve printers for future use, you will need to complete an
+          on-line certification. The on-line certification is forthcoming, so the
+          only way to use the 3D printers for now is to come in during open hours
+          and speak with a Technologist to reserve a printer after in-person
+          training.
+        </p>
+        <p>
+          3D printing is still available through the 3D Printing Studio
+          in the Robertson Media Center in Clemons Library. To use the printers
+          there, you need to complete an
+          <a href="https://www.library.virginia.edu/services/3d-printing/">online training</a>, then reserve a 3D printer during their
+          <a href="https://www.library.virginia.edu/hours">open hours</a>. Email
+          <a href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a>
+          with any questions.
+        </p>
+        <p>
+          The 3D printers are completely different from each other in each space,
+          so training on 3D Printing Studio printers does not automatically grant
+          access to the Makerspace printers, although the on-line training is
+          similar.
+        </p>
+        <p>Click a printer below to check availability or reserve:</p>
+        <ul class="maker-resource__content">
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/158454"><img src="/assets/img/makerspace/mini.jpg" alt="Prusa Mini+ 3D printer" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158454">Prusa Mini <br>(Maker Formerly Known as Prints)</a>
+          </li>
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/158463"><img src="/assets/img/makerspace/prusa-mk4.png" alt="Prusa MK4 3D printer" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158463">Prusa MK4 <br>(Printsipal Skinner)</a>
+          </li>
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/158464"><img src="/assets/img/makerspace/prusa-mk4.png" alt="Prusa MK4 3D printer" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158464">Prusa MK4 <br>(Phil A Ment)</a>
+          </li>
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/51349"><img src="/assets/img/makerspace/prusa-mk4-mmu3.jpg" alt="Prusa MK4 w/MMU3 3D printer" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/51349">Prusa MK4 w/ MMU3 <br>(Kermit)</a>
+          </li>
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/158465"><img src="/assets/img/makerspace/prusa-xl.jpg" alt="Prusa XL 3D printer" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158465">Prusa XL <br>(Big Bird)</a>
+          </li>
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/170203"><img src="/assets/img/makerspace/form2.png" alt="Formlabs Form 2 3D printer" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/170203">Formlabs Form2 <br>(The Fresh Prints of Bel Air)</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="maker-resource__lasercutter darker-background">
+      <h3>Laser Cutting</h3>
+      <div class="lasercutter-usage">
+        <p>Our laser cutter is available by reservation. Send a request to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a> and describe your project and materials you would like to use.</p>
+        <p>You must provide your own materials for engraving or cutting. See below for the list of approved materials:
+          <ul id="lasercutter-materials">
+            <li>Cast Acrylic (PMMA) - <a href="https://makerstock.com/collections/acrylic">examples and purchase options</a></li>
+            <li>MDF (Medium Density Fiberboard; MDF Draft Board) - <a href="https://makerstock.com/products/mdf">examples and purchase options</a></li>
+            <li>Polystyrene - <a href="https://makerstock.com/products/polystyrene-white">examples and purchase options</a></li>
+            <li>Double-ply Chipboard - <a href="https://makerstock.com/products/double-ply-chipboard">examples and purchase options</a></li>
+            <li>Leather (not fake leather, but real cowhide)</li>
+            <li>Cardboard, cardstock, paper</li>
+          </ul>
+        </p>
+        <p>Click the laser cutter below to check availability or reserve:</p>
+        <ul class="maker-resource__content">
+          <li>
+            <a href="https://cal.lib.virginia.edu/equipment/item/158466"><img src="/assets/img/makerspace/vls675.png" alt="Universal Laser VLS6.75"/></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158466">VLS 6.75 <br>(Vader)</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="maker-resource__other lighter-background">
+      <h3>Other Resources</h3>
+      <h4 id="workshop-links">Workshops</h4>
+      <p>
+        Sign up for our events and workshops on the
+        <a
+          id="equipment-btn"
+          href="https://cal.lib.virginia.edu/calendar/events?cid=4299&t=d&d=0000-00-00&cal=4299&ct=46484&inc=0"
+          >Library Calendar</a
+        >
+      </p>
+
+      <h4 id="teach-workshop-links">Resources to teach a workshop</h4>
+      <ul class="other-links">
+        <li>
+          <a href="/makerspace/workshops/arduino/"
+            >Arduino Workshop - Basics of Electricity and Circuits</a
+          >
+        </li>
+      </ul>
+      <h4 id="tutorial-links">Tutorials</h4>
+      <p>Resources to learn at your own pace</p>
+      <ul class="other-links">
+        <li>
+          <a
+            href="https://ammonshepherd.github.io/arduino-tuts/"
+            target="_blank"
+            >Arduino Tutorials</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://ammonshepherd.github.io/make-a-website/"
+            target="_blank"
+            >How to make a website</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://ammonshepherd.github.io/git-for-beginners/"
+            target="_blank"
+            >Git for beginners</a
+          >
+        </li>
+      </ul>
+    </div>
   </div>
 
-    
   <div class="makerspace__people">
-    <div class="maker-people__title" id="tinkertank-techs">Makerspace Techs</div>
+    <div class="maker-people__title" id="tinkertank-techs">
+      Makerspace Technologists
+    </div>
     <div class="maker-people__students">
       <div class="maker-students__label">Student Technologists</div>
       <div class="maker-students__list">
-        <span>Kroesna Chour</span>3D Printing, Button Making, Stickers, Origami<br>
-        <span>Link Fu:</span>Button Making, Stickers, Textiles, Crafting, Cosplay<br>
-        <span>Yejun Kim</span>Electronics, CAD<br>
-        <span>Megan Masri:</span>Button Making, Stickers<br>
-        <span>Jordan Phan:</span>Sewing, Textiles<br>
-        <span>Tingyo Tan:</span>CAD, Desktop CNC, 3D Printing, Electronics, Photogrammetry<br>
-        <span>Jennifer Truong:</span>Button Making, Stickers, Wacom Drawing Tablet, Digital Artwork<br>
-        <span>Hans Yang:</span>3D printing<br>
+        <span>Link Fu:</span>Button Making, Stickers, Textiles, Crafting,
+        Cosplay<br />
+        <span>Yejun Kim</span>Electronics, CAD<br />
+        <span>Jordan Phan:</span>Sewing, Textiles<br />
+        <span>Leah Phan:</span>CAD, Buttons, Stickers, Stamps, Paper Crafts<br />
+        <span>Tingyo Tan:</span>CAD, Desktop CNC, 3D Printing, Electronics,
+        Photogrammetry<br />
+        <span>Jennifer Truong:</span>Button Making, Stickers, Wacom Drawing
+        Tablet, Digital Artwork<br />
       </div>
       <div class="maker-students__label">Critical Making Fellow</div>
       <div class="maker-staff__list">
-        <span>Holly Zhou:</span>Programming, Poetry, Project Management<br>
+        <span>Holly Zhou:</span>Programming, Poetry, Project Management<br />
       </div>
       <div class="maker-students__label">Makerspace Volunteers</div>
       <div class="maker-staff__list">
-        <span>Qianqian Shao</span>Fabrics, Textiles, Sewing<br>
-        <span>Brooke Carmody</span>Textiles, Wearables, Soldering, Desktop CNC<br>
-        <span>Sarah Hemler</span>3D Printing, Solidworks and AutoDesk, Electronics, Photoshop Software and Drawing Tablets, Audacity and Musescore<br>
+        <span>Sarah Hemler</span>3D Printing, Solidworks and AutoDesk, Electronics, Photoshop Software and Drawing Tablets, Audacity and Musescore<br />
+        <span>Megan Masri:</span>Button Making, Stickers<br />
+        <span>Qianqian Shao</span>Fabrics, Textiles, Sewing<br />
+        <span>Hans Yang:</span>3D printing<br />
       </div>
-      <div class="maker-students__label">Makerspace Manager &amp; Lead Research Technologist</div>
+      <div class="maker-students__label">
+        Makerspace Manager &amp; Lead Research Technologist
+      </div>
       <div class="maker-staff__list">
-        <span>Ammon Shepherd:</span>3D Printing, Electronics, Programming, Web Development, Digital Humanities, Sewing<br>
+        <span>Ammon Shepherd:</span>3D Printing, Electronics, Programming, Web
+        Development, Digital Humanities, Sewing, Laser Cutter, CNC Router, Arduino, Raspberry Pi, 3D Modeling<br />
       </div>
       <div class="maker-people__staff">
-        <div class="maker-staff__label">Scholars&rsquo; Lab Staff Technologists</div>
+        <div class="maker-staff__label">
+          Scholars&rsquo; Lab Staff Technologists
+        </div>
         <div class="maker-staff__list">
-          <span>Laura Miller:</span>3D Printing, Photogrammetry, Digital Humanities<br>
-          <span>Shane Lin:</span>3D Printing, Programming, Digital Humanities<br>
-          <span>Jeremy Boggs:</span>3D Printing, Electronics, Programming, Digital Humanities
+          <span>Laura Miller:</span>3D Printing, Photogrammetry, Digital
+          Humanities<br />
+          <span>Shane Lin:</span>3D Printing, Programming, Digital Humanities<br />
+          <span>Jeremy Boggs:</span>3D Printing, Electronics, Programming,
+          Digital Humanities
         </div>
       </div>
     </div>
   </div>
-
-
-  <div class="makerspace__inventory">
-    <div class="maker-inventory__title">What&#8217;s in the Makerspace?</div>
-      <div class="maker-inventory__subtitle">
-        <p>All equipment can be reserved for use in the Makerspace. Use the
-        <a id="equipment-btn" href="https://cal.lib.virginia.edu/equipment?lid=264">Library
-          Equipment Reservation site</a> to reserve equipment.
-        </p>
-      </div>
-    <!-- insert subtitle saying that this is a rundown of the inventory. Note
-         here about where the software is located (i.e., on fancy computers
-    located in the Makerspace - anyone is welcome to come use.) -->
-    <div class="maker-inventory__list">
-      <!-- 3D Printing -->
-      <ul class="maker-list__prototyping">
-        <span>Prototyping</span>
-        <li>Prusa Mini</li>
-        <li>Prusa i3 MK3S+ (x2)</li>
-        <li>Prusa i3 MK3S+ w/ MMU3</li>
-        <li>Prusa XL (coming soon)</li>
-        <li>FormLabs Form 2</li>
-        <li>Universal VLS 6.75, 75 watt Laser cutter</li>
-      </ul>
-      <!-- Physical Computing -->
-      <ul class="maker-list__physical">
-        <span>Physical Computing and Electronics</span>
-        <li>Sparkfun Arduino kits, with Arduino UNO and 101 boards
-          and an assortment of Arduino shields.</li>
-        <li>Raspberry Pi version 3, 4 and Zero W</li>
-        <li>Soldering irons, solder, helping hands</li>
-        <li>Digital multimeters</li>
-        <li>Spare parts for basic electronics tinkering (breadboards, wire, switches, sensors)</li>
-      </ul>
-      <!-- Crafting - Tools for creating and making -->
-      <ul class="maker-list__wearables">
-        <span>Crafting</span>
-        <li>Button Maker</li>
-        <li>Silhouette Cameo 4 Plus Desktop Cutting Machine</li>
-        <li>Laminator</li>
-      </ul>
-      <!-- Textiles, Wearables - Learn how to take fashion into the future. -->
-      <ul class="maker-list__wearables">
-        <span>Textiles & Wearables</span>
-        <li>Bernina B 350 sewing machines + Juki MO-644D serger</li>
-        <li>Basic supplies for wearables and tactile computing</li>
-        <li>Felt</li>
-        <li>Sewing needles and thread</li>
-        <li>Quilting/cross-stitch frames</li>
-      </ul>
-      <!-- Visual Technologies - For the visually inclined. -->
-      <ul class="maker-list__visual">
-        <span>Graphics</span>
-        <li>Wacom Cintiq 22HD graphics tablet</li>
-        <li>Adobe Creative Suite, Gimp, InkScape, Krita</li>
-      </ul>
-      <!-- Software Suites: -->
-      <ul class="maker-list__software">
-        <span>Software</span>
-        <li>Arduino</li>
-        <li>Audacity</li>
-        <li>DaVinci Resolve</li>
-        <li>Fusion 360, MeshMixer, Tinkercad, SketchUp</li>
-        <li>PreForm, PrusaSlicer</li>
-        <li>Processing</li>
-        <li>R</li>
-      </ul>
-      <!-- Miscellaneous -->
-      <ul class="maker-list__misc">
-        <span>Miscellaneous</span>
-        <li>Tool box with basic hand tools (wrenches, screwdrivers. etc.)</li>
-      </ul>
-    </div>
-    <div class="maker-inventory__rules">
-      <p>All equipment is maintained for use in the Makerspace and is not available for check out at this time. Don’t see the equipment you need here? Visit <a href="http://makergrounds.virginia.edu">http://makergrounds.virginia.edu</a> for other shops, labs, and places for making at UVA.</p>
-      <p>Questions? Hesitant about joining us in the Makerspace? You belong here, and we're happy to meet with you, answer questions, and give you a tour to help you feel more at home. Email <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a> to let us know you're curious about our makerspace.</p>
-    </div>
-  </div>
-
-
-  <div class="makerspace__questions">
-    <div class="maker-questions__text"></div>
-  </div>
-</div> <!-- end main content -->
+</div>
+<!-- end main content -->
