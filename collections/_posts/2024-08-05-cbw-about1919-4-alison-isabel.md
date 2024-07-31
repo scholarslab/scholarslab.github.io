@@ -23,8 +23,8 @@ tags:
 
 We feel compelled to say more about [a connection Lloyd Sy made] (https://scholarslab.lib.virginia.edu/blog/cbw-about1919-2-lloyd/) between Louisa May Alcott and Harriet Tubman, women who were contemporaries but so differently represented in cultural memory. Today, [CBW] (https://cbw.iath.virginia.edu/) as a modern research database brings disparate figures together, a format that encourages critique of their selective representation in older biographical texts. But Lloyd's blog post compared tables of contents of 1919 that show Alcott and Tubman in separate cohorts, that is, they are not "siblings" as we call the female subjects of chapters in the same table of contents. They never appear in the same book of female biographies until about fifty years after *World War II*: 1994 and 1995, in the second wave of feminist historiography. 
 
-1. [p007](https://cbw.iath.virginia.edu/cbw_db/collections.php?id=2288)*Herstory* 1995
-2. [p109](https://cbw.iath.virginia.edu/cbw_db/collections.php?id=2464)*100 Women Who Shaped World History* 1994
+1. [p007] (https://cbw.iath.virginia.edu/cbw_db/collections.php?id=2288)*Herstory* 1995
+2. [p109] (https://cbw.iath.virginia.edu/cbw_db/collections.php?id=2464)*100 Women Who Shaped World History* 1994
 
 As a context, note especially Isabel's painstaking [bibliography of collective biographies of women 1914-1921] (https://docs.google.com/document/d/10JIEddY8YZGeLEV7oZxE_vY_sAEjCeSjSnI-BT2ZavM/edit#heading=h.bsx1j1b3twa8). Each of us in this blog series has relied on selective examples, two books, two women, one or two biographers, just as we have limited ourselves to CBW texts published during and a bit after world war.  Isabel aptly commented on Lloyd’s notice of Louisa May Alcott (RR=34) and Harriet Tubman (RR=16) as two notable women who occupy quite different documentary social networks in CBW. Alcott and Tubman are "members," respectively, of an all-white and an all-Black collection of American women published in 1919, as Lloyd's examination of Bradford's and Brawley's collections shows.
 
