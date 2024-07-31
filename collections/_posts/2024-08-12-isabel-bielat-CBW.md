@@ -1,6 +1,6 @@
 ---
 author: isabel-bielat
-date: 2024-08-01
+date: 2024-08-12
 layout: post
 slug: isabel-bielat-CBW
 title: "New Nationalism, Legendary Women: Panchanan Bhattacharyya’s Ideals of Indian Womanhood (1921) after the Great War"
