@@ -8,7 +8,7 @@ slug: zine-library
 title: "Zine Bakery"
 url: https://zinebakery.com
 thumb-img: zinebakery.png
-banner-img: default-banner.png
+banner-img: zinebakery.png
 research-category: Internal Projects and Community Service
 start-year: 2018
 end-year: current
