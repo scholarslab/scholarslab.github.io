@@ -15,7 +15,7 @@ end-year: current
 ---
 Amanda Wyatt Visconti maintains a collection of zines by authors and on topics of interest to the Lab and its community, including zines on feminist approaches to technology, digital scholarship tutorials, creativity and making, and social justice advocacy (Zine Bakery). A subset of those zines are included in a Scholars' Lab specific instance of the project (Zine Bakery @ Scholars' Lab).
 
-![Logo for the Zine Bakery @ Scholars' Lab subset of the Zine Bakery project](https://github.com/scholarslab/scholarslab.org/blob/master/assets/img/work/zinebakery-atslab.png)
+![Logo for the Zine Bakery @ Scholars' Lab subset of the Zine Bakery project](/assets/img/work/zinebakery-atslab.png)
 
 The ZB@SLab project includes:
 * Copies of print zines distributed in SLab's Common Room public space
