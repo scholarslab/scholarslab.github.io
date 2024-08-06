@@ -1,20 +1,19 @@
 ---
 department: None
 email: None
-first_name: Molly
-last_name: Joyce
+first_name: Amna
+last_name: Tarar
 layout: people
-name: Molly Joyce
+name: Amna Tarar
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: molly-joyce
-status: not_current
+slug: amna-tarar
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2023-2024
+- Praxis Fellow, 2024-2025
 ---
-Molly Joyce is a 2023-2024 Praxis Fellow
-
+Amna Tarar is a 2024-2025 Praxis fellow.

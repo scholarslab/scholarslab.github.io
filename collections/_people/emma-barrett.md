@@ -1,20 +1,19 @@
 ---
 department: None
 email: None
-first_name: Molly
-last_name: Joyce
+first_name: Emma
+last_name: Barrett
 layout: people
-name: Molly Joyce
+name: Emma Barrett
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: molly-joyce
-status: not_current
+slug: emma-barrett
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2023-2024
+- LAMI Fellow, 2024
 ---
-Molly Joyce is a 2023-2024 Praxis Fellow
-
+Emma Barrett is a 2024 LAMI fellow.

@@ -8,7 +8,7 @@ name: Olga Mourgelas
 position: None
 short_bio: 'A short one-sentence bio.'
 slug: olga-mourgelas
-status: current
+status: not_current
 twitter: None
 website: None
 people-category:

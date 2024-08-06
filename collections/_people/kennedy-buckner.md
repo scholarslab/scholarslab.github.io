@@ -1,20 +1,19 @@
 ---
 department: None
 email: None
-first_name: Molly
-last_name: Joyce
+first_name: Kennedy
+last_name: Buckner
 layout: people
-name: Molly Joyce
+name: Kennedy Buckner
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: molly-joyce
-status: not_current
+slug: kennedy-buckner
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2023-2024
+- LAMI FELLOW, 2024
 ---
-Molly Joyce is a 2023-2024 Praxis Fellow
-
+Kennedy Buckner is a 2024 LAMI fellow.

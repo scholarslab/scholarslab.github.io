@@ -1,20 +1,19 @@
 ---
 department: None
 email: None
-first_name: Molly
-last_name: Joyce
+first_name: Cadence
+last_name: Chen
 layout: people
-name: Molly Joyce
+name: Cadence Chen
 position: None
 short_bio: 'A short one-sentence bio.'
-slug: molly-joyce
-status: not_current
+slug: cadence-chen
+status: current
 twitter: None
 website: None
 people-category:
 - student
 roles:
-- Praxis Fellow, 2023-2024
+- LAMI FELLOW, 2024 
 ---
-Molly Joyce is a 2023-2024 Praxis Fellow
-
+Cadence Chen is a 2024 LAMI fellow.

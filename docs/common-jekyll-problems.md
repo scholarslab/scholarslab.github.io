@@ -16,3 +16,8 @@ I think I solved this but forgot to document how?
 
 4. "You must use Bundler 2 or greater with this lockfile."
 Enter `gem install bundler` to update to Bundler 2 (`sudo gem install bundler` if you get `ERROR:  While executing gem ... (Gem::FilePermissionError) You don't have write permissions for the /Library/Ruby/Gems/2.3.0 directory.`
+
+5. `bundler: failed to load command: jekyll (/Users/wyatt/.gem/ruby/3.2.2/bin/jekyll)
+<internal:/Users/wyatt/.rubies/ruby-3.2.2/lib/ruby/site_ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require': cannot load such file -- webrick (LoadError)`
+
+Solution: `bundle add webrick`

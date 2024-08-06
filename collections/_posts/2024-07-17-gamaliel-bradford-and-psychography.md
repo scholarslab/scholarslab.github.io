@@ -4,10 +4,14 @@ date: 2024-07-05
 layout: post
 slug: gamaliel-bradford-and-psychography
 title: "Gamaliel Bradford and Psychography"
-category: blog
-tags:
+categories:
+- digital humanities
 - grad student research
-- cbw
+- women
+- nationality
+- biography
+tags:
+- digital humanities
 ---
 
 *A Co-authored Series of Posts 'About 1919,' that is, about English-language books published from 1914 to 1921, according to the online bibliography and database, [Collective Biographies of Women](https://cbw.iath.virginia.edu/)*
@@ -17,19 +21,19 @@ Gamaliel Bradford VI was born October 9, 1863 in Boston, MA to Gamaliel Bradford
 Bradford’s biographies are particularly notable for their unique narrative style. Throughout his career he employed and advocated for a biographical technique called *psychography*. He began experimenting with this technique in his 1912 biography of Robert E. Lee titled “Lee the American”:
 
 > What I have aimed at in this book is the portrayal of a soul. We live in an age
-of names and a new name has recently been invented—psychography. This 
-means, I suppose, an art which is not psychology, because it deals with individuals, 
+of names and a new name has recently been invented—psychography. This
+means, I suppose, an art which is not psychology, because it deals with individuals,
 not general principles, and is not biography, because it swings clear of the formal
 sequence of chronological detail, and uses only those deeds and words and
 happenings that are spiritually significant.
 
 As Bradford touches on in his biography of Lee, he saw biography and psychography as being radically different. On April 8, 1920, Bradford wrote to William Roscoe Thayer:
 
-> The proper affinity of psychography is, of course, with biography. But I 
-cannot help thinking there is a sufficiently radical difference, even in the 
-aim, to justify a distinct classification. Biography necessarily gives an 
-ordered picture of the life in its sequence of events with all the relations 
-of condition and circumstance about it. Psychography leaves all this aside 
+> The proper affinity of psychography is, of course, with biography. But I
+cannot help thinking there is a sufficiently radical difference, even in the
+aim, to justify a distinct classification. Biography necessarily gives an
+ordered picture of the life in its sequence of events with all the relations
+of condition and circumstance about it. Psychography leaves all this aside
 and busies itself only with what concerns the man’s soul.
 
 Psychography emerged in the early twentieth-century when the public was beginning to desire a new kind of biography. The standard three-volume Victorian biography was falling out of fashion, and there was a demand for biographies that depicted the personal and private aspects of an individual’s life. The Great War and women’s rights movements in the West greatly influenced this shift. Following the war, biographers focused less on achievement, and more on personality, gender, and sexuality. In the eyes of the biographer, a subject’s ‘genius’ was not found in the work they produced, but in the life they led. For the psychographer, however, there was arguably no event more influential than the advent of psychoanalysis. Psychoanalysis, which Sigmund Freud began formulating in the 1890s, presented a promising solution to this new demand for biographical interiority. In *A General Introduction to Psychoanalysis*, Freud describes psychoanalysis as “a method of treating nervous patients medically”:
@@ -48,33 +52,36 @@ To understand the kind of intimate connection Bradford was trying to build betwe
 
 Smith from [a730](https://cbw.iath.virginia.edu/books_display.php?id=2077) *Noble Womanhood: A Series of Biographical Sketches* (1894):
 
-> Miss Alcott, doubtful of her ability to do so, wrote *Little Women*, a story of 
-her three sisters and herself in their home at Concord. The writing of the first 
-part occupied two months, and it was issued in October 1868. When the second 
-part came out in April 1869, success was secured: and when *Little Men* was 
+> Miss Alcott, doubtful of her ability to do so, wrote *Little Women*, a story of
+her three sisters and herself in their home at Concord. The writing of the first
+part occupied two months, and it was issued in October 1868. When the second
+part came out in April 1869, success was secured: and when *Little Men* was
 announced, fifty thousand copies were ordered in advance.
 
 Bradford from [a102](https://cbw.iath.virginia.edu/books_display.php?id=1425) *Portraits of American Women* (1919):
 
-> Nor did she lack the discouragement and depression inseparable from all 
-artistic effort. There were the endless external difficulties which every artist 
-knows and none but artists much sympathize with: the frets, the home cares, 
-always so much accentuated in the case of a woman, even when she is 
-unmarried, the perpetual, the trivial, and more harassing because trivial, 
-interruptions. Idle neighbors chat of idle doings; hours slip away; when 
-at last the free hour and the quiet spot are found, weary nerves have no 
+> Nor did she lack the discouragement and depression inseparable from all
+artistic effort. There were the endless external difficulties which every artist
+knows and none but artists much sympathize with: the frets, the home cares,
+always so much accentuated in the case of a woman, even when she is
+unmarried, the perpetual, the trivial, and more harassing because trivial,
+interruptions. Idle neighbors chat of idle doings; hours slip away; when
+at last the free hour and the quiet spot are found, weary nerves have no
 longer any inspiration left in them.
 
 Both excerpts detail Alcott’s authorial life, but in dramatically different ways. Smith documents the number of months it took for Alcott to write the novel, the dates of publication, and the number of copies sold. Though he mentions how Alcott was “doubtful of her ability” to write *Little Women*, he does not pry any deeper into her psyche. Conversely, Bradford’s writing focuses solely on Alcott’s feelings of doubt, endeavoring to paint an image of Alcott’s tormented psychological state. Similar to Freud’s portrait of Da Vinci, Bradford homes in on the “discouragement and depression” which necessitates art. The last sentence of Bradford’s excerpt reads less like a biography, and more like a confessional journal entry. Bradford works to make Alcott’s intimate feelings of doubt and despair tangible to readers, giving them a look behind the curtain, so to speak.
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 Though Bradford did not reveal much about his process of writing a psychograph, it is evident that it was an extensive one. He spent years writing these portraits, poring through letters and diaries, and agonizing over every detail of his writing. In a journal entry from March 7, 1919, Bradford wrote:
 
-> I have been toiling for three years over my portraits of women, have spent 
-really a good many hours, though nothing, I suppose, to what a conscientious 
-worker would have spent, and I had hoped the portraits were fairly complete. 
-Now it occurs to me that not in one single portrait have I made any allusion 
+> I have been toiling for three years over my portraits of women, have spent
+really a good many hours, though nothing, I suppose, to what a conscientious
+worker would have spent, and I had hoped the portraits were fairly complete.
+Now it occurs to me that not in one single portrait have I made any allusion
 or reference to the subject of dress.
 
 Psychography was a new and evolving genre that had not yet developed a formula. As Bradford’s only biographer Edward Wagenknecht writes, he was “the inventor and leading exponent in psychography.” Bradford’s psychographs were archetypal, every detail was liable to be contested. Was dress a necessary characteristic of a subject’s portrait or was it trivial, having no connection to the subject’s character? These questions made the writing process exceptionally difficult for Bradford as the spearhead of a specialty genre.
 
-Regardless of Bradford’s passion for the biographical form, psychography never took root as a genre. Bradford aptly feared that “in dealing topically with the qualities of character which, in varying guises, appear in all men, psychography might become repetitive and monotonous” - as Wagenknecht writes. Even Bradford’s admirers such as Ambrose White Vernon and Richard C. Cabot were concerned about the future of psychography. Though Bradford might have been the most notable figure in psychography, he was outshined by his contemporaries in the field of biography. Lytton Strachey, André Maurois, and Emil Ludwig who wrote traditional biographies far surpassed Bradford in popularity. Few admirers of Bradford’s, such as his biographer, fought to keep psychography alive, but its failure to capture the attention of readers resulted in its short life. 
+Regardless of Bradford’s passion for the biographical form, psychography never took root as a genre. Bradford aptly feared that “in dealing topically with the qualities of character which, in varying guises, appear in all men, psychography might become repetitive and monotonous” - as Wagenknecht writes. Even Bradford’s admirers such as Ambrose White Vernon and Richard C. Cabot were concerned about the future of psychography. Though Bradford might have been the most notable figure in psychography, he was outshined by his contemporaries in the field of biography. Lytton Strachey, André Maurois, and Emil Ludwig who wrote traditional biographies far surpassed Bradford in popularity. Few admirers of Bradford’s, such as his biographer, fought to keep psychography alive, but its failure to capture the attention of readers resulted in its short life.
