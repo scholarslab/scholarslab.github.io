@@ -14,6 +14,6 @@ website: None
 people-category:
 - student
 roles:
-- LAMI Fellow, 2024-2025
+- Praxis Fellow, 2024-2025
 ---
 Kristin Hauge is a 2024-2025 Praxis fellow.
