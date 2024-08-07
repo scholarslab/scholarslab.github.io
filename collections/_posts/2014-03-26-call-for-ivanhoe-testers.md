@@ -14,7 +14,7 @@ tags:
 
 This year's [Praxis](http://praxis.scholarslab.org/) fellows are in the last couple weeks of programming before our release of the new Ivanhoe Game (rebuilt as a [WordPress Theme](http://wordpress.org/themes/)), and we are looking for people to test the program.
 
-The Ivanhoe Game is a pedagogical and critical tool which enables scholars or students to generate discussion and criticism on a subject through role-play.  The original Ivanhoe Game was conceived in the early 2000s by Jerome McGann and Johanna Drucker; they were then joined by Bethany Nowviskie, Nick Laiacona, and others to develop the game in UVa's SpecLab/ARP--one of several precursors to the [Scholars' Lab](http://www.scholarslab.org/).  You can learn more at [http://www.ivanhoegame.org/?page_id=21](http://www.ivanhoegame.org/?page_id=21)
+The Ivanhoe Game is a pedagogical and critical tool which enables scholars or students to generate discussion and criticism on a subject through role-play.  The original Ivanhoe Game was conceived in the early 2000s by Jerome McGann and Johanna Drucker; they were then joined by Bethany Nowviskie, Nick Laiacona, and others to develop the game in UVa's SpecLab/ARP--one of several precursors to the [Scholars' Lab](https://scholarslab.org).  You can learn more at [http://www.ivanhoegame.org/?page_id=21](http://www.ivanhoegame.org/?page_id=21)
 
 Potential uses of the Ivanhoe Game WP Theme include:
 

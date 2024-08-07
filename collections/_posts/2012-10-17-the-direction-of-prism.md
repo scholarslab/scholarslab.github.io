@@ -13,7 +13,7 @@ tags:
 
 This week, the team has been throwing around a number of ideas as to how we can further develop Prism. I keep falling back on spatial metaphors to categorize the changes currently in play. I threw the following model onto the SLab white board, wherein I propose two types of changes: vertical and horizontal.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/10/IMG00279-20121003-1220-300x225.jpg)](http://www.scholarslab.org/praxis-program/the-direction-of-prism/attachment/img00279-20121003-1220/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/10/IMG00279-20121003-1220-300x225.jpg)](https://scholarslab.org/praxis-program/the-direction-of-prism/attachment/img00279-20121003-1220/)
 
 First, the vertical axis, those changes which work within the tool’s existing functionality. Some changes deepen a function already in place. The suggestions offered by last year’s team for other visualizations would fall into this category. A new visualization can offer a more dynamic interaction with a set of markings, but users are still engaging with the same dataset. The fundamental function of the tool would remain the same. These sorts of vertical changes offer a deeper, more robust mode of interaction with the operations that the tool can already carry out.
 

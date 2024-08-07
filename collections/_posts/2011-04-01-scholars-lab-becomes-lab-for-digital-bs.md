@@ -11,7 +11,7 @@ tags:
 
 FOR IMMEDIATE RELEASE:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/04/1bbcb4e21269fc72.jpg)](http://www.scholarslab.org/announcements/scholars-lab-becomes-lab-for-digital-bs/attachment/1bbcb4e21269fc72/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/04/1bbcb4e21269fc72.jpg)](https://scholarslab.org/announcements/scholars-lab-becomes-lab-for-digital-bs/attachment/1bbcb4e21269fc72/)
 
 Through the generosity of an anonymous donor, the [Scholars' Lab](http://scholarslab.org) at the [University of Virginia Library](http://library.virginia.edu/) is proud to announce a change in name and concentration.  Effective April 1st, the SLab (which has hitherto supported work in GIS, qualitatitive and quantitative analysis, and interpretive and textual scholarship in the humanities and social sciences) will sharpen its focus and be known as the _Laboratory for Digital Byzantine Sigillography_.
 

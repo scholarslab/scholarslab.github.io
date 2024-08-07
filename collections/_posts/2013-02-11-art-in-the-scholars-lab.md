@@ -15,7 +15,7 @@ The first time I walked into the Scholars’ Lab, I was amazed by the space.  W
 I’ve been at UVA for a long, long time and I’ve worked in some nice, if a little traditional, spaces.  But the Scholars’ Lab is the first place I’ve worked that has been so modern and energetic.  The décor is a direct result of the purpose of the space: energy, synergy, and creativity.  So it was no surprise to me that Bethany aspired to have the art in the Scholars’ Lab as dynamic as the rest of the environment.  In the spring of 2008, when I was new to the Scholars’ Lab and Bethany had been the director for less than a year, we set out to change our walls from hosting a set of functional, framed posters to a rotating art show.
 
 <figure>
-  [![](http://static.scholarslab.org/wp-content/uploads/2013/01/Erin-Chilton-Art1-247x300.jpg)](http://www.scholarslab.org/slab-events/art-in-the-scholars-lab/attachment/erin-chilton-art-2/)
+  [![](http://static.scholarslab.org/wp-content/uploads/2013/01/Erin-Chilton-Art1-247x300.jpg)](https://scholarslab.org/slab-events/art-in-the-scholars-lab/attachment/erin-chilton-art-2/)
   <figcaption>
  Art from Erin Chilton's show.
 </figcaption>

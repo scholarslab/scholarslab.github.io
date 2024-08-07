@@ -89,7 +89,7 @@ The tests will be driven by Cucumber. Since this is in Ruby, they won't interact
 
 
 
-**[Omeka](http://omeka.org/), [PHP](http://www.php.net/), and [MySQL](http://www.mysql.com/)** are all running in a VM, managed by [Vagrant](http://vagrantup.com/). (See [this post](http://www.scholarslab.org/announcements/omeka-development-with-vagrant/) for how to set up the system.)
+**[Omeka](http://omeka.org/), [PHP](http://www.php.net/), and [MySQL](http://www.mysql.com/)** are all running in a VM, managed by [Vagrant](http://vagrantup.com/). (See [this post](https://scholarslab.org/announcements/omeka-development-with-vagrant/) for how to set up the system.)
 
 
 

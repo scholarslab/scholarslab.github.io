@@ -6,7 +6,7 @@ slug: on-community-listening-3
 title: 'On Community Listening: 3'
 ---
 
-Check out my previous posts, [On Community Listening 1](http://www.scholarslab.org/grad-student-research/on-community-listening-2/) and [2](http://www.scholarslab.org/grad-student-research/on-community-listening-2/) for context.
+Check out my previous posts, [On Community Listening 1](https://scholarslab.org/grad-student-research/on-community-listening-2/) and [2](https://scholarslab.org/grad-student-research/on-community-listening-2/) for context.
 
 The visual aesthetic of the web environment is minimal because I want listeners to focus on the sounds that the interface holds and not on the overstimulation of visual content. Think [Sol Lewitt](http://en.wikipedia.org/wiki/Sol_LeWitt). [This](http://www.massmoca.org/lewitt/grid.php) is my favorite series by Mr. Lewitt.
 

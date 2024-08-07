@@ -24,6 +24,6 @@ Bethany Nowviskie: Computing humanist/humane computationalist since 1996. Direct
 
 David McClure: Web Applications Developer on the Scholars’ Lab R&D team, David graduated from Yale University with a degree in the [Humanities](http://www.yale.edu/humanities/) in 2009 and worked as an independent web developer in San Francisco, New York, and Madison, Wisconsin before joining the lab in 2011. David is the lead developer on [Neatline](http://neatline.scholarslab.org/) and works on research projects that use software as a tool to advance traditional lines of inquiry in literary theory and aesthetics.
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.23169448143/enclosure.mp3"]

@@ -11,7 +11,7 @@ tags:
 - code
 ---
 
-As part of my project with [Zane](http://www.scholarslab.org/author/zschwarzlose/) to update the [TEIDisplay plugin for Omeka](http://www.scholarslab.org/digital-humanities/an-update-to-teidisplay-for-omeka/), I have been examining ways that different digital collections present TEI-encoded texts. We hope that by looking at the ways that other display tools function, we’ll be able to gain more insight into what works well and what doesn’t.
+As part of my project with [Zane](https://scholarslab.org/author/zschwarzlose/) to update the [TEIDisplay plugin for Omeka](https://scholarslab.org/digital-humanities/an-update-to-teidisplay-for-omeka/), I have been examining ways that different digital collections present TEI-encoded texts. We hope that by looking at the ways that other display tools function, we’ll be able to gain more insight into what works well and what doesn’t.
 
 One of the first sites I looked at was _[Thomas MacGreevy and George Yeats: A Friendship in Letters](http://www.macgreevy.org/collections/gyeats/index.html),_ a collection of letters spanning 1922-1965. What first stands out about this collection is the two-paned display. On either side, users can choose from a set of tabs how they want to examine each letter – annotated text, scanned page images, bibliographic information from the letter’s teiHeader, and biographic information about people mentioned in the letter. This setup makes it easier to display necessary information depending on what a user’s goals are.
 

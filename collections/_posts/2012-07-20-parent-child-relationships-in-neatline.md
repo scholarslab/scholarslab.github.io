@@ -15,7 +15,7 @@ One of the most powerful features in [Neatline](http://neatline.org), our newly-
 
 This relationship is established _from_ the child _to_ the parent. To set a parent record, click into the "Relations" fieldset and use the dropdown to select a record:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/parent-record-field.jpg)](http://www.scholarslab.org/geospatial-and-temporal/parent-child-relationships-in-neatline/attachment/parent-record-field/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/parent-record-field.jpg)](https://scholarslab.org/geospatial-and-temporal/parent-child-relationships-in-neatline/attachment/parent-record-field/)
 
 What's the point of this? When you set a parent record, the child _automatically inherits all of the styling and visibility settings of the parent_. In a nutshell, this makes it possible to create "batches" of records that share a common set of styles and phase in and out of visibility in unison.
 
@@ -23,11 +23,11 @@ For example, imagine that you need to split the records in your exhibit into two
 
 With six records, three blue and three red, that would look like this:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/blue-red-item-browser.jpg)](http://www.scholarslab.org/geospatial-and-temporal/parent-child-relationships-in-neatline/attachment/blue-red-item-browser/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/blue-red-item-browser.jpg)](https://scholarslab.org/geospatial-and-temporal/parent-child-relationships-in-neatline/attachment/blue-red-item-browser/)
 
 Blue 1, Blue 2, and Blue 3 are children of [Blue Parent], and Red 1, Red 2, and Red 3 are children of [Red Parent]:
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/07/blue-1.jpg)](http://www.scholarslab.org/geospatial-and-temporal/parent-child-relationships-in-neatline/attachment/blue-1/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/07/blue-1.jpg)](https://scholarslab.org/geospatial-and-temporal/parent-child-relationships-in-neatline/attachment/blue-1/)
 
 And in the final exhibit, the colors are rendered correctly without ever having to set a single style on Blue 1, Blue 2, Blue 3, Red 1, Red 2, or Red 3:
 

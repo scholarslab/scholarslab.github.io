@@ -11,7 +11,7 @@ tags:
 - praxis
 ---
 
-Tuesday saw the second weekly meeting of the team involved in the Scholars' Lab's Praxis Program.  The conversation largely revolved around coalescing the [groups' thoughts](http://www.scholarslab.org/tag/charter/) on their project charter.
+Tuesday saw the second weekly meeting of the team involved in the Scholars' Lab's Praxis Program.  The conversation largely revolved around coalescing the [groups' thoughts](https://scholarslab.org/tag/charter/) on their project charter.
 
 While the specifics of the formal charter are still being ironed out&mdash;and will be shared shortly&mdash;the group identified four high-level principles to help guide the approach of the project:
 

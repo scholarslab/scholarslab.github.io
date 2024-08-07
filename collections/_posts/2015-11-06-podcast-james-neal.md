@@ -31,6 +31,6 @@ James is very active on social media. You can follow him on [Twitter](http://www
 
 The Practicing Digital Humanities Speaker Series is sponsored by UVa Library's Intellectual Crossroads Team, Scholars' Lab, and the Academic Engagement group.
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="https://itunesu.assets.itunes.com/apple-assets-us-std-000001/CobaltPublic69/v4/39/06/ed/3906ede0-f193-b362-e669-0d1ff87a1a18/313-2999196782334166045-neal.mp3"]

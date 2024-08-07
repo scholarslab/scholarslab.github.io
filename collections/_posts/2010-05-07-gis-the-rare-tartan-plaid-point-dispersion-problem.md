@@ -22,14 +22,14 @@ Now back to the emergent tartan-plaid problem.  What would happen if instead of
 
 So what is supposed to look like this:
 
-[![tartan example 2](http://static.scholarslab.org/wp-content/uploads/2010/01/tartan2-300x133.jpg)](http://www.scholarslab.org/geospatial-and-temporal/gis-the-rare-tartan-plaid-point-dispersion-problem/attachment/tartan2/)
+[![tartan example 2](http://static.scholarslab.org/wp-content/uploads/2010/01/tartan2-300x133.jpg)](https://scholarslab.org/geospatial-and-temporal/gis-the-rare-tartan-plaid-point-dispersion-problem/attachment/tartan2/)
 
 Would end up looking like this:
 
-[![tartan example 1](http://static.scholarslab.org/wp-content/uploads/2010/01/tartan1-300x133.jpg)](http://www.scholarslab.org/geospatial-and-temporal/gis-the-rare-tartan-plaid-point-dispersion-problem/attachment/tartan1/)
+[![tartan example 1](http://static.scholarslab.org/wp-content/uploads/2010/01/tartan1-300x133.jpg)](https://scholarslab.org/geospatial-and-temporal/gis-the-rare-tartan-plaid-point-dispersion-problem/attachment/tartan1/)
 
 And both the correct and incorrect versions together:
 
-[![tartan example 3](http://static.scholarslab.org/wp-content/uploads/2010/01/tartan3-300x133.jpg)](http://www.scholarslab.org/geospatial-and-temporal/gis-the-rare-tartan-plaid-point-dispersion-problem/attachment/tartan3/)
+[![tartan example 3](http://static.scholarslab.org/wp-content/uploads/2010/01/tartan3-300x133.jpg)](https://scholarslab.org/geospatial-and-temporal/gis-the-rare-tartan-plaid-point-dispersion-problem/attachment/tartan3/)
 
 Not that this is a common mistake people using GIS make by any stretch, but when someone has a question about why their points are all coming out misaligned with strange empty striping patterns, it can take a little while to deduce what’s going on if you’ve never seen the results of such a mistake before.

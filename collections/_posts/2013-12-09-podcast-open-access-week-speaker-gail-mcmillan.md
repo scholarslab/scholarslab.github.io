@@ -16,6 +16,6 @@ On October 29, 2013, Gail McMillan, Director of Digital Libraries and Archives a
 
 Joanna Swafford and Brandon Walsh, Ph.D. candidates in the Department of English and former Scholars' Lab Fellows, served as respondents for Ms. McMillan's talk.
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.28074082867/enclosure.mp3"]

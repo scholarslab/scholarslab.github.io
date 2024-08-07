@@ -35,7 +35,7 @@ With that in mind, here are some of the things I would like to see in the final 
   * **New Members**: New participants should be given credit by date of arrival.
 
 	
-  * **License**: I vote wholeheartedly that we offer everything we make open-access, open-source through a [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/) license. Bethany provides excellent rationale in ["Why, of why, CC-BY?"](http://nowviskie.org/2011/why-oh-why-cc-by/).
+  * **License**: I vote wholeheartedly that we offer everything we make open-access, open-source through a [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/) license. Bethany provides excellent rationale in ["Why, of why, CC-BY?"](http://nowviskie.org/2011/why-oh-why-cc-by/).
 
 	
   * **Taking ownership**: I say we codify in the charter our commitment to promote the project publicly, to link it to our online personas, to make it truly our own. Each member should be allowed to list the project on their Vitas or Webpages under current projects or whatever appropriate equivalent

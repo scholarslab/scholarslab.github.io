@@ -43,7 +43,7 @@ It does require running Solr as a separate server process (although possibly on 
 
 
 
-[![Configuration](http://static.scholarslab.org/wp-content/uploads/2012/10/Screen-shot-2012-10-02-at-3.12.56-PM-300x167.png)](http://www.scholarslab.org/announcements/hot-off-the-presses-the-solrsearch-plugin/attachment/screen-shot-2012-10-02-at-3-12-56-pm/)
+[![Configuration](http://static.scholarslab.org/wp-content/uploads/2012/10/Screen-shot-2012-10-02-at-3.12.56-PM-300x167.png)](https://scholarslab.org/announcements/hot-off-the-presses-the-solrsearch-plugin/attachment/screen-shot-2012-10-02-at-3-12-56-pm/)
 
 
 **Configuration** The SolrSearch plugin in highly configurable. You can decide which fields to search, which can be used for facets, and how to label them.

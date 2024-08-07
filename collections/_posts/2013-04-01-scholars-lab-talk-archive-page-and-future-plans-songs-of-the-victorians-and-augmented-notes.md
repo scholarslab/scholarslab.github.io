@@ -16,7 +16,7 @@ crosspost:
 
 
 
-This week, I've been preparing for my [Scholars' Lab](http://www.scholarslab.org/) [talk](https://www.google.com/calendar/render?eid=ZGFhMmh0NjZ2NjNuOWk4NnBxOW0xYTMwcGcgOGlrOHBpcGQ2cjY1Z24zaHVyZWM2YWxpMWNAZw&ctz&pli=1&sf=true&output=xml) on Wednesday, April 3rd at noon.  I'll be speaking about [Songs of the Victorians](http://www.songsofthevictorians.com/)  and [Augmented Notes](http://augmentednotes.com/) and demonstrating both of them.  Here's the poster [Ronda Grizzle](http://www.scholarslab.org/people/ronda-grizzle/) designed for it:
+This week, I've been preparing for my [Scholars' Lab](https://scholarslab.org/) [talk](https://www.google.com/calendar/render?eid=ZGFhMmh0NjZ2NjNuOWk4NnBxOW0xYTMwcGcgOGlrOHBpcGQ2cjY1Z24zaHVyZWM2YWxpMWNAZw&ctz&pli=1&sf=true&output=xml) on Wednesday, April 3rd at noon.  I'll be speaking about [Songs of the Victorians](http://www.songsofthevictorians.com/)  and [Augmented Notes](http://augmentednotes.com/) and demonstrating both of them.  Here's the poster [Ronda Grizzle](https://scholarslab.org/people/ronda-grizzle/) designed for it:
 
 
 

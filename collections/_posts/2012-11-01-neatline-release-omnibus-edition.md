@@ -11,7 +11,7 @@ tags:
 - omeka
 ---
 
-For the next and final round of the [Omeka](http://omeka.org/) plugin release parade, I’m pleased to announce minor or patch releases for all [Neatline](http://neatline.org/) plugins. Neatline is an [Omeka](http://omeka.org/) plugin that helps you tell stories in time and space from your Omeka collection. For more information, see our [original announcement](http://www.scholarslab.org/announcements/announcing-neatline/) or the [Neatline site](http://neatline.org/).
+For the next and final round of the [Omeka](http://omeka.org/) plugin release parade, I’m pleased to announce minor or patch releases for all [Neatline](http://neatline.org/) plugins. Neatline is an [Omeka](http://omeka.org/) plugin that helps you tell stories in time and space from your Omeka collection. For more information, see our [original announcement](https://scholarslab.org/announcements/announcing-neatline/) or the [Neatline site](http://neatline.org/).
 
 
 
@@ -26,7 +26,7 @@ Here’s some information about the bug-fix releases.
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-01-at-11.07.36-AM.png)](http://www.scholarslab.org/announcements/neatline-release-omnibus-edition/attachment/screen-shot-2012-11-01-at-11-07-36-am/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-01-at-11.07.36-AM.png)](https://scholarslab.org/announcements/neatline-release-omnibus-edition/attachment/screen-shot-2012-11-01-at-11-07-36-am/)
 
 
 

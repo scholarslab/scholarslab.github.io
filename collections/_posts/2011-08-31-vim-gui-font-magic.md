@@ -12,7 +12,7 @@ tags:
 - code
 ---
 
-Yesterday, [Wayne](http://www.scholarslab.org/contributors/wsg4w/) tweeted [this](http://twitter.com/#!/wayne_graham/status/108550158442184704):
+Yesterday, [Wayne](https://scholarslab.org/contributors/wsg4w/) tweeted [this](http://twitter.com/#!/wayne_graham/status/108550158442184704):
 
 
 
@@ -28,7 +28,7 @@ I thought I should describe what I did, for several reasons. First, it's kind of
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/08/Screen-shot-2011-08-31-at-10.32.05-AM-300x239.png)](http://www.scholarslab.org/praxis-program/vim-gui-font-magic/attachment/screen-shot-2011-08-31-at-10-32-05-am/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/08/Screen-shot-2011-08-31-at-10.32.05-AM-300x239.png)](https://scholarslab.org/praxis-program/vim-gui-font-magic/attachment/screen-shot-2011-08-31-at-10-32-05-am/)
 
 In Vim, pop open the GUI to select the font by typing in this command: `:set guifont=*`. It should open up the standard font dialog box for your platform.
 

@@ -11,7 +11,7 @@ tags:
 
 [![fedora](http://static.scholarslab.org/wp-content/uploads/2014/03/fedora.png)](http://static.scholarslab.org/wp-content/uploads/2014/03/fedora.png)
 
-Hot on the heels of yesterday's update to the [SolrSearch](http://www.scholarslab.org/announcements/solrsearch-2-0/) plugin, today we're happy to announce version 2.0 of the [FedoraConnector](http://omeka.org/add-ons/plugins/fedoraconnector/) plugin, which makes it possible to link items in Omeka with objects in [Fedora Commons](http://www.fedora-commons.org/) repositories! The workflow is simple - just register the location of one or more installations of Fedora, and then individual items in the Omeka collection can be associated with a Fedora PID. Once the link is established, any combination of the datastreams associated with the PID can be selected for import. For each of the datastreams, FedoraConnector proceeds in one of two ways:
+Hot on the heels of yesterday's update to the [SolrSearch](https://scholarslab.org/announcements/solrsearch-2-0/) plugin, today we're happy to announce version 2.0 of the [FedoraConnector](http://omeka.org/add-ons/plugins/fedoraconnector/) plugin, which makes it possible to link items in Omeka with objects in [Fedora Commons](http://www.fedora-commons.org/) repositories! The workflow is simple - just register the location of one or more installations of Fedora, and then individual items in the Omeka collection can be associated with a Fedora PID. Once the link is established, any combination of the datastreams associated with the PID can be selected for import. For each of the datastreams, FedoraConnector proceeds in one of two ways:
 
 
 

@@ -9,7 +9,7 @@ tags:
 - code
 ---
 
-I'm very excited to announce that my colleague [Zane](http://www.scholarslab.org/author/zschwarzlose/) and I have completed our work on the TeiDisplay plugin for Omeka! It's been a little while since I last posted, so if you'd like some background, check out our [previous posts](http://www.scholarslab.org/category/tei/) on this collaboration between the Scholars' Lab and the University of Texas School of Information. We have made several changes/additions, though the final product isn’t quite ready for release yet.
+I'm very excited to announce that my colleague [Zane](https://scholarslab.org/author/zschwarzlose/) and I have completed our work on the TeiDisplay plugin for Omeka! It's been a little while since I last posted, so if you'd like some background, check out our [previous posts](https://scholarslab.org/category/tei/) on this collaboration between the Scholars' Lab and the University of Texas School of Information. We have made several changes/additions, though the final product isn’t quite ready for release yet.
 
 - We fixed a few bugs in the import process from the TEI Header to Omeka's Dublin Core fields. Additionally, we created a map detailing which fields correspond to which elements. This map also explains how users can customize the import process if the current setup is not optimized for their documents.
 

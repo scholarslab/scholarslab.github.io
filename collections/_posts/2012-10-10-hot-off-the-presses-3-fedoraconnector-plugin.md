@@ -18,7 +18,7 @@ tags:
 
 
 
-Photo by [Swing Candy](http://www.flickr.com/photos/swingcandy/) [![Creative Commons License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/)
+Photo by [Swing Candy](http://www.flickr.com/photos/swingcandy/) [![Creative Commons License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 
 
@@ -40,7 +40,7 @@ The FedoraConnector plugin doesn’t help you discover resources in a repository
 
 
 
-There is a little magic involved. You have to know the incantation to reach your Fedora server and you have to know how to get the PIDs for the items you’re interested in. But [David McClure](http://www.scholarslab.org/people/david-mcclure/) has worked hard to hammer out an easy, fluid workflow for getting data from Fedora into Omeka.
+There is a little magic involved. You have to know the incantation to reach your Fedora server and you have to know how to get the PIDs for the items you’re interested in. But [David McClure](https://scholarslab.org/people/david-mcclure/) has worked hard to hammer out an easy, fluid workflow for getting data from Fedora into Omeka.
 
 
 

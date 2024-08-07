@@ -29,12 +29,12 @@ There are some interesting things going on within this map.  First, why do a ma
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2010/10/fullMapMass150.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/fullmapmass150/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/fullMapMass150.png)](https://scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/fullmapmass150/)
 
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2010/10/fullMapWalk150.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/fullmapwalk150/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/fullMapWalk150.png)](https://scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/fullmapwalk150/)
 
 
 
@@ -49,17 +49,17 @@ I made a few more maps showing the density of cyclists in 2005 and 2009 at a lar
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeVA.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/bikeva/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeVA.png)](https://scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/bikeva/)
 
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeNEcoor.png)](http://www.scholarslab.org/?attachment_id=)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeNEcoor.png)](https://scholarslab.org/?attachment_id=)
 
 
 
 
-[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeCO.png)](http://www.scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/bikeco/)
+[![](http://static.scholarslab.org/wp-content/uploads/2010/10/bikeCO.png)](https://scholarslab.org/geospatial-and-temporal/putting-american-community-survey-data-to-work/attachment/bikeco/)
 
 
 

@@ -13,7 +13,7 @@ tags:
 - tutorial
 ---
 
-In my last post ([Geocoding for Neatline - Part I]( http://www.scholarslab.org/digital-humanities/geocoding-for-neatline-part-i)), I covered how to programmatically geocode a set of addresses and generate a CSV file for use in Neatline. In this post, I'll go over how to actually post this information in Omeka and make it available for use in your Neatline exhibit.
+In my last post ([Geocoding for Neatline - Part I]( https://scholarslab.org/digital-humanities/geocoding-for-neatline-part-i)), I covered how to programmatically geocode a set of addresses and generate a CSV file for use in Neatline. In this post, I'll go over how to actually post this information in Omeka and make it available for use in your Neatline exhibit.
 
 
 

@@ -9,7 +9,7 @@ tags:
 category: announcement
 ---
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/03/DCP_1060-Medium-183x300.jpg)](http://www.scholarslab.org/announcements/welcoming-eric-rochester/attachment/dcp_1060-medium/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/03/DCP_1060-Medium-183x300.jpg)](https://scholarslab.org/announcements/welcoming-eric-rochester/attachment/dcp_1060-medium/)
 
 The [Scholars' Lab](http://scholarslab.org) is very pleased to welcome Dr. Eric Rochester as the new Senior Developer on our R&D team!
 

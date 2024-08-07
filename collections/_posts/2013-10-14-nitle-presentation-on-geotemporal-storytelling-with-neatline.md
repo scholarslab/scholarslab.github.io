@@ -10,6 +10,6 @@ tags:
 - neatline
 ---
 
-About this time last year, [David McClure](http://www.scholarslab.org/people/david-mcclure/) and I had a great conversation with the folks from the [National Institute for Technology in Liberal Education (NITLE)](http://www.nitle.org/) about geotemporal storytelling with [Neatline](http://neatline.org). We had lots of great questions and comments from the audience, too. Video for the talk is now available on NITLE's YouTube channel:
+About this time last year, [David McClure](https://scholarslab.org/people/david-mcclure/) and I had a great conversation with the folks from the [National Institute for Technology in Liberal Education (NITLE)](http://www.nitle.org/) about geotemporal storytelling with [Neatline](http://neatline.org). We had lots of great questions and comments from the audience, too. Video for the talk is now available on NITLE's YouTube channel:
 
 

@@ -9,7 +9,7 @@ tags:
 category: announcement
 ---
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/05/pic.jpg)](http://www.scholarslab.org/announcements/welcoming-david-mcclure/attachment/pic/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/05/pic.jpg)](https://scholarslab.org/announcements/welcoming-david-mcclure/attachment/pic/)
 
 We're delighted to welcome our new Web Applications Specialist, [David McClure](http://twitter.com/#!/clured), to the Scholars' Lab R&D team.
 

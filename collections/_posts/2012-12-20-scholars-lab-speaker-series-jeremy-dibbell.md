@@ -24,6 +24,6 @@ So far, data on more than 1,400 early American libraries has been added, with mo
 Speaker Bio:
 Jeremy Dibbell is the Librarian for Rare Books and Social Media at LibraryThing. He received his B.A. from Union College and M.A./M.L.S. degrees in History and Library Science from Simmons College. In the summers, he can generally be found at the University of Virginia's Rare Book School, assisting with the school's weeklong courses. Along with the Libraries of Early America project, Jeremy's at work on a history of books and printing in Bermuda, writes regular columns for "Fine Books & Collections" magazine, and blogs about books and reading at [PhiloBiblos](http://philobiblos.blogspot.com/). He can be found on Twitter at [@JBD1](https://twitter.com/JBD1).
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.20622506184/enclosure.mp3"]

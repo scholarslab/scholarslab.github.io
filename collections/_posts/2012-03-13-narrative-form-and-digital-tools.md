@@ -16,6 +16,6 @@ The Scholars' Lab welcomed Dr. Suzanne Keen, Thomas H. Broadus Professor and Cha
 Workshop Abstract:
 "This workshop suggests that teams of humans can be trained to analyze narrative structure, rhetoric, and other genre conventions using controlled vocabularies&mdash;a longstanding dream of narratology. Drs. Keen and Booth will introduce BESS (Biographies Elements and Structure Schema), an XML standoff markup schema designed to analyze narrative structure in short biographies, and will offer examples of its application as a tool for interpreting narratives in large archives, within social networks, and beyond traditional formalism."
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.14016483491/enclosure.mp3"]

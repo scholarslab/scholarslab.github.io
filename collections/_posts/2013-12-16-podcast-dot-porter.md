@@ -16,6 +16,6 @@ On October 30, 2013, Dot Porter, Curator of Digital Research Services at the Sch
 
 Ms. Porter joined us as part of the _Global Digital Libraries Symposium_, co-sponsored by Rare Book School, the Scholars' Lab, and the Buckner W. Clay Endowment for the Humanities at the Institute of the Humanities & Global Culture.
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.28089203644/enclosure.mp3"]

@@ -11,9 +11,9 @@ tags:
 - tutorial
 ---
 
-The following was co-authored and co-hacked with [Claire](http://www.scholarslab.org/people/claire-maiers/).
+The following was co-authored and co-hacked with [Claire](https://scholarslab.org/people/claire-maiers/).
 
-Claire and I went to the [Arduino](http://www.arduino.cc) Hackday hosted by the Scholars’ Lab on Friday. We had no idea what we were getting into, which made it all the more fun. [Jeremy](http://www.scholarslab.org/people/jeremy-boggs/) brought in a bunch of Arduino kits of all shapes and sizes, and various people went to work to see what they could make out of them.
+Claire and I went to the [Arduino](http://www.arduino.cc) Hackday hosted by the Scholars’ Lab on Friday. We had no idea what we were getting into, which made it all the more fun. [Jeremy](https://scholarslab.org/people/jeremy-boggs/) brought in a bunch of Arduino kits of all shapes and sizes, and various people went to work to see what they could make out of them.
 
 First Claire and I got a blinking light to work. From there we decided to skip several chapters to make a little music player using a piezo speaker component. At that point we went off the map, dreaming big and working off the page. We started out working with this [schematic](http://www.arduino.cc/en/Tutorial/Melody), but we wanted to expand things a little.
 
@@ -37,11 +37,11 @@ Next, we added an extra octave. To extend the range, we hard coded frequencies f
 
 timeHigh = period / 2 = 1 / (2 * toneFrequency)
 
-We probably could have done this in a more dynamic way. Or, as [Eric](http://www.scholarslab.org/people/eric-johnson/) and [Ronda](http://www.scholarslab.org/people/ronda-grizzle/) showed, we could have just downloaded a tone library to do this for us. They were jamming out to the Star Wars theme while we were still trying to get things working.  But eventually, we were able to program in the opening of “Mary Had a Little Lamb,” Mozart’s _Lacrimosa_, John Coltrane’s “26-2,” and “Somewhere Over the Rainbow.”
+We probably could have done this in a more dynamic way. Or, as [Eric](https://scholarslab.org/people/eric-johnson/) and [Ronda](https://scholarslab.org/people/ronda-grizzle/) showed, we could have just downloaded a tone library to do this for us. They were jamming out to the Star Wars theme while we were still trying to get things working.  But eventually, we were able to program in the opening of “Mary Had a Little Lamb,” Mozart’s _Lacrimosa_, John Coltrane’s “26-2,” and “Somewhere Over the Rainbow.”
 
 Here is where things got really ambitious, we came up with the idea to incorporate a RGB LED light that would change colors each time there was a note change in “Somewhere Over the Rainbow.” Rainbow lights for a song about rainbows.
 
-To get the light working we worked off a slightly modified version of [this schematic](http://ardx.org/CODE12S), mashed in with the piezo tutiorial. With some quick help from [Eric](http://www.scholarslab.org/people/eric-rochester/), we modified the light arrangement so that each generates a random RGB combination. We then synchronized this with the rhythm of the melody.
+To get the light working we worked off a slightly modified version of [this schematic](http://ardx.org/CODE12S), mashed in with the piezo tutiorial. With some quick help from [Eric](https://scholarslab.org/people/eric-rochester/), we modified the light arrangement so that each generates a random RGB combination. We then synchronized this with the rhythm of the melody.
 
 In terms of the actual circuitry, we just split the digital signal so that it went out to two different parts of the bread board simultaneously and then fed information to both pins. Later we added a volume knob to reduce the maddening noise. You can see attached photos below, though you’ll have to meet us halfway with our diagram of the breadboard.
 

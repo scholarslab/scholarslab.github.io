@@ -10,7 +10,7 @@ tags:
 - praxis
 ---
 
-As we move into the second half of our tenure on the [Praxis](http://praxis.scholarslab.org/) squad, we are feeling the pressure to start actually making something. To that end, the [SLab](http://www.scholarslab.org/) crew asked us to make a list of our priorities for [Prism](http://prism.scholarslab.org/). Hopefully this will help us make a to do list in the coming weeks. The following was the list that seemed to come out of yesterday's meeting, though it's possible that other people could have gotten different impressions from the conversation.
+As we move into the second half of our tenure on the [Praxis](http://praxis.scholarslab.org/) squad, we are feeling the pressure to start actually making something. To that end, the [SLab](https://scholarslab.org/) crew asked us to make a list of our priorities for [Prism](http://prism.scholarslab.org/). Hopefully this will help us make a to do list in the coming weeks. The following was the list that seemed to come out of yesterday's meeting, though it's possible that other people could have gotten different impressions from the conversation.
 
 These seem to be our priorities, in no particular order except roughly that in which they were brought up:
 

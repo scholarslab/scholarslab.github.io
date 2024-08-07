@@ -11,7 +11,7 @@ tags:
 - code
 ---
 
-Since [Gwen](http://www.scholarslab.org/people/gwen-nally/) just posted her solution to the [Fizz Buzz](http://www.scholarslab.org/praxis-program/fizz-buzz/) homework assignment,  I thought that I would throw mine up here as well. Here is my [solution](https://github.com/bmw9t/LRTHW/blob/master/praxis_exercises/fizz_buzz.rb).
+Since [Gwen](https://scholarslab.org/people/gwen-nally/) just posted her solution to the [Fizz Buzz](https://scholarslab.org/praxis-program/fizz-buzz/) homework assignment,  I thought that I would throw mine up here as well. Here is my [solution](https://github.com/bmw9t/LRTHW/blob/master/praxis_exercises/fizz_buzz.rb).
 
 It's pretty similar to Gwen's take on the problem. I just switched the order of a couple things and used a couple shortcuts. I also apparently have a penchant for extra parentheses to help organize things.
 

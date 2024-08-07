@@ -17,9 +17,9 @@ In March, Dr. Walter Scheidel, Dickason Professor in the Humanities, Professor o
 Summary:
 Ancient societies were shaped by logistical constraints that are almost unimaginable to modern observers. “ORBIS: The Stanford Geospatial Network Model of the Roman World” ([orbis.stanford.edu](http://orbis.stanford.edu/)), for the first time, allows us to understand the true cost of distance in building and maintaining a huge empire with pre-modern technology. This talk explores various ways in which this novel Digital Humanities tool changes and enriches our understanding of ancient history. 
 
-The Digital Humanities Speaker Series is co-sponsored by [IATH](http://www.iath.virginia.edu/), [SHANTI](http://shanti.virginia.edu/), and the [Scholars' Lab](http://www.scholarslab.org/).
+The Digital Humanities Speaker Series is co-sponsored by [IATH](http://www.iath.virginia.edu/), [SHANTI](http://shanti.virginia.edu/), and the [Scholars' Lab](https://scholarslab.org/).
 
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.23529002200/enclosure.mp3"]

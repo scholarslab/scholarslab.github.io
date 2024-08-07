@@ -24,4 +24,4 @@ Over the course of the last few months, those of us in the development team have
 10.) When that doesn't work, try to break it better. Fix it.
 11.) When that doesn't work, go find Wayne, Eric, or Jeremy. With their help: more better breaking. Fix it.
 12.) Commit and push to Github (which you should have been doing throughout anyway), and close the issue, carefully referencing the commit number.
-13.) Celebrate appropriately. This might involve [a unicorn and a pegasus.](http://www.scholarslab.org/grad-student-research/all-together-now/)
+13.) Celebrate appropriately. This might involve [a unicorn and a pegasus.](https://scholarslab.org/grad-student-research/all-together-now/)

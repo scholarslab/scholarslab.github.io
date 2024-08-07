@@ -12,7 +12,7 @@ tags:
 
 [![Canvas Bag - tutorial24](http://farm5.staticflickr.com/4058/4258185459_8cdd4ac6bd_m.jpg)](http://www.flickr.com/photos/kittybabylove/4258185459/)
 
-Photo by [kittybabylove](http://www.flickr.com/photos/kittybabylove/) [![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/)
+Photo by [kittybabylove](http://www.flickr.com/photos/kittybabylove/) [![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 
 
@@ -28,7 +28,7 @@ Continuing our roll-out of Omeka plugins we’ve been working on here at the Sch
 
 
 
-The first part of this release is the [BagIt PHP library](https://github.com/scholarslab/BagItPHP). This is a generic PHP library for working with BagIt files. We announced an earlier version of this [here](http://www.scholarslab.org/announcements/announcement-bagitphp-library/), but we’ve updated it and fixed some bugs. If you’re using it, you may want to grab the latest copy of it.
+The first part of this release is the [BagIt PHP library](https://github.com/scholarslab/BagItPHP). This is a generic PHP library for working with BagIt files. We announced an earlier version of this [here](https://scholarslab.org/announcements/announcement-bagitphp-library/), but we’ve updated it and fixed some bugs. If you’re using it, you may want to grab the latest copy of it.
 
 
 

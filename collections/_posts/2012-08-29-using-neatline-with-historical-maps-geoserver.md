@@ -21,7 +21,7 @@ crosspost:
 
 _This is part 3 of a 3-post tutorial that walks through process of georeferencing a historical map and using it in GeoServer and Neatline._
 
-In [part 1](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-georeferencing/) of this series, we used ArcMap to convert a static image into a georeferenced .tiff file. In [part 2](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/), we post-processed the file with `gdal` to remove the black borders around the image. In this article, we'll load the .tiff file into GeoServer and import the final web map service into a Neatline exhibit.
+In [part 1](https://scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-georeferencing/) of this series, we used ArcMap to convert a static image into a georeferenced .tiff file. In [part 2](https://scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/), we post-processed the file with `gdal` to remove the black borders around the image. In this article, we'll load the .tiff file into GeoServer and import the final web map service into a Neatline exhibit.
 
 **Generating the web map service on GeoServer**
 

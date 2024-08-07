@@ -20,7 +20,7 @@ First, we worked on creating an Ivanhoe logo. Inspired by the[ original website�
 
 [![IvanhoeLogo](http://static.scholarslab.org/wp-content/uploads/2014/01/IvanhoeLogo-300x224.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/01/IvanhoeLogo.jpg)
 
-Next, we drew up a modified "Add Media" button. Why you may ask? Well even though WordPress already has an "Add Media" button - I believe the drabness of the feature ends up fostering a text-first space in WordPress rather than working with, manipulating, and linking other forms of media besides text (for more on my logic of why a modified "Add Media" button is necessary - [click here](http://www.scholarslab.org/grad-student-research/faulty-format-or-user-error/)). We hope that by incorporating this feature it will draw students into our game as we intend - fostering the possibility of a pedagogical space that includes all forms of media. _Even though in the end the button might just be a modified version of what already exists (think make it red vs grey) it was still fun envisioning how our game might look in the end._
+Next, we drew up a modified "Add Media" button. Why you may ask? Well even though WordPress already has an "Add Media" button - I believe the drabness of the feature ends up fostering a text-first space in WordPress rather than working with, manipulating, and linking other forms of media besides text (for more on my logic of why a modified "Add Media" button is necessary - [click here](https://scholarslab.org/grad-student-research/faulty-format-or-user-error/)). We hope that by incorporating this feature it will draw students into our game as we intend - fostering the possibility of a pedagogical space that includes all forms of media. _Even though in the end the button might just be a modified version of what already exists (think make it red vs grey) it was still fun envisioning how our game might look in the end._
 
 [![photo 2-2](http://static.scholarslab.org/wp-content/uploads/2014/01/photo-2-21-300x224.jpg)](http://static.scholarslab.org/wp-content/uploads/2014/01/photo-2-21.jpg)
 
@@ -34,4 +34,4 @@ Stephanie and I also thought that it would be good to use WordPress for our info
 
 </figure>
 
-Finally - we are in the process of [crowdsourcing](http://www.scholarslab.org/grad-student-research/potential-ivanhoe-users/)! We'd love to hear from you on how we can make Ivanhoe great.  We're still interested in [how you use WordPress](http://www.scholarslab.org/grad-student-research/potential-ivanhoe-users/), so fill out our questionnaire if you'd like to help.  Thanks!
+Finally - we are in the process of [crowdsourcing](https://scholarslab.org/grad-student-research/potential-ivanhoe-users/)! We'd love to hear from you on how we can make Ivanhoe great.  We're still interested in [how you use WordPress](https://scholarslab.org/grad-student-research/potential-ivanhoe-users/), so fill out our questionnaire if you'd like to help.  Thanks!

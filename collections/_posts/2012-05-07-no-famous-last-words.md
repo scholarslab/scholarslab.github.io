@@ -19,7 +19,7 @@ Prism yanks the out-of-line hero in Aeschylus right back into the incredibox wh
 
 BUT, the playful prank is not without use or merit, and we are laughing with you, not at you. Heck, I AM one of you. Yes, Prism abstracts interpretative labor (c.f. Baudrillard on Symbolic Exchange and Death), but it does so without foul. I'm guessing most folks would find the momentary anonymity quite refreshing. Truth be said, we don't need to doodle our signatures on every wall. (c.f. Derrida... No? You don't have to).
 
-Furthermore,  and as David shows by example on [his recent post](http://www.scholarslab.org/?p=4279), many new avenues of research open up with Prism. The tool does not replace, but sits to the left of other hermeneutic approaches. To pick one question of the many new questions that Prism opens up:
+Furthermore,  and as David shows by example on [his recent post](https://scholarslab.org/?p=4279), many new avenues of research open up with Prism. The tool does not replace, but sits to the left of other hermeneutic approaches. To pick one question of the many new questions that Prism opens up:
 
 > Given that anonymity changes the way we enact readings; _and_, given that the ruling ideology in Amerika would have us believe that racial identity is a thing of the past: How does the invisible subject react to symbolic Law?
 

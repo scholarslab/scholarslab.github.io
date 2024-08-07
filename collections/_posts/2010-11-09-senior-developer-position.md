@@ -9,7 +9,7 @@ tags:
 category: announcement
 ---
 
-Still fairly fresh on the scene, but drawing on a long history in digital humanities and spatial and data-driven work at the University of Virginia, the UVa Library's [Scholars' Lab](http://scholarslab.org) has developed [great projects](http://www.scholarslab.org/) and hosted [amazing events](http://www2.scholarslab.org/about/events.html) over the past three years. We now have an opportunity to add new collaborators to round out our team! (So stay tuned for future postings later this semester.)
+Still fairly fresh on the scene, but drawing on a long history in digital humanities and spatial and data-driven work at the University of Virginia, the UVa Library's [Scholars' Lab](http://scholarslab.org) has developed [great projects](https://scholarslab.org/) and hosted [amazing events](http://www2.scholarslab.org/about/events.html) over the past three years. We now have an opportunity to add new collaborators to round out our team! (So stay tuned for future postings later this semester.)
 
 Today, [we're looking for a Senior Developer](http://jobs.virginia.edu/applicants/Central?quickFind=62652) who can build, test, and debug code and who loves to get 'under the hood' to figure out how things work.
 
@@ -17,7 +17,7 @@ Today, [we're looking for a Senior Developer](http://jobs.virginia.edu/applicant
 ### Senior Developer, Scholars' Lab
 
 
-As a senior web and software developer reporting to the Head of R&D for the [Scholars' Lab](http://www.scholarslab.org/), you will be responsible for enhancing, maintaining, and optimizing projects related to digital research and scholarship. Not only should you enjoy writing well organized, highly tested code, but you should enjoy working with a great group of teammates and scholarly stake holders to solve hard problems in both software engineering and the digital humanities. You will need to fit into a fast-paced, interdisciplinary environment where technology enables creative vision -- and where you can take good advantage of the "20% time" that all Scholars' Lab and [Department of Digital Research & Scholarship](http://scholarslab.org) faculty and staff are granted to pursue professional development and their own (often collaborative) R&D projects.
+As a senior web and software developer reporting to the Head of R&D for the [Scholars' Lab](https://scholarslab.org/), you will be responsible for enhancing, maintaining, and optimizing projects related to digital research and scholarship. Not only should you enjoy writing well organized, highly tested code, but you should enjoy working with a great group of teammates and scholarly stake holders to solve hard problems in both software engineering and the digital humanities. You will need to fit into a fast-paced, interdisciplinary environment where technology enables creative vision -- and where you can take good advantage of the "20% time" that all Scholars' Lab and [Department of Digital Research & Scholarship](http://scholarslab.org) faculty and staff are granted to pursue professional development and their own (often collaborative) R&D projects.
 
 **Responsibilities:**
 

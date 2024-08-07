@@ -24,7 +24,7 @@ Are you ready to participate in the [Golden Age ](http://mapbrief.com/2011/09/01
   * July, 2010 - [Wikileaks](http://wikileaks.org/) Publishes the Afghan War Diary, a massive dataset full of place names
 
 	
-  * April, 2011 - Scholars' Lab [Launches "Spatial Humanities Step By Step"](http://www.scholarslab.org/announcements/project-launch-spatial-humanities/),  a source for peer-reviewed geo-tutorials
+  * April, 2011 - Scholars' Lab [Launches "Spatial Humanities Step By Step"](https://scholarslab.org/announcements/project-launch-spatial-humanities/),  a source for peer-reviewed geo-tutorials
 
 	
   * October, 2011 - Devin Becker, University of Idaho Digital Initiatives Librarian, publishes Step By Step tutorials on [mapping Wikileaks using Google Fusion Tables](http://spatial.scholarslab.org/?p=1283)

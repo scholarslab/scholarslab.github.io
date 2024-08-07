@@ -213,7 +213,7 @@ The next statement is a little different:
 
 
 ```
-foaf:workplaceHomepage <http://www.scholarslab.org/> .
+foaf:workplaceHomepage <https://scholarslab.org/> .
 ```
 
 
@@ -226,7 +226,7 @@ This final statement has a URI as the object. It represents this statement:
 
 
 
-  * Eric’s workplace’s home page is “[http://www.scholarslab.org/](http://www.scholarslab.org/)”.
+  * Eric’s workplace’s home page is “[https://scholarslab.org/](https://scholarslab.org/)”.
 
 
 

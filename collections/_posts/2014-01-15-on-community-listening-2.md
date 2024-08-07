@@ -9,7 +9,7 @@ tags:
 - grad student research
 ---
 
-[Don't miss the [first part](http://www.scholarslab.org/digital-humanities/on-community-listening-1/) of Scholars' Lab graduate fellow Erik DeLuca's series on his project, continued here.]
+[Don't miss the [first part](https://scholarslab.org/digital-humanities/on-community-listening-1/) of Scholars' Lab graduate fellow Erik DeLuca's series on his project, continued here.]
 
 Check out this “trailer” I made for _Community Listening_:
 

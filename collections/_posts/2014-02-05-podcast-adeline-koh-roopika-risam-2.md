@@ -20,6 +20,6 @@ This event was co-sponsored by The Carter G. Woodson Institute and the Scholarsâ
 
 Dr. Koh and Dr. Risam's presentation slides are available from Slideshare: [Theories and Practices of Postcolonial Digital Humanities](http://www.slideshare.net/roopsi1/theories-and-practices-of-postcolonial-digital-humanities-roopika-risam-and-adeline-koh)
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://a270.phobos.apple.com/us/r30/CobaltPublic/v4/9f/e5/5c/9fe55cfd-0579-873a-03d4-87531a950e8c/332-4848115438543626250-risam_koh.mp3"]

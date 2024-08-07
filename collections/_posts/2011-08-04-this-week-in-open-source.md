@@ -52,6 +52,6 @@ We spent some time this week moving our Omeka plugins (and other libraries) to a
 
 To better automate our testing environment, David McClure ([davidmcclure](https://github.com/davidmcclure)) worked out the final issues with automating the testing of our plugins with multiple versions of Omeka. We are currently targeting the [current stable tag of Omeka](https://github.com/omeka/Omeka/tree/stable-1.4), and the [master branch](https://github.com/omeka/Omeka). We are working on turning everything green, but the major work of integrating the plugins in to the test environment is complete. It took a bit of tinkering to get the plugins to build correctly when they're not sitting inside of an Omeka installation tree (as they would in a standard configuration). Watch this space for a more detailed post about how to replicate this set up.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2011/08/omeka-jenkins-300x175.png)](http://www.scholarslab.org/slab-code/this-week-in-open-source/attachment/omeka-jenkins/)
+[![](http://static.scholarslab.org/wp-content/uploads/2011/08/omeka-jenkins-300x175.png)](https://scholarslab.org/slab-code/this-week-in-open-source/attachment/omeka-jenkins/)
 
 

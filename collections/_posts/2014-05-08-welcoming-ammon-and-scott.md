@@ -17,6 +17,6 @@ We're equally excited that [Scott Bailey](http://csbailey.org/) will be joining 
 
 In Scott's new role as a DH Developer, he will be helping maintain and develop our numerous plugins for [Omeka](http://omeka.org) (many [Neatline](http://neatline.org)-related) as well as collaborating with scholars and Library staff on maintaining and updating numerous UVa faculty projects.
 
-Both Ammon and Scott will be contributing to the other missions of the Scholars' Lab, including graduate student mentoring in our [DH Fellows](http://www.scholarslab.org/graduate-fellowship-in-digital-humanities/) and [Praxis](http://praxis.scholarslab.org) programs, as well as participating in other experimental humanities initiatives and pursuing independent research. 
+Both Ammon and Scott will be contributing to the other missions of the Scholars' Lab, including graduate student mentoring in our [DH Fellows](https://scholarslab.lib.virginia.edu/digital-humanities-fellows/) and [Praxis](http://praxis.scholarslab.org) programs, as well as participating in other experimental humanities initiatives and pursuing independent research. 
 
 We are really excited to welcome Ammon Shepherd, his wife Jessica, and their entire family, and Scott Bailey and his partner Karen to the Scholars' Lab family.   

@@ -15,7 +15,7 @@ Starting at 1:30PM in the Scholars’ Lab, there will be a round of lightning ta
 
 In this year’s round, each speaker will be given five minutes with a maximum of ten slides.  It is a fairly easy task to create and give a lighting round talk (assuming you can deal with time constraints).  Help make this year’s event special by participating in the talks.  You can present on anything spatially related you like.  It could be about a project you have worked on, things going on at your office or just something of personal interest.
 
-If you wish to participate in the lightning round talks, please email [cgist[at]virginia.edu](mailto:cgist@virginia.edu).  If you cannot participate, please come to enjoy the talks and GIS Day cake and see what we concocted this years’ cake.  [Previous years’ cakes](http://www.scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/) are documented on our blog.
+If you wish to participate in the lightning round talks, please email [cgist[at]virginia.edu](mailto:cgist@virginia.edu).  If you cannot participate, please come to enjoy the talks and GIS Day cake and see what we concocted this years’ cake.  [Previous years’ cakes](https://scholarslab.org/announcements/the-mappy-goodness-that-is-gis-day-in-the-scholars-lab/) are documented on our blog.
 
 ![2010 cake](http://static.scholarslab.org/wp-content/uploads/2011/11/2010-cake-300x225.png)
 

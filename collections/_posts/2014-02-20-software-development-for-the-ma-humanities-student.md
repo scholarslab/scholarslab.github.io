@@ -54,7 +54,7 @@ So I made web sites for a few years. I had a lot of fun, and I learned a lot, bo
 
 
 
-For the last almost three years, I've been senior developer here at the [Scholars' Lab](http://www.scholarslab.org/). What does that entail?
+For the last almost three years, I've been senior developer here at the [Scholars' Lab](https://scholarslab.org/). What does that entail?
 
 
 

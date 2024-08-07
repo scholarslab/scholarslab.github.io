@@ -22,6 +22,6 @@ Thorny Staples is currently the Director of the Office of Research Information S
 
 
 
-This talk was recorded in Alderman Library, Rm 421 on February 9, 2015.  Click below to stream the podcast.  If you encounter problems with the playback, please email [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu). As always, you can listen to our podcasts on the Scholars' Lab blog, or [subscribe](http://www.scholarslab.org/category/podcasts/) [on iTunesU](https://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619?mt=10).
+This talk was recorded in Alderman Library, Rm 421 on February 9, 2015.  Click below to stream the podcast.  If you encounter problems with the playback, please email [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu). As always, you can listen to our podcasts on the Scholars' Lab blog, or [subscribe](https://scholarslab.org/category/podcasts/) [on iTunesU](https://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619?mt=10).
 
 [podloveaudio src="http://a1611.phobos.apple.com/us/r30/CobaltPublic1/v4/cc/b6/a9/ccb6a98c-8360-32d4-0022-4a0647686fc1/335-5035744038474421641-staples.mp3"]

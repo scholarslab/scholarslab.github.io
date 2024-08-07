@@ -17,7 +17,7 @@ We’re using a service called Transifex to manage translation work. To get star
 Once you’re added to a language team, you can click on that language, and see a list of the resources (i.e., Neatline plugins) we have available to translate. Clicking on any of the resources should bring up a modal window with various options for translating the resource, including a button to “Translate Online”. From there, you’ll be presented with a page that has the English word or phrase on one side, and a text area to contribute a translation on the other.
 
 <figure>
-  [![](http://static.scholarslab.org/wp-content/uploads/2012/07/Screen-shot-2012-07-31-at-3.18.19-PM.png)](http://www.scholarslab.org/slab-code/translating-neatline/attachment/screen-shot-2012-07-31-at-3-18-19-pm/)
+  [![](http://static.scholarslab.org/wp-content/uploads/2012/07/Screen-shot-2012-07-31-at-3.18.19-PM.png)](https://scholarslab.org/slab-code/translating-neatline/attachment/screen-shot-2012-07-31-at-3-18-19-pm/)
   <figcaption>
  Translation interface on Transifex.net
 </figcaption>

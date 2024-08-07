@@ -14,7 +14,7 @@ category: announcement
 
 _In February, Andrew Stauffer, Professor of English and Director of NINES, and Juxta Project Administrator Dana Wheeles spoke about using the newly released Juxta Commons in the classroom. Because the presentation was a show-and-tell, Dana has been kind enough to create this blog post as a companion to the podcast of their talk.
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619)._
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619)._
 
 
 

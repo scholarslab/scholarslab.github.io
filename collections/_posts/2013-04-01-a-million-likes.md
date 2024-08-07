@@ -35,7 +35,7 @@ By the end of what some observers called a "not atypical" Thursday, emergency pe
 
 **JOHNSON:** [sitting morosely beside a 3d-printer adorned with Scholars' Lab stickers] _He's been trying to level the build-plate. I -- I just can't talk about it!_ [sobs]
 
-The same afternoon, GIS specialists Chris Gist and Kelly Johnston saw their popular program in "[DIY aerial photography](http://www.scholarslab.org/?s=diy+aerial)" crash to earth, as Charlottesville city council members authorized [aggressive counter-measures](http://usnews.nbcnews.com/_news/2013/02/05/16857529-virginia-city-becomes-first-to-pass-anti-drone-resolution?lite) to halt the Scholars' Lab's use of a helium balloon and small, mechanized quad-copter to photograph archaeological sites and public art installations at the request of UVa faculty.
+The same afternoon, GIS specialists Chris Gist and Kelly Johnston saw their popular program in "[DIY aerial photography](https://scholarslab.org/?s=diy+aerial)" crash to earth, as Charlottesville city council members authorized [aggressive counter-measures](http://usnews.nbcnews.com/_news/2013/02/05/16857529-virginia-city-becomes-first-to-pass-anti-drone-resolution?lite) to halt the Scholars' Lab's use of a helium balloon and small, mechanized quad-copter to photograph archaeological sites and public art installations at the request of UVa faculty.
 
 **GIST:** _A sling-shot, Councilman? Seriously?_
 **JOHNSTON:** [angrily] _That was **NOT** a drone!_

@@ -19,7 +19,7 @@ crosspost:
 
 Update 8/27/12
 
-After posting this last week, [a comment by KaCeBe](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/comment-page-1/#comment-23142) led me to go back and look for a way to get Geoserver to render transparent borders without having to manually add an alpha channel to the file. Although I still can't find way to make Geoserver do it automatically, I did find [this thread on the OSGeo.org forums](http://osgeo-org.1560.n6.nabble.com/Trying-to-get-nodata-in-GeoTIFF-to-display-as-transparent-td3853784.html) in which user [bovermyer](http://osgeo-org.1560.n6.nabble.com/template/NamlServlet.jtp?macro=user_nodes&user=198969) finds a solution that's much faster than the Photoshop workflow described in this post.
+After posting this last week, [a comment by KaCeBe](https://scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/comment-page-1/#comment-23142) led me to go back and look for a way to get Geoserver to render transparent borders without having to manually add an alpha channel to the file. Although I still can't find way to make Geoserver do it automatically, I did find [this thread on the OSGeo.org forums](http://osgeo-org.1560.n6.nabble.com/Trying-to-get-nodata-in-GeoTIFF-to-display-as-transparent-td3853784.html) in which user [bovermyer](http://osgeo-org.1560.n6.nabble.com/template/NamlServlet.jtp?macro=user_nodes&user=198969) finds a solution that's much faster than the Photoshop workflow described in this post.
 
 With `gdal` installed (see below), open up the terminal and run this command:
 
@@ -36,7 +36,7 @@ Much faster than pointing-and-clicking in Photoshop!
 * * *
 
 
-_This is part 2 of a 3-post tutorial that walks through process of georeferencing a historical map and using it in Geoserver and Neatline. Check out [part 1](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-georeferencing/), which covers rectification in ArcMap._
+_This is part 2 of a 3-post tutorial that walks through process of georeferencing a historical map and using it in Geoserver and Neatline. Check out [part 1](https://scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-georeferencing/), which covers rectification in ArcMap._
 
 In the [first part](http://dclure.org/?p=948) of this series, we brought a static image into ArcMap and converted it onto a georeferenced .tif file. In this article, we'll post-process the image in Photoshop to get it ready to be loaded into Geoserver.
 
@@ -58,7 +58,7 @@ Here's how to do it:
 
     [![](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background-300x248.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/layer-from-background.jpg)
 
-3. Use the "Magic Wand Tool"  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/magic-wand.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/magic-wand/) to select each of the borders by holding down the shift key and clicking inside the black areas. A dotten line will snap to the edges of the borders. If the wand tool is selecting parts of the actual map image, drop down the "Tolerance" setting to 1, which will limit the selection to the exact color value of the clicked location on the image. Once the borders are selected, press the delete key to clear out the selection. At this point, the image should be surrounded by the default, checkered background graphic.
+3. Use the "Magic Wand Tool"  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/magic-wand.jpg)](https://scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/magic-wand/) to select each of the borders by holding down the shift key and clicking inside the black areas. A dotten line will snap to the edges of the borders. If the wand tool is selecting parts of the actual map image, drop down the "Tolerance" setting to 1, which will limit the selection to the exact color value of the clicked location on the image. Once the borders are selected, press the delete key to clear out the selection. At this point, the image should be surrounded by the default, checkered background graphic.
 
     [![](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete-300x280.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/border-delete.jpg)
 
@@ -74,7 +74,7 @@ Here's how to do it:
 
     [![](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection-300x280.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/black-selection.jpg)
 
-7. Activate the Paint Bucket Tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/paint-bucket.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/paint-bucket/) and set the foreground color to pure white (If you don't see the icon for the paint bucket in the Tools column, click and hold the icon for the "Gradient" tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/gradient-tool.jpg)](http://www.scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/gradient-tool/) and a drop-down select will appear with a listing for the Paint Bucket). Then apply the paint bucket on the selected area on the Alpha channel, creating a white area over the region occupied by the map.
+7. Activate the Paint Bucket Tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/paint-bucket.jpg)](https://scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/paint-bucket/) and set the foreground color to pure white (If you don't see the icon for the paint bucket in the Tools column, click and hold the icon for the "Gradient" tool  [![](http://static.scholarslab.org/wp-content/uploads/2012/08/gradient-tool.jpg)](https://scholarslab.org/geospatial-and-temporal/using-neatline-with-historical-maps-part-2-transparency/attachment/gradient-tool/) and a drop-down select will appear with a listing for the Paint Bucket). Then apply the paint bucket on the selected area on the Alpha channel, creating a white area over the region occupied by the map.
 
     [![](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection-300x281.jpg)](http://static.scholarslab.org/wp-content/uploads/2012/07/white-selection.jpg)
 

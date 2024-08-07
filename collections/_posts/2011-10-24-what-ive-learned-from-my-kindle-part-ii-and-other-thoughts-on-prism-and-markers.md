@@ -16,7 +16,7 @@ A while back I posted what I thought would be the first of two blog contribution
 
 
 
-I left you, dear reader, with quite the cliffhanger in my[ last post](http://www.scholarslab.org/praxis-program/what-ive-learned-from-my-kindle-part-i/). I had downloaded a free Amazon Kindle edition of _Loss and Gain_, and was prepared, cup of tea in hand, to devour some John Henry Newman. What happened next?
+I left you, dear reader, with quite the cliffhanger in my[ last post](https://scholarslab.org/praxis-program/what-ive-learned-from-my-kindle-part-i/). I had downloaded a free Amazon Kindle edition of _Loss and Gain_, and was prepared, cup of tea in hand, to devour some John Henry Newman. What happened next?
 
 
 
@@ -56,4 +56,4 @@ Ed’s transparency exercise involved an even more complicated image than the on
 
 [![](http://farm7.static.flickr.com/6035/6275075215_96ce50cc1f_z.jpg)](http://www.flickr.com/photos/68990790@N02/6275075215/)
 
-[Alex’s post](http://www.scholarslab.org/praxis-program/overlapping-anxieties/) demonstrates his obviously more sophisticated understanding of the technical limitations we’re up against as we try to build a basic working version of Prism, but I figure that as long as Wayne keeps saying “right now, the sky’s the limit,” it can’t hurt to push things a little bit!
+[Alex’s post](https://scholarslab.org/praxis-program/overlapping-anxieties/) demonstrates his obviously more sophisticated understanding of the technical limitations we’re up against as we try to build a basic working version of Prism, but I figure that as long as Wayne keeps saying “right now, the sky’s the limit,” it can’t hurt to push things a little bit!

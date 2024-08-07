@@ -41,4 +41,4 @@ To Apply:
 
 Review of applications to begin immediately and continue until position is filled. Apply through the University of Virginia [online employment website](http://jobs.virginia.edu/applicants/Central?quickFind=70941). (If you need to search the [Jobs@UVa](http://jobs.virginia.edu) portal, the posting number is 0612479.) Complete application, and attach cover letter and CV, with contact information for three current, professional references.
 
-The Scholars’ Lab is also seeking a Head of Graduate Programs. Learn more [here](http://www.scholarslab.org/announcements/head-graduate-programs/). Don’t miss a chance to work with our wonderful students and incredible Scholars’ Lab team!
+The Scholars’ Lab is also seeking a Head of Graduate Programs. Learn more [here](https://scholarslab.org/announcements/head-graduate-programs/). Don’t miss a chance to work with our wonderful students and incredible Scholars’ Lab team!

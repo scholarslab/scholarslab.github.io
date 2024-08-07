@@ -88,7 +88,7 @@ Look under the start menu, for the "Vim 7.3" group and select "gVim." In Windows
 
 
 
-Check out [Vim GUI Font Magic](http://www.scholarslab.org/praxis-program/vim-gui-font-magic/) for instructions on how to change the font from the truly yeechy Windows default. This also has some suggestions for nicer fonts.
+Check out [Vim GUI Font Magic](https://scholarslab.org/praxis-program/vim-gui-font-magic/) for instructions on how to change the font from the truly yeechy Windows default. This also has some suggestions for nicer fonts.
 
 
 

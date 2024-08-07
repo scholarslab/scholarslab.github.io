@@ -20,7 +20,7 @@ While  simply  having  such  a  large  volume  of  information  online�
 
 [Micki  Kaufman](http://www.mickikaufman.com/)  is a doctoral  student  in  US  history  at  the  Graduate  Center  of the  City  University  of  New  York, a  GC-­CUNY  Digital  Fellow,  and a recipient  of  GC-­CUNY’s  Provost’s  Digital  Innovation  Grant  in 2012–2014.
 
-Click below to stream the podcast, and you can view the [accompanying slides](http://www.mickikaufman.com/qk/preso/) on the [Quantifying Kissinger website](http://www.mickikaufman.com/qk/). As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](https://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619?mt=10).
+Click below to stream the podcast, and you can view the [accompanying slides](http://www.mickikaufman.com/qk/preso/) on the [Quantifying Kissinger website](http://www.mickikaufman.com/qk/). As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](https://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619?mt=10).
 
 [podloveaudio src="http://a1322.phobos.apple.com/us/r30/CobaltPublic/v4/76/c2/ee/76c2ee48-51c6-ac29-fda4-9c60724ec1eb/336-283879797946496247-2014.04.04_kaufman2.mp3"]
 

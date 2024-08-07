@@ -9,7 +9,7 @@ tags:
 category: announcement
 ---
 
-The Scholars' Lab is pleased and proud to announce our partnership with **nine new graduate fellows** for the 2013-2014 academic year! They represent seven academic disciplines in the [humanities and social sciences](http://artsandsciences.virginia.edu/home/index.html) at the University of Virginia, and join a distinguished group of [past recipients](http://www.scholarslab.org/graduate-fellowships/) of Scholars' Lab fellowships. (Since 2007,  [UVa Library](http://library.virginia.edu) has offered 44 fellowships to deserving grad students in fields as diverse as History, Archaeology, Computer Music, Anthropology, Economics, English, Ethnomusicology, French, Religious Studies, Art History, Linguistics, and Architecture.)
+The Scholars' Lab is pleased and proud to announce our partnership with **nine new graduate fellows** for the 2013-2014 academic year! They represent seven academic disciplines in the [humanities and social sciences](http://artsandsciences.virginia.edu/home/index.html) at the University of Virginia, and join a distinguished group of [past recipients](https://scholarslab.org/graduate-fellowships/) of Scholars' Lab fellowships. (Since 2007,  [UVa Library](http://library.virginia.edu) has offered 44 fellowships to deserving grad students in fields as diverse as History, Archaeology, Computer Music, Anthropology, Economics, English, Ethnomusicology, French, Religious Studies, Art History, Linguistics, and Architecture.)
 
 First, we have our three winners of the **UVa Library Graduate Fellowship in Digital Humanities**. They are:
 
@@ -37,4 +37,4 @@ Next, we're getting started with a third year of the [Praxis Program](http://pra
 **Francesca Tripodi** (Sociology)
 and **Zachary Stone** (English)
 
-Keep an eye on the [Scholars' Lab blog](http://www.scholarslab.org/archives/) for news throughout the year, on the work of all of our wonderful graduate fellows!
+Keep an eye on the [Scholars' Lab blog](https://scholarslab.org/archives/) for news throughout the year, on the work of all of our wonderful graduate fellows!

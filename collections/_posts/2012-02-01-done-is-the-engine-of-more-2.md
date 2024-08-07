@@ -27,7 +27,7 @@ I love lists almost as much as I love agendas and program management in general.
 [![slab8](http://farm8.staticflickr.com/7027/6798750829_65e43bbd43.jpg)](http://www.flickr.com/photos/72018725@N07/6798750829/)
 
 
-3.[ As Lindsay notes](http://www.scholarslab.org/praxis-program/final-prism-wireframes/), the wireframes (and thus, for the most part, the user story), are finalized. Design wizzes (plural of wiz?) Ed and Lindsay have been rocking out on the front-end work: Ed continues to wow us with his aesthetic brilliance (see his[ "striptease" post](http://www.scholarslab.org/digital-humanities/teasing-the-blogosphere/) of Jan 26), while Lindsay works on making the dream a reality via CSS/HTML.
+3.[ As Lindsay notes](https://scholarslab.org/praxis-program/final-prism-wireframes/), the wireframes (and thus, for the most part, the user story), are finalized. Design wizzes (plural of wiz?) Ed and Lindsay have been rocking out on the front-end work: Ed continues to wow us with his aesthetic brilliance (see his[ "striptease" post](https://scholarslab.org/digital-humanities/teasing-the-blogosphere/) of Jan 26), while Lindsay works on making the dream a reality via CSS/HTML.
 
 4. We've been inspired by the recent trend toward internationalizing Ruby on Rails applications, and have nominated the most Continental of our Fellows, Alex, to the position of Internationalization Expert(-to-be). I'm sure you'll be hearing more from him about this exciting new development in the near future.
 

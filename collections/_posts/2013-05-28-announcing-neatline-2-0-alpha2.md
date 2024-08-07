@@ -13,7 +13,7 @@ crosspost:
     url: http://dclure.org/logs/announcing-neatline-2-0-alpha2/
 ---
 
-We're pleased to announce Neatline 2.0-alpha2, a second developer-preview version that gets us one step closer to a stable 2.0 release! For now, this is still just an testing release aimed at engineers and other folks who want to experiment with the new set of features (for more information, check out the [announcement for the first testing release](http://www.scholarslab.org/geospatial-and-temporal/announcing-neatline-2-0-alpha1/)). Grab the code here:
+We're pleased to announce Neatline 2.0-alpha2, a second developer-preview version that gets us one step closer to a stable 2.0 release! For now, this is still just an testing release aimed at engineers and other folks who want to experiment with the new set of features (for more information, check out the [announcement for the first testing release](https://scholarslab.org/geospatial-and-temporal/announcing-neatline-2-0-alpha1/)). Grab the code here:
 
 [Neatline-2.0-alpha2](http://static.scholarslab.org/wp-content/uploads/2013/05/Neatline-2.0-alpha2.zip) | [NeatlineWaypoints-2.0-alpha2](http://static.scholarslab.org/wp-content/uploads/2013/05/NeatlineWaypoints-2.0-alpha2.zip) | [NeatlineSimile-2.0-alpha2](http://static.scholarslab.org/wp-content/uploads/2013/05/NeatlineSimile-2.0-alpha2.zip
 

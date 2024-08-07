@@ -14,6 +14,6 @@ category: announcement
 
 On September 25, 2012, Dr. Guoping Huang, Assistant Professor, Department of Urban and Environmental Planning at UVa spoke in the Scholars' Lab on GIS and the Humanities, discussing several digital humanities projects, including the [Digital Atlas of Roman and Medieval Civilizations](http://darmc.harvard.edu/icb/icb.do) (DARMC) project, the [WorldMap](http://worldmap.harvard.edu/) project, and the [Chinese Historical GIS project](http://www.fas.harvard.edu/~chgis/), to showcase how GIS can help humanists explore new grounds for interdisciplinary research.
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.19050142938/enclosure.mp3"]

@@ -17,7 +17,7 @@ redirect_from:
 
 Even though a lot of open source projects encourage folks to look at the code and modify it, they don't just let anyone add anything back to the original project. Projects usually have one or several people with direct commit access, who don't need permission to do commits. This doesn't mean you can't contribute to the project; you'll just need to get your own copy of the code, make changes there, and then send them back to the original project for review.
 
-Contributing to an open source project can be a lot of fun, and [Github](http://github.com) makes that process pretty easy. Still, there are a few steps to keep in mind to make sure your workflow is sound and your contributions have better chances of getting accepted. To follow along, you'll need an account on Github, and you'll need to have git installed on your machine. This post won't go into detail about using git, but if you're not familiar with it, check out Eric's post on [Teaching Git](http://www.scholarslab.org/praxis-program/teaching-git/) and the [git resources we've collected for the Praxis Program](http://praxis.scholarslab.org/topics/intro-to-git/).
+Contributing to an open source project can be a lot of fun, and [Github](http://github.com) makes that process pretty easy. Still, there are a few steps to keep in mind to make sure your workflow is sound and your contributions have better chances of getting accepted. To follow along, you'll need an account on Github, and you'll need to have git installed on your machine. This post won't go into detail about using git, but if you're not familiar with it, check out Eric's post on [Teaching Git](https://scholarslab.org/praxis-program/teaching-git/) and the [git resources we've collected for the Praxis Program](http://praxis.scholarslab.org/topics/intro-to-git/).
 
 For this post, I'm going to use [Omeka](http://omeka.org) as our example, since I've been sending a few pull requests their way as I've been developing themes for their upcoming 2.0 release. But the process I describe can easily be applied to many other projects. (In fact, [Scholars' Lab](http://scholarslab.org) would love for anyone to fork [any of our repositories](http://github.com/scholarslab) and send stuff back.)
 
@@ -26,7 +26,7 @@ For this post, I'm going to use [Omeka](http://omeka.org) as our example, since 
 
 
 <figure>
-  [![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-07-at-2.25.08-PM.png)](http://www.scholarslab.org/dh-developer/forking-fetching-pushing-pulling/attachment/screen-shot-2012-11-07-at-2-25-08-pm/)
+  [![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-07-at-2.25.08-PM.png)](https://scholarslab.org/dh-developer/forking-fetching-pushing-pulling/attachment/screen-shot-2012-11-07-at-2-25-08-pm/)
   <figcaption>
  Dashboard for my fork of Omeka, indicating that it has been forked from omeka/Omeka.
 </figcaption>
@@ -47,7 +47,7 @@ Just to be clear, forking is a _Github_ thing, not a git thing. When you fork a 
 The dashboard for you fork will indicate that it was forked from somewhere.
 
 <figure>
-  [![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-07-at-2.10.41-PM.png)](http://www.scholarslab.org/dh-developer/forking-fetching-pushing-pulling/attachment/screen-shot-2012-11-07-at-2-10-41-pm/)
+  [![](http://static.scholarslab.org/wp-content/uploads/2012/11/Screen-shot-2012-11-07-at-2.10.41-PM.png)](https://scholarslab.org/dh-developer/forking-fetching-pushing-pulling/attachment/screen-shot-2012-11-07-at-2-10-41-pm/)
   <figcaption>
  The fork button
 </figcaption>

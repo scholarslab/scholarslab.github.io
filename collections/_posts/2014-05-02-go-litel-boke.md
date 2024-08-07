@@ -57,6 +57,6 @@ But ȝet to purpos of my rather speche --[^3]
 
 [^1]: Geoffrey Chaucer, “Chaucers Wordes unto Adam,” <[http://www.bartleby.com/258/61.html](http://www.bartleby.com/258/61.html)>
 
-[^2]: [http://www.scholarslab.org/digital-humanities/on-stemmatics/](http://www.scholarslab.org/digital-humanities/on-stemmatics/)
+[^2]: [https://scholarslab.org/digital-humanities/on-stemmatics/](https://scholarslab.org/digital-humanities/on-stemmatics/)
 
 [^3]: Geoffrey Chaucer, _Troilus and Criseyde_, ed. Barry Windeatt (London: Longman, 1984),  < [http://quod.lib.umich.edu/c/cme/Troilus/1:5.28?rgn=div2;view=toc](http://quod.lib.umich.edu/c/cme/Troilus/1:5.28?rgn=div2;view=toc)>, V.1786-99.

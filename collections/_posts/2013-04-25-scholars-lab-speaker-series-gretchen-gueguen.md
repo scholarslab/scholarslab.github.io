@@ -17,6 +17,6 @@ In February, Gretchen Gueguen, Digital Archivist in UVa Library's Digital Curati
 Summary:
 The information age has ushered in the biggest changes in human communication since the rise of printed text. The dynamic and ephemeral nature of electronic communication presents stark challenges to the fundamental principles of the archival practice. Join us for a look at how the tradition of collecting and creating archives is facing this paradigm shift and how the historical record will be shaped for the future.
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.23237371565/enclosure.mp3"]

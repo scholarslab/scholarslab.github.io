@@ -25,7 +25,7 @@ Summary:
 Although sound studies and interdisciplinary music and poetry scholarship have increased over the last decade, scholars have not had the digital tools necessary to make their auditory arguments accessible to a wider audience. This talk will present two tools built by Scholars' Lab Fellow Joanna Swafford that will help change that: _Songs of the Victorians_, an archive and analysis of parlor and art song settings of Victorian poems, and _Augmented Notes_, a tool that will let scholars build their own interdisciplinary websites like _Songs of the Victorians_.
 
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.23538270765/enclosure.mp3"]
 

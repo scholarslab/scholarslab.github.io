@@ -22,6 +22,6 @@ The Canterbury region in the South Island of New Zealand has experienced over 11
 
 You can find Dr. Smithies online on his website ([jamessmithies.org](http://jamessmithies.org/)) and on twitter ([@jamessmithies](https://twitter.com/jamessmithies)).
 
-As always, you can listen to (or [subscribe to](http://www.scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
+As always, you can listen to (or [subscribe to](https://scholarslab.org/category/podcasts/)) our podcasts on the Scholars' Lab blog, or [on iTunesU](http://itunes.apple.com/us/itunes-u/scholars-lab-speaker-series/id401906619).
 
 [podloveaudio src="http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/virginia-public-dz.5154837759.05154837761.25360114143/enclosure.mp3"]

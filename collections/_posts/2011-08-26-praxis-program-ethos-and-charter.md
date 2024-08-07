@@ -11,7 +11,7 @@ tags:
 - praxis
 ---
 
-As Bethany already explained in her [last post](http://www.scholarslab.org/praxis-program/announcing-the-praxis-program/), the [Praxis Program](http://praxis.scholarslab.org) will give a few graduate students the opportunity to learn on-the-job in a humanities shop. The program centers around building a project, named Prism, for public use and critique. For the next academic year, students will work on that project, and in the process critically engage a host of activities we think vital for knowledge workers in the digital age.
+As Bethany already explained in her [last post](https://scholarslab.org/praxis-program/announcing-the-praxis-program/), the [Praxis Program](http://praxis.scholarslab.org) will give a few graduate students the opportunity to learn on-the-job in a humanities shop. The program centers around building a project, named Prism, for public use and critique. For the next academic year, students will work on that project, and in the process critically engage a host of activities we think vital for knowledge workers in the digital age.
 
 No doubt this is hands-on learning: Wayne, Eric R., and David will have students eyeball-deep in programming (and those oh-so-important unit tests!), while Joe and I talk about design and usability. Bethany, Julie, and Eric J. will take turns preparing students for project management and outreach, budgets, and team-building. There’s a rough schedule and list of topics on the [Praxis site](http://praxis.scholarslab.org), but the direction and shape of the year will depend on how each week goes.
 
