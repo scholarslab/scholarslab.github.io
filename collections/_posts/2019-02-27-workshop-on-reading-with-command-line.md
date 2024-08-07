@@ -28,7 +28,7 @@ The overriding concern for me was to communicate the technical skills the studen
 
 To start off, I shared several different images of graphical user interfaces like this one.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/liewcf/14123978540" title="LENOVO Yoga Tablet 8"><img src="https://farm4.staticflickr.com/3710/14123978540_2e09c97bbd_k.jpg" width="2048" height="1365" alt="LENOVO Yoga Tablet 8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/liewcf/14123978540" title="LENOVO Yoga Tablet 8"><img src="https://farm4.staticflickr.com/3710/14123978540_2e09c97bbd_k.jpg" width="2048" height="1365" alt="LENOVO Yoga Tablet 8"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I began by simply asking the students to describe what they saw, framing the activity as continuous with their usual practices of analyzing prose, poetry, or photographs. In the same way that any piece of a text or image can be interpreted and described, so too can technology be subjected to the same analysis. This component of the workshop was inspired by [Erin Rose Glass](http://www.erinroseglass.com/). When she visited the Scholars' Lab last semester for a talk on surveillance capitalism, she asked the audience to close read the Microsoft Word interface, and I thought the move did a great job of defamiliarizing an everyday piece of technology and subjecting it to critique. In this case, I asked my students a series of questions:
 

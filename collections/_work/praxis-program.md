@@ -47,13 +47,13 @@ collaborators:
     role: 3D Data and Content Specialist
   - name: Alison Booth
     slug: alison-booth
-    role: Academic Director, Scholars' Lab
+    role: Faculty Director, DHC
   - name: Amanda Visconti
     slug: amanda-visconti
-    role: Managing Director, Scholars' Lab
+    role: Director, Scholars' Lab
   - name: Laura Miller
     slug: laura-miller
-    role: Head of Public Programs
+    role: Assistant Director for Public Services
   - name: Ronda Grizzle
     slug: ronda-grizzle
     role: Project Management and Technical Training Specialist 

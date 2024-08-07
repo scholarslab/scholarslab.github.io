@@ -2,7 +2,7 @@
 collaborators:
   - name: Amanda Visconti
     slug: amanda-visconti
-    role: Managing Director
+    role: Director
   - name: Brandon Walsh
     slug: brandon-walsh
     role: Head of Student Programs
