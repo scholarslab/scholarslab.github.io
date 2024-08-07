@@ -29,4 +29,4 @@ restrictions/preferences and other accommodations you need. The only thing you
 absolutely need to bring is your interest and attention, but a laptop would be
 handy.
 
-[Register here!]()
+[Register here!](https://cal.lib.virginia.edu/calendar/events/GradCamp2024)
