@@ -5,51 +5,49 @@ layout: default
 {% assign colors = site.data.work[page.slug] %}
 {% assign title_array = page.title | split: ' ' %}
 
-	<header>
-		<hgroup>
+<header>
+	<hgroup>
 		<span class="eyebrow">Our Work</span>
 		<h1>{{ page.title | replace: ' - ', ': ' }}</h1>
 		</hgroup>
-	</header>
-	<div class="content">
-		<div class="project-image">
-			<img src="{{ '/assets/img/work/' | append: page.banner-img }}" alt="">
-		</div>
-		<div class="metadata">
-			{% if page.start-year == page.end-year or page.end-year.blank? %}
-			<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}</div></div>
-			{% else %}
-			<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}-{{ page.end-year }}</div></div>
-			{% endif %}
-			<div class="project-content__category">{% if page.research-category %}<span>Work type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div>{% endif %}</div>
-			{% if page.link %}<div class="project-content__cta"><a href="{{ page.link }}">Visit project</a></div>{% endif %}
-		</div>
-	{{ content }}
-	<div id="collaborators">
-		<h2>Collaborators:</h2>
-		<ul class="project-collab__people">
-		{% for person in page.collaborators %}
-			<li>{% if person.slug %}<a href="{{ site.baseurl
-			}}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{
-			person.name }}{% endif %}{% if person.role %}, {{ person.role
-			}}</li>{% endif %}
-		{% endfor %}
-		</ul>
+</header>
+<div class="content">
+	<div class="project-image">
+		<img src="{{ '/assets/img/work/' | append: page.banner-img }}" alt="">
 	</div>
-	{% assign site_posts = site.posts %}
-	{% if page.title == 'Prism' or page.title == 'Ivanhoe' or page.title == 'ClockWork' or page.title == 'Dash-Amerikan' or page.title == 'UVA Reveal' or page.title == 'Neatline' %}
-		{% assign project_posts = site_posts | where: 'tags', page.title %}
-		{% if project_posts != empty %}
-		<div id="related-posts">
-			 <h2>Related Posts</h2>
-			 <ul>
-			  {% for post in project_posts %}
-					{% capture authorstring %}
-					{% include author-name.html authorid=post.author %}
-					{% endcapture %}
-				  <li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
-			  {% endfor %}
-				</ul>
-		{% endif %}
-	{% endif %}
+	<div class="metadata">
+{% if page.start-year == page.end-year or page.end-year.blank? %}
+		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}</div></div>
+{% else %}
+		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}-{{ page.end-year }}</div></div>
+{% endif %}
+		<div class="project-content__category">{% if page.research-category %}<span>Work type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div>{% endif %}</div>
+{% if page.link %}<div class="project-content__cta"><a href="{{ page.link }}">Visit project</a></div>{% endif %}
+	</div>
+{{ content }}
+<div id="collaborators">
+	<h2>Collaborators:</h2>
+	<ul class="project-collab__people">
+{% for person in page.collaborators %}
+		<li>{% if person.slug %}<a href="{{ site.baseurl }}/people/{{person.slug}}/">{{ person.name }}</a>{% else %}{{
+person.name }}{% endif %}{% if person.role %}, {{ person.role }}</li>{% endif %}
+{% endfor %}
+	</ul>
+</div>
+{% assign site_posts = site.posts %}
+{% if page.title == 'Prism' or page.title == 'Ivanhoe' or page.title == 'ClockWork' or page.title == 'Dash-Amerikan' or page.title == 'UVA Reveal' or page.title == 'Neatline' %}
+	{% assign project_posts = site_posts | where: 'tags', page.title %}
+{% if project_posts != empty %}
+<div id="related-posts">
+	h2>Related Posts</h2>
+	<ul>
+{% for post in project_posts %}
+{% capture authorstring %}
+{% include author-name.html authorid=post.author %}
+{% endcapture %}
+		<li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ authorstring | strip }}</li>
+{% endfor %}
+	</ul>
+{% endif %}
+{% endif %}
 </div>
