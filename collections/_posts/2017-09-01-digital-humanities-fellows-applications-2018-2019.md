@@ -34,7 +34,7 @@ See past fellowship winners [on our People page](http://scholarslab.org/people/
   * The fellowship is provided to students who have exhausted the financial support offered to them upon admission. As such, students will typically apply during their fifth year of study or beyond for a sixth year of support.*
 
  	
-  * Applicants are expected to have digital humanities experience, though this background could take a variety of forms. Experience can include formal fellowships like the [Praxis Program,](http://praxis.scholarslab.org/) but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
+  * Applicants are expected to have digital humanities experience, though this background could take a variety of forms. Experience can include formal fellowships like the [Praxis Program,](https://praxis.scholarslab.org/) but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
 
  	
   * Applicants must be enrolled full time in the year for which they are applying.

@@ -36,4 +36,4 @@ The first public release seems like an excellent opportunity to start trying to 
     Prism, meanwhile, provides information about how texts _just are_ read. I think it would be fascinating to take this to the next level and stage formal experiments in which subjects are presented with a text and asked to mark it up with a small number (even just one) of carefully-selected, highly-controlled terms. Done responsibly, and with a healthy aversion to the sugary siren call of Data in a field that's fundamentally in the business of studying art, I think that this could provide fascinating insights about everything from the concept of Kantian "expertise" in the formation of aesthetic judgments to the questions about how people of different ages, ethnicities, genders, and disciplinary affiliations engage with texts. How does a college freshman read differently than a 6th year English graduate student? How do physicists read differently from philosophers?
 
 
-Either way, I can't wait to see [where it all goes](http://praxis.scholarslab.org).
+Either way, I can't wait to see [where it all goes](https://praxis.scholarslab.org).

@@ -25,7 +25,7 @@ Since its beginnings in 2007, the Graduate Fellowship in Digital Humanities has 
 
 * Applicants must be ABD, having completed all course requirements and been admitted to candidacy for the doctorate in the humanities, social sciences or the arts at the University of Virginia.
 * The fellowship is provided to students who have exhausted the financial support offered to them upon admission. As such, GSAS students will typically apply during their fifth year of study or beyond for a sixth year of support.[^1] The funding packages for Architecture School students operate on a different funding cycle. As such, Architecture PhD students should confirm their eligibility with both [Brandon Walsh](mailto:bmw9t@virginia.edu) and their program director prior to applying.
-* Applicants are expected to have digital humanities experience, though this background could take a variety of forms. Experience can include formal fellowships like the [Praxis Program](http://praxis.scholarslab.org/), but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
+* Applicants are expected to have digital humanities experience, though this background could take a variety of forms. Experience can include formal fellowships like the [Praxis Program](https://praxis.scholarslab.org/), but it could also include work on a collaborative digital project, comfort with programing and code management, public scholarship, or critical engagement with digital tools.
 * Applicants must be enrolled full time in the year for which they are applying.
 * A faculty advisor must review and approve the scholarly content of the proposal.
 

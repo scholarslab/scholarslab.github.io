@@ -9,7 +9,7 @@ tags:
 category: announcement
 ---
 
-I'm pleased to share a formal job posting for an 18-month research-and-writing position with the Scholarly Communication Institute. The posting is limited to current employees of the Unversity of Virginia for four business days, after which it will open more broadly.*  It's a short-term position, but an excellent opportunity to work with [SCI](http://uvasci.org/) leadership and representatives of the following groups: the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org/), [CHCI](http://chcinetwork.org/), [centerNet](http://digitalhumanities.org/centernet), [PressForward](http://pressforward.org/), the [Modern Language Association](http://mla.org), the [Alliance for Networking Visual Culture](http://scalar.usc.edu/anvc/?page_id=2), the [ACLS](http://www.acls.org/), [CLIR](http://clir.org), and more. The timeframe for our decision is very short, so interested applicants should not delay!
+I'm pleased to share a formal job posting for an 18-month research-and-writing position with the Scholarly Communication Institute. The posting is limited to current employees of the Unversity of Virginia for four business days, after which it will open more broadly.*  It's a short-term position, but an excellent opportunity to work with [SCI](http://uvasci.org/) leadership and representatives of the following groups: the Scholars' Lab [Praxis Program](https://praxis.scholarslab.org/), [CHCI](http://chcinetwork.org/), [centerNet](http://digitalhumanities.org/centernet), [PressForward](http://pressforward.org/), the [Modern Language Association](http://mla.org), the [Alliance for Networking Visual Culture](http://scalar.usc.edu/anvc/?page_id=2), the [ACLS](http://www.acls.org/), [CLIR](http://clir.org), and more. The timeframe for our decision is very short, so interested applicants should not delay!
 
 **UPDATE: The position is now open to all qualified candidates.**
 Please note new URL below!
@@ -25,7 +25,7 @@ Reporting to UVa Library's [director of digital research and scholarship](http:/
 * help design, execute, and analyze a broad-based, anonymous survey of humanities professionals (together with the perceptions of their employers) to examine graduate-level preparation for so-called "[alternative academic](http://mediacommons.futureofthebook.org/alt-ac/)" careers (20%);
 * attend and provide research support for three meetings and regular conference calls on new-model publishing and authoring environments, in order to take notes and help compile proceedings and recommendations (15%);
 * attend and provide research support for two to three meetings centering on the reform of methodological training in the humanities, involving major humanities consortia, professional associations, and funders, to take notes and help compile proceedings and recommendations (15%);
-* assist in research and organizational tasks related to the development and day-to-day operations of the [Praxis Program](http://praxis.scholarslab.org/) at the University of Virginia Library, including the hosting of a gathering to foster inter-institutional collaboration on similar initiatives (20%);
+* assist in research and organizational tasks related to the development and day-to-day operations of the [Praxis Program](https://praxis.scholarslab.org/) at the University of Virginia Library, including the hosting of a gathering to foster inter-institutional collaboration on similar initiatives (20%);
 * and perform other research and writing tasks as needed by SCI principals (10%).
  
 

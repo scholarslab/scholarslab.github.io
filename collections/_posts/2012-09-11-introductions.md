@@ -12,7 +12,7 @@ tags:
 
 Hello All,
 
-In this introductory post I am going to tell you a little bit about myself, my research interests, and the sources of my enthusiasm for [Praxis](http://praxis.scholarslab.org/) and [Prism](http://prism.scholarslab.org/).
+In this introductory post I am going to tell you a little bit about myself, my research interests, and the sources of my enthusiasm for [Praxis](https://praxis.scholarslab.org/) and [Prism](http://prism.scholarslab.org/).
 
 So, let’s start with the basics:  I am currently a third year graduate student at UVa’s Department of Sociology.  Though, as a sociologist, I am trained to think scientifically about the social landscape, I also have a strong connection to the humanities.  I have a B.A. in music (with a focus on vocal performance) and a M.A. in musicology (focus on research and scholarship).  Given my background, it might not be surprising that I specialize in cultural sociology.  This means a lot more than an interest in applying social theory to culture or the arts.  It means that I am interested in the way that culture shapes our thinking, constrains or enables action and agency, and structures our experience of the world.  More specifically, I am interested in the way that the available scripts (you might also say logics or frameworks) within a culture structure our way of making meaning and making truth claims.
 

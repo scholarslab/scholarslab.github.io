@@ -11,4 +11,4 @@ tags:
 - praxis
 ---
 
-After a bit of time discussing and editing, we're happy to announce that the project charter for the 2011–2012 Praxis Program is [available on our site](http://praxis.scholarslab.org/charter.html). The charter outlines the team's broader goals for Prism and the program, as well as our approaches and responsibilities for achieving those goals collaboratively. Feel free to read it, and let us know what you think!
+After a bit of time discussing and editing, we're happy to announce that the project charter for the 2011–2012 Praxis Program is [available on our site](https://praxis.scholarslab.org/charter). The charter outlines the team's broader goals for Prism and the program, as well as our approaches and responsibilities for achieving those goals collaboratively. Feel free to read it, and let us know what you think!

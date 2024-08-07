@@ -28,7 +28,7 @@ The first result when you Google charter, on the other hand, is Charter Telecomm
 
 But as members of the new Praxis Fellowship cohort, my fellow fellows and I tried to chart (I’m sorry) a very different path. The result of our work, The Praxis Charter, 2017-2018, is the first thing we ever created together.
 
-[http://praxis.scholarslab.org/charter/charter-2017-2018/](http://praxis.scholarslab.org/charter/charter-2017-2018/)
+[https://praxis.scholarslab.org/charter/charter-2017-2018/](https://praxis.scholarslab.org/charter/charter-2017-2018/)
 
 Transparency is one of our core values, so I am going to use this post to reveal the process by which we made this document.
 

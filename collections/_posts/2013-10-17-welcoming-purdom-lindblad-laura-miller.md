@@ -11,7 +11,7 @@ category: announcement
 
 With great pleasure, I write to announce two wonderful additions to the Scholars' Lab team!
 
-Purdom Lindblad will join us on December 30th as our much-anticipated Head of Scholars' Lab Graduate Programs (including, among other programs, [Praxis](http://praxis.scholarslab.org/) and the [Praxis Network](http://praxis-network.org/)), and Laura Miller will shortly take on a dual position coordinating public programs in the SLab and assisting me with strategic planning for digital humanities in the UVa Provost's office.
+Purdom Lindblad will join us on December 30th as our much-anticipated Head of Scholars' Lab Graduate Programs (including, among other programs, [Praxis](https://praxis.scholarslab.org/) and the [Praxis Network](http://praxis-network.org/)), and Laura Miller will shortly take on a dual position coordinating public programs in the SLab and assisting me with strategic planning for digital humanities in the UVa Provost's office.
 
 <figure>
   ![Purdom Lindblad](http://static.scholarslab.org/wp-content/uploads/2013/10/purdom-300x200.jpg) <figcaption>

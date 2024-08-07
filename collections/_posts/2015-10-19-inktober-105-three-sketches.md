@@ -10,7 +10,7 @@ tags:
 - clockwork
 crosspost:
   - title: my post on our Praxis page
-    url: http://praxis.scholarslab.org/blog/2015/10/05/inktober-10-5-three-sketches/
+    url: https://praxis.scholarslab.org/blog/2015/10/05/inktober-10-5-three-sketches/
 ---
 
 Wanted to put up a few time sketches for our own version of [Inktober](http://mrjakeparker.com/inktober). I'm aiming for every other day or so, so here's three.

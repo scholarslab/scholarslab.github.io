@@ -10,7 +10,7 @@ tags:
 - code
 ---
 
-Mentoring and training have always been a big part of the Scholars' Lab's mission. With the [Praxis Program](http://praxis.scholarslab.org/), that focus has only intensified over the last year. All this emphasis on growth has me thinking about how I try to improve professionally myself.
+Mentoring and training have always been a big part of the Scholars' Lab's mission. With the [Praxis Program](https://praxis.scholarslab.org/), that focus has only intensified over the last year. All this emphasis on growth has me thinking about how I try to improve professionally myself.
 
 For the last few years, I've been delving into [functional programming](http://en.wikipedia.org/wiki/Functional_programming). This started by working first with [Clojure](http://clojure.org/) and more recently with [Haskell](http://www.haskell.org/haskellwiki/Haskell). In 2008 I wrote an extended tutorial introduction to Clojure and natural language processing as a [series of blog posts](http://writingcoding.blogspot.com/2008/06/clojure-series-table-of-contents.html). Although they're a little out of date, they still see some traffic.
 

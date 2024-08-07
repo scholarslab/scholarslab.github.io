@@ -19,7 +19,7 @@ Emily Senefeld project is titled "The Cultural Programs of the Highlander Folk 
 
 James, Jennifer, and Emily's projects converge around questions of social networks and mapping. We are looking forward to seeing their projects develop.
 
-This year marks the 4th year of our [Praxis Program!](http://praxis.scholarslab.org) Past Praxis teams developed [Prism](http://prism.scholarslab.org), a web application for crowd-based interpretations of texts, and re-imagined [Ivanhoe](http://ivanhoe.scholarslab.org), a platform for playfully (and collaboratively) interpreting texts and artifacts. This year’s cohort will refine Ivanhoe as well as explore our new Maker Space.
+This year marks the 4th year of our [Praxis Program!](https://praxis.scholarslab.org) Past Praxis teams developed [Prism](http://prism.scholarslab.org), a web application for crowd-based interpretations of texts, and re-imagined [Ivanhoe](http://ivanhoe.scholarslab.org), a platform for playfully (and collaboratively) interpreting texts and artifacts. This year’s cohort will refine Ivanhoe as well as explore our new Maker Space.
 
 _** 2014-2015 Praxis Fellows**_ are:
 

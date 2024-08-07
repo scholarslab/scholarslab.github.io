@@ -134,4 +134,4 @@ Having a WordPress site compromised can be kind of embarrassing. There are a l
   * Set your file permissions properly;
 
 
-If this is happening to you more than you'd like, I would also suggest taking a look at some of the static web generators. We use [jekyll](http://jekyllrb.com/) for the [Praxis webiste](http://praxis.scholarslab.org); [SecondCrack](https://github.com/marcoarment/secondcrack) by Maro Arment if you like PHP, and [Growl](https://github.com/xfire/growl/) if you prefer Python.
+If this is happening to you more than you'd like, I would also suggest taking a look at some of the static web generators. We use [jekyll](http://jekyllrb.com/) for the [Praxis webiste](https://praxis.scholarslab.org); [SecondCrack](https://github.com/marcoarment/secondcrack) by Maro Arment if you like PHP, and [Growl](https://github.com/xfire/growl/) if you prefer Python.

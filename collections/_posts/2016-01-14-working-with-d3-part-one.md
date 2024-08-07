@@ -25,7 +25,7 @@ Halloween is great. Free candy. And I have six kids to go out and get it for me.
 
 I cull some of the finest chocolates from their bags after trick-or-treating and enjoy them throughout the next week. We usually eat everything within a week...
 
-This year I decided to track how much candy I ate, and which ones, in the week after Halloween. It was only because we needed to do something like this for [Praxis](http://praxis.scholarslab.org/memo/2015/10/30/track-the-treat/). Otherwise I eat candy without a second thought.
+This year I decided to track how much candy I ate, and which ones, in the week after Halloween. It was only because we needed to do something like this for [Praxis](https://praxis.scholarslab.org/memo/2015/10/30/track-the-treat/). Otherwise I eat candy without a second thought.
 
 
 

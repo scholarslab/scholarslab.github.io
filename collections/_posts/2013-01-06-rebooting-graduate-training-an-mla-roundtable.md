@@ -73,7 +73,7 @@ Some specific skills come up frequently, including project management, the abili
 
 The good news is that all of the elements that employers seek would also be hugely beneficial for those grads that do go on to become professors. By rethinking their curricula in such a way that students gain experience in things like collaborative project development and public engagement, departments would be strengthening their students regardless of the path they choose to take.
 
-UVa’s [Praxis Program](http://praxis.scholarslab.org) is designed as one of several new initiatives that help to assess needs and opportunities, develop and articulate new models, and foster the growth of collaborative networks among relevant institutions and individuals.
+UVa’s [Praxis Program](https://praxis.scholarslab.org) is designed as one of several new initiatives that help to assess needs and opportunities, develop and articulate new models, and foster the growth of collaborative networks among relevant institutions and individuals.
 
 To help showcase strong models of reform, SCI is now developing the **Praxis Network**: a network of several existing programs that have developed innovative models of methodological training along the lines of the Praxis Program at UVa.
 

@@ -14,7 +14,7 @@ It’s a busy time around the Praxis Lab. At the moment our attention is divided
 
 As a result, everything feels very baby-steppy at this point, such that I think it’s worth considering and celebrating the steps we have taken and realizing that they may not be so small as they seem.
 
-First, we have now delivered [our charter](http://praxis.scholarslab.org/charter/charter-2014-2015/). This document showcases the collaboration and camaraderie we have developed in these opening months, between movie viewings, foodie chat, and coffee machine queues. While the charter is important of itself, it’s also something we know that we can revisit as needed; it’s the interpersonal bonds we will be relying on to carry us through the project development.
+First, we have now delivered [our charter](https://praxis.scholarslab.org/charter/charter-2014-2015/). This document showcases the collaboration and camaraderie we have developed in these opening months, between movie viewings, foodie chat, and coffee machine queues. While the charter is important of itself, it’s also something we know that we can revisit as needed; it’s the interpersonal bonds we will be relying on to carry us through the project development.
 
 Second, we have all established a web presence, including rudimentary personal websites (my own of which I’ll link once I’m a _little_ more confident about it…). This shows off an initial development of skills in HTML, CSS, and Git that will strengthen with use over the Praxis year and beyond.
 

@@ -10,7 +10,7 @@ tags:
 - praxis
 ---
 
-I made it [through HTML/CSS](http://praxis.scholarslab.org/topics/html-and-css/) and miraculously I still have a computer and most my sanity. These weeks of learning HTML/CSS have happened to coincide with my first weeks of being a Teaching Assistant. Having these experiences together has been invaluable for a few reasons.
+I made it [through HTML/CSS](https://praxis.scholarslab.org/topics/html-and-css/) and miraculously I still have a computer and most my sanity. These weeks of learning HTML/CSS have happened to coincide with my first weeks of being a Teaching Assistant. Having these experiences together has been invaluable for a few reasons.
 
 1. It has forced me to be a student again. While I am still in graduate courses as a student, it has been many years since I was in a course where my knowledge of the subject was so limited and my teachers knowledge so extensive. I’ve already gained a lot of insight into how to calmly and politely point out to a student that what they are doing is completely off base. This is a gift the Praxis team has given to me.
 

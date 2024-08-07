@@ -66,7 +66,7 @@ For the last almost three years, I've been senior developer here at the [Scholar
 
 
 
-  * **Mentoring and education**: Our biggest focus is education and mentoring. Sometimes that means helping someone who walks in with a digital project. More often it involves helping one of the Scholars' Lab's fellows or one of the students in the [Praxis Program](http://praxis.scholarslab.org/).
+  * **Mentoring and education**: Our biggest focus is education and mentoring. Sometimes that means helping someone who walks in with a digital project. More often it involves helping one of the Scholars' Lab's fellows or one of the students in the [Praxis Program](https://praxis.scholarslab.org/).
 
 
 

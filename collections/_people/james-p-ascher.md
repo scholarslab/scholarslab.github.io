@@ -24,4 +24,4 @@ Previously, he was Assistant Professor in the Libraries and in English at the Un
 
 He thinks there is a spiritual connection between literate programming, lexicography, bibliography, and time. He is trying to find it while he is a Praxis Fellow.
 
-[He doesn't like writing bios.](http://praxis.scholarslab.org/blog/2015/10/01/jpsabio/)
+[He doesn't like writing bios.](https://praxis.scholarslab.org/blog/2015/10/01/jpsabio/)

@@ -35,7 +35,7 @@ When testing Omeka plugins, I use [Omeka's unit testing framework (PHPUnit)](htt
 
 
 
-For the [Praxis Program](http://praxis.scholarslab.org/), we've been talking about using [Cucumber](http://cukes.info/) for testing. I thought this would be a good time to try it out.
+For the [Praxis Program](https://praxis.scholarslab.org/), we've been talking about using [Cucumber](http://cukes.info/) for testing. I thought this would be a good time to try it out.
 
 
 

@@ -14,7 +14,7 @@ tags:
 ---
 We are pleased to share *[Land and Legacy](https://landandlegacy.scholarslab.org/)*, the project launched by this year's Praxis cohort. 
 
-The [Praxis Program](http://praxis.scholarslab.org/) is a year-long reimagining of graduate methodological training for the digital age. Each year, a cohort of students works with the [Scholars' Lab](http://scholarslab.org/) to design, implement, and execute a digital project. This excerpt from *Land and Legacy*'s about page best summarizes the work of this year's cohort:
+The [Praxis Program](https://praxis.scholarslab.org/) is a year-long reimagining of graduate methodological training for the digital age. Each year, a cohort of students works with the [Scholars' Lab](http://scholarslab.org/) to design, implement, and execute a digital project. This excerpt from *Land and Legacy*'s about page best summarizes the work of this year's cohort:
 
 >  <i>Land and Legacy</i> investigates the University of Virginia’s and UVA Foundation’s land development and expansion throughout Charlottesville and Albemarle County since the 1980s. In light of UVA’s 2030 plan to be “[Great and Good](https://strategicplan.virginia.edu/),” <i>Land and Legacy</i> examines how these developments have affected local communities, and place these impacts in dialogue with UVA’s public narratives.
 

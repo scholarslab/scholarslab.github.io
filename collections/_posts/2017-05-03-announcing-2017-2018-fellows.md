@@ -7,7 +7,7 @@ title: Announcing 2017-2018 Fellows!
 category: announcement
 ---
 
-We are thrilled to announce the 2017-2018 Scholar’s Lab fellows for the [Praxis Program](http://praxis.scholarslab.org/), the new Digital Humanities Project Incubator Fellowship, and the [Graduate Fellowship in the Digital Humanities](http://scholarslab.org/graduate-fellowships/). We are welcoming 14 fellows from 6 disciplines from the [arts, humanities, and social sciences](http://gsas.virginia.edu/). Our graduate fellows are joining a robust and vibrant community of [past fellows](http://scholarslab.org/people/)!
+We are thrilled to announce the 2017-2018 Scholar’s Lab fellows for the [Praxis Program](https://praxis.scholarslab.org/), the new Digital Humanities Project Incubator Fellowship, and the [Graduate Fellowship in the Digital Humanities](http://scholarslab.org/graduate-fellowships/). We are welcoming 14 fellows from 6 disciplines from the [arts, humanities, and social sciences](http://gsas.virginia.edu/). Our graduate fellows are joining a robust and vibrant community of [past fellows](http://scholarslab.org/people/)!
 
 
 ## Praxis Program

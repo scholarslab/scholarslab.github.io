@@ -18,7 +18,7 @@ tags:
 ---
 The Scholars' Lab is pleased to share  *[Connection Established](http://connection.scholarslab.org/)*, the project launched by this year's Praxis cohort. 
 
-The [Praxis Program](http://praxis.scholarslab.org/) is a year-long reimagining of graduate methodological training for the digital age. Each year, a cohort of students works with the [Scholars' Lab](http://scholarslab.org/) to design, implement, and execute a digital project. This excerpt from the about page for *Connection Established* best summarizes the work of this year's cohort:
+The [Praxis Program](https://praxis.scholarslab.org/) is a year-long reimagining of graduate methodological training for the digital age. Each year, a cohort of students works with the [Scholars' Lab](http://scholarslab.org/) to design, implement, and execute a digital project. This excerpt from the about page for *Connection Established* best summarizes the work of this year's cohort:
 
 >  Connection Established examines university teaching, life, and governance during the COVID-19 pandemic. In an interactive digital [story](https://connection.scholarslab.org/story), it asks users to make choices that engage issues of equity, accessibility, and mental health. And in an accompanying [manifesto](https://connection.scholarslab.org/manifesto) it urges a whole-person approach to teaching, learning, and labor.
 

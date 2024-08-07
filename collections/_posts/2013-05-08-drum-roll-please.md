@@ -15,7 +15,7 @@ After many months of brainstorming, debating, dreaming big, getting down to busi
 
 [![LOGO](http://static.scholarslab.org/wp-content/uploads/2013/05/LOGO-300x126.png)](http://prism.scholarslab.org/)
 
-It has been a great journey, and I think [my fellow Praxers](http://praxis.scholarslab.org/) would agree when I say that we have learned a lot.  Not only have we been introduced to the world of DH and received hands-on training in things like HTML, CSS, Ruby on Rails, database construction, and a smidge of JavaScript and Coffee Script, but we have also learned a great deal about working in a team environment and collaboration.
+It has been a great journey, and I think [my fellow Praxers](https://praxis.scholarslab.org/) would agree when I say that we have learned a lot.  Not only have we been introduced to the world of DH and received hands-on training in things like HTML, CSS, Ruby on Rails, database construction, and a smidge of JavaScript and Coffee Script, but we have also learned a great deal about working in a team environment and collaboration.
 
 Although I plan to share some of the lessons learned throughout this year with you all in a subsequent blog post, I thought I would take this opportunity to tell you about what we have done with Prism this year.
 

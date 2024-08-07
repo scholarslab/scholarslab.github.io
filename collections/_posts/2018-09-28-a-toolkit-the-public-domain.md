@@ -11,7 +11,7 @@ tags:
 - praxis
 ---
 
-January 1, 2019 is [Public Domain Day](https://lifehacker.com/these-1923-copyrighted-works-enter-the-public-domain-in-1825241296). This means that all copyrighted works published in the year 1923 will suddenly become available for anyone to publish, distribute, or reuse in their own derivative creations. To seize the moment, our [Praxis cohort](http://praxis.scholarslab.org/) will spend the next nine months constructing a "public domain toolkit." Since the project is still in the conceptual phase when all doors are open and no one knows exactly where it’s headed, now seems like a good time to reflect on what it means to work […?] the public domain.
+January 1, 2019 is [Public Domain Day](https://lifehacker.com/these-1923-copyrighted-works-enter-the-public-domain-in-1825241296). This means that all copyrighted works published in the year 1923 will suddenly become available for anyone to publish, distribute, or reuse in their own derivative creations. To seize the moment, our [Praxis cohort](https://praxis.scholarslab.org/) will spend the next nine months constructing a "public domain toolkit." Since the project is still in the conceptual phase when all doors are open and no one knows exactly where it’s headed, now seems like a good time to reflect on what it means to work […?] the public domain.
 
 You can see that I'm struggling with the prepositions. Our work will most likely derive _from_ the 1923 materials and their metadata, and it will certainly feed back _in_ to the public domain as a publicly-available resource. But what would a project _for_ the public domain look like? Who is "the public"? And should we be working _with_ the public as we move forward?
 

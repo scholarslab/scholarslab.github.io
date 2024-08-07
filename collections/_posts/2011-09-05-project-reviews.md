@@ -10,7 +10,7 @@ tags:
 - praxis
 ---
 
-As part of our second week assignment we were giving the task of reviewing three projects from the following [list](http://praxis.scholarslab.org/topics/evaluating-digital-work/). The list is interesting because it groups projects that have been around for a while with more recent contributions. The three that I chose actually belong to the former category. I thought it would be refreshing to re-view the familiar. I apologize beforehand if what I say below echoes criticism and praise already directed at these projects.
+As part of our second week assignment we were giving the task of reviewing three projects from the following [list](https://praxis.scholarslab.org/topics/evaluating-digital-work/). The list is interesting because it groups projects that have been around for a while with more recent contributions. The three that I chose actually belong to the former category. I thought it would be refreshing to re-view the familiar. I apologize beforehand if what I say below echoes criticism and praise already directed at these projects.
 
 **Zotero**
 

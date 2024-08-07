@@ -11,12 +11,12 @@ tags:
 - labor
 crosspost:
   - title: my post on our Praxis page
-    url: http://praxis.scholarslab.org/blog/2015/10/13/inktober-10-13-time-pieces-graphs/
+    url: https://praxis.scholarslab.org/blog/2015/10/13/inktober-10-13-time-pieces-graphs/
 ---
 
 Hello all - three more images for Inktober.
 
-The first is a continuation from [my previous Inktober post](http://praxis.scholarslab.org/blog/2015/10/05/inktober-10-5-three-sketches/), very simply, two tubes of toothpaste, both almost empty.
+The first is a continuation from [my previous Inktober post](https://praxis.scholarslab.org/blog/2015/10/05/inktober-10-5-three-sketches/), very simply, two tubes of toothpaste, both almost empty.
 
 [![10.13toothpaste](http://static.scholarslab.org/wp-content/uploads/2015/10/10.13toothpaste-e1445266386143.jpg)](http://static.scholarslab.org/wp-content/uploads/2015/10/10.13toothpaste-e1445266386143.jpg)
 

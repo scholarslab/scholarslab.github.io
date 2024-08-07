@@ -15,7 +15,7 @@ tags:
 - about-collaboration-community
 ---
 
-The 2020-2021 Praxis Cohort had launched their charter! Check it out over on the [Praxis website](http://praxis.scholarslab.org/charter/charter-2020-2021/). 
+The 2020-2021 Praxis Cohort had launched their charter! Check it out over on the [Praxis website](https://praxis.scholarslab.org/charter/charter-2020-2021/). 
 
 ## Part I: Emma Dove
 

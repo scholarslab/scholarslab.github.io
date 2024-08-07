@@ -27,7 +27,7 @@ Our first time reconvening after the break was to meet with [Barbara Brown Wilso
  
 To my surprise, the meeting was exactly what we needed. Our guests gave us some excellent feedback about our project. Alissa Diamond even generously offered to share some of her findings from the UVa Library’s now-closed Special Collections. I was especially appreciative of Barbara Brown Wilson’s words that all good scholars have to constantly adjust the scope of their projects. Narrowing the scope of our project was not a sign of failure. Again, the sidewalk messenger seemed to call out, “be gentle with yourself.”
  
-I am unsure of what the next six weeks will look like. As a Praxis Team, we still want to accomplish a version of what we set out to create. We know our project likely won’t look the same as what we dreamed of creating a few months ago. But we are resolved to be ok with that. As the first bullet point in the [Charter](http://praxis.scholarslab.org/charter/charter-2019-2020/) we created last fall reminds us, we value “process over outcome.”
+I am unsure of what the next six weeks will look like. As a Praxis Team, we still want to accomplish a version of what we set out to create. We know our project likely won’t look the same as what we dreamed of creating a few months ago. But we are resolved to be ok with that. As the first bullet point in the [Charter](https://praxis.scholarslab.org/charter/charter-2019-2020/) we created last fall reminds us, we value “process over outcome.”
  
 Even though yesterday’s rain washed away the chalk, I want to continue returning to my sidewalk message. In this time of tragedy, we could all use with the reminder to be gentle with ourselves and each other.
 

@@ -10,7 +10,7 @@ tags:
 - clockwork
 crosspost:
   - title: my post on our Praxis page
-    url: http://praxis.scholarslab.org/blog/2015/10/21/inktober-10-21-when-things-break/
+    url: https://praxis.scholarslab.org/blog/2015/10/21/inktober-10-21-when-things-break/
 ---
 
 The third of my four installments (here's [one](http://scholarslab.org/inktober-105-three-sketches/) and [two](http://scholarslab.org/inktober-1013-time-pieces-and-graphs/) of Inktober). And oh boy, get ready for some strange-looking sketches in this one. I tried to use a new kind of pen that has two tips and can make way thicker marks, which has resulted in many many failed drawings and a few semi-successful ones. I present to you the semi-successful ones. (For those interested in drawing implements, I've been using a [0.35mm Pigma Micron](http://sakuraofamerica.com/pen-archival) but this time tried out a [Tombow Dual Brush Pen, N15 black](http://tombowusa.com/dual-brush-pen-602.html)).

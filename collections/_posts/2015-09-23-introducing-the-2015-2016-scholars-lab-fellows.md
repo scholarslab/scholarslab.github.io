@@ -7,7 +7,7 @@ title: Introducing the 2015-2016 Scholars' Lab Fellows
 category: announcement
 ---
 
-The Lab has been a busy place lately with 8 new fellows from across the arts, humanities, and social sciences!  Our [Graduate Fellows in the Digital Humanities](http://scholarslab.org/graduate-fellowships/) and [Praxis Program Fellows](http://praxis.scholarslab.org/) join a distinguished community of [past fellows](http://scholarslab.org/people/).
+The Lab has been a busy place lately with 8 new fellows from across the arts, humanities, and social sciences!  Our [Graduate Fellows in the Digital Humanities](http://scholarslab.org/graduate-fellowships/) and [Praxis Program Fellows](https://praxis.scholarslab.org/) join a distinguished community of [past fellows](http://scholarslab.org/people/).
 
 
 ## Graduate Fellowship in the Digital Humanities
@@ -46,6 +46,6 @@ We are entering our 5th (!) year of the Praxis Program and are welcoming six tal
   * Lydia Warren (Music, Critical and Comparative Studies)
 
 
-This year’s cohort will be exploring various ways to represent time, both physically and digitally. We have [guiding questions](http://praxis.scholarslab.org/charter/charter-2015-2016/), but will be scoping the project as we go. Keep track of our experiments on the [Time page](http://praxis.scholarslab.org/time/) of the Praxis Program and our on [blog](http://scholarslab.org/archives/).
+This year’s cohort will be exploring various ways to represent time, both physically and digitally. We have [guiding questions](https://praxis.scholarslab.org/charter/charter-2015-2016/), but will be scoping the project as we go. Keep track of our experiments on the [Time page](https://praxis.scholarslab.org/time/) of the Praxis Program and our on [blog](http://scholarslab.org/archives/).
 
 Past Praxis teams developed [Prism](http://prism.scholarslab.org/), a web application for crowd-based interpretations of texts, and re-imagined [Ivanhoe](http://ivanhoe.scholarslab.org/), a platform for playfully (and collaboratively) interpreting texts and artifacts.

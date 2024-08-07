@@ -34,4 +34,4 @@ Before things get too hectic here this week with [#prismlaunch](https://scholars
 
 We're particularly excited about the diversity of backgrounds and experiences of this new cohort.  While they may well end up extending the Prism tool developed by this year's project participants, they will bring their own unique combination of disciplinary perspective and technical and social know-how to the program and we look forward to seeing where we end up going together.  We can't wait to get started with them in the fall.
 
-As always, Praxis 2012/13 will be a journey shared in the open: follow developments at [praxis.scholarslab.org](http://praxis.scholarslab.org/).
+As always, Praxis 2012/13 will be a journey shared in the open: follow developments at [praxis.scholarslab.org](https://praxis.scholarslab.org/).

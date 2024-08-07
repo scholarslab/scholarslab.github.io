@@ -11,7 +11,7 @@ tags:
 ---
 
 
-This is a blog post (one of many) celebrating the release of [Prism](http://prism.scholarslab.org/). This project and web site are the outcome of the [Praxis Program](http://praxis.scholarslab.org/), an experiment in graduate methodology training that we've been conducting at the Scholars' Lab.
+This is a blog post (one of many) celebrating the release of [Prism](http://prism.scholarslab.org/). This project and web site are the outcome of the [Praxis Program](https://praxis.scholarslab.org/), an experiment in graduate methodology training that we've been conducting at the Scholars' Lab.
 
 Well, Prism is one outcome of the Praxis Program. The most visible, at the moment. But also the least important.
 

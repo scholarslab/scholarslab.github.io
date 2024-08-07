@@ -14,7 +14,7 @@ Internet introductions are by far the weirdest introductions because you have no
 
 I’m Cecilia Márquez.  I’m have a BA from Swarthmore College in Black Studies and Gender and Sexuality Studies.  Now I’m a second year PhD student in the History Department here at UVA.  My work is mostly focused on African American History, Labor History and Latino History.
 
-My interest in [Praxis](http://praxis.scholarslab.org/) came as a shock to most people who know me.  I have a serious aversion to most technology and an even bigger aversion to being confused.  So a program that focused on embracing and challenging my ignorance of technology felt a little like a leap into the belly of the beast.  I am happy to report that after three meetings I have not felt the desire to run for the door or throw my computer at the wall.
+My interest in [Praxis](https://praxis.scholarslab.org/) came as a shock to most people who know me.  I have a serious aversion to most technology and an even bigger aversion to being confused.  So a program that focused on embracing and challenging my ignorance of technology felt a little like a leap into the belly of the beast.  I am happy to report that after three meetings I have not felt the desire to run for the door or throw my computer at the wall.
 
 At our first Praxis Team meeting--aside from me laughing nervously at all of the programming jokes I didn’t understand--we talked about our charter.  The conversation made me think more about how my values influenced my interest in the Digital Humanities.
 

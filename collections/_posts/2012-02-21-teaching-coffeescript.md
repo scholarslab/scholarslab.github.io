@@ -41,6 +41,6 @@ So what exactly was the turning point? Well, quite honestly after working with i
 
 [Better JS with CoffeeScript - Sam Stephenson (37signals)](http://vimeo.com/35258313) from [Louise Morgan](http://vimeo.com/user10059996) on [Vimeo](http://vimeo.com).
 
-Eric has walked the group through an [introduction to JavaScript and CoffeeScript](http://praxis.scholarslab.org/topics/intro-to-javascript/), and they seemed receptive to the idea of a language that compiles to JavaScript. So far, nothing has been written for the project in CoffeeScript, but I'm cautiously optimistic that the JavaScript that will drive most of the interactions will be a bit less buggy (and faster to develop) than it would had we targeted JavaScript for this project.
+Eric has walked the group through an [introduction to JavaScript and CoffeeScript](https://praxis.scholarslab.org/topics/intro-to-javascript/), and they seemed receptive to the idea of a language that compiles to JavaScript. So far, nothing has been written for the project in CoffeeScript, but I'm cautiously optimistic that the JavaScript that will drive most of the interactions will be a bit less buggy (and faster to develop) than it would had we targeted JavaScript for this project.
 
 If you need even more incentive to take a look at CoffeeScript, be sure to take a look at Gary Bernhardt's lightening talk from [CodeMash](http://codemash.org/) 2012 entitled [Wat](https://www.destroyallsoftware.com/talks/wat).

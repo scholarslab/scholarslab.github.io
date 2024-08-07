@@ -29,7 +29,7 @@ Eligibility
   * A faculty advisor must review and approve the scholarly content of the proposal.
 
 	
-  * Applicants are strongly encouraged to demonstrate prior experience in digital scholarship. Experience can include work on a collaborative project, comfort with programing, design, and code management, experience with public scholarship, and critical engagement with digital tools. Applicants with [Praxis Program](http://praxis.scholarslab.org) or equivalent experience will have a competitive edge, but all are welcome to apply.
+  * Applicants are strongly encouraged to demonstrate prior experience in digital scholarship. Experience can include work on a collaborative project, comfort with programing, design, and code management, experience with public scholarship, and critical engagement with digital tools. Applicants with [Praxis Program](https://praxis.scholarslab.org) or equivalent experience will have a competitive edge, but all are welcome to apply.
 
 
 A complete application package will include the following materials:

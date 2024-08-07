@@ -20,4 +20,4 @@ In order to play this game, players would need to learn about Poe's publishing p
 
 The multimedia possibilities for this game are marvelous.  Players could post videos demonstrating typesetting, images of later editions and illustrations, a sound clip of an aria the editor might have heard at the opera the evening before and which may have impacted his work on Poe's poem, etc.  The sky's the limit with Ivanhoe!
 
-This is just one example, but keep an eye on [our blog](http://praxis.scholarslab.org/) this week and hear from my fellow Praxers about their ideas!
+This is just one example, but keep an eye on [our blog](https://praxis.scholarslab.org/) this week and hear from my fellow Praxers about their ideas!
