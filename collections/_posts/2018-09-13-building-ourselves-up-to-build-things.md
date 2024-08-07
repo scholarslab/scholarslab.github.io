@@ -11,7 +11,7 @@ tags:
 - learning experience
 ---
 
-I’m a [Praxis](http://praxis.scholarslab.org/) fellow this year and a PhD student in Spanish. (You might also remember me as [the one who really loves public writing](http://scholarslab.org/digital-humanities/writing-in-public-on-purpose-at-washington-lee-university/); you’re going to be reading a _lot_ of blog posts from me this year.) And I’m a coder, apparently.
+I’m a [Praxis](http://praxis.scholarslab.org/) fellow this year and a PhD student in Spanish. (You might also remember me as [the one who really loves public writing](http://scholarslab.org/writing-in-public-on-purpose-at-washington-lee-university/); you’re going to be reading a _lot_ of blog posts from me this year.) And I’m a coder, apparently.
 
 Some background on that last bit. To start off our inaugural [CodeLab](https://github.com/scholarslab/CodeLab) session earlier this week, the Praxis fellows and the Scholars’ Lab staff went around the room answering a question that seems easy: _what’s your technical background_? I said I basically didn’t have any, that I got myself into digital-ish positions by virtue of being the person in the room willing to click around the longest and figure it out. In part, that’s true—and patience is a skill that I don’t take for granted!
 
