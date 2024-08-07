@@ -1,5 +1,4 @@
 ---
-department: None
 email: ab6j@virginia.edu
 first_name: Alison
 last_name: Booth
@@ -9,7 +8,6 @@ position: "Library DH Center, Faculty Director"
 short_bio: "Professor of English (UVA), works on British and North American nineteenth-century culture and women's history as well as digital humanities. Faculty Director of the Library's DH Center, she directs Collective Biographies of Women http://cbw.iath.virginia.edu. Her books include How to Make It as a Woman and Homes and Haunts: Touring Writers' Shrines and Countries."
 slug: alison-booth
 status: current
-website: None
 people-category:
 - staff
 roles:

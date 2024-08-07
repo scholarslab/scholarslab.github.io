@@ -1,5 +1,4 @@
 ---
-department: None
 email: visconti@virginia.edu
 first_name: Amanda Wyatt
 last_name: Visconti

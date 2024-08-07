@@ -13,19 +13,12 @@ nav: true
 {% assign alumni = site.people | where: 'status', 'not_current' | sort: 'last_name' %}
 
 <div class="people-wrapper">
-<header class="people-page-header">
-	<div class="people-header__big-title">People</div>
-</header>
-
 <article class="people-main-content">
-
-<div>Contact the Scholars' Lab by emailing <a href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a>; we'll get you to the right person!</div>
+<div>To contact the Scholars' Lab, just email <a href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a>; we'll get you to the right person!</div>
 
 <!-- staff, with directors at start -->
 <section class="people__staff">
-	<div class="people-staff__title">
-		<span>Staff</span>
-	</div>
+	<h2>Staff</h2>
 	<div class="people-staff__gallery">
 		<!-- directors at start -->
 		{% for person in directors %}
@@ -76,7 +69,7 @@ nav: true
 
 <!-- students: -->
 <section class="people__students">
-	<div class="people-students__title"><span>Students</span></div>
+	<h2>Students</h2>
 	<div class="people-students__gallery">
 		{% for person in students %}
 			{% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
@@ -123,15 +116,14 @@ nav: true
 	</div>
 </section> <!-- end students section -->
 
-<div class="research__description">
-<div class="research-description__text">
-<p>We're proud of our wonderful alums! If you're an alum and would like your information on our site edited or removed, please read <a href="/people-edits">these instructions</a>.</p>
-</div>
-</div>
-
 <!-- alumni: -->
 <section class="people__alumni">
-	<div class="people-alumni__title"><span>Alumni</span></div>
+
+	<h2>Alumni</h2>
+	<div>
+		<p>We're proud of our wonderful alums! If you're an alum and would like your information on our site edited or removed, please read <a href="/people-edits">these instructions</a>.</p>
+	</div>
+	
 	<div class="people-alumni__gallery">
 		{% for person in alumni %}
 			{% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
