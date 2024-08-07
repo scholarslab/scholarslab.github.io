@@ -12,68 +12,40 @@ redirect_from:
 
 <p>Here we share a sampling of the Scholars’ Lab scholarship in its many states and forms, from incipient ideas to formal projects with their own laptop stickers.</p>
 
-<!-- code confusingly reuses CSS styles from /people page, is why the name are staff/peopel-related -->
+<section id="scholars-lab-projects">
+<h2>Projects</h2>
+{% for project in site.work %}
+{% unless project.research-category == 'Student' %}
+<a class="project" href="/work/{{ project.slug }}/">
+	<img src="{{ '/assets/img/work/' | append: project.thumb-img }}" alt="">
+	<p>{{ project.title | replace: ' - ', ': ' }}</p>
+</a>
+{% endunless %}
+{% endfor %}
+</section>
 
-<section class="people__staff">
-      <!-- section label: -->
-      <div class="people-staff__gallery">
-        <!-- gallery item: -->
-        {% for project in site.work %}
-				{% unless project.research-category == 'Student' %}
-        <div class="people-item-wrapper">
-          <a href="/work/{{ project.slug }}/" aria-label="{{ project.title }}">
-            <div class="people-item__img">
-
-            <img src="{{ '/assets/img/work/' | append: project.thumb-img }}" alt="{{ project.title }}">
-
-            </div>
-            <div class="people-item__name">
-{{ project.title | replace: ' - ', ': ' }}
-</div>
-            <div class="people-item__position">{{ project.position }}</div>
-          </a>
-        </div>
-				{% endunless %}
-        {% endfor %} <!-- end item -->
-      </div> <!-- end gallery -->
-    </section> <!-- end staff -->
-
-		<section class="people__staff" id="student-projects-archive">
-			<!-- section label: -->
-			<h2 style="padding-left: 2em; padding-top: 1em; margin-bottom: 0;">Student Projects</h2>
-			<div class="people-staff__gallery">
-				<!-- gallery item: -->
-
-				{% assign student_projects = site.work | where:'research-category', 'Student' %}
-				{% for project in student_projects %}
-
-				<div class="people-item-wrapper">
-					<a href="/work/{{ project.slug }}/" aria-label="{{ project.title }}">
-						<div class="people-item__img">
-
-						<img src="{{ '/assets/img/work/' | append: project.thumb-img }}" alt="{{ project.title }}">
-
-						</div>
-						<div class="people-item__name">
-	{{ project.title | replace: ' - ', ': ' }}
-	</div>
-						<div class="people-item__position">{{ project.position }}</div>
-					</a>
-				</div>
-				{% endfor %} <!-- end item -->
-			</div> <!-- end gallery -->
-</section> <!-- end staff -->
+<section id="student-projects-archive">
+<h2>Student Projects</h2>
+{% assign student_projects = site.work | where:'research-category', 'Student' %}
+{% for project in student_projects %}
+<a class="project" href="/work/{{ project.slug }}/">
+	<img src="{{ '/assets/img/work/' | append: project.thumb-img }}" alt="{{ project.title }}">
+	<p>{{ project.title | replace: ' - ', ': ' }}</p>
+</a>
+{% endfor %}
+</section>
 
 <section class="other-formats">
-	<div class="uva-areas">
+	<h2>Other Formats</h2>
+	<div class="collaborations">
 	<!-- Capture & markdownify code below allows us to manage the file as markdown (easier to add to list), but display within this HTML page as HTML.-->
-		<h2>Places we've collaborated at the University of Virginia</h2>
+	<h3>Places we've collaborated at the University of Virginia</h3>
 		<!-- See /_includes/_content-includes for the editable file containing the list of places we've worked on campus-->
 	{% capture uva-areas %}{% include _content-includes/uva-areas.md %}{% endcapture %}
 	{{ uva-areas | markdownify }}
 	</div>
 	<div class="fieldwork-sites">
-		<h2>External fieldwork sites</h2>
+		<h3>External fieldwork sites</h3>
 		<!-- See /_includes/_content-includes for the editable file containing the list of places we've done external fieldwork.-->
 	{% capture fieldwork %}{% include _content-includes/fieldwork.md %}{% endcapture %}
 	{{ fieldwork | markdownify }}

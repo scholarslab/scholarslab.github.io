@@ -212,6 +212,28 @@ section.feature {
 	background-color: rgba(0,0,0,0.125);
 }
 
+.our-projects section {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 2rem;
+}
+
+.our-projects section h2 {
+	width: 100%;
+}
+
+.our-projects section a {
+	width: 20%;
+	text-decoration:none;
+}
+
+.our-projects section a p {
+	font-size: 1rem;
+	margin:0;
+}
+
 /* Footer */
 #footer {
 	padding: 1rem;
