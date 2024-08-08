@@ -38,11 +38,9 @@ This year's cohort was asked simply to think about time in some way, and the res
 <ul>
 {%- for post in site.tags.clockwork -%}
 	<li>
-		<h3>
 		<a class="post-link" href="{{ post.url | relative_url }}">
 		{{ post.title | escape }}
 		</a>
-        </h3>
 	</li>
 {%- endfor -%}
 </ul>

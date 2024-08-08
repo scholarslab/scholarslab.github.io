@@ -39,11 +39,9 @@ end-year: current
 {%- for post in site.tags.zines -%}
 {% if post.author == "amanda-visconti" %}
 	<li>
-		<h3>
 		<a class="post-link" href="{{ post.url | relative_url }}">
 		{{ post.title | escape }}
 		</a>
-        </h3>
 	</li>
 {% endif %}
 {%- endfor -%}
