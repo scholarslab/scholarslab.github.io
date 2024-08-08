@@ -13,4 +13,4 @@ research-category: Internal Projects and Community Service
 start-year: (before 2018)
 end-year: current
 ---
-More info coming soon!
+More info coming soon.

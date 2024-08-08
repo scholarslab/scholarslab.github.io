@@ -4,7 +4,7 @@ collaborators:
     slug: will-rourk
     role: 3D Data and Content Specialist
 layout: work
-url: https://pages.shanti.virginia.edu/LhasaVR
+link: https://pages.shanti.virginia.edu/LhasaVR
 slug: lhasavr
 title: LhasaVR
 thumb-img: default-thumb.png

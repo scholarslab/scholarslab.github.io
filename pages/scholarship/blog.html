@@ -10,7 +10,7 @@ redirect_from:
   - /archives
 ---
 
-<p>This page collects our most recent posts of all kinds, including announcements, quick activity update, and research essays. The research essays are our scholarly writing, from rough new ideas to polished arguments. Scholars’ Lab team and collaborators write about their research, teaching, and learning.</p>
+<p>This page collects our most recent posts of all kinds, including announcements, quick activity update, and research blog posts—our scholarly writing, from rough new ideas to polished arguments.</p>
 </p>
 
 <!-- post layout: -->
@@ -18,42 +18,38 @@ redirect_from:
 	{% capture authorstring %}
 		{% include author-name.html authorid=post.author %}
 	{% endcapture %}
-	<article class="post">
-		<header>
-			<hgroup>
-				<!-- updates have no page links, so checks category before displaying -->
-				<!-- no slash in href b/c included in post.url -->
-				{% if post.category != "update" %}
-					<h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h2>
+<article class="post">
+	<header><hgroup>
+		<!-- updates have no page links, so checks category before displaying -->
+		<!-- no slash in href b/c included in post.url -->
+		{% if post.category != "update" %}
+			<h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h2>
+		{% else %}
+			<h2>Lab Activity Update: {{ post.title }}</h2>				
+		{% endif %}
+	</hgroup></header>
+	<div class="content">
+		<!-- updates have no author and should use full content not excerpt, so checks category before displaying -->
+		<!-- # Summary from YAML, or 1st 25 words of post content. -->
+		{% if post.category != "update" %}
+			{% if post.summary %}
+				{{ post.summary | smartify }}
 				{% else %}
-					<h2>Lab Activity Update: {{ post.title }}</h2>				
-				{% endif %}
-			</hgroup>
-		</header>
-		<div class="content">
-			<!-- updates have no author and should use full content not excerpt, so checks category before displaying -->
-			<!-- # Summary from YAML, or 1st 25 words of post content. -->
-			{% if post.category != "update" %}
-				{% if post.summary %}
-					{{ post.summary | smartify }}
-					{% else %}
-					{{ post.content | strip_html | truncatewords: 25 | markdownify }}
-				{% endif %}
-				</div>
-				<footer class="byline">
-					<div class="author">
-             	    {{ authorstring | strip }}
-               	   </div>
+				{{ post.content | strip_html | truncatewords: 25 | markdownify }}
+			{% endif %}
+	</div>
+	<footer class="byline">
+		<div class="author">{{ authorstring | strip }}</div>
+		<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+	</footer>
+		{% else %}
+			{{ post.content | strip_html | markdownify }}
+			</div>
+			<footer class="byline">
 				<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
-				</footer>
-			{% else %}
-				{{ post.content | strip_html | markdownify }}
-				</div>
-				<footer class="byline">
-				<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
-				</footer>
-			{% endif %}		
-	</article>
+			</footer>
+		{% endif %}		
+</article>
 {% endfor %} <!-- end post -->
 
 <section id="previous_posts">
@@ -82,7 +78,4 @@ redirect_from:
 	{% endif %}
 {% endfor %}
 </ul>
-
-		</div> <!-- end gallery -->
-	</div> <!-- end main content -->
-</div> <!-- end wrapper -->
+</section>

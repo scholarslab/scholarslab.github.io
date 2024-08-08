@@ -6,7 +6,7 @@ collaborators:
 layout: work
 slug: cultural-heritage-dataverse-repository
 title: Cultural Heritage Dataverse Repository
-url: https://dataverse.lib.virginia.edu/dataverse/culturalheritage
+link: https://dataverse.lib.virginia.edu/dataverse/culturalheritage
 thumb-img: default-thumb.png
 banner-img: default-banner.png
 research-category: Internal Projects and Community Service
