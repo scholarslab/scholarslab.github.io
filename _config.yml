@@ -84,8 +84,8 @@ primary-navigation:
     subnavigation:
       - label: "Our Projects"
         url: "our-projects"
-      - label: "Research Blog"
-        url: "research-blog"
+      - label: "Blog"
+        url: "blog"
   - label: "Visit"
     url: "visit"
     subnavigation:
@@ -93,13 +93,8 @@ primary-navigation:
         url: "use-the-lab"
       - label: "Use the Makerspace"
         url: "makerspace"
-  - label: "News/Events"
+  - label: "Events"
     url: "events"
-    subnavigation:
-      - label: "News Blog"
-        url: "blog"
-      - label: "Newsletters"
-        url: "newsletters"
         
 defaults:
   - scope:
