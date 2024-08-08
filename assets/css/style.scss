@@ -20,15 +20,15 @@
 	--uvalib-secondary-web-blue: #141E3C;
 	--uvalib-secondary-light-gray: #F1F1F1;
 	--uvalib-secondary-medium-gray: #DADADA;
-	--uvalib-text-grey: #595959; /*ADA compliant*/
-	--uvalib-text-dk-grey: #474747; /*ADA compliant for hover over shaded table rows*/
-	--uvalib-text-almost-black: #212121; /*ADA compliant*/
-	--uvalib-secondary-emergency-red: #E00000; /*ADA compliant*/
+	--uvalib-text-grey: #595959;
+	--uvalib-text-dk-grey: #474747;
+	--uvalib-text-almost-black: #212121;
+	--uvalib-secondary-emergency-red: #E00000;
 	--uvalib-secondary-cyan: rgb(0, 159, 223);
 	--uvalib-secondary-yellow: #FDDA24;
 	--uvalib-secondary-teal: #25CAD3;
 	--uvalib-secondary-magenta: #EF3F6B;
-	--uvalib-secondary-green: #008000; /*ADA compliant*/
+	--uvalib-secondary-green: #008000;
 }
 
 /* General Styles: */
@@ -50,7 +50,6 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: var(--franklin-gothic-urw);
-/*    font-weight: 300; Removed so that <strong> tags work on pages, e.g. on /about page */
 	font-size: 20px;
 	line-height: 1.5; // if 16px, = 24px line height
 	color: var(--uvalib-text-almost-black);
@@ -80,13 +79,25 @@ a {
 }
 
 h1,h2,h3,h4 {
+	font-family: var(--franklin-gothic-urw-comp);
+	text-transform: uppercase;
 }
 
-
+#banner {
+	font-family: var(--franklin-gothic-urw-comp);
+	text-transform: uppercase;
+	background-color: rgba(0,0,0,0.0325);
+	background-image: url('/assets/img/tiles/hypnotize.png');
+	background-size:200px;
+	.home & {
+		min-height: 80vh;
+	}
+}
 /* Site Banner */
 #scholarslab-header {
 	position: relative;
 	padding: 1rem;
+	background: white;
 	#global-navigation > .menu-toggle {
 		position: absolute;
 		top: 1rem;
@@ -179,7 +190,10 @@ section.feature {
 		flex-direction: column;
 		justify-content: flex-end;
 		min-height: 30vh;
-		background: rgba(0,0,0,0.0375);
+		background-color: rgba(0,0,0,0.0325);
+		background-image: url('/assets/img/tiles/hypnotize.png');
+		background-size:200px;
+
 		@media screen and (min-width: 900px) {
 			min-height: 50vh;
 		}
@@ -314,7 +328,6 @@ body.people .gallery {
 	}
 
 	li {
-		position: relative;
 		padding: 0;
 		min-width: min-content;
 		display: flex;
@@ -338,17 +351,13 @@ body.people .gallery {
 		display:flex;
 		align-items: center;
 		text-decoration:none;
-		min-width: var(--am-interactive-min-width);
-		border-bottom: 2px solid rgba(0,0,0,0);
 		&:link,
 		&:visited {
-			color: blue;
 		}
 
 		&:hover,
 		&:focus,
 		&:active {
-			border-bottom: 2px solid blue;
 		}
 	}
 
@@ -401,10 +410,6 @@ body.people .gallery {
 	flex-wrap:nowrap;
 	justify-content: space-between;
 	padding: 1rem;
-	.home & {
-		min-height: 80vh;
-		border:none;
-	}
 }
 
 #global-navigation {
@@ -412,21 +417,29 @@ body.people .gallery {
 		display:none;
 	}
 
-	> ul,
+ 	ul,
 	> ul.hide {
 	display: flex !important;
 	flex-direction: row;
 	justify-content: space-between;
     margin: 0;
 		li {
-			position: relative;
-			padding: 0 0 0 0.5rem;
+			padding: 0 0 0 1rem;
 			ul {
 			position: absolute;
-			top: 100%;
-			left:0;
-			padding-left:0 !important;
+			top: 3rem;
+			right:0;
+			width:fit-content;
+			justify-content: flex-end;
 			}
+		}
+	}
+	ul.show {
+		background: white;
+		padding: 1rem !important;
+		position:absolute;
+		li {
+			display:inline !important;
 		}
 
 	}
