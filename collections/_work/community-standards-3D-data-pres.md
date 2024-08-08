@@ -7,10 +7,11 @@ collaborators:
 layout: work
 slug: community-standards-3d-data-pres
 title: Community Standards for 3D Data Preservation
+url: http://cs3dp.org
 thumb-img: default-thumb.png
 banner-img: default-banner.png
 research-category: Internal Projects and Community Service
 start-year: (before 2018)
 end-year: current
 ---
-More info coming soon!
+More info coming soon.
