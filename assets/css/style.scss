@@ -50,7 +50,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: var(--franklin-gothic-urw);
-    font-weight: 300;
+/*    font-weight: 300; Removed so that <strong> tags work on pages, e.g. on /about page */
 	font-size: 20px;
 	line-height: 1.5; // if 16px, = 24px line height
 	color: var(--uvalib-text-almost-black);
