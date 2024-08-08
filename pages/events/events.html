@@ -7,32 +7,24 @@ order: 6
 redirect_from:
   - /events
 ---
-
 <!-- May wish to reorg into
 * upcoming events
-* past events
+* past events (or move to separate events archive page, per issue; but note require termly manual update)
 * non-SLab (these would be hidden below decades of events; an alt option is for "past events" to only show the most recent year of events, then have a link that goes to a different page with the entire list of past events?)
 -->
 
-<header>
-<hgroup>
-<h1>Events</h1>
+<header><hgroup>
 <p>Current and past events hosted, sponsored, or partnered on by the Scholars' Lab.</p>
-</hgroup>
-</header>
-<div class="content">
+</hgroup></header>
 
-<h2>Upcoming Events</h2>
-{% assign events = site.events | sort: 'start_date' %}
-{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
-<!-- event layout: -->
-			{% for event in events %}
-            {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-            {% if eventdate >= today %}
+<div class="content">
+	<h2>Upcoming Events</h2>
+	{% assign events = site.events | sort: 'start_date' %}
+	{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
+	{% for event in events %}
+		{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+		{% if eventdate >= today %}
 			<section class="events-gallery__item">
-				<div class="events-item__date">
-					<div>{{ event.start_date | date: "%b" }}<br/>{{ event.start_date | date: "%-d" }}</div>
-				</div>
 				<div class="events-item__title">
 					<a href="/events/{{ event.slug }}">{{ event.title }}</a>
 				</div>
@@ -57,28 +49,29 @@ redirect_from:
 					<a href="/events/{{ event.slug }}">Details &rsaquo;</a>
 				</div>
 			</section>
-            {% endif %}
-			{% endfor %} <!-- end event -->
+		{% endif %}
+	{% endfor %} <!-- end event -->
 
-<h2>Previous Events</h2>
-<ul class="page-previous_posts">
-{% for event in events reversed %}
-  {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-  {% if eventdate >= today %}
-    {% continue %}
-  {% endif %}
-  {% assign currentyear = event.start_date | date: "%Y" %}
-  {% if currentyear != year %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h3>{{ currentyear }}</h3>
-    <ul>
-    {% assign year = currentyear %}
-  {% endif %}
-<li>
-<a href="/events/{{ event.slug }}">{{ event.title }}</a> ({{ event.start_date | date: "%A, %B %-d, %Y" }})
-</li>
-  {% if forloop.last %}</ul>{% endif %}
-{% endfor %}
-</ul>
-
+	<h2>Previous Events</h2>
+		<ul class="page-previous_posts">
+			{% for event in events reversed %}
+				{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+				{% if eventdate >= today %}
+					{% continue %}
+				{% endif %}
+				{% assign currentyear = event.start_date | date: "%Y" %}
+				{% if currentyear != year %}
+					{% unless forloop.first %}
+						</ul>
+					{% endunless %}
+					<h3>{{ currentyear }}</h3>
+					<ul>
+						{% assign year = currentyear %}
+				{% endif %}
+				<li><a href="/events/{{ event.slug }}">{{ event.title }}</a> ({{ event.start_date | date: "%A, %B %-d, %Y" }})</li>
+				{% if forloop.last %}
+					</ul>
+				{% endif %}
+			{% endfor %}
+		</ul>
 </div>

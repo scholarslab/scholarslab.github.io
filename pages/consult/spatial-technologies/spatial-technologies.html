@@ -62,9 +62,9 @@ redirect_from:
 <h2>Tools, Data, Equipment</h2>
 <p>* = by appointment/request only. ^ = not distributed</p>
 
-		<div class="maker-inventory__list">
-		  <ul class="maker-list__3d">
-			  <span><a href="https://guides.lib.virginia.edu/gis/software">GIS software & extensions</a></span>
+	<div class="maker-inventory__list">
+		<h3><a href="https://guides.lib.virginia.edu/gis/software">GIS software & extensions</a></h3>	
+		<ul class="maker-list__3d">
 		    <li><a href="https://guides.lib.virginia.edu/gis/software#s-lib-ctab-20595149-1">ArcGIS Pro</a></li>
 		    <li>ArcMap</li>
 		    <li>ArcGIS Server</li>
@@ -73,60 +73,64 @@ redirect_from:
 		    <li>Business Analyst</li>
 		    <li>Network Analyst</li>
 		    <li>Spatial Analyst</li>
-		  </ul>
-		  <!-- VR/AR/3D -->
-		  <ul class="maker-list__vr-ar">
-		    <span><a href="https://guides.lib.virginia.edu/gis/software#s-lib-ctab-20595149-3">ArcGIS Online Enterprise Access</a></span>
+		</ul>
+
+		<h3><a href="https://guides.lib.virginia.edu/gis/software#s-lib-ctab-20595149-3">ArcGIS Online Enterprise Access</a></h3>
+		<ul class="maker-list__vr-ar">
             <li>Story Maps</li>
             <li>Web AppBuilder</li>
             <li>Business Analyst Online</li>
 			<li>Community Analyst Online</li>
 			<li>ArcGIS Insights</li>
-		  </ul>
-		  <!-- Physical Computing -->
-		  <ul class="maker-list__physical">
-		    <span>Supported GIS tools</span>
+		</ul>
+
+		<h3>Supported GIS tools</h3>
+		<ul class="maker-list__physical">
 		    <li>QGIS</li>
             <li>Google Earth</li>
             <li>Google Tour Builder</li>
-		  </ul>
-		  <!-- Textiles, Wearables - Learn how to take fashion into the future. -->
-		  <ul class="maker-list__wearables">
-			  <span><a href="https://guides.lib.virginia.edu/gis/data">GIS data</a></span>
-		    <li><a href="https://guides.lib.virginia.edu/gis/data#s-lib-ctab-20595222-0">Shared Drive</a></li>
-		    <li><a href="http://data-uvalibrary.opendata.arcgis.com/">Open Data Portal</a></li>
-		  </ul>
-		  <!-- Textiles, Wearables - Learn how to take fashion into the future. -->
-		  <ul class="maker-list__wearables">
-		    <span>VR & AR</span>
-		    <li>2 VR spaces (Clemons 3rd Floor Viz Lounge)</li>
+		</ul>
+
+		<h3><a href="https://guides.lib.virginia.edu/gis/data">GIS data</a></h3>
+		<ul class="maker-list__wearables">
+			<li><a href="https://guides.lib.virginia.edu/gis/data#s-lib-ctab-20595222-0">Shared Drive</a></li>
+			<li><a href="http://data-uvalibrary.opendata.arcgis.com/">Open Data Portal</a></li>
+		</ul>
+
+		<h3>VR & AR</h3>
+		<ul class="maker-list__wearables">
+			<li>2 VR spaces (Clemons 3rd Floor Viz Lounge)</li>
 			<li>Virtual reality and augmented reality equipment^</li>
-		  </ul>
-		  <!-- CHI stuff -->
-		  <ul class="maker-list__wearables">
-		    <span>GIS equipment</span>
-		    <li>4 Garmin eTrex 20 handheld GPS units</li>
-		  </ul>
-		  <ul class="maker-list__physical">
-		    <span>3D laser scanning</span>
+		</ul>
+
+		<h3>GIS equipment</h3>
+		<ul class="maker-list__wearables">
+			<li>4 Garmin eTrex 20 handheld GPS units</li>
+		</ul>
+		
+		<h3>3D laser scanning</h3>		
+		<ul class="maker-list__physical">
 		    <li>FARO Focus 3D laser scanner*</li>
             <li>Creaform Zscanner 700 CX*</li>
             <li>FARO Scene*</li>
             <li>Creaform VX Elements^</li>
-		  </ul>
-		  <ul class="maker-list__physical">
-		    <span>Photogrammetry</span>
+		</ul>
+		  
+		<h3>Photogrammetry</h3>		
+		<ul class="maker-list__physical">
 		    <li>DJI Inspire 1 quadcopter*</li>
             <li>Photoscan Pro^</li>
             <li>Autodesk Recap</li>
-			</ul>
-		  <ul class="maker-list__physical">
-		    <span>Tactile surface scanning</span>
+		</ul>
+			
+		<h3>Tactile surface scanning</h3>		
+		<ul class="maker-list__physical">
 		    <li>Microscribe*</li>
             <li>Rhino 3D^</li>
-		  </ul>
-		  <ul class="maker-list__physical">
-		    <span>Data & modeling software</span>
+		</ul>
+		  
+		<h3>Data & modeling software</h3>		
+		<ul class="maker-list__physical">
             <li>FARO Scene LT</li>
             <li>Autodesk Recap</li>
             <li>Geomagic*</li>
@@ -135,25 +139,22 @@ redirect_from:
             <li>Sketchup</li>
             <li>Blender</li>
             <li>Maya 3D (in G-Lab)</li>
-		  </ul>
-		  </ul>
-		</div> <!-- end list -->
-	</div> <!-- end inventory -->
+		</ul>
+	</div> <!-- end list -->
+</div> <!-- end inventory -->
 
-	<div class="spatial__people">
-		<div class="spatial-people__title">Spatial<br/>Technologists</div>
+<div class="spatial__people">
+	<div class="spatial-people__title">Spatial<br/>Technologists</div>
 		<ul class="spatial-people__list">
-			<!-- use Liquid here: -->
 			{% for person in site.people %}
-			{% if person.title == 'Will Rourk' or person.title == 'Arin Bennett' or person.title == 'Chris Gist' or person.title == 'Drew MacQueen' %}
-			<li class="spatial-people__person">
-				<div class="spatial-person__img"><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.title }}"></div>
-				<div class="spatial-person__name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.title }}</a></div> <!-- link to their page -->
-				<div class="spatial-person__position">{{ person.position }}</div>
-			</li>
-			{% endif %}
+				{% if person.title == 'Will Rourk' or person.title == 'Arin Bennett' or person.title == 'Chris Gist' or person.title == 'Drew MacQueen' %}
+					<li class="spatial-people__person">
+						<div class="spatial-person__img"><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.title }}"></div>
+						<div class="spatial-person__name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.title }}</a></div> <!-- link to their page -->
+						<div class="spatial-person__position">{{ person.position }}</div>
+					</li>
+				{% endif %}
 			{% endfor %}
 		</ul> <!-- end person list -->
 	</div>
-
 </div> <!-- end main content -->
