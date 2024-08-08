@@ -4,7 +4,7 @@ collaborators:
     slug: will-rourk
     role: 3D Data and Content Specialist
 layout: work
-url: https://pages.shanti.virginia.edu/LhasaVR
+url: http://cs3dp.org
 slug: lhasavr
 title: LhasaVR
 thumb-img: default-thumb.png
@@ -13,4 +13,4 @@ research-category: Collaborations
 start-year: (before 2018)
 end-year: current
 ---
-The LhasaVR project represents UVA's participation in the Mellon-funded Humanities Virtual Worlds Consortium. More info coming soon!
+The LhasaVR project represents UVA's participation in the Mellon-funded Humanities Virtual Worlds Consortium.
