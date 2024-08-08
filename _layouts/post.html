@@ -7,12 +7,12 @@ layout: default
     <hgroup>
     <span aria-label="page type">Blog</span>
     <h1>{{ page.title | replace: ' - ', ': ' }}</h1>
-    </hgroup>
 
     <p class="metadata">
         By <span class="author">{{ authorstring | strip }}</span> on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
     </p>
     {% include old-post-alert.html %}
+    </hgroup>
 </header> <!-- end metadata -->
 
     <!-- text of post -->

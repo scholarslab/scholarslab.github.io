@@ -2,75 +2,55 @@
 layout: default
 ---
 
-<article class="event-wrapper">
-	<div class="event-main-content" aria-label="Main content">
+<header>
+	<hgroup>
+		<span class="eyebrow">Events</span>
+		<h1>{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</h1>
+	</hgroup>
+</header>
+<!-- NB: !!! this only exists until we restructure the YAML !!! -->
+<!-- remove trailing seconds zeros on time -->
+{% assign start_time = page.start_time | date: "%r" | remove: ":00 " %}
+{% assign end_time = page.end_time | date: "%r" | remove: ":00 " %}
+<!-- check for leading zero -->
+{% assign zerocheck1 = start_time | slice: 0 %}
+{% assign zerocheck2 = end_time | slice: 0 %}
+<!-- remove if present -->
+{% if zerocheck1 == '0' %}
+	{% assign start_time = start_time | slice: 1, 6 %}
+{% endif %}
+{% if zerocheck2 == '0' %}
+	{% assign end_time = end_time | slice: 1, 6 %}
+{% endif %}
 
-		<div class="event__big-title">
-			<span aria-label="page type">Events //</span>
-			<div>{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</div>
-		</div>
+<div class="content">
+	<div class="metadata">
+		<h2>Event Information</h2>
+		<table>
+			{% if page.start_date %}
+			<tr><th scope="row">Date:</tr><td>{{ page.start_date | date: "%A, %m/%-d/%Y" }}</td></tr>
+			{% endif %}
+			{% if page.start_time and page.end_time  %}
+			<tr><th scope="row">Time:</th><td>{{ start_time }}-{{ end_time }}</td></tr>
+			{% endif %}
+			<!--span>Length:</span>1hr<br/-->
+			{% if page.location %}
+			<tr><th scope="row">Place:</th><td>{{ page.location }}</td></tr>
+			{% endif %}
+			{% if page.instructor %}
+			<tr><th>Instructor(s):</th><td>{{ page.instructor }}</td></tr>
+			{% endif %}
+			{% if page.rsvp %}
+			<tr><th scope="row">Registration:</th><td>Required! Details below.</td></tr>
+			{% endif %}
+		</table>
+	</div>
+	{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
+		{{ content }}
+	{% else %}
+		<p>No description has been added at this time.</p>
+	{% endunless %}
 
-		<!-- NB: !!! this only exists until we restructure the YAML !!! -->
-		<!-- remove trailing seconds zeros on time -->
-		{% assign start_time = page.start_time | date: "%r" | remove: ":00 " %}
-		{% assign end_time = page.end_time | date: "%r" | remove: ":00 " %}
-		<!-- check for leading zero -->
-		{% assign zerocheck1 = start_time | slice: 0 %}
-		{% assign zerocheck2 = end_time | slice: 0 %}
-		<!-- remove if present -->
-		{% if zerocheck1 == '0' %}
-			{% assign start_time = start_time | slice: 1, 6 %}
-		{% endif %}
-		{% if zerocheck2 == '0' %}
-			{% assign end_time = end_time | slice: 1, 6 %}
-		{% endif %}
+	<span>Questions?</span><br/>Contact Scholars' Lab's Head of Public Programs <a href="mailto:lam2c@virginia.edu?subject=Question about SLab Event">Laura Miller</a>.</li>
 
-		<div class="event__stats">
-			<div class="event-stats__title">Event Info</div>
-			<div class="event-stats__box">
-				{% if page.start_date %}
-				<span>Date:</span>{{ page.start_date | date: "%A, %m/%-d/%Y" }}<br/>
-				{% endif %}
-				{% if page.start_time and page.end_time  %}
-				<span>Time:</span>{{ start_time }}-{{ end_time }}<br/>
-				{% endif %}
-				<!--span>Length:</span>1hr<br/-->
-				{% if page.location %}
-				<span>Place:</span>{{ page.location }}<br/>
-				{% endif %}
-				{% if page.instructor %}
-				<span>Instructor(s):</span>{{ page.instructor }}<br/>
-				{% endif %}
-				{% if page.rsvp %}
-				<span>Registration:</span>Required! Details below.<br/>
-				{% endif %}
-			</div>
-		</div> <!-- end stats -->
-
-		<div class="event__description">
-			<div class="event-describe__title">Event Info</div>
-			<div class="event-describe__text">
-			{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
-				{{ content }}
-			{% else %}
-				<p>No description has been added at this time.</p>
-			{% endunless %}
-			</div>
-		</div>
-
-<!-- Code to hook into YAML goes here, if we create the correct YAML. See GitHub issue #429 -->
-
-<div class="event__notes">
-			<div class="event-notes__title">Notes</div>
-			<div class="page--borrowed-style">
-			
-			<ul class="event-notes__content">
-				<li><span>Questions?</span><br/>Contact Scholars' Lab's Head of Public Programs <a href="mailto:lam2c@virginia.edu?subject=Question about SLab Event">Laura Miller</a>.</li>
-</ul>
 </div>
-</div>
-
-</div> <!-- end notes -->
-
-	</div> <!-- end main content -->
-</article> <!-- end wrapper -->

@@ -14,21 +14,20 @@ redirect_from:
 * non-SLab (these would be hidden below decades of events; an alt option is for "past events" to only show the most recent year of events, then have a link that goes to a different page with the entire list of past events?)
 -->
 
-<div class="events-wrapper">
-<header class="events-page-header">
-
-<div class="events-header__big-title">Events</div>
-	<div class="events-header__subtitle">Current and past events hosted, sponsored, or partnered on by the Scholars' Lab.</div>
+<header>
+<hgroup>
+<h1>Events</h1>
+<p>Current and past events hosted, sponsored, or partnered on by the Scholars' Lab.</p>
+</hgroup>
 </header>
-<div class="events-main-content">
-<div class="events-gallery">
+<div class="content">
 
 <h2>Upcoming Events</h2>
 {% assign events = site.events | sort: 'start_date' %}
 {% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
 <!-- event layout: -->
 			{% for event in events %}
-            {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}            
+            {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
             {% if eventdate >= today %}
 			<section class="events-gallery__item">
 				<div class="events-item__date">
@@ -60,7 +59,6 @@ redirect_from:
 			</section>
             {% endif %}
 			{% endfor %} <!-- end event -->
-		</div> <!-- end gallery -->
 
 <h2>Previous Events</h2>
 <ul class="page-previous_posts">
@@ -83,5 +81,4 @@ redirect_from:
 {% endfor %}
 </ul>
 
-</div> <!-- end main content -->
-</div> <!-- end wrapper -->
+</div>

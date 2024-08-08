@@ -4,16 +4,12 @@ layout: default
 
 {% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %}
 
-<div class="person-wrapper">
-	<div class="person-main-content" aria-label="Main content">
-
-		<div class="person__big-title"><span aria-label="page type">People //</span>
-			{% if page.name %}
-				{{ page.name }}
-			{% else %}
-				{{ page.title }}
-			{% endif %}</div>
-
+<header>
+	<header>
+		<span class="eyebrow">People</span>
+		<h1>{% if page.name %}{{ page.name }}{% else %}{{ page.title }}{% endif %}</h1>
+	</hgroup>
+</header>
 <div class="person__position">
 {% if page.people-category contains "staff" %}
 	{% if page.status contains "not_current" %}
@@ -60,7 +56,7 @@ layout: default
 <div class="person__img">
 	{% if profile_pic == empty %}
 		 <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
-	{% else %}    
+	{% else %}
 		  <img src="{{ pic.path }}" alt="{{ page.slug }}">
 	{% endif %}
 </div>
@@ -74,7 +70,7 @@ layout: default
 		{{ content }}
 	{% endif %}
 	</div>
-</div> 
+</div>
 <!-- end 'about' -->
 
 
