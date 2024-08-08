@@ -6,7 +6,6 @@ start_time: '09:00:00'
 end_time: '15:00:00'
 layout: events
 location: 'Shannon Library 308'
-slug: 2024-08-26-gradcamp-for-digital-humanities
 title: 'GradCamp for Digital Humanities'
 ---
 
