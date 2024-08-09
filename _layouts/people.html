@@ -5,8 +5,8 @@ layout: default
 <header>
 	<hgroup>
 		<h1>{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</h1>
-		{% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %} 
-		<h2>
+		{% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %}
+		<p class="role">
 			{% if page.people-category contains "staff" %}
 				{% if page.status contains "not_current" %}
 					Former {{ page.position }}
@@ -28,36 +28,11 @@ layout: default
 					<li>{{ role }}</li>
 				{% endfor %}</ul>
 			{% endif %}
-		</h2>
+		</p>
 	</hgroup>
 </header>
 
 <div class="content">
-
-{% unless page.libcal == nil and page.website == nil and page.email == nil and page.department == nil %}
-<div class="bio-stats-box">
-	<h2>Contact:</h2>
-	<ul>
-		{% if page.email !=  nil and page.email != 'None' %}
-			<li><span>Email: </span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.title }}">{{ page.email }}</a></li>
-		{% endif %}
-		
-		{% if page.website != nil and page.website != 'None' %}
-			<li><span>Website: </span><a href="{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a></li>
-		{% endif %}
-		
-		{% if page.libcal %}
-			<<li>span>Book: </span><a href="{{ page.libcal }}">Schedule an appointment</a></li>
-		{% endif %}
-
-		{% if page.department != nil and page.department != 'None' %}
-			<li><span>UVA Department: </span>{{ page.department }}</li>
-		{% endif %}
-	</ul>	
-</div>
-{% endunless %}
-
-<div class="person__img">
 	{% if profile_pic == empty %}
 		 <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
 	{% else %}
@@ -67,41 +42,56 @@ layout: default
 			{% endunless %}
 		{% endfor %}
 	{% endif %}
-</div>
+{% unless page.libcal == nil and page.website == nil and page.email == nil and page.department == nil %}
+<section id="elsewhere">
+	<h2>Contact</h2>
+	<ul>
+		{% if page.email !=  nil and page.email != 'None' %}
+			<li><span>Email: </span><a href="mailto:{{ page.email }}" aria-label="Email {{ page.title }}">{{ page.email }}</a></li>
+		{% endif %}
 
-<div class="person__description">
+		{% if page.website != nil and page.website != 'None' %}
+			<li><span>Website: </span><a href="{{ page.website }}" aria-label="{{ page.title }}'s website homepage">{{ page.website | remove: 'http://'}}</a></li>
+		{% endif %}
+
+		{% if page.libcal %}
+			<li>span>Book: </span><a href="{{ page.libcal }}">Schedule an appointment</a></li>
+		{% endif %}
+
+		{% if page.department != nil and page.department != 'None' %}
+			<li><span>UVA Department: </span>{{ page.department }}</li>
+		{% endif %}
+	</ul>
+</section>
+{% endunless %}
+
+<section id="about">
 	<h2>About</h2>
-	<div class="person-describe__text">
 	{% if page.content.size == 1 or page.content == blank or page.content == empty %}
-		<p>A Scholars' Lab alum.</p>
+	<p>A Scholars' Lab alum.</p>
 	{% else %}
-		{{ content }}
+	{{ content }}
 	{% endif %}
-	</div>
 	{% if page.status == "not_current" %}
 		{% include old-bio-alert.html %}
 	{% endif %}
-</div>
-<!-- end 'about' -->
-
+</section>
 
 <!-- list of blog posts by person -->
-		{% assign author_posts = site.posts | where: "author", page.slug  %}
-		<div class="person__posts">
-			<h2 class="person-posts__title">Research Posts & Lab Updates for {{ page.first_name }}</h2>
-			{% if author_posts.size >= 1 %}
-				{% if post.category != "announcement" %} 
-		    		<ul class="person-posts__list">
-		    			{% for post in author_posts %}
-							<li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%m/%d/%Y" }}</li>
-		    			{% endfor %}
-		    		</ul>
-		    	{% endif %}
-		    {% elsif author_posts.size < 1 %}
-		    <p class="person-posts__none-found">There are no posts by or lab updates about {{ page.first_name }} at this time.</p>
-		    {% endif %}
-		</div>
-	</div>
-</div> 
+{% assign author_posts = site.posts | where: "author", page.slug  %}
+<section id="posts">
+	<h2>Research Posts & Lab Updates for {{ page.first_name }}</h2>
+	{% if author_posts.size >= 1 %}
+	{% if post.category != "announcement" %}
+	<ul>
+	{% for post in author_posts %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%m/%d/%Y" }}</li>
+	{% endfor %}
+	</ul>
+	{% endif %}
+	{% else %}
+	<p>There are no posts by or lab updates about {{ page.first_name }} at this time.</p>
+	{% endif %}
+</section>
 
 </div> <!-- end div.content -->
