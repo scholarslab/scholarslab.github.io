@@ -37,9 +37,6 @@ collections:
   events:
     output: true
     permalink: /:collection/:name/
-  events/past-events:
-    output: true
-    permalink: /events/:name/
 
 ## Nested list for primary navigation.
 primary-navigation:
@@ -90,6 +87,9 @@ primary-navigation:
         url: "makerspace#using-the-makerspace"
   - label: "Events"
     url: "events"
+    subnavigation:
+      - label: "Event Archive"
+        url: "event-archive"
 
 defaults:
   - scope:
