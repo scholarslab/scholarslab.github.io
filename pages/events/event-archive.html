@@ -9,9 +9,27 @@ nav: true
 </hgroup></header>
 
 <div class="content">
-j
-{% for event in site.events %}
-<p>hi</p>
-{% endfor %}
+!!
+<ul class="page-previous_posts">
+	{% for past-event in site.past-events reversed %}
+		{% assign eventdate = past-event.start_date | date: '%Y%m%d' | plus:0 %}
+		{% if eventdate >= today %}
+			{% continue %}
+		{% endif %}
+		{% assign currentyear = past-event.start_date | date: "%Y" %}
+		{% if currentyear != year %}
+			{% unless forloop.first %}
+				</ul>
+			{% endunless %}
+			<h3>{{ currentyear }}</h3>
+			<ul>
+				{% assign year = currentyear %}
+		{% endif %}
+		<li><a href="/events/{{ past-event.slug }}">{{ past-event.title }}</a> ({{ past-event.start_date | date: "%A, %B %-d, %Y" }})</li>
+		{% if forloop.last %}
+			</ul>
+		{% endif %}
+	{% endfor %}
+</ul>
 
 </div>
