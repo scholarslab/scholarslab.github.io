@@ -15,9 +15,9 @@ title: Home
             <li>
                 <a href="{{ event.url }}">
                 <time>
-                    <span>{{ event.start_date | date: '%b' }}</span>
-                    <span>{{ event.start_date | date: '%d' }}</span>
-                </time>: 
+                    <span class="month">{{ event.start_date | date: '%b' }}</span>
+                    <span class="day">{{ event.start_date | date: '%d' }}</span>
+                </time>
                 <strong>{{ event.title }}</strong>
                 </a>
             </li>
@@ -117,7 +117,7 @@ title: Home
         <p>The Scholars’ Lab includes staff offices, co-working areas, an event
             space, a VR immersion space, and data processing
             workstations. Appointments are encouraged if you want to meet a
-            <a href="/people">particular staff member</a> or 
+            <a href="/people">particular staff member</a> or
             <a href="mailto:lam2c@virginia.edu">request access</a> to specific equipment,
             though the lab space itself is open
             <a href="/use-the-lab#slab-hours">whenever Shannon Library is open</a>.</p>
