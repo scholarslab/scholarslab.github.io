@@ -25,7 +25,6 @@ end
 desc "Install dependencies"
 task :install_dependencies do
     sh 'bundle install'
-    sh 'npm install --loglevel verbose'
 end
 
 desc "Build the site."
@@ -107,7 +106,7 @@ position: None
 short_bio: 'A short one-sentence bio.'
 slug: #{slug}
 status: current or not_current
-website: 
+website:
 people-category:
 - Pick one of student, director, or staff
 roles:
