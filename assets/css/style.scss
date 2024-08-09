@@ -14,6 +14,7 @@ Use the Lab page: weekly calendar hours styling
 /Makerspace page
 */
 
+/********************************************************************/
 /* Variables */
 :root {
 	/* Brand Fonts */
@@ -45,6 +46,7 @@ Use the Lab page: weekly calendar hours styling
 	--uvalib-secondary-green: #008000;
 }
 
+/********************************************************************/
 /* General Styles: */
 * {
 	box-sizing: border-box;
@@ -106,6 +108,8 @@ h1,h2,h3,h4 {
 		min-height: 80vh;
 	}
 }
+
+/********************************************************************/
 /* Site Banner */
 #scholarslab-header {
 	position: relative;
@@ -192,6 +196,7 @@ section.feature {
 	}
 }
 
+/********************************************************************/
 /* Main content for all pages. */
 #main {
 
@@ -236,6 +241,7 @@ section.feature {
 	}
 }
 
+/********************************************************************/
 /* Homepage Styles */
 #newsletter {
 	padding: 1rem;
@@ -244,6 +250,7 @@ section.feature {
 	background-color: rgba(0,0,0,0.125);
 }
 
+/********************************************************************/
 /* Projects browse */
 .our-projects section {
 	display: flex;
@@ -326,6 +333,7 @@ body.people .gallery {
 
 }
 
+/********************************************************************/
 /* Navigation */
 #global-navigation {
 	ul {
@@ -458,6 +466,7 @@ body.people .gallery {
 
 }
 
+/********************************************************************/
 /* Use the Lab page: weekly calendar hours styling */
 .s-lc-whw thead { background-color: #F5F5F5; }
 .s-lc-whw-head-date { color: #5F5F5F; }
@@ -483,22 +492,18 @@ body.people .gallery {
    .s-lc-whw td { white-space: nowrap; }
 }
 
+/********************************************************************/
 /* Makerspace page */
-  .makerspace__resources {
-    grid-area: resources;
-  }
   .makerspace__map {
     grid-area: map;
   }
   .makerspace__hours {
     grid-area: hours;
   }
-  .makerspace__mission {
-    grid-area: mission;
+  .makerspace__resources {
+    grid-area: resources;
   }
-  .makerspace__vision {
-    grid-area: vision;
-  }
+
   .makerspace-main-content {
     position: relative;
     display: grid;
@@ -506,8 +511,6 @@ body.people .gallery {
     grid-template-areas:
       "map"
       "hours"
-      "mission"
-      "vision"
       "resources"
       "people";
     padding: 2% 8.33%;
@@ -563,7 +566,6 @@ body.people .gallery {
       grid-template-areas:
         "map map"
         "hours hours"
-        "mission vision"
         "resources resources"
         "people people";
     }
@@ -574,7 +576,6 @@ body.people .gallery {
       column-gap: 2.2%;
       grid-template-areas:
         "map hours"
-        "mission vision"
         "resources resources"
         "people people";
     }
@@ -586,18 +587,12 @@ body.people .gallery {
       gap: 18px;
     }
   }
-  @media screen and (min-width: 1150px) {
-    .makerspace__vision {
-      padding-left: 8.33%;
-    }
-  }
+
   @media screen and (min-width: 1400px) {
     .makerspace-main-content {
       column-gap: 2.2%;
       grid-template-areas:
         "map hours"
-        "map mission"
-        "map vision"
         "resources resources"
         "people people";
     }
@@ -612,9 +607,7 @@ body.people .gallery {
       #fff
     );
   }
-  .maker-landing__big-title {
-    height: 30vh;
-  }
+
   .banner {
     border: 5px solid #00ffff;
     padding: 20px;
