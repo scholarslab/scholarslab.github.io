@@ -37,6 +37,9 @@ collections:
   events:
     output: true
     permalink: /:collection/:name/
+  events-past:
+    output: true
+    permalink: /events/:name/
 
 ## Nested list for primary navigation.
 primary-navigation:

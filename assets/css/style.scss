@@ -494,41 +494,8 @@ body.people .gallery {
 
 /********************************************************************/
 /* Makerspace page */
-  .makerspace__map {
-    grid-area: map;
-  }
-  .makerspace__hours {
-    grid-area: hours;
-  }
-  .makerspace__resources {
-    grid-area: resources;
-  }
 
-  .makerspace-main-content {
-    position: relative;
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-areas:
-      "map"
-      "hours"
-      "resources"
-      "people";
-    padding: 2% 8.33%;
-  }
-  div[class^="maker-resource__"] {
-    padding: 20px;
-    margin: 10px 0;
-  }
-  .maker-resource__content {
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    align-items: center;
-    align-content: space-around;
-    column-gap: 8.33%;
-    padding: 20px;
-    gap: 10px;
-  }
+
   .maker-resource__content li {
     display: flex;
     flex-direction: column;
@@ -557,55 +524,6 @@ body.people .gallery {
   }
   .maker-resource__content li .equipment_name:hover {
     color: #fff;
-  }
-
-  @media screen and (min-width: 768px) {
-    .makerspace-main-content {
-      grid-template-columns: 1fr 1fr;
-      column-gap: 2.2%;
-      grid-template-areas:
-        "map map"
-        "hours hours"
-        "resources resources"
-        "people people";
-    }
-  }
-  @media screen and (min-width: 1050px) {
-    .makerspace-main-content {
-      grid-template-columns: 1fr 1fr;
-      column-gap: 2.2%;
-      grid-template-areas:
-        "map hours"
-        "resources resources"
-        "people people";
-    }
-    .maker-resource__content {
-      flex-flow: row wrap;
-      justify-content: flex-start;
-      align-items: flex-start;
-      align-content: space-around;
-      gap: 18px;
-    }
-  }
-
-  @media screen and (min-width: 1400px) {
-    .makerspace-main-content {
-      column-gap: 2.2%;
-      grid-template-areas:
-        "map hours"
-        "resources resources"
-        "people people";
-    }
-  }
-  .makerspace-landing-grid {
-    grid-auto-rows: minmax(30vh, auto);
-    background-image: linear-gradient(
-      to bottom,
-      #000,
-      #000 30vh,
-      #fff 30vh,
-      #fff
-    );
   }
 
   .banner {

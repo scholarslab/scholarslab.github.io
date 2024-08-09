@@ -1,5 +1,5 @@
 ---
-author: jeremy-boggs
+author: scholars-lab
 start_date: 2024-08-26
 end_date: 2024-08-26
 start_time: '09:00:00'

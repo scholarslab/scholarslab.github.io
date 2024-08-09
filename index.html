@@ -7,12 +7,9 @@ title: Home
     <div id="upcoming-events">
         <h2>Upcoming Events</h2>
         <ul>
-            <li>DH Fellow Presentation: "Building Back The Blacktop: Digital
-                Humanities, Historic Preservation, and Activating the Archive"
-                (Thursday, May 9, 2024)</li>
-            <li>Mother's Day (Monday, May 6, 2024)</li>
-            <li>Praxis Program 2023-2024: Year In Review (Monday, May 6, 2024)
-            </li>
+			{% for event in site.events limit:3 %}
+            		<li><a href="{{ event.url }}">{{ event.title }}</a></li>
+            {% endfor %}
         </ul>
         <p><a href="/events/">See all our events</a>.</p>
     </div>
