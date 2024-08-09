@@ -1,16 +1,11 @@
 ---
-layout: default
+layout: page
 ---
 
 {% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %}
 
-<header>
-	<hgroup>
-		<span class="eyebrow">People</span>
-		<h1>{% if page.name %}{{ page.name }}{% else %}{{ page.title }}{% endif %}</h1>
-	</hgroup>
-</header>
 <div class="person__position">
+<h2>
 {% if page.people-category contains "staff" %}
 	{% if page.status contains "not_current" %}
 		Former {{ page.position }}
@@ -32,7 +27,7 @@ layout: default
 		<li>{{ role }}</li>
 	{% endfor %}</ul>
 {% endif %}
-
+</h2>
 
 </div>
 
@@ -57,12 +52,16 @@ layout: default
 	{% if profile_pic == empty %}
 		 <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
 	{% else %}
-		  <img src="{{ pic.path }}" alt="{{ page.slug }}">
+		{% for pic in profile_pic %}
+			{% unless pic.path contains 'cropped'  or pic.path contains 'grid' %}
+				<img src="{{ pic.path }}" alt="{{ page.slug }}">
+			{% endunless %}
+		{% endfor %}
 	{% endif %}
 </div>
 
 <div class="person__description">
-	<div class="person-describe__title">About</div>
+	<h2>About</h2>
 	<div class="person-describe__text">
 	{% if page.content.size == 1 or page.content == blank or page.content == empty %}
 		<p>A Scholars' Lab alum.</p>
@@ -82,12 +81,7 @@ layout: default
 			{% if author_posts.size >= 1 %}
 		    <ul class="person-posts__list">
 		    {% for post in author_posts %}
-				<li>
-					<a href="{{ post.url }}">
-						<div class="person__post-title">{{ post.title }}</div>
-						<span>{{ post.date | date: "%m.%d.%Y" }}</span>
-					</a>
-				</li>
+				<li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%m/%d/%Y" }}</li>
 		    {% endfor %}
 		    </ul>
 		    {% elsif author_posts.size < 1 %}
