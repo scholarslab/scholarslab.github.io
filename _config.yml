@@ -37,7 +37,7 @@ collections:
   events:
     output: true
     permalink: /:collection/:name/
-  events-past:
+  events/past-events:
     output: true
     permalink: /events/:name/
 

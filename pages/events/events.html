@@ -7,71 +7,40 @@ order: 6
 redirect_from:
   - /events
 ---
-<!-- May wish to reorg into
-* upcoming events
-* past events (or move to separate events archive page, per issue; but note require termly manual update)
-* non-SLab (these would be hidden below decades of events; an alt option is for "past events" to only show the most recent year of events, then have a link that goes to a different page with the entire list of past events?)
--->
-
 <header><hgroup>
-<p>Current and past events hosted, sponsored, or partnered on by the Scholars' Lab.</p>
+<p>Current and upcoming events hosted, sponsored, or partnered on by the Scholars' Lab. (<a href="/events-archive">See past event archive</a>.)</p>
 </hgroup></header>
 
 <div class="content">
-	<h2>Upcoming Events</h2>
-	{% assign events = site.events | sort: 'start_date' %}
-	{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
-	{% for event in events %}
-		{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-		{% if eventdate >= today %}
-			<section class="events-gallery__item">
-				<div class="events-item__title">
-					<a href="/events/{{ event.slug }}">{{ event.title }}</a>
-				</div>
-				<!-- remove trailing seconds zeros on time -->
-				{% assign start_time = event.start_time | date: "%r" | remove: ":00 " %}
-				{% assign end_time = event.end_time | date: "%r" | remove: ":00 " %}
-				<!-- check for leading zero -->
-				{% assign zerocheck1 = start_time | slice: 0 %}
-				{% assign zerocheck2 = end_time | slice: 0 %}
-				<!-- remove if present -->
-				{% if zerocheck1 == '0' %}
-					{% assign start_time = start_time | slice: 1, 6 %}
-				{% endif %}
-				{% if zerocheck2 == '0' %}
-					{% assign end_time = end_time | slice: 1, 6 %}
-				{% endif %}
-				<div class="events-item__logistics">
-					<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%A, %B %-d, %Y" }}, {{ start_time }}-{{ end_time }}</div>
-					<div class="events-logistics__place"><span>Where: </span>{{ event.location }}</div>
-				</div>
-				<div class="events-item__cta">
-					<a href="/events/{{ event.slug }}">Details &rsaquo;</a>
-				</div>
-			</section>
-		{% endif %}
-	{% endfor %} <!-- end event -->
+{% assign events = site.events | sort: 'start_date' %}
+{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
+{% for event in events %}
+	{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+	{% if eventdate >= today %}
+		<section class="events-gallery__item">
+			<h3><a href="/events/{{ event.slug }}">{{ event.title }}</a></h3>
+			<!-- remove trailing seconds zeros on time -->
+			{% assign start_time = event.start_time | date: "%r" | remove: ":00 " %}
+			{% assign end_time = event.end_time | date: "%r" | remove: ":00 " %}
+			<!-- check for leading zero -->
+			{% assign zerocheck1 = start_time | slice: 0 %}
+			{% assign zerocheck2 = end_time | slice: 0 %}
+			<!-- remove if present -->
+			{% if zerocheck1 == '0' %}
+				{% assign start_time = start_time | slice: 1, 6 %}
+			{% endif %}
+			{% if zerocheck2 == '0' %}
+				{% assign end_time = end_time | slice: 1, 6 %}
+			{% endif %}
+			<div class="events-item__logistics">
+				<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%A, %B %-d, %Y" }}, {{ start_time }}-{{ end_time }}</div>
+				<div class="events-logistics__place"><span>Where: </span>{{ event.location }}</div>
+			</div>
+			<div class="events-item__cta">
+				<a href="/events/{{ event.slug }}">Details &rsaquo;</a>
+			</div>
+		</section>
+	{% endif %}
+{% endfor %} <!-- end event -->
 
-	<h2>Previous Events</h2>
-		<ul class="page-previous_posts">
-			{% for event in events reversed %}
-				{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-				{% if eventdate >= today %}
-					{% continue %}
-				{% endif %}
-				{% assign currentyear = event.start_date | date: "%Y" %}
-				{% if currentyear != year %}
-					{% unless forloop.first %}
-						</ul>
-					{% endunless %}
-					<h3>{{ currentyear }}</h3>
-					<ul>
-						{% assign year = currentyear %}
-				{% endif %}
-				<li><a href="/events/{{ event.slug }}">{{ event.title }}</a> ({{ event.start_date | date: "%A, %B %-d, %Y" }})</li>
-				{% if forloop.last %}
-					</ul>
-				{% endif %}
-			{% endfor %}
-		</ul>
 </div>

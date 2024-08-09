@@ -1,0 +1,34 @@
+---
+layout: page
+title: Events Archive
+permalink: /events-archive/
+nav: true
+order: 7
+---
+<header><hgroup>
+<p>Past events hosted, sponsored, or partnered on by the Scholars' Lab. (<a href="/events">See current events</a> instead.)</p>
+</hgroup></header>
+
+<div class="content">
+	<ul class="page-previous_posts">
+		{% for past-event in past-events reversed %}
+			{% assign eventdate = past-event.start_date | date: '%Y%m%d' | plus:0 %}
+			{% if eventdate >= today %}
+				{% continue %}
+			{% endif %}
+			{% assign currentyear = past-event.start_date | date: "%Y" %}
+			{% if currentyear != year %}
+				{% unless forloop.first %}
+					</ul>
+				{% endunless %}
+				<h3>{{ currentyear }}</h3>
+				<ul>
+					{% assign year = currentyear %}
+			{% endif %}
+			<li><a href="/events/{{ event.slug }}">{{ event.title }}</a> ({{ past-event.start_date | date: "%A, %B %-d, %Y" }})</li>
+			{% if forloop.last %}
+				</ul>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
