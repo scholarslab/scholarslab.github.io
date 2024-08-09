@@ -11,7 +11,7 @@ People browse
 Footer
 Navigation
 Use the Lab page: weekly calendar hours styling
-(See also: /pages/makerspace.html has its own styling CSS in its header)
+/Makerspace page
 */
 
 /* Variables */
@@ -482,3 +482,181 @@ body.people .gallery {
    .s-lc-whw-cont .table-responsive { width: 100%; margin-bottom: 15px; overflow-y: hidden; overflow-x: scroll; -ms-overflow-style: -ms-autohiding-scrollbar; border: 1px solid #ddd; -webkit-overflow-scrolling: touch; }
    .s-lc-whw td { white-space: nowrap; }
 }
+
+/* Makerspace page */
+  .makerspace__resources {
+    grid-area: resources;
+  }
+  .makerspace__map {
+    grid-area: map;
+  }
+  .makerspace__hours {
+    grid-area: hours;
+  }
+  .makerspace__mission {
+    grid-area: mission;
+  }
+  .makerspace__vision {
+    grid-area: vision;
+  }
+  .makerspace-main-content {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "map"
+      "hours"
+      "mission"
+      "vision"
+      "resources"
+      "people";
+    padding: 2% 8.33%;
+  }
+  div[class^="maker-resource__"] {
+    padding: 20px;
+    margin: 10px 0;
+  }
+  .maker-resource__content {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    column-gap: 8.33%;
+    padding: 20px;
+    gap: 10px;
+  }
+  .maker-resource__content li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 4px;
+  }
+  /* On mouse-over, add a deeper shadow */
+  .maker-resource__content li:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .makerspace__resources img {
+    padding: 12px;
+    max-height: 150px;
+    width: auto;
+  }
+  .maker-resource__content li .equipment_name {
+    width: 100%;
+    text-align: center;
+    padding: 12px;
+    font-weight: bolder;
+    background-color: #5bd7de;
+    border-radius: 0px 0px 4px 4px;
+  }
+  .maker-resource__content li .equipment_name:hover {
+    color: #fff;
+  }
+
+  @media screen and (min-width: 768px) {
+    .makerspace-main-content {
+      grid-template-columns: 1fr 1fr;
+      column-gap: 2.2%;
+      grid-template-areas:
+        "map map"
+        "hours hours"
+        "mission vision"
+        "resources resources"
+        "people people";
+    }
+  }
+  @media screen and (min-width: 1050px) {
+    .makerspace-main-content {
+      grid-template-columns: 1fr 1fr;
+      column-gap: 2.2%;
+      grid-template-areas:
+        "map hours"
+        "mission vision"
+        "resources resources"
+        "people people";
+    }
+    .maker-resource__content {
+      flex-flow: row wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: space-around;
+      gap: 18px;
+    }
+  }
+  @media screen and (min-width: 1150px) {
+    .makerspace__vision {
+      padding-left: 8.33%;
+    }
+  }
+  @media screen and (min-width: 1400px) {
+    .makerspace-main-content {
+      column-gap: 2.2%;
+      grid-template-areas:
+        "map hours"
+        "map mission"
+        "map vision"
+        "resources resources"
+        "people people";
+    }
+  }
+  .makerspace-landing-grid {
+    grid-auto-rows: minmax(30vh, auto);
+    background-image: linear-gradient(
+      to bottom,
+      #000,
+      #000 30vh,
+      #fff 30vh,
+      #fff
+    );
+  }
+  .maker-landing__big-title {
+    height: 30vh;
+  }
+  .banner {
+    border: 5px solid #00ffff;
+    padding: 20px;
+  }
+  #mysched_41069 {
+    background: #702dbe;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    color: #ffffff;
+    font: 14px Arial, Helvetica, Verdana;
+    padding: 8px 20px;
+    cursor: pointer;
+  }
+
+  #mysched_41069:hover,
+  #mysched_41069:active,
+  #mysched_41069:focus {
+    opacity: 0.9;
+  }
+  #eq_0 {
+    background: #702dbe;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    color: #ffffff;
+    font: 14px Arial, Helvetica, Verdana;
+    padding: 8px 20px;
+    cursor: pointer;
+  }
+  #eq_0:hover,
+  #eq_0:active,
+  #eq_0:focus {
+    opacity: 0.9;
+  }
+  #lasercutter-materials, .other-links {
+    list-style-type: disc !important;
+    margin: 0 8.33% !important;
+  }
+  .darker-background {
+    background-color: rgb(207, 251, 255);
+    border-radius: 10px;
+  }
+  .lighter-background {
+    background-color: #f2d9ff;
+    border-radius: 10px;
+  }
