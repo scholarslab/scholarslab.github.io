@@ -4,8 +4,4 @@ _site/
 __pycache__/
 munge.py
 .jekyll-metadata
-Gemfile.lock
-node_modules
 .swp
-corpus.json
-search_index.json
