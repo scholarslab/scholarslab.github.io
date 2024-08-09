@@ -5,7 +5,7 @@ layout: default
 {% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %}
 
 <header>
-	<header>
+	<hgroup>
 		<span class="eyebrow">People</span>
 		<h1>{% if page.name %}{{ page.name }}{% else %}{{ page.title }}{% endif %}</h1>
 	</hgroup>
