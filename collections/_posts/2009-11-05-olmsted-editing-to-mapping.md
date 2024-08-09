@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2009-11-05 09:00:17+00:00
 layout: post
 slug: olmsted-editing-to-mapping

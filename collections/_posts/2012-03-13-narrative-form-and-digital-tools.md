@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2012-03-13 15:27:22+00:00
 layout: post
 slug: narrative-form-and-digital-tools

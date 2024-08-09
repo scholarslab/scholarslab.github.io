@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-05-07 08:23:24+00:00
 layout: post
 slug: graduate-fellows-forum-david-flaherty

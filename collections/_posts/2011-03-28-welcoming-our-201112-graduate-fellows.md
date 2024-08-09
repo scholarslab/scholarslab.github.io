@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-03-28 13:33:26+00:00
 layout: post
 slug: welcoming-our-201112-graduate-fellows

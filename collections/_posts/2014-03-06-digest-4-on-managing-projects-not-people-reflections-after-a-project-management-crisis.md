@@ -9,7 +9,7 @@ tags:
 - grad student research
 - ivanhoe
 - praxis
-- project management
+- project-management
 ---
 
 This digest comes a bit late, because in the interim I have been going through a mild project management crisis.  Now that the crisis is past, I see the experience as the perfect opportunity for a post.

@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-06-27 10:52:11+00:00
 layout: post
 slug: andrew-hankinson-applications-of-the-music-encoding-initiative-in-optical-music-recognition

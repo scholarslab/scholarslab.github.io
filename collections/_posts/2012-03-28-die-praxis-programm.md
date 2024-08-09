@@ -9,7 +9,7 @@ tags:
 - grad student research
 - budget
 - praxis
-- project management
+- project-management
 - visualization
 ---
 

@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-04-26 12:13:59+00:00
 layout: post
 slug: scholars-lab-speaker-series-shawn-graham

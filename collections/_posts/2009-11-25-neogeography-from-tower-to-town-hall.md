@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2009-11-25 09:55:40+00:00
 layout: post
 slug: neogeography-from-tower-to-town-hall

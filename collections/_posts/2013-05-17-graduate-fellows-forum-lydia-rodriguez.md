@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-05-17 14:36:28+00:00
 layout: post
 slug: graduate-fellows-forum-lydia-rodriguez

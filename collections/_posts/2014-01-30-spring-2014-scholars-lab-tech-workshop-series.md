@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2014-01-30 16:32:21+00:00
 layout: post
 slug: spring-2014-scholars-lab-tech-workshop-series

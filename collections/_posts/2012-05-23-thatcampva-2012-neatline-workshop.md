@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2012-05-23 11:26:02+00:00
 layout: post
 slug: thatcampva-2012-neatline-workshop

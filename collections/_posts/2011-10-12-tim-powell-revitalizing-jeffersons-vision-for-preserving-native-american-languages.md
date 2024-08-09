@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-10-12 12:35:34+00:00
 layout: post
 slug: tim-powell-revitalizing-jeffersons-vision-for-preserving-native-american-languages

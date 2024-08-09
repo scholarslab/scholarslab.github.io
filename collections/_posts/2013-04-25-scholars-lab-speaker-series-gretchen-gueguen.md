@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-04-25 08:39:37+00:00
 layout: post
 slug: scholars-lab-speaker-series-gretchen-gueguen

@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2012-05-29 13:56:55+00:00
 layout: post
 slug: gff-hankins

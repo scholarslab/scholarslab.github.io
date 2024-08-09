@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2010-12-14 10:45:48+00:00
 layout: post
 slug: mark-sample-haunts-place-play-and-trauma

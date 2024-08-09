@@ -9,7 +9,7 @@ tags:
 - grad student research
 - ivanhoe
 - praxis
-- project management
+- project-management
 - about-collaboration-community
 ---
 

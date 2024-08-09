@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2009-09-10 12:48:47+00:00
 layout: post
 slug: digital-therapy-luncheon-september-2009

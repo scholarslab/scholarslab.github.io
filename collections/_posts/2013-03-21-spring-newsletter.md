@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-03-21 11:58:14+00:00
 layout: post
 slug: spring-newsletter

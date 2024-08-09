@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2009-03-31 12:51:32+00:00
 layout: post
 slug: mapping-then-and-now-are-we-ready-yet-for-academic-social-systems

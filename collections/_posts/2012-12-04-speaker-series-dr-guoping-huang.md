@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2012-12-04 10:04:52+00:00
 layout: post
 slug: speaker-series-dr-guoping-huang

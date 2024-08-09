@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2010-02-10 12:30:06+00:00
 layout: post
 slug: lisa-rosner-the-anatomy-murders

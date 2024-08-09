@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-06-15 12:35:44+00:00
 layout: post
 slug: myron-gutmann-data

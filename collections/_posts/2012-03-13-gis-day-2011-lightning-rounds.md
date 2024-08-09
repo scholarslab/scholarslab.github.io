@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2012-03-13 15:12:48+00:00
 layout: post
 slug: gis-day-2011-lightning-rounds

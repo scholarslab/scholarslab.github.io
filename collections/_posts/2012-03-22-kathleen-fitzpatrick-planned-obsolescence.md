@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2012-03-22 11:19:56+00:00
 layout: post
 slug: kathleen-fitzpatrick-planned-obsolescence

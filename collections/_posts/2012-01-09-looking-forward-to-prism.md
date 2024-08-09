@@ -9,7 +9,7 @@ tags:
 - grad student research
 - praxis
 - prism
-- project management
+- project-management
 ---
 
 With the end of the semester and year, and all of the accompanying hullabaloo (to use a polite term for it), I wasn't able to write my final blog post of the semester, which was going to be a retrospective of my Praxis experience so far. But now it's the new year and the new semester is imminent, so it seems more appropriate to look ahead - and who wants to look like Janus, anyway?

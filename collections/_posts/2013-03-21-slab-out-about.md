@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-03-21 10:38:27+00:00
 layout: post
 slug: slab-out-about

@@ -9,7 +9,7 @@ tags:
 - grad student research
 - praxis
 - prism
-- project management
+- project-management
 ---
 
 As if on cue, right after[ I posted last week](https://scholarslab.org/digital-humanities/looking-forward-to-prism/) to call for clear, concrete goals for Prism this semester, Bethany began last week's meeting by asking for a Project Manager. Sarah Storti and I quickly volunteered for the job, probably because we share a love of deadlines, self-imposed or otherwise, and work at similar levels of anxiety without them. Bethany assigned us some weekend reading on Project Management and we convened for "Projectmanageapalooza" yesterday to discuss the material and devise a plan for managing this semester's hefty workload.

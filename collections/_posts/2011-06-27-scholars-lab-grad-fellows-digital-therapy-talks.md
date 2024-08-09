@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-06-27 10:53:05+00:00
 layout: post
 slug: scholars-lab-grad-fellows-digital-therapy-talks

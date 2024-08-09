@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-04-29 09:04:19+00:00
 layout: post
 slug: graduate-fellows-forum-joanna-swafford

@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-12-13 15:42:22+00:00
 layout: post
 slug: humanities-in-a-digital-age-symposium-podcast

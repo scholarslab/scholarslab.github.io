@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2012-09-12 16:36:28+00:00
 layout: post
 slug: grad-fellows-forum-introducing-the-2012-2013-fellows

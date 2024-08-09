@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-07-05 10:06:14+00:00
 layout: post
 slug: tim-sherratt-confessions-of-an-impatient-historian

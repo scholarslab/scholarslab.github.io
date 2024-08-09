@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2009-04-21 12:50:18+00:00
 layout: post
 slug: toward-the-historical-data-forge-what-happens-after-the-data-mining

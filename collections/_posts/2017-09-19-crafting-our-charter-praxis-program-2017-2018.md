@@ -9,7 +9,7 @@ tags:
 - charter
 - pedagogy
 - praxis
-- project management
+- project-management
 - about-collaboration-community
 ---
 

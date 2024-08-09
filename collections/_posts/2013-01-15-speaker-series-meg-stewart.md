@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-01-15 11:02:18+00:00
 layout: post
 slug: speaker-series-meg-stewart

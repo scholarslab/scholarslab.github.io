@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-05-06 11:11:59+00:00
 layout: post
 slug: scholars-lab-speaker-series-alan-liu

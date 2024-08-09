@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-10-24 12:28:36+00:00
 layout: post
 slug: international-open-access-week-2011

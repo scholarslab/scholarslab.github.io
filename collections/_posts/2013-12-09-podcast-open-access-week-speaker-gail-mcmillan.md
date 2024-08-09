@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-12-09 11:07:17+00:00
 layout: post
 slug: podcast-open-access-week-speaker-gail-mcmillan

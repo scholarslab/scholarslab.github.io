@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-05-06 08:37:38+00:00
 layout: post
 slug: digital-humanities-speaker-series-alan-liu-rama-hoetzlein

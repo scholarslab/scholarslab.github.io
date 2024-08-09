@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2015-11-06 10:40:39+00:00
 layout: post
 slug: podcast-james-neal

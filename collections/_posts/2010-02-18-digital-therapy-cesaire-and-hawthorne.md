@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2010-02-18 12:17:22+00:00
 layout: post
 slug: digital-therapy-cesaire-and-hawthorne

@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-04-26 14:46:07+00:00
 layout: post
 slug: digital-humanities-speaker-series-walter-sheidel

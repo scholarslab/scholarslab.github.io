@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2013-04-24 14:29:12+00:00
 layout: post
 slug: plot-your-course-in-space-and-time-a-look-at-scholars-labs-neatline

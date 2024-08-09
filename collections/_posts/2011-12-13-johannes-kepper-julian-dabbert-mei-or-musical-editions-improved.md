@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-12-13 15:42:10+00:00
 layout: post
 slug: johannes-kepper-julian-dabbert-mei-or-musical-editions-improved

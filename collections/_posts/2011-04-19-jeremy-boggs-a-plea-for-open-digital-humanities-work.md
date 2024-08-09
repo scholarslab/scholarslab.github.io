@@ -1,5 +1,5 @@
 ---
-author: ronda-grizzle
+author: scholars-lab
 date: 2011-04-19 12:58:54+00:00
 layout: post
 slug: jeremy-boggs-a-plea-for-open-digital-humanities-work
