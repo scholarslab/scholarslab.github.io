@@ -126,6 +126,60 @@ h1,h2,h3,h4 {
 	text-decoration:none;
 }
 
+/********************************************************************/
+/* Main content for all pages. */
+#main {
+
+	& > header:first-of-type,
+	body.post & article header:first-of-type
+	{
+		padding: 4rem 0 0;
+		display:flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		min-height: 30vh;
+		background-color: rgba(0,0,0,0.0325);
+		background-image: url('/assets/img/tiles/hypnotize.png');
+		background-size:200px;
+
+		@media screen and (min-width: 900px) {
+			min-height: 50vh;
+		}
+
+		hgroup {
+			max-width: 900px;
+			margin: 0 auto;
+			width: 100%;
+			border-bottom: 2rem solid white;
+			padding: 0 2rem;
+		}
+
+		h1 {
+			font-size: 3rem;
+			@media screen and (min-width: 900px) {
+			font-size: 5rem;
+			}
+			margin-top:0;
+			line-height: 1.2;
+		}
+	}
+
+	.content {
+		max-width: 900px;
+		margin: 0 auto;
+		padding: 0 2rem 2rem;
+	}
+}
+
+/********************************************************************/
+/* Homepage Styles */
+#newsletter {
+	padding: 1rem;
+	text-align: center;
+	font-size: 1.5rem;
+	background-color: rgba(0,0,0,0.125);
+}
+
 section.feature {
 	display:flex;
 	flex-direction: column;
@@ -196,59 +250,6 @@ section.feature {
 	}
 }
 
-/********************************************************************/
-/* Main content for all pages. */
-#main {
-
-	& > header:first-of-type,
-	body.post & article header:first-of-type
-	{
-		padding: 4rem 0 0;
-		display:flex;
-		flex-direction: column;
-		justify-content: flex-end;
-		min-height: 30vh;
-		background-color: rgba(0,0,0,0.0325);
-		background-image: url('/assets/img/tiles/hypnotize.png');
-		background-size:200px;
-
-		@media screen and (min-width: 900px) {
-			min-height: 50vh;
-		}
-
-		hgroup {
-			max-width: 900px;
-			margin: 0 auto;
-			width: 100%;
-			border-bottom: 2rem solid white;
-			padding: 0 2rem;
-		}
-
-		h1 {
-			font-size: 3rem;
-			@media screen and (min-width: 900px) {
-			font-size: 5rem;
-			}
-			margin-top:0;
-			line-height: 1.2;
-		}
-	}
-
-	.content {
-		max-width: 900px;
-		margin: 0 auto;
-		padding: 0 2rem 2rem;
-	}
-}
-
-/********************************************************************/
-/* Homepage Styles */
-#newsletter {
-	padding: 1rem;
-	text-align: center;
-	font-size: 1.5rem;
-	background-color: rgba(0,0,0,0.125);
-}
 
 /********************************************************************/
 /* Projects browse */
