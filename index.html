@@ -7,9 +7,22 @@ title: Home
     <div id="upcoming-events">
         <h2>Upcoming Events</h2>
         <ul>
-			{% for event in site.events limit:3 %}
-            		<li><a href="{{ event.url }}">{{ event.title }}</a></li>
-            {% endfor %}
+{% assign events = site.events | sort: 'start_date' | limit: 4 %}
+{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
+{% for event in events %}
+{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+{% if eventdate >= today %}
+            <li>
+                <a href="{{ event.url }}">
+                <time>
+                    <span>{{ event.start_date | date: '%b' }}</span>
+                    <span>{{ event.start_date | date: '%d' }}</span>
+                </time>
+                <strong>{{ event.title }}</strong>
+                </a>
+            </li>
+{% endif %}
+{% endfor %}
         </ul>
         <p><a href="/events/">See all our events</a>.</p>
     </div>
@@ -18,7 +31,13 @@ title: Home
         <ul>
 			{% for post in site.posts limit:4 %}
 				{% if post.category != "update" %}
-            		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% capture authorstring %}
+                {% include author-name.html authorid=post.author %}
+                {% endcapture %}
+                    <li>
+                        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                        <p>{{ authorstring }}</p>
+                    </li>
             	{% endif %}
             {% endfor %}
         </ul>
@@ -28,7 +47,7 @@ title: Home
         <h2>Recent Activity</h2>
 		<ul>
 		{% for post in site.categories.update limit:3 %}
-			<li>{{ post.content }}</li>
+			<li>{{ post.content | markdownify}}</li>
 		{% endfor %}
 		</ul>
     </div>
