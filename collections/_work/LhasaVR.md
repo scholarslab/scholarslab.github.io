@@ -13,4 +13,4 @@ research-category: Collaborations
 start-year: (before 2018)
 end-year: current
 ---
-The LhasaVR project represents UVA's participation in the Mellon-funded Humanities Virtual Worlds Consortium. More info coming soon!
+The LhasaVR project represents UVA's participation in the Mellon-funded Humanities Virtual Worlds Consortium.
