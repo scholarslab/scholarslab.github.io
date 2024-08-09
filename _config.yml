@@ -24,12 +24,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
   - docs
-  - node_modules
-  - assets/python # helper scripts to manipulate HTML/CSS, not used in build
 
 collections_dir: collections
 collections:
