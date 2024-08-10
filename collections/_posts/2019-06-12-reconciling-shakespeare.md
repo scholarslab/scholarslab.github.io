@@ -6,7 +6,7 @@ date: 2019-06-12 09:42:46
 layout: post
 slug: reconciling-shakespeare
 title: "Reconciling Shakespeare['s texts]: Collation in a Digital World"
-category: blog
+category: essay
 tags:
 - grad student research
 - literature

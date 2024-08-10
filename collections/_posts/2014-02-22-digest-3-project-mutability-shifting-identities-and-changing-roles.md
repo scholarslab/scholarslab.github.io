@@ -4,7 +4,7 @@ date: 2014-02-22 15:18:47+00:00
 layout: post
 slug: digest-3-project-mutability-shifting-identities-and-changing-roles
 title: '(Digest #3) Project mutability: shifting identities and changing roles'
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

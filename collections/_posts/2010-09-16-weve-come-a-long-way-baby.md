@@ -4,7 +4,7 @@ date: 2010-09-16 11:04:50+00:00
 layout: post
 slug: weve-come-a-long-way-baby
 title: "We've come a long way, baby."
-category: blog
+category: essay
 ---
 
 [![](http://static.scholarslab.org/wp-content/uploads/2010/09/Screen-shot-2010-09-16-at-10.15.28-AM-124x300.png)](http://static.scholarslab.org/wp-content/uploads/2010/09/LiteratureSearching.pdf)

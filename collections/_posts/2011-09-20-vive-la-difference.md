@@ -4,7 +4,7 @@ date: 2011-09-20 08:41:07+00:00
 layout: post
 slug: vive-la-difference
 title: Vive la différence!
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

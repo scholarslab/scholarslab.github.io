@@ -4,7 +4,7 @@ date: 2012-01-26 07:21:44+00:00
 layout: post
 slug: teasing-the-blogosphere
 title: Teasing the Blogosphere
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

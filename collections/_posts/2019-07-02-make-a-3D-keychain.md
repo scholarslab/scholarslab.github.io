@@ -5,7 +5,7 @@ date: 2019-07-02 14:10:35
 layout: post
 slug: make-a-3D-keychain
 title: "Make a 3D Printed Holder Thingy for Your Keychain"
-category: blog
+category: essay
 tags:
 - makerspace
 - 3d printing

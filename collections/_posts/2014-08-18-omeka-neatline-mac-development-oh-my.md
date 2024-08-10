@@ -4,7 +4,7 @@ date: 2014-08-18 09:41:08+00:00
 layout: post
 slug: omeka-neatline-mac-development-oh-my
 title: Omeka, Neatline, Mac, development, oh my!
-category: blog
+category: essay
 tags:
 - research and development
 - omeka

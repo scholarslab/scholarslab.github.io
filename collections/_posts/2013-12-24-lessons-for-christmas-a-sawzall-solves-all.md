@@ -4,7 +4,7 @@ date: 2013-12-24 10:32:54+00:00
 layout: post
 slug: lessons-for-christmas-a-sawzall-solves-all
 title: 'Lessons for Christmas: A Sawzall Solves All'
-category: blog
+category: essay
 tags:
 - grad student research
 - design

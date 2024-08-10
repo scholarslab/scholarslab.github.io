@@ -4,7 +4,7 @@ date: 2013-11-11 12:59:33+00:00
 layout: post
 slug: two-ivanhoes-one-direction
 title: 'Two Ivanhoes, One Direction '
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

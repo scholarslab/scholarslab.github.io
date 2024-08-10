@@ -4,7 +4,7 @@ date: 2012-10-17 11:27:23+00:00
 layout: post
 slug: the-direction-of-prism
 title: The Direction of Prism
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

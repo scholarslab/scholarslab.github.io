@@ -4,7 +4,7 @@ date: 2013-09-11 18:30:38+00:00
 layout: post
 slug: a-bit-more-medieval
 title: a bit more medieval
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

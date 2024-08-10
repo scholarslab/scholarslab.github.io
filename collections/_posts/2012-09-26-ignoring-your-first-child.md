@@ -4,7 +4,7 @@ date: 2012-09-26 10:00:37+00:00
 layout: post
 slug: ignoring-your-first-child
 title: Ignoring your First Child
-category: blog
+category: essay
 tags:
 - research and development
 ---

@@ -4,7 +4,7 @@ date: 2018-09-28 13:19:49+00:00
 layout: post
 slug: a-toolkit-the-public-domain
 title: "A Toolkit [...?] the Public Domain"
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

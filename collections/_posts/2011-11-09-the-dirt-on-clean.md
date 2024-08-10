@@ -4,7 +4,7 @@ date: 2011-11-09 20:15:33+00:00
 layout: post
 slug: the-dirt-on-clean
 title: The Dirt on "Clean"
-category: blog
+category: essay
 tags:
 - grad student research
 - design

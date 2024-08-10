@@ -4,7 +4,7 @@ date: 2013-11-12 15:12:40+00:00
 layout: post
 slug: sticky-situations-lessons-group-cohesion
 title: 'Sticky Situations: Lessons in Group Cohesion'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

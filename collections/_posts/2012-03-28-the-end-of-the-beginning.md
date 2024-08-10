@@ -4,7 +4,7 @@ date: 2012-03-28 23:25:45+00:00
 layout: post
 slug: the-end-of-the-beginning
 title: The end of the beginning
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

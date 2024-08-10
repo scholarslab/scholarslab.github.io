@@ -4,7 +4,7 @@ date: 2012-09-21 10:43:52+00:00
 layout: post
 slug: praxis-the-innovator
 title: 'Praxis: The Innovator'
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

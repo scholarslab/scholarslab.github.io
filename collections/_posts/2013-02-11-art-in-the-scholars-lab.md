@@ -4,7 +4,7 @@ date: 2013-02-11 11:29:34+00:00
 layout: post
 slug: art-in-the-scholars-lab
 title: Art in the Scholars' Lab
-category: blog
+category: essay
 tags:
 - research and development
 - design

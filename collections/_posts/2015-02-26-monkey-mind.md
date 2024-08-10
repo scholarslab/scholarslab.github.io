@@ -4,7 +4,7 @@ date: 2015-02-26 15:20:35+00:00
 layout: post
 slug: monkey-mind
 title: Monkey Mind
-category: blog
+category: essay
 tags:
 - research and development
 ---

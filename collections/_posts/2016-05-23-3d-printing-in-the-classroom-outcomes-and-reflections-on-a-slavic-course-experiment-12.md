@@ -5,7 +5,7 @@ layout: post
 slug: 3d-printing-in-the-classroom-outcomes-and-reflections-on-a-slavic-course-experiment-12
 title: '3D Printing in the Classroom: Outcomes and Reflections on a Slavic Course
   Experiment (1/2)'
-category: blog
+category: essay
 tags:
 - makerspace
 - 3d printing

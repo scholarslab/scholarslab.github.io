@@ -4,7 +4,7 @@ date: 2013-01-29 11:31:52+00:00
 layout: post
 slug: gendering-praxis
 title: Gendering Praxis
-category: blog
+category: essay
 tags:
 - grad student research
 - gender

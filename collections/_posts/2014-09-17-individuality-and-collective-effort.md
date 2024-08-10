@@ -4,7 +4,7 @@ date: 2014-09-17 11:46:39+00:00
 layout: post
 slug: individuality-and-collective-effort
 title: Individuality and Collective Effort
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

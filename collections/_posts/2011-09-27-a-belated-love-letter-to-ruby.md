@@ -4,7 +4,7 @@ date: 2011-09-27 10:02:30+00:00
 layout: post
 slug: a-belated-love-letter-to-ruby
 title: A belated love letter to Ruby
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

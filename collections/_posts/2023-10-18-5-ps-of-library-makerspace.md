@@ -4,7 +4,7 @@ date: 2023-10-18
 layout: post
 slug: the-5-ps-of-library-makerspaces
 title: The 5 Ps of Library Makerspaces
-category: blog
+category: essay
 tags:
 - makerspace
 - 3d printing

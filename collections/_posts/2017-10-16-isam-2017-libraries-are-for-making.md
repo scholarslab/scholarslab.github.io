@@ -4,7 +4,7 @@ date: 2017-10-16 14:47:00+00:00
 layout: post
 slug: isam-2017-libraries-are-for-making
 title: ISAM 2017 - Libraries are for making
-category: blog
+category: essay
 tags:
 - makerspace
 ---

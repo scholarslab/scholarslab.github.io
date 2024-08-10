@@ -4,7 +4,7 @@ date: 2009-01-05 14:37:05+00:00
 layout: post
 slug: digital-credibility-in-field-research
 title: “'Digital Credibility' in Field Research"
-category: blog
+category: essay
 tags:
 - social sciences
 - hello world

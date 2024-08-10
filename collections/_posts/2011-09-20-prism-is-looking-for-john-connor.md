@@ -4,7 +4,7 @@ date: 2011-09-20 12:57:41+00:00
 layout: post
 slug: prism-is-looking-for-john-connor
 title: Prism is looking for John Connor
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

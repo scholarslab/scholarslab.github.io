@@ -4,7 +4,7 @@ date: 2012-07-20 05:19:18+00:00
 layout: post
 slug: parent-child-relationships-in-neatline
 title: Parent-child relationships in Neatline
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - neatline

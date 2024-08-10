@@ -4,7 +4,7 @@ date: 2011-02-10 16:30:07+00:00
 layout: post
 slug: dh-dev-picks
 title: DH Dev Picks
-category: blog
+category: essay
 tags:
 - research and development
 - web development

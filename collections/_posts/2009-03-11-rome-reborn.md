@@ -4,7 +4,7 @@ date: 2009-03-11 10:14:37+00:00
 layout: post
 slug: rome-reborn
 title: Rome Reborn
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 ---

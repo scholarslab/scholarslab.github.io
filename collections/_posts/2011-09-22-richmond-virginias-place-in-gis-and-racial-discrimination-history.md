@@ -4,7 +4,7 @@ date: 2011-09-22 11:34:45+00:00
 layout: post
 slug: richmond-virginias-place-in-gis-and-racial-discrimination-history
 title: Richmond, Virginia's Place in GIS and Racial Discrimination History
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - gis

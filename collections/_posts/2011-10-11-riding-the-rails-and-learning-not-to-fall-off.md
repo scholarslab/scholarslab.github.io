@@ -4,7 +4,7 @@ date: 2011-10-11 13:58:49+00:00
 layout: post
 slug: riding-the-rails-and-learning-not-to-fall-off
 title: Riding the Rails (And Learning Not to Fall Off)
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

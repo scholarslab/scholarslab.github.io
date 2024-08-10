@@ -4,7 +4,7 @@ date: 2015-01-31 15:06:30+00:00
 layout: post
 slug: what-could-make-ivanhoe-special
 title: 'What Could Make Ivanhoe ''Special''? '
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

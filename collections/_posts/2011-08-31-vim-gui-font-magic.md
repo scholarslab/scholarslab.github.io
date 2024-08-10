@@ -4,7 +4,7 @@ date: 2011-08-31 11:25:00+00:00
 layout: post
 slug: vim-gui-font-magic
 title: Vim GUI Font Magic
-category: blog
+category: essay
 tags:
 - grad student research
 - tutorial

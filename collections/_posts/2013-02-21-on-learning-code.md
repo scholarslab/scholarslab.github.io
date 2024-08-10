@@ -4,7 +4,7 @@ date: 2013-02-21 10:44:03+00:00
 layout: post
 slug: on-learning-code
 title: On Learning Code
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

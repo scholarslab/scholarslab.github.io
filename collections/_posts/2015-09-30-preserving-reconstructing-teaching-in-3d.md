@@ -4,7 +4,7 @@ date: 2015-09-30 15:52:49+00:00
 layout: post
 slug: preserving-reconstructing-teaching-in-3d
 title: Preserving, Reconstructing, & Teaching in 3D
-category: blog
+category: essay
 tags:
 - grad student research
 - 3dchi

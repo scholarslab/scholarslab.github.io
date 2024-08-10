@@ -4,7 +4,7 @@ date: 2014-06-09 10:00:37+00:00
 layout: post
 slug: check-out-copyipsum
 title: Check Out Copyipsum
-category: blog
+category: essay
 tags:
 - research and development
 ---

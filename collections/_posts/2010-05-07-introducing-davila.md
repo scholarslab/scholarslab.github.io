@@ -4,7 +4,7 @@ date: 2010-05-07 15:10:46+00:00
 layout: post
 slug: introducing-davila
 title: Introducing DAVILA
-category: blog
+category: essay
 tags:
 - grad student research
 - visualization and data mining

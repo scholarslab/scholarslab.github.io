@@ -4,7 +4,7 @@ date: 2014-02-13 10:00:45+00:00
 layout: post
 slug: foreign-languages-and-ivanhoe-progress
 title: Foreign Languages and Ivanhoe Progress
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

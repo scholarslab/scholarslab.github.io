@@ -4,7 +4,7 @@ date: 2011-09-13 10:30:20+00:00
 layout: post
 slug: on-demons-and-prisms
 title: On Demons and Prisms
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

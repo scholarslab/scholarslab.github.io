@@ -5,7 +5,7 @@ date: 2022-01-19
 layout: post
 slug: zings-zongs-pings
 title: Here’s to the Zings, Zongs, and Pings
-category: blog
+category: essay
 tags:
 - grad student research
 - academia

@@ -4,7 +4,7 @@ date: 2009-12-16 14:40:05+00:00
 layout: post
 slug: large-files-and-omeka
 title: Large Files and Omeka
-category: blog
+category: essay
 tags:
 - research and development
 ---

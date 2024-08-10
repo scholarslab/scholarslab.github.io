@@ -4,7 +4,7 @@ date: 2017-11-21 14:35:21+00:00
 layout: post
 slug: learning-to-augment-reality
 title: Learning to Augment Reality
-category: blog
+category: essay
 tags:
 - vr-ar
 - geospatial and temporal

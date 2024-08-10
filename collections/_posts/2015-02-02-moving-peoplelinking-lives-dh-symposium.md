@@ -4,7 +4,7 @@ date: 2015-02-02 14:16:35+00:00
 layout: post
 slug: moving-peoplelinking-lives-dh-symposium
 title: Moving People/Linking Lives DH Symposium
-category: blog
+category: essay
 tags:
 - event
 - geospatial and temporal

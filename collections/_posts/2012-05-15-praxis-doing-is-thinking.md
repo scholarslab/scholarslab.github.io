@@ -4,7 +4,7 @@ date: 2012-05-15 10:52:41+00:00
 layout: post
 slug: praxis-doing-is-thinking
 title: 'Praxis: Doing is Thinking?'
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

@@ -4,7 +4,7 @@ date: 2013-01-06 17:31:56+00:00
 layout: post
 slug: rebooting-graduate-training-an-mla-roundtable
 title: 'Rebooting Graduate Training: An MLA Roundtable'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

@@ -4,7 +4,7 @@ date: 2013-05-03 16:25:12+00:00
 layout: post
 slug: random-skills-check
 title: 'Random Skills: Check'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

@@ -4,7 +4,7 @@ date: 2015-06-29 10:59:37+00:00
 layout: post
 slug: todo-introduce-code-concepts
 title: //TODO - Introduce Code Concepts
-category: blog
+category: essay
 tags:
 - research and development
 - code

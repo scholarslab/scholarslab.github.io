@@ -4,7 +4,7 @@ date: 2015-02-24 14:04:50+00:00
 layout: post
 slug: on-the-shelf
 title: On the Shelf
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

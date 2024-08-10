@@ -4,7 +4,7 @@ date: 2015-12-17 16:03:21+00:00
 layout: post
 slug: learning-to-use-3d-printers-for-the-digital-humanities
 title: Learning to Use 3D Printers for the Digital Humanities
-category: blog
+category: essay
 tags:
 - 3d printing
 - makerspace

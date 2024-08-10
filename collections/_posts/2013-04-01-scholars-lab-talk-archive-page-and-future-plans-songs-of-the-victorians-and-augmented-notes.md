@@ -5,7 +5,7 @@ layout: post
 slug: scholars-lab-talk-archive-page-and-future-plans-songs-of-the-victorians-and-augmented-notes
 title: 'Scholars'' Lab Talk, Archive Page, and Future Plans: Songs of the Victorians
   and Augmented Notes'
-category: blog
+category: essay
 tags:
 - music and sound
 - grad student research

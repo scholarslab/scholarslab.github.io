@@ -4,7 +4,7 @@ date: 2012-01-13 14:02:40+00:00
 layout: post
 slug: mapping-the-catalogue-of-ships
 title: Mapping the Catalogue of Ships
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - visualization and data mining

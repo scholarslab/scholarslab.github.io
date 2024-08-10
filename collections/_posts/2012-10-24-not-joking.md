@@ -4,7 +4,7 @@ date: 2012-10-24 15:24:54+00:00
 layout: post
 slug: not-joking
 title: Not Joking
-category: blog
+category: essay
 tags:
 - grad student research
 - prism

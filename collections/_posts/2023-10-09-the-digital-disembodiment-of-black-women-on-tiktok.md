@@ -4,7 +4,7 @@ date: 2023-10-09
 layout: post
 slug: the-digital-disembodiment-of-black-women-on-tiktok
 title: The Digital Disembodiment Of Black Women On Tiktok
-category: blog
+category: essay
 tags:
 - grad student research
 - social media

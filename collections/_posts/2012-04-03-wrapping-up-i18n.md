@@ -4,7 +4,7 @@ date: 2012-04-03 15:07:38+00:00
 layout: post
 slug: wrapping-up-i18n
 title: Wrapping up i18n
-category: blog
+category: essay
 tags:
 - grad student research
 - code

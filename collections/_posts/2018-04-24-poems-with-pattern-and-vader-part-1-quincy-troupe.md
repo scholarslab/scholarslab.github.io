@@ -4,7 +4,7 @@ date: 2018-04-24 14:55:31+00:00
 layout: post
 slug: poems-with-pattern-and-vader-part-1-quincy-troupe
 title: 'Poems with Pattern and VADER, Part 1: Quincy Troupe'
-category: blog
+category: essay
 tags:
 - grad student research
 - race

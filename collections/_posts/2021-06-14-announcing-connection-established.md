@@ -6,7 +6,7 @@ date: 2021-06-14
 layout: post
 slug: announcing-connection-established
 title: Announcing 'Connection Established'
-category: blog
+category: essay
 tags:
 - grad student research
 - about-collaboration-community

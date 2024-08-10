@@ -4,7 +4,7 @@ date: 2010-06-17 14:00:59+00:00
 layout: post
 slug: expanding-the-capabilities-of-omeka
 title: Expanding the Capabilities of Omeka
-category: blog
+category: essay
 tags:
 - research and development
 - metadata

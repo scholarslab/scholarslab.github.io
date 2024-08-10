@@ -5,7 +5,7 @@ layout: post
 slug: alt-ac-report-and-data
 title: 'Now available: Report and data from SCI’s survey on career prep and graduate
   education'
-category: blog
+category: essay
 tags:
 - research and development
 - alt-ac

@@ -4,7 +4,7 @@ date: 2011-08-29 23:09:57+00:00
 layout: post
 slug: thoughts-on-our-charter
 title: Thoughts on our Charter
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

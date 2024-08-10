@@ -4,7 +4,7 @@ date: 2012-05-16 11:08:37+00:00
 layout: post
 slug: the-sidlers-guide-just-smile-and-hit-your-mark
 title: 'The Sidler''s Guide: Just Smile and Hit Your Mark'
-category: blog
+category: essay
 tags:
 - grad student research
 - design

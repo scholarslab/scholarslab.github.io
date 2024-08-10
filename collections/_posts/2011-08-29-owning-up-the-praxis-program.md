@@ -4,7 +4,7 @@ date: 2011-08-29 15:59:05+00:00
 layout: post
 slug: owning-up-the-praxis-program
 title: Owning up the Praxis Program
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

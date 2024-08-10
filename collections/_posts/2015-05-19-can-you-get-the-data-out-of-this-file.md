@@ -4,7 +4,7 @@ date: 2015-05-19 14:05:36+00:00
 layout: post
 slug: can-you-get-the-data-out-of-this-file
 title: Can you get the data out of this file?
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - code

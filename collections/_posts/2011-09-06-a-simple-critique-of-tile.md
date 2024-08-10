@@ -4,7 +4,7 @@ date: 2011-09-06 12:36:57+00:00
 layout: post
 slug: a-simple-critique-of-tile
 title: A simple critique of TILE
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

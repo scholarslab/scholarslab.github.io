@@ -5,7 +5,7 @@ layout: post
 slug: walt-whitmans-jack-engle-and-lola-montez-new-from-collective-biographies-of-women
 title: 'Walt Whitman''s Jack Engle and Lola Montez: New from Collective Biographies
   of Women'
-category: blog
+category: essay
 tags:
 - research and development
 - literature

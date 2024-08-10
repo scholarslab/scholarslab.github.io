@@ -4,7 +4,7 @@ date: 2014-04-09 14:00:31+00:00
 layout: post
 slug: announcing-the-ivanhoe-information-website-and-beginning-of-testing
 title: '(Digest #6) Announcing the Ivanhoe Information Website and Beginning of Testing'
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

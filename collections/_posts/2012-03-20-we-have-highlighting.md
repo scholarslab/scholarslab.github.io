@@ -4,7 +4,7 @@ date: 2012-03-20 15:09:09+00:00
 layout: post
 slug: we-have-highlighting
 title: We Have Highlighting!
-category: blog
+category: essay
 tags:
 - grad student research
 - code

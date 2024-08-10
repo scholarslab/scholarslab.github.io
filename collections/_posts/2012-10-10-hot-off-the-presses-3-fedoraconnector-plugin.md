@@ -4,7 +4,7 @@ date: 2012-10-10 11:58:19+00:00
 layout: post
 slug: hot-off-the-presses-3-fedoraconnector-plugin
 title: 'Hot off the Presses 3: FedoraConnector Plugin'
-category: blog
+category: essay
 tags:
 - code
 - omeka

@@ -4,7 +4,7 @@ date: 2017-12-14 09:42:42+00:00
 layout: post
 slug: fellowship-calls-and-grad-student-professional-development
 title: Fellowship Calls and Grad Student Professional Development
-category: blog
+category: essay
 tags:
 - professional development
 - pedagogy

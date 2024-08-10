@@ -4,7 +4,7 @@ date: 2013-02-20 09:24:17+00:00
 layout: post
 slug: highlighting
 title: Highlighting (some design proposals for Prism)
-category: blog
+category: essay
 tags:
 - grad student research
 - design

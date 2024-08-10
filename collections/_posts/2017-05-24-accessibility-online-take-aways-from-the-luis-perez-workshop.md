@@ -4,7 +4,7 @@ date: 2017-05-24 09:14:49+00:00
 layout: post
 slug: accessibility-online-take-aways-from-the-luis-perez-workshop
 title: "Accessibility Online--Take aways from the Luis Perez workshop"
-category: blog
+category: essay
 tags:
 - grad student research
 - accessibility

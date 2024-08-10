@@ -4,7 +4,7 @@ date: 2011-11-12 15:13:48+00:00
 layout: post
 slug: cross-posted-it-starts-on-day-one
 title: 'cross-posted: It Starts on Day One'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

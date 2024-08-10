@@ -4,7 +4,7 @@ date: 2023-10-16
 layout: post
 slug: im-new-here-but-im-not
 title: "I'm New Here (But I'm Not)"
-category: blog
+category: essay
 tags:
 - grad student research
 - hello world

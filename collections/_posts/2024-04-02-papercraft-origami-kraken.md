@@ -4,7 +4,7 @@ date: 2024-04-02
 layout: post
 slug: papercraft-origami-kraken
 title: "Papercraft: Origami Kraken"
-category: blog
+category: essay
 tags:
 - makerspace
 - expansive makerspace

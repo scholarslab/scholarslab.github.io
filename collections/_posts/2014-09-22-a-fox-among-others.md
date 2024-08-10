@@ -4,7 +4,7 @@ date: 2014-09-22 08:19:36+00:00
 layout: post
 slug: a-fox-among-others
 title: A Fox... Among Others
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

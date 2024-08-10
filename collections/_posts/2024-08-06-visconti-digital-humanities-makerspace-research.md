@@ -5,7 +5,7 @@ layout: post
 slug: visconti-digital-humanities-makerspace-research
 title: "My digital humanities makerspace research"
 summary: "My DH 2024 conference talk on my recent book-adjacent data physicalizations and makerspace research."
-category: blog
+category: essay
 tags:
 - makerspace
 - dataset

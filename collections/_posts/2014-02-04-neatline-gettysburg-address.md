@@ -4,7 +4,7 @@ date: 2014-02-04 10:13:47+00:00
 layout: post
 slug: neatline-gettysburg-address
 title: The "Nicolay copy" of the Gettysburg Address
-category: blog
+category: essay
 tags:
 - neatline
 crosspost:

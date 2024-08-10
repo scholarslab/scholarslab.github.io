@@ -4,7 +4,7 @@ date: 2018-11-06 15:47:51+00:00
 layout: post
 slug: sounding-scholarship-a-workshop-on-making-your-research-sing
 title: 'Sounding Scholarship: A Workshop on Making Your Research Sing'
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

@@ -4,7 +4,7 @@ date: 2014-04-09 14:00:22+00:00
 layout: post
 slug: documenting-ivanhoe
 title: Documenting Ivanhoe
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

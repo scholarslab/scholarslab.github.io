@@ -4,7 +4,7 @@ date: 2017-09-21 11:02:18+00:00
 layout: post
 slug: how-to-make-books-you-havent-read-talk
 title: How to make books you haven’t read, talk.
-category: blog
+category: essay
 tags:
 - music and sound
 - praxis

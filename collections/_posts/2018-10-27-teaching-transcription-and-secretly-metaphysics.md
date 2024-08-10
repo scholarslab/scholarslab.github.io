@@ -4,7 +4,7 @@ date: 2018-10-27 22:05:41+00:00
 layout: post
 slug: teaching-transcription-and-secretly-metaphysics
 title: Teaching Transcription (and Secretly Metaphysics)
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

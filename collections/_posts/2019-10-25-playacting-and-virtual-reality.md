@@ -4,7 +4,7 @@ date: 2019-10-25
 layout: post
 slug: playacting-and-virtual-reality
 title: "Exploring Power through Playacting & Virtual Reality"
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

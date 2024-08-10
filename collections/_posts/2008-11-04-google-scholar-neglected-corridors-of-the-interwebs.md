@@ -4,7 +4,7 @@ date: 2008-11-04 12:20:12+00:00
 layout: post
 slug: google-scholar-neglected-corridors-of-the-interwebs
 title: 'Google Scholar:  Neglected Corridors of the Interwebs'
-category: blog
+category: essay
 tags:
 - grad student research
 - hello world

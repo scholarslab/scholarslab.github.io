@@ -4,7 +4,7 @@ date: 2012-02-19 18:00:18+00:00
 layout: post
 slug: commentary-on-migrating-an-omeka-site
 title: Commentary on Migrating an Omeka Site
-category: blog
+category: essay
 tags:
 - research and development
 - omeka

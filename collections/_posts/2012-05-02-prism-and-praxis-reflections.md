@@ -4,7 +4,7 @@ date: 2012-05-02 09:31:17+00:00
 layout: post
 slug: prism-and-praxis-reflections
 title: Prism and Praxis Reflections
-category: blog
+category: essay
 tags:
 - grad student research
 - visualization and data mining

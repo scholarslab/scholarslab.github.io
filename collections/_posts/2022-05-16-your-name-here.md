@@ -3,7 +3,7 @@ layout: post
 title: Your Name Here
 author: joseph-foley
 date: 2022-05-16
-category: blog
+category: essay
 tags:
 - grad student research
 ---

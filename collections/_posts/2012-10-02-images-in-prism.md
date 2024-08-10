@@ -4,7 +4,7 @@ date: 2012-10-02 10:46:11+00:00
 layout: post
 slug: images-in-prism
 title: Images in Prism
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

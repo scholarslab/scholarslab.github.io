@@ -4,7 +4,7 @@ date: 2010-10-29 13:27:50+00:00
 layout: post
 slug: smarter-paper-maps
 title: Smarter Paper Maps
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - visualization and data mining

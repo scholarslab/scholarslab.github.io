@@ -4,7 +4,7 @@ date: 2012-11-19 14:48:12+00:00
 layout: post
 slug: trial-by-fire
 title: Trial by Fire
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

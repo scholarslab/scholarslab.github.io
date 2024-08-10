@@ -4,7 +4,7 @@ date: 2018-10-01 13:43:26+00:00
 layout: post
 slug: twitterature-mining-twitter-data
 title: 'Twitterature: Mining Twitter Data'
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - grad student research

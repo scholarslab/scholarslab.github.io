@@ -4,7 +4,7 @@ date: 2014-09-11 15:17:41+00:00
 layout: post
 slug: ivanhoe-considerations-for-the-next-cohort
 title: Ivanhoe considerations for the next cohort
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

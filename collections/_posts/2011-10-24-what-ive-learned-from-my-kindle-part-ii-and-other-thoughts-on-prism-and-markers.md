@@ -5,7 +5,7 @@ layout: post
 slug: what-ive-learned-from-my-kindle-part-ii-and-other-thoughts-on-prism-and-markers
 title: 'What I''ve learned from my Kindle: part II, and other thoughts on Prism and
   markers'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

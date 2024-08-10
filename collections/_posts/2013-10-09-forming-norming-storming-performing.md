@@ -4,7 +4,7 @@ date: 2013-10-09 14:55:13+00:00
 layout: post
 slug: forming-norming-storming-performing
 title: 'Forming, Norming, Storming & Performing '
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

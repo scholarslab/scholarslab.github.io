@@ -4,7 +4,7 @@ date: 2019-10-29
 layout: post
 slug: intro-dh-and-sound-workshop
 title: "Working on a Workshop (aka outlining a possible workshop about DH and Sound)"
-category: blog
+category: essay
 tags:
 - praxis
 - wlu collab

@@ -4,7 +4,7 @@ date: 2023-06-12
 layout: post
 slug: counting-to-seven
 title: Counting To Seven
-category: blog
+category: essay
 tags:
 - pedagogy
 crosspost:

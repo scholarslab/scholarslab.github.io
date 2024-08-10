@@ -4,7 +4,7 @@ date: 2012-10-03 11:13:45+00:00
 layout: post
 slug: hot-off-the-presses-the-solrsearch-plugin
 title: 'Hot off the Presses: the SolrSearch Plugin'
-category: blog
+category: essay
 tags:
 - code
 ---

@@ -4,7 +4,7 @@ date: 2011-10-22 15:45:39+00:00
 layout: post
 slug: overlapping-anxieties
 title: overlapping anxieties
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

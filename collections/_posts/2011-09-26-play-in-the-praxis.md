@@ -4,7 +4,7 @@ date: 2011-09-26 14:41:54+00:00
 layout: post
 slug: play-in-the-praxis
 title: jugando a praxis
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

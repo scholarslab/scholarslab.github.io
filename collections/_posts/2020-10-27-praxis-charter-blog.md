@@ -6,7 +6,7 @@ date: 2020-10-27
 layout: post
 slug: 2020-praxis-charter-blog
 title: "Pandemic, Puppets, Peppers: On Writing & Performing a Praxis Program Charter in 2020"
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

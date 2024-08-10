@@ -4,7 +4,7 @@ date: 2018-05-08 11:02:08+00:00
 layout: post
 slug: teaching-black-arts-poetry-and-computational-methods
 title: Teaching Black Arts Poetry and Computational Methods
-category: blog
+category: essay
 tags:
 - wlu collab
 - pedagogy

@@ -4,7 +4,7 @@ date: 2012-11-01 11:32:18+00:00
 layout: post
 slug: neatline-release-omnibus-edition
 title: Neatline Release Omnibus Edition
-category: blog
+category: essay
 tags:
 - neatline
 - code

@@ -4,7 +4,7 @@ date: 2015-03-10 10:34:00+00:00
 layout: post
 slug: watermarking-and-ocr-ing-your-images
 title: Watermarking and OCR-ing Your Images
-category: blog
+category: essay
 tags:
 - research and development
 - transcription

@@ -4,7 +4,7 @@ date: 2012-02-06 10:48:10+00:00
 layout: post
 slug: teaching-prism-how-to-speak-spanish-and-french
 title: teaching prism how to speak spanish and french
-category: blog
+category: essay
 tags:
 - grad student research
 - code

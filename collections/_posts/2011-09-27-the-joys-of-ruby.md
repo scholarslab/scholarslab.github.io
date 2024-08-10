@@ -4,7 +4,7 @@ date: 2011-09-27 12:00:21+00:00
 layout: post
 slug: the-joys-of-ruby
 title: The Joys of Ruby
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

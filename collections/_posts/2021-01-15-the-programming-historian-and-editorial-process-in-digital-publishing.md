@@ -4,7 +4,7 @@ date: 2021-01-15 11:39:00
 layout: post
 slug: the-programming-historian-and-editorial-process-in-digital-publishing
 title: The Programming Historian And Editorial Process In Digital Publishing
-category: blog
+category: essay
 tags:
 - jekyll
 crosspost:

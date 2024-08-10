@@ -4,7 +4,7 @@ date: 2013-09-11 10:14:53+00:00
 layout: post
 slug: mapping-crowd-sourced-bicycle-data
 title: Mapping Crowd Sourced Bicycle Data
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - gis

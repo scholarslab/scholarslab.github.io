@@ -4,7 +4,7 @@ date: 2012-01-24 14:03:04+00:00
 layout: post
 slug: building-and-texts
 title: Building and Texts
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

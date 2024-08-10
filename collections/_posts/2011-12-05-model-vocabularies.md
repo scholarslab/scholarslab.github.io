@@ -4,7 +4,7 @@ date: 2011-12-05 11:50:04+00:00
 layout: post
 slug: model-vocabularies
 title: Model vocabularies
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

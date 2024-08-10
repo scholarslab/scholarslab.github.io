@@ -4,7 +4,7 @@ date: 2015-02-06 11:12:29+00:00
 layout: post
 slug: refactoring-ivanhoe
 title: Refactoring Ivanhoe
-category: blog
+category: essay
 tags:
 - praxis
 - ivanhoe

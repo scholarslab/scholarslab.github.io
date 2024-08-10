@@ -4,7 +4,7 @@ date: 2011-10-26 21:46:52+00:00
 layout: post
 slug: facing-the-demon
 title: Facing the Demon
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

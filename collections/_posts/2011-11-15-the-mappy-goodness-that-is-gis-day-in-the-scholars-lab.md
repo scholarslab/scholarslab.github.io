@@ -4,7 +4,7 @@ date: 2011-11-15 12:46:16+00:00
 layout: post
 slug: the-mappy-goodness-that-is-gis-day-in-the-scholars-lab
 title: The Mappy Goodness that is GIS Day in the Scholars' Lab
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - grad student research

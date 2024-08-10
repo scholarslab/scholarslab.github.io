@@ -4,7 +4,7 @@ date: 2019-02-27 12:06:59
 layout: post
 slug: connecting-linux-to-cavalier
 title: Connecting Linux To Cavalier
-category: blog
+category: essay
 tags:
 - makerspace
 - electronics

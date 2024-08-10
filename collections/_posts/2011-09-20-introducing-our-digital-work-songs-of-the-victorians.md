@@ -4,7 +4,7 @@ date: 2011-09-20 10:55:31+00:00
 layout: post
 slug: introducing-our-digital-work-songs-of-the-victorians
 title: 'Introducing Our Digital Work: “Songs of the Victorians” '
-category: blog
+category: essay
 tags:
 - grad student research
 - literature

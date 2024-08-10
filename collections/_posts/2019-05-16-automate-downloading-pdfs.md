@@ -4,7 +4,7 @@ date: 2019-05-16 15:18:16
 layout: post
 slug: automate-downloading-pdf-files
 title: Automate Downloading PDF Files
-category: blog
+category: essay
 tags:
 - automation
 - tutorial

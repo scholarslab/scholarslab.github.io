@@ -4,7 +4,7 @@ date: 2013-11-15 09:33:26+00:00
 layout: post
 slug: role-journals-texts-pedagogy-and-pragmatism
 title: Role Journals, Texts, Pedagogy, and Pragmatism
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

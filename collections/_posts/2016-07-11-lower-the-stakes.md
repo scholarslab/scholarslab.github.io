@@ -4,7 +4,7 @@ date: 2016-07-11 11:02:53+00:00
 layout: post
 slug: lower-the-stakes
 title: Lower the Stakes
-category: blog
+category: essay
 tags:
 - pedagogy
 ---

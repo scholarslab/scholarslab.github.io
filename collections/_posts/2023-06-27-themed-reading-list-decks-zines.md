@@ -4,7 +4,7 @@ date: 2023-06-27
 layout: post
 slug: themed-reading-list-decks-zines
 title: "Themed reading lists as neat card decks! A tutorial and design discussion"
-category: blog
+category: essay
 tags:
 - zines
 - makerspace

@@ -4,7 +4,7 @@ date: 2011-11-01 14:20:16+00:00
 layout: post
 slug: building-prism-let-there-be-light
 title: 'Building Prism: Let There Be Light!'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

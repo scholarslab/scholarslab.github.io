@@ -4,7 +4,7 @@ date: 2019-09-23 14:03:52
 layout: post
 slug: js-pagination
 title: "JS Pagination"
-category: blog
+category: essay
 tags:
 - architectural history
 - code

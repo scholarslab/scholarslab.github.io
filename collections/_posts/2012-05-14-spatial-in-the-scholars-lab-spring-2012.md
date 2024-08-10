@@ -10,7 +10,7 @@ tags:
 - gis
 - tutorial
 - map
-category: blog
+category: essay
 ---
 
 With classes over and finals behind us, let's look back on the Spring 2012 semester with a spatial eye.  Yes, January-May was a very mappy time in the Scholars’ Lab!

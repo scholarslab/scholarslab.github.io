@@ -4,7 +4,7 @@ date: 2016-01-14 13:15:41+00:00
 layout: post
 slug: working-with-d3-part-one
 title: "Working with D3, Part One."
-category: blog
+category: essay
 tags:
 - visualization and data mining
 - code

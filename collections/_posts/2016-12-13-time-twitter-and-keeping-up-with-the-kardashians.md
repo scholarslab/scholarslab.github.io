@@ -4,7 +4,7 @@ date: 2016-12-13 12:54:42+00:00
 layout: post
 slug: time-twitter-and-keeping-up-with-the-kardashians
 title: Time, Twitter, and Keeping Up with the Kardashians
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

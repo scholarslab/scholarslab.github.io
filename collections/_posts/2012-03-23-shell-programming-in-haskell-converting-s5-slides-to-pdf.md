@@ -4,7 +4,7 @@ date: 2012-03-23 09:09:09+00:00
 layout: post
 slug: shell-programming-in-haskell-converting-s5-slides-to-pdf
 title: 'Shell Programming in Haskell: Converting S5 Slides to PDF'
-category: blog
+category: essay
 tags:
 - research and development
 - code

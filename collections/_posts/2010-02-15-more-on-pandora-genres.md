@@ -4,7 +4,7 @@ date: 2010-02-15 09:39:52+00:00
 layout: post
 slug: more-on-pandora-genres
 title: 'More on Pandora:  genres, genomes, and musical taste...'
-category: blog
+category: essay
 tags:
 - visualization and data mining
 ---

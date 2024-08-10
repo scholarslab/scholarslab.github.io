@@ -4,7 +4,7 @@ date: 2017-07-05 18:28:23+00:00
 layout: post
 slug: transcribing-typography-with-markdown
 title: Transcribing Typography with Markdown
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

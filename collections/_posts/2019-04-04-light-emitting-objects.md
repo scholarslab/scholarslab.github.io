@@ -4,7 +4,7 @@ date: 2019-04-04 01:00:00+00:00
 layout: post
 slug: light-emitting-objects
 title: "Illumination Through Light Emitting Objects"
-category: blog
+category: essay
 tags:
 - research and development
 - parents fund

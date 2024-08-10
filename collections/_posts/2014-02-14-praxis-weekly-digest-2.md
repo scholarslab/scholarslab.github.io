@@ -4,7 +4,7 @@ date: 2014-02-14 11:00:02+00:00
 layout: post
 slug: praxis-weekly-digest-2
 title: 'Praxis Weekly Digest #2'
-category: blog
+category: essay
 tags:
 - grad student research
 - design

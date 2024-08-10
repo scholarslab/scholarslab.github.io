@@ -4,7 +4,7 @@ date: 2014-01-14 10:45:06+00:00
 layout: post
 slug: when-expectations-meet-reality
 title: 'When expectations meet reality '
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

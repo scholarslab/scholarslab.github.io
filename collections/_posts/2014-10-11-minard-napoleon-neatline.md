@@ -4,7 +4,7 @@ date: 2014-10-11 09:15:56+00:00
 layout: post
 slug: minard-napoleon-neatline
 title: Minard + Napoleon + Neatline
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - history

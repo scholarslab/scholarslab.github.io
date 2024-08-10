@@ -5,7 +5,7 @@ excerpt: As part of our ongoing efforts on our Neatline grant, we needed to incl
 layout: post
 slug: omeka-timeline-plugin
 title: Omeka Timeline Plugin
-category: blog
+category: essay
 tags:
 - research and development
 - code

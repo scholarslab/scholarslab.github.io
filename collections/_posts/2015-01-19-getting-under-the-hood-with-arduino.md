@@ -4,7 +4,7 @@ date: 2015-01-19 08:23:00+00:00
 layout: post
 slug: getting-under-the-hood-with-arduino
 title: Getting “under the hood” with Arduino
-category: blog
+category: essay
 tags:
 - electronics
 - makerspace

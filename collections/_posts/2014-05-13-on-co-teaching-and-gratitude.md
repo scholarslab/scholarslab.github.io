@@ -4,7 +4,7 @@ date: 2014-05-13 12:06:32+00:00
 layout: post
 slug: on-co-teaching-and-gratitude
 title: On co-teaching and gratitude
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

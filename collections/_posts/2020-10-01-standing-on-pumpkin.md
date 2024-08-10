@@ -4,7 +4,7 @@ date: 2020-10-01
 layout: post
 slug: standing-on-pumpkin
 title: "Today, I stood on top of a giant pumpkin"
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - 3dchi

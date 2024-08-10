@@ -4,7 +4,7 @@ date: 2012-12-10 10:56:33+00:00
 layout: post
 slug: fizzing-buzzing
 title: Fizzing, Buzzing
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

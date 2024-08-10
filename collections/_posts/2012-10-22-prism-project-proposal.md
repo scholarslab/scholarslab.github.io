@@ -4,7 +4,7 @@ date: 2012-10-22 11:17:20+00:00
 layout: post
 slug: prism-project-proposal
 title: Prism Project Proposal
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

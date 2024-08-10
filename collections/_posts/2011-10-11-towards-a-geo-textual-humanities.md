@@ -4,7 +4,7 @@ date: 2011-10-11 10:32:28+00:00
 layout: post
 slug: towards-a-geo-textual-humanities
 title: towards a geo-textual humanities
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

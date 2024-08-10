@@ -4,7 +4,7 @@ date: 2015-09-08 11:20:15+00:00
 layout: post
 slug: augmented-reality-and-simulation
 title: Augmented Reality and Simulation
-category: blog
+category: essay
 tags:
 - research and development
 - vr-ar

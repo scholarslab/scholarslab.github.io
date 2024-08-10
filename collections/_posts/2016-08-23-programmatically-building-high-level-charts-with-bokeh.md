@@ -4,7 +4,7 @@ date: 2016-08-23 09:43:39+00:00
 layout: post
 slug: programmatically-building-high-level-charts-with-bokeh
 title: Programmatically Building High-level Charts with Bokeh
-category: blog
+category: essay
 tags:
 - code
 - visualization

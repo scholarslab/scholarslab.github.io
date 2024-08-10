@@ -4,7 +4,7 @@ date: 2013-09-25 13:41:25+00:00
 layout: post
 slug: 2013-2014-praxis-charter-ratified
 title: 2013-2014 Praxis Charter ratified!
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

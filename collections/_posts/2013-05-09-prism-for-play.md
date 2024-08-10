@@ -4,7 +4,7 @@ date: 2013-05-09 15:31:20+00:00
 layout: post
 slug: prism-for-play
 title: "Prism, for Play"
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

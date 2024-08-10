@@ -4,7 +4,7 @@ date: 2023-07-10
 layout: post
 slug: digital-humanities-and-the-ellington-effect
 title: Digital Humanities And The Ellington Effect
-category: blog
+category: essay
 tags:
 - directing
 - pedagogy

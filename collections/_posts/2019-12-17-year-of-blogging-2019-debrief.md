@@ -4,7 +4,7 @@ date: 2019-12-17
 layout: post
 slug: year-of-blogging-2019-debrief
 title: Celebrating a Year of Blogging
-category: blog
+category: essay
 tags:
 - meta-blogging
 crosspost:

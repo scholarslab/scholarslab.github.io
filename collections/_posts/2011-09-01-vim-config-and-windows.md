@@ -4,7 +4,7 @@ date: 2011-09-01 06:21:58+00:00
 layout: post
 slug: vim-config-and-windows
 title: Vim Config (and Windows)
-category: blog
+category: essay
 tags:
 - grad student research
 - code

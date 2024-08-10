@@ -4,7 +4,7 @@ date: 2017-05-25 08:41:48+00:00
 layout: post
 slug: visualizing-paper-evidence-using-digital-reproductions
 title: Visualizing Paper Evidence Using Digital Reproductions
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

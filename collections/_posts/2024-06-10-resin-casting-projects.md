@@ -5,7 +5,7 @@ layout: post
 slug: resin-casting-projects
 title: "Resin casting projects"
 summary: "I completed two resin casting projects recently: a full-size skull, and a light-up TTRPG dice necklace."
-category: blog
+category: essay
 tags:
 - makerspace
 - resin

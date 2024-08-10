@@ -4,7 +4,7 @@ date: 2019-01-15
 layout: post
 slug: site-relaunch
 title: Website relaunch!
-category: blog
+category: essay
 tags:
 - jekyll
 - mincomp

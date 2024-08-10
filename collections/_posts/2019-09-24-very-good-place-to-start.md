@@ -4,7 +4,7 @@ date: 2019-09-24
 layout: post
 slug: very-good-place-to-start
 title: "A Very Good Place to Start"
-category: blog
+category: essay
 tags:
 - grad student research
 - code

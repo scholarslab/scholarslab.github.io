@@ -4,7 +4,7 @@ date: 2012-05-06 11:11:35+00:00
 layout: post
 slug: future-possibilities-for-prism
 title: Future possibilities for Prism
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

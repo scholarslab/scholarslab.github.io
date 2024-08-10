@@ -4,7 +4,7 @@ date: 2012-10-08 11:41:46+00:00
 layout: post
 slug: hot-off-the-presses-2-bagit-plugin
 title: 'Hot off the Presses 2: BagIt Plugin'
-category: blog
+category: essay
 tags:
 - omeka
 - code

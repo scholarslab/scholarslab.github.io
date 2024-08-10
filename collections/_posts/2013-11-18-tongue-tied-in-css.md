@@ -4,7 +4,7 @@ date: 2013-11-18 12:15:14+00:00
 layout: post
 slug: tongue-tied-in-css
 title: Tongue-tied in CSS
-category: blog
+category: essay
 tags:
 - grad student research
 - design

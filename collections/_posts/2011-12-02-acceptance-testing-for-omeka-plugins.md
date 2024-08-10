@@ -4,7 +4,7 @@ date: 2011-12-02 16:40:58+00:00
 layout: post
 slug: acceptance-testing-for-omeka-plugins
 title: Acceptance Testing for Omeka Plugins
-category: blog
+category: essay
 tags:
 - research and development
 - code

@@ -4,7 +4,7 @@ date: 2012-05-03 11:09:23+00:00
 layout: post
 slug: update-diy-aerial-photography
 title: 'Update: DIY Aerial Photography'
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - gis

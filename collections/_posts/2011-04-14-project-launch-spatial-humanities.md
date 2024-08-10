@@ -4,7 +4,7 @@ date: 2011-04-14 16:24:12+00:00
 layout: post
 slug: project-launch-spatial-humanities
 title: 'Project launch: "Spatial Humanities!"'
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - visualization and data mining

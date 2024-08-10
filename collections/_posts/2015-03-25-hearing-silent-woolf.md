@@ -4,7 +4,7 @@ date: 2015-03-25 09:12:43+00:00
 layout: post
 slug: hearing-silent-woolf
 title: Hearing Silent Woolf
-category: blog
+category: essay
 tags:
 - grad student research
 crosspost:

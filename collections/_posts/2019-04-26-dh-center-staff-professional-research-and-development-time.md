@@ -7,7 +7,7 @@ title: "20% Time: Why we make self-initiated research & development part of the 
 crosspost:
   - title: my blog
     url: https://literaturegeek.com/2019/04/26/dh-center-staff-professional-research-and-development-time/
-category: blog
+category: essay
 tags:
 - research and development
 ---

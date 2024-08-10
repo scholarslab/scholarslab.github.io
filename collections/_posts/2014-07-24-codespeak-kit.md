@@ -4,7 +4,7 @@ date: 2014-07-24 09:20:14+00:00
 layout: post
 slug: codespeak-kit
 title: 'Announcing the #Codespeak Kit!'
-category: blog
+category: essay
 tags:
 - research and development
 - code

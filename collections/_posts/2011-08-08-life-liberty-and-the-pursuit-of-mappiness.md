@@ -4,7 +4,7 @@ date: 2011-08-08 09:35:18+00:00
 layout: post
 slug: life-liberty-and-the-pursuit-of-mappiness
 title: Life, Liberty, and the Pursuit of Mappiness
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - map

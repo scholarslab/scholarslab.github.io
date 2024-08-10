@@ -4,7 +4,7 @@ date: 2014-10-21 17:01:11+00:00
 layout: post
 slug: come-explore-the-makerspace
 title: Come explore the Makerspace!
-category: blog
+category: essay
 tags:
 - makerspace
 - hello world

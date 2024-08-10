@@ -4,7 +4,7 @@ date: 2023-10-09
 layout: post
 slug: praxis-hackathon-scaffolding
 title: Praxis Hackathon Scaffolding
-category: blog
+category: essay
 tags:
 - praxis
 - pedagogy

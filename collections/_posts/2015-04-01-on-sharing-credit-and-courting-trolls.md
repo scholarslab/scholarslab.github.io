@@ -4,7 +4,7 @@ date: 2015-04-01 11:19:55+00:00
 layout: post
 slug: on-sharing-credit-and-courting-trolls
 title: On Sharing Credit and Courting Trolls
-category: blog
+category: essay
 tags:
 - about-collaboration-community
 - praxis

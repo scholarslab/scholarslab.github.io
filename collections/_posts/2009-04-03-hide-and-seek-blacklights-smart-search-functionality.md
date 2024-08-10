@@ -4,7 +4,7 @@ date: 2009-04-03 16:26:29+00:00
 layout: post
 slug: hide-and-seek-blacklights-smart-search-functionality
 title: 'Hide and Seek: Blacklight''s Smart Search Functionality'
-category: blog
+category: essay
 tags:
 - grad student research
 ---

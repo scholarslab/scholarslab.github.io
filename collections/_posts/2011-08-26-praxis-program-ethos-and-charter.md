@@ -4,7 +4,7 @@ date: 2011-08-26 11:25:35+00:00
 layout: post
 slug: praxis-program-ethos-and-charter
 title: Praxis Program Ethos and Charter
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

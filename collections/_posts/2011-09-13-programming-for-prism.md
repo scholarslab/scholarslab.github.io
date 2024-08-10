@@ -4,7 +4,7 @@ date: 2011-09-13 12:36:35+00:00
 layout: post
 slug: programming-for-prism
 title: Programming for Prism
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

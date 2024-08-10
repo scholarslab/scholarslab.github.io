@@ -4,7 +4,7 @@ date: 2016-04-11 11:16:18+00:00
 layout: post
 slug: saving-arduino-sensor-data
 title: Saving Arduino Sensor Data
-category: blog
+category: essay
 tags:
 - makerspace
 - tutorial

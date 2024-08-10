@@ -4,7 +4,7 @@ date: 2014-09-16 15:53:31+00:00
 layout: post
 slug: prism-in-the-classroom-questions-to-frame-discussion
 title: 'Prism in the Classroom: Questions to Frame Discussion'
-category: blog
+category: essay
 tags:
 - grad student research
 - prism

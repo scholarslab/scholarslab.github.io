@@ -4,7 +4,7 @@ date: 2021-04-07
 layout: post
 slug: finish-line
 title: Nearing the Finish Line
-category: blog
+category: essay
 tags:
 - photogrammetry
 - gis

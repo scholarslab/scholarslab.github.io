@@ -4,7 +4,7 @@ date: 2013-09-30 13:38:02+00:00
 layout: post
 slug: are-we-gaming-or-just-simulating
 title: 'Are we gaming or just simulating? '
-category: blog
+category: essay
 tags:
 - grad student research
 - games

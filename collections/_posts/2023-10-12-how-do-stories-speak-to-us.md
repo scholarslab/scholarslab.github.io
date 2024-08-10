@@ -4,7 +4,7 @@ date: 2023-10-12
 layout: post
 slug: how-do-stories-speak-to-us
 title: How Do Stories Speak To Us?
-category: blog
+category: essay
 tags:
 - grad student research
 - literature

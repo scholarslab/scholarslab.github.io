@@ -4,7 +4,7 @@ date: 2017-09-10 21:24:42+00:00
 layout: post
 slug: 2-about-my-research-computers-and-digital-humanities
 title: "About my research, computers and Digital Humanities"
-category: blog
+category: essay
 tags: 
 - uva reveal
 - praxis

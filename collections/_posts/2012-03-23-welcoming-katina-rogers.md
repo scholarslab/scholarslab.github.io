@@ -4,7 +4,7 @@ date: 2012-03-23 10:39:16+00:00
 layout: post
 slug: welcoming-katina-rogers
 title: "Welcoming Katina Rogers!"
-category: blog
+category: essay
 tags:
 - staffing
 category: announcement

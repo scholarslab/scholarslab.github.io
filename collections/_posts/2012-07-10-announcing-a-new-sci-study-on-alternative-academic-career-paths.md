@@ -4,7 +4,7 @@ date: 2012-07-10 10:02:46+00:00
 layout: post
 slug: announcing-a-new-sci-study-on-alternative-academic-career-paths
 title: Announcing a new SCI study on alternative academic career paths
-category: blog
+category: essay
 tags:
 - alt-ac
 ---

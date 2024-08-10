@@ -4,7 +4,7 @@ date: 2018-02-28 06:30:07+00:00
 layout: post
 slug: digital-humanities-dissertation-starter-kit
 title: Starter kit for considering a DH dissertation
-category: blog
+category: essay
 tags:
 - dissertation
 - pedagogy

@@ -4,7 +4,7 @@ date: 2017-11-15 15:07:10+00:00
 layout: post
 slug: measured-unrest-in-the-poetry-of-the-black-arts-movement
 title: Measured Unrest in the Poetry of the Black Arts Movement
-category: blog
+category: essay
 tags:
 - grad student research
 - text analysis

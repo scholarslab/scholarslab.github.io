@@ -4,7 +4,7 @@ date: 2023-08-14
 layout: post
 slug: finding-the-community-after-twitter
 title: Finding The Community After Twitter
-category: blog
+category: essay
 tags:
 - social media
 - about-collaboration-community

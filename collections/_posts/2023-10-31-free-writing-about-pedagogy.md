@@ -4,7 +4,7 @@ date: 2023-10-31
 layout: post
 slug: free-writing-about-pedagogy
 title: Free Writing About Pedagogy
-category: blog
+category: essay
 tags:
 - pedagogy
 crosspost:

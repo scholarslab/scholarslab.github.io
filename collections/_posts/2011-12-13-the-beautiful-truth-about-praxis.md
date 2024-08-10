@@ -4,7 +4,7 @@ date: 2011-12-13 11:51:19+00:00
 layout: post
 slug: the-beautiful-truth-about-praxis
 title: The (beautiful) truth about Praxis
-category: blog
+category: essay
 tags:
 - grad student research
 - design

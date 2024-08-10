@@ -4,7 +4,7 @@ date: 2014-09-16 09:59:03+00:00
 layout: post
 slug: the-digital-sea-of-exchange
 title: 'The Digital Sea of Exchange '
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

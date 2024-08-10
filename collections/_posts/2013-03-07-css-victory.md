@@ -4,7 +4,7 @@ date: 2013-03-07 12:13:27+00:00
 layout: post
 slug: css-victory
 title: "CSS Victory!"
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

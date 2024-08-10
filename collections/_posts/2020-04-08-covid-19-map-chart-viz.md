@@ -4,7 +4,7 @@ date: 2020-04-08
 layout: post
 slug: covid-19-map-chart-viz
 title: "Virginia COVID-19 map & chart visualizations"
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - gis

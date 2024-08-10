@@ -4,7 +4,7 @@ date: 2011-10-18 00:08:05+00:00
 layout: post
 slug: design-to-play
 title: design to play
-category: blog
+category: essay
 tags:
 - grad student research
 - design

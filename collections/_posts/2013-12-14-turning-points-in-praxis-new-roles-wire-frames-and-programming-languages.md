@@ -4,7 +4,7 @@ date: 2013-12-14 09:33:56+00:00
 layout: post
 slug: turning-points-in-praxis-new-roles-wire-frames-and-programming-languages
 title: 'Turning points in Praxis: new roles, wire-frames, and programming languages'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

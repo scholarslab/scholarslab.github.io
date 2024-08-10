@@ -4,7 +4,7 @@ date: 2012-09-06 08:57:25+00:00
 layout: post
 slug: bulk-editing-in-vim
 title: Bulk Editing in Vim
-category: blog
+category: essay
 tags:
 - research and development
 - code

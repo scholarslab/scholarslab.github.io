@@ -4,7 +4,7 @@ date: 2015-07-06 10:00:38+00:00
 layout: post
 slug: physical-computing-at-dhsi-2015
 title: Physical Computing at DHSI 2015
-category: blog
+category: essay
 tags:
 - 3d printing
 - electronics

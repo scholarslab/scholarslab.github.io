@@ -4,7 +4,7 @@ date: 2021-10-29
 layout: post
 slug: raspberry-pi-uva-eduroam
 title: Connecting a Raspberry Pi to UVA's Eduroam WiFi
-category: blog
+category: essay
 tags:
 - makerspace
 - electronics

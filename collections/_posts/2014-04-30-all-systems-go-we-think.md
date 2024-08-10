@@ -4,7 +4,7 @@ date: 2014-04-30 10:00:32+00:00
 layout: post
 slug: all-systems-go-we-think
 title: 'All systems go! (we think...) '
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

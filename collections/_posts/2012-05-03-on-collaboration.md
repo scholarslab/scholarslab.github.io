@@ -4,7 +4,7 @@ date: 2012-05-03 15:10:59+00:00
 layout: post
 slug: on-collaboration
 title: On Collaboration
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

@@ -4,7 +4,7 @@ date: 2012-10-01 15:06:47+00:00
 layout: post
 slug: casing-your-text
 title: Casing your Text
-category: blog
+category: essay
 tags:
 - research and development
 ---

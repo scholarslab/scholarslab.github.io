@@ -4,7 +4,7 @@ date: 2011-12-24 10:16:05+00:00
 layout: post
 slug: to-scaffold-or-not-to-scaffold
 title: To Scaffold, or Not To Scaffold?
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

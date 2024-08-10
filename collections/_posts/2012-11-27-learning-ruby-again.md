@@ -4,7 +4,7 @@ date: 2012-11-27 23:22:07+00:00
 layout: post
 slug: learning-ruby-again
 title: Learning Ruby (again)
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

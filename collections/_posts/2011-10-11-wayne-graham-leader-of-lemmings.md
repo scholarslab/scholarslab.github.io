@@ -3,7 +3,7 @@ author: ed-triplett
 date: 2011-10-11 13:55:16+00:00
 layout: post
 slug: wayne-graham-leader-of-lemmings
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

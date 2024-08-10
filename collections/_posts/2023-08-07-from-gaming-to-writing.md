@@ -4,7 +4,7 @@ date: 2023-08-07
 layout: post
 slug: from-gaming-to-writing
 title: From Gaming To Writing
-category: blog
+category: essay
 tags:
 - games
 crosspost:

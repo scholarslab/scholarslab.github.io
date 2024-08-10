@@ -4,7 +4,7 @@ date: 2015-05-04 15:53:55+00:00
 layout: post
 slug: ninjaflex-on-the-makerbot
 title: NinjaFlex on the Makerbot
-category: blog
+category: essay
 tags:
 - makerspace
 - 3d printing

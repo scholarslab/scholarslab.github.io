@@ -4,7 +4,7 @@ date: 2011-09-01 10:00:03+00:00
 layout: post
 slug: praxis-program-week-2
 title: Praxis Program week 2
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

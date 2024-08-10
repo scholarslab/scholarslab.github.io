@@ -4,7 +4,7 @@ date: 2014-09-15 10:15:58+00:00
 layout: post
 slug: hello-world-3
 title: Hello world
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

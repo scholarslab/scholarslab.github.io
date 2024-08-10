@@ -4,7 +4,7 @@ date: 2012-11-05 10:24:20+00:00
 layout: post
 slug: outside-the-pipeline-from-anecdote-to-data
 title: 'Outside the Pipeline: From Anecdote to Data'
-category: blog
+category: essay
 tags:
 - alt-ac
 - praxis network

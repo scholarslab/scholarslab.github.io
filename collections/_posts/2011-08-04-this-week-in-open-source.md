@@ -4,7 +4,7 @@ date: 2011-08-04 06:30:00+00:00
 layout: post
 slug: this-week-in-open-source
 title: This week in Open Source
-category: blog
+category: essay
 tags:
 - research and development
 - neatline

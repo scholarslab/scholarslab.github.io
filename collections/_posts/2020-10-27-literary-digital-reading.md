@@ -4,7 +4,7 @@ date: 2020-10-27
 layout: post
 slug: literacy-digital-reading
 title: "Literacy Gone Digital: Reading and Unreading Digital Texts"
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

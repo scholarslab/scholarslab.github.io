@@ -4,7 +4,7 @@ date: 2012-01-09 16:22:56+00:00
 layout: post
 slug: looking-forward-to-prism
 title: Looking forward to Prism
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

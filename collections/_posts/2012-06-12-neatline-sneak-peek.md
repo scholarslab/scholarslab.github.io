@@ -4,7 +4,7 @@ date: 2012-06-12 12:01:59+00:00
 layout: post
 slug: neatline-sneak-peek
 title: Neatline Sneak-Peek
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - research and development

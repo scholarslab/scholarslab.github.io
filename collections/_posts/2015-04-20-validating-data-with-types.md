@@ -4,7 +4,7 @@ date: 2015-04-20 13:47:06+00:00
 layout: post
 slug: validating-data-with-types
 title: Validating Data with Types
-category: blog
+category: essay
 tags:
 - tutorial
 - code

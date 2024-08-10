@@ -4,7 +4,7 @@ date: 2012-10-02 10:44:24+00:00
 layout: post
 slug: fun-with-prism
 title: Fun with Prism
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

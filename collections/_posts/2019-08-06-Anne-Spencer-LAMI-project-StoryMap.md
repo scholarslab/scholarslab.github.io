@@ -4,7 +4,7 @@ date: 2019-08-06
 layout: post
 slug: Anne-Spencer-LAMI-project-StoryMap
 title: "Harlem in Lynchburg: Stories about Space in a Summer Internship and the Jim Crow South"
-category: blog
+category: essay
 tags:
 - architectural history
 - geospatial and temporal

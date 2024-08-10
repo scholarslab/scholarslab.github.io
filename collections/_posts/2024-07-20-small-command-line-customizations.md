@@ -4,7 +4,7 @@ date: 2024-07-20
 layout: post
 slug: small-command-line-customizations
 title: "Making your command line a tiny bit better"
-category: blog
+category: essay
 tags:
 - tutorial
 - code

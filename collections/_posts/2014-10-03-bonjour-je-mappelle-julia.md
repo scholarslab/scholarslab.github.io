@@ -4,7 +4,7 @@ date: 2014-10-03 13:20:39+00:00
 layout: post
 slug: bonjour-je-mappelle-julia
 title: Bonjour! Je m'appelle Julia.
-category: blog
+category: essay
 tags:
 - makerspace
 ---

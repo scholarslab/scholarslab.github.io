@@ -4,7 +4,7 @@ date: 2013-10-14 17:49:46+00:00
 layout: post
 slug: more-musings-on-tuckman
 title: More Musings on Tuckman...
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

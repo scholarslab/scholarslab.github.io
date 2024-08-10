@@ -4,7 +4,7 @@ date: 2012-11-27 23:24:30+00:00
 layout: post
 slug: your-digital-life-in-140-characters
 title: Your Digital Life in 140 Characters
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

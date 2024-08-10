@@ -4,7 +4,7 @@ date: 2012-10-01 15:08:17+00:00
 layout: post
 slug: marking-and-explanation-in-prism-2
 title: Marking and Explanation in Prism
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

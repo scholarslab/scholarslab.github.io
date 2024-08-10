@@ -4,7 +4,7 @@ date: 2019-08-30
 layout: post
 slug: I-need-to-write-a-blog-post
 title: I need to write a blog post
-category: blog
+category: essay
 tags:
 - meta-blogging
 - hall of fame

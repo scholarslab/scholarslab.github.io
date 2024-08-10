@@ -4,7 +4,7 @@ date: 2019-10-17
 layout: post
 slug: digital-humanities-pedagogy-and-opportunities-for-hope
 title: Digital Humanities Pedagogy And Opportunities For Hope
-category: blog
+category: essay
 tags:
 - pedagogy
 - care

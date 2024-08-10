@@ -4,7 +4,7 @@ date: 2012-02-06 11:38:08+00:00
 layout: post
 slug: an-update-to-teidisplay-for-omeka
 title: An Update to TEIDisplay for Omeka
-category: blog
+category: essay
 tags:
 - omeka
 - code

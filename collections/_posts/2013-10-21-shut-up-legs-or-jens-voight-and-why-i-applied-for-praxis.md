@@ -4,7 +4,7 @@ date: 2013-10-21 11:05:17+00:00
 layout: post
 slug: shut-up-legs-or-jens-voight-and-why-i-applied-for-praxis
 title: 'Shut up Legs! or: Jens Voight and Why I Applied for Praxis'
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

@@ -4,7 +4,7 @@ date: 2015-10-19 11:03:49+00:00
 layout: post
 slug: inktober-105-three-sketches
 title: 'Inktober 10/5: Three Sketches'
-category: blog
+category: essay
 tags:
 - grad student research
 - clockwork

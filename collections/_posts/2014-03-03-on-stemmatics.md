@@ -4,7 +4,7 @@ date: 2014-03-03 10:00:10+00:00
 layout: post
 slug: on-stemmatics
 title: On Stemmatics
-category: blog
+category: essay
 tags:
 - grad student research
 - design

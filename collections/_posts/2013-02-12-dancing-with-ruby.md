@@ -4,7 +4,7 @@ date: 2013-02-12 15:57:13+00:00
 layout: post
 slug: dancing-with-ruby
 title: Dancing with Ruby
-category: blog
+category: essay
 tags:
 - grad student research
 - dance and theater

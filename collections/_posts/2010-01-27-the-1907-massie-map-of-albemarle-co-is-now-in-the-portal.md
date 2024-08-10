@@ -8,7 +8,7 @@ tags:
 - geospatial and temporal
 - charlottesville and virginia
 - gis
-category: blog
+category: essay
 ---
 
 <figure>

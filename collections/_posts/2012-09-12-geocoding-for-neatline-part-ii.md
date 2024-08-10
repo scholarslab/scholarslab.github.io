@@ -4,7 +4,7 @@ date: 2012-09-12 01:00:07+00:00
 layout: post
 slug: geocoding-for-neatline-part-ii
 title: Geocoding for Neatline - Part II
-category: blog
+category: essay
 tags:
 - research and development
 - geospatial and temporal

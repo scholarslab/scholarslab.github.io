@@ -4,7 +4,7 @@ date: 2013-05-08 16:06:32+00:00
 layout: post
 slug: drum-roll-please
 title: Drum Roll Please.....
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

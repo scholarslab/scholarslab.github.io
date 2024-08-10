@@ -4,7 +4,7 @@ date: 2012-07-17 02:55:19+00:00
 layout: post
 slug: neatline-and-the-framework-challenge
 title: Neatline and the framework challenge
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - neatline

@@ -4,7 +4,7 @@ date: 2019-10-29
 layout: post
 slug: art-collections-as-data
 title: "Thinking About [Art] Collections As Data"
-category: blog
+category: essay
 tags:
 - grad student research
 - wlu collab

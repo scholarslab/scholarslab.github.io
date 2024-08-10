@@ -4,7 +4,7 @@ date: 2013-02-26 13:37:34+00:00
 layout: post
 slug: announcing-my-blog-songs-of-the-victorians-and-augmented-notes
 title: Announcing My Blog, Songs of the Victorians, and Augmented Notes
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

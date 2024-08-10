@@ -4,7 +4,7 @@ date: 2014-01-16 11:00:25+00:00
 layout: post
 slug: building-from-scratch-then-scratching-that-build
 title: Building From Scratch Then Scratching That Build
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

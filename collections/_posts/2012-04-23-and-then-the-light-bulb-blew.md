@@ -4,7 +4,7 @@ date: 2012-04-23 16:21:10+00:00
 layout: post
 slug: and-then-the-light-bulb-blew
 title: '...and then the Herokulypse'
-category: blog
+category: essay
 tags:
 - grad student research
 - labor

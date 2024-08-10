@@ -4,7 +4,7 @@ date: 2010-09-24 14:27:06+00:00
 layout: post
 slug: synchronizing-development-databases
 title: Synchronizing Development Databases
-category: blog
+category: essay
 tags:
 - research and development
 - code

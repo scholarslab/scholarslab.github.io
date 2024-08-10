@@ -4,7 +4,7 @@ date: 2023-06-26
 layout: post
 slug: jekyll-tag-clouds
 title: Jekyll Tag Clouds
-category: blog
+category: essay
 tags:
 - tutorial
 - jekyll

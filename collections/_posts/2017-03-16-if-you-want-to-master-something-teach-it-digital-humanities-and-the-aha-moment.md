@@ -5,7 +5,7 @@ layout: post
 slug: if-you-want-to-master-something-teach-it-digital-humanities-and-the-aha-moment
 title: 'If You Want to Master Something, Teach it: Digital Humanities and the ‘Aha!’
   Moment'
-category: blog
+category: essay
 tags:
 - grad student research
 crosspost:

@@ -4,7 +4,7 @@ date: 2011-11-26 11:00:33+00:00
 layout: post
 slug: whiteboard-wireframing
 title: Whiteboard Wireframing
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

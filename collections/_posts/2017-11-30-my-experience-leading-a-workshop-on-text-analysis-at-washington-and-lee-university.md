@@ -4,7 +4,7 @@ date: 2017-11-30 10:15:22+00:00
 layout: post
 slug: my-experience-leading-a-workshop-on-text-analysis-at-washington-and-lee-university
 title: My Experience Leading a Workshop on Text Analysis at Washington and Lee University
-category: blog
+category: essay
 tags:
 - wlu collab
 - pedagogy

@@ -4,7 +4,7 @@ date: 2009-12-15 11:20:25+00:00
 layout: post
 slug: dynamic-web-forms-for-the-creation-of-xml
 title: Dynamic web forms for the creation of XML
-category: blog
+category: essay
 tags:
 - research and development
 - code

@@ -4,7 +4,7 @@ date: 2014-01-14 12:02:03+00:00
 layout: post
 slug: on-community-listening-1
 title: 'On Community Listening: 1'
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

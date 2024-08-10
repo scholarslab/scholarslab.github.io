@@ -4,7 +4,7 @@ date: 2011-10-22 10:45:29+00:00
 layout: post
 slug: the-transparent-crowd
 title: the Transparent Crowd
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

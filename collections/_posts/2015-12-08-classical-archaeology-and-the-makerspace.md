@@ -4,7 +4,7 @@ date: 2015-12-08 13:06:41+00:00
 layout: post
 slug: classical-archaeology-and-the-makerspace
 title: Classical Archaeology and the Makerspace
-category: blog
+category: essay
 tags:
 - grad student research
 - makerspace

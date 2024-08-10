@@ -4,7 +4,7 @@ date: 2013-06-17 09:35:56+00:00
 layout: post
 slug: reflections-on-project-management-i
 title: Reflections on Project Management I
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

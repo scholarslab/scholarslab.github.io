@@ -4,7 +4,7 @@ date: 2012-12-06 11:42:37+00:00
 layout: post
 slug: music-theory-in-ruby
 title: Music Theory in Ruby
-category: blog
+category: essay
 tags:
 - grad student research
 - music and sound

@@ -4,7 +4,7 @@ date: 2011-08-10 08:54:16+00:00
 layout: post
 slug: web-development-template-rails-3-1-html-5-boilerplate-960-gs
 title: 'Web Development Template: Rails 3.1, HTML 5 Boilerplate, 960.gs'
-category: blog
+category: essay
 tags:
 - research and development
 ---

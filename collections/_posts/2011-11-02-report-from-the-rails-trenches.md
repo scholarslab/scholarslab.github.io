@@ -4,7 +4,7 @@ date: 2011-11-02 11:39:07+00:00
 layout: post
 slug: report-from-the-rails-trenches
 title: report from the rails trenches
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

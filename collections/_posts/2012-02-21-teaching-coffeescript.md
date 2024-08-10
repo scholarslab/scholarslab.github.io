@@ -4,7 +4,7 @@ date: 2012-02-21 09:02:47+00:00
 layout: post
 slug: teaching-coffeescript
 title: Teaching CoffeeScript
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

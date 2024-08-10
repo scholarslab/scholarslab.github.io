@@ -4,7 +4,7 @@ date: 2015-10-28 12:40:22+00:00
 layout: post
 slug: inktober-1021-when-things-break
 title: 'Inktober 10/21: When Things Break'
-category: blog
+category: essay
 tags:
 - grad student research
 - clockwork

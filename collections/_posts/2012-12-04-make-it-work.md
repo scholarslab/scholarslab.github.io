@@ -4,7 +4,7 @@ date: 2012-12-04 11:46:40+00:00
 layout: post
 slug: make-it-work
 title: Make it Work!
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

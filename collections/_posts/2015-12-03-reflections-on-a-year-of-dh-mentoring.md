@@ -4,7 +4,7 @@ date: 2015-12-03 14:43:19+00:00
 layout: post
 slug: reflections-on-a-year-of-dh-mentoring
 title: Reflections on a Year of DH Mentoring
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

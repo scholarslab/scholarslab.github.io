@@ -4,7 +4,7 @@ date: 2013-02-14 11:09:26+00:00
 layout: post
 slug: rails-is-kind-of-hard-to-get-up-and-running
 title: Rails is kind of hard to get up and running
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

@@ -4,7 +4,7 @@ date: 2016-12-16 10:28:16+00:00
 layout: post
 slug: working-with-an-archive-of-the-now
 title: Working with an Archive of the ‘Now’
-category: blog
+category: essay
 tags:
 - social media
 - dataset

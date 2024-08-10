@@ -4,7 +4,7 @@ date: 2013-03-01 10:34:54+00:00
 layout: post
 slug: gender-and-computing-ctd
 title: Gender and Computing (ctd)
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

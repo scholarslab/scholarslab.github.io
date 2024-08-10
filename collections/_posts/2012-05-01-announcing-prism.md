@@ -4,7 +4,7 @@ date: 2012-05-01 09:07:44+00:00
 layout: post
 slug: announcing-prism
 title: Announcing Prism!
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

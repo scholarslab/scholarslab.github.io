@@ -4,7 +4,7 @@ date: 2019-11-13
 layout: post
 slug: leigh-space-in-video-games
 title: "Space→Time+Materiality=Place"
-category: blog
+category: essay
 tags:
 - grad student research
 - vr-ar

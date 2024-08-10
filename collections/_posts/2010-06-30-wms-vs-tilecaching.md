@@ -10,7 +10,7 @@ excerpt: In our work on Neatline, we have made a deliberate choice to start by r
 layout: post
 slug: wms-vs-tilecaching
 title: WMS vs. tilecaching
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - visualization and data mining

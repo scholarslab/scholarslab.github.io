@@ -4,7 +4,7 @@ date: 2023-06-05
 layout: post
 slug: resources-for-the-digital-humanist-on-the-go
 title: Resources for the Digital Humanist on the Go
-category: blog
+category: essay
 tags:
 - music and sound
 crosspost:

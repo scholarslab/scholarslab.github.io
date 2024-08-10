@@ -4,7 +4,7 @@ date: 2019-10-26
 layout: post
 slug: coding-and-GBBO
 title: "An Ode to Learning to Code, Imposter Syndrome, and the Great British Bake Off"
-category: blog
+category: essay
 tags:
 - praxis
 - grad student research

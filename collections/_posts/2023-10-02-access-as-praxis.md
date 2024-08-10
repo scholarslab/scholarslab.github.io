@@ -4,7 +4,7 @@ date: 2023-10-02
 layout: post
 slug: access-as-praxis
 title: Access as Praxis
-category: blog
+category: essay
 tags:
 - grad student research
 - accessibility

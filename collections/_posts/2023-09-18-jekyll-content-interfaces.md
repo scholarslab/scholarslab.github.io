@@ -4,7 +4,7 @@ date: 2023-09-18
 layout: post
 slug: jekyll-content-interfaces
 title: "Jekyll content interfaces: a review of tools for friendlier authoring/editing on collaborative Jekyll sites"
-category: blog
+category: essay
 tags:
 - jekyll
 - code

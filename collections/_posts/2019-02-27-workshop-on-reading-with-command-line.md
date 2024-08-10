@@ -4,7 +4,7 @@ date: 2019-02-27 11:39:13
 layout: post
 slug: workshop-on-reading-with-command-line
 title: Workshop On Reading With Command Line
-category: blog
+category: essay
 tags:
 - pedagogy
 - code

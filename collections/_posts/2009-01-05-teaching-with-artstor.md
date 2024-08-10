@@ -4,7 +4,7 @@ date: 2009-01-05 14:36:48+00:00
 layout: post
 slug: teaching-with-artstor
 title: Teaching with ARTStor
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

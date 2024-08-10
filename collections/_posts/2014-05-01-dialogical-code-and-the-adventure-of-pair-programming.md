@@ -4,7 +4,7 @@ date: 2014-05-01 09:25:28+00:00
 layout: post
 slug: dialogical-code-and-the-adventure-of-pair-programming
 title: Dialogical Code and the Adventure of Pair Programming
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

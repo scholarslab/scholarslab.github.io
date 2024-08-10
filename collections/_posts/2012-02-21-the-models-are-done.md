@@ -4,7 +4,7 @@ date: 2012-02-21 14:23:49+00:00
 layout: post
 slug: the-models-are-done
 title: The Models are Done!
-category: blog
+category: essay
 tags:
 - grad student research
 - code

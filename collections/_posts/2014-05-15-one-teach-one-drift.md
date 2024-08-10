@@ -4,7 +4,7 @@ date: 2014-05-15 15:53:02+00:00
 layout: post
 slug: one-teach-one-drift
 title: One Teach, One Drift
-category: blog
+category: essay
 tags:
 - grad student research
 - 3d modeling

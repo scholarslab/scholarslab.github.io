@@ -4,7 +4,7 @@ date: 2013-09-09 08:08:28+00:00
 layout: post
 slug: greetings-and-salutations
 title: Greetings and Salutations
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

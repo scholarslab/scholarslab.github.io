@@ -5,7 +5,7 @@ date: 2022-01-14
 layout: post
 slug: workshop-zine-translation
 title: Zine-making as Critical DH Pedagogy  
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

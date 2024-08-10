@@ -4,7 +4,7 @@ date: 2011-09-06 12:44:01+00:00
 layout: post
 slug: temporal-mapping-crowdsourcing-and-standardization
 title: Temporal mapping, crowdsourcing, and standardization
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

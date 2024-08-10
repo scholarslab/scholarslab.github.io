@@ -4,7 +4,7 @@ date: 2013-09-19 16:22:44+00:00
 layout: post
 slug: praxis-time-capsule
 title: Praxis Time Capsule
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

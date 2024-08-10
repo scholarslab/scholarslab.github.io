@@ -4,7 +4,7 @@ date: 2011-09-25 14:21:42+00:00
 layout: post
 slug: ruby-slippers
 title: ruby slippers
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

@@ -4,7 +4,7 @@ date: 2023-05-30
 layout: post
 slug: questions-to-ask-when-applying
 title: Questions to Ask When Applying
-category: blog
+category: essay
 tags:
 - professional development
 crosspost:

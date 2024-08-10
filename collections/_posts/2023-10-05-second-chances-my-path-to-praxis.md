@@ -4,7 +4,7 @@ date: 2023-10-05
 layout: post
 slug: second-chances-my-path-to-praxis
 title: "Second Chances / My Path To Praxis"
-category: blog
+category: essay
 tags:
 - grad student research
 - care

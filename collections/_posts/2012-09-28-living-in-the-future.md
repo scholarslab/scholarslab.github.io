@@ -4,7 +4,7 @@ date: 2012-09-28 09:28:19+00:00
 layout: post
 slug: living-in-the-future
 title: Living in the Future
-category: blog
+category: essay
 tags:
 - grad student research
 - makerspace

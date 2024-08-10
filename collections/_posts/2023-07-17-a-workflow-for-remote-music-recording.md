@@ -4,7 +4,7 @@ date: 2023-07-17
 layout: post
 slug: a-workflow-for-remote-music-recording
 title: A Workflow For Remote Music Recording
-category: blog
+category: essay
 tags:
 - music and sound
 crosspost:

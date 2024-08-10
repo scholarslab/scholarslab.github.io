@@ -4,7 +4,7 @@ date: 2020-10-26
 layout: post
 slug: mapping-alone-together
 title: "Mapping Alone, Together"
-category: blog
+category: essay
 tags:
 - praxis
 - wlu collab

@@ -4,7 +4,7 @@ date: 2014-02-10 10:00:01+00:00
 layout: post
 slug: websites-media-buttons-and-logos-oh-my
 title: 'Websites, Media Buttons, and Logos - oh my! '
-category: blog
+category: essay
 tags:
 - grad student research
 - design

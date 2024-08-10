@@ -4,7 +4,7 @@ date: 2013-10-09 00:27:03+00:00
 layout: post
 slug: more-fun-with-interactive-typesetting-a-coat-by-yeats
 title: 'More fun with interactive typesetting: "A Coat," by Yeats'
-category: blog
+category: essay
 tags:
 - neatline
 - literature

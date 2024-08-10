@@ -4,7 +4,7 @@ date: 2011-09-05 23:55:36+00:00
 layout: post
 slug: further-evaluation-of-digital-work
 title: Further Evaluation of Digital Work
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

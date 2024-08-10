@@ -4,7 +4,7 @@ date: 2014-03-19 12:54:45+00:00
 layout: post
 slug: an-ivanhoe-design-idea
 title: An Ivanhoe Design Idea
-category: blog
+category: essay
 tags:
 - grad student research
 - design

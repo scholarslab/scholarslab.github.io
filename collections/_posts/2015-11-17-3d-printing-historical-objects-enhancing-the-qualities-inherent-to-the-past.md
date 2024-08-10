@@ -5,7 +5,7 @@ layout: post
 slug: 3d-printing-historical-objects-enhancing-the-qualities-inherent-to-the-past
 title: '3D Printing Historical Artifacts: Enhancing the Qualities Inherent to the
   Past'
-category: blog
+category: essay
 tags:
 - makerspace
 ---

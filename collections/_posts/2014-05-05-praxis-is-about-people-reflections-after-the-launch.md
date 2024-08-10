@@ -4,7 +4,7 @@ date: 2014-05-05 14:00:21+00:00
 layout: post
 slug: praxis-is-about-people-reflections-after-the-launch
 title: 'Praxis is about people: reflections after the launch'
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

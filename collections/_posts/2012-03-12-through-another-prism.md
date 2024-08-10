@@ -4,7 +4,7 @@ date: 2012-03-12 21:56:14+00:00
 layout: post
 slug: through-another-prism
 title: through another prism
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

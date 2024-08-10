@@ -5,7 +5,7 @@ layout: post
 slug: novice-struggles-and-expert-blindness-how-my-discomfort-with-php-will-make-me-a-better-instructor
 title: 'Novice struggles and expert blindness: How my discomfort with PHP will make
   me a better instructor'
-category: blog
+category: essay
 tags:
 - ivanhoe
 - praxis

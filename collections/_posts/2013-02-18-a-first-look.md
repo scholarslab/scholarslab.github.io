@@ -4,7 +4,7 @@ date: 2013-02-18 15:20:34+00:00
 layout: post
 slug: a-first-look
 title: A First Look
-category: blog
+category: essay
 tags:
 - grad student research
 - design

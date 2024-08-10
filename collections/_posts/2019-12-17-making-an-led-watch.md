@@ -4,7 +4,7 @@ date: 2019-12-17 14:58:52
 layout: post
 slug: led-watch-making
 title: "LED Watch Making"
-category: blog
+category: essay
 tags:
 - code
 - tutorial

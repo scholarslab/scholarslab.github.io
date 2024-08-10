@@ -4,7 +4,7 @@ date: 2012-12-13 11:33:40+00:00
 layout: post
 slug: ruby-grading-2-0
 title: Ruby Grading 2.0
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

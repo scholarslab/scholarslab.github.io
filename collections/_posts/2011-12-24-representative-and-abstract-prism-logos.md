@@ -4,7 +4,7 @@ date: 2011-12-24 10:16:04+00:00
 layout: post
 slug: representative-and-abstract-prism-logos
 title: Representative and Abstract Prism Logos
-category: blog
+category: essay
 tags:
 - grad student research
 - design

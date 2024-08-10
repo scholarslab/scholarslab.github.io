@@ -4,7 +4,7 @@ date: 2019-02-14 01:00:00+00:00
 layout: post
 slug: theatricality-of-motion-capture
 title: "Some Reflections on the Theatricality of Motion Capture"
-category: blog
+category: essay
 tags:
 - research and development
 - grad student research

@@ -4,7 +4,7 @@ date: 2011-10-18 12:48:49+00:00
 layout: post
 slug: charter-and-design
 title: Charter and Design
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

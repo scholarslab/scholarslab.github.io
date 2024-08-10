@@ -4,7 +4,7 @@ date: 2011-11-29 13:01:30+00:00
 layout: post
 slug: testing-and-more-data-modelling
 title: Testing and More Data Modelling
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

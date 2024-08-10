@@ -4,7 +4,7 @@ date: 2012-11-06 13:38:22+00:00
 layout: post
 slug: teaching-git
 title: Teaching Git
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

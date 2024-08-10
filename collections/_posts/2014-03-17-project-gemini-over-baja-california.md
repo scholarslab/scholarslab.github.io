@@ -4,7 +4,7 @@ date: 2014-03-17 10:32:01+00:00
 layout: post
 slug: project-gemini-over-baja-california
 title: Project Gemini over Baja California
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - neatline

@@ -4,7 +4,7 @@ date: 2017-09-19 11:28:11+00:00
 layout: post
 slug: crafting-our-charter-praxis-program-2017-2018
 title: Crafting Our Charter - praxis 2017-2018
-category: blog
+category: essay
 tags:
 - charter
 - pedagogy

@@ -4,7 +4,7 @@ date: 2018-09-13 14:10:47+00:00
 layout: post
 slug: building-ourselves-up-to-build-things
 title: Building Ourselves Up to Build Things
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

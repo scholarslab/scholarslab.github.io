@@ -4,7 +4,7 @@ date: 2013-04-22 12:46:46+00:00
 layout: post
 slug: prism-in-my-unconscious
 title: Prism in my Unconscious
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

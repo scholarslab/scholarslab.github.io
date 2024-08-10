@@ -6,7 +6,7 @@ date: 2020-01-22
 layout: post
 slug: software-licenses-feminist-queer-digital-humanities-practice
 title: "Software licensing as feminist & queer digital humanities practice"
-category: blog
+category: essay
 tags:
 - feminism
 - lgbtqia+

@@ -4,7 +4,7 @@ date: 2013-02-28 16:20:40+00:00
 layout: post
 slug: prism-site-map
 title: Prism Site Map
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

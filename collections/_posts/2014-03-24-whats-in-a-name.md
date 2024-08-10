@@ -4,7 +4,7 @@ date: 2014-03-24 10:00:30+00:00
 layout: post
 slug: whats-in-a-name
 title: 'What''s in a name? '
-category: blog
+category: essay
 tags:
 - grad student research
 - design

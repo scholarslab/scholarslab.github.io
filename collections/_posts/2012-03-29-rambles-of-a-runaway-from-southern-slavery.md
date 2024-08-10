@@ -4,7 +4,7 @@ date: 2012-03-29 11:06:19+00:00
 layout: post
 slug: rambles-of-a-runaway-from-southern-slavery
 title: Rambles of a Runaway from Southern Slavery
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - race

@@ -4,7 +4,7 @@ date: 2020-05-26 16:09:04
 layout: post
 slug: led-watch-complete
 title: Led Watch Done... For Now
-category: blog
+category: essay
 tags:
 - makerspace
 - electronics

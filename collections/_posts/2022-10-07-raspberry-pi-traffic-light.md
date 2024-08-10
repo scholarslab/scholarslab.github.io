@@ -4,7 +4,7 @@ date: 2022-10-07
 layout: post
 slug: raspberry-pi-traffic-light
 title: Raspberry Pi Traffic Light Project
-category: blog
+category: essay
 tags:
 - makerspace
 - tutorial

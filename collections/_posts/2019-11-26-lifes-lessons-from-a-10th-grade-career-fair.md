@@ -4,7 +4,7 @@ date: 2019-11-26 13:01:10
 layout: post
 slug: lifes-lessons-from-a-10th-grade-career-fair
 title: Life's Lessons From A 10Th Grade Career Fair
-category: blog
+category: essay
 ---
 
 For the past three years, I have been participating in a 10th grade career fair

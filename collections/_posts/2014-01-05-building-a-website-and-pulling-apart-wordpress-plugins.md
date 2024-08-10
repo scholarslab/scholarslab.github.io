@@ -4,7 +4,7 @@ date: 2014-01-05 13:02:03+00:00
 layout: post
 slug: building-a-website-and-pulling-apart-wordpress-plugins
 title: Building a Website and Pulling Apart WordPress Plugins
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

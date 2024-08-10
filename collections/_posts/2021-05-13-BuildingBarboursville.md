@@ -4,7 +4,7 @@ date: 2021-05-13
 layout: post
 slug: building-barboursville
 title: "Building Barboursville : 3D Scanning and Modeling the Ruins"
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - grad student research

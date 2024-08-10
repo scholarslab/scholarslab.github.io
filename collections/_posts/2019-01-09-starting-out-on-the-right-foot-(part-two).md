@@ -4,7 +4,7 @@ date: 2019-01-09 08:30:50
 layout: post
 slug: starting-out-on-the-right-foot-(part-two)
 title: Starting Out On The Right Foot (Part Two)
-category: blog
+category: essay
 tags:
 - grad student research
 - - dance and theater

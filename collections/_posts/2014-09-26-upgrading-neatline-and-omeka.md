@@ -4,7 +4,7 @@ date: 2014-09-26 11:53:08+00:00
 layout: post
 slug: upgrading-neatline-and-omeka
 title: Upgrading Neatline and Omeka
-category: blog
+category: essay
 tags:
 - research and development
 - neatline

@@ -4,7 +4,7 @@ date: 2014-01-07 12:00:39+00:00
 layout: post
 slug: faulty-format-or-user-error
 title: Faulty Format or User Error?
-category: blog
+category: essay
 tags:
 - grad student research
 - design

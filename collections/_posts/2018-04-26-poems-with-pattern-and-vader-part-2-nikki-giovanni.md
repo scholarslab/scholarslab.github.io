@@ -4,7 +4,7 @@ date: 2018-04-26 09:38:23+00:00
 layout: post
 slug: poems-with-pattern-and-vader-part-2-nikki-giovanni
 title: 'Poems with Pattern and VADER, Part 2: Nikki Giovanni'
-category: blog
+category: essay
 tags:
 - grad student research
 - race

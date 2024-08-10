@@ -4,7 +4,7 @@ date: 2011-09-05 23:54:08+00:00
 layout: post
 slug: project-reviews
 title: Project Reviews
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

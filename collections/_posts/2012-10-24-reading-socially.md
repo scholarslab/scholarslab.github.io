@@ -4,7 +4,7 @@ date: 2012-10-24 16:52:20+00:00
 layout: post
 slug: reading-socially
 title: Reading Socially
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

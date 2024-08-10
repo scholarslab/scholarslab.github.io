@@ -4,7 +4,7 @@ date: 2014-06-05 14:44:40+00:00
 layout: post
 slug: come-work-with-us-makerspace-student-consultant
 title: Come Work With Us in Our New Makerspace
-category: blog
+category: essay
 tags:
 - staffing
 category: announcement

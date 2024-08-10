@@ -4,7 +4,7 @@ date: 2019-10-14
 layout: post
 slug: reading-grammar
 title: "Reading Grammar: First Attempts"
-category: blog
+category: essay
 tags:
 - research and development
 - grad student research

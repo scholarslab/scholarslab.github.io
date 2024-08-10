@@ -4,7 +4,7 @@ date: 2012-11-16 09:12:59+00:00
 layout: post
 slug: ruby-cat-poem
 title: Ruby Cat Poem
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

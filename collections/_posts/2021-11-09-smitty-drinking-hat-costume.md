@@ -4,7 +4,7 @@ date: 2021-11-09
 layout: post
 slug: smitty-drinking-hat
 title: "Last-minute Halloween costume: making Smitty Werbenjagermanjensen’s soda-drinking hat"
-category: blog
+category: essay
 tags:
 - makerspace
 - tutorial

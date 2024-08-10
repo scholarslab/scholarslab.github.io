@@ -4,7 +4,7 @@ date: 2011-09-20 17:13:47+00:00
 layout: post
 slug: the-pleasures-of-programming
 title: The Pleasures of Programming
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

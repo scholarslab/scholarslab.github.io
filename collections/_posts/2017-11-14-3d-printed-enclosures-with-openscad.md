@@ -4,7 +4,7 @@ date: 2017-11-14 12:35:03+00:00
 layout: post
 slug: 3d-printed-enclosures-with-openscad
 title: 3D Printed Enclosures with OpenSCAD
-category: blog
+category: essay
 tags:
 - grad student research
 - makerspace

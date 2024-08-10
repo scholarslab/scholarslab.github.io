@@ -4,7 +4,7 @@ date: 2015-04-10 14:17:18+00:00
 layout: post
 slug: linking-out
 title: Linking Out
-category: blog
+category: essay
 tags:
 - accessibility
 - web development

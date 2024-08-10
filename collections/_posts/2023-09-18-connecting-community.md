@@ -4,7 +4,7 @@ date: 2023-09-18
 layout: post
 slug: connecting-community
 title: Connecting Community
-category: blog
+category: essay
 tags:
 - about-collaboration-community
 crosspost:

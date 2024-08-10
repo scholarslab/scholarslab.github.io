@@ -4,7 +4,7 @@ date: 2012-11-14 15:09:01+00:00
 layout: post
 slug: poster-abstract-and-code-camp
 title: Poster Abstract and Code Camp
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

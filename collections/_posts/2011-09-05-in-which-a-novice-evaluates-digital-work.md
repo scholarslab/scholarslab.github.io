@@ -4,7 +4,7 @@ date: 2011-09-05 23:18:14+00:00
 layout: post
 slug: in-which-a-novice-evaluates-digital-work
 title: In which a novice evaluates digital work
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

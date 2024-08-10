@@ -4,7 +4,7 @@ date: 2011-10-18 16:27:37+00:00
 layout: post
 slug: highlighting-limitations
 title: Highlighting limitations
-category: blog
+category: essay
 tags:
 - grad student research
 - design

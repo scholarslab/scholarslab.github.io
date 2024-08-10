@@ -4,7 +4,7 @@ date: 2013-09-08 19:23:41+00:00
 layout: post
 slug: greetings-from-stephanie-new-praxis-fellow
 title: Greetings from Stephanie, new Praxis Fellow!
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

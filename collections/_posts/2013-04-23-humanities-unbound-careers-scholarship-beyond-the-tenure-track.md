@@ -4,7 +4,7 @@ date: 2013-04-23 09:59:09+00:00
 layout: post
 slug: humanities-unbound-careers-scholarship-beyond-the-tenure-track
 title: 'Humanities Unbound: Careers & Scholarship Beyond the Tenure Track'
-category: blog
+category: essay
 tags:
 - research and development
 - alt-ac

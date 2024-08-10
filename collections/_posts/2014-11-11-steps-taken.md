@@ -4,7 +4,7 @@ date: 2014-11-11 16:02:47+00:00
 layout: post
 slug: steps-taken
 title: Steps Taken
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

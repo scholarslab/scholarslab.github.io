@@ -4,7 +4,7 @@ date: 2016-02-02 23:39:56+00:00
 layout: post
 slug: bigger-nozzles-faster-printing
 title: Bigger nozzles, faster printing
-category: blog
+category: essay
 tags:
 - makerspace
 redirect_from:

@@ -4,7 +4,7 @@ date: 2012-10-30 11:26:31+00:00
 layout: post
 slug: kindle-prism-pdf-prism
 title: Kindle Prism? PDF Prism?
-category: blog
+category: essay
 tags:
 - grad student research
 - prism

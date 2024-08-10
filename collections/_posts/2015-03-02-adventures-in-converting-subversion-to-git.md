@@ -4,7 +4,7 @@ date: 2015-03-02 09:37:03+00:00
 layout: post
 slug: adventures-in-converting-subversion-to-git
 title: Adventures in Converting Subversion to Git
-category: blog
+category: essay
 tags:
 - research and development
 - code

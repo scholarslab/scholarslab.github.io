@@ -4,7 +4,7 @@ date: 2017-06-05 11:00:10+00:00
 layout: post
 slug: what-should-you-do-in-a-week
 title: What Should You Do in a Week?
-category: blog
+category: essay
 tags:
 crosspost:
   - title: my personal blog

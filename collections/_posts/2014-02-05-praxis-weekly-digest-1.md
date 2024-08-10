@@ -4,7 +4,7 @@ date: 2014-02-05 09:00:52+00:00
 layout: post
 slug: praxis-weekly-digest-1
 title: 'Praxis Weekly Digest #1'
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

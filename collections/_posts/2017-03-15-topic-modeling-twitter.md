@@ -4,7 +4,7 @@ date: 2017-03-15 14:10:30+00:00
 layout: post
 slug: topic-modeling-twitter
 title: Topic Modeling Twitter
-category: blog
+category: essay
 tags:
 - praxis
 - social media

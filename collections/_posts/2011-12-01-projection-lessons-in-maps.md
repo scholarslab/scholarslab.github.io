@@ -4,7 +4,7 @@ date: 2011-12-01 15:41:26+00:00
 layout: post
 slug: projection-lessons-in-maps
 title: Projection Lessons in Maps
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - visualization and data mining

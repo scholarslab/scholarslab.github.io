@@ -4,7 +4,7 @@ date: 2013-08-12 09:08:50+00:00
 layout: post
 slug: why-do-we-trust-automated-tests
 title: Why do we trust automated tests?
-category: blog
+category: essay
 tags:
 - research and development
 - code

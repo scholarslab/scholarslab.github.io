@@ -4,7 +4,7 @@ date: 2013-12-25 15:14:46+00:00
 layout: post
 slug: a-little-bit-of-everything-christmas-for-the-praxis-project-manager
 title: 'A little bit of everything: Christmas for the Praxis project manager'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

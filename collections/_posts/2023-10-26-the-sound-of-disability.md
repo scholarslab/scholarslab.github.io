@@ -4,7 +4,7 @@ date: 2023-10-26
 layout: post
 slug: the-sound-of-disability
 title: The Sound Of Disability
-category: blog
+category: essay
 tags:
 - grad student research
 - accessibility

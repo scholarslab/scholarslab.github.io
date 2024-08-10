@@ -4,7 +4,7 @@ date: 2013-03-01 09:45:25+00:00
 layout: post
 slug: restarting-marionette-applications
 title: Restarting Marionette applications
-category: blog
+category: essay
 tags:
 - research and development
 - code

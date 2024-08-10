@@ -4,7 +4,7 @@ date: 2012-07-02 15:01:04+00:00
 layout: post
 slug: announcing-neatline
 title: Announcing Neatline!
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - gis

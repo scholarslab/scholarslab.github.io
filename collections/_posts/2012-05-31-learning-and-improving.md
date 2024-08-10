@@ -4,7 +4,7 @@ date: 2012-05-31 14:23:08+00:00
 layout: post
 slug: learning-and-improving
 title: Learning and Improving
-category: blog
+category: essay
 tags:
 - research and development
 - code

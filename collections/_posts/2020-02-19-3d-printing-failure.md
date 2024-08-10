@@ -4,7 +4,7 @@ date: 2020-02-19
 layout: post
 slug: 3d-printing-failure
 title: "Recovering From Failure (with g-code)"
-category: blog
+category: essay
 tags:
 - makerspace
 ---

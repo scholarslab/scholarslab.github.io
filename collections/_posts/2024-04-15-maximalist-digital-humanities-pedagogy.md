@@ -4,7 +4,7 @@ date: 2024-04-15
 layout: post
 slug: maximalist-digital-humanities-pedagogy
 title: Maximalist Digital Humanities Pedagogy
-category: blog
+category: essay
 tags:
 - pedagogy
 crosspost:

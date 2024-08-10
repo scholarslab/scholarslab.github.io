@@ -4,7 +4,7 @@ date: 2023-08-22
 layout: post
 slug: bluesky-getting-started
 title: "Getting started with Bluesky: social media scholarly community"
-category: blog
+category: essay
 tags:
 - social media
 - getting started

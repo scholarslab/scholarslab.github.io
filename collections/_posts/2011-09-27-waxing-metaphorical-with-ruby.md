@@ -4,7 +4,7 @@ date: 2011-09-27 13:55:44+00:00
 layout: post
 slug: waxing-metaphorical-with-ruby
 title: Waxing metaphorical with Ruby
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

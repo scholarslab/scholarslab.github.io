@@ -4,7 +4,7 @@ date: 2020-11-13 13:27:09
 layout: post
 slug: docker-development-environments-for-everyone
 title: Docker Development Environments For Everyone
-category: blog
+category: essay
 tags:
 - research and development
 - web development

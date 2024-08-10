@@ -6,7 +6,7 @@ date: 2020-09-10 15:12:00
 layout: post
 slug: a-humanists-cookbook-for-natural-language-processing-in-python
 title: A Humanist's Cookbook For Natural Language Processing In Python
-category: blog
+category: essay
 tags:
 - pedagogy
 - text analysis

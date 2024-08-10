@@ -4,7 +4,7 @@ date: 2024-04-23
 layout: post
 slug: setting-raspberry-pis-date-and-time
 title: "Setting Raspberry Pi's Date and Time"
-category: blog
+category: essay
 tags:
 - makerspace
 - electronics

@@ -4,7 +4,7 @@ date: 2013-08-12 01:00:56+00:00
 layout: post
 slug: displaying-recent-neatline-exhibits-on-your-omeka-home-page
 title: Displaying Recent Neatline Exhibits on your Omeka Home Page
-category: blog
+category: essay
 tags:
 - research and development
 - neatline

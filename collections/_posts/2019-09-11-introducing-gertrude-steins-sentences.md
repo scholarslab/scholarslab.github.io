@@ -4,7 +4,7 @@ date: 2019-09-11
 layout: post
 slug: introducing-gs-grammars
 title: "Introducing 'Gertrude Stein's Grammars'"
-category: blog
+category: essay
 tags:
 - research and development
 - grad student research 

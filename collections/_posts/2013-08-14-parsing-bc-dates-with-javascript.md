@@ -4,7 +4,7 @@ date: 2013-08-14 13:29:07+00:00
 layout: post
 slug: parsing-bc-dates-with-javascript
 title: Parsing BC dates with JavaScript
-category: blog
+category: essay
 tags:
 - research and development
 - code

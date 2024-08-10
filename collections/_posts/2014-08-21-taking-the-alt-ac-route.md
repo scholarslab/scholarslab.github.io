@@ -4,7 +4,7 @@ date: 2014-08-21 09:05:01+00:00
 layout: post
 slug: taking-the-alt-ac-route
 title: Taking the Alt-Ac Route
-category: blog
+category: essay
 tags:
 - research and development
 - alt-ac

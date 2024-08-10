@@ -4,7 +4,7 @@ date: 2013-10-09 14:18:57+00:00
 layout: post
 slug: chartering-our-project
 title: Chart(er)ing Our Project
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

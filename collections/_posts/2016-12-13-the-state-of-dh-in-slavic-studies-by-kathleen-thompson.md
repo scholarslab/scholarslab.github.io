@@ -4,7 +4,7 @@ date: 2016-12-13 10:42:33+00:00
 layout: post
 slug: the-state-of-dh-in-slavic-studies-by-kathleen-thompson
 title: "The state of DH in Slavic Studies, by Kathleen Thompson"
-category: blog
+category: essay
 tags:
 - slavic
 - makerspace

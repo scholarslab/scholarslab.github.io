@@ -4,7 +4,7 @@ date: 2013-10-11 11:43:03+00:00
 layout: post
 slug: song-of-wandering-aengus
 title: '"The Song of Wandering Aengus," Neatline, and negotiation with the machine'
-category: blog
+category: essay
 tags:
 - literature
 - neatline

@@ -4,7 +4,7 @@ date: 2012-09-18 10:05:54+00:00
 layout: post
 slug: code-spelunking-with-ctags-and-vim
 title: Code Spelunking with Ctags and Vim
-category: blog
+category: essay
 tags:
 - research and development
 - code

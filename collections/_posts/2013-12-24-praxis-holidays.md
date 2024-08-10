@@ -4,7 +4,7 @@ date: 2013-12-24 22:42:38+00:00
 layout: post
 slug: praxis-holidays
 title: Praxis Holidays
-category: blog
+category: essay
 tags:
 - grad student research
 - code

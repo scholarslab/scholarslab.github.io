@@ -4,7 +4,7 @@ date: 2019-03-29 01:00:00+00:00
 layout: post
 slug: sharing-unity-project
 title: "Sharing a Unity Project"
-category: blog
+category: essay
 tags:
 - research and development
 - parents fund

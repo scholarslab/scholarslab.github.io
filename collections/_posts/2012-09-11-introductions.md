@@ -4,7 +4,7 @@ date: 2012-09-11 11:04:00+00:00
 layout: post
 slug: introductions
 title: Introductions
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

@@ -4,7 +4,7 @@ date: 2013-02-19 11:47:07+00:00
 layout: post
 slug: design-team-progress
 title: Design Team Progress
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

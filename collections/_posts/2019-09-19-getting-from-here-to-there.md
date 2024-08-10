@@ -4,7 +4,7 @@ date: 2019-09-19 15:06:10
 layout: post
 slug: getting-from-here-to-there
 title: Getting from Here To There
-category: blog
+category: essay
 tags:
 - pedagogy
 crosspost:

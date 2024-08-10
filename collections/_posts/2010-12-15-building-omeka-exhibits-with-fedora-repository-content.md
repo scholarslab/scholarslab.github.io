@@ -4,7 +4,7 @@ date: 2010-12-15 13:53:53+00:00
 layout: post
 slug: building-omeka-exhibits-with-fedora-repository-content
 title: Building Omeka Exhibits with Fedora Repository Content
-category: blog
+category: essay
 tags:
 - research and development
 - omeka

@@ -4,7 +4,7 @@ date: 2012-11-28 11:32:30+00:00
 layout: post
 slug: mountain-lion-and-rvm
 title: Mountain Lion and RVM
-category: blog
+category: essay
 tags:
 - research and development
 ---

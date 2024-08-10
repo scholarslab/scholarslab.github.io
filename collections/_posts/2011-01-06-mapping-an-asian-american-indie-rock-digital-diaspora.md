@@ -4,7 +4,7 @@ date: 2011-01-06 13:59:57+00:00
 layout: post
 slug: mapping-an-asian-american-indie-rock-digital-diaspora
 title: Mapping an Asian American Indie Rock Digital Diaspora
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - grad student research

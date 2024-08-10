@@ -4,7 +4,7 @@ date: 2018-02-21 16:15:10+00:00
 layout: post
 slug: transcription-is-complicated
 title: Transcription Is Complicated
-category: blog
+category: essay
 tags:
 - text analysis
 - transcription

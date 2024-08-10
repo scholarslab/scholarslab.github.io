@@ -4,7 +4,7 @@ date: 2017-02-28 06:00:12+00:00
 layout: post
 slug: disrupt-the-humanities-managing-director-job-talk
 title: Disrupt the Humanities? (Managing Director job talk)
-category: blog
+category: essay
 tags:
 - alt-ac
 - directing

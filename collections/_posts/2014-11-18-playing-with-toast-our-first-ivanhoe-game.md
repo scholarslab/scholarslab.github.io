@@ -4,7 +4,7 @@ date: 2014-11-18 12:00:44+00:00
 layout: post
 slug: playing-with-toast-our-first-ivanhoe-game
 title: 'Playing with toast: Our first Ivanhoe game'
-category: blog
+category: essay
 tags:
 - ivanhoe
 - praxis

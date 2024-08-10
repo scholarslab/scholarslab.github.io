@@ -4,7 +4,7 @@ date: 2013-09-08 16:30:46+00:00
 layout: post
 slug: a-bit-about-me
 title: A bit about me
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

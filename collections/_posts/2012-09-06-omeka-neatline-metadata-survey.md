@@ -4,7 +4,7 @@ date: 2012-09-06 15:19:50+00:00
 layout: post
 slug: omeka-neatline-metadata-survey
 title: Omeka + Neatline Metadata Survey
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - neatline

@@ -4,7 +4,7 @@ date: 2014-02-03 13:50:50+00:00
 layout: post
 slug: wireframing-fun
 title: Wireframing fun
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

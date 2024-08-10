@@ -4,7 +4,7 @@ date: 2013-03-11 13:28:47+00:00
 layout: post
 slug: size-matters
 title: Size Matters
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - map

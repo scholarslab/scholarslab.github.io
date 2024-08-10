@@ -4,7 +4,7 @@ date: 2013-12-11 12:14:03+00:00
 layout: post
 slug: neatline-san-francisco
 title: Neighborhoods of San Francisco
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - neatline

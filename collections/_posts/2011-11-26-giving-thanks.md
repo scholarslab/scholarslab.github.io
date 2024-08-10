@@ -4,7 +4,7 @@ date: 2011-11-26 11:39:22+00:00
 layout: post
 slug: giving-thanks
 title: giving thanks
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

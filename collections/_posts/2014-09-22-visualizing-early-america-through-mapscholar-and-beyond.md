@@ -4,7 +4,7 @@ date: 2014-09-22 11:25:40+00:00
 layout: post
 slug: visualizing-early-america-through-mapscholar-and-beyond
 title: Visualizing Early America through MapScholar and Beyond
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - grad student research

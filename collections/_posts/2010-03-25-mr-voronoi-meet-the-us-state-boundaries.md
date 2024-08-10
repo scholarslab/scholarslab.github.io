@@ -4,7 +4,7 @@ date: 2010-03-25 14:57:34+00:00
 layout: post
 slug: mr-voronoi-meet-the-us-state-boundaries
 title: Mr. Voronoi, meet the US state boundaries
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - visualization and data mining

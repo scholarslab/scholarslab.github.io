@@ -4,7 +4,7 @@ date: 2017-01-20 10:11:57+00:00
 layout: post
 slug: reading-the-kardashians
 title: Reading the Kardashians
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

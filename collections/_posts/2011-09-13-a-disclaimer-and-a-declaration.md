@@ -4,7 +4,7 @@ date: 2011-09-13 08:02:33+00:00
 layout: post
 slug: a-disclaimer-and-a-declaration
 title: A disclaimer and a declaration
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

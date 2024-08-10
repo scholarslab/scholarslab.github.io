@@ -4,7 +4,7 @@ date: 2011-08-24 10:16:48+00:00
 layout: post
 slug: announcing-the-praxis-program
 title: Announcing the Praxis Program
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

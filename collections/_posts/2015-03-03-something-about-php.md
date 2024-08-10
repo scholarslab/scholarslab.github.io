@@ -4,7 +4,7 @@ date: 2015-03-03 11:28:29+00:00
 layout: post
 slug: something-about-php
 title: Something about PHP
-category: blog
+category: essay
 tags:
 - ivanhoe
 - praxis

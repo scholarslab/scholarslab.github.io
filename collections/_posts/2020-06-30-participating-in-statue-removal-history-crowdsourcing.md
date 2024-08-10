@@ -4,7 +4,7 @@ date: 2020-06-30
 layout: post
 slug: participating-in-statue-removal-history-crowdsourcing
 title: "When They Came Down: Participating in crowdsourced documentation of racist statue removals"
-category: blog
+category: essay
 tags: 
 - tutorial
 - race

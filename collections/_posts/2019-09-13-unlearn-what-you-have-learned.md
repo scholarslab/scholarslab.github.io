@@ -4,7 +4,7 @@ date: 2019-09-17
 layout: post
 slug: unlearn-what-you-have-learned
 title: "Unlearn What You Have Learned"
-category: blog
+category: essay
 tags:
 - grad student research 
 ---

@@ -4,7 +4,7 @@ date: 2017-09-12 13:32:11+00:00
 layout: post
 slug: etcrc-local
 title: /etc/rc.local
-category: blog
+category: essay
 tags:
 - grad student research
 - uva reveal

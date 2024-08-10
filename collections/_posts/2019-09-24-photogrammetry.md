@@ -4,7 +4,7 @@ date: 2019-09-24
 layout: post
 slug: documentation-photogrammetry
 title: "Photogrammetry Workflow using a DSLR Camera"
-category: blog
+category: essay
 tags:
 - research and development
 - tutorial

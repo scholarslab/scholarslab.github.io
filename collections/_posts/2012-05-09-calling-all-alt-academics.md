@@ -4,7 +4,7 @@ date: 2012-05-09 13:35:19+00:00
 layout: post
 slug: calling-all-alt-academics
 title: 'Calling All #Alt-Academics!'
-category: blog
+category: essay
 tags:
 - alt-ac
 - professional development

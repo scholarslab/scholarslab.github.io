@@ -4,7 +4,7 @@ date: 2012-12-10 10:57:34+00:00
 layout: post
 slug: grading-in-ruby
 title: Grading in Ruby
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

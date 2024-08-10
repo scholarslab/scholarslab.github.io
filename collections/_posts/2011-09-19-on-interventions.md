@@ -4,7 +4,7 @@ date: 2011-09-19 07:47:31+00:00
 layout: post
 slug: on-interventions
 title: on interventions
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

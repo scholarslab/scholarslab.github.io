@@ -4,7 +4,7 @@ date: 2013-05-22 09:00:12+00:00
 layout: post
 slug: neatline-time-1-1-3-release
 title: Neatline Time 1.1.3 Release
-category: blog
+category: essay
 tags:
 - research and development
 ---

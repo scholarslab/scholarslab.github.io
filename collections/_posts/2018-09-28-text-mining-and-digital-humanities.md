@@ -5,7 +5,7 @@ date: 2018-09-28 10:33:20+00:00
 layout: post
 slug: text-mining-and-digital-humanities
 title: Text Mining and Digital Humanities
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

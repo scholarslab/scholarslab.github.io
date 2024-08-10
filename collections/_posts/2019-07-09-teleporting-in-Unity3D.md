@@ -4,7 +4,7 @@ date: 2019-07-09
 layout: post
 slug: teleporting-in-Unity3D
 title: "Teleporting in Unity 3D"
-category: blog
+category: essay
 tags:
 - architectural history
 - research and development

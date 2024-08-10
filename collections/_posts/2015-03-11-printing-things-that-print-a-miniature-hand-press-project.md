@@ -4,7 +4,7 @@ date: 2015-03-11 14:24:19+00:00
 layout: post
 slug: printing-things-that-print-a-miniature-hand-press-project
 title: 'Printing Things That Print: A Miniature Hand-Press Project'
-category: blog
+category: essay
 tags:
 - makerspace
 - bibliography

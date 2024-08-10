@@ -4,7 +4,7 @@ date: 2023-08-21
 layout: post
 slug: blogging-summer-2023-in-review
 title: Blogging Summer 2023 In Review
-category: blog
+category: essay
 tags:
 - meta-blogging
 crosspost:

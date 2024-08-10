@@ -4,7 +4,7 @@ date: 2013-08-15 09:19:16+00:00
 layout: post
 slug: problem-solving-with-html5-audio
 title: Problem Solving with HTML5 Audio
-category: blog
+category: essay
 tags:
 - research and development
 - music and sound

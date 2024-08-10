@@ -5,7 +5,7 @@ layout: post
 slug: in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-head-of-graduate-programs
 title: 'In, Out, Across, With: Collaborative Education and Digital Humanities (Job
   Talk for Head of Graduate Programs)'
-category: blog
+category: essay
 tags:
 - grad student research
 - pedagogy

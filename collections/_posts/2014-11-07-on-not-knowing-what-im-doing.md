@@ -4,7 +4,7 @@ date: 2014-11-07 11:50:00+00:00
 layout: post
 slug: on-not-knowing-what-im-doing
 title: On Not Knowing What I'm Doing
-category: blog
+category: essay
 tags:
 - praxis
 - learning experience

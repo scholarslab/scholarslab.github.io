@@ -4,7 +4,7 @@ date: 2013-04-17 11:14:14+00:00
 layout: post
 slug: matrix-time
 title: matrix time
-category: blog
+category: essay
 tags:
 - grad student research
 - prism

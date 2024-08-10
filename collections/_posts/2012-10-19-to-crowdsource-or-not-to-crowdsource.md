@@ -4,7 +4,7 @@ date: 2012-10-19 06:49:39+00:00
 layout: post
 slug: to-crowdsource-or-not-to-crowdsource
 title: To Crowdsource or Not To Crowdsource?
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

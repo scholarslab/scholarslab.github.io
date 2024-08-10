@@ -4,7 +4,7 @@ date: 2019-12-02
 layout: post
 slug: writing-DH-conference-journal-reviews
 title: "Personal guidelines for DH journal and conference reviewing"
-category: blog
+category: essay
 tags:
 - academia
 crosspost:

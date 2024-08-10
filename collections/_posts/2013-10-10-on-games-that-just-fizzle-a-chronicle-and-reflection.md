@@ -4,7 +4,7 @@ date: 2013-10-10 21:43:02+00:00
 layout: post
 slug: on-games-that-just-fizzle-a-chronicle-and-reflection
 title: on games that just fizzle - a chronicle and reflection
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

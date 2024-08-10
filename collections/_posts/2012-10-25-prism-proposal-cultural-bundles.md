@@ -4,7 +4,7 @@ date: 2012-10-25 09:08:38+00:00
 layout: post
 slug: prism-proposal-cultural-bundles
 title: 'Prism Proposal: Cultural Bundles'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

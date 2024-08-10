@@ -4,7 +4,7 @@ date: 2011-09-20 13:52:22+00:00
 layout: post
 slug: mimesis-and-computer
 title: Mimesis and Computers
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

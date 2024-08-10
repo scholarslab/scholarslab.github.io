@@ -4,7 +4,7 @@ date: 2012-04-17 09:52:52+00:00
 layout: post
 slug: an-intro-to-my-work-with-sci
 title: "An intro to my work with the Scholarly Communication Institute (SCI)"
-category: blog
+category: essay
 tags:
 - alt-ac
 - professional development

@@ -4,7 +4,7 @@ date: 2011-10-17 22:35:19+00:00
 layout: post
 slug: in-the-neutral-ground
 title: In the Neutral Ground
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

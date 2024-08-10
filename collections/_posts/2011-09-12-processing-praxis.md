@@ -4,7 +4,7 @@ date: 2011-09-12 22:15:43+00:00
 layout: post
 slug: processing-praxis
 title: Processing Praxis
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

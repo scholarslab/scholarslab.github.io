@@ -4,7 +4,7 @@ date: 2014-04-08 22:36:21+00:00
 layout: post
 slug: all-together-now
 title: All Together Now
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

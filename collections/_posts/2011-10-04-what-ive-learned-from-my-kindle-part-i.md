@@ -4,7 +4,7 @@ date: 2011-10-04 12:35:04+00:00
 layout: post
 slug: what-ive-learned-from-my-kindle-part-i
 title: 'What I''ve learned from my Kindle: part I'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

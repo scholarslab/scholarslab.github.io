@@ -4,7 +4,7 @@ date: 2012-10-24 11:00:07+00:00
 layout: post
 slug: plastic-debacles
 title: Plastic Debacles
-category: blog
+category: essay
 tags:
 - research and development
 - 3d printing

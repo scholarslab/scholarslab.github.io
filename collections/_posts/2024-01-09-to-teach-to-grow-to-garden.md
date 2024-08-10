@@ -4,7 +4,7 @@ date: 2024-01-09
 layout: post
 slug: to-teach-to-grow-to-garden
 title: To Teach, To Grow, To Garden
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

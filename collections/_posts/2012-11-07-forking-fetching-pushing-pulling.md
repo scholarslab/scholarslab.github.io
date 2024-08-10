@@ -4,7 +4,7 @@ date: 2012-11-07 14:45:34+00:00
 layout: post
 slug: forking-fetching-pushing-pulling
 title: Forking, Fetching, Pushing, Pulling
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

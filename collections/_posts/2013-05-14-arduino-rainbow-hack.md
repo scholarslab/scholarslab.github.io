@@ -4,7 +4,7 @@ date: 2013-05-14 09:58:37+00:00
 layout: post
 slug: arduino-rainbow-hack
 title: Arduino Rainbow Hack
-category: blog
+category: essay
 tags:
 - electronics
 - makerspace

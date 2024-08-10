@@ -4,7 +4,7 @@ date: 2015-04-08 09:35:47+00:00
 layout: post
 slug: everything-is-not-always-awesome-when-youre-part-of-a-team
 title: Everything Is (Not Always) AWESOME When You're Part of a Team!
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

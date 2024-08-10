@@ -4,7 +4,7 @@ date: 2011-11-09 20:49:14+00:00
 layout: post
 slug: the-hunchback-of-notre-prism
 title: the hunchback of notre-prism
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

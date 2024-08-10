@@ -4,7 +4,7 @@ date: 2013-03-18 11:38:31+00:00
 layout: post
 slug: prism-on-spring-break
 title: Prism on Spring Break
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

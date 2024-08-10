@@ -4,7 +4,7 @@ date: 2013-08-14 10:00:12+00:00
 layout: post
 slug: reprinting-printed-parts
 title: Reprinting Printed Parts
-category: blog
+category: essay
 tags:
 - makerspace
 - 3d printing

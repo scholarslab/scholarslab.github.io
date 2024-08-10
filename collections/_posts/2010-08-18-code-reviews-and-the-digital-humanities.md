@@ -8,7 +8,7 @@ excerpt: 'The following was a response I made in an email exchange with Tom Elli
 layout: post
 slug: code-reviews-and-the-digital-humanities
 title: Code Reviews and the Digital Humanities
-category: blog
+category: essay
 tags:
 - research and development
 - code

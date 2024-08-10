@@ -4,7 +4,7 @@ date: 2016-11-09 09:30:56+00:00
 layout: post
 slug: 3d-printing-for-fun-and-presentation
 title: 3D printing for fun and presentation
-category: blog
+category: essay
 tags:
 - makerspace
 - 3d printing

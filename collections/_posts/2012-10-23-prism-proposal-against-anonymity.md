@@ -4,7 +4,7 @@ date: 2012-10-23 13:14:53+00:00
 layout: post
 slug: prism-proposal-against-anonymity
 title: 'Prism Proposal: Against Anonymity'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

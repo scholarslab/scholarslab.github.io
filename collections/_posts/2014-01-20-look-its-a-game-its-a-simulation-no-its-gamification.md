@@ -4,7 +4,7 @@ date: 2014-01-20 09:00:01+00:00
 layout: post
 slug: look-its-a-game-its-a-simulation-no-its-gamification
 title: 'Look, it''s a game, it''s a simulation, no...it''s GAMIFICATION! '
-category: blog
+category: essay
 tags:
 - grad student research
 - games

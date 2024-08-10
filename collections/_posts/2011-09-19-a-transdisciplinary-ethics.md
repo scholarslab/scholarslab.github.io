@@ -4,7 +4,7 @@ date: 2011-09-19 18:40:57+00:00
 layout: post
 slug: a-transdisciplinary-ethics
 title: A Transdisciplinary Ethics
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

@@ -4,7 +4,7 @@ date: 2012-08-03 12:35:30+00:00
 layout: post
 slug: data-visualizations-learning-d3-js
 title: 'Data visualizations: Learning d3.js'
-category: blog
+category: essay
 tags:
 - visualization and data mining
 - code

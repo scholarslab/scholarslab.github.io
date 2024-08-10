@@ -5,7 +5,7 @@ layout: post
 slug: discussions-in-the-digital-humanities-and-learning-new-technologies-in-the-scholars-lab
 title: "Discussions in the Digital Humanities and Learning New Technologies in the
   Scholars’ Lab"
-category: blog
+category: essay
 tags:
 - praxis
 ---

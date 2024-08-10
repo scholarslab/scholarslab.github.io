@@ -4,7 +4,7 @@ date: 2012-02-15 13:22:59+00:00
 layout: post
 slug: all-hail-the-workplan-accountability-and-collaborative-research
 title: 'All Hail the Workplan!: Accountability and Collaborative Research'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

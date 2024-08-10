@@ -4,7 +4,7 @@ date: 2008-11-06 14:52:07+00:00
 layout: post
 slug: iterative-cosmologies
 title: Iterative Cosmologies...
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 ---

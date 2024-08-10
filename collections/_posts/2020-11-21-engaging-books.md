@@ -4,7 +4,7 @@ date: 2020-11-21
 layout: post
 slug: engaging-books
 title: A Workshop about Engaging Books
-category: blog
+category: essay
 tags:
 - grad student research
 - bibliography

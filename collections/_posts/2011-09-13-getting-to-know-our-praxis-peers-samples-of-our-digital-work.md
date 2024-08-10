@@ -4,7 +4,7 @@ date: 2011-09-13 13:24:39+00:00
 layout: post
 slug: getting-to-know-our-praxis-peers-samples-of-our-digital-work
 title: 'Getting to Know our Praxis Peers: Samples of our Digital Work'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

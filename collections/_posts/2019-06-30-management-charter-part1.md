@@ -4,7 +4,7 @@ date: 2019-06-30
 layout: post
 slug: management-charter-part1
 title: "A management charter (part 1)"
-category: blog
+category: essay
 tags:
 - directing
 - about-collaboration-community

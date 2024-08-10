@@ -7,7 +7,7 @@ title: "Unmaking and Remaking the Archive"
 tags:
 - praxis
 - wlu collab
-category: blog
+category: essay
 ---
 That old saying about trash and treasure can rarely be taken literally, but there’s one instance in which it almost certainly can be: the amassing, over the course of the Middle Ages, of hundreds of thousands of discarded looseleaf papers in an Old Cairene synagogue. The Cairo Geniza, as this collection is now named, is an assortment of letters, religious texts, inventories, shipping manifests, and the like, and has provided historians with most of what they know about Jews in the Middle East and North Africa during the medieval period. A geniza is where Jewish communities deposit old Torah scrolls and other religious texts that are no longer in usable condition, but which cannot be disposed of entirely because they contain the name of God. So it was with the documents in the Cairo Geniza, whose authors no longer had any use for them: they had to find a ‘third way’ between retaining and fully discarding their old writings, because each sheet of paper, somewhere, featured the name of God. Over the course of several hundred years, then, successive generations of Jewish communities in Fustat (Old Cairo) inadvertently created an “anti-archive”[^1]—a repository of disposed-of, mostly quotidian words and lists that would go on to inform a rich and intimate portrait of Mediterranean life in the Middle Ages.  
 

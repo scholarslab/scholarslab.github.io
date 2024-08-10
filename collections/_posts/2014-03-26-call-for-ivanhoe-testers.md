@@ -4,7 +4,7 @@ date: 2014-03-26 13:45:00+00:00
 layout: post
 slug: call-for-ivanhoe-testers
 title: Call for Ivanhoe Testers!
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

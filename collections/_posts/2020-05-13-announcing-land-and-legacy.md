@@ -6,7 +6,7 @@ date: 2020-05-13 14:10:52
 layout: post
 slug: announcing-land-and-legacy
 title: Announcing 'Land And Legacy'
-category: blog
+category: essay
 tags:
 - grad student research
 - land and legacy

@@ -4,7 +4,7 @@ date: 2013-03-05 11:47:22+00:00
 layout: post
 slug: gradient-highlights
 title: Gradient Highlights
-category: blog
+category: essay
 tags:
 - grad student research
 - design

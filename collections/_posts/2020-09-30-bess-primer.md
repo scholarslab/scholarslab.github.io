@@ -4,7 +4,7 @@ date: 2020-09-30
 layout: post
 slug: bess-primer
 title: "BESS: A Very Short Primer"
-category: blog
+category: essay
 tags:
 - research and development
 - grad student research

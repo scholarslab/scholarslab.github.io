@@ -4,7 +4,7 @@ date: 2015-04-06 15:38:42+00:00
 layout: post
 slug: adventures-in-3d-printer-maintenance
 title: Adventures in 3D Printer Maintenance
-category: blog
+category: essay
 tags:
 - 3d printing
 - makerspace

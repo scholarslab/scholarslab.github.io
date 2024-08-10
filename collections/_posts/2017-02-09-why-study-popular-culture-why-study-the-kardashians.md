@@ -4,7 +4,7 @@ date: 2017-02-09 15:27:57+00:00
 layout: post
 slug: why-study-popular-culture-why-study-the-kardashians
 title: Why Study Popular Culture? Why Study the Kardashians?
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

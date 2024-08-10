@@ -4,7 +4,7 @@ date: 2013-09-16 10:09:11+00:00
 layout: post
 slug: greetings
 title: Greetings
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

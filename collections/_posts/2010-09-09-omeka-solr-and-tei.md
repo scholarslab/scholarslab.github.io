@@ -4,7 +4,7 @@ date: 2010-09-09 11:50:16+00:00
 layout: post
 slug: omeka-solr-and-tei
 title: Omeka, Solr, and TEI
-category: blog
+category: essay
 tags:
 - research and development
 - omeka

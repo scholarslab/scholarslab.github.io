@@ -4,7 +4,7 @@ date: 2012-03-13 18:04:10+00:00
 layout: post
 slug: lets-get-visual
 title: "Let's get visual."
-category: blog
+category: essay
 tags:
 - grad student research
 - research and development

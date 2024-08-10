@@ -4,7 +4,7 @@ date: 2011-11-09 20:16:46+00:00
 layout: post
 slug: building-prism-the-darker-side-of-the-enlightenment-spectrum
 title: 'Building Prism: The Darker Side of the Enlightenment Spectrum'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

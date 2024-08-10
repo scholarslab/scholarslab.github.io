@@ -4,7 +4,7 @@ date: 2016-06-08 11:52:32+00:00
 layout: post
 slug: using-dh-to-explore-movement-and-meaning
 title: Using DH to Explore Movement and Meaning
-category: blog
+category: essay
 tags:
 - grad student research
 - wlu collab

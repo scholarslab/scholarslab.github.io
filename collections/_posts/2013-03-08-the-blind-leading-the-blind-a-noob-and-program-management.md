@@ -4,7 +4,7 @@ date: 2013-03-08 13:29:39+00:00
 layout: post
 slug: the-blind-leading-the-blind-a-noob-and-program-management
 title: 'The Blind Leading the Blind:  A Noob and Program Management'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

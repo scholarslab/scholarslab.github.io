@@ -4,7 +4,7 @@ date: 2023-06-19
 layout: post
 slug: origin-story
 title: Origin Story
-category: blog
+category: essay
 tags:
 - learning experience
 crosspost:

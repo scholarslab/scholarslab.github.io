@@ -4,7 +4,7 @@ date: 2018-04-12 11:20:35+00:00
 layout: post
 slug: augmenting-an-iconic-structure-the-rotunda
 title: 'Augmenting an Iconic Structure: The Rotunda'
-category: blog
+category: essay
 tags:
 - grad student research
 - uva reveal

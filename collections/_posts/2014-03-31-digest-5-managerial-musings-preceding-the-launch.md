@@ -4,7 +4,7 @@ date: 2014-03-31 10:00:22+00:00
 layout: post
 slug: digest-5-managerial-musings-preceding-the-launch
 title: '(Digest #5) More Reflections on Project Management'
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

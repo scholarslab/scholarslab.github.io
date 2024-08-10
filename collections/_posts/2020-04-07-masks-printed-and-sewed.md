@@ -6,7 +6,7 @@ date: 2020-04-07
 layout: post
 slug: masks-printed-and-sewed
 title: "Manufacturing Masks: how Technologists can Lend both Hands and Machines"
-category: blog
+category: essay
 tags:
 - fabric arts
 - expansive makerspace

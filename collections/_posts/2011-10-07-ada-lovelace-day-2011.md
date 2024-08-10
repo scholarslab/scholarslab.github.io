@@ -4,7 +4,7 @@ date: 2011-10-07 14:59:43+00:00
 layout: post
 slug: ada-lovelace-day-2011
 title: Ada Lovelace Day 2011
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

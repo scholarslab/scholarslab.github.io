@@ -4,7 +4,7 @@ date: 2013-10-07 10:45:05+00:00
 layout: post
 slug: experimental-typesetting-with-neatline-and-shakespeare
 title: Experimental typesetting with Neatline and Shakespeare
-category: blog
+category: essay
 tags:
 - research and development
 - neatline

@@ -4,7 +4,7 @@ date: 2011-12-02 10:40:22+00:00
 layout: post
 slug: wireframing-and-foundations
 title: Wireframing and Foundations
-category: blog
+category: essay
 tags:
 - grad student research
 - design

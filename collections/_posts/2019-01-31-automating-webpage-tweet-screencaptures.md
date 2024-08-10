@@ -4,7 +4,7 @@ date: 2019-01-31 01:01:01
 layout: post
 slug: automating-webpage-tweet-screencaptures
 title: "Automating Webpage & Tweet Screencaptures"
-category: blog
+category: essay
 tags:
 - tutorial
 - social media

@@ -4,7 +4,7 @@ date: 2012-11-20 15:58:21+00:00
 layout: post
 slug: onward-and-upward
 title: Onward and Upward
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

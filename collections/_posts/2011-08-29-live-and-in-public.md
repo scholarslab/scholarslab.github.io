@@ -4,7 +4,7 @@ date: 2011-08-29 19:19:30+00:00
 layout: post
 slug: live-and-in-public
 title: Live and in public!
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

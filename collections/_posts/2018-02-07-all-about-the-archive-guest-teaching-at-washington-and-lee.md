@@ -4,7 +4,7 @@ date: 2018-02-07 12:51:48+00:00
 layout: post
 slug: all-about-the-archive-guest-teaching-at-washington-and-lee
 title: 'All About the Archive: Guest Teaching at Washington and Lee'
-category: blog
+category: essay
 tags:
 - wlu collab
 - pedagogy

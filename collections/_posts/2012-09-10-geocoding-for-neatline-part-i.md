@@ -4,7 +4,7 @@ date: 2012-09-10 09:18:03+00:00
 layout: post
 slug: geocoding-for-neatline-part-i
 title: Geocoding for Neatline - Part I
-category: blog
+category: essay
 tags:
 - research and development
 - neatline

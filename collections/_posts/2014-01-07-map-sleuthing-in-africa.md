@@ -4,7 +4,7 @@ date: 2014-01-07 09:36:20+00:00
 layout: post
 slug: map-sleuthing-in-africa
 title: Map Sleuthing in Africa
-category: blog
+category: essay
 tags:
 - geospatial and temporal
 - gis

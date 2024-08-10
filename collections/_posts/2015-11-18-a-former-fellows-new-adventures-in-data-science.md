@@ -4,7 +4,7 @@ date: 2015-11-18 11:51:23+00:00
 layout: post
 slug: a-former-fellows-new-adventures-in-data-science
 title: A Former Fellow's New Adventures in Data Science
-category: blog
+category: essay
 tags:
 - text analysis
 ---

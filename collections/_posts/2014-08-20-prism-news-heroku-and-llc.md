@@ -4,7 +4,7 @@ date: 2014-08-20 08:57:54+00:00
 layout: post
 slug: prism-news-heroku-and-llc
 title: Prism News - Heroku and LLC
-category: blog
+category: essay
 tags:
 - grad student research
 - prism

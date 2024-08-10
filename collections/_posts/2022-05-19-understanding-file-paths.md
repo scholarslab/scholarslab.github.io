@@ -4,7 +4,7 @@ date: 2022-05-19
 layout: post
 slug: understanding-file-paths 
 title: Understanding File Paths 
-category: blog
+category: essay
 tags:
 - makerspace
 - web development

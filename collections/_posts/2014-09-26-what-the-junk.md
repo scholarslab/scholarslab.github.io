@@ -4,7 +4,7 @@ date: 2014-09-26 14:07:28+00:00
 layout: post
 slug: what-the-junk
 title: What. The. Junk.
-category: blog
+category: essay
 tags:
 - makerspace
 - 3d printing

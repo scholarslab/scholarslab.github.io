@@ -4,7 +4,7 @@ date: 2014-05-02 02:30:30+00:00
 layout: post
 slug: fluffy-tree-the-future-of-ivanhoe
 title: 'Fluffy Tree: The Future of Ivanhoe'
-category: blog
+category: essay
 tags:
 - grad student research
 - ivanhoe

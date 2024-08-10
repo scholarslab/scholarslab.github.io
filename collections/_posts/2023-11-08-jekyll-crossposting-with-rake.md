@@ -4,7 +4,7 @@ date: 2023-11-08
 layout: post
 slug: jekyll-crossposting-with-rake
 title: "Jekyll Crossposting with Raketags"
-category: blog
+category: essay
 tags:
 - jekyll
 - tutorial

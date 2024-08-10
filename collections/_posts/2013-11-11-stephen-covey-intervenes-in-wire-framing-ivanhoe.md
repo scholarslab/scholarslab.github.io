@@ -4,7 +4,7 @@ date: 2013-11-11 12:57:23+00:00
 layout: post
 slug: stephen-covey-intervenes-in-wire-framing-ivanhoe
 title: Stephen Covey intervenes in wire-framing Ivanhoe
-category: blog
+category: essay
 tags:
 - grad student research
 - design

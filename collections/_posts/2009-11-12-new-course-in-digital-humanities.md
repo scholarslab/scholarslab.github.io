@@ -4,7 +4,7 @@ date: 2009-11-12 11:58:37+00:00
 layout: post
 slug: new-course-in-digital-humanities
 title: New Course in Digital Humanities!
-category: blog
+category: essay
 tags:
 - grad student research
 ---

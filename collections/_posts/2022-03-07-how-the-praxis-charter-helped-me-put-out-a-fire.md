@@ -5,7 +5,7 @@ date: 2022-03-07
 layout: post
 slug: praxis-charter-fire
 title: How The Praxis Charter Helped Me Put Out A Fire
-category: blog
+category: essay
 tags:
 - grad student research
 - charter

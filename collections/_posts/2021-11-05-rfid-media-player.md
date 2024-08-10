@@ -4,7 +4,7 @@ date: 2021-11-05
 layout: post
 slug: rfid-media-player
 title: Making an RFID Media Player
-category: blog
+category: essay
 tags:
 - makerspace
 - electronics

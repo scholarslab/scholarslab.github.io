@@ -4,7 +4,7 @@ date: 2015-06-11 14:59:18+00:00
 layout: post
 slug: summer-in-the-makerspace-mucha-smart-dress-part-i
 title: 'Summer in the Makerspace: Mucha Smart Dress, Part I'
-category: blog
+category: essay
 tags:
 - grad student research
 - 3d printing

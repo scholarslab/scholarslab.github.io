@@ -4,7 +4,7 @@ date: 2018-05-11 16:15:48+00:00
 layout: post
 slug: hack-your-pants-video
 title: "'Hack your pants' video"
-category: blog
+category: essay
 tags:
 - makerspace
 - fun

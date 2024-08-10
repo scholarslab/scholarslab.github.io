@@ -4,7 +4,7 @@ date: 2021-10-26
 layout: post
 slug: foley-first-blog
 title: "A Heartening New Perspective"
-category: blog
+category: essay
 tags:
 - research and development
 - learning experience

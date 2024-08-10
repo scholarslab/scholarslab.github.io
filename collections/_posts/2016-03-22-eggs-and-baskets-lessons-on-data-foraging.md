@@ -4,7 +4,7 @@ date: 2016-03-22 09:48:00+00:00
 layout: post
 slug: eggs-and-baskets-lessons-on-data-foraging
 title: 'Eggs and Baskets: Lessons on Data Foraging'
-category: blog
+category: essay
 tags:
 - grad student research
 - dataset

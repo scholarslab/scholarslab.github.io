@@ -4,7 +4,7 @@ date: 2013-07-18 15:53:23+00:00
 layout: post
 slug: homers-catalogue-of-ships
 title: Homer's Catalogue of Ships
-category: blog
+category: essay
 tags:
 - literature
 - geospatial and temporal

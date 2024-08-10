@@ -4,7 +4,7 @@ date: 2024-05-07
 layout: post
 slug: mechanical-keyboards-switch-basics
 title: "Mechanical Keyboards: Switch Basics"
-category: blog
+category: essay
 tags:
 - makerspace
 - electronics

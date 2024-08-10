@@ -4,7 +4,7 @@ date: 2017-03-13 09:00:54+00:00
 layout: post
 slug: gothic-dh-at-washington-and-lee
 title: “Gothic DH” at Washington and Lee
-category: blog
+category: essay
 tags:
 - literature
 - grad student research

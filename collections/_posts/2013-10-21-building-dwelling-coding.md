@@ -4,7 +4,7 @@ date: 2013-10-21 10:55:37+00:00
 layout: post
 slug: building-dwelling-coding
 title: Building, Dwelling, Coding
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

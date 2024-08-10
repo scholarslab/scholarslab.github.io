@@ -4,7 +4,7 @@ date: 2024-05-13
 layout: post
 slug: equipment-naming-contest
 title: "Equipment Naming Contest"
-category: blog
+category: essay
 tags:
 - makerspace
 - fun

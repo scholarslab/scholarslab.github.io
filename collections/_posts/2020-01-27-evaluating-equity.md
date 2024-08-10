@@ -4,7 +4,7 @@ author: ronda-grizzle
 date: 2020-01-27
 title: "Evaluating Scholars' Lab Interfaces and Digital Tools for Inclusivity, Accessibility, and Equity"
 slug: evaluating-scholars-lab-interfaces-and-digital-tools-for-inclusivity-accessibility-and-equity
-category: blog
+category: essay
 tags:
 - accessibility
 ---

@@ -4,7 +4,7 @@ date: 2012-04-17 10:50:29+00:00
 layout: post
 slug: spreading-the-light-prism-development-is-almost-done
 title: 'Spreading the Light: Prism Development is Almost DONE!'
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

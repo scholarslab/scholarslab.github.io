@@ -4,7 +4,7 @@ date: 2021-11-10
 layout: post
 slug: tinkertank-jewelry
 title: "TinkerTank Jewelry"
-category: blog
+category: essay
 tags:
 - makerspace
 - tutorial

@@ -4,7 +4,7 @@ date: 2020-03-06 17:30:12
 layout: post
 slug: webhook-for-scholarslab
 title: Webhook for Scholars' Lab Website
-category: blog
+category: essay
 tags:
 - research and development
 - code

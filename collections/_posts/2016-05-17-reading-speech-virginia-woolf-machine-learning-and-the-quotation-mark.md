@@ -4,7 +4,7 @@ date: 2016-05-17 11:03:28+00:00
 layout: post
 slug: reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark
 title: 'Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark'
-category: blog
+category: essay
 tags:
 - literature
 - grad student research

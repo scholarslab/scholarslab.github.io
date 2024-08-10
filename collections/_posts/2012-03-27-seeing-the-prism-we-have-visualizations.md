@@ -4,7 +4,7 @@ date: 2012-03-27 13:54:05+00:00
 layout: post
 slug: seeing-the-prism-we-have-visualizations
 title: 'Seeing the Prism: We Have Visualizations!!'
-category: blog
+category: essay
 tags:
 - grad student research
 - visualization and data mining

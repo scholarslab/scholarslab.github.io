@@ -4,7 +4,7 @@ date: 2012-03-19 10:04:42+00:00
 layout: post
 slug: wordpress-pharma-hack
 title: WordPress Pharma Hack
-category: blog
+category: essay
 tags:
 - research and development
 - web development

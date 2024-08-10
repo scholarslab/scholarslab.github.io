@@ -4,7 +4,7 @@ date: 2013-02-06 09:37:30+00:00
 layout: post
 slug: neatline-one-million-records
 title: Neatline Feature Preview - 1,000,000 records in a single exhibit
-category: blog
+category: essay
 tags:
 - research and development
 - neatline

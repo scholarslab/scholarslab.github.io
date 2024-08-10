@@ -4,7 +4,7 @@ date: 2012-05-14 16:54:21+00:00
 layout: post
 slug: on-complexity
 title: On Complexity
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

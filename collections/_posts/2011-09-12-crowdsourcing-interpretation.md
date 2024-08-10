@@ -4,7 +4,7 @@ date: 2011-09-12 12:34:10+00:00
 layout: post
 slug: crowdsourcing-interpretation
 title: Crowdsourcing Interpretation / Praxis and Prism
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

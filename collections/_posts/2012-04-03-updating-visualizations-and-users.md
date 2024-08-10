@@ -4,7 +4,7 @@ date: 2012-04-03 13:30:40+00:00
 layout: post
 slug: updating-visualizations-and-users
 title: Updating Visualizations and Users
-category: blog
+category: essay
 tags:
 - grad student research
 - praxis

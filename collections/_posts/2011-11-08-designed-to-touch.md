@@ -4,7 +4,7 @@ date: 2011-11-08 00:43:03+00:00
 layout: post
 slug: designed-to-touch
 title: Designed to touch
-category: blog
+category: essay
 tags:
 - grad student research
 - design
