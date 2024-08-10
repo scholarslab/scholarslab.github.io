@@ -68,7 +68,7 @@ Second, our GIS specialists [Drew McQueen](https://scholarslab.lib.virginia.edu/
 
 ![Will Rourk's Twitter account on scanning](/assets/post-media/dh-pedagogy-and-hope/11.png)
 
-We also engage students in an internship for course credit through the architecture school, where our 3D Data and Content Specialist, [Will Rourk](https://scholarslab.lib.virginia.edu/people/will-rourk/), collaborates with them on the scanning of artifacts and spaces that are significant for cultural heritage purposes. They often carry out site visits in the region, and Will also collaborates with local museums on scanning objects of importance to them.
+We also engage students in an internship for course credit through the architecture school, where our 3D Technologies Specialist, [Will Rourk](https://scholarslab.lib.virginia.edu/people/will-rourk/), collaborates with them on the scanning of artifacts and spaces that are significant for cultural heritage purposes. They often carry out site visits in the region, and Will also collaborates with local museums on scanning objects of importance to them.
 
 ![3D model that resulted from scanning](/assets/post-media/dh-pedagogy-and-hope/12.png)
 

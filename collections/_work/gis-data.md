@@ -9,8 +9,8 @@ collaborators:
 layout: work
 slug: gis-data
 title: GIS Data
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: gis-data-thumb.png
+banner-img: gis-data-banner.png
 research-category: Internal Projects and Community Service
 start-year: (before 2018)
 end-year: current

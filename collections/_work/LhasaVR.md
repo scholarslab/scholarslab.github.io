@@ -2,13 +2,13 @@
 collaborators: 
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Data and Content Specialist
+    role: 3D Technologies Specialist
 layout: work
 link: https://pages.shanti.virginia.edu/LhasaVR
 slug: lhasavr
 title: LhasaVR
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: LhasaVR-thumb.jpg
+banner-img: LhasaVR-banner.jpg
 research-category: Collaborations
 start-year: (before 2018)
 end-year: current

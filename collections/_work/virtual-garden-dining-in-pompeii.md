@@ -8,7 +8,7 @@ collaborators:
     role: 3D Visualization Specialist
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Data and Content Specialist
+    role: 3D Technologies Specialist
 current: true
 layout: work
 link: ''

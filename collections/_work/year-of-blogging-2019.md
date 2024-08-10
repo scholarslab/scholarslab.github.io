@@ -15,8 +15,8 @@ layout: work
 link: 'https://scholarslab.lib.virginia.edu/blog/year-of-blogging-2019-debrief/'
 slug: year-of-blogging-2019
 title: "Year of Blogging"
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: year-of-blogging-thumb.jpeg
+banner-img: year-of-blogging-banner.jpeg
 research-category: Internal Projects
 start-year: 2019
 end-year: 2020

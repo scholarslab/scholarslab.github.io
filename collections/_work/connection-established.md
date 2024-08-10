@@ -30,8 +30,8 @@ collaborators:
 link: http://connection.scholarslab.org/
 slug: connection-established
 title: Connection Established
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: connection-established-thumb.png
+banner-img: connection-established-banner.png
 research-category: Student
 start-year: 2020
 end-year: 2021

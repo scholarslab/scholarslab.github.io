@@ -2,15 +2,17 @@
 collaborators: 
   - name: Will Rourk
     slug: will-rourk
-    role: 3D Data and Content Specialist
+    role: 3D Technologies Specialist
 layout: work
 slug: cultural-heritage-dataverse-repository
 title: Cultural Heritage Dataverse Repository
 link: https://dataverse.lib.virginia.edu/dataverse/culturalheritage
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: cultural-heritage-dataverse-repository-thumb.png
+banner-img: cultural-heritage-dataverse-repository-banner.png
 research-category: Internal Projects and Community Service
-start-year: (before 2018)
+start-year: 2017
 end-year: current
 ---
-More info coming soon!
+Will Rourk and student collaborators regularly publish 3D cultural heritage datasets via UVA Library's repository LibraData, making the data open to the public through the Library's catalog. There were 25 such public datasets as of Summer 2024, and the count is steadily increasing. 
+
+The image associated with this project comes from [a Fralin Museum Mayan mold](https://search.lib.virginia.edu/sources/uva_library/items/dataset_1093) from one of the #3DCHI datasets.

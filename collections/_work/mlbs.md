@@ -10,10 +10,10 @@ collaborators:
 layout: work
 slug: mlbs
 title: Mountain Lake Biological Station collaboration
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: mlbs-thumb.png
+banner-img: mlbs-banner.png
 research-category: Internal Projects and Community Service
 start-year: (before 2018)
 end-year: current
 ---
-More info coming soon!
+GIS and mapping mentorship and collaboration at the Mountain Lake Biological Station.

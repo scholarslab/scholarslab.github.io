@@ -70,7 +70,7 @@ With the staff's permission, I'm sharing what each of us was working on, to give
 
 **Arin Bennett (3D Visualization Specialist):** Working with Unity as part of his mentorship of the Praxis cohort; augmented reality (AR) mapping via the new Unity asset we purchased; working on a better AR interface for doing his trail running while using the headset, e.g. point of interest along his way, time countdown; AR walking tours; touching 3D print but seeing scan/photo version in headset
 
-**Will Rourk (3D Data and Content Specialist):** Modular synthesizers; making 3D-printed chocolate molds from any 3D model; writing and researching what CHI (cultural heritage informatics) as a field *is* today e.g. CLIR talk and paper, bibliography creation
+**Will Rourk (3D Technologies Specialist):** Modular synthesizers; making 3D-printed chocolate molds from any 3D model; writing and researching what CHI (cultural heritage informatics) as a field *is* today e.g. CLIR talk and paper, bibliography creation
 
 **Chris Gist (GIS Specialist):** learning new ARCGISonline tech, 3rd rebuild because the tech keeps changing and adding new products; tagging locations on a friend's property; thinking about siloed research in regional cultural places and building a trail along the historic trail between them, creating new data layers to assist with pitch for new trail
 

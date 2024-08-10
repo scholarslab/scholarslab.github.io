@@ -43,6 +43,6 @@ Some of the resources below have content suitable for 3D printing (.stl file for
 
 ### [UVA Dataverse](https://dataverse.lib.virginia.edu/dataverse/culturalheritage)
 ![image](https://dataverse.lib.virginia.edu/logos/navbar/DV-LibraData.png)
-- The UVA Library Dataverse's Cultural Heritage section is a free source for 3D content produced by Will Rourk, 3D Data and Content Specialist at the UVA Scholars’ Lab. Here, 3D data is available in both digitally viewable and 3D printable formats so that people can import them for use in virtual reality or for physical manipulation. Additionally, some objects have the raw point cloud data available, which can be used to create the 3D models from scratch.
+- The UVA Library Dataverse's Cultural Heritage section is a free source for 3D content produced by Will Rourk, 3D Technologies Specialist at the UVA Scholars’ Lab. Here, 3D data is available in both digitally viewable and 3D printable formats so that people can import them for use in virtual reality or for physical manipulation. Additionally, some objects have the raw point cloud data available, which can be used to create the 3D models from scratch.
 
 There are many other sites for this sort of data, but finding the exact 3D model that you need may take some time to search multiple sites, especially if it is an obscure or highly detailed model. It isn’t too difficult to create the 3D content needed, as long as the right tools are acquired. However, for some people, it may be easier to use an existing 3D model to speed up the development schedule.
