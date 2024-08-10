@@ -7,6 +7,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Shannon Library 308'
 title: 'GradCamp for Digital Humanities'
+rsvp: "https://cal.lib.virginia.edu/calendar/events/GradCamp2024"
 ---
 
 Are you a graduate student who's headlong into your Digital Humanities
@@ -27,5 +28,3 @@ Lunch will be provided! Please register for the event and share any dietary
 restrictions/preferences and other accommodations you need. The only thing you
 absolutely need to bring is your interest and attention, but a laptop would be
 handy.
-
-[Register here!](https://cal.lib.virginia.edu/calendar/events/GradCamp2024)

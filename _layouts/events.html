@@ -41,7 +41,7 @@ layout: default
 			<tr><th>Instructor(s):</th><td>{{ page.instructor }}</td></tr>
 			{% endif %}
 			{% if page.rsvp %}
-			<tr><th scope="row">Registration:</th><td>Required! Details below.</td></tr>
+			<tr><th scope="row">Registration required:</th><td><a href="{{ page.rsvp }}">register here</a></td></tr>
 			{% endif %}
 		</table>
 	</div>
@@ -51,6 +51,6 @@ layout: default
 		<p>No description has been added at this time.</p>
 	{% endunless %}
 
-	<span>Questions?</span><br/>Contact Scholars' Lab's Head of Public Programs <a href="mailto:lam2c@virginia.edu?subject=Question about SLab Event">Laura Miller</a>.</li>
+	<span>Questions?</span><br/>Contact Scholars' Lab Assistant Director for Public Services <a href="mailto:lam2c@virginia.edu?subject=Question about SLab Event">Laura Miller</a>.</li>
 
 </div>
