@@ -7,6 +7,7 @@ date: 2019-04-30 10:53:47
 layout: post
 slug: archiving-dh-part-3-the-long-view
 title: "Archiving DH Part 3: The Long View"
+category: essay
 ---
 
 ![Photo by Mantas Hesthaven on Unsplash](/assets/post-media/2019-04-30-mantas-hesthaven-135478-unsplash.jpg)

@@ -4,6 +4,7 @@ date: 2023-11-20
 layout: post
 slug: what-im-reading-fall-23
 title: What I'm Reading - Fall 23
+category: essay
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/what-im-reading-fall-23

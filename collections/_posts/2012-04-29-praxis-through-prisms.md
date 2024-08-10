@@ -4,6 +4,7 @@ date: 2012-04-29 19:48:10+00:00
 layout: post
 slug: praxis-through-prisms
 title: Praxis, Through Prisms
+category: essay
 tags:
 - grad student research
 - praxis

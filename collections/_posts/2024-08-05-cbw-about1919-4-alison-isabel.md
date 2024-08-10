@@ -6,15 +6,10 @@ date: 2024-08-05
 layout: post
 slug: cbw-about1919-4-alison-isabel
 title: "A Limited Comparison of Louisa May Alcott and Harriet Tubman"
-categories:
-- Digital Humanities
-- Grad Student Research
-- Women
-- Race
-- War
-- Biography
+category: essay
 tags:
-- Digital Humanities
+- cbw
+- gender
 ---
 
 *A Co-authored Series of Posts ‘About 1919,’ that is, about English-language books published from 1914 to 1921, according to the online bibliography and database, [Collective Biographies of Women](https://cbw.iath.virginia.edu).*

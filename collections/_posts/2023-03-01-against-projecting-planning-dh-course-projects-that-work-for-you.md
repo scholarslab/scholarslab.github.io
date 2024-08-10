@@ -4,6 +4,7 @@ date: 2023-03-01
 layout: post
 slug: against-projecting-planning-dh-course-projects-that-work-for-you
 title: "Against Projecting: Planning DH Course Projects That Work For You"
+category: essay
 crosspost:
   - title: Brandon's Blog
     url: http://walshbr.com/blog/against-projecting-planning-dh-course-projects-that-work-for-you

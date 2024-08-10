@@ -4,6 +4,7 @@ date: 2019-02-27
 layout: post
 slug: moderation-running-dh-online-communities
 title: "A Moderate Proposal: Healthier Systems for Running Online Digital Humanities Communities"
+category: essay
 tags:
 - moderation
 - social media

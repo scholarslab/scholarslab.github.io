@@ -4,10 +4,9 @@ date: 2024-08-07
 layout: post
 slug: citepedagogy-to-pedagogy-driven-publishing
 title: "#citepedagogy to Pedagogy-driven Publishing"
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/citepedagogy-to-pedagogy-driven-publishing

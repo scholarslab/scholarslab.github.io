@@ -4,6 +4,7 @@ date: 2020-10-07
 layout: post
 slug: cbw-indianwomen
 title: "Death Politics in Collections of Indian Women's Lives"
+category: essay
 tags:
 - cbw
 - gender

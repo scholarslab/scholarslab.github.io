@@ -4,6 +4,7 @@ date: 2012-04-04 16:09:25+00:00
 layout: post
 slug: cross-posted-on-a-definition-of-open-humanities
 title: 'On a definition of "open humanities"'
+category: essay
 crosspost:
   - title: Eric's blog
     url: http://cybernetickinkwell.com/2012/04/02/on-a-definition-of-open-humanities/

@@ -4,6 +4,7 @@ date: 2019-06-02
 layout: post
 slug: why-blogging
 title: "What about blogging keeps me blogging?"
+category: essay
 tags:
 - meta-blogging
 crosspost:

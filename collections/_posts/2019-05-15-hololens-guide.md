@@ -4,6 +4,7 @@ date: 2019-05-15 01:00:00+00:00
 layout: post
 slug: hololens-guide
 title: "HoloLens 101: A New User’s Guide"
+category: essay
 tags:
 - parents fund 
 - vr-ar

@@ -4,6 +4,7 @@ date: 2020-02-13
 layout: post
 slug: generous-thinking-hashtag-tweets
 title: "#GenerousThinking: A month of daily thinking toward a more generous academia"
+category: essay
 tags:
 - social media
 - academia

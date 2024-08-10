@@ -4,6 +4,7 @@ date: 2019-05-09 01:00:00+00:00
 layout: post
 slug: lessons-north-star
 title: "Lessons Learned from Project North Star"
+category: essay
 tags:
 - parents fund
 - vr-ar

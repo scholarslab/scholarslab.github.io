@@ -6,6 +6,7 @@ date: 2023-04-14
 layout: post
 slug: lessons-from-the-lab-designing-community-forward-spaces
 title: "Lessons From The Lab: Designing Community-Forward Spaces"
+category: essay
 tags:
 - pedagogy
 crosspost:

@@ -4,14 +4,10 @@ date: 2024-07-05
 layout: post
 slug: gamaliel-bradford-and-psychography
 title: "Gamaliel Bradford and Psychography"
-categories:
-- digital humanities
-- grad student research
-- women
-- nationality
-- biography
+category: essay
 tags:
-- digital humanities
+- cbw
+- gender
 ---
 
 *A Co-authored Series of Posts 'About 1919,' that is, about English-language books published from 1914 to 1921, according to the online bibliography and database, [Collective Biographies of Women](https://cbw.iath.virginia.edu/)*

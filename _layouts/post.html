@@ -3,62 +3,56 @@ layout: default
 ---
 {% capture authorstring %}{% include author-name.html authorid=page.author %}{% endcapture %}
 <article>
-<header>
-    <hgroup>
-    <span aria-label="page type">Blog</span>
+<header><hgroup>
+	<span aria-label="page type">Blog</span>
     <h1>{{ page.title | replace: ' - ', ': ' }}</h1>
-
     <p class="metadata">
         By <span class="author">{{ authorstring | strip }}</span> on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
     </p>
     {% include old-post-alert.html %}
-    </hgroup>
-</header> <!-- end metadata -->
+</hgroup></header> <!-- end metadata -->
 
-    <!-- text of post -->
-    <div class="content">
-        {% if page.crosspost %}
-          <div class="post_crosspost">
-              {% if page.crosspost.size == 1 %}
-              Crossposted to <a href="{{ page.crosspost[0].url }}">{{ page.crosspost[0].title }}</a>.
-              {% else %}
-            {% capture crosspostings %}
-            {% for target in page.crosspost %}
-            <a href="{{ target.url }}">{{ target.title }}</a>,
-            {% endfor %}
-            {% endcapture %}
-            {% assign crosspostarray = crosspostings | strip | split: "," %}
-            Crossposted to {{ crosspostarray | array_to_sentence_string }}.
+<!-- text of post -->
+<div class="content">
+	{% if page.crosspost %}
+		<div class="post_crosspost">
+			{% if page.crosspost.size == 1 %}
+				Crossposted to <a href="{{ page.crosspost[0].url }}">{{ page.crosspost[0].title }}</a>.
+			{% else %}
+            	{% capture crosspostings %}
+            		{% for target in page.crosspost %}
+            			<a href="{{ target.url }}">{{ target.title }}</a>,
+            		{% endfor %}
+            	{% endcapture %}
+            	{% assign crosspostarray = crosspostings | strip | split: "," %}
+            		Crossposted to {{ crosspostarray | array_to_sentence_string }}.
             {% endif %}
-          </div>
-        {% endif %}
-      {{ content }}
-    </div>
+		</div>
+	{% endif %}
+{{ content }}
 
-    <footer class="post__credits">
-      {% comment %}
-      {% for author in page.author %} <!-- if there is a listed author -->
-      {% include author-profile.html authorid=page.author %}
-      {% endfor %}
-      {% endcomment %}
-        <!-- cite post -->
-        <div class="post-credits__citation">
-            <span>Cite this post: </span>{{ authorstring | strip }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on
-<script>
-<!--
-var now = new Date();
-var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
-var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
-function fourdigits(number) {
-    return (number < 1000) ? number + 1900 : number;
-}
-today =  months[now.getMonth()] + " " +
-         date + ", " +
-         (fourdigits(now.getYear())) ;
-document.write(today);
--->
-</script>.
-        </div>
+	<footer class="post__credits">
+		{% for author in page.author %} <!-- if there is a listed author -->
+			{% include author-profile.html authorid=page.author %}
+		{% endfor %}
+		<div class="post-credits__citation">
+			<span>Cite this post: </span>{{ authorstring | strip }}. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on
+	<script>
+		<!--
+		var now = new Date();
+		var months = new Array('January','February','March','April','May','June','July','August','September','October',		'November','December');
+		var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+		function fourdigits(number) {
+		    return (number < 1000) ? number + 1900 : number;
+		}
+		today =  months[now.getMonth()] + " " +
+ 		        date + ", " +
+  		       (fourdigits(now.getYear())) ;
+		document.write(today);
+		-->
+	</script>.
+		</div>
+	</footer> <!-- end post footer -->
 
-    </footer> <!-- end post footer -->
+</div> <!-- end content -->
 </article> <!-- end post wrapper -->

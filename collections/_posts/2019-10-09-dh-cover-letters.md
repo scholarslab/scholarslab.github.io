@@ -6,6 +6,7 @@ date: 2019-10-09
 layout: post
 slug: dh-cover-letters
 title: "How We Talk and Write about DH Jobs"
+category: essay
 tags:
 - professional development
 crosspost:

@@ -4,6 +4,7 @@ date: 2020-01-29
 layout: post
 slug: digital-humanities-bread
 title: "A digital humanist can have a little bread, as a treat"
+category: essay
 tags:
 - fun
 crosspost:

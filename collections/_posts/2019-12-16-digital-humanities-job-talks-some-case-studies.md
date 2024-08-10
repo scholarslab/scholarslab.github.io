@@ -6,6 +6,7 @@ date: 2019-12-16
 layout: post
 slug: digital-humanities-job-talks
 title: "Digital Humanities Job Talks: Some Case Studies"
+category: essay
 tags:
 - professional development
 crosspost:

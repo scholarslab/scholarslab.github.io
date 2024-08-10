@@ -4,6 +4,7 @@ date: 2019-09-30
 layout: post
 slug: online-3d-content
 title: "Online Resources for 3D Content in VR/AR"
+category: essay
 tags:
 - parents fund
 - vr-ar

@@ -4,6 +4,7 @@ date: 2014-02-24 09:30:20+00:00
 layout: post
 slug: on-community-listening-3
 title: 'On Community Listening: 3'
+category: essay
 ---
 
 Check out my previous posts, [On Community Listening 1](https://scholarslab.org/grad-student-research/on-community-listening-2/) and [2](https://scholarslab.org/grad-student-research/on-community-listening-2/) for context.

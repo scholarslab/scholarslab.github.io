@@ -4,6 +4,7 @@ date: 2019-07-21
 layout: post
 slug: academic-writing-resources
 title: "LAMI Workshop Follow-Up: Academic Writing Resources"
+category: essay
 ---
 
 The Scholars' Lab recently held an academic writing workshop for students in the [LAMI](https://graddiversity.virginia.edu/U.Va.LAMI) program. We talked about the basic structure of scholarly articles and how to [create a research space](https://journals.sagepub.com/doi/pdf/10.1177/0741088387004002004?casa_token=4KDvnVFvjwYAAAAA:Y52bk2jneKQlsVXCtCVxrLXNZKJWdQZ9he1PVFx7dPeXPUWqfr6l8u3W9742CunnSAyhv9WhnfTIYw) using the [C.A.R.S.](https://libguides.usc.edu/writingguide/CARS) model. But we didn't dive into any of the digital resources that can make these tasks easier. This post briefly covers some of the things that did not make it into the workshop.

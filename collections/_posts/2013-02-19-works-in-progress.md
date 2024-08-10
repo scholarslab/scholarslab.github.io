@@ -4,6 +4,7 @@ date: 2013-02-19 10:10:42+00:00
 layout: post
 slug: works-in-progress
 title: 'Works in progress: Survey results, Praxis Network'
+category: essay
 crosspost:
   - title: my personal website
     url: http://wp.me/p2CaGd-g0

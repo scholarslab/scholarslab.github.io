@@ -4,6 +4,7 @@ date: 2019-10-29
 layout: post
 slug: in-the-world
 title: "To be out in the world, to be free!"
+category: essay
 tags:
 - wlu collab
 ---

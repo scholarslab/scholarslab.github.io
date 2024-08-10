@@ -4,6 +4,7 @@ date: 2021-11-04
 layout: post
 slug: the-romantics-didnt-want-me-to-code
 title: The Romantics Didn't Want Me To Code
+category: essay
 ---
 I have always been a creative person, an artist even. In undergrad I majored in creative writing and was in a punk band. I hated anything to do with numbers, science, computers, or making money. I saw myself as “not like other girls.” I read books like *The Catcher in the Rye* and *On the Road* and believed I identified with the male protagonists. I thought being suicidal made me an interesting person. I never thought I would do anything “digital” or learn to code.  
 

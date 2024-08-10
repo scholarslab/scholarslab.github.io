@@ -12,6 +12,7 @@ Footer
 Navigation
 Use the Lab page: weekly calendar hours styling
 /Makerspace page
+Individual post pages
 */
 
 /********************************************************************/
@@ -572,3 +573,82 @@ body.people .gallery {
     background-color: #f2d9ff;
     border-radius: 10px;
   }
+  
+/********************************************************************/
+/** Individual post pages */
+.post__credits {
+	position: relative;
+	grid-area: footer;
+	margin-top: 2em; // paragraph above has 1em by default
+	&::before {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 2px;
+		width: 33%;
+		background-color: rgba(0,0,0,.5);
+	}
+}
+
+.post-credits__author {
+	display: flex;
+	align-items: center;
+	padding-top: 1.5rem;
+}
+
+.post-author__image {
+	position: relative;
+	height: 64px;
+	width: 64px;
+	img {
+		max-height: 100%;
+		border-radius: 50%;
+	}
+}
+
+.post-author__name {
+	position: relative;
+	padding-left: 1rem;
+	opacity: .5;
+	a, #anonymous {
+		font-weight: 900;
+	}
+}
+
+.post-credits__citation {
+	position: relative;
+	font-family:  monospace;
+	font-weight: 200;
+	color: rgba(0,0,0,.5);
+	span {
+		display: block;
+		padding: 1.5rem 0 .5rem 0;
+		font-weight: 900;
+		line-height: 1;
+	}
+	a {
+		font-family: inherit !important;
+		font-weight: inherit;
+		color: inherit !important;
+		border: inherit !important;
+		word-break: break-word;
+	}
+}
+
+#migration-alert{
+    margin: 24px 0 -1em;
+    padding: 18px;
+    background: rgba(117,227,240,.325);
+}
+
+.post_crosspost{
+padding: 20px;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+.post_crosspost::before {
+	content: "\2192";
+}

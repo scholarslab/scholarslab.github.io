@@ -4,6 +4,7 @@ date: 2017-01-12 16:39:05+00:00
 layout: post
 slug: blippar-and-augmented-reality-literature
 title: Blippar and Augmented Reality Literature
+category: essay
 ---
 
 As I was writing about [Ruth Ozeki’s _A Tale for the Time Being_](http://scholarslab.org/hybrid-literature-ruth-ozekis-a-tale-for-the-time-being/) and the various technological innovations that Ozeki’s novel employs, I became increasingly interested in Blippar, an augmented reality application. Blippar is by no means restricted to literary projects, but as this is my primary interest, I naturally focused my search on ways in which literary works are incorporating augmented reality into their design. I found the results as fascinating as the implications are endless.

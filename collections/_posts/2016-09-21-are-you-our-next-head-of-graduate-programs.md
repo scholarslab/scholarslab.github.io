@@ -4,6 +4,7 @@ date: 2016-09-21 15:24:07+00:00
 layout: post
 slug: are-you-our-next-head-of-graduate-programs
 title: Are you our next Head of Graduate Programs?
+category: announcement
 ---
 
 "We build up people and practices more than products." That's part of our [charter](http://scholarslab.org/about/charter/), and the Head of Graduate Programs is essential to this mission.  We in the Scholars' Lab and University of Virginia Library are thrilled to alert you to the new job posting [https://jobs.virginia.edu/applicants/Central?quickFind=80148](https://jobs.virginia.edu/applicants/Central?quickFind=80148)

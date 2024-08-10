@@ -4,6 +4,7 @@ date: 2015-05-05 14:46:07+00:00
 layout: post
 slug: expanding-our-makerspace-community
 title: Expanding Our Makerspace Community
+category: announcement
 ---
 
 _Are you a UVA graduate student or upper-level undergraduate in the humanities?  Interested working in our Makerspace?_

@@ -4,6 +4,7 @@ date: 2014-02-20 11:27:10+00:00
 layout: post
 slug: software-development-for-the-ma-humanities-student
 title: Software Development for the MA Humanities Student
+category: essay
 ---
 
 This is _not_ a transcript of a brief panel talk I gave for the UVa [Graduate English Student Association](http://graduate.engl.virginia.edu/gesa/) Career Panel. It's based on what I hope to say, but I'm actually writing this before the event so it (and its links) can be available beforehand.

@@ -20,12 +20,12 @@ redirect_from:
 	{% endcapture %}
 <article class="post">
 	<header><hgroup>
-		<!-- updates have no page links, so checks category before displaying -->
+		<!-- updates have no page links, so check category before displaying -->
 		<!-- no slash in href b/c included in post.url -->
 		{% if post.category != "update" %}
 			<h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h2>
 		{% else %}
-			<h2>{{ post.date | date: "%B %-d, %Y" }} update: {{ post.title }}</h2>				
+			<h2>{{ post.date | date: "%B %-d, %Y" }} update: <a href="{{ post.url }}">{{ post.title }}</a></h2>				
 		{% endif %}
 	</hgroup></header>
 	<div class="content">

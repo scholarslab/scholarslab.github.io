@@ -7,6 +7,7 @@ date: 2019-06-28 14:50:35
 layout: post
 slug: archiving-dh-part-4-solutions
 title: "Archiving DH Part 4 - Solutions"
+category: essay
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2019/06/28/archiving-digital-humanities-solutions

@@ -4,6 +4,7 @@ date: 2019-08-07 10:37:46
 layout: post
 slug: five-verbs-for-open-pedagogy
 title: "Five Verbs for Open Pedagogy"
+category: essay
 tags:
 - pedagogy
 ---

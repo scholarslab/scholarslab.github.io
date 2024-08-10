@@ -4,6 +4,7 @@ date: 2009-02-04 15:04:12+00:00
 layout: post
 slug: on-asian-american-digital-identity-politics
 title: On “Asian American” Digital Identity Politics
+category: essay
 ---
 
 Everyday, I receive Google Alerts about any websites, blogs, or news feeds containing the keywords “Asian / American / music” in whatever order and combination that Google search engine finds. Most of the Alerts, unsurprisingly, point to stories related to U.S. politics. Interestingly, around the time of the 2008 Presidential Election, my InBox experienced a minor Google Alert “explosion” with news stories and criticisms listing all the color-based social groups, connecting Obama’s racial politics to the now dominant American ideology of multiculturalism. To my disappointment, none of these news stories included anything substantial information with regards to the Asian American (if there is such a thing) perspective on the Obama and Biden duo.  

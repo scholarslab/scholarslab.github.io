@@ -4,6 +4,7 @@ date: 2017-08-24 13:08:30+00:00
 layout: post
 slug: cfp-pmla-special-issue-varieties-of-digital-humanities
 title: 'CFP: PMLA Special Issue, Varieties of Digital Humanities'
+category: essay
 ---
 
 I want to call attention to the opportunity to publish your work in the leading journal in literary studies.  Miriam Posner and I will be co-editing a special issue on digital humanities, and we very much welcome varieties of approaches as well as topics.  _PMLA_ has a very strenuous and blind peer review process that gives ample feedback--usually, it's well worth this feedback even if excellent work, in the end, doesn't make the difficult cut.  But that also means, in other words, that it's not just up to the two of us to decide what will actually appear in the journal.  We would be happy to advise on the kinds of submissions you might send in.  Feel free to reach out at booth@virginia.edu.  Here is the CFP wording that appears at the above site, where you may find instructions on how to prepare and submit the 9000-word-maximum document file.

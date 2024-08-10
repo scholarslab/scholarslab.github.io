@@ -4,6 +4,7 @@ date: 2015-04-23 13:15:06+00:00
 layout: post
 slug: task-management-bullet-journal
 title: Task Management & Bullet Journal
+category: essay
 ---
 
 Confession: time management has always been a challenge for me. I'm easily distractable, and I'm exceptionally bad at attempting to do more than one thing at a time. When multiple "fires" get lit I lose most of my productivity on task switching and to overwhelm.

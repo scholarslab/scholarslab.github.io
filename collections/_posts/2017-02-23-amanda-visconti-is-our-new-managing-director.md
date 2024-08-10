@@ -4,6 +4,7 @@ date: 2017-02-23 13:40:13+00:00
 layout: post
 slug: amanda-visconti-is-our-new-managing-director
 title: Amanda Visconti Is Our New Managing Director
+category: announcement
 ---
 
 I am thrilled to announce yet more delightful news: Amanda Visconti will join the Library as Managing Director of the Scholars’ Lab.  We had terrific contenders for this position, and Amanda won us over!  She brings a high level of qualities seldom found in one person: intellectual commitments and depth, knowledge, and training in humanities; versatile and robust technical skills and experience collaborating on advanced digital research; immersion in the library world of information, teaching, service, and research; gifts in creative community building, especially through social media; imagination, integrity, and effective management.  She already practices the ethics and aims of our Charter, and will be a delightful co-director as DH@ UVA is developed into more coordinated collaboration across schools and entities, and into a curriculum with a certificate.

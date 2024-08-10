@@ -4,6 +4,7 @@ date: 2016-09-09 14:53:39+00:00
 layout: post
 slug: coming-soon-dhuva-conference-oct-1415-2016
 title: 'Coming soon: DH@UVA Conference Oct. 14&15, 2016'
+category: announcement
 ---
 
 After you enjoy NEH@50 celebrations, and in between this fall's workshops and speakers, come to an intimate conference on digital humanities, right here on Grounds, Friday and Saturday October 14 and 15, 2016.  We've been developing an interesting conference program aimed at building the DH community at UVA.  At this event we'll also be further introducing the design and purposes of the website (in development): [http://dh.virginia.edu/](http://dh.virginia.edu/).  This event's reflection on the present and future is a joint effort of ITS, the Library, Arts & Sciences, and the Provost's Office; [Scholars' Lab](http://scholarslab.org/), [IATH](http://www.iath.virginia.edu/), and [SHANT](http://shanti.virginia.edu/)I.

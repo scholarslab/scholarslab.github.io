@@ -1,5 +1,5 @@
 ---
-author: amanda-visconti
+author: scholars-lab
 date: 2017-09-18 08:51:03+00:00
 layout: post
 slug: welcome-new-dh-developer-zoe-leblanc

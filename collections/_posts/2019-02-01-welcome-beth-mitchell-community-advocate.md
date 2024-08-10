@@ -1,5 +1,5 @@
 ---
-author: amanda-visconti
+author: scholars-lab
 date: 2019-02-01 01:01:01
 layout: post
 slug: welcome-beth-mitchell-community-advocate

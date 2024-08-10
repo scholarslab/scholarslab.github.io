@@ -4,6 +4,7 @@ date: 2014-03-06 08:19:43+00:00
 layout: post
 slug: on-community-listening-4
 title: 'On Community Listening: 4'
+category: essay
 ---
 
 Check out my previous posts for context:

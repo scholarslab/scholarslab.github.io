@@ -74,10 +74,10 @@ layout: page
 
 
 <!-- list of blog posts by person -->
-		{% assign author_posts = site.posts | where: "author", page.slug %}
+		{% assign author_posts = site.posts | where: "author", page.slug | where: "category", "essay" %}
 
 		<div class="person__posts">
-			<h2 class="person-posts__title">All Posts by {{ page.first_name }}</h2>
+			<h2 class="person-posts__title">All Research Posts by {{ page.first_name }}</h2>
 			{% if author_posts.size >= 1 %}
 		    <ul class="person-posts__list">
 		    {% for post in author_posts %}
