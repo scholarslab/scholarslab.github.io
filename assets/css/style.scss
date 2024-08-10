@@ -104,7 +104,7 @@ h1,h2,h3,h4 {
 	font-family: var(--franklin-gothic-urw-comp);
 	text-transform: uppercase;
 	background-color: rgba(0,0,0,0.0325);
-	background-image: url('/assets/img/tiles/hypnotize.png');
+	background-image: url('/assets/img/decorative/tiles/hypnotize.png');
 	background-size:200px;
 	.home & {
 		min-height: 80vh;
@@ -284,7 +284,7 @@ h1,h2,h3,h4 {
 		justify-content: flex-end;
 		min-height: 30vh;
 		background-color: rgba(0,0,0,0.0325);
-		background-image: url('/assets/img/tiles/hypnotize.png');
+		background-image: url('/assets/img/decorative/tiles/hypnotize.png');
 		background-size:200px;
 
 		@media screen and (min-width: 900px) {
