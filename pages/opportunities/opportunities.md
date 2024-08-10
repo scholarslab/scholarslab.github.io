@@ -22,14 +22,16 @@ We strongly believe investment in the direct practice of experimental methods is
 
 Much of our work falls into the form of consultation, collaboration, and community- and expertise-building:
 
-1) **Consults**: As a UVA Library unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods. During your consult, we can help you:  
+## Consults
+As a UVA Library unit, we follow the model of reference librarian consultations and welcome everyone in the UVA community to meet with us for a brief consultation session around experimental methods. During your consult, we can help you:  
 - get started practicing experimental methods via the digital humanities, spatial technologies, and/or cultural heritage scholarship scholarly communities, e.g. connecting you to resources for self-teaching and our scholarly networks at UVA and internationally  
 - conceptualize and scope a project  
 - create or find, manage, and use data  
 - use our GIS software, virtual/augmented reality equipment, or humanities Makerspace  
 - review your ongoing work, such as critiquing your design and code  
 
-2) **Collaboration**: As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other UVA folks. Our decisions about longer-term research collaboration are based on the bandwidth, resources, skills, and interests/mission of all parties. Deeper resource investments benefit when all parties are familiar with the working style and values of collaborators. Therefore, most of our collaborations are outgrowths of previous involvement in our community, such as through short consultations or attending our events. 
+## Collaboration
+As scholars from a variety of disciplines, we also have (limited) availability for more in-depth research or pedagogical collaborations with other UVA folks. Our decisions about longer-term research collaboration are based on the bandwidth, resources, skills, and interests/mission of all parties. Deeper resource investments benefit when all parties are familiar with the working style and values of collaborators. Therefore, most of our collaborations are outgrowths of previous involvement in our community, such as through short consultations or attending our events. 
 
 - We build things _with_ people (e.g. as peer scholars, co-PIs on grant proposals), but we do not build things _for_ people.
 - We do not provide general design, web development, or technical services. We do our best to help folks stuck on technical questions during our regular Open Office Hours, and are happy to refer to expertise and facilities around UVA (e.g. DH@UVA, Research Data Services, Teaching & Learning team, Data Sciences Institute, IATH).  
@@ -38,7 +40,8 @@ Much of our work falls into the form of consultation, collaboration, and communi
 
 We love to work together with other folks at UVA and beyond! Our decisions about longer-term research collaboration are based on the bandwidth, resources, skills, and interests/mission of all parties, and are usually an outgrowth of shorter consultations and SLab community involvement. Please [contact us](mailto:scholarslab@virginia.edu) for an initial consult to discuss ideas. 
 
-3) **Community Lab**: In addition to the consultations and collaborations stated above, much of our time for in-depth work is spent on intentional community design...
+## Community Lab
+In addition to the consultations and collaborations stated above, much of our time for in-depth work is spent on intentional community design...
 - Providing GIS support to the entire university  
 - Innovating the mentorship and teaching of experimental approaches to scholarship, both in the library and in the field (e.g. via our ~60 formal student role opportunities each year)  
 - Piloting future Library and UVA initiatives like our Praxis Program (one of the historic UVA DH strengths behind the new DH graduate certificate)  
