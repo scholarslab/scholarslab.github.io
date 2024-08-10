@@ -1,15 +1,11 @@
 ---
-department: reseach_and_development
-email: None
 first_name: Eric
 last_name: Rochester
 layout: people
 title: Eric Rochester
 position: Senior Developer
-short_bio: ''
 slug: eric-rochester
 status: not_current
-twitter: erochest
 website: http://www.ericrochester.com/
 people-category:
 - student

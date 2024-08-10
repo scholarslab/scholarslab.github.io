@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Zoe
 last_name: Dudack
 layout: people
 name: Zoe Dudack
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: zoe-dudack
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -7,7 +7,6 @@ layout: people
 title: Jean Bauer
 position: PhD Candidate, Corcoran Department of History | Digital Humanities Fellow
   2008-2009
-short_bio: ''
 slug: jean-bauer
 status: not_current
 twitter: jean_bauer

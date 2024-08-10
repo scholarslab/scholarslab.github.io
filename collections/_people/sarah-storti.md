@@ -6,11 +6,9 @@ last_name: Storti
 layout: people
 title: Sarah Storti
 position: PhD Candidate, Department of English | Praxis Fellow 2011-2012
-short_bio: ''
 slug: sarah-storti
 status: not_current
 twitter: sarahannestorti
-website: None
 people-category:
 - student
 roles:

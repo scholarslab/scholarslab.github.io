@@ -1,16 +1,13 @@
 ---
 department: Anthropology
-email: None
 first_name: Elizabeth
 last_name: Bollwerk
 layout: people
 title: Elizabeth Bollwerk
 position:
-short_bio: ''
 slug: elizabeth-bollwerk
 status: not_current
 twitter: eboolwer
-website: None
 people-category:
 - student
 roles:

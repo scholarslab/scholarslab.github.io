@@ -1,6 +1,5 @@
 ---
 department: Art
-email: None
 first_name: Ben
 last_name: Gorham
 layout: people
@@ -9,8 +8,6 @@ position:
 short_bio:
 slug: ben-gorham
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

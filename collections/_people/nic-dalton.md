@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Nic
 last_name: Dalton
 layout: people
@@ -9,8 +7,6 @@ position:
 short_bio:
 slug: nic-dalton
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

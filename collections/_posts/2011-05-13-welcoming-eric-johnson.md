@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2011-05-13 14:18:42+00:00
 layout: post
 slug: welcoming-eric-johnson

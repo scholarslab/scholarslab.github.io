@@ -1,15 +1,12 @@
 ---
-department: reseach_and_development
 email: wsg4w@virginia.edu
 first_name: Wayne
 last_name: Graham
 layout: people
 title: Wayne Graham
 position: Head, Research & Development
-short_bio: ''
 slug: wayne-graham
 status: not_current
-twitter: wayne_graham
 website: http://waynegraham.github.io
 people-category:
 - staff

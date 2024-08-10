@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Megan
 last_name: Masri
 layout: people
@@ -9,8 +7,6 @@ position: Makerspace Technologist
 short_bio:
 slug: megan-masri
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

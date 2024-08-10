@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Joel
 last_name: Rhone
 layout: people
 title: Joel Rhone
 position:
-short_bio: ''
 slug: joel-rhone
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

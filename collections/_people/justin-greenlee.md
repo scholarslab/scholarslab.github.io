@@ -6,11 +6,8 @@ last_name: Greenlee
 layout: people
 title: Justin Greenlee
 position:
-short_bio: ''
 slug: justin-greenlee
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

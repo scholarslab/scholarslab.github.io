@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Clara
 last_name: Ma
 layout: people
 name: Clara Ma
-position: None
 short_bio: 'Clara Ma is a Makerspace Technologist and PHD+ Liaison in Digital Humanities.'
 slug: clara-ma
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -1,12 +1,10 @@
 ---
-department: None
 email: tclement@ischool.utexas.edu
 first_name: Tanya
 last_name: Clement
 layout: people
 title: Tanya Clement
 position:
-short_bio: ''
 slug: tanya-clement
 status: not_current
 twitter: tanyaclement

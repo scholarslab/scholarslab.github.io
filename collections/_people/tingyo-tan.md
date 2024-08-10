@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Tingyo
 last_name: Tan
 layout: people
@@ -9,8 +7,6 @@ position:
 short_bio:
 slug: tingyo-tan 
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Abhishek
 last_name: Gupta
 layout: people
 name: Abhishek Gupta
-position: None
 short_bio: 'Abhishek Gupta is an undergraduate student in the School of Engineering.'
 slug: abhishek-gupta
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

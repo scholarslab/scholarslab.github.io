@@ -1,5 +1,4 @@
 ---
-department: None
 email: lam2c@virginia.edu
 first_name: Laura
 last_name: Miller
@@ -10,7 +9,6 @@ short_bio: "Laura Miller is the Assistant Director for Scholars' Lab Public Serv
 slug: laura-miller
 status: current
 twitter: martofmiller
-website: None
 people-category:
 - director
 roles:

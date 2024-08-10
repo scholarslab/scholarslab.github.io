@@ -1,6 +1,5 @@
 ---
 department: Spanish
-email: None
 first_name: Catherine
 last_name: Addington
 layout: people
@@ -9,8 +8,6 @@ position:
 short_bio:
 slug: catherine-addington
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

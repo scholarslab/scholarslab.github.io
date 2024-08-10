@@ -1,16 +1,12 @@
 ---
-department: None
-email: None
 first_name: Lilybeth
 last_name: Shields
 layout: people
 title: Lilybeth Shields
 position:
-short_bio: ''
 slug: lilybeth-shields
 status: not_current
 twitter: lilyonalillypad
-website: None
 people-category:
 - student
 roles:

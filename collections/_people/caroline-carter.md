@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Caroline
 last_name: Carter
 layout: people
 name: Caroline Carter
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: caroline-carter
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

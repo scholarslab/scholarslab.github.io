@@ -1,6 +1,5 @@
 ---
 department: Architecture
-email: None
 first_name: Meghan
 last_name: Page
 layout: people
@@ -9,8 +8,6 @@ position: CHI Intern
 short_bio:
 slug: meghan-page
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

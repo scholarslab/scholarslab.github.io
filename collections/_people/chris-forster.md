@@ -6,7 +6,6 @@ last_name: Forster
 layout: people
 title: Chris Forster
 position: Digital Humanities Fellow 2007-2008
-short_bio: ''
 slug: chris-forster
 status: not_current
 twitter: cforster

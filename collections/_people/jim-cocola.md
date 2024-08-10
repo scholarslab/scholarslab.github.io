@@ -6,11 +6,8 @@ last_name: Cocola
 layout: people
 title: Jim Cocola
 position: Digital Humanities Fellow 2007-2008
-short_bio: ''
 slug: jim-cocola
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

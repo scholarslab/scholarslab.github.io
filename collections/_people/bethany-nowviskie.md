@@ -1,15 +1,12 @@
 ---
-department: administration
 email: bethany@virginia.edu
 first_name: Bethany
 last_name: Nowviskie
 layout: people
 title: Bethany Nowviskie
 position: Director
-short_bio: ''
 slug: bethany-nowviskie
 status: not_current
-twitter: nowviskie
 website: http://nowviskie.org/
 people-category:
 - staff

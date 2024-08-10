@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Anthony
 last_name: Velázquez
 layout: people
 title: Anthony Velázquez
 position:
-short_bio: ''
 slug: anthony-velazquez
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

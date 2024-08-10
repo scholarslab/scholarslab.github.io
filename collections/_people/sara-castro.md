@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Sara
 last_name: Castro
 layout: people
 title: Sara Castro
 position:
-short_bio: ''
 slug: sara-castro
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

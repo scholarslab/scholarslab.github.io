@@ -1,5 +1,4 @@
 ---
-department: None
 email: scholarslab@virginia.edu
 first_name: Scholars'
 last_name: Lab

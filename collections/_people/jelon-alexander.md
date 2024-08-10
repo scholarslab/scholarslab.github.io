@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Je'lon
 last_name: Alexander
 layout: people
 title: Je'lon Alexander
 position:
-short_bio: ''
 slug: jelon-alexander
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

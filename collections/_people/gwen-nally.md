@@ -6,11 +6,8 @@ last_name: Nally
 layout: people
 title: Gwen Nally
 position: PhD Candidate, Department of Philosophy | Praxis Fellow 2012-2013
-short_bio: ''
 slug: gwen-nally
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

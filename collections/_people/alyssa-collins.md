@@ -6,7 +6,6 @@ last_name: Collins
 layout: people
 title: Alyssa Collins
 position: Prototyping Fellow
-short_bio: ''
 slug: alyssa-collins
 status: not_current
 twitter: LyssaDee

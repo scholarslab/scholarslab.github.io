@@ -7,11 +7,9 @@ layout: people
 title: Matt Munson
 position: PhD Candidate, Department of Religious Studies | Digital Humanities Fellow
   2009-2010
-short_bio: ''
 slug: matt-munson
 status: not_current
 twitter: sonofmun
-website: None
 people-category:
 - student
 roles:

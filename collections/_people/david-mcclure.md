@@ -1,16 +1,10 @@
 ---
-department: reseach_and_development
-email: None
 first_name: David
 last_name: McClure
 layout: people
 title: David McClure
-position:
-short_bio: ''
 slug: david-mcclure
 status: not_current
-twitter: clured
-website: None
 people-category:
 - student
 roles:

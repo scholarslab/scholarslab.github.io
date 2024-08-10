@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2013-10-17 08:33:40+00:00
 layout: post
 slug: welcoming-purdom-lindblad-laura-miller

@@ -1,5 +1,4 @@
 ---
-department: None
 email: rag9b@virginia.edu
 first_name: Ronda
 last_name: Grizzle
@@ -10,7 +9,6 @@ short_bio: 'Ronda Grizzle manages projects, teaches digital tools, and tries not
 slug: ronda-grizzle
 status: current
 twitter: rondauva
-website: None
 people-category:
 - staff
 roles:

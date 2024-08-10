@@ -1,5 +1,4 @@
 ---
-department: None
 first_name: Zoe
 last_name: LeBlanc
 layout: people
@@ -7,9 +6,6 @@ title: Zoe LeBlanc
 position: Digital Humanities Developer
 slug: zoe-leblanc
 status: not_current
-twitter: None
-website: None
-email: None
 people-category:
 - staff
 roles:

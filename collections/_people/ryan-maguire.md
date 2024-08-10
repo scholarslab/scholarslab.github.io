@@ -1,6 +1,5 @@
 ---
 department: Music
-email: None
 first_name: Ryan
 last_name: Maguire
 layout: people
@@ -9,8 +8,6 @@ position:
 short_bio:
 slug: ryan-maguire
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

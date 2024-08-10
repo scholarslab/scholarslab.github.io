@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Leah
 last_name: Phan
 layout: people
@@ -9,8 +7,6 @@ position: TinkerTank Technologist
 short_bio:
 slug: leah-phan
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

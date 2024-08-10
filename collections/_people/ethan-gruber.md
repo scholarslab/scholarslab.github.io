@@ -1,16 +1,12 @@
 ---
-department: None
-email: None
 first_name: Ethan
 last_name: Gruber
 layout: people
 title: Ethan Gruber
 position: Web Applications Developer
-short_bio: ''
 slug: ethan-gruber
 status: not_current
 twitter: ewg118
-website: None
 people-category:
 - staff
 roles:

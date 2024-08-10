@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Joseph
 last_name: Foley
 layout: people
 name: Joseph Foley
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: joseph-foley
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

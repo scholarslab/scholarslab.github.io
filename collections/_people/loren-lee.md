@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Loren
 last_name: Lee
 layout: people
 name: Loren Lee
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: loren-lee
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

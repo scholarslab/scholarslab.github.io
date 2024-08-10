@@ -1,17 +1,12 @@
 ---
-department: None
-email: None
 first_name: Cassondra
 last_name: Hanna
 layout: people
 location: None
 title: Cassondra Hanna
-position: None
 short_bio: "Cassondra is a rising Sophomore at Fisk University in Nashville, Tennessee and a 2018 LAMI Scholar."
 slug: cassondra-hanna
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -3,7 +3,7 @@ layout: update
 date: 2024-05-31
 category: update
 title: "Lab article publication"
-people:
+author:
 - brandon-walsh
 - winnie-pérez-martínez
 - malcolm-cammeron

@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Alexa
 last_name: Luborsky
 layout: people
@@ -9,8 +7,6 @@ position:
 short_bio:
 slug: alexa-luborsky
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

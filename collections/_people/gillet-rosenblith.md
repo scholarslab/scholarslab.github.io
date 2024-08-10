@@ -6,11 +6,9 @@ last_name: Rosenblith
 layout: people
 title: Gillet Rosenblith
 position:
-short_bio: ''
 slug: gillet-rosenblith
 status: not_current
 twitter: gilletgr
-website: None
 people-category:
 - student
 roles:

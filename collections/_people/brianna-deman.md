@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Brianna
 last_name: DeMan
 layout: people
 name: Brianna DeMan
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: brianna-deman
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -1,16 +1,13 @@
 ---
-department: None
 email: purdom@virginia.edu
 first_name: Purdom
 last_name: Lindblad
 layout: people
 title: Purdom Lindblad
 position: Head of Graduate Programs
-short_bio: ''
 slug: purdom-lindblad
 status: not_current
 twitter: Purdom_L
-website: None
 people-category:
 - staff
 roles:

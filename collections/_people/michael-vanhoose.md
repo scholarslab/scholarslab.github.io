@@ -1,14 +1,10 @@
 ---
-department: None
-email: None
 first_name: Michael
 last_name: VanHoose
 layout: people
 name: Michael VanHoose
-position: None
 slug: michael-vanhoose
 status: not_current
-website: None
 people-category:
 - student
 roles:

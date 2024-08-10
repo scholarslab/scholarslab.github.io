@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Gramond
 last_name: Mcpherson
 layout: people
 name: Gramond Mcpherson
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: gramond-mcpherson
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Jordan
 last_name: Phan
 layout: people
@@ -9,8 +7,6 @@ position: Makerspace Technologist
 short_bio:
 slug: Jordan-phan
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

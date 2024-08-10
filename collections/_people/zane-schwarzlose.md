@@ -1,16 +1,12 @@
 ---
-department: None
 email: zaneryans@gmail.com
 first_name: Zane
 last_name: Schwarzlose
 layout: people
 title: Zane Schwarzlose
 position:
-short_bio: ''
 slug: zane-schwarzlose
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -6,11 +6,9 @@ last_name: Boyd
 layout: people
 title: Amy Boyd
 position:
-short_bio: ''
 slug: amy-boyd
 status: not_current
 twitter: MsABoyd
-website: None
 people-category:
 - student
 roles:

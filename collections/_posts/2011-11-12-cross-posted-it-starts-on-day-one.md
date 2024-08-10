@@ -13,7 +13,7 @@ crosspost:
     url: http://nowviskie.org/2011/it-starts-on-day-one/
 ---
 
-(This is a brief essay related to the Scholars' Lab's Praxis Program)
+(This is a brief essay related to the Scholars' Lab's Praxis Program.)
 Here's a modest proposal for reforming higher education in the humanities and creating a generation of knowledge workers prepared not only to teach, research, and communicate in 21st-century modes, but to govern 21st-century institutions.  
 
 First, kill all the grad-level methods courses.

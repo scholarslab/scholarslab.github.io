@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Kroesna
 last_name: Chour
 layout: people
@@ -9,8 +7,6 @@ position: Makerspace Technologist
 short_bio:
 slug: kroesna-chour 
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

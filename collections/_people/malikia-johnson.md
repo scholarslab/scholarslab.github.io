@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Malikia
 last_name: Johnson
 layout: people
 title: Malikia Johnson
 position:
-short_bio: ''
 slug: malikia-johnson
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

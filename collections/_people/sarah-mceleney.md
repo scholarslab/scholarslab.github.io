@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Sarah
 last_name: McEleney
 layout: people
 title: Sarah McEleney
 position:
-short_bio: ''
 slug: sarah-mceleney
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

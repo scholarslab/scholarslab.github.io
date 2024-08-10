@@ -6,7 +6,6 @@ last_name: Gil
 layout: people
 title: Alex Gil
 position: Praxis Fellow 2011-2012
-short_bio: ''
 slug: alex-gil
 status: not_current
 twitter: elotroalex

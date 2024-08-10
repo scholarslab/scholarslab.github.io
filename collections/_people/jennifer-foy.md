@@ -6,11 +6,9 @@ last_name: Foy
 layout: people
 title: Jennifer Foy
 position:
-short_bio: ''
 slug: jennifer-foy
 status: not_current
 twitter: JennyAFoy
-website: None
 people-category:
 - student
 roles:

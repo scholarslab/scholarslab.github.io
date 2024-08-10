@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2010-10-15 16:19:42+00:00
 layout: post
 slug: open-access-week-events

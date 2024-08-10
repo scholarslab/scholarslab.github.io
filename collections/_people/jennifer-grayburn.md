@@ -6,11 +6,8 @@ last_name: Grayburn
 layout: people
 title: Jennifer Grayburn
 position:
-short_bio: ''
 slug: jennifer-grayburn
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

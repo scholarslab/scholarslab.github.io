@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2011-03-25 13:05:43+00:00
 layout: post
 slug: welcoming-jeremy-boggs

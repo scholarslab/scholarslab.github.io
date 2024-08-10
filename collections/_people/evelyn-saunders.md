@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Evelyn
 last_name: Saunders
 layout: people
 name: Evelyn Saunders
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: evelyn-saunders
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

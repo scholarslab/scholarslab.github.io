@@ -6,11 +6,9 @@ last_name: Gjata
 layout: people
 title: Joris Gjata
 position:
-short_bio: ''
 slug: joris-gjata
 status: not_current
 twitter: jorisgjata
-website: None
 people-category:
 - student
 roles:

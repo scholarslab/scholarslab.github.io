@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2012-01-25 11:19:34+00:00
 layout: post
 slug: sci-opening

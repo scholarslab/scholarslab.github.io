@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Kaitlin
 last_name: Mitchell
 layout: people
 title: Kaitlin Mitchell
 position:
-short_bio: ''
 slug: kaitlin-mitchell
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

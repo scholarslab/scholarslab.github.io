@@ -1,16 +1,12 @@
 ---
 department: English
-email: None
 first_name: Elizabeth
 last_name: Fox
 layout: people
 title: Elizabeth Fox
 position:
-short_bio: ''
 slug: elizabeth-fox
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Matt
 last_name: Ford
 layout: people
 title: Matt Ford
 position:
-short_bio: ''
 slug: matt-ford
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

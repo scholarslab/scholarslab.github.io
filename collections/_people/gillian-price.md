@@ -6,11 +6,8 @@ last_name: Price
 layout: people
 title: Gillian Price
 position: Student Assistant
-short_bio: ''
 slug: gillian-price
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

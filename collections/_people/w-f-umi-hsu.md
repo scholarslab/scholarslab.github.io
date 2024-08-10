@@ -6,7 +6,6 @@ last_name: Hsu
 layout: people
 title: "Umi Hsu"
 position: Digital Humanities Fellow 2009-2010
-short_bio: ''
 slug: w-f-umi-hsu
 status: not_current
 twitter: wfumihsu

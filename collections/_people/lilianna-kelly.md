@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Lilianna
 last_name: Kelly
 layout: people
 name: Lilianna Kelly
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: lilianna-kelly
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

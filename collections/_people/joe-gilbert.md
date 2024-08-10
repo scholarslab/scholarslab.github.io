@@ -1,16 +1,12 @@
 ---
-department: None
-email: None
 first_name: Joe
 last_name: Gilbert
 layout: people
 title: Joe Gilbert
 position: User Experience Web Developer
-short_bio: ''
 slug: joe-gilbert
 status: not_current
 twitter: joegilbert
-website: None
 people-category:
 - staff
 roles:

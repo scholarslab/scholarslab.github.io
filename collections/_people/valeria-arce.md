@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Valeria
 last_name: Arce
 layout: people
 title: Valeria Arce
 position:
-short_bio: ''
 slug: valeria-arce
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

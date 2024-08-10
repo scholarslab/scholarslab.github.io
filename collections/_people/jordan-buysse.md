@@ -6,11 +6,8 @@ last_name: Buysse
 layout: people
 title: Jordan Buysse
 position:
-short_bio: ''
 slug: jordan-buysse
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:  

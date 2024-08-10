@@ -6,11 +6,8 @@ last_name: Robertson
 layout: people
 title: Wendy Robertson
 position:
-short_bio: ''
 slug: wendy-robertson
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

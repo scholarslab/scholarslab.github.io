@@ -6,11 +6,9 @@ last_name: Swafford
 layout: people
 title: Annie Swafford
 position: 2012-2013 Scholars' Lab Fellow | 2011-12 Praxis Fellow
-short_bio: ''
 slug: annie-swafford
 status: not_current
 twitter: annieswafford
-website: None
 people-category:
 - student
 roles:

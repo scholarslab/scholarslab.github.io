@@ -1,6 +1,5 @@
 ---
 department: Music
-email: None
 first_name: Tanner
 last_name: Greene
 layout: people
@@ -9,8 +8,6 @@ position:
 short_bio: 'Tanner Greene is a PhD student in the Department of Music’s Critical and Comparative Studies program. He’s awesome.'
 slug: tanner-greene
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

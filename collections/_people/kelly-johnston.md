@@ -1,16 +1,11 @@
 ---
-department: gis_data
-email: None
 first_name: Kelly
 last_name: Johnston
 layout: people
 title: Kelly Johnston
 position: GIS Specialist
-short_bio: ''
 slug: kelly-johnston
 status: not_current
-twitter: KellyGJohnston
-website: None
 people-category:
 - staff
 roles:

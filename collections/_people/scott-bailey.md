@@ -6,7 +6,6 @@ last_name: Bailey
 layout: people
 title: Scott Bailey
 position: Digital Humanities Developer
-short_bio: ''
 slug: scott-bailey
 status: not_current
 twitter: csbailey5t

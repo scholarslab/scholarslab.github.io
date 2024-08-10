@@ -1,16 +1,12 @@
 ---
 department: Spanish
-email: None
 first_name: Nora
 last_name: Benedict
 layout: people
 title: Nora Benedict
 position:
-short_bio: ''
 slug: nora-benedict
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

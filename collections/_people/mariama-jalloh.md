@@ -1,17 +1,12 @@
 ---
-department: None
-email: None
 first_name: Mariama
 last_name: Jalloh
 layout: people
 location: None
 title: Mariama Jalloh
-position: None
 short_bio: "Mariama Jalloh is a rising Senior at Spelman College and 2018 LAMI Fellow."
 slug: mariama-jalloh
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

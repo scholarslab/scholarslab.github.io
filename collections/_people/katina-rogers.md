@@ -1,12 +1,9 @@
 ---
-department: None
-email: None
 first_name: Katina
 last_name: Rogers
 layout: people
 title: Katina Rogers
 position: Senior Research Specialist, Scholarly Communication Institute
-short_bio: ''
 slug: katina-rogers
 status: not_current
 twitter: katinalynn

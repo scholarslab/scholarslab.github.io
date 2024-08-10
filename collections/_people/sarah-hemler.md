@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Sarah
 last_name: Hemler
 layout: people
@@ -9,8 +7,6 @@ position:
 short_bio:
 slug: sarah-hemler 
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Yejun
 last_name: Kim
 layout: people
@@ -9,8 +7,6 @@ position: Makerspace Technologist
 short_bio:
 slug: yejun-tim
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

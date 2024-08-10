@@ -7,11 +7,9 @@ layout: people
 title: Tom Finger
 position: PhD Candidate, Corcoran Department of History | Digital Humanities Fellow
   2010-2011
-short_bio: ''
 slug: tom-finger
 status: not_current
 twitter: Thomas_D_Finger
-website: None
 people-category:
 - student
 roles:

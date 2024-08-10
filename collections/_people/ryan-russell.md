@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Ryan
 last_name: Russell
 layout: people
 title: Ryan Russell
 position:
-short_bio: ''
 slug: ryan-russell
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

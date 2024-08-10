@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Victoria
 last_name: Juarez
 layout: people
 title: Victoria Juarez
 position:
-short_bio: ''
 slug: victoria-juarez
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

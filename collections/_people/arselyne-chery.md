@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Arselyne
 last_name: Chery
 layout: people
 name: Arselyne Chery
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: arselyne-chery
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

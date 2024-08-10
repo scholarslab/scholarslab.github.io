@@ -6,11 +6,9 @@ last_name: O’Connor
 layout: people
 title: Lindsay O’Connor
 position: PhD Candidate, Department of English | Praxis Fellow 2011-2012
-short_bio: ''
 slug: lindsay-oconnor
 status: not_current
 twitter: Lindsay0h
-website: None
 people-category:
 - student
 roles:

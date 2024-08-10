@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2010-11-23 14:08:33+00:00
 layout: post
 slug: humanities-design-ux-architect

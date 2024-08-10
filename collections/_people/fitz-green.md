@@ -1,16 +1,13 @@
 ---
-department: None
 email: fitz@studycenter.net
 first_name: Fitz
 last_name: Green
 layout: people
 title: Fitz Green
 position:
-short_bio: ''
 slug: fitz-green
 status: not_current
 twitter: fitz_green
-website: None
 people-category:
 - student
 roles:

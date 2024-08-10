@@ -6,11 +6,9 @@ last_name: Lestock
 layout: people
 title: Brooke Lestock
 position: Praxis Fellow 2011-2012
-short_bio: ''
 slug: brooke-lestock
 status: not_current
 twitter: BrookeLestock
-website: None
 people-category:
 - student
 roles:

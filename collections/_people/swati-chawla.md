@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Swati
 last_name: Chawla
 layout: people
 title: Swati Chawla
 position:
-short_bio: ''
 slug: swati-chawla
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

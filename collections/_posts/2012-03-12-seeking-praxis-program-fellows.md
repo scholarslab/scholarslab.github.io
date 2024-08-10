@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2012-03-12 13:06:49+00:00
 layout: post
 slug: seeking-praxis-program-fellows

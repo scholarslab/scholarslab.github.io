@@ -1,6 +1,5 @@
 ---
 department: Art and Architectural History
-email: None
 first_name: Eleanore
 last_name: Neumann
 layout: people
@@ -9,8 +8,6 @@ position:
 short_bio:
 slug: eleanore-neumann
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

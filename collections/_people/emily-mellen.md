@@ -1,6 +1,5 @@
 ---
 department: Music
-email: None
 first_name: Emily
 last_name: Mellen
 layout: people
@@ -9,8 +8,6 @@ position:
 short_bio:
 slug: emily-mellen
 status: not_current
-twitter: None
-website: None
 people-category:
   - student
 roles:

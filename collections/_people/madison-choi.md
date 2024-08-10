@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Madison
 last_name: Choi
 layout: people
 title: Madison Choi
 position:
-short_bio: ''
 slug: madison-choi
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

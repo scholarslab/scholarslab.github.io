@@ -10,7 +10,6 @@ short_bio: 'Shane Lin, Senior Developer, randomly presses buttons on his keyboar
 slug: shane-lin
 status: current
 twitter: shane-et-al
-website: None
 people-category:
 - staff
 roles:

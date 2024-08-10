@@ -1,6 +1,5 @@
 ---
 department: Architecture
-email: None
 first_name: Amelia
 last_name: Hughes
 layout: people
@@ -9,8 +8,6 @@ position: CHI Intern
 short_bio:
 slug: amelia-hughes
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

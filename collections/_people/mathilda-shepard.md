@@ -1,6 +1,5 @@
 ---
 department: Spanish
-email: None
 first_name: Mathilda
 last_name: Shepard
 layout: people
@@ -9,8 +8,6 @@ position:
 short_bio:
 slug: mathilda-shepard
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:  

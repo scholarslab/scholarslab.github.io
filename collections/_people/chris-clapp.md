@@ -6,11 +6,8 @@ last_name: Clapp
 layout: people
 title: Chris Clapp
 position: PhD Candidate, Department of Economics | Digital Humanities Fellow 2010-2011
-short_bio: ''
 slug: chris-clapp
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

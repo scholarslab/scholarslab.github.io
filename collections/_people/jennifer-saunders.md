@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Jennifer
 last_name: Saunders
 layout: people
 name: Jennifer Saunders
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: jennifer-saunders
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

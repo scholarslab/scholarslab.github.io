@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Kerwin
 last_name: Holmes, Jr.
 layout: people
 title: Kerwin Holmes, Jr.
 position:
-short_bio: ''
 slug: kerwin-holmes-jr
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

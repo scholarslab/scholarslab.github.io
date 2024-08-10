@@ -7,11 +7,8 @@ layout: people
 title: Randi Lewis
 position: PhD Candidate, Corcoran Department of History | Digital Humanities Fellow
   2011-2012
-short_bio: ''
 slug: randi-lewis
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

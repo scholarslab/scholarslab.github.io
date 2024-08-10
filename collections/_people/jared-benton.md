@@ -7,11 +7,8 @@ layout: people
 title: Jared Benton
 position: PhD Candidate, McIntire Department of Art & Architecture | Digital Humanities
   Fellow 2010-2011
-short_bio: ''
 slug: jared-benton
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

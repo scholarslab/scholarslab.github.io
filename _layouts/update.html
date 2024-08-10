@@ -13,13 +13,13 @@ layout: default
 </header> <!-- end metadata -->
 
 <!-- text of post -->
-{% capture authorstring %}{% include author-name.html authorid=page.people %}{% endcapture %}
+{% capture authorstring %}{% include author-name.html authorid=page.author %}{% endcapture %}
 
 <div class="content">
 	{{ content }}
 
-	{% if page.people %}
-		<span class="post-credits__citation"><p><em>This update involves the following Scholars' Lab folks:</em> {{ authorstring | strip }}</p></span>
+	{% if page.author %}
+		<span class="post-credits__citation"><p><em>This update involves the following Scholars' Lab folks:</em><br>{{ authorstring | strip }}</p></span>
 	{% endif %}
 </div>
 

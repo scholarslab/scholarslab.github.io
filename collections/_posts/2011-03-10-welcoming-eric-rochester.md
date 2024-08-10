@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2011-03-10 11:04:41+00:00
 layout: post
 slug: welcoming-eric-rochester

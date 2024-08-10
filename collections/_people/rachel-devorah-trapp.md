@@ -7,10 +7,8 @@ last_name: Trapp
 layout: people
 title: Rachel Devorah Trapp
 position: Rachel Devorah Trapp
-short_bio: ''
 slug: rachel-devorah-trapp
 status: not_current
-twitter: None
 website: http://racheldevorah.studio/
 people-category:
 - student

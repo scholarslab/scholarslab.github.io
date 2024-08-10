@@ -6,11 +6,8 @@ last_name: Lewis
 layout: people
 title: Steven Lewis
 position:
-short_bio: ''
 slug: steven-lewis
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

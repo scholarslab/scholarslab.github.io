@@ -4,14 +4,15 @@
 Variables
 General Styles
 Site Banner
+Navigation
+Footer
 Main content for all pages
 Homepage Styles
 Projects browse
 People browse
-Footer
-Navigation
+Individual people (bio) pages
 Use the Lab page: weekly calendar hours styling
-/Makerspace page
+/makerspace page
 Individual post pages
 */
 
@@ -125,6 +126,149 @@ h1,h2,h3,h4 {
 
 #slab-logo {
 	text-decoration:none;
+}
+
+/********************************************************************/
+/* Navigation */
+#global-navigation {
+	ul {
+		display: none;
+		flex-direction: column;
+		list-style: none;
+		padding: 0;
+		width: 100%;
+		min-width: max-content;
+		font-size: 1rem;
+	}
+
+	li {
+		padding: 0;
+		min-width: min-content;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+	}
+
+	button {
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: none;
+		color: black;
+		outline:none;
+		border:none;
+		font-size: 1.5rem;
+	}
+
+	a {
+		display:flex;
+		align-items: center;
+		text-decoration:none;
+		&:link,
+		&:visited {
+		}
+
+		&:hover,
+		&:focus,
+		&:active {
+		}
+	}
+
+	a,
+	button {
+		flex: 1 1;
+		justify-content: space-between;
+		gap: var(1rem, 1.5rem);
+	}
+
+	.dropdown-toggle {
+		flex-shrink: 1;
+		flex-grow: 0;
+		&::after {
+			display: flex;
+			content: "▾";
+			align-items: center;
+			justify-content: center;
+			transition: transform 300ms ease;
+		}
+
+		&[aria-expanded="true"]::after {
+			transform: rotate(-180deg);
+		}
+	}
+	.hide {
+		display: none !important;
+	}
+
+	.show {
+		display: flex !important;
+		opacity: 1;
+	}
+
+	.transitioning {
+		display: flex !important;
+		opacity: 0;
+	}
+}
+
+@media screen and (min-width: 900px) {
+
+.menu-toggle {
+	display: none !important;
+}
+
+#scholarslab-header {
+	display:flex;
+	flex-direction: row;
+	flex-wrap:nowrap;
+	justify-content: space-between;
+	padding: 1rem;
+}
+
+#global-navigation {
+	.dropdown-toggle {
+		display:none;
+	}
+
+ 	ul,
+	> ul.hide {
+	display: flex !important;
+	flex-direction: row;
+	justify-content: space-between;
+    margin: 0;
+		li {
+			padding: 0 0 0 1rem;
+			ul {
+			position: absolute;
+			top: 3rem;
+			right:0;
+			width:fit-content;
+			justify-content: flex-end;
+			}
+		}
+	}
+	ul.show {
+		background: white;
+		padding: 1rem !important;
+		position:absolute;
+		li {
+			display:inline !important;
+		}
+
+	}
+}
+
+}
+
+/********************************************************************/
+/* Footer */
+#footer {
+	padding: 1rem;
+	p {
+		margin:0;
+	}
+
 }
 
 /********************************************************************/
@@ -276,6 +420,7 @@ section.feature {
 	margin:0;
 }
 
+/********************************************************************/
 /* People browse */
 body.people .gallery {
 	display:flex;
@@ -326,146 +471,33 @@ body.people .gallery {
 	}
 }
 
-/* Footer */
-#footer {
-	padding: 1rem;
-	p {
-		margin:0;
-	}
-
-}
-
 /********************************************************************/
-/* Navigation */
-#global-navigation {
-	ul {
-		display: none;
-		flex-direction: column;
-		list-style: none;
-		padding: 0;
-		width: 100%;
-		min-width: max-content;
-		font-size: 1rem;
-	}
-
-	li {
-		padding: 0;
-		min-width: min-content;
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: flex-start;
-	}
-
-	button {
-		cursor: pointer;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		background: none;
-		color: black;
-		outline:none;
-		border:none;
+/** Individual people (bio) pages */
+.bio-stats-box {
+	position: relative;
+	border: 4px solid magenta;
+	font-family:  monospace;
+	font-size: 20px;
+	margin-top: calc(2em + 4px);
+	padding: .5em 1em;
+	div {
+		position: absolute;
+		font-family: "Oswald", sans-serif;
 		font-size: 1.5rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		text-align: left;
+		line-height: 1;
+		transform: translate(-1em, calc(-1.5em - 4px));
 	}
-
-	a {
-		display:flex;
-		align-items: center;
-		text-decoration:none;
-		&:link,
-		&:visited {
-		}
-
-		&:hover,
-		&:focus,
-		&:active {
-		}
-	}
-
-	a,
-	button {
-		flex: 1 1;
-		justify-content: space-between;
-		gap: var(1rem, 1.5rem);
-	}
-
-	.dropdown-toggle {
-		flex-shrink: 1;
-		flex-grow: 0;
-		&::after {
-			display: flex;
-			content: "▾";
-			align-items: center;
-			justify-content: center;
-			transition: transform 300ms ease;
-		}
-
-		&[aria-expanded="true"]::after {
-			transform: rotate(-180deg);
-		}
-	}
-	.hide {
-		display: none !important;
-	}
-
-	.show {
-		display: flex !important;
-		opacity: 1;
-	}
-
-	.transitioning {
-		display: flex !important;
-		opacity: 0;
+	span {
+		float: left;
+		color: magenta;
 	}
 }
 
-@media screen and (min-width: 900px) {
-
-.menu-toggle {
-	display: none !important;
-}
-
-#scholarslab-header {
-	display:flex;
-	flex-direction: row;
-	flex-wrap:nowrap;
-	justify-content: space-between;
-	padding: 1rem;
-}
-
-#global-navigation {
-	.dropdown-toggle {
-		display:none;
-	}
-
- 	ul,
-	> ul.hide {
-	display: flex !important;
-	flex-direction: row;
-	justify-content: space-between;
-    margin: 0;
-		li {
-			padding: 0 0 0 1rem;
-			ul {
-			position: absolute;
-			top: 3rem;
-			right:0;
-			width:fit-content;
-			justify-content: flex-end;
-			}
-		}
-	}
-	ul.show {
-		background: white;
-		padding: 1rem !important;
-		position:absolute;
-		li {
-			display:inline !important;
-		}
-
-	}
-}
-
+ul .bio-stats-box {
+	text-align: right;
 }
 
 /********************************************************************/
@@ -495,9 +527,7 @@ body.people .gallery {
 }
 
 /********************************************************************/
-/* Makerspace page */
-
-
+/* /makerspace page */
   .maker-resource__content li {
     display: flex;
     flex-direction: column;
@@ -637,7 +667,7 @@ body.people .gallery {
 	}
 }
 
-#migration-alert{
+#migration-alert, #old-bio-alert {
     margin: 24px 0 -1em;
     padding: 18px;
     background: rgba(117,227,240,.325);
@@ -652,3 +682,4 @@ margin-top: 15px;
 .post_crosspost::before {
 	content: "\2192";
 }
+

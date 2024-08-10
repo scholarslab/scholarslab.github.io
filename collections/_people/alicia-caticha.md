@@ -1,16 +1,12 @@
 ---
 department: Art History
-email: None
 first_name: Alicia
 last_name: Caticha
 layout: people
 title: Alicia Caticha
 position:
-short_bio: ''
 slug: alicia-caticha
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

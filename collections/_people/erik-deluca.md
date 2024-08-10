@@ -1,15 +1,12 @@
 ---
 department: Music
-email: None
 first_name: Erik
 last_name: DeLuca
 layout: people
 title: Erik DeLuca
 position:
-short_bio: ''
 slug: erik-deluca
 status: not_current
-twitter: None
 website: http://erikdeluca.com/
 people-category:
 - student

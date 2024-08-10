@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Gabriela
 last_name: Trinidad Pérez
 layout: people
 title: Gabriela Trinidad Pérez
 position:
-short_bio: ''
 slug: gabriele-trinidad-perez
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

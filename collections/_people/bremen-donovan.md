@@ -1,16 +1,12 @@
 ---
-department: None
 email: bkd3p@virginia.edu
 first_name: Bremen
 last_name: Donovan
 layout: people
 title: Bremen Donovan
 position:
-short_bio: ''
 slug: bremen-donovan
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

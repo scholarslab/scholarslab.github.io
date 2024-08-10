@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Shaheen
 last_name: Alikhan
 layout: people
 name: Shaheen Alikhan
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: shaheen-alikhan
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

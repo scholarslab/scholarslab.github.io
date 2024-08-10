@@ -6,11 +6,9 @@ last_name: Ferguson
 layout: people
 title: Andrew Ferguson
 position:
-short_bio: ''
 slug: andrew-ferguson
 status: not_current
 twitter: epiktistes
-website: None
 people-category:
 - student
 roles:

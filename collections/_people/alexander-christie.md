@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Alexander
 last_name: Christie
 layout: people
 name: Alexander Christie
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: alexander-christie
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

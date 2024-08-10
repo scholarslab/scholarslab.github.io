@@ -1,6 +1,5 @@
 ---
 department: Architecture
-email: None
 first_name: Charity
 last_name: Revutin
 layout: people
@@ -9,8 +8,6 @@ position: CHI Intern
 short_bio:
 slug: charity-revutin
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

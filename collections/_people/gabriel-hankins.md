@@ -6,11 +6,8 @@ last_name: Hankins
 layout: people
 title: Gabriel Hankins
 position: PhD Candidate, Department of English | Digital Humanities Fellow 2011-2012
-short_bio: ''
 slug: gabriel-hankins
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

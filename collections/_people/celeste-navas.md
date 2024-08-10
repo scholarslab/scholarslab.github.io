@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Celeste
 last_name: Navas
 layout: people
 title: Celeste Navas
 position:
-short_bio: ''
 slug: celeste-navas
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

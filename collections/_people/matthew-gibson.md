@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Matthew
 last_name: Gibson
 layout: people
 title: Matthew Gibson
 position:
-short_bio: ''
 slug: matthew-gibson
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

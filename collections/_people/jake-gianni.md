@@ -1,6 +1,5 @@
 ---
 department: Architecture
-email: None
 first_name: Jake
 last_name: Gianni
 layout: people
@@ -9,8 +8,6 @@ position: CHI Intern
 short_bio: None
 slug: jake-gianni
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

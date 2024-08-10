@@ -6,10 +6,8 @@ last_name: Peck
 layout: people
 title: Chris Peck
 position: PhD Candidate, McIntire Department of Music | Praxis Fellow 2012-2013
-short_bio: ''
 slug: chris-peck
 status: not_current
-twitter: None
 website: http://www.intermittentmusic.com/
 people-category:
 - student

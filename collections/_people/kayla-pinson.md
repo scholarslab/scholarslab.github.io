@@ -1,16 +1,11 @@
 ---
-department: None
-email: None
 first_name: Kayla
 last_name: Pinson
 layout: people
 title: Kayla Pinson
 position:
-short_bio: ''
 slug: kayla-pinson
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

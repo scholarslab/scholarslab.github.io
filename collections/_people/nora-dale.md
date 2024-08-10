@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Nora
 last_name: Dale
 layout: people
@@ -9,8 +7,6 @@ position: TinkerTank Technologist
 short_bio:
 slug: nora-dale
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

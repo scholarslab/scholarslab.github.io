@@ -1,17 +1,12 @@
 ---
-department: None
-email: None
 first_name: Alexandra
 last_name: Sanchez
 layout: people
 location: None
 title: Alexandra Sanchez
-position: None
 short_bio: 'Alex Sanchez is a 2018 LAMI Fellow.'
 slug: alexandra-sanchez
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

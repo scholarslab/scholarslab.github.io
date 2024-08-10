@@ -6,7 +6,6 @@ last_name: Senefeld
 layout: people
 title: Emily Senefeld
 position:
-short_bio: ''
 slug: emily-senefeld
 status: not_current
 twitter: EmilySenefeld

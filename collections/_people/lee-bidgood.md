@@ -6,11 +6,8 @@ last_name: Bidgood
 layout: people
 title: Lee Bidgood
 position: Digital Humanities Fellow 2007-2008
-short_bio: ''
 slug: lee-bidgood
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

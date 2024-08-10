@@ -1,6 +1,5 @@
 ---
 department: Spanish
-email: None
 first_name: Lauren
 last_name: Reynolds
 layout: people
@@ -9,8 +8,6 @@ position: Makerspace Technologist
 short_bio:
 slug: lauren-reynolds
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

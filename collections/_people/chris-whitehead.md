@@ -1,6 +1,5 @@
 ---
 department: History
-email: None
 first_name: Chris
 last_name: Whitehead
 layout: people
@@ -9,8 +8,6 @@ position:
 short_bio:
 slug: chris-whitehead
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

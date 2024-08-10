@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Seanna
 last_name: Viechweg
 layout: people
 name: Seanna Viechweg
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: seanna-viechweg
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -6,11 +6,8 @@ last_name: Kirby
 layout: people
 title: Jason Kirby
 position:
-short_bio: ''
 slug: jason-kirby
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

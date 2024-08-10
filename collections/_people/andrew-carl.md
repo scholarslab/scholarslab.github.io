@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Andrew
 last_name: Carl
 layout: people
@@ -9,8 +7,6 @@ position:
 short_bio:
 slug: andrew-carl
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

@@ -1,15 +1,11 @@
 ---
 department: History
-email: None
 first_name: Jacqui
 last_name: Sahagian
 layout: people
 name: Jacqui Sahagian
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: jacqui-sahagian
 status: not_current
-twitter: None
 website: http://https://jacquisahagian.com/
 people-category:
 - student

@@ -1,17 +1,12 @@
 ---
-department: None
-email: None
 first_name: Emily
 last_name: De Leon
 layout: people
 location: None
 title: Emily De Leon
-position: None
 short_bio: "Emily De Leon is a 2018 LAMI Fellow."
 slug: emily-de-leon
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

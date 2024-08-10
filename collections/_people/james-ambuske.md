@@ -6,7 +6,6 @@ last_name: Ambuske
 layout: people
 title: James Ambuske
 position:
-short_bio: ''
 slug: james-ambuske
 status: not_current
 twitter: JamesPAmbuske

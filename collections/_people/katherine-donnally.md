@@ -1,5 +1,4 @@
 ---
-department: None
 email: kbd3ax@virginia.edu
 first_name: Katherine
 last_name: Donnally
@@ -10,7 +9,6 @@ short_bio: 'Katherine Donnally is a designer at the Lab, focusing on web design,
 slug: katherine-donnally
 status: not_current
 twitter: kbdonnally
-website: None
 people-category:
 - staff
 roles:

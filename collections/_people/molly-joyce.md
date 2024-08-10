@@ -1,16 +1,10 @@
 ---
-department: None
-email: None
 first_name: Molly
 last_name: Joyce
 layout: people
 name: Molly Joyce
-position: None
-short_bio: 'A short one-sentence bio.'
 slug: molly-joyce
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

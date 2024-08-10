@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Kavya
 last_name: Annapareddy
 layout: people
@@ -9,8 +7,6 @@ position: TinkerTank Technologist
 short_bio:
 slug: kavya-annapareddy
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

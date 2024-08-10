@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Jennifer
 last_name: Truong
 layout: people
@@ -9,8 +7,6 @@ position: Makerspace Technologist
 short_bio:
 slug: jennifer-truong
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

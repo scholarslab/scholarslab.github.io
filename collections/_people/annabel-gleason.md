@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Annabel
 last_name: Gleason
 layout: people
@@ -9,8 +7,6 @@ position: TinkerTank Technologist
 short_bio:
 slug: annabel-gleason
 status: not_current
-twitter: None
-website: None
 people-category:
 - student
 roles:

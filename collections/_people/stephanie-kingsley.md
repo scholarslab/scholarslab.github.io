@@ -6,7 +6,6 @@ last_name: Kingsley
 layout: people
 title: Stephanie Kingsley
 position:
-short_bio: ''
 slug: stephanie-kingsley
 status: not_current
 twitter: KingsleySteph

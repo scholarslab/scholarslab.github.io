@@ -1,6 +1,4 @@
 ---
-department: None
-email: None
 first_name: Link
 last_name: Fu
 layout: people
@@ -9,8 +7,6 @@ position: Makerspace Technologist
 short_bio:
 slug: link-fu
 status: current
-twitter: None
-website: None
 people-category:
 - student
 roles:

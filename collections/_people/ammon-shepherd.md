@@ -1,5 +1,4 @@
 ---
-department: None
 email: ammon@virginia.edu
 first_name: Ammon
 last_name: Shepherd

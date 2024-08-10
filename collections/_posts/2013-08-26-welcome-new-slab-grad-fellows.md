@@ -1,5 +1,5 @@
 ---
-author: bethany-nowviskie
+author: scholars-lab
 date: 2013-08-26 09:48:28+00:00
 layout: post
 slug: welcome-new-slab-grad-fellows
