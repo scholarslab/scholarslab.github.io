@@ -1,12 +1,12 @@
 ---
+layout: work
+slug: the-slug
+title: 
 collaborators: 
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Head of Research and Development
 link:
-layout: work
-slug: the-slug
-title: 
 thumb-img: default-thumb.png
 banner-img: default-banner.png
 research-category: 
