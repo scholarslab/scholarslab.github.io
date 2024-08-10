@@ -475,7 +475,7 @@ body.people .gallery {
 /** Individual people (bio) pages */
 .bio-stats-box {
 	position: relative;
-	border: 4px solid magenta;
+	border: 4px solid var(--uvalib-secondary-light-gray);
 	font-family:  monospace;
 	font-size: 20px;
 	margin-top: calc(2em + 4px);
@@ -492,7 +492,7 @@ body.people .gallery {
 	}
 	span {
 		float: left;
-		color: magenta;
+		color: rgba(0,0,0,.5);
 	}
 }
 
@@ -651,7 +651,7 @@ ul .bio-stats-box {
 	position: relative;
 	font-family:  monospace;
 	font-weight: 200;
-	color: rgba(0,0,0,.5);
+	color: var(--uvalib-secondary-light-gray);
 	span {
 		display: block;
 		padding: 1.5rem 0 .5rem 0;
@@ -670,7 +670,7 @@ ul .bio-stats-box {
 #migration-alert, #old-bio-alert {
     margin: 24px 0 -1em;
     padding: 18px;
-    background: rgba(117,227,240,.325);
+    background: var(--uvalib-secondary-light-gray);
 }
 
 .post_crosspost{
