@@ -10,8 +10,8 @@ link:
 layout: work
 slug: architectural-adaptation-in-the-roman-west
 title: Architectural Adaptation in the Roman West
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: architectural-adaptation-in-the-roman-west-thumb.png
+banner-img: architectural-adaptation-in-the-roman-west-banner.png
 research-category: Student
 start-year: 2018
 end-year: 2019
