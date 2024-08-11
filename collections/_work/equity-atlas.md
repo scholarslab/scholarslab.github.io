@@ -26,7 +26,7 @@ slug: equity-atlas
 title: Equity Atlas
 thumb-img: equity-atlas-thumb.png
 banner-img: equity-atlas-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2018
 end-year: current
 ---

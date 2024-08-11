@@ -8,11 +8,13 @@ collaborators:
     role: Head of Research and Development
 link:
 thumb-img: default-thumb.png
-banner-img: default-banner.png
 research-category: 
 start-year:
 end-year: current
 ---
+
+if banner version of image exists (500 pixels wide or fewer; 300px high or fewer), add to yaml above like:
+banner-img: MyProjectTitle-banner.png (we are no longer displaying a default banner image, if no specific banner image is available, so don't add anything if you don't have one!)
 
 year options if not known:
 current
@@ -26,7 +28,7 @@ These files also need a thumb & banner image created & placed in the appropriate
 
 Include text recognizing all collaborators & describing project
 
-research-category can be:
+research-category can be (note ampersand, NOT "and" must be used—paste these in exactly as written below):
 Internal Projects & Community Service
 Collaborations
 Events & Community Building

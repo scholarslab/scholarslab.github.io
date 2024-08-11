@@ -9,7 +9,7 @@ slug: project-blacklight
 title: Project Blacklight
 thumb-img: tassiamohr-blacklight-thumb.jpg
 banner-img: tassiamohr-blacklight-banner.jpg
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2005
 end-year: (before 2018)
 ---

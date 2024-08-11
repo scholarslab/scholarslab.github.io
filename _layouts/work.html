@@ -11,20 +11,57 @@ layout: default
 		<h1>{{ page.title | replace: ' - ', ': ' }}</h1>
 	</hgroup>
 </header>
+
 <div class="content">
-	<div class="project-image">
-		<img src="{{ '/assets/img/work/' | append: page.banner-img }}" alt="">
-	</div>
-	<div class="metadata">
-{% if page.start-year == page.end-year or page.end-year.blank? %}
-		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}</div></div>
-{% else %}
-		<div class="project-content__year"><span>When:</span><div>{{ page.start-year }}-{{ page.end-year }}</div></div>
+
+<div class="project-stats-box">
+	<h2>Details</h2>
+	<ul>
+		{% if page.start-year !=  nil and page.end-year != nil %}
+			<li><span>When: </span>
+				{% if page.start-year and page.end-year == nil %}
+					{{ page.start-year }}
+				{% elsif page.start-year and page.end-year %}
+					{{ page.start-year }}-{{page.end-year}}
+				{% elsif page.start-year == nil and page.end-year %}
+					{{ page.end-year }}
+				{% endif %}
+			</li>
+		{% endif %}
+		{% if page.link !=  nil and page.link != 'None' and page.link != 'none' %}
+			<li><span>Project Link: </span><a href="{{ page.link }}">{{ page.title }}</a>
+			</li>
+		{% endif %}
+		{% if page.research-category !=  nil %}
+			<li><span>Project type: </span>
+				{% if page.research-category == "Internal Projects & Community Service" %}
+					Internal Projects & Community Service
+				{% elsif page.research-category == "Collaborations" %}
+					Collaborations
+				{% elsif page.research-category == "Events & Community Building" %}
+					Events & Community Building
+				{% elsif page.research-category == "Prototypes & Proofs of Concept" %}
+					Prototypes & Proofs of Concept
+				{% elsif page.research-category == "Student" %}
+					Student
+				{% endif %}
+			</li>
+		{% endif %}		
+	</ul>	
+</div>
+
+{% if page.banner-img %}
+	{% if page.banner-img != "default-banner.png" %}
+		<div class="project-image">
+			<img src="{{ '/assets/img/work/' | append: page.banner-img }}" alt="{{ page.title }} logo or decorative image">
+		</div>
+	{% endif %}
 {% endif %}
-		<div class="project-content__category">{% if page.research-category %}<span>Work type:</span><div>{{ page.research-category | replace: 'and', '&amp;' }}</div>{% endif %}</div>
-{% if page.link %}<div class="project-content__cta"><a href="{{ page.link }}">Visit project</a></div>{% endif %}
-	</div>
+
+<div>
 {{ content }}
+</div>
+
 <div id="collaborators">
 	<h2>Collaborators:</h2>
 	<ul class="project-collab__people">
@@ -51,3 +88,5 @@ person.name }}{% endif %}{% if person.role %}, {{ person.role }}</li>{% endif %}
 {% endif %}
 {% endif %}
 </div>
+
+</div> <!-- end div.content -->

@@ -7,7 +7,7 @@ slug: solrmarc
 title: Solrmarc
 thumb-img: RooshInf3ktion-solrmarc-thumb.png
 banner-img: RooshInf3ktion-solrmarc-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2005
 end-year: (until 2018)
 ---

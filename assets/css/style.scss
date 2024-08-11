@@ -9,6 +9,7 @@ Footer
 Main content for all pages
 Homepage Styles
 Projects browse
+Individual projects pages
 People browse
 Individual people (bio) pages
 Use the Lab page: weekly calendar hours styling
@@ -421,6 +422,27 @@ section.feature {
 }
 
 /********************************************************************/
+/* Individual projects pages */
+.project-stats-box {
+	position: relative;
+	border: 4px solid var(--uvalib-secondary-light-gray);
+	font-family:  monospace;
+	font-size: 20px;
+	padding: .5em 1em;
+	span {
+		color: rgba(0,0,0,.5);
+	}
+}
+
+ul .project-stats-box {
+	text-align: right;
+}
+
+.project-image {
+text-align: center;
+}
+
+/********************************************************************/
 /* People browse */
 body.people .gallery {
 	display:flex;
@@ -478,20 +500,8 @@ body.people .gallery {
 	border: 4px solid var(--uvalib-secondary-light-gray);
 	font-family:  monospace;
 	font-size: 20px;
-	margin-top: calc(2em + 4px);
 	padding: .5em 1em;
-	div {
-		position: absolute;
-		font-family: "Oswald", sans-serif;
-		font-size: 1.5rem;
-		font-weight: 600;
-		text-transform: uppercase;
-		text-align: left;
-		line-height: 1;
-		transform: translate(-1em, calc(-1.5em - 4px));
-	}
 	span {
-		float: left;
 		color: rgba(0,0,0,.5);
 	}
 }

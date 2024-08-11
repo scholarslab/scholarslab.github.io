@@ -10,7 +10,7 @@ title: "Community Standards for 3D Data Preservation: Best Practices Working Gro
 url: http://cs3dp.org
 thumb-img: cs3dp-thumb.png
 banner-img: cs3dp-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: (before 2018)
 end-year: current
 ---

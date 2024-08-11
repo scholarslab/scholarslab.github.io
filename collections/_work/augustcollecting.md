@@ -26,7 +26,7 @@ slug: augustcollecting
 title: Unite the Right Rally and Community Response
 thumb-img: augustcollecting-thumb.png
 banner-img: augustcollecting-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2017
 end-year: current
 ---

@@ -7,7 +7,7 @@ slug: spatial-search-and-delivery
 title: Spatial Humanities
 thumb-img: spatial-thumb.png
 banner-img: spatial-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2009
 end-year: 2010
 ---

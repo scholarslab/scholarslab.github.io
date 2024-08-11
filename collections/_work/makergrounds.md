@@ -9,7 +9,7 @@ slug: makergrounds
 title: Makergrounds
 thumb-img: makergrounds-thumb.png
 banner-img: makergrounds-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: (before 2018)
 end-year: current
 ---

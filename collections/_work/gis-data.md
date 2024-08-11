@@ -11,7 +11,7 @@ slug: gis-data
 title: GIS Data
 thumb-img: gis-data-thumb.png
 banner-img: gis-data-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: (before 2018)
 end-year: current
 ---

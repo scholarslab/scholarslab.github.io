@@ -23,7 +23,7 @@ slug: speaking-in-code
 title: Speaking In Code
 thumb-img: codespeak-thumb.png
 banner-img: codespeak-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2013
 end-year: 2013
 ---

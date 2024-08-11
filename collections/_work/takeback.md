@@ -12,7 +12,7 @@ slug: takeback
 title: Take Back The Archive
 thumb-img: takeback-thumb.png
 banner-img: takeback-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2014
 end-year: current
 ---

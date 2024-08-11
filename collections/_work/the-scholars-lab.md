@@ -6,7 +6,7 @@ slug: the-scholars-lab
 title: The Scholars' Lab
 thumb-img: praxis-thumb.png
 banner-img: praxis-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2002
 end-year: current
 ---

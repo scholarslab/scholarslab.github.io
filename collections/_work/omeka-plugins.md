@@ -24,7 +24,7 @@ slug: omeka-plugins
 title: Omeka Plugins
 thumb-img: neatlineplugins-thumb.png
 banner-img: neatlineplugins-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2009
 end-year: current
 ---

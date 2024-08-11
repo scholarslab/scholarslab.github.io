@@ -1,35 +1,38 @@
 ---
-layout: page
+layout: default
 ---
 
-{% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %}
+<header>
+	<hgroup>
+		<h1>{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</h1>
+		{% assign profile_pic = site.static_files | where: "basename", page.slug | limit: 1 %} 
+		<h2>
+			{% if page.people-category contains "staff" %}
+				{% if page.status contains "not_current" %}
+					Former {{ page.position }}
+				{% elsif page.status contains "current" %}
+					{{ page.position }}
+				{% endif %}
+			{% elsif page.people-category contains "director" %}
+				{% if page.status contains "not_current" %}
+					Former {{ page.position }}
+				{% elsif page.status contains "current" %}
+					{{ page.position }}
+				{% endif %}
+			{% elsif page.people-category contains "student" %}
+				{% if page.roles.size == 1 %}
+					{{ page.roles }}
+				{% endif %}
+			{% else %}
+				<ul>{% for role in page.roles %}
+					<li>{{ role }}</li>
+				{% endfor %}</ul>
+			{% endif %}
+		</h2>
+	</hgroup>
+</header>
 
-<div class="person__position">
-<h2>
-{% if page.people-category contains "staff" %}
-	{% if page.status contains "not_current" %}
-		Former {{ page.position }}
-	{% elsif page.status contains "current" %}
-		{{ page.position }}
-	{% endif %}
-{% elsif page.people-category contains "director" %}
-	{% if page.status contains "not_current" %}
-		Former {{ page.position }}
-	{% elsif page.status contains "current" %}
-		{{ page.position }}
-	{% endif %}
-{% elsif page.people-category contains "student" %}
-	{% if page.roles.size == 1 %}
-	{{ page.roles }}
-	{% endif %}
-{% else %}
-	<ul>{% for role in page.roles %}
-		<li>{{ role }}</li>
-	{% endfor %}</ul>
-{% endif %}
-</h2>
-
-</div>
+<div class="content">
 
 {% unless page.libcal == nil and page.website == nil and page.email == nil and page.department == nil %}
 <div class="bio-stats-box">
@@ -99,4 +102,6 @@ layout: page
 		    {% endif %}
 		</div>
 	</div>
-</div>
+</div> 
+
+</div> <!-- end div.content -->

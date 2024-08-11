@@ -15,7 +15,7 @@ slug: geoloader
 title: Geoloader
 thumb-img: clickykbd-geoloader-thumb.png
 banner-img: clickykbd-geoloader-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2014
 end-year: 2017
 ---

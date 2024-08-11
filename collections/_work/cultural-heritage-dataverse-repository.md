@@ -9,7 +9,7 @@ title: Cultural Heritage Dataverse Repository
 link: https://dataverse.lib.virginia.edu/dataverse/culturalheritage
 thumb-img: cultural-heritage-dataverse-repository-thumb.png
 banner-img: cultural-heritage-dataverse-repository-banner.png
-research-category: Internal Projects and Community Service
+research-category: Internal Projects & Community Service
 start-year: 2017
 end-year: current
 ---

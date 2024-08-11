@@ -12,7 +12,6 @@ layout: work
 slug: design-pedagogy
 title: Design Pedagogy
 thumb-img: design-pedagogy-thumb.png
-banner-img: default-banner.png
 research-category: Collaborations
 start-year: 2016
 end-year: 2019
