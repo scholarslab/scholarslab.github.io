@@ -439,7 +439,8 @@ ul .project-stats-box {
 }
 
 .project-image {
-text-align: center;
+	text-align: center;
+	padding-top: 1em;
 }
 
 /********************************************************************/
@@ -508,6 +509,10 @@ body.people .gallery {
 
 ul .bio-stats-box {
 	text-align: right;
+}
+
+.person__img {
+	padding-top: 1em;
 }
 
 /********************************************************************/
