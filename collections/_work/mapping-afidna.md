@@ -14,10 +14,10 @@ collaborators:
 layout: work
 slug: mapping-afidna
 title: Mapping Afidna
-thumb-img: mapping-afidna-thumb.png
-banner-img: mapping-afidna-banner.png
+thumb-img: mapping-afidna-thumb.jpg
+banner-img: mapping-afidna-banner.jpg
 research-category: Collaborations
 start-year: (before 2018)
 end-year: current
 ---
-More info coming soon.
+A Spatial Technologies research collaboration.

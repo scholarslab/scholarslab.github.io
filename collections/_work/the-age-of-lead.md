@@ -13,8 +13,8 @@ link:
 layout: work
 slug: the-age-of-lead
 title: The Age of Lead
-thumb-img: age-of-lead-thumb.png
-banner-img: age-of-lead-banner.png
+thumb-img: age-of-lead-thumb.jpg
+banner-img: age-of-lead-banner.jpg
 research-category: Student
 start-year: 2016
 end-year: 2017

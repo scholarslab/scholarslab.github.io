@@ -10,8 +10,8 @@ link:
 layout: work
 slug: measured-unrest
 title: Measured Unrest in the Poetry of the Black Arts Movement
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: measured-unrest-thumb.png
+banner-img: measured-unrest-banner.png
 research-category: Student
 start-year: 2017
 end-year: 2018

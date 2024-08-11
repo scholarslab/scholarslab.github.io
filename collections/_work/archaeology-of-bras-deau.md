@@ -16,8 +16,8 @@ link:
 layout: work
 slug: archaeology-of-bras-deau
 title: Archaeology of the 19th-Century Bras d'Eau, Mauritius
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: archaeology-of-bras-deau-thumb.png
+banner-img: archaeology-of-bras-deau-banner.png
 research-category: Student
 start-year: 2017
 end-year: 2018

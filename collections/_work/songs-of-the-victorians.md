@@ -6,12 +6,11 @@ collaborators:
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Design Architect
-link: http://www.songsofthevictorians.com/
 layout: work
 slug: songs-of-the-victorians
 title: Songs of the Victorians & Augmented Notes
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: songs-of-the-victorians-thumb.png
+banner-img: songs-of-the-victorians-banner.png
 research-category: Student
 start-year: 2012
 end-year: 2013

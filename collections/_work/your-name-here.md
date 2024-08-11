@@ -34,8 +34,8 @@ link: https://yournamehere.scholarslab.org/
 layout: work
 slug: your-name-here
 title: Your Name Here
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: your-name-here-thumb.png
+banner-img: your-name-here-banner.png
 research-category: Student
 start-year: 2021
 end-year: 2022

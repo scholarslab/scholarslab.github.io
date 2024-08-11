@@ -10,7 +10,7 @@ link:
 layout: work
 slug: kingdom-of-code
 title: "Kingdom of Code: Cryptography and the New Privacy, 1975-1993"
-thumb-img: default-thumb.png
+thumb-img: kingdom-of-code-thumb.png
 banner-img: default-banner.png
 research-category: Student
 start-year: 2016

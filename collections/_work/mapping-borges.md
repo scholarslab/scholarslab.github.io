@@ -10,8 +10,8 @@ link: https://norabenedict.github.io/borges
 layout: work
 slug: mapping-borges
 title: Mapping Borges in the Argentine Publishing Industry
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: mapping-borges-thumb.png
+banner-img: mapping-borges-banner.png
 research-category: Student
 start-year: 2016
 end-year: 2017

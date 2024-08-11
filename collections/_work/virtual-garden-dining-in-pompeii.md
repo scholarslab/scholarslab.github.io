@@ -11,11 +11,10 @@ collaborators:
     role: 3D Technologies Specialist
 current: true
 layout: work
-link: ''
 slug: virtual-garden-dining-in-pompeii
 title: Virtual Garden Dining In Pompeii
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: virtual-garden-dining-in-pompeii-thumb.png
+banner-img: virtual-garden-dining-in-pompeii-banner.png
 research-category: Student
 start-year: 2020
 end-year: current

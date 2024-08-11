@@ -10,8 +10,8 @@ link:
 layout: work
 slug: reading-silent-woolf
 title: Reading Silent Woolf
-thumb-img: default-thumb.png
-banner-img: default-banner.png
+thumb-img: reading-silent-woolf-thumb.png
+banner-img: reading-silent-woolf-banner.png
 research-category: Student
 start-year: 2015
 end-year: 2016
