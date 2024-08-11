@@ -12,6 +12,6 @@ people-category:
 roles:
 - Makerspace Technologist, 2021-2022
 ---
-
+Annabel Gleason was a Makerspace Technologist 2021-2022. During that role, her bio text was:
 
 Expert in Adobe Creative Suite, Arduino, Raspberry Pi, Textiles

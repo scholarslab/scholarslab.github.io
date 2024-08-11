@@ -12,4 +12,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2017-2020
 ---
-Andrew Carl is a Makerspace Technologist.
+Andrew Carl was a Makerspace Technologist 2017-2020.

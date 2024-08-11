@@ -10,4 +10,4 @@ people-category:
 roles:
 - Graduate Fellow, 2021-2022
 ---
-Alexander Christie is a 2021-2022 Graduate Fellow in Digital Humanities.
+Alexander Christie was a 2021-2022 Graduate Fellow in Digital Humanities.

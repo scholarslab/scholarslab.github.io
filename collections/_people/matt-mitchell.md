@@ -13,4 +13,4 @@ roles:
 - staff
 ---
 
-Matt Mitchell, a former SLab software developer, is currently a developer at hotelicopter.
+Matt Mitchell was a former SLab software developer.

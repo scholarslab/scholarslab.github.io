@@ -17,3 +17,5 @@ roles:
 ---
 
 Umi Hsu (pronouns: they/them) is a cultural strategist and public humanist who engages with research and organizing agendas for equity in arts, technology, and civic life. Hsu is currently the Director of Content Strategy at ONE Archives Foundation. Prior to this position, Hsu led design strategy, digital and data initiatives at the City of Los Angeles Department of Cultural Affairs. They have published extensively on digital media, data, sound, and performance. Hsu is also a sound artist and ethnographer, with a PhD of Critical and Comparative Studies from the Music Department at University of Virginia, and is in a postcolonial pop band called Bitter Party.
+
+They were a Scholars' Lab Graduate Fellow from 2009-2010.

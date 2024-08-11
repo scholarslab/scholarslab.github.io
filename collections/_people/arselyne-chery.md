@@ -10,4 +10,4 @@ people-category:
 roles:
 - Praxis Fellow, 2023-2024
 ---
-Arselyne Chery is a 2023-2024 Praxis Fellow.
+Arselyne Chery was a 2023-2024 Praxis Fellow.

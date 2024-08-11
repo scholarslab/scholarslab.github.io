@@ -12,4 +12,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2017-2021
 ---
-Brandon Phan is a Makerspace Technologist.
+Brandon Phan was a Makerspace Technologist 2017-2021.

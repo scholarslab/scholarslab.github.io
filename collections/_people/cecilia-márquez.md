@@ -13,3 +13,4 @@ people-category:
 roles:
 - Praxis Fellow, 2012–2013
 ---
+Cecilia Márquez was a 2012-2013 Praxis Fellow.

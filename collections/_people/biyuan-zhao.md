@@ -13,3 +13,4 @@ roles:
 - Makerspace Technologist
 ---
 
+Biyuan Zhao was a past Makerspace Technologist.

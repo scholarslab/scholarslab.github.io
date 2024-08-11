@@ -10,4 +10,4 @@ people-category:
 roles:
 - CHI Intern, Fall 2020
 ---
-Brianna DeMan is a CHI Intern working with Will Rourk in Fall 2020.
+Brianna DeMan was a CHI Intern working with Will Rourk in Fall 2020.

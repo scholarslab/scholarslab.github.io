@@ -17,4 +17,6 @@ roles:
 - Praxis Fellow, 2016-2017
 ---
 
+Alyssa Collins was a 2016-2017 Praxis Fellow and 2018-2019 Prototyping Fellow. During those roles, her bio text was:
+
 Alyssa Collins is a PhD candidate in the English department at the University of Virginia. Her dissertation focuses on the intersections of race and technology as depicted in 20th century and contemporary African American literature, digital culture, and new media.

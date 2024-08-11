@@ -2,7 +2,6 @@
 first_name: Elena
 last_name: Maltos
 layout: people
-location: None
 title: Elena Maltos
 short_bio: "Elena Maltos is a 2018 LAMI Scholar."
 slug: elena-maltos

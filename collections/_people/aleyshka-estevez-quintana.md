@@ -11,4 +11,4 @@ people-category:
 roles:
 - LAMI Fellow, 2019
 ---
-Aleyshka Estevez Quintana is a 2019 LAMI Fellow. More information about her work can be found at [https://www.alienliterature.com/](https://www.alienliterature.com/).
+Aleyshka Estevez Quintana was a 2019 LAMI Fellow. More information about her work can be found at [https://www.alienliterature.com/](https://www.alienliterature.com/).

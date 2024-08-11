@@ -14,4 +14,4 @@ roles:
 - staff
 ---
 
-Bess Sadler is currently Software Developer at Stanford University and was formerly Chief Architect for the Online Library Environment and Research and Development Librarian at University of Virginia Library
+Bess Sadler was formerly Chief Architect for the Online Library Environment and Research and Development Librarian at University of Virginia Library.

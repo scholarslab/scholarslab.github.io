@@ -11,3 +11,4 @@ roles:
 - Graduate Fellow, 2022-2023
 ---
 
+Becky Brown was a Graduate Fellow 2022-2023.
