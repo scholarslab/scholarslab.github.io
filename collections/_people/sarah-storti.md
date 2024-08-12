@@ -14,5 +14,4 @@ people-category:
 roles:
 - Praxis Fellow, 2011–2012
 ---
-
-Sarah is a 2011-12 Praxis Fellow, former NINES Fellow, and a PhD candidate in the Department of English.
+Sarah Storti was a 2011-12 Praxis Fellow.

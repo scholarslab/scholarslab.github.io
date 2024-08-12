@@ -13,3 +13,4 @@ people-category:
 roles:
 - Graduate Fellow, 2018-2019
 ---
+Sean Tennant was a Graduate Fellow 2018-2019.

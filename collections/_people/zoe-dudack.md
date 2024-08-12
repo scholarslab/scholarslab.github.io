@@ -10,4 +10,4 @@ people-category:
 roles:
 - LAMI FELLOW, 2021
 ---
-Zoe Dudack is a 2021 fellow in the Leadership Alliance Mellon Initiative.
+Zoe Dudack was a 2021 LAMI Fellow.

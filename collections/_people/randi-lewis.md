@@ -14,5 +14,5 @@ people-category:
 roles:
 - Graduate Fellow, 2011–2012
 ---
-
+Randi Lewis was a 2011–2012 Graduate Fellow.
 

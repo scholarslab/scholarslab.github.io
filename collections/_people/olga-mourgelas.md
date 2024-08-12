@@ -10,4 +10,4 @@ people-category:
 roles:
 - LAMI FELLOW, 2023
 ---
-Olga Mourgelas is a 2023 SR-EIP / LAMI Fellow.
+Olga Mourgelas was a 2023 SR-EIP / LAMI Fellow.

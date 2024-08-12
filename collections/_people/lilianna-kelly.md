@@ -10,4 +10,4 @@ people-category:
 roles:
 - LAMI FELLOW, 2023
 ---
-Lilianna Kelly is a 2023 SR-EIP / LAMI Fellow.
+Lilianna Kelly was a 2023 SR-EIP / LAMI Fellow.

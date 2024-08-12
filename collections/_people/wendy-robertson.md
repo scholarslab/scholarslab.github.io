@@ -13,5 +13,4 @@ people-category:
 roles:
 - Student
 ---
-
-Wendy Robertson is a graduate student in the Department of Environmental Studies at the University of Virginia.
+Wendy Robertson was a past graduate student working with the Scholars' Lab.

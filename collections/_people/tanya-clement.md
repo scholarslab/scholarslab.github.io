@@ -15,4 +15,4 @@ roles:
 - Collaborator
 ---
 
-Tanya Clement is an Asst Professor at the School of Information at UT-Austin, with research interests in scholarly information infrastructure issues, particularly digitization, data curation, and scholarly publication in the humanities. She is advising students Zane Schwarzlose and Carin Yavorcik on their project developing a TEI plugin for Omeka with the Scholars' Lab.
+Tanya Clement is a past Scholars' Lab external faculty collaborator. At the time, she was an Asst. Professor at the School of Information at UT-Austin, with research interests in scholarly information infrastructure issues, particularly digitization, data curation, and scholarly publication in the humanities. She was advising students Zane Schwarzlose and Carin Yavorcik on their project developing a TEI plugin for Omeka with the Scholars' Lab.

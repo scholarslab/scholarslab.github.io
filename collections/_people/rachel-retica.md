@@ -10,5 +10,5 @@ people-category:
 roles:
 - Praxis Fellow, 2023-2024
 ---
-Rachel Retica is a 2023-2024 Praxis Fellow
+Rachel Retica was a 2023-2024 Praxis Fellow
 

@@ -12,4 +12,4 @@ people-category:
 roles:
 - Graduate Fellow, 2019-2020
 ---
-Leigh Miller is a PhD student in the Architecture School's program in the Constructed Environment.
+Leigh Miller was a Graduate Fellow 2019-2020.

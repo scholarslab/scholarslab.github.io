@@ -12,4 +12,4 @@ people-category:
 roles:
 - Graduate Fellow, 2016-2017
 ---
-Leif Frederickson was a Graduate Fellow in Digital Humanities and a PhD student in the history department.
+Leif Frederickson was a Graduate Fellow 2016-2017.

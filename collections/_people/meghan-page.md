@@ -13,5 +13,4 @@ people-category:
 roles:
 - CHI Intern, Fall 2018
 ---
-
 Meghan Page worked as a Cultural Heritage Informatics Intern with Will Rourk in Fall 2018.

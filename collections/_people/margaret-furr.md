@@ -11,4 +11,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2018
 ---
-Margaret Furr worked as a Makerspace Technologist.
+Margaret Furr worked as a 2018 Makerspace Technologist.

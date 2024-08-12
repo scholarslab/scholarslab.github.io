@@ -11,4 +11,4 @@ people-category:
 roles:
 - LAMI Fellow, 2019
 ---
-Nathan Carbajal is a 2019 LAMI fellow
+Nathan Carbajal was a 2019 LAMI Fellow.

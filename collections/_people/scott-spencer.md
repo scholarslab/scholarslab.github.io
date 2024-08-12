@@ -14,5 +14,5 @@ people-category:
 roles:
 - Graduate Fellow, 2009–2010
 ---
-
+Scott Spencer was a Graduate Fellow 2009–2010.
 

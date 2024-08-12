@@ -10,4 +10,4 @@ people-category:
 roles:
 - Praxis Fellow, 2023-2024
 ---
-Seanna Viechweg is a 2023-2024 Praxis Fellow
+Seanna Viechweg was a 2023-2024 Praxis Fellow

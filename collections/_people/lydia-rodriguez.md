@@ -13,5 +13,4 @@ people-category:
 roles:
 - Graduate Fellow, 2012–2013
 ---
-
-
+Lydia Rodriguez was a Graduate Fellow 2012–2013.

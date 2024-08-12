@@ -13,5 +13,5 @@ people-category:
 roles:
 - Graduate Fellow, 2013–2014
 ---
-
+Tamika Richeson was a Graduate Fellow 2013–2014.
 

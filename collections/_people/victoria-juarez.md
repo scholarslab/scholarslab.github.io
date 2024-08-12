@@ -11,5 +11,6 @@ people-category:
 roles:
 - LAMI Fellow, 2017
 ---
+Victoria Juarez was a 2017 LAMI Fellow. During that role, her bio text was:
 
 Victoria Juarez is a rising senior at Santa Clara University. She is a History and Spanish double major with a concentrated interest in early American history. At University of Virginia/Leadership Alliance she is working on a project in conjunction with the Law Library in digitizing the Scottish Session Papers. She will be evaluating the role that women played in these early historical court cases and what the implications were for transatlantic relationships.

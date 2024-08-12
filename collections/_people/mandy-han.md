@@ -12,5 +12,4 @@ people-category:
 roles:
 - Student Assistant
 ---
-
-Undergraduate, School of Architecture
+Mandy Han was a past Scholars' Lab Student Assistant.

@@ -11,5 +11,5 @@ people-category:
 roles:
 - Student Assistant
 ---
-
+Tina Cheng was a past Scholars' Lab Student Assistant.
 

@@ -15,6 +15,7 @@ people-category:
 roles:
 - Praxis Fellow, 2015-2016
 ---
+Rachel Devorah Trapp was a 2015-2016 Praxis Fellow. During that role, her bio text was:
 
 Rachel Devorah Trapp is a composer and digital art archivist. Her context-specific works for performance and installation crystallize in sound the habits of being: the daily patterns of ineffable exchange that bind our individual lives together.
 

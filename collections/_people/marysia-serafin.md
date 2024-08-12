@@ -12,4 +12,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2017-2019
 ---
-Marysia Serafin is a Makerspace Technologist.
+Marysia Serafin was a 2017-2019 Makerspace Technologist.

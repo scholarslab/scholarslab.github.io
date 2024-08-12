@@ -11,4 +11,4 @@ people-category:
 roles:
 - PHD+ Liaison in Digital Humanities, 2019-2020
 ---
-Rebecca Frank is a PHD+ Liaison for the 2019-2020 academic year.
+Rebecca Frank was a PHD+ Liaison for the 2019-2020 academic year.

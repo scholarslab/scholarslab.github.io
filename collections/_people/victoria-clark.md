@@ -13,4 +13,4 @@ people-category:
 roles:
 - Praxis Fellow, 2017-2018
 ---
-Victoria Clark is a 2017-2018 Praxis Program Fellow.
+Victoria Clark was a 2017-2018 Praxis Program Fellow.

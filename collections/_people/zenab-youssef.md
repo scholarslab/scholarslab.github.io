@@ -11,4 +11,4 @@ people-category:
 roles:
 - LAMI Fellow, 2019
 ---
-Zenab Youssef is a 2019 LAMI Fellow.
+Zenab Youssef was a 2019 LAMI Fellow.

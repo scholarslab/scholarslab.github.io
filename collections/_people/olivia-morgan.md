@@ -11,5 +11,5 @@ people-category:
 roles:
 - Student Assistant
 ---
-
+Olivia Morgan was a past Scholars' Lab Student Assistant.
 

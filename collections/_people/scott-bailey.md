@@ -16,6 +16,7 @@ roles:
 - Staff
 - Praxis Fellow, 2013–2014
 ---
+Scott Bailey was a former full-time Digital Humanities Developer; he was previously a 2013-2014 Praxis Fellow. During those roles, his bio text was:
 
 I am a digital humanities developer in the Scholars' Lab and a Ph.D. candidate in philosophical theology, writing a dissertation examining vulnerability at the intersection of theological anthropology and neuroscience.
 

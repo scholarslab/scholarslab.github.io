@@ -12,4 +12,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2017-2018
 ---
-Nic Dalton is a Makerspace Technologist.
+Nic Dalton was a Makerspace Technologist 2017-2018.

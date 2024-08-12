@@ -11,4 +11,6 @@ people-category:
 roles:
 - LAMI Fellow, 2018
 ---
+Mariama Jalloh was a 2018 LAMI Fellow. During that role, her bio text was:
+
 Mariama Jalloh is a rising Senior at Spelman College and 2018 LAMI Fellow. She is a Political Science major on a Pre-Law track with a concentration on Gender and Politics. This summer in the University of Virginia's Leadership Alliance Mellon program she will be conducting a comparison research the way psychological oppression affects Female Genital Mutilation victims in two environments. 

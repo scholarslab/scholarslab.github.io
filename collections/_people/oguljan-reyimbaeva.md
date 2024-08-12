@@ -13,4 +13,4 @@ roles:
 - Student Assistant
 ---
 
-Graduate student of Russian literature from Turkmenistan
+Oguljan Reyimbaeva was a past Scholars' Lab Student Assistant, a graduate student of Russian literature from Turkmenistan.

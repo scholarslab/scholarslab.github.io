@@ -13,4 +13,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2017-2018
 ---
-Lauren Reynolds was a Makerspace Technologist in the lab.
+Lauren Reynolds was a Makerspace Technologist 2017-2018.

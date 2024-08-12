@@ -10,4 +10,4 @@ people-category:
 roles:
 - LAMI FELLOW, 2021
 ---
-Yasmin Mendoza is a 2021 fellow in the Leadership Alliance Mellon Initiative.
+Yasmin Mendoza was a 2021 LAMI Fellow.

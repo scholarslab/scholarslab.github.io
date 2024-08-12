@@ -12,4 +12,4 @@ people-category:
 roles:
 - Praxis Fellow, 2019-2020
 ---
-Lauren Van Nest is a PhD student in the Art and Architectural History department.
+Lauren Van Nest was a Praxis Fellow 2019-2020.

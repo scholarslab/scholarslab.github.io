@@ -10,5 +10,5 @@ people-category:
 roles:
 - Praxis Fellow, 2023-2024
 ---
-Molly Joyce is a 2023-2024 Praxis Fellow
+Molly Joyce was a 2023-2024 Praxis Fellow.
 

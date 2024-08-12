@@ -10,4 +10,4 @@ people-category:
 roles:
 - Praxis Fellow, 2021-2022
 ---
-Susan Abraham is a 2021-2022 Praxis Fellow.
+Susan Abraham was a 2021-2022 Praxis Fellow.

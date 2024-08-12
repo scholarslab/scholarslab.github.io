@@ -15,5 +15,5 @@ people-category:
 roles:
 - Praxis Fellow, 2013–2014
 ---
-
+Stephanie Kingsley was a Praxis Fellow 2013–2014.
 

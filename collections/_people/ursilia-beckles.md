@@ -10,4 +10,4 @@ people-category:
 roles:
 - LAMI Fellow, 2022
 ---
-Ursilia Beckles is a 2022 LAMI Fellow.
+Ursilia Beckles was a 2022 LAMI Fellow.

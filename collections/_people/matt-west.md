@@ -12,5 +12,5 @@ people-category:
 roles:
 - Student Assistant
 ---
-
+Matt West was a Scholars' Lab Student Assistant.
 

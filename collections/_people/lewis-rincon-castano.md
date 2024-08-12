@@ -11,7 +11,7 @@ people-category:
 roles:
 - LAMI Fellow, 2019
 ---
-Lewis Rincon Castano is a 2019 LAMI Fellow.
+Lewis Rincon Castano was a 2019 LAMI Fellow. During that role, his bio text was:
 
 His research is titled _What Are Argentinean Public Schools Teaching Their Students About Citizenship Education?: A Textbook Analysis of Argentinean Civics Education in 2015_.
 

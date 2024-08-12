@@ -12,5 +12,5 @@ people-category:
 roles:
 - Graduate Fellow, 2018–2019
 ---
-
+Kelli Shermeyer was a 2018-2019 Graduate Fellow.
 

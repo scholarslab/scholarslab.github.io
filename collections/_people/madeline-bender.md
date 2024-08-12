@@ -10,4 +10,4 @@ people-category:
 roles:
 - LAMI FELLOW, 2023
 ---
-Madeline Bender is a 2023 SR-EIP / LAMI Fellow.
+Madeline Bender was a 2023 SR-EIP / LAMI Fellow.

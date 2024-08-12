@@ -13,4 +13,4 @@ people-category:
 roles:
 - Praxis Fellow, 2017-2018
 ---
-Spyros Simotas is a 2017-2018 Praxis Program Fellow.
+Spyros Simotas was a 2017-2018 Praxis Program Fellow.

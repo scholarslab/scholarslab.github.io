@@ -13,4 +13,4 @@ people-category:
 roles:
 - Prototyping Fellow, 2017-2018
 ---
-Ryan Maguire is a 2017-2018 DH Prototyping Fellow.
+Ryan Maguire was a 2017-2018 DH Prototyping Fellow.

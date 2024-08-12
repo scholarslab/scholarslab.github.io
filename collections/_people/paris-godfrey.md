@@ -11,4 +11,4 @@ people-category:
 roles:
 - LAMI Fellow, 2019
 ---
-Paris Godfrey is a 2019 LAMI Fellow.
+Paris Godfrey was a 2019 LAMI Fellow.

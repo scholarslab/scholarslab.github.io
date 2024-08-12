@@ -14,3 +14,4 @@ people-category:
 roles:
 - Praxis Fellow, 2017-2018
 ---
+Monica Blair was a 2017-2018 Praxis Fellow. She studies racial inequality in private education.

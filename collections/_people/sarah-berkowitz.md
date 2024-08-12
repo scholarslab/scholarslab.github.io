@@ -13,3 +13,4 @@ people-category:
 roles:
 - Prototyping Fellow, 2017-2018
 ---
+Sarah Berkowitz was a 2017-2018 Prototyping Fellow.

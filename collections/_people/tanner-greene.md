@@ -13,4 +13,4 @@ people-category:
 roles:
 - Praxis Fellow, 2017-2018
 ---
-Tanner Greene is a 2017-2018 Praxis Program fellow.
+Tanner Greene was a 2017-2018 Praxis Program fellow.

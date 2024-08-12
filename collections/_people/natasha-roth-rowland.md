@@ -12,4 +12,4 @@ people-category:
 roles:
 - Praxis Fellow, 2019-2020
 ---
-Natasha Roth-Rowland is a PhD student in the History department.
+Natasha Roth-Rowland was a 2019-2020 Praxis Fellow.

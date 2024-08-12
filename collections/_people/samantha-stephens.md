@@ -10,4 +10,4 @@ people-category:
 roles:
 - Praxis Fellow 2022-2023
 ---
-Samantha Stephens is a 2022-2023 Praxis Fellow.
+Samantha Stephens was a 2022-2023 Praxis Fellow.

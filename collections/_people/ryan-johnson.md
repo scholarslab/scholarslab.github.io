@@ -12,5 +12,4 @@ people-category:
 roles:
 - Student Assistant
 ---
-
-PhD Candidate, Department of Spanish, Italian, & Portuguese
+Ryan Johnson was a past Scholars' Lab Student Assistant.
