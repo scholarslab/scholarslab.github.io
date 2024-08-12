@@ -47,7 +47,7 @@ Chapman, E. F. *Sketches of Some Distinguished Indian Women; With a preface by t
 
 Daly, Mackenzie. “Gamaliel Bradford and Psychography.” Published July 05, 2024. https://scholarslab.lib.virginia.edu/blog/gamaliel-bradford-and-psychography/. Accessed on July 8, 2024. Accessed in draft.
 
-Devi, Sunity, Maharani of Cooch Behar, CIE. *Nine Ideal Indian Women.* Calcutta: Thacker, 1919. 
+Devi, Sunity, Maharani of Cooch Behar, CIE. *Nine Ideal Indian Women.* Calcutta: Thacker, 1919. https://cbw.iath.virginia.edu/cbw_db/collections.php?id=6
 
 Ghosh, Durba. “Revolutionary Women and Nationalist Heroes in Bengal, 1930 to the 1980s.” Gender & History 25, no.2 (August 2013): 355-375.
 
