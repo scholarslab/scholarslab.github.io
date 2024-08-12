@@ -16,6 +16,7 @@ people-category:
 roles:
 - Graduate Fellow, 2008–2009
 ---
+Jean Bauer was a 2008-2009 Graduate Fellow. During that role, her bio text was:
 
 In brief: I am an Early American historian, a database designer, and a photographer. I'm also sleep-deprived, but that probably isn't related . . . 
 

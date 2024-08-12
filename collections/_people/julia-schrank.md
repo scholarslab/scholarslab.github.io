@@ -11,5 +11,5 @@ people-category:
 roles:
 - Student Assistant
 ---
-
+Julia Schrank was a past Student Assistant.
 

@@ -11,5 +11,4 @@ people-category:
 roles:
 - LAMI Fellow, 2016
 ---
-
-
+Joy Ikekhua was a 2016 LAMI Fellow.

@@ -10,4 +10,4 @@ people-category:
 roles:
 - Praxis Fellow, 2021-2022
 ---
-Jennifer Marine is a 2021-2022 Praxis Fellow.
+Jennifer Marine was a 2021-2022 Praxis Fellow.

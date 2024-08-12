@@ -14,5 +14,6 @@ people-category:
 roles:
 - Graduate Fellow, 2014–2015
 ---
+Jennifer Foy was a 2014-2015 Graduate Fellow. During that role, her bio text was:
 
 Jennifer Foy is a PhD candidate in English at the University of Virginia. Her research focuses on the axes of stigma and sympathy in eighteenth century literature and culture, and her dissertation is titled 'Mapping Sympathy: Sensibility, Stigma, and Space in the Long Eighteenth Century."

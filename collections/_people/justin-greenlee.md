@@ -13,5 +13,5 @@ people-category:
 roles:
 - Praxis Fellow, 2016-2017
 ---
-
+Justin Greenlee was a 2016-2017 Praxis Fellow.
 

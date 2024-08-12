@@ -10,4 +10,4 @@ people-category:
 roles:
 - Praxis Fellow, 2021-2022
 ---
-Joseph Foley is a 2021-2022 Praxis Fellow.
+Joseph Foley was a 2021-2022 Praxis Fellow.

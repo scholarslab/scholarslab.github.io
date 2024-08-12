@@ -10,4 +10,4 @@ people-category:
 roles:
 - Praxis Fellow, 2023-2024
 ---
-Kathleen King is a 2023-2024 Praxis Fellow.
+Kathleen King was a 2023-2024 Praxis Fellow.

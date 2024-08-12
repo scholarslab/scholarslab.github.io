@@ -11,5 +11,6 @@ people-category:
 roles:
 - LAMI Fellow, 2015
 ---
+Kayla Pinson was a 2015 LAMI Fellow. During that role, her bio text was:
 
 Kayla Pinson is a student at [Virginia State University](http://www.vsu.edu/) studying History with minors in Philosophy and Mass Communications. Her research interest include African Historiography and Historical Memory. She is also a powerful Spoken Word Artist who hopes to combine her research interest and creativity to promote historical healing through poetry. In her spare time, she enjoys traveling and thought provoking conversations with strangers.

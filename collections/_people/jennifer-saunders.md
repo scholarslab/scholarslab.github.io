@@ -10,4 +10,4 @@ people-category:
 roles:
 - Graduate Fellow, 2023-2024
 ---
-Jennifer Saunders is a 2023-2024 Graduate Fellow in Digital Humanities.
+Jennifer Saunders was a 2023-2024 Graduate Fellow in Digital Humanities.

@@ -12,5 +12,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2021-2023
 ---
-
-Expert in Button Making, 3D Printing, Sewing, Wacom Drawing Tablet, Adobe Creative Suite
+Kavya Annapareddy was a Makerspace Technologist 2021-2023, with expertise in Button Making, 3D Printing, Sewing, Wacom Drawing Tablet, and Adobe Creative Suite.
