@@ -11,5 +11,5 @@ people-category:
 roles:
 - LAMI Fellow, 2016
 ---
-
+Gabriela Corona was a 2016 LAMI Fellow.
 

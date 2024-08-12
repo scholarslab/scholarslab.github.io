@@ -12,5 +12,4 @@ people-category:
 roles:
 - Praxis Fellow, 2013–2014
 ---
-
-
+Francesca Tripodi was a 2013–2014 Praxis Fellow.

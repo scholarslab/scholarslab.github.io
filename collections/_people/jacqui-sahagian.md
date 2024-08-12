@@ -12,4 +12,4 @@ people-category:
 roles:
 - Praxis Fellow, 2021-2022
 ---
-Jacqui Sahagian is a 2021-2022 Praxis Fellow.
+Jacqui Sahagian was a 2021-2022 Praxis Fellow.

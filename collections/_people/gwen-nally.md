@@ -14,5 +14,4 @@ roles:
 - Praxis Fellow, 2012–2013
 - Graduate Fellow, 2013–2014
 ---
-
-
+Gwen Nally was a 2012-2013 Praxis Fellow and 2013-2014 Graduate Fellow.

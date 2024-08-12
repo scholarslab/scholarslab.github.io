@@ -11,4 +11,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2018-2019
 ---
-Grant Kim is a Makerspace Technologist.
+Grant Kim was a Makerspace Technologist 2018-2019.

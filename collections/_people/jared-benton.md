@@ -14,5 +14,6 @@ people-category:
 roles:
 - Graduate Fellow, 2010–2011
 ---
+Jared Benton was a 2010-2011 Graduate Fellow. During that role, his bio text was:
 
 Jared Benton is a Ph.D. candidate in the McIntire Department of Art & Architecture's Classical Archaeology Program. He plans to use GIS mapping and analysis techniques to examine specialization in Pompeii's bakeries as a case study of changes in the Roman economy in the first century CE.

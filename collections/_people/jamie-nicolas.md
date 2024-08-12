@@ -10,4 +10,4 @@ people-category:
 roles:
 - LAMI Fellow, 2022
 ---
-Jamie Nicolas is a 2022 LAMI Fellow.
+Jamie Nicolas was a 2022 LAMI Fellow.

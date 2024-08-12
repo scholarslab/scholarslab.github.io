@@ -17,6 +17,7 @@ roles:
 - Praxis Fellow, 2015-2016
 - Prototyping Fellow, 2017-2018
 ---
+James P. Ascher was a 2015-2016 Praxis Fellow and 2017-2018 Prototyping Fellow. During that role, his bio text was:
 
 Doctoral candidate in the English Department who studies 18th century anglophone literature and bibliography, James puts media studies, textual criticism, ephemera, and paperwork history under the big-tent of bibliography. He's interested in resistance to the Enlightenment, epistolary communities, and the history of features in books, as well as the light they shed on clandestine publishing and the history of obscenity.
 
