@@ -7,6 +7,7 @@ Site Banner
 Navigation
 Footer
 Main content for all pages
+	People image/name/role sections on unit pages
 Homepage Styles
 /work projects browse
 Individual work projects pages
@@ -320,6 +321,29 @@ h1,h2,h3,h4 {
 		margin: 0 auto;
 		padding: 0 2rem 2rem;
 	}
+}
+
+/* People image/name/role sections on unit pages */
+
+.rd-person__img, .spatial-person__img, .makerspace__people img {
+	width: 50%;
+}
+
+/* Don't show a bullet next to each */
+#rd-staff ul, .spatial__people ul, .makerspace-picture-staff ul {
+	list-style-type: none;
+}
+
+#rd-staff li, .spatial__people li, .makerspace-picture-staff li {
+	padding-bottom: 1em;
+}
+
+.rd-person__name, .spatial-person__name, .makerspace-person__name {
+	font-weight: bold;
+}
+
+.rd-person__position, .spatial-person__position {
+
 }
 
 /********************************************************************/
