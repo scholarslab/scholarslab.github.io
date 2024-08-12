@@ -10,4 +10,4 @@ people-category:
 roles:
 - Praxis Fellow, 2021-2022
 ---
-Cherrie Kwok is a 2021-2022 Praxis Fellow.
+Cherrie Kwok was a 2021-2022 Praxis Fellow.

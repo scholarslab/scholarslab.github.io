@@ -16,4 +16,6 @@ roles:
 - Graduate Fellow, 2007-2008
 ---
 
+Chris Forster was a Graduate Fellow 2007-2008. Shortly after that role, his bio text read:
+
 Former NINES Fellow, Scholars' Lab Fellow, and HASTAC Scholar. Currently Assistant Professor of English at Syracuse University. I completed my PhD at the University of Virginia in August, 2011.

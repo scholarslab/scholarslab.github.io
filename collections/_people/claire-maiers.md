@@ -14,4 +14,4 @@ roles:
 - Praxis Fellow, 2012–2013
 ---
 
-
+Claire Maiers was a 2012-2013 Praxis Fellow.

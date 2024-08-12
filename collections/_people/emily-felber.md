@@ -13,5 +13,4 @@ people-category:
 roles:
 - CHI Intern, Spring 2019
 ---
-
-Emily Felber works as a Cultural Heritage Informatics Intern with Will Rourk in Spring 2019.
+Emily Felber worked as a Cultural Heritage Informatics Intern with Will Rourk in Spring 2019.

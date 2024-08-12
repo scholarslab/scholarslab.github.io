@@ -13,4 +13,4 @@ people-category:
 roles:
 - Praxis Fellow, 2019-2020
 ---
-Chloe Downe Wells is a PhD student in the Art and Architectural History department.
+Chloe Downe Wells was a 2019-2020 Praxis Fellow and PhD student in the Art and Architectural History department.

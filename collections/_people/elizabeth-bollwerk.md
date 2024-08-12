@@ -14,4 +14,6 @@ roles:
 - Graduate Fellow, 2009–2010
 ---
 
+Elizabeth Bollwerk was a 2009-2010 Graduate Fellow. During that role, her bio text was:
+
 Elizabeth will analyze the geospatial patterns of pipe use in early Native American settlements. She will pair her strong archaeological background with a suite of GIS technologies.

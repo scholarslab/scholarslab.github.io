@@ -13,3 +13,4 @@ people-category:
 roles:
 - Praxis Fellow, 2018-2019
 ---
+Chris Whitehead was a Praxis Fellow 2018-2019.

@@ -17,4 +17,4 @@ roles:
 - Praxis Fellow, 2011-2012
 ---
 
-Ed was a 2011-12 Scholars' Lab Fellow and Praxis Fellow, and is a PhD candidate in the McIntire Department of Art.
+Ed Triplett was a 2011-2012 Scholars' Lab Fellow and Praxis Fellow, and was a PhD candidate in the McIntire Department of Art at the time.

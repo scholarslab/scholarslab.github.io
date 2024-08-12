@@ -11,4 +11,4 @@ people-category:
 roles:
 - Makerspace Technologist, 2019-2020
 ---
-Dipsikha Thakur is a Makerspace Technologist for the 2019-2020 academic year.
+Dipsikha Thakur was a Makerspace Technologist for the 2019-2020 academic year.

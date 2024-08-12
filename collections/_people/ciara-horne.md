@@ -15,4 +15,4 @@ roles:
 - CHI Intern, Spring 2019
 ---
 
-Ciara Horne works as a Cultural Heritage Informatics Intern with Will Rourk in Spring 2019.
+Ciara Horne worked as a Cultural Heritage Informatics Intern and 3D Technologies Student Assistant with Will Rourk in 2019.

@@ -14,5 +14,4 @@ people-category:
 roles:
 - Graduate Fellow, 2012–2013
 ---
-
-
+David Flaherty was a 2012-2013 Graduate Fellow.

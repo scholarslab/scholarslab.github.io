@@ -12,4 +12,4 @@ people-category:
 roles:
 - Praxis Fellow, 2020-2021
 ---
-Crystal Luo is a 2020-2021 Praxis Fellow.
+Crystal Luo was a 2020-2021 Praxis Fellow.

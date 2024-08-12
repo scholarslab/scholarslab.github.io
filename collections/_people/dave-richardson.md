@@ -12,5 +12,4 @@ people-category:
 roles:
 - GIS Intern
 ---
-
-Dave is a former GIS assistant in the Scholars' Lab and a graduate of the Environmental Sciences program.
+Dave Richardson was a GIS assistant in the Scholars' Lab, and is a graduate of the Environmental Sciences program.

@@ -15,4 +15,4 @@ roles:
 - Graduate Fellow, 2007-2008
 ---
 
-
+Dana Stefanelli was a 2007-2008 Graduate Fellow.

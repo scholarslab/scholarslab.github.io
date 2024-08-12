@@ -15,4 +15,4 @@ roles:
   - Public History Intern, 2019
   - Praxis Fellow, 2018-2019
 ---
-Emily Mellen is a Public History Intern (2019) as well as a Praxis Fellow (2018-2018).
+Emily Mellen was a Public History Intern (2019), a Praxis Fellow (2018-2019), and a PCUAS Digital Archiving Intern (2020).

@@ -12,5 +12,5 @@ people-category:
 roles:
 - Praxis Fellow, 2013–2014
 ---
-
+Elizabeth Fox was a 2013-2014 Praxis Fellow.
 

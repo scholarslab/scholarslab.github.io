@@ -14,3 +14,4 @@ roles:
 - Praxis Fellow, 2017-2018
 - Makerspace Technologist, 2016-2017
 ---
+Christian Howard was a Makerspace Technologist 2016-2017, Praxis Fellow 2017-2018, and Prototyping Fellow 2018-2019.

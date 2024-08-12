@@ -11,6 +11,7 @@ status: not_current
 people-category:
 - student
 roles:
-- GIS Intern, 2017-current
+- GIS Intern, 2017-2020
 - Praxis Fellow, 2018–2019
 ---
+Cho Jiang was a GIS Intern for several years, starting in 2017; and a 2018-2019 Praxis Fellow.

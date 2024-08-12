@@ -14,3 +14,4 @@ roles:
 - Graduate Fellow, 2022-2023
 - Praxis Fellow, 2018-2019
 ---
+Eleanore Neumann was a 2018-2019 Praxis Fellow and 2022-2023 Graduate Fellow.
