@@ -40,11 +40,17 @@ In an era retrospectively peopled by the New Woman debates and masculine citizen
 
 # Works Cited
 Bhattacharyya, Panchanan, and Sir A. Chaudhuri. *Ideals of Indian Womanhood. With a Foreword by A. Chaudhuri.* Calcutta: Goldquin, 1921. http://cbw.iath.virginia.edu/cbw_db/collections.php?id=1399.
-Booth, Alison. *How To Make It As A Woman: Collective Biographical History from Victoria to the Present.* Chicago: University of Chicago Press, 2004.
-Chapman, E. F. *Sketches of Some Distinguished Indian Women; With a preface by the Marchioness of Dufferin and Ava.* London: W.H. Allen & Co., Limited, 1891. http://cbw.iath.virginia.edu/cbw_db/collections.php?id=1480.
-Daly, Mackenzie. “Gamaliel Bradford and Psychography.” Published July 05, 2024. https://scholarslab.lib.virginia.edu/blog/gamaliel-bradford-and-psychography/. Accessed on July 8, 2024. Accessed in draft.
-Devi, Sunity, Maharani of Cooch Behar, CIE. *Nine Ideal Indian Women.* Calcutta: Thacker, 1919. 
-Ghosh, Durba. “Revolutionary Women and Nationalist Heroes in Bengal, 1930 to the 1980s.” Gender & History 25, no.2 (August 2013): 355-375.
-Sarkar, Mahua. *Visible Histories, Disappearing Women: Producing Muslim Womanhood In Late Colonial Bengal.* Durham: Duke University Press, 2008.
-Ujayli, Zaina. “Death Politics in Collections of Indian Women’s Lives.” Published October 07, 2020. https://scholarslab.lib.virginia.edu/blog/cbw-indianwomen/. Accessed on June 30, 2023.
 
+Booth, Alison. *How To Make It As A Woman: Collective Biographical History from Victoria to the Present.* Chicago: University of Chicago Press, 2004.
+
+Chapman, E. F. *Sketches of Some Distinguished Indian Women; With a preface by the Marchioness of Dufferin and Ava.* London: W.H. Allen & Co., Limited, 1891. http://cbw.iath.virginia.edu/cbw_db/collections.php?id=1480.
+
+Daly, Mackenzie. “Gamaliel Bradford and Psychography.” Published July 05, 2024. https://scholarslab.lib.virginia.edu/blog/gamaliel-bradford-and-psychography/. Accessed on July 8, 2024. Accessed in draft.
+
+Devi, Sunity, Maharani of Cooch Behar, CIE. *Nine Ideal Indian Women.* Calcutta: Thacker, 1919. 
+
+Ghosh, Durba. “Revolutionary Women and Nationalist Heroes in Bengal, 1930 to the 1980s.” Gender & History 25, no.2 (August 2013): 355-375.
+
+Sarkar, Mahua. *Visible Histories, Disappearing Women: Producing Muslim Womanhood In Late Colonial Bengal.* Durham: Duke University Press, 2008.
+
+Ujayli, Zaina. “Death Politics in Collections of Indian Women’s Lives.” Published October 07, 2020. https://scholarslab.lib.virginia.edu/blog/cbw-indianwomen/. Accessed on June 30, 2023.
