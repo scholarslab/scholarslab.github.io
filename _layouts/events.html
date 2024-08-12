@@ -41,12 +41,12 @@ layout: default
 			{% endif %}
 			{% if page.rsvp %}
 				<li>Registration required: <a href="{{ page.rsvp }}">register here</a></li>
-			{% endif %}		
-		</ul>	
+			{% endif %}
+		</ul>
 	</div> <!-- end .event-stats-box -->
 
 	{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
-		<p>{{ content }}</p>
+		{{ content }}
 	{% else %}
 		<p>An event description may be added here at a later point.</p>
 	{% endunless %}
