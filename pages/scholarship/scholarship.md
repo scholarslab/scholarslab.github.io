@@ -10,4 +10,4 @@ We use "scholarship" to encompass all forms of knowledge making, both teaching a
 
 Check out our:
 * [Research blog](/blog): regular digital scholarship research essays, in addition to community news
-* [Research projects & other scholarly work](/our-projects): examples of our past & current work
+* [Research projects & other scholarly work](/work): examples of our past & current work

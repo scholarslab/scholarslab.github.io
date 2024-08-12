@@ -78,7 +78,7 @@ primary-navigation:
     url: "scholarship"
     subnavigation:
       - label: "Our Projects"
-        url: "our-projects"
+        url: "work"
       - label: "Blog"
         url: "blog"
   - label: "Visit"
@@ -92,7 +92,7 @@ primary-navigation:
     url: "events"
     subnavigation:
       - label: "Event Archive"
-        url: "event-archive"
+        url: "events-archive"
 
 defaults:
   - scope:
