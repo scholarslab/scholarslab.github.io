@@ -15,3 +15,5 @@ end-year: current
 ---
 
 A site for finding resources and learning about Makerspaces, Shops, Labs, and other spaces for making at the University of Virginia.
+
+![Collaboration among 3+ UVA makerspaces to make metal facsimiles of 3D-scanned cultural heritage artifacts](/assets/img/work/makergrounds-pour.jpg)
