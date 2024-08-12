@@ -10,8 +10,9 @@ Main content for all pages
 Homepage Styles
 /work projects browse
 Individual work projects pages
-People browse
+/people grid page
 Individual people (bio) pages
+Individual events pages
 Use the Lab page: weekly calendar hours styling
 /makerspace page
 Individual post pages
@@ -448,7 +449,7 @@ ul .project-stats-box {
 }
 
 /********************************************************************/
-/* People browse */
+/* /people grid page */
 body.people .gallery {
 	display:flex;
 	gap: 1rem;
@@ -517,6 +518,23 @@ ul .bio-stats-box {
 
 .person__img {
 	padding-top: 1em;
+}
+
+/********************************************************************/
+/** Individual events pages */
+.event-stats-box {
+	position: relative;
+	border: 4px solid var(--uvalib-secondary-light-gray);
+	font-family:  monospace;
+	font-size: 20px;
+	padding: .5em 1em;
+	span {
+		color: rgba(0,0,0,.5);
+	}
+}
+
+ul .event-stats-box {
+	text-align: right;
 }
 
 /********************************************************************/

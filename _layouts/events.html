@@ -8,7 +8,7 @@ layout: default
 		<h1>{{ page.title | replace: ' - ', ': ' | replace: ' and ', ' &amp; ' }}</h1>
 	</hgroup>
 </header>
-<!-- NB: !!! this only exists until we restructure the YAML !!! -->
+
 <!-- remove trailing seconds zeros on time -->
 {% assign start_time = page.start_time | date: "%r" | remove: ":00 " %}
 {% assign end_time = page.end_time | date: "%r" | remove: ":00 " %}
@@ -24,33 +24,34 @@ layout: default
 {% endif %}
 
 <div class="content">
-	<div class="metadata">
-		<h2>Event Information</h2>
-		<table>
+	<div class="event-stats-box">
+		<h2>Event Info</h2>
+		<ul>
 			{% if page.start_date %}
-			<tr><th scope="row">Date:</tr><td>{{ page.start_date | date: "%A, %m/%-d/%Y" }}</td></tr>
+				<li>Date: {{ page.start_date | date: "%A, %m/%-d/%Y" }}</li>
 			{% endif %}
 			{% if page.start_time and page.end_time  %}
-			<tr><th scope="row">Time:</th><td>{{ start_time }}-{{ end_time }}</td></tr>
-			{% endif %}
-			<!--span>Length:</span>1hr<br/-->
+			<li>Time: {{ start_time }}-{{ end_time }}</li>
+				{% endif %}
 			{% if page.location %}
-			<tr><th scope="row">Place:</th><td>{{ page.location }}</td></tr>
+				<li>Place: {{ page.location }}</li>
 			{% endif %}
 			{% if page.instructor %}
-			<tr><th>Instructor(s):</th><td>{{ page.instructor }}</td></tr>
+				<li>Instructor: {{ page.instructor }}</li>
 			{% endif %}
 			{% if page.rsvp %}
-			<tr><th scope="row">Registration required:</th><td><a href="{{ page.rsvp }}">register here</a></td></tr>
-			{% endif %}
-		</table>
-	</div>
+				<li>Registration required: <a href="{{ page.rsvp }}">register here</a></li>
+			{% endif %}		
+		</ul>	
+	</div> <!-- end .event-stats-box -->
+
 	{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
-		{{ content }}
+		<p>{{ content }}</p>
 	{% else %}
-		<p>No description has been added at this time.</p>
+		<p>An event description may be added here at a later point.</p>
 	{% endunless %}
 
-	<span>Questions?</span><br/>Contact Scholars' Lab Assistant Director for Public Services <a href="mailto:lam2c@virginia.edu?subject=Question about SLab Event">Laura Miller</a>.</li>
+<h2>Questions?</h2>
+<p>Contact Scholars' Lab Assistant Director for Public Services <a href="mailto:lam2c@virginia.edu?subject=Question about SLab Event">Laura Miller</a>.</p>
 
-</div>
+</div> <!-- end .content -->
