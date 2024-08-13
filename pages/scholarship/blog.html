@@ -25,7 +25,7 @@ redirect_from:
 		{% if post.category != "update" %}
 			<h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h2>
 		{% else %}
-			<h2>{{ post.date | date: "%B %-d, %Y" }} update: <a href="{{ post.url }}">{{ post.title }}</a></h2>				
+			<h2>{{ post.date | date: "%B %-d, %Y" }} update: <a href="{{ post.url }}">{{ post.title }}</a></h2>
 		{% endif %}
 	</hgroup></header>
 	<div class="content">
@@ -48,7 +48,7 @@ redirect_from:
 			<footer class="byline">
 				<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
 			</footer>
-		{% endif %}		
+		{% endif %}
 </article>
 {% endfor %} <!-- end post -->
 
@@ -69,9 +69,10 @@ redirect_from:
 		{% assign date = currentdate %}
 	{% endif %}
 	{% if post.category != "update" %}
-		<li><a href="{{ post.url }}">"{{ post.title }}"</a> by {{ authorstring | strip }}</li>
+		<li><a href="{{ post.url }}">"{{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}"</a> by {{ authorstring | strip }}</li>
 	{% else %}
-		<li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }} update: {{ post.title }}</a></li>	
+		<li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }}
+		update: {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
 	{% endif %}
 	{% if forloop.last %}
 		</ul>
