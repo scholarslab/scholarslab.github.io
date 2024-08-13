@@ -109,13 +109,18 @@ img {
 
 a {
 	&:link{
+		color: var(--blue-alt-dark);
 	}
 	&:visited{
+		color: var(--blue-alt);
 	}
 	&:hover,
 	&:focus {
+		color: var(--blue-alt-dark);
+		text-decoration:none;
 	}
 	&:active{
+		color: var(--uvalib-text-almost-black);
 	}
 }
 
