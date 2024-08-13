@@ -10,7 +10,6 @@ collaborators:
     slug: ammon-shepherd
     role: Makerspace Manager and Lead Research Technologist
   - name: Further authors listed in project description
-current: false
 layout: work
 link: 'https://scholarslab.lib.virginia.edu/blog/year-of-blogging-2019-debrief/'
 slug: year-of-blogging-2019

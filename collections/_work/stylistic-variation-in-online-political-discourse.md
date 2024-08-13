@@ -6,7 +6,6 @@ collaborators:
   - name: Brandon Walsh
     slug: brandon-walsh
     role: Head of Student Programs
-current: true
 layout: work
 link:
 slug: stylistic-variation-in-online-political-discourse

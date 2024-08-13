@@ -6,7 +6,6 @@ collaborators:
   - name: Rebecca Bultman
     slug: rebecca-bultman
     role: Digital Pedagogy Consultant
-current: true
 layout: work
 link: 'https://github.com/walshbr/humanists-nlp-cookbook/blob/main/toc.ipynb'
 slug: a-humanists-cookbook-for-natural-language-processing-in-python

@@ -40,22 +40,19 @@ task :new_project, [:title] do |t, args|
   titlecase_title = args.title.titlecase
   File.open(fn, 'w'){|f|
     f.puts("---
-collaborators:
+    
+layout: work
+slug: the-slug
+title: ""
+collaborators: 
   - name: First Last
     slug: first-last
     role:
-current: false
-layout: work
-link: ''
-slug: #{title_slug}
-title: #{titlecase_title}
-thumb-img:
-banner-img:
-research-category:
-start-year: 2017
-end-year: 2018
+research-category: 
+start-year:
+end-year:    
 ---
-Description of the project goes here")
+More details to come.")
   }
   puts "New research project created at #{fn}"
 end
@@ -72,18 +69,15 @@ task :new_event, [:title, :date] do |t, args|
     f.puts("---
 author: first-last
 start_date: #{event_date}
-start_time: '15:00:00'
 end_date: '#{event_date}'
-end_time: '16:00:00'
+start_time: '00:00:00'
+end_time: '00:00:00'
 layout: events
-slug: #{title_slug + "-" + event_date}
+location: 'Shannon Library 308 (SLab Common Room)'
 title: '#{titlecase_title}'
-location: 'Shannon 308 (SLab Common Room)'
+rsvp: "https://cal.lib.virginia.edu/calendar/events/GradCamp2024"
 ---
-Description of the event - meant to be replaced with your information. The above information is meant to offer you a template. Note, you may also add the following, optional metadata by copying it to the above header on a new line after location but before the three dashes:
-
-instructor: 'Brandon and Laura'
-
+More details to come.
     ")
   }
   puts "New event page created at #{fn}"
@@ -96,23 +90,24 @@ task :new_person, [:first_name, :last_name] do |t, args|
   if File.exist? fn; raise RuntimeError.new("The file #{fn} already exists."); end
   File.open(fn, 'w'){|f|
     f.puts("---
-department: None
-email: None
-first_name: #{args.first_name.titlecase}
-last_name: #{args.last_name.titlecase}
 layout: people
-name: #{args.first_name.titlecase + ' ' + args.last_name.titlecase}
-position: None
+title: FirstName LastName
+slug: firstname-lastname
+first_name: FirstName
+last_name: LastName
 short_bio: 'A short one-sentence bio.'
-slug: #{slug}
-status: current or not_current
 website:
+email: 
+status: current or not_current
+department: UVA Academic Department If Any
+position: Name of Role
 people-category:
 - Pick one of student, director, or staff
 roles:
-- LAMI FELLOW, 2018 (for example)
+- LAMI Fellow, 2018 (for example)
+- Multiple role get added on a new line like this
 ---
-A flashy bio goes here. The above information is meant to give you a template.")
+More details to come.")
   }
   puts "New person created at #{fn}"
 end

@@ -9,7 +9,6 @@ collaborators:
   - name: Will Rourk
     slug: will-rourk
     role: 3D Technologies Specialist
-current: true
 layout: work
 slug: virtual-garden-dining-in-pompeii
 title: Virtual Garden Dining In Pompeii
