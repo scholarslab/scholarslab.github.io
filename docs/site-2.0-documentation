@@ -2,8 +2,9 @@
 
 # To do
 tags
-categories and their uses
+categories and their uses (3 post types; what yaml for each; how each appears on homepage, /blog, individual post pages, bio page loops, project page loops)
 css org
+why some files md vs html (loops/liquid conditionals)
 file org (tabs)
 where to find what; how pages file org works
 redirects
