@@ -13,7 +13,6 @@ Homepage Styles
 Individual work projects pages
 /people grid page
 Individual people (bio) pages
-Individual events pages
 Use the Lab page: weekly calendar hours styling
 /makerspace page
 Individual post pages
@@ -132,6 +131,22 @@ h1,h2,h3,h4 {
 #banner {
 	font-family: var(--franklin-gothic-urw-comp);
 	text-transform: uppercase;
+}
+
+.stats-box {
+	position: relative;
+	border: 4px solid var(--uvalib-secondary-light-gray);
+	font-family:  monospace;
+	font-size: 20px;
+	padding: .5em 1em;
+	span {
+		color: rgba(0,0,0,.5);
+	}
+}
+
+/* Used on: /digital-humanities, individual pages for events, people, and projects */
+ul .stats-box {
+	text-align: right;
 }
 
 /********************************************************************/
@@ -592,20 +607,6 @@ section.feature {
 
 /********************************************************************/
 /* Individual work projects pages */
-.project-stats-box {
-	position: relative;
-	border: 4px solid var(--uvalib-secondary-light-gray);
-	font-family:  monospace;
-	font-size: 20px;
-	padding: .5em 1em;
-	span {
-		color: rgba(0,0,0,.5);
-	}
-}
-
-ul .project-stats-box {
-	text-align: right;
-}
 
 .project-image {
 	text-align: center;
@@ -665,40 +666,9 @@ body.people .gallery {
 
 /********************************************************************/
 /** Individual people (bio) pages */
-.bio-stats-box {
-	position: relative;
-	border: 4px solid var(--uvalib-secondary-light-gray);
-	font-family:  monospace;
-	font-size: 20px;
-	padding: .5em 1em;
-	span {
-		color: rgba(0,0,0,.5);
-	}
-}
-
-ul .bio-stats-box {
-	text-align: right;
-}
 
 .person__img {
 	padding-top: 1em;
-}
-
-/********************************************************************/
-/** Individual events pages */
-.event-stats-box {
-	position: relative;
-	border: 4px solid var(--uvalib-secondary-light-gray);
-	font-family:  monospace;
-	font-size: 20px;
-	padding: .5em 1em;
-	span {
-		color: rgba(0,0,0,.5);
-	}
-}
-
-ul .event-stats-box {
-	text-align: right;
 }
 
 /********************************************************************/

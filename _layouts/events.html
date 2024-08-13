@@ -24,7 +24,7 @@ layout: default
 {% endif %}
 
 <div class="content">
-	<div class="event-stats-box">
+	<div class="stats-box">
 		<h2>Event Info</h2>
 		<ul>
 			{% if page.start_date %}
@@ -43,7 +43,7 @@ layout: default
 				<li>Registration required: <a href="{{ page.rsvp }}">register here</a></li>
 			{% endif %}
 		</ul>
-	</div> <!-- end .event-stats-box -->
+	</div> <!-- end .stats-box -->
 
 	{% unless page.content.size == 1 or page.content == blank or page.content == empty %}
 		{{ content }}
