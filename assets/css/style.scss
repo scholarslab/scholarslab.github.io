@@ -404,12 +404,29 @@ section.feature {
 			font-size: 1rem;
 		}
 
+		.see-all {
+			text-decoration:none;
+			background: var(--blue-alt);
+			color: white;
+			padding: 0.5rem;
+			width: fit-content;
+			margin-top: 1rem;
+			transition-property: background;
+			transition-duration: 0.5s;
+			transition-delay: 0s;
+			&:hover,
+			&:focus {
+				background: var(--blue-alt-light);
+			}
+
+		}
+
 		#upcoming-events {
 			li + li {
 				margin-top: 1rem;
 			}
 
-			a {
+			li a {
 				text-decoration:none;
 				display:flex;
 				color: var(--uvalib-text-dk-grey);
