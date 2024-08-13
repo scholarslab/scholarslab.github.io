@@ -110,12 +110,6 @@ h1,h2,h3,h4 {
 #banner {
 	font-family: var(--franklin-gothic-urw-comp);
 	text-transform: uppercase;
-	background-color: rgba(0,0,0,0.0325);
-	background-image: url('/assets/img/decorative/tiles/hypnotize.png');
-	background-size:200px;
-	.home & {
-		min-height: 80vh;
-	}
 }
 
 /********************************************************************/
@@ -123,7 +117,6 @@ h1,h2,h3,h4 {
 #scholarslab-header {
 	position: relative;
 	padding: 1rem;
-	background: white;
 	#global-navigation > .menu-toggle {
 		position: absolute;
 		top: 1rem;
@@ -182,6 +175,34 @@ h1,h2,h3,h4 {
 
 /********************************************************************/
 /* Homepage Styles */
+#introduction {
+	padding: 0 2rem;
+	display:flex;
+	flex-direction:column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	min-height: 400px;
+	background-color: rgba(0,0,0,0.0325);
+	background-image:
+		url('/assets/img/decorative/abstract-decorative/SLab_HandsVines_Logo.png'),
+		url('/assets/img/decorative/tiles/hypnotize.png');
+	background-size: contain, 200px;
+	background-position: bottom right;
+	background-repeat: no-repeat, repeat;
+	padding-right: 50%;
+	h1 {
+		font-size: 4rem;
+		text-transform: none;
+		line-height:1;
+		margin:0 0 1rem;
+	}
+
+	p {
+		margin:0;
+	}
+}
+
+
 #newsletter {
 	padding: 1rem;
 	text-align: center;
