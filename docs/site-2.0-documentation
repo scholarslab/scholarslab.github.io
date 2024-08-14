@@ -1,6 +1,6 @@
 
 
-# To do
+# To do: writing
 tags
 categories and their uses (3 post types; what yaml for each; how each appears on homepage, /blog, individual post pages, bio page loops, project page loops)
 css org
@@ -23,3 +23,21 @@ past events vs events
 status: not_current people
 
 projects/work
+
+ scheduling? (when should it be published?)
+ Documentation for crossposting re:Standardize the Way Posts are Crossposted #767
+ How to edit multiple files in a single PR.
+ How to edit a file after the PR is opened.
+ review + approval process (after Configure repo settings for PR/review/merge workflow #503)
+ info on what the different files/folders in a Jekyll directory do, and where to find the thing you need to edit: pages, front page, includes, data files (partially covered here )
+ also say something like “if you’re working with a pull request and want someone else to review your work, here is how you request a review”
+ "Jekyll sometimes has weird edge case errors when deployed on github pages related to cases. We should specify that people should use lowercase filenames in their images and posts."
+ add definitions: GitHub vs git, git vs versioning, hosting on GitHub Pages
+ Document how to find all branches (e.g. to delete one when off PR page)
+ Add to tutorial: how to update your bio page or username
+ Add info on updating your branch from master if it's been a while
+ Bookmarkable explanation of where to go for what
+
+# To do: not writing in Doc doc
+* Schedule manual annual events move to /_past-events folder during summer
+* Update events documentation about which folder to use (_events vs _past-events); and filename pattern
