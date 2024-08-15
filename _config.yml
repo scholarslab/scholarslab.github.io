@@ -55,12 +55,14 @@ primary-navigation:
   - label: "Consult"
     url: "consult"
     subnavigation:
-      - label: "Digital Humanities"
-        url: "digital-humanities"
       - label: "Spatial Tech"
         url: "spatial-technologies"
       - label: "Makerspace"
         url: "makerspace"
+      - label: "Code + Design"
+        url: "code-design"
+      - label: "Digital Humanities"
+        url: "digital-humanities"
   - label: "Opportunities"
     url: "opportunities"
     subnavigation:
