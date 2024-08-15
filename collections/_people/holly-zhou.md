@@ -13,3 +13,4 @@ roles:
 - Critical Making Fellow, 2023-2024
 ---
 
+Holly Zhou was a Scholars' Lab Critical Making Fellow 2023-2024.

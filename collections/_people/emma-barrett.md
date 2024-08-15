@@ -10,4 +10,4 @@ people-category:
 roles:
 - LAMI Fellow, 2024
 ---
-Emma Barrett is a 2024 LAMI fellow.
+Emma Barrett was a 2024 LAMI fellow.

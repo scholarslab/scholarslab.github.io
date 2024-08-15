@@ -8,6 +8,6 @@ status: current
 people-category:
 - student
 roles:
-- Praxis Fellow, 2024
+- Praxis Fellow, 2024-2025
 ---
 Gramond McPherson is a 2024-2025 Praxis fellow.

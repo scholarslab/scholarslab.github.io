@@ -8,6 +8,6 @@ status: current
 people-category:
 - student
 roles:
-- LAMI FELLOW, 2024 
+- LAMI Fellow, 2024 
 ---
-Cadence Chen is a 2024 LAMI fellow.
+Cadence Chen was a 2024 LAMI fellow.
