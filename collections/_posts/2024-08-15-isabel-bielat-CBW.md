@@ -1,5 +1,5 @@
 ---
-author: isabel-bielat
+author: "Isabel Bielat"
 date: 2024-08-15
 layout: post
 slug: isabel-bielat-CBW
