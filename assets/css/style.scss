@@ -13,8 +13,9 @@ Homepage Styles
 Individual work projects pages
 /people grid page
 Individual people (bio) pages
-Use the Lab page: weekly calendar hours styling
+/makerspace AND /use-the-lab pages: weekly calendar hours styling
 /makerspace page
+/blog
 Individual post pages
 */
 
@@ -688,7 +689,7 @@ body.people .gallery {
 }
 
 /********************************************************************/
-/* Use the Lab page: weekly calendar hours styling */
+/* Use the Lab page & /makerspace page: weekly calendar hours styling */
 .s-lc-whw thead { background-color: #F5F5F5; }
 .s-lc-whw-head-date { color: #5F5F5F; }
 .s-lc-whw-today-h {  background-color: #ddd; }
@@ -792,7 +793,49 @@ body.people .gallery {
   }
 
 /********************************************************************/
-/** Individual post pages */
+/* /blog */
+
+#latest-posts {
+	line-height: 1;
+	margin: 0;
+}
+
+#latest-posts h3 {
+	margin: 0;
+}
+
+#latest-posts .content {
+	padding: 0;
+}
+
+#latest-posts .post {
+  border: solid var(--grape);
+  text-align: justify;
+  border-width: 0 3px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px 15px;
+  margin: 20px;
+  
+#latest-posts.post:before {
+	display:block;
+	content: ' ';
+	margin: 1rem auto;
+	width: 20px;
+	background: var(--uvalib-secondary-web-orange);
+	height: 3px;
+}
+  
+}
+
+.byline {
+	color: var(--uvalib-text-dk-grey);
+	font-style: italic;
+}
+
+
+/********************************************************************/
+/* Individual post pages */
 .post__credits {
 	position: relative;
 	grid-area: footer;
@@ -854,7 +897,7 @@ body.people .gallery {
 	}
 }
 
-#migration-alert, #old-bio-alert {
+#migration-alert {
     margin: 24px 0 -1em;
     padding: 18px;
     background: var(--uvalib-secondary-light-gray);

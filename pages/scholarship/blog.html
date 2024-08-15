@@ -14,6 +14,8 @@ redirect_from:
 </p>
 
 <!-- post layout: -->
+<section id="latest-posts">
+<h2>Latest Posts</h2>
 {% for post in site.posts limit:4 %}
 	{% capture authorstring %}
 		{% include author-name.html authorid=post.author %}
@@ -23,9 +25,9 @@ redirect_from:
 		<!-- updates have no page links, so check category before displaying -->
 		<!-- no slash in href b/c included in post.url -->
 		{% if post.category != "update" %}
-			<h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h2>
+			<h3><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h3>
 		{% else %}
-			<h2>{{ post.date | date: "%B %-d, %Y" }} update: <a href="{{ post.url }}">{{ post.title }}</a></h2>
+			<h3>{{ post.date | date: "%B %-d, %Y" }} update: <a href="{{ post.url }}">{{ post.title }}</a></h3>
 		{% endif %}
 	</hgroup></header>
 	<div class="content">
@@ -35,22 +37,22 @@ redirect_from:
 			{% if post.summary %}
 				{{ post.summary | smartify }}
 				{% else %}
-				{{ post.content | strip_html | truncatewords: 25 | markdownify }}
+				{{ post.content | strip_html | truncatewords: 50 | markdownify }}
 			{% endif %}
 	</div>
 	<footer class="byline">
-		<div class="author">{{ authorstring | strip }}</div>
-		<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+		—{{ authorstring | strip }} on {{ post.date | date: "%B %-d, %Y" }}
 	</footer>
 		{% else %}
 			{{ post.content | strip_html | markdownify }}
 			</div>
 			<footer class="byline">
-				<div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+				{{ post.date | date: "%B %-d, %Y" }}
 			</footer>
 		{% endif %}
 </article>
 {% endfor %} <!-- end post -->
+</section><!-- end recent posts section -->
 
 <section id="previous_posts">
 <h2>Previous Posts</h2>
