@@ -48,25 +48,13 @@ nav: true
 
 <!-- students: -->
 <section id="students">
-	<h2>Students</h2>
-	<div class="gallery">
+	<h2>Current Students</h2>
+	<ul>
 		{% for person in students %}
-			{% assign profile_pic = site.static_files | where: "basename", person.slug | limit: 1 %}
-		<a href="/people/{{ person.slug }}/">
-			{% if profile_pic == empty %}
-			<img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="">
-					{% else %}
-						{% for pic in profile_pic %}
-							{% if pic.path contains 'grid' %}
-								<img src="{{ pic.path }}" alt="">
-							{% endif %}
-						{% endfor %}
-					{% endif %}
-            <p class="person-name">{{ person.title }}</p>
-            <p class="person-role">{% for item in person.roles limit: 1 %}{{ item }}{% endfor %}</p>
-		</a>
-        {% endfor %}
-	</div>
+			<li><a href="/people/{{ person.slug }}" aria-label="{{ person.title }}">{{ person.title }}</a><br>
+			{% for item in person.roles limit: 1 %}{{ item }}{% endfor %}</li>
+		{% endfor %}	
+	</ul>
 </section> <!-- end students section -->
 
 <section id="alumni">
