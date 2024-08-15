@@ -33,9 +33,7 @@ layout: default
 </header>
 
 <div class="content">
-	{% if profile_pic == empty %}
-		 <img src="{{ site.baseurl }}/assets/img/people/grid/default-printing.jpg" alt="[Default image] Makerspace printing in process">
-	{% else %}
+	{% if profile_pic %}
 		{% for pic in profile_pic %}
 			{% unless pic.path contains 'cropped'  or pic.path contains 'grid' %}
 				<img src="{{ pic.path }}" alt="{{ page.slug }}">
