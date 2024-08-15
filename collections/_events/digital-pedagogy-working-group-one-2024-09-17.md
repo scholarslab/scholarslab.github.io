@@ -5,15 +5,9 @@ start_time: '11:00:00'
 end_date: '2024-09-17'
 end_time: '12:00:00'
 layout: events
-<<<<<<< HEAD
 title: 'Digital Pedagogy Reading Group - Labor'
 rsvp: https://cal.lib.virginia.edu/calendar/events/slab-digital-pedagogy-reading-group
 location: Zoom
-=======
-slug: digital-pedagogy-working-group-one-2024-09-17
-title: 'Digital Pedagogy Reading Group - Labor'
-location: '<a href="https://cal.lib.virginia.edu/calendar/events/slab-digital-pedagogy-reading-group">Register for Zoom Link</a>'
->>>>>>> master
 ---
 What is digital humanities? What is it doing—what does it do—in the classroom? Please join Rachel Retica, Seanna Viechweg, and Brandon Walsh for a reading group on digital pedagogy as a part of the Scholars’ Lab’s fall programming. Topics will broadly include digital humanities teaching and labor, interpretation and the role it plays in digital pedagogy, and culturally responsive digital pedagogy. We will share readings in advance to those registered. The goal throughout will be to offer a mix of theory and praxis, keeping an eye both on the ways we think about digital humanities teaching as well as the way we carry it out.
 

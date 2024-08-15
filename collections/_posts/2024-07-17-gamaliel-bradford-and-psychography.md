@@ -66,10 +66,7 @@ at last the free hour and the quiet spot are found, weary nerves have no
 longer any inspiration left in them.
 
 Both excerpts detail Alcott’s authorial life, but in dramatically different ways. Smith documents the number of months it took for Alcott to write the novel, the dates of publication, and the number of copies sold. Though he mentions how Alcott was “doubtful of her ability” to write *Little Women*, he does not pry any deeper into her psyche. Conversely, Bradford’s writing focuses solely on Alcott’s feelings of doubt, endeavoring to paint an image of Alcott’s tormented psychological state. Similar to Freud’s portrait of Da Vinci, Bradford homes in on the “discouragement and depression” which necessitates art. The last sentence of Bradford’s excerpt reads less like a biography, and more like a confessional journal entry. Bradford works to make Alcott’s intimate feelings of doubt and despair tangible to readers, giving them a look behind the curtain, so to speak.
-<<<<<<< HEAD
 
-=======
->>>>>>> master
 Though Bradford did not reveal much about his process of writing a psychograph, it is evident that it was an extensive one. He spent years writing these portraits, poring through letters and diaries, and agonizing over every detail of his writing. In a journal entry from March 7, 1919, Bradford wrote:
 
 > I have been toiling for three years over my portraits of women, have spent
