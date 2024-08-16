@@ -472,9 +472,14 @@ section.feature {
 			}
 		}
 
-		#recent-posts li + li:before {
-
+		#recent-posts li {
+			padding-bottom: 10px;
 		}
+		
+		#recent-posts h3 {
+			line-height: 1em;
+		}
+		
 		#recent-activity li + li:before {
 			display:block;
 			content: ' ';
