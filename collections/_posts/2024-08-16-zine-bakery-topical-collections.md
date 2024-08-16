@@ -11,6 +11,9 @@ tags:
 - zines
 - literature
 - metadata
+crosspost:
+  - title: Amanda's blog
+    url: https://literaturegeek.com/2024/08/16/zine-bakery-topical-collections
 ---
 
 The [Zine Bakery](https://zinebakery.com) catalog is a public view of a subset of the Zine Bakery dataset. It includes most/all of the zines in my personal catalogue, but only a subset of the metadata fields—leaving out fields irrelevant to the public like how many copies of a zine do I have at home, or private data like links to private PDF backups of zines.
