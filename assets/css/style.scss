@@ -163,7 +163,14 @@ ul .stats-box {
 }
 
 #slab-logo {
+	display:block;
 	text-decoration:none;
+	width: 300px;
+
+	img {
+		margin:0;
+	}
+
 }
 
 #global-navigation {
