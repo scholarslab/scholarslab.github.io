@@ -9,23 +9,23 @@ layout: default
 		<p class="role">
 			{% if page.people-category contains "staff" %}
 				{% if page.status contains "not_current" %}
-					Former {{ page.position }}
+					<h2>Former {{ page.position }}</h2>
 				{% elsif page.status contains "current" %}
-					{{ page.position }}
+					<h2>{{ page.position }}</h2>
 				{% endif %}
 			{% elsif page.people-category contains "director" %}
 				{% if page.status contains "not_current" %}
-					Former {{ page.position }}
+					<h2>Former {{ page.position }}</h2>
 				{% elsif page.status contains "current" %}
-					{{ page.position }}
+					<h2>{{ page.position }}</h2>
 				{% endif %}
 			{% elsif page.people-category contains "student" %}
 				{% if page.roles.size == 1 %}
-					{{ page.roles }}
+					<h2>{{ page.roles }}</h2>
 				{% endif %}
 			{% else %}
 				<ul>{% for role in page.roles %}
-					<li>{{ role }}</li>
+					<li><h2>{{ role }}</h2></li>
 				{% endfor %}</ul>
 			{% endif %}
 		</p>
@@ -33,15 +33,16 @@ layout: default
 </header>
 
 <div class="content">
-	{% if profile_pic %}
-		{% for pic in profile_pic %}
-			{% unless pic.path contains 'cropped'  or pic.path contains 'grid' %}
-				<img src="{{ pic.path }}" alt="{{ page.slug }}">
-			{% endunless %}
-		{% endfor %}
-	{% endif %}
+{% if profile_pic %}
+	{% for pic in profile_pic %}
+		{% unless pic.path contains 'cropped'  or pic.path contains 'grid' %}
+			<img src="{{ pic.path }}" alt="{{ page.slug }}">
+		{% endunless %}
+	{% endfor %}
+{% endif %}
+
 {% unless page.libcal == nil and page.website == nil and page.email == nil and page.department == nil %}
-<section id="elsewhere">
+<section id="stats-box">
 	<h2>Contact</h2>
 	<ul>
 		{% if page.email !=  nil and page.email != 'None' %}
@@ -72,21 +73,19 @@ layout: default
 	{% endif %}
 </section>
 
-<!-- list of blog posts by person -->
+<!-- list of blog posts by person; section only appears if non-announcement posts exist -->
 {% assign author_posts = site.posts | where: "author", page.slug  %}
-<section id="posts">
-	<h2>Research Posts & Lab Updates for {{ page.first_name }}</h2>
-	{% if author_posts.size >= 1 %}
+{% if author_posts.size >= 1 %}
 	{% if post.category != "announcement" %}
-	<ul>
-	{% for post in author_posts %}
-		<li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%m/%d/%Y" }}</li>
-	{% endfor %}
-	</ul>
+		<section id="posts">
+			<h2>Research Posts & Lab Updates for {{ page.first_name }}</h2>
+			<ul>
+			{% for post in author_posts %}
+				<li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%m/%d/%Y" }}</li>
+			{% endfor %}
+			</ul>
 	{% endif %}
-	{% else %}
-	<p>There are no posts by or lab updates about {{ page.first_name }} at this time.</p>
-	{% endif %}
+{% endif %}
 </section>
 
 </div> <!-- end div.content -->

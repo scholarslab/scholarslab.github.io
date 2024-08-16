@@ -66,6 +66,18 @@ Individual post pages
 	--diamond: rgb(185, 250, 248);
 	--darkpastelpurple: rgb(154, 119, 210);
 	--medskyblue:rgb(117, 227, 239);
+	
+	/* Colors from SLab rainbow vines-hand logo */
+	--logo-red-orange:#FE5102
+	--logo-light-orange:#FEA607
+	--logo-yellow:#FED80B
+	--logo-lime-green:#A3CE13
+	--logo-jade-green:#2EC378
+	--logo-aqua-blue:#06C5D7
+	--logo-sky-blue:#179EF9
+	--logo-bubblegum-pink:#F47EA2
+	--logo-grape-purple:#AF78D5
+		
 }
 
 /********************************************************************/
@@ -134,20 +146,15 @@ h1,h2,h3,h4 {
 	text-transform: uppercase;
 }
 
-.stats-box {
+.stats-box, #stats-box {
 	position: relative;
-	border: 4px solid var(--uvalib-secondary-light-gray);
+	border: 4px solid var(--blue-alt-dark);
 	font-family:  monospace;
-	font-size: 20px;
-	padding: .5em 1em;
+	font-size: 18px;
+	padding: 0em 1em;
 	span {
 		color: rgba(0,0,0,.5);
 	}
-}
-
-/* Used on: /digital-humanities, individual pages for events, people, and projects */
-ul .stats-box {
-	text-align: right;
 }
 
 /********************************************************************/
@@ -313,13 +320,13 @@ ul .stats-box {
 		display:flex;
 		flex-direction: column;
 		justify-content: flex-end;
-		min-height: 30vh;
+		min-height: 10vh;
 		background-color: rgba(0,0,0,0.0325);
 		background-image: url('/assets/img/decorative/tiles/hypnotize.png');
 		background-size:200px;
 
 		@media screen and (min-width: 900px) {
-			min-height: 50vh;
+			min-height: 30vh;
 		}
 
 		hgroup {
@@ -387,7 +394,7 @@ ul .stats-box {
 	padding: 1rem;
 	text-align: center;
 	font-size: 1.5rem;
-	background-color: var(--teal-light);
+	background-color: var(--teal-lightest);
 }
 
 section.feature {
@@ -399,6 +406,10 @@ section.feature {
 
 	div {
 		background: white;
+	}
+	
+	div:not(:last-child) {
+	margin-bottom: 30px;
 	}
 
 	div h2 {
@@ -418,14 +429,7 @@ section.feature {
 	}
 
 	&#updates {
-		display:flex;
-		flex-direction: row;
-		flex-wrap: nowrap;
-		gap: 2rem;
-		padding: 2rem 3.7rem;
-		div {
-			flex:1;
-		}
+
 
 		h2 {
 			margin:0 0 2rem -1.7rem;
@@ -531,6 +535,17 @@ section.feature {
 		display:flex;
 		gap: 1rem;
 
+		&#updates {
+			display:flex;
+			flex-direction: row;
+			flex-wrap: nowrap;
+			gap: 2rem;
+			padding: 2rem 3.7rem;
+			div {
+				flex:1;
+			}
+		}
+		
 		&:nth-child(odd) {
 			flex-direction: row-reverse;
 		}
@@ -542,7 +557,14 @@ section.feature {
 		div,figure {
 			flex:1;
 		}
+		
 	}
+}
+
+.photo-byline {
+	color: var(--uvalib-text-dk-grey);
+	font-style: italic;
+	font-size: 16px;
 }
 
 
@@ -587,20 +609,16 @@ section.feature {
 }
 
 /* Don't show a bullet next to each */
-#rd-staff ul, .spatial__people ul, .makerspace-picture-staff ul {
+#rd-staff ul, .spatial__people ul, #makerspace-staff ul {
 	list-style-type: none;
 }
 
-#rd-staff li, .spatial__people li, .makerspace-picture-staff li {
+#rd-staff li, .spatial__people li, #makerspace-staff li {
 	padding-bottom: 1em;
 }
 
 .rd-person__name, .spatial-person__name, .makerspace-person__name {
 	font-weight: bold;
-}
-
-.rd-person__position, .spatial-person__position {
-
 }
 
 /********************************************************************/
@@ -784,10 +802,7 @@ body.people .gallery {
   #eq_0:focus {
     opacity: 0.9;
   }
-  #lasercutter-materials, .other-links {
-    list-style-type: disc !important;
-    margin: 0 8.33% !important;
-  }
+
   .darker-background {
     background-color: rgb(207, 251, 255);
     border-radius: 10px;
@@ -813,30 +828,24 @@ body.people .gallery {
 }
 
 #latest-posts .post {
-  border: solid var(--grape);
-  text-align: justify;
-  border-width: 0 3px;
   display: inline-block;
   vertical-align: top;
-  padding: 5px 15px;
-  margin: 20px;
-
-#latest-posts.post:before {
-	display:block;
-	content: ' ';
-	margin: 1rem auto;
-	width: 20px;
-	background: var(--uvalib-secondary-web-orange);
-	height: 3px;
+  padding: 0px 15px;
 }
 
+#latest-posts .post + .post:before {
+	display:block;
+	content: ' ';
+	margin: 1rem auto 1rem auto;
+	width: 60px;
+	background: var(--uvalib-secondary-web-orange);
+	height: 3px;
 }
 
 .byline {
 	color: var(--uvalib-text-dk-grey);
 	font-style: italic;
 }
-
 
 /********************************************************************/
 /* Individual post pages */
