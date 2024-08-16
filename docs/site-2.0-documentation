@@ -38,6 +38,8 @@ projects/work
  Add info on updating your branch from master if it's been a while
  Bookmarkable explanation of where to go for what
 
+We renamed the realignment branch to develop. Going forward, any substantial design + code work should be done on that branch. We'll eventually have a main branch which will be the published, production site. We'll ask folks to use the main branch to publish new content, e.g. new posts, events, etc... Anything involving coding logic or design updates (HTML templating, CSS, JavaScript) should be done on the develop branch.
+
 # To do: not writing in Doc doc
 * Schedule manual annual events move to /_past-events folder during summer
 * Update events documentation about which folder to use (_events vs _past-events); and filename pattern
