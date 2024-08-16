@@ -8,28 +8,6 @@ title: Home
 </section>
 
 <section id="updates" class="feature">
-    <div id="upcoming-events">
-        <h2>Upcoming Events</h2>
-        <ul>
-{% assign events = site.events | sort: 'start_date' | limit: 4 %}
-{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
-{% for event in events limit: 4 %}
-{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-{% if eventdate >= today %}
-            <li>
-                <a href="{{ event.url }}">
-                <time>
-                    <span class="month">{{ event.start_date | date: '%b' }}</span>
-                    <span class="day">{{ event.start_date | date: '%d' }}</span>
-                </time>
-                <strong>{{ event.title }}</strong>
-                </a>
-            </li>
-{% endif %}
-{% endfor %}
-        </ul>
-        <a class="see-all" href="/events/">See all our events</a>
-    </div>
     <div id="recent-posts">
         <h2>Recent Blog Posts</h2>
         <ul>
@@ -55,6 +33,28 @@ title: Home
 		{% endfor %}
 		</ul>
     </div>
+    <div id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <ul>
+{% assign events = site.events | sort: 'start_date' | limit: 4 %}
+{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
+{% for event in events %}
+{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+{% if eventdate >= today %}
+            <li>
+                <a href="{{ event.url }}">
+                <time>
+                    <span class="month">{{ event.start_date | date: '%b' }}</span>
+                    <span class="day">{{ event.start_date | date: '%d' }}</span>
+                </time>
+                <strong>{{ event.title }}</strong>
+                </a>
+            </li>
+{% endif %}
+{% endfor %}
+        </ul>
+        <a class="see-all" href="/events/">See all our events</a>
+    </div>
 </section>
 
 <section id="newsletter">
@@ -64,25 +64,25 @@ title: Home
 
 <section id="about-us" class="feature">
     <div>
-        <h2>About Us</h2>
-        <p>The Scholars' Lab is an interdisciplinary research lab for critical,
-            creative, and anti-oppressive explorations of the intersections of
-            technology and culture. We offer mentoring, collaboration, and
-            supportive space for anyone curious about pushing scholarly
-            boundaries through creative, computational research practice. While
-            much of our work deals with cultural and humanities questions, we
-            welcome and routinely collaborate with all disciplines. Our staff
-            offer deep expertise in digital humanities, computer and information
-            science, spatial technologies, maker, and cultural heritage
-            approaches. Our international scholarly leadership lets us connect
-            UVA colleagues to the forefront of digital and experimental
-            scholarship, collaborators, and opportunities.</p>
-            <p><a href="/about">>>> Our Mission</a></p>
+    <h2>About Us</h2>
+    <p>The Scholars' Lab is an interdisciplinary research lab for critical,
+        creative, and anti-oppressive explorations of the intersections of
+        technology and culture. We offer mentoring, collaboration, and
+        supportive space for anyone curious about pushing scholarly
+        boundaries through creative, computational research practice. While
+        much of our work deals with cultural and humanities questions, we
+        welcome and routinely collaborate with all disciplines. Our staff
+        offer deep expertise in digital humanities, computer and information
+        science, spatial technologies, maker, and cultural heritage
+        approaches. Our international scholarly leadership lets us connect
+        UVA colleagues to the forefront of digital and experimental
+        scholarship, collaborators, and opportunities.</p>
+        <p><a href="/about">>>> Our Mission</a></p>
     </div>
     <figure>
         <img src="/assets/img/decorative/lab-photos-decorative/homepage-about-us.jpeg" alt="Decorative photo of Scholars' Lab staff and students scanning a cultural heritage artifact">
         <figcaption>
-		3D scanning cultural heritage artifacts. <span class="photo-byline">(Photo: Dan Addison, University Communications)</span>
+		3D scanning cultural heritage artifacts.
         </figcaption>
     </figure>
 </section>
@@ -97,7 +97,7 @@ title: Home
         <ul>
             <li><a href="/critical-DH">the critical digital humanities</a></li>
             <li><a href="/code-design">code & design</a></li>
-            <li><a href="/code-design">collaborative project design & management</a></li>
+            <li><a href="/people/ronda-grizzle">collaborative project design & management</a></li>
             <li><a href="/dh-pedagogy">digital pedagogy</a></li>
             <li><a href="/spatial-technologies">GIS/mapping & analysis</a></li>
             <li><a href="/spatial-technologies">cultural heritage informatics</a></li>
@@ -128,7 +128,7 @@ title: Home
         <p><a href="/visit">>>> Using the Lab & Makerspace</a></p>
             <figure>
         <img src="/assets/img/decorative/lab-photos-decorative/homepage-usethelab-spotlit.png" alt="Decorative photo of a student writing on a monitor displaying other students' answers to 'What do you love about Shannon (Library building)?', where previous students have written 'Scholar Lab <3' and "makerspace'">
-        <figcaption>Friendly community space for digital & experimental scholarship. <span class="photo-byline">(Photo: Photo: Emily Faith Morgan, UVA Today)</span></figcaption>
+        <figcaption>Friendly community space for digital & experimental scholarship.</figcaption>
     		</figure>
     </div>
     <div>
@@ -148,65 +148,63 @@ title: Home
 
 <section id="critical-digital-humanities" class="feature">
     <div>
-        <h2>Critical Digital Humanities</h2>
-        <p>We use “critical” DH here to mean purposeful engagements with the field and community of DH scholarship, including its writings, theory, and international community. Much of the lab’s work draws on our strong DH background (including for non-DH projects and people!) and many of our staff identify as digital humanists and maintain a high level of engagement in external, international DH leadership, service, and community.</p>
-		<p><a href="/critical-dh">>>> Critical DH</a></p>
+    <h2>Critical Digital Humanities</h2>
+    <p>We use “critical” DH here to mean purposeful engagements with the field and community of DH scholarship, including its writings, theory, and international community. Much of the lab’s work draws on our strong DH background (including for non-DH projects and people!) and many of our staff identify as digital humanists and maintain a high level of engagement in external, international DH leadership, service, and community.</p>
+    <p><a href="/critical-dh">>>> Critical DH</a></p>
     </div>
     <figure>
         <img src="/assets/img/decorative/lab-photos-decorative/homepage-criticaldh.jpg" alt="Decorative photo of Scholars' Lab fellows working with staff outdoors on a location-based augmented reality research project">
-        <figcaption>Using augmented reality to contextualize race and historical place. <span class="photo-byline">Photo: CC BY-NC Shane Lin.</span></figcaption>
+        <figcaption>Using augmented reality to contextualize race and historical place.</figcaption>
     </figure>
 </section>
 
 <section id="digital-humanities-code-design" class="feature">
     <div>
-        <h2>Digital Humanities Code + Design</h2>
-        <p>We provide research and teaching consultation on a variety of digital
-            humanities concepts, approaches, and tools, including digital
-            collections & exhibitions, data collection and management, machine
-            learning, text analysis, and more. Our particular strengths lie in
-            the critical pedagogical and scholarly application of those
-            technologies for the humanities.</p>
-		<p><a href="/design-code">>>> DH Code + Design</a></p>
+    <h2>Digital Humanities Code + Design</h2>
+    <p>We provide research and teaching consultation on a variety of digital
+        humanities concepts, approaches, and tools, including digital
+        collections & exhibitions, data collection and management, machine
+        learning, text analysis, and more. Our particular strengths lie in
+        the critical pedagogical and scholarly application of those
+        technologies for the humanities.</p>
+    <p><a href="/design-code">>>> DH Code + Design</a></p>
     </div>
     <figure>
-                <img src="/assets/img/decorative/lab-photos-decorative/homepage-code-and-design.png" alt="Decorative screenshot of Scholars' Lab fellows James Ascher and Sarah Berkowitz's digital textual research project completed with the lab">
-        <figcaption>Exploring literary texts through code and visualization. <span class="photo-byline">Image: James Ascher.</span></figcaption>
+        <img src="/assets/img/decorative/lab-photos-decorative/homepage-code-and-design.png" alt="Decorative screenshot of Scholars' Lab fellows James Ascher and Sarah Berkowitz's digital textual research project completed with the lab">
+        <figcaption>Exploring literary texts through code and visualization.</figcaption>
     </figure>
 </section>
 <section id="spatial-technologies" class="feature">
     <div>
-        <h2>Spatial Technologies</h2>
-        <p>We've got experts in mapping, GIS data, cultural heritage laser
-            scanning & preservation, augmented & virtual reality, and other
-            spatial approaches (including ArcGIS StoryMaps) for representing our
-            world across space + time. Contact us at <a
-                href="mailto:spatial@virginia.edu">spatial@virginia.edu</a> to
-            schedule an individual consultation or course instruction session.
-        </p>
-		<p><a href="/design-code">>>> Spatial Technologies</a></p>
+    <h2>Spatial Technologies</h2>
+    <p>We've got experts in mapping, GIS data, cultural heritage laser
+        scanning & preservation, augmented & virtual reality, and other
+        spatial approaches (including ArcGIS StoryMaps) for representing our
+        world across space + time. Contact us at <a
+            href="mailto:spatial@virginia.edu">spatial@virginia.edu</a> to
+        schedule an individual consultation or course instruction session.
+    </p>
+    <p><a href="/design-code">>>> Spatial Technologies</a></p>
     </div>
     <figure>
         <img src="/assets/img/decorative/lab-photos-decorative/homepage-spatialtechnologies.jpg" alt="Decorative photo of Scholars' Lab staff working with students outdoors and in museums capturing cutural heritage data">
-        <figcaption>Investigating & preserving the past via museums, archives, and fieldwork. <span class="photo-byline">Photos: Will Rourk.</span></figcaption>
-        </img>
+        <figcaption>Investigating & preserving the past via museums, archives, and fieldwork</figcaption>
     </figure>
 </section>
 <section id="fellowships-and-training" class="feature">
     <div>
-        <h2>Fellowships + Training</h2>
-        <p>We support the work of emerging scholars and digital humanities
-            practitioners. In addition to our general consultations, we offer
-            <a href="/for-students">three graduate fellowship programs</a> that provide students with the
-            time, space, and mentorship necessary to discover, explore, and
-            build. We also offer a wide variety of opportunities for students
-            and faculty to gain training and experience as digital humanists.
-        </p>
-		<p><a href="/opportunities">>>> Opportunities</a></p>
+    <h2>Fellowships + Training</h2>
+    <p>We support the work of emerging scholars and digital humanities
+        practitioners. In addition to our general consultations, we offer
+        <a href="/for-students">three graduate fellowship programs</a> that provide students with the
+        time, space, and mentorship necessary to discover, explore, and
+        build. We also offer a wide variety of opportunities for students
+        and faculty to gain training and experience as digital humanists.
+    </p>
+    <p><a href="/opportunities">>>> Opportunities</a></p>
     </div>
     <figure>
         <img src="/assets/img/decorative/lab-photos-decorative/homepage-opportunities.jpg" alt="Decorative photo of Scholars' Lab fellows posing in the library">
-        <figcaption>Collaborative research fellowships for the next generation of digital scholars. <span class="photo-byline">Photo: CC BY-NC Shane Lin.</span></figcaption>
-        </img>
+        <figcaption>Collaborative research fellowships for the next generation of digital scholars.</figcaption>
     </figure>
 </section>
