@@ -828,23 +828,18 @@ body.people .gallery {
 }
 
 #latest-posts .post {
-  border: solid var(--grape);
-  text-align: justify;
-  border-width: 0 3px;
   display: inline-block;
   vertical-align: top;
-  padding: 5px 15px;
-  margin: 20px;
-
-#latest-posts.post:before {
-	display:block;
-	content: ' ';
-	margin: 1rem auto;
-	width: 20px;
-	background: var(--uvalib-secondary-web-orange);
-	height: 3px;
+  padding: 0px 15px;
 }
 
+#latest-posts .post + .post:before {
+	display:block;
+	content: ' ';
+	margin: 1rem auto 1rem auto;
+	width: 60px;
+	background: var(--uvalib-secondary-web-orange);
+	height: 3px;
 }
 
 .byline {

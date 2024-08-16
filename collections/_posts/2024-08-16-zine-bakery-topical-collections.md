@@ -23,6 +23,7 @@ I recently set up a ["Zine Reader's View" here](https://airtable.com/appY7WyBFjS
 I also set up my catalogue to link readers directly to just zines with certain themes, like feminist tech zines and digital humanities zines!
 
 ![Screenshot of the multi-colored buttons on my ZineBakery.com website, linking people to specific subsets of my zine catalogue such as "tech knowledges" zines and "feminist tech" zines](https://literaturegeek.com/assets/post-media/2024-08-16-zine-thematic-tag-pills.png)
+
 *Screenshot of the multi-colored buttons on my ZineBakery.com website, linking people to specific subsets of my zine catalogue such as "tech knowledges" zines and "feminist tech" zines.*
 
 In addition to viewing [the whole public catalogue](https://zinebakery.com/pages/zines), you can now easily see:
