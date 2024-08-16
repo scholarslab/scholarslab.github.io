@@ -4,8 +4,8 @@ layout: default
 {% capture authorstring %}{% include author-name.html authorid=page.author %}{% endcapture %}
 <article>
 <header><hgroup>
-	<span aria-label="page type">Blog</span>
-    <h1>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' | replace: ' - ', ': ' }}</h1>
+	<span aria-label="page type"><a href="{{ site.url }}/blog">Blog</a></span>
+    <h1 class="post-title">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' | replace: ' - ', ': ' }}</h1>
     <p class="metadata">
         By <span class="author">{{ authorstring | strip }}</span> on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
     </p>

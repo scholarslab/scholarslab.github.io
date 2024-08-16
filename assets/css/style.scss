@@ -357,13 +357,9 @@ ul .stats-box {
 	justify-content: center;
 	min-height: 400px;
 	background-color: rgba(0,0,0,0.0325);
-	background-image:
-		url('/assets/img/logos/slab-logos/Transparent-SLabVinesHandsLogo.png'),
-		url('/assets/img/decorative/tiles/hypnotize.png');
-	background-size: contain, 200px;
-	background-position: bottom right;
-	background-repeat: no-repeat, repeat;
-	padding-right: 50%;
+	background-image: url('/assets/img/decorative/tiles/hypnotize.png'); 
+	background-size: 200px;
+	
 	h1 {
 		font-size: 4rem;
 		text-transform: none;
@@ -374,6 +370,17 @@ ul .stats-box {
 	p {
 		margin:0;
 	}
+	
+	@media screen and (min-width: 700px) {
+		background-image: 
+			url('/assets/img/logos/slab-logos/Transparent-SLabVinesHandsLogo-CCBYNC.png'),
+			url('/assets/img/decorative/tiles/hypnotize.png');
+		background-size: contain, 200px;
+		background-position: bottom right;
+		background-repeat: no-repeat, repeat;
+		padding-right: 50%;
+	}
+	
 }
 
 #newsletter {
@@ -847,6 +854,11 @@ body.people .gallery {
 
 /********************************************************************/
 /* Individual post pages */
+
+h1.post-title {
+	font-size: 3rem !important; /* figure out how to not use important, post-launch */
+}
+
 .post__credits {
 	position: relative;
 	grid-area: footer;
