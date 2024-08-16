@@ -1,0 +1,38 @@
+---
+layout: page
+title: Lab Activity Updates
+pagination:
+  enabled: true
+permalink: /updates/
+regenerate: true
+---
+
+<p>This page collects a new kind of post we started piloting in Summer 2024: a tweet-length "update" on recent lab activities of external interest.</p>
+</p>
+
+<section id="all-updates">
+<h2>All lab activity updates</h2>
+<ul class="page-previous_posts">
+	{% for post in site.posts %}
+	{% if post.category == "update" %}
+		{% if post.author %}
+			{% capture authorstring %}
+				{% include author-name.html authorid=post.author %}
+			{% endcapture %}
+		{% endif %}
+		{% assign currentdate = post.date | date: "%Y" %}
+		{% if currentdate != date %}
+			{% unless forloop.first %}</ul>{% endunless %}
+			<h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
+			<ul>
+			{% assign date = currentdate %}
+		{% endif %}
+		
+		<li>
+			<h3>{{ post.date | date: "%B %-d, %Y" }} update: <a href="{{ post.url }}">{{ post.title }}</a></h3>
+		{{ post.content | strip_html | markdownify }}
+		</li>
+	{% endif %}
+	{% endfor %}
+</ul>
+</section>

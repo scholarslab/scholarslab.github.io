@@ -66,6 +66,18 @@ Individual post pages
 	--diamond: rgb(185, 250, 248);
 	--darkpastelpurple: rgb(154, 119, 210);
 	--medskyblue:rgb(117, 227, 239);
+	
+	/* Colors from SLab rainbow vines-hand logo */
+	--logo-red-orange:#FE5102
+	--logo-light-orange:#FEA607
+	--logo-yellow:#FED80B
+	--logo-lime-green:#A3CE13
+	--logo-jade-green:#2EC378
+	--logo-aqua-blue:#06C5D7
+	--logo-sky-blue:#179EF9
+	--logo-bubblegum-pink:#F47EA2
+	--logo-grape-purple:#AF78D5
+		
 }
 
 /********************************************************************/
@@ -134,20 +146,15 @@ h1,h2,h3,h4 {
 	text-transform: uppercase;
 }
 
-.stats-box {
+.stats-box, #stats-box {
 	position: relative;
-	border: 4px solid var(--uvalib-secondary-light-gray);
+	border: 4px solid var(--blue-alt-dark);
 	font-family:  monospace;
-	font-size: 20px;
-	padding: .5em 1em;
+	font-size: 18px;
+	padding: 0em 1em;
 	span {
 		color: rgba(0,0,0,.5);
 	}
-}
-
-/* Used on: /digital-humanities, individual pages for events, people, and projects */
-ul .stats-box {
-	text-align: right;
 }
 
 /********************************************************************/
@@ -387,7 +394,7 @@ ul .stats-box {
 	padding: 1rem;
 	text-align: center;
 	font-size: 1.5rem;
-	background-color: var(--teal-light);
+	background-color: var(--teal-lightest);
 }
 
 section.feature {
