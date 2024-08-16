@@ -38,7 +38,7 @@ title: Home
         <ul>
 {% assign events = site.events | sort: 'start_date' | limit: 4 %}
 {% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
-{% for event in events %}
+{% for event in events limit:4 %}
 {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
 {% if eventdate >= today %}
             <li>
