@@ -320,13 +320,13 @@ h1,h2,h3,h4 {
 		display:flex;
 		flex-direction: column;
 		justify-content: flex-end;
-		min-height: 30vh;
+		min-height: 10vh;
 		background-color: rgba(0,0,0,0.0325);
 		background-image: url('/assets/img/decorative/tiles/hypnotize.png');
 		background-size:200px;
 
 		@media screen and (min-width: 900px) {
-			min-height: 50vh;
+			min-height: 30vh;
 		}
 
 		hgroup {
@@ -603,20 +603,16 @@ section.feature {
 }
 
 /* Don't show a bullet next to each */
-#rd-staff ul, .spatial__people ul, .makerspace-picture-staff ul {
+#rd-staff ul, .spatial__people ul, #makerspace-staff ul {
 	list-style-type: none;
 }
 
-#rd-staff li, .spatial__people li, .makerspace-picture-staff li {
+#rd-staff li, .spatial__people li, #makerspace-staff li {
 	padding-bottom: 1em;
 }
 
 .rd-person__name, .spatial-person__name, .makerspace-person__name {
 	font-weight: bold;
-}
-
-.rd-person__position, .spatial-person__position {
-
 }
 
 /********************************************************************/
@@ -800,10 +796,7 @@ body.people .gallery {
   #eq_0:focus {
     opacity: 0.9;
   }
-  #lasercutter-materials, .other-links {
-    list-style-type: disc !important;
-    margin: 0 8.33% !important;
-  }
+
   .darker-background {
     background-color: rgb(207, 251, 255);
     border-radius: 10px;
