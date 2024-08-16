@@ -20,7 +20,7 @@ While much of our work investigates cultural and humanities questions, we are op
 * [Makerspace](/makerspace)
 
 ## A reputation, at your service
-The Scholars' Lab is home to an internationally recognized scholarly [team](/people/), with international leadership, service, and reputation [we leverage to benefit](/critical-dh) UVA faculty, students, staff, and local community colleagues. 
+The Scholars' Lab is home to an internationally recognized scholarly [team](/people/), with international leadership, service, and reputation [we leverage to benefit](/digital-humanities#critical-dh) UVA faculty, students, staff, and local community colleagues. 
 
 Our staff strengths include:
 - the digital humanities (including as a founding member of [Centernet](https://dhcenternet.org/), the international network of DH centers)

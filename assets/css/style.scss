@@ -561,6 +561,12 @@ section.feature {
 	}
 }
 
+.photo-byline {
+	color: var(--uvalib-text-dk-grey);
+	font-style: italic;
+	font-size: 16px;
+}
+
 
 /********************************************************************/
 /* Projects browse */
@@ -845,7 +851,6 @@ body.people .gallery {
 	color: var(--uvalib-text-dk-grey);
 	font-style: italic;
 }
-
 
 /********************************************************************/
 /* Individual post pages */
