@@ -42,13 +42,11 @@ end-year: current
 <h2>Blogging</h2>
 <p>Below are posts written by Visconti about zines.</p>
 <ul>
-{%- for post in site.tags.zines -%}
-{% if post.author == "amanda-visconti" %}
+{%- for post in site.tags.zine-bakery -%}
 	<li>
 		<a class="post-link" href="{{ post.url | relative_url }}">
 		{{ post.title | escape }}
 		</a>
 	</li>
-{% endif %}
 {%- endfor -%}
 </ul>

@@ -10,6 +10,7 @@ tags:
 - makerspace
 - dataset
 - zines
+- zine-bakery
 - resin
 - expansive makerspace
 - about-collaboration-community

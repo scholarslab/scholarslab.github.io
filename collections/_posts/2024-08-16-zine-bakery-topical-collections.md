@@ -9,6 +9,7 @@ category: essay
 tags:
 - dataset
 - zines
+- zine-bakery
 - literature
 - metadata
 crosspost:

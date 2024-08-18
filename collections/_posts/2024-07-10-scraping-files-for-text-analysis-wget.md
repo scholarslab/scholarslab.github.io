@@ -11,7 +11,7 @@ tags:
 - automation
 ---
 
-I want to apply some text analysis tools to explore questions around a set of podcast interviews. There's a webpage that lists links to transcripts of these interviews, one link per podcast episode text file. Because there are many episodes (over a 100?), I don't want to manually click each link to download the episode's transcript file.
+I want to apply some text analysis tools to explore questions around a set of trans podcast interviews. There's a webpage that lists links to transcripts of these interviews, one link per podcast episode text file. Because there are many episodes (over a 100?), I don't want to manually click each link to download the episode's transcript file.
 
 Instead, I followed a [_Programming_ Historian lesson by Ian Milligan](https://programminghistorian.org/en/lessons/automated-downloading-with-wget) about the command-line utility wget. The lesson helped me understand how to customize wget's options so it downloads each transcript file for me into a convenient folder, without overloading the website's servers.
 

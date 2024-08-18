@@ -7,6 +7,7 @@ title: "Themed reading lists as neat card decks! A tutorial and design discussio
 category: essay
 tags:
 - zines
+- zine-bakery
 - makerspace
 - tutorial
 crosspost:

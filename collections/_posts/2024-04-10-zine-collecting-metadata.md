@@ -7,6 +7,7 @@ title: "Metadata for Zine Collecting"
 category: essay
 tags:
 - zines
+- zine-bakery
 - metadata
 ---
 
