@@ -87,7 +87,7 @@ Some future work I'm planning for my [Zine Bakery](https://zinebakery.com) proje
 ## Research & publication
 * **Publication**: 
 	* In addition to 
-		* [multiple blog posts](/tag/zines) and
+		* [multiple blog posts](https://literaturegeek.com/tag/zines) and
 		* my [Zine Bakery](https://zinebakery.com) site and 
 		* public [zine catalogue](https://zinebakery.com/pages/zines),
 	* I've published 
