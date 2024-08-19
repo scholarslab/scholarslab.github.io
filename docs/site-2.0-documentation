@@ -3,6 +3,8 @@
 # To do: writing
 tags
 categories and their uses (3 post types; what yaml for each; how each appears on homepage, /blog, individual post pages, bio page loops, project page loops)
+Update post template GDoc to show how to use these, what approved list is; remove note not to add tags as changes coming
+
 css org
 why some files md vs html (loops/liquid conditionals)
 file org (tabs)
