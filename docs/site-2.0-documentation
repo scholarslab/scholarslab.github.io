@@ -5,6 +5,13 @@ tags
 categories and their uses (3 post types; what yaml for each; how each appears on homepage, /blog, individual post pages, bio page loops, project page loops)
 Update post template GDoc to show how to use these, what approved list is; remove note not to add tags as changes coming
 
+gitflow
+gh for mac desktop app: updating develop from main, before doing develop work
+* navigate to develop branch
+* click "current branch: develop" (middle of top of app window); at bototm of resulting dropdown, choose "choose a branch to merge into develop", then choose main. push any changes to origin
+main for blog adds/edits
+develop for issues (create new branch of develop, after updating it from main, so other people can work off develop too)
+
 css org
 why some files md vs html (loops/liquid conditionals)
 file org (tabs)
@@ -12,6 +19,8 @@ where to find what; how pages file org works
 redirects
 nav
 who to ask for what approval, help
+
+don't delete develop branch when merged
 
 how includes, layouts, collections work
 
