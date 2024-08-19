@@ -6,8 +6,8 @@ slug: prism-images-and-binaries
 title: Prism, Images and Binaries
 category: essay
 tags:
-- grad student research
-- visualization and data mining
+- grad-student-research
+- visualization-and-data-mining
 - praxis
 ---
 

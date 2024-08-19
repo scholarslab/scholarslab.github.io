@@ -6,7 +6,7 @@ slug: praxis-weekly-digest-1
 title: 'Praxis Weekly Digest #1'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - ivanhoe
 - praxis

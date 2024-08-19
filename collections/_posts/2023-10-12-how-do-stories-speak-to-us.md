@@ -6,7 +6,7 @@ slug: how-do-stories-speak-to-us
 title: How Do Stories Speak To Us?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - literature
 ---
 ## How Do Stories Speak to Us?

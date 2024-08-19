@@ -6,7 +6,7 @@ slug: not-joking
 title: Not Joking
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - prism
 - praxis
 ---

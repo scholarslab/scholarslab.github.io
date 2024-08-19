@@ -6,11 +6,11 @@ slug: richmond-virginias-place-in-gis-and-racial-discrimination-history
 title: Richmond, Virginia's Place in GIS and Racial Discrimination History
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
-- charlottesville and virginia
+- charlottesville-and-virginia
 - race
-- social sciences
+- social-sciences
 ---
 
 Richmond, Virginia is a city steeped in history.  It is the home of [the first commercially viable electric street car system](http://chpn.net/news/2006/02/16/a-history-of-richmonds-trolleys_336/), [the world's only triple train crossing](http://richmondthenandnow.com/Newspaper-Articles/Triple-Train-Crossing.html); [the first woman-owned and African American-owned bank](http://www.encyclopediavirginia.org/Walker_Maggie_Lena_1864-1934), and some great Americans including [Bojangles Robinson](http://atdf.org/awards/bojangles.html) and [Arthur Ashe](http://www.encyclopediavirginia.org/Ashe_Arthur_1943-1993).  Not exactly the history you were thinking about, correct?  There is much more hidden history in Richmond.

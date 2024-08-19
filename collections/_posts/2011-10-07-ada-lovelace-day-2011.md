@@ -6,7 +6,7 @@ slug: ada-lovelace-day-2011
 title: Ada Lovelace Day 2011
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

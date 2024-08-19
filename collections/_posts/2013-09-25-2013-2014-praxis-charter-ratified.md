@@ -6,7 +6,7 @@ slug: 2013-2014-praxis-charter-ratified
 title: 2013-2014 Praxis Charter ratified!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

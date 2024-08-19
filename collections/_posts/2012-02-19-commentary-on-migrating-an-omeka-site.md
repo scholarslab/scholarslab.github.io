@@ -6,7 +6,7 @@ slug: commentary-on-migrating-an-omeka-site
 title: Commentary on Migrating an Omeka Site
 category: essay
 tags:
-- research and development
+- research-and-development
 - omeka
 - code
 ---

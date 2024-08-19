@@ -6,7 +6,7 @@ slug: one-day-of-praxis
 title: One day of Praxis
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

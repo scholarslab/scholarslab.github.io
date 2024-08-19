@@ -9,7 +9,7 @@ title: "Putting The Humanities Phd To Work: Efforts At UVA"
 category: essay
 tags:
 - pedagogy
-- professional development
+- professional-development
 - labor
 crosspost:
 - title: the PHD+ Blog

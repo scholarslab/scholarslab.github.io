@@ -6,7 +6,7 @@ slug: in-which-a-novice-evaluates-digital-work
 title: In which a novice evaluates digital work
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

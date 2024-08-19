@@ -8,7 +8,7 @@ category: essay
 tags:
 - makerspace
 - tutorial
-- expansive makerspace
+- expansive-makerspace
 ---
 <style>
   img {

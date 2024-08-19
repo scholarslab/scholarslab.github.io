@@ -6,7 +6,7 @@ slug: development-design-and-the-distance-in-between
 title: Development, Design, and the Distance in-between
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

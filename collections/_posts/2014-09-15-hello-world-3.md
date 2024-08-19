@@ -6,9 +6,9 @@ slug: hello-world-3
 title: Hello world
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
-- hello world
+- hello-world
 ---
 
 I'm Amy R. Boyd, a third-year Ph.D. student in English. I am interested in the British nineteenth century, especially the intersections between literature, science, and gender, as well as theories of the novel. I took enough computer science classes as an undergraduate to complete a minor in CS, so I'm excited to have the opportunity to put my long-dormant skills to use once again. Other than my [half-finished digital edition](http://www.amyrboyd.com/GOL/) of a portion of Lewis Carroll's _Game of Logic_, completed for Professor David Vander Meulen's course on editing and textual criticism, I have not had much of a chance to marry my work in literary studies with my more tech-y interests.

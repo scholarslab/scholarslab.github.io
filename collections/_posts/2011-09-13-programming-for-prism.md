@@ -6,7 +6,7 @@ slug: programming-for-prism
 title: Programming for Prism
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 - code

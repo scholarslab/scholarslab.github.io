@@ -6,7 +6,7 @@ slug: teaching-git
 title: Teaching Git
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 - pedagogy

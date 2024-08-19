@@ -6,7 +6,7 @@ slug: theming-neatline-exhibits
 title: Creating themes for individual Neatline exhibits
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - neatline
 - omeka
 ---

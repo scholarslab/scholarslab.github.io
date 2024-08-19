@@ -6,7 +6,7 @@ slug: prism-is-looking-for-john-connor
 title: Prism is looking for John Connor
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

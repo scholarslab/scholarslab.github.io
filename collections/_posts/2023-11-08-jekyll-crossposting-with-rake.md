@@ -8,7 +8,7 @@ category: essay
 tags:
 - jekyll
 - tutorial
-- web development
+- web-development
 - code
 crosspost:
   - title: Brandon's blog

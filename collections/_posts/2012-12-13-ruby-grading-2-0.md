@@ -6,7 +6,7 @@ slug: ruby-grading-2-0
 title: Ruby Grading 2.0
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

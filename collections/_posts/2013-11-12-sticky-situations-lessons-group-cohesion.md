@@ -6,7 +6,7 @@ slug: sticky-situations-lessons-group-cohesion
 title: 'Sticky Situations: Lessons in Group Cohesion'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - about-collaboration-community
 ---

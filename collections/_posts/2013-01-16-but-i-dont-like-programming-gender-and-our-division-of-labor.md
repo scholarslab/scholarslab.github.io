@@ -6,7 +6,7 @@ slug: but-i-dont-like-programming-gender-and-our-division-of-labor
 title: '...but I don''t like programming: gender and our division of labor'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,7 +6,7 @@ slug: classical-archaeology-and-the-makerspace
 title: Classical Archaeology and the Makerspace
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - makerspace
 - pedagogy
 - archaeology

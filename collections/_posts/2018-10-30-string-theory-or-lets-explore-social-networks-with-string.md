@@ -6,8 +6,8 @@ slug: string-theory-or-lets-explore-social-networks-with-string
 title: 'String Theory, or: Let''s Explore Social Networks with String!'
 category: essay
 tags:
-- grad student research
-- wlu collab
+- grad-student-research
+- wlu-collab
 - visualization
 ---
 

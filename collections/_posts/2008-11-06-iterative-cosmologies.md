@@ -6,7 +6,7 @@ slug: iterative-cosmologies
 title: Iterative Cosmologies...
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 ---
 
 > “During the Zuni Molawia ceremonial of 1915, when the house-tops were crowded, the roof of one of the houses enlarged that season caved in. The accident occurred, people began to say, because turquoise had not been deposited under the floor of the new chamber.” - Elsie Clews Parsons, _Pueblo Indian Religion Vol. 1_, 1939, p.105

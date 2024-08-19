@@ -5,7 +5,7 @@ layout: post
 slug: gis-workshops-spring-2021
 title: Virtual GIS Workshop Series for Spring 2021
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

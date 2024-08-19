@@ -6,7 +6,7 @@ slug: wireframing-fun
 title: Wireframing fun
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

@@ -6,12 +6,12 @@ slug: scholars-lab-and-chnm-partner-on-omeka-neatline
 title: Scholars' Lab and CHNM Partner on "Omeka + Neatline"
 category: essay
 tags:
-- geospatial and temporal
-- visualization and data mining
+- geospatial-and-temporal
+- visualization-and-data-mining
 - gis
 - neatline
 - omeka
-- web development
+- web-development
 ---
 
 The[ Scholars' Lab](http://scholarslab.org/) at the University of Virginia Library and the Center for History and New Media ([CHNM](http://chnm.gmu.edu)) at George Mason University are pleased to announce a collaborative "Omeka + Neatline" initiative, supported by $665,248 in funding from the [Library of Congress](http://loc.gov/).

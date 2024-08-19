@@ -6,7 +6,7 @@ slug: reflections-on-project-management-i
 title: Reflections on Project Management I
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - project-management
 ---

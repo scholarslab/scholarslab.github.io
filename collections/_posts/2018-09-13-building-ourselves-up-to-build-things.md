@@ -6,9 +6,9 @@ slug: building-ourselves-up-to-build-things
 title: Building Ourselves Up to Build Things
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
-- learning experience
+- learning-experience
 ---
 
 I’m a [Praxis](https://praxis.scholarslab.org/) fellow this year and a PhD student in Spanish. (You might also remember me as [the one who really loves public writing](http://scholarslab.org/writing-in-public-on-purpose-at-washington-lee-university/); you’re going to be reading a _lot_ of blog posts from me this year.) And I’m a coder, apparently.

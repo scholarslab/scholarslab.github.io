@@ -6,8 +6,8 @@ slug: project-launch-spatial-humanities
 title: 'Project launch: "Spatial Humanities!"'
 category: essay
 tags:
-- geospatial and temporal
-- visualization and data mining
+- geospatial-and-temporal
+- visualization-and-data-mining
 - gis
 - map
 ---

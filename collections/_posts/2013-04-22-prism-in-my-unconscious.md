@@ -6,7 +6,7 @@ slug: prism-in-my-unconscious
 title: Prism in my Unconscious
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

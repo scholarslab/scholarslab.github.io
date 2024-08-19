@@ -6,12 +6,12 @@ slug: working-with-an-archive-of-the-now
 title: Working with an Archive of the ‘Now’
 category: essay
 tags:
-- social media
+- about-social-media
 - dataset
-- grad student research
+- grad-student-research
 - praxis
 - dash-amerikan
-- media studies
+- media-studies
 ---
 
 Given our subject matter for the 2016-17 Praxis cohort, we recognized early on that we would be grappling with a very different sort of archive than we’ve grown accustomed to as humanists. Instead of the stacks, journal databases, manuscripts, and historical objects, we’d have to take a serious look at Facebook, Instagram, Vine, Snapchat, and Twitter. The following is a brief summary of some of our efforts with Twitter, a platform which we realized early on would be key in meaningfully keeping up with the Kardashians.

@@ -6,11 +6,11 @@ slug: normality-for-or-against
 title: 'Normality: For or Against?'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - history
 - code
 - dataset
-- social sciences
+- social-sciences
 ---
 
 I’m a historian who is currently designing and/or building four databases.  As I work through the complexities of each project, I’m struck by two thoughts.

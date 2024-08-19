@@ -6,7 +6,7 @@ slug: testing-and-more-data-modelling
 title: Testing and More Data Modelling
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

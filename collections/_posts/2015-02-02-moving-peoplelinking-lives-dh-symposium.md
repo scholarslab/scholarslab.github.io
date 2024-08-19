@@ -7,8 +7,8 @@ title: Moving People/Linking Lives DH Symposium
 category: essay
 tags:
 - event
-- geospatial and temporal
-- grad student research
+- geospatial-and-temporal
+- grad-student-research
 ---
 
 I am pleased to announce that "[Moving People, Linking Lives: An Interdisciplinary Symposium](http://movingpeoplelinkinglives.org)" will take place March 20-21, 2015 at the University of Virginia. Friday, March 20 events will take place in the Kaleidoscope Room. Saturday, March 21 events will take place in Alderman 421 except for an evening reception, location to be determined.

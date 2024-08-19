@@ -6,7 +6,7 @@ slug: what-ive-learned-from-my-kindle-part-i
 title: 'What I''ve learned from my Kindle: part I'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

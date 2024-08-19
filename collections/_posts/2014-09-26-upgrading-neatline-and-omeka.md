@@ -6,7 +6,7 @@ slug: upgrading-neatline-and-omeka
 title: Upgrading Neatline and Omeka
 category: essay
 tags:
-- research and development
+- research-and-development
 - neatline
 - omeka
 - code

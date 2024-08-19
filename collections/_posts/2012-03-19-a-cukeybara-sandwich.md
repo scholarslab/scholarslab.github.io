@@ -6,7 +6,7 @@ slug: a-cukeybara-sandwich
 title: a cukeybara sandwich
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

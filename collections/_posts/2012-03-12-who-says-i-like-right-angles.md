@@ -6,8 +6,8 @@ slug: who-says-i-like-right-angles
 title: Who says I like right angles?
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - design
 - praxis
 ---

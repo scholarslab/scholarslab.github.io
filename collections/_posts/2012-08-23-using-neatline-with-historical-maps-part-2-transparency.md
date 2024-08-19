@@ -6,7 +6,7 @@ slug: using-neatline-with-historical-maps-part-2-transparency
 title: 'Using Neatline with historical maps :: Part 2 - Transparency'
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 - neatline
 - tutorial

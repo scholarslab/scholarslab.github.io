@@ -6,7 +6,7 @@ slug: 3d-printed-enclosures-with-openscad
 title: 3D Printed Enclosures with OpenSCAD
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - makerspace
 ---
 

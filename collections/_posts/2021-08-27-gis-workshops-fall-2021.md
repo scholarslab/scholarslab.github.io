@@ -5,7 +5,7 @@ layout: post
 slug: gis-workshops-fall-2021
 title: GIS Workshops for Fall 2021, We're Still Virtual
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

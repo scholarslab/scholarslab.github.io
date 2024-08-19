@@ -5,7 +5,7 @@ layout: post
 slug: wayne-graham-leader-of-lemmings
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

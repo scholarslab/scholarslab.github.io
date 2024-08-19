@@ -6,7 +6,7 @@ slug: praxis-time-capsule
 title: Praxis Time Capsule
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -12,14 +12,14 @@ tags:
 - zine-bakery
 - literature
 - metadata
-- project management
+- project-management
 - bibliography
-- web development
+- web-development
 - design
 - jekyll
 - visualization
-- fabric arts
-- expansive makerspace
+- fabric-arts
+- expansive-makerspace
 - makerspace
 - electronics
 crosspost:

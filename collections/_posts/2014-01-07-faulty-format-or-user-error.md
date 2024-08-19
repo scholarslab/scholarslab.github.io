@@ -6,7 +6,7 @@ slug: faulty-format-or-user-error
 title: Faulty Format or User Error?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 ---

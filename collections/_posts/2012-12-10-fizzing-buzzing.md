@@ -6,7 +6,7 @@ slug: fizzing-buzzing
 title: Fizzing, Buzzing
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

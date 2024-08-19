@@ -6,7 +6,7 @@ slug: announcing-prism
 title: Announcing Prism!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - pedagogy
 - praxis
 - prism

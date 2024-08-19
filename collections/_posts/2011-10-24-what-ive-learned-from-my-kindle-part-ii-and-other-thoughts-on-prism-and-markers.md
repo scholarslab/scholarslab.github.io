@@ -7,7 +7,7 @@ title: 'What I''ve learned from my Kindle: part II, and other thoughts on Prism 
   markers'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

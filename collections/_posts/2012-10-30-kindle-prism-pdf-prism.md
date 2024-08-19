@@ -6,7 +6,7 @@ slug: kindle-prism-pdf-prism
 title: Kindle Prism? PDF Prism?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - prism
 - praxis
 ---

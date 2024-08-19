@@ -6,7 +6,7 @@ slug: webhook-for-scholarslab
 title: Webhook for Scholars' Lab Website
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 - tutorial
 - jekyll

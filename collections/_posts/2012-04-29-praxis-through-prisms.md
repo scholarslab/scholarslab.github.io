@@ -6,7 +6,7 @@ slug: praxis-through-prisms
 title: Praxis, Through Prisms
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 crosspost:

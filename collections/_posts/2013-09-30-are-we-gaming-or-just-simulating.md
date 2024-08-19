@@ -6,7 +6,7 @@ slug: are-we-gaming-or-just-simulating
 title: 'Are we gaming or just simulating? '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - games
 - ivanhoe
 - praxis

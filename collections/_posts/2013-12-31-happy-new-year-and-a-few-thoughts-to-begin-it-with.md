@@ -6,7 +6,7 @@ slug: happy-new-year-and-a-few-thoughts-to-begin-it-with
 title: Happy New Year! -- and a few thoughts to begin it with
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - project-management
 ---

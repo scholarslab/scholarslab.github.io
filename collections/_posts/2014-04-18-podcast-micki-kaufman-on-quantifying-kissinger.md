@@ -6,7 +6,7 @@ slug: podcast-micki-kaufman-on-quantifying-kissinger
 title: 'Podcast: Micki Kaufman on Quantifying Kissinger'
 tags:
 - podcast
-- visualization and data mining
+- visualization-and-data-mining
 - event
 category: announcement
 ---

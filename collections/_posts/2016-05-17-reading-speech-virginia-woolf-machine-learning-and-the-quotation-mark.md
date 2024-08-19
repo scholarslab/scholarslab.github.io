@@ -7,7 +7,7 @@ title: 'Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark
 category: essay
 tags:
 - literature
-- grad student research
+- grad-student-research
 crosspost:
   - title: my personal blog
     url: http://walshbr.com/blog/reading-speech/

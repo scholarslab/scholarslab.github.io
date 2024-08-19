@@ -6,7 +6,7 @@ slug: resources-for-the-digital-humanist-on-the-go
 title: Resources for the Digital Humanist on the Go
 category: essay
 tags:
-- music and sound
+- music-and-sound
 crosspost:
   - title: Brandon's Blog
     url: https://walshbr.com/blog/resources-for-the-digital-humanist-on-the-go

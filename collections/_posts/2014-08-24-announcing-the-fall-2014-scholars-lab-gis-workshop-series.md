@@ -5,7 +5,7 @@ layout: post
 slug: announcing-the-fall-2014-scholars-lab-gis-workshop-series
 title: Announcing the Fall 2014 Scholars’ Lab GIS Workshop Series
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

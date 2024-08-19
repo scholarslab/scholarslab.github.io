@@ -6,7 +6,7 @@ slug: on-interventions
 title: on interventions
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

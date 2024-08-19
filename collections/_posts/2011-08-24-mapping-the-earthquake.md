@@ -6,7 +6,7 @@ slug: mapping-the-earthquake
 title: Mapping the Earthquake
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 - map
 - visualization

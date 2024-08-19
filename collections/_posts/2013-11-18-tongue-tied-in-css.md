@@ -6,7 +6,7 @@ slug: tongue-tied-in-css
 title: Tongue-tied in CSS
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 ---

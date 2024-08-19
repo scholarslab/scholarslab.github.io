@@ -6,7 +6,7 @@ slug: literacy-digital-reading
 title: "Literacy Gone Digital: Reading and Unreading Digital Texts"
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - pedagogy
 - literature
 - praxis

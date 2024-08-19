@@ -6,7 +6,7 @@ slug: life-liberty-and-the-pursuit-of-mappiness
 title: Life, Liberty, and the Pursuit of Mappiness
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - map
 - gis
 - visualization

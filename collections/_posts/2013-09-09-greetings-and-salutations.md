@@ -6,7 +6,7 @@ slug: greetings-and-salutations
 title: Greetings and Salutations
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,7 +6,7 @@ slug: can-ivanhoe-facilitate-playful-learning-both-in-and-out-of-the-classroom
 title: Can Ivanhoe facilitate playful learning both in and out of the classroom?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 - games

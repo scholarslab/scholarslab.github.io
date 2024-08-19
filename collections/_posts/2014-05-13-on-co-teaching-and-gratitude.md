@@ -6,9 +6,9 @@ slug: on-co-teaching-and-gratitude
 title: On co-teaching and gratitude
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - pedagogy
-- wlu collab
+- wlu-collab
 ---
 
 This post developed out of a response to Claire Maiers’s comment on [Brandon’s post](https://scholarslab.org/digital-humanities/washington-and-lee-trip/) from last week about our co-teaching venture at Washington and Lee University. She asked us to go into a little more detail about how co-teaching actually worked for us: how we planned class time and decided who would lead what and when. I do try to answer that below, but I invite Brandon and any other practitioners of co-teaching to weigh in via comments. As I wrote this, I also found myself reflecting on how lucky and privileged we were to be afforded this opportunity in the first place. And so I’d like to take this opportunity to publicly thank Purdom Lindblad, all the fantastic people in the Scholars’ Lab, Sara Sprenkle and Paul Youngman at W&L, and Brandon, too, for taking a chance on me. Thanks also to the amazing students at W&L for their responsiveness and enthusiasm. This co-teaching venture was one of the highlights of my year.

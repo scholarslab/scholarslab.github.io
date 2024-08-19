@@ -9,7 +9,7 @@ category: essay
 tags:
 - makerspace
 - resin
-- expansive makerspace
+- expansive-makerspace
 ---
 
 I completed two resin casting projects recently: a full-size skull, and a light-up TTRPG dice necklace.

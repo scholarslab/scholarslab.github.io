@@ -74,7 +74,7 @@ Decap CMS is based on client-side JavaScript, reusable APIs and prebuilt Markup.
     - The web-based app includes **rich-text editing, real-time preview, and drag-and-drop media uploads**.
     - Supports draft > review > publish workflow
     - Gets around issue of folks not using GH enough to remember how to use = barrier? "With [Git Gateway](https://decapcms.org/docs/git-gateway-backend/#git-gateway-with-netlify-identity), you can add CMS access for any team member — even if they don’t have a GitHub account."
-- Getting started
+- getting-started
     - Templates for Hugo, Eleventy, others; what about Jekyll?
     - Jekyll is supported (https://docs.netlify.com/integrations/frameworks/#jekyll) but unclear if there's one of their "start from scratch" Jekyll templates (unclear we'd want that unless we want to restart code cleanup/design) 
 - Verdict: try "Jekyll admin plugin" first, then look into maybe trying this (run through checklist above, then check if any staff feedback)

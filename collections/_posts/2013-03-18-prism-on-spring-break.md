@@ -6,8 +6,8 @@ slug: prism-on-spring-break
 title: Prism on Spring Break
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - design
 - praxis
 - prism

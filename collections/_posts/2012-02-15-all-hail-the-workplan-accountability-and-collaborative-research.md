@@ -6,7 +6,7 @@ slug: all-hail-the-workplan-accountability-and-collaborative-research
 title: 'All Hail the Workplan!: Accountability and Collaborative Research'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 - project-management

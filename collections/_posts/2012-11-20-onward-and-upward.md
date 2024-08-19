@@ -6,7 +6,7 @@ slug: onward-and-upward
 title: Onward and Upward
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

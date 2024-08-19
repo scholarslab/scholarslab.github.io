@@ -6,7 +6,7 @@ slug: a-former-fellows-new-adventures-in-data-science
 title: A Former Fellow's New Adventures in Data Science
 category: essay
 tags:
-- text analysis
+- text-analysis
 ---
 
 Hello All.  I’m happy to report that after several years away, I’ll be blogging at the Slab again this year.  Thanks in large part to my experience with the [Praxis Fellowship](http://scholarslab.org/graduate-fellowships/), I was selected to participate in the [UVa Presidential Fellowship in Data Science](http://gradstudies.virginia.edu/node/46).  Over the course of the next year, I will be collaborating with a PhD student in systems engineering on a data-driven project.  From time to time, I’ll post updates about struggles, questions, and successes with the project.  Today, I’m going to start with a basic description of what we think we might be up to:

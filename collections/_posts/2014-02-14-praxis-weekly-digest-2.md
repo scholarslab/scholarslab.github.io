@@ -6,7 +6,7 @@ slug: praxis-weekly-digest-2
 title: 'Praxis Weekly Digest #2'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - ivanhoe
 - praxis

@@ -6,7 +6,7 @@ slug: fedora-connector-new-and-improved
 title: Fedora Connector - New and Improved
 category: essay
 tags:
-- research and development
+- research-and-development
 ---
 
 This week we’re pleased to announce that we’ve finished up the first pass on a major redesign of our Fedora Connector plugin for Omeka.  Fedora Connector makes it possible to connect an Omeka site to a [Fedora Commons](http://www.fedora-commons.org/) repository.  After entering basic information about the location of the Fedora repository, you can create linkages between “datastreams” in Fedora and the native Omeka items on your site.  Once those associations are configured, you can import all of the metadata from Fedora into Omeka with a single click.

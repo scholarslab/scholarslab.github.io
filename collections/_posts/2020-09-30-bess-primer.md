@@ -6,8 +6,8 @@ slug: bess-primer
 title: "BESS: A Very Short Primer"
 category: essay
 tags:
-- research and development
-- grad student research
+- research-and-development
+- grad-student-research
 - cbw
 - literature
 ---

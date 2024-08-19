@@ -6,7 +6,7 @@ slug: in-the-neutral-ground
 title: In the Neutral Ground
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

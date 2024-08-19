@@ -6,7 +6,7 @@ slug: an-ivanhoe-design-idea
 title: An Ivanhoe Design Idea
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - ivanhoe
 - praxis

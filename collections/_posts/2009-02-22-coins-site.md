@@ -5,7 +5,7 @@ layout: post
 slug: coins-site
 title: Library Innovation Grant Yields Dividends for Numismatists
 tags:
-- research and development
+- research-and-development
 category: announcement
 ---
 

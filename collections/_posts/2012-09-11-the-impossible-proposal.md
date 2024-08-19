@@ -6,7 +6,7 @@ slug: the-impossible-proposal
 title: The Impossible Proposal
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

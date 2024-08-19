@@ -8,7 +8,7 @@ slug: digital-humanities-job-talks
 title: "Digital Humanities Job Talks: Some Case Studies"
 category: essay
 tags:
-- professional development
+- professional-development
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/digital-humanities-job-talks-some-case-studies

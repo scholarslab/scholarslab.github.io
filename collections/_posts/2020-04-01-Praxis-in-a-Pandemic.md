@@ -6,7 +6,7 @@ slug: praxis-in-a-pandemic
 title: "Praxis in a Pandemic: Be Gentle with Yourself"
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - care
 ---

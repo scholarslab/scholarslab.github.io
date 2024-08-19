@@ -6,7 +6,7 @@ slug: prism-proposal-against-anonymity
 title: 'Prism Proposal: Against Anonymity'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

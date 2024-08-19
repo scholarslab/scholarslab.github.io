@@ -6,7 +6,7 @@ slug: gradient-highlights
 title: Gradient Highlights
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 ---

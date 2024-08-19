@@ -6,7 +6,7 @@ slug: and-so-it-begins
 title: And so it begins...
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,9 +6,9 @@ slug: towards-a-geo-textual-humanities
 title: towards a geo-textual humanities
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
-- geospatial and temporal
+- geospatial-and-temporal
 ---
 
 Maps are texts, and texts are maps.

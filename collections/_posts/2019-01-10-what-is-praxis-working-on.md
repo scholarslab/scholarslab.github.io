@@ -6,7 +6,7 @@ slug: what-is-praxis-working-on
 title: What Is Praxis Working On?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - pedagogy
 crosspost:

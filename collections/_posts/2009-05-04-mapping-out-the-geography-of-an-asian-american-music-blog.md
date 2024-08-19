@@ -6,9 +6,9 @@ slug: mapping-out-the-geography-of-an-asian-american-music-blog
 title: Mapping the Digital Diaspora of a Dissertation Research Blog
 category: essay
 tags:
-- geospatial and temporal
-- visualization and data mining
-- statistical analysis
+- geospatial-and-temporal
+- visualization-and-data-mining
+- statistical-analysis
 ---
 
 At the onset of my field research in summer 2007, I launched a blog – [YellowBuzz.org](http://yellowbuzz.org) – with the intention to: 1) archive and organize my field notes in textual and audio-visual form; 2) convey my research purpose and progress to informant musicians and the public; 3) self-position as a “participant” in the scene. Since then, I have made over 160 posts, some directly linked and others tangentially related to my research findings about the activities and media of Asian American indie rock musicians. Over the past one and a half years, my field research blog has received attention from both print and online media.  Evidently, this blog has constructed a community consisting of musician- and music-enthusiast-visitors with an interest in Asian American and transpacific music-culture.<!-- more -->

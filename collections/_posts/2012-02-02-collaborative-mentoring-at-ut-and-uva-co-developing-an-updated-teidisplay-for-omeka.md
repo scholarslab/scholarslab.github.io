@@ -9,7 +9,7 @@ category: essay
 tags:
 - omeka
 - code
-- professional development
+- professional-development
 - about-collaboration-community
 ---
 

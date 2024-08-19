@@ -6,7 +6,7 @@ slug: troubleshooting-acceptance-testing-in-rspec-and-capybara
 title: Troubleshooting Acceptance Testing in RSpec and Capybara
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 ---
 

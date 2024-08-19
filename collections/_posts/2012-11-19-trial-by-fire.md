@@ -6,7 +6,7 @@ slug: trial-by-fire
 title: Trial by Fire
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

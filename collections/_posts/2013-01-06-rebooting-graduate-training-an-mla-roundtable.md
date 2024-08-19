@@ -6,7 +6,7 @@ slug: rebooting-graduate-training-an-mla-roundtable
 title: 'Rebooting Graduate Training: An MLA Roundtable'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 crosspost:
   - title: my personal website

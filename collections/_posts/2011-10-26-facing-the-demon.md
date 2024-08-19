@@ -6,7 +6,7 @@ slug: facing-the-demon
 title: Facing the Demon
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

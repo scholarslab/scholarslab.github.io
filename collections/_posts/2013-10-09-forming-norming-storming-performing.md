@@ -6,7 +6,7 @@ slug: forming-norming-storming-performing
 title: 'Forming, Norming, Storming & Performing '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

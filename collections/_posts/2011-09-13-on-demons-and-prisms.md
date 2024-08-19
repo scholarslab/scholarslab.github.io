@@ -6,7 +6,7 @@ slug: on-demons-and-prisms
 title: On Demons and Prisms
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

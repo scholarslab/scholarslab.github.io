@@ -6,7 +6,7 @@ slug: steps-taken
 title: Steps Taken
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,7 +6,7 @@ slug: praxis-program-charter-available
 title: Praxis Program Charter Available
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

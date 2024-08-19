@@ -7,7 +7,7 @@ title: Come explore the Makerspace!
 category: essay
 tags:
 - makerspace
-- hello world
+- hello-world
 ---
 
 Hello! My name is Ethan Reed. I’m a second-year PhD candidate in UVa’s Department of English, and one of the Student Assistants in the Makerspace at the Scholars’ Lab.

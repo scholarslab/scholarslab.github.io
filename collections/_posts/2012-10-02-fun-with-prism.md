@@ -6,7 +6,7 @@ slug: fun-with-prism
 title: Fun with Prism
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

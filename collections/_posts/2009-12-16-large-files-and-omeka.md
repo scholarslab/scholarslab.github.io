@@ -6,7 +6,7 @@ slug: large-files-and-omeka
 title: Large Files and Omeka
 category: essay
 tags:
-- research and development
+- research-and-development
 ---
 
 This issue came up for a friend of the Scholars' Lab today on Twitter, but it's hard to answer in 140 characters. It's a question about allowing for larger file sizes in Omeka and there are a few ways to handle this.  (Because we want our new blog to be a combination of thoughtful essays on digital scholarship and quick answers to real-world technical problems, I thought I'd post here.)

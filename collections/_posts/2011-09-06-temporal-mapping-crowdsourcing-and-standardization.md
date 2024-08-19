@@ -6,7 +6,7 @@ slug: temporal-mapping-crowdsourcing-and-standardization
 title: Temporal mapping, crowdsourcing, and standardization
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

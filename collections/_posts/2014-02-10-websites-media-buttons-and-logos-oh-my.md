@@ -6,7 +6,7 @@ slug: websites-media-buttons-and-logos-oh-my
 title: 'Websites, Media Buttons, and Logos - oh my! '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - ivanhoe
 - praxis

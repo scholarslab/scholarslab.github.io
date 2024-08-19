@@ -9,8 +9,8 @@ tags:
 - makerspace
 - fun
 - tutorial
-- fabric arts
-- expansive makerspace
+- fabric-arts
+- expansive-makerspace
 redirect_from:
   - /makerspace/hack-your-pants-video
 ---

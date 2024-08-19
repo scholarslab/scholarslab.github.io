@@ -6,7 +6,7 @@ slug: translating-neatline
 title: Translating Neatline
 category: essay
 tags:
-- research and development
+- research-and-development
 - neatline
 ---
 

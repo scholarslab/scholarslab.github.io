@@ -6,7 +6,7 @@ slug: ruby-slippers
 title: ruby slippers
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

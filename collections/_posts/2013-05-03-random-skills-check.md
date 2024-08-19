@@ -6,7 +6,7 @@ slug: random-skills-check
 title: 'Random Skills: Check'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

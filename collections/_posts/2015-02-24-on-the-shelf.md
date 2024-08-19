@@ -6,7 +6,7 @@ slug: on-the-shelf
 title: On the Shelf
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

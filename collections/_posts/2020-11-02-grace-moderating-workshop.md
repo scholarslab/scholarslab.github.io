@@ -6,7 +6,7 @@ slug: content-moderation-workshop
 title: "Content Moderation Workshop"
 tags:
 - pedagogy
-- social media
+- about-social-media
 - praxis
 ---
 # Who am I, and How Did I Develop the Workshop?

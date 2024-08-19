@@ -6,7 +6,7 @@ slug: uva-library-fall-2015-gis-workshops
 title: UVa Library Fall 2015 GIS Workshops
 tags:
 - event
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 category: announcement
 ---

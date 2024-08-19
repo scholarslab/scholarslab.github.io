@@ -6,7 +6,7 @@ slug: generous-thinking-hashtag-tweets
 title: "#GenerousThinking: A month of daily thinking toward a more generous academia"
 category: essay
 tags:
-- social media
+- about-social-media
 - academia
 - care
 crosspost:

@@ -6,7 +6,7 @@ slug: about-whom-i-have-become
 title: 'About Whom I Have Become... '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

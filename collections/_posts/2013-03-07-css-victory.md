@@ -6,8 +6,8 @@ slug: css-victory
 title: "CSS Victory!"
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - design
 - praxis
 - code

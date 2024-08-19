@@ -6,7 +6,7 @@ slug: whats-in-a-name
 title: 'What''s in a name? '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - ivanhoe
 - praxis

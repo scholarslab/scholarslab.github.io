@@ -6,7 +6,7 @@ slug: design-to-play
 title: design to play
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 - code

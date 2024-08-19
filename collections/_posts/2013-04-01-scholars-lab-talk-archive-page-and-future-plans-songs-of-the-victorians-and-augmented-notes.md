@@ -7,8 +7,8 @@ title: 'Scholars'' Lab Talk, Archive Page, and Future Plans: Songs of the Victor
   and Augmented Notes'
 category: essay
 tags:
-- music and sound
-- grad student research
+- music-and-sound
+- grad-student-research
 crosspost:
   - title: Anglophile in Academia
     url: http://anglophileinacademia.blogspot.com/2013/04/archive-page-available-for-balfes-come.html

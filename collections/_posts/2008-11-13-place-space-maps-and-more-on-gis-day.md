@@ -5,7 +5,7 @@ layout: post
 slug: place-space-maps-and-more-on-gis-day
 title: Place, Space, Maps, and More on GIS Day
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

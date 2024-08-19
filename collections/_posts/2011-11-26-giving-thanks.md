@@ -6,7 +6,7 @@ slug: giving-thanks
 title: giving thanks
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

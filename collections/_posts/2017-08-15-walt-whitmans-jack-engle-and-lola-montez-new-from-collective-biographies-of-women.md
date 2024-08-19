@@ -7,7 +7,7 @@ title: 'Walt Whitman''s Jack Engle and Lola Montez: New from Collective Biograph
   of Women'
 category: essay
 tags:
-- research and development
+- research-and-development
 - literature
 - cbw
 ---

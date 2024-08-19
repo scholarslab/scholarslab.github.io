@@ -6,7 +6,7 @@ slug: fluffy-tree-the-future-of-ivanhoe
 title: 'Fluffy Tree: The Future of Ivanhoe'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

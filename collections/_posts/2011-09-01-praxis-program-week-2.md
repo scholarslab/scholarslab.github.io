@@ -6,7 +6,7 @@ slug: praxis-program-week-2
 title: Praxis Program week 2
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

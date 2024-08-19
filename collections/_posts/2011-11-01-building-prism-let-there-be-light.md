@@ -6,7 +6,7 @@ slug: building-prism-let-there-be-light
 title: 'Building Prism: Let There Be Light!'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

@@ -6,8 +6,8 @@ slug: prism-for-play
 title: "Prism, for Play"
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - praxis
 - prism
 - games

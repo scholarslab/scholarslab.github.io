@@ -6,7 +6,7 @@ slug: origin-story
 title: Origin Story
 category: essay
 tags:
-- learning experience
+- learning-experience
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/origin-story

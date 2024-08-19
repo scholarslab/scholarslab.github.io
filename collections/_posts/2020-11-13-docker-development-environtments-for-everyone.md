@@ -6,8 +6,8 @@ slug: docker-development-environments-for-everyone
 title: Docker Development Environments For Everyone
 category: essay
 tags:
-- research and development
-- web development
+- research-and-development
+- web-development
 - code
 - tutorial
 crosspost:

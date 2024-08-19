@@ -6,7 +6,7 @@ slug: gender-and-computing-ctd
 title: Gender and Computing (ctd)
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - gender
 ---

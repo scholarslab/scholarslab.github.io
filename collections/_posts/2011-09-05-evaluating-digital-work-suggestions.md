@@ -6,7 +6,7 @@ slug: evaluating-digital-work-suggestions
 title: 'Evaluating Digital Work: Suggestions'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - tutorial
 ---

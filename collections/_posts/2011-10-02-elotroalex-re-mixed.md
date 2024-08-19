@@ -6,7 +6,7 @@ slug: elotroalex-re-mixed
 title: elotroalex re-mixed
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,10 +6,10 @@ slug: poems-with-pattern-and-vader-part-1-quincy-troupe
 title: 'Poems with Pattern and VADER, Part 1: Quincy Troupe'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - race
 - literature
-- text analysis
+- text-analysis
 ---
 
 _(This post is part of a two-post series&mdash;I ended up having too much to say about the two poems I looked at with VADER and Pattern, so I split it up. Second half can be found [here](http://scholarslab.org/uncategorized/poems-with-pattern-and-vader-part-2-nikki-giovanni/)!)_

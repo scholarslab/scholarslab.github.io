@@ -6,7 +6,7 @@ slug: omeka-neatline-mac-development-oh-my
 title: Omeka, Neatline, Mac, development, oh my!
 category: essay
 tags:
-- research and development
+- research-and-development
 - omeka
 - neatline
 ---

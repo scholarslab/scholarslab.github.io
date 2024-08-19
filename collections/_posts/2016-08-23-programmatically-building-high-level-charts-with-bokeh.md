@@ -9,7 +9,7 @@ tags:
 - code
 - visualization
 - tutorial
-- text analysis
+- text-analysis
 ---
 
 A couple of months ago, while preparing for the Digital Humanities 2016 conference, I was trying to build a series of charts to visualize data results from some topic modeling I had done. Specifically, I had a data file in which each row was a document and the columns were topic proportions. Reading across any row, you could understand the document’s composition according to the twenty topics of the topic model. Reading down a column, you could understand how a topic was more or less present across the text corpus, in this case a series of logically and chronologically ordered documents. For the charts, I wanted to create a separate chart for each column of the data table so that I could _see_ the distribution of the topic across documents and understand how it was more or less present in different sections of the corpus. I figured bar graphs would be a straightforward way to do this, with each bar representing the topic proportion for a single document.

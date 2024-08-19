@@ -6,7 +6,7 @@ slug: leigh-space-in-video-games
 title: "Space→Time+Materiality=Place"
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - vr-ar
 - architecture
 - games

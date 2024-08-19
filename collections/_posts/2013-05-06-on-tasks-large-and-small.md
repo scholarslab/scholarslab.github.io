@@ -6,7 +6,7 @@ slug: on-tasks-large-and-small
 title: On Tasks Large and Small
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

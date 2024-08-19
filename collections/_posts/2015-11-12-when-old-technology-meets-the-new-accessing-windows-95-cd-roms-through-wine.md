@@ -6,7 +6,7 @@ slug: when-old-technology-meets-the-new-accessing-windows-95-cd-roms-through-win
 title: 'When Old Technology Meets The New: Accessing Windows 95 CD-ROMs through Wine'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - code
 ---
 

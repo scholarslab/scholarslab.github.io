@@ -6,7 +6,7 @@ slug: done-is-the-engine-of-more-2
 title: Done is the engine of more.
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

@@ -6,7 +6,7 @@ slug: teaching-prism-how-to-speak-spanish-and-french
 title: teaching prism how to speak spanish and french
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - code
 - praxis
 ---

@@ -6,7 +6,7 @@ slug: more-musings-on-tuckman
 title: More Musings on Tuckman...
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - about-collaboration-community
 ---

@@ -6,7 +6,7 @@ slug: introductions
 title: Introductions
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

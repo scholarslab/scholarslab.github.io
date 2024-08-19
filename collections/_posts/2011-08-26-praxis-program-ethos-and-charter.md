@@ -6,7 +6,7 @@ slug: praxis-program-ethos-and-charter
 title: Praxis Program Ethos and Charter
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

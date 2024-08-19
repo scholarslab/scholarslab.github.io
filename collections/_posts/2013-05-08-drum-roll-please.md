@@ -6,7 +6,7 @@ slug: drum-roll-please
 title: Drum Roll Please.....
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

@@ -6,7 +6,7 @@ slug: the-beautiful-truth-about-praxis
 title: The (beautiful) truth about Praxis
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 ---

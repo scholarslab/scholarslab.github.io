@@ -6,9 +6,9 @@ slug: rambles-of-a-runaway-from-southern-slavery
 title: Rambles of a Runaway from Southern Slavery
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - race
-- charlottesville and virginia
+- charlottesville-and-virginia
 ---
 
 Henry Goings was a slave born ca. 1810 on a plantation on the James River between Richmond, VA and Williamsburg, VA.  His interesting history of travel with his owners, escape, and eventual settlement in Canada were chronicled in an until recently unknown book.

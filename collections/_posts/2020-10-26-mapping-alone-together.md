@@ -7,10 +7,10 @@ title: "Mapping Alone, Together"
 category: essay
 tags:
 - praxis
-- wlu collab
+- wlu-collab
 - pedagogy
 - map
-- charlottesville and virginia
+- charlottesville-and-virginia
 ---
 For the past few weeks, I and my fellow Praxis Fellows have been developing teaching workshops as part of our pedagogy unit. Our theme for the year is “DH Education,” and so our workshops have taken on a special significance as we use them to start thinking about our Spring project and the shape it will eventually take.
 

@@ -6,8 +6,8 @@ slug: slightly-better-than-brain-dead
 title: 'Slightly Better than Brain Dead  '
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - design
 - praxis
 ---

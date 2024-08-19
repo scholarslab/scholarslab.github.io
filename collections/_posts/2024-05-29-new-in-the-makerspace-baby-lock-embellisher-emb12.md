@@ -7,8 +7,8 @@ title: "New in the Makerspace: Baby Lock Embellisher EMB12"
 category: announcement
 tags:
 - makerspace
-- fabric arts
-- expansive makerspace
+- fabric-arts
+- expansive-makerspace
 ---
 ![](/assets/post-media/2024-05-29-embellisher/IMG_5063.jpg)
 

@@ -6,7 +6,7 @@ slug: poster-abstract-and-code-camp
 title: Poster Abstract and Code Camp
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

@@ -6,11 +6,11 @@ slug: theatricality-of-motion-capture
 title: "Some Reflections on the Theatricality of Motion Capture"
 category: essay
 tags:
-- research and development
-- grad student research
+- research-and-development
+- grad-student-research
 - vr-ar
-- motion capture
-- - dance and theater
+- motion-capture
+- - dance-and-theater
 ---
 
 How is working with motion capture like staging a play? As I’ve been working on my fellowship project in the Scholars’ Lab, I’ve also been directing a play for our local community theatre. Engaging in these projects simultaneously has led me to reflect on the ways that collecting motion data has much in common with the process of making theatre. Not only are both Digital Skriker and the play I’m directing collaborative ventures, but they contend with similar sets of limitations that must be accepted or overcome, responded to with both creativity and candor. It strikes me as useful to articulate some of the overlaps in these processes, imagining the way that working in the digital humanities can support artistic work, as well as scholarship.

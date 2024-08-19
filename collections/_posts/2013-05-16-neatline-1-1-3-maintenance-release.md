@@ -6,7 +6,7 @@ slug: neatline-1-1-3-maintenance-release
 title: Neatline 1.1.3 Maintenance Release
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - neatline
 ---
 

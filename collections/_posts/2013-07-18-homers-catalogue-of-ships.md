@@ -7,8 +7,8 @@ title: Homer's Catalogue of Ships
 category: essay
 tags:
 - literature
-- geospatial and temporal
-- grad student research
+- geospatial-and-temporal
+- grad-student-research
 - gis
 ---
 

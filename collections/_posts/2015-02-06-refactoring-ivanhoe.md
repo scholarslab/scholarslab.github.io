@@ -8,7 +8,7 @@ category: essay
 tags:
 - praxis
 - ivanhoe
-- grad student research
+- grad-student-research
 ---
 
 As one of last year’s [Praxis Fellows](https://praxis.scholarslab.org/), I helped build [Ivanhoe](http://ivanhoe.scholarslab.org), a “WordPress Theme enabling collaborative criticism through roleplay - for scholars, students, and cultural enthusiasts.” While Ivanhoe was perfectly functional when released, one could not say that it exemplified orderly, well-formed code. It was, and is, after all, code written by novice developers. That it was still released as such is, I think, a testament to the Praxis Program, which legitimately treats Fellows, graduate students typically learning about digital humanities, project management, and coding for the first time, as fellow workers and collaborators of the Scholars’ Lab staff, not children whose mess must be cleaned up after the fact. Mentorship entails developing skills and capacities over time through partnership, not paternalistic oversight. 

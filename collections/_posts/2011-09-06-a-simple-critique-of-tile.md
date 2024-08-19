@@ -6,7 +6,7 @@ slug: a-simple-critique-of-tile
 title: A simple critique of TILE
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

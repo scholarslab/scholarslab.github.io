@@ -6,8 +6,8 @@ slug: praxis-doing-is-thinking
 title: 'Praxis: Doing is Thinking?'
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - praxis
 - prism
 ---

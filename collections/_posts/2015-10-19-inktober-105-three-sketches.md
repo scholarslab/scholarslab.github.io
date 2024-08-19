@@ -6,7 +6,7 @@ slug: inktober-105-three-sketches
 title: 'Inktober 10/5: Three Sketches'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - clockwork
 crosspost:
   - title: my post on our Praxis page

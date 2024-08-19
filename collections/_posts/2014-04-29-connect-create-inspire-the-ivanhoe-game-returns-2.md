@@ -6,7 +6,7 @@ slug: connect-create-inspire-the-ivanhoe-game-returns-2
 title: 'Connect, Create, Inspire: the Ivanhoe Game returns!'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 - games

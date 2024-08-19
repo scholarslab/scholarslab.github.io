@@ -6,7 +6,7 @@ slug: hearing-silent-woolf
 title: Hearing Silent Woolf
 category: essay
 tags:
-- grad student research
+- grad-student-research
 crosspost:
   - title: my own blog
     url: http://walshbr.com/blog/woolf-huskey/

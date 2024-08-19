@@ -6,7 +6,7 @@ slug: a-few-uses-for-ivanhoe
 title: An Ivanhoe example and guidelines for getting started
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - games
 - ivanhoe
 - praxis

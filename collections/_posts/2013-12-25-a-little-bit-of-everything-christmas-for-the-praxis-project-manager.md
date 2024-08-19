@@ -6,7 +6,7 @@ slug: a-little-bit-of-everything-christmas-for-the-praxis-project-manager
 title: 'A little bit of everything: Christmas for the Praxis project manager'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - project-management
 ---

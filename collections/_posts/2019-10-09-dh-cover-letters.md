@@ -8,7 +8,7 @@ slug: dh-cover-letters
 title: "How We Talk and Write about DH Jobs"
 category: essay
 tags:
-- professional development
+- professional-development
 crosspost:
   - title: Brandon's personal blog
     url: http://walshbr.com/blog/dh-cover-letters/

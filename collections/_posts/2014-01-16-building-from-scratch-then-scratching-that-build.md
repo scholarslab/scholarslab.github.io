@@ -6,7 +6,7 @@ slug: building-from-scratch-then-scratching-that-build
 title: Building From Scratch Then Scratching That Build
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

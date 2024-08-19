@@ -6,7 +6,7 @@ slug: taking-the-alt-ac-route
 title: Taking the Alt-Ac Route
 category: essay
 tags:
-- research and development
+- research-and-development
 - alt-ac
 ---
 

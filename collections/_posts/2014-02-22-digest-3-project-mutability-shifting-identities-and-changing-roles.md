@@ -6,7 +6,7 @@ slug: digest-3-project-mutability-shifting-identities-and-changing-roles
 title: '(Digest #3) Project mutability: shifting identities and changing roles'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 - project-management

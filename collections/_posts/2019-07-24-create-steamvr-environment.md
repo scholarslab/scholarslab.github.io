@@ -6,7 +6,7 @@ slug: create-steamvr-environment
 title: "Creating a Steam VR Environment"
 category: essay
 tags:
-- parents fund
+- parents-fund
 - vr-ar
 - tutorial
 ---

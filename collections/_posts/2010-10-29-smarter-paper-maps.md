@@ -6,8 +6,8 @@ slug: smarter-paper-maps
 title: Smarter Paper Maps
 category: essay
 tags:
-- geospatial and temporal
-- visualization and data mining
+- geospatial-and-temporal
+- visualization-and-data-mining
 - gis
 - map
 - metadata

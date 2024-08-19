@@ -6,8 +6,8 @@ slug: first-steps-with-nlp-and-a-collection-of-amiri-barakas-poetry
 title: First Steps with NLP and a Collection of Amiri Baraka's Poetry
 category: essay
 tags:
-- grad student research
-- text analysis
+- grad-student-research
+- text-analysis
 - literature
 - race
 ---

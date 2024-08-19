@@ -6,7 +6,7 @@ slug: wireframing-and-foundations
 title: Wireframing and Foundations
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 - prism

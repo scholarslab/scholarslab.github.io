@@ -6,7 +6,7 @@ slug: greetings
 title: Greetings
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,7 +6,7 @@ slug: plot-your-course-in-space-and-time-a-look-at-scholars-labs-neatline
 title: 'Plot Your Course in Space and Time: A Look at Scholars’ Lab’s Neatline'
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - podcast
 category: announcement
 ---

@@ -6,7 +6,7 @@ slug: looking-forward
 title: Looking Forward
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

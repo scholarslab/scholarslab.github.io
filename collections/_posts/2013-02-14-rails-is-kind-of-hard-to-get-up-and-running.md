@@ -6,7 +6,7 @@ slug: rails-is-kind-of-hard-to-get-up-and-running
 title: Rails is kind of hard to get up and running
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

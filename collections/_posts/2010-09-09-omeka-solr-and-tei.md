@@ -6,7 +6,7 @@ slug: omeka-solr-and-tei
 title: Omeka, Solr, and TEI
 category: essay
 tags:
-- research and development
+- research-and-development
 - omeka
 ---
 

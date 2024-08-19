@@ -6,11 +6,11 @@ slug: on-learning-code
 title: On Learning Code
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
-- learning experience
-- getting started
+- learning-experience
+- getting-started
 ---
 
 As we gear up for [Prism](http://prism.scholarslab.org) development proper, I have been trying to get up to speed with some coding basics so that I can hit the ground running. Here are the learning aids that I have found most useful over the past couple weeks. Nearly all of these materials can be found in the [Praxis Program's scratchpad](https://praxis.scholarslab.org).

@@ -6,7 +6,7 @@ slug: peer-review-for-visual-aids
 title: Peer Review for Visual Aids?
 category: essay
 tags:
-- visualization and data mining
+- visualization-and-data-mining
 - accessibility
 ---
 

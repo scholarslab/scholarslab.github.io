@@ -6,9 +6,9 @@ slug: the-sound-of-disability
 title: The Sound Of Disability
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - accessibility
-- music and sound
+- music-and-sound
 ---
 What is the sound of disability? What is the sound of a body that does not conform to standards but defies and resists? And further, is disability an instrument itself?
 

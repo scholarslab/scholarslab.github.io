@@ -6,7 +6,7 @@ slug: praxis-holidays
 title: Praxis Holidays
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - code
 - praxis
 ---

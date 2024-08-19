@@ -6,7 +6,7 @@ slug: last-week-in-open-source
 title: Last week in Open Source
 category: essay
 tags:
-- research and development
+- research-and-development
 ---
 
 Another busy week in the Scholars' Lab R&D offices. If you have anything to contribute, remember, pull requests are welcome!

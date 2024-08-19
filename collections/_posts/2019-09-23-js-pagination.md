@@ -6,10 +6,10 @@ slug: js-pagination
 title: "JS Pagination"
 category: essay
 tags:
-- architectural history
+- architectural-history
 - code
 - tutorial
-- web development
+- web-development
 crosspost:
   - title: JS Pagination
     url: https://mossiso.com/js-pagination/

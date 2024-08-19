@@ -6,7 +6,7 @@ slug: the-digital-sea-of-exchange
 title: 'The Digital Sea of Exchange '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

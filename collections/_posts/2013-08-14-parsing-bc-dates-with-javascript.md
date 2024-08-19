@@ -6,7 +6,7 @@ slug: parsing-bc-dates-with-javascript
 title: Parsing BC dates with JavaScript
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 crosspost:
   - title: dclure.org

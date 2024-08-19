@@ -6,9 +6,9 @@ slug: starting-out-on-the-right-foot-(part-two)
 title: Starting Out On The Right Foot (Part Two)
 category: essay
 tags:
-- grad student research
-- - dance and theater
-- motion capture
+- grad-student-research
+- - dance-and-theater
+- motion-capture
 ---
 *This post is the second in a series that contextualizes my current project, Digital Skriker, within a larger tradition of studying and archiving stage movement. My project explores both the theoretical cruxes and archival possibilities enabled by robust and increasingly accessible motion capture and virtual reality technologies using Caryl Churchill’s play, The Skriker (1994) as a case study. I’m interested not only in how these technologies might change the way we think about documenting stage movement and gesture, but also how they may be used to create modes of (posthuman?) performance.*
 

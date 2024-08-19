@@ -6,7 +6,7 @@ slug: etcrc-local
 title: /etc/rc.local
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - uva reveal
 ---
 

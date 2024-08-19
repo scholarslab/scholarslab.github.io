@@ -6,7 +6,7 @@ slug: updating-visualizations-and-users
 title: Updating Visualizations and Users
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - visualization
 ---

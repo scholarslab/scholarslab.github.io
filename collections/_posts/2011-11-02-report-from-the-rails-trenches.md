@@ -6,7 +6,7 @@ slug: report-from-the-rails-trenches
 title: report from the rails trenches
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

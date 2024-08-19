@@ -5,7 +5,7 @@ layout: post
 slug: spring-2013-gis-workshops
 title: Spring 2013 GIS Workshops
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 category: announcement
 ---

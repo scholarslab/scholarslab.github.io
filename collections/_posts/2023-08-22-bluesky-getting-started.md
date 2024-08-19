@@ -6,8 +6,8 @@ slug: bluesky-getting-started
 title: "Getting started with Bluesky: social media scholarly community"
 category: essay
 tags:
-- social media
-- getting started
+- about-social-media
+- getting-started
 - tutorial
 crosspost:
   - title: Amanda's blog

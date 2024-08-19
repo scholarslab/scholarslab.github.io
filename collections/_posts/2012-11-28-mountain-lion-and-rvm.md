@@ -6,7 +6,7 @@ slug: mountain-lion-and-rvm
 title: Mountain Lion and RVM
 category: essay
 tags:
-- research and development
+- research-and-development
 ---
 
 I recently upgraded my computer to use the latest version of OS X (Mountain Lion) and I ran in to a problem with the [rvm](https://rvm.io/) package manager. Basically I would get to the point of actually compiling the version of Ruby, and get this nasty error:

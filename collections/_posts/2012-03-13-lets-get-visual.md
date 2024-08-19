@@ -6,9 +6,9 @@ slug: lets-get-visual
 title: "Let's get visual."
 category: essay
 tags:
-- grad student research
-- research and development
-- visualization and data mining
+- grad-student-research
+- research-and-development
+- visualization-and-data-mining
 - praxis
 - prism
 - visualization

@@ -6,11 +6,11 @@ slug: visualizing-early-america-through-mapscholar-and-beyond
 title: Visualizing Early America through MapScholar and Beyond
 category: essay
 tags:
-- geospatial and temporal
-- grad student research
-- research and development
-- visualization and data mining
-- hello world
+- geospatial-and-temporal
+- grad-student-research
+- research-and-development
+- visualization-and-data-mining
+- hello-world
 ---
 
 Hello, DH World! As this is my first official post as a DH Grad Fellow in the Scholars’ Lab, I’d like to start it by thanking the folks in the Lab for the opportunity to join the team for this academic year. I feel really fortunate that I have the chance to hang out with bright and fun people for the next several months.

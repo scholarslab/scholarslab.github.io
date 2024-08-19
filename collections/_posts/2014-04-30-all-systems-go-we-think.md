@@ -6,7 +6,7 @@ slug: all-systems-go-we-think
 title: 'All systems go! (we think...) '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

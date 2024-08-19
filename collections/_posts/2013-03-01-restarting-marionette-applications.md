@@ -6,7 +6,7 @@ slug: restarting-marionette-applications
 title: Restarting Marionette applications
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 - neatline
 crosspost:

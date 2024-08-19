@@ -5,7 +5,7 @@ layout: post
 slug: gis-workshops-fall-2022
 title: You're spatial, I'm spatial, that's terrific. Let's talk about our Fall GIS Workshop series.
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

@@ -6,9 +6,9 @@ slug: mapping-crowd-sourced-bicycle-data
 title: Mapping Crowd Sourced Bicycle Data
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
-- charlottesville and virginia
+- charlottesville-and-virginia
 ---
 
 ## Background

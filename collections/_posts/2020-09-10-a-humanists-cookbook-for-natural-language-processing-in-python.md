@@ -9,7 +9,7 @@ title: A Humanist's Cookbook For Natural Language Processing In Python
 category: essay
 tags:
 - pedagogy
-- text analysis
+- text-analysis
 - tutorial
 - code
 crosspost:

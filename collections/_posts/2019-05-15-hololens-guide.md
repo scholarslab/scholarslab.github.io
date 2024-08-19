@@ -6,7 +6,7 @@ slug: hololens-guide
 title: "HoloLens 101: A New User’s Guide"
 category: essay
 tags:
-- parents fund 
+- parents-fund 
 - vr-ar
 - tutorial
 ---

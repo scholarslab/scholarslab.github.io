@@ -6,7 +6,7 @@ slug: neatline-san-francisco
 title: Neighborhoods of San Francisco
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - neatline
 crosspost:
   - title: dclure.org

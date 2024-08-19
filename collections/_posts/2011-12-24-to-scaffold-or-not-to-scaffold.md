@@ -6,7 +6,7 @@ slug: to-scaffold-or-not-to-scaffold
 title: To Scaffold, or Not To Scaffold?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

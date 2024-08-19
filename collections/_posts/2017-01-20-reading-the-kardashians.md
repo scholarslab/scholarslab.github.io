@@ -6,7 +6,7 @@ slug: reading-the-kardashians
 title: Reading the Kardashians
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - dash-amerikan
 ---

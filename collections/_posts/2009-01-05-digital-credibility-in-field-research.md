@@ -6,8 +6,8 @@ slug: digital-credibility-in-field-research
 title: “'Digital Credibility' in Field Research"
 category: essay
 tags:
-- social sciences
-- hello world
+- social-sciences
+- hello-world
 - anthropology
 ---
 

@@ -6,7 +6,7 @@ slug: project-reviews
 title: Project Reviews
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,8 +6,8 @@ slug: wordpress-pharma-hack
 title: WordPress Pharma Hack
 category: essay
 tags:
-- research and development
-- web development
+- research-and-development
+- web-development
 ---
 
 A few weeks ago I was walking to my car and was copied on an email from the director of the IT department for the UVa Library:

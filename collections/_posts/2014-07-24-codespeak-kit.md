@@ -6,7 +6,7 @@ slug: codespeak-kit
 title: 'Announcing the #Codespeak Kit!'
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 ---
 

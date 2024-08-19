@@ -6,7 +6,7 @@ slug: overlapping-anxieties
 title: overlapping anxieties
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 - code

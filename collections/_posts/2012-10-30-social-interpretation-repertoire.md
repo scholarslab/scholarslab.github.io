@@ -6,7 +6,7 @@ slug: social-interpretation-repertoire
 title: Social Interpretation Repertoire
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,7 +6,7 @@ slug: to-crowdsource-or-not-to-crowdsource
 title: To Crowdsource or Not To Crowdsource?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

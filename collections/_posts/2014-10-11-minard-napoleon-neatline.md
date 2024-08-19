@@ -6,7 +6,7 @@ slug: minard-napoleon-neatline
 title: Minard + Napoleon + Neatline
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - history
 - neatline
 crosspost:

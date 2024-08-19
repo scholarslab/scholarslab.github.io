@@ -7,7 +7,7 @@ title: "Automating Webpage & Tweet Screencaptures"
 category: essay
 tags:
 - tutorial
-- social media
+- about-social-media
 - automation
 ---
 

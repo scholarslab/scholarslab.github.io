@@ -5,7 +5,7 @@ layout: post
 slug: gis-workshops-fall-2019
 title: Announcing our GIS Workshop Series for Fall 2019
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

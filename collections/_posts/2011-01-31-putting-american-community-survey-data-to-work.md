@@ -6,10 +6,10 @@ slug: putting-american-community-survey-data-to-work
 title: Putting American Community Survey Data to Work
 category: essay
 tags:
-- geospatial and temporal
-- visualization and data mining
+- geospatial-and-temporal
+- visualization-and-data-mining
 - gis
-- social sciences
+- social-sciences
 ---
 
 This past week, I read an [article](http://www.wired.com/autopia/2010/10/more-people-biking-to-work/) that claims the number of people "getting around" by bicycle is steadily growing. The article references the American Community Survey (ACS) and the League of American Bicyclists (LAB). Considering I am a certified instructor from the LAB, I wanted to check the data for myself (and map it). <!-- more -->

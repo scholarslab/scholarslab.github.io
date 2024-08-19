@@ -6,7 +6,7 @@ slug: neatline-and-the-framework-challenge
 title: Neatline and the framework challenge
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - neatline
 ---
 

@@ -8,7 +8,7 @@ category: essay
 tags:
 - praxis
 - pedagogy
-- wlu collab
+- wlu-collab
 ---
 
 <figure>

@@ -6,7 +6,7 @@ slug: announcing-the-praxis-program
 title: Announcing the Praxis Program
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

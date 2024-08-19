@@ -6,7 +6,7 @@ slug: mimesis-and-computer
 title: Mimesis and Computers
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

@@ -6,7 +6,7 @@ slug: the-direction-of-prism
 title: The Direction of Prism
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

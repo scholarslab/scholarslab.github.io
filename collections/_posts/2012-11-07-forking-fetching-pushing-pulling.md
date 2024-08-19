@@ -6,8 +6,8 @@ slug: forking-fetching-pushing-pulling
 title: Forking, Fetching, Pushing, Pulling
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - code
 - praxis
 - tutorial

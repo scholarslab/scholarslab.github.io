@@ -7,7 +7,7 @@ title: "Dice Used for Games, Prophecies, and Learning: 3D Printing Ancient Knuck
 category: essay
 tags:
 - makerspace
-- grad student research
+- grad-student-research
 - 3d printing
 - archaeology
 - games

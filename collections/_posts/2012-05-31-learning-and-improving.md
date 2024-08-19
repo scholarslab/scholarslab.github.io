@@ -6,7 +6,7 @@ slug: learning-and-improving
 title: Learning and Improving
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 ---
 

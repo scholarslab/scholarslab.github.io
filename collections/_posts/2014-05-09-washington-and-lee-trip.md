@@ -6,9 +6,9 @@ slug: washington-and-lee-trip
 title: Washington and Lee Trip
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
-- wlu collab
+- wlu-collab
 - pedagogy
 crosspost:
   - title: my personal website

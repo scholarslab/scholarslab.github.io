@@ -6,8 +6,8 @@ slug: social-media-and-the-inauguration
 title: Social Media and the Inauguration
 category: announcement
 tags:
-- geospatial and temporal
-- visualization and data mining
+- geospatial-and-temporal
+- visualization-and-data-mining
 ---
 
 <!-- ![Social Media in the SLab](http://farm4.static.flickr.com/3525/3202007970_729b7e0186.jpg)  -->

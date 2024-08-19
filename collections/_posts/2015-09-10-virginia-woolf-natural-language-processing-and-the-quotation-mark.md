@@ -6,7 +6,7 @@ slug: virginia-woolf-natural-language-processing-and-the-quotation-mark
 title: Virginia Woolf, Natural Language Processing, and the Quotation Mark
 category: essay
 tags:
-- grad student research
+- grad-student-research
 crosspost:
   - title: my personal blog
     url: http://walshbr.com/blog/woolf-and-the-quotation-mark/

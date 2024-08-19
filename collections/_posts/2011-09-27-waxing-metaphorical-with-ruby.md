@@ -6,7 +6,7 @@ slug: waxing-metaphorical-with-ruby
 title: Waxing metaphorical with Ruby
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

@@ -6,7 +6,7 @@ slug: rules-and-flexibility-learning-from-games-for-ivanhoe
 title: 'Rules and Flexibility: Learning from Games for Ivanhoe'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 - games

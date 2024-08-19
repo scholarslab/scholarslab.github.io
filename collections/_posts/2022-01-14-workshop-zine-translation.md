@@ -7,7 +7,7 @@ slug: workshop-zine-translation
 title: Zine-making as Critical DH Pedagogy  
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - pedagogy
 - zines
 - praxis

@@ -7,7 +7,7 @@ title: "A Moderate Proposal: Healthier Systems for Running Online Digital Humani
 category: essay
 tags:
 - moderation
-- social media
+- about-social-media
 ---
 
 Healthy, diverse online learning communities depend on the labor of community design: unseen and often stressful work such as moderation, shaping discussions, and encouraging positive community behavior. As more opportunities emerge for learning online as part of a virtual community, how can we:  

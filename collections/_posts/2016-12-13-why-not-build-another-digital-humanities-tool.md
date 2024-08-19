@@ -6,7 +6,7 @@ slug: why-not-build-another-digital-humanities-tool
 title: Why not build another digital humanities tool?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - dash-amerikan
 ---

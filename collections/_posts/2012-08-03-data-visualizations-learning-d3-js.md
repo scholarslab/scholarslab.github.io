@@ -6,7 +6,7 @@ slug: data-visualizations-learning-d3-js
 title: 'Data visualizations: Learning d3.js'
 category: essay
 tags:
-- visualization and data mining
+- visualization-and-data-mining
 - code
 - visualization
 crosspost:

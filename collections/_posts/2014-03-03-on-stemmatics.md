@@ -6,7 +6,7 @@ slug: on-stemmatics
 title: On Stemmatics
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - pedagogy
 - ivanhoe

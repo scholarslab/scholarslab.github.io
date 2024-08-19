@@ -6,7 +6,7 @@ slug: art-in-the-scholars-lab
 title: Art in the Scholars' Lab
 category: essay
 tags:
-- research and development
+- research-and-development
 - design
 ---
 

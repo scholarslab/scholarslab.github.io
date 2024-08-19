@@ -6,8 +6,8 @@ slug: art-collections-as-data
 title: "Thinking About [Art] Collections As Data"
 category: essay
 tags:
-- grad student research
-- wlu collab
+- grad-student-research
+- wlu-collab
 ---
 If you could Google search the collective holdings of the world’s art museums, or a course materials on the entire history of art, what could you learn about objects and how they relate to one another? How would this create new connections or elide certain facts? Would it change our current narratives in the history of art? As a Praxis Fellow, I’m interested in how the digital humanities can help create new insights about art objects and their history. Before pursuing my Ph.D. in Art and Architectural History, I worked with art object metadata in different formats and for varying purposes. All of this cataloguing, sorting, and researching brings up larger questions about how to store and utilize archival and object data: what elements are important to record, how should they be categorized, and how can this information be searched and/or pulled to show relationships? Is there a way it can all be “linked” together? Fortunately, I am not the only one with such Utopian [art historical] data dreams. 
 

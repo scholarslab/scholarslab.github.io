@@ -6,7 +6,7 @@ slug: wrapping-up-i18n
 title: Wrapping up i18n
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - code
 - praxis
 ---

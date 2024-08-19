@@ -6,7 +6,7 @@ slug: introduction-to-linked-open-data-at-rare-books-school
 title: Introduction to Linked Open Data at Rare Book School
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 ---
 

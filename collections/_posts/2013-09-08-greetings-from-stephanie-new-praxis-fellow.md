@@ -6,7 +6,7 @@ slug: greetings-from-stephanie-new-praxis-fellow
 title: Greetings from Stephanie, new Praxis Fellow!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

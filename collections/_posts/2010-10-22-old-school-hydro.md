@@ -5,7 +5,7 @@ layout: post
 slug: old-school-hydro
 title: '"Old School Hydro" in the Scholars'' Lab'
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 - event
 category: announcement

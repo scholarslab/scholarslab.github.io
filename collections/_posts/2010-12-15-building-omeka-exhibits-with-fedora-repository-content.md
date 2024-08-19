@@ -6,7 +6,7 @@ slug: building-omeka-exhibits-with-fedora-repository-content
 title: Building Omeka Exhibits with Fedora Repository Content
 category: essay
 tags:
-- research and development
+- research-and-development
 - omeka
 ---
 

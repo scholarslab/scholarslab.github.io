@@ -6,7 +6,7 @@ slug: gendering-praxis
 title: Gendering Praxis
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - gender
 - praxis
 - feminism

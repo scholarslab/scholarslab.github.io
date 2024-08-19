@@ -6,7 +6,7 @@ slug: the-end-of-the-beginning
 title: The end of the beginning
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - pedagogy
 - praxis
 ---

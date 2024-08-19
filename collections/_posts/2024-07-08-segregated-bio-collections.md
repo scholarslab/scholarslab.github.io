@@ -7,7 +7,7 @@ title: "Segregated Biographical Collections and Documentary Social Networks: *Po
 summary: "In the same way that researchers today look at social networks (online or otherwise) and think about the meanings of 'connections' or 'nodes' within them, so too can we look at collective biography as a mode of textual and social connection."
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - cbw
 - gender
 - literature

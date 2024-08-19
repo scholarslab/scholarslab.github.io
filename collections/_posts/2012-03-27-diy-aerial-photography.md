@@ -6,7 +6,7 @@ slug: diy-aerial-photography
 title: DIY Aerial Photography
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 - tutorial
 ---

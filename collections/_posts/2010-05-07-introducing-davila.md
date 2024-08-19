@@ -6,8 +6,8 @@ slug: introducing-davila
 title: Introducing DAVILA
 category: essay
 tags:
-- grad student research
-- visualization and data mining
+- grad-student-research
+- visualization-and-data-mining
 ---
 
 

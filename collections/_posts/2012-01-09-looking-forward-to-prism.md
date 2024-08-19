@@ -6,7 +6,7 @@ slug: looking-forward-to-prism
 title: Looking forward to Prism
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 - project-management

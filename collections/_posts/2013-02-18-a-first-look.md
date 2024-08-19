@@ -6,7 +6,7 @@ slug: a-first-look
 title: A First Look
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 ---

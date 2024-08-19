@@ -6,7 +6,7 @@ slug: no-famous-last-words
 title: Got Prism?
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

@@ -6,14 +6,14 @@ slug: the-mappy-goodness-that-is-gis-day-in-the-scholars-lab
 title: The Mappy Goodness that is GIS Day in the Scholars' Lab
 category: essay
 tags:
-- geospatial and temporal
-- grad student research
-- visualization and data mining
+- geospatial-and-temporal
+- grad-student-research
+- visualization-and-data-mining
 - map
 - gis
 - tutorial
 - map
-- social sciences
+- social-sciences
 - visualization
 ---
 

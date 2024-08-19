@@ -6,10 +6,10 @@ slug: sharing-unity-project
 title: "Sharing a Unity Project"
 category: essay
 tags:
-- research and development
-- parents fund
+- research-and-development
+- parents-fund
 - tutorial
-- 3d modeling
+- 3d-modeling
 ---
 # Sharing a Unity Project
 

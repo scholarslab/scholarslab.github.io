@@ -6,7 +6,7 @@ slug: thinking-through-doing-while-losing-my-marbles
 title: Thinking Through Doing While Losing My Marbles
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

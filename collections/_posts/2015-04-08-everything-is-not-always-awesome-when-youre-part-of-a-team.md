@@ -6,7 +6,7 @@ slug: everything-is-not-always-awesome-when-youre-part-of-a-team
 title: Everything Is (Not Always) AWESOME When You're Part of a Team!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 - about-collaboration-community

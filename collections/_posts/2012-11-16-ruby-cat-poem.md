@@ -6,7 +6,7 @@ slug: ruby-cat-poem
 title: Ruby Cat Poem
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 - fun

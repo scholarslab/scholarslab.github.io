@@ -6,7 +6,7 @@ slug: building-prism-the-darker-side-of-the-enlightenment-spectrum
 title: 'Building Prism: The Darker Side of the Enlightenment Spectrum'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 - code

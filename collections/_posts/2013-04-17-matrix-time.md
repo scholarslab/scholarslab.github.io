@@ -6,7 +6,7 @@ slug: matrix-time
 title: matrix time
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - prism
 - praxis
 ---

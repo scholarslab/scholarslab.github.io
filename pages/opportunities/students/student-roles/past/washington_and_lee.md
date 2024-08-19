@@ -25,7 +25,7 @@ Some past presentations included:
 
 Past posts by participants:
 
-{% assign project_posts = site.posts | where: 'tags', 'WLU Collab' %}
+{% assign project_posts = site.posts | where: 'tags', 'wlu-collab' %}
 <ul>
 {% for post in project_posts %}
 {% capture authorstring %}

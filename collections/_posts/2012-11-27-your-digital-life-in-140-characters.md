@@ -6,9 +6,9 @@ slug: your-digital-life-in-140-characters
 title: Your Digital Life in 140 Characters
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
-- social media
+- about-social-media
 ---
 
 I just recently hopped on Twitter for the first time as part of a conference through UVA's [Institute for the Humanities and Global Cultures](http://www.virginia.edu/humanities/). It was a bit rough for the first five or six tweets as I worked out the kinks. Here are some thoughts that came out of the experience.

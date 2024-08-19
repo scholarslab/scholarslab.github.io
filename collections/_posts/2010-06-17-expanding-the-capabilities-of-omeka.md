@@ -6,7 +6,7 @@ slug: expanding-the-capabilities-of-omeka
 title: Expanding the Capabilities of Omeka
 category: essay
 tags:
-- research and development
+- research-and-development
 - metadata
 - omeka
 ---

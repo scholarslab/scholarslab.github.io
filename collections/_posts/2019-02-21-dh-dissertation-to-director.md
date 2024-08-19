@@ -7,7 +7,7 @@ title: "DH Dissertation to Director: Notes connecting my student and staff exper
 category: essay
 tags:
 - directing
-- professional development
+- professional-development
 ---
 
 A colleague recently asked me about how I draw on my DH dissertation experience ([dr.amandavisconti.com](https://dr.amandavisconti.com)) in my work co-directing the Scholars' Lab. Below, I share the rough notes I typed up in response about the first couple such dissertation-director connections that came to mind:

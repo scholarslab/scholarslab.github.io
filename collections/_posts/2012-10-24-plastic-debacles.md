@@ -6,7 +6,7 @@ slug: plastic-debacles
 title: Plastic Debacles
 category: essay
 tags:
-- research and development
+- research-and-development
 - 3d printing
 - makerspace
 ---

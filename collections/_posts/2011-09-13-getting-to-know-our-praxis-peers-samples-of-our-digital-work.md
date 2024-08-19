@@ -6,7 +6,7 @@ slug: getting-to-know-our-praxis-peers-samples-of-our-digital-work
 title: 'Getting to Know our Praxis Peers: Samples of our Digital Work'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

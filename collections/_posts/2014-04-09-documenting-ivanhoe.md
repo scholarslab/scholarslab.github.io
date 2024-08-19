@@ -6,7 +6,7 @@ slug: documenting-ivanhoe
 title: Documenting Ivanhoe
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

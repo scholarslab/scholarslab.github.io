@@ -6,8 +6,8 @@ slug: neatline-sneak-peek
 title: Neatline Sneak-Peek
 category: essay
 tags:
-- geospatial and temporal
-- research and development
+- geospatial-and-temporal
+- research-and-development
 - neatline
 ---
 

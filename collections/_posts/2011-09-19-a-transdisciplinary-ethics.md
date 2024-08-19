@@ -6,7 +6,7 @@ slug: a-transdisciplinary-ethics
 title: A Transdisciplinary Ethics
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

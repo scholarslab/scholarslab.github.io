@@ -6,9 +6,9 @@ slug: living-in-the-future
 title: Living in the Future
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - makerspace
-- music and sound
+- music-and-sound
 - praxis
 ---
 

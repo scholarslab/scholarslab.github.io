@@ -6,7 +6,7 @@ slug: inktober-1021-when-things-break
 title: 'Inktober 10/21: When Things Break'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - clockwork
 crosspost:
   - title: my post on our Praxis page

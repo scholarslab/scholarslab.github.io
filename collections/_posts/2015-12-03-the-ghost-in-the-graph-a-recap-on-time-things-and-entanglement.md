@@ -6,8 +6,8 @@ slug: the-ghost-in-the-graph-a-recap-on-time-things-and-entanglement
 title: 'The Ghost in the Graph: A Recap on Time, Things, and Entanglement'
 category: essay
 tags:
-- grad student research
-- visualization and data mining
+- grad-student-research
+- visualization-and-data-mining
 - clockwork
 - praxis
 ---

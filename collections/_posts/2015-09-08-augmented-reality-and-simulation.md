@@ -6,7 +6,7 @@ slug: augmented-reality-and-simulation
 title: Augmented Reality and Simulation
 category: essay
 tags:
-- research and development
+- research-and-development
 - vr-ar
 - 3d printing
 - makerspace

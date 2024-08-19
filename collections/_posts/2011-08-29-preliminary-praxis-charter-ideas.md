@@ -6,7 +6,7 @@ slug: preliminary-praxis-charter-ideas
 title: Preliminary Praxis Charter Ideas
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

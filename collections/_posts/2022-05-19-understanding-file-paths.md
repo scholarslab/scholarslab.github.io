@@ -7,7 +7,7 @@ title: Understanding File Paths
 category: essay
 tags:
 - makerspace
-- web development
+- web-development
 - tutorial
 ---
 <style>

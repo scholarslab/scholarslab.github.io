@@ -7,7 +7,7 @@ title: "Working on a Workshop (aka outlining a possible workshop about DH and So
 category: essay
 tags:
 - praxis
-- wlu collab
+- wlu-collab
 ---
 
 ## THE BLOG

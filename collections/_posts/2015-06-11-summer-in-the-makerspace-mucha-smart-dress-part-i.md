@@ -6,11 +6,11 @@ slug: summer-in-the-makerspace-mucha-smart-dress-part-i
 title: 'Summer in the Makerspace: Mucha Smart Dress, Part I'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - 3d printing
 - electronics
-- fabric arts
-- expansive makerspace
+- fabric-arts
+- expansive-makerspace
 - makerspace
 ---
 

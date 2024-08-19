@@ -6,7 +6,7 @@ slug: hello-world-4
 title: Hello World!
 category: essay
 tags:
-- hello world
+- hello-world
 - praxis
 - uva reveal
 ---

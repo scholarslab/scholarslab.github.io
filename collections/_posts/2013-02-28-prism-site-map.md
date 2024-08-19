@@ -6,8 +6,8 @@ slug: prism-site-map
 title: Prism Site Map
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - design
 - praxis
 ---

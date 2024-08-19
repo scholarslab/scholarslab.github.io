@@ -6,7 +6,7 @@ slug: all-together-now
 title: All Together Now
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

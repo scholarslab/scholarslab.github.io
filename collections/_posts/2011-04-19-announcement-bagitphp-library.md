@@ -5,7 +5,7 @@ layout: post
 slug: announcement-bagitphp-library
 title: 'Announcement: BagItPHP Library'
 tags:
-- research and development
+- research-and-development
 - code
 category: essay
 ---

@@ -8,7 +8,7 @@ slug: dh-pedagogy-roadshow
 title: DH Pedagogy Roadshow
 category: essay
 tags:
-- wlu collab
+- wlu-collab
 - pedagogy
 crosspost:
   - title: Brandon's blog

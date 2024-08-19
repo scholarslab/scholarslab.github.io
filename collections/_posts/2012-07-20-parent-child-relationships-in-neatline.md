@@ -6,7 +6,7 @@ slug: parent-child-relationships-in-neatline
 title: Parent-child relationships in Neatline
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - neatline
 - tutorial
 ---

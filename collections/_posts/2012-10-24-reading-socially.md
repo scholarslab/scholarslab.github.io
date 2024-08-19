@@ -6,7 +6,7 @@ slug: reading-socially
 title: Reading Socially
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

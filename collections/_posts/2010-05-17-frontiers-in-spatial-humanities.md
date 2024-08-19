@@ -5,7 +5,7 @@ layout: post
 slug: frontiers-in-spatial-humanities
 title: Frontiers in Spatial Humanities
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 - event
 category: announcement

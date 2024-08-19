@@ -6,9 +6,9 @@ slug: introducing-our-digital-work-songs-of-the-victorians
 title: 'Introducing Our Digital Work: “Songs of the Victorians” '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - literature
-- music and sound
+- music-and-sound
 - praxis
 ---
 

@@ -6,11 +6,11 @@ slug: teleporting-in-Unity3D
 title: "Teleporting in Unity 3D"
 category: essay
 tags:
-- architectural history
-- research and development
-- parents fund
+- architectural-history
+- research-and-development
+- parents-fund
 - vr-ar
-- 3d modeling
+- 3d-modeling
 - tutorial
 ---
 # Teleporting in Unity 3D

@@ -6,7 +6,7 @@ slug: digital-humanities-growing-pains
 title: Digital Humanities Growing Pains
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

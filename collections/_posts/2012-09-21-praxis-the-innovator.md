@@ -6,7 +6,7 @@ slug: praxis-the-innovator
 title: 'Praxis: The Innovator'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

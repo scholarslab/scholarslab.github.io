@@ -6,7 +6,7 @@ slug: processing-praxis
 title: Processing Praxis
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

@@ -6,7 +6,7 @@ slug: vim-config-and-windows
 title: Vim Config (and Windows)
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - code
 - praxis
 ---

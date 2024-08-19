@@ -6,7 +6,7 @@ slug: vive-la-difference
 title: Vive la différence!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

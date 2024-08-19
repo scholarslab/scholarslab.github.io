@@ -6,7 +6,7 @@ slug: displaying-recent-neatline-exhibits-on-your-omeka-home-page
 title: Displaying Recent Neatline Exhibits on your Omeka Home Page
 category: essay
 tags:
-- research and development
+- research-and-development
 - neatline
 - omeka
 ---

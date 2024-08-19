@@ -6,7 +6,7 @@ slug: let-the-process-begin
 title: 'Let the process begin:'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

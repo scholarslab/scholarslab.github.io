@@ -6,7 +6,7 @@ slug: learning-ruby-opening-moves
 title: 'Learning Ruby: Opening Moves'
 category: essay
 tags:
-- research and development
+- research-and-development
 ---
 
 As the [Praxis](https://praxis.scholarslab.org) Fellows wrapped up [Ivanhoe](http://ivanhoe.scholarslab.org), I turned my attention to the [Praxis Network](http://www.praxis-network.org). The Praxis Network, which showcases eight like-minded, but differently enacted programs all exploring new ways of teaching humanities students, began with the goals of creating an easy way to compare a variety of programs and to provide a model for others. The success of the website, prompted new goals of better networking students within the Network as well as allied programs.

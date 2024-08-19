@@ -5,7 +5,7 @@ layout: post
 slug: spring-2014-scholars-lab-gis-workshop-series
 title: Spring 2014 Scholars’ Lab GIS Workshop Series
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

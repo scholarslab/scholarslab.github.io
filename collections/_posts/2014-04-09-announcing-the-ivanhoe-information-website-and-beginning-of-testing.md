@@ -6,7 +6,7 @@ slug: announcing-the-ivanhoe-information-website-and-beginning-of-testing
 title: '(Digest #6) Announcing the Ivanhoe Information Website and Beginning of Testing'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

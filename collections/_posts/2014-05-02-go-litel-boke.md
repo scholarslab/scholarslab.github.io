@@ -6,7 +6,7 @@ slug: go-litel-boke
 title: '"Go litel boke!"'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

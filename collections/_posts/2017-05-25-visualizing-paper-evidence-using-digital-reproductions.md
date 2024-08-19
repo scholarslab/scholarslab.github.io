@@ -6,8 +6,8 @@ slug: visualizing-paper-evidence-using-digital-reproductions
 title: Visualizing Paper Evidence Using Digital Reproductions
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - bibliography
 - visualization
 ---

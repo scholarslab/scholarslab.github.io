@@ -6,7 +6,7 @@ slug: building-dwelling-coding
 title: Building, Dwelling, Coding
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

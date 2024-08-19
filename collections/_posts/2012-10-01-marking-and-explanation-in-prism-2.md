@@ -6,7 +6,7 @@ slug: marking-and-explanation-in-prism-2
 title: Marking and Explanation in Prism
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

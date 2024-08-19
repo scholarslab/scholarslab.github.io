@@ -6,8 +6,8 @@ slug: teaching-coffeescript
 title: Teaching CoffeeScript
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - pedagogy
 - code
 - praxis

@@ -6,7 +6,7 @@ slug: learning-ruby-again
 title: Learning Ruby (again)
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

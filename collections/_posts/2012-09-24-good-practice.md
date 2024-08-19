@@ -6,7 +6,7 @@ slug: good-practice
 title: Good Practice
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

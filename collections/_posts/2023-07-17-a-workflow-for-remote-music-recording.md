@@ -6,7 +6,7 @@ slug: a-workflow-for-remote-music-recording
 title: A Workflow For Remote Music Recording
 category: essay
 tags:
-- music and sound
+- music-and-sound
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/a-workflow-for-remote-music-recording

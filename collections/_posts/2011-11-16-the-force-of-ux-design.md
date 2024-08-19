@@ -6,7 +6,7 @@ slug: the-force-of-ux-design
 title: The Force of UX Design
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 - prism

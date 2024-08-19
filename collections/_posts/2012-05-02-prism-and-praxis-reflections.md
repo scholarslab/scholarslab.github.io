@@ -6,8 +6,8 @@ slug: prism-and-praxis-reflections
 title: Prism and Praxis Reflections
 category: essay
 tags:
-- grad student research
-- visualization and data mining
+- grad-student-research
+- visualization-and-data-mining
 - praxis
 - prism
 ---

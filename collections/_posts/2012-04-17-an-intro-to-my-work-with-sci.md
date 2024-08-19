@@ -7,7 +7,7 @@ title: "An intro to my work with the Scholarly Communication Institute (SCI)"
 category: essay
 tags:
 - alt-ac
-- professional development
+- professional-development
 ---
 
 Hi, readers! It's such a pleasure to be writing in this space. [As you may know](https://scholarslab.org/announcements/welcoming-katina-rogers/), I came onboard as Senior Research Specialist for the [Scholarly Communication Institute](http://uvasci.org/current-work/) just a couple of weeks ago. SCI is housed within the Scholars' Lab (which means I get to be a part of this stellar group that, if you're reading here, you already know well), and over the past nine years has convened discussion-based summer institutes on topics related to all aspects of scholarly communication. I'm still green as can be, but the shapes of my projects are becoming clearer, and as I plan them out I'm getting a sense of just how quickly these eighteen months will go.

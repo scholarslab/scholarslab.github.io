@@ -6,7 +6,7 @@ slug: fellowship-calls-and-grad-student-professional-development
 title: Fellowship Calls and Grad Student Professional Development
 category: essay
 tags:
-- professional development
+- professional-development
 - pedagogy
 ---
 

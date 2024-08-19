@@ -10,7 +10,7 @@ slug: code-reviews-and-the-digital-humanities
 title: Code Reviews and the Digital Humanities
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 ---
 

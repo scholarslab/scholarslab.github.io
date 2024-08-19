@@ -6,7 +6,7 @@ slug: live-and-in-public
 title: Live and in public!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

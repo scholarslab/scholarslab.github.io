@@ -6,8 +6,8 @@ slug: dancing-with-ruby
 title: Dancing with Ruby
 category: essay
 tags:
-- grad student research
-- dance and theater
+- grad-student-research
+- dance-and-theater
 - praxis
 - code
 ---

@@ -6,8 +6,8 @@ slug: through-another-prism
 title: through another prism
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - praxis
 - prism
 ---

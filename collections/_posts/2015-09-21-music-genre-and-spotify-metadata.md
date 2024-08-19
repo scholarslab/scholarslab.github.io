@@ -6,8 +6,8 @@ slug: music-genre-and-spotify-metadata
 title: Music Genre and Spotify Metadata
 category: essay
 tags:
-- grad student research
-- music and sound
+- grad-student-research
+- music-and-sound
 crosspost:
   - title: my personal site
     url: http://walshbr.com/blog/music-genre-and-spotify-metadata/

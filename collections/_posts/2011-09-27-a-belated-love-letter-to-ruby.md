@@ -6,7 +6,7 @@ slug: a-belated-love-letter-to-ruby
 title: A belated love letter to Ruby
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

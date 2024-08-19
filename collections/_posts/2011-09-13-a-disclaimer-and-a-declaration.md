@@ -6,7 +6,7 @@ slug: a-disclaimer-and-a-declaration
 title: A disclaimer and a declaration
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

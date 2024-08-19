@@ -6,7 +6,7 @@ slug: announcing-neatline
 title: Announcing Neatline!
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 - neatline
 - omeka

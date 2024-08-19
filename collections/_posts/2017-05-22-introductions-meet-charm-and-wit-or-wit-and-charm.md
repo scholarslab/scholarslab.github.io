@@ -6,7 +6,7 @@ slug: introductions-meet-charm-and-wit-or-wit-and-charm
 title: 'Introductions: Meet Charm and Wit, or Wit and Charm'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 ---
 
 Sarah E. Berkowitz

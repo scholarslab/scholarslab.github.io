@@ -6,7 +6,7 @@ slug: we-have-highlighting
 title: We Have Highlighting!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - code
 - praxis
 - prism

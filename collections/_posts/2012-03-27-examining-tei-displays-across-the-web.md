@@ -7,7 +7,7 @@ title: Examining TEI Displays Across the Web
 category: essay
 tags:
 - omeka
-- grad student research
+- grad-student-research
 - code
 ---
 

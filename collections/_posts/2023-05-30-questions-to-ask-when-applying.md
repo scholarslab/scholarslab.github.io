@@ -6,7 +6,7 @@ slug: questions-to-ask-when-applying
 title: Questions to Ask When Applying
 category: essay
 tags:
-- professional development
+- professional-development
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/questions-to-ask-when-applying

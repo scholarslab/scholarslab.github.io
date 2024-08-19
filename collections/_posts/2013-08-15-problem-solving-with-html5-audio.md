@@ -6,8 +6,8 @@ slug: problem-solving-with-html5-audio
 title: Problem Solving with HTML5 Audio
 category: essay
 tags:
-- research and development
-- music and sound
+- research-and-development
+- music-and-sound
 - code
 ---
 

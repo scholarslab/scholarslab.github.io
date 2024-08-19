@@ -6,7 +6,7 @@ slug: the-whiteboard
 title: The Whiteboard
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

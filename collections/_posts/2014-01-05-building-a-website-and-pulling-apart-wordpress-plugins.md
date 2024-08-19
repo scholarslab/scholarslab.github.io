@@ -6,9 +6,9 @@ slug: building-a-website-and-pulling-apart-wordpress-plugins
 title: Building a Website and Pulling Apart WordPress Plugins
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
-- web development
+- web-development
 ---
 
 For the first time in all my years as a graduate student, I decided to take some of Christmas break as an actual break from school work. So, for the first two weeks of break, I refused to read school related emails, read mostly neuroscience instead of theology or philosophy, only thought about my dissertation a couple of times a day, and only glanced at code here and there. After those restful two weeks, it's time to get back to work though.

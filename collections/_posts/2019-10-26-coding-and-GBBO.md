@@ -7,7 +7,7 @@ title: "An Ode to Learning to Code, Imposter Syndrome, and the Great British Bak
 category: essay
 tags:
 - praxis
-- grad student research
+- grad-student-research
 - code
 ---
 My year as a Praxis Member started off much like the first episode of any season of the Great British Bakeoff (GBBO)—a group of bright-eyed and slightly nervous hopefuls gathered in our version of the iconic white tent, the Scholars’ Lab Fellows Lounge. Containing comfy chairs, smiling Scholars’ Lab members, and images of beloved pets scattered across the windows, the Lounge promised a space of learning as cozy and supportive as the tent. Yet the tent of GBBO is not only a site for quaint bonding and puns about baked goods, it is also a site for intense growth, curiosity, and challenge. 

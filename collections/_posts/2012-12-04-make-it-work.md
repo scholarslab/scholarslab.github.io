@@ -6,7 +6,7 @@ slug: make-it-work
 title: Make it Work!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

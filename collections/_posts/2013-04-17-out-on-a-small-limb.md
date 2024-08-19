@@ -6,7 +6,7 @@ slug: out-on-a-small-limb
 title: Out on a (Small) Limb
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

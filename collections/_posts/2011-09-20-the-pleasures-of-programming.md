@@ -6,7 +6,7 @@ slug: the-pleasures-of-programming
 title: The Pleasures of Programming
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

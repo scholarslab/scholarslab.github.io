@@ -9,10 +9,10 @@ tags:
 - photogrammetry
 - gis
 - vr-ar
-- grad student research
+- grad-student-research
 - 3dchi
 - archaeology
-- 3d modeling
+- 3d-modeling
 ---
 
 Whether I’d like to believe it or not, this academic year is nearly finished, marking the end of my time as one of the Graduate Fellows in the Digital Humanities. Even though I still have about 5 weeks before I present my final project, I’m beginning to reflect on the process and experience so far, and I’m thinking critically about how to spend the rest of my time. 

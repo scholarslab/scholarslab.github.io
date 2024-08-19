@@ -6,7 +6,7 @@ slug: charter-and-design
 title: Charter and Design
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - design
 - praxis

@@ -6,7 +6,7 @@ slug: electronic-text-analysis-and-the-wary-humanist
 title: Electronic Text Analysis and the Wary Humanist
 category: essay
 tags:
-- visualization and data mining
+- visualization-and-data-mining
 ---
 
 For a long list of complicated reasons, most practitioners of my discipline&mdash;political theory&mdash;tend to be suspicious of, if not altogether opposed to, the integration of computer technology into their research and teaching. While some scholars cite the superfluity of computer technology to the discipline (excepting, of course, Microsoft Word), others argue that the introduction of certain technologies might somehow actually endanger both thinking and learning (and who wouldn’t find the reduction of Plato to a series of PowerPoint slides, well, a tad reductive?).

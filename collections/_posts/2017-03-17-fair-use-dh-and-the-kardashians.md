@@ -6,7 +6,7 @@ slug: fair-use-dh-and-the-kardashians
 title: Fair Use, DH, and the Kardashians
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - dash-amerikan
 ---

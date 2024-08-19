@@ -6,7 +6,7 @@ slug: the-joys-of-ruby
 title: The Joys of Ruby
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 - code

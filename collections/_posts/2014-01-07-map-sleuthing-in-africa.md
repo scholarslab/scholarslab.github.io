@@ -6,7 +6,7 @@ slug: map-sleuthing-in-africa
 title: Map Sleuthing in Africa
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 - map
 ---

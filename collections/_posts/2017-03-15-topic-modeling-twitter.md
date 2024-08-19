@@ -7,9 +7,9 @@ title: Topic Modeling Twitter
 category: essay
 tags:
 - praxis
-- social media
+- about-social-media
 - code
-- text analysis
+- text-analysis
 ---
 
 **What is topic modeling?**

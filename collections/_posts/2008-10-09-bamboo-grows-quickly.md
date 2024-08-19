@@ -6,7 +6,7 @@ slug: bamboo-grows-quickly
 title: Bamboo Grows Quickly
 category: essay
 tags:
-- grad student research
+- grad-student-research
 ---
 
 In July I attended the [fourth Bamboo Planning Workshop](http://projectbamboo.org/1d-princeton-workshop-agenda), held at Princeton University. For those of you unfamiliar with [Project Bamboo](http://projectbamboo.org/) (as distinct from the feeding of pandas), Bamboo is a series of workshops on the future of digital humanities designed by UC Berkeley and my alma mater, the University of Chicago.  The workshops are bringing together humanities scholars, content providers, administrators, and central IT personnel from universities to design an organization that will serve the needs of the digital humanities community.

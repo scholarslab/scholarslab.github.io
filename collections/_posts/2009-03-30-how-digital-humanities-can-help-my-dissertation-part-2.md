@@ -6,7 +6,7 @@ slug: how-digital-humanities-can-help-my-dissertation-part-2
 title: Mining and Mapping Apocalyptic Texts, Part 2
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 ---
 
 As I explained in [my last blog post](http://scholarslab.lib.virginia.edu/blog/how-digital-humanities-can-improve-my-dissertation-part-1/), my dissertation will compare several statements about the final fate of humankind in Paul to similar statements in apocalyptic texts. In that post, I described how text-mining could help with the interpretation of the texts which stand at the center of my dissertation. In this post, I will discuss how geographic information systems (GIS) can help to visualize geographic relationships among texts. My ideas here, as in my first blog post, are the result of conversations with other staff members here at the Scholars’ Lab. The question that I pose and answer in this blog post is, What does geography have to do with the analysis of biblical texts? The short answer is, “Much, in every way.” But I can’t just assert that, I need to show it.

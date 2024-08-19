@@ -6,8 +6,8 @@ slug: final-prism-wireframes
 title: '"Final" Prism Wireframes'
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - design
 - praxis
 ---

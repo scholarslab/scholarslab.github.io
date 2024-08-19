@@ -6,7 +6,7 @@ slug: the-transparent-crowd
 title: the Transparent Crowd
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

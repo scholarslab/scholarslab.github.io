@@ -8,8 +8,8 @@ category: essay
 tags:
 - makerspace
 - tutorial
-- fabric arts
-- expansive makerspace
+- fabric-arts
+- expansive-makerspace
 ---
 <style>
   img {

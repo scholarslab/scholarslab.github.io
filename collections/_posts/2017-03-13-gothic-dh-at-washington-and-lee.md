@@ -7,8 +7,8 @@ title: “Gothic DH” at Washington and Lee
 category: essay
 tags:
 - literature
-- grad student research
-- wlu collab
+- grad-student-research
+- wlu-collab
 crosspost:
   - title: W&L DH blog
     url: http://digitalhumanities.wlu.edu/blog/2017/03/13/gothic-dh-at-washington-and-lee/

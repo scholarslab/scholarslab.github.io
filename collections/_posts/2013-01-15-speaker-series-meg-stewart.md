@@ -5,7 +5,7 @@ layout: post
 slug: speaker-series-meg-stewart
 title: Meg Stewart to talk about the Fulbright Scholar program, Thursday, Jan 17
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

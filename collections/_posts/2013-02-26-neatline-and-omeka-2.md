@@ -6,7 +6,7 @@ slug: neatline-and-omeka-2
 title: Neatline and Omeka 2.0
 category: essay
 tags:
-- research and development
+- research-and-development
 - neatline
 - omeka
 crosspost:

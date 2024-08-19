@@ -6,7 +6,7 @@ slug: inktober-1013-time-pieces-and-graphs
 title: 'Inktober 10/13: Time Pieces and Graphs'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - clockwork
 - labor
 crosspost:

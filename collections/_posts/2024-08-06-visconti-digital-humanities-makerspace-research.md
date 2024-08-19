@@ -12,11 +12,11 @@ tags:
 - zines
 - zine-bakery
 - resin
-- expansive makerspace
+- expansive-makerspace
 - about-collaboration-community
 - literature
 - metadata
-- social media
+- about-social-media
 ---
 
 *My DH 2024 conference talk on my recent book-adjacent data physicalizations and makerspace research, as part of co-facilitating the #DHmakes mini-conference. What is #DHmakes? Briefly: anyone (you?) DH-adjacent sharing their (DH or not) crafty or making work with the #DHmakes hashtag, getting supportive community feedback. Resulting collaborations have included conference sessions and a journal article. For an in-depth explanation of #DHmakes's history, rationale, goals, examples, see [the peer-reviewed article](https://accesson.kr/kjdh/v.1/1/73/43507) I recently co-authored with Quinn Dombrowski and Claudia Berger on the topic.*

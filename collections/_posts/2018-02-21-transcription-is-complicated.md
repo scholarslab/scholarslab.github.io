@@ -6,7 +6,7 @@ slug: transcription-is-complicated
 title: Transcription Is Complicated
 category: essay
 tags:
-- text analysis
+- text-analysis
 - transcription
 - literature
 - bibliography

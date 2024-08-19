@@ -9,7 +9,7 @@ category: essay
 tags:
 - makerspace
 - 3d printing
-- 3d modeling
+- 3d-modeling
 - design
 ---
 ![3D Printed Keychain](/assets/post-media/2019-07-02-make-a-3D-keychain/on-the-keychain.jpg)

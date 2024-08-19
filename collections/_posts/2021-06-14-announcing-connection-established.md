@@ -8,10 +8,10 @@ slug: announcing-connection-established
 title: Announcing 'Connection Established'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - about-collaboration-community
 - academia
-- mental health and wellbeing
+- mental-health-and-wellbeing
 - games
 - accessibility
 - praxis

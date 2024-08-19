@@ -7,8 +7,8 @@ title: Learning to Augment Reality
 category: essay
 tags:
 - vr-ar
-- geospatial and temporal
-- grad student research
+- geospatial-and-temporal
+- grad-student-research
 - uva reveal
 ---
 

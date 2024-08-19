@@ -6,7 +6,7 @@ slug: play-in-the-praxis
 title: jugando a praxis
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

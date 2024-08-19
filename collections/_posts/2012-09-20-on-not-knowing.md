@@ -6,7 +6,7 @@ slug: on-not-knowing
 title: On Not Knowing
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

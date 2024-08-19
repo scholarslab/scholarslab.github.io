@@ -6,7 +6,7 @@ slug: my-first-praxis-post-for-lack-of-a-better-title
 title: My First Praxis Post (for lack of a better title)
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

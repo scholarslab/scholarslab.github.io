@@ -6,8 +6,8 @@ slug: design-team-progress
 title: Design Team Progress
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - design
 - praxis
 ---

@@ -5,7 +5,7 @@ layout: post
 slug: 2013-gis-day-wednesday-november-20th-2013
 title: 2013 GIS Day - Wednesday, November 20th, 2013
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 category: announcement
 ---
 

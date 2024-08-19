@@ -6,7 +6,7 @@ slug: further-evaluation-of-digital-work
 title: Further Evaluation of Digital Work
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

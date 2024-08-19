@@ -6,7 +6,7 @@ slug: thoughts-on-our-charter
 title: Thoughts on our Charter
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - about-collaboration-community
 - praxis

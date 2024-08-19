@@ -6,7 +6,7 @@ slug: lessons-for-christmas-a-sawzall-solves-all
 title: 'Lessons for Christmas: A Sawzall Solves All'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - ivanhoe
 - praxis

@@ -6,7 +6,7 @@ slug: designed-to-touch
 title: Designed to touch
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 - prism

@@ -6,8 +6,8 @@ slug: charlottesvilles-street-car-system-in-gis
 title: Charlottesville's Street Car System in GIS
 category: essay
 tags:
-- geospatial and temporal
-- charlottesville and virginia
+- geospatial-and-temporal
+- charlottesville-and-virginia
 - map
 - gis
 - map

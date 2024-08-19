@@ -6,10 +6,10 @@ slug: teaching-with-artstor
 title: Teaching with ARTStor
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - pedagogy
 - history
-- architectural history
+- architectural-history
 - religion
 ---
 

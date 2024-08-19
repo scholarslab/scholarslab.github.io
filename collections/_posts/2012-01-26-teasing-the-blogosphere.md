@@ -6,8 +6,8 @@ slug: teasing-the-blogosphere
 title: Teasing the Blogosphere
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - praxis
 ---
 

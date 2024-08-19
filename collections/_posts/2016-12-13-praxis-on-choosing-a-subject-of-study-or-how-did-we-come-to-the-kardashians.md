@@ -8,7 +8,7 @@ category: essay
 tags:
 - praxis
 - dash-amerikan
-- grad student research
+- grad-student-research
 ---
 
 <figure>

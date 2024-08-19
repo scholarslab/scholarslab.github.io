@@ -6,7 +6,7 @@ slug: monkey-mind
 title: Monkey Mind
 category: essay
 tags:
-- research and development
+- research-and-development
 ---
 
 A monkey is easily flummoxed by a coconut. A hole is cut into the coconut and filled with sweet food (or something shiny). The monkey slips her hand into the coconut, grasps the treat, and is trapped. She can readily unhand the treat (or shiny object), but is unwilling to let go. Letting go, for monkeys as well as humans, is harder than it sounds.

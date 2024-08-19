@@ -6,7 +6,7 @@ slug: prism-project-proposal
 title: Prism Project Proposal
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

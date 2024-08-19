@@ -6,9 +6,9 @@ slug: a-fox-among-others
 title: A Fox... Among Others
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
-- hello world
+- hello-world
 ---
 
 _The fox knows many things, but the hedgehog knows one big thing._

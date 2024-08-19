@@ -6,7 +6,7 @@ slug: team-praxis
 title: Team Praxis!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,10 +6,10 @@ slug: foley-first-blog
 title: "A Heartening New Perspective"
 category: essay
 tags:
-- research and development
-- learning experience
-- hall of fame
-- grad student research
+- research-and-development
+- learning-experience
+- hall-of-fame
+- grad-student-research
 ---
 Navigating a PhD program in your late-30’s is a humbling process. The inevitable and overwhelming
 feeling of imposter-syndrome is exacerbated at a ‘public ivy’ like the University of Virginia when you

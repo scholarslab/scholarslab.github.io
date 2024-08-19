@@ -5,8 +5,8 @@ layout: post
 slug: fall-2014-scholars-lab-gis-workshop-series
 title: Fall 2014 Scholars’ Lab GIS Workshop Series
 tags:
-- geospatial and temporal
-- research and development
+- geospatial-and-temporal
+- research-and-development
 - gis
 - event
 category: announcement

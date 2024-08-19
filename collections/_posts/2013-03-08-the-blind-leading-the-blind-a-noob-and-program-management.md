@@ -6,7 +6,7 @@ slug: the-blind-leading-the-blind-a-noob-and-program-management
 title: 'The Blind Leading the Blind:  A Noob and Program Management'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - project-management
 ---

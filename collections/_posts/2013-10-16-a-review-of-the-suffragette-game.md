@@ -6,7 +6,7 @@ slug: a-review-of-the-suffragette-game
 title: A review of the suffragette game
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - games
 - ivanhoe
 - praxis

@@ -6,7 +6,7 @@ slug: a-toolkit-the-public-domain
 title: "A Toolkit [...?] the Public Domain"
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - praxis
 ---

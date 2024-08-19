@@ -6,8 +6,8 @@ slug: call-for-ivanhoe-testers
 title: Call for Ivanhoe Testers!
 category: essay
 tags:
-- grad student research
-- research and development
+- grad-student-research
+- research-and-development
 - ivanhoe
 - praxis
 ---

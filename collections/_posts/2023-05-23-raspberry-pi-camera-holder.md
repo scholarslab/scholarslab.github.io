@@ -8,7 +8,7 @@ category: essay
 tags:
 - makerspace
 - 3d printing
-- 3d modeling
+- 3d-modeling
 ---
 <style>
   img {

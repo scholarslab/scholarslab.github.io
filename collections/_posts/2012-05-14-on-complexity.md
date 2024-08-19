@@ -6,7 +6,7 @@ slug: on-complexity
 title: On Complexity
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 - code

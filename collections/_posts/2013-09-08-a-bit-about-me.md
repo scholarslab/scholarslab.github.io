@@ -6,7 +6,7 @@ slug: a-bit-about-me
 title: A bit about me
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

@@ -6,7 +6,7 @@ slug: chartering-the-unknown
 title: Chartering the Unknown
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

@@ -6,7 +6,7 @@ slug: omeka-capistrano-recipes
 title: Omeka Capistrano Recipes
 category: essay
 tags:
-- research and development
+- research-and-development
 - automation
 - omeka
 ---

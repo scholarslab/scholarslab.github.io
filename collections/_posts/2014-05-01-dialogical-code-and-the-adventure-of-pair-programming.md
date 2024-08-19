@@ -6,7 +6,7 @@ slug: dialogical-code-and-the-adventure-of-pair-programming
 title: Dialogical Code and the Adventure of Pair Programming
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

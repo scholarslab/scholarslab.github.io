@@ -7,7 +7,7 @@ slug: text-mining-and-digital-humanities
 title: Text Mining and Digital Humanities
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

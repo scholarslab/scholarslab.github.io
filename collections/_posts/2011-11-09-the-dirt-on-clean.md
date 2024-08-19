@@ -6,7 +6,7 @@ slug: the-dirt-on-clean
 title: The Dirt on "Clean"
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 - prism

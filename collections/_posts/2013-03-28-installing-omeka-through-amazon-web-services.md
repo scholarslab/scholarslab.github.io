@@ -6,7 +6,7 @@ slug: installing-omeka-through-amazon-web-services
 title: Installing Omeka through Amazon Web Services
 category: essay
 tags:
-- research and development
+- research-and-development
 - omeka
 - tutorial
 ---

@@ -6,7 +6,7 @@ slug: gis-the-rare-tartan-plaid-point-dispersion-problem
 title: 'GIS: The (rare) Tartan-Plaid Point Dispersion Problem '
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - gis
 ---
 

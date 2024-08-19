@@ -6,7 +6,7 @@ slug: how-to-make-books-you-havent-read-talk
 title: How to make books you haven’t read, talk.
 category: essay
 tags:
-- music and sound
+- music-and-sound
 - praxis
 - uva reveal
 ---

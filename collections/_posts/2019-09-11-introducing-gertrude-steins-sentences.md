@@ -6,8 +6,8 @@ slug: introducing-gs-grammars
 title: "Introducing 'Gertrude Stein's Grammars'"
 category: essay
 tags:
-- research and development
-- grad student research 
+- research-and-development
+- grad-student-research 
 crosspost:
   - title: my personal blog
     url: http://jordanbuysse.com/blog.html

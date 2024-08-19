@@ -6,7 +6,7 @@ slug: better-focus
 title: "Better :focus"
 category: essay
 tags:
-- research and development
+- research-and-development
 - accessibility
 - design
 ---

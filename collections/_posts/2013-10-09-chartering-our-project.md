@@ -6,7 +6,7 @@ slug: chartering-our-project
 title: Chart(er)ing Our Project
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---

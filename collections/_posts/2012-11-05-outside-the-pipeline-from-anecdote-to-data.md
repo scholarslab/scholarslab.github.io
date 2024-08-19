@@ -7,9 +7,9 @@ title: 'Outside the Pipeline: From Anecdote to Data'
 category: essay
 tags:
 - alt-ac
-- praxis network
-- scholarly communication institute
-- professional development
+- praxis-network
+- scholarly-communication-institute
+- professional-development
 crosspost:
   - title: SCI's website
     url: http://uvasci.org/current-work/graduate-education/rethinking-grad-ed-oct-2012/

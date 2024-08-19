@@ -6,8 +6,8 @@ slug: measured-unrest-in-the-poetry-of-the-black-arts-movement
 title: Measured Unrest in the Poetry of the Black Arts Movement
 category: essay
 tags:
-- grad student research
-- text analysis
+- grad-student-research
+- text-analysis
 - literature
 - race
 ---

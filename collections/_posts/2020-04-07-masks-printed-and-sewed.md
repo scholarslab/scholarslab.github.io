@@ -8,10 +8,10 @@ slug: masks-printed-and-sewed
 title: "Manufacturing Masks: how Technologists can Lend both Hands and Machines"
 category: essay
 tags:
-- fabric arts
-- expansive makerspace
+- fabric-arts
+- expansive-makerspace
 - 3d printing
-- research and development
+- research-and-development
 - makerspace
 - makerspace
 ---

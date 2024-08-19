@@ -6,7 +6,7 @@ slug: size-matters
 title: Size Matters
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - map
 - gis
 - visualization

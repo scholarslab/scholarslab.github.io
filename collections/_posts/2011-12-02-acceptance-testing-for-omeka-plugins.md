@@ -6,7 +6,7 @@ slug: acceptance-testing-for-omeka-plugins
 title: Acceptance Testing for Omeka Plugins
 category: essay
 tags:
-- research and development
+- research-and-development
 - code
 - omeka
 ---

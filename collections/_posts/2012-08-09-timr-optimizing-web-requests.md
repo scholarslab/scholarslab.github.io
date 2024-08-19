@@ -6,8 +6,8 @@ slug: timr-optimizing-web-requests
 title: 'timr: Optimizing Web Requests'
 category: essay
 tags:
-- research and development
-- web development
+- research-and-development
+- web-development
 ---
 
 

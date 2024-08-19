@@ -7,10 +7,10 @@ title: 'Now available: Report and data from SCI’s survey on career prep and gr
   education'
 category: essay
 tags:
-- research and development
+- research-and-development
 - alt-ac
 - pedagogy
-- scholarly communication institute
+- scholarly-communication-institute
 crosspost:
   - title: my personal website
     url: http://wp.me/p2CaGd-jz

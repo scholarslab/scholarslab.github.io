@@ -6,7 +6,7 @@ slug: die-praxis-programm
 title: Die Praxis-Programm
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - budget
 - praxis
 - project-management

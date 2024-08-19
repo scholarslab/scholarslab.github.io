@@ -6,7 +6,7 @@ slug: reflections-on-project-management-ii-know-your-team
 title: 'Reflections on Project Management II: Know your Team'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - project-management
 ---

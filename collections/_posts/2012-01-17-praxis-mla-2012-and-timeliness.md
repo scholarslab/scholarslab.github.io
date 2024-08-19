@@ -6,7 +6,7 @@ slug: praxis-mla-2012-and-timeliness
 title: Praxis, MLA 2012 and timeliness
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

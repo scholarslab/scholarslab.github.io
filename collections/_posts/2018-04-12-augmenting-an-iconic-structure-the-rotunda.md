@@ -6,11 +6,11 @@ slug: augmenting-an-iconic-structure-the-rotunda
 title: 'Augmenting an Iconic Structure: The Rotunda'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - uva reveal
 - vr-ar
-- geospatial and temporal
-- charlottesville and virginia
+- geospatial-and-temporal
+- charlottesville-and-virginia
 - race
 ---
 

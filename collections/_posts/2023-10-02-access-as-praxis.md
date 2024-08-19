@@ -6,7 +6,7 @@ slug: access-as-praxis
 title: Access as Praxis
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - accessibility
 - praxis
 ---

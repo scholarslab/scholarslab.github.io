@@ -6,7 +6,7 @@ slug: engaging-books
 title: A Workshop about Engaging Books
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - bibliography
 - pedagogy
 - literature

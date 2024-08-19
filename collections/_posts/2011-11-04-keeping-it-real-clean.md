@@ -6,7 +6,7 @@ slug: keeping-it-real-clean
 title: Keeping it Real… Clean
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

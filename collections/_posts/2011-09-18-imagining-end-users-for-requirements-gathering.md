@@ -6,7 +6,7 @@ slug: imagining-end-users-for-requirements-gathering
 title: Imagining end users for requirements gathering
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

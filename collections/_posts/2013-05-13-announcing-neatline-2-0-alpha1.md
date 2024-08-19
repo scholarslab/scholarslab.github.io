@@ -6,7 +6,7 @@ slug: announcing-neatline-2-0-alpha1
 title: Announcing Neatline 2.0-alpha1!
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - neatline
 crosspost:
   - title: dclure.org

@@ -6,7 +6,7 @@ slug: nitle-presentation-on-geotemporal-storytelling-with-neatline
 title: NITLE Presentation on Geotemporal Storytelling with Neatline
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - neatline
 ---
 

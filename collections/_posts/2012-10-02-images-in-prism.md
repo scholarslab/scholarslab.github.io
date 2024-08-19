@@ -6,7 +6,7 @@ slug: images-in-prism
 title: Images in Prism
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

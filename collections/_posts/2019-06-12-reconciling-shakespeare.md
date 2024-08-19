@@ -8,7 +8,7 @@ slug: reconciling-shakespeare
 title: "Reconciling Shakespeare['s texts]: Collation in a Digital World"
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - literature
 - bibliography
 crosspost:

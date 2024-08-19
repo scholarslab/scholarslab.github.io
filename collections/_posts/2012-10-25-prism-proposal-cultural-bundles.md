@@ -6,7 +6,7 @@ slug: prism-proposal-cultural-bundles
 title: 'Prism Proposal: Cultural Bundles'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

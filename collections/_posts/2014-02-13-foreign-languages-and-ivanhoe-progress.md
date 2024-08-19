@@ -6,7 +6,7 @@ slug: foreign-languages-and-ivanhoe-progress
 title: Foreign Languages and Ivanhoe Progress
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

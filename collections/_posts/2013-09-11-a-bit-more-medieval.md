@@ -6,7 +6,7 @@ slug: a-bit-more-medieval
 title: a bit more medieval
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

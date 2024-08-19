@@ -6,7 +6,7 @@ slug: breaking-things-over-winter-break
 title: Breaking Things Over Winter Break
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - code
 - praxis
 ---

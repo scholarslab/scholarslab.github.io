@@ -6,7 +6,7 @@ slug: two-ivanhoes-one-direction
 title: 'Two Ivanhoes, One Direction '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

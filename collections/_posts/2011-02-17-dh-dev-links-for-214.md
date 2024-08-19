@@ -6,7 +6,7 @@ slug: dh-dev-links-for-214
 title: DH Dev Links for 2/14
 category: essay
 tags:
-- research and development
+- research-and-development
 ---
 
 There seem to be quite a few links this week loosely grouped around interface design, with some other geeky goodness mixed in.

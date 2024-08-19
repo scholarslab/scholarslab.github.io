@@ -6,7 +6,7 @@ slug: crowdsourcing-for-profit-and-pleasure
 title: Crowdsourcing for Profit and Pleasure
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

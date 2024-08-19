@@ -6,7 +6,7 @@ slug: automating-omeka-deployment-with-capistrano
 title: Automating Omeka Deployment with Capistrano
 category: essay
 tags:
-- research and development
+- research-and-development
 - omeka
 - tutorial
 ---

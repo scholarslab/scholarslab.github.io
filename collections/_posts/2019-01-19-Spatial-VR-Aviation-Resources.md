@@ -6,10 +6,10 @@ slug: Spatial-VR-Aviation-Resources
 title: "How to get started with VR flight simulation"
 category: essay
 tags:
-- geospatial and temporal
+- geospatial-and-temporal
 - vr-ar
 - tutorial
-- getting started
+- getting-started
 - games
 ---
 

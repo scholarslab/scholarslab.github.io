@@ -6,7 +6,7 @@ slug: experimental-typesetting-with-neatline-and-shakespeare
 title: Experimental typesetting with Neatline and Shakespeare
 category: essay
 tags:
-- research and development
+- research-and-development
 - neatline
 crosspost:
   - title: dclure.org

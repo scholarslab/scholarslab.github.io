@@ -9,7 +9,7 @@ tags:
 - ivanhoe
 - praxis
 - code
-- learning experience
+- learning-experience
 ---
 
 We’ve spent the past month and a half learning PHP. It’s an arduous task only complicated by our own busy schedules. Trying to learn a new language becomes much more difficult when also trying to wrangle sixty undergraduates every week, or finish a dissertation, or find a job.

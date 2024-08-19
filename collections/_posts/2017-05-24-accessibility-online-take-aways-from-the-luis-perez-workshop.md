@@ -6,7 +6,7 @@ slug: accessibility-online-take-aways-from-the-luis-perez-workshop
 title: "Accessibility Online--Take aways from the Luis Perez workshop"
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - accessibility
 ---
 

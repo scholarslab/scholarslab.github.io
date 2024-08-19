@@ -6,7 +6,7 @@ slug: breadth-and-depth-in-dh-professional-development
 title: Breadth And Depth in DH Professional Development
 category: essay
 tags:
-- professional development
+- professional-development
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/breadth-and-depth-in-dh-professional-development

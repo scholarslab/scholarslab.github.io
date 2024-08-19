@@ -6,7 +6,7 @@ slug: subject-and-object-required
 title: Subject and Object Required
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

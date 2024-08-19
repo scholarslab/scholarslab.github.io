@@ -6,7 +6,7 @@ slug: 3d-content-vr
 title: "3D Content for Virtual Reality"
 category: essay
 tags:
-- parents fund
+- parents-fund
 - vr-ar
 - tutorial
 ---

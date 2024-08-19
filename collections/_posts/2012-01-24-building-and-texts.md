@@ -6,7 +6,7 @@ slug: building-and-texts
 title: Building and Texts
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - prism
 ---

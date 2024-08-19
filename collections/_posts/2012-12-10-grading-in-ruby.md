@@ -6,7 +6,7 @@ slug: grading-in-ruby
 title: Grading in Ruby
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 ---

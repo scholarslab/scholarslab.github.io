@@ -12,8 +12,8 @@ slug: wms-vs-tilecaching
 title: WMS vs. tilecaching
 category: essay
 tags:
-- geospatial and temporal
-- visualization and data mining
+- geospatial-and-temporal
+- visualization-and-data-mining
 - gis
 - map
 ---

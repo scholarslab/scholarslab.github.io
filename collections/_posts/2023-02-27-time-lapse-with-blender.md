@@ -6,8 +6,8 @@ title: "A Midlife Crisis Blender Tutorial: Creating and Stabilizing a Time Lapse
 slug: time-lapse-with-blender
 category: essay
 tags:
-- geospatial and temporal
-- video editing
+- geospatial-and-temporal
+- video-editing
 - tutorial
 ---
 

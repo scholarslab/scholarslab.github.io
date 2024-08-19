@@ -6,7 +6,7 @@ slug: the-models-are-done
 title: The Models are Done!
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - code
 - praxis
 - prism

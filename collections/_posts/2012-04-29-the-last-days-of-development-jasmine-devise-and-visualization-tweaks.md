@@ -6,7 +6,7 @@ slug: the-last-days-of-development-jasmine-devise-and-visualization-tweaks
 title: 'The Last Days of Development: Jasmine, Devise, and Visualization Tweaks!'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 - code
 - visualization

@@ -6,7 +6,7 @@ slug: representative-and-abstract-prism-logos
 title: Representative and Abstract Prism Logos
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 ---

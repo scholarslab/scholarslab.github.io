@@ -6,7 +6,7 @@ slug: ivanhoe-and-imaginative-analysis
 title: Ivanhoe and Imaginative Analysis
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 ---

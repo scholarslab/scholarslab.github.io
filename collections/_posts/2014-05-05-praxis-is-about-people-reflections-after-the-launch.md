@@ -6,7 +6,7 @@ slug: praxis-is-about-people-reflections-after-the-launch
 title: 'Praxis is about people: reflections after the launch'
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - ivanhoe
 - praxis
 - project-management

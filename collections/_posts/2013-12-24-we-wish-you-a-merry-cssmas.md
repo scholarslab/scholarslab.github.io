@@ -6,7 +6,7 @@ slug: we-wish-you-a-merry-cssmas
 title: 'We wish you a merry CSSmas! '
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 ---

@@ -6,7 +6,7 @@ slug: highlighting-limitations
 title: Highlighting limitations
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - design
 - praxis
 - prism

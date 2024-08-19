@@ -6,7 +6,7 @@ slug: finding-the-community-after-twitter
 title: Finding The Community After Twitter
 category: essay
 tags:
-- social media
+- about-social-media
 - about-collaboration-community
 crosspost:
   - title: Brandon's blog

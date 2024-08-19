@@ -6,7 +6,7 @@ slug: casing-your-text
 title: Casing your Text
 category: essay
 tags:
-- research and development
+- research-and-development
 ---
 
 One of the first things I remember doing as a graduate assistant was editing a few dozen HTML files to change all of the headings, which someone had typed in upper case, to use title case. This was not too much fun. It was even more painful to realize later that you can easily change the [letter case](http://en.wikipedia.org/wiki/Letter_case) of any text by using a handy CSS property called [`text-transform`](http://www.w3.org/TR/CSS21/text.html#caps-prop).

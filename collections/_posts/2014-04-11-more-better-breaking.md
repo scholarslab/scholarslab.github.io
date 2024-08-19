@@ -6,7 +6,7 @@ slug: more-better-breaking
 title: More Better Breaking
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - praxis
 ---
 

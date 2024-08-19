@@ -6,11 +6,11 @@ slug: humanities-unbound-careers-scholarship-beyond-the-tenure-track
 title: 'Humanities Unbound: Careers & Scholarship Beyond the Tenure Track'
 category: essay
 tags:
-- research and development
+- research-and-development
 - alt-ac
 - pedagogy
 - praxis
-- scholarly communication institute
+- scholarly-communication-institute
 crosspost:
   - title: my personal site
     url: http://wp.me/p2CaGd-hm

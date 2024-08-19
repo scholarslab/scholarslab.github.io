@@ -6,7 +6,7 @@ slug: owning-up-the-praxis-program
 title: Owning up the Praxis Program
 category: essay
 tags:
-- grad student research
+- grad-student-research
 - charter
 - praxis
 ---
