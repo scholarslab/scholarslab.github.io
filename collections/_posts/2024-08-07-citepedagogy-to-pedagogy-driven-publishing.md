@@ -7,6 +7,7 @@ title: "#citepedagogy to Pedagogy-driven Publishing"
 category: essay
 tags:
 - pedagogy
+- academia
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/citepedagogy-to-pedagogy-driven-publishing

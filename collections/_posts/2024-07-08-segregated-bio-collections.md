@@ -10,7 +10,9 @@ tags:
 - grad student research
 - cbw
 - gender
+- literature
 - race
+- history
 ---
 *A Co-authored Series of Posts ‘About 1919,’ that is, about English-language books published from 1914 to 1921, according to the online bibliography and database, [Collective Biographies of Women](https://cbw.iath.virginia.edu).*
 

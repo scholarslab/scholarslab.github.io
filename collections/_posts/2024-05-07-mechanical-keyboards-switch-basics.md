@@ -8,6 +8,7 @@ category: essay
 tags:
 - makerspace
 - electronics
+- tutorial
 ---
 ![](/assets/post-media/switches/2024-05-07%20switch%200.JPG)
 
