@@ -8,7 +8,7 @@ position: Project Management & Training Specialist
 short_bio: 'Ronda Grizzle manages projects, teaches digital tools, and tries not to express her opinions about everything all the time. Would pet dogs 24/7 if allowed to.'
 slug: ronda-grizzle
 status: current
-twitter: rondauva
+libcal: https://outlook-sdf.office.com/bookwithme/user/e86aa70a342d4f82b506bbf3f6e9e270@virginia.edu?anonymous&ep=pcard
 people-category:
 - staff
 roles:
