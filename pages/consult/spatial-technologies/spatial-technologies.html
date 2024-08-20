@@ -10,63 +10,62 @@ redirect_from:
 <div class="spatial-main-content">
 
 <div class="spatial__mission">
-	<h2>What We Do</h2>
-	<div class="spatial-mission__text">
-		<p>We provide training, consultations, and collaboration on the latest software, equipment, and methods, including GIS, 3D modeling, laser scanning, aerial drones, photogrammetry, virtual and augmented reality, and more.</p>
-	</div>
+	<p>The Scholars’ Lab Spatial Technologies team provides training, consultations, and collaboration on the latest software, equipment, and methods used in GIS, remote sensing, cultural heritage conservation, and immersive environment creation, including high resolution 3D scanning, photogrammetry, virtual and augmented reality, and more.</p>
 </div>
 
-<div class="spatial__starting">
-	<h2>Get in touch</h2>
-	<div class="spatial-starting__how">
-		<h3>Email</h3>
-		<ul class="spatial-starting__chi">
-			<li><a href="mailto:spatial@virginia.edu">Email the Spatial Tech experts</a> at spatial@virginia.edu</li>
-		</ul>
-		<h3>GIS staff availability</h3>
-		<ul class="spatial-starting__gis">
-			<li>Staff: Chris Gist and Drew MacQueen</li>
-			<li>Office: Shannon Library, Room 308</li>
-		  	<li>Hours: Weekdays 9-5 in general, but <a href="mailto: slabgis@virginia.edu">email the GIS folks</a> in advance if you need us to be there</li>
-		</ul>
-		<h3>Cultural heritage informatics staff availability</h3>
+<section id="gis-mapping-info">
+	<h2>GIS & Mapping</h2>
+	<h3>What we do?</h3>
+		<p><strong>University support of GIS</strong>: See our <a href="https://guides.lib.virginia.edu/gis">GIS Research Page</a> for all things GIS: download software, find spatial data, attend a workshop, or schedule a consultation with our staff specialists.</p>
+		<p><strong>Find & curate GIS data</strong>: We help you use, collect, and analyze GIS data. Most of our GIS resources, including the <a href="https://guides.lib.virginia.edu/gis/data#s-lib-ctab-20595222-2">Charlottesville Sanborn Maps</a> and <a href="https://guides.lib.virginia.edu/gis/data#s-lib-ctab-20595222-3">Albemarle historical aerials</a> collections, can be found in the <a href="https://data-uvalibrary.opendata.arcgis.com/">UVA Open Data Portal</a>.</p>
+		<p><strong>GIS instruction</strong>: In addition to one-on-one consults, we teach a series of friendly, jargon-free workshops each fall and spring. You can read about upcoming and past workshops on our <a href="/events">events page</a>. We also collaborate with faculty to integrate spatial tools, techniques, and datasets into their classes. <a href="mailto:uvagis@virginia.edu">Email us</a> with your questions and course requests.
+</p>
+	<h3>Contact Us</h3>
 		<ul>
-			<li>Staff: Will Rourk and Arin Bennett</li>
+			<li>Staff: <a href="/people/chris-gist">Chris Gist</a> and <a href="/people/drew-macqueen">Drew MacQueen</a></li>
+			<li>Office: Shannon Library, Room 308</li>
+		  	<li>Hours: Weekdays 9-5 in general, but email the GIS folks at <a href="mailto:uvagis@virginia.edu">uvagis@virginia.edu</a> in advance if you need us to be there.</li>
+		</ul>		
+</section>
+
+<section id="3dchi-vr-ar-info">
+	<h2>3D / Cultural Heritage Scanning & Virtual Reality</h2>
+	<h3>What we do?</h3>
+		<ul>
+			<li>Visit the <a href="https://wordpress.its.virginia.edu/Cultural_Heritage_Data/">cultural heritage informatics page</a> to learn more about our ongoing projects; view our equipment, data, and demos; and access our 3D data repository.</li>
+			<li>See our <a href="/work/cultural-heritage-informatics-documentation/">techniques and methods documentation</a> for step-by-step instructions to get you started.</li>
+		</ul>
+	<h3>Contact us</h3>
+		<ul>
+			<li>Staff: <a href="/people/will-rourk">Will Rourk</a> and <a href="/people/arin-bennett">Arin Bennett</a></li>
 			<li>Office: Shannon Library, Room 308</li>
 			<li>Hours: by appointment</li>
+			<li>Email <a href="mailto:spatial@virgina.edu">spatial@virgina.edu</a> to discuss a project or schedule a consultation.</li>
 		</ul>
-	</div>
-</div>
+</section>
 
-<div>
-	<h2>GIS</h2>
-	<h3>University support of GIS</h3>
-	<ul class="spatial-starting__gis">
-		<li>See our <a href="https://guides.lib.virginia.edu/gis">GIS Research Page</a> for all things GIS: download software, find spatial data, attend a workshop, or schedule a consultation with our staff specialists.</li>
-		<li>Our GIS resources include the <a href="http://gis.lib.virginia.edu">UVA Library Geoportal</a> and the <a href="https://geoportal.lib.virginia.edu/UVAImageDiscovery/">UVA Image Discovery Tool</a>.</li>
-	</ul>
-	<h3>GIS workshop series</h3>
+<section id="spatial-staff">
+	<h2>Spatial Tech Staff</h2>
 	<ul>
-		<li>We offer a series of friendly, jargon-free workshops each fall and spring. You can read more about upcoming and past workshops on our <a href="https://scholarslab.lib.virginia.edu/events/">events page</a>.</li>
+		{% for person in site.people %}
+			{% if person.title == 'Will Rourk' or person.title == 'Arin Bennett' or person.title == 'Chris Gist' or person.title == 'Drew MacQueen' %}
+				<li>
+					<div><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.title }}"></div>
+					<div class="name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.title }}</a></div>
+					<div>{{ person.position }}</div>
+				</li>
+			{% endif %}
+		{% endfor %}
 	</ul>
+</section>
+
+<section id="tools-data-equipment">
+	<h2>Tools, Data, & Equipment</h2>
 	
-	<h2>Cultural Heritage Informatics</h2>
-		<h3>Cultural heritage informatics at UVA</h3>
-			<ul class="spatial-starting__gis">
-				<li>Visit our <a href="https://wordpress.its.virginia.edu/Cultural_Heritage_Data/">cultural heritage informatics</a> page to learn more about our ongoing projects; view our equipment, data, and demos; and access our 3D data repository.</li>
-				<li><a href="/cultural-heritage-informatics-documentation/">Documentation</a> for Cultural Heritage Informatics technologies and methods (funded by UVA Parents Fund)</li>
-			</ul>
-</div>
-
-<div class="spatial__inventory">
-<h2>Tools, Data, Equipment</h2>
-<p>* = by appointment/request only. ^ = not distributed</p>
-
-	<div class="maker-inventory__list">
-		<h3><a href="https://guides.lib.virginia.edu/gis/software">GIS software & extensions</a></h3>	
-		<ul class="maker-list__3d">
-		    <li><a href="https://guides.lib.virginia.edu/gis/software#s-lib-ctab-20595149-1">ArcGIS Pro</a></li>
-		    <li>ArcMap</li>
+		<h3><a href="https://guides.lib.virginia.edu/gis/software">GIS software & extensions</a></h3>
+		<ul>
+			<li><a href="https://guides.lib.virginia.edu/gis/software#s-lib-ctab-20595149-1">ArcGIS Pro</a></li>
+			<li>ArcMap</li>
 		    <li>ArcGIS Server</li>
 		    <li>Drone2Map*</li>
 			<li>City Engine*</li>
@@ -75,62 +74,61 @@ redirect_from:
 		    <li>Spatial Analyst</li>
 		</ul>
 
-		<h3><a href="https://guides.lib.virginia.edu/gis/software#s-lib-ctab-20595149-3">ArcGIS Online Enterprise Access</a></h3>
-		<ul class="maker-list__vr-ar">
+		<h3>ArcGIS Online Enterprise Access</h3>
+		<ul>
             <li>Story Maps</li>
             <li>Web AppBuilder</li>
             <li>Business Analyst Online</li>
 			<li>Community Analyst Online</li>
 			<li>ArcGIS Insights</li>
 		</ul>
-
+		
 		<h3>Supported GIS tools</h3>
-		<ul class="maker-list__physical">
+		<ul>
 		    <li>QGIS</li>
             <li>Google Earth</li>
             <li>Google Tour Builder</li>
 		</ul>
 
-		<h3><a href="https://guides.lib.virginia.edu/gis/data">GIS data</a></h3>
-		<ul class="maker-list__wearables">
+		<h3><a href="https://guides.lib.virginia.edu/gis/data">GIS Data</a></h3>		
+		<ul>
 			<li><a href="https://guides.lib.virginia.edu/gis/data#s-lib-ctab-20595222-0">Shared Drive</a></li>
 			<li><a href="http://data-uvalibrary.opendata.arcgis.com/">Open Data Portal</a></li>
 		</ul>
-
-		<h3>VR & AR</h3>
-		<ul class="maker-list__wearables">
-			<li>2 VR spaces (Clemons 3rd Floor Viz Lounge)</li>
-			<li>Virtual reality and augmented reality equipment^</li>
-		</ul>
-
-		<h3>GIS equipment</h3>
-		<ul class="maker-list__wearables">
-			<li>4 Garmin eTrex 20 handheld GPS units</li>
+		
+		<h3>VR & AR Spaces</h3>
+		<ul>
+			<li>VR spaces</li>
+				<ul>
+					<li><a href="https://cal.lib.virginia.edu/spaces?lid=241">Clemons 3rd Floor Viz Lounge</a> (reserve a space to get started)</li>
+					<li>Scholars’ Lab (Shannon 308) VR station for collaborative project development, immersive presentations, and demos. To request a project consultation, email <a href="mailto:spatial@virginia.edu">spatial@virginia.edu</a>. </li>
+				</ul>
+			<li><a href="https://cal.lib.virginia.edu/reserve/equipment/rmc">Virtual reality and augmented reality equipment</a>^</li>
 		</ul>
 		
 		<h3>3D laser scanning</h3>		
-		<ul class="maker-list__physical">
+		<ul>
 		    <li>FARO Focus 3D laser scanner*</li>
             <li>Creaform Zscanner 700 CX*</li>
             <li>FARO Scene*</li>
             <li>Creaform VX Elements^</li>
 		</ul>
-		  
+
 		<h3>Photogrammetry</h3>		
-		<ul class="maker-list__physical">
+		<ul>
 		    <li>DJI Inspire 1 quadcopter*</li>
             <li>Photoscan Pro^</li>
             <li>Autodesk Recap</li>
 		</ul>
-			
+		
 		<h3>Tactile surface scanning</h3>		
-		<ul class="maker-list__physical">
+		<ul>
 		    <li>Microscribe*</li>
             <li>Rhino 3D^</li>
 		</ul>
-		  
+
 		<h3>Data & modeling software</h3>		
-		<ul class="maker-list__physical">
+		<ul>
             <li>FARO Scene LT</li>
             <li>Autodesk Recap</li>
             <li>Geomagic*</li>
@@ -140,21 +138,8 @@ redirect_from:
             <li>Blender</li>
             <li>Maya 3D (in G-Lab)</li>
 		</ul>
-	</div> <!-- end list -->
-</div> <!-- end inventory -->
+		
+		<p>* = by appointment/request only. ^ = not distributed</p>
+</section> <!-- end of tools, data, equipment lists section -->
 
-<div class="spatial__people">
-	<h2>Spatial Technologists</h2>
-		<ul class="spatial-people__list">
-			{% for person in site.people %}
-				{% if person.title == 'Will Rourk' or person.title == 'Arin Bennett' or person.title == 'Chris Gist' or person.title == 'Drew MacQueen' %}
-					<li class="spatial-people__person">
-						<div class="spatial-person__img"><img src="{{ site.baseurl }}/assets/img/people/{{ person.slug }}.jpg" alt="{{ person.title }}"></div>
-						<div class="spatial-person__name"><a href="{{ site.baseurl }}/people/{{ person.slug }}">{{ person.title }}</a></div> <!-- link to their page -->
-						<div class="spatial-person__position">{{ person.position }}</div>
-					</li>
-				{% endif %}
-			{% endfor %}
-		</ul> <!-- end person list -->
-	</div>
-</div> <!-- end main content -->
+</div> <!-- end page content -->

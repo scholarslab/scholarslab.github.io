@@ -604,20 +604,20 @@ section.feature {
 
 /* People image/name/role sections on unit pages */
 
-.rd-person__img, .spatial-person__img, .makerspace__people img {
+.rd-person__img, #spatial-staff, .makerspace__people img {
 	width: 50%;
 }
 
 /* Don't show a bullet next to each */
-#rd-staff ul, .spatial__people ul, #makerspace-staff ul {
+#rd-staff ul, #spatial-staff ul, #makerspace-staff ul {
 	list-style-type: none;
 }
 
-#rd-staff li, .spatial__people li, #makerspace-staff li {
+#rd-staff li, #spatial-staff li, #makerspace-staff li {
 	padding-bottom: 1em;
 }
 
-.rd-person__name, .spatial-person__name, .makerspace-person__name {
+.rd-person__name, #spatial-staff .name, .makerspace-person__name {
 	font-weight: bold;
 }
 
@@ -771,7 +771,6 @@ body.people .gallery {
 		}
 	}
 }
-
 
   #mysched_41069 {
     background: #702dbe;
