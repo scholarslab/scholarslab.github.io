@@ -66,7 +66,7 @@ Individual post pages
 	--diamond: rgb(185, 250, 248);
 	--darkpastelpurple: rgb(154, 119, 210);
 	--medskyblue:rgb(117, 227, 239);
-	
+
 	/* Colors from SLab rainbow vines-hand logo */
 	--logo-red-orange:#FE5102
 	--logo-light-orange:#FEA607
@@ -77,7 +77,7 @@ Individual post pages
 	--logo-sky-blue:#179EF9
 	--logo-bubblegum-pink:#F47EA2
 	--logo-grape-purple:#AF78D5
-		
+
 }
 
 /********************************************************************/
@@ -87,22 +87,20 @@ Individual post pages
 }
 
 html {
-	// background-image: linear-gradient(to right, $teal-light 50%, rgba($teal-light, 0) 50%),
-	// 	linear-gradient(to right, $teal-lightest, $teal-lightest);
-	// background-size: 100px 100px, 10px 30px;
-	// background-position: top left;
-	// background-repeat: repeat-x;
-	// padding-top: 10px;
+	background-color: var(--uvalib-main-rotunda-orange);
+	padding-top: 0.5rem;
 }
 
 body {
 	margin: 0;
 	padding: 0;
+	background-color: white;
 	font-family: var(--franklin-gothic-urw);
 	font-size: 20px;
 	line-height: 1.5; // if 16px, = 24px line height
 	color: var(--uvalib-text-almost-black);
 	min-width: 350px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.25);
 }
 
 iframe {
@@ -356,7 +354,7 @@ h1,h2,h3,h4 {
 
 /********************************************************************/
 /* Homepage Styles */
-#introduction {
+.home #introduction {
 	padding: 0 2rem;
 	display:flex;
 	flex-direction:column;
@@ -364,9 +362,9 @@ h1,h2,h3,h4 {
 	justify-content: center;
 	min-height: 400px;
 	background-color: rgba(0,0,0,0.0325);
-	background-image: url('/assets/img/decorative/tiles/hypnotize.png'); 
+	background-image: url('/assets/img/decorative/tiles/hypnotize.png');
 	background-size: 200px;
-	
+
 	h1 {
 		font-size: 4rem;
 		text-transform: none;
@@ -377,9 +375,9 @@ h1,h2,h3,h4 {
 	p {
 		margin:0;
 	}
-	
+
 	@media screen and (min-width: 700px) {
-		background-image: 
+		background-image:
 			url('/assets/img/logos/slab-logos/Transparent-SLabVinesHandsLogo-CCBYNC.png'),
 			url('/assets/img/decorative/tiles/hypnotize.png');
 		background-size: contain, 200px;
@@ -387,7 +385,7 @@ h1,h2,h3,h4 {
 		background-repeat: no-repeat, repeat;
 		padding-right: 50%;
 	}
-	
+
 }
 
 #newsletter {
@@ -407,7 +405,7 @@ section.feature {
 	div {
 		background: white;
 	}
-	
+
 	div:not(:last-child) {
 	margin-bottom: 30px;
 	}
@@ -545,7 +543,7 @@ section.feature {
 				flex:1;
 			}
 		}
-		
+
 		&:nth-child(odd) {
 			flex-direction: row-reverse;
 		}
@@ -557,7 +555,7 @@ section.feature {
 		div,figure {
 			flex:1;
 		}
-		
+
 	}
 }
 
