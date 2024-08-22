@@ -10,8 +10,8 @@ layout: work
 link:
 slug: stylistic-variation-in-online-political-discourse
 title: Stylistic Variation In Online Political Discourse
-thumb-img: online-political-discourse-thumb.jpg
-banner-img: online-political-discourse-banner.jpg
+thumb-img: stylistic-variation-in-online-political-discourse-thumb.jpg
+banner-img: stylistic-variation-in-online-political-discourse-banner.jpg
 research-category: Student
 start-year: 2020
 end-year: current
