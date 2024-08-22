@@ -7,8 +7,8 @@ link: http://coins.lib.virginia.edu
 layout: work
 slug: numismatic-collection
 title: Numismatic Collection at the University of Virginia Art Museum 
-thumb-img: coins-thumb.png
-banner-img: coins-banner.png
+thumb-img: numismatic-collection-thumb.png
+banner-img: numismatic-collection-banner.png
 research-category: Collaborations
 start-year: 2007
 end-year: (before 2018)
