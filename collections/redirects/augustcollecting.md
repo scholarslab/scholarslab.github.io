@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A Humanist's Cookbook For Natural Language Processing In Python"
+title: A11-A12 Rally and Community Response
 permalink: /work/augustcollecting/
 nav: false
 redirect_to:

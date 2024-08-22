@@ -11,7 +11,7 @@ collaborators:
     role: GIS Specialist
 link:
 layout: work
-slug: the-age-of-lead
+slug: age-of-lead
 title: The Age of Lead
 thumb-img: age-of-lead-thumb.jpg
 banner-img: age-of-lead-banner.jpg
