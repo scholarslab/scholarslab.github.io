@@ -16,8 +16,8 @@ link: http://bsuva.org/
 layout: work
 slug: bibliographic-society-of-virginia
 title: Bibliographic Society of Virginia
-thumb-img: mjkmjk-bsuva-thumb.png
-banner-img: mjkmjk-bsuva-banner.png
+thumb-img: bibliographic-society-of-virginia-thumb.png
+banner-img: bibliographic-society-of-virginia-banner.png
 research-category: Collaborations
 start-year: 2013
 end-year: (before 2018)
