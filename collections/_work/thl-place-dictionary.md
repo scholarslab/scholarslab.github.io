@@ -7,8 +7,8 @@ slug: thl-place-dictionary
 title: THL Place Dictionary
 layout: work
 title: THL Place Dictionary
-thumb-img: thlib-thumb.png
-banner-img: thlib-banner.png
+thumb-img: thl-place-dictionary-thumb.png
+banner-img: thl-place-dictionary-banner.png
 research-category: Collaborations
 start-year: 2001
 end-year: (before 2018)

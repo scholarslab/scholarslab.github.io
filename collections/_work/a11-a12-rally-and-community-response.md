@@ -22,10 +22,10 @@ collaborators:
   - name: Zeke Crater  
 link: http://digitalcollecting.lib.virginia.edu/rally/
 layout: work
-slug: augustcollecting
-title: Unite the Right Rally and Community Response
-thumb-img: augustcollecting-thumb.png
-banner-img: augustcollecting-banner.png
+slug: a11-a12-rally-and-community-response
+title: A11-A12 Rally and Community Response
+thumb-img: a11-a12-rally-and-community-response-thumb.png
+banner-img: a11-a12-rally-and-community-response-banner.png
 research-category: Internal Projects & Community Service
 start-year: 2017
 end-year: current

@@ -6,8 +6,8 @@ link: http://latviandainas.lib.virginia.edu/
 layout: work
 slug: latvian-dainas
 title: Latvian Dainas
-thumb-img: dainas-thumb.png
-banner-img: dainas-banner.png
+thumb-img: latvian-dainas-thumb.png
+banner-img: latvian-dainas-banner.png
 research-category: Collaborations
 start-year: 2001
 end-year: (before 2018)

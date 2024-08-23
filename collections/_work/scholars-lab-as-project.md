@@ -2,12 +2,12 @@
 collaborators:
   - name: All Scholars' Lab staff, past and present
 layout: work
-slug: the-scholars-lab
-title: The Scholars' Lab
-thumb-img: praxis-thumb.png
-banner-img: praxis-banner.png
+slug: scholars-lab-as-project
+title: The Scholars' Lab (Is a Project!)
+thumb-img: scholars-lab-as-project-thumb.png
+banner-img: scholars-lab-as-project-banner.png
 research-category: Internal Projects & Community Service
-start-year: 2002
+start-year: 2006
 end-year: current
 ---
 

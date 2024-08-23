@@ -12,8 +12,8 @@ layout: work
 slug: mapping-holocaust-eastern-europe
 link: https://waitmanbeorn.wixsite.com/holocaustvisualized/
 title:  Mapping the Holocaust in Eastern Europe
-thumb-img: mthiee-thumb.png
-banner-img: mthiee-banner.png
+thumb-img: mapping-holocaust-eastern-europe-thumb.png
+banner-img: mapping-holocaust-eastern-europe-banner.png
 research-category: Collaborations
 start-year: (before 2018)
 end-year: current

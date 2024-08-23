@@ -18,8 +18,8 @@ link: http://prosody.lib.virginia.edu
 layout: work
 slug: for-better-for-verse
 title: For Better for Verse
-thumb-img: 4better4verse-thumb.png
-banner-img: 4better4verse-banner.png
+thumb-img: for-better-for-verse-thumb.png
+banner-img: for-better-for-verse-banner.png
 research-category: Collaborations
 start-year: 2008
 end-year: (before 2018)

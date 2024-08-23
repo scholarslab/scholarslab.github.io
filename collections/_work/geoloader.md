@@ -13,8 +13,8 @@ link: https://rubygems.org/gems/geoloader
 layout: work
 slug: geoloader
 title: Geoloader
-thumb-img: clickykbd-geoloader-thumb.png
-banner-img: clickykbd-geoloader-banner.png
+thumb-img: geoloader-thumb.png
+banner-img: geoloader-banner.png
 research-category: Internal Projects & Community Service
 start-year: 2014
 end-year: 2017
