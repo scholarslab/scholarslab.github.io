@@ -23,6 +23,10 @@ Enter `gem install bundler` to update to Bundler 2 (`sudo gem install bundler` i
 
 * Solution: `bundle add webrick`
 
+6. "Calling DidYouMean::SPELL_CHECKERS.merge!(error_name => spell_checker)' has been deprecated. Please call DidYouMean.correct_error(error_name, spell_checker)' instead."
+
+* Solution: 'bundle update --bundler'
+
 ## If nothing is working
 1. Try adding `--trace` to the command to build and run the site locally, to get more output about what's going wrong. This would look like: `bundle exec jekyll serve --trace`
 2. You can delete (maybe move a copy somewhere else than the site folder, rather than delete?) your gemfile.lock (NOT your gemfile); build the site locally; and it'll rebuild the gemfile.lock (sometimes fixing issues). You may need to run bundle install to reinstall things as part of this.
