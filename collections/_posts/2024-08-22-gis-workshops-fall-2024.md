@@ -3,7 +3,7 @@ author: drew-macqueen
 date: 2024-08-22
 layout: post
 slug: gis-workshops-fall-2024
-title: "Mappers Delight. Boogie on in to our Fall GIS workshops"
+title: "Mappers Delight. Boogie on in to our Fall GIS workshops."
 category: announcement
 ---
 
