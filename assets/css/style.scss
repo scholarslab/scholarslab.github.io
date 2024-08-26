@@ -87,8 +87,7 @@ Individual post pages
 }
 
 html {
-	background-color: var(--uvalib-main-rotunda-orange);
-	padding-top: 0.5rem;
+	border-top: 0.5rem solid var(--uvalib-main-rotunda-orange);
 }
 
 body {
@@ -100,7 +99,6 @@ body {
 	line-height: 1.5; // if 16px, = 24px line height
 	color: var(--uvalib-text-almost-black);
 	min-width: 350px;
-	box-shadow: 0 0 10px rgba(0,0,0,0.25);
 }
 
 iframe {

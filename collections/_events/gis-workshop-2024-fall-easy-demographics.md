@@ -8,6 +8,7 @@ layout: events
 title: 'Easy Demographics'
 location: 'Shannon Library 317 and Virtual'
 rsvp: "https://cal.lib.virginia.edu/calendar/events/Fall2024GISWorkshop6"
+slug: gis-workshop-2024-fall-easy-demographics
 ---
 
 Need to make a quick demographic map?  This workshop will show you how easily navigate Social Explorer.  This powerful online application makes it easy to create maps with contemporary and historic census data and religious information.

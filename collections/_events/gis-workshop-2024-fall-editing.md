@@ -8,6 +8,7 @@ layout: events
 title: 'Taking Control of Your Spatial Data: Editing in ArcGIS Pro'
 location: 'Shannon Library 317 and Virtual'
 rsvp: "https://cal.lib.virginia.edu/calendar/events/Fall2024GISWorkshop5"
+slug: gis-workshop-2024-fall-editing
 ---
 
 Until we perfect that magic “extract all those lines from this paper map” button we’re stuck using editing tools to get that job done.  If you’re lucky, someone else has done the work to create your points, lines, and polygons but maybe they need your magic touch to make them better.  This session shows you how to create and modify vector features in ArcGIS Pro, the world’s most popular geographic information systems software.  We’ll explore tools to create new points, lines, and polygons and to edit existing datasets.  At version 10, ArcMap’s editor was revamped introducing new templates, but we’ll keep calm and carry on.  

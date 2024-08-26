@@ -8,6 +8,7 @@ layout: events
 location: 'Shannon Library 308'
 title: 'GradCamp for Digital Humanities'
 rsvp: "https://cal.lib.virginia.edu/calendar/events/GradCamp2024"
+slug: gradcamp-for-digital-humanities-2024
 ---
 
 Are you a graduate student who's headlong into your Digital Humanities
