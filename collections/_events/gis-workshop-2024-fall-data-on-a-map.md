@@ -8,6 +8,7 @@ layout: events
 title: 'Getting Your Data on a Map'
 location: 'Shannon Library 317 and Virtual'
 rsvp: "https://cal.lib.virginia.edu/calendar/events/Fall2024GISWorkshop3"
+slug: gis-workshop-2024-fall-data-on-a-map
 ---
 
 Do you have a list of Lat/Lon coordinates you would like to see on a map? We will show you how to do that, and more. ArcGIS Pro makes it easy to take your tabular data and generate stylized points on a map.

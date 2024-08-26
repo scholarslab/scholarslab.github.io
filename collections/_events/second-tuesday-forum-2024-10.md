@@ -7,6 +7,7 @@ end_time: '15:30:00'
 layout: events
 location: 'Virtual & Shannon Library 308'
 title: 'Second Tuesday Forum: TBA'
+slug: second-tuesday-forum-2024-10
 ---
 
 More details and registration information to come.
