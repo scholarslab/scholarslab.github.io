@@ -72,7 +72,7 @@ I wanted any of my time spent on tagging and otherwise cleaning metadata to be f
 * My zine catalogue lives in AirTable, but AirTable's printing extension is not great. I exported info from to a CSV, then uploaded it to a Gsheet as that's my most comfortable spreadsheet manipulation place. 
 	* You will need at least one column containing the URLs you want QR codes to bring you to.
 * To generate the QR codes from your column of URLs: 
-	* Refer to each cell in the URL column like "F3" in this example, to call the Google API and create the QR code: ```=IMAGE("https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl="&ENCODEURL(E2))```
+	* Refer to each cell in the URL column like "E2" in this example, to call the Google API and create the QR code: ```=IMAGE("https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl="&ENCODEURL(E2))```
 	* If you've got the sheet set to display formulae, toggle that off to see the QR codes
 	* Copy-"paste as value" the generated QR codes to stop them from being tied to underlying formula/references.
 	* Download as CSV
