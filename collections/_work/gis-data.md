@@ -19,7 +19,7 @@ We recommend [ArcGIS Online](https://guides.lib.virginia.edu/gis/software#s-lib-
 
 National and International base data, census and political boundaries and variables, elevation layers, network datasets, and lots of other spatial data can be found on [Living Atlas](https://livingatlas.arcgis.com/). 
 
-If you are looking for digital elevation models, orthoimagery, land use, etc. for the United States, we recommend the [National Map] (https://www.usgs.gov/tools/download-data-maps-national-map)
+If you are looking for digital elevation models, orthoimagery, land use, etc. for the United States, we recommend the [National Map](https://www.usgs.gov/tools/download-data-maps-national-map)
 
 Worldwide data, including ASTER digital elevation models, are available for download from the [USGS EarthExplorer](http://earthexplorer.usgs.gov).
 
