@@ -8,6 +8,7 @@ layout: events
 title: 'Making Your First Map with ArcGIS Pro'
 location: 'Shannon Library 317 and Virtual'
 rsvp: "https://cal.lib.virginia.edu/calendar/events/Fall2024GISWorkshop1"
+slug: gis-workshop-2024-fall-making-your-first-map
 ---
 
 Here’s your chance to get started with geographic information systems software in a friendly, jargon-free environment.  This workshop introduces the skills you need to make your own maps.  Along the way you’ll get familar with the desktop GIS application ArcGIS Pro, and a gentle introduction to cartography. You’ll leave with your own cartographic masterpieces and tips for learning more in your pursuit of mappiness at UVA. 

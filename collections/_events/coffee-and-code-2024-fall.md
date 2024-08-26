@@ -7,6 +7,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Shannon Library 308'
 title: 'WEEKLY: Coffee+Code'
+slug: coffee-and-code-2024-fall
 ---
 
 September 19-December 5, join Jeremy Boggs and Shane Lin for delicious coffee and discussion of interesting digital humanities code work. Zero experience required; these are non-sequential, so come for any or all.

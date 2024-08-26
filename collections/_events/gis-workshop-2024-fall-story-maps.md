@@ -8,6 +8,7 @@ layout: events
 title: 'ArcGIS StoryMaps'
 location: 'Shannon Library 317 and Virtual'
 rsvp: "https://cal.lib.virginia.edu/calendar/events/Fall2024GISWorkshop8"
+slug: gis-workshop-2024-fall-story-maps
 ---
 
 ArcGIS StoryMaps is a spatially enabled website/application builder that allows you to add narrative and multimedia context to your ArcGIS Online maps (or locational context to your narrative and multimedia content, depending on how your brain works). Whether telling a story, giving a tour or comparing historical maps, ArcGIS StoryMaps is an easy-to-use builder that creates polished presentations.

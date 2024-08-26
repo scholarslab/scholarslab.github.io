@@ -8,6 +8,7 @@ layout: events
 title: 'Introduction to ArcGIS Online'
 location: 'Shannon Library 317 and Virtual'
 rsvp: "https://cal.lib.virginia.edu/calendar/events/Fall2024GISWorkshop7"
+slug: gis-workshop-2024-fall-intro-to-agol
 ---
 
 With ArcGIS Online, you can use and create maps and scenes, access ready-to-use maps, layers and analytics, publish data as web layers, collaborate and share, access maps from any device, make maps with your Microsoft Excel data, customize the ArcGIS Online website, and view status reports. 

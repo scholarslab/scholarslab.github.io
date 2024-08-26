@@ -8,6 +8,7 @@ layout: events
 title: 'Praxis Program 2024 Information Session'
 rsvp: https://cal.lib.virginia.edu/calendar/events/slab-praxis-information-session-fall-2024
 location: Zoom
+slug: praxis-program-2024-information-session-2024-09-09
 ---
 Praxis Applications are due soon! See the official CFP for more details about the fellowship [itself](https://scholarslab.lib.virginia.edu/praxis-program-fellowships/). If you have questions about the Scholars’ Lab’s year-long, soup-to-nuts introduction to Digital Humanities please attend this information session to be held September 9th, 2024 from 11:00-12:00 on Zoom. 
 

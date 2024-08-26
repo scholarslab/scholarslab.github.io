@@ -8,6 +8,7 @@ layout: events
 title: 'Points on Your Map: Street Addresses and More Spatial Things'
 location: 'Shannon Library 317 and Virtual'
 rsvp: "https://cal.lib.virginia.edu/calendar/events/Fall2024GISWorkshop4"
+slug: gis-workshop-2024-fall-geocoding
 ---
 
 Do you have a list of street addresses crying out to be mapped?  Have a list of zip codes or census tracts you wish to associate with other data?  We’ll start with addresses and other things spatial and end with points on a map, ready for visualization and analysis.  
