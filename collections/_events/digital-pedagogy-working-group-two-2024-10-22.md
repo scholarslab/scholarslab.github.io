@@ -15,6 +15,9 @@ What is digital humanities? What is it doing—what does it do—in the classroo
 This semester we will have three zoom sessions:
 
 * September 17th at 11 - (Brandon) - Digital Pedagogy and Labor 
+* Readings:
+    * [The Invisible Labor of DH Pedagogy](https://hcommons.org/deposits/item/hc:55203/), Brian Croxall and Diane Jakacki
+    * [Digital Pedagogy in the Humanities keyword on Labor](https://digitalpedagogy.hcommons.org/keyword/Labor) (read headnote and peruse linked materials w/ descriptions)
 * October 22nd at 11 - (Rachel) - Digital Pedagogy and Reading/Interpretation
 * November 19th at 11 - (Seanna) - Digital Pedagogy and Culturally responsive pedagogy
 
