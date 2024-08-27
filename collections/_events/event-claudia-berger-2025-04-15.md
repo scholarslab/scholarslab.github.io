@@ -1,13 +1,13 @@
 ---
 author: scholars-lab
 start_date: 2025-04-15
-end_date: 2024-04-15
+end_date: 2025-04-15
 start_time: '14:00:00'
 end_time: '15:30:00'
 layout: events
 location: 'Virtual & Shannon Library 308'
 title: 'Virtual Artist in Residence talk: Claudia Berger, "Footpath for the People?"'
-slug: event-ClaudiaBerger-2025-04-15
+slug: event-claudia-berger-2025-04-15
 ---
 
 Scholars' Lab Virtual Artist in Residence Claudia Berger will virtually present their data quilt project, "Footpath for the People?". The event will likely be a hybrid one, with in-person viewing available; in-person attendees will also be able to view the actualy quilt, installed in the Scholars' lab!
