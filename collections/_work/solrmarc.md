@@ -5,8 +5,8 @@ collaborators:
 layout: work
 slug: solrmarc
 title: Solrmarc
-thumb-img: RooshInf3ktion-solrmarc-thumb.png
-banner-img: RooshInf3ktion-solrmarc-banner.png
+thumb-img: solrmarc-thumb.png
+banner-img: solrmarc-banner.png
 research-category: Internal Projects & Community Service
 start-year: 2005
 end-year: (until 2018)

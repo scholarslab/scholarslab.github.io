@@ -5,10 +5,10 @@ collaborators:
   - name: TBD
     role: Please contact us if you have information on past collaborators.
 layout: work
-slug: the-mind-is-a-metaphor
+slug: mind-is-a-metaphor
 title: The Mind is a Metaphor
-thumb-img: metaphors-thumb.png
-banner-img: metaphors-banner.png
+thumb-img: mind-is-a-metaphor-thumb.png
+banner-img: mind-is-a-metaphor-banner.png
 research-category: Collaborations
 start-year: 2013
 end-year: (before 2018)

@@ -10,7 +10,7 @@ collaborators:
     role: Head of Research and Development
 layout: work
 preview-img: falmouth.jpg
-slug: the-falmouth-project
+slug: falmouth-project
 title: The Falmouth Project
 thumb-img: falmouth-thumb.png
 banner-img: falmouth-banner.png

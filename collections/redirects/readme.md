@@ -1,0 +1,1 @@
+This folder handles redirects for /collection items other than posts and pages, which the redirect plugin needs to handle differently (i.e. can't just put redirect into the collection item's YAML like a page/post can).

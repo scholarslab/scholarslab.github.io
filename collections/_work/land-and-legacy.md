@@ -31,8 +31,8 @@ layout: work
 link: http://landandlegacy.scholarslab.org/
 slug: land-and-legacy
 title: Land And Legacy
-thumb-img: land-and-legacy.png
-banner-img: land-and-legacy-thumb.png
+thumb-img: land-and-legacy-thumb.png
+banner-img: land-and-legacy-banner.png
 research-category: Student
 start-year: 2019
 end-year: 2020

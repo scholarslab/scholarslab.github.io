@@ -5,10 +5,10 @@ collaborators:
     role: 3D Technologies Specialist
 layout: work
 slug: cultural-heritage-dataverse-repository
-title: Cultural Heritage Dataverse Repository
+title: 3D Cultural Heritage Dataverse Repository
 link: https://dataverse.lib.virginia.edu/dataverse/culturalheritage
-thumb-img: cultural-heritage-dataverse-repository-thumb.png
-banner-img: cultural-heritage-dataverse-repository-banner.png
+thumb-img: 3d-cultural-heritage-dataverse-repository-thumb.png
+banner-img: 3d-cultural-heritage-dataverse-repository-banner.png
 research-category: Internal Projects & Community Service
 start-year: 2017
 end-year: current
