@@ -85,7 +85,7 @@ primary-navigation:
       - label: "Use the Lab"
         url: "use-the-lab"
       - label: "Use the Makerspace"
-        url: "makerspace#using-the-makerspace"
+        url: "makerspace#makerspace-resources"
   - label: "Events"
     url: "events"
     subnavigation:
