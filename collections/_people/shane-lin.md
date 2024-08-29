@@ -1,5 +1,4 @@
 ---
-department: History
 email: ssl2ab@virginia.edu
 first_name: Shane
 last_name: Lin

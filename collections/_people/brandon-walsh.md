@@ -1,5 +1,4 @@
 ---
-department: English
 email: bmw9t@virginia.edu
 first_name: Brandon
 last_name: Walsh
