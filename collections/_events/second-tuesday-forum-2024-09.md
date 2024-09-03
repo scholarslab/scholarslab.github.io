@@ -6,7 +6,11 @@ start_time: '14:00:00'
 end_time: '15:30:00'
 layout: events
 location: 'Virtual & Shannon Library 308'
-title: 'Second Tuesday Forum: TBA'
+title: 'Second Tuesday Forum: TEI in Static Site Generators'
 slug: second-tuesday-forum-2024-09
 ---
-More details and registration information to come.
+
+Join us in the Scholars' Lab for our September Second Tuesday Forum. [Jeremy
+Boggs](/people/jeremy-boggs/) will share some ongoing plans for using the Gatsby
+static site generator with the [CETEIcean](https://github.com/TEIC/CETEIcean)
+toolkit to easily publish TEI documents on the Web.
