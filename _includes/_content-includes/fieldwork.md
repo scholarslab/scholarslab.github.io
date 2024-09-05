@@ -16,4 +16,5 @@
 * Pat Oliphant Studio
 * Anne Spencer House and Garden Museum
 * Fluvanna Historical Society
+* Fluvanna High School African-American Studies classes
 * Preservation Piedmont
