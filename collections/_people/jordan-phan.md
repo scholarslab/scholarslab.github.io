@@ -5,7 +5,7 @@ layout: people
 title: Jordan Phan
 position: Makerspace Technologist
 short_bio:
-slug: Jordan-phan
+slug: jordan-phan
 status: current
 people-category:
 - student
