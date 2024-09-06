@@ -10,7 +10,7 @@ title: 'Second Tuesday Forum: Dana Little'
 slug: second-tuesday-forum-2024-11
 ---
 
-UVA English Assistant Professor Dana Little examines social media's underlying algorithmic architecture and it's impact on social discourse. We will review the role of artificial intelligence in "AI-guided" online narratives focusing specifically on the concept of "factions."
+UVA English Assistant Professor Dana Little examines social media's underlying algorithmic architecture and its impact on social discourse. We will review the role of artificial intelligence in "AI-guided" online narratives focusing specifically on the concept of "factions."
 
 Factions, in the context of AI-guided content creation and curation, is a social media genre that uses search engine optimization, AI algorithms, templates, and human-computer collaboration to create narratives that blend fact and fiction, fostering online personas and communities that both reflect and challenge reality.
 
