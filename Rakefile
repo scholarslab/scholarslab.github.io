@@ -75,7 +75,7 @@ end_time: '00:00:00'
 layout: events
 location: 'Shannon Library 308 (SLab Common Room)'
 title: '#{titlecase_title}'
-rsvp: "https://cal.lib.virginia.edu/calendar/events/GradCamp2024"
+rsvp: \"https://cal.lib.virginia.edu/calendar/events/GradCamp2024\"
 ---
 More details to come.
     ")

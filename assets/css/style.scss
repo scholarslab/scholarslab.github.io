@@ -797,15 +797,9 @@ body.people .gallery {
   #eq_0:focus {
     opacity: 0.9;
   }
-
-  .darker-background {
-    background-color: rgb(207, 251, 255);
-    border-radius: 10px;
-  }
-  .lighter-background {
-    background-color: #f2d9ff;
-    border-radius: 10px;
-  }
+#makerspace-students > ul > li > span {
+	font-weight: bold;
+}
 
 /********************************************************************/
 /* /blog */
