@@ -5,7 +5,8 @@ permalink: /digital-humanities-fellows/
 nav: false
 ---
 
-**Applications are now open for the 2024-2025 Digital Humanities Fellowship cohort.**
+**Applications are closed for the 2024-2025 Digital Humanities Fellowship. Stay tuned for the 2025-2026 application that will drop later this fall.**
+
 The application deadline for fellowships to be held during the 2024-2025 academic year is **February 15th, 2024**. More details on how to apply at the end of this page. 
 
 If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2024-2025 cohort - **Monday, January 15th, 2024 from 11:00-12:00 on Zoom.** Please [register](https://cal.lib.virginia.edu/event/11409187) to attend. You are, of course, encouraged to write for an individual meeting to discuss your application so that you can begin your application.
