@@ -10,4 +10,4 @@ title: 'WEEKLY: Coffee+Code'
 slug: coffee-and-code-2024-fall
 ---
 
-September 19-December 5, join Jeremy Boggs and Shane Lin for delicious coffee and discussion of interesting digital humanities code work. Zero experience required; these are non-sequential, so come for any or all.
+September 19-December 5, join the [Research and Development](/code-design/) team for delicious coffee and discussion of interesting digital humanities code work. Zero experience required; these are non-sequential, so come for any or all.
