@@ -5,7 +5,7 @@ end_date: 2025-02-11
 start_time: '14:00:00'
 end_time: '15:30:00'
 layout: events
-location: 'Virtual & Shannon Library 308'
+location: 'Shannon Library 308'
 title: 'Second Tuesday Forum: Amanda Wyatt Visconti'
 slug: second-tuesday-forum-2025-02
 ---
