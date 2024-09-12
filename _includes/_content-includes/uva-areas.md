@@ -39,9 +39,10 @@
 * Fralin Museum of Art
 * Kluge-Ruhe Aboriginal Art Collection
 * UVA Facilities
-* UVA President’s Commissions
+* UVA President’s Commissions (e.g. on the University in the Age of Segregration; on Slavery)
 * UVA Office of the Architect
 * UVA Provost's Office
+* UVA Research Computing Data Analytics Center
 
 #### UVA student groups with significant support beyond a consult
 * #Charlottesville Syllabus team
