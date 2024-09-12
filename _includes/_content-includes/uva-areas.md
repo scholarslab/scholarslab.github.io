@@ -45,6 +45,7 @@
 
 #### UVA student groups with significant support beyond a consult
 * #Charlottesville Syllabus team
+* UVA First-Year Student Engineering Design Team
 * Immersive group (student-run VR working group)
 * Cosplay Costuming & Crafts Club
 * UVA English Department Annual Graduate Conference (GradCon)
