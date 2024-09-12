@@ -47,3 +47,4 @@
 * #Charlottesville Syllabus team
 * Immersive group (student-run VR working group)
 * Cosplay Costuming & Crafts Club
+* UVA English Department Annual Graduate Conference (GradCon)
