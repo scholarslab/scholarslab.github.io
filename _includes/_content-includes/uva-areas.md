@@ -41,3 +41,8 @@
 * UVA President’s Commissions
 * UVA Office of the Architect
 * UVA Provost's Office
+
+#### UVA student groups with significant support beyond a consult
+* #Charlottesville Syllabus team
+* Immersive group (student-run VR working group)
+* Cosplay Costuming & Crafts Club
