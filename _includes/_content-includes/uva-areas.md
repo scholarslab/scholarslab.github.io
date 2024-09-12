@@ -43,6 +43,8 @@
 * UVA Office of the Architect
 * UVA Provost's Office
 * UVA Research Computing Data Analytics Center
+* Lighting on the Lawn
+* Institute of the Humanities and Global Cultures
 
 #### UVA student groups with significant support beyond a consult
 * #Charlottesville Syllabus student collaborative
@@ -50,4 +52,5 @@
 * UVA Immersive group (student-run VR working group)
 * Cosplay Costuming & Crafts Club
 * UVA English Department Annual Graduate Conference (GradCon)
+* UVA Retro Gaming Club
 * Many grant-project (e.g. UVA Biology Infectious Diseases in 3D student research team members and related classes) and project (e.g. Take Back the Acrhive project student interns) teams that include[d] UVA student collaborators
