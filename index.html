@@ -37,11 +37,12 @@ title: Home
     <div id="upcoming-events">
         <h2>Upcoming Events</h2>
         <ul>
-{% assign events = site.events | sort: 'start_date' | limit: 4 %}
+{% assign events = site.events | sort: 'start_date' %}
 {% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
-{% for event in events limit:4 %}
+{% assign count = 0 %}
+{% for event in events %}
 {% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-{% if eventdate >= today %}
+{% if eventdate >= today and count < 4 %}
             <li>
                 <a href="{{ event.url }}">
                 <time>
@@ -51,6 +52,7 @@ title: Home
                 <strong>{{ event.title }}</strong>
                 </a>
             </li>
+{% assign count = count | plus: 1 %}
 {% endif %}
 {% endfor %}
         </ul>

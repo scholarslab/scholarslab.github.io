@@ -7,7 +7,7 @@ nav: false
 
 **Applications are now open for Praxis Fellowships to be held during the 2025-2026 academic year. Further details below about this application cycle, which has applications due November 1st, 2024.** Consider spending time with us next year!
 
-If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2025-2026 cohort - **Monday, September 9th, 2024 from 11:00-12:00 on Zoom**. Please [register](https://cal.lib.virginia.edu/calendar/events/slab-praxis-information-session-fall-2024) to attend.
+~~If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2025-2026 cohort - **Monday, September 9th, 2024 from 11:00-12:00 on Zoom**. Please [register](https://cal.lib.virginia.edu/calendar/events/slab-praxis-information-session-fall-2024) to attend.~~ If you missed the information session never fear! We recorded it, and you can get access to the recording by emailing [Brandon Walsh](mailto:bmw9t@virginia.edu).
 
 The [Praxis Program](https://praxis.scholarslab.org/) is a unique and well-known training program in the international digital humanities, offered by the UVa Library’s Scholars' Lab. This fellowship supports a team of University of Virginia PhD students each year as they explore various aspects of digital humanities together. Under the guidance of Scholars' Lab faculty and staff, Praxis fellows conceive, develop, and share a range of digital humanities activities over the course of the year. Our fellows [blog](https://scholarslab.lib.virginia.edu/blog/) about their experiences and develop increased facility with project management, collaboration, and the public humanities, even as they tackle (most for the first time, and with the mentorship of our faculty and staff) new programming languages, tools, and digital methods. Praxis aims to equip fellows with the skills necessary for future research, teaching, and administration within digital humanities.
 
@@ -36,7 +36,7 @@ The application process for Praxis is simple! You apply individually, and we ass
 * **How do you work?** - a narrative about how the applicant approaches collaboration and learning;
 * **What do you bring to the table?** - summary of what skills, interests, methods the applicant will bring to the Praxis Program;
 * **What do you want out of this?** - summary of what the applicant hopes to gain as a Praxis Fellow, both in the short and the long term;
-* **When can you meet?** - your availability on the days and times we've identified for group interviews: **TIMES TBD - CHECK BACK BEFORE SUBMITTING!** (you will only have to participate in one hour-long group interview); 
+* **When can you meet?** - your availability on the days and times we've identified for group interviews: **Monday, 12/2 from 10-12; or Tuesday, 12/3 from 1-3** (you will only have to participate in one hour-long group interview); 
 * **Anything else we should know?** - pronouns, a name you go by other than the one on your email, any other experiences or backgrounds you want to make sure we are aware of, or anything else you would like to share.
 
 In addition, we ask for a brief note (a PDF or screenshot of an email is fine) from the applicant's department chair stating that they are aware the student is applying for the fellowship and support the application (given that the application can affect teaching rosters).
