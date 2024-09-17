@@ -757,48 +757,41 @@ body.people .gallery {
 	margin-left:0;
 	padding-left:0;
 	display:flex;
+	flex-flow: column;
+	align-items: flex-end;
 	gap: 1rem;
 	li {
-		flex:1;
+		flex:1 1 250px;
 		font-size: 1rem;
-
-		#laser-cutting & {
-			max-width: 30%;
-		}
+		text-align: center;
+		max-width: 250px;
+		margin: 0 auto;
+	}
+	@media screen and (min-width: 700px) {
+		flex-flow: row wrap;
 	}
 }
 
-  #mysched_41069 {
-    background: #702dbe;
-    border: 1px solid #cccccc;
-    border-radius: 4px;
-    color: #ffffff;
-    font: 14px Arial, Helvetica, Verdana;
-    padding: 8px 20px;
-    cursor: pointer;
-  }
-
-  #mysched_41069:hover,
-  #mysched_41069:active,
-  #mysched_41069:focus {
-    opacity: 0.9;
-  }
-  #eq_0 {
-    background: #702dbe;
-    border: 1px solid #cccccc;
-    border-radius: 8px;
-    color: #ffffff;
-    font: 14px Arial, Helvetica, Verdana;
-    padding: 8px 20px;
-    cursor: pointer;
-  }
-  #eq_0:hover,
-  #eq_0:active,
-  #eq_0:focus {
-    opacity: 0.9;
-  }
 #makerspace-students > ul > li > span {
 	font-weight: bold;
+}
+
+.makerspace-button {
+    border: 1px solid #cccccc;
+	background-color: var(--uvalib-main-rotunda-orange);
+	color: var(--uvalib-main-white);
+	padding: 14px;
+	border-radius: 10px;
+	text-decoration: none;
+    cursor: pointer;
+}
+.makerspace-button:hover,
+.makerspace-button:active,
+.makerspace-button:focus {
+    opacity: 0.88;
+}
+.makerspace-button:visited {
+	color: var(--uvalib-secondary-medium-gray);
 }
 
 /********************************************************************/
