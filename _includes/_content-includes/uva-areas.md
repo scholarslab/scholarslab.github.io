@@ -45,6 +45,8 @@
 * UVA Research Computing Data Analytics Center
 * [Lighting of the Lawn](http://www.lightingofthelawn.com/)
 * Institute of the Humanities and Global Cultures
+* Women in CS (WiCS) Hackathon
+* Women in Data Science Symposium
 
 #### UVA student groups with significant support beyond a consult
 * #Charlottesville Syllabus student collaborative
@@ -53,5 +55,4 @@
 * Cosplay Costuming & Crafts Club
 * UVA English Department Annual Graduate Conference (GradCon)
 * UVA Retro Gaming Club
-* Women in CS (WiCS)
 * Many grant-project (e.g. UVA Biology Infectious Diseases in 3D student research team members and related classes) and project (e.g. Take Back the Acrhive project student interns) teams that include[d] UVA student collaborators

@@ -8,7 +8,7 @@ position: Head of Research & Development
 slug: jeremy-boggs
 status: current
 website: https://jeremyboggs.net
-libcal: https://cal.lib.virginia.edu/appointments/jeremy-boggs
+libcal: https://cal.lib.virginia.edu/appointments/jeremyboggs
 orcid: https://orcid.org/0000-0003-1550-3471
 github: jeremyboggs
 people-category:
