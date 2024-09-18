@@ -4,10 +4,13 @@ date: 2024-09-17
 layout: post
 slug: how-to-build-a-dh-scene
 title: How to Build a DH Scene
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- music-and-sound
+- about-collaboration-community
+- tutorial-adjacent
+- pedagogy
+- care
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/how-to-build-a-dh-scene
