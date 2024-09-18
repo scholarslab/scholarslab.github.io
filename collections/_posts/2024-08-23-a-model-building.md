@@ -8,6 +8,7 @@ author:
 - ammon-shepherd
 tags:
 - makerspace
+- 3d-printing
 ---
 
 If a picture is worth a thousand words, then a three-dimensional object is worth a million words. 3D printing an object often provides unique and quick ways to present information. The main library at UVA completed major renovations from 2020 until 2023 which include removing a large center building that… here, let me show you with this 3D model instead. 
