@@ -4,6 +4,13 @@ date: 2024-09-17
 layout: post
 slug: using-my-skills-to-excel
 title: "Using My Skills to Excel"
+category: essay
+tags:
+- hello-world
+- grad-student-research
+- praxis
+- about-collaboration-community
+- learning-experience
 ---
 My name is Gramond McPherson, I am a fifth-year Ph.D. student in the Department of History. I am a late-era millennial which provides me a vantage point of remembering the world before high-speed internet and smartphones while coming of age as these technologies became a normal way of life. 
  
