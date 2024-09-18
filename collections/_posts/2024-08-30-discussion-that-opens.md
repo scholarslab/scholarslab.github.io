@@ -4,10 +4,12 @@ date: 2024-08-30
 layout: post
 slug: discussion-that-opens
 title: Discussion that Opens
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- care
+- about-collaboration-community
+- praxis
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/discussion-that-opens
