@@ -8,6 +8,10 @@ author:
 - ammon-shepherd
 tags:
 - makerspace
+- 3d-printing
+- interdisciplinary-dh
+- medicine-science
+- prototyping
 ---
 
 Collaboration with Dr. Zimmerman began in 2022 through a request to create a life-size, life-like model of a heart that he and other fellows could use to practice the movement of catheters inside the heart. Ideally the model would be clear and hollow. Due to time constraints the project was put on hold until the summer of 2023. 
