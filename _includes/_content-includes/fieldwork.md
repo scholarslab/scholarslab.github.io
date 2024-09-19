@@ -8,6 +8,7 @@
 * Bremo Plantation, Enslaved Cooking Spaces and Chapel (Fluvanna County, VA)
 * Pine Grove Rosenwald School (Cumberland County, Va)
 * St. John Rosenwald School
+* Dunbar Rosenwald School (Spring 2025)
 * Newtown Rosenwald School
 * Barboursville Plantation House
 * River View Farm
