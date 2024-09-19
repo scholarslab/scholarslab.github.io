@@ -18,3 +18,5 @@
 * Fluvanna Historical Society
 * Fluvanna High School African-American Studies classes
 * Preservation Piedmont
+* Building Goodness Foundation
+* The Haven, Charlottesville
