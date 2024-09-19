@@ -15,8 +15,7 @@
 * Cuckoo African-American Schoolhouse
 * Pat Oliphant Studio
 * Anne Spencer House and Garden Museum
-* Fluvanna Historical Society
+* Historical societies: Preservation Piedmont, Fluvanna Historical Society, Orange County Historical Society
 * Fluvanna High School African-American Studies classes
-* Preservation Piedmont
 * Building Goodness Foundation
 * The Haven, Charlottesville
