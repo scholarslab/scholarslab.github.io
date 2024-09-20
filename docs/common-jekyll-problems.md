@@ -1,5 +1,15 @@
 *Please add problems you've run into here, even if you don't remember the solution!*
 
+## Is it a sudo problem, and are you working on a Library staff machine?
+From Yuji in a Library Slack channel: "I’ve been helping people with macs \[who are Library staff\] negotiate the vagaries of running sudo, especially concerning the way our library mac laptops are setup.  And I think I came up with the simplest solution which is to do :
+`su libadm -c "sudo whatever-you-need-to-run-as-root"` whenever the common wisdom (i.e. google search) tells them that they should use sudo.
+
+This came up with fixing a brew install which was giving a lot of confusing errors. Brew is helpful in suggesting fixes, but when the fix required sudo, it usually leads the (library mac) user down a rabbit warren of wrong turns. Especially if there is a mix of things that need to be run via sudo and some that are not.  So I thought it might be better to have one single command to run something via sudo without the risk of accidentally running other things as the wrong user (either libadm or root) later. 
+
+I suppose one could write a script or craft an alias for this, but that can send someone down a different set of rabbit holes.
+
+One slightly confusing downside is that it requires the user to type in the libadm passwd twice the first time you run it.
+
 ## Problems & how we solved them
 1. `Your Ruby version is 2.0.0, but your Gemfile specified 2.4.1` (or other versions = your version is a lower number)  
 Your Ruby version is too old? Enter the following at the command line and press enter: `brew upgrade ruby`  
