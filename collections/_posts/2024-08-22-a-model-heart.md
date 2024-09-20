@@ -20,7 +20,7 @@ The original request was unable to be created due to the limitations of FFF prin
 
 So, like all good projects, we came up with the next best thing; a 3D printed, life-size heart with extra holes to make it usable for practice surgery.
 
-I found a version online at [https://www.printables.com/model/5612-anatomic-heart-multi-material](https://www.youtube.com/watch?v=SwrYMWoqg5w), which provided the perfect model.
+I found a version online at [https://www.printables.com/model/5612-anatomic-heart-multi-material](https://www.printables.com/model/5612-anatomic-heart-multi-material), which provided the perfect model.
 
 [![Burning Heart, Survivor](/assets/post-media/a-model-heart/printables_malte_28513_anatomic-heart.webp)](https://www.youtube.com/watch?v=Kc71KZG87X4)
 
