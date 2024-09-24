@@ -8,6 +8,9 @@ author:
 - ammon-shepherd
 tags:
 - makerspace
+- expansive-makerspace
+- medicine-science
+- interdisciplinary-dh
 ---
 
 Over the years, the Makerspace staff have helped with numerous projects connected to the UVA Medical School and Hospital. Here are six projects I have worked on over the past year or so.
