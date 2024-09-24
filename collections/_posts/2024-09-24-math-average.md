@@ -4,6 +4,15 @@ date: 2024-09-24
 layout: post
 slug: math-average
 title: "What to make of my high school math average (or, 0.25/20 is not so bad)"
+category: essay
+tags:
+- hello-world
+- grad-student-research
+- praxis
+- learning-experience
+- academia
+- mental-health-and-wellbeing
+- coding
 ---
 When I was 16, I burned my math exams in a bonfire. I remember holding my last ever math exam in front of my friends, on which a 0.25/20 was marked in bright-red ink, and throwing it in the fire. Feeling a rush of excitement, realizing that I will never have to endure math classes ever again. I would never have to be singled-out by my math teacher for being the worst student of the class, probably of the year, potentially of his career, ever again. Now, I look back at my math years with a more acute sense of how coming from an underprivileged background where no one monitors your homework (and checks if you successfully learnt your times table) and how internalizing a gendered form of knowledge from a very early age (you are a girl you will be drawn to humanities) is a recipe – dare I say the components of an algorithm – for mathematical disaster. 
 
