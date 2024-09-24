@@ -1,6 +1,6 @@
 ---
-author: oriane-guiziou lamour
-date: 2024-09-19
+author: oriane-guiziou-lamour
+date: 2024-09-24
 layout: post
 slug: math-average
 title: "What to make of my high school math average (or, 0.25/20 is not so bad)"
