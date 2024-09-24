@@ -7,7 +7,7 @@ title: What. The. Junk.
 category: essay
 tags:
 - makerspace
-- 3d printing
+- 3dprinting
 ---
 
 So I had to take a sick day yesterday. Stuffy nose, scratchy throat, headache, grouchiness. Attempting to brighten my day, Wayne sent me a nice text message:

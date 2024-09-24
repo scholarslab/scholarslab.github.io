@@ -7,7 +7,7 @@ title: Plastic Debacles
 category: essay
 tags:
 - research-and-development
-- 3d printing
+- 3dprinting
 - makerspace
 ---
 

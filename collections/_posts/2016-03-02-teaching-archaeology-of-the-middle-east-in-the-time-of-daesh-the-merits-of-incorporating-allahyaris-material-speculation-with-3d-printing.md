@@ -9,6 +9,7 @@ category: essay
 tags:
 - grad-student-research
 - makerspace
+- expansive-makerspace
 - pedagogy
 crosspost:
   - title: my personal blog

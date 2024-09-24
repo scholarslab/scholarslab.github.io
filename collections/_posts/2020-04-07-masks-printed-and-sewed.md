@@ -10,9 +10,8 @@ category: essay
 tags:
 - fabric-arts
 - expansive-makerspace
-- 3d printing
+- 3dprinting
 - research-and-development
-- makerspace
 - makerspace
 ---
 

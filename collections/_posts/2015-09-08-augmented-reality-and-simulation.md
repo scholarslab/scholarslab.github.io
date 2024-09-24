@@ -8,7 +8,7 @@ category: essay
 tags:
 - research-and-development
 - vr-ar
-- 3d printing
+- 3dprinting
 - makerspace
 ---
 

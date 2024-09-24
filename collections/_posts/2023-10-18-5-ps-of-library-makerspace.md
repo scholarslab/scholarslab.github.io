@@ -7,7 +7,7 @@ title: The 5 Ps of Library Makerspaces
 category: essay
 tags:
 - makerspace
-- 3d printing
+- 3dprinting
 - 3d-modeling
 - expansive-makerspace
 ---

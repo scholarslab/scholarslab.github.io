@@ -8,7 +8,7 @@ category: essay
 tags:
 - makerspace
 - electronics
-- 3d printing
+- 3dprinting
 ---
 ![LED Watch in all the Glory](/assets/post-media/led-watch-complete/the-watch.jpg)
 *[LED Watch in all the Glory]*

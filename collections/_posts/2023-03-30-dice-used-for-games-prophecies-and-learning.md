@@ -6,9 +6,10 @@ slug: dice-used-for-games-prophecies-and-learning
 title: "Dice Used for Games, Prophecies, and Learning: 3D Printing Ancient Knucklebones"
 category: essay
 tags:
+- expansive-makerspace
 - makerspace
 - grad-student-research
-- 3d printing
+- 3dprinting
 - archaeology
 - games
 ---

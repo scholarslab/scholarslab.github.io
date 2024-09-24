@@ -9,6 +9,7 @@ tags:
 - zines
 - zine-bakery
 - makerspace
+- expansive-makerspace
 - tutorial
 crosspost:
   - title: Amanda's Blog

@@ -8,7 +8,7 @@ title: '3D Printing in the Classroom: Outcomes and Reflections on a Slavic Cours
 category: essay
 tags:
 - makerspace
-- 3d printing
+- 3dprinting
 - slavic
 - multilingual
 - pedagogy

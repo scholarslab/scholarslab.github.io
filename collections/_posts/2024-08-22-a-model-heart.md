@@ -8,6 +8,7 @@ author:
 - ammon-shepherd
 tags:
 - makerspace
+- expansive-makerspace
 - 3d-printing
 - interdisciplinary-dh
 - medicine-science
