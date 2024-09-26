@@ -7,6 +7,7 @@ title: 'Inktober 10/21: When Things Break'
 category: essay
 tags:
 - grad-student-research
+- praxis
 - clockwork
 crosspost:
   - title: my post on our Praxis page
