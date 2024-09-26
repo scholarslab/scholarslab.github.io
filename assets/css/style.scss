@@ -153,6 +153,13 @@ h1,h2,h3,h4 {
 	}
 }
 
+blockquote {
+    color: var(--uvalib-text-dk-grey);
+    border-left: 2px solid #c8ccc2;
+    padding-left: 15px;
+    font-style: italic;
+}
+
 /********************************************************************/
 /* Site Banner */
 #scholarslab-header {
