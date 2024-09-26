@@ -1,5 +1,5 @@
 #### Science, technology, engineering
-* Medical School
+* School of Medicine (including: Neuroscience; Plastic Surgery; Molecular Physiology and Biological Physics; Medical Simulation Center)
 * UVA Hospital
 * Nursing
 * Biology
@@ -12,6 +12,7 @@
 * Economics
 * Law
 * Environmental Science
+* Education
 
 #### Arts & Humanities
 * Art History
