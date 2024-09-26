@@ -4,7 +4,7 @@
 * Nursing
 * Biology
 * Physics
-* Civic Engineering
+* Civil Engineering
 * Mechanical Engineering
 
 #### Social sciences
