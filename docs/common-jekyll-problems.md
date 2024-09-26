@@ -23,7 +23,9 @@ Your Ruby version is too new? Open the "Gemfile" file (in your scholarslab.org r
 ERROR:  Could not find a valid gem 'bundler' (>= 0), here is why:
           Unable to download data from https://rubygems.org/ - SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: tlsv1 alert protocol version (https://rubygems.org/latest_specs.4.8.gz)
 ```
-I think I solved this but forgot to document how?
+
+* Solution:
+Trying to troubleshoot put me in a loop of it wasn't pointing at the right Ruby version, and wouldn't let me update gems/bundler. Closing terminal and restarting solved, so possibly something I tried worked but not until restart?
 
 4. "You must use Bundler 2 or greater with this lockfile."
 Enter `gem install bundler` to update to Bundler 2 (`sudo gem install bundler` if you get `ERROR:  While executing gem ... (Gem::FilePermissionError) You don't have write permissions for the /Library/Ruby/Gems/2.3.0 directory.`
