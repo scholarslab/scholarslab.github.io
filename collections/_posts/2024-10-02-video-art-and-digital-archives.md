@@ -1,9 +1,10 @@
 ---
-author: Emmy-Monaghan
-date: 2024-09-24
+author: emmy-monaghan
+date: 2024-10-02
 layout: post
-slug: emmy-blog-1
-title: "10 Reasons Henry Rules: A Digital Humanities Blessay"
+slug: video-art-and-digital-archives
+title: "Video Art and Digital Archives"
+category: essay
 ---
 > “With the younger generation, video is more acceptable. Kids have phones, iPads, everything you know? So if you’re using this media that’s accessible to kids, you’re at least feeding culture and language into the digital space. The digital space right now, a lot of people are scared that it’s taking our young people away. Moving away from culture. So we need to put culture into that space, because that’s already where they are.” 
 
