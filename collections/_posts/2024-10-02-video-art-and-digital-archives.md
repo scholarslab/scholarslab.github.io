@@ -49,4 +49,3 @@ As a fellow in the Scholars’ Lab this year, I am very lucky that I get the too
 - What does video allow Tiwi artists to do that other media doesn’t?
 
 - How does the medium of video change the audience of the artworks?
-![image](https://github.com/user-attachments/assets/4b428aaa-ef57-4608-b2c7-2c308e4b8510)
