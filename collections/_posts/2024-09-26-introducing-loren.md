@@ -1,9 +1,13 @@
 ---
-author: Loren-Lee
+author: loren-lee
 date: 2024-09-26
 layout: post
-slug: Introducing-Loren
+slug: introducing-loren
 title: "Old Books, New Tricks: Introducing My Digital Edition with the SLab"
+category: essay
+tags:
+- grad-student-research
+- hello-world
 ---
 On my very first day at UVA, I met Rennie Mapp at a bus stop. I asked this random woman for directions, we shared the short ride to Central Grounds, and she asked me about what my plans were here in Charlottesville. I was absolutely beaming with energy for all the plans I didn’t yet have, and after listening to my ecstatic ramblings, Rennie gave me an enthusiastic pitch about all the exciting opportunities available for digital humanities research at the university. She gave me her card, and I had to know more. I wasn’t a medievalist then, I didn’t have an advisor yet, I didn’t even really know where to find New Cabell, but first thing, I knew I ought to look into this DH business.[^1] Since then, I’ve been dipping my toes into all things DH at UVA. I have spent the past several years exploring DH methods through workshops, coursework, conferences, and collaborative projects — building a [prototype of a digital edition](https://leeloren.github.io/silence/) (something I’ll touch on in another blog post) and working on XML-encoding projects like [*Lives of the Saints: The Medieval French Hagiography Project*](http://www.frenchsaintslives.org/) with the mentorship of my advisor Amy Ogden. My dissertation project is the culmination of all these experiences and a chance to push the boundaries of what a digital edition can offer.
 
