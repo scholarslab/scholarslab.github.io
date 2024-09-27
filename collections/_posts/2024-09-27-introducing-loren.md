@@ -1,6 +1,6 @@
 ---
 author: loren-lee
-date: 2024-09-26
+date: 2024-09-27
 layout: post
 slug: introducing-loren
 title: "Old Books, New Tricks: Introducing My Digital Edition with the SLab"
