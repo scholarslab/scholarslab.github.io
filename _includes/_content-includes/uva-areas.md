@@ -38,7 +38,7 @@
 * [Makergrounds](/work/makergrounds) alliance of all UVA makerspaces
 * COVID-19 Engineering+Medical+Making Relief Network
 * Fralin Museum of Art
-* Kluge-Ruhe Aboriginal Art Collection
+* Kluge-Ruhe Museum of Aboriginal Art
 * UVA Facilities
 * UVA President’s Commissions (e.g. on the University in the Age of Segregration; on Slavery)
 * UVA Office of the Architect
