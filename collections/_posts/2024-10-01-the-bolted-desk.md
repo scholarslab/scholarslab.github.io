@@ -12,7 +12,7 @@ crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/the-bolted-desk
 ---
-What follows is material drawn from a larger book project I'm working on about an approach to digital humanities pedagogy that intersects with administrative policy to work towards a more equitable landscape for higher education. I'll be blogging pieces of it as I go, so stay tuned for more related work in the future. Happy to hear feedback, either on social media or by email at [bmw9t@virginia.edu](bmw9t@virginia.edu).
+What follows is material drawn from a larger book project I'm working on about an approach to digital humanities pedagogy that intersects with administrative policy to work towards a more equitable landscape for higher education. I'll be blogging pieces of it as I go, so stay tuned for more related work in the future. Keep in mind, though, that I will likely be blogging about other topics intermittently as well. So I will tag the posts accordingly to make them easy to connect. Happy to hear feedback, either on social media or by email at [bmw9t@virginia.edu](bmw9t@virginia.edu).
 
 ===
 
