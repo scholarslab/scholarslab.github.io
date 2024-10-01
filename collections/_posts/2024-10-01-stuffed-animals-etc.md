@@ -1,12 +1,10 @@
 ---
-author: Kristin-Hauge
-date: 2024-09-22
+author: kristin-hauge
+date: 2024-10-01
 layout: post
 slug: stuffed-animals-etc
 title: "Stuffed animals, creativity, and other thoughts"
 ---
-# Stuffed animals, creativity, and other thoughts
-#### by Kristin Hauge
 
 When I was a kid, I spent hours playing with stuffed animals in a society I had created for them called AnimalLand. I remember designing and building homes using cardboard for the walls, which I then decorated with acrylic paint and wrapping paper (as wallpaper). I cobbled together a set of indoor furniture, complete with old dollhouse pieces and the three-legged miniature “tables” that were occasionally placed in the center of a pizza. I immersed myself fully in this world, creating and building on storylines that detailed the everyday lives of the stuffed animals. They lived in different towns (each named after rooms of the house, such as Kitchen Town), had friends and families, attended concerts and baseball games, and read The AnimalLand Gazette daily. Many of these stories are memorialized in old photos, home videos, and art projects that my brother and I created.
 
@@ -18,10 +16,7 @@ I have always seen music as a wonderful tool for communicating something, whethe
 
 To create this piece, I recorded individual tracks, each comprising a different set of pitches from one overarching collection, to represent the birds. I listened to previously recorded tracks while I played, improvising with myself to mimic the unpredictability of the birds. They are quiet and shy, so much of what they do is left to the imagination, especially if you’re not a scientist observing them. A pulse, which I recorded on my electric violin, is heard every 7 seconds to denote each year that passes on the graph.
 
-Below: An image of the graph that served as my starting point for the piece; and a screenshot of my Logic Pro project depicting how the different piano tracks layer on top of one another and mirror the shape of the graph. 
-
-![Image of graph](https://github.com/scholarslab/scholarslab.github.io/blob/KristinH-blog/assets/post-media/2024-09-19-graph-final.png?raw=true)
-Field, Christopher R., et al. "High‐resolution tide projections reveal extinction threshold in response to sea‐level rise." Global Change Biology 23.5 (2017): 2058-2070.
+The graph on which the piece was based is from Field, Christopher R., et al. "High‐resolution tide projections reveal extinction threshold in response to sea‐level rise." Global Change Biology 23.5 (2017): 2058-2070." Below I have a screenshot of my Logic Pro project depicting how the different piano tracks layer on top of one another and mirror the shape of the graph. 
 
 ![Image of Logic Pro project](https://github.com/scholarslab/scholarslab.github.io/blob/KristinH-blog/assets/post-media/2024-09-18-Logic-screenshot.png?raw=true)
 
