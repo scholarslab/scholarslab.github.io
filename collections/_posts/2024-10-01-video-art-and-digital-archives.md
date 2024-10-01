@@ -1,6 +1,6 @@
 ---
 author: emmy-monaghan
-date: 2024-10-02
+date: 2024-10-01
 layout: post
 slug: video-art-and-digital-archives
 title: "Video Art and Digital Archives"
