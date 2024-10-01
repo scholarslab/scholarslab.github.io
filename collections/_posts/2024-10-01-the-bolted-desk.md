@@ -4,10 +4,11 @@ date: 2024-10-01
 layout: post
 slug: the-bolted-desk
 title: The Bolted Desk
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- learning-experience
+- academia
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/the-bolted-desk
