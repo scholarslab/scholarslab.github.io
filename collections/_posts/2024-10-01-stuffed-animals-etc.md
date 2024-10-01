@@ -4,6 +4,12 @@ date: 2024-10-01
 layout: post
 slug: stuffed-animals-etc
 title: "Stuffed animals, creativity, and other thoughts"
+category: essay
+tags:
+- praxis
+- hello-world
+- grad-student-research
+- music-and-sound
 ---
 
 When I was a kid, I spent hours playing with stuffed animals in a society I had created for them called AnimalLand. I remember designing and building homes using cardboard for the walls, which I then decorated with acrylic paint and wrapping paper (as wallpaper). I cobbled together a set of indoor furniture, complete with old dollhouse pieces and the three-legged miniature “tables” that were occasionally placed in the center of a pizza. I immersed myself fully in this world, creating and building on storylines that detailed the everyday lives of the stuffed animals. They lived in different towns (each named after rooms of the house, such as Kitchen Town), had friends and families, attended concerts and baseball games, and read The AnimalLand Gazette daily. Many of these stories are memorialized in old photos, home videos, and art projects that my brother and I created.
