@@ -9,7 +9,7 @@ category: essay
 
 Check out my previous posts for context:
 
-* [On Community Listening 1](https://www.scholarslab.org/digital-humanities/on-community-listening-1/)
+* [On Community Listening 1](https://www.scholarslab.org/blog/on-community-listening-1/)
 
 * [ On Community Listening 2](https://www.scholarslab.org/grad-student-research/on-community-listening-2/)
 

@@ -13,7 +13,7 @@ tags:
 
 Full disclosure: this list of questions came from a prompt by [David McClure](https://scholarslab.org/people/david-mcclure/).
 
-This also grows out of a [blog post](https://scholarslab.org/praxis-program/images-in-prism/) I wrote earlier about my interest in utilizing images in Prism.
+This also grows out of a [blog post](https://scholarslab.org/blog/images-in-prism/) I wrote earlier about my interest in utilizing images in Prism.
 
 _What's the overarching intellectual goal?_
 

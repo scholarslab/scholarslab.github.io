@@ -16,7 +16,7 @@ crosspost:
     url: http://nowviskie.org/2013/prism-for-play/
 ---
 
-This week marks the release of a new version of [Prism](http://prism.scholarslab.org/), a web-based tool for "[crowdsourcing interpretation](https://scholarslab.org/digital-humanities/crowdsourcing-interpretation/)," constructed over the course of two academic years by two separate cohorts of graduate fellows in our [Praxis Program](http://praxis-network.org/praxis-program.html) at the [Scholars' Lab](http://scholarslab.org).
+This week marks the release of a new version of [Prism](http://prism.scholarslab.org/), a web-based tool for "[crowdsourcing interpretation](https://scholarslab.org/blog/crowdsourcing-interpretation/)," constructed over the course of two academic years by two separate cohorts of graduate fellows in our [Praxis Program](http://praxis-network.org/praxis-program.html) at the [Scholars' Lab](http://scholarslab.org).
 
 [![prism-logo](http://nowviskie.org/wp-content/uploads/2013/05/LOGO-6747d62e676eadfc92873f25fb82d6af.png)](http://nowviskie.org/wp-content/uploads/2013/05/LOGO-6747d62e676eadfc92873f25fb82d6af.png)
 
