@@ -153,11 +153,38 @@ h1,h2,h3,h4 {
 	}
 }
 
-blockquote {
-    color: var(--uvalib-text-dk-grey);
-    border-left: 2px solid #c8ccc2;
-    padding-left: 15px;
-    font-style: italic;
+body.post article {
+
+	figure {
+		margin: 0 0 1rem;
+		padding:0;
+	}
+
+	blockquote {
+		color: var(--uvalib-text-dk-grey);
+		padding:  0 0 1rem;
+		margin:0;
+		font: 2rem var(--franklin-gothic-urw-comp);
+		p:first-child {
+			margin-top:0;
+		}
+		p:last-child {
+			margin-bottom:0;
+		}
+	}
+
+	blockquote + figcaption {
+		font-size: 0.9rem;
+		padding: 1rem 0;
+		color: #999;
+		border-top: 1px solid #eee;
+		width: fit-content;
+		p {
+			margin-top:0;
+		}
+
+
+	}
 }
 
 /********************************************************************/
