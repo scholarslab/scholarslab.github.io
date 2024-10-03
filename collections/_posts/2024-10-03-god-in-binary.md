@@ -11,21 +11,25 @@ tags:
 - grad-student-research
 - religion
 ---
-> “Other worlds exist beyond the stars—
-> 
-> More tests of love are still to come." [^1]
 
+<figure>
+<blockquote>
+<p>“Other worlds exist beyond the stars—<br>
+More tests of love are still to come." [^1]</p>
+</blockquote>
+<figcaption>
+<p>Allama Muhammad Iqbal, Bāl-i Jibrīl</p>
+</figcaption>
+</figure>
 
-
-\- Allama Muhammad Iqbal, Bāl-i Jibrīl 
-
-
-
-> “People have forgotten this truth," the fox said. "But you mustn’t forget it. You become responsible forever for what you’ve tamed.”
-
-
-
-\- Antoine de Saint-Exupéry, The Little Prince
+<figure>
+<blockquote>
+<p>“People have forgotten this truth," the fox said. "But you mustn’t forget it. You become responsible forever for what you’ve tamed.”</p>
+</blockquote>
+<figcaption>
+<p>Antoine de Saint-Exupéry, The Little Prince</p>
+</figcaption>
+</figure>
 
 I shall confess from the get-go that I am a fairly reluctant entrant into the world of DH. I have spent much of my life wondering how "the internet" works and where all our data actually goes when we save it on various drives and clouds. I have felt - like many others, I'm sure - that I simply don't have the gene (or genius?) that makes one "tech savvy". How ironic for an educator who claims that learning is for all to hold such views about themselves! This realization compelled me to take my first tentative steps into the Digital Humanities and apply for the Praxis Program. It Is here that, for the first time, the wonderful folks at the Scholar's Lab held my hand and nudged me forward into a fledgling friendship with Git and HTML and other such monsters lurking behind my computer screen. Mike and Sulley were right, it seems: this laughter is so much more generative than terror! I now live in a world where curly brackets actually have meaning and a novice like me can dream of creating beautiful web pages.
 
@@ -39,11 +43,11 @@ With the advent of smartphones, the demarcation of sacred space is even more com
 
 
 
-When I shared the first draft of this post with [Brandon](https://scholarslab.lib.virginia.edu/people/brandon-walsh//), his response further knotted my thread of questions by raising the issue of augmented reality: "What would happen if you took a physical copy of the text and made some sort of second, intermediate space? A digital experience that supported, expanded, or complicated the sacred text that remained intact on the table in front of you?" I've since been daydreaming about all the different possibilities. Imagine holding your phone up to  verse 22 of Surah Maryam (that describes the birth of Jesus) and seeing Caravaggio's "Nativity with Saint Francis and Saint Lawrence." Or seeing a model of Babri Masjid when your camera points at Ram Mandir in Ayodhya. They could be instances of inter-religious dialogue or of mass moral outrage! 
+When I shared the first draft of this post with [Brandon](https://scholarslab.lib.virginia.edu/people/brandon-walsh//), his response further knotted my thread of questions by raising the issue of augmented reality: "What would happen if you took a physical copy of the text and made some sort of second, intermediate space? A digital experience that supported, expanded, or complicated the sacred text that remained intact on the table in front of you?" I've since been daydreaming about all the different possibilities. Imagine holding your phone up to  verse 22 of Surah Maryam (that describes the birth of Jesus) and seeing Caravaggio's "Nativity with Saint Francis and Saint Lawrence." Or seeing a model of Babri Masjid when your camera points at Ram Mandir in Ayodhya. They could be instances of inter-religious dialogue or of mass moral outrage!
 
 
 
-It's been weeks since Brandon's questions, and I still have no adequate answer. What’s clear, however, is that virtual space is not merely an extension of the physical, nor does it follow the same rules. Is it the Realm of the Malakūt made visible? Am I simply experiencing Durkheimian anomie? Who knows? What I can say with certainty is that, for the religious mind, each interaction with the digital world demands that we reconfigure our notions of sacrality – and our relationship with it – in this new dimension of existence. 
+It's been weeks since Brandon's questions, and I still have no adequate answer. What’s clear, however, is that virtual space is not merely an extension of the physical, nor does it follow the same rules. Is it the Realm of the Malakūt made visible? Am I simply experiencing Durkheimian anomie? Who knows? What I can say with certainty is that, for the religious mind, each interaction with the digital world demands that we reconfigure our notions of sacrality – and our relationship with it – in this new dimension of existence.
 
 
 
