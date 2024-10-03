@@ -8,6 +8,7 @@ category: essay
 tags:
 - visualization
 - literature
+- hello-world
 ---
 
 > ...the words we join have been joined before, and continue to be joined daily. So writing is largely quotation, quotation newly energized, as a cyclotron augments the energies of common particles circulating.

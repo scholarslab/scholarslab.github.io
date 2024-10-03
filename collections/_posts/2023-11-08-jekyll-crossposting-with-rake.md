@@ -109,7 +109,7 @@ date: #{parsed.front_matter['date']}
 layout: post
 slug: #{title_slug}
 title: #{parsed.front_matter['title']}
-categories:
+category:
 crosspost:
   - title: #{blog_title}
     url: #{blog_url}/#{title_slug}

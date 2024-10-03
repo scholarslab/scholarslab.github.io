@@ -4,7 +4,9 @@ date: 2008-09-08 17:28:54+00:00
 layout: post
 slug: hello-world-2
 title: Hello, world!
-category: announcement
+category: essay
+tags:
+- hello-world
 ---
 
 I'm here to cut the ribbon on the [Scholars' Lab](https://scholarslab.org/index.html) blog.
