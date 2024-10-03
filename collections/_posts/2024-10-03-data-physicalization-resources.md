@@ -1,5 +1,5 @@
 ---
-author: Amanda Wyatt Visconti
+author: Amanda Visconti
 layout: post
 date: 2024-10-03
 title: "🧵Data Physicalization Resources"
