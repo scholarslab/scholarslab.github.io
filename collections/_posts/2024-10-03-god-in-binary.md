@@ -12,6 +12,7 @@ tags:
 - religion
 ---
 > “Other worlds exist beyond the stars—
+> 
 > More tests of love are still to come." [^1]
 
 
@@ -51,4 +52,4 @@ It's been weeks since Brandon's questions, and I still have no adequate answer. 
 
 
 
-[^1]: Translation source is [Allama Iqbal Poetry] (https://iqbalurdu.blogspot.com/2011/04/bal-e-jibril-060-sitaron-se-agay-jahan.html)
+[^1]: Translation source: [Allama Iqbal Poetry](https://iqbalurdu.blogspot.com/2011/04/bal-e-jibril-060-sitaron-se-agay-jahan.html)
