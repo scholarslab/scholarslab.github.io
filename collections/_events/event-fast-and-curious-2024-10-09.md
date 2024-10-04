@@ -13,7 +13,7 @@ rsvp: https://bit.ly/fastandthecurious
 
 Although *Fast and Furious* is popular and commercially successful, it has also had a fascinating impact on car culture, automotive design and technology, and features significant representation of Black, Latine, and Asian communities. For each film, an event in the series pairs one engineering scholar and one social science or humanities scholar to discuss different aspects of the movies, building bridges between engineering and social science/humanities disciplines, delving into media literacy and film analysis, and having fun.
 
-This session will feature MC Forelle (Engineering) and Kenneth Brown (Mechanical Engineering) discussing the technology of the Fast and Furious focusing on NOS systems that feature prominently in the first film. After the talk, we'll screen the first film in the franchise, *The Fast and the Furious*.  
+This session will feature MC Forelle (Engineering) and Kenneth Brown (Mechanical Engineering) discussing the technology of the Fast and Furious focusing on NOS systems (nitrous oxide systems; provide short burst of power to racing cars) that feature prominently in the first film. After the talk, we'll screen the first film in the franchise, *The Fast and the Furious*.  
 
 Snacks provided, but [registration required beforehand](https://bit.ly/fastandthecurious) as seating will be limited.
 
