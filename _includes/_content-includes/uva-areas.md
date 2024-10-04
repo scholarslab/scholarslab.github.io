@@ -4,8 +4,7 @@
 * Nursing
 * Biology
 * Physics
-* Civil Engineering
-* Mechanical Engineering
+* Engineering (including Civil Engineering; Mechanical Engineering; Engineering & Society)
 
 #### Social sciences
 * Psychology
@@ -54,6 +53,7 @@
 * UVA First-Year Student Engineering Design Team
 * UVA Immersive group (student-run VR working group)
 * Cosplay Costuming & Crafts Club
+* Virginia Motorsports Education club (a UVA School of Engineering student org)
 * UVA English Department Annual Graduate Conference (GradCon)
 * UVA Retro Gaming Club
 * Many grant-project (e.g. UVA Biology Infectious Diseases in 3D student research team members and related classes) and project (e.g. Take Back the Acrhive project student interns) teams that include[d] UVA student collaborators
