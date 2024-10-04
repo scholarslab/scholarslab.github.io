@@ -9,11 +9,13 @@ I have always been intrigued by the process of coding. Part of this intrigue cam
  
 Recently, I have been rewatching the 2016 reboot version of the MacGyver television series which features a character named Riley who is an expert computer hacker who uses her skills to benefit the covert Phoenix Foundation. In one episode, the city of Los Angeles is under a ransomware attack by a hacker that causes a citywide blackout and takes control of a nuclear power plant that threatens the surrounding area. Upon recognizing the name N3mesis encoded within the ransomware code, Riley reveals that she helped write the code with two friends during her illicit hacking days before her work with the Phoenix, meaning one of her former friends was responsible for the attacks. 
 
-![N3MESIS Image](https://github.com/scholarslab/scholarslab.github.io/blob/GMack-Blog-2/assets/post-media/2024-10-04-Hacker-Typer.jpg)
+![N3MESIS Image](https://github.com/scholarslab/scholarslab.github.io/blob/GMack-Blog-2/assets/post-media/2024-10-04-N3MESIS.jpg)
 
 As the name N3mesis visibly appeared on the screen within the code, I had an epiphany from our conversations during the Code Lab on September 19 about how one can leave notes within the code to alert others of changes. In other similar TV shows and movies that I have watched involving coding, there have been references to messages hidden within the code that the protagonists have used to successfully confront the imminent threat or danger. Perhaps a month ago, these references to coding would have gone over my head, so it was refreshing to make connections to Praxis from popular culture. 
  
 Within television shows and movies, the image of a computer hacker features someone typing very fast, sometimes in an isolated location, and manipulating code to accomplish a task, whether for altruistic or selfish reasons, as seen in the image below. (Thanks Brandon for the introduction to HackerTyper (https://hackertyper.net/#).
+
+![Image of Random Codes on HackerTyper](https://github.com/scholarslab/scholarslab.github.io/blob/GMack-Blog-2/assets/post-media/2024-10-04-Hacker-Typer.jpg)
  
 Yet, as the exercises in writing algorithms in plain English have shown, there is a lot more involved in coding. With the tutorials to Git, GitHub, and Visual Studio Code, Shane, Jeremy, and Brandon emphasized that coding starts with the basics, learning and understanding commands like add, commit, pull, push, and reset. 
  
