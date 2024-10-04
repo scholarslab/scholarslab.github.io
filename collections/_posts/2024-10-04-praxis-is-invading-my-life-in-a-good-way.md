@@ -4,6 +4,12 @@ date: 2024-10-04
 layout: post
 slug: praxis-is-invading-my-life
 title: "Praxis is Invading My Life...In A Good Way"
+category: essay
+tags:
+- praxis
+- grad-student-research
+- code
+- about-collaboration-community
 ---
 I have always been intrigued by the process of coding. Part of this intrigue came from watching action and adventure television shows or movies that usually featured a tech person or hacker. Whether serving the interests of the protagonist(s), the antagonist(s), or sometimes both either willingly or by force, the tech person would navigate a dark screen full of numbers and letters that I now understand involves coding. 
  
