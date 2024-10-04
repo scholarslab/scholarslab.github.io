@@ -19,4 +19,4 @@ Snacks provided, but [registration required beforehand](https://bit.ly/fastandth
 
 We're delighted to co-sponsor this event with Professor MC Forelle and UVA Engineering, the Virginia Motorsports Education club (a student org in the School of Engineering), and [UVA Library Science and Engineering Research Librarian Maggie Nunley](https://library.virginia.edu/staff/mn3fa).
 
-![](/assets/post-media/events-images/2024-10-09-event-fast-and-curious-banner-image.png)
+![Banner image for the Fast and the Curious events series, showing a bright pink sports racing car, the event series title written in white graffiti-style font, and the same information listed in this webpage above](/assets/post-media/events-images/2024-10-09-event-fast-and-curious-banner-image.png)
