@@ -1,8 +1,8 @@
 ---
 first_name: Gramond
-last_name: Mcpherson
+last_name: McPherson
 layout: people
-name: Gramond Mcpherson
+name: Gramond McPherson
 slug: gramond-mcpherson
 status: current
 people-category:
