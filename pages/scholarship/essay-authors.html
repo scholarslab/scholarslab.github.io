@@ -1,0 +1,27 @@
+---
+layout: page
+title: Essay authors
+pagination:
+  enabled: true
+permalink: /essay-authors/
+regenerate: true
+---
+
+
+<section>
+<ul class="page-previous_posts">
+{% for post in site.posts  %}
+	{% if post.author %}
+		{% capture authorstring %}
+			{% include author-name.html authorid=post.author %}
+		{% endcapture %}
+	{% endif %}
+	{% if post.category == "essay" %}
+		<li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}</a></li>
+	{% endif %}
+	{% if forloop.last %}
+		</ul>
+	{% endif %}
+{% endfor %}
+</ul>
+</section>
