@@ -1,5 +1,5 @@
 ---
-author: amna-tarar
+author: amna-irfan-tarar
 date: 2024-10-03
 layout: post
 slug: god-in-binary
