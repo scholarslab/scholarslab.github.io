@@ -1,6 +1,6 @@
 ---
 author: amanda-visconti
-date: 2024-09-26
+date: 2024-10-07
 layout: post
 slug: beauty-joy-scholarly-design
 title: "The beauty of it"
