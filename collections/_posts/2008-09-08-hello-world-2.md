@@ -4,7 +4,7 @@ date: 2008-09-08 17:28:54+00:00
 layout: post
 slug: hello-world-2
 title: Hello, world!
-category: essay
+category: announcement
 tags:
 - hello-world
 ---
