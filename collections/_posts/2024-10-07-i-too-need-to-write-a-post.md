@@ -5,6 +5,9 @@ author: jeremy-boggs
 category: essay
 slug: i-too-need-to-write-a-post
 date: 2024-10-07
+tags:
+- meta-blogging
+- mental-health-and-wellbeing
 ---
 
 Or, do I? Why do I _need_ to? It's not the same as [why Drew said he needed to write a post](/blog/I-need-to-write-a-blog-post/).
