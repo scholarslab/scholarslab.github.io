@@ -6,7 +6,7 @@ end_time: '16:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:12:33+00:00
-rsvp: 0
+
 slug: gis-workshop-points-on-your-map-street-addresses-and-more-spatial-things-3
 start_date: 2017-10-10
 start_time: '15:00:00'

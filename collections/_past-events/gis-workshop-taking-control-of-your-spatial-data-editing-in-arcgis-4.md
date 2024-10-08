@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-08-22 10:46:48+00:00
-rsvp: 0
+
 slug: gis-workshop-taking-control-of-your-spatial-data-editing-in-arcgis-4
 start_date: 2018-10-17
 start_time: '14:00:00'

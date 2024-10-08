@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2014-08-25 10:36:24+00:00
-rsvp: 0
+
 slug: gis-workshop-collecting-your-own-spatial-data
 start_date: 2014-10-09
 start_time: '14:00:00'

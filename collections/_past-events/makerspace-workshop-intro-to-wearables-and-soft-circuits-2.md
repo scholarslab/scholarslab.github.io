@@ -6,7 +6,7 @@ end_time: '11:30:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2015-01-19 11:17:02+00:00
-rsvp: 0
+
 slug: makerspace-workshop-intro-to-wearables-and-soft-circuits-2
 start_date: 2015-03-18
 start_time: '10:00:00'

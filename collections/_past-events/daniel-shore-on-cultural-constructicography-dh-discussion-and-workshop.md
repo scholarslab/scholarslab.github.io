@@ -6,7 +6,7 @@ end_time: '16:30:00'
 layout: events
 location: 'Wilson Hall, Room 142'
 published-date: 2018-09-03 12:49:51+00:00
-rsvp: 0
+
 slug: daniel-shore-on-cultural-constructicography-dh-discussion-and-workshop
 start_date: 2018-09-27
 start_time: '14:30:00'

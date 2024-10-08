@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2016-03-22 11:25:45+00:00
-rsvp: 0
+
 slug: human-centered-design-workshop-paper-prototyping
 start_date: 2016-04-08
 start_time: '11:00:00'
@@ -72,23 +72,3 @@ Marcus Kossatz studies Computer Science and Media at Bauhaus-Universität Weimar
 
 
 If you have questions, visit the Scholars' Lab or email Marcus Kossatz at [marcus.kossatz@uni-weimar.de](mailto:marcus.kossatz@uni-weimar.de).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

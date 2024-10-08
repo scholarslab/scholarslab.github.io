@@ -6,7 +6,7 @@ end_time: '14:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2017-04-11 12:40:54+00:00
-rsvp: 0
+
 slug: digital-humanities-fellows-panel-luncheon
 start_date: 2017-04-26
 start_time: '10:00:00'
@@ -24,5 +24,3 @@ As a Digital Humanities Fellow in the Scholars' Lab, Nora has worked with Leafle
 **Leif Fredrickson** is a PhD candidate in history. His dissertation, titled the "The Age of Lead," examines the relationship between metropolitan development and environmental inequality. He is the Ambrose Monell Fellow in Technology and Democracy, Miller Center of Public Affairs. He was previously a Mellon Pre-Doctoral Fellow at the Digital Scholarship Lab at the University of Richmond, where he worked on the interactive historical mapping project American Panorama.
 
 As a fellow for the Scholar's Lab, Leif has been developing a website, enviro-history.com, that will be host visualizations, writing and multi-media projects related to environmental history. He is using jekyll to the build the website, and has been working on several map visualizations for the website using ArcGIS and javascript map visualization libraries.
-
-

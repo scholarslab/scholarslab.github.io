@@ -6,7 +6,7 @@ end_time: '16:00:00'
 layout: events
 location: 'Alderman Library, Room 423'
 published-date: 2018-09-06 10:58:42+00:00
-rsvp: 0
+
 slug: code-workshop-build-a-website-for-beginners-the-very-basics-of-html-and-css
 start_date: 2018-10-03
 start_time: '15:00:00'

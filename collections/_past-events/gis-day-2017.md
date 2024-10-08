@@ -6,7 +6,7 @@ end_time: '16:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:37:48+00:00
-rsvp: 0
+
 slug: gis-day-2017
 start_date: 2017-11-15
 start_time: '13:00:00'
@@ -34,16 +34,3 @@ If you have any interest in participating in the lightning round talks, please e
 
 **GIS Day Cake**
 Another great tradition continues. Please join us for the GIS Day cake unveiling and partake in the feeding frenzy.
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-03-26 13:00:41+00:00
-rsvp: 0
+
 slug: info-session-landscape-studies-initiative-summer-opportunities
 start_date: 2018-03-28
 start_time: '11:00:00'
@@ -19,16 +19,16 @@ The info session will:
 
 
 
- 	
+
   * introduce the Landscape Studies Initiative, the research team, and their 3-year project to develop a digital platform for the teaching of landscape from a transdisciplinary perspective, which emphasizes the entanglements of places, texts, images, and on-going environmental and anthropocene issues.
 
- 	
+
   * describe the employment opportunities this summer (with potential academic year extension) including roles prototyping archival api apps and 3d-4d media viewers, developing digital fieldwork protocols, and updating the project bibliography.
 
- 	
+
   * elaborate on the opportunity to join the Initiative's first fieldwork trip, to Germany (Bad Muskau, Dessau, Potsdam, and Berlin) from August 6th-17th, 2018.
 
- 	
+
   * address application details - for employment and travel.
 
 

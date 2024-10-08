@@ -6,7 +6,7 @@ end_time: '14:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2015-09-21 14:14:11+00:00
-rsvp: 0
+
 slug: makerspace-workshop-working-with-arduino-ii
 start_date: 2015-11-04
 start_time: '12:30:00'

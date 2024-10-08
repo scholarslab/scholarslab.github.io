@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2016-03-22 11:30:32+00:00
-rsvp: 0
+
 slug: human-centered-design-workshop-digital-mock-up
 start_date: 2016-04-15
 start_time: '11:00:00'
@@ -57,26 +57,3 @@ This workshop series is for everyone who wants to "create something that is usef
 
 
 If you have questions, visit the Scholars’ Lab or email Marcus Kossatz at [marcus.kossatz@uni-weimar.de](mailto:marcus.kossatz@uni-weimar.de).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
