@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2024-10-13
+date: 2024-10-14
 layout: post
 slug: what-drew-me-to-digital-pedagogy
 title: What Drew Me to Digital Pedagogy
