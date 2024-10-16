@@ -4,10 +4,9 @@ date: 2024-10-14
 layout: post
 slug: what-drew-me-to-digital-pedagogy
 title: What Drew Me to Digital Pedagogy
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/what-drew-me-to-digital-pedagogy
