@@ -6,7 +6,7 @@ end_time: '14:30:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2015-09-21 15:28:54+00:00
-rsvp: 0
+
 slug: makerspace-workshop-advanced-3d-printing-techniques
 start_date: 2015-10-14
 start_time: '13:00:00'
@@ -30,11 +30,3 @@ event-categories:
 Instructor: [Shane Lin](http://scholarslab.org/people/shane-lin/) and [Julia Schrank](http://scholarslab.org/people/julia-schrank/)
 
 If you can’t make this session but would like to learn more about 3D printing, please visit our the student consultants in our [Makerspace](http://scholarslab.org/makerspace/) or email [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu) to set up an individual appointment.
-
-
-
-
-
-
-
-

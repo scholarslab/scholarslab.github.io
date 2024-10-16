@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2016-02-16 20:03:25+00:00
-rsvp: 0
+
 slug: dh-speaker-series-sarah-bond
 start_date: 2016-03-15
 start_time: '10:00:00'
@@ -20,5 +20,3 @@ What can you do with linked data for over 35,000 ancient places, locations, and 
 At this workshop, Associate Editor Sarah Bond will introduce the _Pleiades_ community to participants. She will walk them through the history and layout of the gazetteer, discuss the popular contribution and review of our linked geodata, and then help participants make a map of sites within the ancient Mediterranean. Persons at all levels of experience (from "interested" to "expert") are welcome to participate and to contribute at no charge… just like the Pleiades project itself.
 
 This event is co-sponsored by the Corcoran Department of History, the Department of Classics and the Scholars' Lab.
-
-

@@ -16,7 +16,7 @@ category: essay
 With classes over and finals behind us, let's look back on the Spring 2012 semester with a spatial eye.  Yes, January-May was a very mappy time in the Scholars’ Lab!
 
 <figure>
-  [![](http://static.scholarslab.org/wp-content/uploads/2012/05/P1010036-766x1024.jpg)](https://scholarslab.org/digital-humanities/spatial-in-the-scholars-lab-spring-2012/attachment/olympus-digital-camera/)
+  [![](http://static.scholarslab.org/wp-content/uploads/2012/05/P1010036-766x1024.jpg)](https://scholarslab.org/blog/spatial-in-the-scholars-lab-spring-2012/attachment/olympus-digital-camera/)
   <figcaption>
 University of Virginia Library Scholars' Lab
 </figcaption>
@@ -33,7 +33,7 @@ Though our workshops have been popular for many semesters, we shook it up this s
 
 For all 24 workshops, folks turned out from across disciplines, asked lots of questions, shared their mappy stories, and learned new skills after a hands-on hour.  Later this summer we'll announce our Fall 2012 workshop series.
 
-[![](http://static.scholarslab.org/wp-content/uploads/2012/05/IMG_9164-1024x768.jpg)](https://scholarslab.org/digital-humanities/spatial-in-the-scholars-lab-spring-2012/attachment/img_9164/)
+[![](http://static.scholarslab.org/wp-content/uploads/2012/05/IMG_9164-1024x768.jpg)](https://scholarslab.org/blog/spatial-in-the-scholars-lab-spring-2012/attachment/img_9164/)
 
 
 ## Classes
@@ -42,7 +42,7 @@ For all 24 workshops, folks turned out from across disciplines, asked lots of qu
 Like us, students get excited when they see their datasets come alive on a map.  Some of our best experiences working with geospatial resources in the Scholars’ Lab come from collaborations with faculty to develop specialized training for their courses.  American Studies, Architecture, English Criticism, Urban Planning, Environmental Science…we worked with them all this spring.  Check our whiteboard again and on the right side you’ll see some of our Spring 2012 faculty partnerships.  Now we’re meeting with faculty to prepare for Fall 2012.
 
 <figure>
-  [![](http://static.scholarslab.org/wp-content/uploads/2012/05/amst-1024x702.jpg)](https://scholarslab.org/digital-humanities/spatial-in-the-scholars-lab-spring-2012/attachment/amst/)
+  [![](http://static.scholarslab.org/wp-content/uploads/2012/05/amst-1024x702.jpg)](https://scholarslab.org/blog/spatial-in-the-scholars-lab-spring-2012/attachment/amst/)
   <figcaption>
 Spring 2012 American Studies 3559 - Mapping Shantytowns
 </figcaption>

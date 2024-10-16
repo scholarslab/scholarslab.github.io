@@ -5,6 +5,8 @@ layout: post
 slug: hello-world-2
 title: Hello, world!
 category: announcement
+tags:
+- hello-world
 ---
 
 I'm here to cut the ribbon on the [Scholars' Lab](https://scholarslab.org/index.html) blog.

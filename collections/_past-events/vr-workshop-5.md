@@ -6,7 +6,7 @@ end_time: '18:00:00'
 layout: events
 location: 'Clemons Library, Robertson Media Center, VizLab & Immersive Space'
 published-date: 2018-08-30 09:50:08+00:00
-rsvp: 0
+
 slug: vr-workshop-5
 start_date: 2018-10-30
 start_time: '16:00:00'

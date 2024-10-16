@@ -6,7 +6,7 @@ end_time: '17:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2015-04-03 16:13:12+00:00
-rsvp: 0
+
 slug: dh-speaker-series-david-mimno-on-hunting-for-topics
 start_date: 2015-04-16
 start_time: '15:30:00'

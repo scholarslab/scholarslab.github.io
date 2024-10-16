@@ -6,7 +6,7 @@ end_time: '16:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:55:25+00:00
-rsvp: 0
+
 slug: scholars-lab-fall-symposium-kari-kraus-daniela-rosner
 start_date: 2017-11-03
 start_time: 09:30:00
@@ -33,8 +33,3 @@ Through discussion, scenario building, and prototyping, we’ll investigate four
 The project centers on an electronic quilt that materializes the work of early core memory weavers (see description here: http://makingcorememory.com). During the workshops I hand out "patch kits" made of a board loom, conductive fabric, yarn, and beads (in place of the original wire and ferrite cores). After people weave their patches, they plug their patches into the electronic textile quilt to unlock our archive of first-hand accounts of core memory production. The quilt plays audio clips from our archive and tweets from our @lolweavers account. I developed the project with the hope of examining the forms of gendered craftwork and its valuation as technical work over time -- exploring and to some extent challenging the prevailing purification of high status cognitive labor associated with male engineers from the ostensibly unthinking and unskilled practices of women’s hands.
 
 **Daniela Rosner** is an Assistant Professor in Human Centered Design & Engineering (HCDE) at the University of Washington. Her research investigates the social, political, and material circumstances of technology development, with an emphasis on foregrounding marginalized histories of practice, from maintenance to needlecraft. She has worked in design research at Microsoft Research, Adobe Systems, Nokia Research and as an exhibit designer at several museums, including the Adler Planetarium and Astronomy Museum.
-
-
-
-
-

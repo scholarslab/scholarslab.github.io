@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-08-22 10:53:11+00:00
-rsvp: 0
+
 slug: gis-workshop-introduction-to-arcgis-pro
 start_date: 2018-11-07
 start_time: '14:00:00'

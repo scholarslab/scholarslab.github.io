@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2017-01-31 11:56:19+00:00
-rsvp: 0
+
 slug: spring-gis-workshop-series
 start_date: 2017-02-01
 start_time: '14:00:00'

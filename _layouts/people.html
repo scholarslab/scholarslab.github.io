@@ -80,9 +80,11 @@ layout: default
 		<section id="posts">
 			<h2>Research Posts & Lab Updates for {{ page.first_name }}</h2>
 			<ul>
-			{% for post in author_posts %}
-				<li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%m/%d/%Y" }}</li>
-			{% endfor %}
+				{% for post in author_posts %}
+					{% if post.category != "announcement" %}
+						<li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%m/%d/%Y" }}</li>
+					{% endif %}
+				{% endfor %}
 			</ul>
 	{% endif %}
 {% endif %}

@@ -6,7 +6,7 @@ end_time: '16:00:00'
 layout: events
 location: 'Scholars&#039; Lab Common Room'
 published-date: 2016-09-09 11:50:52+00:00
-rsvp: 0
+
 slug: access-evolving-methods-in-making-cultural-heritage-accessible-neh50
 start_date: 2016-09-15
 start_time: '13:00:00'

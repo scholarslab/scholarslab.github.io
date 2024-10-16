@@ -4,6 +4,13 @@ date: 2024-10-03
 layout: post
 slug: ethics-of-eighteenth-century
 title: "The Ethics of Teaching Pornography from the Eighteenth Century"
+category: essay
+tags:
+- hello-world
+- praxis
+- grad-student-research
+- literature
+- pedagogy
 ---
 Last semester, I presented a paper on what I call the “Great Lesbian Panic of Eighteenth-Century France”. As part of my presentation, I chose to show an engraving from Sade’s Juliette ou les prospérités du vice, in which several lesbian couples are having sex on a stage, performing in front of a man sexually stimulated by the spectacle. Because I did not want to potentially unsettle people with pornography – even if that pornography is from the late eighteenth-century – I chose to use my great editing skills and went on Paint to add lavender-coloured circles on the characters’ genitalia. Let me just say that there were quite a lot of circles on this engraving. 
 

@@ -1,9 +1,9 @@
-* Monticello
+* Thomas Jefferson's Monticello
 * [Mountain Lake Biological Station](/work/mlbs)
 * Charlottesville city monuments
 * Poplar Forest
-* Villa la Rotonda (Italy)
-* Montpelier Descendants Committee & Montpelier Archaeology Lab
+* Villa la Rotonda (Vicenza, Italy)
+* Montpelier Descendants Committee & Montpelier Archaeology Lab (at James Madison's Montpelier)
 * Arcola Former Enslaved Quarter (Loudon County, VA)
 * Bremo Plantation, Enslaved Cooking Spaces and Chapel (Fluvanna County, VA)
 * Pine Grove Rosenwald School (Cumberland County, Va)

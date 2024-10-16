@@ -6,7 +6,7 @@ end_time: '12:30:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-11-07 10:50:37+00:00
-rsvp: 0
+
 slug: cartographers-still-exist-with-riley-d-champine
 start_date: 2018-11-16
 start_time: '11:30:00'

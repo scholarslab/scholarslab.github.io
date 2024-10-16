@@ -6,7 +6,7 @@ end_time: '21:00:00'
 layout: events
 location: 'OpenGrounds'
 published-date: 2017-01-16 17:21:34+00:00
-rsvp: 0
+
 slug: reading-booksigning-miriam-suzanne
 start_date: 2017-01-23
 start_time: '19:00:00'

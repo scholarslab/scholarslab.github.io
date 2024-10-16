@@ -6,7 +6,7 @@ end_time: '13:00:00'
 layout: events
 location: 'Alderman Library, Room 423'
 published-date: 2018-09-06 11:05:00+00:00
-rsvp: 0
+
 slug: makerspace-workshop-hack-your-pants-make-your-pockets-fit-your-phone-2
 start_date: 2018-11-07
 start_time: '12:00:00'

@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-08-22 10:43:32+00:00
-rsvp: 0
+
 slug: gis-workshop-getting-your-data-on-a-map-6
 start_date: 2018-10-03
 start_time: '14:00:00'

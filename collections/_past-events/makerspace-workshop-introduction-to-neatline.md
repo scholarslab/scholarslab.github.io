@@ -6,7 +6,7 @@ end_time: '14:30:00'
 layout: events
 location: 'Alderman Library, Room 423'
 published-date: 2015-09-15 13:01:51+00:00
-rsvp: 0
+
 slug: makerspace-workshop-introduction-to-neatline
 start_date: 2015-09-30
 start_time: '13:00:00'

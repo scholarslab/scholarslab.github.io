@@ -6,7 +6,7 @@ end_time: 00:00:00
 layout: events
 location: 'Brown Library, Rm. 133, Clark Hall'
 published-date: 2017-01-17 09:42:58+00:00
-rsvp: 0
+
 slug: research-data-services-spring-workshops
 start_date: 2017-01-24
 start_time: 00:00:00
@@ -28,7 +28,3 @@ Topic Modeling in R
 Introduction to R Markdown**
 
 For more information and to register, please see Research Data Services' [workshops](http://data.library.virginia.edu/training/) page.
-
-
-
-
