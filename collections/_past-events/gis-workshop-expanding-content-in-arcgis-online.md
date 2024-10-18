@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2017-08-29 06:25:29+00:00
-rsvp: 0
+
 slug: gis-workshop-expanding-content-in-arcgis-online
 start_date: 2017-11-07
 start_time: '15:00:00'

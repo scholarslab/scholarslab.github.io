@@ -6,7 +6,7 @@ end_time: '11:30:00'
 layout: events
 location: 'Scholars&#039; Lab Common Room'
 published-date: 2018-08-28 14:43:30+00:00
-rsvp: 0
+
 slug: scholars-lab-open-office-hours-2-2018-10-17
 start_date: 2018-10-17
 start_time: '10:00:00'

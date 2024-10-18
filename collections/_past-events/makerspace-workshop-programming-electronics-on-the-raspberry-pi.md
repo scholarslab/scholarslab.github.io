@@ -6,7 +6,7 @@ end_time: '14:00:00'
 layout: events
 location: 'Alderman Library, Room 423'
 published-date: 2018-09-06 10:50:48+00:00
-rsvp: 0
+
 slug: makerspace-workshop-programming-electronics-on-the-raspberry-pi
 start_date: 2018-10-11
 start_time: '13:00:00'

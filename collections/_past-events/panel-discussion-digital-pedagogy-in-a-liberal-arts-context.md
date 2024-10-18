@@ -6,7 +6,7 @@ end_time: '11:30:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2016-10-18 19:41:42+00:00
-rsvp: 0
+
 slug: panel-discussion-digital-pedagogy-in-a-liberal-arts-context
 start_date: 2016-10-26
 start_time: '10:00:00'

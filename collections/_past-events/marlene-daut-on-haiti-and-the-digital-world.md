@@ -6,7 +6,7 @@ end_time: '17:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2017-01-11 16:25:35+00:00
-rsvp: 0
+
 slug: marlene-daut-on-haiti-and-the-digital-world
 start_date: 2017-01-18
 start_time: '15:30:00'
@@ -20,4 +20,3 @@ In the spirit of Papa Legba (a Haitian _lwa_ who acts as an arbiter between the 
 Dr. Marlene Daut is an Associate Professor of African Diaspora Studies, Carter G. Woodson Institute for African-American and African Studies, American Studies at the University of Virginia.
 
 This talk, co-sponsored by the Carter G. Woodson Institute and the Scholars' Lab, is free and open to the public.
-

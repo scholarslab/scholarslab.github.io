@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 423'
 published-date: 2018-02-06 14:14:59+00:00
-rsvp: 0
+
 slug: programming-on-the-raspberry-pi
 start_date: 2018-04-26
 start_time: '14:00:00'

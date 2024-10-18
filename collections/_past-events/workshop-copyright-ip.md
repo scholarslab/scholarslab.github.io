@@ -6,7 +6,7 @@ end_time: '15:30:00'
 layout: events
 location: 'Alderman Library, Room 423'
 published-date: 2016-09-09 11:57:49+00:00
-rsvp: 0
+
 slug: workshop-copyright-ip
 start_date: 2016-09-28
 start_time: '14:00:00'

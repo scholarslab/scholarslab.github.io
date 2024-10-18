@@ -6,7 +6,7 @@ end_time: '11:30:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2014-10-14 09:41:14+00:00
-rsvp: 0
+
 slug: dh-speaker-series-kari-kraus-on-humanistic-design
 start_date: 2014-10-20
 start_time: '10:00:00'
@@ -23,6 +23,6 @@ _Kari Kraus is an associate professor in the College of Information Studies and 
 
 
 
-    
+
     [1] Qtd. in Kevin Kelly, What Technology Wants (New York: Viking, 2010) 45.
     [2] Jin-min Seok, et al., "Non-Finito Products: A New Design Space of User Creativity for Personal User Experience," CHI 2014, Toronto Canada.

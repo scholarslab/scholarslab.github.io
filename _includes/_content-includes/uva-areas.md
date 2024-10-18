@@ -4,7 +4,7 @@
 * Nursing
 * Biology
 * Physics
-* Engineering (including Civil Engineering; Mechanical Engineering; Engineering & Society)
+* Engineering (including Civil Engineering; Mechanical & Aerospace Engineering; Engineering & Society)
 
 #### Social sciences
 * Psychology

@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2017-01-31 11:51:41+00:00
-rsvp: 0
+
 slug: african-studies-colloquium-series-angel-nieves-henry-lovejoy
 start_date: 2017-02-24
 start_time: '10:00:00'

@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Wilson Hall, Room 133'
 published-date: 2017-08-29 06:33:33+00:00
-rsvp: 0
+
 slug: dhuva-workshop-network-analysis-with-scott-weingart
 start_date: 2017-08-31
 start_time: 09:00:00

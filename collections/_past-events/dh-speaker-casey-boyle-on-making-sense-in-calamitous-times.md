@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-03-26 13:16:22+00:00
-rsvp: 0
+
 slug: dh-speaker-casey-boyle-on-making-sense-in-calamitous-times
 start_date: 2018-03-29
 start_time: '11:00:00'
