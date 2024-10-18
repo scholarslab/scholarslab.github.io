@@ -7,9 +7,9 @@ nav: false
 
 **Applications now open for the 2025-2026 Digital Humanities Fellowship. Find More Details Below.**
 
-The application deadline for fellowships to be held during the 2025-2026 academic year is **February 15th, 2026**. More details on how to apply at the end of this page. 
+The application deadline for fellowships to be held during the 2025-2026 academic year is **February 15th, 2025**. More details on how to apply at the end of this page. 
 
-If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2025-2026 cohort - **TBD FILL IN Zoom.** Please [register](TBD FILL IN) to attend. You are, of course, encouraged to write for an individual meeting to discuss your application so that you can begin your application.
+If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2025-2026 cohort - **January 15, 2025 from 1:00-2:00PM.** Please [register](https://cal.lib.virginia.edu/event/13365703) to attend. You are, of course, encouraged to write for an individual meeting to discuss your application so that you can begin your application.
 
 The Digital Humanities Fellowship supports advanced doctoral students doing innovative work in the digital humanities at the University of Virginia. The Scholars’ Lab offers Grad Fellows advice and assistance with the creation and analysis of digital content, as well as consultation on intellectual property issues and best practices in digital scholarship and DH software development. The highly competitive Graduate Fellowship in Digital Humanities is designed to advance the humanities and provide emerging digital scholars with an opportunity for growth.
 
