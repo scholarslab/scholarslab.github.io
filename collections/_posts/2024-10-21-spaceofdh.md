@@ -1,6 +1,6 @@
 ---
 author: oriane-guiziou-lamour
-date: 2024-10-16
+date: 2024-10-21
 layout: post
 slug: spaceofdh
 title: "The space of DH as intention"
