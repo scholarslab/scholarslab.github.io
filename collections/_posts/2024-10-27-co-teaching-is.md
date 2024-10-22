@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2024-09-27
+date: 2024-10-27
 layout: post
 slug: co-teaching-is
 title: Co-teaching Is
