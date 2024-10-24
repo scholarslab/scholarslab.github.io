@@ -13,23 +13,13 @@ order: 3
 	<p>All humans are dreamers, creators, and achievers. Our mission is to provide the place, the tools, and the support to empower people to dream, create and achieve. The Scholars' Lab Makerspace is strategically situated within the UVA Library to be open, provide a low barrier of entry to making, and be a helpful resource of information, technology and support. Our space is open to everyone, including the public, and proactively encourages those in underrepresented academic studies, ethnicities, genders, economic classes and skill levels to come learn, make, and research.</p>
     <p>The Makerspace staff provides consultations and instruction for all your electronics, crafting, textiles, laser cutting, and 3D printing projects <a href="https://www.library.virginia.edu/hours/">whenever the Makerspace is open</a>, or by appointment. Please drop in, or send inquiries to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>.</p>
 	<p>Or schedule a consultation with Ammon, manager of our Makerspace.</p>
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 	<script>
-		jQuery.getScript("https://cal.lib.virginia.edu/js/myscheduler.min.js",
-        function () {
-			jQuery("#mysched_41069").LibCalMySched({
-			iid: 863,
-          	lid: 0,
-           	gid: 0,
-           	uid: 41069,
-           	width: 560,
-            height: 680,
-           	title: "Make an Appointment - ",
-			domain: "https://cal.lib.virginia.edu",
-			})
-		}
-		)
-    </script>
-    <button class="makerspace-button" id="mysched_41069" href="#">Schedule Appointment</button>
+		jQuery.getScript("https://cal.lib.virginia.edu/js/myscheduler.min.js", function() {
+			jQuery("#mysched_41069").LibCalMySched({iid: 863, lid: 0, gid: 0, uid: 41069, width: 560, height: 680, title: 'Schedule Appointment', domain: 'https://cal.lib.virginia.edu'});
+		});
+	</script>
+	<button class="makerspace-button" id="mysched_41069" href="#">Schedule Appointment</button>
 </section> <!-- ends .makerspace-mission-vision-top -->
 
 <section class="hours-and-location">
