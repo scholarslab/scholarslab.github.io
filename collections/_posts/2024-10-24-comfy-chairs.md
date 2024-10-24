@@ -1,6 +1,6 @@
 ---
-author: Kristin-Hauge
-date: 2024-10-08
+author: kristin-hauge
+date: 2024-10-24
 layout: post
 slug: comfy-chairs
 title: "One month of Praxis (or, the joy of comfy chairs!)"
