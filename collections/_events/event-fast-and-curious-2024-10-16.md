@@ -13,7 +13,7 @@ rsvp: https://cal.lib.virginia.edu/event/13296528
 
 Although *Fast and Furious* is popular and commercially successful, it has also had a fascinating impact on car culture, automotive design and technology, and features significant representation of Black, Latine, and Asian communities. For each film, an event in the series pairs one engineering scholar and one social science or humanities scholar to discuss different aspects of the movies, building bridges between engineering and social science/humanities disciplines, delving into media literacy and film analysis, and having fun.
 
-This session will feature [Robin Means Coleman](https://mediastudies.as.virginia.edu/people/robin-means-coleman) (Media Studies) and [Aldo Gargiulo](https://postdoc.virginia.edu/postdoc-directory/aldo-gargiulo) (Mechanical and Aerospace Enginereing). After the talk, we'll screen the second film in the franchise, 2 Fast 2 Furious.  
+This session will feature [Robin Means Coleman](https://mediastudies.as.virginia.edu/people/robin-means-coleman) (Media Studies) and [Aldo Gargiulo](https://postdoc.virginia.edu/postdoc-directory/aldo-gargiulo) (Mechanical and Aerospace Engineering). After the talk, we'll screen the second film in the franchise, 2 Fast 2 Furious.  
 
 Snacks provided, but [registration required beforehand](https://cal.lib.virginia.edu/event/13296528) as seating will be limited.
 

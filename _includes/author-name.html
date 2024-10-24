@@ -6,7 +6,12 @@
   {% assign people = site.people | where: 'slug', author %}
   {% if people.size > 0 %}
   {% for person in people %}
-  <a href="{{ site.baseurl }}/people/{{ person.slug }}/">{{ person.title }}</a>,
+  {% if person.name %}
+  {% assign person_name = person.name %}
+  {% else %}
+  {% assign person_name = person.title %}
+  {% endif %}
+  <a href="{{ site.baseurl }}/people/{{ person.slug }}/">{{ person_name }}</a>,
   {% endfor %}
   {% else %}
   {{ author }},
