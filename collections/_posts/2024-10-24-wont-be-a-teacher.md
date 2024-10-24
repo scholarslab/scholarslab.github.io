@@ -1,6 +1,6 @@
 ---
-author: winnie-perez-martinez
-date: 2024-10-21
+author: winnie-pérez-martínez
+date: 2024-10-24
 layout: post
 slug: wont-be-a-teacher
 title: "I Respecfully Refuse to Be a Teacher"
