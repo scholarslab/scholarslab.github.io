@@ -3,7 +3,7 @@ author: winnie-pérez-martínez
 date: 2024-10-24
 layout: post
 slug: wont-be-a-teacher
-title: "I Respecfully Refuse to Be a Teacher"
+title: "I Respectfully Refuse to Be a Teacher"
 summary: "A reflection on the value of teaching within the 21st-century academia, from a grad student/'s viewpoint."
 category: essay
 tags:
