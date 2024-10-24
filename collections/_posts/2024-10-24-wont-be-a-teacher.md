@@ -7,9 +7,11 @@ title: "I Respectfully Refuse to Be a Teacher"
 summary: "A reflection on the value of teaching within the 21st-century academia, from a grad student/'s viewpoint."
 category: essay
 tags:
-- teaching
 - pedagogy
 - academia
+- grad-student-research
+- praxis
+- learning-experience
 ---
 
 I sit uncomfortably with teaching each time we face each other—quite the predicament for a PhD candidate still considering committing to academic life, I know. It’s taken me years to write this sentence, too, partly because I never imagined myself as a teacher, but also because grad students are strongly advised against prioritizing teaching. Scholars of the tenured kind should be researching, publishing, applying for grants, attending key conferences, serving on committees, planning research trips, and then, yes, teaching. Both the urgency and priority of these activities are not entirely up to individual faculty, always caught between the never-ending list of tasks on their path to tenure, and their own vocational commitments to the profession. Unfortunately, this confusing, deeply individualistic, and oftentimes contradicting working environment is the one inherited by graduate students to parse, survive, and make their own.
