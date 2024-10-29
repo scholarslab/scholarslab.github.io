@@ -2,7 +2,7 @@
 start_date: 2024-10-21
 layout: events
 title: 'Makerspace Workshop: Computer-Aided Design with SolidWorks'
-slug: makerspace-workshop-clay-phone-hippers-2024-11-17
+slug: makerspace-workshop-cad-2024-10-21
 ---
 Computer-aided design (CAD) is indispensible in the engineering industry, and we'll explore some of its applications and the process that engineers use to transform an idea into reality. We will be using SolidWorks to get acquainted with some common design tools in CAD. No experience is required!
 

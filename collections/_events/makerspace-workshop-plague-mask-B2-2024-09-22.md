@@ -2,7 +2,7 @@
 start_date: 2024-09-22
 layout: events
 title: 'Makerspace Workshop: CCC Club Plague Doctor Mask Workshop Session B Part II'
-slug: makerspace-workshop-plague-mask-B2-2024-09-22
+slug: makerspace-workshop-plague-mask-b2-2024-09-22
 ---
 (This is Part 2 of a Workshop Series. Please do not sign up if you have not came to Part I or contacted the Cosplay Cosuming & Crafts Club beforehand)
 
