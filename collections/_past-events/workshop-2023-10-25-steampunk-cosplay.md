@@ -5,7 +5,7 @@ start_date: 2023-10-25
 end_date: 2023-10-25
 start_time: "12:00"
 end_time: "16:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-10-25-steampunk-cosplay
 title: "Steampunk Cosplay Workshop"

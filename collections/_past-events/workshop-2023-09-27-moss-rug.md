@@ -5,7 +5,7 @@ start_date: 2023-09-27
 end_date: 2023-09-27
 start_time: "15:00"
 end_time: "18:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-09-27-moss-rug
 title: "Make a Moss Rug"

@@ -4,7 +4,7 @@ start_date: 2022-10-14
 end_date: 2022-10-14
 start_time: "13:00"
 end_time: "16:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-10-14-hollow-book-safe
 title: "Hollow Book Safe"

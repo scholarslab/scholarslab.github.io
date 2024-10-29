@@ -4,7 +4,7 @@ start_time: '14:00'
 end_time: '15:00'
 layout: events
 title: 'Makerspace Workshop: Clay Phone Hippers Workshop!'
-slug: makerspace-workshop-lasercutting-2024-11-25
+slug: makerspace-workshop-clay-phone-hippers-2024-11-17
 location: Shannon 308i (Scholars' Lab Makerspace)
 rsvp: https://cal.lib.virginia.edu/event/13333589
 ---

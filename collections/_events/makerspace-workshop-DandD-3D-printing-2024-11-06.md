@@ -3,9 +3,9 @@ start_date: 2024-11-06
 start_time: '11:00'
 end_time: '14:00'
 layout: events
-title: 'Makerspace Workshop: Dungeons & Dragons Print Workshop and 3D Printer Training'
+title: "Makerspace Workshop: Dungeons & Dragons Print Workshop and 3D Printer Training"
 slug: makerspace-workshop-DandD-3D-printing-2024-11-06
-location: Shannon 308i (Scholars' Lab Makerspace)
+location: "Shannon 308i (Scholars' Lab Makerspace)"
 Instrutor: Hunter Zoller
 rsvp: https://cal.lib.virginia.edu/event/13373676
 ---

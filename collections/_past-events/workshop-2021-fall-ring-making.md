@@ -4,7 +4,7 @@ start_date: 2021-09-24
 end_date: 2021-09-24
 start_time: "16:00:00"
 end_time: "17:00:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank (Clemons 3rd floor)"
 slug: workshop-2021-fall-ring-making
 title: "Ring Making Workshop"

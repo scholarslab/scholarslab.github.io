@@ -4,7 +4,7 @@ start_date: 2022-04-28
 end_date: 2022-04-28
 start_time: "13:00"
 end_time: "14:30"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-04-28-make-a-website
 title: "Make a Website"

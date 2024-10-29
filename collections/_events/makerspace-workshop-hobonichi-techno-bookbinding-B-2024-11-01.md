@@ -3,9 +3,9 @@ start_date: 2024-11-01
 start_time: '12:00'
 end_time: '15:00'
 layout: events
-title: 'Makerspace Workshop: Make Your Own Hobonichi Techno (Beginner Bookbinding)'
+title: "Makerspace Workshop: Make Your Own Hobonichi Techno (Beginner Bookbinding)"
 slug: makerspace-workshop-hobonichi-techno-bookbinding-B-2024-11-01
-location: Shannon 308i (Scholars' Lab Makerspace)
+location: "Shannon 308i (Scholars' Lab Makerspace)"
 Instructor: Leah Phan
 rsvp: https://cal.lib.virginia.edu/event/13232619
 ---

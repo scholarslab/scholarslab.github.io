@@ -3,8 +3,8 @@ start_date: 2024-11-25
 start_time: '14:00:00'
 end_time: '15:30:00'
 layout: events
-location: Shannon 308i (Scholars' Lab Makerspace)
-title: 'Makerspace Workshop: Laser Cutting Workshop'
+location: "Shannon 308i (Scholars' Lab Makerspace)"
+title: "Makerspace Workshop: Laser Cutting Workshop"
 slug: makerspace-workshop-lasercutting-2024-11-25
 Instructor: Ammon Shepherd
 rsvp: https://cal.lib.virginia.edu/event/13192415

@@ -4,7 +4,7 @@ start_date: 2022-02-22
 end_date: 2022-02-22
 start_time: "13:30"
 end_time: "15:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-02-22-raspberry-pi
 title: "Raspberry Pi Basics"

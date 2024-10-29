@@ -5,7 +5,7 @@ start_date: 2024-02-28
 end_date: 2024-02-28
 start_time: "13:00"
 end_time: "15:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab Makerspace - Alderman 308i"
 slug: workshop-2024-02-28-python
 title: "Python on the Raspberry Pi"

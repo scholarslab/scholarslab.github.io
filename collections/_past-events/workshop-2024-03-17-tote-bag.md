@@ -5,7 +5,7 @@ start_date: 2024-03-17
 end_date: 2024-03-17
 start_time: "15:00"
 end_time: "17:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab Makerspace - Alderman 308i"
 slug: workshop-2024-03-17-tote-bag
 title: "Tote Bag Workshop"
