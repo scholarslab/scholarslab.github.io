@@ -4,7 +4,7 @@ start_date: 2022-02-07
 end_date: 2022-02-12
 start_time: ""
 end_time: ""
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-spring-event-valentines
 title: "Valentine's Day"

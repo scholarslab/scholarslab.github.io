@@ -4,7 +4,7 @@ start_date: 2021-11-17
 end_date: 2021-11-17
 start_time: "11:30"
 end_time: "13:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2021-11-17-raspberry-pi-introduction
 title: "Raspberry Pi Basics"

@@ -11,6 +11,7 @@ tags:
 - code
 - dataset
 - social-sciences
+- hello-world
 ---
 
 I’m a historian who is currently designing and/or building four databases.  As I work through the complexities of each project, I’m struck by two thoughts.

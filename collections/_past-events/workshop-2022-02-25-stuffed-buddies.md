@@ -4,7 +4,7 @@ start_date: 2022-02-25
 end_date: 2022-02-25
 start_time: "12:00"
 end_time: "13:30"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-02-25-stuffed-buddies
 title: "Stuffed Buddies Workshop"

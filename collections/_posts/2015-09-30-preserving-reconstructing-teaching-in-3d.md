@@ -12,7 +12,7 @@ tags:
 - makerspace
 - 3d-modeling
 - photogrammetry
-- 3d printing
+- 3dprinting
 - architecture
 crosspost:
   - title: my personal blog

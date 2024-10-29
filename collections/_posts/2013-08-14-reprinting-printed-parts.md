@@ -7,7 +7,7 @@ title: Reprinting Printed Parts
 category: essay
 tags:
 - makerspace
-- 3d printing
+- 3dprinting
 ---
 
 As some of you know, the Scholars' Lab has a spiffy 3D printer, a [Makerbot](http://makerbot.com) Replicator 2. We've had fun with it, printing all sorts of wonderful things. As time went on and we continued using it, we ran into a problem [plenty of other folks encountered](http://support.makerbot.com/entries/22871743-Replicator-2-stops-extruding-either-starts-clicking-or-silently-stops-), where the plunger that pushes filament against the drive gear was weakening. The first solution we tried was [tightening up the plunger](http://www.youtube.com/watch?v=QOJN_8AAC9U), but we'd have to do this frequently. A better solution was to print a new set of parts&mdash;a [spring-loaded arm](http://www.thingiverse.com/thing:53125) and mount&mdash;to replace the plunger. So I ordered up the [hardware I'd need](http://store.makerbot.com/drive-block-hardware-kit.html) (spring, bearing, and bolts), and when those arrived in the mail, I printed the arm and other parts, disassembled the drive block on the printer, and replaced the plunger with new spring-loaded arm. You can see the [fully-assembled drive block](http://www.thingiverse.com/make:38003) in my made stuff on [Thingiverse](http://thingiverse.com). After I put the drive block back on the printer, I could tell an immediate difference in the prints. The plastic was extruding more smoothly than before. Loading the filament was a tiny bit trickier, but well worth it.

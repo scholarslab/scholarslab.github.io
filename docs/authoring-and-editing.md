@@ -438,7 +438,7 @@ You can link to an image hosted anywhere, but to upload and link an image:
 
 ![docs-upload-file](/docs/docs-images/docs-upload-file.png)
 
-1. Your image is now located in our repo, in assets > post-media folder. To get its URL, right-click on the filename and choose "copy link address". (You can also click on the filename, then right-click on the image and choose "Copy Image Address".) Use the instructions above to embed the image in your post.
+1. Your image is now located in our repo, in assets > post-media folder. To get its URL, right-click on the filename and choose "copy link address". (You can also click on the filename, then right-click on the image and choose "Copy Image Address".) Use the instructions above to embed the image in your post. When you follow this process, however, the image URL will be tied to the specific branch you are on. To get a persistent URL, you will need to modify the given URL slightly by deleting everything before "/assets" in the URL. For example: "https://github.com/scholarslab/scholarslab.github.io/blob/GMack-Blog-2/assets/post-media/2024-10-04-N3MESIS.jpg" should become "/assets/post-media/2024-10-04-N3MESIS.jpg."
 
 #### Bold
 

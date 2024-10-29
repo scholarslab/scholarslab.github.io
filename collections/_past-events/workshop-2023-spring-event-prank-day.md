@@ -5,7 +5,7 @@ start_date: 2023-03-26
 end_date: 2023-03-31
 start_time: ""
 end_time: ""
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-spring-event-prank-day
 title: "April Fools' Make-a-Prank"

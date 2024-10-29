@@ -6,7 +6,7 @@ slug: adventures-in-3d-printer-maintenance
 title: Adventures in 3D Printer Maintenance
 category: essay
 tags:
-- 3d printing
+- 3dprinting
 - makerspace
 ---
 

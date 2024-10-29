@@ -5,7 +5,7 @@ start_date: 2023-02-12
 end_date: 2023-02-14
 start_time: ""
 end_time: ""
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-spring-event-valentines
 title: "Valentine's Day"

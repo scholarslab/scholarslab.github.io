@@ -6,7 +6,7 @@ end_time: '15:30:00'
 layout: events
 location: 'Clemons Library, Room 407'
 published-date: 2018-09-13 13:52:08+00:00
-rsvp: 0
+
 slug: paul-fyfe-on-past-and-presentism-how-computers-see-victorian-periodicals-2
 start_date: 2018-09-21
 start_time: '14:00:00'

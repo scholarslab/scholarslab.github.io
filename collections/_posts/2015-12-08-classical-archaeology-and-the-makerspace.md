@@ -10,6 +10,7 @@ tags:
 - makerspace
 - pedagogy
 - archaeology
+- expansive-makerspace
 crosspost:
   - title: my personal blog
     url: http://jennifergrayburn.com/2015/12/08/classical-archaeology-and-the-makerspace/

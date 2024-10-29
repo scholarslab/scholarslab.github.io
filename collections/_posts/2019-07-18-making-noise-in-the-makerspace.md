@@ -7,6 +7,7 @@ title: Making Noise In The Makerspace
 category: essay
 tags:
 - makerspace
+- expansive-makerspace
 - music-and-sound
 ---
 *Crossposted to [my personal blog](http://walshbr.com/blog/making-noise-in-the-makerspace/)*

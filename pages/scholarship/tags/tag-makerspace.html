@@ -1,0 +1,39 @@
+---
+layout: page
+title: 'All "Expansive Makerspace" posts'
+permalink: /tags/expansive-makerspace/
+regenerate: true
+---
+
+<p>This page collects posts that take an expansive definition to makerspace work, including making and crafting methods like art, textiles, and jewelry-making.</p>
+
+<p>(<em>To see all our makerspace-related posts—including more standard makerspace methods including electronics, 3D printing, etc.—visit our <a href="/tags/makerspace/">makerspace tag page</a>.</em>)</p>
+</p>
+
+<section id="all-updates">
+<h2>"Expansive Makerspace" posts</h2>
+<ul class="page-previous_posts">
+	{% for post in site.tags.expansive-makerspace %}
+{% if post.author %}
+		{% capture authorstring %}
+			{% include author-name.html authorid=post.author %}
+		{% endcapture %}
+	{% endif %}
+	{% assign currentdate = post.date | date: "%Y" %}
+	{% if currentdate != date %}
+		{% unless forloop.first %}</ul>{% endunless %}
+		<ul>
+		{% assign date = currentdate %}
+	{% endif %}
+	{% if post.category != "update" %}
+		<li><a href="{{ post.url }}">"{{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}"</a> by {{ authorstring | strip }}</li>
+	{% else %}
+		<li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }}
+		update: {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
+	{% endif %}
+	{% if forloop.last %}
+		</ul>
+	{% endif %}
+	{% endfor %}
+</ul>
+</section>

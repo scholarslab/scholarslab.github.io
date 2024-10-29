@@ -7,6 +7,7 @@ title: 'Inktober 10/13: Time Pieces and Graphs'
 category: essay
 tags:
 - grad-student-research
+- praxis
 - clockwork
 - labor
 crosspost:

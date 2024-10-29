@@ -5,7 +5,7 @@ start_date: 2023-10-05
 end_date: 2023-10-05
 start_time: "16:00"
 end_time: "20:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-10-05-sticker-seminar
 title: "Sticker Seminar"

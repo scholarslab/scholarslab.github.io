@@ -4,7 +4,7 @@ start_date: 2021-10-25
 end_date: 2021-10-29
 start_time: "11:00:00"
 end_time: "17:00:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2021-fall-event-halloween
 title: "Halloween Craft Event"

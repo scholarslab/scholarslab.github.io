@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-10-10 12:57:54+00:00
-rsvp: 0
+
 slug: kate-compton-creative-coding-workshop
 start_date: 2018-10-26
 start_time: '09:00:00'

@@ -6,7 +6,7 @@ end_time: '12:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2014-08-26 09:38:51+00:00
-rsvp: 0
+
 slug: makerspace-workshop-html-for-absolute-beginners
 start_date: 2014-11-19
 start_time: '11:00:00'

@@ -1,5 +1,15 @@
 *Please add problems you've run into here, even if you don't remember the solution!*
 
+## Is it a sudo problem, and are you working on a Library staff machine?
+From Yuji in a Library Slack channel: "I’ve been helping people with macs \[who are Library staff\] negotiate the vagaries of running sudo, especially concerning the way our library mac laptops are setup.  And I think I came up with the simplest solution which is to do :
+`su libadm -c "sudo whatever-you-need-to-run-as-root"` whenever the common wisdom (i.e. google search) tells them that they should use sudo.
+
+This came up with fixing a brew install which was giving a lot of confusing errors. Brew is helpful in suggesting fixes, but when the fix required sudo, it usually leads the (library mac) user down a rabbit warren of wrong turns. Especially if there is a mix of things that need to be run via sudo and some that are not.  So I thought it might be better to have one single command to run something via sudo without the risk of accidentally running other things as the wrong user (either libadm or root) later. 
+
+I suppose one could write a script or craft an alias for this, but that can send someone down a different set of rabbit holes.
+
+One slightly confusing downside is that it requires the user to type in the libadm passwd twice the first time you run it.
+
 ## Problems & how we solved them
 1. `Your Ruby version is 2.0.0, but your Gemfile specified 2.4.1` (or other versions = your version is a lower number)  
 Your Ruby version is too old? Enter the following at the command line and press enter: `brew upgrade ruby`  
@@ -13,7 +23,9 @@ Your Ruby version is too new? Open the "Gemfile" file (in your scholarslab.org r
 ERROR:  Could not find a valid gem 'bundler' (>= 0), here is why:
           Unable to download data from https://rubygems.org/ - SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: tlsv1 alert protocol version (https://rubygems.org/latest_specs.4.8.gz)
 ```
-I think I solved this but forgot to document how?
+
+* Solution:
+Trying to troubleshoot put me in a loop of it wasn't pointing at the right Ruby version, and wouldn't let me update gems/bundler. Closing terminal and restarting solved, so possibly something I tried worked but not until restart?
 
 4. "You must use Bundler 2 or greater with this lockfile."
 Enter `gem install bundler` to update to Bundler 2 (`sudo gem install bundler` if you get `ERROR:  While executing gem ... (Gem::FilePermissionError) You don't have write permissions for the /Library/Ruby/Gems/2.3.0 directory.`

@@ -4,7 +4,7 @@ start_date: 2021-10-18
 end_date: 2021-10-18
 start_time: "14:00"
 end_time: "15:30"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2021-10-18-arduino-workshop
 title: "Arduino Basics"

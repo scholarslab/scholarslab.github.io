@@ -7,7 +7,7 @@ title: 'Summer in the Makerspace: Mucha Smart Dress, Part I'
 category: essay
 tags:
 - grad-student-research
-- 3d printing
+- 3dprinting
 - electronics
 - fabric-arts
 - expansive-makerspace

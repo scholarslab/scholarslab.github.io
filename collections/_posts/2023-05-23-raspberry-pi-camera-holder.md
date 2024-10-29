@@ -7,7 +7,7 @@ title: Raspberry Pi Camera Holder
 category: essay
 tags:
 - makerspace
-- 3d printing
+- 3dprinting
 - 3d-modeling
 ---
 <style>

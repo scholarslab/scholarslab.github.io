@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 423'
 published-date: 2018-09-06 11:12:03+00:00
-rsvp: 0
+
 slug: code-workshop-basics-of-version-control-with-git-4
 start_date: 2018-10-29
 start_time: '14:00:00'

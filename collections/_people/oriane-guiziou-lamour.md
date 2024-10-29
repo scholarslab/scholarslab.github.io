@@ -4,6 +4,7 @@ last_name: Guiziou-Lamour
 layout: people
 name: Oriane Guiziou-Lamour
 slug: oriane-guiziou-lamour
+title: Oriane Guiziou-Lamour
 status: current
 people-category:
 - student

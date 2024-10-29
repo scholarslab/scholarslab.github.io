@@ -7,7 +7,7 @@ title: NinjaFlex on the Makerbot
 category: essay
 tags:
 - makerspace
-- 3d printing
+- 3dprinting
 ---
 
 Announcing version 0.1 public beta of the [Scholars Lab Makerspace Ninjaflex profile for Makerbot Replicators](http://static.scholarslab.org/wp-content/uploads/2015/05/ninjaflex100.txt)!

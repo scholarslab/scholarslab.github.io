@@ -8,7 +8,7 @@ title: "Make a 3D Printed Holder Thingy for Your Keychain"
 category: essay
 tags:
 - makerspace
-- 3d printing
+- 3dprinting
 - 3d-modeling
 - design
 ---

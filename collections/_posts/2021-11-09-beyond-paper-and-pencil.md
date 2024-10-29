@@ -7,6 +7,7 @@ title: "Beyond Paper and Pencil: 3D Paper Art"
 category: essay
 tags:
 - makerspace
+- expansive-makerspace
 - tutorial
 ---
 <style>

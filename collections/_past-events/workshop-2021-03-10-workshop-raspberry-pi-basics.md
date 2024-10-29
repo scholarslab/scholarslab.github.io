@@ -4,7 +4,7 @@ start_date: 2021-03-10
 end_date: 2021-03-10
 start_time: "11:00"
 end_time: "12:30"
-layout: makerspace
+layout: events
 location: "Register for Zoom link"
 slug: workshop-2021-03-10-workshop-raspberry-pi-basics
 title: "Raspberry Pi Basics"

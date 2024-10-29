@@ -6,7 +6,7 @@ end_time: '16:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2016-08-26 10:19:22+00:00
-rsvp: 0
+
 slug: gis-workshop
 start_date: 2016-09-21
 start_time: '15:00:00'

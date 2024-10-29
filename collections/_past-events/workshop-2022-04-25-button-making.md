@@ -4,7 +4,7 @@ start_date: 2022-04-25
 end_date: 2022-04-25
 start_time: "17:30"
 end_time: "18:30"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-04-25-button-making
 title: "Button Making Workshop"

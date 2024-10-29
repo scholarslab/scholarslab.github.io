@@ -6,7 +6,7 @@ end_time: '13:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-03-13 16:50:09+00:00
-rsvp: 0
+
 slug: metagaming-talk-workshop
 start_date: 2018-04-26
 start_time: '11:00:00'

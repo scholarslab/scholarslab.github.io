@@ -5,7 +5,7 @@ start_date: 2023-09-17
 end_date: 2023-09-17
 start_time: "16:00"
 end_time: "18:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-09-17-tote-bag
 title: "Tote Bag Workshop"

@@ -1,13 +1,13 @@
 ---
 first_name: Amna
-last_name: Tarar
+last_name: Irfan Tarar
 layout: people
-name: Amna Tarar
-slug: amna-tarar
+name: Amna Irfan Tarar
+slug: amna-irfan-tarar
 status: current
 people-category:
 - student
 roles:
 - Praxis Fellow, 2024-2025
 ---
-Amna Tarar is a 2024-2025 Praxis fellow.
+Amna Irfan Tarar is a 2024-2025 Praxis fellow.

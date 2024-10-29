@@ -1,0 +1,37 @@
+---
+layout: page
+title: 'All "Makerspace" posts'
+permalink: /tags/makerspace/
+regenerate: true
+---
+
+<p>This page collects all our makerspace-tagged blog posts!</p>
+</p>
+
+<section id="all-updates">
+<h2>"Makerspace" posts</h2>
+<ul class="page-previous_posts">
+	{% for post in site.tags.makerspace %}
+{% if post.author %}
+		{% capture authorstring %}
+			{% include author-name.html authorid=post.author %}
+		{% endcapture %}
+	{% endif %}
+	{% assign currentdate = post.date | date: "%Y" %}
+	{% if currentdate != date %}
+		{% unless forloop.first %}</ul>{% endunless %}
+		<ul>
+		{% assign date = currentdate %}
+	{% endif %}
+	{% if post.category != "update" %}
+		<li><a href="{{ post.url }}">"{{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}"</a> by {{ authorstring | strip }}</li>
+	{% else %}
+		<li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }}
+		update: {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
+	{% endif %}
+	{% if forloop.last %}
+		</ul>
+	{% endif %}
+	{% endfor %}
+</ul>
+</section>
