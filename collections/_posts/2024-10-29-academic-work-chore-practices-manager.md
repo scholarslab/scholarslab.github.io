@@ -18,7 +18,7 @@ crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2024/10/29/academic-work-chore-practices-manager
 ---
-_(Part 3 of a 3-part series: see also [the 1st post](https://literaturegeek.com/2024/10/22/academic-work-chore-hacks-email) on email practices and some caveats about my particular context, and [the 2nd post](https://literaturegeek.com/2024/10/28/academic-work-chore-hacks-slack-tasks-meeting-notes) on Slack, task management, meeting notes.)_
+_(Part 3 of a 3-part series: see also [the 1st post](https://literaturegeek.com/2024/10/22/academic-work-chore-hacks-email) on email practices and some caveats about my particular academic job context, and [the 2nd post](https://literaturegeek.com/2024/10/28/academic-work-chore-hacks-slack-tasks-meeting-notes) on Slack, task management, meeting notes.)_
 
 My previous two blog posts shared some of the ways I approach "work chores" (email, Slack, tasks) to keep them more sustainable. In this third post, I wanted to share a bit about how I try to do things as a manager/director re:similar expectations-impacted work-chore practices, so that my colleagues in the lab can also try or use the approaches to work that work best for them.
 
