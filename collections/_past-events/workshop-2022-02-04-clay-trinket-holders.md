@@ -4,7 +4,7 @@ start_date: 2022-02-04
 end_date: 2022-02-04
 start_time: "18:00"
 end_time: "19:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-02-04-clay-trinket-holders
 title: "Ceramics Workshop"

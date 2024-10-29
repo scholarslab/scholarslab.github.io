@@ -4,7 +4,7 @@ start_date: 2022-11-01
 end_date: 2022-11-01
 start_time: "13:00"
 end_time: "14:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-11-01-arduino-poetry
 title: "Arduino Poetry"

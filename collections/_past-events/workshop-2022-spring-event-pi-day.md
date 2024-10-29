@@ -4,7 +4,7 @@ start_date: 2022-03-14
 end_date: 2022-03-14
 start_time: ""
 end_time: ""
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-spring-event-pi-day
 title: "Pi Day"

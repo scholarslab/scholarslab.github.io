@@ -4,7 +4,7 @@ start_date: 2022-04-27
 end_date: 2022-04-27
 start_time: "12:00"
 end_time: "13:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-04-27-jewelry-making
 title: "Jewelry Making Workshop"

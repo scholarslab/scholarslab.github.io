@@ -5,7 +5,7 @@ start_date: 2024-04-01
 end_date: 2024-04-01
 start_time: ""
 end_time: ""
-layout: makerspace
+layout: events
 location: "Scholars' Lab Makerspace - Alderman 308i"
 slug: workshop-2024-spring-event-prank-day
 title: "April Fools' Make-a-Prank"

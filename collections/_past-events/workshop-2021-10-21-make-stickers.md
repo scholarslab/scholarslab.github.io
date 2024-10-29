@@ -4,7 +4,7 @@ start_date: 2021-10-21
 end_date: 2021-10-21
 start_time: "17:00"
 end_time: "18:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2021-10-21-make-stickers
 title: "Make Your Own Stickers Workshop"

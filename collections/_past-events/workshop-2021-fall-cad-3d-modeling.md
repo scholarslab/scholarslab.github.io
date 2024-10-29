@@ -4,7 +4,7 @@ start_date: 2021-10-15
 end_date: 2021-10-15
 start_time: "16:00:00"
 end_time: "17:00:00"
-layout: makerspace
+layout: events
 location: "Mechanical Engineering Building 213"
 slug: workshop-2021-fall-cad-3d-modeling
 title: "Beginner CAD and 3D Modeling Workshop"

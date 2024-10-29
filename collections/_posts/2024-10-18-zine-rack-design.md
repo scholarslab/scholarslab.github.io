@@ -11,6 +11,7 @@ tags:
 - expansive-makerspace
 - zines
 - design
+- lab-physical-space
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2024/10/17/zine-rack-design

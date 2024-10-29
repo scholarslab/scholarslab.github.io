@@ -5,7 +5,7 @@ start_date: 2023-09-20
 end_date: 2023-09-20
 start_time: "12:00"
 end_time: "14:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-09-20-cnc-milling
 title: "CNC Milling Workshop"

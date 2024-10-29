@@ -5,7 +5,7 @@ start_date: 2023-03-24
 end_date: 2023-03-24
 start_time: "14:00"
 end_time: "17:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-03-24-book-safe
 title: "Make a Book Safe"

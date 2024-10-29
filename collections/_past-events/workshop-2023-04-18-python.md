@@ -5,7 +5,7 @@ start_date: 2023-04-18
 end_date: 2023-04-18
 start_time: "12:30"
 end_time: "13:45"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-04-18-python
 title: "Python on the Raspberry Pi"

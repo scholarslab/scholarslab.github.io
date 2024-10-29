@@ -9,6 +9,7 @@ title: "Lessons From The Lab: Designing Community-Forward Spaces"
 category: essay
 tags:
 - pedagogy
+- ai-ml-llms
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/lessons-from-the-lab-designing-community-forward-spaces

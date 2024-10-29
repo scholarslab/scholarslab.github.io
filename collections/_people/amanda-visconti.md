@@ -5,7 +5,7 @@ last_name: Visconti
 layout: people
 title: Amanda Wyatt Visconti
 position: Director
-short_bio: "As Director, Amanda Wyatt Visconti leads the Scholars’ Lab's vision and rsearch strategy, operations, and staff."
+short_bio: "As Director, Amanda Wyatt Visconti leads the Scholars’ Lab's vision and research strategy, operations, and staff."
 slug: amanda-visconti
 status: current
 website: http://www.AmandaVisconti.com

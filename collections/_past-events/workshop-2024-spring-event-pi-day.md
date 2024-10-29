@@ -5,7 +5,7 @@ start_date: 2024-03-14
 end_date: 2024-03-14
 start_time: ""
 end_time: ""
-layout: makerspace
+layout: events
 location: "Scholars' Lab Makerspace - Alderman 308i"
 slug: workshop-2024-spring-event-pi-day
 title: "Pi Day"

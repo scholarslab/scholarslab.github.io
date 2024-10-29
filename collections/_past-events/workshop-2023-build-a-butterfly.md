@@ -5,7 +5,7 @@ start_date: 2023-02-24
 end_date: 2023-02-24
 start_time: "13:00"
 end_time: "14:30"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-build-a-butterfly
 title: "Build Your Own Butterfly"

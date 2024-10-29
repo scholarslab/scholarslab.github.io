@@ -5,7 +5,7 @@ start_date: 2023-02-17
 end_date: 2023-02-17
 start_time: "15:00"
 end_time: "14:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-02-17-arduino-basics
 title: "Arduino Basics"

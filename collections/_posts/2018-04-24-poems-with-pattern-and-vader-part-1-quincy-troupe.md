@@ -10,6 +10,7 @@ tags:
 - race
 - literature
 - text-analysis
+- ai-ml-llms
 ---
 
 _(This post is part of a two-post series&mdash;I ended up having too much to say about the two poems I looked at with VADER and Pattern, so I split it up. Second half can be found [here](http://scholarslab.org/uncategorized/poems-with-pattern-and-vader-part-2-nikki-giovanni/)!)_

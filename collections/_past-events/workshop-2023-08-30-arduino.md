@@ -5,7 +5,7 @@ start_date: 2023-08-30
 end_date: 2023-08-30
 start_time: "12:00"
 end_time: "14:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-08-30-arduino
 title: "Arduino Workshop"
