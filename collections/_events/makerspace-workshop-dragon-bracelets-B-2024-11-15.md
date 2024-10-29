@@ -4,7 +4,7 @@ start_time: '18:00'
 end_time: '21:00'
 layout: events
 title: "Makerspace Workshop: CCC Club Dragon Bracelet Workshop B"
-slug: makerspace-workshop-dragon-bracelets-B-2024-11-15
+slug: makerspace-workshop-dragon-bracelets-b-2024-11-15
 location: "Shannon 308i (Scholars' Lab Makerspace)"
 rsvp: https://cal.lib.virginia.edu/event/13104627
 ---

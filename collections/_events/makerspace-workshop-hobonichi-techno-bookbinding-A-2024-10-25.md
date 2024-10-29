@@ -2,7 +2,7 @@
 start_date: 2024-10-25
 layout: events
 title: 'Makerspace Workshop: Make Your Own Hobonichi Techno (Beginner Bookbinding)'
-slug: makerspace-workshop-hobonichi-techno-bookbinding-A-2024-10-25
+slug: makerspace-workshop-hobonichi-techno-bookbinding-a-2024-10-25
 location: Shannon 308i (Scholars' Lab Makerspace)
 Instructor: Leah Phan
 ---
