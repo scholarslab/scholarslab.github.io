@@ -15,7 +15,7 @@ The Digital Humanities Fellowship supports advanced doctoral students doing inno
 
 Fellows join our vibrant community, have a voice in intellectual programming for the Scholars’ Lab, and participate in one formal colloquium at the Library per fellowship year. As such, students are expected to be in residence on Grounds for the duration of the fellowship.
 
-We have received some questions about how the Scholars’ Lab Graduate Fellowship in Digital Humanities will be affected by new departmental support packages. Going forward, including for the coming academic year, the Scholars’ Lab fellowship will provide $24,480 (FILL IN NEW FIGS) in living support during the academic year, and the package will include health insurance, fees, and tuition remission. No teaching is required as a part of the fellowship. Students will apply to this fellowship in their fifth year of the PhD for a sixth year of funding in conjunction with the Scholars’ Lab.
+We have received some questions about how the Scholars’ Lab Graduate Fellowship in Digital Humanities will be affected by new departmental support packages. Going forward, including for the coming academic year, the Scholars’ Lab fellowship will provide $25,972 in living support during the academic year, and the package will include health insurance, fees, and tuition remission. No teaching is required as a part of the fellowship. Students will apply to this fellowship in their fifth year of the PhD for a sixth year of funding in conjunction with the Scholars’ Lab.
 
 **History**
 
