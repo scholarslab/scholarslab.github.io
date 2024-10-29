@@ -7,7 +7,7 @@ title: Call For Digital Humanities Fellows Applications - 2026-2026 Cohort
 category: announcement
 ---
 
-**Applications now open for the 2025-2026 Digital Humanities Fellowship. Find More Details Below.**
+**Applications are now open for the 2025-2026 Digital Humanities Fellowship. Find More Details Below.**
 
 The application deadline for fellowships to be held during the 2025-2026 academic year is **February 15th, 2025**. More details on how to apply at the end of this page. 
 
