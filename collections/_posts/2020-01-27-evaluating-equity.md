@@ -7,6 +7,7 @@ slug: evaluating-scholars-lab-interfaces-and-digital-tools-for-inclusivity-acces
 category: essay
 tags:
 - accessibility
+- tech-review
 ---
 
 > *We Welcome Everyone*
