@@ -35,7 +35,7 @@ Several email conversations about current social media use & analysis of what we
 We made contributions toward our goal (above), but didn't ultimately have the energy—nor find social media platforms/community conducive—to some of the approaches we'd originally envisioned trying. In July 2024, we decided to sunset the group. Anyone is welcome to use our documentation and/or working group name to propose resuscitating the group to ACH (or to do something of your own related to DH social media, without matching what we've done here!).
 
 Our assessment of these platforms and their DH use is purely anecdotal, based on personal observation and vibes. We've found Bluesky to be the best approximation of our previous Twitter experiences (noting those are not necessarily representative of others' experiences on any of these platforms). In July 2024, 
-We had found 3 of us use it regularly (daily or multiple times a week) as our primary venue for DH online connection. 
+we had found 3 of us use it regularly (daily or multiple times a week) as our primary venue for DH online connection. 
 
 Both Bluesky and Mastodon in July 2024 had seemed to have failed yet to approximate Twitter's size of active posters and readers, frequency of conversations across users, and ability to connect to a variety of communities (e.g. by language; geographic region; personal identity; DH role; non-DH adjacent communities doing work in areas like art, tech, social justice). 
 
