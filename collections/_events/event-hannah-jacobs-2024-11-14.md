@@ -6,7 +6,7 @@ start_time: '12:00:00'
 end_time: '13:30:00'
 layout: events
 location: 'Shannon Library 308'
-title: 'DH Speaker: Hannah Jacobs - How to Teach with 3D Technologies'
+title: 'DH Speaker Hannah Jacobs - How to Teach with 3D Technologies'
 slug: event-hannah-jacobs-2024-11-14
 ---
 
