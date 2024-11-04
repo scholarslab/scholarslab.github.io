@@ -12,6 +12,7 @@
 * Law
 * Environmental Science
 * Education
+* Politics
 
 #### Arts & Humanities
 * Art History
