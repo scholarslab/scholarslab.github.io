@@ -11,6 +11,7 @@ tags:
 - about-collaboration-community
 - inclusion-welcome
 - lab-physical-space
+- charter
 ---
 This post is inspired by '[“The Bolted Desk”](https://scholarslab.lib.virginia.edu/blog/the-bolted-desk/)', written by Brandon Walsh. A sentence in particular keeps haunting me: “Where the chairs spoke of quiet restraint, their surfaces told a different story, narrating favorite bands, quotations, weekend adventures, and more. Freedom. Flexibility. Movement. Waiting to get out of the chair”. Here, Brandon opposes the chair as limitation and constraint, and the desk as a means to escape, to resist, to free oneself from not only what the chair is, but also what it represents. 
 

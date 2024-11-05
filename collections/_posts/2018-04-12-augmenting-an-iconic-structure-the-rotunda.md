@@ -7,7 +7,7 @@ title: 'Augmenting an Iconic Structure: The Rotunda'
 category: essay
 tags:
 - grad-student-research
-- uva reveal
+- uva-reveal
 - vr-ar
 - geospatial-and-temporal
 - charlottesville-and-virginia

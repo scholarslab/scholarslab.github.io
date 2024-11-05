@@ -4,10 +4,9 @@ date: 2024-10-28
 layout: post
 slug: open-learning-together
 title: Open Learning Together
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/open-learning-together

@@ -6,7 +6,7 @@ slug: 2-about-my-research-computers-and-digital-humanities
 title: "About my research, computers and Digital Humanities"
 category: essay
 tags: 
-- uva reveal
+- uva-reveal
 - praxis
 ---
 

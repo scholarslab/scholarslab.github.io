@@ -4,6 +4,9 @@ date: 2024-10-24
 layout: post
 slug: comfy-chairs
 title: "One month of Praxis (or, the joy of comfy chairs!)"
+tags:
+- charter
+category: essay
 ---
 We're already more than a week into October (!), and recently I have been reflecting on my first month in the Praxis program. In just a few weeks, I have learned so many new things and had the opportunity to practice new skills! I’m so glad to be a part of this community and can’t wait to see how the rest of the year unfolds. 
 

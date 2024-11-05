@@ -9,6 +9,8 @@ tags:
 - grad-student-research
 - praxis
 - pedagogy
+- charter
+- about-collaboration-community
 crosspost:
   - title: my blog
     url: http://walshbr.com/blog/what-is-praxis-working-on
