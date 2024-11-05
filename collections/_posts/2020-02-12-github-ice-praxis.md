@@ -7,6 +7,7 @@ title: "On DH and incremental action"
 category: essay
 tags:
 - praxis
+- tech-review
 ---
 When our Praxis cohort took our initial steps into coding last year, GitHub was one of the first tools we were introduced to. As a dominant, well-established Git platform, it seemed the natural choice for us as we started out learning about software development and collaborative coding.
 

@@ -10,6 +10,8 @@ tags:
 - ivanhoe
 - praxis
 - games
+- charter
+- about-collaboration-community
 ---
 
 Do we want well-defined rules and roles? Do we want them to be fluid? Can rules and roles provide creative fluidity and playful flexibility? These questions have been a recurring theme in our conversations with the Praxis team as well as in our meetings with some of the Scholars Lab members.

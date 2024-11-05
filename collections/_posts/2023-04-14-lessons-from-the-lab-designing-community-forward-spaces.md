@@ -10,6 +10,7 @@ category: essay
 tags:
 - pedagogy
 - ai-ml-llms
+- charter
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/lessons-from-the-lab-designing-community-forward-spaces

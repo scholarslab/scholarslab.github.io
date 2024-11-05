@@ -17,6 +17,7 @@ tags:
 - web-development
 - design
 - jekyll
+- charter
 - visualization
 - fabric-arts
 - expansive-makerspace

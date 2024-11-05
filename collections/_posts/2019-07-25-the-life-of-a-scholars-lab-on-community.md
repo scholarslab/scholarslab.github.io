@@ -7,6 +7,7 @@ title: "The Life Of A (Scholars') Lab: On Community"
 category: essay
 tags:
 - about-collaboration-community
+- charter
 ---
 *Crossposted to [my personal blog](http://walshbr.com/blog/ach-2019/)*
 

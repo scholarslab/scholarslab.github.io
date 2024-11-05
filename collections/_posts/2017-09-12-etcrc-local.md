@@ -7,7 +7,9 @@ title: /etc/rc.local
 category: essay
 tags:
 - grad-student-research
-- uva reveal
+- uva-reveal
+- charter
+- about-collaboration-community
 ---
 
 ![](http://static.scholarslab.org/wp-content/uploads/2017/09/ch0-300x95.png)
