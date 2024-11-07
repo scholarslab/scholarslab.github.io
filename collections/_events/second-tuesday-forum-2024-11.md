@@ -8,6 +8,7 @@ layout: events
 location: 'Virtual & Shannon Library 308'
 title: 'Second Tuesday Forum: Dana Little'
 slug: second-tuesday-forum-2024-11
+rsvp: https://cal.lib.virginia.edu/event/13195228
 ---
 
 UVA English Assistant Professor Dana Little examines social media's underlying algorithmic architecture and its impact on social discourse. We will review the role of artificial intelligence in "AI-guided" online narratives focusing specifically on the concept of "factions."
