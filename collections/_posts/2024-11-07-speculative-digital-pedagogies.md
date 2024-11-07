@@ -23,7 +23,7 @@ Seanna Viechweg and Brandon Walsh gave a talk on "Speculative Digital Pedagogies
 **Brandon** - And I'm Brandon Walsh. I'm the Head of Students in the Scholars' Lab, a digital research center in the University of Virginia Library. 
 ![links to resources](/assets/post-media/speculative-digital-pedagogies/2.jpg)
 
-**Brandon** - Before we get started - a few links for you. You can find the rough text and slides for our presentation at the link [here](bit.ly/spec-ped-talk). And if you are interested in the resources we are discussing today you can find them in a [zotero library](bit.ly/spec-ped-zot). So if you need access to those materials for any reason please do take a moment to open them in the browser as we'll be moving away from this slide. But they'll also persist after the conference is over, so you can rest assured that you'll have access to them into the future. 
+**Brandon** - Before we get started - a few links for you. You can find the rough text and slides for our presentation at the link [here](http://bit.ly/spec-ped-talk). And if you are interested in the resources we are discussing today you can find them in a [zotero library](http://bit.ly/spec-ped-zot). So if you need access to those materials for any reason please do take a moment to open them in the browser as we'll be moving away from this slide. But they'll also persist after the conference is over, so you can rest assured that you'll have access to them into the future. 
 
 ![What do we mean by speculative?](/assets/post-media/speculative-digital-pedagogies/3.jpg)
 
