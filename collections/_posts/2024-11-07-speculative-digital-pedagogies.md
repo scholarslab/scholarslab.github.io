@@ -1,7 +1,7 @@
 ---
 author: 
-- brandon-walsh
 - seanna-viechweg
+- brandon-walsh
 date: 2024-11-07
 layout: post
 slug: speculative-digital-pedagogies
