@@ -3,7 +3,7 @@ author: brandon-walsh
 date: 2024-11-01
 layout: post
 slug: call-for-digital-humanities-fellows-applications-2025-2026-cohort
-title: Call For Digital Humanities Fellows Applications - 2026-2026 Cohort
+title: Call For Digital Humanities Fellows Applications - 2025-2026 Cohort
 category: announcement
 ---
 
