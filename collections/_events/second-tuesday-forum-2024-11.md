@@ -26,3 +26,5 @@ Key Topics:
 * Implications and Future Directions: A consideration of the potential implications of AI-guided factions, including their impact on audience engagement, ethical considerations, and the future of storytelling.
 
 This presentation offers an exploration of the intersection between artificial intelligence, rhetoric, and aesthetics. By understanding the intricacies of AI-guided factions, we can gain valuable insights into the future of information dissemination, storytelling, and the role of technology in shaping our cultural narratives.
+
+Professor Little is one of [UVA’s AI Faculty Guides](https://cte.virginia.edu/programs/faculty-ai-guides/2024-2025-faculty-ai-guides).
