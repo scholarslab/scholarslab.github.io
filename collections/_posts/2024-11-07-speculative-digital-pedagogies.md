@@ -6,10 +6,12 @@ date: 2024-11-07
 layout: post
 slug: speculative-digital-pedagogies
 title: Speculative Digital Pedagogies
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- grad-student-research
+- care
+- academia
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/speculative-digital-pedagogies
