@@ -7,6 +7,8 @@ title: Open Learning Together
 category: essay
 tags:
 - pedagogy
+- care
+- labor
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/open-learning-together

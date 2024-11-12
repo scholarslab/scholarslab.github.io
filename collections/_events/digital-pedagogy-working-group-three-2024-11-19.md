@@ -24,5 +24,10 @@ This semester we will have three zoom sessions:
         * Jill Lepore, "The Data Delusion" from *American Chronicles* April 3, 2023
         * Bonnie Mak and Julie Pollack, "On the Design of the Humanities" from Forum on Design as Inquiry in *Interactions*, July-August 2016
 * November 19th at 11 - (Seanna) - Digital Pedagogy and Culturally responsive pedagogy
+    * Readings (email bmw9t@virginia.edu for access):
+        * Christopher Emdin, "A ratchetdemic reality pedagogy and/as cultural freedom in urban education," *Educational Philosophy and Theory*, 2020, Vol. 52, No. 9, 947–960 [https://doi.org/10.1080/00131857.2019.1669446](https://doi.org/10.1080/00131857.2019.1669446).
+        * Frederic Fovet, "When Being Online Hinders the Act of Challenging Banking Model Pedagogy: Neo-Liberalism in Digital Higher Education," from *Critical Digital Pedagogy in Higher Education*. [Read online](https://read.aupress.ca/read/critical-digital-pedagogy-in-higher-education/section/6f8b700c-9247-487d-b9b9-ecbf2c45c478#ch06).
+        * Geneva Gay, "Preparing for Culturally Responsive Teaching," *Journal of Teacher Education*, Vol. 53, No. 2, March/April 2002 106-116.
+       
 
 More information about registration and readings can be found [here](https://cal.lib.virginia.edu/calendar/events/slab-digital-pedagogy-reading-group)
