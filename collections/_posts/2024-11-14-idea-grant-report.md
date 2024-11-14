@@ -49,7 +49,7 @@ Then, we had the privilege of hosting Dr. Adrienne Ghaly from the English Depart
 ![Visit with Dr. Ghaly - learning](/assets/post-media/idea-grant-2024/dr-ghaly-visit-2.jpg)
 ![Visit with Dr. Ghaly - talking](/assets/post-media/idea-grant-2024/dr-ghaly-visit-3.jpg)
 
-After the presentation, the students enjoyed a campus tour and lunch in the Shannon Library, where they met two guest speakers, Samuel Wachamo and Giovanna Camacho, who are pursuing MD and PhD programs at UVA. These interactions provided the students with first-hand insights into the experiences of Black and Latino individuals in higher education and how they can navigate similar paths.
+After the presentation, the students enjoyed a campus tour and lunch in the Shannon Library, where they met two guest speakers, Samuel Wachamo and Giovanna Camacho, who are pursuing MD and PhD programs at UVA. These interactions provided the students with first-hand insights into the experiences of Hispanic, Black and Latino individuals in higher education and how they can navigate similar paths.
 
 ![At the Rotunda](/assets/post-media/idea-grant-2024/rotunda.jpg)
 
