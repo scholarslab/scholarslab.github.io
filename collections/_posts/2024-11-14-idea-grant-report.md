@@ -14,7 +14,7 @@ tags:
 - student-empowerment
 ---
 
-In February of 2024, Qianqian Shao, a Makerspace volunteer, and Ammon Shepherd, Makerspace Manager, were awarded a Library IDEA grant to provide opportunities for underrepresented students. 
+In February of 2024, Qianqian Shao, Makerspace volunteer, and Ammon Shepherd, Makerspace Manager, were awarded a Library IDEA grant to provide opportunities for underrepresented students. 
 
 In 2022, the Library's IDEA Committee received library staff requests to help support programming related to IDEA. The success of these projects encouraged the committee to create a process to support and promote staff-generated programming pertaining to inclusion, diversity, equity, and accessibility across the library.
 
