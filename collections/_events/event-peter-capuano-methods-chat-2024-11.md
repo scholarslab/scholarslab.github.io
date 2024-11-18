@@ -8,7 +8,7 @@ location: Shannon 308
 slug: event-peter-capuano-methods-chat-2024-11
 ---
 
-Peter Capuano (Director of Literary and Cultural Studies; Faculty Fellow, Center for Digital Research in the Humanities; Professor, Department of English) will join us for an informal conversation about the DH literary analysis methods used in his work. Capuano will be giving a formal talk in the UVA English Department that same day on "On the Mutuality of Method: Distant, Middle, and Close Reading in *Dickens’s Idiomatic Imagination*".
+Peter Capuano (University of Nebraska-Lincoln Director of Literary and Cultural Studies; Faculty Fellow, Center for Digital Research in the Humanities; Professor, Department of English) will join us for an informal conversation about the DH literary analysis methods used in his work. Capuano will be giving a formal talk in the UVA English Department that same day on "On the Mutuality of Method: Distant, Middle, and Close Reading in *Dickens’s Idiomatic Imagination*".
 
 Capuano's 2023 book *Dickens's Idiomatic Imagination*
 
