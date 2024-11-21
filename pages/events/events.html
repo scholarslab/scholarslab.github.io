@@ -36,31 +36,28 @@ redirect_from:
 
 		eventLink.href = event.link;
         eventLink.textContent = event.title;
+
 		const timestampStart = new Date(event.start);
 		const timestampEnd = new Date(event.end);
 
-		var eventStartDateString = timestampStart.toLocaleDateString('en-US', {
+		const dateStringOptions = {
+			weekday: 'long',
        		year: 'numeric',
        		month: 'long',
        		day: 'numeric'
-   		});
+		};
 
-		var eventStartTimeString = timestampStart.toLocaleTimeString('en-US', {
+		const timeStringOptions = {
 			hour: "2-digit",
 			minute: "2-digit"
-		}).replace(' ', '');
+		};
 
-		var eventEndDateString = timestampEnd.toLocaleDateString('en-US', {
-       		year: 'numeric',
-       		month: 'long',
-       		day: 'numeric'
-   		});
+		var eventStartDateString = timestampStart.toLocaleDateString('en-US', dateStringOptions);
+		var eventEndDateString = timestampEnd.toLocaleDateString('en-US', dateStringOptions);
+		var eventStartTimeString = timestampStart.toLocaleTimeString('en-US', timeStringOptions).replace(' ', '');
+		var eventEndTimeString = timestampEnd.toLocaleTimeString('en-US',timeStringOptions).replace(' ', '');
 
-		var eventEndTimeString = timestampEnd.toLocaleTimeString('en-US', {
-			hour: "2-digit",
-			minute: "2-digit"
-		}).replace(' ', '');
-
+		// Start putting together the event start/end string.
 		var eventWhenText = eventStartDateString + ', ' + eventStartTimeString;
 
 		if (eventStartDateString == eventEndDateString) {
@@ -70,7 +67,7 @@ redirect_from:
 		}
 
 		eventTimeDiv.textContent = 'When: ' + eventWhenText;
-		eventLocationDiv.textContent = 'Where ' + event.location;
+		eventLocationDiv.textContent = 'Where: ' + event.location;
 
 		eventHeading.appendChild(eventLink);
 		eventContainer.appendChild(eventHeading);
