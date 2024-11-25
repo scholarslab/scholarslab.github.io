@@ -10,6 +10,14 @@ tags:
 - grad-student-research
 - global-dh
 - rtl-languages
+- inclusion-welcome
+- multilingual
+- accessibility
+- race
+- care
+- about-collaboration-community
+- ocr
+- best
 ---
 Two months into this fellowship, I have prayed in the following places:
 -	The Grad lounge
