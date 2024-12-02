@@ -16,7 +16,7 @@ Co-teaching is a promise. To each other. To yourself. To believe. To trust. To s
 
 Co-teaching is not a weapon. Co-teaching is a gift. 
 
-Co-teaching is an act of love. It is not a competition 
+Co-teaching is an act of love. It is not a competition. 
 
 Co-teaching is not a zero sum game. 
 
