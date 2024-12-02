@@ -4,6 +4,12 @@ date: 2024-11-18
 layout: post
 slug: loren-what-are-you-doing
 title: "Manuscript Studies: But like… what are you doing?"
+category: essay
+tags:
+- grad-student-research
+- dissertation
+- bibliography
+- project-management
 ---
 Probably like a lot of grad students, my mom will often ask me how my work is going. And normally, it’s not so much that she wants to know *what* I’m doing; she just wants to know that I’m happy doing whatever it is that I’m doing. But all last year, I was running around visiting about 40 medieval manuscripts located in more than a dozen special collections libraries across Europe and the UK, and she needed to be able to explain my behavior to others. She finally asked: But like… what are you doing? When you visit a manuscript, and you’re there all day, what do you *do*?
 
