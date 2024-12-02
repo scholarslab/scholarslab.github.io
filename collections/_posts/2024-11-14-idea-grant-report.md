@@ -9,9 +9,12 @@ author:
 - ammon-shepherd
 tags:
 - makerspace
-- community-collaboration
+- about-collaboration-community
 - outreach
 - student-empowerment
+- inclusion-welcome
+- interdisciplinary-dh
+- expansive-makerspace
 ---
 
 In February of 2024, Qianqian Shao, Makerspace volunteer, and Ammon Shepherd, Makerspace Manager, were awarded a Library IDEA grant to provide opportunities for underrepresented students. 
@@ -19,7 +22,6 @@ In February of 2024, Qianqian Shao, Makerspace volunteer, and Ammon Shepherd, Ma
 In 2022, the Library's IDEA Committee received library staff requests to help support programming related to IDEA. The success of these projects encouraged the committee to create a process to support and promote staff-generated programming pertaining to inclusion, diversity, equity, and accessibility across the library.
 
 Our proposal was to welcome 4 female Black and Latino/Hispanic students, along with 2 teachers, from Annandale High School to the UVA campus and the library for the Spring of 2024. The students will have a tour of Grounds with a focus on UVA libraries. The students will visit the Lawn and Rotunda to learn about the history of UVA. They will visit Brown, Clemons, and Main Libraries to learn about the resources available to UVA students. The Scholars’ Lab Makerspace will host a workshop for the students while they are at UVA.
-
 
 The following is taken from a presentation that Qianqian gave to the Library at a monthly "Town Hall" meeting to report on the success of the initiative. 
 
