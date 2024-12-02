@@ -3,7 +3,7 @@ author: brandon-walsh
 date: 2024-12-02
 layout: post
 slug: co-teaching-is
-title: Co-teaching Is
+title: Co-Teaching Is
 categories:
 - Digital Humanities
 tags:
