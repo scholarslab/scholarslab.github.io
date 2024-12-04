@@ -10,5 +10,5 @@ title: 'Second Tuesday Forum: DH Fellow Loren Lee'
 slug: second-tuesday-forum-2024-12
 ---
 
- [Loren Lee](/people/loren-lee/), our 2024-2025 Digital Humanities Fellow, will share progress on her fellowship
-project, a digital edition of _La Vie de sainte Marie l’Égyptienne_.
+[Loren Lee](/people/loren-lee/), our 2024-2025 Digital Humanities Fellow, will share progress on her fellowship
+project, a digital edition of _La Vie de sainte Marie l’Égyptienne_. For more about Loren's work, see her recent research blog essays ["Old Books, New Tricks: Introducing My Digital Edition with the SLab "](https://scholarslab.lib.virginia.edu/blog/introducing-loren/) and ["Manuscript Studies: But like… what are you doing? "](https://scholarslab.lib.virginia.edu/blog/loren-what-are-you-doing/).
