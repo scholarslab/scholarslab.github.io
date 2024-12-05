@@ -51,9 +51,10 @@ nav: true
 	<h2>Current Students</h2>
 	<ul>
 		{% for person in students %}
-			<li><a href="/people/{{ person.slug }}" aria-label="{{ person.title }}">{{ person.title }}</a>
+			<li><a href="/people/{{ person.slug }}" aria-label="{{ person.name
+			}}">{{ person.first_name }} {{ person.last_name }}</a>
 			{% for item in person.roles limit: 1 %}{{ item }}{% endfor %}</li>
-		{% endfor %}	
+		{% endfor %}
 	</ul>
 </section> <!-- end students section -->
 
