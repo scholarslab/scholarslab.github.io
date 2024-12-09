@@ -1,6 +1,6 @@
 ---
 author: gramond-mcpherson
-date: 2024-12-03
+date: 2024-12-09
 layout: post
 slug: keep-it-simple-scholar
 title: "Keep it Simple, Scholar"
