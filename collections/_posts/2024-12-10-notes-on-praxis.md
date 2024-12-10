@@ -4,6 +4,7 @@ date: 2024-12-10
 layout: post
 slug: notes-on-praxis
 title: "Notes on Praxis - in no particular order"
+summary: "Things I have learnt from the Scholars' Lab folks, my Praxis cohort, and why Praxis works."
 category: essay
 tags:
 - praxis
