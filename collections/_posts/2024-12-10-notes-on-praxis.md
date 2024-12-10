@@ -1,6 +1,6 @@
 ---
-author: amna-rfan-tarar
-date: 2024-12-09
+author: amna-irfan-tarar
+date: 2024-12-10
 layout: post
 slug: notes-on-praxis
 title: "Notes on Praxis - in no particular order"
