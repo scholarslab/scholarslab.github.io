@@ -4,6 +4,16 @@ date: 2024-12-09
 layout: post
 slug: keep-it-simple-scholar
 title: "Keep it Simple, Scholar"
+category: essay
+tags:
+- praxis
+- grad-student-research
+- pedagogy
+- geospatial-and-temporal
+- map
+- gis
+- about-collaboration-community
+- mincomp
 ---
 In the leadup to planning our pedagogical workshops for the Praxis year, I explored a variety of methods and concepts. With my background in Geographic Information Systems (GIS), I naturally expressed interest in mapping as maps present a unique story and can facilitate new questions in research. I was also interested in digital storytelling, because as a historian, history is about presenting a narrative about the past that helps answer questions about the present, and hopefully knowing about history can impact our future. Ultimately, I decided to settle on digital storytelling, that also incorporates maps. 
 
