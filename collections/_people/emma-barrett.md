@@ -4,7 +4,7 @@ last_name: Barrett
 layout: people
 name: Emma Barrett
 slug: emma-barrett
-status: current
+status: not_current
 people-category:
 - student
 roles:
