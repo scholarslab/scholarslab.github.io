@@ -1,0 +1,31 @@
+---
+author: gramond-mcpherson
+date: 2024-12-09
+layout: post
+slug: keep-it-simple-scholar
+title: "Keep it Simple, Scholar"
+category: essay
+tags:
+- praxis
+- grad-student-research
+- pedagogy
+- geospatial-and-temporal
+- map
+- gis
+- about-collaboration-community
+- mincomp
+---
+In the leadup to planning our pedagogical workshops for the Praxis year, I explored a variety of methods and concepts. With my background in Geographic Information Systems (GIS), I naturally expressed interest in mapping as maps present a unique story and can facilitate new questions in research. I was also interested in digital storytelling, because as a historian, history is about presenting a narrative about the past that helps answer questions about the present, and hopefully knowing about history can impact our future. Ultimately, I decided to settle on digital storytelling, that also incorporates maps. 
+
+Drawing from the [Digital Pedagogy in the Humanities](https://digitalpedagogy.mla.hcommons.org/keywords/storytelling/) site, it describes digital storytelling as the process of creating and sharing stories using digital tools, incorporating multimedia elements such as images, sound, and words in a narrative that is disseminated online. I really like the term used within the prompt for storytelling called remix. Remixing takes existing material and alters it and combines it to create something new. My own interpretation of digital storytelling is understanding and reinterpreting people, places, objects, or events in their proper context. 
+
+I am also connecting these definitions to my personal goals for the workshop. Earlier in the semester, one of our sessions asked us to state our goals for the workshop. One of my goals is a workshop that empowers participants to think on their own behalf and not rely solely on my instruction. A second goal is that my workshop will encourage collaboration among the participants. A third goal is I see more of a facilitator, so my goal is to help guide the conversation during my workshop versus being in teacher mode only. A fourth goal is to incorporate real-life experiences into the workshop. My final goal is to embrace the silences or vagueness of sources that come with research.
+
+In the first part of the workshop, I will briefly present the opportunities available for digital storytelling drawing on my own experiences of using ArcGIS StoryMaps to present a narrative. For instance, a few years ago, I developed a class project [Visualizing Segregation in Orlando: 1887-1950](https://storymaps.arcgis.com/collections/e32ed970baed444d8d8f5c7c1fb10527) where I used StoryMaps to visualize narrative segregation in Orlando, Florida. My StoryMap incorporated maps, images, and text that provided an interactive way to learn more about the history of segregation during the Jim Crow era. My brief presentation will open an opportunity to discuss techniques in digital humanities. There is more than one way to tell a story, so this portion also will provide an avenue for others to present their own ideas about digital storytelling. We will discuss questions like, what are good components that should go in a story or how should the order of a story be. (Also, based on conversations with Brandon, Tropy could serve as another digital tool, but still need to explore more before the workshop presentation). 
+
+In thinking about something simple, something familiar to me, and something that incorporates maps, my low-tech workshop will focus on digital storytelling influenced by our experiences on Grounds at UVA. As a graduate student, with my first year at UVA being entirely online due to COVID, my interactions on Grounds have largely been limited to select buildings and locations on grounds where my graduate classes were or where I held my discussion sessions. Even now, there are areas of Grounds I have never been. The low-tech activity thus will incorporate a printed map. Using a map like the [UVA Visitors Map](https://indd.adobe.com/view/28b3e175-9dbf-452e-82da-587822476c74) (second page), attendees will individually use colored dot stickers to mark building locations or general spaces on grounds where they frequently interact. Additionally, attendees will write short descriptions that describe these interactions in more detail such as what buildings or spaces we have interacted with, the frequency of these interactions, and our typical experiences there. 
+
+The last part of the activity will be collaborative exercise. After each person finishes their edited maps and written descriptions, they will hand these materials to another person. Now that each person has someone else’s sources (data), you will then see to draft a narrative about that person based on the evidence provided, and afterward, each person will share their narrative. As most stories we read about are often told second-hand, this activity will provide the attendees the opportunity to be creative and innovative in creating narratives about people we either have become familiar with or barely know. We can then conclude by thinking about the narratives we just created about each other but think of them digitally. One central question would be, what digital methods and tools are available to enhance these narratives (objects, images, sounds, etc.)? 
+
+In conclusion, I brainstormed various ideas for my workshop. Yet the process left me feeling very overwhelmed and anxious, not about presenting the workshop itself, but about finding the right idea and the right project that was low-tech. In meeting with Brandon, I had a moment of eureka where I decided to focus on being simple and work with what is familiar to me and not overcomplicate things. There is the popular phrase, [Keep it Simple, Stupid](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid) (KISS) thought to have been coined by Kelly Johnson, a lead engineer for Lockheed Skunk Works, who argued that designs for products should be constructed simple enough that a common man could repair them with basic training rather than risking people’s lives with complexities. I plan to take this phrase to heart, but since I do not wish to insult the intelligence of anyone, I will change the last word to scholars. Keep it Simple, Scholars. It will make your life much easier.
+

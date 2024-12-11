@@ -4,6 +4,12 @@ date: 2024-11-18
 layout: post
 slug: loren-what-are-you-doing
 title: "Manuscript Studies: But like… what are you doing?"
+category: essay
+tags:
+- grad-student-research
+- dissertation
+- bibliography
+- project-management
 ---
 Probably like a lot of grad students, my mom will often ask me how my work is going. And normally, it’s not so much that she wants to know *what* I’m doing; she just wants to know that I’m happy doing whatever it is that I’m doing. But all last year, I was running around visiting about 40 medieval manuscripts located in more than a dozen special collections libraries across Europe and the UK, and she needed to be able to explain my behavior to others. She finally asked: But like… what are you doing? When you visit a manuscript, and you’re there all day, what do you *do*?
 
@@ -25,7 +31,7 @@ But to answer my mom’s question (*what are you doing?*) and for anyone else wh
 
 2. **Come Prepared**
 - *Register*: When you arrive, you’ll typically need to register for a library card, so bring the necessary identification and any other documentation the library requires. This too can take some time, so budget for this step in your schedule. Soon, you’ll have a little collection of library cards :)
-- *Pack your bag*: Normally, you are not permitted to bring a bag into the room — because you might be a dirty little thief — so be prepared to pull your essential items out of your bag. I like to carry a clear plastic envelope folder with all the essentials: 
+- *Pack your bag*: Normally, you are not permitted to bring a bag into the room — because you might be a dirty little thief — so be prepared to pull your essential items out of your bag. I like to carry a clear plastic envelope folder with all the essentials:
   - extra pencils with a sharpener
   - a clear ruler and retractable tape measure
   - a pocket magnifying glass
