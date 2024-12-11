@@ -32,7 +32,6 @@ redirect_from:
         const eventHeading = document.createElement('h3');
 		const eventLink = document.createElement('a');
 		const eventTimeDiv = document.createElement('div');
-		const eventLocationDiv = document.createElement('div');
 
 		eventLink.href = event.link;
         eventLink.textContent = event.title;
@@ -48,8 +47,8 @@ redirect_from:
 		};
 
 		const timeStringOptions = {
-			hour: "2-digit",
-			minute: "2-digit"
+			hour: "numeric",
+			minute: "numeric"
 		};
 
 		var eventStartDateString = timestampStart.toLocaleDateString('en-US', dateStringOptions);
@@ -67,12 +66,16 @@ redirect_from:
 		}
 
 		eventTimeDiv.textContent = 'When: ' + eventWhenText;
-		eventLocationDiv.textContent = 'Where: ' + event.location;
 
 		eventHeading.appendChild(eventLink);
 		eventContainer.appendChild(eventHeading);
 		eventContainer.appendChild(eventTimeDiv);
-		eventContainer.appendChild(eventLocationDiv);
+
+		if (event.location) {
+			const eventLocationDiv = document.createElement('div');
+			eventLocationDiv.textContent = 'Where: ' + event.location;
+			eventContainer.appendChild(eventLocationDiv);
+		}
 
         // Append the list item to the events list
         eventsList.appendChild(eventContainer);
