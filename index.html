@@ -36,6 +36,29 @@ title: Home
     </div>
     <div id="upcoming-events">
         <h2>Upcoming Events</h2>
+        
+<!-- temp display, until jeremy has time to pull in live from LibCal instead: -->        
+<ul>
+	<li><a href="https://cal.lib.virginia.edu/event/13365703">
+                <span class="time">
+                    <span class="month">Jan</span>
+                    <span class="day">15</span>
+                </span>
+                <strong>Scholars' Lab DH Fellows Info Session</strong>
+                </a>
+    </li>
+	<li><a href="https://cal.lib.virginia.edu/event/13768179">
+                <span class="time">
+                    <span class="month">Jan</span>
+                    <span class="day">22</span>
+                </span>
+                <strong>"Barriers to Belonging": Disability justice & zine-making workshop</strong>
+                </a>
+    </li>
+</ul>    
+<!-- end temp display -->       
+        
+<!-- old events, when pulled from md folder instead of LibCal:        
         <ul>
 {% assign events = site.events | sort: 'start_date' %}
 {% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
@@ -56,6 +79,7 @@ title: Home
 {% endif %}
 {% endfor %}
         </ul>
+-->
         <a class="see-all" href="/events/">See all our events</a>
     </div>
 </section>
