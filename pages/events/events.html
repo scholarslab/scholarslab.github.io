@@ -13,36 +13,33 @@ redirect_from:
 
 <div class="content">
 <h2>Upcoming events</h2>
-{% assign events = site.events | sort: 'start_date' %}
-{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
-{% for event in events %}
-	{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-	{% if eventdate >= today %}
+
+<!-- temp hardcoded until Jeremy swaps in new LibCal pull -->
 		<section class="events-gallery__item">
-			<h3><a href="/events/{{ event.slug }}">{{ event.title }}</a></h3>
-			<!-- remove trailing seconds zeros on time -->
-			{% if event.start_time %}{% assign start_time = event.start_time | date: "%r" | remove: ":00 " %}{% endif %}
-			{% if event.end_time %}{% assign end_time = event.end_time | date: "%r" | remove: ":00 " %}{% endif %}
-			<!-- check for leading zero -->
-			{% assign zerocheck1 = start_time | slice: 0 %}
-			{% assign zerocheck2 = end_time | slice: 0 %}
-			<!-- remove if present -->
-			{% if zerocheck1 == '0' %}
-				{% assign start_time = start_time | slice: 1, 6 %}
-			{% endif %}
-			{% if zerocheck2 == '0' %}
-				{% assign end_time = end_time | slice: 1, 6 %}
-			{% endif %}
+			<h3><a href="https://cal.lib.virginia.edu/event/13365703">Scholars' Lab DH Fellows Info Session</a></h3>
 			<div class="events-item__logistics">
-				<div class="events-logistics__time"><span>When: </span>{{ event.start_date | date: "%A, %B %-d, %Y" }}{% if event.start_time %}, {{ start_time }}-{{ end_time }}{% endif %}</div>
-				<div class="events-logistics__place"><span>Where: </span>{{ event.location }}</div>
+				<div class="events-logistics__time"><span>When: </span>January 15, 2025 1-2pm</div>
+				<div class="events-logistics__place"><span>Where: </span>Online</div>
+				<div><span>Register: </span><a href="https://cal.lib.virginia.edu/event/13365703">https://cal.lib.virginia.edu/event/13365703</a></div>
 			</div>
-			<div class="events-item__cta">
-				<a href="/events/{{ event.slug }}">Details &rsaquo;</a>
+		</section> 
+
+		<section class="events-gallery__item">
+			<h3><a href="https://cal.lib.virginia.edu/event/13768179">"Barriers to Belonging": disability justice & zine-making workshop</a></h3>
+			<div class="events-item__logistics">
+				<div class="events-logistics__time"><span>When: </span>January 22, 2025 9:30am-11:30am</div>
+				<div class="events-logistics__place"><span>Where: </span>Shannon 308 (Scholars' Lab Common Room)</div>
+				<div><span>Register: </span><a href="https://cal.lib.virginia.edu/event/13768179">https://cal.lib.virginia.edu/event/13768179</a></div>
 			</div>
 		</section>
-	{% endif %}
-{% endfor %} <!-- end event -->
+<!-- end temp hardcoded events -->
+
+
+
+<!-- removed old code pulling from now-epty events md folder -->
+
+
+
 
 <h2>Recent events</h2>
 <p>Any events from this academic year that have already happened. Events from before this academic year can be found in our <a href="/events-archive">past event archive</a>.</p>
