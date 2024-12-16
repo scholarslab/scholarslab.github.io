@@ -4,7 +4,7 @@ last_name: Buckner
 layout: people
 name: Kennedy Buckner
 slug: kennedy-buckner
-status: current
+status: not_current
 people-category:
 - student
 roles:

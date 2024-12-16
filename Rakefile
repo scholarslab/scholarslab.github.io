@@ -95,7 +95,6 @@ title: FirstName LastName
 slug: firstname-lastname
 first_name: FirstName
 last_name: LastName
-short_bio: 'A short one-sentence bio.'
 website:
 email: 
 status: current or not_current
