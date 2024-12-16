@@ -36,30 +36,48 @@ title: Home
     </div>
     <div id="upcoming-events">
         <h2>Upcoming Events</h2>
-        <ul>
-{% assign events = site.events | sort: 'start_date' %}
-{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
-{% assign count = 0 %}
-{% for event in events %}
-{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-{% if eventdate >= today and count < 4 %}
-            <li>
-                <a href="{{ event.url }}">
-                <span class="time">
-                    <span class="month">{{ event.start_date | date: '%b' }}</span>
-                    <span class="day">{{ event.start_date | date: '%d' }}</span>
-                </span>
-                <strong>{{ event.title }}</strong>
-                </a>
-            </li>
-{% assign count = count | plus: 1 %}
-{% endif %}
-{% endfor %}
-        </ul>
+        <ul id="events"></ul>
         <a class="see-all" href="/events/">See all our events</a>
     </div>
 </section>
 
+<script type="module">
+import { EventsData } from 'https://unpkg.internal.lib.virginia.edu/web-components/latest/@uvalib/data-wrap/data-wrap.js';
+
+const eventsData = new EventsData({ calId: '4299', category: '70848,33496', limit: 3 });
+
+eventsData.fetchData().then(results => {
+console.log(results);
+const eventsList = document.getElementById('events');
+
+results.items.forEach(event => {
+    const eventContainer = document.createElement('li');
+    const eventHeading = document.createElement('strong');
+    const eventLink = document.createElement('a');
+    const eventTime = document.createElement('span');
+    eventTime.setAttribute('class', 'time');
+
+    eventLink.href = event.link;
+    eventHeading.textContent = event.title;
+
+    const timestampStart = new Date(event.start);
+
+    var eventMonthString = '<span class="month">'+timestampStart.toLocaleDateString('en-US', {month: 'short'})+'</span>';
+    var eventDayString = '<span class="day">'+timestampStart.toLocaleDateString('en-US', {day: 'numeric'})+'</span>';
+    eventTime.innerHTML = eventMonthString + eventDayString;
+
+    eventLink.appendChild(eventTime);
+    eventLink.appendChild(eventHeading);
+    eventContainer.appendChild(eventLink);
+
+    // Append the list item to the events list
+    eventsList.appendChild(eventContainer);
+  });
+}).catch(error => {
+  console.error('Error fetching events:', error);
+});
+
+</script>
 <section id="newsletter">
     <h2>Newsletter!</h2>
     <p>Learn about events, news, and more in <a
