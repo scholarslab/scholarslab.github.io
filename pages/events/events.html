@@ -8,62 +8,78 @@ redirect_from:
   - /events
 ---
 <header><hgroup>
-<p>Current and upcoming events hosted, sponsored, or partnered on by the Scholars' Lab.</p>
+<p>Current and upcoming events hosted, sponsored, or partnered on by the Scholars' Lab! Events from past terms are recorded on our <a href="/events-archive">event archive page.</a></p>
 </hgroup></header>
 
 <div class="content">
-<h2>Upcoming events</h2>
-
-<!-- temp hardcoded until Jeremy swaps in new LibCal pull -->
-		<section class="events-gallery__item">
-			<h3><a href="https://cal.lib.virginia.edu/event/13365703">Scholars' Lab DH Fellows Info Session</a></h3>
-			<div class="events-item__logistics">
-				<div class="events-logistics__time"><span>When: </span>January 15, 2025 1-2pm</div>
-				<div class="events-logistics__place"><span>Where: </span>Online</div>
-				<div><span>Register: </span><a href="https://cal.lib.virginia.edu/event/13365703">https://cal.lib.virginia.edu/event/13365703</a></div>
-			</div>
-		</section> 
-
-		<section class="events-gallery__item">
-			<h3><a href="https://cal.lib.virginia.edu/event/13768179">"Barriers to Belonging": disability justice & zine-making workshop</a></h3>
-			<div class="events-item__logistics">
-				<div class="events-logistics__time"><span>When: </span>January 22, 2025 9:30am-11:30am</div>
-				<div class="events-logistics__place"><span>Where: </span>Shannon 308 (Scholars' Lab Common Room)</div>
-				<div><span>Register: </span><a href="https://cal.lib.virginia.edu/event/13768179">https://cal.lib.virginia.edu/event/13768179</a></div>
-			</div>
-		</section>
-<!-- end temp hardcoded events -->
-
-
-
-<!-- removed old code pulling from now-epty events md folder -->
-
-
-
-
-<h2>Recent events</h2>
-<p>Any events from this academic year that have already happened. Events from before this academic year can be found in our <a href="/events-archive">past event archive</a>.</p>
-
-<ul class="page-previous_posts">
-	{% for event in events %}
-		{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
-		{% if eventdate >= today %}
-			{% continue %}
-		{% endif %}
-		{% assign currentyear = event.start_date | date: "%Y" %}
-		{% if currentyear != year %}
-			{% unless forloop.first %}
-				</ul>
-			{% endunless %}
-			<h3>{{ currentyear }}</h3>
-			<ul>
-			{% assign year = currentyear %}
-		{% endif %}
-		<li><a href="/events/{{ event.slug }}">{{ event.title }}</a> ({{ event.start_date | date: "%A, %B %-d, %Y" }})</li>
-		{% if forloop.last %}
-			</ul>
-		{% endif %}
-	{% endfor %}
-</ul>
-
+<div id="events"></div>
 </div> <!-- ends .content -->
+
+<script type="module">
+    import { EventsData } from 'https://unpkg.internal.lib.virginia.edu/web-components/latest/@uvalib/data-wrap/data-wrap.js';
+
+    const eventsData = new EventsData({ calId: '4299', category: '70848,33496' });
+
+    eventsData.fetchData().then(results => {
+    console.log(results);
+    const eventsList = document.getElementById('events');
+
+    results.items.forEach(event => {
+        const eventContainer = document.createElement('section');
+
+        // Create the <h3> element with the event title
+        const eventHeading = document.createElement('h3');
+		const eventLink = document.createElement('a');
+		const eventTimeDiv = document.createElement('div');
+
+		eventLink.href = event.link;
+        eventLink.textContent = event.title;
+
+		const timestampStart = new Date(event.start);
+		const timestampEnd = new Date(event.end);
+
+		const dateStringOptions = {
+			weekday: 'long',
+       		year: 'numeric',
+       		month: 'long',
+       		day: 'numeric'
+		};
+
+		const timeStringOptions = {
+			hour: "numeric",
+			minute: "numeric"
+		};
+
+		var eventStartDateString = timestampStart.toLocaleDateString('en-US', dateStringOptions);
+		var eventEndDateString = timestampEnd.toLocaleDateString('en-US', dateStringOptions);
+		var eventStartTimeString = timestampStart.toLocaleTimeString('en-US', timeStringOptions).replace(' ', '');
+		var eventEndTimeString = timestampEnd.toLocaleTimeString('en-US',timeStringOptions).replace(' ', '');
+
+		// Start putting together the event start/end string.
+		var eventWhenText = eventStartDateString + ', ' + eventStartTimeString;
+
+		if (eventStartDateString == eventEndDateString) {
+			eventWhenText = eventWhenText + '–' + eventEndTimeString;
+		} else {
+			eventWhenText = eventWhenText + '–' + eventEndDateString + ', ' + eventEndTimeString;
+		}
+
+		eventTimeDiv.textContent = 'When: ' + eventWhenText;
+
+		eventHeading.appendChild(eventLink);
+		eventContainer.appendChild(eventHeading);
+		eventContainer.appendChild(eventTimeDiv);
+
+		if (event.location) {
+			const eventLocationDiv = document.createElement('div');
+			eventLocationDiv.textContent = 'Where: ' + event.location;
+			eventContainer.appendChild(eventLocationDiv);
+		}
+
+        // Append the list item to the events list
+        eventsList.appendChild(eventContainer);
+      });
+    }).catch(error => {
+      console.error('Error fetching events:', error);
+    });
+  </script>
