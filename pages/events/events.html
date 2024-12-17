@@ -64,17 +64,27 @@ redirect_from:
 			eventWhenText = eventWhenText + '–' + eventEndDateString + ', ' + eventEndTimeString;
 		}
 
-		eventTimeDiv.textContent = 'When: ' + eventWhenText;
+		eventTimeDiv.textContent = eventWhenText;
 
 		eventHeading.appendChild(eventLink);
 		eventContainer.appendChild(eventHeading);
 		eventContainer.appendChild(eventTimeDiv);
 
+		let eventLocationText = [];
 		if (event.location) {
-			const eventLocationDiv = document.createElement('div');
-			eventLocationDiv.textContent = 'Where: ' + event.location;
-			eventContainer.appendChild(eventLocationDiv);
+			eventLocationText.push(event.location);
 		}
+
+		if (event.onlineSeats > 0) {
+			eventLocationText.push('Online');
+		}
+
+		console.log(eventLocationText);
+
+		const eventLocationDiv = document.createElement('div');
+		eventLocationDiv.textContent = eventLocationText.join(' & ');
+
+		eventContainer.appendChild(eventLocationDiv);
 
         // Append the list item to the events list
         eventsList.appendChild(eventContainer);
