@@ -6,11 +6,11 @@ title: Kroesna Chour
 position: Makerspace Technologist
 short_bio:
 slug: kroesna-chour 
-status: current
+status: not_current
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2024-current
+- Makerspace Technologist, 2024
 ---
 
 Expert in Button Making, 3D Printing, Laser cutter 
