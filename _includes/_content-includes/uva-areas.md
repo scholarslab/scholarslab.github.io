@@ -18,6 +18,7 @@
 * Art History
 * Architecture & Architectural History
 * Archaeology
+* Carter G. Woodson Institute & Department for African American and African Studies
 * Media Studies
 * Music
 * Religious Studies
