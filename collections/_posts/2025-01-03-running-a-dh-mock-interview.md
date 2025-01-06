@@ -4,10 +4,12 @@ date: 2025-01-03
 layout: post
 slug: running-a-dh-mock-interview
 title: Running a DH Mock Interview
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- tutorial
+- professional-development
+- academia
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/running-a-dh-mock-interview
