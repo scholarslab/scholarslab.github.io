@@ -29,7 +29,7 @@ by J.Phan and J. Truong
 
 by Holly Zhou and Ammon E. Shepherd
 
-[Typewriter Poetics: Creating Collaborative Memory Maps](/assets/post-media/ISAM2024/holly-isam2024-student-poster.pdf)
+[Typewriter Poetics: Creating Collaborative Memory Maps](/assets/post-media/isam2024/holly-isam2024-student-poster.pdf)
 
 ![](/assets/post-media/isam2024/ammon-presentation.jpg)
 
