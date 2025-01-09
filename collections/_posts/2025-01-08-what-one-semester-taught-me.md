@@ -4,6 +4,10 @@ date: 2025-01-08
 layout: post
 slug: what-one-semester-taught-me
 title: "What one semester of Praxis taught me"
+category: essay
+tags:
+- grad-student-research
+- praxis
 ---
 ...judging from my notes:
 
