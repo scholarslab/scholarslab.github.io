@@ -10,6 +10,7 @@ tags:
 - research-and-development 
 - makerspace
 - conference-report
+- grad-student-research
 ---
 Each year educators, students, and staff of university makerspaces gather to share research, ideas and projects at the International Symposium on Academic Makerspaces conference. This was the first year since it's founding in 2016 that the conference was held internationally, at Sheffield University in England. It was, perhaps, the international appeal that convinced several SLab Makerspace Technologists to submit a paper or project to the conference. Unsurprisingly (because these students are amazing) all of the papers and project were accepted for the conference.
 
