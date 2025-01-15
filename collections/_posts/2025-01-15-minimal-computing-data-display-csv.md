@@ -20,7 +20,7 @@ tags:
 
 *(Note: Brandon is going to blog about related work! Will link here once that's live.)*
 
-This is a quick post to tell you about a neat little web development thing that's allowed me to easily make (and keep updated!) nifty things displaying kinds of data related to both professional development (easy CV webpage and printable format generation!) and bibliography/book arts (an online type speciment book, based on an easily-updatable Gsheet backend!). If you aren't interested in the code, do just skim to see the photos showing the neat webpage things this can make.
+This is a post to tell yall about a neat little web development thing that's allowed me to easily make (and keep updated!) nifty things displaying kinds of data related to both professional development (easy CV webpage and printable format generation!) and bibliography/book arts (an online type speciment book, based on an easily-updatable Gsheet backend!). If you aren't interested in the code, do just skim to see the photos showing the neat webpage things this can make.
 
 ![Screenshot of a type specimen webpage created with Jekyll and a CSV of data](/assets/post-media/2025-01-15-minimal-computing-data-display-csv/fig1-lpgrid1.png)  
 *Figure 1: Screenshot of a type specimen webpage created with Jekyll and a CSV of data.*
