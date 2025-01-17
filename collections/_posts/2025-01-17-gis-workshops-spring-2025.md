@@ -7,7 +7,7 @@ slug: gis-workshops-spring-2025
 category: announcement
 ---
 
-Or is it Happily ever Mapter? Certainly not Mappily Ever Mapter, that would be silly. Anyway, if your goal is to learn GIS, this workshop series may have the fairytale ending you're hoping for. If nothing else, you'll leave these sessions feeling spatial. 
+Or is it Happily ever Mapter? Definitely not Mappily Ever Mapter though, that would be silly. Anyway, if your goal is to learn GIS, this workshop series may have the fairytale ending you're hoping for. If nothing else, you'll leave these sessions feeling spatial. 
 
 Spring will allegedy be springing - depending on when you're reading this, you may have missed or forgotten the mini ice age we are currently experiencing. Regardless, it's a new year and it's a good enough time for us to shift gears and turn our workshop focus to ArcGIS Online (AGOL), Esri's GIS solution for the cloud. AGOL is browser-based, eliminating any Windows vs. Mac shenanigans, and allowing us to provide temporary access to members of the community that don't have UVA credentials. 
 
