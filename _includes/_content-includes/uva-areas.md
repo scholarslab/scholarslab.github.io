@@ -1,6 +1,7 @@
 #### Science, technology, engineering
 * School of Medicine (including: Neuroscience; Plastic Surgery; Molecular Physiology and Biological Physics; Medical Simulation Center)
 * UVA Hospital
+* UVA’s Center for Health Humanities and Ethics
 * Nursing
 * Biology
 * Physics
