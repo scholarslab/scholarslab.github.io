@@ -21,4 +21,5 @@
 * Building Goodness Foundation
 * The Haven, Charlottesville
 * Ablemarle County Public Schools (e.g. Scholar Studios Advisory Committee)
-* Virginia Center for the Book: Book Arts Shop & Alphabuzz Public Letterpress Pedagogy Teaching Cohort
+* Virginia Center for the Book: Book Arts Shop & Alphabuzz Public Letterpress Pedagogy Teaching Cohort  
+* Barnard Zine Library
