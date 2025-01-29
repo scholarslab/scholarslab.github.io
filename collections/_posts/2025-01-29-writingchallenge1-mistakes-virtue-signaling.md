@@ -12,7 +12,7 @@ tags:
 - care
 crosspost:
   - title: Amanda's blog
-    url: https://literaturegeek.com/2025/01/29/writingchallenge1-mistakes-virtue-signaling
+    url: https://literaturegeek.com/2025-01-29-writingchallenge1-mistakes-virtue-signaling
 ---
 
 In which I argue we should be less stymied by fear of "virtue signaling" and more worried about *not* doing enough to assert, model, celebrate just and caring choices.
