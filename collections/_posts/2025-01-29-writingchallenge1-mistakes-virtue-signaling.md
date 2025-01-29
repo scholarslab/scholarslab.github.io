@@ -1,5 +1,5 @@
 ---
-author: amanda-vicsonti
+author: amanda-visconti
 date: 2025-01-29
 layout: post
 slug: writingchallenge1-mistakes-virtue-signaling
