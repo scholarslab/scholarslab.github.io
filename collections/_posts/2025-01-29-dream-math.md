@@ -4,10 +4,10 @@ date: 2025-01-29
 layout: post
 slug: dream-math
 title: Dream Math
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- meta-blogging
+- care
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/dream-math
