@@ -11,7 +11,8 @@ We frequently work with UVA faculty, and are especially interested in assisting:
 * Faculty wishing to become digital scholars & methodological practitioners in their own right
 * Existing digital scholars looking for advising, accomplices, or collaborators
 
-Opportunities with SLab include:
+Opportunities with Scholars' Lab include:  
+* Calls like the [2025 Data Analytics Center-Digital Humanities Center Fellowship](/blog/hpc-fellowships-cfp/), pairing teams of 1 UVA faculty member and 1 UVA graduate student on experimental humanities research requiring high-performance computing resources  
 * Consultations, scheduled by [emailing us](mailto:scholarslab@virginia.edu)
 * Pedagogical collaboration (e.g. syllabi collaboration to add a DH component to a course; co-teaching by staff)
 * Public space for showcasing data art and visualizations

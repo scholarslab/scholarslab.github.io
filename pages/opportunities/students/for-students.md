@@ -37,6 +37,9 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 [More information](/makerspace-technologists/)
 
+## Various CFPs for researchers & research teams  
+Watch [our blog](/blog) for calls like the [2025 Data Analytics Center-Digital Humanities Center Fellowship](/blog/hpc-fellowships-cfp/), which pairs teams of 1 UVA faculty member and 1 UVA graduate student on experimental humanities research requiring high-performance computing resources.
+
 ## Scholars’ Lab GIS Technician
 **Call issued:** Subject to need, often in April/May for the summer
 
@@ -45,7 +48,7 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 [More information](/scholars-lab-gis-technician/)
 
 ## Cultural Heritage Informatics Internship
-**Call issued:** Offered each semester
+**Call issued:** Subject to need, often offered each semester
 
 **Deadline:** [Registration deadline](http://www.virginia.edu/registrar/calendar.html) for courses each semester
 
