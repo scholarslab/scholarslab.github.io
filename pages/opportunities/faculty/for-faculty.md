@@ -19,6 +19,7 @@ Opportunities with Scholars' Lab include:
 * Connection to our international scholarly network for conferences, collaborators, job searches, scholarly communication and amplification, and other opportunities 
 * DHSI tuition waivers (limited number each year, by application announced on blog)
 * SLab staff partnership with other expert Library colleagues on the Library's Course Enrichment Grants and Faculty Research Sprints
-* For faculty considering applying to other roles with some digital scholarship inflection, [our professional development opportunities](/professional-development)
+* For faculty considering applying to other roles with some digital scholarship inflection, [our professional development opportunities](/professional-development)  
+* Staff support and collaboration for the [DH Center's Institute for Advanced Technology in the Humanities faculty fellowships](https://www.iath.virginia.edu/res_fellows.html), a decades-old IATH opportunity we've recently formally joined in on supporting
 
-See also our DH Center partners <a href="https://www.iath.virginia.edu/">IATH</a>, for their annual faculty fellowship opportunities.
+See also our DH Center partners <a href="https://www.iath.virginia.edu/">IATH</a> for additional faculty opportunities.
