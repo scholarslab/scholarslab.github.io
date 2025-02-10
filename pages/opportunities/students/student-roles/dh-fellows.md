@@ -37,7 +37,7 @@ Since its beginnings in 2007, the Graduate Fellowship in Digital Humanities has 
 A complete application package will include the following materials:
 
 * a cover letter (roughly 2 pages single-spaced), addressed to the selection committee, containing:
-  * a summary of the applicant’s plan for use of digital technologies in his or her dissertation research;
+  * a summary of the applicant’s plan for use of digital technologies in their dissertation research;
   * a summary of the applicant’s experience with digital projects;
   * a description of Scholars' Lab staff whose expertise will be relevant and useful to the proposed project;
   * a description of how the fellowship would be transformative for your work and your career;
