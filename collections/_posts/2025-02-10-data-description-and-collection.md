@@ -4,10 +4,10 @@ date: 2025-02-10
 layout: post
 slug: data-description-and-collection
 title: Data Description and Collection
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- dataset
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/data-description-and-collection
