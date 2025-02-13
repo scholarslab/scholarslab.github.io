@@ -18,7 +18,7 @@ tags:
 - tutorial-adjacent 
 ---
 
-*(Note: Brandon is going to blog about related work! Will link here once that's live.)*
+*(See also: [Brandon](/people/brandon-walsh) has [blogged about related work creating a print-ready CV using CSS!](https://scholarslab.lib.virginia.edu/blog/print-ready-web-cv/))*
 
 This is a post to tell yall about a neat little web development thing that's allowed me to easily make (and keep updated!) nifty things displaying kinds of data related to both professional development (easy CV webpage and printable format generation!) and bibliography/book arts (an online type speciment book, based on an easily-updatable Gsheet backend!). If you aren't interested in the code, do just skim to see the photos showing the neat webpage things this can make.
 
