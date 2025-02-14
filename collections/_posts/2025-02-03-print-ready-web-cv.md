@@ -4,10 +4,14 @@ date: 2025-02-03
 layout: post
 slug: print-ready-web-cv
 title: Print-Ready Web CV
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- tutorial
+- code
+- web-development
+- design
+- jekyll
+- professional-development
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/print-ready-web-cv

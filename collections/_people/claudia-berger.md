@@ -10,7 +10,7 @@ people-category:
 roles:
 - Virtual Artist-in-Residence, 2024-2025
 ---
-Claudia Berger is the inaugural Virtual Artist-in-Residence 2025-2025, crafting a scholarly data quilt project, "Footpath for the People?", with an accompanying annotation zine and public event. 
+Claudia Berger is the inaugural Virtual Artist-in-Residence 2024-2025, crafting a scholarly data quilt project, "Footpath for the People?", with an accompanying annotation zine and public event. 
 
 Berger describes their planned project: "This quilt will explore the Appalachian Trail and who this "public" resource was actually designed for. It will look at the history of the trail and through-hikers like Emma Gatewood, who popularized the trail, as well as how it was created and how it is used today. In particular the project will explore how the trail intersects with histories of race, gender, and Indigenous rights of both the trail as a whole and in the specific states is passes through. The quilt will be paired with a zine that will connect viewers to more information and resources about the trail."
 
