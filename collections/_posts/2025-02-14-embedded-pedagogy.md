@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2024-02-14
+date: 2025-02-14
 layout: post
 slug: embedded-pedagogy
 title: Embedded Pedagogy
