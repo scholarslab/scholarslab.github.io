@@ -4,10 +4,13 @@ date: 2025-02-14
 layout: post
 slug: embedded-pedagogy
 title: Embedded Pedagogy
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- care
+- academia
+- labor
+- tacit-admin
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/embedded-pedagogy
