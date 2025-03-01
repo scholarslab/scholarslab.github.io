@@ -4,10 +4,13 @@ date: 2025-02-27
 layout: post
 slug: reading-dh-job-ads
 title: Reading DH Job Ads
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- professional-development
+- alt-ac
+- student-empowerment
+- academia
+- tutorial-adjacent
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/reading-dh-job-ads
