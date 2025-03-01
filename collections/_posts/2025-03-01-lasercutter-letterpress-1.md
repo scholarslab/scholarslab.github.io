@@ -81,7 +81,7 @@ The SVG file producing the cut was color inverted so that the parts I wanted cut
 If you haven't used a lasercutter before but are curious, I encourage you to ask a local or college/university librarian if they have or know of any nearby that can be used—with cheaper and smaller versions becoming more available, at least in the U.S. these seem to be popping up in more makerspaces in the last couple years. I'm not sure, but think the standing rather than tabletop kind are the ones with enough power (and safe venting requirements) to cut deep enough into hard woods, though other materials are also possible.
 
 # Materials
-Lots of good posts if you search this forum. For wood, end-grain maple seems to hit the sweet spot for price, hardness, results, but I've seen folks mention other options including cherry hardwood. 
+Lots of good posts if you search the Briar Press forum. For wood, end-grain maple seems to hit the sweet spot for price, hardness, results, but I've seen folks mention other options including cherry hardwood. 
 * So far I've used type-high, maple wood blanks from Virgin Wood Press, McKellier, and Ebay old letterpress blanks with the lead piece chipped off (don't put lead in a lasercutter, the fumes are toxic)
 * Non-type-high wood: get wood from anywhere cheaper (eg McClains) then add a shim (of wood, 3D printed block, tape, ?) to bring it to type-high
 * Other materials: acrylic (I've used this in a lasercutter, lovely results, very quick <2min cuts, can get fun seethrough neon colors!); harder (grey, not "EZ Cut") or other labeled-laser-safe linoleum (thanks for advice from [Ryan Cordell](https://skeuomorph.ischool.illinois.edu/)*)
