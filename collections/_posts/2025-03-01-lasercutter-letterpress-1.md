@@ -97,7 +97,7 @@ I've found the non-basic part to be figuring out the best lasercutter settings (
 So far, I've had the most success playing with these using cheap sample wood (though preferably of same/similar wood type and height to what you'll ultimately use, so the settings work the same) to find the highest power (deepest cutting) and highest speed (finishes fastest) that don't overly burn the wood, then doing multiple passes of the lasercutter (not touching the material at all in between, so that it remains exactly perfectly registered with the cuts going in the exact same places each time).
 
 # What's involved: advanced
-I'm not at any advanced stage doing this yet :) but lots of folks are, including users on this forum, and some of the folks producing new wood type available via online stores too. [Cordell](https://skeuomorph.ischool.illinois.edu/) recommended starting cuts on a lasercutter, then using a CNC router to dig out most of the wood farther away from the left-as-type-high bits faster and deeper than a lasercutter can.
+I'm not at any advanced stage doing this yet :) but lots of folks are, including users on the Briar Press forum, and some of the folks producing new wood type available via online stores too. [Cordell](https://skeuomorph.ischool.illinois.edu/) recommended starting cuts on a lasercutter, then using a CNC router to dig out most of the wood farther away from the left-as-type-high bits faster and deeper than a lasercutter can.
 
 There are also a number of folks creating blocks and type completely via CNC router; I took a very fun and informative virtual workshop from Ryan Molloy [on this topic](https://partnersinprint.org/event/long-distance-letterpress-diy-wood-type-2/) via Partners in Print last fall.
 
