@@ -28,7 +28,7 @@ You can use these for stickers or other purposes; to lasercut them for printing 
 
 Download as: [SVG](https://literaturegeek.com/assets/post-media/2025-03-03-lasercutter-letterpress-designs-1/made-with-love-by-trans-ally-printer_CCBYNC-AmandaWyattVisconti.svg) or [PNG](https://literaturegeek.com/assets/post-media/2025-03-03-lasercutter-letterpress-designs-1/made-with-love-by-trans-ally-printer_CCBYNC-AmandaWyattVisconti.png). *(CC-BY-NC Amanda Wyatt Visconti.)*
 
-![](https://literaturegeek.com/assets/post-media/2025-03-03-lasercutter-letterpress-designs-1/made-with-love-by-trans-ally-printer_CCBYNC-AmandaWyattVisconti.svg)
+![Adobe Illustrator design intended for creating letterpress printing blocks by cutting via lasercutter onto wood, to use to print the image to paper with ink; to achieve this, the black & white colors are inverted. The image will also need to be horizontally flipped, so that when the block is pressed to paper the inked image is legible; but for social media viewing I have left it unflipped. The design is the text "made with love by" followed by checkboxes next to the options "trans ally!" and "trans printer!", followed by the outline for a trans flag you can color in after letterpress printing](https://literaturegeek.com/assets/post-media/2025-03-03-lasercutter-letterpress-designs-1/made-with-love-by-trans-ally-printer_CCBYNC-AmandaWyattVisconti.svg)
 
 ## "made by a trans ally!" & "made by a trans printer!" with fill-in trans pride flag
 
