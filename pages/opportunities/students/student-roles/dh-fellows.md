@@ -5,7 +5,7 @@ permalink: /digital-humanities-fellows/
 nav: false
 ---
 
-**Applications are now open for the 2025-2026 Digital Humanities Fellowship. Find More Details Below.**
+**Applications are closed for the 2025-2026 Digital Humanities Fellowship. Find more details below to get a jump on thinking for next year.**
 
 The application deadline for fellowships to be held during the 2025-2026 academic year is **February 15th, 2025**. More details on how to apply at the end of this page. 
 
