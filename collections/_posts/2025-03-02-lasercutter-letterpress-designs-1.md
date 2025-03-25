@@ -13,6 +13,7 @@ tags:
 - bibliography
 - media-studies
 - letterpress-book-arts
+- lasercutting
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2025-03-02-lasercutter-letterpress-designs-1

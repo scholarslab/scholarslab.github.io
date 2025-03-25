@@ -4,10 +4,10 @@ date: 2025-03-03
 layout: post
 slug: digital-pedagogy-in-small-bites
 title: Digital Pedagogy in Small Bites
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- about-collaboration-community
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/digital-pedagogy-in-small-bites

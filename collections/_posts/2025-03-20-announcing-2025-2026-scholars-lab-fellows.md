@@ -4,7 +4,7 @@ date: 2025-03-20
 layout: post
 slug: announcing-2025-2026-scholars-lab-fellows
 title: Announcing 2025-2026 Scholars' Lab Fellows
-category: essay
+category: announcement
 ---
 We are thrilled to announce the 2025-2026 Scholar’s Lab fellows for the Praxis Program and the Graduate Fellowship in the Digital Humanities. We are welcoming 6 fellows from 3 disciplines from the arts, humanities, and social sciences. Our graduate fellows are joining a robust and vibrant community of past students!
 

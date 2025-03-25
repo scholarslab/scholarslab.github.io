@@ -4,10 +4,10 @@ date: 2025-03-24
 layout: post
 slug: personal-data-story
 title: Personal Data Story
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- data
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/personal-data-story

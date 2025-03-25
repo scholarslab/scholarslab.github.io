@@ -5,10 +5,11 @@ date: 2025-03-18 10:57:53
 title: "Laser Cut & 3D Printed Keychain"
 slug: 2025-03-18-laser3Dkeychain
 summary: "Tutorial on how to use the laser cutter and 3D printer to make a unique keychain"
-category: tutorial
+category: essay
 tags:
   - makerspace
   - tutorial
+  - lasercutting
 ---
 
 <style>

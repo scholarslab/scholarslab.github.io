@@ -4,10 +4,11 @@ date: 2025-03-10
 layout: post
 slug: on-the-limited-knowability-of-institutions
 title: On the Limited Knowability of Institutions
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- tacit-admin
+- academia
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/on-the-limited-knowability-of-institutions
