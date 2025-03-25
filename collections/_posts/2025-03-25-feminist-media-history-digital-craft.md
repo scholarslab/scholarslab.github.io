@@ -4,7 +4,7 @@ date: 2025-03-25
 layout: post
 slug: feminist-media-history-digital-craft
 title: "Pixels, paper, politics: a digital humanist booklab with an intersectional transfeminist frame"
-summary: "Sharing the accepted proposal I submitted to the international _Feminist Media Histories_ journal special issue on 'Craftwork within the Digital'."
+summary: "Sharing the accepted proposal I submitted to the international Feminist Media Histories journal special issue on 'Craftwork within the Digital'."
 category: essay
 tags:
 - makerspace
