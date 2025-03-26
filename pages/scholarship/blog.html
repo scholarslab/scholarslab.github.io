@@ -70,7 +70,7 @@ redirect_from:
 		{% assign date = currentdate %}
 	{% endif %}
 	{% if post.category != "update" %}
-		<li><a href="{{ post.url }}">"{{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}"</a> by {{ authorstring | strip }}</li>
+		<li><a href="{{ post.url }}">"{{ post.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}"</a> by {{ authorstring | strip }}</li>
 	{% else %}
 		<li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }}
 		update: {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
