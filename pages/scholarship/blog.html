@@ -56,7 +56,6 @@ redirect_from:
 
 <section id="previous_posts">
 <h2>Previous Posts</h2>
-<ul class="page-previous_posts">
 {% for post in site.posts offset:4 %}
 	{% if post.author %}
 		{% capture authorstring %}
@@ -80,5 +79,4 @@ redirect_from:
 		</ul>
 	{% endif %}
 {% endfor %}
-</ul>
 </section>
