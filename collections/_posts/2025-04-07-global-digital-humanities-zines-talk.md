@@ -14,6 +14,7 @@ tags:
 - letterpress-book-arts
 - zines
 - zine-bakery
+- global-dh
 crosspost:
   - title: Amanda's main research blog
     url: https://literaturegeek.com/2025-04-07-global-digital-humanities-zines-talk

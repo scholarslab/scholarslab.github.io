@@ -4,10 +4,12 @@ date: 2025-03-31
 layout: post
 slug: blogging-a-book-so-far
 title: Blogging a Book so Far
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- academia
+- meta-blogging
+- project-management
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/blogging-a-book-so-far
