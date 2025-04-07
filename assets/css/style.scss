@@ -622,16 +622,6 @@ section.feature {
 	margin:0;
 }
 
-/********************************************************************/
-/* Footer */
-#footer {
-	padding: 1rem;
-	p {
-		margin:0;
-	}
-
-}
-
 /* People image/name/role sections on unit pages */
 
 .rd-person__img, #spatial-staff, .makerspace__people img {
@@ -874,15 +864,13 @@ h1.post-title {
 }
 
 .post__credits {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 2rem 2rem;
 	position: relative;
-	grid-area: footer;
-	margin-top: 2em; // paragraph above has 1em by default
 	&::before {
 		content: '';
 		display: block;
-		position: absolute;
-		top: 0;
-		left: 0;
 		height: 2px;
 		width: 33%;
 		background-color: rgba(0,0,0,.5);

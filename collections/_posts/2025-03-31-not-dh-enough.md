@@ -3,7 +3,12 @@ author: oriane-guiziou-lamour
 date: 2025-03-31
 layout: post
 slug: dh-enough
-title: Not DH Enough?
+title: "Not DH Enough?"
+category: essay
+tags:
+- grad-student-research
+- pedagogy
+- tutorial-adjacent
 ---
 
 Designing a workshop is hard. From what I understand, you need at least three components for it to be successful: 
