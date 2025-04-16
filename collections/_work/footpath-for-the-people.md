@@ -16,6 +16,8 @@ end-year: 2025
 
 *Footpath for the People?* is a data quilt designed and created by Scholars' Lab's inaugural Virtual Artist-in-Residence [Claudia Berger](/people/claudia-berger) during the 2024-2025 academic year, with an accompanying [zine](https://zinebakery.com/redistro/FFTPzine) explaining how to read the quilt's data physicalization, and the research, goals, and methods used to realize the project. Berger also blogged the design process leading to the quilt at ["Designing a Data Physicalization: A love letter to dot grid paper"](https://scholarslab.lib.virginia.edu/blog/berger-designing-data-viz/) on our research blog.
 
+Berger described their planned project at its beginning in 2024: “This quilt will explore the Appalachian Trail and who this 'public' resource was actually designed for. It will look at the history of the trail and through-hikers like Emma Gatewood, who popularized the trail, as well as how it was created and how it is used today. In particular the project will explore how the trail intersects with histories of race, gender, and Indigenous rights of both the trail as a whole and in the specific states is passes through.”
+
 The quilt is currently on display in the Scholars' Lab Common Room (Shannon Library 308), opposite our main entrance. Copies of the zine are on a table below the quilt, or can be [read or printed from online](https://zinebakery.com/redistro/FFTPzine) for free.
 
 ## Data quilt 3D model
