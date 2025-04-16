@@ -40,3 +40,4 @@ Collaborations
 Events & Community Building
 Prototypes & Proofs of Concept
 Student
+Exhibits & Installations

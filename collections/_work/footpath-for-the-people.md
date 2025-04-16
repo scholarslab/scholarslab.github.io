@@ -9,7 +9,7 @@ title: "'Footpath for the People?' A Data Quilt & Companion Zine about the Appal
 link: https://zinebakery.com/redistro/FFTPzine
 thumb-img: footpath-for-the-people-project-thumb.jpg
 banner-img: footpath-for-the-people-project-banner.jpg
-research-category: Collaborations
+research-category: Exhibits & Installations
 start-year: 2024
 end-year: 2025
 ---
