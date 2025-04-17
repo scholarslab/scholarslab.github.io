@@ -22,7 +22,7 @@ The quilt is currently on display in the Scholars' Lab Common Room (Shannon Libr
 
 ## Data quilt 3D model
 <iframe width="700px" height="700px" frameborder="0" allowfullscreen src="https://scaniverse.com/scan/z6aldwod33udye3j?embed=1"></iframe>
-We captured just the front of the quilt; use your cursor to move it around a bit, to get a sense of the depth and texture of the quilt.
+Arin Bennett captured this 3D scan of the front of the quilt; use your cursor to move it around a bit, to get a sense of the depth and texture of the quilt, and the command key will let you pan around the 3D object instead of just pivoting it (helpful when zooming in on details).
 
 ## Data quilt images
 ![Photo of a data quilt created by Claudia Berger, showing cream, white, navy, maize, charcoal, and sage green hand-dyed fabric arranged in blocks and triangles representing data from their research on who the "public" Appalachian Trail was actually designed for, & since used by.](/assets/img/work/footpath-for-the-people-details-images/footpath-for-the-people-0.jpg)
