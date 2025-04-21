@@ -1,5 +1,5 @@
 ---
-author: Emmy-Monaghan
+author: emmy-monaghan
 date: 2025-04-18
 layout: post
 slug: our-journey-to-praxathon
