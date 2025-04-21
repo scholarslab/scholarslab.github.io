@@ -1,11 +1,11 @@
 ---
-first_name: Hans
-last_name: Yang
+first_name: Adrian 
+last_name: Villanueva 
 layout: people
-title: Hans Yang
+title: Adrian Villanueva
 position: Makerspace Technologist
 short_bio:
-slug: hans-yang
+slug: adrian-villanueva
 status: current
 people-category:
 - student
@@ -13,4 +13,4 @@ roles:
 - Makerspace Technologist, 2024-present
 ---
 
-Expert in Button Making, 3D Printing, Laser Cutting, Paper Crafts 
+Expert in Button Making, 3D Printing, Clay Modeling

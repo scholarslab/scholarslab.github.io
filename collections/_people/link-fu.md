@@ -10,7 +10,7 @@ status: current
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2024-current
+- Makerspace Technologist, 2024-present
 ---
 
-Expert in Button Making, Stickers, Textiles, Cosplay, Crafting, 3D Printing
+Expert in Button Making, Stickers, Jewelry Making, Textiles, Costuming

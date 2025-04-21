@@ -1,11 +1,11 @@
 ---
-first_name: Hans
-last_name: Yang
+first_name: Khastur
+last_name: Munkhtur
 layout: people
-title: Hans Yang
+title: Khastur Munkhtur 
 position: Makerspace Technologist
 short_bio:
-slug: hans-yang
+slug: khastur-munkhtur 
 status: current
 people-category:
 - student
@@ -13,4 +13,4 @@ roles:
 - Makerspace Technologist, 2024-present
 ---
 
-Expert in Button Making, 3D Printing, Laser Cutting, Paper Crafts 
+Expert in 3D Printing, Button Making
