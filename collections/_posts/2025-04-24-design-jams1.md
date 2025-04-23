@@ -11,12 +11,15 @@ At a consultation in the Lab a couple of weeks ago, the group we were chatting w
 
 So what the heck is a design jam?
 
-# Design Jams, Part 1
-or
-# So I’ve Got This Great Idea, But I Don’t Really Know Exactly What I Can Do With It or How To Get Started, and Other Sundry Considerations
-or
-# The Big One
+__Design Jams, Part 1__
 
+or
+
+__So I’ve Got This Great Idea, But I Don’t Really Know Exactly What I Can Do With It or How To Get Started, and Other Sundry Considerations__
+
+or
+
+__The Big One__
 
 Design jams are group brainstorming and idea generation sessions that are intended to solve design problems by generating a wide set of possible interventions. So, think of it like getting about 1000 feet up above the research you want to do with a bunch of smart, experienced people, and just riffing on ideas for a while. By going broad before you try to go deep, you can help to insure that you’re asking the actual question you want to ask (aka, the one that actually interests you and pushes your research in the direction you most want it to go), that you’ve got the right data collection approach to get what you need in order to generate the answers you’re seeking, and that you can creatively approach presenting those answers to your intended audiences in ways that help them deepen their understanding of your research.
 
