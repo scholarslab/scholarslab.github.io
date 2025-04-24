@@ -13,7 +13,7 @@ The Scholars’ Lab, part of the Digital Humanities Center in the University of 
 
 We use "data art" rather than "data visualization" to emphasize we seek physical, compelling, data-inspired or data-enriched compositions that inspire or educate visitors. These can be, but *do not need* to be large-scale research projects. They *should be* based on some kind of specific data, but we define data broadly to include analog, ephemeral  "data" such as photo albums, archives, and personal records, as well as digital datasets. Projects should take a material form—that visitors to our space can examine and/or interact with. They can be graphical (2D) or multidimensional exhibits, and can also incorporate sound or other analog or digital media. 
 
-**Questions or need help IDing data?** If you have a clear idea for exploring a specific topic with a specific artistic outcome, but need help identifying a dataset to use, we might be able to suggest possibilities. Please email [Laura Miller](lam2c@virginia.edu) at least a week before the application is due to set up a data consultation, or to answer any other questions you may have.
+**Questions or need help IDing data?** If you have a clear idea for exploring a specific topic with a specific artistic outcome, but need help identifying a dataset to use, we might be able to suggest possibilities. Please email [Laura Miller](mailto:lam2c@virginia.edu) at least a week before the application is due to set up a data consultation, or to answer any other questions you may have.
 
 ## Eligibility:
 
