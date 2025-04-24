@@ -12,8 +12,6 @@ At a consultation in the Lab a couple of weeks ago, the group we were chatting w
 So what the heck is a design jam?
 
 
-***
-
 __Design Jams, Part 1__
 
 or
@@ -32,7 +30,7 @@ So how do we do this kind of design jam in the Scholars’ Lab? I’m so glad yo
 
 You take one or more scholars and/or researchers who have a project idea, add in several Scholars’ Lab staff members with varying education, training, and practical experience, sprinkle over subject specialist librarians from the appropriate disciplines, technical specialists from other units in the Library whose perspectives and input will be needed and valuable to the scholar/researcher, a large whiteboard with a variety of markers, and about 1-2 hours time.
 
-*Note:* You remember the [meeting facilitation for beginners post] (https://scholarslab.lib.virginia.edu/blog/a-meeting-toolkit-for-new-facilitators/) that Brandon and I posted a couple of years ago? Yeah, for a design jam, throw most of that out. The last thing you want for a “big” design jam is a really rigid agenda. You do want an agenda, but not one that’s timeboxed in the same way a regular staff or project meeting is timeboxed. That’s also why a design jam is generally longer than a regular project meeting, too.
+*Note:* You remember the [meeting facilitation for beginners post](https://scholarslab.lib.virginia.edu/blog/a-meeting-toolkit-for-new-facilitators/) that Brandon and I posted a couple of years ago? Yeah, for a design jam, throw most of that out. The last thing you want for a “big” design jam is a really rigid agenda. You do want an agenda, but not one that’s timeboxed in the same way a regular staff or project meeting is timeboxed. That’s also why a design jam is generally longer than a regular project meeting, too.
 
 So what do we need from someone who wants to do this kind of design jam with us? 
 You have to have a project idea that’s got enough breadth and depth for the meeting to be generative. So if you’re refining ideas that you’ve already spent a lot of time researching and writing about, or if you want to use the results of an existing body of research to create a digital presentation of its data, it’s unlikely that this variety of design jam will be required. (More about this in the next post in this series. Coming soon to a Scholars’ Lab blog near you!)
