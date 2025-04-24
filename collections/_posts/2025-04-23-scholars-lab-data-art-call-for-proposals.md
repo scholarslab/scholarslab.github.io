@@ -47,5 +47,5 @@ Ideally the installation would use one of these three locations, but if your pro
 ## Timeline:
 
 * CFP announced April 23, 2025
-* **Submission Deadline**:  Submissions should be sent to [Laura Miller](lam2c@virginia.edu) by end of day, **Friday, May 16**. The artist(s) will be notified by **Friday, May 23**.
+* **Submission Deadline**:  Submissions should be sent to [Laura Miller](mailto:lam2c@virginia.edu) by end of day, **Friday, May 16**. The artist(s) will be notified by **Friday, May 23**.
 * **Project Deadline**: The selected piece must be completed and ready to be installed by August 28, 2025.
