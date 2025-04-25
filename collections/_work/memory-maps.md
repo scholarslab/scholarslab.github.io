@@ -38,8 +38,6 @@ NAME captured this 3D scan of the front of the exhibit; use your cursor to move 
 ## Exhibit behind-the-scenes video
 ![A video of the exhibit, with clips of it being made in our makerspace](/assets/img/work/memory-maps-behind_the_scenes_video.mp4)
 
-https://scholarslab.org/assets/img/work/memory-maps-behind_the_scenes_video.mp4
-
 -->
 
 <!--
