@@ -34,10 +34,13 @@ Ask Arin, or use app to make/upload e.g. Scaniverse—below is what the embed co
 NAME captured this 3D scan of the front of the exhibit; use your cursor to move it around a bit, to get a sense of the depth and texture of the quilt, and the command key will let you pan around the 3D object instead of just pivoting it (helpful when zooming in on details).
 -->
 
+<!--
 ## Exhibit behind-the-scenes video
 ![A video of the exhibit, with clips of it being made in our makerspace](/assets/img/work/memory-maps-behind_the_scenes_video.mp4)
 
 https://scholarslab.org/assets/img/work/memory-maps-behind_the_scenes_video.mp4
+
+-->
 
 <!--
 ## Exhibit images
