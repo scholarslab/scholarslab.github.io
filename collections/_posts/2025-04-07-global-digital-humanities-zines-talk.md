@@ -3,8 +3,8 @@ author: amanda-visconti
 date: 2025-04-07
 layout: post
 slug: global-digital-humanities-zines-talk
-title: "Global Digital Humanities Conference: Zine Bakery: borderless DH research, methods training, and scholarly communication via zines"
-summary: "Resources from my Global DH 2025 talk."
+title: "Zine Bakery: borderless DH research, methods training, and scholarly communication via zines"
+summary: "Resources from my Global DH 2025 conference talk and Cal Poly Humboldt Innovation Summit invited talk."
 category: essay
 tags:
 - makerspace
@@ -22,9 +22,25 @@ crosspost:
     url: https://zinebakery.com//2025-04-03-global-dh-zines-talk-sources/
 ---
 
-I presented about the Zine Bakery today at the Global Digital Humanities conference last week. Below are some links that had to fly by on my screen, so folks have more time to peruse them.
+I presented about the Zine Bakery this spring at the Global Digital Humanities conference, and as an invited speaker at the Cal Poly Humboldt Library's Innovation Summit. Below are some links that had to fly by on my screen, so folks have more time to peruse them!
 
 I'm on Bluesky at [LiteratureGeek.bsky.social](https://LiteratureGeek.bsky.social) if you want to chat there!
+
+# Zines used as decoration on cover slide
+![Screenshot from Cal Poly Humboldt talk cover slide, showing tiny-size versions of the front covers of various zines arrayed in a jumble](/assets/img/post-images/2025-04-03_global-dh-zines-talk-sources-1.png)
+
+The zines pictured in the slide above are:
+
+* ["Disobedient Electronics: Protest"](https://issuu.com/criticalmaking/docs/protest-hertz-201705052135-20180108) by Garnet Hertz  
+* ["Kult of the Cyber Witch #00"](https://kultofthecyberw.itch.io/) by Kult of the Cyber Witch  
+* ["Window to Another Realm" (Mala Leche #3)](https://badmilkpress.org/mala-leche-3) by Sri Kodakalla and Ramona Martinez, co-directors of Bad Milk Press; featuring 18 creatives: Candice Agnello, Brigid Bartels, Erika Chu, Dana Espinosa, Kristen Finn, Sophie Gibson, Meesha Goldberg, Laura Lee Gulledge, Makaela-Ann Johansen, Margaret Kim, Sri Kodakalla, Zoe Krylova, Ramona Martinez, Rochelle Sumner & The Bonnet Maker Project, Julia Travers, Taylor Trumble, Jess Walters, and Abigail Wilson  
+* ["Growing Up Biracial in America"](https://artsci.tamu.edu/english/_files/_documents/research/latinx-digital-exhibition/3-ashley-garcia-growing-up-bi-racial-in-america.pdf) by Ashley Garcia  
+* ["Linux debugging tools you'll love"](https://wizardzines.com/zines/debugging/) by Julia Evans  
+* ["Flowerings: a framework for mutual growth"](https://www.lib.jmu.edu/flowerings/framework/) by Furious Flower Poetry Center and JMU Libraries  
+* ["I Accuse This Liberal University of Terror and Violence"](https://www.dropbox.com/scl/fi/vi3xj8rxsmyioefu0l1qt/fredy-perlman-i-accuse-this-liberal-university-of-terror-and-violence.lt.pdf?rlkey=djyc5msoy5guuwe04aprr79vr&e=1&dl=0 ) by Fredy Perlman; printed by Fredy Perlman and Lorraine Perlman, Radical Education Project  
+* ["Trans People Exist in the Future Art: a zine of art and poetry celebrating trans resilience"](https://tdor.co/#zine ) by Kemi Alabi, Micah Bazant, Kah Yanghi, Art Twink  
+* [""Appalachian resistance histories"](https://hollernetwork.files.wordpress.com/2018/10/resistance-histories.pdf) by The Holler Network  
+* ["The People and The Library"](https://justseeds.org/wp-content/uploads/ThePeopleandtheLibraryFINAL1.pdf) by Ben Remsen, Kristin Campbell, Gregory Benjamin, Katrina Clark, Betty Beaufort, Kate Goodman, Emily Drabinsk, Erik Ruin  
 
 # Key parts of Zine Bakery
 * [Homepage & what is the project?](https://zinebakery.com) as well as links to subsets of the zines, such as [all the social justice zines that are free to print and share](https://zinebakery.com/subsets/free-sj-zines)  
