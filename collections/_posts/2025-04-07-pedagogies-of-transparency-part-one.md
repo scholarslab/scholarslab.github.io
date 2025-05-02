@@ -4,10 +4,18 @@ date: 2025-04-07
 layout: post
 slug: pedagogies-of-transparency-part-one
 title: "Pedagogies of Transparency: Part One"
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- book-project
+- brandon-book
+- pedagogy
+- about-collaboration-community
+- charter
+- project-management
+- praxis
+- student-empowerment
+- professional-development
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/pedagogies-of-transparency-part-one

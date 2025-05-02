@@ -6,7 +6,9 @@ slug: group-project-management-in-the-classroom
 title: Group Project Management in the Classroom
 category: essay
 tags:
-- Digital humanities
+- pedagogy
+- project-management
+- tutorial-adjacent
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/group-project-management-in-the-classroom

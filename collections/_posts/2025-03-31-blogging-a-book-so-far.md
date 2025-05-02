@@ -10,6 +10,8 @@ tags:
 - academia
 - meta-blogging
 - project-management
+- book-project
+- brandon-book
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/blogging-a-book-so-far

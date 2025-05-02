@@ -5,6 +5,9 @@ layout: post
 slug: design-jams1
 title: "Design Jams, Part 1"
 category: essay
+tags:
+- project-management
+- tutorial
 ---
 
 At a consultation in the Lab a couple of weeks ago, the group we were chatting with had never heard the term “design jam” before, so I thought I’d get some ideas into a couple of blog posts, in case there are others who’ve never encountered this way of working before.

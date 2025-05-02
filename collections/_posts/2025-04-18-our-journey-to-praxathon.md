@@ -4,6 +4,17 @@ date: 2025-04-18
 layout: post
 slug: our-journey-to-praxathon
 title: "Our Journey to Praxathon"
+category: essay
+tags:
+- grad-student-research
+- praxis
+- code
+- dataset
+- text-analysis
+- data
+- history
+- literature
+- media-studies
 ---
 My cohort just finished our second week of Praxathon and I wanted to reflect on the development of our project and how we ended up focusing on conducting text analysis of the UVa students’ satirical publication, *The Yellow Journal*. 
 

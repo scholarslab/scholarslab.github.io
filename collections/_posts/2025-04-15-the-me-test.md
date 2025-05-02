@@ -4,10 +4,13 @@ date: 2025-04-15
 layout: post
 slug: the-me-test
 title: The M.E. Test
-categories:
-- Digital Humanities
+category: essay
 tags:
-- Digital humanities
+- pedagogy
+- book-project
+- brandon-book
+- coding
+- data
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/the-me-test

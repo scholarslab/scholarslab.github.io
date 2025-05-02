@@ -6,7 +6,7 @@ slug: pedagogies-of-transparency-part-two
 title: Pedagogies of Transparency Part Two
 category: essay
 tags:
-- Digital humanities
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/pedagogies-of-transparency-part-two
