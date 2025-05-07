@@ -9,6 +9,8 @@ tags:
 - makerspace
 - expansive-makerspace
 ---
+_(Note that the deadline has been extended to Friday, May 23rd, with notification date also moved later.)_
+
 The Scholars’ Lab, part of the Digital Humanities Center in the University of Virginia Library, is accepting proposals for creative works that tell evocative, artistic, and thought-provoking stories with data for display in our community space (Shannon Library, Room 308).
 
 We use "data art" rather than "data visualization" to emphasize we seek physical, compelling, data-inspired or data-enriched compositions that inspire or educate visitors. These can be, but *do not need* to be large-scale research projects. They *should be* based on some kind of specific data, but we define data broadly to include analog, ephemeral  "data" such as photo albums, archives, and personal records, as well as digital datasets. Projects should take a material form—that visitors to our space can examine and/or interact with. They can be graphical (2D) or multidimensional exhibits, and can also incorporate sound or other analog or digital media. 
@@ -47,5 +49,5 @@ Ideally the installation would use one of these three locations, but if your pro
 ## Timeline:
 
 * CFP announced April 23, 2025
-* **Submission Deadline**:  Submissions should be sent to [Laura Miller](mailto:lam2c@virginia.edu) by end of day, **Friday, May 16**. The artist(s) will be notified by **Friday, May 23**.
+* **Submission Deadline**:  Submissions should be sent to [Laura Miller](mailto:lam2c@virginia.edu) by end of day, **Friday, May 23**. The artist(s) will be notified by **Friday, May 30**.
 * **Project Deadline**: The selected piece must be completed and ready to be installed by August 28, 2025.
