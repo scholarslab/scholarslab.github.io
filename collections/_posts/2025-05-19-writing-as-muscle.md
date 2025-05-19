@@ -23,4 +23,4 @@ I've been approaching writing the same way. I'll share a follow-up post about so
 
 Therein lies the real secret: the daily approach is a way to save time in the long run. I learn how to write regardless of whether inspiration is striking. Since starting this practice, my voice is much easier to find when sitting down to write. The editorial process feels easier to navigate; I'm much less given to endless tinkering. I need writing to be as natural and easy as possible, and the daily practice is essential for that. Sitting down to a blank page is always frightening. It would be immeasurably scarier if I weren't facing it down everyday. 
 
-In short, I don't write every day because I have oceans of time. I write every day because I don't have time to waste. 
+In short, I don't write every day because I have oceans of time. I write every day because I don't have time to waste, and the muscle needs to stay loose to confront that reality. 
