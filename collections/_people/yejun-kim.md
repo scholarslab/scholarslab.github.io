@@ -6,7 +6,7 @@ title: Yejun Kim
 position: Makerspace Technologist
 short_bio:
 slug: yejun-kim
-status: current
+status: not_current
 people-category:
 - student
 roles:
