@@ -6,7 +6,7 @@ title: Leah Phan
 position: Student Lead Makerspace Technologist
 short_bio:
 slug: leah-phan
-status: current
+status: not_current
 people-category:
 - student
 roles:

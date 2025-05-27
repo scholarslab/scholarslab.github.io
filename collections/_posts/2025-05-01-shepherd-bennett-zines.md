@@ -1,6 +1,6 @@
 ---
 layout: update
-date: 2025-04-28
+date: 2025-05-01
 category: update
 title: "New zines"
 author:

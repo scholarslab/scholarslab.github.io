@@ -6,7 +6,7 @@ title: Hunter Zoller
 position: Makerspace Technologist
 short_bio:
 slug: hunter-zoller 
-status: current
+status: not_current
 people-category:
 - student
 roles:
