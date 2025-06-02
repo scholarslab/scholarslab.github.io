@@ -6,7 +6,9 @@ slug: dh-publishing-to-me
 title: DH Publishing To Me
 category: essay
 tags:
-- Digital humanities
+- meta-writing-blogging
+- getting-started
+- tutorial-adjacent 
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/dh-publishing-to-me

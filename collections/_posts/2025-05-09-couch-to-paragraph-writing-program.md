@@ -6,7 +6,11 @@ slug: couch-to-paragraph-writing-program
 title: Couch to Paragraph Writing Program
 category: essay
 tags:
-- Digital humanities
+- book-project
+- getting-started
+- tutorial-adjacent 
+- brandons-book
+- meta-writing-blogging
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/couch-to-paragraph-writing-program

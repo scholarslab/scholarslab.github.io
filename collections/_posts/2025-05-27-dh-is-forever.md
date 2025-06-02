@@ -4,6 +4,12 @@ date: 2025-05-27
 layout: post
 slug: dh-is-forever
 title: "Fellowships Are Temporary but DH Is Forever"
+category: essay
+tags:
+- praxis
+- grad-student-research
+- about-collaboration-community
+- media-studies
 ---
 
 I just finished my time in the Praxis fellowship, a year-long program that introduces PhD students to the various aspects of digital humanities. We concluded the program by presenting on all of our various projects that we worked on throughout the year. Leaving Praxis is hard for many reasons: where will I ever find a group of four other PhD students that I love to work with so much? How can I ever have so much fun in a classroom again? And where am I supposed to go to get my weekly little bowl of cheese that Jeremy Boggs would often provide?

@@ -6,7 +6,10 @@ slug: writing-as-muscle
 title: Writing as Muscle
 category: essay
 tags:
-- Digital humanities
+- book-project
+- tutorial-adjacent 
+- brandons-book
+- meta-writing-blogging
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/writing-as-muscle
