@@ -5,7 +5,7 @@ layout: people
 name: Oriane Guiziou-Lamour
 slug: oriane-guiziou-lamour
 title: Oriane Guiziou-Lamour
-status: current
+status: not-current
 people-category:
 - student
 roles:
