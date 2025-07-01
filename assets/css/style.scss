@@ -622,6 +622,17 @@ section.feature {
 	margin:0;
 }
 
+/********************************************************************/
+/* Footer */
+#footer {
+	padding: 1rem;
+	border-top: 1px solid #ccc;
+	p {
+		margin:0;
+	}
+
+}
+
 /* People image/name/role sections on unit pages */
 
 .rd-person__img, #spatial-staff, .makerspace__people img {
