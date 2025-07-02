@@ -816,21 +816,40 @@ body.people .gallery {
 }
 
 .makerspace-button {
-    border: 1px solid #cccccc;
-	background-color: var(--uvalib-main-rotunda-orange);
-	color: var(--uvalib-main-white);
-	padding: 14px;
-	border-radius: 10px;
-	text-decoration: none;
-    cursor: pointer;
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+	background-color:#ffc477;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
 }
 .makerspace-button:hover,
 .makerspace-button:active,
 .makerspace-button:focus {
     opacity: 0.88;
+	color: var(--uvalib-main-white);
 }
 .makerspace-button:visited {
-	color: var(--uvalib-secondary-medium-gray);
+	color: var(--uvalib-main-white);
+}
+#printers > h4 {
+	font-weight: normal;
+}
+.makerspace-notice {
+	background-color: #fdd;
+	color: #700;
+	padding: 20px;
+	border-radius: 22px;
+	text-align: center;
+	font-weight: bolder;
 }
 
 /********************************************************************/
@@ -876,15 +895,13 @@ h1.post-title {
 }
 
 .post__credits {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 2rem 2rem;
 	position: relative;
-	grid-area: footer;
-	margin-top: 2em; // paragraph above has 1em by default
 	&::before {
 		content: '';
 		display: block;
-		position: absolute;
-		top: 0;
-		left: 0;
 		height: 2px;
 		width: 33%;
 		background-color: rgba(0,0,0,.5);

@@ -1,6 +1,7 @@
 #### Science, technology, engineering
 * School of Medicine (including: Neuroscience; Plastic Surgery; Molecular Physiology and Biological Physics; Medical Simulation Center)
 * UVA Hospital
+* UVA’s Center for Health Humanities and Ethics
 * Nursing
 * Biology
 * Physics
@@ -15,9 +16,11 @@
 * Politics
 
 #### Arts & Humanities
-* Art History
+* Art  
+* Art History  
 * Architecture & Architectural History
 * Archaeology
+* Carter G. Woodson Institute & Department for African American and African Studies
 * Media Studies
 * Music
 * Religious Studies
@@ -48,6 +51,7 @@
 * Institute of the Humanities and Global Cultures
 * Women in CS (WiCS) Hackathon
 * Women in Data Science Symposium
+* Rare Book School
 
 #### UVA student groups with significant support beyond a consult
 * #Charlottesville Syllabus student collaborative

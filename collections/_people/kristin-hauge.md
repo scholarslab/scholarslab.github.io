@@ -4,10 +4,10 @@ last_name: Hauge
 layout: people
 name: Kristin Hauge
 slug: kristin-hauge
-status: current
+status: not-current
 people-category:
 - student
 roles:
 - Praxis Fellow, 2024-2025
 ---
-Kristin Hauge is a 2024-2025 Praxis fellow.
+Kristin Hauge was a 2024-2025 Praxis fellow.

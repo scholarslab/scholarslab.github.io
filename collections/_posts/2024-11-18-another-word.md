@@ -4,10 +4,19 @@ date: 2024-11-18
 layout: post
 slug: another-word
 title: Another Word
+<<<<<<< HEAD
 categories:
 - Digital Humanities
 tags:
 - Digital humanities
+=======
+category: essay
+tags:
+- about-collaboration-community 
+- care
+- academia
+- mental-health-and-wellbeing
+>>>>>>> main
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/another-word

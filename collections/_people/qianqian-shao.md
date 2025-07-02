@@ -6,7 +6,11 @@ title: Qianqian Shao
 position: Makerspace Volunteer
 short_bio:
 slug: qianqian-shao
+<<<<<<< HEAD
 status: current
+=======
+status: not_current
+>>>>>>> main
 people-category:
 - student
 roles:

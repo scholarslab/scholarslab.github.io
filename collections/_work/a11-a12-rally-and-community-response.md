@@ -7,6 +7,14 @@ collaborators:
   - name: Jeremy Boggs
     slug: jeremy-boggs
     role: Head of Research and Development
+  - name: Winnie Pérez Martínez
+    slug: winnie-pérez-martínez
+    role: DH Designer
+  - name: Shane Lin
+    slug: shane-lin
+    role: Senior Developer
+  - name: Kara McClurken
+  - name: Molly Fair
   - name: Tim Stevens
   - name: Molly Schwartzburg  
   - name: Brandon Butler  
@@ -31,8 +39,10 @@ start-year: 2017
 end-year: current
 ---
 
-Recognizing the significance of events on the weekend of August 12, the University of Virginia Library is building an archive of materials surrounding the “Unite the Right” rally and counter-protests.
+Recognizing the significance of events on the weekend of August 12, the University of Virginia Library has and is building an archive of materials surrounding the “Unite the Right” rally and counter-protests.
 
 The Library is interested in personal digital submissions (including images, stories, audio, or video) from the events at UVA and in the Charlottesville area, so that they may make these materials available to students and researchers studying these events. Donors have the option to keep their name private if they wish.
+
+Work is underway to develop and design just access and research/teaching models for this data.
 
 (_image courtesy of flickr user SCholewiak_)
