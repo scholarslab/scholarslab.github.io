@@ -194,7 +194,7 @@ body.post article {
 	padding: 1rem;
 	#global-navigation > .menu-toggle {
 		position: absolute;
-		top: 1rem;
+		top: 0.7rem;
 		right: 1rem;
 	}
 }
@@ -202,7 +202,8 @@ body.post article {
 #slab-logo {
 	display:block;
 	text-decoration:none;
-	width: 300px;
+	width: 80%;
+	max-width: 300px;
 
 	img {
 		margin:0;
@@ -620,6 +621,17 @@ section.feature {
 .our-projects section a p {
 	font-size: 1rem;
 	margin:0;
+}
+
+/********************************************************************/
+/* Footer */
+#footer {
+	padding: 1rem;
+	border-top: 1px solid #ccc;
+	p {
+		margin:0;
+	}
+
 }
 
 /* People image/name/role sections on unit pages */
