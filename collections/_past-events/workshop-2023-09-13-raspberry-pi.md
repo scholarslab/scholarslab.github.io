@@ -5,7 +5,7 @@ start_date: 2023-09-13
 end_date: 2023-09-13
 start_time: "12:00"
 end_time: "14:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-09-13-raspberry-pi
 title: "Raspberry Pi Workshop"

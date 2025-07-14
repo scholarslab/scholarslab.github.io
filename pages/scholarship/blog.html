@@ -56,7 +56,6 @@ redirect_from:
 
 <section id="previous_posts">
 <h2>Previous Posts</h2>
-<ul class="page-previous_posts">
 {% for post in site.posts offset:4 %}
 	{% if post.author %}
 		{% capture authorstring %}
@@ -71,7 +70,7 @@ redirect_from:
 		{% assign date = currentdate %}
 	{% endif %}
 	{% if post.category != "update" %}
-		<li><a href="{{ post.url }}">"{{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}"</a> by {{ authorstring | strip }}</li>
+		<li><a href="{{ post.url }}">"{{ post.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}"</a> by {{ authorstring | strip }}</li>
 	{% else %}
 		<li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }}
 		update: {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
@@ -80,5 +79,4 @@ redirect_from:
 		</ul>
 	{% endif %}
 {% endfor %}
-</ul>
 </section>

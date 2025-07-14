@@ -4,7 +4,7 @@ start_date: 2021-11-05
 end_date: 2021-11-05
 start_time: "12:00"
 end_time: "13:30"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2021-11-05-wearable-electronics
 title: "Wearable Electronics"

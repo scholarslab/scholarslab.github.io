@@ -8,6 +8,7 @@ category: essay
 tags:
 - grad-student-research
 - praxis
+- charter
 ---
 
 It’s a busy time around the Praxis Lab. At the moment our attention is divided between conceptual thought on the future of Ivanhoe, and practical education in the basic tools we’re going to need to carry out any of our concepts&mdash;plus, of course, the little external distractions of classes, comprehensive exams, job applications, etc.

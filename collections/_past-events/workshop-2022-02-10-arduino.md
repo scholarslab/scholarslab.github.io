@@ -4,7 +4,7 @@ start_date: 2022-02-10
 end_date: 2022-02-10
 start_time: "12:30"
 end_time: "14:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-02-10-arduino
 title: "Arduino Basics"

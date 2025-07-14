@@ -95,7 +95,6 @@ title: FirstName LastName
 slug: firstname-lastname
 first_name: FirstName
 last_name: LastName
-short_bio: 'A short one-sentence bio.'
 website:
 email: 
 status: current or not_current
@@ -127,6 +126,7 @@ date: #{current_time}
 layout: post
 slug: #{title_slug}
 title: #{args.title.titlecase}
+category: essay or announcement (Pick one, delete the \"or\", and this parenthetical)
 crosspost:
   - title: if your post is crossposted, the text here will be the text of the link, while the URL key will be the link itself. If not crossposting you can delete the crossposting key.
     url: https://yourcoollink.com

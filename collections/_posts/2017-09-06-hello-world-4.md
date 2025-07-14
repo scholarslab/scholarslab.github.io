@@ -8,7 +8,7 @@ category: essay
 tags:
 - hello-world
 - praxis
-- uva reveal
+- uva-reveal
 ---
 
 My name is Spyros Simotas and I am a PhD candidate at the French Department at UVa. This year, I am also a Praxis fellow at the Scholars’ Lab. In this first blog post I would like to briefly introduce myself honoring [Brandon’s](http://scholarslab.org/people/brandon-walsh/%20) ice-breakers.

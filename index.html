@@ -11,8 +11,8 @@ title: Home
     <div id="recent-posts">
         <h2>Recent Blog Posts</h2>
         <ul>
-			{% for post in site.posts limit:4 %}
-				{% if post.category != "update" %}
+            {% assign recent_posts = site.posts | where:'layout','post' %}
+			{% for post in recent_posts limit:4 %}
                 {% capture authorstring %}
                 {% include author-name.html authorid=post.author %}
                 {% endcapture %}
@@ -20,7 +20,6 @@ title: Home
                         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
                         <p>{{ authorstring }}</p>
                     </li>
-            	{% endif %}
             {% endfor %}
         </ul>
         <a class="see-all" href="/blog/">See all our blog posts</a>
@@ -45,10 +44,10 @@ title: Home
 {% if eventdate >= today and count < 4 %}
             <li>
                 <a href="{{ event.url }}">
-                <time>
+                <span class="time">
                     <span class="month">{{ event.start_date | date: '%b' }}</span>
                     <span class="day">{{ event.start_date | date: '%d' }}</span>
-                </time>
+                </span>
                 <strong>{{ event.title }}</strong>
                 </a>
             </li>
@@ -61,6 +60,7 @@ title: Home
 </section>
 
 <section id="newsletter">
+    <h2>Newsletter!</h2>
     <p>Learn about events, news, and more in <a
             href="http://eepurl.com/h_riIP">our newsletter</a>!</p>
 </section>
@@ -97,7 +97,7 @@ title: Home
             fully formed ideas needed! Email us at <a
                 href="mailto:scholarslab@virginia.edu">scholarslab@virginia.edu</a>
             with questions, or to schedule a teaching or research consultation.
-            Our staff has particular strengths in:
+            Our staff has particular strengths in:</p>
         <ul>
             <li><a href="/digital-humanities">the critical digital humanities</a></li>
             <li><a href="/code-design">code & design</a></li>
@@ -110,7 +110,6 @@ title: Home
             <li><a href="/spatial-technologies">virtual/augmented reality</a></li>
         </ul>
 		<a href="/consult">>>> Our Expertise</a>
-		</p>
     </div>
     <figure>
         <img src="/assets/img/decorative/lab-photos-decorative/homepage-printmaking.jpg" alt="Decorative photo of several inked linoleum blocks from printmaking in SLab's makerspace">
@@ -131,7 +130,7 @@ title: Home
             <a href="/use-the-lab#slab-hours">whenever Shannon Library is open</a>.</p>
         <p><a href="/visit">>>> Using the Lab & Makerspace</a></p>
             <figure>
-        <img src="/assets/img/decorative/lab-photos-decorative/homepage-usethelab-spotlit.png" alt="Decorative photo of a student writing on a monitor displaying other students' answers to 'What do you love about Shannon (Library building)?', where previous students have written 'Scholar Lab <3' and "makerspace'">
+        <img src="/assets/img/decorative/lab-photos-decorative/homepage-usethelab-spotlit.png" alt="Decorative photo of a student writing on a monitor displaying other students' answers to 'What do you love about Shannon (Library building)?', where previous students have written 'Scholar Lab <3' and 'makerspace'">
         <figcaption>Friendly community space for digital & experimental scholarship. <span class="photo-byline">(Photo: Photo: Emily Faith Morgan, UVA Today)</span></figcaption>
     		</figure>
     </div>
@@ -191,8 +190,8 @@ title: Home
     <p><a href="/spatial-technologies">>>> Spatial Technologies</a></p>
     </div>
     <figure>
-        <img src="/assets/img/decorative/lab-photos-decorative/homepage-spatialtechnologies.jpg" alt="Decorative photo of Scholars' Lab staff working with students outdoors and in museums capturing cutural heritage data">
-        <figcaption>Investigating & preserving the past via museums, archives, and fieldwork. <span class="photo-byline">Photos: Will Rourk.</span></figcaption>
+        <img src="/assets/img/decorative/lab-photos-decorative/homepage-spatialtechnologies.jpg" alt="Decorative photo of the GIS Sandbox in use: a projector displays bands of colored light on top of a topographic formation of sand to approximate a topographic map in 3D">
+        <figcaption>Investigating & preserving the spatial past & present with digital approaches to mapping, artifacts, and historic architecture.</figcaption>
     </figure>
 </section>
 <section id="fellowships-and-training" class="feature">

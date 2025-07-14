@@ -5,7 +5,7 @@ start_date: 2023-11-15
 end_date: 2023-11-15
 start_time: "17:00"
 end_time: "18:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-11-15-tech-job-interview
 title: "Software Engineering Technical Interview Workshop"

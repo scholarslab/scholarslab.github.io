@@ -8,6 +8,7 @@ category: essay
 tags:
 - grad-student-research
 - praxis
+- charter
 ---
 
 I started to write this as a comment on [Lindsay's latest post](https://scholarslab.org/blog/imagining-end-users-for-requirements-gathering/), but then thought I should boost it a bit, so that it becomes a part of the overall conversation about next steps for Prism.

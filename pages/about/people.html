@@ -17,6 +17,9 @@ nav: true
 <!-- filter current students -->
 {% assign students = slab_people | where: 'people-category', 'student' | where: 'status', 'current' | sort: 'last_name' %}
 
+<!-- filter current affiliates-->
+{% assign affiliates = slab_people | where: 'people-category', 'affiliate' | where: 'status', 'current' | sort: 'last_name' %}
+
 <!-- filter alumni -->
 {% assign alumni = slab_people | where: 'status', 'not_current' | sort: 'last_name' %}
 
@@ -46,16 +49,22 @@ nav: true
 	</div> <!-- end staff- gallery -->
 </section> <!-- end staff section -->
 
-<!-- students: -->
+<!-- students; and affiliates when we have them -->
 <section id="students">
-	<h2>Current Students</h2>
+	<h2>Current Students & Affiliates</h2>
 	<ul>
 		{% for person in students %}
-			<li><a href="/people/{{ person.slug }}" aria-label="{{ person.title }}">{{ person.title }}</a>
+			<li><a href="/people/{{ person.slug }}" aria-label="{{ person.name
+			}}">{{ person.first_name }} {{ person.last_name }}</a>
 			{% for item in person.roles limit: 1 %}{{ item }}{% endfor %}</li>
-		{% endfor %}	
+		{% endfor %}
+		{% for person in affiliates %}
+			<li><a href="/people/{{ person.slug }}" aria-label="{{ person.name
+			}}">{{ person.first_name }} {{ person.last_name }}</a>
+			{% for item in person.roles limit: 1 %}{{ item }}{% endfor %}</li>
+		{% endfor %}
 	</ul>
-</section> <!-- end students section -->
+</section> <!-- end students & affiliates section -->
 
 <section id="alumni">
 	<h2>Alumni</h2>

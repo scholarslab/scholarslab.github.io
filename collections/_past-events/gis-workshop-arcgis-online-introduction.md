@@ -6,7 +6,7 @@ end_time: '11:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-02-06 13:37:14+00:00
-rsvp: 0
+
 slug: gis-workshop-arcgis-online-introduction
 start_date: 2018-02-13
 start_time: '10:00:00'

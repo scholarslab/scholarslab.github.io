@@ -9,6 +9,7 @@ tags:
 - ivanhoe
 - praxis
 - games
+- charter
 ---
 
 [

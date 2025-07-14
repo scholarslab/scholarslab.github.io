@@ -7,6 +7,7 @@ title: Getting from Here To There
 category: essay
 tags:
 - pedagogy
+- charter
 crosspost:
   - title: my personal blog
     url: http://walshbr.com/blog/getting-from-here-to-there/

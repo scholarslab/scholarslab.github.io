@@ -6,7 +6,7 @@ end_time: '23:59:59'
 layout: events
 location: null
 published-date: 2018-01-24 15:40:38+00:00
-rsvp: 0
+
 slug: applications-due-for-praxis-and-prototyping-fellowships
 start_date: 2018-02-15
 start_time: 00:00:00

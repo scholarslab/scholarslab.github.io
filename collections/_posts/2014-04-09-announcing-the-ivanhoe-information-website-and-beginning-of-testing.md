@@ -9,6 +9,8 @@ tags:
 - grad-student-research
 - ivanhoe
 - praxis
+- charter
+- about-collaboration-community
 ---
 
 Yesterday we celebrated the Day of DH by preparing for internal testing of the Ivanhoe Game WP Theme.  The entire team is now scurrying to make some finishing touches to the theme, info site, and documentation before our testers begin their games.  Development has been working to stabilize roles and the role journal features, and they have reported success.  The following image indicates Development's glee at this and similar recent successes:

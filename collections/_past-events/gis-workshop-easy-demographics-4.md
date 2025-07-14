@@ -6,7 +6,7 @@ end_time: '15:00:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2018-08-22 10:48:09+00:00
-rsvp: 0
+
 slug: gis-workshop-easy-demographics-4
 start_date: 2018-10-24
 start_time: '14:00:00'

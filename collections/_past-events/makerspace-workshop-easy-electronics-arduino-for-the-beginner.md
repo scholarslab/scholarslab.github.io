@@ -6,7 +6,7 @@ end_time: '13:00:00'
 layout: events
 location: 'Alderman Library, Room 423'
 published-date: 2018-09-06 11:07:14+00:00
-rsvp: 0
+
 slug: makerspace-workshop-easy-electronics-arduino-for-the-beginner
 start_date: 2018-09-26
 start_time: '12:00:00'

@@ -13,23 +13,13 @@ order: 3
 	<p>All humans are dreamers, creators, and achievers. Our mission is to provide the place, the tools, and the support to empower people to dream, create and achieve. The Scholars' Lab Makerspace is strategically situated within the UVA Library to be open, provide a low barrier of entry to making, and be a helpful resource of information, technology and support. Our space is open to everyone, including the public, and proactively encourages those in underrepresented academic studies, ethnicities, genders, economic classes and skill levels to come learn, make, and research.</p>
     <p>The Makerspace staff provides consultations and instruction for all your electronics, crafting, textiles, laser cutting, and 3D printing projects <a href="https://www.library.virginia.edu/hours/">whenever the Makerspace is open</a>, or by appointment. Please drop in, or send inquiries to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a>.</p>
 	<p>Or schedule a consultation with Ammon, manager of our Makerspace.</p>
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 	<script>
-		jQuery.getScript("https://cal.lib.virginia.edu/js/myscheduler.min.js",
-        function () {
-			jQuery("#mysched_41069").LibCalMySched({
-			iid: 863,
-          	lid: 0,
-           	gid: 0,
-           	uid: 41069,
-           	width: 560,
-            height: 680,
-           	title: "Make an Appointment - ",
-			domain: "https://cal.lib.virginia.edu",
-			})
-		}
-		)
-    </script>
-    <button class="makerspace-button" id="mysched_41069" href="#">Schedule Appointment</button>
+		jQuery.getScript("https://cal.lib.virginia.edu/js/myscheduler.min.js", function() {
+			jQuery("#mysched_41069").LibCalMySched({iid: 863, lid: 0, gid: 0, uid: 41069, width: 560, height: 680, title: 'Schedule Appointment', domain: 'https://cal.lib.virginia.edu'});
+		});
+	</script>
+	<button class="makerspace-button" id="mysched_41069" href="#">Schedule Appointment</button>
 </section> <!-- ends .makerspace-mission-vision-top -->
 
 <section class="hours-and-location">
@@ -52,12 +42,12 @@ order: 3
 	<div>
 	<h3>Map</h3>
 	<p>The Scholars' Lab Makerspace is on the 3rd floor of Edgar Shannon Library, on the south end of Scholars' Lab. Click the map to view a larger version, or see a <a href="/use-the-lab">map showing where the Makerspace is</a> on the 3rd floor of Shannon.</p>
-	<p><a href="/assets/img/space-maps/SLab-Makerspace-Full.png"><img src="/assets/img/space-maps/SLab-Makerspace-Small.png" alt="The Makerspace is located on the 3rd floor, East Wing, in the South end of the wing; at the south end of Scholars' Lab."/></a></p>
+	<p><a href="/assets/img/space-maps/SLab-Full.png"><img src="/assets/img/space-maps/SLab-Full.png" alt="The Makerspace is located on the 3rd floor, East Wing, in the South end of the wing; at the south end of Scholars' Lab."/></a></p>
 	</div>
 </section>
 
 <section id="newsletter">
-	<p>Subscribe to the monthly <a href="http://eepurl.com/hXIWCb">Makerspace newsletter</a>!</p>
+	<p>Subscribe to the weekly <a href="http://eepurl.com/hXIWCb">Makerspace newsletter</a>!</p>
 </section>
 
 <section id="makerspace-resources">
@@ -65,86 +55,102 @@ order: 3
 	<h3>Using the Makerspace</h3>
 	<p>The Makerspace is open to all UVA students, staff and faculty, as well as the general public. We hope you will find the equipment, resources, and support to help you MAKE anything (within reason) you want to make.</p>
 	<p>You can stop in any time during our open hours, or contact us at <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a> to schedule an appointment with a Makerspace Technologist or Scholars&rsquo; Lab staff to discuss your project.</p>
+	<p>You can view a list of all of our resources at this <a href="https://docs.google.com/spreadsheets/d/1hYBB9AKs475Qp5-jCX1tZ5sgtdWe_IbUSi-KLwTc_wo/edit?gid=0#gid=0">spreadsheet</a>.</p>
 	<h3>Equipment</h3>
-	<p>All equipment can be reserved for use in the Makerspace. Use the <button class="makerspace-button" id="eq_0" href="#">Book Equipment</button>
-        	<script src="https://cal.lib.virginia.edu/js/widget.min.js"></script>
-			<script>
-				jQuery(function () {
-					jQuery("#eq_0").LibCalWidget({
-					iid: 863,
-					domain: "https://cal.lib.virginia.edu",
-					width: 560,
-					height: 680,
-					type: "equipment",
-					args: { lid: 264, gid: 0 },
-					})
-				})
-			</script>
-		button to book equipment, or visit <a target="_blank" href="https://cal.lib.virginia.edu/reserve/equipment/Makerspace">the equipment page</a> to see a full list of our equipment.</p>
-	<p>All equipment is maintained for use in the Makerspace and is not available for check out at this time. Don't see the equipment you need here? Visit <a href="http://makergrounds.virginia.edu">makergrounds.virginia.edu</a> for other shops, labs, and places for making at UVA.</p>
+	<p>All equipment can be reserved for use in the Makerspace by visiting <a target="_blank" href="https://cal.lib.virginia.edu/reserve/Makerspace-Equipment">the equipment page</a>.</p>
+	<p>You can also reserve equipment when you visit the Makerspace in person. Each tool has a QR code to scan for reservation.</p>
+	<p>All equipment is intended to use in the Makerspace and is not available for check out at this time. Don't see the equipment you need here? Visit <a href="http://makergrounds.virginia.edu">makergrounds.virginia.edu</a> for other shops, labs, and places for making at UVA.</p>
 	<p>Questions? Hesitant about joining us in the Makerspace? You belong here, and we're happy to meet with you, answer questions, and give you a tour to help you feel more at home. Email <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a> to let us know you're curious about our Makerspace.</p>
 	<h3>Usage Policy</h3>
-	<p>The Makerspace technology may only be used for lawful purposes. No one is permitted to 3D print an object that is:
+	<p>Anyone who uses the equipment in the Makerspace should fill out the <a href="https://ehs.virginia.edu/Shop-Studio-Safety/User-Agreement">User Agreement form</a> provided by EHS before using equipment.</p>
+	<p>The Makerspace technology may only be used for lawful purposes. No one is permitted to create an object that is:
 	<ul>
-		<li>prohibited by local, state, or federal law.</li>
-		<li>unsafe, harmful, dangerous, or poses an immediate threat to the well-being of others, including weapon accessories (See: <a href="https://uvapolicy.virginia.edu/policy/sec-030">UVA Weapons Policy</a>).</li>
-		<li>obscene or otherwise inappropriate for the library environment. The Makerspace Technologists reserve the right to refuse requests based on the <a href="https://library.virginia.edu/policies/use-of-the-library">UVA Library Usage Policy</a>, UVA general policies, or for any reason a Technologist feels is inappropriate.</li>
-		<li>in violation of another's intellectual property rights. For example, you cannot reproduce material subject to copyright, patent, or trademark protection.</li>
-		<li>used for resale or other commercial purposes.</li>
-		<li>defective or poorly suited for equipment in the Makerspace,</li>
+		<li>prohibited by local, state, or federal law</li>
+		<li>unsafe, harmful, dangerous, or poses an immediate threat to the well-being of others, including weapon accessories (See: <a href="https://uvapolicy.virginia.edu/policy/sec-030">UVA Weapons Policy</a>)</li>
+		<li>obscene or otherwise inappropriate for the library environment. The Makerspace Technologists reserve the right to refuse requests based on the <a href="https://library.virginia.edu/policies/use-of-the-library">UVA Library Usage Policy</a>, UVA general policies, or for any reason a Technologist feels is inappropriate</li>
+		<li>in violation of another's intellectual property rights (for example, you cannot reproduce material subject to copyright, patent, or trademark protection)</li>
+		<li><strong>used for resale or other commercial purposes</strong></li>
+		<li>defective or poorly suited for equipment in the Makerspace</li>
 	</ul>
 	The Library and Technologists reserve the right to refuse any request.</p>
 	<h3>Faculty Consultations + Course Integrations</h3>
-	<p>Our Makerspace is an active participant in academic research. We support scholars' independent and collaborative work to explore, understand, and report on emerging technologies, methodologies, and pedagogies in a variety of disciplines. We love working with faculty to support class projects! Send your requests and ideas to our Makerspace Manager <a href="ammon@virginia.edu">Ammon Shepherd</a>.</p>
+	<p>Our Makerspace is an active participant in academic research. We support scholars' independent and collaborative work to explore, understand, and report on emerging technologies, methodologies, and pedagogies in a variety of disciplines. We love working with faculty to support class projects! Send your requests and ideas to our Makerspace Manager <a href="mailto:ammon@virginia.edu">Ammon Shepherd</a>.</p>
 </section>
 
 <section id="whats-in-the-makerspace">
 <h2>What's in the makerspace</h2>
-<p>See our full list of equipment, including electronics and crafting equipment, on the <a href="https://cal.lib.virginia.edu/equipment?lid=264">Library Equipment Reservation site</a>.</p>
-<div id="textiles">
+<p>See our full list of equipment, including electronics and crafting equipment, on the <a href="https://cal.lib.virginia.edu/reserve/Makerspace-Equipment">Makerspace Equipment Reservation</a> site.</p>
+<div id="buttons" class="equipment_block">
+	<h3>Buttons</h3>
+	<p>We have two different sized button makers; 1.5-inch and 2.25-inch. <strong>Button supplies provided by the Makerspace are intended for individual, personal use.</strong> Due to the popularity and cost of button supplies, there is a 12 button per person per semester limit.</p>
+	<p>Clubs and other organizations who would like to make more than 12 buttons can purchase their own supplies and use our button presses. The <a href="https://www.buttonmakers.net/225buttons">2.25-inch button kit</a> from <a href="https://buttonmakers.net">ButtonMakers.net</a> is the recommended option.</p>
+        <ul class="equipment">
+			<li><a href="https://cal.lib.virginia.edu/seat/176964"><img src="/assets/img/makerspace/buttonmaker_1.5.jpg" alt="2 1/4 inch button maker"></a><a href="https://cal.lib.virginia.edu/seat/176964">1 1/2-inch button maker</a></li>
+			<li><a href="https://cal.lib.virginia.edu/seat/176965"><img src="/assets/img/makerspace/buttonmaker_2.25.jpg" alt="2 1/4 inch button maker"></a><a href="https://cal.lib.virginia.edu/seat/176965">2 1/4-inch button maker</a></li>
+		</ul>
+</div>
+<div id="textiles" class="equipment_block">
 	<h3>Textiles</h3>
 		<p>We have two Bernina 350 Series sewing machines and a Juki MO-644D serger available for reservation or walk-in use.</p>
 		<p>Click a sewing machine below to check availability or reserve:</p>
         <ul class="equipment">
-			<li><a href="https://cal.lib.virginia.edu/equipment/item/29994"><img src="/assets/img/makerspace/sewing-machine.png" alt="Bernina sewing machine" /></a>
-			<a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/29994">Bernina B350 <br>(Lilo)</a>
+			<li><a href="https://cal.lib.virginia.edu/seat/176955"><img src="/assets/img/makerspace/sewing-machine.png" alt="Bernina sewing machine" /></a>
+			<a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176955">Bernina B350 <br>(Lilo)</a>
 			</li>
-			<li><a href="https://cal.lib.virginia.edu/equipment/item/29995"><img src="/assets/img/makerspace/sewing-machine.png" alt="Bernina sewing machine" /></a>
-            <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/29995">Bernina B350 <br>(Stitch)</a></li>
-			<li><a href="https://cal.lib.virginia.edu/equipment/item/144230"><img src="/assets/img/makerspace/juki.jpg" alt="Juki serger"></a>
-			<a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/144230">Juki M0-644D <br>(Sergent Pepper)</a>
+			<li><a href="https://cal.lib.virginia.edu/seat/176956"><img src="/assets/img/makerspace/sewing-machine.png" alt="Bernina sewing machine" /></a>
+            <a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176956">Bernina B350 <br>(Stitch)</a></li>
+			<li><a href="https://cal.lib.virginia.edu/seat/176958"><img src="/assets/img/makerspace/juki.jpg" alt="Juki serger"></a>
+			<a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176958">Juki M0-644D <br>(Sergent Pepper)</a>
 			</li>
 		</ul>
 </div>
 
-<div id="printers">
+<div id="printers" class="equipment_block">
 	<h3>3D Printing</h3>
-	<p>We have four <a href="https://en.wikipedia.org/wiki/Fused_filament_fabrication">FFF</a> style printers and one <a href="https://en.wikipedia.org/wiki/Stereolithography">Resin (SLA)</a> printer available for reservation. To use the printers, you can come in during open hours for in-person training and on-the-spot reservation. In order to reserve the FFF printers before coming to the Makerspace, you will need to complete an on-line certification.</p>
-	
+	<p>We have five <a href="https://en.wikipedia.org/wiki/Fused_filament_fabrication">FFF</a> style printers and two <a href="https://en.wikipedia.org/wiki/Stereolithography">Resin (SLA)</a> printers available for reservation. To use the printers, you can come in during open hours for in-person training and on-the-spot reservation.</p>
+	<p>Reserving a printer outside of open hours requires approval of a Makerspace Technologist. Speak with the Technologist on duty to extend your time outside of open hours.</p>
+	<p>In order to reserve the FFF printers <strong>before</strong> coming to the Makerspace, you will need to complete an on-line certification (only available for those with a UVA computing ID).</p>
+
 	<a id="3d-printer-certification" class="makerspace-button" href="https://virginia.libwizard.com/f/3D_printer_certification">3D Printer Certification</a>
 
 	<p>Resin printer certification is forthcoming.</p>
+
+	<h4>Filament Usage Policy</h4>
+	<p>While the Scholars' Lab Makerspace strives to be an accessible place to UVA students, faculty, staff, and the greater Charlottesville community, to continue supplying free resources for all that we offer, material usage will be capped at the discretion of the Makerspace Technologists. Patrons are always welcome to bring their own compatible materials to use in our equipment.</p>
+	<p>If you bring your own filament and do not want others to use it, then you must clearly mark the filament and leave a note by the printer with your contact information.</p>
+		
+	<p>The Makerspace is not to be held liable for the use of your filament if left unattended. It is your responsibility to pick up your filament and ensure it is not used by others.</p>
+
+	<p>All filament is free for patrons up to 270 grams. Any prints over 270g need approval from Makerspace Manager. It is expected that you will supply your own filament for parts that use more than 270g of filament.</p>
+		
+	<p><strong>If you have additional questions regarding projects that require multiple iterations and/or several parts that will consume over 270g of filament, please consult the Makerspace Manager.</strong></p>
+
+	<h4>Other Library 3D Printing</h4>
 	<p>Self-service 3D printing is also available through the <a href="https://www.library.virginia.edu/services/3d-printing/">3D Printing Studio</a> in the Robertson Media Center in Clemons Library. To use the printers there, you need to complete an <a href="https://www.library.virginia.edu/services/3d-printing/">online training</a>, then reserve a 3D printer during their <a href="https://www.library.virginia.edu/hours">open hours</a>. Email <a href="mailto:teachlearn@virginia.edu">teachlearn@virginia.edu</a> with any questions.</p>
  	<p>The 3D printers are completely different from each other in each space, so training on 3D Printing Studio printers does not automatically grant access to the Makerspace printers.</p>
- 	<p>Click a printer below to check availability or reserve:</p>
+
+	<h4>Reserve a Printer</h4>
+ 	<p>Check the <a class="makerspace-button" href="https://cal.lib.virginia.edu/reserve/Makerspace-Equipment/3D-Printers">Reserve A 3D Printer Page</a> for availability or click a printer below:</p>
 	<ul class="equipment">
-		<li><a href="https://cal.lib.virginia.edu/equipment/item/158454">
+		<li><a href="https://cal.lib.virginia.edu/seat/177009">
 		<img src="/assets/img/makerspace/mini.jpg" alt="Prusa Mini+ 3D printer" /></a>
-		<a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158454">Prusa Mini <br>(Maker Formerly Known as Prints)</a>
+		<a class="equipment_name" href="https://cal.lib.virginia.edu/seat/177009">Prusa Mini <br>(Maker Formerly Known as Prints)</a>
 		</li>
-		<li><a href="https://cal.lib.virginia.edu/equipment/item/158463"><img src="/assets/img/makerspace/prusa-mk4.png" alt="Prusa MK4 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158463">Prusa MK4 <br>(Printsipal Skinner)</a>
+		<li><a href="https://cal.lib.virginia.edu/seat/176960"><img src="/assets/img/makerspace/prusa-mk4.png" alt="Prusa MK4 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176960">Prusa MK4 <br>(Printsipal Skinner)</a>
 		</li>
-		<li><a href="https://cal.lib.virginia.edu/equipment/item/158464"><img src="/assets/img/makerspace/prusa-mk4.png" alt="Prusa MK4 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158464">Prusa MK4 <br>(Phil A Ment)</a>
+		<li><a href="https://cal.lib.virginia.edu/seat/176953"><img src="/assets/img/makerspace/prusa-mk4.png" alt="Prusa MK4 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176953">Prusa MK4 <br>(Phil A Ment)</a>
 		</li>
-		<li><a href="https://cal.lib.virginia.edu/equipment/item/51349"><img src="/assets/img/makerspace/prusa-mk4-mmu3.jpg" alt="Prusa MK4 w/MMU3 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/51349">Prusa MK4 w/ MMU3 <br>(Kermit)</a>
+		<li><a href="https://cal.lib.virginia.edu/seat/176954"><img src="/assets/img/makerspace/prusa-mk4-mmu3.jpg" alt="Prusa MK4 w/MMU3 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176954">Prusa MK4 w/ MMU3 <br>(Kermit)</a>
 		</li>
-		<li> <a href="https://cal.lib.virginia.edu/equipment/item/158465"><img src="/assets/img/makerspace/prusa-xl.jpg" alt="Prusa XL 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158465">Prusa XL <br>(Big Bird)</a>
+		<li> <a href="https://cal.lib.virginia.edu/seat/176961"><img src="/assets/img/makerspace/prusa-xl.jpg" alt="Prusa XL 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176961">Prusa XL <br>(Big Bird)</a>
 		</li>
-		<li> <a href="https://cal.lib.virginia.edu/equipment/item/170203"><img src="/assets/img/makerspace/form2.png" alt="Formlabs Form 2 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/170203">Formlabs Form2 <br>(The Fresh Prints of Bel Air)</a>
+		<li> <a href="https://cal.lib.virginia.edu/seat/177334"><img src="/assets/img/makerspace/prusa-sl1s.jpg" alt="Prusa SL1S resin 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/seat/177334">Prusa SL1S <br>(Fozzie)</a>
+		</li>
+		<li> <a href="https://cal.lib.virginia.edu/seat/176962"><img src="/assets/img/makerspace/form2.png" alt="Formlabs Form 2 3D printer" /></a> <a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176962">Formlabs Form2 <br>(The Fresh Prints of Bel Air)</a>
 		</li>
 	</ul>
 </div>
-<div id="laser-cutting">
+<div id="laser-cutting" class="equipment_block">
 	<h3>Laser Cutting</h3>
 	<p>Our laser cutter is available by reservation. Send a request to <a href="mailto:slabmakerspace@virginia.edu">slabmakerspace@virginia.edu</a> and describe your project and materials you would like to use.</p>
 	<p>You must provide your own materials for engraving or cutting. See below for the list of approved materials:</p>
@@ -152,14 +158,17 @@ order: 3
 		<li>Cast Acrylic (PMMA) - <a href="https://makerstock.com/collections/acrylic">examples and purchase options</a></li>
 		<li>MDF (Medium Density Fiberboard; MDF Draft Board) - <a href="https://makerstock.com/products/mdf">examples and purchase options</a></li>
 		<li>Polystyrene - <a href="https://makerstock.com/products/polystyrene-white">examples and purchase options</a></li>
+		<li>High quality plywood - <a href="https://makerstock.com/products/baltic-birch-plywood">examples and purchase options</a></li>
 		<li>Double-ply Chipboard - <a href="https://makerstock.com/products/double-ply-chipboard">examples and purchase options</a></li>
 		<li>Leather (not fake leather, but real cowhide)</li>
 		<li>Cardboard, cardstock, paper</li>
+		<li>Any natural wood can be engraved, and cut when thickness is less than 1/4 inch</li>
+		<li>Waterbottles and other cylindrical items can be engraved</li>
 	</ul>
 	<p>Click the laser cutter below to check availability or reserve:</p>
 	<ul class="equipment">
-		<li><a href="https://cal.lib.virginia.edu/equipment/item/158466"><img src="/assets/img/makerspace/vls675.png" alt="Universal Laser VLS6.75"/></a>
-<a class="equipment_name" href="https://cal.lib.virginia.edu/equipment/item/158466">VLS 6.75 <br>(Vader)</a></li>
+		<li><a href="https://cal.lib.virginia.edu/seat/176963"><img src="/assets/img/makerspace/vls675.png" alt="Universal Laser VLS6.75"/></a>
+<a class="equipment_name" href="https://cal.lib.virginia.edu/seat/176963">VLS 6.75 <br>(Vader)</a></li>
 	</ul>
 </div>
 </section>
@@ -177,10 +186,10 @@ order: 3
 		<li><a href="https://ammonshepherd.github.io/git-for-beginners/" >Git for beginners</a></li>
 		<li><a href="https://ammonshepherd.github.io/make-a-website/">Make a simple website</a></li>
 	</ul>
-	<h3>Workshop-teaching resources</h3>
+	<!-- <h3>Workshop-teaching resources</h3>
 	<ul>
 		<li><a href="/makerspace/workshops/arduino/">Arduino Workshop - Basics of Electricity and Circuits</a></li>
-	</ul>
+	</ul> -->
 </section>
 
 <section id="makerspace-staff">
@@ -188,26 +197,32 @@ order: 3
 <section id="makerspace-students">
 	<h3>Student Technologists</h3>
 	<ul>
-		<li><span>Julian Cordero:</span> 3D printing, Button Making</li>
-		<li><span>Fatima Elalami:</span> Crafting, Button Making</li>
-		<li><span>Link Fu:</span> Button Making, Stickers, Textiles, Crafting, Cosplay</li>
-		<li><span>Yejun Kim:</span> 3D Printing, Electronics, CAD, Button Making</li>
-		<li><span>Leah Phan:</span> CAD, Button Making, Stickers, Stamps, Paper Crafts</li>
-		<li><span>Tingyo Tan:</span> CAD, Desktop CNC, 3D Printing, Electronics, Photogrammetry, Laser Cutter, Button Making</li>
-		<li><span>Amy Tran:</span> Jewelry, Crafting, Button Making</li>
-		<li><span>Jennifer Truong:</span> Button Making, Stickers, Wacom Drawing Tablet, Digital Artwork</li>
-		<li><span>Mara Williams:</span> Crafting, Button Making</li>
-		<li><span>Hunter Zoller:</span> 3D printing, Laser Cutter, Button Making</li>
-		<li><span>Hans Yang:</span> 3D printing, Button Making</li>
+		<li><span>Melorra Arthur:</span> Button Making, Stickers, Jewelry Making, 3D Printing
+		</li>
+		<li><span>Julian Cordero:</span> Sewing, 3D Printing, Button Making</li>
+		<li><span>Fatima Elalami:</span> 3D Printing, Button Making</li>
+		<li><span>Link Fu:</span> Button Making, Stickers, Jewelry Making, Textiles, Costuming</li>
+		<li><span>Khastur Munkhtur:</span> 3D Printing, Button Making</li>
+		<li><span>Arturo Romero:</span> Social Media</li>
+		<li><span>Tingyo Tan:</span> Button Making, 3D Printing, Laser Cutting, Desktop CNC Mill, Electronics, Photogrammetry</li>
+		<li><span>Amy Tran:</span> Button Making, Jewelry Making, Clay Modeling, Painting</li>
+		<li><span>Jennifer Truong:</span> Button Making, Stickers, Sewing, Jewelry Making, Clay Modeling, Digital Art, 3D Printing</li>
+		<li><span>Daniel Velasquez-Lemus:</span> Button Making, 3D Printing</li>
+		<li><span>Adrian Villanueva:</span> Button Making, 3D Printing, Clay Modeling</li>
+		<li><span>Mara Williams:</span> Button Making, Sewing, Crochet, Embroidery, Fine Art, Digital Art, Laser Cutting</li>
+		<li><span>Hans Yang:</span> Button Making, 3D Printing, Laser Cutting, Paper Crafts</li>
+		<li><span>Holly Zhou:</span> Programming, Poetry, Project Management</li>
 	</ul>
 	<h3>Critical Making Fellow</h3>
 	<ul>
-		<li><span>Holly Zhou:</span> Programming, Poetry, Project Management</li>
 	</ul>
 	<h3>Makerspace Volunteers</h3>
 	<ul>
-		<li><span>Sarah Hemler:</span> 3D Printing, Solidworks and AutoDesk, Electronics, Photoshop Software and Drawing Tablets, Audacity and Musescore, Button Making</li>
-		<li><span>Qianqian Shao:</span> Fabrics, Textiles, Sewing, Button Making, Crafting</li>
+		<li><span>Megan Masri:</span> Button Making</li>
+		<li><span>James Xu:</span> Sewing</li>
+		<li><span>Saeema Habibzai:</span> </li>
+		<li><span>Nassib El-Rayes:</span> </li>
+		<li><span>Geryldine Ferrer:</span> </li>
 	</ul>
 </section>
 
@@ -229,7 +244,7 @@ order: 3
 			<span class="makerspace-person__name"><a href="{{ site.baseurl }}/people/jeremy-boggs">Jeremy Boggs</a></span>: 3D Printing, Electronics, Programming, Digital Humanities
 		</li>
 		<li>
-			<span class="makerspace-person__name"><a href="{{ site.baseurl }}/people/amanda-visconti">Amanda Visconti</a></span>: Digital Humanities, Resin Casting, Button Making
+			<span class="makerspace-person__name"><a href="{{ site.baseurl }}/people/amanda-visconti">Amanda Visconti</a></span>: Digital Humanities, Resin Casting, Letterpress
 		</li>
 	</ul>
 </section>

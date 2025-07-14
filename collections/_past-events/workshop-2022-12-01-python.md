@@ -4,7 +4,7 @@ start_date: 2022-12-01
 end_date: 2022-12-01
 start_time: "14:00"
 end_time: "15:30"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2022-12-01-python
 title: "Python on the Raspberry Pi"

@@ -7,6 +7,7 @@ title: Connecting Community
 category: essay
 tags:
 - about-collaboration-community
+- charter
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/connecting-community

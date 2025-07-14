@@ -4,7 +4,7 @@ last_name: Chen
 layout: people
 name: Cadence Chen
 slug: cadence-chen
-status: current
+status: not_current
 people-category:
 - student
 roles:

@@ -5,12 +5,12 @@ layout: people
 title: Yejun Kim
 position: Makerspace Technologist
 short_bio:
-slug: yejun-tim
+slug: yejun-kim
 status: not_current
 people-category:
 - student
 roles:
-- Makerspace Technologist, 2022
+- Makerspace Technologist, 2022-2025
 ---
 
-Yejun Kim was a 2022 Makerspace Technologist.
+Expert in Button Making, 3D Printing, Laser Cutting, Electronics

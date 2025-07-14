@@ -5,7 +5,7 @@ start_date: 2023-11-01
 end_date: 2023-11-01
 start_time: "12:00"
 end_time: "14:00"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-11-01-cad
 title: "Computer-Aided Design 

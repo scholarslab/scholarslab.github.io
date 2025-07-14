@@ -10,6 +10,7 @@ category: essay
 tags:
 - pedagogy
 - about-collaboration-community
+- charter
 crosspost:
   - title: Brandon's blog
     url: http://walshbr.com/blog/building-community-and-generosity-in-the-context-of-graduate-education

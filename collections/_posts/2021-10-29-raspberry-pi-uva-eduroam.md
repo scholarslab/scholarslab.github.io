@@ -13,7 +13,7 @@ tags:
 
 ![Eduroam at UVA logo](/assets/post-media/pi-eduroam/eduroam-uva.png)
 
-
+<h2 class="makerspace-notice">As of 2023, these instructions do not work any more. In 2025, the best instructions are found here: [https://galileo.phys.virginia.edu/compfac/faq/linux-eduroam.html](https://galileo.phys.virginia.edu/compfac/faq/linux-eduroam.html)</h2>
 This tutorial cobbles together a few of different online instructions needed to get the latest version of RaspbianOS connected to UVA's eduroam WiFi network.
 
 The four instructions to follow are here:

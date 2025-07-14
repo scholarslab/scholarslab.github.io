@@ -5,7 +5,7 @@ start_date: 2023-02-05
 end_date: 2023-02-05
 start_time: "15:00"
 end_time: "19:30"
-layout: makerspace
+layout: events
 location: "Scholars' Lab TinkerTank - Clemons 3rd floor"
 slug: workshop-2023-02-05-vision-board
 title: "Vision Board Your Year!"

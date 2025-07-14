@@ -8,6 +8,7 @@ category: essay
 tags:
 - pedagogy
 - care
+- charter
 crosspost:
   - title: my personal blog
     url: https://walshbr.com/blog/digital-humanities-pedagogy-and-opportunities-for-hope

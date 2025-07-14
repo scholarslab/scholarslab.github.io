@@ -9,6 +9,7 @@ tags:
 - about-social-media
 - academia
 - care
+- charter
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2020/02/13/generous-thinking-hashtag-tweets

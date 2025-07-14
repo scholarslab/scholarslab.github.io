@@ -6,7 +6,7 @@ end_time: '14:30:00'
 layout: events
 location: 'Alderman Library, Room 421'
 published-date: 2015-09-21 14:01:33+00:00
-rsvp: 0
+
 slug: makerspace-workshop-intro-to-3d-printing
 start_date: 2015-10-07
 start_time: '13:00:00'
@@ -33,11 +33,3 @@ This workshop will introduce participants to the exciting world of desktop fab
 Instructor: [Julia Schrank](http://scholarslab.org/people/julia-schrank/)
 
 If you can’t make this session but would like to learn more about 3D printing, please visit our the student consultants in our [Makerspace](http://scholarslab.org/makerspace/) or email [scholarslab@virginia.edu](mailto:scholarslab@virginia.edu) to set up an individual appointment.
-
-
-
-
-
-
-
-

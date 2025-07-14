@@ -6,7 +6,7 @@ end_time: '10:00:00'
 layout: events
 location: 'Byrd-Morris Room in Harrison-Small'
 published-date: 2017-04-11 12:38:23+00:00
-rsvp: 0
+
 slug: digital-yoknapatawpha-collaboratively-recreating-faulkners-county
 start_date: 2017-04-13
 start_time: '10:00:00'

@@ -5,7 +5,7 @@ start_date: 2024-05-06
 end_date: 2024-05-12
 start_time: ""
 end_time: ""
-layout: makerspace
+layout: events
 location: "Scholars' Lab Makerspace - Alderman 308i"
 slug: workshop-2024-spring-event-mothers-day
 title: "Mother's Day"
