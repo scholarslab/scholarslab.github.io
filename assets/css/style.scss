@@ -115,6 +115,29 @@ img {
 	text-align: center;
 }
 
+/* Visually hide but allow screen reader access. */
+.audible {
+	border: 0;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+	&.focusable:active,
+	&.focusable:focus {
+		clip: auto;
+		height: auto;
+		margin: 0;
+		overflow: visible;
+		position: static;
+		white-space: inherit;
+		width: auto;
+	}
+}
+
 a {
 	&:link{
 		color: var(--blue-alt-dark);
@@ -626,12 +649,40 @@ section.feature {
 /********************************************************************/
 /* Footer */
 #footer {
-	padding: 1rem;
+	padding: 2rem;
 	border-top: 1px solid #ccc;
 	p {
 		margin:0;
 	}
 
+	@media screen and (min-width: 700px) {
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+
+	#back-to-top {
+		text-align: right;
+		color: white;
+		text-decoration:none;
+		background-color: var(--blue-alt);
+		padding: 0.5rem 1rem;
+		width: fit-content;
+		display:block;
+		transition: background-color .25s;
+		border-radius: 10px;
+		&:hover,
+		&:focus {
+			background-color: var(--blue-alt);
+		}
+		&:hover,
+		&:active {
+			background: var(--blue-alt-light);
+		}
+	}
+	}
 }
 
 /* People image/name/role sections on unit pages */
