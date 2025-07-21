@@ -17,21 +17,19 @@ I had a very short and mediocre career as a little league baseball player. If me
 
 The idea behind step back throwing is pretty straightforward. Two people start fairly close together. One person throws the ball to the other. If it's a successful catch, you take a step back to increase the distance. You repeat this process such that you gradually move farther and farther apart. If you ever drop the ball, you pause or take a step forward to close the distance. The process develops your ability to throw at longer distances. Once you reach the upper limit of your ability, you'll hover around exactly the space that you need to work on. Lots of meaningful practice just where you need it. 
 
-I want to put this baseball pedagogy conversation in dialogue with Miriam Posner's reflections on teaching writing in the AI over on Bluesky:
+I want to put this baseball pedagogy conversation in dialogue with Miriam Posner's [reflections on teaching writing in the AI over on Bluesky](https://bsky.app/profile/did:plc:rzn6yramffebefeitqifiqqz/post/3lqpq5afvic2x?ref_src=embed&ref_url=https%253A%252F%252Fwalshbr.com%252F). She writes (had to disable the embed for the Scholars' Lab site for reasons, so quoting here):
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:rzn6yramffebefeitqifiqqz/app.bsky.feed.post/3lqpq5affuc2x" data-bluesky-cid="bafyreihxzdx3ubcgyhpbwvr6cwwrg472nar5j2xv4m6bknaxntygfddla4" data-bluesky-embed-color-mode="system"><p lang="en">One way of thinking about it is, why wouldn’t *I* use ChatGPT to write a paper?
+```
+  One way of thinking about it is, why wouldn’t *I* use ChatGPT to write a paper?
 
-1. It’s a matter of self-respect.
-2. I believe my writing says something basic about who I am.
-3. I believe research and writing are valuable activities.
-+</p>&mdash; Miriam Posner (<a href="https://bsky.app/profile/did:plc:rzn6yramffebefeitqifiqqz?ref_src=embed">@miriamposner.com</a>) <a href="https://bsky.app/profile/did:plc:rzn6yramffebefeitqifiqqz/post/3lqpq5affuc2x?ref_src=embed">June 3, 2025 at 12:39 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+  1. It’s a matter of self-respect.
+  2. I believe my writing says something basic about who I am.
+  3. I believe research and writing are valuable activities.
+  4. I don’t want to contribute to a harmful industry.
+  5. I can write better than ChatGPT.
 
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:rzn6yramffebefeitqifiqqz/app.bsky.feed.post/3lqpq5afvic2x" data-bluesky-cid="bafyreiclbnalwoeorufy2ekmjl2cfqqwc6sdj6t2xzj6qjvmkdilkvkaz4" data-bluesky-embed-color-mode="system"><p lang="en">+ 
-4. I don’t want to contribute to a harmful industry.
-5. I can write better than ChatGPT.
-
-So, in some ways, our question should be: how do we get students to a point where these things are true for them, too?</p>&mdash; Miriam Posner (<a href="https://bsky.app/profile/did:plc:rzn6yramffebefeitqifiqqz?ref_src=embed">@miriamposner.com</a>) <a href="https://bsky.app/profile/did:plc:rzn6yramffebefeitqifiqqz/post/3lqpq5afvic2x?ref_src=embed">June 3, 2025 at 12:39 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+  So, in some ways, our question should be: how do we get students to a point where these things are true for them, too?
+```
 
 I love Posner's list, which does a great job of pointing out reasons why we might articulate to students the need to care about writing. I want to add one other point: writing can be fun. For so many people writing feels painful, but it need not be that way. Would it help articulate the value of writing if our pedagogies re-introduced joy? So often writing feels like a high stakes chore for students, but how can we reintroduce play into the process?
 
