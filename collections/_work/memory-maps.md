@@ -19,6 +19,14 @@ end-year: 2025
 
 *Memory Maps* is a collaborative, ongoing installation that interrogates what it means to be human in a world that is increasingly shifting toward the machine.  A response to the explosion in popularity of large language models, particularly in how they consume and flatten work from artists and writers without proper attribution, *Memory Maps* imagines what an ethical, community-based technological system might look like, independent of artificial intelligence. The system invites the visitor to the installation to participate as a creator, both crediting them, and choreographing a continual conversation between the past and the future.
 
+![Front view of Memory Maps installation](/assets/img/work/memory-maps-front.jpg)
+
+The project asks of us "how do we live, how can we __continue__ to live, despite the invisible and visible forces of power that surround and exploit us?"
+
+![Image of the poster](/assets/img/work/memory-maps-poster.jpg)
+![Image of the poster](/assets/img/work/memory-maps-side.jpg)
+
+
 Zhou and Shepherd presented their in-progress work on *Memory Maps* at the Fall 2024 international ISAM Conference ([conference poster here](https://scholarslab.lib.virginia.edu/assets/post-media/isam2024/holly-isam2024-student-poster.pdf)).
 
 The installation is currently on display in the Scholars' Lab (Shannon Library 308), and will eventually travel to other locations as well.
