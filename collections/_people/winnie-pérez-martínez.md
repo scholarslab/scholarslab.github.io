@@ -8,8 +8,9 @@ status: current
 people-category:
 - student
 roles:
+- PHD+ Intern, 2025-2026
 - Digital Humanities Designer, 2025
 - Praxis Fellow, 2022-2023
 - LAMI Graduate Mentor, 2024
 ---
-Winnie Pérez Martínez was a 2022-2023 Praxis fellow and 2024 LAMI Graduate Mentor; and is a Digital Humanities Designer in 2025.
+Winnie Pérez Martínez was a 2022-2023 Praxis fellow, a 2024 LAMI Graduate Mentor, and a Digital Humanities Designer in 2025. She is currently a PHD+ Intern in the Lab.
