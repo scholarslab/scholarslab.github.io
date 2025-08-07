@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Praxis Program Fellowships
-permalink: /praxis-program-fellowships/
-nav: false
+author: brandon-walsh
+date: 2025-08-07
+layout: post
+slug: applications-for-the-2026-2027-praxis-fellowship-cohort-now-open
+title: Applications For The 2026-2027 Praxis Fellowship Cohort Now Open
+category: essay
 ---
-
 {% comment %}**Applications are now closed for Praxis Fellowships to be held during the 2026-2027 academic year. Further details below about the application from this past year.** Consider spending time with us next year!{% endcomment %}
 
 Applications are now open for Praxis Fellowships to be held during the 2026-2027 academic year. Further details below about the application.
