@@ -168,7 +168,7 @@ The first line of the post and the line after the final line of front matter sho
 
 - **author:** 
   - Your sluggified name (firstname-lastname, keep the hyphen between)
-  - For example, alison-booth or shane-lin
+  - For example, ronda-grizzle or shane-lin
   - This must match the biographical file the site has for you (if you're not sure what this is because you have multiple ways of writing your name, [check here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people)). We can change the name that's shown as the author of your post on the website (to a new name, nickname, etc.); please contact Amanda or ask on the Slack #slab-org channel, and they'll update your biographical file or show you how. Using a name other than the firstname-lastname [listed here](https://github.com/scholarslab/scholarslab.org/tree/master/collections/_people) will break things.
 - **date:**
   - The date the post is to be listed as published, using the YYYY-MM-DD format, e.g. 2018-10-17. Note that the year comes first; hyphens separate the year, month, and day. 
