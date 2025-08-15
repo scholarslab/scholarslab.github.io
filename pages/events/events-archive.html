@@ -32,7 +32,6 @@ nav: true
 	{% endif %}
 			<li><a href="/events/{{ past-event.slug }}">{{ past-event.title
 			}}</a> ({{ past-event.start_date | date: "%A, %B %-d, %Y" }})
-			<div class="description">{{ past-event.content }}</div>
 		</li>
 	{% if forloop.last %}
 		</ul>
