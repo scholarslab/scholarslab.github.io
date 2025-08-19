@@ -1,3 +1,5 @@
+* [#ByteSizedPedagogy: Pamella Lach and Lisa Tagliaferri](https://cal.lib.virginia.edu/event/14655973) Tuesday, June 24, 2025  
+* [Summer Show & Tell: Humanities AI Research](https://cal.lib.virginia.edu/event/14861027) Tuesday, July 8, 2025  
 * [DH Fellows Presentation: Loren Lee](https://cal.lib.virginia.edu/calendar/events/DHFellow2025) Thursday, May 15, 2025  
 * [ByteSizedPedagogy - Andrew Ferguson and Carlisle Yingst](https://cal.lib.virginia.edu/event/14429559) Wednesday, May 14, 2025  
 * [Second Tuesday Forum: Praxis Program 2024-2025](https://cal.lib.virginia.edu/event/13997022) Tuesday, May 13, 2025  
