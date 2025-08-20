@@ -2,7 +2,7 @@
 author: amanda-visconti
 date: 2025-08-16
 layout: post
-slug: queer-letterpress-collecting-making.md
+slug: queer-letterpress-collecting-making
 title: "Queer letterpress collecting & making"
 summary: "Including a photo gallery view into my letterpress collecting database."
 category: essay
