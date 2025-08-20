@@ -9,7 +9,7 @@ category: announcement
 
 We're delighted to announce UVA Library's [Digital Humanities Center](https://library.virginia.edu/dh-center) (an umbrella under which Scholars' Lab sits) has a new Faculty Director joining our team this week: [Lisa Blackmore](https://lisablackmore.net/)!
 
-After an international, competitive search, Dr. Blackmore joined UVA's College and Graduate School of Arts & Sciences as Professor of Spanish, as well as the [Environmental Humanities](https://uva.theopenscholar.com/environmental-humanities-at-uva/about) cohort. 
+After an international, competitive search, Dr. Blackmore joined UVA's College and Graduate School of Arts & Sciences as Professor of Spanish, and is a new member of the [Environmental Humanities](https://uva.theopenscholar.com/environmental-humanities-at-uva/about) cohort as well. 
 
 Scholars' Lab staff are especially excited about Blackmore's leadership, curation, and collaboration given her commitment to social justice and care as core aspects of effective scholarship; experience facilitating collaborative and generative community events; and deep expertise bridging public humanities, environmental sciences, data, art, and history in her impactful work. Since 2018, Blackmore has been the founder/director of *entre—ríos* (*Between Rivers*), an international digital platform focusing on bodies of water in Latin America. Her research is in the field of environmental humanities, with a focus on cultural histories of human-river relations, ecocritical analysis of art and literature, and creative collaborations between art, science, and communities.
 
