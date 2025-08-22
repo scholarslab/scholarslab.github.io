@@ -4,7 +4,7 @@ last_name: Irfan Tarar
 layout: people
 name: Amna Irfan Tarar
 slug: amna-irfan-tarar
-status: not-current
+status: not_current
 people-category:
 - student
 roles:

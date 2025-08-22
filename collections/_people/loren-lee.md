@@ -4,7 +4,7 @@ last_name: Lee
 layout: people
 name: Loren Lee
 slug: loren-lee
-status: not-current
+status: not_current
 people-category:
 - student
 roles:

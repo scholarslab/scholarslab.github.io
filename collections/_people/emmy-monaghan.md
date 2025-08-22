@@ -4,7 +4,7 @@ last_name: Monaghan
 layout: people
 name: Emmy Monaghan
 slug: emmy-monaghan
-status: not-current
+status: not_current
 people-category:
 - student
 roles:

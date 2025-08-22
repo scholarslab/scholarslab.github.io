@@ -4,7 +4,7 @@ last_name: McPherson
 layout: people
 name: Gramond McPherson
 slug: gramond-mcpherson
-status: not-current
+status: not_current
 people-category:
 - student
 roles:

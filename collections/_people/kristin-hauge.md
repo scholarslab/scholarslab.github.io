@@ -4,7 +4,7 @@ last_name: Hauge
 layout: people
 name: Kristin Hauge
 slug: kristin-hauge
-status: not-current
+status: not_current
 people-category:
 - student
 roles:
