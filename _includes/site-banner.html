@@ -1,18 +1,16 @@
 <!-- This file covers the site header logo image, site tagline, and navigation. -->
 <div id="scholarslab-header">
-    <hgroup>
     <a href="{{ site.url }}" id="slab-logo" aria-label="Scholars' Lab home">
         <img src="/assets/img/logos/slab-logos/Library_SLab_Color.png"
         alt="University of Virginia Library | Scholars' Lab">
     </a>
-    </hgroup>
+    <button id="global-navigation-toggle" class="menu-toggle">☰</button>
     <nav id="global-navigation" aria-label="Website Navigation">
-        <button class="menu-toggle">☰</button>
         <ul class="dropdown-menu">
             {% for nav in site.primary-navigation %}
-            <li class="dropdown"><a class="{{ nav.label | slugify }}" href="{{ site.baseurl }}/{{
-            nav.url }}">{{ nav.label }}</a><button class="dropdown-toggle" aria-label="{{ nav.label }} submenu"></button>
-                <ul class="dropdown-menu">
+            <li><a class="{{ nav.label | slugify }}" href="{{ site.baseurl }}/{{
+            nav.url }}">{{ nav.label }}</a>
+                <ul>
                     {% for subnav in nav.subnavigation %}
                     <li><a href="{{ site.baseurl }}/{{subnav.url }}">{{
                     subnav.label }}</a></li>

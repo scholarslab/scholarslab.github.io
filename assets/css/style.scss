@@ -86,10 +86,6 @@ Individual post pages
 	box-sizing: border-box;
 }
 
-html {
-	border-top: 0.5rem solid var(--uvalib-main-rotunda-orange);
-}
-
 body {
 	margin: 0;
 	padding: 0;
@@ -213,19 +209,22 @@ body.post article {
 /********************************************************************/
 /* Site Banner */
 #scholarslab-header {
-	position: relative;
+	display:flex;
+	justify-content: space-between;
 	padding: 1rem;
-	#global-navigation > .menu-toggle {
-		position: absolute;
-		top: 0.7rem;
-		right: 1rem;
-	}
+	flex-wrap: wrap;
+	position:sticky;
+	top:0;
+	width: 100%;
+	background: white;
+	border-top: 0.5rem solid var(--uvalib-main-rotunda-orange);
+	border-bottom: 1px solid #ddd;
 }
 
 #slab-logo {
 	display:block;
 	text-decoration:none;
-	width: 80%;
+	width: 50%;
 	max-width: 300px;
 
 	img {
@@ -234,48 +233,74 @@ body.post article {
 
 }
 
+button.menu-toggle {
+	outline:none;
+	border:none;
+	margin:0;
+	cursor: pointer;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+	font-size: 1.5rem;
+	background: none;
+	color: var(--uvalib-main-jefferson-blue);
+
+	&:hover,
+	&:focus {
+		color: var(--blue-alt);
+	}
+
+}
+
 #global-navigation {
-	ul {
-		display: none;
-		flex-direction: column;
-		list-style: none;
-		padding: 0;
+	width: 100%;
+	flex-basis: 100%;
+	display:block;
+
+	ul.dropdown-menu {
+		clear:both;
 		width: 100%;
-		min-width: max-content;
-		font-size: 1rem;
-	}
-
-	li {
-		padding: 0;
-		min-width: min-content;
-		display: flex;
+		max-width: 1200px;
 		flex-wrap: wrap;
-		justify-content: flex-start;
-	}
+		gap: 2rem;
+		list-style: none;
+		margin:0 auto;
+		padding:3rem;
+		justify-content: space-around;
+		& > li {
+			flex: 1 1 calc(33.333% - 2rem); /* 20px should match the gap on the container */
+			box-sizing: border-box;
+			font-weight: bold;
+			font-size: 1.5rem;
+			& > a {
+				border-bottom: 1px solid var(--blue-alt-lightest);
+			}
 
-	button {
-		cursor: pointer;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		background: none;
-		color: black;
-		outline:none;
-		border:none;
-		font-size: 1.5rem;
+			ul {
+				list-style: square;
+				padding-left: 1.25rem;
+				font-weight: normal;
+				font-size: 1.25rem;
+				::marker {
+					color: var(--blue-alt-lighter);
+				}
+			}
+		}
 	}
 
 	a {
-		display:flex;
-		align-items: center;
+		display:block;
 		text-decoration:none;
 		&:link,
 		&:visited {
+			color: var(--blue-alt-dark);
 		}
 
 		&:hover,
 		&:focus,
 		&:active {
+			color: var(--blue-alt);
 		}
 	}
 
@@ -283,83 +308,18 @@ body.post article {
 	button {
 		flex: 1 1;
 		justify-content: space-between;
-		gap: var(1rem, 1.5rem);
 	}
 
-	.dropdown-toggle {
-		flex-shrink: 1;
-		flex-grow: 0;
-		&::after {
-			display: flex;
-			content: "▾";
-			align-items: center;
-			justify-content: center;
-			transition: transform 300ms ease;
-		}
-
-		&[aria-expanded="true"]::after {
-			transform: rotate(-180deg);
-		}
-	}
 	.hide {
 		display: none !important;
 	}
 
 	.show {
 		display: flex !important;
-		opacity: 1;
 	}
 
 	.transitioning {
 		display: flex !important;
-		opacity: 0;
-	}
-}
-
-@media screen and (min-width: 900px) {
-	.menu-toggle {
-		display: none !important;
-	}
-
-	#scholarslab-header {
-		display:flex;
-		flex-direction: row;
-		flex-wrap:nowrap;
-		justify-content: space-between;
-		padding: 1rem;
-	}
-
-	#global-navigation {
-		.dropdown-toggle {
-			display:none;
-		}
-
-		 ul,
-		> ul.hide {
-		display: flex !important;
-		flex-direction: row;
-		justify-content: space-between;
-		margin: 0;
-			li {
-				padding: 0 0 0 1rem;
-				ul {
-				position: absolute;
-				top: 3rem;
-				right:0;
-				width:fit-content;
-				justify-content: flex-end;
-				}
-			}
-		}
-		ul.show {
-			background: white;
-			padding: 1rem !important;
-			position:absolute;
-			li {
-				display:inline !important;
-			}
-
-		}
 	}
 }
 
@@ -378,6 +338,7 @@ body.post article {
 		background-color: rgba(0,0,0,0.0325);
 		background-image: url('/assets/img/decorative/tiles/hypnotize.png');
 		background-size:200px;
+		border-bottom: 1px solid #ddd;
 
 		@media screen and (min-width: 900px) {
 			min-height: 30vh;
@@ -387,7 +348,6 @@ body.post article {
 			max-width: 900px;
 			margin: 0 auto;
 			width: 100%;
-			border-bottom: 2rem solid white;
 			padding: 0 2rem;
 		}
 
