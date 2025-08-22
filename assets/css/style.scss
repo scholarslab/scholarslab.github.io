@@ -159,6 +159,9 @@ h1,h2,h3,h4 {
 #banner {
 	font-family: var(--franklin-gothic-urw-comp);
 	text-transform: uppercase;
+	-webkit-position: sticky;
+	position: sticky;
+	top:0;
 }
 
 .stats-box, #stats-box {
@@ -213,8 +216,6 @@ body.post article {
 	justify-content: space-between;
 	padding: 1rem;
 	flex-wrap: wrap;
-	position:sticky;
-	top:0;
 	width: 100%;
 	background: white;
 	border-top: 0.5rem solid var(--uvalib-main-rotunda-orange);
