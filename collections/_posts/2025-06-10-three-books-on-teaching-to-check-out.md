@@ -6,7 +6,7 @@ slug: three-books-on-teaching-to-check-out
 title: Three Books on Teaching to Check Out
 category: essay
 tags:
-- Digital humanities
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/three-books-on-teaching-to-check-out

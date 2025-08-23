@@ -4,7 +4,7 @@ date: 2025-07-18
 layout: post
 slug: announcing-our-2025-2026-data-art-prize-finalist
 title: Announcing Our 2025-2026 Data Art Prize Finalist
-category: essay
+category: announcement
 ---
 After fielding a robust pool of applicants in our inaugural year, we are thrilled to announce the 2025-2026 Scholars' Lab [Data Art Prize Finalist](https://scholarslab.lib.virginia.edu/blog/scholars-lab-data-art-call-for-proposals//).
 We are delighted to feature _String Art Visualization: Social network analysis (SNA) of the Concurso de Cante Jondo (1922)_ by Sara Arribas Colmenar in our Scholars' Lab community space in the coming 2025-26 academic year.

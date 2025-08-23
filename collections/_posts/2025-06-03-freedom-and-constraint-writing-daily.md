@@ -6,7 +6,7 @@ slug: freedom-and-constraint-writing-daily
 title: "Freedom and Constraint: Writing Daily"
 category: essay
 tags:
-- Digital humanities
+- meta-blogging
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/freedom-and-constraint-writing-daily

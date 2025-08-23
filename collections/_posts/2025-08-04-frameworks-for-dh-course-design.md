@@ -6,7 +6,7 @@ slug: frameworks-for-dh-course-design
 title: Frameworks for DH Course Design
 category: essay
 tags:
-- Digital humanities
+- pedagogy
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/frameworks-for-dh-course-design

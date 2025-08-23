@@ -6,7 +6,9 @@ slug: step-back-writing
 title: Step Back Writing
 category: essay
 tags:
-- Digital humanities
+- meta-writing-blogging
+- pedagogy
+- ai-ml-llms
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/step-back-writing

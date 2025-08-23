@@ -6,7 +6,8 @@ slug: claudes-pedagogy
 title: Claude's Pedagogy
 category: essay
 tags:
-- Digital humanities
+- pedagogy
+- ai-ml-llms
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/claudes-pedagogy

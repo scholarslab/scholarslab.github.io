@@ -6,7 +6,7 @@ slug: blogging-deep-dives
 title: Blogging Deep Dives
 category: essay
 tags:
-- Digital humanities
+- meta-writing-blogging
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/blogging-deep-dives

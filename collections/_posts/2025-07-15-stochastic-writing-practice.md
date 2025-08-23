@@ -6,7 +6,7 @@ slug: stochastic-writing-practice
 title: Stochastic Writing Practice
 category: essay
 tags:
-- Digital humanities
+- meta-writing-blogging
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/stochastic-writing-practice
