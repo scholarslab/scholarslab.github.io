@@ -27,7 +27,7 @@ redirect_from:
 		{% if post.category != "update" %}
 			<h3><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}" title="{{ post.title }}">{{ post.title | replace: ' - ', ': ' }}</a></h3>
 		{% else %}
-			<h3>{{ post.date | date: "%B %-d, %Y" }} update: <a href="{{ post.url }}">{{ post.title }}</a></h3>
+			<h3>Update: <a href="{{ post.url }}">{{ post.title }}</a></h3>
 		{% endif %}
 	</hgroup></header>
 	<div class="content">
