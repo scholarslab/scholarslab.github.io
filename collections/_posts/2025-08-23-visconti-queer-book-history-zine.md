@@ -2,7 +2,7 @@
 layout: update
 date: 2025-08-23
 category: update
-title: "New zine publication: "Queer Book History""
+title: "New zine publication: 'Queer Book History'"
 author:
 - amanda-visconti
 ---
