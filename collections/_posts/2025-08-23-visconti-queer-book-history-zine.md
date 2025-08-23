@@ -7,4 +7,4 @@ author:
 - amanda-visconti
 ---
 
-[Amanda Visconti](/people/amanda-visconti) published a new, 32-page research & teaching zine, [*Queer Book History*](https://zinebakery.com/bakeshop-zines/queerbookhistory).
+[Amanda Wyatt Visconti](/people/amanda-visconti) published a new, 32-page research & teaching zine, [*Queer Book History*](https://zinebakery.com/bakeshop-zines/queerbookhistory).
