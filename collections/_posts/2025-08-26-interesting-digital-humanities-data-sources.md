@@ -40,7 +40,7 @@ U.S. fascists have destroyed or put barriers around a significant amount of publ
 
 "Created to test how we categorize identities represented in generalist literature anthologies in a database and to analyze the canon of both areas of literary study. The dataset creation informs the monograph *Digital Literary Redlining: African American Anthologies, Digital Humanities, and the Canon* (Earhart 2025). It is a highly curated small data project that includes 267 individual anthology volumes, 107 editions, 319 editors, 2,844 unique individual authors, and 22,392 individual entries, and allows the user to track the shifting inclusion and exclusion of authors over more than a hundred-year period. Focusing on author inclusion, the data includes gender and race designations of authors and editors."
 
-## National UFO Reporting Center: "Tier 1" siting reports
+## National UFO Reporting Center: "Tier 1" sighting reports
 Via Ronda Grizzle, who uses this dataset when teaching Scholars' Lab graduate Praxis Fellows how to shape research questions matching available data, and how to understand datasets as subjective and choice-based. I know UFOs sounds like a funny topic, and it can be, but there are also lots of interesting inroads like the language people use reflecting hopes, fears, imagination, otherness, certainty. A good teaching dataset given there aren't overly many fields per report, and those include mappable, timeline-able, narrative text, and a very subjective interesting one (a taxonomy of UFO shapes). [nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)
 
 ## *The Pudding*
