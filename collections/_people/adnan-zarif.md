@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Adnan Zarif
-slug: adnan-Zarif
+slug: adnan-zarif
 first_name: Adnan
 last_name: Zarif
 status: current
