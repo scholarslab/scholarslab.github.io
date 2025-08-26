@@ -225,7 +225,7 @@ body.post article {
 #slab-logo {
 	display:block;
 	text-decoration:none;
-	width: 50%;
+	width: 70%;
 	max-width: 300px;
 
 	img {
@@ -268,10 +268,13 @@ button.menu-toggle {
 		gap: 2rem;
 		list-style: none;
 		margin:0 auto;
-		padding:3rem;
+		padding:2rem 0;
+		@media screen and (min-width:600px) {
+			padding:3rem;
+		}
 		justify-content: space-around;
 		& > li {
-			flex: 1 1 calc(33.333% - 2rem); /* 20px should match the gap on the container */
+			flex: 1 1 calc(33.333% - 2rem); /* Minus value should match the gap on the container */
 			box-sizing: border-box;
 			font-weight: bold;
 			font-size: 1.5rem;
