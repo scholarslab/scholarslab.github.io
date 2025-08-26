@@ -260,6 +260,7 @@ button.menu-toggle {
 	display:block;
 
 	ul.dropdown-menu {
+		display:none;
 		clear:both;
 		width: 100%;
 		max-width: 1200px;
@@ -316,10 +317,6 @@ button.menu-toggle {
 	}
 
 	.show {
-		display: flex !important;
-	}
-
-	.transitioning {
 		display: flex !important;
 	}
 }
