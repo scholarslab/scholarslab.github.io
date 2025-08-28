@@ -16,6 +16,7 @@ category: announcement
 - We will provide laptops for easy access to ArcGIS Pro. 
 - Walk-ins are welcome, but due to a limited number of laptops, **we strongly encourage registering** using the links below or at our [Events page](https://scholarslab.lib.virginia.edu/events/). If you're waitlisted, please contact us at [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
 - We **will not be offering a virtual option** this semester. We apologize for any inconvenience. 
+- Please note, these workshops are not intended for course instruction. If you're here at the direction of your professor, or if you're teaching a class and would like to include GIS instruction, please contact us at [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
 
 **September 10th - Making Your First Map with ArcGIS Pro**
 
