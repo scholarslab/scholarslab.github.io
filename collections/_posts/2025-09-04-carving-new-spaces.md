@@ -1,6 +1,7 @@
 ---
 author: winnie e. pérez martínez
 date: 2025-09-04
+layout: post
 slug: carving-new-spaces
 title: carving new spaces
 categories: 
