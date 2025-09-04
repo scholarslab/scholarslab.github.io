@@ -2,8 +2,8 @@
 first_name: Winnie
 last_name: Pérez Martínez
 layout: people
-name: Winnie Pérez Martínez
-slug: winnie-pérez-martínez
+name: Winnie E. Pérez Martínez
+slug: winnie-e-pérez-martínez
 status: current
 people-category:
 - student

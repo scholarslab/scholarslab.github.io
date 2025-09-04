@@ -5,7 +5,7 @@ category: update
 title: "Lab article publication"
 author:
 - brandon-walsh
-- winnie-pérez-martínez
+- winnie-e-pérez-martínez
 - malcolm-cammeron
 - caroline-carter
 - samantha-stephens

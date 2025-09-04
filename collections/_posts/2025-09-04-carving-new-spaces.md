@@ -1,18 +1,14 @@
 ---
-author: winnie e. pérez martínez
+author: winnie-e-pérez-martínez
 date: 2025-09-04
 layout: post
 slug: carving-new-spaces
 title: carving new spaces
-categories: 
-- internship
-- phd-plus
-- scholars-lab
-- community
-- digital-humanities
+tags:
+- alt-ac
+- professional-development
+- project-management
 ---
-
-# carving new spaces
 
 Last week, I started an internship at the [Scholars' Lab](https://scholarslab.lib.virginia.edu/) made possible by the [PhD+ Program](https://phdplus.virginia.edu/) at UVA. This means that, during the Fall semester, I get to support the student programs, Lab initiatives, and labor of the folks that over the past four years have modeled for me how scholarship can be a liberating personal and professional practice, a genuine exercise at human connection. 
 
