@@ -8,6 +8,7 @@ tags:
 - alt-ac
 - professional-development
 - project-management
+category: essay
 ---
 
 Last week, I started an internship at the [Scholars' Lab](https://scholarslab.lib.virginia.edu/) made possible by the [PhD+ Program](https://phdplus.virginia.edu/) at UVA. This means that, during the Fall semester, I get to support the student programs, Lab initiatives, and labor of the folks that over the past four years have modeled for me how scholarship can be a liberating personal and professional practice, a genuine exercise at human connection. 
