@@ -8,7 +8,7 @@ collaborators:
     slug: jeremy-boggs
     role: Head of Research and Development
   - name: Winnie Pérez Martínez
-    slug: winnie-pérez-martínez
+    slug: winnie-e-pérez-martínez
     role: DH Designer
   - name: Shane Lin
     slug: shane-lin

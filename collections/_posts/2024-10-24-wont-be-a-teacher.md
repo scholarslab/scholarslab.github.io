@@ -1,5 +1,5 @@
 ---
-author: winnie-pérez-martínez
+author: winnie-e-pérez-martínez
 date: 2024-10-24
 layout: post
 slug: wont-be-a-teacher
