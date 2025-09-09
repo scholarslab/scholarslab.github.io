@@ -11,6 +11,7 @@ tags:
 - expansive-makerspace
 - letterpress-book-arts
 - zines
+- zine-bakery
 crosspost:
   - title: Amanda's blog
     url: https://literaturegeek.com/2024-11-27-zine-bakery-borderless-dh

@@ -11,6 +11,7 @@ tags:
 - expansive-makerspace
 - zines
 - design
+- zine-bakery
 - lab-physical-space
 crosspost:
   - title: Amanda's blog
