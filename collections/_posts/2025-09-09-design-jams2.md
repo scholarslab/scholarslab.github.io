@@ -6,8 +6,8 @@ slug: design-jams2
 title: "Design Jams, Part 2: The Shorter Version"
 category: essay
 tags:
-project management
-tutorial
+- project management
+- tutorial
 ---
 	
 [Last time we met](https://scholarslab.lib.virginia.edu/blog/design-jams1/), I promised to tell you all about the second kind of design jam, so here we go!
