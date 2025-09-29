@@ -2,9 +2,9 @@
 layout: update
 date: 2025-09-19
 category: update
-title: "Artist residency: Amanda Wyatt Visconti"
+title: "Culture, Engagement, and Community Grant awarded: Zine Bakery"
 author:
 - amanda-visconti
 ---
 
-[Amanda Wyatt Visconti](/people/amanda-visconti) was awarded an internationally competitive, monthlong artist residency & fellowship at one of the oldest U.S. handicraft schools, [Penland School of Craft](https://penland.org/).
+[Amanda Wyatt Visconti](/people/amanda-visconti) was awarded one of UVA Library's Culture, Engagement, and Community Grants to expand the capacity of the [Zine Bakery @ Scholars' Lab](https://scholarslab.lib.virginia.edu/work/zine-bakery/) public zine distro.
