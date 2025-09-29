@@ -1,6 +1,6 @@
 ---
 layout: update
-date: 2025-09-19
+date: 2025-09-29
 category: update
 title: "Artist residency: Amanda Wyatt Visconti"
 author:
