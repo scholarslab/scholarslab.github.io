@@ -18,7 +18,7 @@ In this case, we start with assuming 8-hour workdays and a 5-day workweek, 5 stu
 
 Arbitrarily, we can run this 10,000 times for each number of obliged hours per week from 0 to 20 and graph the results.
 
-![graph showing the success rate of 10000 simulations for number of busy hours in the week per student, with a steep drop-off at around 7-8 hours](/assets/post-media/2025-10-02-freeslots.png)
+![graph showing the success rate of 10000 simulations for number of busy hours in the week per student, with a steep drop-off at around 7-8 hours](/assets/post-media/2025-10-07-freeslots.png)
 
 Here, I've also run the numbers for both the case where we enforce that each session be on different days (ideal) or if we will allow them to be on the same day (barbarous) to see if that unenviable prospect buys us anything. From this graph, we can see that, either way, there's a pretty steep drop-off starting at 8 hours and falling below 50% success rate at 10 hours. Allowing sessions to be on the same day only gets us about 0.5 hours of leeway, which doesn't seem worth the torturous cost. Typically, a graduate teaching assistant for a single large course may be required to attend three hours of classes and preside over three more hours of discussion sections in a week. There are many more obligations that are either more flexible or require less time, but this represents a reasonable floor for our consideration. This means that we're relying on students having at most about 2-4 additional hours a week of fixed obligations before we are likely to be in trouble.
 
