@@ -1,6 +1,6 @@
 ---
 author: shane-lin
-date: 2024-10-07
+date: 2025-10-07
 layout: post
 slug: anxiety-monte-carlo
 title: Anxiety and the Monte Carlo Method   
