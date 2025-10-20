@@ -5,8 +5,7 @@ layout: post
 slug: digital-artefacts-series-concept-and-format
 title: "Digital Artefacts Series: Concept & Format"
 categories:
-- Grad Student Research
-- Digital Humanities
+- essay
 tags:
 - Digital Humanities
 ---

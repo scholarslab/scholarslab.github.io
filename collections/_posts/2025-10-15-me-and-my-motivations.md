@@ -5,7 +5,7 @@ layout: post
 slug: me-and-my-motivations
 title: Me and My Motivations
 categories:
-- Digital Humanities
+- essay
 tags:
 - Digital Humanities
 ---
