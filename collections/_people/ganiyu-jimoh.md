@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Ganiyu Jimoh
+title: Jimga
 slug: ganiyu-jimoh
 first_name: Ganiyu
 last_name: Jimoh

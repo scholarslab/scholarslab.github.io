@@ -1,6 +1,7 @@
 ---
-author: ganiyu-jimoh (jimga)
+author: ganiyu-jimoh
 date: 2025-10-27
+layout: post
 slug: digital-artefacts-series-concept-and-format
 title: "Digital Artefacts Series: Concept & Format"
 category: essay
@@ -13,7 +14,7 @@ tags:
 
 <div style="text-align: center;">
 <figure style="display: inline-block; margin: 10px;">
-<img src="analogtwin.jpg" alt="Analog Photograph of Twins" width="300">
+<img src="/assets/post-media/digital-artefacts-series-concept-and-format/analogtwin.jpg" alt="Analog Photograph of Twins" width="300">
  <figcaption style="font-style: italic; font-size: 14px; color: #555; text-align: center;">
       Fig. 1. <em> Taiwo holding a multiple-printed photograph representing herself and her deceased twin sister.<sup>1</sup></em> 
 </figcaption>
@@ -29,7 +30,7 @@ In Yorùbá cosmology, where twins (<em>ìbejì</em>)<sup>2</sup> are regarded a
 
 <div style="text-align: center;">
 <figure>
-<img src="ereibeji.jpg" alt="Ere Ibeji - wood sculpture" width="300">
+<img src="/assets/post-media/digital-artefacts-series-concept-and-format/ereibeji.jpg" alt="Ere Ibeji - wood sculpture" width="300">
   <figcaption style="font-style: italic; font-size: 14px; color: #555;">
       Fig. 2. <em>Ere Ibeji with Beaded Gown</em> (Yoruba twin figure), Wood, fabric, glass beads, string, metal, pigment, H: 36.0 cm, W: 9.5 cm, D: 9.0 cm. Fowler Museum at UCLA. https://jstor.org/stable/community.12004960.
 </figcaption>
@@ -39,7 +40,7 @@ Fast forward to 2018: a new image materializes—sharp, hyperreal, and unmistaka
 
 <div style="text-align: center;">
 <figure style="display: inline-block; margin: 10px;">
-<img src="digitaltwin.jpg" alt="Twin Image - digital manipulation" width="600">
+<img src="/assets/post-media/digital-artefacts-series-concept-and-format/digitaltwin.jpg" alt="Twin Image - digital manipulation" width="600">
  <figcaption style="font-style: italic; font-size: 14px; color: #555; text-align: center;">
       Fig. 3. <em>Twins at Igbo-Ora, Nigeria,</em>  Digital image by Bénédicte Kurzen and Sanne De Wilde as part of the series Land of Ìbejì.Published in The Guardian, 12 May 2019.
 </figcaption>
@@ -50,12 +51,8 @@ From hand-carved <em>ère ìbejì</em> to analog portraiture to digital manipula
 
 Through such digital reanimations, the dialogue between ritual and reproduction extends beyond the material to the virtual. Artists continue to navigate this liminal space, where ancestral cosmologies encounter algorithmic systems and the act of remembrance becomes a gesture of creative resistance. These works trace a continuum of visual thought that resists erasure by adapting across media. Memory, in this context, is not an archive of the past but a living process—reconfigured, remixed, and projected into the digital future.
 
-<dic class="notes">
-
-
-
+<div class="notes">
 </div>
-
 <style>
       .notes{font-size:12px;
       line-height:1;
@@ -68,11 +65,4 @@ Through such digital reanimations, the dialogue between ritual and reproduction 
     <li>For further discussion of Twins Images in Yoruba traditions, see George Chemeche, John Pemberton, and John Picton, <em>Ìbejì: The Cult of Yoruba Twins</em>. Hic Sunt Leones II. Milan: 5 Continents Editions, 2003.</li>
     <li>Bénédicte Kurzen (b. 1980) and Sanne De Wilde (b. 1987) are award-winning photographers whose collaborative projects, including <em>Land of Ìbejì</em>, merge documentary and conceptual practices to explore cross-cultural mythologies, identity, and perception through experimental and visually poetic storytelling.</li>
   </ol>
-</div>
-</Note>
-</Note>
-</div>
-
-
-
 
