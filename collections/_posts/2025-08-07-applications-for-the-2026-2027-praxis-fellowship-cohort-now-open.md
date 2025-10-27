@@ -39,7 +39,7 @@ The application process for Praxis is simple! You apply individually, and we ass
 * **When can you meet?** - your availability on the days and times we've identified for group interviews: **12/1 from 10AM-12PM or 12/5 from 1PM-3PM** (you will only have to participate in a single hour-long group interview); 
 * **Anything else we should know?** - pronouns, a name you go by other than the one on your email, any other experiences or backgrounds you want to make sure we are aware of, or anything else you would like to share.
 
-In addition, we ask for a brief note (a PDF or screenshot of an email is fine) from the applicant's department chair stating that they are aware the student is applying for the fellowship and support the application (given that the application can affect teaching rosters).
+In addition, we ask for a brief note (a PDF or screenshot of an email is fine) from the applicant's department chair or DGS stating that they are aware the student is applying for the fellowship and support the application (given that the application can affect teaching rosters).
 
 The best Praxis applications are the ones that go beyond listing the skills and research one hopes to bring or take away from the experience. Instead, focusing on weaving those elements into a narrative of how the program connects to your life plans and how you, in turn, connect to the spirit of the program. We recommend applicants start by reading our [charter](https://praxis.scholarslab.org/praxis-program-charter/) and a blog post on "[Questions to ask When Applying](https://scholarslab.lib.virginia.edu/blog/questions-to-ask-when-applying/)."
 
