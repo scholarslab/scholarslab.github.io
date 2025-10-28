@@ -17,7 +17,7 @@ How do I write my dissertation?
 
 How did you write yours? 
 
-In my experience, students struggle to maintain a sense of progress while writing their dissertations. Those perfectionist tendencies that got them so far in life can cause real problems when working on a two-hundred page document. I had a very careful process for my dissertation writing and for managing those frustrations. Process can be one of the things that saves us from the tyranny and the blank page, so I thought I would share two things that students seem to find inspiring: how I wrote my dissertation and how I go about writing now. 
+In my experience, students struggle to maintain a sense of progress while writing their dissertations. Those perfectionist tendencies that got them so far in life can cause real problems when working on a two-hundred-page document. I had a very careful process for my dissertation writing and for managing those frustrations. Process can be one of the things that saves us from the tyranny and the blank page, so I thought I would share two things that students seem to find inspiring: how I wrote my dissertation and how I go about writing now. 
 
 ## My dissertation process 
 
