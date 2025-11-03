@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2025-10-20
+date: 2025-11-03
 layout: post
 slug: apply-to-be-our-2026-2027-graduate-fellow-in-digital-humanities
 title: Apply To Be Our 2026-2027 Graduate Fellow In Digital Humanities
