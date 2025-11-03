@@ -1,8 +1,10 @@
 ---
-layout: page
-title: Digital Humanities Fellows Program
-permalink: /digital-humanities-fellows/
-nav: false
+author: brandon-walsh
+date: 2025-11-03
+layout: post
+slug: apply-to-be-our-2026-2027-graduate-fellow-in-digital-humanities
+title: Apply To Be Our 2026-2027 Graduate Fellow In Digital Humanities
+category: essay
 ---
 **Applications are now open for the 2026-2027 Digital Humanities Fellowship. Find More Details Below.**
 
