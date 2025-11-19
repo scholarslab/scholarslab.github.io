@@ -15,8 +15,8 @@ tags:
 <div style="text-align: center;">
 <figure style="display: inline-block; margin: 10px;">
 <img src="/assets/post-media/digital-artefacts-series-concept-and-format/analogtwin.jpg" alt="Analog Photograph of Twins" width="300">
- <figcaption style="font-style: italic; font-size: 14px; color: #555; text-align: center;">
-      Fig. 1. <em> Taiwo holding a multiple-printed photograph representing herself and her deceased twin sister.<sup>1</sup></em> 
+<figcaption style="font-style: italic; font-size: 14px; color: #555; text-align: center;">
+Fig. 1. <em> Taiwo holding a multiple-printed photograph representing herself and her deceased twin sister.<sup>1</sup></em> 
 </figcaption>
 </figure>
 </div>
@@ -31,8 +31,8 @@ In Yorùbá cosmology, where twins (<em>ìbejì</em>)<sup>2</sup> are regarded a
 <div style="text-align: center;">
 <figure>
 <img src="/assets/post-media/digital-artefacts-series-concept-and-format/ereibeji.jpg" alt="Ere Ibeji - wood sculpture" width="300">
-  <figcaption style="font-style: italic; font-size: 14px; color: #555;">
-      Fig. 2. <em>Ere Ibeji with Beaded Gown</em> (Yoruba twin figure), Wood, fabric, glass beads, string, metal, pigment, H: 36.0 cm, W: 9.5 cm, D: 9.0 cm. Fowler Museum at UCLA. https://jstor.org/stable/community.12004960.
+<figcaption style="font-style: italic; font-size: 14px; color: #555;">
+Fig. 2. <em>Ere Ibeji with Beaded Gown</em> (Yoruba twin figure), Wood, fabric, glass beads, string, metal, pigment, H: 36.0 cm, W: 9.5 cm, D: 9.0 cm. Fowler Museum at UCLA. https://jstor.org/stable/community.12004960.
 </figcaption>
 </figure>
 </div>
@@ -41,8 +41,8 @@ Fast forward to 2018: a new image materializes—sharp, hyperreal, and unmistaka
 <div style="text-align: center;">
 <figure style="display: inline-block; margin: 10px;">
 <img src="/assets/post-media/digital-artefacts-series-concept-and-format/digitaltwin.jpg" alt="Twin Image - digital manipulation" width="600">
- <figcaption style="font-style: italic; font-size: 14px; color: #555; text-align: center;">
-      Fig. 3. <em>Twins at Igbo-Ora, Nigeria,</em>  Digital image by Bénédicte Kurzen and Sanne De Wilde as part of the series Land of Ìbejì.Published in The Guardian, 12 May 2019.
+<figcaption style="font-style: italic; font-size: 14px; color: #555; text-align: center;">
+Fig. 3. <em>Twins at Igbo-Ora, Nigeria,</em>  Digital image by Bénédicte Kurzen and Sanne De Wilde as part of the series Land of Ìbejì.Published in The Guardian, 12 May 2019.
 </figcaption>
 </figure>
 </div>
