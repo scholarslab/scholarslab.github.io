@@ -799,13 +799,17 @@ body.people .gallery {
 
 /********************************************************************/
 /* /makerspace page */
+.button-span a {
+	color: white;
+}
 #quick-buttons {
-	border: 1px solid grey;
-	border-radius: 8px;
+	border: 1px solid var(--blue-alt-light);
+	border-radius: 14px;
 	padding: 20px;
 	margin-top: 6vh;
 }
 #quick-buttons nav {
+	color: white;
 	list-style: none;
 	margin-left:0;
 	padding-left:0;
@@ -814,10 +818,16 @@ body.people .gallery {
 	align-items: flex-end;
 	gap: 1rem;
 	a {
+		color: white;
 		flex:1 1 auto;
-		font-size: 1rem;
 		text-align: center;
 		margin: 0 auto;
+	}
+	a:hover,
+	a:active,
+	a:focus,
+	a:visited {
+		color: white;
 	}
 	@media screen and (min-width: 700px) {
 		flex-flow: row wrap;
@@ -851,29 +861,27 @@ body.people .gallery {
 }
 
 .makerspace-button {
-	box-shadow:inset 0px 1px 0px 0px #fce2c1;
-	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
-	background-color:#ffc477;
-	border-radius:6px;
-	border:1px solid #eeb44f;
+	background-color: var(--blue-alt);
+	border: 1px solid var(--blue-alt);
+	width: fit-content;
+	margin-top: 2rem;
+	transition: background-color .25s;
+	border-radius: 10px;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:15px;
-	font-weight:bold;
-	padding:6px 24px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #cc9f52;
+	color: white;
+	padding: .5rem 1rem;
+	text-decoration: none;
 }
 .makerspace-button:hover,
 .makerspace-button:active,
 .makerspace-button:focus {
-    opacity: 0.88;
-	color: var(--uvalib-main-white);
+	color: white;
+	border: 1px solid var(--blue-alt-light);
+	background: var(--blue-alt-light);
 }
 .makerspace-button:visited {
-	color: var(--uvalib-main-white);
+	color: white;
 }
 #printers > h4 {
 	font-weight: normal;
