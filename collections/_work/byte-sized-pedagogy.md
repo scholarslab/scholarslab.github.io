@@ -1,7 +1,7 @@
 ---
 layout: work
 slug: byte-sized-pedagogy
-title: ""
+title: "#ByteSized Pedagogy"
 collaborators: 
   - name: Brandon Walsh
     slug: brandon-walsh
@@ -9,11 +9,13 @@ collaborators:
     slug: seanna-viechweg
   - name: Rachel Retica
     slug: rachel-retica
-    role: Past collaborator
-research-category: 
+    role: past collaborator (2025)
+research-category: Events & Community Building
 start-year: 2025
 end-year: current
-url: https://walshbr.com/byte-sized-pedagogy
+link: https://walshbr.com/byte-sized-pedagogy
+thumb-img: byte-sized-pedagogy-thumb.jpg
+banner-img: byte-sized-pedagogy-banner.jpg
 ---
 
 *[#ByteSized Pedagogy](https://walshbr.com/byte-sized-pedagogy)* is a free and open-to-the-public zoom series on digital pedagogy features paired lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of [Amanda Wyatt Visconti's](/people/amanda-visconti) [#DHMakes Methodz talks](https://amandavisconti.github.io/DHMakesMethodz/), each session will be built around paired 5 minute presentations followed by facilitated discussion for the remainder of the time. We will be gathering social media commentary using [the #ByteSizedPedagogy hashtag](https://bsky.app/search?q=%23ByteSizedPedagogy).
