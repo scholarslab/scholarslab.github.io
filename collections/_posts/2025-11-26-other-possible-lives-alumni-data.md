@@ -1,6 +1,6 @@
 ---
 author: winnie-e-pérez-martínez
-date: 2025-11-26
+date: 2025-12-08
 layout: post
 slug: other-possible-lives-in-alumni-data
 title: other possible lives in alumni data
@@ -9,7 +9,7 @@ category: essay
 
 It’s 2025 and too many of those enrolled in humanities PhD programs[^1] still think they’re going to land a tenure-track faculty position in higher education. Yes, Faculty[^2] members have been slowly facing the crisis of the academic job market, but even the most supportive ones are strapped for the resources, field knowledge, and the necessary time to effectively help PhDs navigate this landscape. Graduate curricula rarely includes comprehensive career training or coaching. This task falls almost entirely on academic advisors, many of which barely have time to keep up with their own work. How will they have time to educate their students about non-faculty careers? What happens if the tenured advisor isn’t even interested in engaging with the core issues of this challenging landscape? Who is going to support the PhD worker then?
 
-Part of the academic job market problem is that we struggle to rethink the meaning of a successful PhD graduate in our times. We[^3], scholars especially in the humanities, don’t know enough yet about non-academic networking to know or show what kinds of jobs, lifestyles, and interventions the humanities can create beyond the university. This is a challenge that haunts me, personally, as I’m soon-to-be in the job market for non-faculty academic jobs. It is also one that feels fundamental to answer for all of us who worry about the future of humanities scholarship and pedagogy.
+Part of the academic job market problem is that we struggle to rethink the meaning of a successful PhD graduate in our times. We,[^3] scholars especially in the humanities, don’t know enough yet about non-academic networking to know or show what kinds of jobs, lifestyles, and interventions the humanities can create beyond the university. This is a challenge that haunts me, personally, as I’m soon-to-be in the job market for non-faculty academic jobs. It is also one that feels fundamental to answer for all of us who worry about the future of humanities scholarship and pedagogy.
 
 One of my internship tasks this semester was updating the alumni data for two programs sponsored by the Scholars’ Lab: the Digital Humanities and Praxis fellowship programs, both yearlong DH-training opportunities for PhDs at UVA. Though there were preceding initiatives, the current structure of the Digital Humanities Fellowship is in place since 2007, and the Praxis Program since 2011\. By now, there’s 121 combined alumni, many of which have graduated and taken on different positions. Some of those make great departing points for re-envisioning what success looks like for PhDs. 
 
