@@ -1,6 +1,6 @@
 ---
 author: shane-lin
-date: 2025-10-29
+date: 2025-12-08
 layout: post
 slug: openai-docs
 title: The OpenAI API documentation is very bad 
