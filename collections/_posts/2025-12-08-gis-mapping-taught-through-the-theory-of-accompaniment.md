@@ -1,9 +1,10 @@
 ---
-author: Jessica Gómez
+author: jessica-gómez
 date: 2025-12-08
 layout: post
-slug: praxis-blogpost
+slug: gis-mapping-taught-through-the-theory-of-accompaniment
 title: "GIS Mapping Taught Through the Theory of Accompaniment"  
+category: essay
 ---
 Geographic Information System (GIS) mapping attaches a dataset to a specific space and place, substantiating a relationship between the two as not only directly related but as affected by or moved to that specific point on a map. However, when thinking about how to teach a workshop on mapping to a group, one problem came to mind: we are in a generation with a profound lack of relationship to and with maps and the locations of countries. Which, in general, is its own point of discussion; however, when considering migration and mapping, a recognition of this lack became a focus for me. The question formed: how do I first get people not only to see, but really understand this non-relationship?  
 
@@ -28,12 +29,12 @@ The nitty-gritty part of this actual blog post. Bear with me. In groups, people 
 
 Along with the country, they will also be given a mix of 14 notecards; on the front, each will have a year, the migrants' nationality, and gender. In a longer workshop, I would leave parts of the data set unlabeled and have participants read the narrative on the other side and fill in the data themselves. Making data collection part of the activity and including a brief interrogation of what we synthesize and ultimately prioritize.
 
-<param ve-image
-  src="gh:JessaMaria/JessaMaria.github.io/main/images/prototype_d.png">
-<param ve-image
-  src="gh:JessaMaria/JessaMaria.github.io/main/images/close.png">
-<param ve-image
-  src="gh:JessaMaria/JessaMaria.github.io/main/images/pins.png">
+![Mexico STL file](/assets/post-media/gis-mapping-taught-through-the-theory-of-accompaniment/prototype_d.png)
+
+![Closeup of Mexico STL](/assets/post-media/gis-mapping-taught-through-the-theory-of-accompaniment/close.png)
+
+![STL file for pins](/assets/post-media/gis-mapping-taught-through-the-theory-of-accompaniment/pins.png)
+
 
 Slowly but surely, they will place a pin on the 3D map at the final location in Mexico mentioned in the narrative, where the hole already exists. By this point, the idea is that each pin they place on the map will serve as an act of accompaniment. 
 
