@@ -1,3 +1,61 @@
+* [Poster Printing](https://cal.lib.virginia.edu/event/15521252) December 11, 2025  
+* [DH Fellowship Information Session - 2026-27 Cycle](https://cal.lib.virginia.edu/event/15591874) December 10, 2025  
+* [Reversible Leather Cuff Workshop](https://cal.lib.virginia.edu/event/15898549) December 9, 2025  
+* [CANCELED: Workshop: Writing and Revising with Editorial Support](https://cal.lib.virginia.edu/calendar/events/WritingWithEditorialSupport) December 9, 2025  
+* [Origami Workshop](https://cal.lib.virginia.edu/event/15732408) December 5, 2025  
+* [DIY Felt Wallet Workshop! By the Cosplay Costuming & Crafts Club](https://cal.lib.virginia.edu/event/15731759) December 5, 2025  
+* [Pen & Pencil Case Workshop](https://cal.lib.virginia.edu/event/15417318) December 4, 2025  
+* [DH Fellows Colloquium: Seanna Viechweg](https://cal.lib.virginia.edu/event/15359711) December 4, 2025  
+* [Workshop: How To Use LLMs To Do More Than Write a Paper: Using AI to Classify Texts](https://cal.lib.virginia.edu/calendar/events/ClassifyTextsWithAI) December 2, 2025  
+* [Stuffed Buddies](https://cal.lib.virginia.edu/event/15602298) December 2, 2025  
+* [Coffee + Code with Heidi Nobles: Why Write with an Editor (Human or Otherwise)](https://cal.lib.virginia.edu/calendar/events/WhyVirtualEditor) November 20, 2025  
+* [DH Center Tuesday Forum: Can AI Read Biodiversity in Prose Fiction?](https://cal.lib.virginia.edu/calendar/events/DAC-DHC_midyear_forum) November 18, 2025  
+* [Turkey Time Workshop](https://cal.lib.virginia.edu/event/15419918) November 18, 2025  
+* [Yarnsgiving: Crotchet Pumpkin Coaster Edition](https://cal.lib.virginia.edu/event/15704500) November 15, 2025  
+* [Humanities AI Research Showcase #3](https://cal.lib.virginia.edu/calendar/events/humanitiesAIresearch3) November 14, 2025  
+* [DIY Felt Wallet Workshop! By the Cosplay Costuming & Crafts Club](https://cal.lib.virginia.edu/event/15727442) November 14, 2025  
+* [Coffee + Code with Winnie Pérez Martínez](https://cal.lib.virginia.edu/event/15167808) November 13, 2025  
+* [Tote-Bag Workshop](https://cal.lib.virginia.edu/event/15378538) November 12, 2025  
+* [Zines Now! Workshop: Zines for Change](https://cal.lib.virginia.edu/calendar/events/zinesforchange) November 11, 2025  
+* [Hand Tool Basics Workshop](https://cal.lib.virginia.edu/event/15360808) November 10, 2025  
+* [VR Viewing : "Collisions"](https://cal.lib.virginia.edu/event/15640269) November 7, 2025  
+* [VR Viewing : "Collisions"](https://cal.lib.virginia.edu/event/15640268) November 6, 2025  
+* [Pen & Pencil Case Workshop](https://cal.lib.virginia.edu/event/15417317) November 6, 2025  
+* [Zines Now! Workshop: Handmade Zine Covers](https://cal.lib.virginia.edu/calendar/events/beery) November 5, 2025  
+* [Coffee + Code with Megan Brett](https://cal.lib.virginia.edu/event/15167717) October 30, 2025  
+* [GIS Workshop - ArcGIS Story Maps](https://cal.lib.virginia.edu/calendar/events/Fall2025GISWorkshop8) October 29, 2025  
+* [Halloween Costumes, Crafts and Decorations](https://cal.lib.virginia.edu/event/15562693) October 26, 2025  
+* [DIY Fantasy Horns Workshop - Cosplay Costuming & Crafts Club](https://cal.lib.virginia.edu/event/15569130) October 24, 2025  
+* [#ByteSizedPedagogy: Douglas Eyman and Cynthia Heider](https://cal.lib.virginia.edu/event/15495666) October 23, 2025  
+* [Arduino Workshop](https://cal.lib.virginia.edu/event/15419896) October 22, 2025  
+* [GIS Workshop - Introduction to ArcGIS Online](https://cal.lib.virginia.edu/calendar/events/Fall2025GISWorkshop7) October 22, 2025  
+* [Custom Coaster & Water Bottle Laser Cutting Workshop](https://cal.lib.virginia.edu/event/15337894) October 20, 2025  
+* [T-Shirt Alteration Workshop](https://cal.lib.virginia.edu/calendar/events/t_shirt_alteration_with_Robyn) October 18, 2025  
+* [DIY Fantasy Horns Workshop - Cosplay Costuming & Crafts Club](https://cal.lib.virginia.edu/event/15569129) October 17, 2025  
+* [Coffee + Code with Shane Lin](https://cal.lib.virginia.edu/event/15167768) October 16, 2025  
+* [GIS Workshop - Easy Demographics](https://cal.lib.virginia.edu/calendar/events/Fall2025GISWorkshop6) October 15, 2025  
+* [Tote-Bag Workshop](https://cal.lib.virginia.edu/event/15378510) October 15, 2025  
+* [Pen & Pencil Case Workshop](https://cal.lib.virginia.edu/event/15417316) October 9, 2025  
+* [GIS Workshop - Taking Control of Your Spatial Data: Editing in ArcGIS Pro](https://cal.lib.virginia.edu/calendar/events/Fall2025GISWorkshop5) October 8, 2025  
+* [Tuesday Forum: Anouk Lang on Poetry in the Makerspace](https://cal.lib.virginia.edu/calendar/events/AnoukLang) October 7, 2025  
+* [DIY Custom Leather KeyChain (With the Cosplay Costuming & Crafts Club)](https://cal.lib.virginia.edu/event/15400594) October 3, 2025  
+* [Coffee + Code with Heather Froehlich](https://cal.lib.virginia.edu/event/15167696) October 2, 2025  
+* [Pencil Engraving Workshop](https://cal.lib.virginia.edu/event/15419887) October 1, 2025  
+* [GIS Workshop - Mapping Street Addresses and More Spatial Things](https://cal.lib.virginia.edu/calendar/events/Fall2025GISWorkshop4) October 1, 2025  
+* [Humanities AI Research Showcase #2](https://cal.lib.virginia.edu/calendar/events/humanitiesAIresearch2) September 30, 2025  
+* [DIY Leather Dice Tray (With the Cosplay Costuming & Crafts Club)](https://cal.lib.virginia.edu/event/15400539) September 26, 2025  
+* [Scholars' Lab Artist & Methods Talk: Data Art Prize Winner Sara Arribas Colmenar](https://cal.lib.virginia.edu/calendar/events/ArribasColmenar) September 25, 2025  
+* [Pen & Pencil Case Workshop](https://cal.lib.virginia.edu/event/15417315) September 25, 2025  
+* [#ByteSizedPedagogy: Jennifer Isasi and Sean Keenan](https://cal.lib.virginia.edu/event/15280577) September 25, 2025  
+* [GIS Workshop - Getting your Lat/Lon Data on a Map](https://cal.lib.virginia.edu/calendar/events/Fall2025GISWorkshop3) September 24, 2025  
+* [Slab Stanely Signing](https://cal.lib.virginia.edu/event/15330865) September 23, 2025  
+* [DIY Pirate Hat with the Cosplay Costuming & Crafts Club](https://cal.lib.virginia.edu/calendar/events/PirateHat) September 19, 2025  
+* [Coffee + Code with Joe Edgerton](https://cal.lib.virginia.edu/event/15167621) September 18, 2025  
+* [GIS Workshop - Georeferencing in ArcGIS Pro](https://cal.lib.virginia.edu/calendar/events/Fall2025GISWorkshop2) September 17, 2025  
+* [DIY Pirate Hat with the Cosplay Costuming & Crafts Club](https://cal.lib.virginia.edu/calendar/events/PirateHat) September 12, 2025  
+* [GIS Workshop - Making Your First Map With ArcGIS Pro](https://cal.lib.virginia.edu/calendar/events/Fall2025GISWorkshop1) September 10, 2025  
+* [Praxis Fellowship Information Session - Fall 2025](https://cal.lib.virginia.edu/calendar/events/slab-praxis-information-session-fall-2025) September 8, 2025  
+* [Coffee + Code with Jeremy Boggs and Rebecca Coleman](https://cal.lib.virginia.edu/event/15167647) September 4, 2025  
 * [Summer Show & Tell: Humanities AI Research](https://cal.lib.virginia.edu/event/14861027) Tuesday, July 8, 2025  
 * [#ByteSizedPedagogy: Pamella Lach and Lisa Tagliaferri](https://cal.lib.virginia.edu/event/14655973) Tuesday, June 24, 2025  
 * [DH Fellows Presentation: Loren Lee](https://cal.lib.virginia.edu/calendar/events/DHFellow2025) Thursday, May 15, 2025  
