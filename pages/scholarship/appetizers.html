@@ -1,0 +1,19 @@
+---
+layout: page
+title: Research Appetizers
+permalink: /appetizers/
+nav: true
+---
+
+<p>Curious about a scholarly method or topic? This page shares an array of "appetizers": sets of 5 linked resources related to a variety of digital humanities and adjacent research and learning, curated by the Scholars' Lab staff.</p>
+
+<section id="appetizers">
+<!-- Pulls from files added to /collections/_appetizers; duplicate the TEMPLATE.md file there to add new sections (filename does not matter except: use something related to the topic & use lowercase and no spaces -->
+{% for project in site.appetizers %}
+<h2>{{ appetizer.title }}</h2>
+	{% if appetizer.intro %}
+		<p>{{ appetizer.intro }}</p>
+	{% endif % }
+	{{ appetizer.content }}
+{% endfor %}
+</section>
