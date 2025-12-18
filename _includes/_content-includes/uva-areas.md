@@ -53,6 +53,7 @@
 * Women in CS (WiCS) Hackathon
 * Women in Data Science Symposium
 * Rare Book School
+* UVA's Postdoc Association
 
 #### UVA student groups with significant support beyond a consult
 * #Charlottesville Syllabus student collaborative
