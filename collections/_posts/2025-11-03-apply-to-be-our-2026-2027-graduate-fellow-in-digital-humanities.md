@@ -47,7 +47,7 @@ A complete application package will include the following materials:
 * a short review of relevant digital projects and scholarship with which your proposed work for the year will be in dialogue (no more than two pages);
 * a brief note (a PDF or screenshot of an email is fine) from the applicant’s dissertation director attesting to the fact that applicant has discussed the project with them and they support the application;
 * a brief note (a PDF or screenshot of an email is fine) from the applicant's department chair stating that they are aware the student is applying for the fellowship and support the application (given that holding the fellowship can affect teaching rosters);
-* and your availability for a 30-minute finalist interview slot during the following times: **TBD - check back in soon**. This availability should be communicated in the cover letter. We can work out scheduling difficulties, so please suggest alternative times if the announced slots do not work for you. 
+* and your availability for a 30-minute finalist interview slot during the following times: Tuesday, March 10 from 10:00-11:30 or Wednesday, March 11 from 1:00-3:00. This availability should be communicated in the cover letter. We can work out scheduling difficulties, so please suggest alternative times if the announced slots do not work for you. 
 
 Completed application materials can be uploaded through the [GSAS application portal](https://virginia.academicworks.com/). Please do consider this application to be part of a process - the beginning of a conversation about how we can work together.
 
