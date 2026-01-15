@@ -15,7 +15,7 @@ Spring semester is when we shift gears and turn our workshop focus to ArcGIS Onl
 - Sessions are one hour and assume participants have no previous experience using GIS. These will be hands-on demonstrations with step-by-step tutorials.
 - We will meet **in-person** in the Scholars’ Lab (Shannon Library 308) on **Wednesdays from 2PM to 3PM**, and openly welcome the UVA and larger Charlottesville community. 
 - Walk-ins are welcome, but due to limited seating, **we strongly encourage registering** using the links below or at our [Events page](https://scholarslab.lib.virginia.edu/events/). If you're waitlisted, please contact us at [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
-- Class materials will be made available on the Spring 2026 Workshops tab of our [Teaching Resources page](guides.lib.virginia.edu/gis/teaching_resources#s-lib-ctab-22148924-1).
+- Class materials will be made available on the Spring 2026 Workshops tab of our [Teaching Resources page](https://guides.lib.virginia.edu/gis/teaching_resources#s-lib-ctab-22148924-1).
 - We **will not be offering a virtual option** this semester. We apologize for any inconvenience. 
 - Please note, **these workshops are not intended for course instruction**. If you're here at the direction of your professor, or if you're teaching a class and would like to include GIS instruction, please contact us at [uvagis@virginia.edu](mailto:uvagis@virginia.edu).
 
