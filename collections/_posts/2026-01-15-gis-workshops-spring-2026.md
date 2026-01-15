@@ -8,7 +8,7 @@ slug: gis-workshops-spring-2026
 category: announcement
 ---
 
-Get over to [Chez Scholars' Lab](https://scholarslab.lib.virginia.edu) for the hottest GIS workshops in town. And fear not, our [references](https://en.wikipedia.org/wiki/Victor/Victoria) may be from the nineteen hundreds, but they're [relevant](https://guides.lib.uconn.edu/c.php?g=1409975&p=10500444), and much like the themes of that movie, the content of these workshops is ahead of its time. 
+Get over to [Chez Scholars' Lab](https://scholarslab.lib.virginia.edu) for the hottest GIS workshops in town. And fear not, our [references](https://en.wikipedia.org/wiki/Victor/Victoria) may be from the nineteen hundreds, but much like the themes of that movie, the content of these workshops is ahead of its time. 
 
 Spring semester is when we shift gears and turn our workshop focus to ArcGIS Online (AGOL), Esri's GIS solution for the cloud. AGOL is browser-based, eliminating any Windows vs. Mac shenanigans, and allowing us to provide temporary access to members of the community that don't have UVA credentials. Not sure what the difference is between ArcGIS Pro and ArcGIS Online? Mark Patterson sums it up well [here](https://storymaps.arcgis.com/stories/bf37fb8c97ca405c8876553101933f4e). Still not sure? As always, feel free to [contact us](mailto:uvagis@virginia.edu) with any questions. 
 
