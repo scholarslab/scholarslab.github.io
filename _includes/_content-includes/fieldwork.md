@@ -24,4 +24,5 @@
 * Virginia Center for the Book: Book Arts Shop; Alphabuzz Public Letterpress Pedagogy Teaching Cohort; Virginia Book Arts  
 * Barnard Zine Library
 * WTJU radio station  
-* Charlottesville Zine Fest  
+* Charlottesville Zine Fest
+* Little Big Horn Community College  
