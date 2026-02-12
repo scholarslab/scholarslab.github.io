@@ -1011,3 +1011,20 @@ margin-top: 15px;
 .post_crosspost::before {
 	content: "\2192";
 }
+
+/********************************************************************/
+/* alumni placements page */
+
+.flex-container {
+	display: flex;
+}
+
+.circle {
+	background-color: var(--uvalib-secondary-magenta);
+	width: 25vh;
+	height: 25vh;
+	border-radius: 50%;
+	// overflow: hidden;
+	flex-shrink: 0;
+	margin-right: 1rem;
+}

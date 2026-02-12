@@ -1,0 +1,109 @@
+#  what to do with jobs that count for two categories? i've added them to all that apply. 
+
+alumni_jobs:
+  - job_title: Artist
+    alumni_programs:
+      - Art & Architectural History
+      - Anthropology
+      - Music, Composition
+  
+  - job_title: Consultant 
+    alumni_programs:
+      - English
+      - Music, Critical Studies
+      - Sociology
+
+  - job_title: Curator
+    alumni_programs:
+      - Art & Architectural History
+      - History
+      - Music, Critical Studies
+
+  - job_title: Data Researcher
+    alumni_programs:
+      - Art & Architectural History:
+        quantity: 2
+      - English
+
+  - job_title: Developer
+    alumni_programs:
+      - English
+      - History
+      - Music, Composition
+
+  - job_title: Digital Strategist
+    alumni_programs:
+      - Music, Critical Studies
+  
+  - job_title: Freelancer
+    alumni_programs:
+      - Architecture, Constructed Environment 
+      - Art & Architectural History
+      - English:
+        quantity: 2
+      - History:
+        quantity: 2
+      - Music, Composition
+      - Sociology
+  
+  # "head" includes deparment chairs. 
+  - job_title: Head
+    alumni_programs:
+      - History
+      - English:
+        quantity: 2
+  
+  - job_title: Lawyer
+    alumni_programs:
+      - English:
+        quantity: 2
+
+  - job_title: Life Coach
+    alumni_programs:
+      - Art & Architectural History
+      - Sociology
+
+  - job_title: Lecturer
+    alumni_programs: 
+      - English:
+        quantity: 2
+      - History
+
+  - job_title: Manager
+    alumni_programs:
+      - Anthropology:
+        quantity: 2
+      - English
+      - Religious Studies
+
+  - job_title: Product Architect
+    alumni_programs:
+      - History
+
+  - job_title: Research Fellow
+    alumni_programs:
+      - Religious Studies
+      - Music, Critical Studies
+
+  - job_title: Teacher
+    alumni_programs:
+      - History:
+        quantity: 2
+
+  - job_title: Tenure-track Faculty
+    alumni_programs:
+      - Anthropology:
+        quantity: 2
+      - Art & Architectural History:
+        quantity: 3
+      - English:
+        quantity: 4
+      - French:
+        quantity: 2
+      - History:
+        quantity: 8
+      - Music
+      - Philosophy
+      - Sociology:
+        quantity: 2
+      - Spanish
