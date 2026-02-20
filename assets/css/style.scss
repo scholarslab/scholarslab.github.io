@@ -66,6 +66,7 @@ Individual post pages
 	--diamond: rgb(185, 250, 248);
 	--darkpastelpurple: rgb(154, 119, 210);
 	--medskyblue:rgb(117, 227, 239);
+	--mellow-yellow: #FFD966;
 
 	/* Colors from SLab rainbow vines-hand logo */
 	--logo-red-orange:#FE5102
@@ -1015,28 +1016,36 @@ margin-top: 15px;
 /********************************************************************/
 /* alumni placements page */
 
-.flex-container {
+.jobs {
 	display: flex;
 	flex-wrap: wrap;
 }
+// on hover, change main div background color to yellow + change text color to white + 
 
-.circle--outer {
-	background-color: var(--uvalib-secondary-magenta);
+// we should only have 1 circle, with JS change background color + text context
+// rename classes semantically
+.job {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: var(	--blue-alt-light);
 	width: 25vh;
 	height: 25vh;
 	border-radius: 50%;
-	// overflow: hidden;
 	flex-shrink: 0;
 	margin: 1rem;
 }
 
-.circle--inner {
-	background-color: var(--uvalib-main-jefferson-blue);
-	width: 24vh;
-	height: 24vh;
-	border-radius: 50%;
-	// overflow: hidden;
-	flex-shrink: 0;
-	margin-left: .75rem;
-	margin-top: .75rem;
+.job h2 {
+	font-size: smaller;
+	line-height: 1;
+}
+
+// yellow hover circle 
+.job:hover {
+	background-color: var(--mellow-yellow);
+	cursor: pointer;
+	// transition: background-color 500ms linear;
 }

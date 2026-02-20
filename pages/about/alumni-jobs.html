@@ -4,6 +4,7 @@ title: Alumni Job Placements
 permalink: /about/alumni-job-placements/
 nav: false
 ---
+{% assign jobs = site.data.alumni-jobs.alumni_jobs %}
 
 <div class="alumni-intro">
     <p>
@@ -14,14 +15,10 @@ nav: false
 <!-- alumni testimonies -->
 
 <!-- job placement bubbles -->
-<div class="flex-container">
-    <div class="circle--outer"><div class="circle--inner"></div></div>
-    <div class="circle--outer"><div class="circle--inner"></div></div>
-    <div class="circle--outer"><div class="circle--inner"></div></div>
-    <div class="circle--outer"><div class="circle--inner"></div></div>
-    <div class="circle--outer"><div class="circle--inner"></div></div>
-    <div class="circle--outer"><div class="circle--inner"></div></div>
-    <div class="circle--outer"><div class="circle--inner"></div></div>
-    <div class="circle--outer"><div class="circle--inner"></div></div>
-    <div class="circle--outer"><div class="circle--inner"></div></div>
+<div class="jobs">
+    {% for job in jobs %}
+        <div class="job">
+            <h2>{{ job.job_title }}</h2>
+        </div>
+    {% endfor %}
 </div>
