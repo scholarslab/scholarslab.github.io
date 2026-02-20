@@ -1018,6 +1018,7 @@ margin-top: 15px;
 
 .jobs {
 	display: flex;
+	align-content: center;
 	flex-wrap: wrap;
 }
 // on hover, change main div background color to yellow + change text color to white + 
@@ -1030,7 +1031,7 @@ margin-top: 15px;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	background-color: var(	--blue-alt-light);
+	background-color: var(--blue-alt-light);
 	width: 21vh;
 	height: 21vh;
 	border-radius: 50%;
@@ -1045,8 +1046,8 @@ margin-top: 15px;
 
 .job:hover {
 	cursor: pointer;
-	width: 25vh;
-	height: 25vh;
+	width: 23vh;
+	height: 23vh;
 	transform: scale(1.2);
 	transition: transform 500ms ease-in;
 }
