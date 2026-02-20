@@ -1031,11 +1031,11 @@ margin-top: 15px;
 	align-items: center;
 	text-align: center;
 	background-color: var(	--blue-alt-light);
-	width: 25vh;
-	height: 25vh;
+	width: 21vh;
+	height: 21vh;
 	border-radius: 50%;
-	flex-shrink: 0;
 	margin: 1rem;
+	transition: transform 500ms ease;
 }
 
 .job h2 {
@@ -1043,9 +1043,10 @@ margin-top: 15px;
 	line-height: 1;
 }
 
-// yellow hover circle 
 .job:hover {
-	background-color: var(--mellow-yellow);
 	cursor: pointer;
-	// transition: background-color 500ms linear;
+	width: 25vh;
+	height: 25vh;
+	transform: scale(1.2);
+	transition: transform 500ms ease-in;
 }
