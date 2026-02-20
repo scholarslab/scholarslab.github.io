@@ -1017,14 +1017,26 @@ margin-top: 15px;
 
 .flex-container {
 	display: flex;
+	flex-wrap: wrap;
 }
 
-.circle {
+.circle--outer {
 	background-color: var(--uvalib-secondary-magenta);
 	width: 25vh;
 	height: 25vh;
 	border-radius: 50%;
 	// overflow: hidden;
 	flex-shrink: 0;
-	margin-right: 1rem;
+	margin: 1rem;
+}
+
+.circle--inner {
+	background-color: var(--uvalib-main-jefferson-blue);
+	width: 24vh;
+	height: 24vh;
+	border-radius: 50%;
+	// overflow: hidden;
+	flex-shrink: 0;
+	margin-left: .75rem;
+	margin-top: .75rem;
 }
