@@ -63,10 +63,6 @@ MOV = (Raw margin of victory) / (Total votes in state)
 
 where the raw margin of victory is the difference in popular votes between the first and second place candidates in the state.  
 
-$$\frac{Raw margin of victory}{Total votes in state}$$
-
-
- 
 
 # Hardware 
 
