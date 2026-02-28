@@ -99,9 +99,13 @@ Well, if we just have two gears and one is smaller than the other, then if we tu
 
 ![The blue, smaller gear is the one moving, or driving the larger gear](/assets/post-media/critical-making-projects/small-large-gear-rotation.gif)
 
+[small turning large](https://geargenerator.com/beta/#XhSo9oioiEpPrml0ci@Njy$rtmSvAMojpFrWvi2TE5Rjp3WvXVV$VME6oA)
+
 The opposite is true, too. If the big gear rotates one full revolution, the small gear revolves twice.
 
 ![large gear turning a small gear](/assets/post-media/critical-making-projects/large-small-rotation.gif)
+
+[Large turning small](https://geargenerator.com/beta/#Y6c$Z$$$$W71Ok@fir0jpGFlX59@8N$G6mMof1KGDqXEFspd006l97B)
 
 The ratio between the sizes of the gears is called the gear ratio. The gear ratio is derived from the diameter of the gear doing the revolving divided by the diameter of the gear connected to the moving gear. We can call these the driving gear (the one attached to a servo or some other source that generated the movement) and the driven gear. So we get the formula:
 
@@ -494,6 +498,8 @@ That's a `3 × 3 = 9` total ratio. Better than the 8 needed.
 That's just perfect, but in a gear train, the pinion actually rotates 4.5 times, so the rack will move 169.646mm. Even more perfect!
 
 ![gif of gear train at this ratio](/assets/post-media/critical-making-projects/gear-train-rotation.gif)
+
+[Gear train](https://geargenerator.com/beta/#RiXDspmdqpmdfGU5923VVJBWFFBBsFGXbX@DBIAgrVzB2jI1H8DOzwTThgHV$TRRhkgYz$7$ji5X2TGGT$a)
 
 OK. Now with the math and numbers all figured out, and the some additional tips from Copilot about layout, it's time to start modeling a gear train!
 
