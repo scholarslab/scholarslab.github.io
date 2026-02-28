@@ -160,6 +160,8 @@ Doing some cross multiply,
 
 and we get that `x = 96`. Whelp. Back to a 96mm gear. This is because the servo gear only rotates halfway. 
 
+# Third Gear
+
 So, I ask myself, "Self, if you know the pinion size and how many rotations it needs to complete, how do you calculate the other gears in the train if you don't know exactly what sizes and how many are needed?"
 
 I replied, "You know, that's something that I don't know."
@@ -349,6 +351,8 @@ You only need to know the total ratio, and then you can:
 This process is how all engineered gearboxes are designed.
 </div>
 
+# Fourth Gear
+
 OK. That's cool. Now to ask Copilot to figure it all out for me.
 
 "Copilot, walk me through each step of how to calculate a gear train to drive a pinion 4 rotation with a servo motor generating 0.5 rotations and the largest a gear can be is 40mm, and using the smallest number of gears possible, and the gears should be easily 3D printed."
@@ -526,3 +530,6 @@ Phew! That was a lot! Next week, 3D model the gear train!
 
 Funding provided through a generous grant from UVA Arts Council.
 ![Alt text](/assets/post-media/critical-making-projects/arts-council.jpg)
+
+
+Read [Part 1 - The Begining](https://scholarslab.lib.virginia.edu/blog/2026-02-20-critical-making-fellowship-2025-2026-part-1/)

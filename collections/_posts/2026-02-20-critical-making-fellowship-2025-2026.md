@@ -1,6 +1,6 @@
 ---
 author: ammon-shepherd
-layout: update
+layout: post
 date: 2026-02-20 12:54:00
 title: "Critical Making Fellowship 2025-2026 | Part 1"
 slug: 2026-02-20-critical-making-fellowship-2025-2026-part-1
@@ -114,3 +114,6 @@ A test case using California can be seen in the video below.
 
 Funding provided through a generous grant from UVA Arts Council.
 ![Alt text](/assets/post-media/critical-making-projects/arts-council.jpg)
+
+
+Read [Part 2 - Jump on the Gear Train](https://scholarslab.lib.virginia.edu/blog/2026-02-27-jump-on-the-gear-train-critical-making-2025-2026-part-2/)
