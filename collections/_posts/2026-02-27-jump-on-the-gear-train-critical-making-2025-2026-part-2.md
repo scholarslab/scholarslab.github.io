@@ -532,4 +532,4 @@ Funding provided through a generous grant from UVA Arts Council.
 ![Alt text](/assets/post-media/critical-making-projects/arts-council.jpg)
 
 
-Read [Part 1 - The Begining](https://scholarslab.lib.virginia.edu/blog/2026-02-20-critical-making-fellowship-2025-2026-part-1/)
+Read [Part 1 - The Beginning](https://scholarslab.lib.virginia.edu/blog/2026-02-20-critical-making-fellowship-2025-2026-part-1/)
