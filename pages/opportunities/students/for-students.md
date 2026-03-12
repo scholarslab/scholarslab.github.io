@@ -37,8 +37,8 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 [More information](/makerspace-technologists/)
 
-## Various CFPs for researchers & research teams  
-Watch [our blog](/blog) for calls like the [2025 Data Analytics Center-Digital Humanities Center Fellowship](/blog/hpc-fellowships-cfp/), which pairs teams of 1 UVA faculty member and 1 UVA graduate student on experimental humanities research requiring high-performance computing resources.
+## Various CFPs for researchers & research teams
+Watch [our blog](/blog) for calls like the [Data Analytics Center-Digital Humanities Center Fellowship](/dac-dhc-fellowship/), which pairs teams of 1 UVA faculty member and 1 UVA graduate student on experimental humanities research requiring high-performance computing resources.
 
 ## Scholars’ Lab GIS Technician
 **Call issued:** Subject to need, often in April/May for the summer
@@ -72,7 +72,7 @@ UVA departments determine language proficiency requirements for their students. 
 
 ## Digital Humanities Graduate Certificate
 
-The University of Virginia offers a twelve-credit graduate certificate in digital humanities. More information about the certificate and information about how to apply, including application dates, can be found on the [certificate website](https://dh.virginia.edu/certificate). Many Scholars' Lab students go on to receive the certificate, and the Lab is available for consultations pertaining to certificate work. 
+The University of Virginia offers a twelve-credit graduate certificate in digital humanities. More information about the certificate and information about how to apply, including application dates, can be found on the [certificate website](https://dh.virginia.edu/certificate). Many Scholars' Lab students go on to receive the certificate, and the Lab is available for consultations pertaining to certificate work.
 
 ## Outside Experts for Theses and Dissertations
 
