@@ -6,7 +6,7 @@ nav: false
 ---
 
 
-## Request for Proposal for the 2026-27 Academic Year
+## Request for Proposals for the 2026-27 Academic Year
 
 **Proposals are due May 15, 2026 via email to
 [lbdac-dhc-fellowship@virginia.edu](mailto:lbdac-dhc-fellowship@virginia.edu).**
@@ -17,13 +17,11 @@ The fellowship is a collaboration between the <abbr>DAC</abbr> and <abbr>DHC</ab
 
 To find out more, please sign up:
 
-### Thursday March 12, 12-2pm: What can Humanists do with AI?
+* [Thursday March 12, 12-2pm: What can Humanists do with AI?](https://cal.lib.virginia.edu/calendar/events/DHC-DACInfoSession)
+  * The team from the Digital Humanities Center and Data Analytics Center will introduce the Fellowship, high performance computing infrastructure at UVA
 
-The team from the Digital Humanities Center and Data Analytics Center will introduce the Fellowship, high performance computing infrastructure at UVA
-
-### Thursday March 26, 12-2pm: Faculty-Student Mixer
-
-The <abbr>DHC</abbr> will facilitate a mixer to support connections between faculty and students to share your research ideas, interests, and experience doing humanities research with AI.
+* [Thursday March 26, 12-2pm: Faculty-Student Mixer](https://cal.lib.virginia.edu/calendar/events/DHC-DAC-Mixer)
+  * The <abbr>DHC</abbr> will facilitate a mixer to support connections between faculty and students to share your research ideas, interests, and experience doing humanities research with AI.
 
 We highly recommend applicants contact to set up a time to talk with <abbr>DHC</abbr> and <abbr>DAC</abbr> representatives about the suitability of preliminary ideas, ideas for budgeting, and proposed collaborations with the <abbr>DAC</abbr> and <abbr>DHC</abbr>.
 
