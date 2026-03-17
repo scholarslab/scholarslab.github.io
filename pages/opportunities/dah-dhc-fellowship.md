@@ -35,7 +35,11 @@ Faculty applicants should submit a single PDF application with all of the follow
 * Attachments that include the following information:
 * A proposed project development plan for the fellowship duration
 * A plan for student involvement and the resultant professional development
-* A budget narrative for how the award funds will be used (e.g., research activities, travel to conferences, student course release, professional development, or dissemination of project findings). A sample template is available here.
+* A budget narrative for how the award funds will be used (e.g., research
+  activities, travel to conferences, student course release, professional
+  development, or dissemination of project findings). Use this [sample budget
+  template](https://myuva-my.sharepoint.com/:x:/g/personal/xtg8yu_virginia_edu/IQC7svWZO8CNRp4LwQ6sOG5DAYB3NM2TisLx6i41V0p6q38?e=6c8UPv&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
+  for reference.
 * A letter of support from your chair, dean, or supervisor.
 
 ### Frequently Asked Questions
