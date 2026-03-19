@@ -9,7 +9,7 @@ nav: false
 ## Request for Proposals for the 2026-27 Academic Year
 
 **Proposals are due May 15, 2026 via email to
-[lbdac-dhc-fellowship@virginia.edu](mailto:lbdac-dhc-fellowship@virginia.edu).**
+[lb-dac-dhc-fellowship@virginia.edu](mailto:lb-dac-dhc-fellowship@virginia.edu).**
 
 The Digital Humanities Center (<abbr>DHC</abbr>) and Data Analytics Center (<abbr>DAC</abbr>) are seeking proposals from UVA faculty for a <abbr>DHC</abbr>-<abbr>DAC</abbr> Team Fellowship to include one faculty member and one graduate student. The Fellowship seeks to encourage and support the use of high-performance computing resources in the humanities and to identify UVA DH projects that require collaborations with <abbr>DHC</abbr> and <abbr>DAC</abbr>. **Running from June 15th, 2026 through June 15th, 2027**, the fellowship will include a budget of $20,000. The award will include support from <abbr>DHC</abbr> and <abbr>DAC</abbr> staff, including theoretical and practical discussion and planning for the intellectual and technical aspects of the project. The team will have opportunities throughout the award period to share work-in-progress and lessons learned to colleagues and the community at <abbr>DAC</abbr> and <abbr>DHC</abbr> events.
 
