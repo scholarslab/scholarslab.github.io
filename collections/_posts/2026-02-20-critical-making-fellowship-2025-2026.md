@@ -19,7 +19,7 @@ Beginning in 2023, the Makerspace has funded a graduate student, usually in the 
 
 This project aims to visualize electoral voting patterns in previous presidential elections using an interactive data-sculpture. Each state is represented with a cluster of hexagonal cells equal to the number of electoral votes allocated to the state. 
 
-[!["2012 US Electoral map"](/assets/post-media/critical-making-projects/2012_United_States_presidential_election.png)](https://www.mapchart.net/usa-hex-cartogram.html)
+[!["2012 US Electoral map"](/assets/post-media/critical-making-projects/3d-usa-map/2012_United_States_presidential_election.png)](https://www.mapchart.net/usa-hex-cartogram.html)
 
 
 The state-block will have two actions in response to input data: 
@@ -87,33 +87,33 @@ As of February 2026, the hardware side of things has improved a bit. California 
 
 Originally, it was hoped to use the output of data from the R statistical program to generate the 3D models for printing. The resulting hexagons from this workflow were inconsistent. 
 
-![Map showing inconsistent hexagon and height](/assets/post-media/critical-making-projects/r-generated-map.png)
+![Map showing inconsistent hexagon and height](/assets/post-media/critical-making-projects/3d-usa-map/r-generated-map.png)
 
 An additional issue, was that the generated file created a map with states at varying heights. We are going to account for this in the hardware by moving the states up and down, so they all need to be the same height.
 
 Modeling each state by hand in Fusion 360 is the solution. 
 
 
-![Model of California](/assets/post-media/critical-making-projects/hexafornia.png)
+![Model of California](/assets/post-media/critical-making-projects/3d-usa-map/hexafornia.png)
 
 Fusion 360 was also used to model the servo holder and a rack and pinion gear set to move the state vertically.
 
 
-![Model of the rack and pinion gear](/assets/post-media/critical-making-projects/rack-n-pinion.png)
+![Model of the rack and pinion gear](/assets/post-media/critical-making-projects/3d-usa-map/rack-n-pinion.png)
 
 To test the set up, two pieces of plywood were cut to house the gears and the state. Temporary supports were 3D printed to hold the two pieces of plywood together.
 
 A test case using California can be seen in the video below.
 
 <video controls width="600">
-    <source src="/assets/post-media/critical-making-projects/california-moving.mp4" type="video/mp4">
+    <source src="/assets/post-media/critical-making-projects/3d-usa-map/california-moving.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
 
 
 Funding provided through a generous grant from UVA Arts Council.
-![Alt text](/assets/post-media/critical-making-projects/arts-council.jpg)
+![Alt text](/assets/post-media/critical-making-projects/3d-usa-map/arts-council.jpg)
 
 
 Read [Part 2 - Jump on the Gear Train](https://scholarslab.lib.virginia.edu/blog/2026-02-27-jump-on-the-gear-train-critical-making-2025-2026-part-2/)

@@ -53,7 +53,7 @@ Well, let me take you on a journey to how I figured this out and understood the 
 
 Each state will move up and down based on the data given. Prof. Rich Ross and I want this to be a pretty dramatic difference between the lowest and highest states, so we decided on 150mm of movement. After much deliberation and looking at various options, Yashu and I decided that a rack and pinion would be the easiest way to accomplish the goal. What is a rack and pinion? It's simply a gear that moves a bar with gear teeth. It turns a rotational movement into a linear movement. The round gear is the pinion, the bar with teeth is the rack. )
 
-![A rack and pinion, a large circular gear moving a long bar with teeth](/assets/post-media/critical-making-projects/rack_and_pinion_animation.gif)
+![A rack and pinion, a large circular gear moving a long bar with teeth](/assets/post-media/critical-making-projects/3d-usa-map/rack_and_pinion_animation.gif)
 
 We figured the servo can rotate the pinion and move the rack attached to the bottom of the state up and down. (See last week's post with a video of the test case.)
 
@@ -97,13 +97,13 @@ One option is to use multiple gears. We can use multiple small gears to create t
 
 Well, if we just have two gears and one is smaller than the other, then if we turn the small gear one full rotation, the bigger gear will turn less than one full rotation. If the bigger gear is twice the size of the smaller gear, then for every 2 turns of the small gear, the big gear will turn once.
 
-![The blue, smaller gear is the one moving, or driving the larger gear](/assets/post-media/critical-making-projects/small-large-gear-rotation.gif)
+![The blue, smaller gear is the one moving, or driving the larger gear](/assets/post-media/critical-making-projects/3d-usa-map/small-large-gear-rotation.gif)
 
 [small turning large](https://geargenerator.com/beta/#XhSo9oioiEpPrml0ci@Njy$rtmSvAMojpFrWvi2TE5Rjp3WvXVV$VME6oA)
 
 The opposite is true, too. If the big gear rotates one full revolution, the small gear revolves twice.
 
-![large gear turning a small gear](/assets/post-media/critical-making-projects/large-small-rotation.gif)
+![large gear turning a small gear](/assets/post-media/critical-making-projects/3d-usa-map/large-small-rotation.gif)
 
 [Large turning small](https://geargenerator.com/beta/#Y6c$Z$$$$W71Ok@fir0jpGFlX59@8N$G6mMof1KGDqXEFspd006l97B)
 
@@ -501,7 +501,7 @@ That's a `3 × 3 = 9` total ratio. Better than the 8 needed.
 
 That's just perfect, but in a gear train, the pinion actually rotates 4.5 times, so the rack will move 169.646mm. Even more perfect!
 
-![gif of gear train at this ratio](/assets/post-media/critical-making-projects/gear-train-rotation.gif)
+![gif of gear train at this ratio](/assets/post-media/critical-making-projects/3d-usa-map/gear-train-rotation.gif)
 
 [Gear train](https://geargenerator.com/beta/#RiXDspmdqpmdfGU5923VVJBWFFBBsFGXbX@DBIAgrVzB2jI1H8DOzwTThgHV$TRRhkgYz$7$ji5X2TGGT$a)
 
@@ -529,7 +529,7 @@ Phew! That was a lot! Next week, 3D model the gear train!
 
 
 Funding provided through a generous grant from UVA Arts Council.
-![Alt text](/assets/post-media/critical-making-projects/arts-council.jpg)
+![Alt text](/assets/post-media/critical-making-projects/3d-usa-map/arts-council.jpg)
 
 
 Read [Part 1 - The Beginning](https://scholarslab.lib.virginia.edu/blog/2026-02-20-critical-making-fellowship-2025-2026-part-1/)
