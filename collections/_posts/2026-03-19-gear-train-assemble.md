@@ -12,6 +12,8 @@ tags:
 - critical-making-project
 ---
 
+![seven versions of the holder so far](/assets/post-media/critical-making-projects/3d-usa-map/gear-train/holder-versions.jpg)
+
 On the heels of the knowledge gained from the last post [figuring out the gear train numbers]({% post_url 2026-02-27-jump-on-the-gear-train-critical-making-2025-2026-part-2 %}), I set out to model the gears and a holder.
 
 And immediately I was confronted with an issue with my calculations.
@@ -89,7 +91,9 @@ The rack is pretty straight forward. I created a 20 tooth gear, then used one of
 ![pinion gear](/assets/post-media/critical-making-projects/3d-usa-map/gear-train/rack.png)
 
 ## Gear Holder
-This was a little bit tricker. The gears were all prototyped in one go. The first print was great. This part took 4 tries. 
+This was a little bit tricker. The gears were all prototyped in one go. The first print was great. This part took 7 tries so far. 
+
+![seven versions of the holder so far](/assets/post-media/critical-making-projects/3d-usa-map/gear-train/holder-versions.jpg)
 
 I started by creating a new Assembly in Fusion. Then adding in the gears and aligning them as needed. I went with a stacked approach so as to keep the footprint as small as possible. I had previously modeled the servo motor, so I was able to add that in as well. 
 
@@ -111,7 +115,7 @@ After the first version, I realized that the gears needed spacers to keep them i
 
 # Somewhat Working
 
-I connected everything up, bolted in the gears, and plugged it in. And it works... sort of.
+I connected everything up, bolted in the gears, and plugged it in. And it works... mostly.
 
 <video controls width="600">
     <source src="/assets/post-media/critical-making-projects/3d-usa-map/gear-train/gears-moving.mp4" type="video/mp4">
@@ -120,7 +124,7 @@ I connected everything up, bolted in the gears, and plugged it in. And it works.
 </video>
 
 
-As the video shows, the gears work, somewhat. There is a bit of jittering, which may be due to the code just rotating the gears back and forth. A more normal behavior would be moving from one angle to the next and stopping there. The servo is also not moving at a full 180 degrees. More like 100. It might be time to consider better quality servos. Perhaps some that move 270 degrees.
+As the video shows, the gears work, somewhat. There is a bit of jittering, which may be due to the code just rotating the gears back and forth. A more normal behavior would be moving from one angle to the next and stopping there. The servo is also not moving at a full 180&deg;. More like 100&deg;. This is only about 111mm of travel, not the 150mm we're hoping for. It might be time to consider better quality servos. Perhaps some that move 270&deg;.
 
 It is also a pain to swap the servo motor. Perhaps a redesign is in order. 
 
