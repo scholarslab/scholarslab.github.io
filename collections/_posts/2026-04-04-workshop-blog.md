@@ -1,0 +1,33 @@
+---
+author: Jessica-Gómez
+date: 2025-09-21
+author: jessica-gómez
+date: 2025-10-20
+layout: post
+slug: praxis-blogpost
+title: "Mapping Migration in a Workshop: Latinx or Digital Humanities?"
+---
+This blog, in a lot of ways, is the result of putting into action my previous blog, and to get a better gist of what the workshop itself entailed, please see that blog: https://scholarslab.lib.virginia.edu/blog/gis-mapping-taught-through-the-theory-of-accompaniment/ 
+
+In running a workshop on GIS mapping using 3D-printed maps and pins, one conclusion, point of error, questions to consider (call it what you will) came to mind: when practicing a Digital Humanities workshop aimed at teaching a specific digital tool without the digital, while also using Latinx materials, what is it that gets missed? Is it possible to do due diligence on both fields in a limited time with an audience of mixed knowledge? Does the digital tool come before the context of the world in which it is used? And why do these questions trouble me so much? Am I alone in my concerns? 
+
+By all of these questions, what I mean to ask, reworded, is there and does there have to be a difference between teaching the workshop I did in a future Latinx class with a DH section on the syllabus versus running a workshop with a general DH group on a Latinx topic while focusing not on the Latinx portion but instead the mechanics of a tool? Theoretically, in a Latinx topic class, the history and specifics of what is being plotted, which in this case were different Latin American migrant experiences in the country of Mexico, would already be explained in lectures and readings. There are no underlying assumptions of knowledge left open in the conversation fostered in a classroom with students. A general workshop functions a little differently, especially given time constraints and the fact that it's a one-day event, and, at the end of the day, a skill or specific point is valued.
+
+Admittedly, in the last post, I left out the details of the sixteen flashcards in part because making them took a bit longer than I expected. Just like any other teaching material, the details and specifics mattered an unbelievable amount. So, I did what any literature major would do: I drew on my training and tried to ensure that the stories/narratives were as centered as possible. Meaning nearly all the sixteen flashcards are snippets from documentaries, novels, memoirs, and government documents. This project, at its heart, was one of critical making, using 3D printing to embody the work of literary studies. 
+
+Once again, in a Latinx studies classroom, I would never run the workshop before spending time on the histories of Latin American migrations and the differences across decades. For example, in the early 2000s, into the turn of the second decade of the 21st century, there was an increase in unaccompanied children from across Central American countries fleeing gang violence, which was a direct result of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA), which is a different moment, with its own specifics, of a broader history (Arias 2012). What is being written about and documented reflects this period. Therefore, the flashcards also aim to reflect not only the different migrant experiences in Mexico but also who is migrating. In my previous blog post, I used Rodriguez’s framework of accompaniment to argue that, by plotting the flashcards onto the map, a participant is also “positioned, if not prodded, to question the conditions.” The hope in a classroom is that students can see the differences across decades as they plot the snippets and be “prodded” to make connections. Turns out, in a workshop, this is slightly harder to pull off successfully. 
+
+**Answers to my Questions** 
+
+I didn’t realize just how much I would appreciate the act of running a workshop, the practice it would provide, and all the questions it would raise for me as a teacher. I say this not as a value judgment but as a point of improvement and awareness: in many ways, the workshop failed. I failed. And I love the fact that I failed. And next time I might fail again, and I might not, but I look forward to it nonetheless. 
+Because in failure and in writing this blog, the answers to my own questions, at least for myself, become slowly clearer and clearer. So, I will now answer the questions using the experience of the workshop itself. What gets missed? I learned that if we center a digital tool too much and not the world it is situated in, the Latinx histories fall a little to the side. Once again, my failure. Is it possible to do due diligence on both fields? That one is a little harder for me because the reality is similar to Environmental humanities, where Priscilla Solis Ybarra, David Vazquez, and many more have demonstrated gaps of Latinx representation in other fields, but also a mirrored gap in Latinx studies. These gaps complicate one’s ability to do full diligence in a limited time. I repeat, my failure. Does the tool come before the world? On the day of this workshop, it did. In part because the intent of the workshop was to teach the tool, and I focused on that too. Why do these questions bother me so much? Question for a later day. Would I teach it differently in my future Latinx studies class? Absolutely. 
+
+As part of my tradition, a place of thanks. I am so very grateful to have had the opportunity to run this workshop and to find joy not only in critical making but also in failing. I want to not only thank my praxis group and those who were there for the workshop, but also my amazing advisors who encourage all my side-quests, even when they include ducks. 
+
+**References**
+
+Arias, Arturo. “Central American-Americans in the Second Decade of the Twenty-First Century: Old Scars, New Traumas, Disempowering Travails.” *Diálogo*, vol. 15, no. 1 (2012): pp. 4-16. 
+
+Vázquez, David J. *Decolonial Environmentalisms: Climate Justice and Speculative Futures In Latinx Cultural Production.* Austin: University of Texas Press, 2025.
+
+Ybarra, Priscilla Solis. *Writing the Goodlife: Mexican American Literature and the Environment.* Tucson: The University of Arizona Press, 2016. 
