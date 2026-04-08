@@ -22,12 +22,9 @@ And yet, over time, I have found myself going back to specific projects, questio
 
 
 <picture>
-    <img src="/assets/post-media/2026-04-08-depth-breadth-axes.jpg" style="width:60%; height:auto; display:block; margin:auto;">
-    <figcaption>test</figcaption>
+    <img src="/assets/post-media/2026-04-08-depth-breadth-axes.jpg" style="width:60%; height:auto; display:block; margin:auto;" alt="A two-axis coordinate plane representing the intersection of breadth and depth in DH.">
+    <figcaption>Figure 1. A simple diagram of breadth and depth as perpendicular intersecting axes.</figcaption>
 </picture>
-
-
-
 
 [^1]:  See, for example, Brandon Walsh’s blog entry “[Breadth And Depth in DH Professional Development](https://scholarslab.lib.virginia.edu/blog/breadth-and-depth-in-dh-professional-development//)” (May 12 2023); Matthew Lincoln’s blog entry “[Depth-First DH](https://matthewlincoln.net/2014/08/24/depth-first-dh.html)” (24 Aug 2014). 
 
