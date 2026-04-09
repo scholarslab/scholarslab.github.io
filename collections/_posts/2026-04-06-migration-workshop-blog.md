@@ -1,5 +1,5 @@
 ---
-author: Jessica-Gómez
+author: jessica-gómez
 date: 2026-04-06
 layout: post
 slug: migration-workshop-blog
