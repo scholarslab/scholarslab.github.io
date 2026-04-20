@@ -30,6 +30,13 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 [More information](/digital-humanities-fellows/)
 
+## Critical Making Fellow
+**Call issued:** Subject to funding availability.
+
+**Deadline:** Flexible
+
+[More information](/critical-making-fellow/)
+
 ## Makerspace Technologist
 **Call issued:** Subject to need
 
