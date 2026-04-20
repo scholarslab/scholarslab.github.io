@@ -28,6 +28,6 @@ The Scholars’ Lab Makerspace Critical Making Fellow is a year-long, paid gradu
 
 Finally, we are looking forward to working with Ganiyu Jimoh (Jimga), our 2026-2027 Graduate Fellow in the Digital Humanities. Jimga's (Art and Architectural History) dissertation is titled "Digital Art in Nigeria 1990 – 1999."
 
-Jimga will work with our team throughout the year and over the summer on substantial research projects related to her dissertation. She joins a vibrant community of students working in the lab in the coming year.
+Jimga will work with our team throughout the year and over the summer on substantial research projects related to his dissertation. He joins a vibrant community of students working in the lab in the coming year.
 
 Special thanks to everyone who served on the application committees that selected these fantastic students. We are looking forward to working with all of them in the coming year!
