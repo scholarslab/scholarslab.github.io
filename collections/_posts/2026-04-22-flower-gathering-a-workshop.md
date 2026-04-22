@@ -2,12 +2,10 @@
 author: adnan-zarif
 date: 2026-04-22
 layout: post
-slug: zarif-blog-workshop
+slug: flower-gathering-a-workshop
 title: "Flower-Gathering: A Workshop"
 category: essay
 ---
-
-# Flower-Gathering: A Workshop
 
 At the beginning of the spring semester, each of the Praxis fellows was asked to run a pen-and-paper workshop introducing the rest of the fellows and staff to a digital method. No screens, no code, just the low-tech materials needed to think through a concept with your hands.
 
@@ -33,7 +31,7 @@ The decision to strip the fables down to title and moral started me thinking abo
 
 Titling conventions themselves proved significant. One participant (Shane, unsurprisingly) included only fables featuring dogs (and the dog-like) and titled his anthology "Canidae." It made me realize how contingent such an anthology is on the metadata available. If the titles of the fables were different, if they foregrounded the morals rather than the characters, could such an anthology even exist? The exercise revealed something I hadn't fully articulated before: that the categories we use to organize literature are not found but made, and they are made from whatever information is legible to us at the moment of sorting.
 
-![Participant wireframe of a fable page](assets/post-media/2026-04-22-wireframe-1.jpg)
+![Participant wireframe of a fable page](/assets/post-media/flower-gathering-a-workshop/2026-04-22-wireframe-1.jpg)
 
 ## Wireframing
 
@@ -45,7 +43,7 @@ To sharpen the design conversation, I borrowed a technique I'd been advised to t
 
 This, I think, is the crux of the digital anthology problem and the reason I designed this workshop. The editorial and the digital are never really separate; they shape each other. The way you organize a collection changes what kind of interface it demands, and the affordances of an interface change what kinds of organization are even possible.
 
-![Shane's inversted fable wireframe with "fixes"](assets/post-media/2026-04-22-wireframe-2.jpg)
+![Shane's inversted fable wireframe with "fixes"](/assets/post-media/flower-gathering-a-workshop/2026-04-22-wireframe-2.jpg)
 
 ## Anthologies Reimagined
 
