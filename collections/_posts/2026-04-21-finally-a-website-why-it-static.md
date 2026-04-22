@@ -4,6 +4,7 @@ date: 2026-04-21
 layout: post
 slug: finally-a-website-why-it-static
 title: "finally, a website, but why is it static?"
+category: essay
 ---
 
 I. Have. A. Website.
