@@ -4,21 +4,31 @@ title: Alumni Job Placements
 permalink: /about/alumni-job-placements/
 nav: false
 ---
-{% assign jobs = site.data.alumni-jobs.alumni_jobs %}
+{% assign jobs = site.data.alumni-jobs.jobs %}
 
 <div class="alumni-intro">
     <p>
-        The information on this page... 
+        What are Scholars' Lab alumni doing now? Our commitment to mentorship includes continuously supporting our students, as they grow and become integral members of different professional communities. The information presented on this webpage supports this mission by showcasing their current positions in 2026. It represents 95 out of the 122 alumni records we hold, and it features individuals who are employed. While we fully support the many paths our students take, we recognize the need to showcase graduate job placements as an opportunity to support the career development of other students, including our own. Grads often struggle to assess the value of their skills and subsequently fail to identify the variety of careers available to them. We hope that showing the scope of areas and placements from past students can illustrate new paths and potential networks for those who need it. 
     </p>
 </div>
 
 <!-- alumni testimonies -->
 
+<div class="jobs-description">
+    <p> The circles above show the types of jobs our students have in 2026. Click on one of them to reveal the UVA Program of all the people who work in these. Use the filter feature to search by graduate program and industry.</p>
+</div>
 <!-- job placement bubbles -->
 <div class="jobs">
+    <!-- add filter by job.grad_program -->
     {% for job in jobs %}
         <div class="job">
-            <h2>{{ job.job_title }}</h2>
+            <h2>{{ job.type }}</h2>
         </div>
     {% endfor %}
+
+    <!-- add menu / nav bar to show different job areas, lighter blue? -->
+</div>
+<!-- add data curation notice  -->
+<div class="jobs-data">
+    <p></p>
 </div>
