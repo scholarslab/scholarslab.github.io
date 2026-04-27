@@ -1,111 +1,111 @@
 jobs:
   - type: Artist
-    area: 
+    industry: 
       - Freelance
       - Higher Education
-    grad_program:
+    uva_program:
       - Art & Architectural History #2 people
       - Anthropology
       - Music, Composition #3 people
   
   - type: Communications Staff
-    area: Higher Education
-    grad_program: Music, Critical Studies in Music and Sound
+    industry: Higher Education
+    uva_program: Music, Critical Studies in Music and Sound
 
   - type: Audio Engineer
-    area: Journalism
-    grad_program: Music, Composition
+    industry: Journalism
+    uva_program: Music, Composition
     
   - type: Consultant 
-    area: 
+    industry: 
       - Consulting Firm
       - Freelance
       - Non-profit
-    grad_program: 
+    uva_program: 
       - English # 2 people
       - Sociology
   
   - type: Data Researcher
-    area: 
+    industry: 
       - Freelance
       - Higher Education
       - Non-profit
-    grad_program: 
+    uva_program: 
       - Art & Architectural History #2
       - Constructed Environment
 
   - type: Designer
-    area: 
+    industry: 
       - Freelance
       - Higher Education
-    grad_program: 
+    uva_program: 
       - Art & Architectural History
       - History
       - Music
 
   - type: Developer
-    area: 
+    industry: 
       - Freelance
       - Higher Education
       - Tech Industry
-    grad_program:
+    uva_program:
       - English
       - History
       - Music
 
   - type: Educator
-    area: 
+    industry: 
       - Freelance
       - Higher Education
       - K12 Education
-    grad_program:
+    uva_program:
       - Art & Architectural History #2
       - English #3 people
       - History
 
   - type: Event Staff
-    area: Entertainment Industry
-    grad_program:
+    industry: Entertainment Industry
+    uva_program:
       - Slavic Languages and Literatures
   - type: Full-time Parent
-    grad_program: 
+    uva_program: 
       - English
       - History
 
   - type: Lawyer
-    area: 
+    industry: 
       - Law Firm
       - Non-profit
-    grad_program: 
+    uva_program: 
       - English #2 people
 
   - type: Lecturer Faculty
-    area: Higher Education
-    grad_program:
+    industry: Higher Education
+    uva_program:
       - Art & Architectural History
       - English #5 people
       - French
       - History #4 people
 
   - type: Library Staff
-    area: 
+    industry: 
       - Higher Education
       - Non-profit
-    grad_program: 
+    uva_program: 
       - English 
       - History #4
       - Music, Critical Studies in Music and Sound
   
   - type: Life Coach
-    area: Freelance
-    grad_program: Sociology
+    industry: Freelance
+    uva_program: Sociology
 
   - type: Management Staff
-    area: 
+    industry: 
       - Higher Education
       - Journalism
       - Marketing
-    grad_program: 
+    uva_program: 
       - Anthropology
       - Art & Architectural History #2
       - English #3
@@ -113,31 +113,31 @@ jobs:
       - Music, Critical Studies in Music and Sound
 
   - type: Museum Staff
-    area: 
+    industry: 
       - Higher Education
       - Galleries and Museums
-    grad_program: 
+    uva_program: 
       - Anthropology
       - Art & Architectural History
       - Music, Critical Studies in Music and Sound 
 
   - type: Novice
-    area: Religious Service
-    grad_program: Spanish
+    industry: Religious Service
+    uva_program: Spanish
   
   - type: Policy Analyst
-    area: Non-profit
-    grad_program: 
+    industry: Non-profit
+    uva_program: 
       - History
   
   - type: Research Specialist 
-    area: 
+    industry: 
       - Finance
       - Higher Education
       - Marketing
       - Non-profit
       - Tech Industry
-    grad_program: 
+    uva_program: 
       - Art & Architectural History
       - English #2
       - Music, Critical Studies in Music and Sound
@@ -145,12 +145,12 @@ jobs:
       - Spanish
   
   - type: Technical Writer
-    area: Tech Industry
-    grad_program: Art & Architectural History
+    industry: Tech Industry
+    uva_program: Art & Architectural History
 
   - type: Tenured Faculty
-    area: Highed Education
-    grad_program: 
+    industry: Highed Education
+    uva_program: 
       - Anthropology #3
       - Art & Architectural History #2
       - English #5
@@ -162,6 +162,6 @@ jobs:
       - Spanish #2
   
   - type: writer
-    area: Freelance
-    grad_program: 
+    industry: Freelance
+    uva_program: 
       - English #2
