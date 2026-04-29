@@ -1018,7 +1018,8 @@ margin-top: 15px;
 
 .jobs {
 	display: flex;
-	align-content: center;
+	align-content: space-between;
+	justify-content: center;
 	flex-wrap: wrap;
 }
 // on hover, change main div background color to yellow + change text color to white + 
@@ -1032,8 +1033,8 @@ margin-top: 15px;
 	align-items: center;
 	text-align: center;
 	background-color: var(--blue-alt-light);
-	width: 21vh;
-	height: 21vh;
+	width: 22vh;
+	height: 22vh;
 	border-radius: 50%;
 	margin: 1rem;
 	transition: transform 500ms ease;
@@ -1046,8 +1047,27 @@ margin-top: 15px;
 
 .job:hover {
 	cursor: pointer;
-	width: 23vh;
-	height: 23vh;
-	transform: scale(1.2);
-	transition: transform 500ms ease-in;
+	background-color: #007BAC;
+}
+
+.job.is-expanded {
+	width: 22vh;
+	height: 22vh;
+	transform: scale(1.3);
+	transition: width 300ms ease, height 300ms ease;
+}
+
+.job.is-expanded h2 {
+	font-size: larger;
+}
+
+
+
+// messing around
+.is-expanded {
+	width:100vh;
+}
+.uva-program { 
+	background-color: #008000;
+	width: 50%;
 }

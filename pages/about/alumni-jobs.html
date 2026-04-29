@@ -15,16 +15,25 @@ nav: false
 <!-- alumni testimonies -->
 
 <div class="jobs-description">
-    <p> The circles above show the types of jobs our students have in 2026. Click on one of them to reveal the UVA Program of all the people who work in these. Use the filter feature to search by graduate program and industry.</p>
+    <h2> Jobs our Students Currently Have</h2>
+    <p> The blue bubbles below present the types of jobs past Scholars' Lab students were holding in Spring 2026. Click on one of them to reveal the UVA programs that enrolled the now-employed alumni.</p>
 </div>
 <!-- job placement bubbles -->
 <div class="jobs">
-    <!-- add filter by job.grad_program -->
+    <!-- add filter by job.uva_program -->
+    <!--  filter behavior: 
+        1) on click, clicked 
+           √ - bubble grows bigger
+        2) on click, yellow dialog box appears next to clicked bubble. it shows all uva_programs for alumni holding that position and the amount of students per program.
+    -->
+
     {% for job in jobs %}
         <div class="job">
             <h2>{{ job.type }}</h2>
         </div>
     {% endfor %}
+
+
 
     <!-- add menu / nav bar to show different job areas, lighter blue? -->
 </div>
