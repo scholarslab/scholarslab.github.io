@@ -111,9 +111,12 @@ A test case using California can be seen in the video below.
 </video>
 
 
+All posts in this series:
+- [Part I - Critical Making Project 2026]({% post_url 2026-02-20-critical-making-fellowship-2025-2026 %})
+- [Part II - Jump on the Gear Train]({% post_url 2026-02-27-jump-on-the-gear-train-critical-making-2025-2026-part-2 %})
+- [Part III - Gear Train Assemble]({% post_url 2026-03-19-gear-train-assemble %})
+- [Part IV - Back on the Train]({% post_url 2026-04-29-getting-back-on-track %})
+
 
 Funding provided through a generous grant from UVA Arts Council.
 ![Alt text](/assets/post-media/critical-making-projects/3d-usa-map/arts-council.jpg)
-
-
-Read [Part 2 - Jump on the Gear Train](https://scholarslab.lib.virginia.edu/blog/2026-02-27-jump-on-the-gear-train-critical-making-2025-2026-part-2/)

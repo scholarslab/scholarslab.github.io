@@ -130,9 +130,11 @@ It is also a pain to swap the servo motor. Perhaps a redesign is in order.
 
 ----
 
-Missed the first two posts?
+All posts in this series:
 - [Part I - Critical Making Project 2026]({% post_url 2026-02-20-critical-making-fellowship-2025-2026 %})
 - [Part II - Jump on the Gear Train]({% post_url 2026-02-27-jump-on-the-gear-train-critical-making-2025-2026-part-2 %})
+- [Part III - Gear Train Assemble]({% post_url 2026-03-19-gear-train-assemble %})
+- [Part IV - Back on the Train]({% post_url 2026-04-29-getting-back-on-track %})
 
 
 Funding provided through a generous grant from UVA Arts Council.
