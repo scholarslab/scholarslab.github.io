@@ -1022,10 +1022,6 @@ margin-top: 15px;
 	justify-content: center;
 	flex-wrap: wrap;
 }
-// on hover, change main div background color to yellow + change text color to white + 
-
-// we should only have 1 circle, with JS change background color + text context
-// rename classes semantically
 .job {
 	display: flex;
 	flex-direction: column;
@@ -1059,15 +1055,4 @@ margin-top: 15px;
 
 .job.is-expanded h2 {
 	font-size: larger;
-}
-
-
-
-// messing around
-.is-expanded {
-	width:100vh;
-}
-.uva-program { 
-	background-color: #008000;
-	width: 50%;
 }
