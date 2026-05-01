@@ -28,9 +28,12 @@ nav: false
     -->
 
     {% for job in jobs %}
-    <div class="expanded-bubble">
-        <div class="job">
-            <h2>{{ job.type }}</h2>
+    <div class="job">
+        <h2>{{ job.type }}</h2>
+         <div class="uva-program">
+            <ul>
+                <li>{{ job.uva_program }}</li>
+            </ul>
         </div>
     </div>
     {% endfor %}
