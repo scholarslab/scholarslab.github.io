@@ -1,4 +1,4 @@
-jobs:
+job:
   - type: Artist
     industry: 
       - Freelance

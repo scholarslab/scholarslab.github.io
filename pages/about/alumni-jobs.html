@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Alumni Job Placements
-permalink: /about/alumni-job-placements/
+permalink: /about/alumni-placements/
 nav: false
 ---
-{% assign jobs = site.data.alumni-jobs.jobs %}
+{% assign jobs = site.data.alumni-jobs.job %}
 
 <div class="alumni-intro">
     <p>
@@ -28,9 +28,11 @@ nav: false
     -->
 
     {% for job in jobs %}
+    <div class="expanded-bubble">
         <div class="job">
             <h2>{{ job.type }}</h2>
         </div>
+    </div>
     {% endfor %}
 
 
