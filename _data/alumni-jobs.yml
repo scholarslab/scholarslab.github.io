@@ -1,167 +1,203 @@
 job:
   - type: Artist
-    industry: 
+    industry:
       - Freelance
       - Higher Education
     uva_program:
-      - Art & Architectural History #2 people
-      - Anthropology
-      - Music, Composition #3 people
-  
-  - type: Communications Staff
-    industry: Higher Education
-    uva_program: Music, Critical Studies in Music and Sound
+      - name: Art & Architectural History
+        quantity: 2
+      - name: Anthropology
+      - name: Music, Composition
+        quantity: 3
 
   - type: Audio Engineer
-    industry: Journalism
-    uva_program: Music, Composition
-    
-  - type: Consultant 
-    industry: 
+    industry:
+      - Journalism
+    uva_program:
+      - name: Music, Composition
+
+  - type: Communications Staff
+    industry:
+      - Higher Education
+    uva_program:
+      - name: Music, Critical Studies in Music and Sound
+
+  - type: Consultant
+    industry:
       - Consulting Firm
       - Freelance
       - Non-profit
-    uva_program: 
-      - English # 2 people
-      - Sociology
-  
+    uva_program:
+      - name: English
+        quantity: 2
+      - name: Sociology
+
   - type: Data Researcher
-    industry: 
+    industry:
       - Freelance
       - Higher Education
       - Non-profit
-    uva_program: 
-      - Art & Architectural History #2
-      - Constructed Environment
+    uva_program:
+      - name: Art & Architectural History
+        quantity: 2
+      - name: Constructed Environment
 
   - type: Designer
-    industry: 
+    industry:
       - Freelance
       - Higher Education
-    uva_program: 
-      - Art & Architectural History
-      - History
-      - Music
+    uva_program:
+      - name: Art & Architectural History
+      - name: History
+      - name: Music
 
   - type: Developer
-    industry: 
+    industry:
       - Freelance
       - Higher Education
       - Tech Industry
     uva_program:
-      - English
-      - History
-      - Music
+      - name: English
+      - name: History
+      - name: Music
 
   - type: Educator
-    industry: 
+    industry:
       - Freelance
       - Higher Education
       - K12 Education
     uva_program:
-      - Art & Architectural History #2
-      - English #3 people
-      - History
+      - name: Art & Architectural History
+        quantity: 2
+      - name: English
+        quantity: 3
+      - name: History
 
   - type: Event Staff
-    industry: Entertainment Industry
+    industry:
+      - Entertainment Industry
     uva_program:
-      - Slavic Languages and Literatures
+      - name: Slavic Languages and Literatures
+
   - type: Full-time Parent
-    uva_program: 
-      - English
-      - History
+    uva_program:
+      - name: English
+      - name: History
 
   - type: Lawyer
-    industry: 
+    industry:
       - Law Firm
       - Non-profit
-    uva_program: 
-      - English #2 people
+    uva_program:
+      - name: English
+        quantity: 2
 
   - type: Lecturer Faculty
-    industry: Higher Education
+    industry:
+      - Higher Education
     uva_program:
-      - Art & Architectural History
-      - English #5 people
-      - French
-      - History #4 people
+      - name: Art & Architectural History
+      - name: English
+        quantity: 5
+      - name: French
+      - name: History
+        quantity: 4
 
   - type: Library Staff
-    industry: 
+    industry:
       - Higher Education
       - Non-profit
-    uva_program: 
-      - English 
-      - History #4
-      - Music, Critical Studies in Music and Sound
-  
+    uva_program:
+      - name: English
+      - name: History
+        quantity: 4
+      - name: Music, Critical Studies in Music and Sound
+
   - type: Life Coach
-    industry: Freelance
-    uva_program: Sociology
+    industry:
+      - Freelance
+    uva_program:
+      - name: Sociology
 
   - type: Management Staff
-    industry: 
+    industry:
       - Higher Education
       - Journalism
       - Marketing
-    uva_program: 
-      - Anthropology
-      - Art & Architectural History #2
-      - English #3
-      - History #3
-      - Music, Critical Studies in Music and Sound
+    uva_program:
+      - name: Anthropology
+      - name: Art & Architectural History
+        quantity: 2
+      - name: English
+        quantity: 3
+      - name: History
+        quantity: 3
+      - name: Music, Critical Studies in Music and Sound
 
   - type: Museum Staff
-    industry: 
-      - Higher Education
+    industry:
       - Galleries and Museums
-    uva_program: 
-      - Anthropology
-      - Art & Architectural History
-      - Music, Critical Studies in Music and Sound 
+      - Higher Education
+    uva_program:
+      - name: Anthropology
+      - name: Art & Architectural History
+      - name: Music, Critical Studies in Music and Sound
 
   - type: Novice
-    industry: Religious Service
-    uva_program: Spanish
-  
+    industry:
+      - Religious Service
+    uva_program:
+      - name: Spanish
+
   - type: Policy Analyst
-    industry: Non-profit
-    uva_program: 
-      - History
-  
-  - type: Research Specialist 
-    industry: 
+    industry:
+      - Non-profit
+    uva_program:
+      - name: History
+
+  - type: Research Specialist
+    industry:
       - Finance
       - Higher Education
       - Marketing
       - Non-profit
       - Tech Industry
-    uva_program: 
-      - Art & Architectural History
-      - English #2
-      - Music, Critical Studies in Music and Sound
-      - Religious Studies
-      - Spanish
-  
+    uva_program:
+      - name: Art & Architectural History
+      - name: English
+        quantity: 2
+      - name: Music, Critical Studies in Music and Sound
+      - name: Religious Studies
+      - name: Spanish
+
   - type: Technical Writer
-    industry: Tech Industry
-    uva_program: Art & Architectural History
+    industry:
+      - Tech Industry
+    uva_program:
+      - name: Art & Architectural History
 
   - type: Tenured Faculty
-    industry: Highed Education
-    uva_program: 
-      - Anthropology #3
-      - Art & Architectural History #2
-      - English #5
-      - French
-      - History #9
-      - Philosophy
-      - Sociology
-      - Slavic Languages and Literatures
-      - Spanish #2
-  
-  - type: writer
-    industry: Freelance
-    uva_program: 
-      - English #2
+    industry:
+      - Higher Education
+    uva_program:
+      - name: Anthropology
+        quantity: 3
+      - name: Art & Architectural History
+        quantity: 2
+      - name: English
+        quantity: 5
+      - name: French
+      - name: History
+        quantity: 9
+      - name: Philosophy
+      - name: Slavic Languages and Literatures
+      - name: Sociology
+      - name: Spanish
+        quantity: 2
+
+  - type: Writer
+    industry:
+      - Freelance
+    uva_program:
+      - name: English
+        quantity: 2
