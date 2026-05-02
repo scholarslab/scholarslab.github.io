@@ -20,24 +20,19 @@ nav: false
 </div>
 <!-- job placement bubbles -->
 <div class="jobs">
-    <!-- add filter by job.uva_program -->
-    <!--  filter behavior: 
-        1) on click, clicked 
-           √ - bubble grows bigger
-        2) on click, yellow dialog box appears next to clicked bubble. it shows all uva_programs for alumni holding that position and the amount of students per program.
-    -->
-
     {% for job in jobs %}
     <div class="job">
         <h2>{{ job.type }}</h2>
-         <div class="uva-program">
-            <ul>
-                <li>{{ job.uva_program }}</li>
-            </ul>
-        </div>
+         
+    </div>
+    <div class="uva-program">
+        <ul>
+            {% for program in job.uva_program %}
+            <li>{{ program.name }}: {% if program.quantity %}{{ program.quantity }}{% endif %}</li>
+            {% endfor %}
+        </ul>
     </div>
     {% endfor %}
-
 
 
     <!-- add menu / nav bar to show different job areas, lighter blue? -->
