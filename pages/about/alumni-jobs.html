@@ -28,7 +28,7 @@ nav: false
     <div class="uva-program">
         <ul>
             {% for program in job.uva_program %}
-            <li>{{ program.name }}: {% if program.quantity %}{{ program.quantity }}{% endif %}</li>
+            <li>{{ program.name }}{% if program.quantity %}: {{ program.quantity }}{% endif %}</li>
             {% endfor %}
         </ul>
     </div>
