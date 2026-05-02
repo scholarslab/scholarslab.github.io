@@ -20,8 +20,8 @@ document.addEventListener("DOMContentLoaded", () => {
 		}
 	});
 	
-	// click event for Alumni Placements 
-	 var jobBubbles = document.querySelectorAll(".job"); 
+	// click event for Alumni Placements
+	var jobBubbles = document.querySelectorAll(".job");
 
 	jobBubbles.forEach(function(clickedBubble) {
 		clickedBubble.addEventListener("click", function() {
@@ -29,9 +29,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
 			jobBubbles.forEach(function(bubble) {
 				bubble.classList.remove("is-expanded");
+				const sibling = bubble.nextElementSibling;
+				if (sibling && sibling.classList.contains("uva-program")) {
+					sibling.style.display = "none";
+				}
 			});
-			
-			if (!isExpanded) clickedBubble.classList.toggle("is-expanded");
+
+			if (!isExpanded) {
+				clickedBubble.classList.add("is-expanded");
+				const programDiv = clickedBubble.nextElementSibling;
+				if (programDiv && programDiv.classList.contains("uva-program")) {
+					programDiv.style.display = "flex";
+				}
+			}
 		});
 	});
 });
