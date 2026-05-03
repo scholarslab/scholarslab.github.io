@@ -23,6 +23,18 @@ document.addEventListener("DOMContentLoaded", () => {
 	// click event for Alumni Placements
 	var jobBubbles = document.querySelectorAll(".job");
 
+	// wrap each .job + .uva-program in a .job-pair so they stay together when row wraps
+	jobBubbles.forEach(function(bubble) {
+		const sibling = bubble.nextElementSibling;
+		if (sibling && sibling.classList.contains("uva-program")) {
+			const wrapper = document.createElement("div");
+			wrapper.classList.add("job-expanded");
+			bubble.parentNode.insertBefore(wrapper, bubble);
+			wrapper.appendChild(bubble);
+			wrapper.appendChild(sibling);
+		}
+	});
+
 	jobBubbles.forEach(function(clickedBubble) {
 		clickedBubble.addEventListener("click", function() {
 			const isExpanded = clickedBubble.classList.contains("is-expanded");

@@ -16,7 +16,7 @@ nav: false
 
 <div class="jobs-description">
     <h2> Jobs our Students Currently Have</h2>
-    <p> The blue bubbles below present the types of jobs past Scholars' Lab students were holding in Spring 2026. Click on one of them to reveal the UVA programs that enrolled the now-employed alumni.</p>
+    <p> The blue bubbles below present the types of jobs past Scholars' Lab students were holding in Spring 2026. Click on one of them to reveal the UVA programs that the then-students-now-employees attended.</p>
 </div>
 <!-- job placement bubbles -->
 <div class="jobs">
@@ -28,7 +28,7 @@ nav: false
     <div class="uva-program">
         <ul>
             {% for program in job.uva_program %}
-            <li>{{ program.name }}{% if program.quantity %}: {{ program.quantity }}{% endif %}</li>
+            <li>{{ program.name }}{% if program.quantity %} ({{ program.quantity }}){% endif %}</li>
             {% endfor %}
         </ul>
     </div>

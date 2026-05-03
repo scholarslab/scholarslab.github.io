@@ -1050,22 +1050,29 @@ margin-top: 15px;
 	width: 22vh;
 	height: 22vh;
 	transform: scale(1.3);
-	transition: width 300ms ease, height 300ms ease;
+	transition: transform 500ms ease;
 }
 
 .job.is-expanded h2 {
 	font-size: larger;
 }
 
+.job-expanded {
+	display: flex;
+	align-items: center;
+}
+
 .uva-program {
-	display: none;
-	background-color: #25CAD3;
-	margin:.5rem;
-	padding:.5rem;
+	display:none;
+	background-color: var(--mellow-yellow);
+	margin-top:1.5rem;
 }
 
 .uva-program ul {
 	list-style:none;
-	padding-left:10%;
-	padding-right:10%;
+	padding-left:5%;
+	padding-right:5%;
+	font-size: smaller;
+	width:70%;
+	align-items:center;
 }
