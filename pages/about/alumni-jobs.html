@@ -7,8 +7,9 @@ nav: false
 {% assign jobs = site.data.alumni-jobs.job %}
 
 <div class="alumni-intro">
-    <p>
-        What are Scholars' Lab alumni doing now? Our commitment to mentorship includes continuously supporting our students, as they grow and become integral members of different professional communities. The information presented on this webpage supports this mission by showcasing their current positions in 2026. It represents 95 out of the 122 alumni records we hold, and it features individuals who are employed. While we fully support the many paths our students take, we recognize the need to showcase graduate job placements as an opportunity to support the career development of other students, including our own. Grads often struggle to assess the value of their skills and subsequently fail to identify the variety of careers available to them. We hope that showing the scope of areas and placements from past students can illustrate new paths and potential networks for those who need it. 
+    <p>What are Scholars' Lab alumni doing now? Our commitment to mentorship includes continuously supporting our students, as they grow and become integral members of different professional communities. The information presented on this webpage supports this mission by showcasing their current positions in 2026. It represents 95 out of the 122 alumni records we hold since the fellowship programs started in YYYY. The information here exclusively features individuals who have become employed, that is, those who currently hold a salaried job and are part of today's workforce. </p>
+    
+    <p>Many past students are still active graduates at UVA, we have lost contact with some, a few have passed away, and others have chosen to become full-time parents. While we fully support the many paths our students take, we recognize the need to showcase graduate job placements as an opportunity to support the career development of other students, including our own. Grads often struggle to assess the value of their skills and subsequently fail to identify the variety of careers available to them. We hope that showing the scope of areas and placements from past students can illustrate new paths and potential networks for those who need it. 
     </p>
 </div>
 
@@ -16,14 +17,14 @@ nav: false
 
 <div class="jobs-description">
     <h2> Jobs our Students Currently Have</h2>
-    <p> The blue bubbles below present the types of jobs past Scholars' Lab students were holding in Spring 2026. Click on one of them to reveal the UVA programs that the then-students-now-employees attended.</p>
+    <p> The blue bubbles below presents the employment status of past Scholars' Lab students in Spring 2026. Click on one of them to reveal the UVA programs attended by the then-students-now-professionals. The number between parenthesis indicates the count of alumni per program who share job area. </p>
 </div>
+
 <!-- job placement bubbles -->
 <div class="jobs">
     {% for job in jobs %}
     <div class="job">
         <h2>{{ job.type }}</h2>
-         
     </div>
     <div class="uva-program">
         <ul>
@@ -33,10 +34,12 @@ nav: false
         </ul>
     </div>
     {% endfor %}
-
     <!-- add menu / nav bar to show different job areas, lighter blue? -->
 </div>
+
 <!-- add data curation notice  -->
 <div class="jobs-data">
-    <p>The dataset and model developed for the job bubbles avoids including personal information  </p>
+    <p>The data created for the job bubbles above aims to protect the privacy of our community members. For that reason, it excludes personal information like name, cohort year, and employment location. It also condenses individual job titles into larger areas of employment to highlight their variety without listing all the specific titles people have, since these quickly lose meaning and become confusing.</p>
+
+    <p>This is a highly simplified version of the Scholars' Lab full alumni records. People with 2 known employment sources are counted twice, though not explicitly indicated in the bubbles visualization. It is also worth noting that not all    </p>
 </div>

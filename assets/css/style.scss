@@ -1067,9 +1067,12 @@ margin-top: 15px;
 .uva-program {
 	display:none;
 	background-color:var(--mellow-yellow);
-	margin-top:1.5rem;
+	margin-top:.75rem;
+	margin-bottom: 1.5rem;
 	justify-content:center;
 	width:80%;
+	border: 1px solid var(--mellow-yellow);
+	border-radius: 10px;
 }
 
 .uva-program ul {
