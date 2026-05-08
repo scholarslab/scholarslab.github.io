@@ -6,27 +6,33 @@ nav: false
 ---
 {% assign jobs = site.data.alumni-jobs.job %}
 
-<div class="alumni-intro">
-    <p>What are Scholars' Lab alumni doing now? Our commitment to mentorship includes continuously supporting our students, as they grow and become integral members of different professional communities. The information presented on this webpage supports this mission by showcasing their current positions in 2026. It represents 95 out of the 122 alumni records we hold since the fellowship programs started in YYYY. The information here exclusively features individuals who have become employed, that is, those who currently hold a salaried job and are part of today's workforce. </p>
+<div id="jobs-intro">
+    <p>What are Scholars' Lab alumni doing now? Our commitment to mentorship includes continuously supporting our students, as they grow and become integral members of different professional communities. An important part of that support includes exposing them to the varied professional roles and paths previous fellows have taken.
+    The information on this page showcases active alumni employment data collected during spring 2026. It represents 95 out of the 122 existing student records since the Praxis and DH fellowship programs started in 2007. While this page highlights the recent employment achiements for only 95 past students, others are still active grads at UVA, we have lost contact with some, and others became full-time parents.</p> 
     
-    <p>Many past students are still active graduates at UVA, we have lost contact with some, a few have passed away, and others have chosen to become full-time parents. While we fully support the many paths our students take, we recognize the need to showcase graduate job placements as an opportunity to support the career development of other students, including our own. Grads often struggle to assess the value of their skills and subsequently fail to identify the variety of careers available to them. We hope that showing the scope of areas and placements from past students can illustrate new paths and potential networks for those who need it. 
+    <p>The Scholars' Lab is proud of our students' ability and talent to chart their own paths in unique ways and also recognizes the increasing complexities of the job market today, academic or otherwise, and the urgent need to train graduates in them. We hope that the recent career accomplishments of other UVA alumni can help current graduate students and advisors learn about the many professional options available to them and point to new potential networks for those who need it, which include but are not limited to the professoriate.
     </p>
 </div>
-
-<!-- alumni testimonies could go here -->
-
-<div class="jobs-description">
-    <h2> Jobs our Students Currently Have</h2>
-    <p> The blue bubbles below presents the employment status of past Scholars' Lab students in Spring 2026. Click on one of them to reveal the UVA programs attended by the then-students-now-professionals. The number between parenthesis indicates the count of alumni per program who share job area. </p>
+<div id="jobs-privacy">
+    <h3>Privacy Notice</h3>
+    <p>Please note that this is a highly simplified version of the full Scholars' Lab alumni records. The data created for the job bubbles above aims to protect the privacy of our community members. For that reason, it excludes personal information like name, cohort year, and specific employment location. It also avoids using individual job titles opting instead for condensing them into broader job categories, whenever possible. People with 2 known employment sources are counted twice, one per role, though not explicitly indicated in the bubbles visualization.</p>
 </div>
 
-<!-- job placement bubbles -->
+<!-- alumni specific alumni testimonies go here -->
+
+<div id="jobs-description1">
+    <h2> Job Placement Bubbles</h2>
+    <p>Each of the blue bubbles below represents a job or employment area that one, or more, of our past students holds. They are arranged in alphabetical order. On click, each job type bubble reveals the UVA PhD programs attended by the people now-employed in the selected category. The numbers that show up in parenthesis, next to some graduate program names, indicate how many students per program are employed in the same, or a similar, kind of role.</p>
+    <p>For example, clicking on the "Consultant" bubble shows "English (2)" and "Sociology." This means that two English PhDs and one from Sociology are employed in a consulting role.</p>
+</div>
+
 <div class="jobs">
     {% for job in jobs %}
     <div class="job">
         <h2>{{ job.type }}</h2>
     </div>
     <div class="uva-program">
+        <h6>UVA Program Attended</h6>
         <ul>
             {% for program in job.uva_program %}
             <li>{{ program.name }}{% if program.quantity %} ({{ program.quantity }}){% endif %}</li>
@@ -34,12 +40,11 @@ nav: false
         </ul>
     </div>
     {% endfor %}
-    <!-- add menu / nav bar to show different job areas, lighter blue? -->
-</div>
+    <div id="jobs-description2">
+        <p>The data displayed makes no distinction on whether these positions correspond to the first employment opportunity attained before or after graduation, whether it's a second, or third employment experience. It also omits the type of industries that employ them, since integrating these complex dimensions into the current visualization requires further data analysis efforts. At the time of making this data viz, the employment areas shown here connected with 16 different types of industries including K-12 and higher education, non-profit, freelance, marketing, tech, and more.</p>
+        
+        <p>Following the above example, this means that the label "Consultant" inside the bubbles does not describe whether someone works in the non-profit or tech industry sector. It also omits ranks, like Associate or Senior. On the other hand, the connection between degree and profession effectively suggests that the professional writing, research, and managerial skills that come with the experience of completing a PhD are valuable competencies in multiple profesional environments. These are the kinds of connections the bubbles hope to facilitate.</p>
 
-<!-- add data curation notice  -->
-<div class="jobs-data">
-    <p>The data created for the job bubbles above aims to protect the privacy of our community members. For that reason, it excludes personal information like name, cohort year, and employment location. It also condenses individual job titles into larger areas of employment to highlight their variety without listing all the specific titles people have, since these quickly lose meaning and become confusing.</p>
-
-    <p>This is a highly simplified version of the Scholars' Lab full alumni records. People with 2 known employment sources are counted twice, though not explicitly indicated in the bubbles visualization. It is also worth noting that not all    </p>
+        <p> Reach out to us through scholarslab@virginia.edu if you have questions about alt-ac careers in Digital Humanities and higher education. We enjoy supporting individual research as much as broadening career paths for students in the humanities.</p>
+    </div>
 </div>
