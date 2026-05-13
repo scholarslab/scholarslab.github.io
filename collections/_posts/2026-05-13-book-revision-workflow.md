@@ -5,8 +5,6 @@ layout: post
 slug: book-revision-workflow
 title: Book Revision Workflow
 category: essay
-tags:
-- Digital humanities
 crosspost:
   - title: Brandon's blog
     url: https://walshbr.com/blog/book-revision-workflow
