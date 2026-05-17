@@ -1,6 +1,6 @@
 ---
 layout: update
-date: 2026-05-04
+date: 2026-04-27
 category: update
 title: "Historical society presentation"
 author: brandon-walsh
