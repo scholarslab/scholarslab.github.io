@@ -204,8 +204,16 @@ body.post article {
 		p {
 			margin-top:0;
 		}
-
-
+	}
+	
+	pre {
+		margin-top: 5em;
+		display: flex;
+		justify-content: center;
+		background: var(--blue-alt-lightest);
+		padding: 2rem;
+		height:fit-content;
+		box-shadow: 0.5rem 0.5rem 0 var(--blue-alt);
 	}
 }
 
@@ -1014,3 +1022,4 @@ margin-top: 15px;
 .post_crosspost::before {
 	content: "\2192";
 }
+
