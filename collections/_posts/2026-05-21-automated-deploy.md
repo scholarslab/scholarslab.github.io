@@ -4,10 +4,6 @@ date: 2026-05-21
 layout: post
 slug: automated-deploy
 title: "automated deploy with build-ghpages"
-summary: "No more switching GitHub branches to commit website updates. I added GitHub Actions."
-category: essay
-tags:
-- siteUpdate
 ---
 Following the advice in Brandon Walsh's warning, "anything that gets in the middle will keep you from blogging," I simplified the steps to update and publish my website because the situation was getting a little miserable.
 
