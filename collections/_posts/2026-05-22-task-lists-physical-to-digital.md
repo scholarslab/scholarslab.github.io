@@ -2,14 +2,14 @@
 author: brandon-walsh
 date: 2026-05-22
 layout: post
-slug: task-lists---physical-to-digital
+slug: task-lists-physical-to-digital
 title: Task Lists - Physical to Digital
 category: essay
 tags:
 - Digital humanities
 crosspost:
   - title: Brandon's blog
-    url: https://walshbr.com/blog/task-lists---physical-to-digital
+    url: https://walshbr.com/blog/task-lists-physical-to-digital
 ---
 A quick one today on how I manage my task list each day and the tools I use for doing so. 
 
