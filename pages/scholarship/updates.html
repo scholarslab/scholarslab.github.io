@@ -30,7 +30,7 @@ regenerate: true
 		
 		<li>
 			<h3>{{ post.date | date: "%B %-d, %Y" }} update: <a href="{{ post.url }}">{{ post.title }}</a></h3>
-		{{ post.content | strip_html | markdownify }}
+		{{ post.content | markdownify }}
 		</li>
 	{% endif %}
 	{% endfor %}
