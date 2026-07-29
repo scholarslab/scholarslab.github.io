@@ -4,7 +4,7 @@ title: Adnan Zarif
 slug: adnan-zarif
 first_name: Adnan
 last_name: Zarif
-status: current
+status: not_current
 department: English
 people-category:
 - student

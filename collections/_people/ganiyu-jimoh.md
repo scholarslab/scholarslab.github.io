@@ -9,6 +9,7 @@ department: Art and Architectural History
 people-category:
 - student
 roles:
+- Graduate Fellow, 2026-2027
 - Praxis Fellow, 2025-2026
 ---
 

@@ -4,7 +4,7 @@ title: Eleanor Ma
 slug: eleanor-ma
 first_name: Eleanor
 last_name: Ma
-status: current
+status: not_current
 department: Sociology
 people-category:
 - student

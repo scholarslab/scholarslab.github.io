@@ -6,7 +6,7 @@ title: Holly Zhou
 position: Critical Making Fellow
 short_bio:
 slug: holly-zhou
-status: current
+status: not_current
 people-category:
 - student
 roles:

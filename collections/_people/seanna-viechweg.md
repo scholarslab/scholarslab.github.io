@@ -4,7 +4,7 @@ last_name: Viechweg
 layout: people
 name: Seanna Viechweg
 slug: seanna-viechweg
-status: current
+status: not_current
 people-category:
 - student
 roles:

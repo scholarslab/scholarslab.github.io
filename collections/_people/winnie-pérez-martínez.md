@@ -4,7 +4,7 @@ last_name: Pérez Martínez
 layout: people
 name: Winnie E. Pérez Martínez
 slug: winnie-e-pérez-martínez
-status: current
+status: not_current
 people-category:
 - student
 roles:

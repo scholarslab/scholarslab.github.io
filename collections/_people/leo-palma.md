@@ -4,7 +4,7 @@ title: Leo Palma
 slug: leo-palma
 first_name: Leo
 last_name: Palma
-status: current
+status: not_current
 department: Art and Architectural History
 people-category:
 - student
