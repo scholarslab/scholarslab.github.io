@@ -1,6 +1,6 @@
 ---
 author: brandon-walsh
-date: 2026-08-013
+date: 2026-08-20
 layout: post
 slug: applications-for-the-2027-2028-praxis-fellowship-cohort-now-open
 title: Applications For The 2027-2028 Praxis Fellowship Cohort Now Open
