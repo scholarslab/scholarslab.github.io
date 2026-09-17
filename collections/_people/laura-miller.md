@@ -5,7 +5,7 @@ last_name: Miller
 layout: people
 title: Laura Miller
 position: "Assistant Director for Scholars' Lab Public Services"
-short_bio: "Laura Miller is the Assistant Director for Scholars' Lab Public Services; she fosters our local community of DH scholars and researchers, and where she likes to think and talk and encourage everyone else to do the same about critical making in academic research."
+short_bio: "As Assistant Director for Public Services, Laura co-directs the Scholars’ Lab, oversees its public space and services, and leads its public programming."
 slug: laura-miller
 status: current
 twitter: martofmiller
