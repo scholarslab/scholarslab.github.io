@@ -1,3 +1,18 @@
+---
+author: jessica-gómez
+author: ammon-shepherd
+layout: post
+date: 2026-09-18 13:04:00
+title: "Critical Making Fellowship 2026 - Introduction"
+slug: 2026-09-18-critical-making-project
+summary: "Fist update on the 2026-2027 Critical Making Project"
+category: essay
+tags:
+- research-and-development
+- makerspace
+- critical-making
+---
+
 # Critical Making Fellowship 2026-2027 
 
 Within the United States, the racialization and criminalization of Black and Brown bodies have been and continue to be a violent process. One shape and form of this violence is police violence, more specifically, police shootings. Different articles, books, scholars, and organizational databases have gone about examining and tracking police killings, including but not limited to: Washington Post’s Fatal Force Database and Mapping Police Violence.  
