@@ -12,4 +12,4 @@ roles:
 - Critical Making Fellow, 2026-2027
 - Praxis Fellow, 2025-2026
 ---
-More details to come.
+Praxis Fellow, 2025-2026, and Critical Making Fellow, 2026-2027.

@@ -1,6 +1,7 @@
 ---
-author: jessica-gómez
-author: ammon-shepherd
+author:
+- jessica-gómez
+- ammon-shepherd
 layout: post
 date: 2026-09-18 13:04:00
 title: "Critical Making Fellowship 2026 - Introduction"
@@ -14,6 +15,8 @@ tags:
 ---
 
 # Critical Making Fellowship 2026-2027 
+
+Jessica writes:
 
 Within the United States, the racialization and criminalization of Black and Brown bodies have been and continue to be a violent process. One shape and form of this violence is police violence, more specifically, police shootings. Different articles, books, scholars, and organizational databases have gone about examining and tracking police killings, including but not limited to: Washington Post’s Fatal Force Database and Mapping Police Violence.  
 
@@ -46,7 +49,7 @@ For example, the height of the pin will represent the different age groups large
 
 Along with height and diameter, the pins will have two different color groups for sex: male and female.   
 
-##Questions We’ve Encountered 
+## Questions We’ve Encountered 
 As we began designing and isolating the data, each detail of the prototype raised new questions. With any data visualization projects there are certain audience takeaways you try to achieve.  With maps, the process raises more and more questions about geographic exactitude versus approximation. Along with that, you ask the prototype which parts of the data you can visualize at the same time versus what gets lost or is prioritized differently along the way.  
 
 Ammon starts here: 
