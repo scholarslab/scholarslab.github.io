@@ -45,7 +45,8 @@ For example, the height of the pin will represent the different age groups large
 5 victims – pin of 7 diameters 
 15 victims – pin of 10 diameters  
 
-![California with paper pins](/assets/post-media/critical-making-projects/latiné-death-mapped/california.png)
+![California with paper pins](/assets/post-media/critical-making-projects/latiné-death-mapped/california.png)
+
 
 Along with height and diameter, the pins will have two different color groups for sex: male and female.   
 
