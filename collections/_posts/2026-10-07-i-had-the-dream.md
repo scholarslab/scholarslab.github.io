@@ -1,13 +1,12 @@
 ---
-author: Catherine-Fan
-date: 2026-10-02
+author: catherine-fan
+date: 2026-10-07
 layout: post
 slug: i-had-the-dream
 title: "I Had the Dream!"
+category: essay
 ---
 
-
-**I Had the Dream!**
 
 I had a dream last weekend about running (or flying) up and down inside a brick pagoda — probably the one at Guoqing Monastery, in Tiantai. Once I woke up, I quickly jotted down some fleeting memories before they disappeared.
 
