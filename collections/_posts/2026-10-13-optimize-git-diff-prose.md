@@ -10,17 +10,17 @@ tags:
 - git
 ---
 
-I wrote my dissertation in markdown and used Git for version control and pandoc for document conversion. It was... okay. Mostly kind of annoying. One of my key frustrations with this approach was that Git's default line-based diff is not ideal for natural language text where lines can contain whole paragraphs. Single-character punctuation changes would show up in the diff in the same way as complete re-writes. It just wasn't very useful for any reasonable level of commit granularity. The Scholars' Lab site, which uses Jekyll, also uses markdown files for posts and other pages and so has the same problem.
+I wrote my dissertation in markdown and used Git for version control and pandoc for document conversion. It was... okay. Honestly, it was pretty annoying. One of my key frustrations with this approach was that Git's default line-based diff is not ideal for natural language text where lines can contain whole paragraphs. Single-character punctuation changes would show up in the diff in the same way as complete re-writes. It just wasn't very useful for any reasonable level of commit granularity. The Scholars' Lab site, which uses Jekyll, also uses markdown files for posts and other pages and so has the same problem.
 
 ![line level diff](/assets/post-media/2026-10-13-optimize-git-prose/line-level-diff.png)
 
-It turns out that Git actually has a built-in word-level mode for diff, accessible with the word-diff flag:
+It turns out that Git actually has a built-in word-level mode for its diff engine, accessible with the `--word-diff` flag:
 
 ```bash
 git diff --word-diff=color
 ```
 
-The problem here is that I do still like the line-level diffs for code and would like a way to show different kinds of diffs when there's a mix of code and natural language text. And I wanted to make this more lightweight and portable than setting up a custom diff engine, convenient for something like the Scholars' Lab site that has many contributors.
+The problem with using this and setting it as default is that I do still like the line-level diffs for code and would like a way to show different kinds of diffs when there's a mix of code and natural language text. I also wanted a more lightweight and portable approach than setting up a custom diff engine, one that I could (mostly) implement and distribute as a repository-level change, convenient for something like the Scholars' Lab site that has many contributors.
 
 Helpfully, Git implements a system to define custom behaviors by path-based patterns: [gitattributes](https://git-scm.com/docs/gitattributes). The documentation is a bit obtuse, but we can use my [recent commit adding word-level diffs](https://github.com/scholarslab/scholarslab.github.io/commit/0f489bda842f2254957eed33961c844116d5bd29) to the Scholars' Lab site as an example.
 
@@ -33,7 +33,7 @@ We can see that I've added a repository-level .gitattributes file containing:
 
 The `diff=prose` settings tells Git to use a custom diff driver to handle all files of extension `.txt` and `.md`.
 
-"Prose" is an arbitrary name for the diff driver and we need to define its behavior. I've done this on the Scholars' Lab site with a script, `scripts/git-prose-diff` that contains a call back to Git's own `diff` command:
+"Prose" here is an arbitrary name for a custom diff driver, so we need to define its behavior. I've done this on the Scholars' Lab site with a script, `scripts/git-prose-diff` that contains a call back to Git's own `diff` command:
 
 ```bash
 #!/bin/sh
@@ -69,4 +69,4 @@ This whole process can be made to work globally (i.e. for the user) across all r
 
 This means putting the content of the same .gitattributes file into `~/.config/git/attributes` and moving the `git-prose-diff` file into a location in your PATH. That is, if you put the diff script into `~/bin/git-prose-diff`, you need to make sure to run `echo 'export PATH="$HOME/bin:$PATH"' >> ~/.zshrc` (or .bashrc if you're using bash). 
 
-Then, running `git config --global diff.prose.command '!/bin/git-prose-diff'` connects the two and it should work globally.
+Then, running `git config --global diff.prose.command '!/bin/git-prose-diff'` connects the two and things should work globally.
