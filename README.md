@@ -7,14 +7,20 @@ There's a [homepage for all our SLab.org-related documentation here](https://git
 
 ## Table of Contents
 
-1. [View the site](#view-the-site)
-2. [Contribute to the site](#contribute-to-the-site)
-3. [Add an issue](#get-help-or-add-an-issue)
-4. [Working with the site locally](#working-with-the-site-locally)
-	* [Prerequisites](#prerequisites)
-	* [Installation](#installation)
-	* [Building the site](#building-the-site)
-	* [Rake tasks](#rake-tasks)
+- [Scholarslab.org](#scholarslaborg)
+	- [Table of Contents](#table-of-contents)
+	- [View the site](#view-the-site)
+	- [Contribute to the site](#contribute-to-the-site)
+	- [Get help or add an issue](#get-help-or-add-an-issue)
+	- [Working with the site locally](#working-with-the-site-locally)
+		- [Prerequisites](#prerequisites)
+		- [Installation](#installation)
+		- [Building the site](#building-the-site)
+		- [Rake tasks](#rake-tasks)
+			- [Make a new person](#make-a-new-person)
+			- [Make a new post given a title and an author name in the form of first\_name last\_name](#make-a-new-post-given-a-title-and-an-author-name-in-the-form-of-first_name-last_name)
+			- [Make a new research project given a title](#make-a-new-research-project-given-a-title)
+			- [Make a new event project given a title and the date of the event](#make-a-new-event-project-given-a-title-and-the-date-of-the-event)
 
 ## View the site
 
@@ -86,6 +92,12 @@ To install all the necessary node packages, run NPM:
 npm install
 ```
 If this results in an error message, make sure you have Node.js and npm installed. Check out this [guide](http://blog.teamtreehouse.com/install-node-js-npm-mac), or go straight to the [download page](https://nodejs.org/en/).
+
+By default, git uses line-level diff that is not very friendly for showing what's changed in long natural language text lines. This repository has a script to display word-level diffs only for .txt and .md files, but git restricts repository-level configurations for security reasons. To activate word-level diffs, add the relevant configuration by running:
+
+```bash
+git config --local diff.prose.command './scripts/git-prose-diff'
+```
 
 ### Building the site
 
