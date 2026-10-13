@@ -1,0 +1,2 @@
+*.txt diff=prose
+*.md  diff=prose

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+git --no-pager diff \
+    --no-ext-diff \
+    --no-index \
+    --word-diff=color \
+    --word-diff-regex='[[:alnum:]]+|[^[:space:]]' \
+    -- "$2" "$5"
+
+exit 0
