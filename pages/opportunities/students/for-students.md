@@ -26,7 +26,7 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 
 **Call issued:** Annually late in the fall semester.
 
-**Deadline:** Feburary 15th, 2026 for the 2026-2027 fellowship year.
+**Deadline:** Feburary 15th, 2027 for the 2027-2028 fellowship year.
 
 [More information](/digital-humanities-fellows/)
 

@@ -4,11 +4,11 @@ title: Digital Humanities Fellows Program
 permalink: /digital-humanities-fellows/
 nav: false
 ---
-**Applications are now open for the 2026-2027 Digital Humanities Fellowship. Find More Details Below.**
+**Applications are now open for the 2027-2028 Digital Humanities Fellowship. Find More Details Below.**
 
-The application deadline for fellowships to be held during the 2026-2027 academic year is **February 15th, 2026**. More details on how to apply at the end of this page. 
+The application deadline for fellowships to be held during the 2027-2028 academic year is **February 15th, 2027**. More details on how to apply at the end of this page. 
 
-If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2026-2027 cohort - **December 10, 2025 from 1:00-2:00PM.** Please [register](https://cal.lib.virginia.edu/event/15591874) to attend. You are, of course, encouraged to write for an individual meeting to discuss your application so that you can begin your application.
+If you're interested in learning more about the fellowship or have questions about anything you read below, please consider attending the information session for the 2027-2028 cohort - **December 10, 2026 from 1:00-2:00PM.** Please [register](https://cal.lib.virginia.edu/event/17955947) to attend. You are, of course, encouraged to write for an individual meeting to discuss your application so that you can begin your application.
 
 The Digital Humanities Fellowship supports advanced doctoral students doing innovative work in the digital humanities at the University of Virginia. The Scholars’ Lab offers Grad Fellows advice and assistance with the creation and analysis of digital content, as well as consultation on intellectual property issues and best practices in digital scholarship and DH software development. The highly competitive Graduate Fellowship in Digital Humanities is designed to advance the humanities and provide emerging digital scholars with an opportunity for growth.
 
@@ -45,7 +45,7 @@ A complete application package will include the following materials:
 * a short review of relevant digital projects and scholarship with which your proposed work for the year will be in dialogue (no more than two pages);
 * a brief note (a PDF or screenshot of an email is fine) from the applicant’s dissertation director attesting to the fact that applicant has discussed the project with them and they support the application;
 * a brief note (a PDF or screenshot of an email is fine) from the applicant's department chair stating that they are aware the student is applying for the fellowship and support the application (given that holding the fellowship can affect teaching rosters);
-* and your availability for a 30-minute finalist interview slot during the following times: Tuesday, March 10 from 10:00-11:30 or Wednesday, March 11 from 1:00-3:00. This availability should be communicated in the cover letter. We can work out scheduling difficulties, so please suggest alternative times if the announced slots do not work for you. 
+* and your availability for a 30-minute finalist interview slot during the following times: **TBD - check in closer to the application due date!**. This availability should be communicated in the cover letter. We can work out scheduling difficulties, so please suggest alternative times if the announced slots do not work for you. 
 
 Completed application materials can be uploaded through the [GSAS application portal](https://virginia.academicworks.com/). Please do consider this application to be part of a process - the beginning of a conversation about how we can work together.
 
