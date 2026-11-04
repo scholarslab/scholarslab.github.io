@@ -5,7 +5,7 @@ author:
 layout: post
 date: 2026-10-26 
 title: "Critical Making Fellowship 2026 - Update"
-slug: 2026-09-18-critical-making-project
+slug: 2026-10-26-critical-making-project-update
 summary: "Update on the 2026-2027 Critical Making Project"
 category: essay
 tags:
